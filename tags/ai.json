@@ -2111,6 +2111,53 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2018/aesthetic.json"
   },
   {
+    "id": 11895,
+    "name": "Overview",
+    "slug": "overview",
+    "former_names": [
+      "Overview.ai"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cd1326e4f02e779f1009ae931cfeb26eb1eb20b7.png",
+    "website": "https://overview.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Here’s a secret between you and me: even the world’s largest manufacturers, companies like Tesla and Toyota, waste billions of dollars every year making products with quality issues. Building high-quality things at scale is incredibly hard. It doesn’t just happen because you hire smart people or buy good machines. It requires seeing problems early, understanding them deeply, and acting in real time, something factories were never designed to do.\r\n\r\nAt Overview.ai, we’re changing that. We build custom hardware, edge AI, and software systems that give manufacturers real visibility into how their products are actually being made. Our technology helps catch defects earlier, reduce waste, and fundamentally improve how factories operate. This work matters, not just for our customers, but for keeping American manufacturing competitive in a world that’s moving faster every year.",
+    "one_liner": "Reshaping industrial quality with AI, hardware, and software",
+    "team_size": 40,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1538509310,
+    "tags": [
+      "Deep Learning",
+      "IoT",
+      "Computer Vision",
+      "Manufacturing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2019",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/overview",
+    "api": "https://yc-oss.github.io/api/batches/winter-2019/overview.json"
+  },
+  {
     "id": 11935,
     "name": "AllSome Fulfillment",
     "slug": "allsome-fulfillment",
@@ -19230,6 +19277,51 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/superagent.json"
   },
   {
+    "id": 29376,
+    "name": "Carma",
+    "slug": "carma",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/995749b249373d88528eca173b29dc4d2d8e77da.png",
+    "website": "https://www.joincarma.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Carma is building an AI-native platform that transforms fleet operations from tedious, manual work into effortless, automated workflows.\r\n\r\nWe’re the fastest-growing company in fleet management software. Carma already powers some of the largest fleets in the U.S., including Fortune 500 clients, saving operations teams thousands of hours by eliminating busywork and keeping vehicles on the road.\r\n\r\nBacked by Soma Capital, Y Combinator, founders of Superhuman, and Tier-1 investors, we raised our $5.5M seed and are sprinting toward a Series A in 2026.\r\n\r\nWe’re hiring the top 0.1% of engineers who want real ownership and impact—starting Day 1, you’ll build and ship fast to production for enterprise clients. Fleet operations run in real time, so your work is immediately used in the field and gets real customer feedback in hours, not months.",
+    "one_liner": "The AI Operating System For Modern Fleets.",
+    "team_size": 15,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1701065445,
+    "tags": [
+      "B2B",
+      "Workflow Automation",
+      "Compliance",
+      "AI",
+      "Automotive"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/carma",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/carma.json"
+  },
+  {
     "id": 29377,
     "name": "Toma",
     "slug": "toma",
@@ -23758,7 +23850,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -25327,51 +25419,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/metreecs",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/metreecs.json"
-  },
-  {
-    "id": 30108,
-    "name": "Edgedive",
-    "slug": "edgedive",
-    "former_names": [
-      "Bramble"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f92fa322d1cca62c4066915fee6ecf728cde156.png",
-    "website": "https://edgedive.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Edgedive is your AI support engineer - embedded where your team already works (Intercom, Linear, Slack, GitHub, etc.). It:\r\n\r\n- Auto-investigates issues end-to-end: root cause, impact assessment, plan to fix.\r\n- Opens merge-ready PRs that build cleanly and follow your team’s standards.\r\n- Can be triggered from Slack, Linear, Github, or automatically from support tickets or alerts (ex. Intercom, Sentry, etc)\r\n\r\nIt’s like having a 24/7 teammate who continuously triages issues, plans fixes, and pushes merge-ready code changes so you can start your morning with high-quality PRs, ready for review.",
-    "one_liner": "The AI Support Engineer",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1727386579,
-    "tags": [
-      "Developer Tools",
-      "B2B",
-      "DevOps",
-      "Enterprise Software",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/edgedive",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/edgedive.json"
   },
   {
     "id": 30117,
@@ -29775,8 +29822,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c3915c83dfe6a246f33ae908d5156017a0cef3f.png",
     "website": "https://withkeystone.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Keystone is an AI engineer that joins your team and understands your product from codebase to production. It can triage tickets, fix bugs, and automatically resolve incidents, autonomously.",
-    "one_liner": "Observability for modern software teams",
+    "long_description": "Keystone gives coding agents production-grade infrastructure- sandboxed environments, event triggers, and verification workflows- so they can ship code end-to-end, not just write it.",
+    "one_liner": "The autonomous engineering organization",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -30196,47 +30243,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/candytrail",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/candytrail.json"
-  },
-  {
-    "id": 30696,
-    "name": "GhostEye",
-    "slug": "ghosteye",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/81ba9326d1d371675b429c97e982da02b3d22b88.png",
-    "website": "https://ghosteye.ai",
-    "all_locations": "New York, NY, USA",
-    "long_description": "GhostEye uses autonomous AI agents to test how attackers exploit human vulnerabilities to compromise organizations. Just as red teams simulate technical attacks against infrastructure, we simulate sophisticated social engineering campaigns and beyond against people. \r\n\r\nOur multi-agent platform validates complete attack paths from initial human compromise to data exfiltration, providing security teams with actionable intelligence about their true human attack surface exposure before attackers find it.",
-    "one_liner": "Human-Layer Breach and Attack Simulation",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1753230986,
-    "tags": [
-      "B2B",
-      "Cybersecurity",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ghosteye",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/ghosteye.json"
   },
   {
     "id": 30716,
@@ -30923,49 +30929,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/fleetline",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/fleetline.json"
-  },
-  {
-    "id": 30789,
-    "name": "Interfere",
-    "slug": "interfere",
-    "former_names": [
-      "Ordinary Intelligence"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8874713141e02cb143838e685aab73861963b373.png",
-    "website": "https://interfere.com",
-    "all_locations": "New York, NY, USA",
-    "long_description": "",
-    "one_liner": "Build software that never breaks",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1752094986,
-    "tags": [
-      "Developer Tools",
-      "Design",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/interfere",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/interfere.json"
   },
   {
     "id": 30792,
@@ -33058,6 +33021,52 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/rivet-design.json"
   },
   {
+    "id": 31051,
+    "name": "Corvera",
+    "slug": "corvera",
+    "former_names": [
+      "Sarah.AI",
+      "Sarah AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ba3bd8042a63e5e4cc8707533d8561d2aa5bf74.png",
+    "website": "https://www.corvera.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Corvera is the fully autonomous command centre managing ops for fast-growing retail brands. We help brands cut wastage, improve margins, and maximise revenue, with an AI workforce that knows exactly how CPG brands work. \r\n\r\nWe're founded by Chris (2x Founder; ex-CEO at Better Nature; Forbes 30U30), Dirk (ex-Google Data, Analytics & AI Lead), and Matthew (ex-Head of Product at Rosemark; Princeton MEng in CompSci).\r\n\r\nIn our first month full-time, we’ve raised $2M and secured rapid commercial traction with 15 design partners and a growing pipeline of 30+ brands. Our mission is bold: to give CPG brands hands-free supply chains that run themselves through Corvera, their go-to AI-native operating system.",
+    "one_liner": "Fully autonomous operations for CPG brands",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1763141207,
+    "tags": [
+      "AIOps",
+      "SaaS",
+      "B2B",
+      "Supply Chain",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/corvera",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/corvera.json"
+  },
+  {
     "id": 31062,
     "name": "Hlabs",
     "slug": "hlabs",
@@ -33822,5 +33831,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/fed10",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/fed10.json"
+  },
+  {
+    "id": 31300,
+    "name": "Shofo",
+    "slug": "shofo",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdc8fbfe28cb5c8e4405b92f33ce7b6536b88c17.png",
+    "website": "https://shofo.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Shofo builds large-scale social media training datasets by collecting, labeling, and enriching public content for pre-training and fine-tuning AI models. Our indexes continuously collect and update every post across hard to access social media platforms. Companies use Shofo to avoid building their own data collection and processing systems and spending months turning unstructured social content into model-ready data. We started with TikTok and are expanding across every major social platform.",
+    "one_liner": "Scraping and labeling social media posts to curate training datasets",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1768432806,
+    "tags": [
+      "Social Media",
+      "API",
+      "Data Labeling",
+      "Big Data",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/shofo",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/shofo.json"
   }
 ]
