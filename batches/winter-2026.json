@@ -194,7 +194,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2026",
     "status": "Active",
@@ -814,7 +814,7 @@
     "slug": "protent",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4accd78dacbfd5c67ed4bbb399b521fdd61f69b9.png",
-    "website": "",
+    "website": "https://protent.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
     "one_liner": "AI intelligence for mission-critical operations",
@@ -1120,7 +1120,8 @@
     "tags": [
       "Generative AI",
       "GovTech",
-      "Real Estate"
+      "Real Estate",
+      "LegalTech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1268,6 +1269,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/octapulse",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/octapulse.json"
+  },
+  {
+    "id": 31144,
+    "name": "DroneTector",
+    "slug": "dronetector",
+    "former_names": [
+      "DroneTector Ltd"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a7e290287e83867619ff9db96fe93dcb0dcc7e36.png",
+    "website": "https://www.dronetector.com/",
+    "all_locations": "",
+    "long_description": "We make radars that can see small drones.\r\n\r\nAs drones evolve faster than air defenses, detection has fallen behind. Even $50 drones now present a major threat to airports, critical infrastructure, and front-line defense.\r\n\r\nWe solve this by building high-frequency radar systems, designed from the ground up to detect even the most challenging low-signature targets. This allows us to identify and track nano drones like no other solution, letting you know what’s truly in your airspace. ",
+    "one_liner": "Technology to detect and track hostile drones",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Drones",
+    "launched_at": 1768863894,
+    "tags": [
+      "Hard Tech",
+      "Drones"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Drones"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dronetector",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/dronetector.json"
   },
   {
     "id": 31145,
@@ -1611,6 +1653,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/opalite-health",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/opalite-health.json"
+  },
+  {
+    "id": 31164,
+    "name": "Compresr",
+    "slug": "compresr",
+    "former_names": [
+      "Cmprsr",
+      "compresr"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7768e73d87dc6915fd2a78cbdff56013e194c8de.png",
+    "website": "https://compresr.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Compresr provides an API that compresses LLM context without losing what matters. It’s a drop-in for agents and RAG that cuts token costs and improves accuracy.",
+    "one_liner": "LLM-native context compression ",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1768812885,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/compresr",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/compresr.json"
   },
   {
     "id": 31173,
@@ -2122,6 +2209,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ressl-ai",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/ressl-ai.json"
+  },
+  {
+    "id": 31204,
+    "name": "Forum",
+    "slug": "forum",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d74562fedba22811a7ce25c1922d244abfba883.png",
+    "website": "https://www.forum.market/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Forum is building the first regulated exchange to trade on cultural attention.\r\n\r\nWe create indices from search, social, and streaming data to measure what the world cares about, enabling users to go long or short on changes in relevance.\r\n\r\nAttention is the primary driver of business success in the digital age, but it has never been directly tradable. Forum introduces attention as a new asset class for managing cultural and demand risk.",
+    "one_liner": "The first regulated exchange to trade on attention.",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1768809553,
+    "tags": [
+      "Finance",
+      "Investing",
+      "Trading"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/forum",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/forum.json"
   },
   {
     "id": 31205,
@@ -2709,6 +2836,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/scout-out.json"
   },
   {
+    "id": 31244,
+    "name": "Crow",
+    "slug": "crow",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/83da57a5a7cd9d76b06d6dda92bb99843ca0edf1.png",
+    "website": "https://www.usecrow.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Crow lets users control your app through chat. Connect Crow's AI agent to your product, and users can type what they want instead of clicking through menus.\r\n\r\nCrow connects to your APIs and data sources, navigates your UI, and executes real actions. Set guardrails, define workflows, track every interaction, and deploy in under a week—no rebuilding required.",
+    "one_liner": "Let users control your app through chat",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1768862675,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Chatbot",
+      "Enterprise",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/crow",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/crow.json"
+  },
+  {
     "id": 31245,
     "name": "Squid",
     "slug": "squid",
@@ -2955,6 +3124,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ritivel",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/ritivel.json"
+  },
+  {
+    "id": 31278,
+    "name": "Zymbly",
+    "slug": "zymbly",
+    "former_names": [
+      "Zymbly AI",
+      "Zymbly",
+      "Zymbly AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/15c98b3bf7b3907fd2d08caff7a209dd0bc20fd3.png",
+    "website": "https://www.zymbly.com",
+    "all_locations": "",
+    "long_description": "",
+    "one_liner": "Automates admin for aircraft technicians",
+    "team_size": 0,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1768869245,
+    "tags": [
+      "AIOps",
+      "Workflow Automation",
+      "Transportation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zymbly",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/zymbly.json"
   },
   {
     "id": 31285,

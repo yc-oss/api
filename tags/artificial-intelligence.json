@@ -3173,7 +3173,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -11708,7 +11708,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -14030,6 +14030,54 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/invision-medical-technology",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/invision-medical-technology.json"
+  },
+  {
+    "id": 27250,
+    "name": "Axle",
+    "slug": "axle",
+    "former_names": [
+      "Axle (Axle Labs",
+      "Inc.)"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc7d56236fe67577e1d51a8f6c48ef7c48d88c9a.png",
+    "website": "https://axle.insure",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Axle is Plaid for insurance - a universal API for insurance data. With Axle, companies can instantly verify insurance and monitor ongoing coverage, helping them reduce operational cost while creating a frictionless experience for users. Axle is backed by leading investors including Y Combinator and Gradient Ventures, Google's AI-focused venture fund, and angels from industry leaders like Plaid and Cox Automotive.",
+    "one_liner": "Universal API for insurance",
+    "team_size": 10,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1658084084,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Fintech",
+      "B2B",
+      "Insurance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/axle",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/axle.json"
   },
   {
     "id": 27252,
@@ -17962,49 +18010,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/shasta-health.json"
   },
   {
-    "id": 28879,
-    "name": "Menza",
-    "slug": "menza",
-    "former_names": [
-      "Latentspace"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0f36c0f6ef0c008a938907cd0f96219f189f90d4.png",
-    "website": "https://menza.ai/",
-    "all_locations": "Remote",
-    "long_description": "At Menza, we help consumer brands see what they need to know, when they need to know it. With 24/7 data monitoring, Menza finds insights for our customers that they would have otherwise missed.\r\n\r\nData should make decisions easier, not more complicated.",
-    "one_liner": "The 24/7 Data Analyst for Consumer Brands",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1691019522,
-    "tags": [
-      "Artificial Intelligence",
-      "Data Visualization",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/menza",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/menza.json"
-  },
-  {
     "id": 28884,
     "name": "Dialtone",
     "slug": "dialtone",
@@ -18404,6 +18409,50 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/respaid",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/respaid.json"
+  },
+  {
+    "id": 28938,
+    "name": "Glade",
+    "slug": "glade",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/39e64fe4e49894144581ae2ef69befe4cb83f6b8.png",
+    "website": "https://gladestudio.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Glade is helping everyone build games with AI. GladeCore powers over 50 studios and developers with local AI NPCs that include TTS, STT, emotional tuning, and RAG. GladeKit is Cursor for Games - an AI agent that lives directly in your game engine and builds games for you. ",
+    "one_liner": "Build games at the speed of thought",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1687994809,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Consumer",
+      "Entertainment",
+      "Gaming"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/glade",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/glade.json"
   },
   {
     "id": 28959,
@@ -19202,48 +19251,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/terracotta-ai",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/terracotta-ai.json"
-  },
-  {
-    "id": 29074,
-    "name": "Fiber AI",
-    "slug": "fiber-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e7118ffc006ccecf44fec5c8d5c5268024216181.png",
-    "website": "https://fiber.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Fiber AI helps GTM and recruiting teams build surgical TAM lists that AI SDRs/AI BDRs can't create. While AI sales automation tools fail at targeted prospecting, we provide advanced filters (headcount growth tracking, fundraising data, education filters, Google Maps scraping) to build niche audiences for multi-channel outbound (i.e. things like LinkedIn ads, Google ads, Meta ads, cold email, cold calling, invites to Luma events, and other outbound). Our 16+ provider waterfalls deliver high quality emails and phone numbers, and we offer a 0% email bounce guarantee, making this a risk-free offer for customers (something that Apollo.io, Clay.com, Hunter.io, People Data Labs, LeadMagic, Prospeo, FindyMail, Wiza, Icypeas, FullEnrich, Datagma, Dropcontact, and others can't and won't ever offer).\r\n\r\nThe problem with AI sales copilots and AI sales automation is that they can't build targeted lists. Success in modern sales requires niche, surgical targeting - then executing personalized outbound across multiple channels. That's where Fiber AI excels.\r\n\r\nOur platform consists of 3 core components:\r\n\r\nFirst, building precise lists that AI SDRs can't match (replaces broad AI BDR spraying, unfocused AI sales automation, and lead generation software). We are able to filter on things like:\r\n\r\n1) Headcount Growth Tracking: Find scaling companies with monthly, quarterly, yearly employee growth metrics\r\n2) Deep Filtering: Fundraising history, Ivy League alumni search, promotion patterns, office expansions\r\n3) Intent Signals: Open jobs data, hiring patterns, technographic filters, company metadata search\r\n4) Custom Searches: Education filters (\"MIT grads excluding summer programs\"), bio keyword search, LinkedIn profile headlines\r\n5) Google Maps Intelligence: Local business scraping with radius search, rating filters, geofencing\r\nMulti-Channel Export: Build lists optimized for LinkedIn ads, Google ads, Meta ads, cold calling scripts, email sequences, or Luma event invites\r\n\r\nWe are the best TAM builder (TAM list builder) to help you find your ICP (build an ICP list). This precision targeting is why top SDRs and recruiters use us instead of generic AI SDR or AI recruiting tools (for cold outreach).\r\n\r\nSecond, email deliverability requires rigorous validation of data. Our 0% Bounce Guarantee is something that no other vendors offer, and we are able to offer this because we have invested in a rigorous infrastructure that will clean and validate emails and phone numbers. While tools like Smartlead, Instantly, Lemlist, and Reply.io help you send emails, they can't prevent bounces that destroy your domain reputation. Our edge comes from:\r\n\r\n1) Using 16+ Validator Waterfall: Unlike Clay.com (which only checks the first source in an email waterfall or phone waterfall) or basic tools like ZeroBounce, DeBounce, NeverBounce, or EmailListVerify, we run every contact through ALL validators\r\n2) True Email Bounce Detection: Our contact waterfalls includes email grabbers, email and phone databases, email validators, bounce detectors, and phone verification services\r\n3) Phone Validation Too: Similar waterfall for phone numbers - direct dial verification, mobile validation\r\n4) Industry-Specific Waterfalls: We change the vendors we use in our waterfalls depending on the industry of contacts that we are fetching, leading to more accurate contact data\r\n5) 0% bounce promise. If an email bounces, DM us for instant refund. No forms, no fuss.\r\n\r\nApollo.io (Apollo email, Apollo phones, Apollo contact), Hunter.io (Hunter), Dropcontact.com (Dropcontact), Wiza.com (Wiza), ContactOut, Lusha all cannot offer this 0% email bounce guarantee because their data quality is inconsistent and poor, and doing so would make them bleed money. We can, because our process is highly sophisticated and customers get <1% bounce rates on average (which we refund the credits for due to our 0% email bounce guarantee) \r\n\r\nThird, we use AI Agents for data extraction from unconventional data sources like:\r\n\r\n1) Conference attendee lists for targeted event follow-up\r\n2) Google Maps data for local business outreach\r\n3) Custom company research for personalized messaging\r\n4) Competitor customer identification for strategic targeting\r\n5) LinkedIn Sales Navigator scrapes that allow us to get companies from LinkedIn sales nav, followers of a company, and more (i.e. LinkedIn scraper, Sales Navigator export, LinkedIn export, LinkedIn data export)\r\n\r\nThis allows us to find precise leads that are not present in traditional contact databases, and specialize to different use cases and verticals. \r\n\r\nWe have B2B company data on 60 million B2B companies and 800 million B2B contacts (i.e. B2B database), sourced from dozens of data providers (i.e. think sources like BuiltWith, Crunchbase, LinkedIn, ZoomInfo, SemRush, Apollo data, and more). This allows you to precisely segment your audience by the companies you care about and exclude everyone else. Our audiences are dynamic (i.e., account based marketing, account based sales, ABM like Clearbit, 6sense, Demandbase), meaning we continuously look for prospects matching your targeting criteria and add them to your audience to run our automated outbound sales sequences. This automates manual workflows you might be running on platforms like Clay or Persana. You can also create an audience once based on intent signals (i.e., GTM or go-to-market signals, sales intelligence) and put your outreach on autopilot.\r\n\r\nThis is why RevOps, sales, growth, recruiting, and outbound teams choose us over AI SDR platforms (artisan ai, 11x, amplemarket, reply.io, unify gtm, penguin ai, regie ai, aisdr, artisan sdr, outreach io, and warmly ai), existing lead databases (email enrichment, bulk email finder, or phone enrichment tools like apollo, zoominfo, leadIQ), and contact enrichment tools (clay, persana ai) that promise automation and enrichment but deliver poor results. Real sales and recruiting success comes from targeted lists and multi-channel outbound, not generic AI outreach.",
-    "one_liner": "AI TAM list builder for targeted prospecting, outbound & recruiting",
-    "team_size": 8,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1689840885,
-    "tags": [
-      "Artificial Intelligence",
-      "Generative AI",
-      "SaaS",
-      "Recruiting",
-      "Sales"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/fiber-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/fiber-ai.json"
   },
   {
     "id": 29081,
@@ -21767,50 +21774,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/fuse-2",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/fuse-2.json"
-  },
-  {
-    "id": 29350,
-    "name": "Aether",
-    "slug": "aether",
-    "former_names": [
-      "Aether Energy"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2892a41266e0a3d9870f882c5e0a3ca3f6d266b6.png",
-    "website": "https://www.aethergtm.com/",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Aether is a building measurement platform for home-services contractors and insurance carriers, delivering roof, exterior, interior, and property measurement reports.\r\n\r\n\r\n",
-    "one_liner": "Aether turns imagery and video into building measurements. ",
-    "team_size": 8,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1709429693,
-    "tags": [
-      "Artificial Intelligence",
-      "CRM"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/aether",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/aether.json"
   },
   {
     "id": 29352,
@@ -28037,6 +28000,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/raycaster",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/raycaster.json"
+  },
+  {
+    "id": 30041,
+    "name": "Revyl",
+    "slug": "revyl",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1eca61dd3b32e7b0f7174161cd567ec823504e49.png",
+    "website": "https://www.revyl.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Revyl is a AI-native mobile testing platform that automatically catches and triages bugs before they reach production.",
+    "one_liner": "AI-Native Mobile Testing",
+    "team_size": 7,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1729643205,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/revyl",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/revyl.json"
   },
   {
     "id": 30055,
@@ -35478,49 +35483,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/lapis.json"
   },
   {
-    "id": 30835,
-    "name": "Brickanta",
-    "slug": "brickanta",
-    "former_names": [
-      "Brickanta AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac8a57d61fce9ed8731fd4071cfeea4356209dee.png",
-    "website": "https://www.brickanta.com",
-    "all_locations": "Stockholm, Stockholm County, Sweden",
-    "long_description": "Cursor for construction estimation & project management. Brickanta analyzes estimates and project details to help automate admin work, reduce errors and inaccuracy, and accelerate delivery with AI trained on the standardized building protocols.",
-    "one_liner": "The agentic AI platform for construction estimation & procurement",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1759093006,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Construction"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "Sweden",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/brickanta",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/brickanta.json"
-  },
-  {
     "id": 30837,
     "name": "AirCaps",
     "slug": "aircaps",
@@ -36372,49 +36334,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/logical",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/logical.json"
-  },
-  {
-    "id": 30911,
-    "name": "Articulate",
-    "slug": "articulate",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b26a35750dbae152a692ea82c2b00bb8f78d4d9b.png",
-    "website": "https://usearticulate.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We help construction teams eliminate rework, delays, and drawing confusion before construction starts. We analyze PDF plans, detect clashes and inconsistencies across disciplines, and create draft RFIs so teams can resolve issues early.\r\n\r\nWhat we do:\r\n- Automatically detect clashes, missing information, and drawing mismatches\r\n- Align architectural, structural, and MEP plans so everything matches across sheets\r\n- Generate draft RFIs from issues we find\r\n- Replace long page-turn meetings with instant drawing analysis\r\n- Reduce rework and prevent schedule delays before boots hit the ground\r\n\r\nWe integrate with: Procore, Autodesk, email, and the tools teams already use\r\n\r\nTeams use us to:\r\n- Save hundreds of thousands to millions of dollars per project\r\n- Catch design and coordination issues early\r\n- Reduce RFIs and prevent field fixes\r\n- Keep projects on schedule with fewer surprises\r\n\r\nContact us at founders@usearticulate.com",
-    "one_liner": "Automatic Construction Drawing Clash Detection ",
-    "team_size": 2,
-    "industry": "Real Estate and Construction",
-    "subindustry": "Real Estate and Construction -> Construction",
-    "launched_at": 1760131149,
-    "tags": [
-      "Artificial Intelligence",
-      "Construction",
-      "B2B",
-      "Workflow Automation",
-      "Architecture"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "Real Estate and Construction",
-      "Construction"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/articulate",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/articulate.json"
   },
   {
     "id": 30916,
@@ -38086,6 +38005,51 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/opalite-health.json"
   },
   {
+    "id": 31164,
+    "name": "Compresr",
+    "slug": "compresr",
+    "former_names": [
+      "Cmprsr",
+      "compresr"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7768e73d87dc6915fd2a78cbdff56013e194c8de.png",
+    "website": "https://compresr.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Compresr provides an API that compresses LLM context without losing what matters. It’s a drop-in for agents and RAG that cuts token costs and improves accuracy.",
+    "one_liner": "LLM-native context compression ",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1768812885,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/compresr",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/compresr.json"
+  },
+  {
     "id": 31175,
     "name": "Pax Historia",
     "slug": "pax-historia",
@@ -38506,5 +38470,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/scout-out",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/scout-out.json"
+  },
+  {
+    "id": 31244,
+    "name": "Crow",
+    "slug": "crow",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/83da57a5a7cd9d76b06d6dda92bb99843ca0edf1.png",
+    "website": "https://www.usecrow.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Crow lets users control your app through chat. Connect Crow's AI agent to your product, and users can type what they want instead of clicking through menus.\r\n\r\nCrow connects to your APIs and data sources, navigates your UI, and executes real actions. Set guardrails, define workflows, track every interaction, and deploy in under a week—no rebuilding required.",
+    "one_liner": "Let users control your app through chat",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1768862675,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Chatbot",
+      "Enterprise",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/crow",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/crow.json"
   }
 ]
