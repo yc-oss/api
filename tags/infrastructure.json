@@ -769,7 +769,7 @@
       "India",
       "South Asia"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -1357,48 +1357,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/leafpress",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/leafpress.json"
-  },
-  {
-    "id": 28779,
-    "name": "Metoro",
-    "slug": "metoro",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6fa41154d43a3a3e4861f884623a00efb64e06f5.png",
-    "website": "https://metoro.io",
-    "all_locations": "London, England, United Kingdom",
-    "long_description": "Metoro is an observability platform specifically for service architectures running in Kubernetes.\r\n\r\nWith no code changes or instrumentation you can get total observability into you clusters and the apps running inside of them. The entire installation takes < 10 minutes.\r\n\r\nOut of the box you get:\r\nTraces,\r\nMetrics (infrastructure, application and language level),\r\nLogs,\r\nContinuous profiling,\r\nRegression tracking,\r\nNetwork traffic inspection,\r\nInfrastructure monitoring,\r\nAlerting,\r\nAutomated diagnostics",
-    "one_liner": "Instant in-depth observability for services running in kubernetes",
-    "team_size": null,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1689872648,
-    "tags": [
-      "Developer Tools",
-      "Kubernetes",
-      "DevOps",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United Kingdom",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/metoro",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/metoro.json"
   },
   {
     "id": 28812,
@@ -4167,7 +4125,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2db854f12f1670a05167eb2e203b850f745f6a72.png",
     "website": "https://voltairlabs.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Voltair builds drones that ‘perch’ like birds to recharge on power lines. For this first time, this allows for drones with infinite range. Removing battery swaps is the last step to deploy UAVs autonomously at scale. After building drones for the Air Force and DARPA, Ronan realized this was both practical and technically feasible.\r\n\r\nPower utilities are the perfect first customer. Drone inspections identify maintenance concerns before they cause faults. Faults cause power outages, and spark wildfires - like the Eaton Fire in early 2025 where 19 people lost their lives and nearly 10,000 structures were destroyed. Fires bankrupt utilities and make them uninsurable. Autonomous drones can deliver over 20x the inspection coverage for the same cost.\r\n\r\nSince June, we’ve validated our core charging tech on a power line, built 5x flying prototypes, and inspected ~2000 poles.\r\n\r\nAfter power companies, we will service rail, road, telecom, real estate and other inspection markets. Insurance and grid traders also want our data product. At scale we are a new infrastructure layer for data on the physical world.",
+    "long_description": "Voltair builds drones that charge on transmission power lines. For the first time, this allows for drones with infinite range. Removing battery swaps is the last step to deploy UAVs autonomously at scale. After building drones for the Air Force and DARPA, Ronan realized this was both practical and technically feasible.\r\n\r\nPower utilities are the perfect first customer. Extreme weather creates catastrophic electrification and wildfire liability, bankrupting utilities and making them uninsurable. Voltair's drone inspections identify critical maintenance concerns before they spark fires. Autonomous drones can deliver over 20x the inspection coverage for the same cost. Following extreme weather, Voltair's forward deployed drones can rapidly patrol neighborhoods for electrical hazards.\r\n\r\nSince June, we’ve validated our core charging tech on a power line, built 5x flying prototypes, and inspected ~2000 poles.\r\n\r\nWith 50 miles of range, we can service 90% of the U.S. land area. After power companies, we will service rail, road, telecom, real estate, and other inspection markets. At scale we are a new infrastructure layer for data on the physical world.",
     "one_liner": "Self Charging Drones",
     "team_size": 5,
     "industry": "Industrials",
@@ -4199,6 +4157,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/voltair",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/voltair.json"
+  },
+  {
+    "id": 31078,
+    "name": "Tensol",
+    "slug": "tensol",
+    "former_names": [
+      "Solstis"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c512a434afc14b086c9aa27ce1cbd85e0059813d.png",
+    "website": "https://www.tensol.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Multi-agent systems orchestration",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1767743432,
+    "tags": [
+      "B2B",
+      "Enterprise Software",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tensol",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/tensol.json"
   },
   {
     "id": 31128,
@@ -4375,7 +4377,7 @@
     "website": "https://squid.energy",
     "all_locations": "",
     "long_description": "",
-    "one_liner": "AI-powered grid planning in your browser 🦑",
+    "one_liner": "AI-powered grid planning in your browser 🦑 (squid.energy)",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Energy",

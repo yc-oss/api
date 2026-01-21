@@ -181,7 +181,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2db854f12f1670a05167eb2e203b850f745f6a72.png",
     "website": "https://voltairlabs.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Voltair builds drones that ‘perch’ like birds to recharge on power lines. For this first time, this allows for drones with infinite range. Removing battery swaps is the last step to deploy UAVs autonomously at scale. After building drones for the Air Force and DARPA, Ronan realized this was both practical and technically feasible.\r\n\r\nPower utilities are the perfect first customer. Drone inspections identify maintenance concerns before they cause faults. Faults cause power outages, and spark wildfires - like the Eaton Fire in early 2025 where 19 people lost their lives and nearly 10,000 structures were destroyed. Fires bankrupt utilities and make them uninsurable. Autonomous drones can deliver over 20x the inspection coverage for the same cost.\r\n\r\nSince June, we’ve validated our core charging tech on a power line, built 5x flying prototypes, and inspected ~2000 poles.\r\n\r\nAfter power companies, we will service rail, road, telecom, real estate and other inspection markets. Insurance and grid traders also want our data product. At scale we are a new infrastructure layer for data on the physical world.",
+    "long_description": "Voltair builds drones that charge on transmission power lines. For the first time, this allows for drones with infinite range. Removing battery swaps is the last step to deploy UAVs autonomously at scale. After building drones for the Air Force and DARPA, Ronan realized this was both practical and technically feasible.\r\n\r\nPower utilities are the perfect first customer. Extreme weather creates catastrophic electrification and wildfire liability, bankrupting utilities and making them uninsurable. Voltair's drone inspections identify critical maintenance concerns before they spark fires. Autonomous drones can deliver over 20x the inspection coverage for the same cost. Following extreme weather, Voltair's forward deployed drones can rapidly patrol neighborhoods for electrical hazards.\r\n\r\nSince June, we’ve validated our core charging tech on a power line, built 5x flying prototypes, and inspected ~2000 poles.\r\n\r\nWith 50 miles of range, we can service 90% of the U.S. land area. After power companies, we will service rail, road, telecom, real estate, and other inspection markets. At scale we are a new infrastructure layer for data on the physical world.",
     "one_liner": "Self Charging Drones",
     "team_size": 5,
     "industry": "Industrials",
@@ -480,17 +480,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c512a434afc14b086c9aa27ce1cbd85e0059813d.png",
     "website": "https://www.tensol.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tensol is the AI-native operating system for hospitality. We replace legacy hotel ERPs and back-office software with one system that runs guest communications, bookings, reviews, procurement, and invoicing in a single place, where AI agents answer guest messages, send quotes and confirmations, update bookings, respond to reviews, and log everything directly in the system.\r\n\r\nWe’re starting with guest communications and review management, where AI agents handle inbound guest requests and reviews end-to-end, making front-office teams 3x more productive, resolving 80% of inquiries automatically, increasing upsells and brand reputation.",
-    "one_liner": "AI-native Hospitality Operating System",
+    "long_description": "",
+    "one_liner": "Multi-agent systems orchestration",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Operations",
+    "subindustry": "B2B -> Infrastructure",
     "launched_at": 1767743432,
     "tags": [
-      "Artificial Intelligence",
-      "SaaS",
       "B2B",
-      "Enterprise Software"
+      "Enterprise Software",
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -500,7 +500,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Operations"
+      "Infrastructure"
     ],
     "regions": [
       "United States of America",
@@ -637,6 +637,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/runanywhere",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/runanywhere.json"
+  },
+  {
+    "id": 31089,
+    "name": "Lance",
+    "slug": "lance",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/500f8974cf64740c19c12e8fa5b25e0284652488.png",
+    "website": "https://www.lance.live",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Lance is an AI voice agent for hotel operations that owns guest communication end-to-end and orchestrates complex actions across the hospitality tech stack.",
+    "one_liner": "AI Agents built for Hospitality",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1768895498,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Customer Service",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lance",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/lance.json"
   },
   {
     "id": 31091,
@@ -1280,7 +1321,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a7e290287e83867619ff9db96fe93dcb0dcc7e36.png",
     "website": "https://www.dronetector.com/",
     "all_locations": "",
-    "long_description": "We make radars that can see small drones.\r\n\r\nAs drones evolve faster than air defenses, detection has fallen behind. Even $50 drones now present a major threat to airports, critical infrastructure, and front-line defense.\r\n\r\nWe solve this by building high-frequency radar systems, designed from the ground up to detect even the most challenging low-signature targets. This allows us to identify and track nano drones like no other solution, letting you know what’s truly in your airspace. ",
+    "long_description": "We make radars that can see small drones.\r\n\r\nAs drones evolve faster than air defenses, detection has fallen behind. Even $50 drones now present a major threat to airports, critical infrastructure, and front-line defense.\r\n\r\nWe solve this by building high-frequency radar systems, designed from the ground up to detect even the most challenging low-signature targets. This allows us to identify and track nano drones like no other solution, letting you know what's truly in your airspace. ",
     "one_liner": "Technology to detect and track hostile drones",
     "team_size": 3,
     "industry": "Industrials",
@@ -1739,6 +1780,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/laurence.json"
   },
   {
+    "id": 31174,
+    "name": "Hex Security",
+    "slug": "hex-security",
+    "former_names": [
+      "Anytool"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eeec264f5e3f65c3e3967f6e59d05484a1db9f80.png",
+    "website": "https://hex.co",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Hex Security builds AI agents that run continuous penetration tests against your apps and infrastructure. Instead of a once-a-year penetration test, Hex Security's agents works 24/7 to find and verify critical vulnerabilities so you can prevent them before attackers.",
+    "one_liner": "Agentic Offensive Security at Scale",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1768943987,
+    "tags": [
+      "Reinforcement Learning",
+      "Security"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hex-security",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/hex-security.json"
+  },
+  {
     "id": 31175,
     "name": "Pax Historia",
     "slug": "pax-historia",
@@ -1919,7 +2002,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d8e226478cb43c163b19e22186c3bab3bdb9668.png",
     "website": "https://www.seeing-systems.com",
-    "all_locations": "London, England, United Kingdom",
+    "all_locations": "",
     "long_description": "We’re building modular strike and reconnaissance drone platforms and a corresponding super-easy-to-use swarm control system in collaboration with Royal Marine Commandos, US, and allied nations, to fill a capability gap.\r\n\r\nWhy? Because modern conflict has led to a shift in the procurement landscape. It’s now possible to work directly with military units to build what they need, which is exactly what we’ve been doing at Seeing Systems.\r\n\r\nThink of us as Anduril, but with worse weather, and better banter.",
     "one_liner": "AI Drone Systems for Defence",
     "team_size": 2,
@@ -1942,8 +2025,6 @@
       "Defense"
     ],
     "regions": [
-      "United Kingdom",
-      "Europe",
       "Remote",
       "Partly Remote"
     ],
@@ -2090,16 +2171,13 @@
     "website": "https://www.clice.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Clice gives everyone on your team a personal AI agent that actually executes. Every agent knows their person's context, and every agent can talk to each other.\r\n\r\nNeed an answer from someone who's offline? Your agent asks their agent. A bug gets fixed in prod? Your agent updates the ticket and responds to the thread. Need to meet before launch? Your agent coordinates with theirs and books it.\r\n\r\nSales, eng, ops. If it involves communicating or coordinating across people, Clice handles it. You focus on the work that actually matters.",
-    "one_liner": "AI assistants for employees, operating in one Slack-like workspace",
+    "one_liner": "",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
+    "subindustry": "B2B",
     "launched_at": 1767260558,
     "tags": [
-      "B2B",
-      "Productivity",
-      "Automation",
-      "AI Assistant"
+      "Reinforcement Learning"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2108,8 +2186,7 @@
     "batch": "Winter 2026",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Productivity"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -2673,18 +2750,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b91d12799d3c1083cf13c1c333bde8b754cfd8dd.png",
     "website": "https://o11.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "o11 brings bulge bracket level speed and output quality to capital markets firms of any size. Seamlessly integrated into every Microsoft 365 tool, it transforms your documents and models into a dynamic knowledge layer that drives research, modeling, and client ready deliverables with consistent precision.",
-    "one_liner": "The AI Platform for Capital Market Firms",
+    "long_description": "o11 brings extreme operational efficiency to firms of any size. Seamlessly integrated into every Microsoft 365 tool, o11 transforms your documents, decks, spreadsheets, and files into a dynamic knowledge layer that drives research, modeling, and client ready deliverables with consistent precision. We're the first company to build a full-featured AI native execution layer within the entire Microsoft 365 suite.\r\n\r\no11's services are available to financial firms, enterprise organizations, and Office 365 power users.\r\n\r\n",
+    "one_liner": "The Most Integrated M365 AI Suite",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1765258468,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "SaaS",
       "Finance",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2886,7 +2963,7 @@
     "website": "https://squid.energy",
     "all_locations": "",
     "long_description": "",
-    "one_liner": "AI-powered grid planning in your browser 🦑",
+    "one_liner": "AI-powered grid planning in your browser 🦑 (squid.energy)",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Energy",
@@ -2932,9 +3009,9 @@
     "subindustry": "B2B -> Legal",
     "launched_at": 1768118288,
     "tags": [
+      "Artificial Intelligence",
       "GovTech",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2957,6 +3034,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/fed10",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/fed10.json"
+  },
+  {
+    "id": 31255,
+    "name": "Grade",
+    "slug": "grade",
+    "former_names": [
+      "Creator Check"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3fbbdee9ae0feaf204527fcbe07f7aaa7227d70.png",
+    "website": "https://usegrade.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Payroll for performance",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Payments",
+    "launched_at": 1768947933,
+    "tags": [
+      "Fintech",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Payments"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/grade",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/grade.json"
   },
   {
     "id": 31260,
@@ -3212,6 +3331,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/grazemate",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/grazemate.json"
+  },
+  {
+    "id": 31287,
+    "name": "DAIVIN!",
+    "slug": "daivin",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/296158eb3d177c4c4d841962da8368230f473660.png",
+    "website": "https://www.daivin.tech/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "DAIVIN! builds Tankless Dive Gear that unlocks breath autonomy in extreme environments. Starting from Underwater Environment our mission is to remove the need for dangerous, heavy and bulky oxygen tanks in Space, Air and on Land and replace them with Water!",
+    "one_liner": "Tankless Dive Gear - Breath Autonomy at Sea, Land & Space",
+    "team_size": 1,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Defense",
+    "launched_at": 1768898093,
+    "tags": [
+      "Hard Tech",
+      "Hardware",
+      "Fuel Cells",
+      "Aerospace",
+      "Maritime"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/daivin",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/daivin.json"
   },
   {
     "id": 31300,

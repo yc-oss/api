@@ -3158,7 +3158,7 @@
       "Canada",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -14702,6 +14702,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/ora-ai.json"
   },
   {
+    "id": 28779,
+    "name": "Metoro",
+    "slug": "metoro",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6fa41154d43a3a3e4861f884623a00efb64e06f5.png",
+    "website": "https://metoro.io",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "Metoro is an AI SRE for teams running on Kubernetes. Run one command to get autonomous root causing and automatic fix PRs. Batteries included, telemetry is set up automatically. Go from nothing to production ready in < 5 minutes.",
+    "one_liner": "AI SRE For Teams on Kubernetes",
+    "team_size": null,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1689872648,
+    "tags": [
+      "Developer Tools",
+      "Kubernetes",
+      "DevOps",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/metoro",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/metoro.json"
+  },
+  {
     "id": 28799,
     "name": "Remy",
     "slug": "remy",
@@ -18221,7 +18263,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -18554,47 +18596,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/attunement",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/attunement.json"
-  },
-  {
-    "id": 29319,
-    "name": "Meticulate",
-    "slug": "meticulate",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c3761b435e24919662b3cb0d2c5381a1f5398ba3.png",
-    "website": "https://meticulate.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Meticulate is an AI-native sales platform. We make it easy for sales teams to send stellar outbound messaging at scale. Instead of using boilerplate campaigns, Meticulate codifies your rules and strategies (e.g. “CFOs want to hear an ROI calc upfront”) and combines them with deep research to send custom sequences to every lead. We’re serving leading GTM teams today (incl OpenAI, Noda, ThreeKit), and are backed by leading AI investors: Y Combinator, Link, Cervin Ventures.",
-    "one_liner": "Making it easy for B2B sales teams to send stellar outbound",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1709018484,
-    "tags": [
-      "Generative AI",
-      "SaaS",
-      "Sales",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/meticulate",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/meticulate.json"
   },
   {
     "id": 29322,
@@ -19109,50 +19110,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pandasai",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/pandasai.json"
-  },
-  {
-    "id": 29350,
-    "name": "Aether",
-    "slug": "aether",
-    "former_names": [
-      "Aether Energy"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2892a41266e0a3d9870f882c5e0a3ca3f6d266b6.png",
-    "website": "https://www.aethergtm.com/",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Aether is an AI-native sales platform for home services that replaces fragmented tools and autonomously executes sales workflows end-to-end.\r\n\r\nAether's current focus is on helping roofing, and exteriors (gutters, windows, painting) focused companies. \r\n\r\n\r\n",
-    "one_liner": "AI sales platform for home services",
-    "team_size": 8,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1709429693,
-    "tags": [
-      "CRM",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/aether",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/aether.json"
   },
   {
     "id": 29354,
@@ -20116,50 +20073,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/brainbase-labs",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/brainbase-labs.json"
-  },
-  {
-    "id": 29419,
-    "name": "Luminate",
-    "slug": "luminate",
-    "former_names": [
-      "PocketPod",
-      "Tredit IQ",
-      "Lumetric"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f5e85947e0f5be2f00354f246bc170bdba9b1d4.png",
-    "website": "https://useluminate.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Building is easy. Knowing what to build is hard. Luminate replaces assumptions with agent-native simulations. Get deep user insights in minutes and build the features your users actually need.",
-    "one_liner": "Build smarter by simulating your users",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1705627336,
-    "tags": [
-      "B2B",
-      "Productivity",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/luminate",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/luminate.json"
   },
   {
     "id": 29424,
@@ -22254,46 +22167,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/fazeshift.json"
   },
   {
-    "id": 29712,
-    "name": "Benchify",
-    "slug": "benchify",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aa52a1a9c842c1d4e04662a2a7d816a9091d88c6.png",
-    "website": "https://www.benchify.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Benchify provides an execution layer for healthcare contracts, applying contract logic across audits, claim processing, and optimization. Payments are calculated correctly today, while contract performance becomes measurable and improvable over time.",
-    "one_liner": "Executable healthcare contracts",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1722544425,
-    "tags": [
-      "Developer Tools",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/benchify",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/benchify.json"
-  },
-  {
     "id": 29716,
     "name": "CreativeMode",
     "slug": "creativemode",
@@ -24058,7 +23931,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -24336,7 +24209,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b03e14b8a7d809f05b6579c758dc4fbbe6ff821.png",
     "website": "https://www.dreamrp.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "AI entertainment feels like slop because companies chose technology over human creativity.\r\n\r\nCompanies like to focus on tech because it usually lets them win. But what fans love has never been about the tech.\r\n\r\nA fan doesn’t fill their apartment with posters because of the lens a movie was shot on. They do it because of the mind behind the camera.\r\n\r\nLike all technology, AI is just a tool. In the wrong hands, it makes endless sludge. In the right ones, fans will love entertainment more than ever.\r\n\r\nDreamRP builds for creatives, from indie artists to global stars, because they have always been the real reason audiences love what they love.\r\n\r\nIf this resonates, message me.\r\n\r\nEthics FAQ on website in bio\r\n\r\n",
+    "long_description": "AI entertainment feels like slop because companies bet on technology instead of people.\r\n\r\nCompanies chase tech because it usually lets them win. But what fans love has never been about the tech.\r\n\r\nA fan doesn’t fill their apartment with posters because of the lens a movie was shot on. They do it because of the mind behind the camera.\r\n\r\nAI is a power-up. In the wrong hands, more and more of what you see becomes sludge. In the right ones, the good stuff wins.\r\n\r\nDreamRP builds for creatives, from indie artists to global stars, because they’ve always been the real reason fans love what they love.\r\n\r\nIf you get it, message me why.",
     "one_liner": "Tech and platforms for human creators and the entertainment industry",
     "team_size": 2,
     "industry": "Consumer",
@@ -26116,7 +25989,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Weave uses AI to understand engineering.",
     "one_liner": "AI to understand engineering work",
-    "team_size": 5,
+    "team_size": 9,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1738683202,
@@ -27986,6 +27859,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/zeon-systems",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/zeon-systems.json"
+  },
+  {
+    "id": 30440,
+    "name": "Sim",
+    "slug": "sim",
+    "former_names": [
+      "Sim Studio"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/909c63e58586b11b356c08c427522fe9e203566f.png",
+    "website": "https://sim.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sim enables fast-growing technical teams to build and deploy AI agent workflows. \r\n\r\n70,000+ developers are already using Sim, integrating with 1000+ apps to streamline workflows with AI agents.",
+    "one_liner": "Open source platform to build AI agent workflows",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1746478234,
+    "tags": [
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sim",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/sim.json"
   },
   {
     "id": 30441,
@@ -29938,48 +29851,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/skope.json"
   },
   {
-    "id": 30659,
-    "name": "Keystone",
-    "slug": "keystone",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c3915c83dfe6a246f33ae908d5156017a0cef3f.png",
-    "website": "https://withkeystone.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Keystone gives coding agents production-grade infrastructure- sandboxed environments, event triggers, and verification workflows- so they can ship code end-to-end, not just write it.",
-    "one_liner": "The autonomous engineering organization",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1749673205,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/keystone",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/keystone.json"
-  },
-  {
     "id": 30660,
     "name": "Sagekit",
     "slug": "sagekit",
@@ -31693,46 +31564,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/playvision.json"
   },
   {
-    "id": 30875,
-    "name": "Veria Labs",
-    "slug": "veria-labs",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4a840ecd92ea1ebab3e7fa406ce9389683fe9208.png",
-    "website": "https://verialabs.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Veria Labs is developing AI agents that hack better than the best human hackers. Founded by members of the #1 US competitive hacking team, we've already manually found critical bugs in AI tools, operating systems, fintech and billion dollar crypto exchanges. \r\n\r\nNow we're scaling that expertise through AI-native security tooling that operates faster than human researchers while finding deeper, more complex vulnerabilities that traditional tools miss.",
-    "one_liner": "Continuous AI pentesting that finds and fixes vulnerabilities",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1758644249,
-    "tags": [
-      "Security",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/veria-labs",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/veria-labs.json"
-  },
-  {
     "id": 30878,
     "name": "Cranston AI",
     "slug": "cranston-ai",
@@ -32974,6 +32805,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/stratus-aviation.json"
   },
   {
+    "id": 30999,
+    "name": "Claybird",
+    "slug": "claybird",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9529719c71a2b6a4f16690eb9667a824c2ab4d65.png",
+    "website": "https://claybird.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Claybird makes studio-quality video ads in under 72 hours for brands like Coca-Cola, Walmart, Eight Sleep, Delve, and Mercor.\r\n\r\nClaybird’s AI agents use single-image NeRFs, fine-tuned image editing models, and eval layers for picture-perfect, consistent results at scale.\r\n",
+    "one_liner": "The full-stack AI ad company",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1759979466,
+    "tags": [
+      "Video",
+      "Marketing",
+      "Advertising",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/claybird",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/claybird.json"
+  },
+  {
     "id": 31001,
     "name": "Fastshot",
     "slug": "fastshot",
@@ -33314,6 +33187,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/panta",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/panta.json"
+  },
+  {
+    "id": 31078,
+    "name": "Tensol",
+    "slug": "tensol",
+    "former_names": [
+      "Solstis"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c512a434afc14b086c9aa27ce1cbd85e0059813d.png",
+    "website": "https://www.tensol.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Multi-agent systems orchestration",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1767743432,
+    "tags": [
+      "B2B",
+      "Enterprise Software",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tensol",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/tensol.json"
   },
   {
     "id": 31080,
@@ -33871,49 +33788,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/arzule.json"
   },
   {
-    "id": 31230,
-    "name": "o11",
-    "slug": "o11",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b91d12799d3c1083cf13c1c333bde8b754cfd8dd.png",
-    "website": "https://o11.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "o11 brings bulge bracket level speed and output quality to capital markets firms of any size. Seamlessly integrated into every Microsoft 365 tool, it transforms your documents and models into a dynamic knowledge layer that drives research, modeling, and client ready deliverables with consistent precision.",
-    "one_liner": "The AI Platform for Capital Market Firms",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1765258468,
-    "tags": [
-      "Fintech",
-      "SaaS",
-      "Finance",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/o11",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/o11.json"
-  },
-  {
     "id": 31241,
     "name": "Corelayer",
     "slug": "corelayer",
@@ -33957,47 +33831,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/corelayer",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/corelayer.json"
-  },
-  {
-    "id": 31247,
-    "name": "Fed10",
-    "slug": "fed10",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed78fd7caa59335d26e6924d7cd9e597c6f6f2a8.png",
-    "website": "https://www.fed10.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Fed10 is a legislative consulting firm staffed by AI agents. \r\n\r\nWe monitor every bill across the U.S., flag threats to your business, and deliver actionable insights — the same work a $500/hr policy consultant does, but in seconds instead of days.\r\n\r\nBuilt by three ex-lobbyists who passed legislation together.",
-    "one_liner": "AI agents that replace your policy consultants",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Legal",
-    "launched_at": 1768118288,
-    "tags": [
-      "GovTech",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Legal"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/fed10",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/fed10.json"
   },
   {
     "id": 31300,

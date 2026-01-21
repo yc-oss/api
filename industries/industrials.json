@@ -8006,7 +8006,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -14097,7 +14097,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2db854f12f1670a05167eb2e203b850f745f6a72.png",
     "website": "https://voltairlabs.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Voltair builds drones that ‘perch’ like birds to recharge on power lines. For this first time, this allows for drones with infinite range. Removing battery swaps is the last step to deploy UAVs autonomously at scale. After building drones for the Air Force and DARPA, Ronan realized this was both practical and technically feasible.\r\n\r\nPower utilities are the perfect first customer. Drone inspections identify maintenance concerns before they cause faults. Faults cause power outages, and spark wildfires - like the Eaton Fire in early 2025 where 19 people lost their lives and nearly 10,000 structures were destroyed. Fires bankrupt utilities and make them uninsurable. Autonomous drones can deliver over 20x the inspection coverage for the same cost.\r\n\r\nSince June, we’ve validated our core charging tech on a power line, built 5x flying prototypes, and inspected ~2000 poles.\r\n\r\nAfter power companies, we will service rail, road, telecom, real estate and other inspection markets. Insurance and grid traders also want our data product. At scale we are a new infrastructure layer for data on the physical world.",
+    "long_description": "Voltair builds drones that charge on transmission power lines. For the first time, this allows for drones with infinite range. Removing battery swaps is the last step to deploy UAVs autonomously at scale. After building drones for the Air Force and DARPA, Ronan realized this was both practical and technically feasible.\r\n\r\nPower utilities are the perfect first customer. Extreme weather creates catastrophic electrification and wildfire liability, bankrupting utilities and making them uninsurable. Voltair's drone inspections identify critical maintenance concerns before they spark fires. Autonomous drones can deliver over 20x the inspection coverage for the same cost. Following extreme weather, Voltair's forward deployed drones can rapidly patrol neighborhoods for electrical hazards.\r\n\r\nSince June, we’ve validated our core charging tech on a power line, built 5x flying prototypes, and inspected ~2000 poles.\r\n\r\nWith 50 miles of range, we can service 90% of the U.S. land area. After power companies, we will service rail, road, telecom, real estate, and other inspection markets. At scale we are a new infrastructure layer for data on the physical world.",
     "one_liner": "Self Charging Drones",
     "team_size": 5,
     "industry": "Industrials",
@@ -14304,7 +14304,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a7e290287e83867619ff9db96fe93dcb0dcc7e36.png",
     "website": "https://www.dronetector.com/",
     "all_locations": "",
-    "long_description": "We make radars that can see small drones.\r\n\r\nAs drones evolve faster than air defenses, detection has fallen behind. Even $50 drones now present a major threat to airports, critical infrastructure, and front-line defense.\r\n\r\nWe solve this by building high-frequency radar systems, designed from the ground up to detect even the most challenging low-signature targets. This allows us to identify and track nano drones like no other solution, letting you know what’s truly in your airspace. ",
+    "long_description": "We make radars that can see small drones.\r\n\r\nAs drones evolve faster than air defenses, detection has fallen behind. Even $50 drones now present a major threat to airports, critical infrastructure, and front-line defense.\r\n\r\nWe solve this by building high-frequency radar systems, designed from the ground up to detect even the most challenging low-signature targets. This allows us to identify and track nano drones like no other solution, letting you know what's truly in your airspace. ",
     "one_liner": "Technology to detect and track hostile drones",
     "team_size": 3,
     "industry": "Industrials",
@@ -14346,7 +14346,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d8e226478cb43c163b19e22186c3bab3bdb9668.png",
     "website": "https://www.seeing-systems.com",
-    "all_locations": "London, England, United Kingdom",
+    "all_locations": "",
     "long_description": "We’re building modular strike and reconnaissance drone platforms and a corresponding super-easy-to-use swarm control system in collaboration with Royal Marine Commandos, US, and allied nations, to fill a capability gap.\r\n\r\nWhy? Because modern conflict has led to a shift in the procurement landscape. It’s now possible to work directly with military units to build what they need, which is exactly what we’ve been doing at Seeing Systems.\r\n\r\nThink of us as Anduril, but with worse weather, and better banter.",
     "one_liner": "AI Drone Systems for Defence",
     "team_size": 2,
@@ -14369,8 +14369,6 @@
       "Defense"
     ],
     "regions": [
-      "United Kingdom",
-      "Europe",
       "Remote",
       "Partly Remote"
     ],
@@ -14513,7 +14511,7 @@
     "website": "https://squid.energy",
     "all_locations": "",
     "long_description": "",
-    "one_liner": "AI-powered grid planning in your browser 🦑",
+    "one_liner": "AI-powered grid planning in your browser 🦑 (squid.energy)",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Energy",
@@ -14588,5 +14586,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/grazemate",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/grazemate.json"
+  },
+  {
+    "id": 31287,
+    "name": "DAIVIN!",
+    "slug": "daivin",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/296158eb3d177c4c4d841962da8368230f473660.png",
+    "website": "https://www.daivin.tech/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "DAIVIN! builds Tankless Dive Gear that unlocks breath autonomy in extreme environments. Starting from Underwater Environment our mission is to remove the need for dangerous, heavy and bulky oxygen tanks in Space, Air and on Land and replace them with Water!",
+    "one_liner": "Tankless Dive Gear - Breath Autonomy at Sea, Land & Space",
+    "team_size": 1,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Defense",
+    "launched_at": 1768898093,
+    "tags": [
+      "Hard Tech",
+      "Hardware",
+      "Fuel Cells",
+      "Aerospace",
+      "Maritime"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/daivin",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/daivin.json"
   }
 ]

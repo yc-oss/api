@@ -9138,7 +9138,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Middesk's mission is to enable every business to access the products and services they need to grow and thrive. We believe that if we can make it easy for a business to access financial products, hire new employees, and transact with other businesses, that we increase the odds of success for that business to contribute to its community and the broader economy.\r\n\r\nOur Identity provides accurate, complete information that financial services companies need to make efficient onboarding decisions. Our Agent product makes it easy for employers to file with the state and federal agencies needed to establish their business across the country. Our customers include Affirm, Brex, Plaid, Mercury, Divvy, Rippling, Gusto, and others.\r\n\r\nBased in San Francisco, CA, Middesk is backed by Sequoia Capital, Accel Partners, and Y Combinator.",
     "one_liner": "We make it easier for B2B companies to transact with one another",
-    "team_size": 85,
+    "team_size": 130,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1541192557,
@@ -9163,7 +9163,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -28843,7 +28843,7 @@
       "India",
       "South Asia"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -41365,7 +41365,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -41521,19 +41521,19 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Meticulate is an AI-native sales platform. We make it easy for sales teams to send stellar outbound messaging at scale. Instead of using boilerplate campaigns, Meticulate codifies your rules and strategies (e.g. “CFOs want to hear an ROI calc upfront”) and combines them with deep research to send custom sequences to every lead. We’re serving leading GTM teams today (incl OpenAI, Noda, ThreeKit), and are backed by leading AI investors: Y Combinator, Link, Cervin Ventures.",
     "one_liner": "Making it easy for B2B sales teams to send stellar outbound",
-    "team_size": 3,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1709018484,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "SaaS",
-      "Sales",
-      "AI"
+      "Sales"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -44264,7 +44264,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -47741,15 +47741,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Keystone gives coding agents production-grade infrastructure- sandboxed environments, event triggers, and verification workflows- so they can ship code end-to-end, not just write it.",
     "one_liner": "The autonomous engineering organization",
-    "team_size": 1,
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1749673205,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49330,50 +49330,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/corvera.json"
   },
   {
-    "id": 31078,
-    "name": "Tensol",
-    "slug": "tensol",
-    "former_names": [
-      "Solstis"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c512a434afc14b086c9aa27ce1cbd85e0059813d.png",
-    "website": "https://www.tensol.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tensol is the AI-native operating system for hospitality. We replace legacy hotel ERPs and back-office software with one system that runs guest communications, bookings, reviews, procurement, and invoicing in a single place, where AI agents answer guest messages, send quotes and confirmations, update bookings, respond to reviews, and log everything directly in the system.\r\n\r\nWe’re starting with guest communications and review management, where AI agents handle inbound guest requests and reviews end-to-end, making front-office teams 3x more productive, resolving 80% of inquiries automatically, increasing upsells and brand reputation.",
-    "one_liner": "AI-native Hospitality Operating System",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1767743432,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tensol",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/tensol.json"
-  },
-  {
     "id": 31080,
     "name": "Didit",
     "slug": "didit",
@@ -49455,6 +49411,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/kita",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/kita.json"
+  },
+  {
+    "id": 31089,
+    "name": "Lance",
+    "slug": "lance",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/500f8974cf64740c19c12e8fa5b25e0284652488.png",
+    "website": "https://www.lance.live",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Lance is an AI voice agent for hotel operations that owns guest communication end-to-end and orchestrates complex actions across the hospitality tech stack.",
+    "one_liner": "AI Agents built for Hospitality",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1768895498,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Customer Service",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lance",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/lance.json"
   },
   {
     "id": 31094,
@@ -49801,18 +49798,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b91d12799d3c1083cf13c1c333bde8b754cfd8dd.png",
     "website": "https://o11.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "o11 brings bulge bracket level speed and output quality to capital markets firms of any size. Seamlessly integrated into every Microsoft 365 tool, it transforms your documents and models into a dynamic knowledge layer that drives research, modeling, and client ready deliverables with consistent precision.",
-    "one_liner": "The AI Platform for Capital Market Firms",
+    "long_description": "o11 brings extreme operational efficiency to firms of any size. Seamlessly integrated into every Microsoft 365 tool, o11 transforms your documents, decks, spreadsheets, and files into a dynamic knowledge layer that drives research, modeling, and client ready deliverables with consistent precision. We're the first company to build a full-featured AI native execution layer within the entire Microsoft 365 suite.\r\n\r\no11's services are available to financial firms, enterprise organizations, and Office 365 power users.\r\n\r\n",
+    "one_liner": "The Most Integrated M365 AI Suite",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1765258468,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "SaaS",
       "Finance",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49886,7 +49883,7 @@
     "website": "https://squid.energy",
     "all_locations": "",
     "long_description": "",
-    "one_liner": "AI-powered grid planning in your browser 🦑",
+    "one_liner": "AI-powered grid planning in your browser 🦑 (squid.energy)",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Energy",
