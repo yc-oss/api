@@ -945,18 +945,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f659e1a5051b790e28f097f1c858880dc797b7f.png",
     "website": "https://www.corgea.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Corgea helps engineers ship code and not vulnerabilities. It's an AI-powered SAST, unlike traditional SAST with tons of false positives, Corgea can find vulnerabilities like business logic flaws, API vulnerabilities, and broken authentication with little false positives (<5%). It also writes security fixes for engineers to approve.",
-    "one_liner": "Corgea finds, and fixes insecure code. ",
-    "team_size": 4,
+    "long_description": "Corgea is an autonomous application security platform that finds and validates vulnerabilities, then generates safe code fixes developers can apply in their existing workflow. In production customers like Zapier and Yageo, see ~20% more true positives and ~90% fewer false positives (vs their prior tooling), reducing triage and speeding remediation without adding headcount.\r\n",
+    "one_liner": "Corgea finds, and fixes insecure code and packages autonomously. ",
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1686005960,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "Security",
-      "Cybersecurity"
+      "Cybersecurity",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1726,5 +1726,47 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/complydo",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/complydo.json"
+  },
+  {
+    "id": 31174,
+    "name": "Hex Security",
+    "slug": "hex-security",
+    "former_names": [
+      "Anytool"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eeec264f5e3f65c3e3967f6e59d05484a1db9f80.png",
+    "website": "https://hex.co",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Hex Security builds AI agents that run continuous penetration tests against your apps and infrastructure. Instead of a once-a-year penetration test, Hex Security's agents works 24/7 to find and verify critical vulnerabilities so you can prevent them before attackers.",
+    "one_liner": "Agentic Offensive Security at Scale",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1768943987,
+    "tags": [
+      "Reinforcement Learning",
+      "Cybersecurity"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hex-security",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/hex-security.json"
   }
 ]

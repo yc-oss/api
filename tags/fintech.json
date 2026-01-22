@@ -6142,7 +6142,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -7761,7 +7761,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -19415,17 +19415,19 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/71c4ea7756f719ab0406967511bffcd788ad50be.png",
     "website": "https://haddock.app",
-    "all_locations": "Barcelona, CT, Spain; CT, Spain",
-    "long_description": "haddock is a fintech SaaS that helps restaurants improve their margins thanks to real-time cost control. We use Artificial Intelligence and Optical Character Recognition to digitize documents, export all data, and bring it to the restaurant in real-time.\r\nIt is as simple as taking a picture of an invoice and uploading it. We also integrate with several different POS, making it even easier. We help discover restaurants’ P&L, margins, price variations, and many more business insights. Thanks to haddock restaurants can control price variations and make better business decisions based on real-time updated data.",
-    "one_liner": "SaaS helping restaurants improve their margins through cost control.",
-    "team_size": 20,
+    "all_locations": "Barcelona, CT, Spain",
+    "long_description": "haddock is a restaurant operations platform that combines a category-leading System of Record with AI-powered Systems of Action. It centralizes all operational and financial data into a single source of truth, and uses AI agents to autonomously execute workflows such as reconciliation, invoice validation, and incident resolution. By reducing manual work and dependence on scarce talent, haddock helps restaurants improve margins, accuracy, and operational control at scale.",
+    "one_liner": "AI agents to run restaurant operations",
+    "team_size": 40,
     "industry": "B2B",
-    "subindustry": "B2B -> Office Management",
+    "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1647423625,
     "tags": [
       "Fintech",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI",
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -19435,7 +19437,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Office Management"
+      "Finance and Accounting"
     ],
     "regions": [
       "Spain",
@@ -29227,6 +29229,52 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/harper.json"
   },
   {
+    "id": 30292,
+    "name": "Mesh",
+    "slug": "mesh-2",
+    "former_names": [
+      "Cart",
+      "Mesh",
+      "mesh"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/23ccdc4419907ee05321c76c632bbd5270cb8764.png",
+    "website": "http://www.usemesh.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Mesh helps finance teams close with confidence when vendor spend is variable and invoices don’t reflect true spend for that period.\r\n\r\nWe use AI to understand and consolidate vendor and stakeholder context — across emails, internal messages, and historical invoices — into a clear view of incurred, prepaid, and incoming vendor costs. This gives teams early, reliable visibility into true spend, so budgets, runway, and close are driven by actual business activity rather than invoice timing or manual guesswork.\r\n\r\nMesh is built for finance teams managing large, complex vendor bases where spend is unpredictable and timing mismatches create risk at month-end.",
+    "one_liner": "Know where your money is going, regardless of when invoices arrive",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1736927502,
+    "tags": [
+      "Artificial Intelligence",
+      "FinOps",
+      "Fintech",
+      "Finance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mesh-2",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/mesh-2.json"
+  },
+  {
     "id": 30334,
     "name": "Bluebook",
     "slug": "bluebook",
@@ -30023,8 +30071,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/949208e95883f37f6c02c5daa9417bb2876ac66f.png",
     "website": "https://alt-x.co",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Private markets are still opaque, manual, and locked inside Excel. Every year, trillions of dollars in venture, real-estate, and private-equity capital are deployed through diligence processes that haven’t changed in decades. Analysts spend hours parsing PDFs and spreadsheets just to understand what a company or property is worth.\r\n\r\nAlt-X is building the data and AI infrastructure layer for alternative assets — a system that ingests unstructured deal materials, normalizes the data, and generates institutional-grade analysis in seconds. Whether it’s a private-company dataroom or a real-estate offering memorandum, Alt-X extracts key KPIs like ARR, growth, NOI, IRR, and cap rate, then produces investor-ready dashboards and reports automatically.\r\n\r\nOur platform reduces deal evaluation timelines by up to 73%, saves 30–50 analyst hours per deal, and enables teams to screen 4× more opportunities with the same headcount. By automating KPI extraction, benchmarking, and underwriting, Alt-X transforms diligence from a manual bottleneck into a scalable process.\r\n\r\nThis hasn’t been done at scale because private-market data is fragmented across formats and asset classes. Alt-X’s parsing engine unifies this chaos into a structured schema — the backbone for cross-asset underwriting, KPI dashboards, and automated risk scoring.\r\n\r\nOur first wedge is real estate and private equity, where underwriting is slowest and most manual. We’re already piloting with family offices and private funds managing over $200 million in assets, paying $1K–$5K per month to automate deal screening and valuation.\r\n\r\nThe opportunity is massive: over $1.4 trillion in new private-equity and real-estate deals are underwritten globally each year, with $25–30 billion spent on diligence and analytics. Yet over 90% of this still happens manually. Alt-X’s mission is to become the operating system for private-market investing — the Bloomberg Terminal of the AI era.",
-    "one_liner": "AI Diligence Tools for Private Investors",
+    "long_description": "Private-market investing still runs on Excel. Every year, trillions of dollars in venture, real estate, and private-equity capital are underwritten through manual spreadsheet work — copying data from PDFs, CIMs, and data rooms into brittle models that haven’t fundamentally changed in decades.\r\n\r\nAlt-X is building the AI infrastructure layer inside Excel for alternative assets. We ingest unstructured deal materials and automatically turn them into clean, auditable Excel models. Analysts can go from raw documents to a working underwriting model in minutes instead of rebuilding spreadsheets cell by cell.\r\n\r\nAlt-X extracts and maps key KPIs like ARR, growth, NOI, IRR, leverage, and cap rate directly into Excel, then generates institutional-grade models, sensitivities, and IC-ready outputs that remain fully editable and transparent.\r\n\r\nTeams using Alt-X reduce deal evaluation timelines by up to 70%, save 30–50 analyst hours per deal, and screen 4× more opportunities with the same headcount. By automating extraction, modeling, and error detection inside Excel, Alt-X turns underwriting from a manual bottleneck into a scalable workflow.\r\n\r\nOur first wedge is real estate and private equity, where Excel underwriting is slowest and most painful. We’re already piloting with family offices and private funds managing over $200M in assets. Alt-X is priced as a SaaS product starting at $30/month, with higher tiers for teams and advanced workflows.\r\n\r\nThe opportunity is massive: over $1.4T in private-market deals are underwritten globally each year, with $25–30B spent on diligence and analytics — nearly all of it manual and Excel-based. Alt-X’s mission is to become the operating system for private-market investing inside Excel — the Bloomberg Terminal of the AI era.",
+    "one_liner": "Automation for institutional-grade financial modeling in Excel",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech",
@@ -30313,18 +30361,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b91d12799d3c1083cf13c1c333bde8b754cfd8dd.png",
     "website": "https://o11.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "o11 brings extreme operational efficiency to firms of any size. Seamlessly integrated into every Microsoft 365 tool, o11 transforms your documents, decks, spreadsheets, and files into a dynamic knowledge layer that drives research, modeling, and client ready deliverables with consistent precision. We're the first company to build a full-featured AI native execution layer within the entire Microsoft 365 suite.\r\n\r\no11's services are available to financial firms, enterprise organizations, and Office 365 power users.\r\n\r\n",
+    "long_description": "o11 brings extreme operational efficiency to teams of any size. Seamlessly integrated into every Microsoft 365 tool, o11 transforms your documents, decks, spreadsheets, and files into a dynamic knowledge layer that drives research, modeling, and client ready deliverables with consistent precision. We're the first company to build a full-featured AI native execution layer within the entire Microsoft 365 suite.\r\n\r\no11's services are available to financial firms, enterprise organizations, and Office 365 power users.\r\n\r\n",
     "one_liner": "The Most Integrated M365 AI Suite",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1765258468,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "SaaS",
       "Finance",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -30347,6 +30395,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/o11",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/o11.json"
+  },
+  {
+    "id": 31236,
+    "name": "Balance",
+    "slug": "getbalance",
+    "former_names": [
+      "Balance",
+      "Balance AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae2096fe98e5cb289362ddf9936e4dfe3407ee0f.png",
+    "website": "https://getbalance.ai",
+    "all_locations": "",
+    "long_description": "Balance is an AI accountancy helping SMBs close their monthly books. Our agent work as an in-house finance hire, chasing unpaid invoices, preparing monthly reports, and flagging issues before they worsen.\r\nWe currently have 20 customers in Europe and growing +20% MoM",
+    "one_liner": "Full-Stack AI Accounting",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1768976472,
+    "tags": [
+      "Fintech",
+      "Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/getbalance",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/getbalance.json"
   },
   {
     "id": 31255,

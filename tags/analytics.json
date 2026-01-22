@@ -1718,13 +1718,16 @@
     "id": 1041,
     "name": "Pave",
     "slug": "pave",
-    "former_names": [],
-    "small_logo_thumb_url": "/company/thumb/missing.png",
+    "former_names": [
+      "Pave",
+      "PaveAI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3716a09550a1b2c2c7a45343cc359f6817528cf.png",
     "website": "https://www.paveai.com/",
-    "all_locations": "Kitchener, ON, Canada",
-    "long_description": "We turn your Google Analytics data in actionable insights + reports with our data science AI algorithm.\n\nWe're a Y Combinator-backed company, and our users include Four Seasons Private Residences and Scribd.",
+    "all_locations": "Toronto, ON, Canada; Remote",
+    "long_description": "We turn your Google Analytics data in actionable insights + reports with our data science AI algorithm.\r\n\r\nWe're a Y Combinator-backed company, and our users include Four Seasons Private Residences and Scribd.",
     "one_liner": "Pave analyzes Google Analytics + marketing data and sends you reports…",
-    "team_size": 2,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1447568415,
@@ -1743,7 +1746,9 @@
     ],
     "regions": [
       "Canada",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -6633,6 +6638,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/decipher-ai",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/decipher-ai.json"
+  },
+  {
+    "id": 29336,
+    "name": "Scout",
+    "slug": "cpgscout",
+    "former_names": [
+      "Intercept"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e1fb4c3c8bc8b16eb297caddcd91dddb7ba0a96.png",
+    "website": "https://cpgscout.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Scout is an AI insights tool for consumer products companies to increase topline revenue. It ingests data from retailer portals and syndicated sources (such as SPINS, NielsenIQ), and tell sales teams exactly where they can grow. Brands use Scout to figure out which accounts to expand, which SKUs to prioritize, and which promotions drove incremental sales.",
+    "one_liner": "AI insights for consumer products",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Retail",
+    "launched_at": 1709256802,
+    "tags": [
+      "Analytics",
+      "Sales Enablement",
+      "Food & Beverage"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Retail"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cpgscout",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/cpgscout.json"
   },
   {
     "id": 29345,
