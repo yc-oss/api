@@ -3769,7 +3769,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -6561,7 +6561,7 @@
     "all_locations": "Los Angeles, CA, USA",
     "long_description": "Paragon enables companies to build products that integrate with the SaaS ecosystem. With Paragon, software companies can integrate with hundreds of different SaaS apps in minutes while providing their customers with a seamless, unified integration experience",
     "one_liner": "The embedded integration platform for SaaS apps.",
-    "team_size": 22,
+    "team_size": 48,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1589046124,
@@ -21960,7 +21960,7 @@
     "all_locations": "London, England, United Kingdom",
     "long_description": "Code review is a major bottleneck for software teams, and the rise of AI-generated code is making the problem worse. Reviewing large volumes of code slows devs down, and increases the chances of bugs slipping through.\r\n\r\nThat's why we're building cubic: an intelligent code review platform that helps devs merge PRs 28% faster.\r\n\r\nHow? \r\n- When you open a PR, cubic automatically reviews it. It learns from your codebase's patterns, points out bugs, suggesting fixes, and frees you from low-level review tasks.\r\n- You then jump into the cubic platform, which is designed to optimize how humans review code. For example, file changes are organized in a logical order instead of alphabetical, and cubic generates diagrams of architecture changes.",
     "one_liner": "AI-powered code review platform",
-    "team_size": 5,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1743248262,
@@ -23305,10 +23305,10 @@
     "name": "Embedder",
     "slug": "embedder",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/905c1f65eb8cd1b63a473b261cabbce9ac1c5d75.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d68609856b561b0ebfce1f766d19021620459fa0.png",
     "website": "https://www.embedder.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Embedder is a coding agent that can write, test, and debug firmware on both physical and simulated hardware. Supporting 20+ MCU/SoC platforms, it accelerates embedded systems development across semiconductors, automotive, medical devices, aerospace, IoT, and consumer electronics.",
+    "long_description": "Embedder is a coding agent that can write, test, and debug firmware.",
     "one_liner": "Cursor for Firmware",
     "team_size": 4,
     "industry": "B2B",
@@ -24041,6 +24041,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/atlasgrid",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/atlasgrid.json"
+  },
+  {
+    "id": 30883,
+    "name": "hillclimb",
+    "slug": "hillclimb",
+    "former_names": [
+      "Plun",
+      "Hillclimb"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/660320374818f816f5cf14de03fe92dcab2740eb.png",
+    "website": "https://hillclimb.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We derive training data from the world's brightest minds, enabling LLMs to achieve state-of-the-art model performance.",
+    "one_liner": "The world's first human superintelligence community",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1759385382,
+    "tags": [
+      "Reinforcement Learning"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hillclimb",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/hillclimb.json"
   },
   {
     "id": 30885,
@@ -24850,6 +24892,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/corelayer",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/corelayer.json"
+  },
+  {
+    "id": 31292,
+    "name": "Aurorin CAD",
+    "slug": "aurorin-cad",
+    "former_names": [
+      "Rapid CAD",
+      "Aurorin"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f33a496f7311dedfd5027e589663789820e95b21.png",
+    "website": "https://aurorincad.com",
+    "all_locations": "",
+    "long_description": "There are 2 problems:\r\n\r\nThe first, CAD software is slow and the second, designing with it is a tedious process with many steps. Aurorin solves both of these problems by being a CAD software built from the ground up on a modern tech stack with AI at its heart.\r\n\r\nBuilding the CAD kernel lets us fully leverage AI while modernizing execution speed. Almost all existing CAD software (Solidworks, NX, Creo, Catia, Fusion 360, Onshape etc) use the same couple of underlying CAD kernels built in the 80's and 90's. It's common for these programs to take 4 hours to open a file.\r\n\r\nAurorin uses a custom parametric and B-Rep driven CAD Kernel built to take full advantage of modern CPUs and GPUs and be AI native.",
+    "one_liner": "We help hardware companies ship faster",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1769109612,
+    "tags": [
+      "Hard Tech",
+      "Hardware",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/aurorin-cad",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/aurorin-cad.json"
   },
   {
     "id": 31306,

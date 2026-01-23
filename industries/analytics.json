@@ -3816,7 +3816,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
-    "status": "Inactive",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Analytics"
@@ -5391,6 +5391,7 @@
     "subindustry": "B2B -> Analytics",
     "launched_at": 1767919574,
     "tags": [
+      "Artificial Intelligence",
       "Marketing",
       "Advertising",
       "Trading"
@@ -5501,5 +5502,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/constellation-space",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/constellation-space.json"
+  },
+  {
+    "id": 31252,
+    "name": "Moda",
+    "slug": "moda",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c76a18751e4b95b7b3cf621f7752449405d71aa5.png",
+    "website": "https://modaflows.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Moda is an analytics platform for AI products that helps teams understand what users are actually trying to do inside LLM-powered conversations. We turn raw chats and agent traces into clustered intents, friction points, and trends so teams can make better product decisions without reading logs.",
+    "one_liner": "Product analytics for AI-powered products.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1769121297,
+    "tags": [
+      "SaaS",
+      "Analytics",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/moda",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/moda.json"
   }
 ]
