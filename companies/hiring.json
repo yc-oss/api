@@ -1349,6 +1349,46 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2014/cambly.json"
   },
   {
+    "id": 585,
+    "name": "Noora Health",
+    "slug": "noora-health",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b4cd850f3939d61304f38ffc3355cec0cadbdab2.png",
+    "website": "http://noorahealth.org",
+    "all_locations": "Bengaluru, KA, India",
+    "long_description": "Noora Health trains patient families with high-impact health skills that improve outcomes and save lives. Our model provides basic yet vital care knowledge through trusted providers by creating a scalable program for caregiving education and training within\r\nthe established healthcare system. This model expands the care umbrella\r\nto include those closest to the patient — their family and community. Noora Health has trained over 30 million caregivers and patients across over 12,400 healthcare facilities in India, Bangladesh, Indonesia, and Nepal. The program reduces cardiac surgery complications by 71%, newborn readmissions by 56%, and neonatal mortality by 18%. By 2028, Noora Health will expand to reach over 70 million caregivers and\r\npatients. ",
+    "one_liner": "Training patients and their families with health skills",
+    "team_size": 500,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1384978665,
+    "tags": [
+      "Consumer Health Services"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": true,
+    "batch": "Winter 2014",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "India",
+      "South Asia",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/noora-health",
+    "api": "https://yc-oss.github.io/api/batches/winter-2014/noora-health.json"
+  },
+  {
     "id": 595,
     "name": "Flexport",
     "slug": "flexport",
@@ -1605,6 +1645,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/picnichealth",
     "api": "https://yc-oss.github.io/api/batches/summer-2014/picnichealth.json"
+  },
+  {
+    "id": 705,
+    "name": "ShipBob",
+    "slug": "shipbob",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a7fe6af4f0d7680132345ae356f0c1abe1939e2a.png",
+    "website": "http://shipbob.com",
+    "all_locations": "Chicago, IL, USA",
+    "long_description": "ShipBob is a leading global fulfillment and supply chain platform designed for SMB and Mid-Market ecommerce brands. ShipBob provides brands a single view of their business and customers across sales channels to manage products, inventory, orders, and shipments, leveraging real-time analytics and reporting, dedicated support, and access to hundreds of technology and retail partners. ShipBob enables brands to improve the operations in their own facilities with ShipBob WMS (ShipBob's proprietary warehouse management system), and/or outsource fulfillment to have their orders picked, packed, and shipped from any of ShipBob’s 50+ fulfillment centers across the United States, Canada, Europe, and Australia. Founded in 2014, ShipBob launched through Y Combinator by co-founders Dhruv Saxena and Divey Gulati, two ecommerce entrepreneurs who saw a need for more efficient SMB supply chain services. Learn more by visiting shipbob.com. ",
+    "one_liner": "Providing Amazon level logistics to e-commerce businesses. ",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1398907999,
+    "tags": [
+      "Logistics",
+      "E-commerce"
+    ],
+    "tags_highlighted": [],
+    "top_company": true,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2014",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/shipbob",
+    "api": "https://yc-oss.github.io/api/batches/summer-2014/shipbob.json"
   },
   {
     "id": 711,
@@ -1936,7 +2018,7 @@
     "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2015",
-    "status": "Active",
+    "status": "Public",
     "industries": [
       "Real Estate and Construction",
       "Construction"
@@ -1947,7 +2029,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -4448,14 +4530,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2260e03bd4399d064cec34d198696091b8ab96b.png",
     "website": "http://miso.kr",
     "all_locations": "Seoul, South Korea",
-    "long_description": "Miso makes booking services as easy as buying products online. We offer over 70 different services ranging from cleaning to moving to interior remodeling, repair and installation. We have fulfilled more than 4 million bookings and operate at over a $140 million GMV run rate. ",
+    "long_description": "Miso makes booking services as easy as buying products online. We offer over 1,000 different services ranging from cleaning to moving to interior remodeling, lessons and more. We have fulfilled more than $1.5 billion in transactions serving over 1.5 million households.",
     "one_liner": "We make booking services as easy as buying products online.",
-    "team_size": 60,
+    "team_size": 100,
     "industry": "Consumer",
     "subindustry": "Consumer -> Home and Personal",
     "launched_at": 1461732014,
     "tags": [
-      "Marketplace"
+      "Artificial Intelligence",
+      "Marketplace",
+      "Home Services",
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4471,9 +4556,9 @@
       "South Korea",
       "East Asia"
     ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": true,
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/miso",
@@ -5841,7 +5926,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -6063,7 +6148,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": false,
@@ -11394,52 +11479,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2019/pair-team.json"
   },
   {
-    "id": 12597,
-    "name": "Lucid Bots",
-    "slug": "lucid-bots",
-    "former_names": [
-      "Lucid Drone Technologies",
-      "Lucid Drone Tech"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ef3c01732ca1adf6e17c2105c507271f7b86744.png",
-    "website": "https://lucidbots.com/",
-    "all_locations": "Charlotte, NC, USA",
-    "long_description": "At Lucid, we are a B2B robotics provider for dull, dirty, and dangerous jobs, starting with the cleaning industry, which has a 200% annual turnover rate. \r\n\r\nOur primary product is a drone that can clean anything from windows to roofs to stadium domes to industrial tanks. Our drones can clean up to 8x faster. Due to customer demand, we also launched a ground-based pressure-washing robot to complement our cleaning drone.\r\n\r\nWe support customers around the country who use our robots every day to clean properties with great safety and efficiency. We engineer, manufacture, and support our technology from a 20,000 sqft headquarters in Charlotte, NC.",
-    "one_liner": "We build robots for dull, dirty, and dangerous jobs.",
-    "team_size": 26,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1556215532,
-    "tags": [
-      "Robotics",
-      "Drones",
-      "Manufacturing",
-      "Aerospace",
-      "Self-Driving Vehicles"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2019",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lucid-bots",
-    "api": "https://yc-oss.github.io/api/batches/summer-2019/lucid-bots.json"
-  },
-  {
     "id": 12608,
     "name": "TRM Labs",
     "slug": "trm-labs",
@@ -13022,7 +13061,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -19504,7 +19543,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -30668,50 +30707,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/cerrion.json"
   },
   {
-    "id": 26720,
-    "name": "TrueBiz",
-    "slug": "truebiz",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/744ba21703836aacf20f93a8ea2eaf05fdb4ad3f.png",
-    "website": "https://truebiz.io/",
-    "all_locations": "New York, NY, USA; Remote",
-    "long_description": "TrueBiz helps financial service providers reduce manual review during business onboarding.\r\n\r\nWe add color to the company's background with 250+ data points on the company from around the web (such as industry and address), and summarize key risk indicators.\r\n\r\nThe process takes seconds – not days, so financial service providers can efficiently meet risk requirements and onboard new businesses faster.",
-    "one_liner": "Instant Background Checks for Businesses",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1653081454,
-    "tags": [
-      "Fintech",
-      "B2B",
-      "Identity",
-      "Regtech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/truebiz",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/truebiz.json"
-  },
-  {
     "id": 26734,
     "name": "Serinus Biosciences",
     "slug": "serinus-biosciences",
@@ -33931,7 +33926,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/102836faf8c777a7201bce15ad9d99bab17c4a16.png",
     "website": "https://www.magicpatterns.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Magic Patterns is an AI design tool used by product teams to iterate on product ideas, get user feedback, and deploy to a website.\r\n\r\nStartups in the current batch and large enterprises use us to create designs quickly and ship faster.",
+    "long_description": "Magic Patterns is an AI design tool used by 1,500+ product teams at companies like Vapi, Doordash, and Freedom Mortgage to iterate on product ideas, get user feedback, and deploy to a website.",
     "one_liner": "Go from idea to production with AI.",
     "team_size": 5,
     "industry": "B2B",
@@ -46760,18 +46755,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae2e103cef868d10d11f8eda1c9371448e8a4640.png",
     "website": "https://www.getcodeshealth.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Codes automates patient record collection. Today, documents are scattered across EHRs, providers, and faxes; we use AI to compile & analyze docs for those who need them. ",
+    "long_description": "Codes automates medical record retrieval. Today, documents are scattered across EHRs, providers, and faxes; we use AI to compile & analyze docs law firms, providers, and more. ",
     "one_liner": "Perfect medical histories. ",
     "team_size": 7,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1721954121,
     "tags": [
-      "Artificial Intelligence",
       "Health Tech",
       "B2B",
       "Healthcare",
-      "LegalTech"
+      "LegalTech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48722,7 +48717,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -51699,51 +51694,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/futureclinic",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/futureclinic.json"
-  },
-  {
-    "id": 30111,
-    "name": "x1",
-    "slug": "x1",
-    "former_names": [
-      "FoundryAI",
-      "Foundry"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c86ce92c78b4bd9698a823b31a8ee51eff7418e7.png",
-    "website": "https://www.x1.new",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "x1 helps anyone build a real, native iOS app — step by step.\r\n\r\nYou describe what you want to build, and x1 generates a clear plan that takes you from idea to App Store. Each step ships a real feature and explains how the pieces fit together.\r\n\r\nInstead of asking AI to one-shot an entire app, x1 guides it through the build — the first tool that teaches you and builds with you.",
-    "one_liner": "The Blueprint for Shipping iOS Apps",
-    "team_size": 1,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1731963387,
-    "tags": [
-      "AI-Enhanced Learning",
-      "Developer Tools",
-      "Generative AI",
-      "No-code",
-      "Automation"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/x1",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/x1.json"
   },
   {
     "id": 30114,
@@ -55377,46 +55327,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/cua.json"
   },
   {
-    "id": 30422,
-    "name": "Galen AI",
-    "slug": "galen-ai",
-    "former_names": [
-      "Stitch",
-      "galueshealth.com",
-      "Galeus Health"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9b24d3137bf7c62299e8f3d9d810e612a82db0b1.png",
-    "website": "https://www.galenai.com/",
-    "all_locations": "",
-    "long_description": "Galen is an AI-powered personal healthcare companion. We enable patients to securely connect their medical records from over 800 healthcare institutions across more than 12,000 locations in the United States, United Kingdom, and Canada. We also connect with over 20 popular wearable devices including Apple Watch, Fitbit, and Dexcom, bringing all your medical records and health data into one unified space. \r\n\r\nWe founded Galen because for over four years, Viraj struggled to navigate several conditions related to chronic low back pain. He often found himself waiting weeks for responses from his care team, received little guidance or education about new diagnoses, and was overwhelmed trying to manage overlapping conditions and medications.\r\n\r\nHis experiences are not unique. Our healthcare system is overloaded and fragmented, and often, patients are left to navigate their care on their own. Everyday there are nearly 1 billion health-related Google searches, but the responses to such queries are generic and impersonalized, because the searches lack any insight into a users personal health background.\r\n\r\nBy leveraging your own data and state-of-the art LLM memory capabilities, Galen delivers personalized insights, proactive health recommendations, and 24/7 on-demand medical support — empowering patients to be an active part of their health team. We are a consumer app in beta testing and will be available on the App Store soon!",
-    "one_liner": "Personal AI healthcare agent, powered by clinical and wearable data.",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Consumer Health and Wellness",
-    "launched_at": 1747120968,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Consumer Health and Wellness"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/galen-ai",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/galen-ai.json"
-  },
-  {
     "id": 30425,
     "name": "Auctor",
     "slug": "auctor",
@@ -56423,19 +56333,20 @@
     "former_names": [
       "Relixir.ai"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ec73b9870fef718a901443b70cb227f5d443c4ce.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5cba02ac15ac9267a0f2f43edeca70bbd326e30c.png",
     "website": "https://relixir.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Relixir is the Growth Engine for AI Search. We turn ChatGPT mentions into direct revenue. \r\n\r\nOver 1B people now use AI search every week to buy products. \r\n\r\nRelixir creates GEO content that gets cited in AI responses, ensuring your company never misses a search query from prospects. Then tracks exactly which prospects convert to your site.\r\n\r\nCustomers include 100+ fastest growing companies like Rippling, Airwallex, Retell AI, HackerRank, etc. ",
-    "one_liner": "Growth Engine for AI Search",
+    "long_description": "Relixir is the GEO-native CMS. Deploy agents to generate, update, and host content that gets cited by LLMs. Backed by Y Combinator.\r\n\r\nCustomers include 200+ fastest growing B2B companies like Rippling, Airwallex, Retell AI, HackerRank, and more.",
+    "one_liner": "GEO-Native CMS",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1747424808,
     "tags": [
-      "Sales",
+      "Artificial Intelligence",
+      "Marketing",
       "SEO",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -56798,13 +56709,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/60879a0f6dde6019410f20e9e28b08cdec162645.png",
     "website": "https://www.text.ai/",
     "all_locations": "",
-    "long_description": "We're building the first AI agent that thinks like a group.\r\n\r\nWhile everyone else is stuck with boring individual chatbots, we've cracked the impossible: AI that reads the room, understands each person, and creates custom intelligence for every group chat.\r\n\r\ntext.ai doesn't just answer questions - it lives in your conversations, silently learns what makes each friend tick, and becomes the perfect agentic AI for YOUR specific crew.\r\n\r\nJump in right now: Works instantly in SMS, WhatsApp, and Telegram. Zero downloads. Zero setup. Just pure ambient group genius.\r\n\r\n🍕 \"Find pizza spots we'll ALL actually like\" (remembers Sarah's gluten-free, Jake's spice tolerance, everyone's budget)\r\n🎉 \"Plan something epic for Saturday\" (knows the group's energy, who's free, what you actually enjoy)\r\n🔥 \"Roast my terrible movie suggestion\" (adapts to your group's humor style and inside jokes)\r\n\r\nEvery group chat gets its own brain. Every friend gets understood. Every plan actually works.\r\n\r\nThe future isn't prompt → response.\r\nIt's presence → understanding → creation.\r\n\r\nTry it now. Your friends will thank you.",
-    "one_liner": "AI in your group chats",
+    "long_description": "We're building the first group chat with social skills.\r\n\r\nWhile everyone else is stuck with boring individual chatbots, we've cracked the impossible: Alfi reads the room, understands each person, and creates custom intelligence for every group chat.\r\n\r\nAlfi is your new social friend. The one who remembers everything, plans effortlessly, and keeps the crew together.\r\n\r\nHere's what that looks like:\r\n\r\n- Book restaurants together, with Yelp built in, directly in the chat. No more \"where should we go?\" spirals. Reserve instantly.\r\n- Create images with your friends: drop your crew into funny hats, wild scenes, anything you can dream up. Multiplayer image gen, first of its kind.\r\n- Social calendar: upcoming hangs, all in one place. Everyone on the same page.\r\n- Group Wrapped: who's the chattiest? Top inside jokes? Now you'll know.\r\n- Reminders & Memory: Alfi remembers your spots, your preferences, and nudges you to actually hang out.\r\n\r\nWe're in the middle of a quiet shift. Gen Z is leaving broadcast social media. They're retreating to group chats, smaller, more intentional and personal spaces where they're honestly themselves.\r\n\r\nBut group chats are also where plans go to die. Someone has to be \"the planner\" or nothing happens.\r\n\r\nWe believe the group chat is the real social network. Where the funniest moments and real conversations happen in real time. With Alfi, we hope to bring you together more expressively, a lot more often.\r\n\r\nThis technology will bring humanity closer than it's ever been before. Not replace connection, deepen it. That's the future we're building toward.\r\n",
+    "one_liner": "Alfi - your group chat with social skills",
     "team_size": 4,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1744649821,
-    "tags": [],
+    "tags": [
+      "Consumer",
+      "Social",
+      "Social Network",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -58181,6 +58097,47 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/channel3.json"
   },
   {
+    "id": 30696,
+    "name": "GhostEye",
+    "slug": "ghosteye",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/81ba9326d1d371675b429c97e982da02b3d22b88.png",
+    "website": "https://ghosteye.ai",
+    "all_locations": "New York, NY, USA",
+    "long_description": "GhostEye simulates AI-powered attacks like deepfakes, vishing, and personalized phishing so your team's seen them before real ones hit.",
+    "one_liner": "Phishing training for the AI era",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1753230986,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Cybersecurity"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ghosteye",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/ghosteye.json"
+  },
+  {
     "id": 30698,
     "name": "Comena",
     "slug": "comena",
@@ -58306,7 +58263,7 @@
     "all_locations": "",
     "long_description": "The domain specific AI for claims that gives leading insurers clarity and speed on the most complex claims",
     "one_liner": "Automates insurance claims and stops incorrect payouts",
-    "team_size": 10,
+    "team_size": 6,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1754360048,
@@ -60150,42 +60107,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/everest",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/everest.json"
-  },
-  {
-    "id": 30948,
-    "name": "Lua Global Inc",
-    "slug": "lua-global-inc",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/40655594dbcd381c6c79a9439597f94109447459.png",
-    "website": "https://heylua.ai/",
-    "all_locations": "",
-    "long_description": "Lua is the mid-market agent platform.\r\n\r\nWe deliver enterprise reliability with the speed, flexibility, and economics that mid-market companies demand - helping them deploy AI agents that drive sales, support, and operations across everyday channels and tools.\r\n\r\nWe scale through developer agencies and channel partners, enabling rapid distribution without a large enterprise sales motion or scaled forward deployed teams. We think of Lua as an agentOS that abstracts all of the complexity required to launch enterprise grade agents and combine it with the tools needed for these agents to succeed in the real world.\r\n\r\nLua was founded by Lorcan O Cathain (CEO) and Stefan Kruger (CTO)- experienced founders who have spent 15 - 20 years each scaling technology companies across emerging markets.\r\n\r\nWe sell to mid-market enterprises and developer agencies in the US and internationally. Developers are increasingly our primary ICP but we run SMB & enterprise sales motions to accelerate our learnings and further develop our product:\r\n- SMB ($25- 1k per month): fully automated self-serve agents that handle sales and support for eCommerce companies, hotels, restaurants and general service businesses. If you’ve been on our website you’ve likely seen this.\r\n- Enterprise: We directly sell to mid-market (~ $50M- $1BN) businesses across the US and internationally to eat our own dog food and strengthen our platform.\r\n",
-    "one_liner": "The mid-market agent platform",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1758009464,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lua-global-inc",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/lua-global-inc.json"
   },
   {
     "id": 30959,
