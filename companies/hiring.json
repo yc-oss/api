@@ -2029,7 +2029,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -4556,7 +4556,7 @@
       "South Korea",
       "East Asia"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": true,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -13061,7 +13061,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -20184,18 +20184,18 @@
       "MoGen",
       "Lamar Health (formerly MoGen)"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b775a33621316db8f5dae38fce47b11533ce8f5.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/89663cc8116a65911be0aabe4e038200b22d79f3.png",
     "website": "http://www.lamarhealth.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "$1 T is spent today on back office tasks such as patient triaging, intake, eligibility checks, prior auths and claims. Specialized knowledge is required to complete these tasks making them prone to errors and bottlenecked by staffing. \r\n\r\nLamar Health takes the burden off of providers and intelligently automates these tasks. Starting with specialty medications. ",
-    "one_liner": "Scaling Intelligence for Healthcare Automations",
-    "team_size": 6,
+    "all_locations": "San Mateo, CA, USA",
+    "long_description": "We deal with drugs that cost on average $70,000/patient per year. These patients need their medications within days but currently it takes weeks because of complex, manual workflows that were built around poor data standards. \r\n\r\nAt Lamar Health, our mission is to get patients on therapy fast. Our customers are specialty pharmacies, infusion clinics and hospitals that are moving quickly to use AI to offset operational risks and gain competitive advantage. ",
+    "one_liner": "Take Care of Shitty Paperwork for Expensive Drugs",
+    "team_size": 15,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1648262582,
     "tags": [
-      "Artificial Intelligence",
-      "Health Tech"
+      "Health Tech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21144,43 +21144,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2021/tackle.json"
   },
   {
-    "id": 23776,
-    "name": "Palla",
-    "slug": "palla",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f1d92ba064533486991db02e1726ce77eae0eba.png",
-    "website": "https://www.palla.com",
-    "all_locations": "Remote",
-    "long_description": "Palla enables instant P2P payments from the US to other countries, a $65BN a year market. Sending and receiving remittances today is slow, time consuming and inconvenient for all parties, as it's a mostly cash based process. With Palla, senders in the US can do it in a few taps of their phone and receivers get their money in seconds. ",
-    "one_liner": "P2P Cross border payments",
-    "team_size": 22,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Payments",
-    "launched_at": 1626880377,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2021",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Payments"
-    ],
-    "regions": [
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/palla",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/palla.json"
-  },
-  {
     "id": 23780,
     "name": "PaletteHQ",
     "slug": "palettehq",
@@ -21899,17 +21862,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/af09359ecc24430a6054310be3115645fc95f1d8.png",
     "website": "http://www.kalamlabs.in",
     "all_locations": "India",
-    "long_description": "Fun STEM aerial kits for children.\r\n\r\nWe at Kalam Labs have built our own microcontrollers, which can power aerial machines which children can fly and learn from.",
-    "one_liner": "STEMS Kits for Kids",
+    "long_description": "Kalam Labs has developed world's highest flying UAVs - deployable from high-altitude balloons they replace satellites to provide high-res EO/IR and hyperspectral reconnaissance.",
+    "one_liner": "Near Space Flying Machines",
     "team_size": 10,
     "industry": "Industrials",
     "subindustry": "Industrials -> Drones",
     "launched_at": 1625919461,
     "tags": [
-      "Artificial Intelligence",
-      "Education",
       "Drones",
-      "Aerospace"
+      "Aerospace",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -33734,51 +33696,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/miracle.json"
   },
   {
-    "id": 27673,
-    "name": "Reflex",
-    "slug": "reflex",
-    "former_names": [
-      "Pynecone"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/677513c7f80f22199de3136c5024581799a126f2.png",
-    "website": "https://reflex.dev",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Reflex is an AI app builder for creating production-grade web apps entirely in Python, powered by its own open-source framework.\r\n\r\nPython is one of the most popular programming languages in the world, and web development is one of the most popular applications of programming. So why can’t we make full-stack web apps using just Python? \r\n\r\nWith Reflex, you just connect your data and enter a prompt. It generates production-ready apps that integrate any data source, API, or Python package. \r\n\r\nFounded by Nikhil Rao and  Alek Petuskey, Reflex has over 1 million apps created, 27k GitHub stars, and has been used by 30% of Fortune 500 companies for internal tools and data-driven applications.",
-    "one_liner": "Reflex is an AI app builder for creating production-grade web apps…",
-    "team_size": 9,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1674447011,
-    "tags": [
-      "Developer Tools",
-      "Open Source",
-      "Web Development",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/reflex",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/reflex.json"
-  },
-  {
     "id": 27674,
     "name": "OneText",
     "slug": "onetext",
@@ -33967,15 +33884,15 @@
     "all_locations": "New York, NY, USA; Remote",
     "long_description": "At Rollstack, we are revolutionizing the way businesses share and communicate data and insights. Organizations worldwide rely on slide decks and documents to make informed decisions, whether for leadership, clients, or partners. Yet, preparing these materials often consumes countless hours. Rollstack fully automates that.\r\n\r\nWe help some of the world's leading organizations—from mid-sized to public companies like SoFi, Zillow and Whirlpool—in automating their slide decks and documents. Headquartered in New York, we offer a remote-friendly workplace and are backed by Insight Partners and Y Combinator, the most successful startup incubator in the world that produced the likes of Airbnb, Twitch, Instacart, Dropbox, Reddit, Doordash, Stripe, Coinbase, etc.\r\n\r\nOur team operates with speed and focus to deliver outsized impacts for our customers. We approach every challenge with first principles, never assuming things have to be done a certain way. We are a diverse team that believes intelligence and kindness go hand in hand, welcoming individuals from all backgrounds. Our persistence and rapid execution define us as a category leader and a future generational company.",
     "one_liner": "Automate data-driven slide decks and documents with AI",
-    "team_size": 25,
+    "team_size": 30,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1664774205,
     "tags": [
+      "Artificial Intelligence",
       "Productivity",
       "Analytics",
-      "Data Visualization",
-      "AI"
+      "Data Visualization"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -33993,7 +33910,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -49743,7 +49660,7 @@
     "former_names": [
       "Oway Inc."
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d2384790520f737ca83307104dd02d53860b9a68.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/440e576eac66f206c0037de7c2f3a9c086c18840.png",
     "website": "https://www.shipoway.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Oway is an AI-driven freight platform that turns America’s empty truck space into a new category of freight shipping. Every year 50% of U.S. truck space goes unused, a $100B+ inefficiency. Oway uses AI to automatically price, match, and sell that space in real time, giving businesses freight shipping that is dramatically faster and cheaper than traditional options. \r\n\r\nWe're building the largest decentralized network of America’s empty truck space - a transparent infrastructure layer any shipper, broker, or carrier can plug into. For shippers, this means freight costs that are up to 50% lower than traditional LTL (shipments from 1 to 12 pallets), along with faster delivery windows because freight moves directly from dock to dock without the slow handoffs, warehouses, or cross-docking infrastructure that LTL depends on. For carriers, Oway’s integration can increase annual revenues by up to 30% with minimal impact on existing schedules. They simply earn more by monetizing space that would have gone unused.\r\n\r\nOur mission is to transform empty truck space into an asset that strengthens U.S. competitiveness. By lowering the cost of goods sold, we help businesses grow. By improving carrier margins, we make trucking more sustainable. And by digitizing and decentralizing freight, we are laying the foundation for a resilient, transparent logistics layer that can support America’s reindustrialization in the decades ahead. Oway makes freight shipping as simple as ridesharing - click a button, book a truck, and move goods at the true cost of available capacity.",
@@ -50553,10 +50470,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b04f0fee59f28a3fa66d41bb63e4aef150ce2812.png",
     "website": "https://outerport.com",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Extract structured data from documents, tables, P&ID diagrams, process flow diagrams, GD&T drawings, electrical CAD, blueprints, and more. Build AI agents with tools that help them understand and measure the world.",
     "one_liner": "Turn diagrams, technical documents, and CAD into structured data",
-    "team_size": 2,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1721673756,
@@ -50572,7 +50489,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -51031,56 +50949,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/archil",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/archil.json"
-  },
-  {
-    "id": 30046,
-    "name": "Cekura",
-    "slug": "cekura-ai",
-    "former_names": [
-      "Lex",
-      "Vocera",
-      "Cekura",
-      "Cekura (formerly Vocera)",
-      "Cekura",
-      "Cekura (formerly Vocera)"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e614d24f652dc1e194f172153c3b7036c9c30b2f.png",
-    "website": "https://www.cekura.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cekura helps Conversational AI companies with automated QA. From pre-production simulation and evaluations to production call monitoring, to assisting customers in setting up the CI/CD pipeline, we help in QA across the agent lifecycle.\r\n\r\nWe are working with 75+ customers across healthcare, BFSI, logistics, recruitment, and retail. Some of the largest CCAS players and enterprises use Cekura to ship AI voice and chat agents reliably ",
-    "one_liner": "Voice AI and Chat AI agents: Testing and Observability",
-    "team_size": 15,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1728616885,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cekura-ai",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/cekura-ai.json"
   },
   {
     "id": 30050,
@@ -51788,7 +51656,7 @@
     "website": "https://www.canvas.inc/",
     "all_locations": "",
     "long_description": "Engineer agents to scale your GTM, all automatically orchestrated by AI across your stack",
-    "one_liner": "Claude Code for GTM",
+    "one_liner": "Claude Code for GTM Engineering",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -52382,9 +52250,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d12ad9959282e3312f594f8a7d258cc5e4882ec.png",
     "website": "https://www.orchids.app/",
     "all_locations": "",
-    "long_description": "At Orchids, we’re building the tool that will fundamentally change the way people build apps and websites. Our sole job is to harness increasing AI intelligence into creating the only tool people will ever need to get an app or website out into the world. If this mission resonates with you, we encourage you to apply for a role at Orchids - orchids.app/careers.",
+    "long_description": "Orchids is the best way to build apps with AI. If this mission resonates with you, we encourage you to apply for a role at Orchids - orchids.app/careers.",
     "one_liner": "The AI Full Stack Engineer",
-    "team_size": 2,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1737490708,
@@ -53456,6 +53324,43 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lucid",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/lucid.json"
+  },
+  {
+    "id": 30263,
+    "name": "Bindwell",
+    "slug": "bindwell",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/27909408e945386b5dab99b0a68f5cede01bee40.png",
+    "website": "https://www.bindwell.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We're developing better, safer pesticides in-house using custom AI models. ",
+    "one_liner": "Discovering new pesticides with AI",
+    "team_size": 4,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Agriculture",
+    "launched_at": 1740392812,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Agriculture"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bindwell",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/bindwell.json"
   },
   {
     "id": 30268,
@@ -54878,6 +54783,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/wayline",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/wayline.json"
+  },
+  {
+    "id": 30365,
+    "name": "Mentra",
+    "slug": "mentra",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7244027171670b7caf312b35e16b9e5cfdd49164.png",
+    "website": "https://mentra.glass",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Mentra is building the open source operating system for smart glasses. The smart glasses hardware is finally ready, so we're building the OS and app store to power the next computing platform.",
+    "one_liner": "Building the open source smart glasses operating system.",
+    "team_size": 12,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Virtual and Augmented Reality",
+    "launched_at": 1738358223,
+    "tags": [
+      "Artificial Intelligence",
+      "Hardware",
+      "Consumer",
+      "Open Source",
+      "AR"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Virtual and Augmented Reality"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": true,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mentra",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/mentra.json"
   },
   {
     "id": 30366,
@@ -56988,6 +56936,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/autonomous-technologies-group.json"
   },
   {
+    "id": 30592,
+    "name": "Prox",
+    "slug": "prox",
+    "former_names": [
+      "DART",
+      "Stealth",
+      "Dart Labs",
+      "prox"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png",
+    "website": "https://prox.inc",
+    "all_locations": "",
+    "long_description": "Prox is building digital co-workers for 3PLs and fulfillment centers - companies that store, pack, and ship for brands. We automate back-office operations layer that burns billions of labor hours across the industry.\r\n\r\n",
+    "one_liner": "AI agents for third-party logistics",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1759337800,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/prox",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/prox.json"
+  },
+  {
     "id": 30604,
     "name": "Parametric",
     "slug": "parametric",
@@ -57671,7 +57661,7 @@
     "all_locations": "",
     "long_description": "",
     "one_liner": "Frontier Intelligence. On Any Device.",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1753646840,
@@ -58402,6 +58392,43 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mcp-use",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/mcp-use.json"
+  },
+  {
+    "id": 30711,
+    "name": "Hyprnote",
+    "slug": "hyprnote",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f657fb954d32582892780fbf061a8b6256b8044.png",
+    "website": "https://hyprnote.com",
+    "all_locations": "",
+    "long_description": "Hyprnote is the first open-source AI notetaker for the enterprise. It runs fully on-device or on-prem, ensuring that no data ever leaves your system. Hyprnote transcribes and summarizes conversations automatically, turning discussions into actionable knowledge without risking security or regulatory breaches. Unlike cloud-based tools like Granola or Otter, Hyprnote is built for industries where data control is non-negotiable - tech firms, finance, healthcare, government, and beyond.",
+    "one_liner": "Open-source AI notetaker for the enterprise",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1755302445,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hyprnote",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/hyprnote.json"
   },
   {
     "id": 30716,
