@@ -743,17 +743,22 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac8a57d61fce9ed8731fd4071cfeea4356209dee.png",
     "website": "https://www.brickanta.com",
-    "all_locations": "",
-    "long_description": "Cursor for construction estimation & project management. Brickanta analyzes estimates and project details to help automate admin work, reduce errors and inaccuracy, and accelerate delivery with AI trained on the standardized building protocols.",
-    "one_liner": "The agentic AI platform for construction estimation & procurement",
-    "team_size": 2,
+    "all_locations": "Stockholm, Stockholm County, Sweden",
+    "long_description": "Brickanta is building the AI-native operating system for construction, starting with the pre-construction workflows that determine the outcome of entire projects: bid analysis, cost estimation, and procurement.\r\n\r\nOur platform combines state-of-the-art AI with real project data, standards, and construction best practices. This enables construction, contracting, and real estate companies to identify gaps, risks and opportunities earlier, and to produce project and procurement documentation significantly faster and more efficiently.",
+    "one_liner": "Construction's AI platform for bid analysis, estimation and…",
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1759093006,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Construction",
+      "AI Assistant"
+    ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -762,7 +767,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "Unspecified"
+      "Sweden",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1943,47 +1949,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/veria-labs",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/veria-labs.json"
-  },
-  {
-    "id": 30876,
-    "name": "Velum Labs",
-    "slug": "velum-labs",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4539d70682bb12a4a56caa059c5bb83cd4745ad1.png",
-    "website": "https://www.velum-labs.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Velum is an open-source firewall for content-level access control across documents, databases, and applications. Admins define policies, and we apply them in real time across your entire stack to control what each recipient sees.\r\n\r\nOur firewall sits between your data sources and consumers (LLMs, users, vendors), enforcing policies on every request. We understand meaning in text, documents, and databases to detect sensitive information based on your policies, then apply recipient-specific controls without blocking workflows.\r\n\r\nCreate policies in natural language. Teams write rules that define what's sensitive and who should access it, and Velum enforces them consistently across all systems. When authorization changes, we can reveal tokenized data just-in-time for approved recipients, maintaining both security and utility.\r\n\r\nWe integrate directly into your existing infrastructure. For AI workflows, we intercept prompts, responses, and retrievals to prevent sensitive information from leaking into or out of models. For enterprise systems like Salesforce, SAP, or Workday, we extend policy enforcement to exports, reports, and syncs.\r\n\r\nVelum is designed for scale and compliance. We provide encryption and structure-preserving tokenization for high-throughput pipelines, with multi-cloud deployment options and configurable data residency per tenant to meet your compliance requirements.",
-    "one_liner": "Firewall that controls access to information across AI and humans",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1762847882,
-    "tags": [
-      "Machine Learning",
-      "Security",
-      "Open Source",
-      "Privacy"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/velum-labs",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/velum-labs.json"
   },
   {
     "id": 30877,
@@ -4289,22 +4254,17 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b1456a0cab6aece2240abb581d153d9212c6dd68.png",
     "website": "https://www.zalos.ai/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "*Eliminate your Finance Operations grunt work!*\r\n⚡Computer Agent logs into existing systems (e.g., ERP, Accounting, other CFO systems)\r\n⚡Automates Finance processes (e.g., pricing, billing, month-end)\r\n⚡Uploads & submits in your system (e.g., create journal entry)\r\n\r\n*The Blockers ➜ Your Finance Systems:*\r\nFinance Operations is buried in repetitive tasks, driving:\r\n❌ Lack finance visibility for decision-making\r\n❌ Wasted time by in-house or outsourced teams\r\n❌ Mistakes and delays from human-driven processes\r\n\r\nBarriers to FinOps automation have included:\r\n🚨 Legacy ERPs with limited AI\r\n🚨 Authentication-protected websites & portals\r\n🚨 Too many Finance Systems that lack full integrations\r\n\r\nIt doesn’t have to be this way.\r\n\r\n⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻\r\n*The Breakthrough ➜ Zalos:*\r\n\r\nZalos Agents run your rule-based processes, using your existing Finance applications:\r\n⭐ Our agents automate processes based on simple instructions (e.g., Screen Recording, PDFs)\r\n⭐ Native handling of ERPs or other applications (e.g., 2FA, Captcha)\r\n⭐ Superior performance from our FinOps libraries (e.g., Data Extraction & Harmonization, Reconciliation, etc.)\r\n\r\nCustomer story:\r\nFROM: In the Bay area, a Finance Manager was wasting 8 days (!) per month:\r\n✖️ Downloads transactions from Corporate Credit Cards & legacy Banks\r\n✖️ Uploads into NetSuite and manually categorizes 100s of transactions\r\n\r\nUSING ZALOS: Finance Manager schedules ‘run process’ weekly:\r\n✔️ Zalos handles 2FA to download & submit required transactions\r\n✔️ Zalos operates NetSuite to categorize >60% outstanding transactions\r\n\r\n*\r\n\r\nNo browser required: Zalos works silently in the background, whilst continuously improving itself. \r\n\r\nGaining 2 days per week was transformational. The Finance Manager could\r\n🟪 Reduce financial risks with closer inspection (e.g., debt covenants) \r\n🟪 Catch cash leakages by spotting suppliers being paid at generous terms\r\n🟪 Be a strategic partner to the CEO & business with better analysis\r\n\r\n⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻\r\nZalos transforms your Finance Operations:\r\n☑️ Scale without headcount - don’t let Operations teams be a bottleneck\r\n☑️ Smarter every day, with evals & RL-finetuning driving a self-performing system\r\n☑️ Built for Enterprise-grade security and screen records every automation for audit\r\n\r\n➡Interested? Request demo here: https://www.zalos.ai/contact-us\r\n",
     "one_liner": "Computer Agents for Finance tasks like reconciliation, in your system!",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1759103907,
-    "tags": [
-      "Artificial Intelligence",
-      "FinOps",
-      "Finance",
-      "Enterprise"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -4313,8 +4273,7 @@
       "Operations"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,

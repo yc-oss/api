@@ -2398,7 +2398,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -20197,7 +20197,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -20375,7 +20375,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -20404,17 +20404,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5bd3e4de086fbafd70c63dbae211f55425382f05.png",
     "website": "https://iollo.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're building Quinn at iollo, an AI scientist that analyzes multimodal biological data (multi-omics, imaging, etc.) to discover new biology in hours, work that typically takes teams of scientists years. Quinn translates these discoveries into accelerated development of novel therapeutic strategies and interventions for extending healthspan.",
+    "long_description": "iollo is building Quinn, an AI scientist that automates the entire drug development lifecycle, from target discovery to commercial strategy. Quinn synthesizes scientific, clinical, and market data to execute complex R&D workflows in hours that typically take pharma teams years.",
     "one_liner": "Building Quinn, an AI scientist accelerating pharma/biotech R&D",
     "team_size": 4,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Drug Discovery and Delivery",
     "launched_at": 1656567327,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "Biotech",
-      "Enterprise"
+      "Enterprise",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -26043,7 +26043,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We’re Toothy.ai.  We’re building AI agents for dental practices that handle everything related to patient insurance. The average dental clinic spends over 160 hours a month on insurance tasks like verifying patient policies, billing, and claims processing. Our AI agents automate this entire workflow—including making insurance calls with voice AI—saving clinics time, reducing costs, and ensuring faster reimbursements.",
     "one_liner": "AI for insurance verification & billing at dental clinics",
-    "team_size": 7,
+    "team_size": 15,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1736273040,
@@ -26547,18 +26547,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/899619e92df1f3c424bc3715e6b996ecc554d4a1.png",
     "website": "https://www.trapezehealth.com",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "",
     "long_description": "Trapeze empowers doctors to answer patient calls 24/7 with our voice agents clones of their best call center reps and receptionists. In the past 3 months, we’ve onboarded 140+ doctors nationwide serving 1,000,000+ patients.\r\n\r\nWe're building the AI-native Zocdoc to create the standard for how patients and providers find each other.\r\n\r\nFollow along on the BTS of our journey: https://www.tiktok.com/t/ZTjQyxEQx/",
     "one_liner": "AI-native Zocdoc",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1748462955,
-    "tags": [
-      "SaaS",
-      "Scheduling",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -26570,8 +26566,7 @@
       "Healthcare IT"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -27794,6 +27789,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lunabill",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/lunabill.json"
+  },
+  {
+    "id": 31108,
+    "name": "Strand AI",
+    "slug": "strand-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3ab1b6b156ac5fcdb95c20ddc1b2ebfc47a69ae.png",
+    "website": "https://strandai.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Curated multimodal datasets for biology AI",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Drug Discovery and Delivery",
+    "launched_at": 1769406494,
+    "tags": [
+      "Biotech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Drug Discovery and Delivery"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/strand-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/strand-ai.json"
   },
   {
     "id": 31163,

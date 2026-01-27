@@ -4055,9 +4055,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/677513c7f80f22199de3136c5024581799a126f2.png",
     "website": "https://reflex.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Reflex is an AI app builder for creating production-grade web apps entirely in Python, powered by its own open-source framework.\r\n\r\nPython is one of the most popular programming languages in the world, and web development is one of the most popular applications of programming. So why can’t we make full-stack web apps using just Python? \r\n\r\nWith Reflex, you just connect your data and enter a prompt. It generates production-ready apps that integrate any data source, API, or Python package. \r\n\r\nFounded by Nikhil Rao and  Alek Petuskey, Reflex has over 1 million apps created, 27k GitHub stars, and has been used by 30% of Fortune 500 companies for internal tools and data-driven applications.",
-    "one_liner": "Reflex is an AI app builder for creating production-grade web apps…",
-    "team_size": 9,
+    "long_description": "Reflex is the operating system for building mission-critical enterprise applications.\r\n\r\nToday’s enterprise stack is fragmented. Shipping an app requires stitching together multiple tools and coordinating across multiple roles. Reflex replaces that complexity with a single, unified platform to build, deploy, and manage production applications end-to-end.\r\n\r\nWe empower teams to own the entire lifecycle of their apps — from idea to production — without needing specialized infrastructure, DevOps, or platform teams. We do this by providing solid, reusable abstractions at both the framework and infrastructure layers. Because we own the underlying open-source framework and the platform it runs on, we can manage the full lifecycle of the application seamlessly.\r\n\r\nWith Reflex, teams securely connect to company data, use AI to build standardized applications on top of our open-source framework, and deploy with a single click to share across their organization.\r\n\r\nWe’re replacing the fragmented enterprise stack — and the organizational bottlenecks that come with it.\r\n\r\nFounded by Alek Petuskey and Nikhil Rao, Reflex has powered over 1 million applications, earned 28,000+ GitHub stars, and is used by 30% of Fortune 500 companies for internal tools and data-driven applications.",
+    "one_liner": "The operating system for building mission-critical enterprise apps.",
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1674447011,
@@ -4070,7 +4070,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -5141,18 +5141,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea071d17d03a0effc12bac914da21cd9bee66060.png",
     "website": "https://continue.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Continue enables developers to ship faster with Continuous AI. The future of coding isn't writing more code. It's delegating the boring parts, so you can build the interesting stuff.\r\n\r\nDevelopers are drowning in AI-generated code. Continuous AI solves this by automating the workflows around code, not just the code itself. The role of the software engineer is shifting from prompting AI to designing processes that run automatically.\r\n\r\nWith hundreds of thousands of users, Continue is loved by developers worldwide at organizations ranging from small startups to Fortune 500 companies. Continue has raised $5.1M from Heavybit, Y Combinator, and angel investors. The company was founded in 2023 and is based in San Francisco.\r\n\r\nWe believe the time is now to create a future where developers are amplified, not automated.",
-    "one_liner": "Ship faster with Continuous AI",
+    "long_description": "Writing code got 10x faster. Shipping it didn't. Continue closes the gap. What good looks like on your team, enforced automatically.\r\n\r\nDevelopers are drowning in AI-generated code. Continuous AI solves this by automating the workflows around code, not just the code itself. The role of the software engineer is shifting from prompting AI to designing processes that run automatically.\r\n\r\nWith hundreds of thousands of users, Continue is loved by developers worldwide at organizations ranging from small startups to Fortune 500 companies. Continue has raised $5.1M from Heavybit, Y Combinator, and angel investors. The company was founded in 2023 and is based in San Francisco.\r\n\r\nWe believe the time is now to create a future where developers are amplified, not automated.\r\n\r\nhttps://continuousai.com",
+    "one_liner": "Ship as fast as you code",
     "team_size": 9,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1688142176,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "DevSecOps",
       "Machine Learning",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6503,6 +6503,51 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/mastra.json"
   },
   {
+    "id": 30319,
+    "name": "Corsair",
+    "slug": "corsair",
+    "former_names": [
+      "Demeter"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/669230895e9a350309e4b696d01d846593838da1.png",
+    "website": "https://www.corsair.dev",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Every codebase has integrations. If you look at how they're written, 90% of the code is identical whether you're connecting to Slack, Gmail, Hubspot, or some random API. You have to...\r\n\r\n- make an API call with proper error handling\r\n- deal with authentication and rate limits\r\n- store responses in your database with custom schemas\r\n- map untyped API responses to your own types\r\n- keep that data fresh with webhooks or polling\r\n- write foreign keys to connect the external data to your own\r\n\r\nEach integration requires rebuilding this infrastructure from scratch. This results in fragmented code with different patterns, error handling, and auth flows for every service. \r\n\r\nCorsair is the unified framework for integrating with third-party services. Add Slack, Linear, GitHub, Gmail, and hundreds of other integrations with the same syntax, same types, and same four database tables.",
+    "one_liner": "The TypeScript Integration Framework",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1739227592,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "Workflow Automation",
+      "Open Source",
+      "API"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/corsair",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/corsair.json"
+  },
+  {
     "id": 30341,
     "name": "Browser Use",
     "slug": "browser-use",
@@ -6937,6 +6982,51 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/zero.json"
   },
   {
+    "id": 30665,
+    "name": "Pangolin",
+    "slug": "pangolin",
+    "former_names": [
+      "Fossorial"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e255c0b8547eae92642ef5a790e42e33f9bed016.png",
+    "website": "https://pangolin.net",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Pangolin is an open-source, identity-based remote access platform built on WireGuard that enables secure, seamless connectivity to private and public resources.",
+    "one_liner": "Identity-aware VPN and proxy for remote access to anything, anywhere.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1752801073,
+    "tags": [
+      "Open Source",
+      "Enterprise Software",
+      "Networks"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pangolin",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/pangolin.json"
+  },
+  {
     "id": 30694,
     "name": "Epicenter",
     "slug": "epicenter",
@@ -7085,7 +7175,7 @@
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
-    "batch": "Fall 2025",
+    "batch": "Winter 2026",
     "status": "Active",
     "industries": [
       "B2B"
@@ -7100,7 +7190,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/velum-labs",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/velum-labs.json"
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/velum-labs.json"
   },
   {
     "id": 30939,

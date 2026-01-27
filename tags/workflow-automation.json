@@ -2412,24 +2412,26 @@
   },
   {
     "id": 30319,
-    "name": "Demeter",
-    "slug": "demeter",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6f337d7edbcc9a9c931383385d78e6f6cf6e401.png",
-    "website": "https://www.joindemeter.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Demeter is the AI platform to maximize private investment returns. It enriches portfolio data with deep research to automate performance tracking and benchmarking for value creation.",
-    "one_liner": "AI Value Creation Team for Private Equity",
+    "name": "Corsair",
+    "slug": "corsair",
+    "former_names": [
+      "Demeter"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/669230895e9a350309e4b696d01d846593838da1.png",
+    "website": "https://www.corsair.dev",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Every codebase has integrations. If you look at how they're written, 90% of the code is identical whether you're connecting to Slack, Gmail, Hubspot, or some random API. You have to...\r\n\r\n- make an API call with proper error handling\r\n- deal with authentication and rate limits\r\n- store responses in your database with custom schemas\r\n- map untyped API responses to your own types\r\n- keep that data fresh with webhooks or polling\r\n- write foreign keys to connect the external data to your own\r\n\r\nEach integration requires rebuilding this infrastructure from scratch. This results in fragmented code with different patterns, error handling, and auth flows for every service. \r\n\r\nCorsair is the unified framework for integrating with third-party services. Add Slack, Linear, GitHub, Gmail, and hundreds of other integrations with the same syntax, same types, and same four database tables.",
+    "one_liner": "The TypeScript Integration Framework",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1739227592,
     "tags": [
-      "Artificial Intelligence",
-      "Finance",
+      "Developer Tools",
       "B2B",
       "Workflow Automation",
-      "Investments"
+      "Open Source",
+      "API"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2438,7 +2440,8 @@
     "batch": "Winter 2025",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Engineering, Product and Design"
     ],
     "regions": [
       "United States of America",
@@ -2449,8 +2452,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/demeter",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/demeter.json"
+    "url": "https://www.ycombinator.com/companies/corsair",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/corsair.json"
   },
   {
     "id": 30554,

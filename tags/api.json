@@ -5804,7 +5804,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Quantstruct automatically creates and improves product documentation, implementation guides, and changelogs for API & SDK products, web-based enterprise software, and internal applications.\r\n\r\nQuantstruct identifies gaps in your knowledge base based on each product release or unfulfilled customer query. It uses multiple AI agents to search existing knowledge sources, test existing docs for validity and style guidelines, and clicks, scrolls, and uses enterprise software through a web browser to generate docs with embedded screenshots and video recordings. Quanstruct is available as a cloud service to start, targeting technical writers, content writing, professional services, and product teams.\r\n\r\nTraditional generative AI tools risk hallucinating critical API & SDK fields, even with RAG based approaches. Purely agent-based approaches risk providing unpredictable output that can diverge from desired documentation processes. Finally, no company’s review and publishing workflow is the same. Quantstruct is the easiest way to onboard and customize AI agents to continuously improve your documentation based on your customer needs and product evolution. https://quantstruct.com",
     "one_liner": "AI documentation engineer – test & autoimprove stale product docs",
-    "team_size": 3,
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1736668232,
@@ -5923,6 +5923,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rejot",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/rejot.json"
+  },
+  {
+    "id": 30319,
+    "name": "Corsair",
+    "slug": "corsair",
+    "former_names": [
+      "Demeter"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/669230895e9a350309e4b696d01d846593838da1.png",
+    "website": "https://www.corsair.dev",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Every codebase has integrations. If you look at how they're written, 90% of the code is identical whether you're connecting to Slack, Gmail, Hubspot, or some random API. You have to...\r\n\r\n- make an API call with proper error handling\r\n- deal with authentication and rate limits\r\n- store responses in your database with custom schemas\r\n- map untyped API responses to your own types\r\n- keep that data fresh with webhooks or polling\r\n- write foreign keys to connect the external data to your own\r\n\r\nEach integration requires rebuilding this infrastructure from scratch. This results in fragmented code with different patterns, error handling, and auth flows for every service. \r\n\r\nCorsair is the unified framework for integrating with third-party services. Add Slack, Linear, GitHub, Gmail, and hundreds of other integrations with the same syntax, same types, and same four database tables.",
+    "one_liner": "The TypeScript Integration Framework",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1739227592,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "Workflow Automation",
+      "Open Source",
+      "API"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/corsair",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/corsair.json"
   },
   {
     "id": 30363,
@@ -6174,6 +6219,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/s2-dev",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/s2-dev.json"
+  },
+  {
+    "id": 31154,
+    "name": "Orthogonal",
+    "slug": "orthogonal",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ec4d813cd81be3598547a305102414461123fea9.png",
+    "website": "https://orthogonal.sh",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Orthogonal is where AI agents find and pay for APIs. Instead of managing dozens of API keys, accounts, and billing relationships, agents use a single MCP or SDK to access hundreds of paid APIs on demand.\r\n\r\nAPI providers list once and earn per request. Developers fund one account and we handle payments, auth, and routing. The API economy was built for humans; Orthogonal makes it work for agents.",
+    "one_liner": "Agentic Payments for APIs",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1769466101,
+    "tags": [
+      "Crypto / Web3",
+      "Payments",
+      "API",
+      "AI"
+    ],
+    "tags_highlighted": [
+      "Crypto / Web3"
+    ],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/orthogonal",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/orthogonal.json"
   },
   {
     "id": 31192,

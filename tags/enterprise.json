@@ -2358,17 +2358,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5bd3e4de086fbafd70c63dbae211f55425382f05.png",
     "website": "https://iollo.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're building Quinn at iollo, an AI scientist that analyzes multimodal biological data (multi-omics, imaging, etc.) to discover new biology in hours, work that typically takes teams of scientists years. Quinn translates these discoveries into accelerated development of novel therapeutic strategies and interventions for extending healthspan.",
+    "long_description": "iollo is building Quinn, an AI scientist that automates the entire drug development lifecycle, from target discovery to commercial strategy. Quinn synthesizes scientific, clinical, and market data to execute complex R&D workflows in hours that typically take pharma teams years.",
     "one_liner": "Building Quinn, an AI scientist accelerating pharma/biotech R&D",
     "team_size": 4,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Drug Discovery and Delivery",
     "launched_at": 1656567327,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "Biotech",
-      "Enterprise"
+      "Enterprise",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3490,8 +3490,8 @@
     "long_description": "Metalware develops advanced firmware security solutions for critical infrastructure, protecting industries like aerospace, defense, automotive, telecom, and healthcare from cyber threats.\r\n\r\nOur product is an automated, intelligent binary fuzzer that enables organizations to efficiently discover and remediate security weaknesses in hardware products before deployment.",
     "one_liner": "Firmware cybersecurity",
     "team_size": 4,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Defense",
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
     "launched_at": 1689732876,
     "tags": [
       "DevSecOps",
@@ -3507,8 +3507,8 @@
     "batch": "Summer 2023",
     "status": "Active",
     "industries": [
-      "Industrials",
-      "Defense"
+      "B2B",
+      "Security"
     ],
     "regions": [
       "United States of America",
@@ -4630,48 +4630,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/finto-de",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/finto-de.json"
-  },
-  {
-    "id": 30945,
-    "name": "Zalos",
-    "slug": "zalos",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b1456a0cab6aece2240abb581d153d9212c6dd68.png",
-    "website": "https://www.zalos.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "*Eliminate your Finance Operations grunt work!*\r\n⚡Computer Agent logs into existing systems (e.g., ERP, Accounting, other CFO systems)\r\n⚡Automates Finance processes (e.g., pricing, billing, month-end)\r\n⚡Uploads & submits in your system (e.g., create journal entry)\r\n\r\n*The Blockers ➜ Your Finance Systems:*\r\nFinance Operations is buried in repetitive tasks, driving:\r\n❌ Lack finance visibility for decision-making\r\n❌ Wasted time by in-house or outsourced teams\r\n❌ Mistakes and delays from human-driven processes\r\n\r\nBarriers to FinOps automation have included:\r\n🚨 Legacy ERPs with limited AI\r\n🚨 Authentication-protected websites & portals\r\n🚨 Too many Finance Systems that lack full integrations\r\n\r\nIt doesn’t have to be this way.\r\n\r\n⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻\r\n*The Breakthrough ➜ Zalos:*\r\n\r\nZalos Agents run your rule-based processes, using your existing Finance applications:\r\n⭐ Our agents automate processes based on simple instructions (e.g., Screen Recording, PDFs)\r\n⭐ Native handling of ERPs or other applications (e.g., 2FA, Captcha)\r\n⭐ Superior performance from our FinOps libraries (e.g., Data Extraction & Harmonization, Reconciliation, etc.)\r\n\r\nCustomer story:\r\nFROM: In the Bay area, a Finance Manager was wasting 8 days (!) per month:\r\n✖️ Downloads transactions from Corporate Credit Cards & legacy Banks\r\n✖️ Uploads into NetSuite and manually categorizes 100s of transactions\r\n\r\nUSING ZALOS: Finance Manager schedules ‘run process’ weekly:\r\n✔️ Zalos handles 2FA to download & submit required transactions\r\n✔️ Zalos operates NetSuite to categorize >60% outstanding transactions\r\n\r\n*\r\n\r\nNo browser required: Zalos works silently in the background, whilst continuously improving itself. \r\n\r\nGaining 2 days per week was transformational. The Finance Manager could\r\n🟪 Reduce financial risks with closer inspection (e.g., debt covenants) \r\n🟪 Catch cash leakages by spotting suppliers being paid at generous terms\r\n🟪 Be a strategic partner to the CEO & business with better analysis\r\n\r\n⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻\r\nZalos transforms your Finance Operations:\r\n☑️ Scale without headcount - don’t let Operations teams be a bottleneck\r\n☑️ Smarter every day, with evals & RL-finetuning driving a self-performing system\r\n☑️ Built for Enterprise-grade security and screen records every automation for audit\r\n\r\n➡Interested? Request demo here: https://www.zalos.ai/contact-us\r\n",
-    "one_liner": "Computer Agents for Finance tasks like reconciliation, in your system!",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1759103907,
-    "tags": [
-      "Artificial Intelligence",
-      "FinOps",
-      "Finance",
-      "Enterprise"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/zalos",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/zalos.json"
   },
   {
     "id": 30961,
