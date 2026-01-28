@@ -5102,7 +5102,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "The Mednet is a physician-only Q&A platform for expert answers to real world clinical questions. With medical knowledge evolving faster than ever before, theMednet addresses the gap between textbooks and real-patient experience. At theMednet, more than 1,500 expert physicians across numerous medical specialties help answer questions that go beyond textbooks and guidelines. Our platform documents undocumented medical knowledge, while making it accessible and easily searchable to all physicians. We know patients with access to experts have better outcomes. By providing physicians with relevant, up-to-date expert knowledge, their patients benefit from the best care possible.",
     "one_liner": "Stack Overflow for Medicine",
-    "team_size": 20,
+    "team_size": 35,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1478226636,
@@ -12587,12 +12587,12 @@
     "former_names": [
       "Bloom"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ef65d4ede897a26ed6e9d886562f50dc512caee.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4ed1610bf1bf1bff5ffcd350ef85f5c381ad63f.png",
     "website": "https://porter.run",
     "all_locations": "New York, NY, USA",
     "long_description": "Porter is the easiest way to deploy and scale your applications on AWS, Azure, and GCP. Connect your own cloud account, and Porter will provision and manage the underlying infrastructure for you - simply point at your repository and Porter will handle the rest, from building your application to autoscaling it.\r\n\r\nUnder the hood, Porter manages the same kind of infrastructure that growth-stage companies use and allows you to scale without DevOps overhead.",
     "one_liner": "Easiest way to deploy on AWS/GCP/Azure",
-    "team_size": 10,
+    "team_size": 18,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1599762607,
@@ -12664,6 +12664,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pulley",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/pulley.json"
+  },
+  {
+    "id": 13099,
+    "name": "Ophelia",
+    "slug": "ophelia",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3cbf4c2fae04f0bf480c466e071e33c3b2be8a0d.png",
+    "website": "https://ophelia.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Ophelia helps people quit opioids without going to rehab. We offer online doctor’s visits, withdrawal medication prescriptions, and support for long-term recovery, using a protocol 6x more effective than most rehabs (2/3rds of which don't have doctors).\r\n\r\nMore than 3 million Americans are addicted to opioids, but 80% are not getting help, due to jobs, families, and privacy concerns. Meanwhile, there's a proven treatment that increases survival rates by 600%, and it's low cost, discreet, and convenient. It's called MAT, and it looks like treatment for anxiety or depression: medication plus therapy. However, doctors need a special waiver to prescribe the medication, which fewer than 5% of them have, so it's difficult to get, and most people are buying it on the street. Sadly, drug dealers aren't doctors: every 11 minutes another American dies of an opioid overdose, now the #1 cause of death for Americans under 50.\r\n\r\nOphelia is replacing rehab with telemedicine, using proven science and a consumer-first approach. The opioid treatment market in the U.S. is $15B, and 85% of opioid addicts have insurance that pays for it. We're treating roughly 400 patients with thousands more waiting.\r\n\r\nZack started Ophelia after losing his girlfriend to an opioid overdose, who found it easier to get medication from a drug dealer than a doctor. We are raising money to help patients in waiting, grow our footprint, save lives, and earn venture-level returns for investors.",
+    "one_liner": "Medication & support to beat opioid addiction from home",
+    "team_size": 130,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Consumer Health and Wellness",
+    "launched_at": 1584127699,
+    "tags": [
+      "Mental Health Tech",
+      "Healthcare",
+      "Telemedicine"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2020",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Consumer Health and Wellness"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": true,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ophelia",
+    "api": "https://yc-oss.github.io/api/batches/winter-2020/ophelia.json"
   },
   {
     "id": 13104,
@@ -19251,7 +19294,7 @@
     "all_locations": "Oakland, CA, USA; Remote",
     "long_description": "Great Question puts customer research on autopilot - from recruiting participants, scheduling interviews, sending surveys or prototype tests - and sharing what you learn with your team.\r\n\r\nCompanies like Adidas Runtastic, O'Reilly Media & MainStreet use us to put their customers at the center of their product, design & marketing decisions.",
     "one_liner": "User research on autopilot. ",
-    "team_size": 22,
+    "team_size": 50,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1614369362,
@@ -19276,7 +19319,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -26131,16 +26174,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Sieve is the only AI research lab exclusively focused on video data.\r\n\r\nVideo already makes up 80% of internet traffic and has become the dominant medium driving creativity, communication, gaming, AR/VR, and robotics. Unlocking the ability to truly model video is the key to breakthroughs across all of these domains but progress has been bottlenecked by one thing: high-quality training data. That’s where Sieve comes in.\r\n\r\nWe bring together exabyte-scale video infrastructure, novel video understanding techniques, and dozens of diverse data sources to create datasets that push the frontier of video modeling. This unique combination allows us to deliver data with unmatched precision, quality, and speed which has earned the trust of frontier AI labs, Fortune 100 companies, and fast-growing generative AI startups.",
     "one_liner": "Video datasets for frontier AI",
-    "team_size": 12,
+    "team_size": 18,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1643510053,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Video",
       "Data Labeling",
-      "Data Engineering"
+      "Data Engineering",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -26163,52 +26206,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sieve",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/sieve.json"
-  },
-  {
-    "id": 25309,
-    "name": "PolicyFly",
-    "slug": "policyfly",
-    "former_names": [
-      "PolicyFly",
-      "Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7570941b976b7bc56ac23e694bcfe99476db2d2d.png",
-    "website": "https://www.policyfly.com",
-    "all_locations": "New York, NY, USA; Remote",
-    "long_description": "PolicyFly empowers insurers to sell and manage specialty insurance in minutes instead of in weeks.\r\n\r\nEvery year, $200B of specialty insurance like Cyber, Flood or Trucking is processed over email between agents and insurers – PolicyFly connects both parties to automate these workflows and to consolidate all data. \r\n\r\nWe bring growth, efficiency and transparency to otherwise hard to insure markets.",
-    "one_liner": "Modernizing Specialty Insurance",
-    "team_size": 30,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Insurance",
-    "launched_at": 1648055687,
-    "tags": [
-      "Marketplace",
-      "Insurance",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Insurance"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/policyfly",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/policyfly.json"
   },
   {
     "id": 25316,
@@ -28340,7 +28337,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -29620,7 +29617,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -30797,7 +30794,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -33445,7 +33442,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Infisical is the leading open-source platform to manage secrets, certificates, configs, and access across your team and infrastructure.\r\n\r\nInfisical stores your secrets and injects them back into your development workflow, CI/CD pipelines, and cloud infrastructure. It comes with secrets versioning, point-in-time recovery, audit logging, automatic secret rotation capabilities, and more.",
     "one_liner": "Unified platform for secrets, certs, and privileged access management",
-    "team_size": 19,
+    "team_size": 40,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1674066953,
@@ -35106,18 +35103,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8bc9addf3646af503fbc3ded74504fb4df3399eb.png",
     "website": "https://langfuse.com",
     "all_locations": "Berlin, Berlin, Germany",
-    "long_description": "Traces, evals, prompt management and metrics to debug and improve your LLM application.\r\nOnboard via https://langfuse.com\r\n\r\nLangfuse helps you build and improve LLM applications across the entire lifecycle: \r\n- Develop: Observability, Langfuse UI & Prompt Management\r\n- Monitor: Traces, Analytics, Metrics & Evaluations\r\n- Test: Experiments, Releases & Datasets\r\n\r\nWe are hiring: https://langfuse.com/careers",
+    "long_description": "Traces, evals, prompt management and metrics to debug and improve your LLM application.\r\nOnboard via https://langfuse.com\r\n\r\nLangfuse helps you build and improve LLM applications across the entire lifecycle: \r\n- Develop: Observability, Langfuse UI & Prompt Management\r\n- Monitor: Traces, Analytics, Metrics & Evaluations\r\n- Test: Experiments, Releases & Datasets\r\n\r\nWe are hiring: https://langfuse.com/careers\r\n\r\nLangfuse was acquired by Clickhouse in January of 2026.",
     "one_liner": "Open source LLM engineering platform",
     "team_size": 13,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1673911015,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "Analytics",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -36927,6 +36924,51 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/escape.json"
   },
   {
+    "id": 28218,
+    "name": "Kyber",
+    "slug": "kyber",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3004c4a72b716a80763763b95bf3e212c448756e.png",
+    "website": "https://askkyber.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "With Kyber, companies operating in regulated industries can quickly draft, review, and send complex regulatory notices. For example, when Branch Insurance's claims team has to settle a claim, instead of spending hours piecing together evidence to draft a complex notice, they can simply upload the details of the claim to Kyber, auto-generate multiple best in-class drafts, easily assign reviewers, collaborate on notices in real-time, and then send the letter to the individual the notice is for. Kyber not only saves these teams time, but significantly improves consistency, compliance, and personalization. ",
+    "one_liner": "Instantly draft, review, and send complex regulatory notices.",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1677372539,
+    "tags": [
+      "Generative AI",
+      "SaaS",
+      "Insurance",
+      "Enterprise",
+      "Regtech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/kyber",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/kyber.json"
+  },
+  {
     "id": 28301,
     "name": "Persana AI",
     "slug": "persana-ai",
@@ -38177,51 +38219,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/casca",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/casca.json"
-  },
-  {
-    "id": 28812,
-    "name": "Cedana",
-    "slug": "cedana",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/765d8a1a78a1c5939f354a26be87d3c1c1696290.png",
-    "website": "https://cedana.ai",
-    "all_locations": "New York, NY, USA; Remote",
-    "long_description": "Cedana (YC S23) brings hyperscaler and frontier-lab orchestration capabilities for AI workflows. Our core capability is live migration for CPUs and GPUs workloads. This increases cost savings up to 80%, accelerates time to first token 2-10x, and enables stateful reliability of training jobs even through catastrophic GPU failures. We've integrated our solution into K8s, and support Kueue and Slurm for training distributed jobs, and Kserve for serving inference.    \r\n\r\nOpenAI, Meta and Microsoft have flavors of these capabilities internally and we’re bringing them to everyone. \r\n\r\nOur vision is to transform cloud compute into a real-time, arbitraged commodity. \r\n\r\nhttps://www.cedana.ai",
-    "one_liner": "Fast, reliable, reproducible AI with GPU live migration",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1689189501,
-    "tags": [
-      "Deep Learning",
-      "Developer Tools",
-      "Cloud Computing",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cedana",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/cedana.json"
   },
   {
     "id": 28815,
@@ -39686,7 +39683,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Our mission is to secure access to every enterprise application.\r\n\r\nAglide SSO lets security and IT teams connect non-standard and legacy apps - from banking portals to social media logins - directly to their existing identity provider (Okta, Entra, OneLogin, Ping, etc.), with no need for app-side integration.\r\n\r\nOnce connected, these apps behave like any other IdP-managed service: policies like MFA, Conditional Access, RBAC, and audit logging just work, and end users access them through SSO only.\r\n\r\nCustomers use Aglide to secure both individual apps (e.g., legacy banking portals, Discord, Squarespace) and sensitive shared accounts (e.g., AWS root, social media). Our agentic identity technology means Aglide works with any app out of the box - no integration catalog, no custom scripting.\r\n\r\nToday, customers from fintech decacorns to global media companies rely on Aglide’s zero-trust, end-to-end encrypted platform to complete their identity stack.",
     "one_liner": "Connect every disconnected app to your SSO.",
-    "team_size": 4,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1689277623,
@@ -45938,16 +45935,16 @@
     "all_locations": "",
     "long_description": "Every time workers in a warehouse box an order, they reference a 100 page manual with instructions like where to put the shipping label. RetailReady replaces the instruction manual with a tablet application.",
     "one_liner": "An AI-powered supply chain compliance engine",
-    "team_size": 9,
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1705423924,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Compliance",
       "Logistics",
-      "Supply Chain",
-      "AI"
+      "Supply Chain"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48742,18 +48739,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2623539c5a9dddb54681db96f38cf2be0f9428d9.png",
     "website": "https://www.thundercompute.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Self-serve GPUs in VS Code with persistent storage, snapshots, and hot-swappable hardware, with prices 80% lower than AWS.",
-    "one_liner": "Launch GPU instances in one click for 80% less",
+    "long_description": "One-click GPU instances with persistent storage, snapshots, and hot-swappable hardware, with the lowest prices anywhere.",
+    "one_liner": "The world's cheapest GPU cloud",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1723245936,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Data Science",
       "Cloud Computing",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49358,45 +49355,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/helium",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/helium.json"
-  },
-  {
-    "id": 29803,
-    "name": "Ionworks",
-    "slug": "ionworks",
-    "former_names": [
-      "Ionworks Technologies Inc"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9d19f43559a7c58d6263bc07ad06e83fd4ad1f0a.png",
-    "website": "https://ionworks.com/",
-    "all_locations": "Remote",
-    "long_description": "Every battery company spends tens of millions of dollars a year on experiments. Simulations that replace experiments reduce these costs but are currently underutilized in industry because they are hard to create and run. We make simulations accessible to every engineer, by helping them to create models from their own data, then run large scale simulations in the cloud to explore the full design space.",
-    "one_liner": "Simulation software used by leading battery and automotive companies",
-    "team_size": 5,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Energy",
-    "launched_at": 1721785352,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Energy"
-    ],
-    "regions": [
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ionworks",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/ionworks.json"
   },
   {
     "id": 29814,
@@ -57826,13 +57784,15 @@
   },
   {
     "id": 30659,
-    "name": "Keystone",
-    "slug": "keystone",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c3915c83dfe6a246f33ae908d5156017a0cef3f.png",
-    "website": "https://withkeystone.com",
+    "name": "Proliferate",
+    "slug": "proliferate",
+    "former_names": [
+      "Keystone"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/33b2701b136a0fb7150275fcc0a29e01f3ca4320.png",
+    "website": "https://proliferate.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Keystone gives coding agents production-grade infrastructure- sandboxed environments, event triggers, and verification workflows- so they can ship code end-to-end, not just write it.",
+    "long_description": "Proliferate gives coding agents production-grade infrastructure- sandboxed environments, event triggers, and verification workflows- so they can ship code end-to-end, not just write it.",
     "one_liner": "The autonomous engineering organization",
     "team_size": 2,
     "industry": "B2B",
@@ -57863,8 +57823,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/keystone",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/keystone.json"
+    "url": "https://www.ycombinator.com/companies/proliferate",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/proliferate.json"
   },
   {
     "id": 30662,
@@ -58150,25 +58110,26 @@
   },
   {
     "id": 30686,
-    "name": "The Interface",
-    "slug": "the-interface",
+    "name": "Interface",
+    "slug": "theinterface",
     "former_names": [
-      "Preempt"
+      "Preempt",
+      "The Interface"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/810308579f6f68ad3885b631328af1d0668015af.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6dbbabdd44f01b97e6141151550ff9162ab83b00.png",
     "website": "https://www.theinterface.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "The Interface enables anyone to create, interact, and share on the fly — from TV shows to games to movies. Drawing on deep expertise in realtime compute and simulation, we combine multimodal AI with the best of 3D simulation and modelling techniques, to deliver real-time experiences that are alive, interactive, and emergent.",
-    "one_liner": "The foundations for AI-native media",
+    "long_description": "Interface is a frontier research lab focused on high-fidelity human simulation. We build systems that model human appearance, behavior, and interaction for world-model research.",
+    "one_liner": "The frontier lab for human simulation",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1754968088,
     "tags": [
-      "Artificial Intelligence",
       "Entertainment",
       "Gaming",
-      "Media"
+      "Media",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -58188,8 +58149,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/the-interface",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/the-interface.json"
+    "url": "https://www.ycombinator.com/companies/theinterface",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/theinterface.json"
   },
   {
     "id": 30690,
@@ -60287,6 +60248,41 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/leadbay.json"
   },
   {
+    "id": 30933,
+    "name": "Nucleo",
+    "slug": "nucleo",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c489d64c631359b79077be36194f234ac5e83b2c.png",
+    "website": "https://nucleoresearch.com/",
+    "all_locations": "",
+    "long_description": "We help oncologists and radiologists extract insights from CT scans to support tumor characterization and treatment.\r\n\r\nThe hospitals we work with include Stanford Hospital, Cedars-Sinai (the largest hospital in California), UCI Health, and Weill Cornell.",
+    "one_liner": "The first Agentic platform for Oncology",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1761179954,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/nucleo",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/nucleo.json"
+  },
+  {
     "id": 30940,
     "name": "Everest",
     "slug": "everest",
@@ -60941,6 +60937,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/human-archive",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/human-archive.json"
+  },
+  {
+    "id": 31208,
+    "name": "Oximy",
+    "slug": "oximy",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0f253ec2ac4c62d3fd349aefdf584c9074cae87d.png",
+    "website": "https://oximy.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Oximy helps enterprises understand and manage AI usage across their workforce.\r\n\r\nUsed by security, finance, and transformation teams to track adoption, control spend, and manage governance as AI scales.",
+    "one_liner": "The system of record for enterprise AI usage.",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1769530723,
+    "tags": [
+      "Artificial Intelligence",
+      "Security",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/oximy",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/oximy.json"
   },
   {
     "id": 31243,

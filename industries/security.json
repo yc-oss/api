@@ -2637,7 +2637,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -2787,7 +2787,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Infisical is the leading open-source platform to manage secrets, certificates, configs, and access across your team and infrastructure.\r\n\r\nInfisical stores your secrets and injects them back into your development workflow, CI/CD pipelines, and cloud infrastructure. It comes with secrets versioning, point-in-time recovery, audit logging, automatic secret rotation capabilities, and more.",
     "one_liner": "Unified platform for secrets, certs, and privileged access management",
-    "team_size": 19,
+    "team_size": 40,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1674066953,
@@ -3271,16 +3271,17 @@
   },
   {
     "id": 28885,
-    "name": "Telophase",
-    "slug": "telophase",
+    "name": "Hiro",
+    "slug": "hiro",
     "former_names": [
-      "Santiago Labs, Inc."
+      "Santiago Labs, Inc.",
+      "Telophase"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/808b74ee6688cd6849f4540a000059ba7714ff1f.png",
-    "website": "https://telophase.dev",
+    "website": "https://hiro.is",
     "all_locations": "New York, NY, USA",
     "long_description": "",
-    "one_liner": "Reach vulnerability inbox-zero",
+    "one_liner": "Your first security hire",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
@@ -3309,8 +3310,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/telophase",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/telophase.json"
+    "url": "https://www.ycombinator.com/companies/hiro",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/hiro.json"
   },
   {
     "id": 28927,
@@ -3494,8 +3495,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a5fb7dd012389ddf81869040550578bb786988ed.png",
     "website": "https://superagent.sh/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Superagent helps developers make their AI apps safe.\r\n\r\nWe provide:\r\n- An SDK with guardrails for runtime protection — stops data leaks, blocks harmful actions\r\n- Red teaming assessments to surface failures\r\n- A safety page to prove it to your customers\r\n\r\nPowered by a safety agent that runs in your environment — works with any model.",
-    "one_liner": "Making AI apps safe",
+    "long_description": "Superagent helps developers make their AI apps safe.\r\n\r\nWe offer:\r\n- Red team testing — specialized attack agents probe your production AI for data leaks, harmful outputs, and unwanted actions\r\n- Structured reports with findings, evidence, and remediation guidance\r\n- A Safety Page to prove it to your customers — use it in sales, procurement reviews, and security questionnaires\r\n\r\nBuilt for companies selling AI into enterprises and regulated industries.",
+    "one_liner": "Red teaming for AI agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
