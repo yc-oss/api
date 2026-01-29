@@ -771,7 +771,7 @@
     "name": "Ruma Care",
     "slug": "ruma-care",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1b0af21685815e1bb0a4044569d6f95db257ebaf.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/96d6cbd2dad919f1782589f2fb4568b9499bf534.png",
     "website": "https://rumacare.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Ruma Care automates prior authorizations - we’re starting with clinics that administer the most expensive specialty medications.\r\n\r\nBiologics are expensive medications that cost $80-$150K+ per year per patient, and often need to be administered in specific settings called infusion clinics. Medical providers buy these drugs up front to secure pricing deals and safer inventory - they are reimbursed for the cost of the medications through the patients’ insurance after administration. \r\n\r\nBecause they’re so expensive, these specialty medications are denied by insurers at a rate of 37% each year. When they are denied, providers don’t get reimbursed for the medication and are left covering the costs. Ruma Care solves this so clinics get paid, patients get treated faster, and care teams spend less time fighting insurance. \r\n\r\nWe do this in three ways: \r\n1 For each medication, diagnosis, and insurance combination, Ruma extracts the submission criteria required to get the drug approved by insurers. \r\n2. We pull out the correct forms, then automate the form-filling for prior authorizations. \r\n3. Lastly, we enroll patients in copay assistance programs, all in one workflow and platform. \r\n\r\nWe turn a process that traditionally spans 70+ online portals, disparate paper forms, and manual phone calling into a single, streamlined platform. As we process prior authorizations, our models learn from denial patterns to understand exactly what insurers need to see to get a prior authorization approved. ",
@@ -781,8 +781,8 @@
     "subindustry": "Healthcare",
     "launched_at": 1769561054,
     "tags": [
-      "Artificial Intelligence",
-      "Healthcare"
+      "Healthcare",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1267,8 +1267,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/966b1340bdeb6a7d80ba3f1c34c89a62f57a4bff.png",
     "website": "https://kytentech.com",
     "all_locations": "Seattle, WA, USA",
-    "long_description": "Kyten Technologies builds custom, turnkey battery packs for air, sea, and space vehicles. \r\n100,000+ autonomous vehicles are coming to the air, sea, and space, but the legacy supply chain can't keep up. \r\nDuring our six years at Starlink, we put 5,000+ battery packs into space. Now, we're bringing rapid development and volume production of aerospace-grade battery packs to the entire industry.",
-    "one_liner": "Custom, turnkey battery packs for aerospace vehicles",
+    "long_description": "Kyten Technologies is building a factory to manufacture custom aerospace-grade battery packs. \r\n100,000+ drones, submarines, and satellites are being built in the US, but the legacy supply chain can't keep up. \r\nDuring our six years at Starlink, we put 5,000+ battery packs into space. Now, we're bringing rapid development and volume production of aerospace-grade battery packs to the entire industry.",
+    "one_liner": "Custom aerospace-grade battery pack factory",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -2072,17 +2072,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ec4d813cd81be3598547a305102414461123fea9.png",
     "website": "https://orthogonal.sh",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Orthogonal is where AI agents find and pay for APIs. Instead of managing dozens of API keys, accounts, and billing relationships, agents use a single MCP or SDK to access hundreds of paid APIs on demand.\r\n\r\nAPI providers list once and earn per request. Developers fund one account and we handle payments, auth, and routing. The API economy was built for humans; Orthogonal makes it work for agents.",
+    "long_description": "APIs weren’t built for agents. Orthogonal fixes that. Developers and agents get instant access to hundreds of APIs through our MCP or SDK. No API key management, no billing headaches, pay as you go. API providers list once and become instantly discoverable.",
     "one_liner": "Agentic Payments for APIs",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1769466101,
     "tags": [
+      "Artificial Intelligence",
       "Crypto / Web3",
       "Payments",
-      "API",
-      "AI"
+      "API"
     ],
     "tags_highlighted": [
       "Crypto / Web3"
@@ -2587,8 +2587,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e1e5043a0ffc6163892286ad2ffa62ff671b9be8.png",
     "website": "https://visiblsemi.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Visibl is an on-prem AI platform that turns compute into chip design capacity.\r\n\r\nAs chips grow more complex, adding engineers yields diminishing returns — coordination costs rise while progress slows. The bottleneck is no longer ideas, but execution throughput.\r\n\r\nVisibl turns compute into a teammate. Our AI-native IDE ingests the full design context (code, specs, scripts, tool outputs) to decode ambiguous tool feedback into actionable steps. We validate changes and package decisions for review, resulting in safer changes, shorter iteration cycles, and fewer late surprises on the path to tapeout.",
-    "one_liner": "The AI IDE for chip design.",
+    "long_description": "Visibl is an AI platform that turns compute into chip design capacity.\r\n\r\nAs chips grow more complex, adding engineers yields diminishing returns — coordination costs rise while progress slows. The bottleneck is no longer ideas, but execution throughput.\r\n\r\nVisibl turns compute into a teammate. Our platform ingests the full design context (code, specs, scripts, tool outputs) to decode ambiguous tool feedback into actionable steps. We validate changes and package decisions for review, resulting in safer changes, shorter iteration cycles, and fewer late surprises on the path to tapeout.",
+    "one_liner": "AI agents for chip design.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -2752,13 +2752,14 @@
   },
   {
     "id": 31191,
-    "name": "Clice",
-    "slug": "clice",
+    "name": "Traverse",
+    "slug": "traverse",
     "former_names": [
-      "Clice AI"
+      "Clice AI",
+      "Clice"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2b70bf211f4ebf5c82ae3b52b372c4acc569be0d.png",
-    "website": "https://www.clice.ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e15b7b6ab2a29ad8ce788a73a92e36fd7733b6a.png",
+    "website": "https://www.traverse.so",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
     "one_liner": "Reinforcement learning environments for long horizon agent journeys",
@@ -2767,7 +2768,8 @@
     "subindustry": "B2B",
     "launched_at": 1767260558,
     "tags": [
-      "Reinforcement Learning"
+      "Reinforcement Learning",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2787,8 +2789,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/clice",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/clice.json"
+    "url": "https://www.ycombinator.com/companies/traverse",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/traverse.json"
   },
   {
     "id": 31192,
@@ -3301,7 +3303,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51f7ef12c2171865c4753a3c1623133d92e4becc.png",
     "website": "https://polymathlabs.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Polymath is an applied research lab focused on increasing the reliability and autonomy of AI agents, in order to better serve people. \r\n\r\nWe believe that the primary bottleneck to getting agents to perform reliably across long horizons is the quality, complexity, and scale of RL environments.\r\n\r\nWe're building the infrastructure to produce high-fidelity training and evaluation environments at scale, providing frontier labs with the building blocks they need to make the next breakthrough.",
+    "long_description": "Polymath is an applied research lab focused on increasing the reliability and autonomy of AI agents, in order to better serve people. We believe that the key to getting agents to perform reliably across long horizons is the quality, complexity, and abundance of RL environments.\r\n\r\nWe're building environment factories to produce high-fidelity training and evaluation environments at scale, providing frontier labs with the building blocks they need to make the next breakthrough.",
     "one_liner": "Long-horizon RL",
     "team_size": 2,
     "industry": "B2B",
@@ -3686,7 +3688,9 @@
     "launched_at": 1769199393,
     "tags": [
       "Machine Learning",
-      "SaaS"
+      "SaaS",
+      "B2B",
+      "Analytics"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3847,9 +3851,11 @@
     "subindustry": "B2B -> Legal",
     "launched_at": 1768118288,
     "tags": [
-      "Artificial Intelligence",
+      "SaaS",
       "GovTech",
-      "B2B"
+      "B2B",
+      "Legal",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
