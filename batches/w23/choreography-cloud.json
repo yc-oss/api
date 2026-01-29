@@ -1,0 +1,43 @@
+{
+  "id": 28120,
+  "name": "Choreography Cloud",
+  "slug": "choreography-cloud",
+  "former_names": [
+    "Choreography"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b669dea32d7c73a3c6cc43be32249eb6420cc9d8.png",
+  "website": "https://choreography.cloud",
+  "all_locations": "Menlo Park, CA, USA",
+  "long_description": "Key features in any application involve async, stateful, or long-running behaviors - aka \"workflows\" (think Uber rides, mortgage origination, subscriptions, code deployments, ML model training, etc). \r\n\r\nToday, reliably coordinating such flows usually requires implementing several functions, using queues and scheduled jobs to orchestrate calls to these functions, and relying on storage to track intermediate progress. This set of steps is so ubiquitous in software engineering that there’s a term for it - ‘plumbing’. Arguably, plumbing takes up about a quarter of all coding hours.\r\n\r\nOur product lets an engineer implement a workflow as one coherent block of code, instead of several disjoint pieces of code stitched together. And unlike other workflow orchestrators, we are 100% managed - we take care of provisioning and scaling the infrastructure to support your workflows, so the developer can only worry about coding business logic. Moreover, we offer CI/CD, dynamic configuration, and observability features out of the box, making us the perfect home for all your backend logic, asynchronous or otherwise.",
+  "one_liner": "ship workflows with zero devops",
+  "team_size": 2,
+  "industry": "B2B",
+  "subindustry": "B2B -> Infrastructure",
+  "launched_at": 1672303138,
+  "tags": [
+    "Developer Tools",
+    "SaaS",
+    "B2B"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "W23",
+  "status": "Acquired",
+  "industries": [
+    "B2B",
+    "Infrastructure"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/choreography-cloud",
+  "api": "https://yc-oss.github.io/api/batches/w23/choreography-cloud.json"
+}
