@@ -21696,7 +21696,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "Fintech"
     ],
@@ -29371,7 +29371,7 @@
     "all_locations": "London, England, United Kingdom",
     "long_description": "QFEX is the 24/7 exchange for traditional financial markets.\r\n\r\nWe let you trade US equities, commodities and FX pairs with (or without) leverages of up to 100x. On QFEX, UX comes first: brokerless market access, seamless integration with traditional payment rails, and ultra-efficient Perpetual Futures offered over all asset classes. Trading has never been simpler, cheaper or fairer than with QFEX.\r\n\r\nFounded by Quants and Engineers from Citadel & Tower Research who saw an opportunity to make markets how they always should have been, QFEX will eventually replace the entire $100 billion exchange and clearing industry.",
     "one_liner": "24/7 Global Stock Exchange",
-    "team_size": 6,
+    "team_size": 9,
     "industry": "Fintech",
     "subindustry": "Fintech -> Banking and Exchange",
     "launched_at": 1747069734,
@@ -30227,6 +30227,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/freeport-markets.json"
   },
   {
+    "id": 31048,
+    "name": "FullSeam",
+    "slug": "fullseam",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7d791283eb9d18f99f2eee62fd335ead9af79f84.png",
+    "website": "https://www.fullseam.com",
+    "all_locations": "",
+    "long_description": "FullSeam is an AI employee for finance and accounting teams. It logs into a company's accounting, billing, banking, and CRM tools and completes routine tasks typically done manually — like accounts receivable, accounts payable, billing, and updating financial records.",
+    "one_liner": "FullSeam is an AI employee for finance and accounting teams.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1769713322,
+    "tags": [
+      "FinOps",
+      "Fintech",
+      "SaaS",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/fullseam",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/fullseam.json"
+  },
+  {
     "id": 31083,
     "name": "Kita",
     "slug": "kita",
@@ -30528,16 +30570,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae2096fe98e5cb289362ddf9936e4dfe3407ee0f.png",
     "website": "https://getbalance.ai",
     "all_locations": "",
-    "long_description": "Balance is an AI accountancy helping SMBs close their monthly books. Our agent work as an in-house finance hire, chasing unpaid invoices, preparing monthly reports, and flagging issues before they worsen.\r\nWe currently have 20 customers in Europe and growing +20% MoM",
+    "long_description": "Balance is an AI accountancy helping SMBs close their monthly books. Our agent work as an in-house finance hire, chasing unpaid invoices, preparing monthly reports, and flagging issues before they worsen.\r\n",
     "one_liner": "Full-Stack AI Accounting",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1768976472,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,

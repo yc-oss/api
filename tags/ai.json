@@ -5014,53 +5014,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2021/parsagon.json"
   },
   {
-    "id": 22835,
-    "name": "Vapi",
-    "slug": "vapi",
-    "former_names": [
-      "InvestBetter",
-      "Superpowered",
-      "Vapi (formerly Superpowered)",
-      "Vapi / Superpowered",
-      "Superpowered",
-      "Vapi / Superpowered",
-      "Superpowered"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3818df985d5f502f5dc4a6816903ce174528467f.png",
-    "website": "https://vapi.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "Voice AI for developers.",
-    "team_size": 40,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1614827434,
-    "tags": [
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2021",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/vapi",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/vapi.json"
-  },
-  {
     "id": 22850,
     "name": "Quadrant Health",
     "slug": "quadrant-health",
@@ -11273,6 +11226,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/aurelian",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/aurelian.json"
+  },
+  {
+    "id": 27037,
+    "name": "Metriport",
+    "slug": "metriport",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d4da680d3cdee4cc7ad6408d3177026092f04c75.png",
+    "website": "https://metriport.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Metriport provides real-time access to comprehensive medical data for 300M+ individuals across the US. Our open-source intelligence platform helps organizations access, analyze, and exchange patient data while integrating with all major healthcare IT systems.\r\n\r\nIf you’ve been to doctors in the US, you may have encountered the problem: how does a healthcare provider get access to your up-to-date medical history to treat you properly? Reliance on archaic methods is still the norm: typically, you or your provider need to call the facilities where you’ve previously received treatment (assuming you remember them all), just to have them send your records via fax (yep, fax). This can take weeks, only then to have a provider sift through hundreds of pages of unstructured docs, just to figure out basic things like your active medication list, what conditions you may have, latest lab results, etc. This not only delays care—it can cause improper treatment, since the medical history is critical for informing treatment decisions. \r\n\r\nMetriport integrates fragmented medical data from thousands of sources—including both national and state/regional Health Information Exchanges (HIEs), ADTs, EHRs, pharmacies, and labs—through a single API connector. The platform then standardizes, deduplicates, and enriches this data to create a comprehensive longitudinal patient record, with AI-powered clinical summaries. \r\n\r\nAlong with a rich understanding of patient health history, healthcare providers also get realtime updates about their patients' health through Metriport. This includes getting notified when a patient is discharged from the hospital, picks up their prescription from the pharmacy, or has a new lab result available. Through this data, care teams get insights across their patient population, helping with 30-day readmissions prediction, care gap closure, risk adjustment, and more.\r\n\r\nOn top of all of this, Metriport enables healthcare organizations to share net-new clinical information back to all major healthcare IT systems, and to become interoperable with popular EHR systems such as Epic, Cerner, athena, eClinicalWorks, and many more—forming an internet for healthcare data.\r\n\r\nMetriport improves both patient and provider lives at the point-of-care, supporting use cases such as medication adherence, transitions of care management, chart prep, and much more. If you want to do work that matters, get in touch with us today.",
+    "one_liner": "Open-Source Platform for Healthcare Data Intelligence",
+    "team_size": 16,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1654554081,
+    "tags": [
+      "B2B",
+      "Digital Health",
+      "Healthcare",
+      "API",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/metriport",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/metriport.json"
   },
   {
     "id": 27038,
@@ -21290,13 +21288,14 @@
   },
   {
     "id": 29605,
-    "name": "Educato AI",
-    "slug": "educato-ai",
+    "name": "Educato",
+    "slug": "educato",
     "former_names": [
-      "ASTAR Learning"
+      "ASTAR Learning",
+      "Educato AI"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/959f8b12f65c728c10162e5fc682b6a3dae63f4f.png",
-    "website": "https://www.educato.ai/",
+    "website": "https://www.educato.com/",
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Educato builds exam prep platforms worldwide using AI.\r\n\r\nOnline exam prep has existed for decades, yet the big players all target the same top 10 exams in the US. The reality is that most exams around the world still have little to no quality online prep material, including many taken by hundreds of thousands of students each year. Educato uses AI to generate high-quality prep content for these exams. LLMs allow us to target the profitable fat middle in the distribution of exams, historically overlooked by education companies.",
     "one_liner": "AI-Powered Worldwide exam-prep platform",
@@ -21329,8 +21328,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/educato-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/educato-ai.json"
+    "url": "https://www.ycombinator.com/companies/educato",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/educato.json"
   },
   {
     "id": 29633,
@@ -21599,7 +21598,7 @@
     "slug": "maitai",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c3c6b9b422d6e861a26fcf29a7acd2c4eae136af.png",
-    "website": "https://trymaitai.ai",
+    "website": "https://trymaitai.com",
     "all_locations": "",
     "long_description": "Maitai makes building reliable AI applications easy. We autocorrect faulty model output in real-time and automatically fine-tune models that learn from their mistakes. This means our customers get more reliable results immediately, and over time, they gain custom models built specifically for their application that only get better and faster. You wouldn’t hire an employee who doesn’t learn from their mistakes—so why use a model that doesn’t? Maitai is here to deliver the next generation of reliable AI inference.",
     "one_liner": "Reliable, self-improving enterprise AI",
@@ -27674,6 +27673,52 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/zeon-systems.json"
   },
   {
+    "id": 30438,
+    "name": "Beluga",
+    "slug": "beluga",
+    "former_names": [
+      "Beluga Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/11644b045eb253141d3efc6875010730a886df27.png",
+    "website": "https://www.trybeluga.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Using our 6+ years of influencer marketing experience to help companies run their influencer campaigns at scale. Fully managed solution to drive real, attributable results to their marketing efforts.",
+    "one_liner": "Influencer marketing that converts",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1748129784,
+    "tags": [
+      "Marketing",
+      "Advertising",
+      "Creator Economy",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/beluga",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/beluga.json"
+  },
+  {
     "id": 30440,
     "name": "Sim",
     "slug": "sim",
@@ -29801,47 +29846,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/theinterface.json"
   },
   {
-    "id": 30688,
-    "name": "Fulcrum",
-    "slug": "fulcrum",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/35c56987ac351304ba02872fb865e4cb5eebbc22.png",
-    "website": "https://fulcrumresearch.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We build red-teaming agents that help developers fix their RL environments and improve their agents.\r\n\r\nOur customers are tired of being bullshitted by their agents.",
-    "one_liner": "The agentic debugger for AI systems",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1756517840,
-    "tags": [
-      "AIOps",
-      "Generative AI",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/fulcrum",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/fulcrum.json"
-  },
-  {
     "id": 30692,
     "name": "Candytrail",
     "slug": "candytrail",
@@ -30743,6 +30747,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/burnt",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/burnt.json"
+  },
+  {
+    "id": 30805,
+    "name": "RealRoots",
+    "slug": "realroots",
+    "former_names": [
+      "RealRoots Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e4b72e88bef4437e7d672c23bb7e1f952c837fca.png",
+    "website": "http://www.therealroots.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "This is where real friendships begin. Women use our mobile app to talk to Lisa, our AI matchmaker, and get set up for fun social experiences with compatible new friends, all planned and coordinated by AI.",
+    "one_liner": "AI social app for women",
+    "team_size": 7,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Social",
+    "launched_at": 1750729944,
+    "tags": [
+      "Marketplace",
+      "Consumer",
+      "Social Network",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Social"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/realroots",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/realroots.json"
   },
   {
     "id": 30816,
@@ -32450,49 +32498,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/boom-ai.json"
   },
   {
-    "id": 30989,
-    "name": "Bluma",
-    "slug": "bluma",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2fb4b30a87ff49eecaaa2a8e93e689ddecfde446.png",
-    "website": "https://www.getbluma.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Bluma is the first AI short form content engine.\r\n\r\nIn a post-AI world, attention is the most valuable commodity. Social media is only growing faster and faster, and we're still early.\r\n\r\nWe automate your entire consumer marketing strategy with content templates, generating on brand videos on autopilot.\r\n\r\nEverything that a growth team would plan, script, produce, and edit, Bluma automates end-to-end and at scale. We can make entire UGC videos from a reference at 10x the scale and 1/10th of the cost. We remove the operations of hiring, managing, creatives and spend with AI.",
-    "one_liner": "The new media distribution company",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1758933765,
-    "tags": [
-      "B2B",
-      "Social Media",
-      "Video",
-      "Marketing",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/bluma",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/bluma.json"
-  },
-  {
     "id": 30990,
     "name": "Stratus Aviation",
     "slug": "stratus-aviation",
@@ -32789,6 +32794,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/rivet-design.json"
   },
   {
+    "id": 31048,
+    "name": "FullSeam",
+    "slug": "fullseam",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7d791283eb9d18f99f2eee62fd335ead9af79f84.png",
+    "website": "https://www.fullseam.com",
+    "all_locations": "",
+    "long_description": "FullSeam is an AI employee for finance and accounting teams. It logs into a company's accounting, billing, banking, and CRM tools and completes routine tasks typically done manually — like accounts receivable, accounts payable, billing, and updating financial records.",
+    "one_liner": "FullSeam is an AI employee for finance and accounting teams.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1769713322,
+    "tags": [
+      "FinOps",
+      "Fintech",
+      "SaaS",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/fullseam",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/fullseam.json"
+  },
+  {
     "id": 31051,
     "name": "Corvera",
     "slug": "corvera",
@@ -32875,47 +32922,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/arc-prize-foundation",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/arc-prize-foundation.json"
-  },
-  {
-    "id": 31062,
-    "name": "Hlabs",
-    "slug": "hlabs",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2007aefe34bda2618000c044128494ad2cb4af5f.png",
-    "website": "https://www.hlaboratories.com",
-    "all_locations": "Austin, TX, USA",
-    "long_description": "Robotics is going to be one of the largest industries the world has ever seen, but right now teams have to build so much in house just to get something to move. Hlabs is making a plug-and-play ecosystem of robotic parts with simple opensource software libraries to reduce the complexity in building a robot.\r\n\r\nHlabs is founded by Paul, a second time YC founder who also participated in the W21 batch with Mystic. He ran Mystic as CEO for 6 years.\r\n\r\nFrom the first launch in October 2025 over 40 robotics companies have placed orders for the actuator control product. Hlabs is targeting Q1 '26 for the release of several additional plug-and-play products including an Nvidia Jetson powered main board, a low cost expandable camera system, and wireless communication/video module to make every robot wireless out of the box.\r\n\r\n",
-    "one_liner": "Developer friendly robotics",
-    "team_size": 1,
-    "industry": "Industrials",
-    "subindustry": "Industrials",
-    "launched_at": 1763422443,
-    "tags": [
-      "Hardware",
-      "Robotics",
-      "Electronics",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "Industrials"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/hlabs",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/hlabs.json"
   },
   {
     "id": 31077,
@@ -33051,10 +33057,10 @@
     "name": "Ruma Care",
     "slug": "ruma-care",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/96d6cbd2dad919f1782589f2fb4568b9499bf534.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/34241c57767208be0982fd04163c52d69a91a82c.png",
     "website": "https://rumacare.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ruma Care automates prior authorizations - we’re starting with clinics that administer the most expensive specialty medications.\r\n\r\nBiologics are expensive medications that cost $80-$150K+ per year per patient, and often need to be administered in specific settings called infusion clinics. Medical providers buy these drugs up front to secure pricing deals and safer inventory - they are reimbursed for the cost of the medications through the patients’ insurance after administration. \r\n\r\nBecause they’re so expensive, these specialty medications are denied by insurers at a rate of 37% each year. When they are denied, providers don’t get reimbursed for the medication and are left covering the costs. Ruma Care solves this so clinics get paid, patients get treated faster, and care teams spend less time fighting insurance. \r\n\r\nWe do this in three ways: \r\n1 For each medication, diagnosis, and insurance combination, Ruma extracts the submission criteria required to get the drug approved by insurers. \r\n2. We pull out the correct forms, then automate the form-filling for prior authorizations. \r\n3. Lastly, we enroll patients in copay assistance programs, all in one workflow and platform. \r\n\r\nWe turn a process that traditionally spans 70+ online portals, disparate paper forms, and manual phone calling into a single, streamlined platform. As we process prior authorizations, our models learn from denial patterns to understand exactly what insurers need to see to get a prior authorization approved. ",
+    "long_description": "Ruma Care automates prior authorizations - we’re starting with clinics that administer the most expensive specialty medications.\r\n\r\nBiologics are expensive medications that cost $80-$150K+ per year per patient, and often need to be administered in specific settings called infusion clinics. Medical providers buy these drugs up front to secure pricing deals and safer inventory - they are reimbursed for the cost of the medications through the patients’ insurance. \r\n\r\nBecause they’re so expensive, these specialty medications are denied by insurers at a rate of 37% each year. When they are denied, providers don’t get reimbursed for the medication and are left covering the costs. Ruma Care solves this so clinics get paid, patients get treated faster, and care teams spend less time fighting insurance. \r\n\r\nWe do this in three ways: \r\n1. For each medication, diagnosis, and insurance combination, Ruma extracts the submission criteria required to get the drug approved by insurers. \r\n2. We pull out the correct forms, then automate the form-filling for prior authorizations. \r\n3. Lastly, we enroll patients in copay assistance programs, all in one workflow and platform. \r\n\r\nWe turn a process that traditionally spans 70+ online portals, disparate paper forms, and manual phone calling into a single, streamlined platform. As we process prior authorizations, our models learn from denial patterns to understand exactly what insurers need to see to get a prior authorization approved. ",
     "one_liner": "We help clinics get patients on biologics faster",
     "team_size": 2,
     "industry": "Healthcare",
@@ -33169,6 +33175,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/10x-science",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/10x-science.json"
+  },
+  {
+    "id": 31112,
+    "name": "Burt",
+    "slug": "burt",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a11400ce1b300bf129e9c9b8227340f5de10efd.png",
+    "website": "https://www.trainburt.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We help teams train and deploy models specialized for their domain and use cases.\r\n\r\nGeneralist, proprietary models are impressive and have their place but at production scale and usage you need your AI agents to be powered by models that are specialists. Models you own, trained on your data, that can continuously improve for your use cases.\r\n\r\nWe've helped teams build small, specialized LLMs/VLMs that outperform SOTA models like gemini-3-flash/pro while being 10x faster and cheaper. ",
+    "one_liner": "Easily fine tune and deploy specialized models",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1766971540,
+    "tags": [
+      "Machine Learning",
+      "Reinforcement Learning",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/burt",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/burt.json"
   },
   {
     "id": 31117,
@@ -33307,7 +33353,7 @@
     "website": "https://codewisp.net/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "CodeWisp lets anyone build and publish web games using plain-English prompts.\r\n\r\nTraditional game development requires learning complex engines, managing assets and code, and following rigid workflows, making it slow and inaccessible for most people.\r\n\r\nWith CodeWisp, users describe the game they want. CodeWisp generates the game’s code, structure, and assets, and users can refine it with follow-up prompts. This makes it possible to go from idea to a playable web game in minutes, without prior game-development experience.",
-    "one_liner": "Anyone can easily create real web games with AI",
+    "one_liner": "Anyone can create real games with AI",
     "team_size": 3,
     "industry": "Consumer",
     "subindustry": "Consumer -> Gaming",
@@ -33892,49 +33938,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/o11.json"
   },
   {
-    "id": 31236,
-    "name": "Balance",
-    "slug": "getbalance",
-    "former_names": [
-      "Balance",
-      "Balance AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae2096fe98e5cb289362ddf9936e4dfe3407ee0f.png",
-    "website": "https://getbalance.ai",
-    "all_locations": "",
-    "long_description": "Balance is an AI accountancy helping SMBs close their monthly books. Our agent work as an in-house finance hire, chasing unpaid invoices, preparing monthly reports, and flagging issues before they worsen.\r\nWe currently have 20 customers in Europe and growing +20% MoM",
-    "one_liner": "Full-Stack AI Accounting",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1768976472,
-    "tags": [
-      "Fintech",
-      "Automation",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/getbalance",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/getbalance.json"
-  },
-  {
     "id": 31241,
     "name": "Corelayer",
     "slug": "corelayer",
@@ -34062,6 +34065,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/moda",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/moda.json"
+  },
+  {
+    "id": 31259,
+    "name": "Tsenta",
+    "slug": "tsenta",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5670afa2f39d71d15be15ed4c56ae5e0a65dbea4.png",
+    "website": "https://tsenta.com",
+    "all_locations": "",
+    "long_description": "Tsenta is a desktop app that matches you with jobs, optimizes your profile & applies on your behalf. It runs on your device, so you have granular control over every application being submitted in real-time.\r\n\r\nWe built Tsenta after applying to over 3,000 jobs manually, so that nobody else would have to.\r\n\r\nCheck us out at https://tsenta.com :)",
+    "one_liner": "AI-Native, On-Device Job Automation",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Job and Career Services",
+    "launched_at": 1769729252,
+    "tags": [
+      "Consumer",
+      "Recruiting",
+      "HR Tech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Job and Career Services"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tsenta",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/tsenta.json"
   },
   {
     "id": 31283,

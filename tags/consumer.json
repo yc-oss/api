@@ -4977,7 +4977,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "Fintech"
     ],
@@ -9900,19 +9900,19 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "This is where real friendships begin. Women use our mobile app to talk to Lisa, our AI matchmaker, and get set up for fun social experiences with compatible new friends, all planned and coordinated by AI.",
     "one_liner": "AI social app for women",
-    "team_size": 4,
+    "team_size": 7,
     "industry": "Consumer",
     "subindustry": "Consumer -> Social",
     "launched_at": 1750729944,
     "tags": [
-      "Artificial Intelligence",
       "Marketplace",
       "Consumer",
-      "Social Network"
+      "Social Network",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -10367,7 +10367,7 @@
     "website": "https://codewisp.net/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "CodeWisp lets anyone build and publish web games using plain-English prompts.\r\n\r\nTraditional game development requires learning complex engines, managing assets and code, and following rigid workflows, making it slow and inaccessible for most people.\r\n\r\nWith CodeWisp, users describe the game they want. CodeWisp generates the game’s code, structure, and assets, and users can refine it with follow-up prompts. This makes it possible to go from idea to a playable web game in minutes, without prior game-development experience.",
-    "one_liner": "Anyone can easily create real web games with AI",
+    "one_liner": "Anyone can create real games with AI",
     "team_size": 3,
     "industry": "Consumer",
     "subindustry": "Consumer -> Gaming",
@@ -10444,5 +10444,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pax-historia",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/pax-historia.json"
+  },
+  {
+    "id": 31259,
+    "name": "Tsenta",
+    "slug": "tsenta",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5670afa2f39d71d15be15ed4c56ae5e0a65dbea4.png",
+    "website": "https://tsenta.com",
+    "all_locations": "",
+    "long_description": "Tsenta is a desktop app that matches you with jobs, optimizes your profile & applies on your behalf. It runs on your device, so you have granular control over every application being submitted in real-time.\r\n\r\nWe built Tsenta after applying to over 3,000 jobs manually, so that nobody else would have to.\r\n\r\nCheck us out at https://tsenta.com :)",
+    "one_liner": "AI-Native, On-Device Job Automation",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Job and Career Services",
+    "launched_at": 1769729252,
+    "tags": [
+      "Consumer",
+      "Recruiting",
+      "HR Tech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Job and Career Services"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tsenta",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/tsenta.json"
   }
 ]

@@ -7400,6 +7400,53 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2021/alinea.json"
   },
   {
+    "id": 22835,
+    "name": "Vapi",
+    "slug": "vapi",
+    "former_names": [
+      "InvestBetter",
+      "Superpowered",
+      "Vapi (formerly Superpowered)",
+      "Vapi / Superpowered",
+      "Superpowered",
+      "Vapi / Superpowered",
+      "Superpowered"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/051e60e4dbdfee28059cc96976242e1fdc7b157b.png",
+    "website": "https://vapi.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Voice AI for developers.",
+    "team_size": 50,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1614827434,
+    "tags": [
+      "Artificial Intelligence"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2021",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/vapi",
+    "api": "https://yc-oss.github.io/api/batches/winter-2021/vapi.json"
+  },
+  {
     "id": 22855,
     "name": "Mindee",
     "slug": "mindee",
@@ -8263,6 +8310,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/marqvision",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/marqvision.json"
+  },
+  {
+    "id": 23459,
+    "name": "Routine",
+    "slug": "routine",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a83287c586a112549fd07af3737d8b67becbeeaf.png",
+    "website": "http://routine.co",
+    "all_locations": "Paris, Île-de-France, France",
+    "long_description": "Routine is an all-in-one workspace that allows individuals and team to manage their work and life through a single app.\r\n\r\nRoutine centralizes work (tasks, meetings, tickets, clients etc.) from third-party services (Github, Salesforce, Hubspot, Slack, Dropbox etc.) into a graph-based unified workspace allowing seamless cross-referencing, 360-degree overview, data enrichment and visualization.\r\n\r\nBy integrating with existing tools, Routine connects and enriches fragmented information, allowing users to track projects, collaborate efficiently, and make better decisions without having to constantly switch between multiple apps.\r\n\r\nIts data-driven and local-first approach ensures the information remains accessible and performant even without cloud connectivity.",
+    "one_liner": "AI-native all-in-one workspace for startups",
+    "team_size": 8,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1614700212,
+    "tags": [
+      "Artificial Intelligence",
+      "Productivity",
+      "Collaboration",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2021",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "France",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/routine",
+    "api": "https://yc-oss.github.io/api/batches/winter-2021/routine.json"
   },
   {
     "id": 23521,
@@ -13404,51 +13495,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/rima-ai.json"
   },
   {
-    "id": 27037,
-    "name": "Metriport",
-    "slug": "metriport",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d4da680d3cdee4cc7ad6408d3177026092f04c75.png",
-    "website": "https://metriport.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Metriport provides real-time access to comprehensive medical data for 300M+ individuals across the US. Our open-source intelligence platform helps organizations access, analyze, and exchange patient data while integrating with all major healthcare IT systems.\r\n\r\nIf you’ve been to doctors in the US, you may have encountered the problem: how does a healthcare provider get access to your up-to-date medical history to treat you properly? Reliance on archaic methods is still the norm: typically, you or your provider need to call the facilities where you’ve previously received treatment (assuming you remember them all), just to have them send your records via fax (yep, fax). This can take weeks, only then to have a provider sift through hundreds of pages of unstructured docs, just to figure out basic things like your active medication list, what conditions you may have, latest lab results, etc. This not only delays care—it can cause improper treatment, since the medical history is critical for informing treatment decisions. \r\n\r\nMetriport integrates fragmented medical data from thousands of sources—including both national and state/regional Health Information Exchanges (HIEs), ADTs, EHRs, pharmacies, and labs—through a single API connector. The platform then standardizes, deduplicates, and enriches this data to create a comprehensive longitudinal patient record, with AI-powered clinical summaries. \r\n\r\nAlong with a rich understanding of patient health history, healthcare providers also get realtime updates about their patients' health through Metriport. This includes getting notified when a patient is discharged from the hospital, picks up their prescription from the pharmacy, or has a new lab result available. Through this data, care teams get insights across their patient population, helping with 30-day readmissions prediction, care gap closure, risk adjustment, and more.\r\n\r\nOn top of all of this, Metriport enables healthcare organizations to share net-new clinical information back to all major healthcare IT systems, and to become interoperable with popular EHR systems such as Epic, Cerner, athena, eClinicalWorks, and many more—forming an internet for healthcare data.\r\n\r\nMetriport improves both patient and provider lives at the point-of-care, supporting use cases such as medication adherence, transitions of care management, chart prep, and much more. If you want to do work that matters, get in touch with us today.",
-    "one_liner": "Open-Source Platform for Healthcare Data Intelligence",
-    "team_size": 15,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1654554081,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Digital Health",
-      "Healthcare",
-      "API"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/metriport",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/metriport.json"
-  },
-  {
     "id": 27041,
     "name": "Feather",
     "slug": "feather-2",
@@ -13672,7 +13718,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -18759,7 +18805,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -24706,7 +24752,7 @@
     "slug": "maitai",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c3c6b9b422d6e861a26fcf29a7acd2c4eae136af.png",
-    "website": "https://trymaitai.ai",
+    "website": "https://trymaitai.com",
     "all_locations": "",
     "long_description": "Maitai makes building reliable AI applications easy. We autocorrect faulty model output in real-time and automatically fine-tune models that learn from their mistakes. This means our customers get more reliable results immediately, and over time, they gain custom models built specifically for their application that only get better and faster. You wouldn’t hire an employee who doesn’t learn from their mistakes—so why use a model that doesn’t? Maitai is here to deliver the next generation of reliable AI inference.",
     "one_liner": "Reliable, self-improving enterprise AI",
@@ -31778,52 +31824,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/chonkie.json"
   },
   {
-    "id": 30438,
-    "name": "Beluga",
-    "slug": "beluga",
-    "former_names": [
-      "Beluga Labs"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/11644b045eb253141d3efc6875010730a886df27.png",
-    "website": "https://www.belugalabs.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Using our 7+ years of influencer marketing experience to help companies run their influencer campaigns at scale. Fully managed solution to drive real, attributable results to their marketing efforts.",
-    "one_liner": "Influencer marketing that converts",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1748129784,
-    "tags": [
-      "Artificial Intelligence",
-      "Marketing",
-      "Advertising",
-      "Creator Economy"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/beluga",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/beluga.json"
-  },
-  {
     "id": 30439,
     "name": "Clarm",
     "slug": "clarm",
@@ -35852,50 +35852,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/luminal.json"
   },
   {
-    "id": 30805,
-    "name": "RealRoots",
-    "slug": "realroots",
-    "former_names": [
-      "RealRoots Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e4b72e88bef4437e7d672c23bb7e1f952c837fca.png",
-    "website": "http://www.therealroots.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "This is where real friendships begin. Women use our mobile app to talk to Lisa, our AI matchmaker, and get set up for fun social experiences with compatible new friends, all planned and coordinated by AI.",
-    "one_liner": "AI social app for women",
-    "team_size": 4,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Social",
-    "launched_at": 1750729944,
-    "tags": [
-      "Artificial Intelligence",
-      "Marketplace",
-      "Consumer",
-      "Social Network"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Social"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/realroots",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/realroots.json"
-  },
-  {
     "id": 30807,
     "name": "Paloma",
     "slug": "paloma",
@@ -37702,6 +37658,49 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/boom-ai.json"
   },
   {
+    "id": 30989,
+    "name": "Bluma",
+    "slug": "bluma",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2fb4b30a87ff49eecaaa2a8e93e689ddecfde446.png",
+    "website": "https://www.getbluma.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Bluma is the first AI short form content engine.\r\n\r\nIn a post-AI world, attention is the most valuable commodity. Social media is only growing faster and faster, and we're still early.\r\n\r\nWe automate your entire consumer marketing strategy with content templates, generating on brand videos on autopilot.\r\n\r\nEverything that a growth team would plan, script, produce, and edit, Bluma automates end-to-end and at scale. We can make entire UGC videos from a reference at 10x the scale and 1/10th of the cost. We remove the operations of hiring, managing, creatives and spend with AI.",
+    "one_liner": "AI short form content engine",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1758933765,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Social Media",
+      "Video",
+      "Marketing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bluma",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/bluma.json"
+  },
+  {
     "id": 30993,
     "name": "DiligenceSquared",
     "slug": "diligencesquared-inc",
@@ -37724,7 +37723,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -38082,6 +38081,47 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/arc-prize-foundation.json"
   },
   {
+    "id": 31062,
+    "name": "Hlabs",
+    "slug": "hlabs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2007aefe34bda2618000c044128494ad2cb4af5f.png",
+    "website": "https://www.hlaboratories.com",
+    "all_locations": "Austin, TX, USA",
+    "long_description": "Robotics is going to be one of the largest industries the world has ever seen, but right now teams have to build so much in house just to get something to move. Hlabs is working on bringing robotics manufacturing back to the USA.\r\n\r\nHlabs is founded by Paul, a second time YC founder who also participated in the W21 batch with Mystic. He ran Mystic as CEO for 6 years.\r\n\r\n",
+    "one_liner": "Developer friendly robotics",
+    "team_size": 1,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1763422443,
+    "tags": [
+      "Artificial Intelligence",
+      "Hardware",
+      "Robotics",
+      "Electronics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hlabs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/hlabs.json"
+  },
+  {
     "id": 31094,
     "name": "Lexius",
     "slug": "lexius",
@@ -38166,46 +38206,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/legalos",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/legalos.json"
-  },
-  {
-    "id": 31112,
-    "name": "Burt",
-    "slug": "burt",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a11400ce1b300bf129e9c9b8227340f5de10efd.png",
-    "website": "https://www.trainburt.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We help teams fine tune and deploy models specialized for their domain and use cases.\r\n\r\nGeneralist, proprietary models like gpt-5 and claude are impressive and have their place but for your most important tasks you need your AI agents to be powered by models that are specialists. Models you own, trained on your data, that can continuously improve for your use cases.",
-    "one_liner": "Easily fine tune and deploy specialized models",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1766971540,
-    "tags": [
-      "Artificial Intelligence",
-      "Machine Learning",
-      "Reinforcement Learning"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/burt",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/burt.json"
   },
   {
     "id": 31132,
@@ -38300,7 +38300,7 @@
     "website": "https://codewisp.net/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "CodeWisp lets anyone build and publish web games using plain-English prompts.\r\n\r\nTraditional game development requires learning complex engines, managing assets and code, and following rigid workflows, making it slow and inaccessible for most people.\r\n\r\nWith CodeWisp, users describe the game they want. CodeWisp generates the game’s code, structure, and assets, and users can refine it with follow-up prompts. This makes it possible to go from idea to a playable web game in minutes, without prior game-development experience.",
-    "one_liner": "Anyone can easily create real web games with AI",
+    "one_liner": "Anyone can create real games with AI",
     "team_size": 3,
     "industry": "Consumer",
     "subindustry": "Consumer -> Gaming",
@@ -38431,7 +38431,7 @@
     "slug": "orthogonal",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ec4d813cd81be3598547a305102414461123fea9.png",
-    "website": "https://orthogonal.sh",
+    "website": "https://orthogonal.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "APIs weren’t built for agents. Orthogonal fixes that. Developers and agents get instant access to hundreds of APIs through our MCP or SDK. No API key management, no billing headaches, pay as you go. API providers list once and become instantly discoverable.",
     "one_liner": "Agentic Payments for APIs",
@@ -39151,6 +39151,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sequence-markets",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/sequence-markets.json"
+  },
+  {
+    "id": 31236,
+    "name": "Balance",
+    "slug": "getbalance",
+    "former_names": [
+      "Balance",
+      "Balance AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae2096fe98e5cb289362ddf9936e4dfe3407ee0f.png",
+    "website": "https://getbalance.ai",
+    "all_locations": "",
+    "long_description": "Balance is an AI accountancy helping SMBs close their monthly books. Our agent work as an in-house finance hire, chasing unpaid invoices, preparing monthly reports, and flagging issues before they worsen.\r\n",
+    "one_liner": "Full-Stack AI Accounting",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1768976472,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/getbalance",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/getbalance.json"
   },
   {
     "id": 31241,
