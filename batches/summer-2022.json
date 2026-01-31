@@ -934,7 +934,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Infrastructure"
@@ -5101,17 +5101,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d57b2b10c7e35a1990c9ac0bf09d58abdb4ff9d5.png",
     "website": "https://mistle.dev",
     "all_locations": "Singapore, Singapore; Remote",
-    "long_description": "Mistle is the best way for non-technical builders to learn and build with AI.",
-    "one_liner": "Cursor for non-technical builders",
+    "long_description": "Mistle helps engineering teams run reliable background agents that take care of routine, well-scoped work. The agents verify their own output, enabling teams to rely on results with minimal supervision.",
+    "one_liner": "Platform for running autonomous coding agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1654527668,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5225,7 +5225,7 @@
     "name": "NewsCatcher",
     "slug": "newscatcher",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c238653d6d11d74bfeda7930d08d87818ac2d50f.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4e6df1d33e5151e6b36a83a91e94b8bb2550c930.png",
     "website": "https://newscatcherapi.com/",
     "all_locations": "Kyiv, Ukraine; Remote",
     "long_description": "NewsCatcher collects multi-language news data from 140,000+ sources and over 1.5 million articles daily, enriches every item and delivers only the signals a client cares about—already mapped to their data models, tools, and security requirements. Alongside news, we also cover signals from municipal, government, regulatory, and corporate sources. \r\n\r\nToday, risk departments, policy teams, product strategists, and AI researchers rely on NewsCatcher to surface mission‑critical events in seconds and keep them embedded in workflows for years.",
@@ -5235,11 +5235,11 @@
     "subindustry": "B2B -> Analytics",
     "launched_at": 1659698356,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Enterprise",
       "Big Data",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6303,7 +6303,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -7329,8 +7329,8 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/65bf3f581eea5d1a5b7640c508e3fc0e7c8930f9.png",
     "website": "https://lamin.ai",
-    "all_locations": "Munich, BY, Germany",
-    "long_description": "Query, trace, and validate datasets and models at scale.\r\n\r\nAutomate context for agents and humans.\r\n\r\nOne API: lakehouse, lineage, feature store, ontologies, bio-registries & formats.",
+    "all_locations": "",
+    "long_description": "Query, trace, and validate datasets and models at scale. Automate context for agents and humans.\r\n\r\nOne API: lakehouse, lineage, feature store, ontologies, bio-registries & formats.",
     "one_liner": "Open data framework for biology",
     "team_size": 10,
     "industry": "Healthcare",
@@ -7354,8 +7354,6 @@
       "Healthcare IT"
     ],
     "regions": [
-      "Germany",
-      "Europe",
       "Remote",
       "Partly Remote"
     ],

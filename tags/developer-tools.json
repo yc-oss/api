@@ -1328,7 +1328,7 @@
     "all_locations": "Oakland, CA, USA",
     "long_description": "Teleport unifies identities — humans, machines, and AI — with strong identity implementation to speed up engineering, improve resiliency against identity-based attacks, and secure AI in production infrastructure.\r\n",
     "one_liner": "The Infrastructure Identity Company",
-    "team_size": 200,
+    "team_size": 255,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1427508315,
@@ -1353,7 +1353,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -9826,7 +9826,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -11940,8 +11940,8 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/65bf3f581eea5d1a5b7640c508e3fc0e7c8930f9.png",
     "website": "https://lamin.ai",
-    "all_locations": "Munich, BY, Germany",
-    "long_description": "Query, trace, and validate datasets and models at scale.\r\n\r\nAutomate context for agents and humans.\r\n\r\nOne API: lakehouse, lineage, feature store, ontologies, bio-registries & formats.",
+    "all_locations": "",
+    "long_description": "Query, trace, and validate datasets and models at scale. Automate context for agents and humans.\r\n\r\nOne API: lakehouse, lineage, feature store, ontologies, bio-registries & formats.",
     "one_liner": "Open data framework for biology",
     "team_size": 10,
     "industry": "Healthcare",
@@ -11965,8 +11965,6 @@
       "Healthcare IT"
     ],
     "regions": [
-      "Germany",
-      "Europe",
       "Remote",
       "Partly Remote"
     ],
@@ -16908,7 +16906,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/29585cd58ffa28775d545a62edb03b71fdea79f2.png",
     "website": "https://getdecipher.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Decipher learns from session replays and writes reliable tests that prevent regressions on all your product flows. Plus get alerted when a bug hits production users.",
+    "long_description": "Decipher AI generates your E2E tests, maintains them as you ship, and catches issues before customers do. Plus, get alerted when users hit live bugs.\r\n\r\nUsed by the fastest shipping companies including Bilt, Arize, and Vial.",
     "one_liner": "QA agents that write tests 10x faster with zero maintenance",
     "team_size": 4,
     "industry": "B2B",
@@ -16919,7 +16917,7 @@
       "Developer Tools",
       "B2B",
       "Enterprise Software",
-      "Monitoring"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -18342,7 +18340,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -22551,48 +22549,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/dari.json"
   },
   {
-    "id": 30901,
-    "name": "Sanctum",
-    "slug": "sanctum",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/676b9954fbd7936ce531db4514cc008a76ca7a4d.png",
-    "website": "https://withsanctum.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sanctum lets you launch new features to agents that mimic your real users. We build AI user models from your session recordings and run them against your changes to surface bugs, UX issues, and performance problems early.",
-    "one_liner": "Catch software issues with user simulations",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1762303410,
-    "tags": [
-      "Developer Tools",
-      "B2B",
-      "Analytics",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sanctum",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/sanctum.json"
-  },
-  {
     "id": 30913,
     "name": "Captain",
     "slug": "captain",
@@ -23532,47 +23488,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/mendral.json"
   },
   {
-    "id": 31215,
-    "name": "Bubble Lab",
-    "slug": "bubble-lab",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fc7f7534f4fb913904f49914952c1daa8086654.png",
-    "website": "https://bubblelab.ai/",
-    "all_locations": "",
-    "long_description": "Bubble Lab is an open-source Typescript-native workflow automation platform. Unlike tools that use proprietary JSON, you describe a workflow in natural language, and instantly get both a visual flow and fully-typed TypeScript code side-by-side. It offers built-in observability, testability, and scalability out of the box. \r\n",
-    "one_liner": "Open-source, Typescript-native agentic workflow builder ",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1764881455,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Workflow Automation"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/bubble-lab",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/bubble-lab.json"
-  },
-  {
     "id": 31241,
     "name": "Corelayer",
     "slug": "corelayer",
@@ -23616,5 +23531,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/corelayer",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/corelayer.json"
+  },
+  {
+    "id": 31271,
+    "name": "VOYGR",
+    "slug": "voygr",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f0f0bf8a667e6a150380872419b6209ced7f1423.png",
+    "website": "https://voygr.tech",
+    "all_locations": "",
+    "long_description": "VOYGR helps AI apps and agents understand and act in the real world with comprehensive place data. Unlike static mapping APIs, VOYGR combines accurate place intelligence with fresh web context – news, articles, and events.\r\n\r\nReal-world interactions rely on maps: 10M+ apps/websites, up to 40% of search queries, and 20% of LLM prompts need local context. Yet a restaurant recommendation can fail because the place is closed, menus aren’t searchable, or delivery goes to the wrong entrance. AI pushes expectations further – answering semantic prompts like “specialty coffee shops in SF with Wi-Fi and YC founders\", and taking actions like making reservations or placing orders.\r\n\r\nWe’re experienced builders in maps, search, and ML to solve this. Vlad knows this space inside and out – he worked on the Google Maps APIs GTM, plus firsthand customer experience from building in ridesharing and travel. Yarik has spent over a decade leading ML/search teams at Apple, Google, and Meta. \r\n\r\nSeveral customers already run VOYGR to continuously validate places data accuracy at scale, and we outperform on accuracy and coverage.\r\n\r\nMaps were built for humans browsing pins; agents need continuously updated place ground truth they can act on – from copilots and in-car assistants to delivery robots and AR. As agents become the interface to commerce and services, VOYGR aims to be the default ground-truth layer.",
+    "one_liner": "Real-world place intelligence for AI apps and agents",
+    "team_size": null,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1769793909,
+    "tags": [
+      "Developer Tools",
+      "Geographic Information System",
+      "API",
+      "Search",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/voygr",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/voygr.json"
   }
 ]

@@ -401,8 +401,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2529eaf040180126a595ccd660f42824d36e2dae.png",
     "website": "https://www.fernstone.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "Fernstone is a a full-stack AI insurance brokerage for complex risk. We are competing directly with the 40,000 commercial insurance brokers in the US that earn $80B in revenue each year. Today, construction and security companies use Fernstone to obtain coverage to close contracts and obtain licenses. ",
-    "one_liner": "Full-stack AI insurance brokerage for businesses. ",
+    "long_description": "Fernstone is a a full-stack insurance brokerage for complex risk. We are competing directly with the 40,000 commercial insurance brokers in the US that earn $80B in revenue each year. Today, construction and security companies use Fernstone to obtain coverage to close contracts and obtain licenses. ",
+    "one_liner": "Full-stack insurance brokerage for businesses. ",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
@@ -2724,48 +2724,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/logosguard.json"
   },
   {
-    "id": 30901,
-    "name": "Sanctum",
-    "slug": "sanctum",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/676b9954fbd7936ce531db4514cc008a76ca7a4d.png",
-    "website": "https://withsanctum.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sanctum lets you launch new features to agents that mimic your real users. We build AI user models from your session recordings and run them against your changes to surface bugs, UX issues, and performance problems early.",
-    "one_liner": "Catch software issues with user simulations",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1762303410,
-    "tags": [
-      "Developer Tools",
-      "B2B",
-      "Analytics",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sanctum",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/sanctum.json"
-  },
-  {
     "id": 30903,
     "name": "Kestrel AI",
     "slug": "kestrel-ai",
@@ -4789,9 +4747,9 @@
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1759884466,
     "tags": [
+      "Artificial Intelligence",
       "FinOps",
       "Compliance",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -4812,7 +4770,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": true,
+    "question_answers": false,
     "url": "https://www.ycombinator.com/companies/denki",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/denki.json"
   },
@@ -4867,12 +4825,11 @@
     "launched_at": 1759599519,
     "tags": [
       "Hardware",
-      "Swarm Robotics",
       "Aerospace"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",

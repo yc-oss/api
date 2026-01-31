@@ -941,17 +941,18 @@
   },
   {
     "id": 26884,
-    "name": "AlphaWatch AI",
-    "slug": "alphawatch-ai",
+    "name": "RaptorGrid",
+    "slug": "raptorgrid",
     "former_names": [
-      "StableBank"
+      "StableBank",
+      "AlphaWatch AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4cb8ecbcc76362cae5a0f5edc86c8e5e98a1b70.png",
-    "website": "https://alphawatch.ai",
-    "all_locations": "New York, NY, USA; Remote",
-    "long_description": "Alphawatch AI powers real-world market intelligence for Fortune 500s, $100B+ AUM investment funds, and global pharmaceutical leaders.\r\n\r\nWe combine proprietary data with AI-driven, on-the-ground collection, reaching real operators in real time to surface forward-looking insights that inform billion-dollar market entries, acquisitions, and strategic decisions.",
-    "one_liner": "Primary & Market Research",
-    "team_size": 7,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/023671fb6254cfaca19b56741b1b6b230aeb6a64.png",
+    "website": "https://raptorgrid.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "RaptorGrid generates investor-ready decks, CIMs, and board materials in minutes instead of days.",
+    "one_liner": "AI Employees for Finance",
+    "team_size": 10,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1675123352,
@@ -975,15 +976,15 @@
       "United States of America",
       "America / Canada",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/alphawatch-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/alphawatch-ai.json"
+    "url": "https://www.ycombinator.com/companies/raptorgrid",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/raptorgrid.json"
   },
   {
     "id": 26890,
@@ -2380,7 +2381,7 @@
     "all_locations": "",
     "long_description": "finbar is the AI investment analyst used by several top-20 (AUM) hedge funds. It automates financial modelling, research, and data analysis so multi-million-dollar decisions can be made 100x faster.",
     "one_liner": "The AI investment analyst",
-    "team_size": 2,
+    "team_size": 4,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1736618357,
@@ -3063,18 +3064,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f0464bfc1a158571ff22902856b269f9c0f52001.png",
     "website": "https://ressl.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ressl AI is building AI Agents to disrupt IT Services.\r\n\r\nEnterprise applications like Salesforce are highly flexible and configurable, allowing them to adapt to the unique processes of different businesses. But implementing and maintaining Salesforce requires specialised Salesforce admins or outsourced consulting firms—both of which are expensive and slow.\r\n\r\nAt Ressl AI, we’re building 10× AI Salesforce Admins. Our agents let IT and RevOps teams configure Salesforce in plain English, accelerating Salesforce delivery by 10× without adding headcount.\r\n\r\nOur agents can:\r\n\r\n> Document your Salesforce org\r\n> Find root causes of support issues\r\n> Perform analysis and dependency mapping\r\n> Configure flows and automations\r\n> Write Apex code and test classes\r\n> Upgrade orgs from legacy versions\r\n\r\nBefore building Ressl, Arushi and Abhishek ran an IT consulting firm for six months, using those learnings to productise RevOps and Salesforce consulting.\r\n\r\nThe global IT outsourcing market is projected to reach ~$600B in 2025. Ressl AI is excited to define what an agentic Accenture looks like.",
-    "one_liner": "AI Agents for ERP / CRM Configuration, starting with Salesforce",
-    "team_size": 5,
+    "long_description": "Ressl AI is an AI Transformation partner for the enterprise. \r\n\r\nWe build custom AI agents for enterprises that matches the way they work and integrates deeply with their existing system-of-record. No migration required.\r\n\r\n",
+    "one_liner": "AI Transformation Partner",
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1765975223,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Workflow Automation",
-      "CRM",
-      "Operations"
+      "Operations",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3087,9 +3087,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3107,16 +3105,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fc7f7534f4fb913904f49914952c1daa8086654.png",
     "website": "https://bubblelab.ai/",
     "all_locations": "",
-    "long_description": "Bubble Lab is an open-source Typescript-native workflow automation platform. Unlike tools that use proprietary JSON, you describe a workflow in natural language, and instantly get both a visual flow and fully-typed TypeScript code side-by-side. It offers built-in observability, testability, and scalability out of the box. \r\n",
-    "one_liner": "Open-source, Typescript-native agentic workflow builder ",
+    "long_description": "Bubble Lab (YC W'26) lets operations teams build production workflows in minutes, just by prompting. \r\n\r\nAlready trusted by thousands of professionals in BizOps, SalesOps, and RevOps who are saving hundreds of hours from manual work by automating processes across the tools they use daily.",
+    "one_liner": "Prompt once, automate forever.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1764881455,
     "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Workflow Automation"
+      "Workflow Automation",
+      "Operations",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

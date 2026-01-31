@@ -10087,7 +10087,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -18703,7 +18703,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -26562,56 +26562,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2022/cozmo-ai.json"
   },
   {
-    "id": 25342,
-    "name": "Stably AI",
-    "slug": "stably-ai",
-    "former_names": [
-      "Lovecast",
-      "UpArrow",
-      "UpDragon",
-      "Stably"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7522b24d3853d0b79cebe72798f4a3a33c54ac27.png",
-    "website": "https://www.stably.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Stably AI auto-writes, runs, and maintains end-to-end tests directly in your CI, guarding every pull‑request and production release—no flakiness, no test maintenance.\r\n\r\nHundreds of modern engineering orgs already use Stably to merge code in minutes, replace brittle Playwright/Cypress suites, and slash QA spend by up to 80%.\r\n\r\nStably offers\r\n- AI-generated test flows that mirror real user journeys.\r\n- Diff-aware execution—only tests affected by your change run, so CI stays under five minutes.\r\n- Automatic selector & assertion healing when your UI shifts, keeping the suite green.\r\n- Plain‑English editor letting PMs and QAs add tests without writing code.\r\n- One‑click GitHub App or API for instant pipeline integration.",
-    "one_liner": "AI Testing that Writes, Runs & Maintains Tests for Every PR & Release",
-    "team_size": 8,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1645204142,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "DevOps",
-      "Web Development",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/stably-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/stably-ai.json"
-  },
-  {
     "id": 25348,
     "name": "Sei",
     "slug": "sei",
@@ -31530,7 +31480,7 @@
     "name": "NewsCatcher",
     "slug": "newscatcher",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c238653d6d11d74bfeda7930d08d87818ac2d50f.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4e6df1d33e5151e6b36a83a91e94b8bb2550c930.png",
     "website": "https://newscatcherapi.com/",
     "all_locations": "Kyiv, Ukraine; Remote",
     "long_description": "NewsCatcher collects multi-language news data from 140,000+ sources and over 1.5 million articles daily, enriches every item and delivers only the signals a client cares about—already mapped to their data models, tools, and security requirements. Alongside news, we also cover signals from municipal, government, regulatory, and corporate sources. \r\n\r\nToday, risk departments, policy teams, product strategists, and AI researchers rely on NewsCatcher to surface mission‑critical events in seconds and keep them embedded in workflows for years.",
@@ -31540,11 +31490,11 @@
     "subindustry": "B2B -> Analytics",
     "launched_at": 1659698356,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Enterprise",
       "Big Data",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -31928,6 +31878,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/diversion",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/diversion.json"
+  },
+  {
+    "id": 26912,
+    "name": "iollo",
+    "slug": "iollo",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5bd3e4de086fbafd70c63dbae211f55425382f05.png",
+    "website": "https://iollo.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "iollo is building Quinn, an AI scientist that automates the entire drug development lifecycle, from target discovery to commercial strategy. Quinn synthesizes scientific, clinical, and market data to execute complex R&D workflows in hours that typically take pharma teams years.",
+    "one_liner": "Building Quinn, an AI scientist accelerating pharma/biotech R&D",
+    "team_size": 4,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Drug Discovery and Delivery",
+    "launched_at": 1656567327,
+    "tags": [
+      "Generative AI",
+      "Biotech",
+      "Enterprise",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Drug Discovery and Delivery"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/iollo",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/iollo.json"
   },
   {
     "id": 26913,
@@ -43238,7 +43232,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/29585cd58ffa28775d545a62edb03b71fdea79f2.png",
     "website": "https://getdecipher.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Decipher learns from session replays and writes reliable tests that prevent regressions on all your product flows. Plus get alerted when a bug hits production users.",
+    "long_description": "Decipher AI generates your E2E tests, maintains them as you ship, and catches issues before customers do. Plus, get alerted when users hit live bugs.\r\n\r\nUsed by the fastest shipping companies including Bilt, Arize, and Vial.",
     "one_liner": "QA agents that write tests 10x faster with zero maintenance",
     "team_size": 4,
     "industry": "B2B",
@@ -43249,7 +43243,7 @@
       "Developer Tools",
       "B2B",
       "Enterprise Software",
-      "Monitoring"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47298,52 +47292,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/silurian.json"
   },
   {
-    "id": 29665,
-    "name": "Cloudglue",
-    "slug": "cloudglue",
-    "former_names": [
-      "Aviary",
-      "CloudGlue"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/83e6dd01545303c123ca60f1dcf8bdc7566497c5.png",
-    "website": "https://cloudglue.dev",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cloudglue APIs (https://cloudglue.dev) makes it easy to transform video and audio into structured data for your LLM/RAG/AI application.\r\n\r\nOur developer-friendly APIs makes it easy to integrate video chat into your AI assistant with minimal heavy-lifting.",
-    "one_liner": "Developer APIs to let your AI/LLM understand videos and audio.",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1723146818,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Machine Learning",
-      "Video"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cloudglue",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/cloudglue.json"
-  },
-  {
     "id": 29666,
     "name": "Willow",
     "slug": "willow",
@@ -49084,7 +49032,7 @@
     "all_locations": "",
     "long_description": "Furniture companies spend millions and months each year on photoshoots or CGI to create product images as these visuals are crucial for driving sales.\r\n\r\nPresti offers a faster and cheaper solution powered by generative AI. Unlike other generative AI tools, our core model is optimized for furniture products and includes multiple features tailored to the unique needs of furniture industry.\r\n \r\nWe have 100 paying B2B users with a 10% growth week over week.\r\nWe raised a $3.5M seed round",
     "one_liner": "Helping furniture companies create product visuals with AI",
-    "team_size": 7,
+    "team_size": 25,
     "industry": "B2B",
     "subindustry": "B2B -> Retail",
     "launched_at": 1724700197,
@@ -49438,47 +49386,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/vendra",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/vendra.json"
-  },
-  {
-    "id": 29818,
-    "name": "Entropy",
-    "slug": "entropy",
-    "former_names": [
-      "Remo Financial",
-      "Remo"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f1fc5d5cf43e3952bd0f4deec6829b45762ed6a5.png",
-    "website": "https://www.withentropy.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Autonomous intake and RCM for specialty clinics. \r\n\r\nWe're helping specialty clinics catapult in to the modern day by automating their patient intake (emails, calls, and faxes) and interactions with payors (insurance companies). We're helping them see patients quicker, keep referrers in the loop, and get paid on time. ",
-    "one_liner": "Autonomous intake and RCM for specialty clinics. ",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1720072040,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/entropy",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/entropy.json"
   },
   {
     "id": 29820,
@@ -50434,8 +50341,8 @@
     "website": "https://www.syntra.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Syntra automates chart review, claim review, and claim entry with AI. Our specialty-specific AI agents understand the clinical and payer nuances needed to run your RCM function autonomously. Syntra powers hundreds of specialty practices nationwide and processes over $1B in medical claim charges every year.\r\n\r\n",
-    "one_liner": "AI chart review for speciality medical clinics",
-    "team_size": 8,
+    "one_liner": "AI chart review for speciality medical clinics.",
+    "team_size": 9,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1723733582,
@@ -52419,42 +52326,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/splash-inc",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/splash-inc.json"
-  },
-  {
-    "id": 30196,
-    "name": "Stamp",
-    "slug": "stamp",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ec77fe8f30c765884c0359fdaafcf0412168dd15.png",
-    "website": "https://www.stampmail.ai/",
-    "all_locations": "",
-    "long_description": "Stamp is the first AI Native inbox. It's more than an email client, though -- it's like your second brain.\r\n\r\nStamp can respond to emails in your voice, organize your inbox to filter out the noise, keep track of action items, and automate essentially every task you're doing manually in your inbox today.",
-    "one_liner": "The AI Native Email Client",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1739302465,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/stamp",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/stamp.json"
   },
   {
     "id": 30205,
@@ -58294,8 +58165,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/81ba9326d1d371675b429c97e982da02b3d22b88.png",
     "website": "https://ghosteye.ai",
     "all_locations": "New York, NY, USA",
-    "long_description": "GhostEye prepares your team for the attacks happening right now, not the ones from five years ago.",
-    "one_liner": "Security awareness built like a real attack",
+    "long_description": "GhostEye builds an exposure map of your employees, then simulates personalized attacks across email, voice, SMS, deepfakes, and help desks.",
+    "one_liner": "Security awareness that simulates real attacks",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
@@ -58940,44 +58811,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/metis",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/metis.json"
-  },
-  {
-    "id": 30742,
-    "name": "Sira",
-    "slug": "sira",
-    "former_names": [
-      "Sira.Team"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/76b581290f19eb08a9fc677f74b5ecc46cfd20a1.png",
-    "website": "https://sira.team",
-    "all_locations": "",
-    "long_description": "Sira is the AI-powered platform for managing time tracking, scheduling, payroll, and HR — purpose-built for hourly teams.\r\n\r\nOur intelligent agents handle the manual, time-consuming tasks for you — like calling workers to fill open shifts, detecting timesheet anomalies, and streamlining payroll processing.\r\n\r\nWith Sira, businesses stay organized, compliant, and focused on what really matters — while we take care of the team.",
-    "one_liner": "AI Native Rippling for Deskless Workers",
-    "team_size": 0,
-    "industry": "B2B",
-    "subindustry": "B2B -> Human Resources",
-    "launched_at": 1752264420,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Human Resources"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sira",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/sira.json"
   },
   {
     "id": 30747,
@@ -60602,6 +60435,46 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/savahq.json"
   },
   {
+    "id": 30965,
+    "name": "Icarus",
+    "slug": "icarus",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/641db1cdc907f274cb944fd6796edc486aa6d653.png",
+    "website": "https://www.icarus.one/",
+    "all_locations": "Los Angeles, CA, USA",
+    "long_description": "Always-on intelligence and connectivity for Defense. Icarus builds autonomous, solar-powered aircraft that fly at 60,000 feet for weeks at a time, above the clouds harnessing the power of the Sun, but never too close. It’s the modern-day U-2 spy plane, except each costs $100K and is built by the thousands. The future of warfare is in the Stratosphere.",
+    "one_liner": "Stratospheric birds for defense",
+    "team_size": 8,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Defense",
+    "launched_at": 1759599519,
+    "tags": [
+      "Hardware",
+      "Aerospace"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/icarus",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/icarus.json"
+  },
+  {
     "id": 30966,
     "name": "Karumi",
     "slug": "karumi",
@@ -61198,5 +61071,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/scout-out",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/scout-out.json"
+  },
+  {
+    "id": 31259,
+    "name": "Tsenta",
+    "slug": "tsenta",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5670afa2f39d71d15be15ed4c56ae5e0a65dbea4.png",
+    "website": "https://tsenta.com",
+    "all_locations": "",
+    "long_description": "Tsenta is a desktop app that matches you with jobs, optimizes your profile & applies on your behalf. It runs on your device, so you have granular control over every application being submitted in real-time.\r\n\r\nWe built Tsenta after applying to over 3,000 jobs manually, so that nobody else would have to.\r\n\r\nCheck us out at https://tsenta.com :)",
+    "one_liner": "AI-Native, On-Device Job Automation",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Job and Career Services",
+    "launched_at": 1769729252,
+    "tags": [
+      "Artificial Intelligence",
+      "Consumer",
+      "Recruiting",
+      "HR Tech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Job and Career Services"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tsenta",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/tsenta.json"
   }
 ]

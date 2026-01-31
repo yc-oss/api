@@ -2378,7 +2378,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -6978,6 +6978,53 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2021/tenyks.json"
   },
   {
+    "id": 24571,
+    "name": "Adni",
+    "slug": "adni",
+    "former_names": [
+      "Lumify Care",
+      "Lumify"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/48474c1b0337163fd12462fb6b72ee336a4ad010.png",
+    "website": "https://www.adni.ai/",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Healthcare workers use Adni's AI career assistant, Allie, to autonomously find jobs, buy gear, connect with peers, manage credentials, and more. Leading organizations, like Penn Medicine, MedPro, and PRN Healthcare, use Adni’s clinician network and AI voice agents to source, screen, and hire healthcare talent faster and cheaper.\r\n\r\nBacked by Y Combinator, Flare Capital, Liquid 2 Ventures, Fresco Capital, Augment Ventures, Crista Galli Ventures, and more.",
+    "one_liner": "AI career platform for healthcare workers",
+    "team_size": 5,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1624982871,
+    "tags": [
+      "Marketplace",
+      "SaaS",
+      "Recruiting",
+      "Healthcare",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/adni",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/adni.json"
+  },
+  {
     "id": 24573,
     "name": "Telmai",
     "slug": "telmai",
@@ -7559,7 +7606,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -10821,6 +10868,52 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/unify.json"
   },
   {
+    "id": 26851,
+    "name": "Mistle",
+    "slug": "mistle",
+    "former_names": [
+      "Ajourney",
+      "Zapi"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d57b2b10c7e35a1990c9ac0bf09d58abdb4ff9d5.png",
+    "website": "https://mistle.dev",
+    "all_locations": "Singapore, Singapore; Remote",
+    "long_description": "Mistle helps engineering teams run reliable background agents that take care of routine, well-scoped work. The agents verify their own output, enabling teams to rely on results with minimal supervision.",
+    "one_liner": "Platform for running autonomous coding agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1654527668,
+    "tags": [
+      "Generative AI",
+      "SaaS",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Singapore",
+      "Southeast Asia",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mistle",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/mistle.json"
+  },
+  {
     "id": 26859,
     "name": "Typewise",
     "slug": "typewise",
@@ -10864,51 +10957,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/typewise",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/typewise.json"
-  },
-  {
-    "id": 26860,
-    "name": "NewsCatcher",
-    "slug": "newscatcher",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c238653d6d11d74bfeda7930d08d87818ac2d50f.png",
-    "website": "https://newscatcherapi.com/",
-    "all_locations": "Kyiv, Ukraine; Remote",
-    "long_description": "NewsCatcher collects multi-language news data from 140,000+ sources and over 1.5 million articles daily, enriches every item and delivers only the signals a client cares about—already mapped to their data models, tools, and security requirements. Alongside news, we also cover signals from municipal, government, regulatory, and corporate sources. \r\n\r\nToday, risk departments, policy teams, product strategists, and AI researchers rely on NewsCatcher to surface mission‑critical events in seconds and keep them embedded in workflows for years.",
-    "one_liner": "We transform public web data into live signals that power search,…",
-    "team_size": 25,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1659698356,
-    "tags": [
-      "SaaS",
-      "Enterprise",
-      "Big Data",
-      "Enterprise Software",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "Ukraine",
-      "Europe",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/newscatcher",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/newscatcher.json"
   },
   {
     "id": 26861,
@@ -11163,7 +11211,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -18805,34 +18853,35 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/speck.json"
   },
   {
-    "id": 29333,
-    "name": "Lemon Slice",
-    "slug": "lemon-slice",
-    "former_names": [
-      "Infinity AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/05eb67ac8202d3dd3c90fdda089940b58b254645.png",
-    "website": "https://www.lemonslice.com",
+    "id": 29334,
+    "name": "Decipher AI",
+    "slug": "decipher-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/29585cd58ffa28775d545a62edb03b71fdea79f2.png",
+    "website": "https://getdecipher.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lemon Slice is a frontier AI research and product lab building the future of interactive video. Our interactive avatar models allow you to turn a voice agent into an engaging video call. \r\n",
-    "one_liner": "Give your voice agents a face",
-    "team_size": 8,
+    "long_description": "Decipher AI generates your E2E tests, maintains them as you ship, and catches issues before customers do. Plus, get alerted when users hit live bugs.\r\n\r\nUsed by the fastest shipping companies including Bilt, Arize, and Vial.",
+    "one_liner": "QA agents that write tests 10x faster with zero maintenance",
+    "team_size": 4,
     "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1709320242,
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1708738486,
     "tags": [
-      "Consumer",
-      "Video",
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "Enterprise Software",
       "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Engineering, Product and Design"
     ],
     "regions": [
       "United States of America",
@@ -18843,8 +18892,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lemon-slice",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/lemon-slice.json"
+    "url": "https://www.ycombinator.com/companies/decipher-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/decipher-ai.json"
   },
   {
     "id": 29339,
@@ -22831,7 +22880,7 @@
     "all_locations": "",
     "long_description": "Furniture companies spend millions and months each year on photoshoots or CGI to create product images as these visuals are crucial for driving sales.\r\n\r\nPresti offers a faster and cheaper solution powered by generative AI. Unlike other generative AI tools, our core model is optimized for furniture products and includes multiple features tailored to the unique needs of furniture industry.\r\n \r\nWe have 100 paying B2B users with a 10% growth week over week.\r\nWe raised a $3.5M seed round",
     "one_liner": "Helping furniture companies create product visuals with AI",
-    "team_size": 7,
+    "team_size": 25,
     "industry": "B2B",
     "subindustry": "B2B -> Retail",
     "launched_at": 1724700197,
@@ -29896,8 +29945,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/81ba9326d1d371675b429c97e982da02b3d22b88.png",
     "website": "https://ghosteye.ai",
     "all_locations": "New York, NY, USA",
-    "long_description": "GhostEye prepares your team for the attacks happening right now, not the ones from five years ago.",
-    "one_liner": "Security awareness built like a real attack",
+    "long_description": "GhostEye builds an exposure map of your employees, then simulates personalized attacks across email, voice, SMS, deepfakes, and help desks.",
+    "one_liner": "Security awareness that simulates real attacks",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
@@ -30197,8 +30246,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2529eaf040180126a595ccd660f42824d36e2dae.png",
     "website": "https://www.fernstone.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "Fernstone is a a full-stack AI insurance brokerage for complex risk. We are competing directly with the 40,000 commercial insurance brokers in the US that earn $80B in revenue each year. Today, construction and security companies use Fernstone to obtain coverage to close contracts and obtain licenses. ",
-    "one_liner": "Full-stack AI insurance brokerage for businesses. ",
+    "long_description": "Fernstone is a a full-stack insurance brokerage for complex risk. We are competing directly with the 40,000 commercial insurance brokers in the US that earn $80B in revenue each year. Today, construction and security companies use Fernstone to obtain coverage to close contracts and obtain licenses. ",
+    "one_liner": "Full-stack insurance brokerage for businesses. ",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
@@ -31690,48 +31739,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/logosguard.json"
   },
   {
-    "id": 30901,
-    "name": "Sanctum",
-    "slug": "sanctum",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/676b9954fbd7936ce531db4514cc008a76ca7a4d.png",
-    "website": "https://withsanctum.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sanctum lets you launch new features to agents that mimic your real users. We build AI user models from your session recordings and run them against your changes to surface bugs, UX issues, and performance problems early.",
-    "one_liner": "Catch software issues with user simulations",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1762303410,
-    "tags": [
-      "Developer Tools",
-      "B2B",
-      "Analytics",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sanctum",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/sanctum.json"
-  },
-  {
     "id": 30905,
     "name": "Travo",
     "slug": "travo",
@@ -32369,48 +32376,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/usenarrative.json"
   },
   {
-    "id": 30962,
-    "name": "Denki",
-    "slug": "denki",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1543e40091902a20ba3f9f49ea46c17e0b60e86a.png",
-    "website": "https://denki.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Automate internal auditing (planning, testing, documenting) to comply better with financial regulations.\r\n\r\nDenki performs audit work with 99% software, 1% services:\r\n\r\n✔️ Works on existing systems (e.g. Auditboard, Workiva, ERPs)\r\n✔️ Automates Control processes (e.g. collects evidence, runs walkthrough interviews, tests)\r\n✔️ Records every step for traceability (workpapers w/ full audit trace)\r\n\r\nFocused on SOX programs and financial regulations (SEC Rules etc.)",
-    "one_liner": "The full-stack AI financial audit firm",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1759884466,
-    "tags": [
-      "FinOps",
-      "Compliance",
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/denki",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/denki.json"
-  },
-  {
     "id": 30969,
     "name": "Lemma",
     "slug": "uselemma",
@@ -33010,49 +32975,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/tensol.json"
   },
   {
-    "id": 31080,
-    "name": "Didit",
-    "slug": "didit",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/202e6cd94d0ec2c8de835c56ce6b880f99f033d5.png",
-    "website": "https://didit.me/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Didit is an AI-native, developer-first identity verification platform that makes KYC, AML, and fraud prevention instant, flexible, and transparent, with a seamless user experience and more than 70% lower costs.",
-    "one_liner": "AI-native, developer-first identity verification platform",
-    "team_size": 12,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1764601102,
-    "tags": [
-      "SaaS",
-      "Identity",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/didit",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/didit.json"
-  },
-  {
     "id": 31085,
     "name": "Ruma Care",
     "slug": "ruma-care",
@@ -33514,6 +33436,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/perfectly.json"
   },
   {
+    "id": 31155,
+    "name": "Q2Q",
+    "slug": "q2q",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b6c42d7cabd8a666e0d6369ef40a058fca967f90.png",
+    "website": "https://www.tryq2q.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Here's the problem: deal sourcing is tedious and requires 3-4 separate tools. We speed up sourcing for search funds and PE firms by finding prospects and preparing outreach messages to these potential acquisitions. In one platform, you can:\r\n\r\n1) Research market niches to refine your investment thesis\r\n2) Search for leads in our constantly-growing database\r\n3) Design custom campaigns with personalized messaging\r\n4) See inbound interest and track all prospects/communications in our CRM",
+    "one_liner": "We help private equity firms find potential acquisitions faster",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1768420792,
+    "tags": [
+      "Fintech",
+      "SaaS",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/q2q",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/q2q.json"
+  },
+  {
     "id": 31173,
     "name": "Laurence",
     "slug": "laurence",
@@ -33728,6 +33692,47 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/traverse.json"
   },
   {
+    "id": 31200,
+    "name": "Ressl AI",
+    "slug": "ressl-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f0464bfc1a158571ff22902856b269f9c0f52001.png",
+    "website": "https://ressl.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Ressl AI is an AI Transformation partner for the enterprise. \r\n\r\nWe build custom AI agents for enterprises that matches the way they work and integrates deeply with their existing system-of-record. No migration required.\r\n\r\n",
+    "one_liner": "AI Transformation Partner",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1765975223,
+    "tags": [
+      "B2B",
+      "Workflow Automation",
+      "Operations",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ressl-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/ressl-ai.json"
+  },
+  {
     "id": 31205,
     "name": "Human Archive",
     "slug": "human-archive",
@@ -33810,6 +33815,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pocket",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/pocket.json"
+  },
+  {
+    "id": 31215,
+    "name": "Bubble Lab",
+    "slug": "bubble-lab",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fc7f7534f4fb913904f49914952c1daa8086654.png",
+    "website": "https://bubblelab.ai/",
+    "all_locations": "",
+    "long_description": "Bubble Lab (YC W'26) lets operations teams build production workflows in minutes, just by prompting. \r\n\r\nAlready trusted by thousands of professionals in BizOps, SalesOps, and RevOps who are saving hundreds of hours from manual work by automating processes across the tools they use daily.",
+    "one_liner": "Prompt once, automate forever.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1764881455,
+    "tags": [
+      "Workflow Automation",
+      "Operations",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bubble-lab",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/bubble-lab.json"
   },
   {
     "id": 31217,
@@ -34067,34 +34113,34 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/moda.json"
   },
   {
-    "id": 31259,
-    "name": "Tsenta",
-    "slug": "tsenta",
+    "id": 31271,
+    "name": "VOYGR",
+    "slug": "voygr",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5670afa2f39d71d15be15ed4c56ae5e0a65dbea4.png",
-    "website": "https://tsenta.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f0f0bf8a667e6a150380872419b6209ced7f1423.png",
+    "website": "https://voygr.tech",
     "all_locations": "",
-    "long_description": "Tsenta is a desktop app that matches you with jobs, optimizes your profile & applies on your behalf. It runs on your device, so you have granular control over every application being submitted in real-time.\r\n\r\nWe built Tsenta after applying to over 3,000 jobs manually, so that nobody else would have to.\r\n\r\nCheck us out at https://tsenta.com :)",
-    "one_liner": "AI-Native, On-Device Job Automation",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Job and Career Services",
-    "launched_at": 1769729252,
+    "long_description": "VOYGR helps AI apps and agents understand and act in the real world with comprehensive place data. Unlike static mapping APIs, VOYGR combines accurate place intelligence with fresh web context – news, articles, and events.\r\n\r\nReal-world interactions rely on maps: 10M+ apps/websites, up to 40% of search queries, and 20% of LLM prompts need local context. Yet a restaurant recommendation can fail because the place is closed, menus aren’t searchable, or delivery goes to the wrong entrance. AI pushes expectations further – answering semantic prompts like “specialty coffee shops in SF with Wi-Fi and YC founders\", and taking actions like making reservations or placing orders.\r\n\r\nWe’re experienced builders in maps, search, and ML to solve this. Vlad knows this space inside and out – he worked on the Google Maps APIs GTM, plus firsthand customer experience from building in ridesharing and travel. Yarik has spent over a decade leading ML/search teams at Apple, Google, and Meta. \r\n\r\nSeveral customers already run VOYGR to continuously validate places data accuracy at scale, and we outperform on accuracy and coverage.\r\n\r\nMaps were built for humans browsing pins; agents need continuously updated place ground truth they can act on – from copilots and in-car assistants to delivery robots and AR. As agents become the interface to commerce and services, VOYGR aims to be the default ground-truth layer.",
+    "one_liner": "Real-world place intelligence for AI apps and agents",
+    "team_size": null,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1769793909,
     "tags": [
-      "Consumer",
-      "Recruiting",
-      "HR Tech",
+      "Developer Tools",
+      "Geographic Information System",
+      "API",
+      "Search",
       "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
-    "batch": "Summer 2026",
+    "batch": "Winter 2026",
     "status": "Active",
     "industries": [
-      "Consumer",
-      "Job and Career Services"
+      "B2B"
     ],
     "regions": [
       "Unspecified"
@@ -34104,8 +34150,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tsenta",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/tsenta.json"
+    "url": "https://www.ycombinator.com/companies/voygr",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/voygr.json"
   },
   {
     "id": 31283,

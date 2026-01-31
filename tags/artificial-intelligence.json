@@ -7438,7 +7438,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -9871,53 +9871,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tenyks",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/tenyks.json"
-  },
-  {
-    "id": 24571,
-    "name": "Adni",
-    "slug": "adni",
-    "former_names": [
-      "Lumify Care",
-      "Lumify"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/48474c1b0337163fd12462fb6b72ee336a4ad010.png",
-    "website": "https://www.adni.ai/",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Healthcare workers use Adni's AI career assistant, Allie, to autonomously find jobs, buy gear, connect with peers, manage credentials, and more. Leading organizations, like Penn Medicine, MedPro, and PRN Healthcare, use Adni’s clinician network and AI voice agents to source, screen, and engage healthcare talent faster and cheaper.\r\n\r\nBacked by Y Combinator, Flare Capital, Liquid 2 Ventures, Fresco Capital, Augment Ventures, Crista Galli Ventures, and more.",
-    "one_liner": "AI career platform for healthcare workers",
-    "team_size": 5,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1624982871,
-    "tags": [
-      "Artificial Intelligence",
-      "Marketplace",
-      "SaaS",
-      "Recruiting",
-      "Healthcare"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2021",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/adni",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/adni.json"
   },
   {
     "id": 24586,
@@ -13134,40 +13087,39 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/unify.json"
   },
   {
-    "id": 26851,
-    "name": "Mistle",
-    "slug": "mistle",
-    "former_names": [
-      "Ajourney",
-      "Zapi"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d57b2b10c7e35a1990c9ac0bf09d58abdb4ff9d5.png",
-    "website": "https://mistle.dev",
-    "all_locations": "Singapore, Singapore; Remote",
-    "long_description": "Mistle is the best way for non-technical builders to learn and build with AI.",
-    "one_liner": "Cursor for non-technical builders",
-    "team_size": 2,
+    "id": 26860,
+    "name": "NewsCatcher",
+    "slug": "newscatcher",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4e6df1d33e5151e6b36a83a91e94b8bb2550c930.png",
+    "website": "https://newscatcherapi.com/",
+    "all_locations": "Kyiv, Ukraine; Remote",
+    "long_description": "NewsCatcher collects multi-language news data from 140,000+ sources and over 1.5 million articles daily, enriches every item and delivers only the signals a client cares about—already mapped to their data models, tools, and security requirements. Alongside news, we also cover signals from municipal, government, regulatory, and corporate sources. \r\n\r\nToday, risk departments, policy teams, product strategists, and AI researchers rely on NewsCatcher to surface mission‑critical events in seconds and keep them embedded in workflows for years.",
+    "one_liner": "We transform public web data into live signals that power search,…",
+    "team_size": 25,
     "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1654527668,
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1659698356,
     "tags": [
       "Artificial Intelligence",
-      "Generative AI",
       "SaaS",
-      "B2B"
+      "Enterprise",
+      "Big Data",
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Analytics"
     ],
     "regions": [
-      "Singapore",
-      "Southeast Asia",
+      "Ukraine",
+      "Europe",
       "Remote",
       "Fully Remote"
     ],
@@ -13175,9 +13127,9 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mistle",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/mistle.json"
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/newscatcher",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/newscatcher.json"
   },
   {
     "id": 26861,
@@ -21781,6 +21733,49 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/trypillar.json"
   },
   {
+    "id": 29333,
+    "name": "LemonSlice",
+    "slug": "lemonslice",
+    "former_names": [
+      "Infinity AI",
+      "Lemon Slice"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/05eb67ac8202d3dd3c90fdda089940b58b254645.png",
+    "website": "https://www.lemonslice.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Lemon Slice is a frontier AI research and product lab building the future of interactive video. Our interactive avatar models allow you to turn a voice agent into an engaging video call. \r\n",
+    "one_liner": "Give your voice agents a face",
+    "team_size": 8,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1709320242,
+    "tags": [
+      "Artificial Intelligence",
+      "Consumer",
+      "Video"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lemonslice",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/lemonslice.json"
+  },
+  {
     "id": 29334,
     "name": "Decipher AI",
     "slug": "decipher-ai",
@@ -21788,7 +21783,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/29585cd58ffa28775d545a62edb03b71fdea79f2.png",
     "website": "https://getdecipher.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Decipher learns from session replays and writes reliable tests that prevent regressions on all your product flows. Plus get alerted when a bug hits production users.",
+    "long_description": "Decipher AI generates your E2E tests, maintains them as you ship, and catches issues before customers do. Plus, get alerted when users hit live bugs.\r\n\r\nUsed by the fastest shipping companies including Bilt, Arize, and Vial.",
     "one_liner": "QA agents that write tests 10x faster with zero maintenance",
     "team_size": 4,
     "industry": "B2B",
@@ -21799,7 +21794,7 @@
       "Developer Tools",
       "B2B",
       "Enterprise Software",
-      "Monitoring"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -25209,7 +25204,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -26871,7 +26866,7 @@
     "all_locations": "",
     "long_description": "Furniture companies spend millions and months each year on photoshoots or CGI to create product images as these visuals are crucial for driving sales.\r\n\r\nPresti offers a faster and cheaper solution powered by generative AI. Unlike other generative AI tools, our core model is optimized for furniture products and includes multiple features tailored to the unique needs of furniture industry.\r\n \r\nWe have 100 paying B2B users with a 10% growth week over week.\r\nWe raised a $3.5M seed round",
     "one_liner": "Helping furniture companies create product visuals with AI",
-    "team_size": 7,
+    "team_size": 25,
     "industry": "B2B",
     "subindustry": "B2B -> Retail",
     "launched_at": 1724700197,
@@ -28055,8 +28050,8 @@
     "website": "https://www.syntra.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Syntra automates chart review, claim review, and claim entry with AI. Our specialty-specific AI agents understand the clinical and payer nuances needed to run your RCM function autonomously. Syntra powers hundreds of specialty practices nationwide and processes over $1B in medical claim charges every year.\r\n\r\n",
-    "one_liner": "AI chart review for speciality medical clinics",
-    "team_size": 8,
+    "one_liner": "AI chart review for speciality medical clinics.",
+    "team_size": 9,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1723733582,
@@ -35346,8 +35341,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2529eaf040180126a595ccd660f42824d36e2dae.png",
     "website": "https://www.fernstone.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "Fernstone is a a full-stack AI insurance brokerage for complex risk. We are competing directly with the 40,000 commercial insurance brokers in the US that earn $80B in revenue each year. Today, construction and security companies use Fernstone to obtain coverage to close contracts and obtain licenses. ",
-    "one_liner": "Full-stack AI insurance brokerage for businesses. ",
+    "long_description": "Fernstone is a a full-stack insurance brokerage for complex risk. We are competing directly with the 40,000 commercial insurance brokers in the US that earn $80B in revenue each year. Today, construction and security companies use Fernstone to obtain coverage to close contracts and obtain licenses. ",
+    "one_liner": "Full-stack insurance brokerage for businesses. ",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
@@ -37441,6 +37436,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/arcten.json"
   },
   {
+    "id": 30962,
+    "name": "Denki",
+    "slug": "denki",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1543e40091902a20ba3f9f49ea46c17e0b60e86a.png",
+    "website": "https://denki.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Automate internal auditing (planning, testing, documenting) to comply better with financial regulations.\r\n\r\nDenki performs audit work with 99% software, 1% services:\r\n\r\n✔️ Works on existing systems (e.g. Auditboard, Workiva, ERPs)\r\n✔️ Automates Control processes (e.g. collects evidence, runs walkthrough interviews, tests)\r\n✔️ Records every step for traceability (workpapers w/ full audit trace)\r\n\r\nFocused on SOX programs and financial regulations (SEC Rules etc.)",
+    "one_liner": "The full-stack AI financial audit firm",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1759884466,
+    "tags": [
+      "Artificial Intelligence",
+      "FinOps",
+      "Compliance",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/denki",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/denki.json"
+  },
+  {
     "id": 30969,
     "name": "Lemma",
     "slug": "uselemma",
@@ -38088,8 +38125,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2007aefe34bda2618000c044128494ad2cb4af5f.png",
     "website": "https://www.hlaboratories.com",
     "all_locations": "Austin, TX, USA",
-    "long_description": "Robotics is going to be one of the largest industries the world has ever seen, but right now teams have to build so much in house just to get something to move. Hlabs is working on bringing robotics manufacturing back to the USA.\r\n\r\nHlabs is founded by Paul, a second time YC founder who also participated in the W21 batch with Mystic. He ran Mystic as CEO for 6 years.\r\n\r\n",
-    "one_liner": "Developer friendly robotics",
+    "long_description": "HLabs is making an industrial supply chain for building robots in the USA including electronics and actuators.\r\n\r\nRobotics is going to be one of the largest industries the world has ever seen. Teams have to buy what they can from overseas and then build everything else in house just to get something to move. HLabs is producing a plug and play set of robotic primitives to accelerate the early development and then working with larger scale production robots for bespoke designs.\r\n\r\nEarly customers span across household robotics, humanoids, robot arms, quadrupeds, and defense.\r\n\r\nHlabs is founded by Paul, a second time YC founder who also participated in the W21 batch with Mystic. He ran Mystic as CEO for 6 years.\r\n\r\n",
+    "one_liner": "Making an industrial supply chain for building robots in the USA",
     "team_size": 1,
     "industry": "Industrials",
     "subindustry": "Industrials",
@@ -38120,6 +38157,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hlabs",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/hlabs.json"
+  },
+  {
+    "id": 31080,
+    "name": "Didit",
+    "slug": "didit",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/202e6cd94d0ec2c8de835c56ce6b880f99f033d5.png",
+    "website": "https://didit.me/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Didit is an all-in-one identity platform that lets humans prove who they are starting with a face scan. It powers the fastest identity verification in the market, fights fraud by default, and unifies all identity checks with simple pay-per-use pricing.",
+    "one_liner": "All-in-one identity platform for fast human verification.",
+    "team_size": 12,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1764601102,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Identity"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/didit",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/didit.json"
   },
   {
     "id": 31094,
@@ -38470,48 +38550,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/orthogonal.json"
   },
   {
-    "id": 31155,
-    "name": "Q2Q",
-    "slug": "q2q",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b6c42d7cabd8a666e0d6369ef40a058fca967f90.png",
-    "website": "https://tryq2q.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Here's the problem: deal sourcing is tedious and requires 3-4 separate tools. We speed up sourcing for search funds and PE firms by finding prospects and preparing outreach messages to these potential acquisitions. In one platform, you can:\r\n\r\n1) Research market niches to refine your investment thesis\r\n2) Search for leads in our constantly-growing database\r\n3) Design custom campaigns with personalized messaging\r\n4) See inbound interest and track all prospects/communications in our CRM",
-    "one_liner": "We help private equity firms find potential acquisitions faster",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1768420792,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "SaaS",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/q2q",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/q2q.json"
-  },
-  {
     "id": 31163,
     "name": "Opalite Health",
     "slug": "opalite-health",
@@ -38775,50 +38813,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/fenrock-ai-yc-w26.json"
   },
   {
-    "id": 31200,
-    "name": "Ressl AI",
-    "slug": "ressl-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f0464bfc1a158571ff22902856b269f9c0f52001.png",
-    "website": "https://ressl.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ressl AI is building AI Agents to disrupt IT Services.\r\n\r\nEnterprise applications like Salesforce are highly flexible and configurable, allowing them to adapt to the unique processes of different businesses. But implementing and maintaining Salesforce requires specialised Salesforce admins or outsourced consulting firms—both of which are expensive and slow.\r\n\r\nAt Ressl AI, we’re building 10× AI Salesforce Admins. Our agents let IT and RevOps teams configure Salesforce in plain English, accelerating Salesforce delivery by 10× without adding headcount.\r\n\r\nOur agents can:\r\n\r\n> Document your Salesforce org\r\n> Find root causes of support issues\r\n> Perform analysis and dependency mapping\r\n> Configure flows and automations\r\n> Write Apex code and test classes\r\n> Upgrade orgs from legacy versions\r\n\r\nBefore building Ressl, Arushi and Abhishek ran an IT consulting firm for six months, using those learnings to productise RevOps and Salesforce consulting.\r\n\r\nThe global IT outsourcing market is projected to reach ~$600B in 2025. Ressl AI is excited to define what an agentic Accenture looks like.",
-    "one_liner": "AI Agents for ERP / CRM Configuration, starting with Salesforce",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1765975223,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Workflow Automation",
-      "CRM",
-      "Operations"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ressl-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/ressl-ai.json"
-  },
-  {
     "id": 31208,
     "name": "Oximy",
     "slug": "oximy",
@@ -38943,47 +38937,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/constellation-space",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/constellation-space.json"
-  },
-  {
-    "id": 31215,
-    "name": "Bubble Lab",
-    "slug": "bubble-lab",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fc7f7534f4fb913904f49914952c1daa8086654.png",
-    "website": "https://bubblelab.ai/",
-    "all_locations": "",
-    "long_description": "Bubble Lab is an open-source Typescript-native workflow automation platform. Unlike tools that use proprietary JSON, you describe a workflow in natural language, and instantly get both a visual flow and fully-typed TypeScript code side-by-side. It offers built-in observability, testability, and scalability out of the box. \r\n",
-    "one_liner": "Open-source, Typescript-native agentic workflow builder ",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1764881455,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Workflow Automation"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/bubble-lab",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/bubble-lab.json"
   },
   {
     "id": 31217,
@@ -39322,6 +39275,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/crow",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/crow.json"
+  },
+  {
+    "id": 31259,
+    "name": "Tsenta",
+    "slug": "tsenta",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5670afa2f39d71d15be15ed4c56ae5e0a65dbea4.png",
+    "website": "https://tsenta.com",
+    "all_locations": "",
+    "long_description": "Tsenta is a desktop app that matches you with jobs, optimizes your profile & applies on your behalf. It runs on your device, so you have granular control over every application being submitted in real-time.\r\n\r\nWe built Tsenta after applying to over 3,000 jobs manually, so that nobody else would have to.\r\n\r\nCheck us out at https://tsenta.com :)",
+    "one_liner": "AI-Native, On-Device Job Automation",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Job and Career Services",
+    "launched_at": 1769729252,
+    "tags": [
+      "Artificial Intelligence",
+      "Consumer",
+      "Recruiting",
+      "HR Tech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Job and Career Services"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tsenta",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/tsenta.json"
   },
   {
     "id": 31274,
