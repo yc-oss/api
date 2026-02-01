@@ -307,7 +307,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b1a47bf16f93d71a3d1f3af6d10a6c736e170b2.png",
     "website": "https://www.haladir.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Haladir is an AI-powered mainframe modernization suite that helps enterprises understand and transform their legacy systems. Our first product, Rosetta, automatically generates comprehensive documentation from COBOL codebases, enabling teams to understand millions of lines of legacy code without months of manual analysis. Our second product, Exodus, translates COBOL to modern languages like Java and C# .NET while preserving business logic through property-based testing, formal verification, and custom models.",
+    "long_description": "Haladir is an AI-powered mainframe modernization suite that helps enterprises understand and transform their legacy systems. Our docs product generates comprehensive documentation from COBOL codebases, enabling teams to understand millions of lines of legacy code without months of manual analysis. Our translation tool migrates COBOL and other legacy languages to modern languages like Java and C# .NET while preserving business logic through property-based testing, formal verification, and custom models.",
     "one_liner": "AI-Enabled Mainframe Modernization and Code Translation.",
     "team_size": 4,
     "industry": "B2B",
@@ -2159,17 +2159,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b6c42d7cabd8a666e0d6369ef40a058fca967f90.png",
     "website": "https://www.tryq2q.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Here's the problem: deal sourcing is tedious and requires 3-4 separate tools. We speed up sourcing for search funds and PE firms by finding prospects and preparing outreach messages to these potential acquisitions. In one platform, you can:\r\n\r\n1) Research market niches to refine your investment thesis\r\n2) Search for leads in our constantly-growing database\r\n3) Design custom campaigns with personalized messaging\r\n4) See inbound interest and track all prospects/communications in our CRM",
-    "one_liner": "We help private equity firms find potential acquisitions faster",
+    "long_description": "Q2Q is the AI-native outbound engine for deal sourcing. Tell us the types of companies you want to buy, and we'll get qualified meetings booked for you. \r\n\r\nYou can think of Q2Q as your personal team of AI interns. You give us your buying criteria, and we'll go out and find companies, write personalized emails, and get first calls booked with business owners for you. As the human in the loop, you'll approve messages before we send. Q2Q handles the sourcing work so you can focus on evaluating great deals.",
+    "one_liner": "We help private equity teams find acquisition targets faster",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1768420792,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "SaaS",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2282,6 +2282,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/compresr",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/compresr.json"
+  },
+  {
+    "id": 31167,
+    "name": "Stilta",
+    "slug": "stilta",
+    "former_names": [
+      "Patrona"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd5098ecffa80ba5653bbe087ea69f86e9bb24b7.png",
+    "website": "https://stilta.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Stilta is the AI-native software for patent practitioners, built on agentic workflows to amplify how IP work is done end-to-end. Instead of spending weeks manually researching and drafting patents, practitioners can reduce manual work by up to ~50% while enabling new revenue streams.\r\n\r\nInnovation is key to solving the world’s most important challenges, but the tools to protect innovation haven’t kept up. Patent teams are stuck doing high-stakes work with a process built around manual document review and disconnected point solutions. Existing tools are rigid and fail by not integrating AI with clear traceability (every output must be source-backed, referenced, and auditable). General LLM solutions generate text, but they don’t solve trust and integration in legal-grade workflows.\r\n\r\nWe’re four engineers from McKinsey/QuantumBlack who’ve spent the last few years building and deploying AI for large organizations. We’re building Stilta because the practitioners protecting the world’s most valuable ideas deserve tools that match the stakes. We’re already live with paying customers in both Europe and the US. ",
+    "one_liner": "Cursor for patent practitioners",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1769876849,
+    "tags": [
+      "Artificial Intelligence",
+      "LegalTech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/stilta",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/stilta.json"
   },
   {
     "id": 31173,
@@ -2461,7 +2502,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c6fd6b3bc7fb91c70acd850ce7a537f0e519187f.png",
     "website": "https://pranadoc.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Prana replaces the reactive, 15-minute annual physical with continuous, proactive care. We connect to your medical records and wearables to watch for \"clinical drift,\" catching subtle declines in health that human doctors miss between visits.\r\n\r\nMost AI health apps are just chatbots. Prana is a full-stack medical provider. Our AI acts as a always-on physician that watches your data, explains your labs, and manages your prescriptions.\r\n\r\nSafety & Scale: We automate 90% of the \"grunt work\" (history taking, logistics, triage) so our human doctors can focus purely on high-leverage decisions. This allows us to offer <60 minute access to a physician, 24/7, for a fraction of the cost of traditional care.\r\n\r\nThe Team:\r\n - Meer Patel (CEO): JHU BME. Deferred Brown Medical School to build Prana because code scales better than appointments.\r\n- Vishvam Rawal (CTO): Ex-Quant. Building high-frequency data infrastructure for health signals.\r\n- Sanjit Menon (CHO): Graduating MD Candidate. Deep clinical expertise to ensure our models practice good medicine.\r\n\r\nTraction: Live in beta with early users.",
+    "long_description": "Prana replaces the reactive, 15-minute annual physical with continuous, proactive care. We connect to your medical records and wearables to watch for \"clinical drift,\" catching subtle declines in health that human doctors miss between visits.\r\n\r\nMost AI health apps are just chatbots. Prana is a full-stack medical provider. Our AI acts as a always-on physician that watches your data, explains your labs, and manages your prescriptions.\r\n\r\nSafety & Scale: We automate 90% of the \"grunt work\" (history taking, logistics, triage) so our human doctors can focus purely on high-leverage decisions. This allows us to offer 24/7 physician care for a fraction of the cost of traditional care.\r\n\r\nThe Team:\r\n - Meer Patel (CEO): JHU BME. Deferred Brown Medical School to build Prana because code scales better than appointments.\r\n- Vishvam Rawal (CTO): Ex-Quant. Building high-frequency data infrastructure for health signals.\r\n- Sanjit Menon (CHO): Graduating MD Candidate. Deep clinical expertise to ensure our models practice good medicine.\r\n\r\nTraction: Live in beta with early users.",
     "one_liner": "An AI primary care doctor in your pocket",
     "team_size": 4,
     "industry": "Healthcare",
@@ -2680,7 +2721,8 @@
     "tags": [
       "Customer Service",
       "Call Center",
-      "Conversational AI"
+      "Conversational AI",
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,

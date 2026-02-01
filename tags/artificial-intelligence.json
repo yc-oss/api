@@ -11796,7 +11796,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -20295,54 +20295,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/martin.json"
   },
   {
-    "id": 29161,
-    "name": "Goldbridge",
-    "slug": "goldbridge",
-    "former_names": [
-      "Player One",
-      "Story Quest",
-      "StoryQuest",
-      "Goldbridge",
-      "StoryQuest"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d6bc2a399aaabb43bac34995b9a37125e0e1426.png",
-    "website": "",
-    "all_locations": "",
-    "long_description": "We’re building the financial OS for a trillion dollar vertical. Banking + intelligence + automation -- custom-built for real estate owners & operators.",
-    "one_liner": "Ramp for Real Estate",
-    "team_size": 2,
-    "industry": "Real Estate and Construction",
-    "subindustry": "Real Estate and Construction -> Housing and Real Estate",
-    "launched_at": 1763193418,
-    "tags": [
-      "Artificial Intelligence",
-      "Real Estate",
-      "Finance",
-      "Proptech",
-      "Neobank"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "Real Estate and Construction",
-      "Housing and Real Estate"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/goldbridge",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/goldbridge.json"
-  },
-  {
     "id": 29178,
     "name": "Lantern",
     "slug": "lantern-2",
@@ -22299,25 +22251,28 @@
   },
   {
     "id": 29363,
-    "name": "Lytix",
-    "slug": "lytix",
+    "name": "Solari AI",
+    "slug": "solari-ai",
     "former_names": [
       "Spare Change",
-      "SpareChange"
+      "SpareChange",
+      "Lytix"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/068d4a57daee96d896a98ada71a651a2d39135bf.png",
-    "website": "https://lytix.co/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2af699b82335feb5991d34bb94bb5e75f4fb1bbf.png",
+    "website": "https://www.usesolari.ai/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Lytix is Datadog for LLMs. We give developers time, money and certainty when building with AI. Developers are using lytix to build custom evaluations, identify opportunities to save money, and optimize their KPIs. Our approach has helped customers reduce errors by up to 85%.",
-    "one_liner": "DataDog for LLMs, turnkey solution for n=1 custom evaluations",
-    "team_size": 2,
+    "long_description": "Solari gives non-technical team members access to agents that work right out of the box. ",
+    "one_liner": "Gives non-technical team members agents that work right out of the box",
+    "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1710554488,
     "tags": [
       "Artificial Intelligence",
-      "Developer Tools",
-      "Analytics"
+      "Workflow Automation",
+      "Team Collaboration",
+      "Chatbots",
+      "No-code"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -22338,8 +22293,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lytix",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/lytix.json"
+    "url": "https://www.ycombinator.com/companies/solari-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/solari-ai.json"
   },
   {
     "id": 29365,
@@ -23019,7 +22974,7 @@
       "United Kingdom",
       "Europe"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -25238,7 +25193,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Willow is an AI dictation app that lets you type with your voice. Built to 4x the productivity of anyone spending too much time on email, docs, and AI prompting workflows.\r\n\r\nWe’re Mac-only for now. You can try it free at WillowVoice.com",
     "one_liner": "The voice interface replacing your keyboard",
-    "team_size": 4,
+    "team_size": 6,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1724580560,
@@ -28484,51 +28439,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/revyl",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/revyl.json"
-  },
-  {
-    "id": 30043,
-    "name": "Vespper",
-    "slug": "vespper",
-    "former_names": [
-      "Merlinn"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8071a4dd821b17c48fe53b21be58c8dd37534c31.png",
-    "website": "https://vespper.com/?utm_source=ycombinator.com",
-    "all_locations": "Remote",
-    "long_description": "The AI-native document editor for long-form content. Create, edit and review with full end-to-end traceability and full searchability of your source documents.\r\nPerfect for regulatory, compliance and legal professionals.",
-    "one_liner": "The first AI-native document editor for long-form content",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1729555399,
-    "tags": [
-      "Documents",
-      "Artificial Intelligence",
-      "B2B",
-      "Productivity",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/vespper",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/vespper.json"
   },
   {
     "id": 30056,
@@ -33632,54 +33542,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/lanesurf.json"
   },
   {
-    "id": 30619,
-    "name": "Shor",
-    "slug": "shor",
-    "former_names": [
-      "Kesher Link",
-      "ShorPay"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4831b44f5c4fb81b23bc71603346f936a8519a8.png",
-    "website": "https://www.tryshor.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Shor is a new Employer-of-Record built from the ground up with AI agents and stablecoins. We enable remote teams to hire and pay global employees at a fraction of the cost. The process is fast, simple, and fully compliant.\r\n\r\nToday, global payroll is broken. Payments take days, cost 5–10% in fees, and force companies to navigate complex banking, tax, and labor regulations. Platforms like Deel and Rippling solved this for large enterprises but remain too expensive and cumbersome for the millions of startups and growing remote teams scaling globally.\r\n\r\nShor fixes this by combining autonomous AI agents with stablecoin-based settlement. Our agents handle contracts, worker classification, compliance, and payroll automatically in a simple, messaging-first experience. Payments can settle in seconds rather than weeks at a fraction of the cost of legacy providers.\r\n\r\nWe are making global payroll fast, affordable, and accessible for the millions of companies left out by legacy platforms.",
-    "one_liner": "The fastest, most affordable payroll for global teams",
-    "team_size": 3,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Payments",
-    "launched_at": 1753916245,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "B2B",
-      "HR Tech",
-      "Payroll"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Payments"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/shor",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/shor.json"
-  },
-  {
     "id": 30621,
     "name": "Pond",
     "slug": "pond",
@@ -34949,47 +34811,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mcp-use",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/mcp-use.json"
-  },
-  {
-    "id": 30712,
-    "name": "Relling",
-    "slug": "relling",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e003594279b3a4474845b643ff2ee16c26f34a1a.png",
-    "website": "https://relling.co",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "RL and Data Infrastructure for Robotic World Models",
-    "team_size": null,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1756070413,
-    "tags": [
-      "Artificial Intelligence",
-      "Robotics",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/relling",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/relling.json"
   },
   {
     "id": 30713,
@@ -36624,9 +36445,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/942d0cc053faa8bcd3d973b7c4ce50fda2e6defa.png",
     "website": "https://usemod.ai",
     "all_locations": "",
-    "long_description": "We're building the agentic workforce that will replace the bottom half of the accounting org chart. Our agents imitate accounting clerks, taking charge of the entire workflow; vendor communication, fraud detection, invoice coding and exception handling. \r\n\r\nIn just 49 days, we built a compliant platform from scratch and closed 6 enterprise contracts ($165k cARR), helping customers reduce labor costs by 83%. 4 of these customers are also participating in our seed round!\r\n\r\nEvan & Jeet are previous founders from LinkedIn, Amazon, and Adyen, that met studying CS at UIUC.",
-    "one_liner": "Our AI Agents Replace Accounting Clerks",
-    "team_size": 3,
+    "long_description": "We're building the first AI email client for accounting.\r\n\r\nWe're starting with accounts payable, because we learned that AP teams spend 80% of their day just in the inbox— that's 4x more time than actually processing invoices.\r\n\r\nOur platform equips you with agents that handle everything: triaging emails, managing multiple mailboxes, responding to vendor and internal inquiries, processing and matching invoices, onboarding vendors, and detecting fraud.\r\n\r\nFind out why customers choose Mod AI to manage their AP at usemod.ai. Backed by the first investors in Airbnb, DoorDash, and Dropbox.",
+    "one_liner": "The First AI Email Client for Accounting",
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1759171972,
@@ -37869,6 +37690,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/lunabill.json"
   },
   {
+    "id": 30999,
+    "name": "Claybird",
+    "slug": "claybird",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9529719c71a2b6a4f16690eb9667a824c2ab4d65.png",
+    "website": "https://claybird.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Claybird makes studio-quality video ads in under 72 hours for brands like Coca-Cola, Walmart, Eight Sleep, Delve, and Mercor.\r\n\r\nClaybird’s AI agents use single-image NeRFs, fine-tuned image editing models, and eval layers for picture-perfect, consistent results at scale.\r\n",
+    "one_liner": "The full-stack AI ad company",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1759979466,
+    "tags": [
+      "Artificial Intelligence",
+      "Video",
+      "Marketing",
+      "Advertising"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/claybird",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/claybird.json"
+  },
+  {
     "id": 31002,
     "name": "Clicks",
     "slug": "clicks",
@@ -38550,6 +38413,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/orthogonal.json"
   },
   {
+    "id": 31155,
+    "name": "Q2Q",
+    "slug": "q2q",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b6c42d7cabd8a666e0d6369ef40a058fca967f90.png",
+    "website": "https://www.tryq2q.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Q2Q is the AI-native outbound engine for deal sourcing. Tell us the types of companies you want to buy, and we'll get qualified meetings booked for you. \r\n\r\nYou can think of Q2Q as your personal team of AI interns. You give us your buying criteria, and we'll go out and find companies, write personalized emails, and get first calls booked with business owners for you. As the human in the loop, you'll approve messages before we send. Q2Q handles the sourcing work so you can focus on evaluating great deals.",
+    "one_liner": "We help private equity teams find acquisition targets faster",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1768420792,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "SaaS",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/q2q",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/q2q.json"
+  },
+  {
     "id": 31163,
     "name": "Opalite Health",
     "slug": "opalite-health",
@@ -38638,6 +38543,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/compresr",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/compresr.json"
+  },
+  {
+    "id": 31167,
+    "name": "Stilta",
+    "slug": "stilta",
+    "former_names": [
+      "Patrona"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd5098ecffa80ba5653bbe087ea69f86e9bb24b7.png",
+    "website": "https://stilta.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Stilta is the AI-native software for patent practitioners, built on agentic workflows to amplify how IP work is done end-to-end. Instead of spending weeks manually researching and drafting patents, practitioners can reduce manual work by up to ~50% while enabling new revenue streams.\r\n\r\nInnovation is key to solving the world’s most important challenges, but the tools to protect innovation haven’t kept up. Patent teams are stuck doing high-stakes work with a process built around manual document review and disconnected point solutions. Existing tools are rigid and fail by not integrating AI with clear traceability (every output must be source-backed, referenced, and auditable). General LLM solutions generate text, but they don’t solve trust and integration in legal-grade workflows.\r\n\r\nWe’re four engineers from McKinsey/QuantumBlack who’ve spent the last few years building and deploying AI for large organizations. We’re building Stilta because the practitioners protecting the world’s most valuable ideas deserve tools that match the stakes. We’re already live with paying customers in both Europe and the US. ",
+    "one_liner": "Cursor for patent practitioners",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1769876849,
+    "tags": [
+      "Artificial Intelligence",
+      "LegalTech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/stilta",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/stilta.json"
   },
   {
     "id": 31175,
