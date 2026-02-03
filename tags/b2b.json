@@ -31820,17 +31820,18 @@
   },
   {
     "id": 28080,
-    "name": "Swishjam",
-    "slug": "swishjam",
+    "name": "Tagsafe",
+    "slug": "tagsafe",
     "former_names": [
-      "Tagsafe"
+      "Tagsafe",
+      "Swishjam"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d607b93f3da26fde36fd956fe7b3fb67f045e121.png",
-    "website": "https://swishjam.com",
+    "website": "http://www.tagsafe.io",
     "all_locations": "Los Angeles, CA, USA; Remote",
-    "long_description": "Swishjam takes web and product analytics a step further by connecting to all of your disparate systems, stitching that data into your product analytics data, and giving you a complete view of your SaaS business and your customers.",
-    "one_liner": "All-in-one digital analytics for SaaS companies",
-    "team_size": 2,
+    "long_description": "",
+    "one_liner": "",
+    "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1678306868,
@@ -31861,8 +31862,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/swishjam",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/swishjam.json"
+    "url": "https://www.ycombinator.com/companies/tagsafe",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/tagsafe.json"
   },
   {
     "id": 28082,
@@ -39371,18 +39372,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6da2b305915dd2f4090a9cd55210079b59c3095d.png",
     "website": "https://soff.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Manufacturers use Soff to grow revenue by auto-creating quotes and automating communication with customers & suppliers.",
-    "one_liner": "AI for Manufacturers Sales",
+    "long_description": "Distributors & Manufacturers use Soff to grow revenue through Soff's sales agents that process quotes, orders and handles all communication with customers, co-workers & suppliers.",
+    "one_liner": "AI Agents for Distributors",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1721748598,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Sales",
       "Manufacturing",
-      "Supply Chain"
+      "Supply Chain",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -41692,16 +41693,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Docs are integral to a great customer experience, but managing them is a challenging, multi-team effort. The most successful companies recognize that fantastic docs drive adoption and bad ones cause customers to churn. Promptless is used by fast-growing startups and Fortune 500 enterprises alike to automatically update docs based on feature releases, support tickets, internal Slack conversations, and more.\r\n\r\nPromptless is designed to be flexible—it can integrate with any docs platform, be triggered automatically from many workflows, and can pull in context from any internal knowledge source.\r\n\r\nWith Promptless, documentation becomes a strategic advantage for growth, not a bottleneck or a liability. ",
     "one_liner": "An AI teammate that automatically updates your customer-facing docs",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1734445501,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "SaaS",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -41855,6 +41856,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/weave-3",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/weave-3.json"
+  },
+  {
+    "id": 30230,
+    "name": "SalesPatriot",
+    "slug": "salespatriot",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c55eb595eb8712daeb02c69afcc09007bcb63c4f.png",
+    "website": "https://www.salespatriot.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "SalesPatriot is a back-office operating system for defense firms. It helps you find, review, and bid on RFQ solicitations, both directly with the Pentagon and as a subcontractor.\r\n\r\nUS Government procures billions of dollars worth of parts and products every year, yet the procedure is riddled with red tape and repetitive, manual work.\r\n\r\nNelson worked at a manufacturing firm during his gap year prior to attending Berkeley. As the Chief of Staff, he witnessed first-hand the tedious process of finding great contract opportunities, the lengthy solicitation preparation process, and paper-based communication between departments.\r\n\r\nHe teamed up with Ben and Maciej, whom he met during Berkeley's M.E.T. admit day. Both of them had extensive experience in AI research and applications, which they applied to creating a powerful framework for humans and AI agents to collaborate during the lifecycle of a contract.\r\n\r\nWith SalesPatriot, your firm can run on autopilot - we find suitable contracts automatically, ingest RFQs from primes, streamline the communication between the departments, and provide analytics to improve your win rate.\r\n\r\nWether you are a manufacturer, reseller, or distributor, SalesPatriot can reduce your manual tasks, increase throughput, and boost your revenue. ",
+    "one_liner": "We help defense firms win more contracts with the Pentagon",
+    "team_size": 13,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1741557589,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Sales",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/salespatriot",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/salespatriot.json"
   },
   {
     "id": 30242,
@@ -42295,7 +42339,7 @@
       "Highintent",
       "Gowatch"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fbae37efd9e2a0d93d9c53bab48626e3a49950b8.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/efdf6ee9c7e7982e5c4b3241aed41a34d139d93c.png",
     "website": "http://www.bystreet.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Bystreet is a hospitality deal sourcing platform built for hotel brands, management companies, and suppliers going after the CALA market. We provide best-in-class data on ownership groups and the right contacts to reach out to at them.",
@@ -48212,10 +48256,10 @@
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1768420792,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

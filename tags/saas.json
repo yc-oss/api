@@ -14787,7 +14787,7 @@
     "former_names": [
       "Drip"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ba1d88383fb670f4bece6ddacd19dd9b25e972cc.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f0fd578735825717b2afbf0834e1df6184ba35be.png",
     "website": "https://dripos.com",
     "all_locations": "New York, NY, USA",
     "long_description": "Dripos is the only piece of software a coffee shop needs to run their business. We offer point of sale, employee scheduling, mobile ordering, and more to the 100,000 cafes in the United States.",
@@ -38040,17 +38040,18 @@
   },
   {
     "id": 28080,
-    "name": "Swishjam",
-    "slug": "swishjam",
+    "name": "Tagsafe",
+    "slug": "tagsafe",
     "former_names": [
-      "Tagsafe"
+      "Tagsafe",
+      "Swishjam"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d607b93f3da26fde36fd956fe7b3fb67f045e121.png",
-    "website": "https://swishjam.com",
+    "website": "http://www.tagsafe.io",
     "all_locations": "Los Angeles, CA, USA; Remote",
-    "long_description": "Swishjam takes web and product analytics a step further by connecting to all of your disparate systems, stitching that data into your product analytics data, and giving you a complete view of your SaaS business and your customers.",
-    "one_liner": "All-in-one digital analytics for SaaS companies",
-    "team_size": 2,
+    "long_description": "",
+    "one_liner": "",
+    "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1678306868,
@@ -38081,8 +38082,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/swishjam",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/swishjam.json"
+    "url": "https://www.ycombinator.com/companies/tagsafe",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/tagsafe.json"
   },
   {
     "id": 28082,
@@ -39579,16 +39580,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7eba747c12d79722f933dd297d83341ffec8d94c.png",
     "website": "https://www.getspine.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Spine is the unlimited visual workspace where your ideas can branch, run in parallel, and stay in view. Instead of being trapped in a linear chat thread, you think in blocks, not threads—chat, deep research, images, memos, slides—each block holding its own context while sharing it across the canvas.\r\n\r\nConnect and orchestrate GPT-5, Claude, Gemini, Grok, Llama and hundreds more like instruments in a symphony, all without losing your train of thought. Chat is great for Q&A; it’s terrible for thinking. Spine fixes that by letting context flow visually between blocks so your flow state never breaks.\r\n\r\nExtend this thinking to structured workflows that you can set up across 1000+ apps.\r\n\r\nReclaim your creative power. The age of prompt engineering is ending; the future of thinking is visual, collaborative, and unlimited—and it lives on Spine.",
-    "one_liner": "Unlimited visual workspace to collaborate with hundreds of AI models",
-    "team_size": 5,
+    "long_description": "Spine AI is a visual workspace where a single prompt spins up a swarm of AI agents that plan, delegate, and execute complex tasks together — with humans fully in the loop.\r\n\r\nInstead of chatting back and forth with one model, Spine breaks work into visible steps on a shared canvas. Agents collaborate in parallel, ask clarifying questions, use connected tools, and show their reasoning and intermediate outputs as they work.\r\n\r\nEvery agent’s work stays inspectable, auditable, and editable — reducing hallucinations and giving you real control over the outcome.\r\n\r\nSpine connects to leading AI models and your existing tools, but the real power comes from orchestration: you act as the team lead, Spine runs the swarm.\r\n\r\nChat is great for answers. Spine is built for execution.",
+    "one_liner": "Manage a swarm of AI agents to get real work done",
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1687896796,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
-      "SaaS",
-      "AI"
+      "SaaS"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -39602,7 +39603,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -45634,16 +45637,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Docs are integral to a great customer experience, but managing them is a challenging, multi-team effort. The most successful companies recognize that fantastic docs drive adoption and bad ones cause customers to churn. Promptless is used by fast-growing startups and Fortune 500 enterprises alike to automatically update docs based on feature releases, support tickets, internal Slack conversations, and more.\r\n\r\nPromptless is designed to be flexible—it can integrate with any docs platform, be triggered automatically from many workflows, and can pull in context from any internal knowledge source.\r\n\r\nWith Promptless, documentation becomes a strategic advantage for growth, not a bottleneck or a liability. ",
     "one_liner": "An AI teammate that automatically updates your customer-facing docs",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1734445501,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "SaaS",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45812,8 +45815,11 @@
     "subindustry": "B2B -> Operations",
     "launched_at": 1741557589,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
-      "GovTech"
+      "B2B",
+      "Sales",
+      "Industrial"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46112,7 +46118,7 @@
       "Highintent",
       "Gowatch"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fbae37efd9e2a0d93d9c53bab48626e3a49950b8.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/efdf6ee9c7e7982e5c4b3241aed41a34d139d93c.png",
     "website": "http://www.bystreet.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Bystreet is a hospitality deal sourcing platform built for hotel brands, management companies, and suppliers going after the CALA market. We provide best-in-class data on ownership groups and the right contacts to reach out to at them.",
@@ -48176,17 +48182,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a57c2d57c9bd745bb44f95e1f930dda18b6c534.png",
     "website": "https://opennote.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Opennote is the one space for everything you study, turning chaos into clarity.\r\n\r\nMost learners struggle with scattered knowledge across different apps and tools that don't understand their learning style. Opennote changes that with a note-taking platform where AI knows your style, connects to your existing knowledge bases and the web, and provides proactive feedback and edits—right where you're already working.",
+    "long_description": "Opennote is a notebook with an AI thinking partner built in.\r\n\r\nFeynman lives in your work: it edits your writing, references your knowledge and the web, runs background tasks, and gives feedback as you work. ",
     "one_liner": "The notebook that thinks with you.",
     "team_size": 3,
-    "industry": "Education",
-    "subindustry": "Education",
+    "industry": "Consumer",
+    "subindustry": "Consumer",
     "launched_at": 1752018108,
     "tags": [
       "AI-Enhanced Learning",
       "Education",
       "SaaS",
-      "Consumer"
+      "Consumer",
+      "Productivity"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48195,7 +48202,7 @@
     "batch": "Summer 2025",
     "status": "Active",
     "industries": [
-      "Education"
+      "Consumer"
     ],
     "regions": [
       "United States of America",
@@ -49555,10 +49562,10 @@
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1768420792,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49629,7 +49636,7 @@
     "slug": "cardboard",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd18107dd1d0b70679aef18956a0bd68d03549b0.png",
-    "website": "https://cardboard.sh",
+    "website": "https://usecardboard.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Cardboard is an agentic video editor for growth/marketing teams and serious creators who need to ship videos consistently. Instead of agencies, long timelines, and infinite review cycles, teams give cardboard a footage + a goal (“3 variants”, “30s hook”, “testimonials”) to get a strong first cut in minutes on which they can iterate quickly.\r\n\r\nMultimodal LLMs can finally reason over footage, and WebGPU/WebCodecs make a real NLE possible in the browser. For the first time, an “AI director” inside a professional editor can be a reality.\r\n\r\nWe have to build two hard things at once: a high-performance editor in the browser and an agentic editor that is reliable for production use cases. Most startups do one; incumbents can’t rebuild their stack without breaking everything.\r\n\r\nSaksham and Ishan met in school and have known each other since 15 years. Saksham was Co-founder/CTO of Iterate AI (backed by EF) and posts content on social media; Ishan has spent ~5yr building memory-heavy, performance-critical browser apps at HackerRank (S11) and deeply understands browsers. He has built Hotspoter (5M+ downloads) when he was 14.\r\n\r\nTogether, we’re unusually suited to build the editor core others avoid.\r\n\r\nVideo is becoming the default distribution channel, and the team that iterates fastest compounds attention. Cardboard becomes the default workspace for video production, the way Canva/Figma became the workspace for design - because it’s collaborative, fast, and does the tedious parts for you.",
     "one_liner": "Agentic video editor",
@@ -49638,10 +49645,10 @@
     "subindustry": "B2B",
     "launched_at": 1768162565,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Video",
-      "Media"
+      "Media",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49673,7 +49680,7 @@
     "website": "https://www.caretta.so",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Caretta is a Sales Intelligence for revenue teams. It joins reps in live calls, helping them handle information requests, questions, and objections in real time. Caretta lives in Slack to join the team conversation.\r\n\r\nCaretta gets smarter automatically: every call expands its knowledge base and objection library, turning conversations into compounding organizational advantage.",
-    "one_liner": "24/7 Sales Intelligence ",
+    "one_liner": "Realtime AI for Sales Calls",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
