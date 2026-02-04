@@ -1148,7 +1148,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2014",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -1159,7 +1159,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -6067,7 +6067,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8fe82c6fb65a41c32500091074e518f40adc2538.png",
     "website": "https://methodfi.com",
-    "all_locations": "Austin, TX, USA",
+    "all_locations": "New York, NY, USA",
     "long_description": "Method provides connectivity to consumer credit and liability accounts, enabling end-to-end refinance experiences, real-time account data access, and one-click checkout.",
     "one_liner": "Financial connectivity API for consumer liabilities",
     "team_size": 50,
@@ -27290,22 +27290,21 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/00fd47f91143cc8393a67e9aa539ee075762df08.png",
     "website": "http://www.superbar.ai",
     "all_locations": "Toronto, ON, Canada; Remote",
-    "long_description": "Superbar is the AI-powered search and answer bar built to fix ecommerce conversion. It connects to your product catalog, blogs, videos, and customer reviews to deliver instant, high-converting search results and answers—trained specifically to sell your products. No dev work needed. Just plug it in.\r\n",
-    "one_liner": "Search & Answers Superbar for E-Commerce",
-    "team_size": 3,
+    "long_description": "Superbar instantly answers questions on your website and drives conversions 24/7. It's like having a top salesperson on every page.\r\n",
+    "one_liner": "Sales AI for your Website",
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1656364678,
     "tags": [
       "SaaS",
       "B2B",
-      "E-commerce",
       "Marketing",
       "Enterprise"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -28896,29 +28895,30 @@
   },
   {
     "id": 27696,
-    "name": "SelectIQ",
-    "slug": "selectiq",
+    "name": "Novelcare",
+    "slug": "novelcare",
     "former_names": [
       "Recomp",
       "Resync",
       "Workpage",
-      "Resync"
+      "Resync",
+      "SelectIQ"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/50326873077f3e33f3d72f4e252a9c35ba7c9de4.png",
-    "website": "https://www.selectiq.com",
-    "all_locations": "New York, NY, USA",
-    "long_description": "SelectIQ addresses the primary bottleneck in drug development: recruiting patients into clinical trials.\r\n\r\nWe analyze electronic health records to help doctors find clinical trials for their patients, and to help trial sites find patients for their studies. 72% of doctors want to inform their patients of clinical trials, but only 5% do. We're on a mission to close that gap, ultimately bringing safer, more effective drugs to the patients who need them.",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c996f3a2f99cc3139f3821e758390c21efe8183.png",
+    "website": "https://www.novel.care",
+    "all_locations": "New York, NY, USA; Remote",
+    "long_description": "Novelcare addresses the primary bottleneck in drug development: recruiting patients into clinical trials.\r\n\r\nWe analyze electronic health records to help doctors find clinical trials for their patients, and to help trial sites find patients for their studies. 72% of doctors want to inform their patients of clinical trials, but only 5% do. We're on a mission to close that gap, ultimately bringing safer, more effective drugs to the patients who need them.",
     "one_liner": "Empowering every doctor and every patient to participate in research",
-    "team_size": 2,
+    "team_size": 5,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Drug Discovery and Delivery",
     "launched_at": 1677470068,
     "tags": [
+      "Artificial Intelligence",
       "Health Tech",
       "B2B",
       "Healthcare",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -28934,15 +28934,15 @@
       "United States of America",
       "America / Canada",
       "Remote",
-      "Partly Remote"
+      "Fully Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/selectiq",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/selectiq.json"
+    "url": "https://www.ycombinator.com/companies/novelcare",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/novelcare.json"
   },
   {
     "id": 27697,
@@ -43340,11 +43340,11 @@
     "former_names": [
       "Clidey WhoDB"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f2e58c42a604fd5e1a5fcad5f8c2350c03ca60a.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eaee1ea603a9cd9e2411a3a9821c8820cdfb0f90.png",
     "website": "https://clidey.com",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Clidey is building WhoDB (https://whodb.com)\r\n\r\nComing soon.",
-    "one_liner": "Removing the application layer completely",
+    "long_description": "WhoDB is an open-source platform for modeling organizations and running decisions on top of their data.\r\n\r\nIt lets teams define their core entities (customers, accounts, assets, workflows), the relationships between them, and the rules and objectives that govern how decisions should be made. WhoDB continuously ingests operational data and keeps this model up to date in real time.\r\n\r\nInstead of building dashboards, writing ad-hoc queries, or maintaining scattered business logic, teams express decisions declaratively—what should happen, under what conditions, and with what constraints. WhoDB evaluates those decisions automatically as data changes and produces actions, recommendations, or state updates.\r\n\r\nEverything is transparent and inspectable: data models, decision logic, and outcomes are fully auditable and can be extended in code. The system is open source and runs in your own environment.",
+    "one_liner": "Model your organization. Run it in real time.",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -45313,24 +45313,26 @@
   },
   {
     "id": 30710,
-    "name": "mcp-use",
-    "slug": "mcp-use",
-    "former_names": [],
+    "name": "Manufact (formerly mcp-use)",
+    "slug": "manufact",
+    "former_names": [
+      "mcp-use"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3838f80b214ed1fcda53a2778860e8be11cfdb0d.png",
-    "website": "https://mcp-use.com",
+    "website": "https://manufact.com",
     "all_locations": "",
-    "long_description": "mcp-use provides open-source dev tools and infrastructure for MCP to help dev teams quickly build and deploy MCP Servers for AI agents & MCP Apps for ChatGPT.\r\nOur library has over 4M downloads and 8,000 stars, and is used by hundreds of engineers at big enterprises.\r\nWe provide a hosted and self-hosted platform that manages auth, access control, and multi-user environments for secure MCP agents deployment at scale.",
-    "one_liner": "Open-source dev tools and infrastructure for MCP.",
+    "long_description": "Manufact provides open-source dev tools and infrastructure for MCP to help dev teams quickly build and deploy MCP Servers for AI agents & MCP Apps for ChatGPT and Claude.\r\nWe developed the mcp-use SDK, which has over 5M downloads and 9,000 GitHub stars, and is used by 20% of the US 500.\r\nCreate MCP servers/apps in minutes, connect your GitHub repo, and make them immediately available to AI agents and ChatGPT.",
+    "one_liner": "Open source SDK & cloud infrastructure for MCP Servers & ChatGPT Apps ",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1752861544,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Open Source",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45350,8 +45352,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mcp-use",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/mcp-use.json"
+    "url": "https://www.ycombinator.com/companies/manufact",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/manufact.json"
   },
   {
     "id": 30713,
@@ -46056,8 +46058,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/33bd8f66dcd7e23bb8534547770b4cd40b2ffb8b.png",
     "website": "https://www.trylapis.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lapis is an AI growth marketer for startups.\r\n\r\nLapis' AI agents create ads, run marketing campaigns, write website content, and track web and LLM analytics so startups can get more customers.",
-    "one_liner": "AI Growth Marketer for Startups",
+    "long_description": "Lapis helps businesses run ads on Meta, Linkedin, and Google.",
+    "one_liner": "AI Image Ads for Meta, Linkedin, and Google",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
@@ -46874,16 +46876,16 @@
     "all_locations": "",
     "long_description": "The most flexible enterprise compliance engine that makes GRC teams 10x more efficient. Already trusted by global leaders and the largest EU enterprises.\r\n\r\nWhat it does:\r\n- Extracts requirements from any file\r\n- Maps them to controls and policies\r\n- Shows gaps and monitors changes\r\n- Advises on maturity and next steps",
     "one_liner": "Global Compliance for Enterprises",
-    "team_size": 3,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1759460278,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "LegalTech",
-      "Cybersecurity"
+      "Cybersecurity",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48070,6 +48072,50 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/10x-science.json"
   },
   {
+    "id": 31100,
+    "name": "Sentrial",
+    "slug": "sentrial",
+    "former_names": [
+      "Realm"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/26000be4ea55d3ad362449bab44a79ad483eaba7.png",
+    "website": "https://sentrial.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sentrial is the observability platform for AI agents in production. \r\n\r\nWhen your agent loops indefinitely, hallucinates, or frustrates users, Sentrial detects it in real-time, diagnoses the root cause, and recommends specific fixes. We provide the monitoring, evaluation, and debugging infrastructure that traditional tools weren't built for, so teams can ship agents with confidence and iterate based on real production behavior, not just evals/benchmarks.",
+    "one_liner": "Production Monitoring for AI Agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1770083112,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sentrial",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/sentrial.json"
+  },
+  {
     "id": 31101,
     "name": "LegalOS",
     "slug": "legalos",
@@ -48459,6 +48505,50 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/ressl-ai.json"
   },
   {
+    "id": 31206,
+    "name": "Samora AI",
+    "slug": "samora-ai",
+    "former_names": [
+      "Samora.ai"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6eaba07a75fd30d319628002a37abd8993ba036e.png",
+    "website": "https://samora.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Samora runs multilingual voice operations for organizations with high-volume calling without requiring engineering teams, call centers, or AI expertise.\r\n\r\nMany important tasks still depend on phone calls, including customer support, outreach, follow-ups, screening, and intake. But voice AI often fails in production because real callers interrupt, go off-script, switch languages mid-sentence, and speak in local dialects. Teams also worry about safety and compliance, especially when an agent can accidentally make the wrong promise.\r\n\r\nSamora solves this with voice agents that sound local and follow strict rules. Samora agents handle inbound and outbound calls, collect information, and update internal systems like CRMs, ticketing tools, and ATS platforms. When a call becomes sensitive or uncertain, the agent hands off to a human. It can also follow up over WhatsApp, SMS, or email when needed.\r\n\r\nWith Samora, teams get:\r\n1. Voice agents that work in real conversations, including dialects and code-switching\r\n2. Strict safety controls so agents don’t make unauthorized offers, discounts, or promises\r\n3. Calls that result in completed actions, system updates, and safe human handoff",
+    "one_liner": "Multilingual voice agents with safe human escalation when needed",
+    "team_size": 8,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1770130182,
+    "tags": [
+      "B2B",
+      "AI",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/samora-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/samora-ai.json"
+  },
+  {
     "id": 31213,
     "name": "Byteport",
     "slug": "byteport",
@@ -48837,6 +48927,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/veriad",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/veriad.json"
+  },
+  {
+    "id": 31264,
+    "name": "Vela",
+    "slug": "vela",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/06e0dd16c2af788adc332865c74ea59fa44d4b7d.png",
+    "website": "https://tryvela.ai/ps",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Vela is the AI Scheduling Assistant built to handle the ambiguity that breaks scheduling. It has taste: it knows to prioritize a client over an internal catch-up, and it understands \"Let's do early next week\" without setting specific parameters. You just add Vela to the conversation, and it handles the white-glove negotiation as a member of your team, even at scale.\r\n\r\nToday, Vela is already used by professionals with the most complicated scheduling workflows. Enterprise recruiters are using Vela to schedule thousands of multi-party interviews and large sales teams rely on Vela to coordinate cross-functional calls.",
+    "one_liner": "The AI Scheduling Assistant that truly knows you.",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1770142827,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Recruiting",
+      "Calendar",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/vela",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/vela.json"
   },
   {
     "id": 31292,

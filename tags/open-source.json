@@ -7068,24 +7068,26 @@
   },
   {
     "id": 30710,
-    "name": "mcp-use",
-    "slug": "mcp-use",
-    "former_names": [],
+    "name": "Manufact (formerly mcp-use)",
+    "slug": "manufact",
+    "former_names": [
+      "mcp-use"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3838f80b214ed1fcda53a2778860e8be11cfdb0d.png",
-    "website": "https://mcp-use.com",
+    "website": "https://manufact.com",
     "all_locations": "",
-    "long_description": "mcp-use provides open-source dev tools and infrastructure for MCP to help dev teams quickly build and deploy MCP Servers for AI agents & MCP Apps for ChatGPT.\r\nOur library has over 4M downloads and 8,000 stars, and is used by hundreds of engineers at big enterprises.\r\nWe provide a hosted and self-hosted platform that manages auth, access control, and multi-user environments for secure MCP agents deployment at scale.",
-    "one_liner": "Open-source dev tools and infrastructure for MCP.",
+    "long_description": "Manufact provides open-source dev tools and infrastructure for MCP to help dev teams quickly build and deploy MCP Servers for AI agents & MCP Apps for ChatGPT and Claude.\r\nWe developed the mcp-use SDK, which has over 5M downloads and 9,000 GitHub stars, and is used by 20% of the US 500.\r\nCreate MCP servers/apps in minutes, connect your GitHub repo, and make them immediately available to AI agents and ChatGPT.",
+    "one_liner": "Open source SDK & cloud infrastructure for MCP Servers & ChatGPT Apps ",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1752861544,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Open Source",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7105,8 +7107,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mcp-use",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/mcp-use.json"
+    "url": "https://www.ycombinator.com/companies/manufact",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/manufact.json"
   },
   {
     "id": 30772,
@@ -7276,6 +7278,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sourcebot",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/sourcebot.json"
+  },
+  {
+    "id": 31088,
+    "name": "RunAnywhere",
+    "slug": "runanywhere",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/361f4cc73d27e788a8d1f92355ba04c3d71218ee.png",
+    "website": "https://www.runanywhere.ai/",
+    "all_locations": "",
+    "long_description": "Edge AI is inevitable, but shipping it is painful: every device class behaves differently, runtimes vary, models are huge, and performance collapses under memory/power constraints. RunAnywhere turns that into an enterprise-ready workflow: one SDK to run models on-device, plus a control plane to manage models, enforce policies, and measure outcomes across thousands of devices.",
+    "one_liner": "The default way of running On-Device AI at Scale",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1767296079,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "IoT",
+      "Open Source",
+      "Enterprise"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/runanywhere",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/runanywhere.json"
   },
   {
     "id": 31133,

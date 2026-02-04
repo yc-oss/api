@@ -13032,7 +13032,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4e00745e7a3c3ee63862572e35ef2d37f8197af5.png",
     "website": "http://www.cosine.sh",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "London, England, United Kingdom",
     "long_description": "Cosine is a fully agentic SWE that allows you to instantly work on every single ticket at once, asynchronously. ",
     "one_liner": "Fully Agentic SWE",
     "team_size": 12,
@@ -13040,11 +13040,11 @@
     "subindustry": "B2B",
     "launched_at": 1670878872,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "Machine Learning",
-      "NLP",
-      "AI"
+      "NLP"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -13056,8 +13056,8 @@
       "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "United Kingdom",
+      "Europe",
       "Remote",
       "Partly Remote"
     ],
@@ -21013,11 +21013,11 @@
     "former_names": [
       "Clidey WhoDB"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f2e58c42a604fd5e1a5fcad5f8c2350c03ca60a.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eaee1ea603a9cd9e2411a3a9821c8820cdfb0f90.png",
     "website": "https://clidey.com",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Clidey is building WhoDB (https://whodb.com)\r\n\r\nComing soon.",
-    "one_liner": "Removing the application layer completely",
+    "long_description": "WhoDB is an open-source platform for modeling organizations and running decisions on top of their data.\r\n\r\nIt lets teams define their core entities (customers, accounts, assets, workflows), the relationships between them, and the rules and objectives that govern how decisions should be made. WhoDB continuously ingests operational data and keeps this model up to date in real time.\r\n\r\nInstead of building dashboards, writing ad-hoc queries, or maintaining scattered business logic, teams express decisions declaratively—what should happen, under what conditions, and with what constraints. WhoDB evaluates those decisions automatically as data changes and produces actions, recommendations, or state updates.\r\n\r\nEverything is transparent and inspectable: data models, decision logic, and outcomes are fully auditable and can be extended in code. The system is open source and runs in your own environment.",
+    "one_liner": "Model your organization. Run it in real time.",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -21957,24 +21957,26 @@
   },
   {
     "id": 30710,
-    "name": "mcp-use",
-    "slug": "mcp-use",
-    "former_names": [],
+    "name": "Manufact (formerly mcp-use)",
+    "slug": "manufact",
+    "former_names": [
+      "mcp-use"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3838f80b214ed1fcda53a2778860e8be11cfdb0d.png",
-    "website": "https://mcp-use.com",
+    "website": "https://manufact.com",
     "all_locations": "",
-    "long_description": "mcp-use provides open-source dev tools and infrastructure for MCP to help dev teams quickly build and deploy MCP Servers for AI agents & MCP Apps for ChatGPT.\r\nOur library has over 4M downloads and 8,000 stars, and is used by hundreds of engineers at big enterprises.\r\nWe provide a hosted and self-hosted platform that manages auth, access control, and multi-user environments for secure MCP agents deployment at scale.",
-    "one_liner": "Open-source dev tools and infrastructure for MCP.",
+    "long_description": "Manufact provides open-source dev tools and infrastructure for MCP to help dev teams quickly build and deploy MCP Servers for AI agents & MCP Apps for ChatGPT and Claude.\r\nWe developed the mcp-use SDK, which has over 5M downloads and 9,000 GitHub stars, and is used by 20% of the US 500.\r\nCreate MCP servers/apps in minutes, connect your GitHub repo, and make them immediately available to AI agents and ChatGPT.",
+    "one_liner": "Open source SDK & cloud infrastructure for MCP Servers & ChatGPT Apps ",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1752861544,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Open Source",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21994,8 +21996,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mcp-use",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/mcp-use.json"
+    "url": "https://www.ycombinator.com/companies/manufact",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/manufact.json"
   },
   {
     "id": 30722,
@@ -23109,7 +23111,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/361f4cc73d27e788a8d1f92355ba04c3d71218ee.png",
     "website": "https://www.runanywhere.ai/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Edge AI is inevitable, but shipping it is painful: every device class behaves differently, runtimes vary, models are huge, and performance collapses under memory/power constraints. RunAnywhere turns that into an enterprise-ready workflow: one SDK to run models on-device, plus a control plane to manage models, enforce policies, and measure outcomes across thousands of devices.",
     "one_liner": "The default way of running On-Device AI at Scale",
     "team_size": 2,
@@ -23117,13 +23119,15 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1767296079,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Enterprise",
-      "AI"
+      "IoT",
+      "Open Source",
+      "Enterprise"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2026",
     "status": "Active",
@@ -23132,8 +23136,7 @@
       "Infrastructure"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -23182,6 +23185,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sonarly",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/sonarly.json"
+  },
+  {
+    "id": 31100,
+    "name": "Sentrial",
+    "slug": "sentrial",
+    "former_names": [
+      "Realm"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/26000be4ea55d3ad362449bab44a79ad483eaba7.png",
+    "website": "https://sentrial.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sentrial is the observability platform for AI agents in production. \r\n\r\nWhen your agent loops indefinitely, hallucinates, or frustrates users, Sentrial detects it in real-time, diagnoses the root cause, and recommends specific fixes. We provide the monitoring, evaluation, and debugging infrastructure that traditional tools weren't built for, so teams can ship agents with confidence and iterate based on real production behavior, not just evals/benchmarks.",
+    "one_liner": "Production Monitoring for AI Agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1770083112,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sentrial",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/sentrial.json"
   },
   {
     "id": 31123,

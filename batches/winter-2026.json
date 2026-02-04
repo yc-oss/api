@@ -640,6 +640,47 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/hlabs.json"
   },
   {
+    "id": 31064,
+    "name": "Origin",
+    "slug": "origin-bio",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f0bdde9261c1483c617c9ca235a7378e3d7ba10.png",
+    "website": "https://origin.bio/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Designing novel regulatory DNA (e.g., enhancers and promoters) to program precise therapeutic gene expression patterns - for diseases like cancer, CNS disorders and more. We're building the largest proprietary dataset of synthetic regulatory sequences across diverse cell-states.",
+    "one_liner": "AI for safer cell & gene therapies",
+    "team_size": 4,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Drug Discovery and Delivery",
+    "launched_at": 1770167044,
+    "tags": [
+      "AI-powered Drug Discovery",
+      "Gene Therapy",
+      "Cell Therapy"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Drug Discovery and Delivery"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/origin-bio",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/origin-bio.json"
+  },
+  {
     "id": 31077,
     "name": "Panta",
     "slug": "panta",
@@ -776,7 +817,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e2c404c5bbc49c9c8e25d9c60779b50f507ba65.png",
     "website": "https://www.usekita.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "In emerging markets like the Philippines, open finance is still nascent. Most of the population is traditionally unbanked, banking APIs don’t exist, and a borrower’s financial history lives in documents: e-wallet records, bank statements, utility bills, and more. Because this data is unstructured, credit and risk teams are forced into manual review. This slows decisioning, increases costs, and caps lending volume. Legacy OCR solutions break on noisy, real-world files and still require human verification.\r\n\r\nKita is the first document intelligence platform built specifically for lending. We are hyperlocalized around the signals that actually drive lending outcomes in emerging and undertapped domestic markets like the Philippines, Indonesia, Mexico, and beyond. Using a layered system led by vision-language models and computer vision, we outperform traditional OCR by transforming messy borrower documents into fraud-checked, decision-ready signals lenders can use directly in underwriting.\r\n\r\nUnder the hood, Kita is a learning system. We link document-level signals to repayment outcomes, allowing our models to continuously improve fraud detection and risk assessment over time. This creates a compounding advantage for lenders as their distinct underwriting decisions feed back into the system.\r\n\r\nWe secured a six-figure paid pilot with a Philippine lender the week we built our prototype. Since then, we’ve expanded with customers across multiple Southeast Asian markets, shipped new features continuously, and grown roughly 30% MoM.\r\n\r\nWe’re Carmel and Rhea. We met before Stanford and have been building together ever since. Carmel is from Manila, is a repeat founder, and spent three years in product at Apple. Rhea has a research background in computer vision and received the highest honor in Stanford Computer Science. Together, we combine deep local context with strong technical execution to build the infrastructure that expands access to credit in emerging markets.",
+    "long_description": "In emerging markets like the Philippines, open finance is still nascent. Most of the population is traditionally unbanked, banking APIs don’t exist, and a borrower’s financial history lives in documents: e-wallet records, bank statements, utility bills, and more. Because this data is unstructured, credit and risk teams are forced into manual review. This slows decisioning, increases costs, and caps lending volume. Legacy OCR solutions break on noisy, real-world files and still require human verification.\r\n\r\nKita is the first document intelligence platform built specifically for lending. We are hyperlocalized around the signals that actually drive lending outcomes in emerging and undertapped domestic markets like the Philippines, Indonesia, Mexico, and beyond. Using a layered system led by vision-language models and computer vision, we outperform traditional OCR by transforming messy borrower documents into fraud-checked, decision-ready signals lenders can use directly in underwriting.\r\n\r\nUnder the hood, Kita is a learning system. We link document-level signals to repayment outcomes, allowing our models to continuously improve fraud detection and risk assessment over time. This creates a compounding advantage for lenders as their distinct underwriting decisions feed back into the system.\r\n\r\nWe’re Carmel and Rhea. We met before Stanford and have been building together ever since. Carmel is from Manila, is a repeat founder, and spent three years in product at Apple. Rhea has a research background in computer vision and received the highest honor in Stanford Computer Science. Together, we combine deep local context with strong technical execution to build the infrastructure that expands access to credit in emerging markets.",
     "one_liner": "Turn documents into signals for lenders",
     "team_size": 2,
     "industry": "Fintech",
@@ -894,7 +935,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/361f4cc73d27e788a8d1f92355ba04c3d71218ee.png",
     "website": "https://www.runanywhere.ai/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Edge AI is inevitable, but shipping it is painful: every device class behaves differently, runtimes vary, models are huge, and performance collapses under memory/power constraints. RunAnywhere turns that into an enterprise-ready workflow: one SDK to run models on-device, plus a control plane to manage models, enforce policies, and measure outcomes across thousands of devices.",
     "one_liner": "The default way of running On-Device AI at Scale",
     "team_size": 2,
@@ -902,13 +943,15 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1767296079,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Enterprise",
-      "AI"
+      "IoT",
+      "Open Source",
+      "Enterprise"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2026",
     "status": "Active",
@@ -917,8 +960,7 @@
       "Infrastructure"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1177,6 +1219,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/10x-science",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/10x-science.json"
+  },
+  {
+    "id": 31100,
+    "name": "Sentrial",
+    "slug": "sentrial",
+    "former_names": [
+      "Realm"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/26000be4ea55d3ad362449bab44a79ad483eaba7.png",
+    "website": "https://sentrial.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sentrial is the observability platform for AI agents in production. \r\n\r\nWhen your agent loops indefinitely, hallucinates, or frustrates users, Sentrial detects it in real-time, diagnoses the root cause, and recommends specific fixes. We provide the monitoring, evaluation, and debugging infrastructure that traditional tools weren't built for, so teams can ship agents with confidence and iterate based on real production behavior, not just evals/benchmarks.",
+    "one_liner": "Production Monitoring for AI Agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1770083112,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sentrial",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/sentrial.json"
   },
   {
     "id": 31101,
@@ -2757,7 +2843,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d8e226478cb43c163b19e22186c3bab3bdb9668.png",
     "website": "https://www.seeing-systems.com",
     "all_locations": "",
-    "long_description": "We’re building modular strike and reconnaissance drone platforms and a corresponding super-easy-to-use swarm control system in collaboration with Royal Marine Commandos, US, and allied nations, to fill a capability gap.\r\n\r\nWhy? Because modern conflict has led to a shift in the procurement landscape. It’s now possible to work directly with military units to build what they need, which is exactly what we’ve been doing at Seeing Systems.\r\n\r\nThink of us as Anduril, but with worse weather, and better banter.",
+    "long_description": "We're building inexpensive, autonomous strike drones designed to stay operationally relevant as warfare evolves. \r\n\r\nBy combining true hardware modularity with an agentic control system that lowers cognitive load on operators, we enable faster upgrades, broader adoption, and more than 2x reduction in lifecycle cost.\r\n\r\nOur customers and partners include the UK Royal Marine Commandos, several other units in the UK, and 4 other NATO forces, and we are currently shipping prototypes for iterative feedback.\r\n\r\nThink of us as Anduril, but with worse weather, and better banter.",
     "one_liner": "AI Drone Systems for Defence",
     "team_size": 2,
     "industry": "Industrials",
@@ -3168,6 +3254,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/human-archive",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/human-archive.json"
+  },
+  {
+    "id": 31206,
+    "name": "Samora AI",
+    "slug": "samora-ai",
+    "former_names": [
+      "Samora.ai"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6eaba07a75fd30d319628002a37abd8993ba036e.png",
+    "website": "https://samora.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Samora runs multilingual voice operations for organizations with high-volume calling without requiring engineering teams, call centers, or AI expertise.\r\n\r\nMany important tasks still depend on phone calls, including customer support, outreach, follow-ups, screening, and intake. But voice AI often fails in production because real callers interrupt, go off-script, switch languages mid-sentence, and speak in local dialects. Teams also worry about safety and compliance, especially when an agent can accidentally make the wrong promise.\r\n\r\nSamora solves this with voice agents that sound local and follow strict rules. Samora agents handle inbound and outbound calls, collect information, and update internal systems like CRMs, ticketing tools, and ATS platforms. When a call becomes sensitive or uncertain, the agent hands off to a human. It can also follow up over WhatsApp, SMS, or email when needed.\r\n\r\nWith Samora, teams get:\r\n1. Voice agents that work in real conversations, including dialects and code-switching\r\n2. Strict safety controls so agents don’t make unauthorized offers, discounts, or promises\r\n3. Calls that result in completed actions, system updates, and safe human handoff",
+    "one_liner": "Multilingual voice agents with safe human escalation when needed",
+    "team_size": 8,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1770130182,
+    "tags": [
+      "B2B",
+      "AI",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/samora-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/samora-ai.json"
   },
   {
     "id": 31207,
@@ -4293,6 +4423,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/veriad.json"
   },
   {
+    "id": 31264,
+    "name": "Vela",
+    "slug": "vela",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/06e0dd16c2af788adc332865c74ea59fa44d4b7d.png",
+    "website": "https://tryvela.ai/ps",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Vela is the AI Scheduling Assistant built to handle the ambiguity that breaks scheduling. It has taste: it knows to prioritize a client over an internal catch-up, and it understands \"Let's do early next week\" without setting specific parameters. You just add Vela to the conversation, and it handles the white-glove negotiation as a member of your team, even at scale.\r\n\r\nToday, Vela is already used by professionals with the most complicated scheduling workflows. Enterprise recruiters are using Vela to schedule thousands of multi-party interviews and large sales teams rely on Vela to coordinate cross-functional calls.",
+    "one_liner": "The AI Scheduling Assistant that truly knows you.",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1770142827,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Recruiting",
+      "Calendar",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/vela",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/vela.json"
+  },
+  {
     "id": 31271,
     "name": "VOYGR",
     "slug": "voygr",
@@ -4553,8 +4725,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d2a4475db614107fb0effa347e625a6885ca8045.png",
     "website": "https://grazemate.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "GrazeMate builds autonomous drones that herd cattle.\r\n\r\nAt the push of a button, our AI drones fly to a paddock, position themselves around the herd and guide them to new paddocks. Instead of a full day mustering with helicopters, motorbikes, and horses, farmers use GrazeMate.\r\n\r\nWe work with the world's largest cattle ranches, giving them complete visibility into their operations. While our drones herd cattle autonomously, they simultaneously estimate animal weights, measure grass biomass, monitoring water levels, and detect sick animals. We're building physical AI that gives farmers superhuman capabilities - managing thousands of livestock across massive distances from their phone.",
-    "one_liner": "Robot Cowboys that Muster Cattle with AI Drones",
+    "long_description": "GrazeMate builds autonomous drones that herd cattle.\r\n\r\nAt the push of a button, our AI drones fly to a paddock, position themselves around the herd and guide them to new paddocks. Instead of a full day mustering with helicopters, motorbikes, and horses, ranchers use GrazeMate.\r\n\r\nWe work with the world's largest cattle ranches, giving them complete visibility into their operations. While our drones herd cattle autonomously, they simultaneously estimate animal weights, measure grass biomass, monitoring water levels, and detect sick animals. We're building physical AI that gives farmers superhuman capabilities - managing thousands of livestock across massive distances from their phone.",
+    "one_liner": "Robot Cowboys that Herd Cattle with AI Drones",
     "team_size": 4,
     "industry": "Industrials",
     "subindustry": "Industrials -> Agriculture",
@@ -4720,6 +4892,44 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/shofo",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/shofo.json"
+  },
+  {
+    "id": 31303,
+    "name": "Condor Energy",
+    "slug": "condor-energy",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5751db10a61d10ff4226cc9aa0b10f70ff87bb6d.png",
+    "website": "",
+    "all_locations": "",
+    "long_description": "Condor helps large electricity consumers - C&I and data centers - cut electricity costs by helping the grid.\r\nWe are former electricity traders and energy systems experts building our AI-powered software. Our clients use Condor to control their electricity costs, to steer their consumption based on reliable forecasts and to conduct profitable investments. ",
+    "one_liner": "Energy system enabling reliable, cheap and sustainable electricity…",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Energy",
+    "launched_at": 1770133131,
+    "tags": [
+      "Energy"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Energy"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/condor-energy",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/condor-energy.json"
   },
   {
     "id": 31306,
