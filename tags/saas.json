@@ -2370,7 +2370,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -10152,7 +10152,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2019",
     "status": "Active",
@@ -18742,14 +18742,14 @@
     "one_liner": "GitHub for lawyers",
     "team_size": 6,
     "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
+    "subindustry": "B2B -> Legal",
     "launched_at": 1616475139,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Legal",
-      "LegalTech",
-      "AI"
+      "LegalTech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -18759,7 +18759,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Productivity"
+      "Legal"
     ],
     "regions": [
       "United States of America",
@@ -19086,9 +19086,9 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/38d405f6de14f8d3d7f5c8feb80ff7911ac69ec2.png",
     "website": "https://popl.co/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Capture leads, enrich validated contact & company info, and share digital business cards - at events, in the field, and beyond. Powered by AI and our proprietary data engine, Popl drives growth for companies around the world, turning every handshake into an opportunity.",
-    "one_liner": "Your complete in-person GTM platform",
+    "all_locations": "New York, NY, USA; Remote",
+    "long_description": "Capture leads, scan badges, enrich data, and sync it all to your CRM—at events, conferences, and beyond. Powered by AI and our proprietary data engine, Popl helps companies around the world turn in-person events into a measurable & scalable growth channel.",
+    "one_liner": "Your Complete In-Person GTM Platform",
     "team_size": 60,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -19113,7 +19113,7 @@
       "United States of America",
       "America / Canada",
       "Remote",
-      "Partly Remote"
+      "Fully Remote"
     ],
     "stage": "Early",
     "app_video_public": true,
@@ -23201,52 +23201,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/doublehq",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/doublehq.json"
-  },
-  {
-    "id": 24137,
-    "name": "Watu",
-    "slug": "watu",
-    "former_names": [
-      "Watu",
-      "ShopMyGPT.com"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b893bfee13bdfcc0a2a1b1bfc49d29c819dff05.png",
-    "website": "https://www.watu.email/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Watu is building an email iOS app to enable 1 click checkout inside of emails.",
-    "one_liner": "Checkout inside of email",
-    "team_size": null,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1630032705,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "E-commerce"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2021",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/watu",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/watu.json"
   },
   {
     "id": 24140,
@@ -36119,12 +36073,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Numeral is the fastest, easiest way to stay compliant with US sales tax and global VAT. \r\n\r\nTrusted by 2,000+ businesses, including Eight Sleep, Ridge, and Manus, our end-to-end platform keeps our customers compliant wherever they sell, with registrations, filings, calculations, and ongoing compliance support.\r\n\r\nNumeral’s AI-native solution covers more than 70 countries and tens of thousands of jurisdictions and is built for accuracy and scale.",
     "one_liner": "The AI-native sales tax solution.",
-    "team_size": 70,
+    "team_size": 85,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1672355505,
     "tags": [
+      "Fintech",
       "SaaS",
+      "Finance",
+      "Compliance",
       "E-commerce"
     ],
     "tags_highlighted": [],
@@ -39411,7 +39368,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -47534,17 +47491,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/00eb0a0f3a1d2e114523331a618501c6336a1b3f.png",
     "website": "https://janet.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Janet AI (janet.ai) is the first AI-native ticket management system, built for modern engineering teams and tool stacks. Janet doesn’t wait for your manual work.\r\n\r\n- Ideas, bug reports, and feature requests get tracked directly from meetings/Slack/Discord/SMS.\r\n- Tickets are auto-moved when GitHub PRs resolving them are opened and merged.\r\n- You can reply to issue reporters in Slack/Discord directly from Janet when a ticket is resolved.\r\n- Janet evaluates ticket quality, clusters related issues, and auto-tags issues.\r\n- We bring all your tickets to your Cursor/Claude Code's context so coding agents can create, understand, update, prioritize, and resolve issues - the time spent on thorough ticketing finally has tangible ROI (not just a chore).\r\n- And more!\r\n\r\nFounders, product leaders, customer success, and engineers all love Janet: cross-team communication, collaboration, and execution are made seamless. That’s why users repeatedly switch away from Linear, Jira, and others after trying Janet for just a single project/sprint.\r\n\r\nCheck out janet.ai to get started today!",
+    "long_description": "Janet AI (janet.ai) is the first AI-native ticket management system, built for modern engineering teams and tool stacks. Janet doesn’t wait for your manual work.\r\n\r\n- Ideas, bug reports, and feature requests get tracked directly from meetings/Slack/Discord/SMS/email.\r\n- Tickets are auto-moved when GitHub PRs resolving them are opened and merged.\r\n- You can reply to issue reporters in Slack/Discord directly from Janet when a ticket is resolved.\r\n- Janet evaluates ticket quality, clusters related issues, and auto-tags issues.\r\n- We bring all your tickets to your Cursor/Claude Code's context so coding agents can create, understand, update, prioritize, and resolve issues - the time spent on thorough ticketing finally has tangible ROI (not just a chore).\r\n- And more!\r\n\r\nFounders, product leaders, customer success, and engineers all love Janet: cross-team communication, collaboration, and execution are made seamless. That’s why users repeatedly switch away from Linear, Jira, and others after trying Janet for just a single project/sprint.\r\n\r\nCheck out janet.ai to get started today!",
     "one_liner": "The AI-Native Jira",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1752861520,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "DevOps"
+      "DevOps",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49887,8 +49844,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e9ec4aa927e0e98329effde763de82fc90df7c1.png",
     "website": "https://bookoapp.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": " Booko helps appointment-based businesses make more money by dynamically pricing their time. Unlike physical inventory, unsold hours disappear forever, yet most service businesses still rely on static pricing. We integrate with existing booking systems to adjust prices and incentives based on historical utilization, availability, and demand. Early customers see ~20% revenue uplift by selling time that would have otherwise gone unsold. ",
-    "one_liner": "Dynamic pricing for service businesses",
+    "long_description": "Booko helps businesses that sell bookable time slots make more money by dynamically pricing their time. Unlike physical inventory, unsold time slots disappear forever, yet most time-slot-based businesses still rely on static pricing. We integrate with existing booking systems to adjust prices and incentives based on historical utilization, availability, and demand. Early customers see ~20% revenue uplift by selling time that would have otherwise gone unsold.",
+    "one_liner": "Dynamic pricing for businesses that sell time slots",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",

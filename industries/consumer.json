@@ -17302,7 +17302,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -22228,7 +22228,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8906169a88bda866fc7b928a110627276ee2e93f.png",
     "website": "https://www.duffl.com",
-    "all_locations": "Santa Monica, CA, USA; Los Angeles, CA, USA",
+    "all_locations": "Santa Monica, CA, USA",
     "long_description": "Duffl delivers snacks to college students in 10 minutes. We use data to wholesale high demand/high margin products and deliver them directly to our customers using electric scooters and a student-driven workforce. We've launched at: UCLA, USC, UCSB, UC Berkeley, UofA, ASU, TSU and UT Austin. Join us on a journey of empowering students to better serve each other! www.jobs.duffl.com\r\n",
     "one_liner": "10-minute delivery service for college students.",
     "team_size": 12,
@@ -22255,7 +22255,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -26171,6 +26171,55 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/madeats",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/madeats.json"
+  },
+  {
+    "id": 24137,
+    "name": "Soco",
+    "slug": "soco",
+    "former_names": [
+      "Watu",
+      "ShopMyGPT.com",
+      "Watu"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/48360413020d2b744e8c5f969d2f31d5390b1957.png",
+    "website": "https://socosearch.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Soco: You talk to it, it brings you hundreds of products.",
+    "one_liner": "Conversational AI shopping",
+    "team_size": null,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Apparel and Cosmetics",
+    "launched_at": 1630032705,
+    "tags": [
+      "Artificial Intelligence",
+      "Consumer",
+      "Chatbot",
+      "Retail",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Apparel and Cosmetics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/soco",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/soco.json"
   },
   {
     "id": 24142,
@@ -33990,27 +34039,26 @@
   },
   {
     "id": 30112,
-    "name": "BookMyFlight",
-    "slug": "bookmyflight",
+    "name": "Vaya",
+    "slug": "vaya",
     "former_names": [
       "Purge",
       "Fix AI",
-      "Candid"
+      "Candid",
+      "BookMyFlight"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8debb481982ada27879515605e46ee4194bc15f1.png",
-    "website": "https://bookmyflight.ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1ba9e1699223ad05f5f5256e9857a9efd08cf0f5.png",
+    "website": "https://flyvaya.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "We make booking a flight as easy as booking an Uber.",
+    "one_liner": "Discover your next vacation for less.",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer -> Travel, Leisure and Tourism",
     "launched_at": 1730227120,
     "tags": [
-      "Artificial Intelligence",
-      "Travel",
-      "Booking",
-      "AI Assistant"
+      "Consumer",
+      "Travel"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -34031,8 +34079,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/bookmyflight",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/bookmyflight.json"
+    "url": "https://www.ycombinator.com/companies/vaya",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/vaya.json"
   },
   {
     "id": 30116,
@@ -36283,5 +36331,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tsenta",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/tsenta.json"
+  },
+  {
+    "id": 31302,
+    "name": "Resonate",
+    "slug": "resonate",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c775eab2b9c5660b9a550410cd6c913383d47ef4.png",
+    "website": "https://resonate.audio",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Building new products around information transformation, generative social content, and generative UI.\r\n\r\nResonate Chat - https://www.resonate.audio - The best voice mesaging experience. Period.\r\nResonate Create - http://resonatecreate.com - Advanced Agentic Video platform\r\n\r\nGrowing these products. Many more in the works!",
+    "one_liner": "The first AI-native messaging platform.",
+    "team_size": 0,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1770250805,
+    "tags": [
+      "Consumer",
+      "Video",
+      "Social",
+      "Creator Economy",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/resonate",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/resonate.json"
   }
 ]
