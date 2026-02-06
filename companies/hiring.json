@@ -8930,6 +8930,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2018/oxygen.json"
   },
   {
+    "id": 2030,
+    "name": "Culdesac",
+    "slug": "culdesac",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/496d0ff1f20ae199837eebe1bfef35fa059329d0.png",
+    "website": "http://culdesac.com",
+    "all_locations": "Tempe, AZ, USA",
+    "long_description": "Culdesac designs, builds, and manages walkable communities. \r\n\r\nCuldesac is a real estate developer and property manager. We build neighborhoods that embrace community, open space, and mobility. We offer residential units at a variety of price points integrated with local retail, commercial uses, and open space for nature and public plazas.\r\n\r\nOur communities prioritize biking, walking, and transit over cars and parking. We partner with leading mobility companies to deliver convenient and affordable transportation services. This creates a vibrant urban lifestyle without the need for a private vehicle.\r\n\r\nRead more here > https://medium.com/culdesac/introducing-culdesac-3fbfe7c4219c",
+    "one_liner": "We build cities for people, not cars. ",
+    "team_size": 100,
+    "industry": "Real Estate and Construction",
+    "subindustry": "Real Estate and Construction -> Housing and Real Estate",
+    "launched_at": 1575871649,
+    "tags": [
+      "Real Estate",
+      "Housing",
+      "Proptech",
+      "ClimateTech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2018",
+    "status": "Active",
+    "industries": [
+      "Real Estate and Construction",
+      "Housing and Real Estate"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/culdesac",
+    "api": "https://yc-oss.github.io/api/batches/summer-2018/culdesac.json"
+  },
+  {
     "id": 11895,
     "name": "Overview",
     "slug": "overview",
@@ -15319,9 +15363,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f00f6931229f64701cd737b9839f92f72e20005.png",
     "website": "https://www.swif.ai",
     "all_locations": "Sunnyvale, CA, USA; Remote",
-    "long_description": "Swif.ai is a real-time device compliance and security platform that keeps every Mac, Windows, and Linux endpoint secure and audit-ready. Our lightweight agent enforces policies (encryption, patching, app controls) as people work, auto-remediates drift, and streams audit evidence to tools like Vanta and Drata. Unlike legacy MDM or “after-the-fact” compliance software, Swif.ai delivers enforcement—not just reports—plus device-level Shadow IT/AI governance to detect and block risky or unauthorized SaaS and LLM tools.\r\n\r\nEnterprises choose Swif.ai for true multi-OS coverage in a single pane of glass, one-click remediation, and fast time-to-value via silent installers and native integrations with Okta, Microsoft Entra ID, and Google Workspace (conditional access by device posture). The result is fewer tools to manage, shorter audits, and stronger security with lower operational burden. Swif.ai is SOC 2 Type II. Our near-term roadmap adds Safe-AI controls for regulated industries, AI-agent monitoring, and integrated vulnerability detection with one-click fixes—expanding our lead as the enforcement layer for endpoint compliance and AI security.\r\n",
-    "one_liner": "Swif.ai: multi-OS device compliance & security with Shadow IT/AI…",
-    "team_size": 10,
+    "long_description": "Swif.ai is a real-time device compliance and security platform that keeps every Mac, Windows, and Linux endpoint secure and audit-ready. Our lightweight agent enforces policies (encryption, patching, app controls) as people work, auto-remediates drift, and streams audit evidence to tools like Vanta and Drata. Unlike legacy MDM or “after-the-fact” compliance software, Swif.ai delivers enforcement—not just reports—plus device-level Shadow IT/AI governance to detect and block risky or unauthorized SaaS and LLM tools.\r\n\r\nEnterprises choose Swif.ai for true multi-OS coverage in a single pane of glass, one-click remediation, and fast time-to-value via silent installers and native integrations with Okta, Microsoft Entra ID, and Google Workspace (conditional access by device posture). The result is fewer tools to manage, shorter audits, and stronger security with lower operational burden. Swif.ai is SOC 2 Type II. Our near-term roadmap adds Safe-AI controls for regulated industries, AI-agent monitoring, and integrated vulnerability detection with one-click fixes—expanding our lead as the enforcement layer for endpoint compliance and AI security.\r\n\r\nProduct:\r\n\r\nBrowser ext: https://www.ycombinator.com/verify/qcevgcdkljtatq4b\r\nShadow IT visibility and control: https://www.ycombinator.com/verify/sw1ibjjvvvnfreyt\r\nNVIDIA DRIVE OS: https://www.ycombinator.com/verify/l3t1czjxb7nnyrgb\r\nAndroid MDM: https://www.ycombinator.com/verify/woqnqh3rthffqmbx\r\nLinux MDM: https://www.ycombinator.com/verify/9agdwvvykayp5b1b\r\nWindows MDM: https://www.ycombinator.com/verify/a4yio3xgdkzsmx9t\r\nMac MDM: https://www.ycombinator.com/verify/leou6zsbef0haiwc\r\niOS MDM: https://www.ycombinator.com/verify/vylqbbiavpmbgszm\r\nApple MDM: https://www.ycombinator.com/verify/lqtmir4nw2vedlje\r\nDevice CVE Report: https://www.ycombinator.com/verify/ahvwm91gapho25zf\r\nUnified MDM: https://www.ycombinator.com/verify/aforcignwhchkmhg",
+    "one_liner": "The guardrail for AI on every device",
+    "team_size": 20,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1597360094,
@@ -19766,7 +19810,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": true,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -20314,18 +20358,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3df7b6e09c2fda2538b0426203b84e4e92ca7471.png",
     "website": "https://flutterflow.io",
-    "all_locations": "San Mateo, CA, USA; Remote",
+    "all_locations": "",
     "long_description": "We're building a visual application development platform to dramatically improve the time to market and quality of digital experiences. FlutterFlow helps companies and product teams improve developer efficiency, accelerate project timelines, and reduce costs for large-scale business applications. Our customers include some of the largest banking, consulting, telecom, and manufacturing companies in the world.\r\n\r\nWe have more than 1.3M users in more than 200 countries and regions around the world.\r\n\r\nWe’re a remote first team headquartered in the San Francisco Bay Area. We have offices in Mountain View, New York City, and Singapore.",
     "one_liner": "Application Development Platform (Native Mobile + Web Apps)",
-    "team_size": 70,
+    "team_size": 55,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1613985818,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "Design Tools"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -20337,12 +20377,10 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -27438,8 +27476,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ded490920c3d66fa08b0a9da3269ee21d78daff.png",
     "website": "http://www.permitflow.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "Intuitive workflow software that helps general contractors and developers identify the optimal permitting process and needed application forms for a particular project, and then easily fill the relevant paperwork to prepare a robust application package.",
-    "one_liner": "TurboTax for Construction Permitting",
+    "long_description": "Intuitive AI platform that helps general contractors and developers manage their preconstruction process",
+    "one_liner": "Construction's AI Platform",
     "team_size": 80,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction -> Construction",
@@ -27447,7 +27485,8 @@
     "tags": [
       "GovTech",
       "Construction",
-      "Proptech"
+      "Proptech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -27869,47 +27908,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/curacel",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/curacel.json"
-  },
-  {
-    "id": 25689,
-    "name": "Kaagaz",
-    "slug": "kaagaz",
-    "former_names": [
-      "Ordenado Labs Pvt. Ltd."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f271350ee43aa2c95ce0719ddd066e79505b3730.png",
-    "website": "https://kaagaz.app",
-    "all_locations": "New Delhi, DL, India",
-    "long_description": "Kaagaz is an 'Office' Suite for Mobile-first Businesses in India. With Kaagaz, these users can manage all the document requirements for their business using their smartphone itself, without needing a Desktop.\r\n\r\nWe have an active user base of 3Mn+ users and paid users north of 60,000+ - growing every month.\r\n\r\nWith over 200M such businesses in India, at $15/year subscription price, this a $3B opportunity in India & much larger globally.\r\n\r\nWe are a team of 2nd time entrepreneurs having scaled the pervious startup to $1M in GMV. We are backed by YCombinator, Goodwater Capital, Pravega Venture, Better Capital & other investors including Alan Rutledge (TrendMD) and Farid Ahsan (Sharechat)",
-    "one_liner": "'Office' Suite for Mobile-first Businesses in India",
-    "team_size": 11,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1643865753,
-    "tags": [
-      "SaaS",
-      "India"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "India",
-      "South Asia"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/kaagaz",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/kaagaz.json"
   },
   {
     "id": 25691,
@@ -31807,11 +31805,11 @@
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1654554081,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Digital Health",
       "Healthcare",
-      "API",
-      "AI"
+      "API"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -39149,52 +39147,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/transformity",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/transformity.json"
-  },
-  {
-    "id": 28884,
-    "name": "Dialtone",
-    "slug": "dialtone",
-    "former_names": [
-      "Samtana",
-      "Anneal",
-      "Dialtone",
-      "Big Smart AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8692e4ed8f0a4f0994a54350ecdac6d39e97ad8e.png",
-    "website": "https://usedialtone.com",
-    "all_locations": "",
-    "long_description": "Dialtone helps enterprises transform cross-functional, cross-system tasks into intelligent, self-running AI agents - all with your existing enterprise security controls. Companies across technology, sports and entertainment, healthcare, finance, and retail deploy Dialtone Agents to automate both internal operations and customer-facing processes.\r\n\r\nWhat sets us apart:\r\n1. Agentic AI delivered on day one: Our platform couples cutting-edge AI infrastructure with built-in reliability, security, and observability so teams can launch production-grade agents in days, not months.\r\n2. White-glove engineering included: Dedicated engineering support to help end-to-end, from scoping to launch to continuous optimization - at no extra cost.\r\n3. Success over software: We measure our impact by real business outcomes, not seat counts. If our agents aren’t moving the needle, we’re not done.\r\n\r\nHow it works:\r\n1.No-code Agent Builder - Design, test, deploy, and run agents in an intuitive UI anyone can use. All backed by Dialtone’s best-in-class AI infrastructure and agent orchestration platform.\r\n2. Humans in the loop - Employees can seamlessly collaborate with agents when human input or oversight is required.\r\n3. Triggers + Surfaces - Configure agents to run on integration events, time based schedules, or arbitrary webhooks - all in an easy-to-use UI. Or, use and talk with agents from your existing chat and email surfaces.\r\n4. Integrations Library - 100+ (and counting) first-party data, action, and event connectors for the software and tools you already depend on.\r\n5. Observability - View every step of any agentic flow with easily parseable real-time logs and traces for rapid debugging, optimization, and auditing.\r\n6. Custom Integrations + API - Extend agents with your proprietary systems and software using your existing OpenAPI specs and MCP servers. Need even more customization? Programmatically create, orchestrate, and monitor agents from your own codebase.\r\n",
-    "one_liner": "AI agents for enterprises",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1688669019,
-    "tags": [
-      "Artificial Intelligence",
-      "Enterprise",
-      "Enterprise Software",
-      "Automation",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dialtone",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/dialtone.json"
   },
   {
     "id": 28890,
@@ -47071,9 +47023,9 @@
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1720644316,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
-      "Insurance",
-      "AI"
+      "Insurance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49891,17 +49843,16 @@
     "website": "https://www.shipoway.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Oway is an AI-driven freight platform that turns America’s empty truck space into a new category of freight shipping. Every year 50% of U.S. truck space goes unused, a $100B+ inefficiency. Oway uses AI to automatically price, match, and sell that space in real time, giving businesses freight shipping that is dramatically faster and cheaper than traditional options. \r\n\r\nWe're building the largest decentralized network of America’s empty truck space - a transparent infrastructure layer any shipper, broker, or carrier can plug into. For shippers, this means freight costs that are up to 50% lower than traditional LTL (shipments from 1 to 12 pallets), along with faster delivery windows because freight moves directly from dock to dock without the slow handoffs, warehouses, or cross-docking infrastructure that LTL depends on. For carriers, Oway’s integration can increase annual revenues by up to 30% with minimal impact on existing schedules. They simply earn more by monetizing space that would have gone unused.\r\n\r\nOur mission is to transform empty truck space into an asset that strengthens U.S. competitiveness. By lowering the cost of goods sold, we help businesses grow. By improving carrier margins, we make trucking more sustainable. And by digitizing and decentralizing freight, we are laying the foundation for a resilient, transparent logistics layer that can support America’s reindustrialization in the decades ahead. Oway makes freight shipping as simple as ridesharing - click a button, book a truck, and move goods at the true cost of available capacity.",
-    "one_liner": "The First AI Infrastructure Layer for America’s Empty Truck Space",
+    "one_liner": "AI Infrastructure for America’s Empty Truck Space",
     "team_size": 10,
     "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
+    "subindustry": "B2B -> Infrastructure",
     "launched_at": 1717601253,
     "tags": [
-      "Machine Learning",
-      "Marketplace",
+      "Artificial Intelligence",
       "B2B",
-      "Ridesharing",
-      "Logistics"
+      "Logistics",
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49911,7 +49862,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Supply Chain and Logistics"
+      "Infrastructure"
     ],
     "regions": [
       "United States of America",
@@ -53340,17 +53291,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/544faf85c3fb3b0e5acf3a985a6a1ce535df4377.png",
     "website": "https://fromolive.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Olive learns your hiring bar as you review candidates and gives you suggestions to find the best talent.",
-    "one_liner": "AI Applicant Screening",
+    "long_description": "",
+    "one_liner": "The context layer for your team",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1740018718,
     "tags": [
       "Artificial Intelligence",
-      "B2B",
-      "Recruiting",
-      "Talent Acquisition"
+      "Productivity",
+      "Team Collaboration"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -55206,14 +55156,18 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9572a4af92fd7a09438369c8555334bcd54574f8.png",
     "website": "https://getnao.io/",
-    "all_locations": "",
-    "long_description": "nao is an AI code editor for data teams. Its AI agent is natively integrated with your data warehouse, and trained on data workflows - so it can write code that actually works on your data and guarantees its quality.",
-    "one_liner": "AI data IDE",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "nao is an open source framework to build and deploy analytics agent.\r\nCreate the context of your analytics agent with nao-core cli: data, metadata, modeling, rules, etc. Deploy a UI for anyone to chat with your agent and run analytics on your data.",
+    "one_liner": "Open Source Analytics Agent",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1744958361,
-    "tags": [],
+    "tags": [
+      "Analytics",
+      "Open Source",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -55225,7 +55179,8 @@
       "Analytics"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -58976,7 +58931,9 @@
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1750622964,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -60494,7 +60451,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c489d64c631359b79077be36194f234ac5e83b2c.png",
     "website": "https://nucleoresearch.com/",
     "all_locations": "",
-    "long_description": "We help oncologists and radiologists extract insights from CT scans to support tumor characterization and treatment.\r\n\r\nThe hospitals we work with include Stanford Hospital, Cedars-Sinai (the largest hospital in California), UCI Health, and Weill Cornell.",
+    "long_description": "We help oncologists and radiologists extract insights from CT scans to support tumor characterization and treatment.\r\n\r\nThe hospitals we work with include Stanford Hospital, Cedars-Sinai, UCI Health, and Weill Cornell.",
     "one_liner": "The first Agentic platform for Oncology",
     "team_size": 2,
     "industry": "Healthcare",
@@ -61263,6 +61220,50 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/pax-historia.json"
   },
   {
+    "id": 31188,
+    "name": "Maywood",
+    "slug": "maywood",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/25766f301c649782f67a8e41bd075b4e72544918.png",
+    "website": "https://maywoodai.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Maywood automates deal execution for investment banks, from decks to diligence\r\n\r\nThe Maywood platform automatically generates finished, on-brand CIMs / presentations, models, and diligence responses that prioritizes editability and auditability, with best-in-class security ensuring information stays protected.\r\n\r\nMaywood reinvents the deal process with a single, living workspace for every deal.",
+    "one_liner": "AI for M&A",
+    "team_size": 4,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Banking and Exchange",
+    "launched_at": 1770247865,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Finance",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Banking and Exchange"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/maywood",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/maywood.json"
+  },
+  {
     "id": 31205,
     "name": "Human Archive",
     "slug": "human-archive",
@@ -61467,5 +61468,40 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/vela",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/vela.json"
+  },
+  {
+    "id": 31302,
+    "name": "Resonate",
+    "slug": "resonate",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c775eab2b9c5660b9a550410cd6c913383d47ef4.png",
+    "website": "https://resonate.audio",
+    "all_locations": "",
+    "long_description": "Building new products around information transformation, generative social content, and generative UI.\r\n\r\nResonate Chat - https://www.resonate.audio - The best voice mesaging experience. Period.\r\nResonate Create - http://resonatecreate.com - Advanced Agentic Video platform\r\n\r\nGrowing these products. Many more in the works!",
+    "one_liner": "The first AI-native messaging platform.",
+    "team_size": 0,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1770250805,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/resonate",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/resonate.json"
   }
 ]
