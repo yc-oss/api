@@ -1311,7 +1311,7 @@
     "former_names": [
       "Realm"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/26000be4ea55d3ad362449bab44a79ad483eaba7.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9b7bb4a4c603e5aceea61b58a68a6d3b7156a9d9.png",
     "website": "https://sentrial.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Sentrial is the observability platform for AI agents in production. \r\n\r\nWhen your agent loops indefinitely, hallucinates, or frustrates users, Sentrial detects it in real-time, diagnoses the root cause, and recommends specific fixes. We provide the monitoring, evaluation, and debugging infrastructure that traditional tools weren't built for, so teams can ship agents with confidence and iterate based on real production behavior, not just evals/benchmarks.",
@@ -1322,9 +1322,9 @@
     "launched_at": 1770083112,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
       "Developer Tools",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1485,13 +1485,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3ab1b6b156ac5fcdb95c20ddc1b2ebfc47a69ae.png",
     "website": "https://strandai.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
+    "long_description": "Strand AI builds foundation models that predict missing biological data from measured readouts.",
     "one_liner": "Curated multimodal datasets for biology AI",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Drug Discovery and Delivery",
     "launched_at": 1769406494,
     "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
       "Biotech"
     ],
     "tags_highlighted": [],
@@ -1515,6 +1517,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/strand-ai",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/strand-ai.json"
+  },
+  {
+    "id": 31109,
+    "name": "Beacon Health",
+    "slug": "beacon-health",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6d74523afde78b3ac3597bb4170a5287e3f38c36.png",
+    "website": "https://www.beaconhealth.ai/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Beacon Health (YC W26) is building AI agents for primary care - starting with value-based care.\r\n\r\n\r\nPrimary care is the primary source of care for 200M Americans but physicians don’t have the bandwidth to manage their patient panels  - preventative screenings, prior authorizations, referrals, and risk adjustment, all important work that steals time from patients. \r\n\r\nOur Al agents handle workflows for them directly in their EHR. We own them from end to end - putting their value based care on autopilot. We’re on a mission is to bring joy back to primary care.",
+    "one_liner": "AI Agents for Primary Care",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1770418074,
+    "tags": [
+      "Health Tech",
+      "Primary Care",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/beacon-health",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/beacon-health.json"
   },
   {
     "id": 31112,
@@ -1687,7 +1729,9 @@
     "slug": "1code-21stdev",
     "former_names": [
       "21st",
-      "1code by 21st.dev"
+      "1code by 21st.dev",
+      "1code (21st.dev)",
+      "1code (ex: 21st.dev)"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/74c9b33dec39ae88db50c30496502959820c2018.png",
     "website": "https://1code.dev",
@@ -2284,6 +2328,49 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/arcline.json"
   },
   {
+    "id": 31147,
+    "name": "Salus",
+    "slug": "salus",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/87c6ac09e3c5b1ea11b328571a796a96107e4570.png",
+    "website": "https://www.usesalus.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Your agent processed a refund without looking up the order ID, costing you thousands. You only found out three hours later from a support ticket. Evals, output scoring, and observability can reduce the likelihood of mistakes like these occurring - but there's no solution that inspects and prevents an action as it’s about to execute. Salus does that.\r\n\r\nWe’ve built an API that wraps around your agent and checks its actions at run time, blocking incorrect ones and providing immediate feedback to guide retries. Kevin and Vedant were roommates at Stanford, where they both studied computer science. ",
+    "one_liner": "Guardrails to validate your agent's actions before they execute",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1770354850,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "API",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/salus",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/salus.json"
+  },
+  {
     "id": 31149,
     "name": "EigenPal",
     "slug": "eigenpal",
@@ -2414,7 +2501,7 @@
     "slug": "perfectly",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/13607170eb2ca92be8c6b3fe617797b6b16e279a.png",
-    "website": "http://perfectly.so/",
+    "website": "https://www.perfectly.so/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Perfectly is the first ever end-to-end AI recruiting agency.\r\n\r\nWe learn your deep hiring preferences via our intake, then we source and outreach to thousands of candidates that fit exactly what you're looking for. \r\n\r\nThen candidates conduct an AI screen that can be reused for future jobs, and are delivered straight to the hiring manager's portal for interviews. \r\n\r\nRecruiting is broken because information between candidates, hiring managers, and recruiters is lost at every step.\r\n\r\nWe realized the opposite could be true: The more you tell us, the more accurately our algorithm can match you. That's how we build trust.",
     "one_liner": "The AI-native Recruiting Operating System",
@@ -2423,8 +2510,8 @@
     "subindustry": "B2B",
     "launched_at": 1768534230,
     "tags": [
-      "Recruiting",
-      "AI"
+      "Artificial Intelligence",
+      "Recruiting"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2622,6 +2709,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/compresr",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/compresr.json"
+  },
+  {
+    "id": 31166,
+    "name": "Unisson",
+    "slug": "unisson",
+    "former_names": [
+      "InUnison",
+      "Unisson",
+      "unisson"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd03bcedbbd9356a9f36c34083e541508201f3c6.png",
+    "website": "https://www.unisson.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Unisson is building trusted AI subject-matter experts for teams that are responsible for customer deployments (technical customer success, implementation, sales engineering). Within 20 minutes, our agents learn to use any product and can be used by teams in Slack, text, or email. Our agents gather requirements and context from existing tools enabling them to handle complex tasks like customer health audits, onboarding, product administration, and custom integrations. \r\n\r\nWith Unisson, customer-facing teams have 24/7 access to an AI SME, allowing them to scale and save thousands of hours every month. ",
+    "one_liner": "The AI product specialist for customer-facing teams",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1770359134,
+    "tags": [
+      "Workflow Automation",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/unisson",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/unisson.json"
   },
   {
     "id": 31167,
@@ -3346,6 +3478,46 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/ressl-ai.json"
   },
   {
+    "id": 31201,
+    "name": "Robby",
+    "slug": "robby",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/19d0e4c250082b6d92fda2c96cf3af7a535c03a5.png",
+    "website": "https://tryrobby.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Robby is an AI growth engine for home services businesses that uncovers revenue opportunities and collects additional data from every technician visit. Our AI combines customer and third party data to generate dozens of new leads every day, and then arms the technicians with talking points to increase close rates, giving GMs a single command center to manage and drive revenue. We have several paying customers that are each uncovering 6 figures in additional revenue opportunities every week. On our first day of launch, we helped close $40k in new business within an hour.\r\n\r\nOur team has spent the last few months riding along with dozens of technicians and shadowing every position in the office to best understand the industry. We're also studying for the EPA 608 exam to become certified technicians ourselves.\r\n\r\nVineet and Feroze have both built critical products and infra at prominent startups (Ironclad, Porter, Affinity, Uber, Cloud Health Systems). Joe previously consulted PE firms on software acquisitions and led home services growth projects at Bain. We all met at Harvard Business School, and dropped out to work on Robby full-time.",
+    "one_liner": "Agentic revenue growth for home service businesses.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1770411161,
+    "tags": [
+      "Artificial Intelligence",
+      "Home Services"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/robby",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/robby.json"
+  },
+  {
     "id": 31203,
     "name": "sitefire",
     "slug": "sitefire",
@@ -3980,16 +4152,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f0947dcd80dc342c9f938f52c6f4959bc0b1b157.png",
     "website": "https://servo7.com",
     "all_locations": "Amsterdam, NH, Netherlands",
-    "long_description": "Traditional warehouse automation is broken. It's expensive, it takes forever to implement, and it's not flexible. Many warehouses are stuck with automation systems that have become \"old iron\" after their operations changed slightly.\r\n\r\nWe train and deploy robots to automate warehouse tasks. The robot learns new tasks on the job and improves over time.\r\n\r\nInstead of writing off the automation, our robots increase in value over time.",
-    "one_liner": "Autonomous Warehouse Robots",
+    "long_description": "You’re wasting millions of dollars on custom industry robots that take months to implement.\r\n\r\nToday, robotic automation means redesigning your entire facility for the robot to work. You need to change the floor plan, adjust conveyor belts, and re-educate your staff. This is inefficient and unnecessary.\r\n\r\nWith Servo7, you don’t have to do any of that. Automating with Servo7 is simple and fast, because our robots:\r\n1) Deploy in existing operations\r\n2) Learn from simple demonstrations\r\n3) Keep improving on the job\r\n\r\nWe have previously worked on autonomous defense systems, LLMs, autonomous driving, and hyperloops. Not just in the lab, but actually deploying them in the field. We’re already working with warehouses to automate their fulfillment.\r\n\r\nIf you work in assembly, manufacturing, or logistics, email founders@servo7.com. We're onboarding our next partners now.",
+    "one_liner": "Industry Robots - Ready to Work",
     "team_size": null,
-    "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1769385653,
     "tags": [
-      "Artificial Intelligence",
       "Robotics",
-      "Logistics"
+      "Logistics",
+      "Manufacturing",
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3998,8 +4172,8 @@
     "batch": "Winter 2026",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
+      "Industrials",
+      "Manufacturing and Robotics"
     ],
     "regions": [
       "Netherlands",
@@ -4109,11 +4283,11 @@
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1765258468,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "SaaS",
       "Finance",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4562,18 +4736,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3a94eb8ceff47b3a9989e9c3c4f0bff0ac9c2e0a.png",
     "website": "https://beesafe.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "BeeSafe AI is a fraud-prevention platform for enterprises that helps them protect their customers against trust-based attacks like \"pig butchering\" and impersonation. By engaging fraudsters at the source in real-time, the AI system identifies and shuts down channels by extracting deterministic data on mule accounts and attacker infrastructure. Our intel has already enabled financial services and law enforcement to intercept scammers mid-transaction and prevent victim losses.",
+    "long_description": "BeeSafe AI is a fraud-prevention platform for enterprises that helps them protect their customers against trust-based attacks like \"pig butchering\" and impersonation. By engaging fraudsters at the source in real-time, the AI system identifies and shuts down channels by extracting deterministic data on mule accounts and attacker infrastructure. Our intel has already enabled financial services and government agencies to intercept scammers mid-transaction and prevent victim losses.",
     "one_liner": "Stopping Scams Before They Reach Your Customers",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1770327115,
     "tags": [
+      "Artificial Intelligence",
       "Security",
       "Cybersecurity",
       "Fraud Prevention",
-      "Fraud Detection",
-      "AI"
+      "Fraud Detection"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4637,6 +4811,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/moda",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/moda.json"
+  },
+  {
+    "id": 31253,
+    "name": "Maven",
+    "slug": "maven",
+    "former_names": [
+      "Lattice"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f91b1d1421f28de22ae9bbafcb6d5c03dc6cef5.png",
+    "website": "https://www.trymaven.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Infrastructure for voice-native commerce. Add secure, conversational checkout to AI agents with a single API.",
+    "one_liner": "Payment infrastructure built for voice",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1770422490,
+    "tags": [
+      "Developer Tools",
+      "Fintech",
+      "SaaS",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/maven",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/maven.json"
   },
   {
     "id": 31255,

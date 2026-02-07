@@ -15969,16 +15969,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd0109481d906e6297d06b8dd77f7ea4ff307796.png",
     "website": "https://www.vitalstrata.com",
     "all_locations": "New York, NY, USA; Remote",
-    "long_description": "Automate and scale post-discharge follow-up calls with AI coordinators that specialize in transition of care.",
-    "one_liner": "AI coordinators for post-discharge follow-up calls",
-    "team_size": 2,
+    "long_description": "Boost coding accuracy, uncover hidden prospective signals, and increase audit-defensibility of MAO risk adjustment operations with VitalStrata's RAF Precision AI.",
+    "one_liner": "AI for risk adjustment integrity ",
+    "team_size": 1,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1628792922,
     "tags": [
       "Health Tech",
-      "Telehealth",
       "Healthcare",
+      "Health Insurance",
       "Healthcare IT"
     ],
     "tags_highlighted": [],
@@ -23197,12 +23197,13 @@
   },
   {
     "id": 29134,
-    "name": "Flair Technologies",
-    "slug": "flair-technologies",
+    "name": "Cognitio Labs",
+    "slug": "cognitio-labs",
     "former_names": [
       "Flair Technology Services Inc.",
       "Flair",
-      "Flair Health"
+      "Flair Health",
+      "Flair Technologies"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d3245675111b9595800bc8372727af2a05abfea.png",
     "website": "https://www.flairhealth.com",
@@ -23214,11 +23215,11 @@
     "subindustry": "Healthcare",
     "launched_at": 1690407835,
     "tags": [
+      "Artificial Intelligence",
       "Health Tech",
       "B2B",
       "Data Science",
-      "Healthcare IT",
-      "AI"
+      "Healthcare IT"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -23238,8 +23239,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/flair-technologies",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/flair-technologies.json"
+    "url": "https://www.ycombinator.com/companies/cognitio-labs",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/cognitio-labs.json"
   },
   {
     "id": 29159,
@@ -23848,7 +23849,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -26340,7 +26341,7 @@
     "former_names": [
       "Platter"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f0788a922bb389578b23e8ccb111b965944878a.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3785aeb576199608d424a1f1a22cefc23e51e52e.png",
     "website": "https://runcopycat.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "CopyCat helps dermatology clinics deliver lab results to their patients. We use voice AI to provide simple explanations, answer any FAQs, and schedule patients for treatment.",
@@ -27879,13 +27880,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3ab1b6b156ac5fcdb95c20ddc1b2ebfc47a69ae.png",
     "website": "https://strandai.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
+    "long_description": "Strand AI builds foundation models that predict missing biological data from measured readouts.",
     "one_liner": "Curated multimodal datasets for biology AI",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Drug Discovery and Delivery",
     "launched_at": 1769406494,
     "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
       "Biotech"
     ],
     "tags_highlighted": [],
@@ -27909,6 +27912,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/strand-ai",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/strand-ai.json"
+  },
+  {
+    "id": 31109,
+    "name": "Beacon Health",
+    "slug": "beacon-health",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6d74523afde78b3ac3597bb4170a5287e3f38c36.png",
+    "website": "https://www.beaconhealth.ai/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Beacon Health (YC W26) is building AI agents for primary care - starting with value-based care.\r\n\r\n\r\nPrimary care is the primary source of care for 200M Americans but physicians don’t have the bandwidth to manage their patient panels  - preventative screenings, prior authorizations, referrals, and risk adjustment, all important work that steals time from patients. \r\n\r\nOur Al agents handle workflows for them directly in their EHR. We own them from end to end - putting their value based care on autopilot. We’re on a mission is to bring joy back to primary care.",
+    "one_liner": "AI Agents for Primary Care",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1770418074,
+    "tags": [
+      "Health Tech",
+      "Primary Care",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/beacon-health",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/beacon-health.json"
   },
   {
     "id": 31163,

@@ -7894,15 +7894,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
     "one_liner": "AI Agents for Advisory & Financial Services.",
-    "team_size": 2,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1716911130,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "Finance",
-      "Productivity",
-      "AI"
+      "Productivity"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -9058,8 +9058,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f657fb954d32582892780fbf061a8b6256b8044.png",
     "website": "https://hyprnote.com",
     "all_locations": "",
-    "long_description": "Hyprnote is the first open-source AI notetaker for the enterprise. It runs fully on-device or on-prem, ensuring that no data ever leaves your system. Hyprnote transcribes and summarizes conversations automatically, turning discussions into actionable knowledge without risking security or regulatory breaches. Unlike cloud-based tools like Granola or Otter, Hyprnote is built for industries where data control is non-negotiable - tech firms, finance, healthcare, government, and beyond.",
-    "one_liner": "Open-source AI notetaker for the enterprise",
+    "long_description": "Hyprnote is a privacy-first AI note app for meetings that listens in the background, transcribes what’s said, and turns messy conversations into clean, searchable notes and summaries, all while keeping your data on your own computer so you can work offline and focus on the conversation instead of typing.",
+    "one_liner": "AI meeting notes without strings attached",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -9067,7 +9067,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -9291,5 +9291,90 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/clicks",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/clicks.json"
+  },
+  {
+    "id": 31166,
+    "name": "Unisson",
+    "slug": "unisson",
+    "former_names": [
+      "InUnison",
+      "Unisson",
+      "unisson"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd03bcedbbd9356a9f36c34083e541508201f3c6.png",
+    "website": "https://www.unisson.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Unisson is building trusted AI subject-matter experts for teams that are responsible for customer deployments (technical customer success, implementation, sales engineering). Within 20 minutes, our agents learn to use any product and can be used by teams in Slack, text, or email. Our agents gather requirements and context from existing tools enabling them to handle complex tasks like customer health audits, onboarding, product administration, and custom integrations. \r\n\r\nWith Unisson, customer-facing teams have 24/7 access to an AI SME, allowing them to scale and save thousands of hours every month. ",
+    "one_liner": "The AI product specialist for customer-facing teams",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1770359134,
+    "tags": [
+      "Workflow Automation",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/unisson",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/unisson.json"
+  },
+  {
+    "id": 31201,
+    "name": "Robby",
+    "slug": "robby",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/19d0e4c250082b6d92fda2c96cf3af7a535c03a5.png",
+    "website": "https://tryrobby.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Robby is an AI growth engine for home services businesses that uncovers revenue opportunities and collects additional data from every technician visit. Our AI combines customer and third party data to generate dozens of new leads every day, and then arms the technicians with talking points to increase close rates, giving GMs a single command center to manage and drive revenue. We have several paying customers that are each uncovering 6 figures in additional revenue opportunities every week. On our first day of launch, we helped close $40k in new business within an hour.\r\n\r\nOur team has spent the last few months riding along with dozens of technicians and shadowing every position in the office to best understand the industry. We're also studying for the EPA 608 exam to become certified technicians ourselves.\r\n\r\nVineet and Feroze have both built critical products and infra at prominent startups (Ironclad, Porter, Affinity, Uber, Cloud Health Systems). Joe previously consulted PE firms on software acquisitions and led home services growth projects at Bain. We all met at Harvard Business School, and dropped out to work on Robby full-time.",
+    "one_liner": "Agentic revenue growth for home service businesses.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1770411161,
+    "tags": [
+      "Artificial Intelligence",
+      "Home Services"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/robby",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/robby.json"
   }
 ]
