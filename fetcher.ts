@@ -36,8 +36,14 @@ interface LaunchedCompany {
 }
 
 const loadExistingCompanies = async (): Promise<LaunchedCompany[]> => {
-  const data = await Deno.readTextFile("companies/all.json");
-  return JSON.parse(data) as LaunchedCompany[];
+  try {
+    const data = await Deno.readTextFile("companies/all.json");
+    return JSON.parse(data) as LaunchedCompany[];
+  } catch (error) {
+    const message = error instanceof Error ? error.message : String(error);
+    console.error(`Failed to load existing companies data: ${message}`);
+    throw error;
+  }
 };
 
 const fetchAllCompanies = async (): Promise<LaunchedCompany[]> => {
@@ -65,8 +71,9 @@ const fetchAllCompanies = async (): Promise<LaunchedCompany[]> => {
       }),
     });
   } catch (error) {
+    const message = error instanceof Error ? error.message : String(error);
     console.warn(
-      `Failed to fetch facets. Using existing data. Error: ${String(error)}`
+      `Failed to fetch facets. Using existing data. Error: ${message}`
     );
     return loadExistingCompanies();
   }
