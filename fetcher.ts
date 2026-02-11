@@ -35,6 +35,11 @@ interface LaunchedCompany {
   question_answers: boolean;
 }
 
+const loadExistingCompanies = async (): Promise<LaunchedCompany[]> => {
+  const data = await Deno.readTextFile("companies/all.json");
+  return JSON.parse(data) as LaunchedCompany[];
+};
+
 const fetchAllCompanies = async (): Promise<LaunchedCompany[]> => {
   const baseUrl = "https://45bwzj1sgc-dsn.algolia.net/1/indexes/*/queries";
   const params = new URLSearchParams({
@@ -46,25 +51,45 @@ const fetchAllCompanies = async (): Promise<LaunchedCompany[]> => {
   });
 
   console.log("Fetching facets");
-  const res = await fetch(`${baseUrl}?${params}`, {
-    method: "POST",
-    body: JSON.stringify({
-      requests: [
-        {
-          indexName,
-          params: `facets=%5B%22app_answers%22%2C%22app_video_public%22%2C%22batch%22%2C%22demo_day_video_public%22%2C%22highlight_black%22%2C%22highlight_latinx%22%2C%22highlight_women%22%2C%22industries%22%2C%22isHiring%22%2C%22nonprofit%22%2C%22question_answers%22%2C%22regions%22%2C%22subindustry%22%2C%22tags%22%2C%22top_company%22%5D&hitsPerPage=1000&maxValuesPerFacet=1000&query=&tagFilters=`,
-        },
-      ],
-    }),
-  });
+  let res: Response;
+  try {
+    res = await fetch(`${baseUrl}?${params}`, {
+      method: "POST",
+      body: JSON.stringify({
+        requests: [
+          {
+            indexName,
+            params: `facets=%5B%22app_answers%22%2C%22app_video_public%22%2C%22batch%22%2C%22demo_day_video_public%22%2C%22highlight_black%22%2C%22highlight_latinx%22%2C%22highlight_women%22%2C%22industries%22%2C%22isHiring%22%2C%22nonprofit%22%2C%22question_answers%22%2C%22regions%22%2C%22subindustry%22%2C%22tags%22%2C%22top_company%22%5D&hitsPerPage=1000&maxValuesPerFacet=1000&query=&tagFilters=`,
+          },
+        ],
+      }),
+    });
+  } catch (error) {
+    console.warn(
+      `Failed to fetch facets. Using existing data. Error: ${String(error)}`
+    );
+    return loadExistingCompanies();
+  }
+
+  if (!res.ok) {
+    const errorText = await res.text();
+    console.warn(
+      `Failed to fetch facets (${res.status} ${res.statusText}). Using existing data. Response: ${errorText}`
+    );
+    return loadExistingCompanies();
+  }
 
   const json = (await res.json()) as {
-    results: {
+    results?: {
       hits: LaunchedCompany[];
-      facets: { batch: Record<string, number> };
+      facets?: { batch?: Record<string, number> };
     }[];
   };
-  const batches = json.results[0].facets.batch;
+  const batches = json.results?.[0]?.facets?.batch;
+  if (!batches) {
+    console.warn("No batch facets returned. Using existing data.");
+    return loadExistingCompanies();
+  }
 
   let allCompanies: LaunchedCompany[] = [];
   for (const [batch, count] of Object.entries(batches)) {
