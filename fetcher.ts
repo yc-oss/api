@@ -47,7 +47,6 @@ const loadExistingCompanies = async (
       error instanceof Deno.errors.NotFound
         ? `No cached data available and ${reason}.`
         : `Failed to load cached data after ${reason}.`;
-    console.error(`${prefix} ${message}`);
     throw new Error(`${prefix} ${message}`);
   }
 };
@@ -95,12 +94,17 @@ const fetchAllCompanies = async (): Promise<LaunchedCompany[]> => {
   }
 
   const json = (await res.json()) as {
-    results?: {
+    results: {
       hits: LaunchedCompany[];
       facets?: { batch?: Record<string, number> };
     }[];
   };
-  const batches = json.results?.[0]?.facets?.batch;
+  if (!json.results?.length) {
+    console.warn("No results returned. Using existing data.");
+    return loadExistingCompanies("response missing results");
+  }
+
+  const batches = json.results[0].facets?.batch;
   if (!batches) {
     console.warn("No batch facets returned. Using existing data.");
     return loadExistingCompanies("response missing batch facets");
