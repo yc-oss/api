@@ -36,7 +36,7 @@ interface LaunchedCompany {
 }
 
 const loadExistingCompanies = async (
-  reason: string
+  failureReason: string
 ): Promise<LaunchedCompany[]> => {
   try {
     const data = await Deno.readTextFile("companies/all.json");
@@ -45,8 +45,8 @@ const loadExistingCompanies = async (
     const message = error instanceof Error ? error.message : String(error);
     const prefix =
       error instanceof Deno.errors.NotFound
-        ? `No cached data available and ${reason}.`
-        : `Failed to load cached data after ${reason}.`;
+        ? `No cached data available and ${failureReason}.`
+        : `Failed to load cached data after ${failureReason}.`;
     throw new Error(`${prefix} ${message}`);
   }
 };
@@ -96,7 +96,7 @@ const fetchAllCompanies = async (): Promise<LaunchedCompany[]> => {
   const json = (await res.json()) as {
     results: {
       hits: LaunchedCompany[];
-      facets?: { batch?: Record<string, number> };
+      facets: { batch: Record<string, number> };
     }[];
   };
   if (!json.results?.length) {
