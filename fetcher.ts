@@ -2,6 +2,28 @@ import { ensureDir } from "https://deno.land/std@0.224.0/fs/ensure_dir.ts";
 import { slugify } from "https://deno.land/x/slugify/mod.ts";
 
 const indexName = "YCCompany_By_Launch_Date_production";
+const applicationId = "45BWZJ1SGC";
+
+const getAlgoliaApiKey = async (): Promise<string> => {
+  const res = await fetch("https://www.ycombinator.com/companies");
+  if (!res.ok) {
+    throw new Error(`Failed to fetch YC companies page: ${res.status}`);
+  }
+
+  const html = await res.text();
+  const match = html.match(/window\.AlgoliaOpts\s*=\s*({[^<]+})/);
+  if (!match) {
+    throw new Error("Could not find Algolia options on YC companies page");
+  }
+
+  const opts = JSON.parse(match[1]) as { app?: string; key?: string };
+  if (opts.app !== applicationId || !opts.key) {
+    throw new Error("YC companies page returned unexpected Algolia options");
+  }
+
+  return opts.key;
+};
+
 interface LaunchedCompany {
   id: number;
   name: string;
@@ -36,13 +58,13 @@ interface LaunchedCompany {
 }
 
 const fetchAllCompanies = async (): Promise<LaunchedCompany[]> => {
-  const baseUrl = "https://45bwzj1sgc-dsn.algolia.net/1/indexes/*/queries";
+  const algoliaApiKey = await getAlgoliaApiKey();
+  const baseUrl = `https://${applicationId.toLowerCase()}-dsn.algolia.net/1/indexes/*/queries`;
   const params = new URLSearchParams({
     "x-algolia-agent":
       "Algolia for JavaScript (3.35.1); Browser; JS Helper (3.16.1)",
-    "x-algolia-application-id": "45BWZJ1SGC",
-    "x-algolia-api-key":
-      "MjBjYjRiMzY0NzdhZWY0NjExY2NhZjYxMGIxYjc2MTAwNWFkNTkwNTc4NjgxYjU0YzFhYTY2ZGQ5OGY5NDMxZnJlc3RyaWN0SW5kaWNlcz0lNUIlMjJZQ0NvbXBhbnlfcHJvZHVjdGlvbiUyMiUyQyUyMllDQ29tcGFueV9CeV9MYXVuY2hfRGF0ZV9wcm9kdWN0aW9uJTIyJTVEJnRhZ0ZpbHRlcnM9JTVCJTIyeWNkY19wdWJsaWMlMjIlNUQmYW5hbHl0aWNzVGFncz0lNUIlMjJ5Y2RjJTIyJTVE",
+    "x-algolia-application-id": applicationId,
+    "x-algolia-api-key": algoliaApiKey,
   });
 
   console.log("Fetching facets");
@@ -58,13 +80,21 @@ const fetchAllCompanies = async (): Promise<LaunchedCompany[]> => {
     }),
   });
 
+  if (!res.ok) {
+    const body = await res.text();
+    throw new Error(`Algolia facets request failed: ${res.status} ${body}`);
+  }
+
   const json = (await res.json()) as {
     results: {
       hits: LaunchedCompany[];
       facets: { batch: Record<string, number> };
     }[];
   };
-  const batches = json.results[0].facets.batch;
+  const batches = json.results?.[0]?.facets?.batch;
+  if (!batches) {
+    throw new Error("Algolia facets response did not include batch facets");
+  }
 
   let allCompanies: LaunchedCompany[] = [];
   for (const [batch, count] of Object.entries(batches)) {
@@ -85,8 +115,18 @@ const fetchAllCompanies = async (): Promise<LaunchedCompany[]> => {
           ],
         }),
       });
+      if (!batchRes.ok) {
+        const body = await batchRes.text();
+        throw new Error(
+          `Algolia batch request failed for ${batch}: ${batchRes.status} ${body}`
+        );
+      }
+
       const batchJson = await batchRes.json();
-      const batchHits = batchJson.results[0].hits as LaunchedCompany[];
+      const batchHits = batchJson.results?.[0]?.hits as LaunchedCompany[] | undefined;
+      if (!batchHits) {
+        throw new Error(`Algolia batch response did not include hits for ${batch}`);
+      }
       allCompanies = allCompanies.concat(batchHits);
       fetchedCount += batchHits.length;
       page++;
