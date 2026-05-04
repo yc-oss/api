@@ -1,0 +1,10 @@
+{
+  "tasks": {
+    "update": "deno run --allow-net --allow-read --allow-write fetcher.ts",
+    "check": "deno fmt --check fetcher.ts .github && deno lint fetcher.ts && deno check fetcher.ts"
+  },
+  "imports": {
+    "@std/fs/ensure-dir": "jsr:@std/fs@1.0.23/ensure-dir",
+    "slugify": "https://deno.land/x/slugify@0.3.0/mod.ts"
+  }
+}

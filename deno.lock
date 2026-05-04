@@ -1,0 +1,19 @@
+{
+  "version": "5",
+  "specifiers": {
+    "jsr:@std/fs@1.0.23": "1.0.23"
+  },
+  "jsr": {
+    "@std/fs@1.0.23": {
+      "integrity": "3ecbae4ce4fee03b180fa710caff36bb5adb66631c46a6460aaad49515565a37"
+    }
+  },
+  "remote": {
+    "https://deno.land/x/slugify@0.3.0/mod.ts": "a862dd4af7aac637a44bb3a3507acaca4b52386f8bebf4483b5a43e9458af315"
+  },
+  "workspace": {
+    "dependencies": [
+      "jsr:@std/fs@1.0.23"
+    ]
+  }
+}
