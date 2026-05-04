@@ -459,8 +459,8 @@
       "America / Canada"
     ],
     "stage": "Early",
-    "app_video_public": true,
-    "demo_day_video_public": true,
+    "app_video_public": false,
+    "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/luminist-labs",
@@ -981,7 +981,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "As healthcare costs have increased, the patient's home has become incredibly important as a site of care. Yet, patients recovering at home are highly underserved.\r\n\r\nPatients can only get better at home if they receive the high-quality care that they need reliably. The existing in-home care process involves patchwork of different vendors, all connected through faxes by nurses. We're building modern, robust software that solves this challenge and brings this market online.",
     "one_liner": "Software platform for in-home healthcare",
-    "team_size": 95,
+    "team_size": 200,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Consumer Health and Wellness",
     "launched_at": 1524625564,
@@ -1847,7 +1847,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/acc0e68099b17b27bc8291119107847bd622a646.png",
     "website": "https://safebeat.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "38 million people suffer from heart rhythm disorders and are recommended to start medications that can save their lives, but require rigorous ECG monitoring to start and remain on these pills. SafeBeat Rx moves beyond diagnostics to guide these therapeutics, powered by our ML ECG software that integrates with existing FDA-cleared wearables to allow seamless physician approval of drug dosing, all from a mobile phone.\r\n\r\nWe are a team of physicians, engineers, data scientists, and machine learning experts dedicated to using engineering to improve heart health.",
+    "long_description": "",
     "one_liner": "Guiding cardiac therapeutics - all from your phone",
     "team_size": 9,
     "industry": "Healthcare",
@@ -2019,7 +2019,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/06492ded72b734cf66f1e107ab0974ffc480d989.png",
     "website": "http://makaniscience.net/",
-    "all_locations": "Irvine, CA, USA",
+    "all_locations": "CA, USA",
     "long_description": "Makani Science is a medical device company based in Irvine, California. We have created the world's first wireless patch that can accurately and continuously monitor breathing. The company is co-founded by Dr. Michelle Khine and Dr. Michael Chu, two experts in the wearable monitoring space from the University of California, Irvine. \r\n\r\nThe Makani Science system will collect unique breathing waveforms from patients in everyday environments to create the first large database of respiratory patterns associated with different diseases. Data will be collected through systems sold to our initial beachhead market, where we will help improve monitoring safety in patients being sedated for medical procedures. Our long-term goal is to combine machine learning with this database to identify and predict respiratory complications for different patient populations. \r\n\r\nWe have a highly experienced team and will be FDA cleared in our beachhead market within a year.  ",
     "one_liner": "Reinventing respiration monitoring",
     "team_size": 2,
@@ -2805,15 +2805,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Nexa is developing the solution for cattle monitoring, leveraging implantable microchips that collect more comprehensive biometrics than anything else on the market. Our accompanying AI-driven animal health engine empowers farmers with early disease detection, reproductive insights, GPS tracking, and more. \r\n\r\nWe're saving farmers time and money while collecting the world's largest cattle health dataset. We believe that cattle farming should be a science, not an art - this will secure the world's food supply and increase economic output that billions of people depend on.",
     "one_liner": "Implantable microchips and AI for cattle monitoring",
-    "team_size": 5,
+    "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials -> Agriculture",
     "launched_at": 1755009056,
     "tags": [
-      "Artificial Intelligence",
       "Livestock Health",
       "Medical Devices",
       "Agriculture",
+      "AI",
       "Biotechnology"
     ],
     "tags_highlighted": [],
@@ -2821,7 +2821,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2025",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "Industrials",
       "Agriculture"
@@ -2837,5 +2837,91 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/nexa-labs",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/nexa-labs.json"
+  },
+  {
+    "id": 31434,
+    "name": "Adialante",
+    "slug": "adialante",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/783d9149e0d4fcedf1d788091598886930e15376.png",
+    "website": "http://www.adialante.com",
+    "all_locations": "Redwood City, CA, USA",
+    "long_description": "We know how to improve cancer outcomes by 8x-10x: you catch it early. \r\n\r\nMRI is the most robust and powerful cancer-detection tool in the world, yet systems cost millions to purchase, take months to install, and require high levels of technical skill to operate. We've redesigned MRI from the ground up with new physics, algorithms, and hardware, all to bring cancer screening to the entire world. \r\n\r\nOur mobile MRI is an imaging clinic on wheels. No equipment to buy, no infrastructure needed. For a flat per-scan fee, any medical site can offer MRI cancer screening. Starting with prostate cancer. Then everything else.",
+    "one_liner": "Cancer screening without barriers",
+    "team_size": 4,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Diagnostics",
+    "launched_at": 1773702631,
+    "tags": [
+      "Hardware",
+      "Medical Devices",
+      "Health & Wellness"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Diagnostics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/adialante",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/adialante.json"
+  },
+  {
+    "id": 31435,
+    "name": "Lumius",
+    "slug": "lumius",
+    "former_names": [
+      "Lumius Imaging"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/19ff35f4e54afb89b7ab4ec1ed26198fc61066ae.png",
+    "website": "https://www.lumius-imaging.com",
+    "all_locations": "Durham, NC, USA",
+    "long_description": "Ultrasound today is still mostly 2D. Clinicians have to imagine the 3D anatomy in their head while also moving the probe at the same time. This makes procedures like vascular access hard to learn and perform consistently, especially for beginners. ~50% fail on their first attempt. Hospitals also spend millions each year on 2D ultrasound training. Meanwhile, existing 3D ultrasound devices can cost >10× as much.\r\n\r\nLumius is building fast, smart, and accessible 3D ultrasound systems to eliminate this 2D guesswork. Our technology shows a clear, real-time 3D view of what’s inside the body. It works over a large volume, not just a thin slice. The device is also affordable, compact, and portable.\r\n\r\nWe are starting with vascular access, especially central line. Future use cases include blood clot detection, tumor diagnosis, and biopsy guidance. Our long-term vision is a universal 3D ultrasound platform that brings easy-to-use, real-time imaging to a wide range of clinical and eventually consumer applications.\r\n",
+    "one_liner": "Fast, smart, accessible 3D ultrasound for everyone",
+    "team_size": 4,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Medical Devices",
+    "launched_at": 1775165077,
+    "tags": [
+      "Hard Tech",
+      "Medical Devices",
+      "Digital Health"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Medical Devices"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lumius",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/lumius.json"
   }
 ]

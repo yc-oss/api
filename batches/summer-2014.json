@@ -6,7 +6,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/17547ff6e0fe5d75c99f92fdc3b9c13fa6712bd5.png",
     "website": "https://www.aptible.com",
-    "all_locations": "San Francisco, CA, USA; Toronto, ON, Canada; New York, NY, USA; Philadelphia, PA, USA; Boston, MA, USA; Indianapolis, IN, USA; Remote",
+    "all_locations": "NY, USA; Toronto, ON, Canada; New York, NY, USA; Philadelphia, PA, USA; Boston, MA, USA; Indianapolis, IN, USA; Remote",
     "long_description": "At Aptible, we envision a world where developers achieve more with less infrastructure. We’re building the platform that empowers developers at companies of all stages of development to move beyond the traditional method of managing infrastructure—DIY with expert infrastructure and platform engineers on AWS, GCP, or Azure. We’ve done this through our secure, compliant, reliable, and scalable Platform as a Service that’s been used by thousand of developers, hundreds of companies, and dozens of publicly traded and unicorn companies since 2013.",
     "one_liner": "The No Infrastructure Platform as a Service",
     "team_size": 25,
@@ -90,7 +90,7 @@
     "former_names": [],
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "http://backpackbang.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "NY, USA; San Francisco, CA, USA",
     "long_description": "Shopping? Buy overseas. \nTraveling? Earn some extra cash.\nLet backpack help you save that high shipping cost or earn a little extra.\n\nBackpack is a peer-to-peer platform that connects travelers and shoppers to give people access to products across markets in all continents. \nEach backpacker, regardless of their role as a carrier or a shopper, follows a simple four-step process to either earn or save money from their backpacking experience.\nTravelers share their travel information and specify what kind of items they want to carry. Then they wait to get a \"backpack request\" and ask their price. Finally, they confirm the deal, buy the items, deliver them and earn money. Shoppers on the other hand, search items from their favorite websites and fill out the item description. Then they give their location and find a traveler coming to their city. Finally they \"request backpack\" and confirm the deal. Within days they can get the product and save money.  \n\nbackpack is founded with a vision to provide every citizen of the world with a choice; the choice of buying organic, authentic, and cost effective products with minimum friction.\nWhether the product is state-of-the-art consumer electronics, exotic pashmina from the south-east, or even medication that are rare in some parts of the world and not so rare in others - we promise ourselves to get those products to your doorsteps. We would like to reject the counterfeits, we would like to reject the almost-originals, most importantly, we would like to not pay the heavy expense incurred, most of which we deem to be superfluous. Help us make a better, more original globalized world.",
     "one_liner": "Marketplace to get stuff from overseas",
     "team_size": 2,
@@ -304,7 +304,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2014",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "Fintech",
       "Payments"
@@ -953,7 +953,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/54adc77913df8208ff5542365ce1fa003567f7c8.png",
     "website": "http://blockspring.com",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "CA, USA; San Francisco, CA, USA; Remote",
     "long_description": "Blockspring helps small businesses and merchants integrate APIs into their productivity tools without any code - useful for report automation, lead generation, and building dynamic landing pages. It is recognized by Gartner, wired, BI, and Techcrunch for API data management.",
     "one_liner": "Automate data collection for spreadsheets and productivity tools.",
     "team_size": 3,
@@ -1651,14 +1651,16 @@
   },
   {
     "id": 695,
-    "name": "PicnicHealth",
-    "slug": "picnichealth",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d5d30956a4bfecca2df896398ce2a95079fea2f9.png",
-    "website": "https://picnichealth.com",
+    "name": "PicnicAI",
+    "slug": "picnicai",
+    "former_names": [
+      "PicnicHealth"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dbf45bc323953c8df6c8183d0e549e723e5e1a71.png",
+    "website": "https://picnic.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Healthcare needs good data. At PicnicHealth, we are building deep real-world datasets fueling cutting-edge research while giving patients control of their own medical record data. These complete, clinically-rich datasets produce unique insights — across dozens of diseases — to ultimately get the right treatments into patients’ hands faster. We work directly with patients and leverage state of the art machine learning to transform messy medical records into structured, research-ready datasets. To date we’ve helped tens of thousands of patients securely access their records and proactively contribute to advancing research in diseases that impacts their lives.",
-    "one_liner": "Empowering Patients for Deep Real World Data",
+    "long_description": "PicnicAI deploys AI into the real-world complexity of care delivery and clinical research. PicnicHealth helps patients navigate fragmented care with AI-powered tools backed by a clinical team, giving them a unified view of their health across all their doctors. PicnicResearch makes clinical research faster, cheaper, and more reliable, using AI agents and direct patient relationships to change the economics of drug development so that more treatments reach the patients who need them.",
+    "one_liner": "Intelligence to accelerate human health.",
     "team_size": 100,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
@@ -1690,8 +1692,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/picnichealth",
-    "api": "https://yc-oss.github.io/api/batches/summer-2014/picnichealth.json"
+    "url": "https://www.ycombinator.com/companies/picnicai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2014/picnicai.json"
   },
   {
     "id": 696,
@@ -1905,7 +1907,7 @@
     "all_locations": "Los Angeles, CA, USA; Remote",
     "long_description": "SFOX, a YC-backed company, makes it easy for enterprises to trade bitcoin.  We started with an advanced trading platform that uses algorithms to provide a competitive advantage to our customers. SFOX now aims to expand international commerce by making it easy to trade any currency and settle in real time.",
     "one_liner": "Crypto-currency trading platform.",
-    "team_size": 40,
+    "team_size": 60,
     "industry": "Fintech",
     "subindustry": "Fintech -> Banking and Exchange",
     "launched_at": 1398907976,
@@ -1947,11 +1949,11 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4871a9dcb74ef8a41b1532167a4c54c5ba5b7354.png",
     "website": "https://www.usergems.com",
     "all_locations": "Austria; Remote",
-    "long_description": "UserGems is an AI-driven prospecting solution for revenue teams to drive bigger pipelines, faster sales cycles, and larger deals.\r\n\r\nWhenever your customers change their jobs, UserGems automatically surfaces them as new leads to your sales reps directly in Salesforce. This enables reps to close more deals, faster.\r\n\r\nLeveraging machine learning, UserGems automatically identifies other prospects that match your best customers. That means you get a complete, up-to-date list of leads that match your ICP, persona and other key criteria so that reps spend less time sourcing leads, and more time selling.",
-    "one_liner": "AI-powered sales solution based on your best customers",
-    "team_size": 60,
+    "long_description": "UserGems is the AI command center for go-to-market teams. Powered by best-in-class contact data, its AI agents automatically surface high-intent buyers, prioritize them, and deploy personalized outbound and ABM to drive more pipeline.",
+    "one_liner": "The AI Command Center for outbound and ABM",
+    "team_size": 100,
     "industry": "B2B",
-    "subindustry": "B2B -> Recruiting and Talent",
+    "subindustry": "B2B -> Sales",
     "launched_at": 1398907983,
     "tags": [
       "B2B",
@@ -1965,7 +1967,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Recruiting and Talent"
+      "Sales"
     ],
     "regions": [
       "Austria",
@@ -3073,7 +3075,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5eedcdf8d152fac7180dc5402647f58cd164448a.png",
     "website": "https://www.onecodex.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "MA, USA; San Francisco, CA, USA",
     "long_description": "One Codex is a data platform for applied microbial genomics, enabling new and valuable applications in clinical diagnostics, food safety, and biosecurity. Acquired by Invitae (NVTA) in February 2021. Spun out as an independent company in September 2022.",
     "one_liner": "Data platform for metagenomics and the microbiome.",
     "team_size": 16,

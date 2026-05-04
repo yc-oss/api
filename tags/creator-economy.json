@@ -1081,10 +1081,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Recruiting and Talent"
@@ -1112,7 +1112,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f8a08dbc0e0067d1983b3b85b2e3893f29d7f41f.png",
     "website": "https://www.pairai.com/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "NY, USA",
     "long_description": "Pair AI is Shopify for knowledge products. We empower creators, educators, and experts to launch addicting mobile-first video courses and provide AI-assisted coaching services at scale. Our platform is a one-stop shop to seamlessly monetize what you know! We make learning as fun and engaging as watching a TikTok.",
     "one_liner": "Reimagining education with short form video and AI",
     "team_size": 2,
@@ -1284,9 +1284,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c1f3190ee23bef18e805a06ab238214a0db50d11.png",
     "website": "https://www.awen.ai/",
     "all_locations": "Remote",
-    "long_description": "Instead of navigating complex menus or learning new tools, creatives can simply describe their vision in natural language—“Draw me a Swiss mountain lake. Now make it sunset. Add a boat. Now animate it.”\r\n\r\nAwen leverages AI reasoning to understand creative intent through voice. Our goal is to redefine how creatives engage with AI technology, balancing power and ease of use for both professionals and newcomers.",
-    "one_liner": "We are rebuilding photoshop with an AI-voice interface.",
-    "team_size": 3,
+    "long_description": "AI creative tools became powerful quickly. But they also got complicated. Most of them require creatives to do the engineering.\r\n\r\nPrompts.\r\nParameters.\r\nNode graphs.\r\n\r\nCreative work doesn’t start there. It starts with thinking, exploring directions, and iterating on ideas. With Awen, we’re trying a different approach: \r\n\r\nA creative partner that turns intent into exceptional visuals through conversation.",
+    "one_liner": "awen translates intent into exceptional visuals through conversation",
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1740711023,
@@ -1372,7 +1372,7 @@
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Reacher is an AI-powered platform that automates creator marketing workflows—from discovery and outreach to campaign management and content strategy—making marketing teams 10x more productive. \r\n\r\nWe handle the manual tasks so brands can focus on building relationships with creators while centralizing their operations in one platform to manage creators on TikTok Shop, Instagram, and YouTube.\r\n\r\n\r\n\r\n\r\n",
     "one_liner": "We automate creator marketing for the world's largest brands",
-    "team_size": 6,
+    "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1750191046,
@@ -1451,48 +1451,46 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/koyal.json"
   },
   {
-    "id": 30995,
-    "name": "Velvet",
-    "slug": "velvet",
-    "former_names": [
-      "Inline",
-      "Lenscape"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c02ad81894db8e1b1d0e71c379c7cae04211613.png",
-    "website": "https://velvet.video",
+    "id": 31517,
+    "name": "YouArt",
+    "slug": "youart",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b7bf5ef49531e304338226fa7947782386f95b91.png",
+    "website": "https://youart.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "The platform where frontier research labs buy data for world models.",
-    "one_liner": "Data for world models",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1761236237,
+    "long_description": "YouArt helps storytellers create AI originals using our industry-leading video agent, launch their original concepts, get funded directly by early fans, and earn from their audience.",
+    "one_liner": "Patreon for AI originals",
+    "team_size": 3,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Content",
+    "launched_at": 1777676428,
     "tags": [
-      "Artificial Intelligence",
-      "B2B",
+      "Generative AI",
       "Video",
-      "Media",
       "Creator Economy"
     ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
-    "batch": "Fall 2025",
+    "batch": "Spring 2026",
     "status": "Active",
     "industries": [
-      "B2B"
+      "Consumer",
+      "Content"
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/velvet",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/velvet.json"
+    "url": "https://www.ycombinator.com/companies/youart",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/youart.json"
   }
 ]

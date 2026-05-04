@@ -169,9 +169,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/617ef74a3e62398db60a2179add2a7f75d8bbd18.png",
     "website": "http://ironcladapp.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Contracts are business decisions trapped in administrative tasks. Ironclad is software that does all the administrative work better left for a robot, freeing legal teams to do more substantive work and drive business strategy. By automating contracting processes and extracting intelligence from contracts, Ironclad lets legal teams focus on legal work, rather than paperwork. Legal teams at companies like Gusto, HotelTonight, GoFundMe, Glassdoor, Procore use Ironclad to get their contracts done more efficiently and accurately, and to maintain a single source of truth regarding their contents.\r\n\r\nHeadquartered in San Francisco, Ironclad is backed by Accel, Greylock, SV Angel, Formation 8, and was incubated in Y Combinator. For more information, visit https://www.ironcladapp.com.",
-    "one_liner": "Digital contracting platform for legal teams.  ",
-    "team_size": 400,
+    "long_description": "Ironclad helps companies make and manage their business contracts.  Customers like L'Oréal, Heineken, and Salesforce use our platform to move up to 80% faster, make better decisions through data, and effectively manage risk.  We are backed by investors like Accel, Sequoia, Bond, Franklin Templeton, SV Angel, and Y Combinator.  ",
+    "one_liner": "AI-powered contract management",
+    "team_size": 700,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1429997716,
@@ -334,9 +334,9 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b1deabbfcad920bb32556ad82eec40dd53ecb4f4.png",
     "website": "https://www.legalist.com",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Asset management firm that specializes in esoteric private credit assets in litigation and bankruptcy",
-    "one_liner": "Tech-enabled asset management firm",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Investment firm specializing in alternative investments involving legal and regulatory risk. ",
+    "one_liner": "Legal investment firm",
     "team_size": 40,
     "industry": "Fintech",
     "subindustry": "Fintech -> Credit and Lending",
@@ -359,7 +359,7 @@
       "United States of America",
       "America / Canada",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -508,7 +508,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d5de4c1412998050fa2085e9dbcb8dee8ebd735.png",
     "website": "https://upsolve.org/learn/should-i-file-for-chapter-7-bankruptcy/",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "MA, USA; New York, NY, USA",
     "long_description": "Upsolve is a tech-driven nonprofit that helps low-income Americans overcome debt and rebuild credit at scale. Upsolve was founded in Harvard Law School’s Access to Justice Lab in 2016. Since then, Upsolve has become the nation’s most visited nonprofit financial education site. Upsolve.org educates approximately 2.9 million people a year with 2,000 articles on an array of debt and credit topics. To date, Upsolve’s free DIY bankruptcy filing tool has been used by over 14,000 families to relieve over $600,000,000 in debt. Upsolve users are disproportionately Black and Brown with an average household income of $25,000. Upsolve is now launching a suite of AI tools to help low-income Americans resolve their financial distress earlier. ",
     "one_liner": "Helping low-income Americans overcome debt and rebuild credit at…",
     "team_size": 12,
@@ -632,22 +632,26 @@
   },
   {
     "id": 12648,
-    "name": "Flo Recruit",
-    "slug": "flo-recruit",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/784e322314b424b51a956f67ca758620ef053f13.png",
-    "website": "https://florecruit.com",
+    "name": "Flo",
+    "slug": "flo",
+    "former_names": [
+      "Flo Recruit"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d34ba9366f64d6a8b9a2854394d58a3073d1af15.png",
+    "website": "https://joinflo.com",
     "all_locations": "Austin, TX, USA",
     "long_description": "",
-    "one_liner": "We help law firms hire the best legal talent faster",
+    "one_liner": "The talent platform for legal",
     "team_size": 50,
     "industry": "B2B",
     "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1556761785,
     "tags": [
-      "Recruiting",
+      "Marketplace",
       "Legal",
-      "LegalTech"
+      "LegalTech",
+      "HR Tech",
+      "Talent Acquisition"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -670,8 +674,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/flo-recruit",
-    "api": "https://yc-oss.github.io/api/batches/summer-2019/flo-recruit.json"
+    "url": "https://www.ycombinator.com/companies/flo",
+    "api": "https://yc-oss.github.io/api/batches/summer-2019/flo.json"
   },
   {
     "id": 22075,
@@ -1164,7 +1168,7 @@
     "all_locations": "Austin, TX, USA; Remote",
     "long_description": "We help security, legal and sales teams get answers in seconds without depending on subject-matter experts.\r\n\r\nOur AI agent connects to every source that already holds the truth (Google Drive, Notion, Slack, email, website, trust center, SOC 2 docs, etc.). It keeps that knowledge graph fresh on its own and drafts, validates, and formats responses to customer questions, security questionnaires, and RFPs, all in the background, so your team just reviews and ships.",
     "one_liner": "We help security, legal and sales teams answer customer questions",
-    "team_size": 7,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1658875414,
@@ -1234,7 +1238,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -1516,25 +1520,26 @@
   },
   {
     "id": 29201,
-    "name": "Legora (formerly Leya)",
+    "name": "Legora",
     "slug": "legora",
     "former_names": [
       "Leya",
-      "Legora"
+      "Legora",
+      "Legora (formerly Leya)"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c07116a743e8d35ce903cd8f6eb5d04b07833e7.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/05171178ffc17b0e9580f51631921117958c778c.png",
     "website": "https://www.legora.com/",
     "all_locations": "Stockholm, Stockholm County, Sweden",
     "long_description": "Legora is an AI-powered workspace for law firms and legal professionals. \r\n\r\nLegora lets lawyers automate their repetitive tasks and access public sources and their own data on one single platform.\r\n\r\nLearn more at https://www.legora.com/",
     "one_liner": "The AI workspace for lawyers",
-    "team_size": 65,
+    "team_size": 400,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1695641655,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
-      "LegalTech",
-      "AI"
+      "LegalTech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1608,12 +1613,12 @@
     "name": "Tower",
     "slug": "tower",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/97d9192686e0278a86ecd8f8e25d07e7d760cfd1.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/71c566f418e6fe3b2b2aa396c65f6feec1bfc40f.png",
     "website": "https://withtower.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tower accelerates transactional due diligence via an AI-powered, centralized diligence platform. By consolidating disparate diligence workflows, Tower helps lawyers stay organized, spot issues earlier, and close deals faster.",
-    "one_liner": "Legal due diligence platform powered by AI",
-    "team_size": 2,
+    "long_description": "Tower accelerates transactional due diligence via an AI-powered, centralized diligence platform. By consolidating disparate diligence workflows, Tower helps deal teams stay organized, spot issues earlier, and close deals faster.",
+    "one_liner": "M&A due diligence platform powered by AI",
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1715707959,
@@ -1654,17 +1659,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae2e103cef868d10d11f8eda1c9371448e8a4640.png",
     "website": "https://www.getcodeshealth.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Codes automates medical record retrieval. Today, documents are scattered across EHRs, providers, and faxes; we use AI to compile & analyze docs law firms, providers, and more. ",
-    "one_liner": "Perfect medical histories. ",
-    "team_size": 10,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
+    "long_description": "Codes automates medical record retrieval. Today, documents are scattered across EHRs, providers, and faxes; we use AI to compile & analyze docs for law firms, providers, and more. ",
+    "one_liner": "Medical Record Retrieval with Zero Human Error",
+    "team_size": 12,
+    "industry": "B2B",
+    "subindustry": "B2B",
     "launched_at": 1721954121,
     "tags": [
       "Artificial Intelligence",
       "Health Tech",
       "B2B",
-      "Healthcare",
       "LegalTech"
     ],
     "tags_highlighted": [],
@@ -1674,7 +1678,7 @@
     "batch": "Summer 2024",
     "status": "Active",
     "industries": [
-      "Healthcare"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -1687,6 +1691,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/codes-health",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/codes-health.json"
+  },
+  {
+    "id": 29727,
+    "name": "Overstand Labs",
+    "slug": "overstand-labs",
+    "former_names": [
+      "Overstand Labs",
+      "Overstand Labs Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/061e173be11210d3cca9f1b51ba89c7c5255750b.png",
+    "website": "https://overstandlabs.com",
+    "all_locations": "NY, USA",
+    "long_description": "Overstand is a data lab that allows our customers to navigate any set of data in just a few minutes.\r\n\r\n*Enterprise*: For enterprises, we we unify Slack, email, calls, and operational data, then surface the signals that matter — customer needs, risks, and revenue opportunities hidden in everyday conversations.\r\n\r\n*Legal Firms*: For legal firms, we help them really quickly understand their entire discovery corpus (either before, or after document review), and quickly build out an initial case assessment and facts.\r\n\r\nInstead of waiting on reports or manual analysis, teams get immediate, evidence-backed answers from the data they already have. Overstand delivers clarity and leverage as your business scales.",
+    "one_liner": "Navigate any set of data - no matter how large - in minutes.",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1724369845,
+    "tags": [
+      "Artificial Intelligence",
+      "LegalTech",
+      "Data Science",
+      "Data Engineering",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/overstand-labs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/overstand-labs.json"
   },
   {
     "id": 29760,
@@ -1783,7 +1833,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c3ccc32c3cef12a79c45aceb7aa532c954f0602.png",
     "website": "https://www.brighterway.ai/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "At Brighterway, we use AI to speed up the medical record review process in the Workers' Compensation Industry. Physicians and claims handlers spend hours reviewing thousands of pages of medical documents– our technology highlights the information that is most relevant to a doctor's specialty or a given injury, streamlining their review process and saving them time.\r\n\r\nBrighterway structures and deduplicates disorganized medical records (PDFs) and extracts the content that is medically relevant and related to a given claim, so they can focus on what matters most.",
     "one_liner": "Streamlining the medical record review process in workers comp",
     "team_size": 14,
@@ -1808,7 +1858,8 @@
       "Healthcare IT"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1905,50 +1956,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/rescript.json"
   },
   {
-    "id": 30067,
-    "name": "Platus",
-    "slug": "platus",
-    "former_names": [
-      "Openlaw"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/014b1ba3942482fbcc33d8bd34b870f8e4f598a4.png",
-    "website": "https://www.platus.com",
-    "all_locations": "",
-    "long_description": "Platus delivers fast, reliable legal infrastructure with a no-code platform and API, designed to support SMBs with instant access to notarization, legal drafting, e-signing, and workflow automations. Our solution removes the high costs and slow processing of traditional legal services, by empowering businesses to seamlessly manage compliance and legal tasks.",
-    "one_liner": "Instant Legal Infrastructure - Draft, Sign, Notarize & Process",
-    "team_size": 15,
-    "industry": "B2B",
-    "subindustry": "B2B -> Legal",
-    "launched_at": 1731569238,
-    "tags": [
-      "B2B",
-      "Workflow Automation",
-      "Compliance",
-      "LegalTech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Legal"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/platus",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/platus.json"
-  },
-  {
     "id": 30073,
     "name": "Pearson Labs",
     "slug": "pearson-labs",
@@ -2040,7 +2047,7 @@
     "name": "Blueshoe",
     "slug": "blueshoe",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/97746bdd15069c4993687b88ecedf70475b734a2.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3167c58e3e1e694a6620d4b50851ebec19886cb.png",
     "website": "https://blueshoe.com",
     "all_locations": "Boston, MA, USA",
     "long_description": "Blueshoe is an AI platform for legal research and reasoning designed to capture the structure of legal thought and allow users to work directly within the logic of caselaw. By combining advanced AI with curated legal and proprietary data pipelines, the system allows users build and test arguments with unprecedented clarity.",
@@ -2083,10 +2090,10 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1138acf799ce629450bf7f2fb3d38a36aabb6d93.png",
     "website": "https://www.complydo.io/",
-    "all_locations": "",
+    "all_locations": "Berlin, Berlin, Germany",
     "long_description": "The most flexible enterprise compliance engine that makes GRC teams 10x more efficient. Already trusted by global leaders and the largest EU enterprises.\r\n\r\nWhat it does:\r\n- Extracts requirements from any file\r\n- Maps them to controls and policies\r\n- Shows gaps and monitors changes\r\n- Advises on maturity and next steps",
     "one_liner": "Global Compliance for Enterprises",
-    "team_size": 5,
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1759460278,
@@ -2108,7 +2115,8 @@
       "Legal"
     ],
     "regions": [
-      "Unspecified"
+      "Germany",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2173,16 +2181,16 @@
     "all_locations": "Toronto, ON, Canada",
     "long_description": "We automate patent infringement detection. Our software interprets patents, identifies competing products, and generates claim charts showing who’s infringing and how.\r\n\r\nTeams use us to:\r\n\r\n- Find licensing and litigation targets\r\n- Send cease-and-desist letters\r\n- Find counter litigation\r\n- Sell IP in wind-downs\r\n- Accelerate M&A diligence\r\n\r\nWe also run AI invalidity and prior-art searches to help your patents hold up in court.\r\n\r\nCompanies spend up to $50k to file and maintain a single patent over its lifetime, but once it's granted, they let it collect dust. With Patent Watch, you can start turning your patent portfolio into revenue in 10 minutes.",
     "one_liner": "AI for detecting patent infringements",
-    "team_size": 2,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1758491604,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Legal",
-      "LegalTech",
-      "AI"
+      "LegalTech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2248,77 +2256,32 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/mayflower.json"
   },
   {
-    "id": 31130,
-    "name": "AutoSitu",
-    "slug": "autositu",
+    "id": 31279,
+    "name": "Regbase",
+    "slug": "regbase",
     "former_names": [
-      "MirageDoodle, Inc."
+      "RegBase"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e152edb1a93ed2437635e5b7630e93b7466a400.png",
-    "website": "https://autositu.com/",
-    "all_locations": "",
-    "long_description": "At AutoSitu, we’re building coordinated AI agents that live inside cities’ cross-department development review workflows—doing the heavy lifting, escalating judgment calls, and letting staff focus where human expertise actually matters. AutoSitu provides expert-level guidance and catch issues in minutes, helping cities and design firms/developers navigate an increasingly complex and fragmented regulatory environment. We serve as a strategic partner to forward-thinking public agencies and design teams across the country and are backed by Y Combinator (W26).",
-    "one_liner": "AI-native workspace for municipal development review",
-    "team_size": 2,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd72b079b781bbd2a4eb03627c44c4901fd5da63.png",
+    "website": "https://regbase.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "",
+    "one_liner": "Tracking global laws, grants and consultations",
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
-    "launched_at": 1765384359,
+    "launched_at": 1776112979,
     "tags": [
-      "Generative AI",
-      "GovTech",
-      "Real Estate",
-      "LegalTech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Legal"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/autositu",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/autositu.json"
-  },
-  {
-    "id": 31146,
-    "name": "Arcline",
-    "slug": "arcline",
-    "former_names": [
-      "https://www.arcline-ai.com/",
-      "Arcline AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f76442626bb5dc33b9b6ae6b9ea6033dff2869f6.png",
-    "website": "https://www.arcline-ai.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Arcline provides AI-native legal services for startups, with same-day turnaround & elite lawyers in the loop. Our AI does 80% of the work, so startups pay elite lawyers only for the final 20%.\r\n\r\nArcline’s founder Pamir, ex-outside counsel to OpenAI, saw the same issues on repeat when lawyers were serving startups: simple legal work took weeks, pricing was opaque, and lawyers kept starting from scratch instead of using AI.\r\n\r\nWe’ve built a bench of top-tier startup lawyers to change that - folks from top schools (Harvard, Stanford, Oxford) and leading firms (Cooley, Goodwin, Fenwick). \r\n\r\nArcline’s lawyers start with first drafts generated with AI, and then do final revisions. This ends up reducing the work by up to 80% - so startups pay elite lawyers only for the final 20%.\r\n\r\nMore importantly, your legal matters can often be handled same-day. No other law firm today offers this kind of speed.\r\n\r\nWe’ve scaled to helping several Y-companies and 50+ venture-backed startups across the US and Nordics. \r\n\r\nDiscover Arcline: arcline-ai.com",
-    "one_liner": "Startup legal work handled by elite lawyers & same-day turnaround",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Legal",
-    "launched_at": 1767976988,
-    "tags": [
-      "Artificial Intelligence",
-      "Marketplace",
-      "Compliance",
       "Legal",
-      "LegalTech"
+      "Sales Enablement",
+      "LegalTech",
+      "Regtech"
     ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
-    "batch": "Winter 2026",
+    "batch": "Spring 2026",
     "status": "Active",
     "industries": [
       "B2B",
@@ -2331,91 +2294,11 @@
       "Partly Remote"
     ],
     "stage": "Early",
-    "app_video_public": true,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/arcline",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/arcline.json"
-  },
-  {
-    "id": 31167,
-    "name": "Stilta",
-    "slug": "stilta",
-    "former_names": [
-      "Patrona"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd5098ecffa80ba5653bbe087ea69f86e9bb24b7.png",
-    "website": "https://stilta.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Stilta is the AI-native software for patent practitioners, built on agentic workflows to amplify how IP work is done end-to-end. Instead of spending weeks manually researching and drafting patents, practitioners can reduce manual work by up to ~50% while enabling new revenue streams.\r\n\r\nInnovation is key to solving the world’s most important challenges, but the tools to protect innovation haven’t kept up. Patent teams are stuck doing high-stakes work with a process built around manual document review and disconnected point solutions. Existing tools are rigid and fail by not integrating AI with clear traceability (every output must be source-backed, referenced, and auditable). General LLM solutions generate text, but they don’t solve trust and integration in legal-grade workflows.\r\n\r\nWe’re four engineers from McKinsey/QuantumBlack who’ve spent the last few years building and deploying AI for large organizations. Now we are building Stilta because the practitioners protecting the world’s most valuable ideas deserve tools that match the stakes. We’re already live with paying customers in both Europe and the US. ",
-    "one_liner": "Cursor for patent practitioners",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1769876849,
-    "tags": [
-      "LegalTech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/stilta",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/stilta.json"
-  },
-  {
-    "id": 31240,
-    "name": "General Legal",
-    "slug": "general-legal",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d1ee22f8af278a7604adf3083f1a87027e066a9.png",
-    "website": "https://general.legal",
-    "all_locations": "",
-    "long_description": "We're the AI native law firm that solves commercial legal for founders. Our firm provides fast, high-quality contract drafting, review, and negotiation for a flat fee. We save founders $100s-$1000s per contract, turn contracts in hours instead of days, and our expert attorneys provide practical, real-time guidance to get deals closed safely.",
-    "one_liner": "The AI native law firm for growth stage companies",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Legal",
-    "launched_at": 1769746017,
-    "tags": [
-      "Legal",
-      "LegalTech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Legal"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/general-legal",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/general-legal.json"
+    "url": "https://www.ycombinator.com/companies/regbase",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/regbase.json"
   }
 ]

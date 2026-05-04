@@ -671,50 +671,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2021/adravision.json"
   },
   {
-    "id": 26015,
-    "name": "Splendor",
-    "slug": "splendor",
-    "former_names": [
-      "Uptick",
-      "Fortuna Genomics"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/82c002dd039ff3ea4d28dfce449b49fc390b93bd.png",
-    "website": "https://splendorhealth.com",
-    "all_locations": "Cambridge, MA, USA; Remote",
-    "long_description": "Splendor's AI agent helps providers, EHRs, and billing companies automate benefits checks, prior auth, and more.",
-    "one_liner": "We make dealing with insurance less annoying.",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1711477333,
-    "tags": [
-      "Health Insurance",
-      "Healthcare IT"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/splendor",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/splendor.json"
-  },
-  {
     "id": 27945,
     "name": "Fairway Health",
     "slug": "fairway-health",
@@ -914,11 +870,11 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ad90ff298c085246c8c2af38a348e6f2c92f338.png",
     "website": "https://quillbills.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Quill Bills is a medical billing company that works with healthcare providers to significantly lower billing costs and fight every denial.",
+    "long_description": "Quill Bills is a medical billing company that works with healthcare providers to significantly lower billing costs and recover denied claims.\r\nOur platform performs much of a biller's job autonomously, and we sell this platform to private practice doctors and medical MSOs.",
     "one_liner": "AI-Powered Medical Billing",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
+    "team_size": 3,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1685991991,
     "tags": [
       "Artificial Intelligence",
@@ -929,13 +885,13 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Finance and Accounting"
+      "Healthcare",
+      "Healthcare IT"
     ],
     "regions": [
       "United States of America",
@@ -956,17 +912,17 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7fa49eb2930eeded02c619636a22909358301f3b.png",
     "website": "https://www.edencaremedical.com/",
-    "all_locations": "Nairobi, Nairobi County, Kenya; Kigali, Kigali City, Rwanda",
-    "long_description": "Eden Care is building a digital health insurer for employers in Africa. \r\n\r\n\r\n\r\nToday, health insurance operation costs in Africa are 2.2x the global average. Eden Care is cutting this by 43% making health insurance cheaper. \r\n\r\n\r\n\r\nThe $11Bn African health insurance market is projected to grow to $72Bn in just  12 years. We are targeting 90 million uninsured African employees.",
-    "one_liner": "Digital health insurance for employers in Africa",
+    "all_locations": "Nairobi, Nairobi County, Kenya",
+    "long_description": "Eden Care is building the claims infrastructure for African health insurance ",
+    "one_liner": "Claims infrastructure for African health insurance",
     "team_size": 28,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1687277447,
     "tags": [
+      "Fintech",
       "Health Insurance",
-      "Insurance",
-      "Health & Wellness"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -980,7 +936,6 @@
     ],
     "regions": [
       "Kenya",
-      "Rwanda",
       "Africa",
       "Remote",
       "Partly Remote"
@@ -988,7 +943,7 @@
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
-    "app_answers": true,
+    "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/eden-care",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/eden-care.json"
@@ -1000,18 +955,18 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/174cf352bddd34701bef4a958ce1e21e7d49de3d.png",
     "website": "https://www.cairhealth.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Cair Health empowers billing companies, care management platforms, EHRs, offshore BPOs, provider groups, and specialty pharmacies with AI-driven RCM solutions.  Our suite of AI Agents helps RCM teams streamline operations, reduce manual costs, and improve consistency—while maintaining full control over core workflows. Cair is trusted by 100+ practices across the country — including iconic VC-backed digital health startups, leading specialty EHRs, and some of the largest billing companies and BPOs\r\n\r\nBacked by Y Combinator, Foundation Capital, Soma Capital, Translink Capital & many others.. ",
-    "one_liner": "Predictive analytics and automation for medical claims",
+    "one_liner": "AI Agents for Healthcare RCM",
     "team_size": 6,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1690913334,
     "tags": [
+      "Artificial Intelligence",
       "Health Tech",
       "Healthcare",
       "Health Insurance",
-      "AI",
       "ML"
     ],
     "tags_highlighted": [],
@@ -1025,7 +980,8 @@
       "Healthcare IT"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1139,7 +1095,7 @@
     "all_locations": "San Mateo, CA, USA",
     "long_description": "careCycle is an AI workforce for medicare agencies and FMOs - helping leading agencies achieve 5x higher conversions, 37% better retention, and saving thousands of agent hours.\r\n\r\nWe're transforming how Medicare agencies handle member relationships with teams of voice AI agents. We're solving the industry's biggest challenge: 50% annual member churn caused by poor post-enrollment engagement.\r\n\r\nOur multi-agent AI teams work together to handle the entire customer journey - from initial contact through enrollment and ongoing care. When a lead comes in after hours, one AI agent answers and schedules a callback, another calls at the perfect time, a third captures qualifying information, and a fourth handles the warm transfer to a licensed agent. This approach helped a leading FMO write over $2M in renewals during AEP 2024 while reducing agent talk time by 20% per sale.\r\n\r\nWe've pioneered a purpose-built solution for Medicare's unique compliance requirements. Unlike generic AI platforms, our system features built-in HIPAA/CMS compliance, real-time data structuring, and seamless CRM integration. This enables agencies of all sizes to deliver enterprise-grade member care without massive infrastructure investments.\r\n\r\nEarly metrics show the power of our approach:\r\n\r\n- 5x increase in after-hours conversion rates\r\n- 37% improvement in 90-day retention\r\n- 3,000+ agent hours saved in a single AEP\r\n- $2M+ in additional renewals during AEP 2024\r\n\r\nThe Medicare Advantage market represents a massive opportunity, with over $360B in annual premiums and growing 10% year over year. By solving the member retention challenge, we're positioning ourselves to capture significant value by transforming the member care experience for beneficiaries.",
     "one_liner": "Voice AI teams for medicare agencies.",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1740261060,
@@ -1150,7 +1106,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -1168,50 +1124,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/carecycle",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/carecycle.json"
-  },
-  {
-    "id": 30641,
-    "name": "Overdrive Health",
-    "slug": "overdrive-health",
-    "former_names": [
-      "Overdrive Health",
-      "Overdrive"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9f6d5714c40148baca15996e7bc186b870ee0af4.png",
-    "website": "https://overdrive.health",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Overdrive Health offers AI powered medical billing services, helping providers get paid more money in less time. Our technology enables us to provide the best quality insurance and patient billing services for a fraction of the usual cost",
-    "one_liner": "AI Powered Medical Billing",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare Services",
-    "launched_at": 1761922527,
-    "tags": [
-      "Health Tech",
-      "Healthcare",
-      "Health Insurance"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare Services"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/overdrive-health",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/overdrive-health.json"
   },
   {
     "id": 30977,

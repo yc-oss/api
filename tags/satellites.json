@@ -176,9 +176,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ce29daf410b8ce0c1856dfe42a8b720ac831064.png",
     "website": "https://www.albaorbital.com",
     "all_locations": "Glasgow, Scotland, United Kingdom",
-    "long_description": "Alba Orbital is building the world's largest earth observation constellation, imaging everywhere on earth, every 15 minutes. We can see events within minutes such as wildfires in real time and have signed >$85m of LOIs, with both government and commercial customers paying pre-orders for imagery. To date we have launched 57 satellites into orbit (more than any other seed stage company in history), with more launching in 2026 onwards. We have launched a number of technology demonstration imaging satellites called Unicorns, which are the world's most advanced satellite under 1kg ever flown in orbit.",
+    "long_description": "Alba Orbital is building the world's largest earth observation constellation, imaging everywhere on earth, every 15 minutes. We can see events within minutes such as wildfires in real time and have signed >$85m of LOIs, with both government and commercial customers paying pre-orders for imagery. To date we have launched 62 satellites into orbit (more than any all other yc companies combined), with more launching in 2026 onwards. We have launched a number of technology demonstration imaging satellites called Unicorns, which are the world's most advanced satellite under 1kg ever flown in orbit.",
     "one_liner": "We make satellites to image everywhere on Earth, every 15 minutes",
-    "team_size": 16,
+    "team_size": 10,
     "industry": "Industrials",
     "subindustry": "Industrials -> Aviation and Space",
     "launched_at": 1614654529,
@@ -230,7 +230,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2021",
     "status": "Active",
@@ -747,18 +747,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9c9b9996bb500ee171134f1e1a0a83f5d48bec3.png",
     "website": "https://www.starcloud.com/",
     "all_locations": "Redmond, WA, USA",
-    "long_description": "Starcloud is building data centers in space, initially to provide GPU compute to other satellites, and later to address the rapidly growing demand for energy caused by the deployment of AI. Falling launch costs give Starcloud access to abundant energy, radiative cooling, and the ability to rapidly scale in space.\r\n\r\nIn November 2025, just 21 months after founding, Starcloud launched its first satellite, Starcloud-1 to space. This has an Nvidia H100, which is 100x more powerful GPU than has ever been operated in space before. With this, they became the first entity to train an LLM in space and the first to run a version of Gemini in space. Starcloud will soon also run high-powered inference on Capella SAR data on orbit for the first time. \r\n\r\nStarcloud is launching its second satellite in October 2026, which will have 100x the power generation of the first and generate more cash than it costs to build and launch. Starcloud expects that within 10 years, most new data centers will be being built in space for the energy.",
+    "long_description": "Starcloud is building data centers in space, initially to provide GPU compute to other satellites, and later to address the rapidly growing demand for energy caused by the deployment of AI. Falling launch costs give Starcloud access to abundant energy, radiative cooling, and the ability to rapidly scale in space.\r\n\r\nIn November 2025, just 21 months after founding, Starcloud launched its first satellite, Starcloud-1 to space. This has an Nvidia H100, which is 100x more powerful GPU than has ever been operated in space before. With this, they became the first entity to train an LLM in space and the first to run a version of Gemini in space. Starcloud will soon also run high-powered inference on Capella SAR data on orbit for the first time. \r\n\r\nStarcloud is launching its second satellite in October 2026, which will have 100x the power generation of the first and generate more cash than it costs to build and launch. Starcloud expects that within 10 years, most new data centers will be being built in space for the energy.\r\n\r\nIn March 2026, Starcloud raised a $170M Series A led by Benchmark, becoming the fastest unicorn in YC history, just 17 months after demo day.",
     "one_liner": "Data centers in space",
     "team_size": 12,
     "industry": "Industrials",
     "subindustry": "Industrials -> Aviation and Space",
     "launched_at": 1718841179,
     "tags": [
-      "Artificial Intelligence",
       "Hard Tech",
       "Satellites",
       "Climate",
-      "Cloud Computing"
+      "Cloud Computing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -823,131 +823,5 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/zephyr-fusion",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/zephyr-fusion.json"
-  },
-  {
-    "id": 31142,
-    "name": "Beyond Reach Labs",
-    "slug": "beyond-reach-labs",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a23843346ae92181428153349c06ed7c8d8a5a0b.png",
-    "website": "https://www.beyondreachlabs.com",
-    "all_locations": "",
-    "long_description": "At Beyond Reach Labs we are building solar panels for Space that grow from the size of a dining table to a football field in orbit.\r\n\r\nMitch and Pele met 13 years ago as freshmen at UPenn studying mechanical engineering. Mitch recently got his PhD at Carnegie Mellon working with NASA on kilometer-scale deployable structures, and Pele spent seven years at SpaceX leading Dragon parachute engineering, safely returning astronauts from space.\r\n\r\nThe collective satellites today use around 20MW, roughly the output of a datacenter on earth, but by 2030 there is a demand for over 10GW, a 500x increase, largely driven by orbital datacenters, space stations, and lunar outposts.\r\n\r\nIf you want more power, your only option is to launch larger solar panels, which quickly become fragile or impractically expensive. As a result, power constraints already determine whether missions or industries can exist at all.\r\n\r\nBut at Beyond Reach Labs we have introduced a new class of deployable solar panels giving satellites 10x more usable power without increasing launch mass or volume. This works because our patented deployable design changes geometry in space, allowing for us to reach 10x longer while remaining rigid.\r\n",
-    "one_liner": "Space solar arrays that grow to the size of a football field in orbit",
-    "team_size": 2,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Aviation and Space",
-    "launched_at": 1770079967,
-    "tags": [
-      "Hard Tech",
-      "Hardware",
-      "Space Exploration",
-      "Satellites",
-      "Aerospace"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Aviation and Space"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/beyond-reach-labs",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/beyond-reach-labs.json"
-  },
-  {
-    "id": 31209,
-    "name": "AxionOrbital Space",
-    "slug": "axionorbital-space",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/45756da0fcb8d428dd8a6d3aaccf624ef98863b9.png",
-    "website": "https://axionorbital.space/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "AxionOrbital Space builds foundation models that enable continuous visibility through clouds and darkness. Legacy optical satellites are rendered useless 70% of the time by weather and night cycles, while Synthetic Aperture Radar (SAR) produces data that is unintelligible to humans and breaks standard vision pipelines.\r\n\r\nWe solve this by translating raw radar backscatter into analysis-ready optical imagery in real-time. Our proprietary architecture uses deterministic one-step diffusion to transform complex radar signals into clear, photorealistic images. This enables persistent, 24/7 situational awareness for defense, commodities trading, and disaster response, guaranteeing visibility even when the sky is blocked.",
-    "one_liner": "Foundation models for 24/7 Earth Observation",
-    "team_size": 2,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Aviation and Space",
-    "launched_at": 1766035351,
-    "tags": [
-      "Deep Learning",
-      "Satellites",
-      "Weather"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Aviation and Space"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/axionorbital-space",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/axionorbital-space.json"
-  },
-  {
-    "id": 31212,
-    "name": "Constellation Space",
-    "slug": "constellation-space",
-    "former_names": [
-      "Constellation"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/507992dfdd26c7120b018a48e02b63f2dbff68b3.png",
-    "website": "https://constellation-io.com/",
-    "all_locations": "Seattle, WA, USA",
-    "long_description": "Constellation builds ConstellationOS, an AI-driven platform that makes satellite networks autonomous and resilient. We ingest telemetry from satellites, ground stations, and weather systems (100K+ messages/sec), predict link failures with 90%+ accuracy up to 5 minutes in advance, and automatically reroute traffic—zero data loss, zero human intervention.\r\n\r\nhello@constellation-io.com",
-    "one_liner": "AI for space mission assurance. ",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1766273553,
-    "tags": [
-      "Artificial Intelligence",
-      "Satellites",
-      "Aerospace"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/constellation-space",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/constellation-space.json"
   }
 ]

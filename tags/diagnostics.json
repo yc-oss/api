@@ -91,7 +91,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5eedcdf8d152fac7180dc5402647f58cd164448a.png",
     "website": "https://www.onecodex.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "MA, USA; San Francisco, CA, USA",
     "long_description": "One Codex is a data platform for applied microbial genomics, enabling new and valuable applications in clinical diagnostics, food safety, and biosecurity. Acquired by Invitae (NVTA) in February 2021. Spun out as an independent company in September 2022.",
     "one_liner": "Data platform for metagenomics and the microbiome.",
     "team_size": 16,
@@ -248,8 +248,8 @@
       "America / Canada"
     ],
     "stage": "Early",
-    "app_video_public": true,
-    "demo_day_video_public": true,
+    "app_video_public": false,
+    "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/luminist-labs",
@@ -1218,7 +1218,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c4e725df0c7bd2ece41618fab3a7e4124841d58.png",
     "website": "http://invisionmedtech.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "At InVision, we use AI to help streamline the interpretation of ultrasounds and identify diseases that may have been missed by human readers. Our models have been tightly integrated into the clinical workflow to allow easy usage by clinicians. Our work has previously been peer-reviewed and published in several top medical venues, including Nature (2020), Nature Medicine (2021), Lancet Digital Health (2021), JAMA Cardiology (2022). Results from our blinded and randomized clinical trial on evaluating cardiac function have also been recently presented as a Late Breaking Clinical Trial at the European Society of Cardiology.",
     "one_liner": "AI Diagnosis of  Heart Disease",
     "team_size": 2,
@@ -1240,6 +1240,8 @@
       "Healthcare"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -1295,21 +1297,23 @@
   },
   {
     "id": 28891,
-    "name": "Cleancard",
-    "slug": "cleancard",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b2b82979e8cd1a007de394d4f1a3a8e665968d02.png",
-    "website": "https://www.cleancard.bio",
+    "name": "Numen",
+    "slug": "numen",
+    "former_names": [
+      "Cleancard"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/801ff758c035f5849acfdcd35329ec161bd30cef.png",
+    "website": "https://www.numen.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We are combining synthetic biology and artificial intelligence to make cancer detection as easy as a pregnancy test. Cleancard's mission is to bring lab-grade diagnostics into the comfort of your home. Our novel method enables robust diagnostics and biomarker tracking from the urine. We are currently developing fully at-home, 30-minute tests for cancer using this methodology. We are constantly expanding the number of conditions we can detect from a single sample with our platform technology.",
-    "one_liner": "Making cancer detection as easy as a pregnancy test",
+    "long_description": "",
+    "one_liner": "Engineering a future without cancer deaths.",
     "team_size": 16,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Diagnostics",
     "launched_at": 1691571179,
     "tags": [
       "Artificial Intelligence",
-      "Computer Vision",
+      "Machine Learning",
       "Biotech",
       "Healthcare",
       "Diagnostics"
@@ -1326,15 +1330,17 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cleancard",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/cleancard.json"
+    "url": "https://www.ycombinator.com/companies/numen",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/numen.json"
   },
   {
     "id": 29749,

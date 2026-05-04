@@ -521,7 +521,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/275e2a78b8a55a63263d69a44e49471cf75b7b7f.png",
     "website": "http://www.nuvocargo.com",
-    "all_locations": "Mexico City, CDMX, Mexico",
+    "all_locations": "NY, USA; Mexico City, CDMX, Mexico",
     "long_description": "Nuvocargo is a digital-first freight forwarder and licensed US customs broker focused on helping shippers seamlessly move cargo over the road between USA and Mexico. Our goal is to make your life easier by combining exceptional service with beautiful software so that moving your products between USA and Mexico is less painful and more intuitive.\r\n\r\nWe are the **one-stop shop** for shippers for everything they need in their USA/Mexico cross-border supply chain; this includes procuring freight in both Mexico & USA, customs clearance, insurance, trade finance, reporting, and more. We act as an extension of your team so you can outsource to Nuvocargo all the complexities & vendor management associated with your cross border supply chain.",
     "one_liner": "Radically simplifying cross-border logistics between USA & Mexico",
     "team_size": 150,
@@ -545,7 +545,9 @@
       "Supply Chain and Logistics"
     ],
     "regions": [
+      "United States of America",
       "Mexico",
+      "America / Canada",
       "Latin America",
       "Remote",
       "Partly Remote"
@@ -1151,7 +1153,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "The trucking and logistics industry provides the backbone of the economy, but the payments infrastructure on which it runs is broken; the existing suite of payment tools is outdated, difficult to use, prone to fraud, and saddled with hidden fee structures. \r\n\r\nAtoB is building Stripe for Transportation — modernizing the payments infrastructure for trucking and logistics, where capital movement occurs quickly and transparently. Our flagship product is the AtoB Fuel Card, a zero-fee fuel card accepted anywhere built for fleets of all shapes and sizes.",
     "one_liner": "Modernizing global transportation payments.",
-    "team_size": 71,
+    "team_size": 75,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1602605067,
@@ -1373,7 +1375,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a386fb41df1dea72d053221119a74e5fb6e081b.png",
     "website": "https://www.fountain9.com",
-    "all_locations": "Mumbai, MH, India; San Francisco, CA, USA",
+    "all_locations": "CA, USA; San Francisco, CA, USA",
     "long_description": "Fountain9 is a predictive inventory planning solution. We help food brands and retailers reduce food wastage and improve product availability by predicting their future inventory needs. \r\n\r\nFood wastage is a global problem that has both financial and environmental costs. An estimated $1.3 Bn tonnes of food is wasted every year and 7 - 15% of that is because of mismanaged inventory. \r\n\r\nWe accurately predict future inventory imbalances which lead to out of stock situations or wastage, and also recommends best ways of minimising their impact. Our state of the art demand sensing and pricing engine takes into account several factors like historical sales trends, seasonality, holidays, markdown events and pricing changes to predict future inventory requirements and optimize prices. Predicted inventory demand is also aligned with supply side data to identify ideal suppliers and replenishment quantities that minimize chances of stock outs or inventory wastage.",
     "one_liner": "Helping food brands and retailers reduce food wastage",
     "team_size": 8,
@@ -1398,9 +1400,7 @@
       "Retail"
     ],
     "regions": [
-      "India",
       "United States of America",
-      "South Asia",
       "America / Canada"
     ],
     "stage": "Early",
@@ -1572,7 +1572,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -1768,9 +1768,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1ff0b6c32ebbaceaa5a81ba55ba260e8e96957c7.png",
     "website": "https://sekilo.com/en/",
     "all_locations": "Jakarta, Jakarta, Indonesia",
-    "long_description": "Sekilo - Poultry processing & supply chain for the SME foodservice industry.\r\n\r\nA category-first consumer food company is revolutionizing the poultry industry with innovative technology. At the forefront of poultry distribution and processing, our robust supply chain, fortified with stringent cold chain control, guarantees excellence from procurement to final delivery, setting a new industry standard. Our unwavering commitment addresses client pain points—ensuring unparalleled quality, hygiene, freshness, and multiple drops with a low MOQ.\r\n\r\nAs a startup deeply rooted in logistics and supply chain expertise, Sekilo is the trusted partner for the diverse needs of the middle-downstream foodservice sector. Delivering cutting-edge solutions in warehouse management, inventory control, operations, delivery logistics, customization, and processing management, we cater to catering SMEs, HORECA chains, industry players, e-grocery startups, and D2C processed meat factories. Embracing technology, Sekilo optimizes Indonesia's poultry supply chain.\r\n\r\nWith robust supply chain capabilities, customization, an efficient business model, and an unwavering commitment to consistency, Sekilo is reshaping the poultry distribution and processing landscape.",
-    "one_liner": "Poultry processing & supply chain for the SME foodservice industry.",
-    "team_size": 11,
+    "long_description": "Sekilo is building the AI powered halal protein supply chain for foodservice in Indonesia, starting with poultry. The middle downstream food ecosystem is highly fragmented, with SMEs, F&B chains, industrial buyers, and government kitchens relying on multiple vendors, leading to inconsistent quality, pricing, and fulfillment. Sekilo unifies this through an asset light operating layer that integrates procurement, processing, cold chain, and delivery into a single system, layering AI across negotiation, pricing, inventory, and demand planning to automate workflows and improve margins.",
+    "one_liner": "Building the AI powered halal protein supply chain for foodservice in…",
+    "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1638382017,
@@ -1790,9 +1790,7 @@
     ],
     "regions": [
       "Indonesia",
-      "Southeast Asia",
-      "Remote",
-      "Partly Remote"
+      "Southeast Asia"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2080,50 +2078,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/ecsa.json"
   },
   {
-    "id": 26776,
-    "name": "Overwatch",
-    "slug": "overwatch",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1def1e618878c538c08d4635fb23a133ed14d476.png",
-    "website": "http://www.overwatchdata.ai",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Overwatch Data offers real-time, actionable intelligence tailored for your fraud, security, and strategic insights teams. Our platform provides a comprehensive and contextualized view of opportunities and risks, drawing on the surface, social, and deep web, thereby enabling faster, data-driven decision-making.",
-    "one_liner": "Enterprise software for strategic, risk, and cyber fraud intelligence",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1657829137,
-    "tags": [
-      "SaaS",
-      "Supply Chain",
-      "Cybersecurity",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/overwatch",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/overwatch.json"
-  },
-  {
     "id": 26803,
     "name": "Tank Payments",
     "slug": "tank-payments",
@@ -2192,7 +2146,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -2285,7 +2239,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -2366,18 +2320,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4cf3efb3a17f100893c2b9e11f3f945ba7fbdf04.png",
     "website": "https://www.mandel.ai/",
     "all_locations": "",
-    "long_description": "Mandel surfaces supply chain disruptions and supplier updates with email AI. We use AI agents that proactively extract data and email suppliers for order updates, building a real-time self updating supply chain source of truth.",
+    "long_description": "Manufacturing procurement teams spend 70% of their day buried in supplier emails and spreadsheets. Mandel fixes that. We're an AI supply chain coordinator that reads every supplier email, extracts the data that matters - POs, quotes, delivery dates, pricing - and catches disruptions before they cost you. \r\n",
     "one_liner": "AI Supply Chain Coordinator",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1691105932,
     "tags": [
-      "Generative AI",
       "Logistics",
       "Manufacturing",
       "Supply Chain",
-      "Procurement"
+      "Procurement",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2450,10 +2404,10 @@
     "slug": "guac",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ffff2e450f7c22939b75b50d62a49acbce05716.png",
-    "website": "https://www.guac-ai.com/",
+    "website": "https://www.guac.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Guac accurately forecasts demand for grocery retailers, to reduce food waste and increase availability.",
-    "one_liner": "AI-powered demand forecasting for grocery",
+    "long_description": "Guac accurately forecasts grocery demand to help supermarkets order and produce the right amount of inventory — reducing food waste and increasing availability.",
+    "one_liner": "AI-powered forecasting & replenishment for grocery",
     "team_size": 9,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
@@ -2542,16 +2496,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c3db3e4b14d4a36988633e929d3562b45dfa8d41.png",
     "website": "https://www.pokalabs.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Poka Labs is developing an AI platform to automate operations tasks in chemical manufacturing, beginning with production scheduling. Traditionally, these tasks are performed manually using spreadsheets. Our software seamlessly integrates with existing data sources such as data historians, emails, and PDFs to automate analytics, scheduling, changes, and communication within a single platform.\r\n\r\nMalay and Andrew met while pursuing their MBAs at Harvard Business School. Malay previously worked as an engineer in the specialty chemical industry, saving his employers over $100 million across US, China, and German plants. Andrew worked as a software engineer on data infrastructure at Meta and optimization problems at a seed-stage startup. He also completed a Masters degree at Harvard specializing in Machine Learning.",
+    "long_description": "Poka Labs builds an AI platform to help sales reps at chemical manufacturers respond to requests from customers and win more business.  Our agent understands each companies product catalog, customer purchase behaviors, and company specific pricing logic to price, quote, and win the business.\r\n\r\nMalay and Andrew met while pursuing their MBAs at Harvard Business School. Malay previously worked as an engineer in the specialty chemical industry, saving his employers over $100 million across US, China, and German plants. Andrew worked as a software engineer on data infrastructure at Meta and optimization problems at a seed-stage startup. He also completed a Masters degree at Harvard specializing in Machine Learning.",
     "one_liner": "The modern operating system for chemical manufacturing.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1721318249,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Supply Chain",
-      "AI",
       "Industrial"
     ],
     "tags_highlighted": [],
@@ -2583,7 +2537,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a8698407a8cb5928c428073e83afe6e5668d63c.png",
     "website": "https://www.forgehq.com/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "New York, NY, USA",
     "long_description": "Forge helps companies recover tariffs and duties paid on imported goods that are later exported or scrapped by automating a process called duty drawback.\r\n\r\nBillions of dollars of eligible refunds go unclaimed every year. We take full ownership of the process from organizing data to filing claims so businesses can unlock this extra revenue with minimal effort. ",
     "one_liner": "Getting companies refunds on tariffs & duties",
     "team_size": 3,
@@ -2591,14 +2545,14 @@
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1705516248,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Logistics",
-      "Supply Chain"
+      "Supply Chain",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -2625,23 +2579,23 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/199d48c929434ddb64281cd83b9621eb37c3ed62.png",
     "website": "https://www.retailreadyai.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Every time workers in a warehouse box an order, they reference a 100 page manual with instructions like where to put the shipping label. RetailReady replaces the instruction manual with a tablet application.",
     "one_liner": "An AI-powered supply chain compliance engine",
-    "team_size": 10,
+    "team_size": 12,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1705423924,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Compliance",
       "Logistics",
-      "Supply Chain"
+      "Supply Chain",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -2650,7 +2604,8 @@
       "Supply Chain and Logistics"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": true,
@@ -2714,10 +2669,10 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/590821192763a73a9f24cba27c008ad9759614a4.png",
     "website": "https://lighthouz.ai/",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Lighthouz AI's AI agents solve the biggest problems in logistics - AR and AP! \r\n\r\n3PLs, brokers, factors, and carriers lose billions every year to slow invoicing, manual invoice audits, and billing disputes. Manual AP & AR processes create errors, disputes, cash flow bottlenecks, late fees —hurting everyone in the logistics supply chain. \r\n\r\n🚛 The Problem:\r\n- Factors: Auditing and verifying carrier invoices, timely invoicing\r\n- 3PLs & Brokers: Verifying carrier invoices, creating own invoices, and handling disputes and chargebacks. \r\n- Carriers: Timely invoicing, Submitting correct and complete paperwork, Dealing with late payments, incorrect deductions, and manual paperwork.\r\n- Shippers: Struggling with invoice error identification and resolution, delaying payments. \r\n\r\n📉 The Impact: The U.S. freight industry processes over $1.2 trillion in transactions annually, yet 25% of freight invoices contain errors, leading to payment disputes and delays.\r\n\r\n🔹 Our Solution is an AI agent that automates invoice audits, rate verifications, invoicing, and collections in the logistics industry. \r\n\r\nWith Lighthouz AI agents, businesses 10x their AR and AP processes. ",
-    "one_liner": "AI Agents for AP and AR in Logistics",
-    "team_size": 4,
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Lighthouz is a backoffice AI solution for freight brokers, to automate AP, AR, and Collections. \r\n\r\nLeading freight brokers are using Lighthouz AI to automate FTL (full truckload) and LTL (less than truckload) freight bill auditing, automatically filing disputes, and invoicing customers. \r\n\r\nWith Lighthouz, 70%-85% emails do not need to be touched by humans. \r\n\r\nHence, brokers using Lighthouz are invoicing customers 36% faster, getting paid 5 days sooner, and reducing back office costs by 40%.\r\n\r\nLighthouz brings 25+ years of supply chain, logistics, and AI experience to brokers, with a AI Professor from Georgia Tech who taught 1000+ students, and team with PhD and MS in AI, Machine Learning, and Data Science. ",
+    "one_liner": "Freight bill audits, AP, AR automation for freight brokers with…",
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1724264636,
@@ -2739,9 +2694,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2817,7 +2770,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -2894,7 +2847,7 @@
     "all_locations": "Paris, Île-de-France, France",
     "long_description": "The Forecasting Company builds planning systems based on our in-house foundation models for time series. ",
     "one_liner": "Foundation models for time series",
-    "team_size": 5,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1721958475,
@@ -2970,6 +2923,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cartage",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/cartage.json"
+  },
+  {
+    "id": 29814,
+    "name": "Vendra",
+    "slug": "vendra",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/929ad75b7088b9721f87d1e0e30daae50d49198f.png",
+    "website": "https://vendra-marketplace.io/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Vendra makes sourcing custom parts from US manufacturers effortless. Submit one RFQ and we automate the entire sourcing process - matching you with the right suppliers, handling outreach, and collecting competitive quotes. Full transparency and no middleman markups - just smarter sourcing. \r\n\r\nVisit www.vendra.io and submit an RFQ today!",
+    "one_liner": "Custom Parts, Manufactured in America 🇺🇸",
+    "team_size": 5,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1724084407,
+    "tags": [
+      "Hardware",
+      "Manufacturing",
+      "Supply Chain"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/vendra",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/vendra.json"
   },
   {
     "id": 30042,
@@ -3160,9 +3153,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12837739c0d64330042216a7aa87b32fd0deb815.png",
     "website": "https://www.lumari.io/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lumari enables supply chain teams to streamline operations with always-on agents that monitor, coordinate, and take action from sourcing to delivery.",
-    "one_liner": "AI Digital Workers for Supply Chain",
-    "team_size": 4,
+    "long_description": "Lumari is the world's first AI-powered procurement automation platform purpose-built for direct materials and supply chain execution. \r\n\r\nBacked by Y Combinator, Lumari is a well-funded startup that deploys 100s of always-on AI agents that run sourcing workflows, manage RFQs, expedite purchase orders, and coordinate supplier communication end-to-end -- compressing cycle times and giving teams full visibility into active orders, RFQs, and supplier performance.\r\n\r\nFounded by engineers from Google, Tesla, Amazon, and Stripe who have built and scaled supply chain systems serving millions of users. \r\n\r\nBuilt to operate directly on top of existing tools and ERP systems, Lumari helps procurement teams move faster, eliminate operational bottlenecks, and build more resilient supply chains. No rip-and-replace, no supplier onboarding. Lumari handles the manual chase: quote follow-ups, PO confirmations, delivery status updates, and risk escalation.\r\n\r\nLumari helps companies from Fortune 500s to fast-growing startups automate work from sourcing to delivery, streamline supplier communication and order management, and bring full visibility to their procurement operations.\r\n\r\nTo learn more check out https://lumari.io/",
+    "one_liner": "AI Digital Workers for Supply Chain ",
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1747084472,
@@ -3206,7 +3199,7 @@
     "website": "https://www.getasap.us",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Fresh-produce supply chains are built around guesswork. Growers plant without clear demand signals, distributors overbuy to protect against shortages, and retailers end up eating the waste. GETASAP fixes this by rebuilding distribution around real demand and fast execution. We deliver wholesale fresh produce with 8-hour same-day delivery, using micro-fulfillment centers positioned close to demand so we can operate with far less safety stock.\r\n\r\nBehind the scenes, we look at live retail sales, purchasing, and waste patterns to decide what to source, where to place inventory, and when to replenish. That lets us buy closer to actual demand, turn inventory faster, and materially reduce spoilage. For retailers, GETASAP replaces procurement teams and fragmented supplier management—we handle sourcing, inventory decisions, and fulfillment end to end as a single, reliable partner. As more volume flows through the network, demand becomes clearer, sourcing gets smarter, and the operation becomes cheaper and more predictable over time.",
-    "one_liner": "8-hour Produce Distribution for Retailers of Any Size",
+    "one_liner": "Distribution at the Speed of Compute",
     "team_size": 17,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
@@ -3219,7 +3212,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -3282,74 +3275,76 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/lanesurf.json"
   },
   {
-    "id": 30663,
-    "name": "Tesora",
-    "slug": "tesora",
-    "former_names": [
-      "Tesora AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2793bc4802e1c1cddfc383aed3ac255ec33a0465.png",
-    "website": "https://tesora.ai",
+    "id": 30662,
+    "name": "DeepAware AI",
+    "slug": "deepaware-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c1f361055ad23340a67d324b48d58339307211fb.png",
+    "website": "https://roboticscenter.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tesora builds AI-Native Software for Operations and Finance Teams at enterprises, manufacturers, distributors, small and mid-market businesses.",
-    "one_liner": "AI-Native Software for Operations and Finance Teams",
+    "long_description": "DeepAware (Silicon Valley Robotics Center roboticscenter.ai) is the fastest way for enterprises and researchers to get robots and robotics parts in the US — 72-hour delivery or Bay Area pickup.\r\n\r\nBeyond hardware, we help teams collect teleoperation data, build reinforcement learning environments, and deploy robots into production. Customers include AI labs, industrial operations, research teams, and event producers.",
+    "one_liner": "Robots, parts & RL environments - delivered in 72 hrs or pickup in SF.",
     "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1755571936,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1753029704,
     "tags": [
-      "B2B",
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Robotics",
       "Supply Chain",
-      "AI"
+      "Data Engineering"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Operations"
+      "Industrials",
+      "Manufacturing and Robotics"
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tesora",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/tesora.json"
+    "url": "https://www.ycombinator.com/companies/deepaware-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/deepaware-ai.json"
   },
   {
-    "id": 30731,
-    "name": "Palace",
-    "slug": "palace",
+    "id": 30763,
+    "name": "Rebulk",
+    "slug": "rebulk",
     "former_names": [
-      "Lucid Spring"
+      "dScribe AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6c96ba5c83b86c4246bc8f55c3a927bdde88653.png",
-    "website": "https://www.palace.so",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Palace (palace.so) plans, coordinates, and executes daily back-office work for trucking fleets. By automating the manual decisions that consume planning, dispatch, and CSR teams (assigning loads, managing appointments, communicating updates, and resolving exceptions) carriers can increase revenue-per-driver while running leaner teams.\r\n\r\nLeeds and Derek have been building together as close friends for over six years. The team have been early PMs/engineers at exited startups and decacorns and worked on the algorithms behind Amazon’s robotic logistics systems.",
-    "one_liner": "Palace plans, coordinates, and executes daily ops for trucking fleets",
-    "team_size": 2,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37f1f3fac3b53d55834007e8aa34e2f8bb7a1198.png",
+    "website": "https://www.rebulk.com",
+    "all_locations": "Olathe, KS, USA",
+    "long_description": "Rebulk accurately measures and monitors bulk inventory like piles of feed, sand, and other assets that do not fit into boxes and barcodes using cameras, LiDAR, and computer vision.\r\n\r\nMost bulk inventory is still managed with rough estimates, manual checks, delayed updates, and too much guesswork. Because it lives in piles, bays, yards, and truck beds instead of boxes with barcodes, it is much harder to track accurately. When teams do not know what is actually on site, it leads to shrink, stockouts, bad planning, and unnecessary fire drills.\r\n\r\nWe’ve lived this problem, and we know how to solve it. Warren saw it firsthand as a Product Manager at Milk Moovement, a $20M Series A AgTech startup, working closely with feed suppliers and farm managers. Cole was engineer #3 at Tropic, scaling it from seed to Series B, and later led engineering at an AI startup.\r\n\r\nWe’ve built an integrated hardware and software platform and is working with one of the largest agricultural company in North America and Charm Industrial. As industries demand real-time visibility into the physical world, RebuIk is positioned to become the operating system for bulk assets from inventory tracking to procurement and logistics.",
+    "one_liner": "Accurately measure and monitor bulk inventory",
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
-    "launched_at": 1755096535,
+    "launched_at": 1752017595,
     "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Logistics",
-      "Supply Chain"
+      "Computer Vision",
+      "Supply Chain",
+      "Agriculture",
+      "AI",
+      "Industrial"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -3363,11 +3358,11 @@
     ],
     "stage": "Early",
     "app_video_public": false,
-    "demo_day_video_public": false,
+    "demo_day_video_public": true,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/palace",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/palace.json"
+    "url": "https://www.ycombinator.com/companies/rebulk",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/rebulk.json"
   },
   {
     "id": 30775,
@@ -3381,15 +3376,15 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Fleetline is building the first complete-context algorithmic load planner for mid to large-sized trucking fleets. Today’s dispatchers face an overwhelming task: balancing regulations, customer demands, live fleet data, and individual driver needs, all while coordinating across siloed tools and teams. Mistakes run rampant, and each mistake is thousands of dollars. Even the select fleets using algorithms that have fleet-wide context struggle: the outputs are rigid, hard to interpret, and are blind to real-world nuances like driver preferences and schedule exceptions. Fleetline solves this by combining advanced optimization with LLMs that can easily adapt algorithms to each fleet’s needs and capture driver-specific information. The result is smarter planning truly optimized for every fleet and its drivers.",
     "one_liner": "Optimizing fleet planning with data driven algorithms",
-    "team_size": 3,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1754335865,
     "tags": [
+      "Artificial Intelligence",
       "Logistics",
       "Supply Chain",
-      "Data Science",
-      "AI"
+      "Data Science"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3501,81 +3496,34 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/markit.json"
   },
   {
-    "id": 31051,
-    "name": "Corvera",
-    "slug": "corvera",
+    "id": 31481,
+    "name": "Saudara AI",
+    "slug": "saudara-ai",
     "former_names": [
-      "Sarah.AI",
-      "Sarah AI"
+      "Saudara AI Inc."
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ba3bd8042a63e5e4cc8707533d8561d2aa5bf74.png",
-    "website": "https://www.corvera.ai/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1c4216679eb008bbc4571315894d674d507a751f.png",
+    "website": "https://saudara.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Corvera (YC W26) helps retail brands increase profits by 40% with an AI workforce that handles their day-to-day ops.\r\n\r\nWe're already saving fast-growing retail brands hundreds of hours a week, helping them serve more customers, and accelerating their growth.\r\n\r\n With Corvera’s platform, brands can:\r\n- Process orders end-to-end without lifting a finger\r\n- Forecast demand in real time\r\n- Automatically process purchase orders and prevent stockouts\r\n\r\nWe're founded by Chris (2x Founder; ex-CEO at Better Nature; Forbes 30U30), Dirk (ex-Google Data & AI Lead), and Matthew (ex-Head of Product at Rosemark; Princeton MEng in CS).\r\n\r\nIn our first month full-time, we’ve raised $2M and secured rapid commercial traction with 15 design partners and a growing pipeline of 30+ brands. Our mission is bold: to give CPG brands hands-free supply chains that run themselves through Corvera, their go-to AI-native operating system.\r\n\r\n Visit www.corvera.ai to learn more and schedule a demo!",
-    "one_liner": "Fully autonomous operations for CPG brands",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1763141207,
-    "tags": [
-      "AIOps",
-      "SaaS",
-      "B2B",
-      "Supply Chain",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/corvera",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/corvera.json"
-  },
-  {
-    "id": 31274,
-    "name": "Pollinate",
-    "slug": "pollinate",
-    "former_names": [
-      "Polinate"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a91425bc13e71d0ca296b97834e36834cea9ce3a.png",
-    "website": "https://www.pollinate.tech/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Supply chains still run on spreadsheets and inboxes because ERPs are rigid and the data is messy. We're solving this problem by building an ontology where agents can operate and provide outcomes for our customers.\r\n\r\nWe start with procurement, by automating three-way match: extracting supplier invoices from email and matching them to the correct PO and receipt across ERPs.\r\n\r\nLearn more at pollinate.tech",
-    "one_liner": "AI Agents for the supply chain.",
+    "long_description": "Saudara AI is an AI broker connecting American brands with vetted overseas factories. International sourcing is broken. We're fixing it.\r\n\r\nUS brands import over $3 trillion in goods every year and lose billions to ghost suppliers, hidden fees, and missed deadlines. The best factories sit behind decades-old relationships. We have them. Our AI handles the rest.\r\n\r\nA real broker on every deal, supercharged by AI. 10x faster, at a fraction of the cost. We are the on-ramp.",
+    "one_liner": "AI Broker Connecting American Brands With The World's Best Factories",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
-    "launched_at": 1769216179,
+    "subindustry": "B2B",
+    "launched_at": 1774887463,
     "tags": [
       "Artificial Intelligence",
-      "Logistics",
+      "B2B",
       "Supply Chain"
     ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
-    "batch": "Winter 2026",
+    "batch": "Spring 2026",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -3586,7 +3534,7 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pollinate",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/pollinate.json"
+    "url": "https://www.ycombinator.com/companies/saudara-ai",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/saudara-ai.json"
   }
 ]

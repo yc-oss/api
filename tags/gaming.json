@@ -208,7 +208,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/573373ab6401e76024bab0260b4ba1cd64b7a1fe.png",
     "website": "http://minomonsters.com",
-    "all_locations": "Montreal, QC, Canada",
+    "all_locations": "CA, USA; Montreal, QC, Canada",
     "long_description": "Top-25 grossing mobile gaming studio. Backed by Andreessen Horowitz and Y Combinator. ",
     "one_liner": "Mobile games company",
     "team_size": 11,
@@ -229,6 +229,7 @@
       "Gaming"
     ],
     "regions": [
+      "United States of America",
       "Canada",
       "America / Canada"
     ],
@@ -496,7 +497,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f867ef5f1e9cc19b841714369785ca83d8d9df2a.png",
     "website": "https://codecombat.com",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "WA, USA; San Francisco, CA, USA; Remote",
     "long_description": "CodeCombat is a multiplayer programming game for learning how to code. With thousands of schools and millions of students, we are bringing K12 computer science education to everyone, regardless of gender, race, or background. Everyone should have the opportunity to learn.\r\n\r\nThe ultimate goal of CodeCombat is to bring more users into the field of computer programming by making the logic and syntax more accessible and enjoyable to learn. The end game is to educate a whole new generation of computer programmers that started their journey by slaying ogres and defending their castles from oncoming enemy hordes.\r\n\r\nWe teach Python, JavaScript, and other languages directly in the browser. Teachers with no computer science background can get started in five minutes. In a world where all programmers have had to be second-language learners, do you want your students to become native speakers of code? Let's chat about bringing CodeCombat to your school!\r\n\r\nFind us on Twitter at https://twitter.com/CodeCombat",
     "one_liner": "Game that teaches computer science to middle and high school kids.",
     "team_size": 45,
@@ -1087,7 +1088,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Here at Spellbrush, we're passionate about making a good anime game.\r\n\r\nWe also happen to be the world's leading generative AI studio — we're the team behind niji・journey.\r\n\r\nWe are currently investigating how AI can be used to help human artists perform masterpieces in the most complex medium of our times: video games.\r\n\r\nOur games are characterized by a no-compromise approach to well-balanced gameplay married to a truthful love of visual arts.",
     "one_liner": "Making Anime Real",
-    "team_size": 35,
+    "team_size": 30,
     "industry": "Consumer",
     "subindustry": "Consumer -> Gaming",
     "launched_at": 1669939734,
@@ -1138,7 +1139,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2018",
     "status": "Active",
@@ -1162,24 +1163,26 @@
   },
   {
     "id": 1826,
-    "name": "Volley",
-    "slug": "volley",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9f0d1fed30e4c74c866f99e37ec1de04b5bbc0bd.png",
-    "website": "https://volleygames.com",
+    "name": "Weekend (fmr. Volley)",
+    "slug": "weekend-fmr-volley",
+    "former_names": [
+      "Volley"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/68c8a6e771fdf5740d62e8d102b798b6c95ac403.png",
+    "website": "https://weekend.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Volley builds the best voice AI games and entertainment experiences for Amazon Alexa, smartphones, and TVs.\r\n\r\nPopular Volley voice games include “Song Quiz”, “Jeopardy!”, and “The Price Is Right”.\r\n\r\nOur voice apps are used by millions of people every month. We believe voice control will become the main way people access entertainment in their bedrooms, kitchens, living rooms, and cars, and our goal is to become the \"Netflix of Voice\" for this emerging category of devices.\r\n\r\nVolley was founded by Max Child and James Wilsterman in 2016. We're a hybrid remote/in-person company, headquartered in San Francisco.",
-    "one_liner": "Voice AI games on smart speakers, TVs, and mobile",
+    "long_description": "Weekend builds the best AI games and entertainment experiences for TVs.\r\n\r\nPopular Weekend games include Song Quiz, Jeopardy!, and Wheel of Fortune, and Wit's End.\r\n\r\nWeekend was founded by Max Child and James Wilsterman and is headquartered in San Francisco.",
+    "one_liner": "AI games and entertainment on TV",
     "team_size": 80,
     "industry": "Consumer",
     "subindustry": "Consumer -> Gaming",
     "launched_at": 1510193033,
     "tags": [
-      "Speech Recognition",
+      "Artificial Intelligence",
       "Entertainment",
       "Gaming",
-      "NLP",
-      "AI"
+      "AI",
+      "Conversational AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1193,17 +1196,15 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/volley",
-    "api": "https://yc-oss.github.io/api/batches/winter-2018/volley.json"
+    "url": "https://www.ycombinator.com/companies/weekend-fmr-volley",
+    "api": "https://yc-oss.github.io/api/batches/winter-2018/weekend-fmr-volley.json"
   },
   {
     "id": 1902,
@@ -1276,7 +1277,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2018",
     "status": "Active",
@@ -1523,7 +1524,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ed6bc85ed1193616cbc04d46c585ebff147de49.png",
     "website": "http://rune.ai",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "NY, USA",
     "long_description": "Rune is the best place to talk and play multiplayer games with your friends. Users hang out on Rune’s mobile app, sharing laughs on our voice chat as they play amazing indie multiplayer games together! And developers build these games right on the Rune platform.\r\n\r\nDevelopers leverage the Rune SDK to build multiplayer games without needing a single line of backend code. They launch their game on Rune and instantly, thousands of passionate friend groups play it together on voice chat right inside the Rune app! Rune's beta has grown rapidly, with over 50 games built for the platform ranging from multiplayer mini-golf to real-time 3D racing games. The SDK supercharges game creation, with many of our games built in under a week! And these games are played like crazy too — friends have spent over 50 million minutes hanging out and playing our new games together already.",
     "one_liner": "Talk & play multiplayer games with your friends!",
     "team_size": 3,
@@ -1764,7 +1765,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2019",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B"
     ],
@@ -2164,7 +2165,7 @@
     "all_locations": "Redwood City, CA, USA",
     "long_description": "DreamWorld is a next-gen Minecraft with generative AI building. A game and platform for 3D user generated content, DreamWorld is a digital world with one of the largest multiplayer capacities ever developed.\r\nOur players grew up on User Generated Content games, but are now 13-40 and have aged out Roblox / Minecraft. DreamWorld provides more powerful building tools, better graphics, and massive social multiplayer.",
     "one_liner": "DreamWorld is a next-gen Minecraft with generative AI building",
-    "team_size": 20,
+    "team_size": 30,
     "industry": "Consumer",
     "subindustry": "Consumer -> Gaming",
     "launched_at": 1614886260,
@@ -2468,72 +2469,29 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2021/gamerpay.json"
   },
   {
-    "id": 25306,
-    "name": "WorldQL",
-    "slug": "worldql",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/77812b9a6c46bc50c4a0b0326c080c241d029714.png",
-    "website": "https://www.worldql.com/",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "",
-    "one_liner": "Multiplayer engine for building games and RL environments",
-    "team_size": 3,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Gaming",
-    "launched_at": 1648654841,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Reinforcement Learning",
-      "Gaming"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Gaming"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/worldql",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/worldql.json"
-  },
-  {
     "id": 25363,
-    "name": "Gym Class - by IRL Studios",
-    "slug": "gym-class-by-irl-studios",
+    "name": "Gym Class",
+    "slug": "gym-class",
     "former_names": [
       "IRL Studios Inc.",
-      "Gym Class (by IRL Studios)."
+      "Gym Class (by IRL Studios).",
+      "Gym Class - by IRL Studios"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/90fc62ba6240bfed64d6f34df4390cc401252d92.png",
     "website": "https://gymclass.com",
-    "all_locations": "Los Angeles, CA, USA; Remote",
-    "long_description": "Gym Class is a top-rated social game for virtual reality. Download to make friends and hangout, compete and play sports, or create and explore in simulated worlds. Join us on our mission is to connect the world by simulating it.",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Gym Class is a social platform where you can play games, make friends, and create and share your own experiences. Join a community of millions across virtual reality and mobile.",
     "one_liner": "Connecting the world by simulating it",
     "team_size": 20,
     "industry": "Consumer",
-    "subindustry": "Consumer -> Virtual and Augmented Reality",
+    "subindustry": "Consumer -> Social",
     "launched_at": 1642203216,
     "tags": [
-      "Artificial Intelligence",
       "Virtual Reality",
       "Consumer",
       "Gaming",
-      "Social"
+      "Social",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2543,7 +2501,7 @@
     "status": "Active",
     "industries": [
       "Consumer",
-      "Virtual and Augmented Reality"
+      "Social"
     ],
     "regions": [
       "United States of America",
@@ -2556,8 +2514,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/gym-class-by-irl-studios",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/gym-class-by-irl-studios.json"
+    "url": "https://www.ycombinator.com/companies/gym-class",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/gym-class.json"
   },
   {
     "id": 25417,
@@ -2614,16 +2572,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Reforged Labs Boa is the AI creative intelligence agent that answers all your questions about what ads are performing, why they work, and what to create next.",
     "one_liner": "Turn intuition into insights, in minutes",
-    "team_size": 18,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Gaming",
+    "team_size": 19,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
     "launched_at": 1644566628,
     "tags": [
-      "Generative AI",
+      "Artificial Intelligence",
       "B2B",
       "Gaming",
-      "Advertising",
-      "AI"
+      "Marketing",
+      "Advertising"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2632,8 +2590,8 @@
     "batch": "Winter 2022",
     "status": "Active",
     "industries": [
-      "Consumer",
-      "Gaming"
+      "B2B",
+      "Marketing"
     ],
     "regions": [
       "United States of America",
@@ -2742,7 +2700,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6ae65ec2d1ccb8f2c368690d2013dc58fcdf2be.png",
     "website": "https://betteropinions.in/",
-    "all_locations": "Gurugram, HR, India; Remote",
+    "all_locations": "Bengaluru; Gurugram, HR, India; Remote",
     "long_description": "Better Opinions is a prediction market of India which allows users to trade their opinion on everyday topics. For example, If you think India Covid cases will decrease by 10% this week, you can trade this insight and win money if correct.\r\n\r\nOur aim is to make the app inclusive for all. The stock market unfortunately can be very technical and opaque and therefore isn’t always accessible for all. However, when we start allowing trading in categories such as cricket, politics and entertainment, not only do we make trading more relatable, but we also help improve their financial literacy.",
     "one_liner": "Prediction market of India",
     "team_size": 12,
@@ -2778,6 +2736,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/better-opinions",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/better-opinions.json"
+  },
+  {
+    "id": 25954,
+    "name": "Status",
+    "slug": "status",
+    "former_names": [
+      "WishRoll"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/66b261d06ec27d85efae10b1912e47d9eb0ee4c6.png",
+    "website": "https://www.statusai.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Status allows users to live in immersive fantasy worlds through the familiar lens of social media. Over 3 million users worldwide. \r\n",
+    "one_liner": "Sims but Social Media",
+    "team_size": 9,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Social",
+    "launched_at": 1648151808,
+    "tags": [
+      "Consumer",
+      "Gaming",
+      "Social",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Social"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/status",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/status.json"
   },
   {
     "id": 26109,
@@ -2836,33 +2840,34 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/138a9ab05de536189c7973eacdc2ce67a9ebddc0.png",
     "website": "https://mymindbase.ai",
-    "all_locations": "Gurugram, HR, India",
-    "long_description": "Mindbase is an AI cloning platform that empowers individuals, especially influencers, founders, and creators, to replicate their entire mind and create a digital twin. This isn't just a chatbot; it's a living, breathing digital version of yourself that can think, talk, and interact 24/7, complete with your actual voice, tone, and personality.\r\n\r\nWhat makes Mindbase truly powerful is its ability to ingest your entire body of work—from podcasts and YouTube videos to blogs and social media content—automatically updating and learning to capture your true style, phrasing, and depth. This digital clone can then be distributed everywhere you need to be, embeddable on your website, courses, SMS, WhatsApp, and even phone calls, ensuring your audience can connect with you anytime, anywhere.\r\n\r\nEach Mindbase clone comes equipped with its own email, phone number, and WhatsApp, marking a significant leap in how humans can communicate, scale their presence, and build a lasting legacy. Beyond just interaction, Mindbase provides a full analytics dashboard, offering deep insights into conversations, trends, FAQs, and user engagement, all while ensuring your data remains private and encrypted. It's a scalable, authentic digital extension of you, designed to grow with your audience and unlock limitless possibilities for engagement and impact.",
-    "one_liner": "AI Clone for scalable, authentic engagement with your entire audience",
+    "all_locations": "Gurugram, HR, India; Remote",
+    "long_description": "Mindbase is an AI avatar platform where we launch AI avatars of real human as well create artificial entities and grow them on Instagram/Youtube like a influencer using AI content strategies. \r\n\r\nWe give each AI influencer its own email, phone number and WhatsApp account so they can build deep relationships like a human creator would. \r\n\r\nAlready, generating over 5m+ daily views with just a network of 10+ AI influencers.\r\n\r\nOur business model is simple: brands pay us between $1,000 to $4,000 per month per AI influencer. One of our brand partners generated $45,000 in sales from a $3,000 spend, achieving a 15X ROAS.\r\n\r\nWe believe this is just the beginning.  We can generate $20,000 annually per AI influencer. With just 5000 AI influencers we can quickly scale to $100 million ARR business. \r\n\r\nTo put that in perspective: there are over 400 million regular human influencers globally. Even if we just target a fraction of the market, it’s a massive thing.\r\n\r\nOur team is the key to making this happen. We're alumni of IIT and repeat founders. Previously, built TradeX, a prediction market platform, scaled that to $40 million in monthly trading volume with 5 million users. That success was driven by our trend tracking system & influencer partnerships, the very same expertise we're now using to build Mindbase.\r\n",
+    "one_liner": "Build AI influencers that autonomously create content, engage fans…",
     "team_size": 7,
     "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
+    "subindustry": "B2B -> Marketing",
     "launched_at": 1642774181,
     "tags": [
-      "Fintech",
       "Consumer",
-      "Gaming"
+      "Gaming",
+      "Social",
+      "Marketing"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
     "industries": [
       "B2B",
-      "Productivity"
+      "Marketing"
     ],
     "regions": [
       "India",
       "South Asia",
       "Remote",
-      "Partly Remote"
+      "Fully Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2975,12 +2980,12 @@
     "name": "Novig",
     "slug": "novig",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37d72609fbfc24b4a158ddb750a5b26591ee74b6.png",
-    "website": "https://www.novig.us",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/70b63d7ab273fdb7b71b48db89fe1042c817e72b.png",
+    "website": "https://www.novig.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "Novig is a sports prediction market that eliminates the need for traditional sportsbooks by creating a two-sided marketplace. \r\n\r\nWe do this by enabling users to trade directly against friends or the market, rather than against the house, making the betting experience more efficient, fair, and, most importantly, profitable. ",
-    "one_liner": "America's #1 Sports Prediction Market",
-    "team_size": 30,
+    "long_description": "Novig is building America's #1 sports prediction market. Founded by Jacob Fortinsky and Kelechi Ukah, we are the only platform to offer commission-free sports trading. We deliver better pricing, full transparency, and a more efficient market structure for users by eliminating the traditional sportsbook model.\r\n\r\nBacked by the best - Novig has raised over $100M from some of Silicon Valley’s top investors including Pantera, Forerunner, Lux, NFX, Paul Graham, and Joe Montana.",
+    "one_liner": "America's #1 Sports Trading App",
+    "team_size": 55,
     "industry": "Consumer",
     "subindustry": "Consumer -> Gaming",
     "launched_at": 1655052377,
@@ -3155,17 +3160,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/704cabf9ad75f0fbbf74aa11aa3372df14b27ea1.png",
     "website": "https://iliad.ai",
     "all_locations": "Pittsburgh, PA, USA",
-    "long_description": "Iliad is an AI tool for creating stylized artwork, textures, illustrations, and 3D assets. Users sketch, upload images, or write prompts, then guide results with visual controls like brushstrokes, masks, and transform sliders. Iliad is built for artists, game developers, and designers.",
-    "one_liner": "Create stylized art, textures, and 3D assets with AI.",
+    "long_description": "Iliad builds procedural material tools for production studios. Its node-based material engine, Aqueduct, includes an AI assistant that helps artists build and edit procedural graphs. Iliad also offers diffusion tools for texture generation, PBR maps, and reference-to-texture conversion.",
+    "one_liner": "AI-accelerated procedural material and texture tools.",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1674524413,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "Gaming",
-      "Design Tools",
-      "AI"
+      "Design Tools"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3196,18 +3201,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/39e64fe4e49894144581ae2ef69befe4cb83f6b8.png",
     "website": "https://gladestudio.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Glade is helping everyone build games with AI. GladeCore powers over 50 studios and developers with local AI NPCs that include TTS, STT, emotional tuning, and RAG. GladeKit is Cursor for Games - an AI agent that lives directly in your game engine and builds games for you. ",
+    "long_description": "Glade is helping everyone build games with AI. GladeCore powers hundreds of studios and developers with locally powered AI NPCs that include TTS, STT, emotional tuning, and RAG. GladeKit is Cursor for Games - an AI agent that lives directly in your game engine and builds games for you. ",
     "one_liner": "Build games at the speed of thought",
-    "team_size": 4,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1687994809,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "Consumer",
       "Entertainment",
-      "Gaming"
+      "Gaming",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3228,7 +3233,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": true,
+    "question_answers": false,
     "url": "https://www.ycombinator.com/companies/glade",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/glade.json"
   },
@@ -3284,48 +3289,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/vango-ai.json"
   },
   {
-    "id": 29205,
-    "name": "ego",
-    "slug": "ego",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c5177c13126141e3271facbae25104898deb0f7.png",
-    "website": "https://egoai.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ego AI is building Character AI + Roblox. Our conviction is that 3D embodiment, shared activities in games and AI imbued with human-like personalities will solve the existing problems of low-stakes, shallow and generic interactions that impact retention in consumer AI chat experiences.  \r\n\r\nWe’re fine-tuning a foundation model for characters to behave in human-like ways—indistinguishable from real people—and building a UGC platform around it to allow users to create, experience and form meaningful connections & mutual stories with these AI characters. On our platform, simworld, users will be able place the characters in a Stardew Valley style simulated town, where the AI characters will live, work and play, leading rich internal lives. Users who deepen bonds with these AI character friends can invite them out with them to Discord, Minecraft or even a Netflix-n-chill session.\r\n\r\nOur Character engine, ego AI, built on top of Unreal, will allow users to create, deploy and even monetize their characters across any surface that supports our CCProtocol. The first use case for our characters will likely be DnD-style roleplay, Minecraft RP, and Twitch streaming. \r\n\r\nCharacters will always live and exist in Simtowns with other AIs (and humans) where they will all lead varied internal lives replete with conflict, danger, opportunity, and love…just like humans in the real world!\r\n\r\nDuring YC, we used our engine to build TownWorld - a 3D interactive Twitch live stream of the Stanford generative agents paper (https://www.twitch.tv/townworld). To the best of our knowledge, it's the first ever AI 3D simulation of a small town in real time\r\n\r\nYC Launch - https://www.ycombinator.com/launches/KeD-ego-an-ai-native-3d-simulation-engine-getting-us-closer-to-the-matrix-one-pixel-at-a-time\r\n\r\nDemo video: https://docsend.com/view/mzf6i7kiwkkgg669\r\n\r\nAI 3D TownWorld video: https://docsend.com/view/ig6t2shuz26z7wha",
-    "one_liner": "Character AI + Roblox :persistent, sapient AI characters in 3D worlds ",
-    "team_size": 9,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1709876265,
-    "tags": [
-      "Artificial Intelligence",
-      "Consumer",
-      "Gaming",
-      "AI",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": true,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ego",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/ego.json"
-  },
-  {
     "id": 29257,
     "name": "Tuesday Lab",
     "slug": "tuesday-lab",
@@ -3369,59 +3332,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tuesday-lab",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/tuesday-lab.json"
-  },
-  {
-    "id": 29372,
-    "name": "Sagaland",
-    "slug": "sagaland",
-    "former_names": [
-      "Sevn.ai",
-      "SevnAI",
-      "Sevn",
-      "sevn",
-      "AdRizz.com",
-      "PySpur.com",
-      "PySpur",
-      "PySpur.dev",
-      "Rehearsal.so",
-      "Ramble.gg"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a0d5a7145a5d944c8cc2d7fa992ec4ec7971ffae.png",
-    "website": "https://sagaland.ai",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "AI Interactive Fiction.\r\n\r\nAvailable here: https://apps.apple.com/us/app/sagaland-story-adventure/id6748543926\r\n\r\n",
-    "one_liner": "Interactive Fiction",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1703955205,
-    "tags": [
-      "Consumer",
-      "Gaming",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sagaland",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/sagaland.json"
   },
   {
     "id": 29464,
@@ -3480,7 +3390,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ddd71ba982d476aedba701cf20c9d17a3c9193de.png",
     "website": "https://ideate.xyz",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "London",
     "long_description": "Generate. Paint. Refine.\r\n\r\nideate.xyz is an AI-powered 3D art suite on the web, taking your ideas from concept to production ready assets in record time.\r\n\r\nOur powerful text to image to 3D pipeline rapidly generates model assets using the latest AI tech.\r\n\r\nRapidly generate and edit 3D model textures in your browser using our texture projection and inpainting editor.\r\n\r\nGet your 3D assets production ready using our texture processing, upscaling and compression algorithms.",
     "one_liner": "ideate.xyz is an AI-powered 3D art suite on the web",
     "team_size": 2,
@@ -3504,8 +3414,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "United Kingdom",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3527,17 +3437,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2bdf22dccaa26c230a94ceee5b1728f0d487b3cd.png",
     "website": "https://creativemode.net",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lovable for Minecraft Mods. Empowering over 250,000 players to become creators.",
+    "long_description": "Lovable for Minecraft Mods. Empowering the 200+ million Minecraft players to become creators.",
     "one_liner": "Lovable for Minecraft mods",
     "team_size": 5,
     "industry": "Consumer",
     "subindustry": "Consumer -> Gaming",
     "launched_at": 1723073466,
     "tags": [
-      "Artificial Intelligence",
       "Consumer",
       "Entertainment",
-      "Gaming"
+      "Gaming",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3563,17 +3473,18 @@
   },
   {
     "id": 29826,
-    "name": "Orca",
-    "slug": "orcaengine",
+    "name": "Orca Launcher",
+    "slug": "orca-launcher",
     "former_names": [
       "Titan",
-      "Simplifine"
+      "Simplifine",
+      "Orca"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3264c421729b2bff6ef1ef17bf775cafd7c098a6.png",
-    "website": "https://orcaengine.ai",
+    "website": "https://orcalauncher.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Orca is an AI-native game engine that allows everyone to create 3D worlds and games only by chatting with an AI Agent, play with friends and fellow gamers.",
-    "one_liner": "AI Game Engine",
+    "long_description": "Orca is a game platform for Minecraft. Players browse games and experiences and join with one click, no mod installation, no setup. We handle hosting and mod delivery for server owners and game creators, who earn revenue from their games. Think Roblox, but built on top of Minecraft's 312M player base.",
+    "one_liner": "A launcher that turns Minecraft into a game platform like Roblox ",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -3603,8 +3514,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/orcaengine",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/orcaengine.json"
+    "url": "https://www.ycombinator.com/companies/orca-launcher",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/orca-launcher.json"
   },
   {
     "id": 30544,
@@ -3704,8 +3615,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6dbbabdd44f01b97e6141151550ff9162ab83b00.png",
     "website": "https://www.theinterface.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "Interface is a frontier research lab focused on high-fidelity human simulation. We build systems that model human appearance, behavior, and interaction for world-model research.",
-    "one_liner": "The frontier lab for human simulation",
+    "long_description": "Interface is a frontier research lab focused on high-fidelity visual simulation. We build neural systems that model appearance, behavior, and interaction for world-model research.",
+    "one_liner": "The world model research lab",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -3760,7 +3671,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -3781,31 +3692,29 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/miniswap.json"
   },
   {
-    "id": 31140,
-    "name": "CodeWisp",
-    "slug": "codewisp",
+    "id": 31550,
+    "name": "Playabl.ai",
+    "slug": "playablai",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fbb4da2e7614c1fd4c6c439a1afa51661f2fb7dc.png",
-    "website": "https://codewisp.net/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/484b887f79a6e0d055be256cbacda5f8badb1317.png",
+    "website": "https://playabl.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "CodeWisp lets anyone build and publish web games using plain-English prompts.\r\n\r\nTraditional game development requires learning complex engines, managing assets and code, and following rigid workflows, making it slow and inaccessible for most people.\r\n\r\nWith CodeWisp, users describe the game they want. CodeWisp generates the game’s code, structure, and assets, and users can refine it with follow-up prompts. This makes it possible to go from idea to a playable web game in minutes, without prior game-development experience.",
-    "one_liner": "Anyone can create real games with AI",
-    "team_size": 3,
+    "long_description": "Playabl.ai is an AI game builder that lets anyone create games and interactive experiences by chatting with AI.",
+    "one_liner": "Prompt-to-play AI game builder for everyone",
+    "team_size": 9,
     "industry": "Consumer",
     "subindustry": "Consumer -> Gaming",
-    "launched_at": 1769035149,
+    "launched_at": 1773783180,
     "tags": [
       "Artificial Intelligence",
-      "Consumer",
-      "Gaming",
-      "Web Development",
-      "AI"
+      "B2B",
+      "Gaming"
     ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
-    "batch": "Winter 2026",
+    "batch": "Spring 2026",
     "status": "Active",
     "industries": [
       "Consumer",
@@ -3822,49 +3731,7 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/codewisp",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/codewisp.json"
-  },
-  {
-    "id": 31175,
-    "name": "Pax Historia",
-    "slug": "pax-historia",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/58aceddc6b7af2ca2c35058e943baf719c91fe1c.png",
-    "website": "https://www.paxhistoria.co",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pax Historia is an alternate-history sandbox game where players choose a country, a moment in time, and rewrite the course of history. What if Rome never fell? What if the Soviet Union survived? What if Genghis Khan ruled for another generation?\r\n\r\nWe go beyond history, too. What if aliens invaded Earth? What if you were a college dropout creating a tech startup? The ability to create, edit, and copy custom maps, actors, historical context, and more means that users can play nearly any scenario they can imagine.\r\n\r\nIn the last four months we've organically built a passionate fanbase of tens of thousands of daily active players and we're excited to expand on this early start. Consider joining us to help build vastly better tools for creators and experiences for players.",
-    "one_liner": "The first AI-powered grand strategy platform",
-    "team_size": 3,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Gaming",
-    "launched_at": 1766621024,
-    "tags": [
-      "Artificial Intelligence",
-      "Marketplace",
-      "Consumer",
-      "Gaming"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Gaming"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pax-historia",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/pax-historia.json"
+    "url": "https://www.ycombinator.com/companies/playablai",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/playablai.json"
   }
 ]

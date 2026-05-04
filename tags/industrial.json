@@ -236,16 +236,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c3db3e4b14d4a36988633e929d3562b45dfa8d41.png",
     "website": "https://www.pokalabs.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Poka Labs is developing an AI platform to automate operations tasks in chemical manufacturing, beginning with production scheduling. Traditionally, these tasks are performed manually using spreadsheets. Our software seamlessly integrates with existing data sources such as data historians, emails, and PDFs to automate analytics, scheduling, changes, and communication within a single platform.\r\n\r\nMalay and Andrew met while pursuing their MBAs at Harvard Business School. Malay previously worked as an engineer in the specialty chemical industry, saving his employers over $100 million across US, China, and German plants. Andrew worked as a software engineer on data infrastructure at Meta and optimization problems at a seed-stage startup. He also completed a Masters degree at Harvard specializing in Machine Learning.",
+    "long_description": "Poka Labs builds an AI platform to help sales reps at chemical manufacturers respond to requests from customers and win more business.  Our agent understands each companies product catalog, customer purchase behaviors, and company specific pricing logic to price, quote, and win the business.\r\n\r\nMalay and Andrew met while pursuing their MBAs at Harvard Business School. Malay previously worked as an engineer in the specialty chemical industry, saving his employers over $100 million across US, China, and German plants. Andrew worked as a software engineer on data infrastructure at Meta and optimization problems at a seed-stage startup. He also completed a Masters degree at Harvard specializing in Machine Learning.",
     "one_liner": "The modern operating system for chemical manufacturing.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1721318249,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Supply Chain",
-      "AI",
       "Industrial"
     ],
     "tags_highlighted": [],
@@ -283,13 +283,13 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Pivot Robotics makes AI software for robotic arms that helps manufacturers automate their most labor intensive tasks. We are starting out with the dangerous task of metal grinding and are currently deploying our software on 10+ robots in a cast-iron foundry. ",
     "one_liner": "AI for Robot Arms in Factories",
-    "team_size": 6,
+    "team_size": 7,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1709584102,
     "tags": [
+      "Artificial Intelligence",
       "Robotics",
-      "AI",
       "Industrial"
     ],
     "tags_highlighted": [],
@@ -363,7 +363,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c1bb6e6d5b88de1027f26cd87fddd83304d2d58e.png",
     "website": "https://aresindustries.com",
-    "all_locations": "El Segundo, CA, USA",
+    "all_locations": "CA, USA",
     "long_description": "",
     "one_liner": "Building low-cost cruise missiles ",
     "team_size": 2,
@@ -397,6 +397,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ares-industries",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/ares-industries.json"
+  },
+  {
+    "id": 29701,
+    "name": "Plume",
+    "slug": "plume",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/848a0a716b3d688b2054184d78580f9988c075be.png",
+    "website": "http://www.plumefinder.com",
+    "all_locations": "Paris, Île-de-France, France",
+    "long_description": "Plume is an AI-powered geospatial platform for site selection in energy infrastructure projects. \r\n\r\nSelecting the right sites requires analysis of +50 geospatial, grid, and regulatory constraints across fragmented data sources. \r\n\r\nPlume changes the process by enabling users to interact with geospatial data using natural language.",
+    "one_liner": "Renewable infrastructure deployment at scale.",
+    "team_size": 4,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Climate",
+    "launched_at": 1724527338,
+    "tags": [
+      "Artificial Intelligence",
+      "Solar Power",
+      "B2B",
+      "Energy",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Climate"
+    ],
+    "regions": [
+      "France",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/plume",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/plume.json"
   },
   {
     "id": 30230,
@@ -536,10 +581,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/36e55270dbc5bebe580db836e83f643f2121440a.png",
     "website": "https://cascade.space",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Cascade Space is building a turn-key communications system for lunar and deep space missions. Our ground station network and integrated software tools work together to maximize uptime and availability, while reducing spacecraft iteration cycles from weeks to hours. \r\n",
     "one_liner": "Deep space communications as a service",
-    "team_size": 3,
+    "team_size": 7,
     "industry": "Industrials",
     "subindustry": "Industrials -> Aviation and Space",
     "launched_at": 1746647881,
@@ -561,7 +606,8 @@
       "Aviation and Space"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -582,10 +628,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c9c4d6c7b4eeb36609b87bd95a70ffca51164330.png",
     "website": "https://www.foundation-industries.com/",
-    "all_locations": "",
-    "long_description": "America once turned scientific breakthroughs into abundant products with unmatched speed, from the moving assembly line to the integrated circuits that launched the space age. In the last 50 years, we offshored that muscle and drifted into a services-only mindset. GDP rose, but everyday prosperity stalled.\r\n\r\nWe don't accept this as final. We're building a future where advanced manufacturing is a national advantage again, creating good jobs, lowering costs, and turning frontier tech into things people can hold. The path forward is hard but clear: accelerate high-tech domestic manufacturing and make “built here” synonymous with speed, quality, and affordability.\r\n\r\nHistory points the way. When Ford industrialized assembly, cars became accessible to millions. When American fabs mastered process control, computing leapt from labs into every pocket. Progress happens when invention meets production at scale.\r\n\r\nWe're forging deep partnerships with hard-tech teams who need reliable, quick-turn precision, so they can prototype faster, launch sooner, and build more here.\r\n\r\nIf you want to help restore American productive power and enjoy the satisfaction of shipping real hardware, reach out: \r\n\r\nfounders@foundation-industries.com",
+    "all_locations": "CA, USA",
+    "long_description": "For the first time in decades, fast, flexible domestic production can be economically superior. We’re rebuilding America’s productive edge through low-volume, high-mix manufacturing, helping hard-tech teams prototype faster, launch sooner, and build more here.\r\n\r\nIf you want to restore American productive power and ship real hardware, reach out.\r\n\r\njakob@foundation-industries.com",
     "one_liner": "We supply hard tech companies with critical components.",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "Industrials",
     "subindustry": "Industrials",
     "launched_at": 1746512449,
@@ -603,7 +649,8 @@
       "Industrials"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -621,8 +668,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6cbae55e86532c01c20d7392309f9280f190548.png",
     "website": "https://www.normalfactory.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Developing infrastructure to make robots useful in the real world",
-    "one_liner": "Deploying and integrating useful robots",
+    "long_description": "Testing and certifying the hardware of the future",
+    "one_liner": "Testing and certifying the hardware of the future",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials",
@@ -656,17 +703,18 @@
   },
   {
     "id": 30741,
-    "name": "F4",
-    "slug": "f4",
+    "name": "F4 Industries",
+    "slug": "f4-industries",
     "former_names": [
       "F4",
-      "F4 Industries"
+      "F4 Industries",
+      "F4"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1af9d562299111b9e8590450d36412897ddd8f8.png",
     "website": "https://f4.dev/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Built by former Tesla & SpaceX engineers, F4 is a platform that helps you catch and fix drawing compliance issues instantly. F4 ensures design engineers never release noncompliant drawings—and suppliers never misinterpret them. We help hardware teams eliminate costly scrap, rework, and miscommunication at the root.\r\n\r\nWith a compliant drawing, F4 generates end-to-end drawing interpretations for standard definitions, inspection plan, and tolerance analysis application.\r\n\r\nF4 automatically interprets all GD&T symbols, datums, and notes based on the correct standards - no more second-guessing or misreading intent. Everyone from design to manufacturing sees the same definition, keeping teams aligned and avoiding costly miscommunication.\r\n\r\nF4 generates a complete inspection plan straight from the drawing, so quality teams know exactly what to measure, how, and where. This eliminates manual setup, reduces delays during first article inspection, and helps catch issues before they reach production.\r\n\r\nF4 gives engineers everything they need from the drawing to set up a reliable tolerance analysis, applicable features, and rule exceptions. By making it easy to bridge engineering drawings to tolerance analysis, teams can catch potential fit or function issues early - before parts are fabricated and assembled.\r\n",
-    "one_liner": "Automating compliance checks for engineering drawings",
+    "long_description": "GD&T takes years to master. Engineers must encode their design intent into a dense syntax that manufacturers must decode, and not everyone gets it right. \r\n\r\nPut ten engineers in front of the same drawing and you may get ten different interpretations. Which means errors often surface later in interface stack-ups, manufacturing, or in the field - when they’re far more expensive to fix.\r\n\r\nThat’s why we built F4 - the platform that analyzes GD&T to determine whether your designs are ready for production.\r\n\r\nDrop in your drawing and 3D file. F4 analyzes every element of your GD&T to assess whether your design is clear, manufacturable, and production ready. To make the drawing easier to understand, engineers can visualize their datums, reference frames, and tolerance zones directly on the 3D model. F4 also calculates tolerance stack-ups instantly - directly from the drawing. What once took hours of manual work now takes seconds.\r\n\r\nWhen issues are found, F4 flags them and guides engineers toward resolving the problem.\r\n\r\nAfter analyzing your drawing, F4 also automatically generates design and inspection reports - stack-up tables, FAI reports - ready to share with your team.\r\n\r\nAnd it does all of this locally on-device with no AI used for analysis. Producing deterministic results engineers can trust.",
+    "one_liner": "The GD&T Analysis Platform for Engineering Drawings",
     "team_size": 5,
     "industry": "Industrials",
     "subindustry": "Industrials",
@@ -694,8 +742,53 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/f4",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/f4.json"
+    "url": "https://www.ycombinator.com/companies/f4-industries",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/f4-industries.json"
+  },
+  {
+    "id": 30763,
+    "name": "Rebulk",
+    "slug": "rebulk",
+    "former_names": [
+      "dScribe AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37f1f3fac3b53d55834007e8aa34e2f8bb7a1198.png",
+    "website": "https://www.rebulk.com",
+    "all_locations": "Olathe, KS, USA",
+    "long_description": "Rebulk accurately measures and monitors bulk inventory like piles of feed, sand, and other assets that do not fit into boxes and barcodes using cameras, LiDAR, and computer vision.\r\n\r\nMost bulk inventory is still managed with rough estimates, manual checks, delayed updates, and too much guesswork. Because it lives in piles, bays, yards, and truck beds instead of boxes with barcodes, it is much harder to track accurately. When teams do not know what is actually on site, it leads to shrink, stockouts, bad planning, and unnecessary fire drills.\r\n\r\nWe’ve lived this problem, and we know how to solve it. Warren saw it firsthand as a Product Manager at Milk Moovement, a $20M Series A AgTech startup, working closely with feed suppliers and farm managers. Cole was engineer #3 at Tropic, scaling it from seed to Series B, and later led engineering at an AI startup.\r\n\r\nWe’ve built an integrated hardware and software platform and is working with one of the largest agricultural company in North America and Charm Industrial. As industries demand real-time visibility into the physical world, RebuIk is positioned to become the operating system for bulk assets from inventory tracking to procurement and logistics.",
+    "one_liner": "Accurately measure and monitor bulk inventory",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1752017595,
+    "tags": [
+      "Computer Vision",
+      "Supply Chain",
+      "Agriculture",
+      "AI",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": true,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rebulk",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/rebulk.json"
   },
   {
     "id": 30849,
@@ -799,7 +892,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Forge Robotics is changing the way that metal parts are fabricated. We are enabling a future where our intelligent robotic system completes all steps needed to take raw metal stock and transform it into fully welded parts. \r\n\r\nBeginning with welding, we are building a robot-mounted vision system and AI feature detection that creates a real-time 3D map and tells the arm exactly where to go at every instant.",
     "one_liner": "A robotics intelligence system for metal fabrication",
-    "team_size": 3,
+    "team_size": 1,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1762659715,
@@ -831,33 +924,35 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/forge-robotics.json"
   },
   {
-    "id": 31233,
-    "name": "Chasi",
-    "slug": "chasi",
+    "id": 30996,
+    "name": "Nerviom",
+    "slug": "nerviom",
     "former_names": [
-      "Chasi AI"
+      "Axial Composites Industries"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/976e66b565b5dad1eea4d546fd3c9cc6720f078b.png",
-    "website": "https://chasi.co/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Chasi helps equipment dealers grow and retain customers with 24/7 VIP treatment across all channels. Chasi’s AI agents act as executive assistants for sales and support reps, automating follow-ups, data collection, status updates, and outreach so teams can spend more time with customers and less on admin.\r\n\r\nOver half of dealer payroll goes to sales and support, but a third of that team’s time is lost to admin. Fleets still run under 60% utilization, most branches lack after-hours coverage, and the aftermarket is largely reactive. Chasi plugs these revenue leaks by keeping units rented or sold, chasing every lead, and driving the right parts and service before machines fail.",
-    "one_liner": "AI Concierge for Equipment sales, service & rentals",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1765343151,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7466bfa4281b844c618118683dbd69f3e3cec258.png",
+    "website": "https://www.nerviom.com",
+    "all_locations": "CA, USA",
+    "long_description": "Infrastructure projects like data centers, factories, and energy facilities require navigating hundreds of permits and regulatory approvals before construction can begin. \r\n\r\nToday this process is handled through consultants, spreadsheets, and thousands of pages of documentation, adding years to project timelines and millions in consulting costs.\r\n\r\nWe are building an AI autopilot to automate infrastructure permitting and regulatory compliance. \r\n\r\nOur goal is to significantly reduce the time and cost required to get infrastructure projects approved and built.",
+    "one_liner": "AI Autopilot for Infrastructure Permitting",
+    "team_size": 1,
+    "industry": "Real Estate and Construction",
+    "subindustry": "Real Estate and Construction",
+    "launched_at": 1757132336,
     "tags": [
-      "SaaS",
+      "Real Estate",
+      "Legal",
+      "AI",
       "Industrial"
     ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
-    "batch": "Winter 2026",
+    "batch": "Fall 2025",
     "status": "Active",
     "industries": [
-      "B2B"
+      "Real Estate and Construction"
     ],
     "regions": [
       "United States of America",
@@ -867,8 +962,178 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/chasi",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/chasi.json"
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/nerviom",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/nerviom.json"
+  },
+  {
+    "id": 31261,
+    "name": "Control Seat",
+    "slug": "control-seat",
+    "former_names": [
+      "C42"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c9fbf6b23216653c383d7f0caea2def1b673a3a5.png",
+    "website": "https://www.controlseat.com",
+    "all_locations": "",
+    "long_description": "",
+    "one_liner": "Control and Monitoring of Industrial Operations",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1777448165,
+    "tags": [
+      "Workflow Automation",
+      "Monitoring",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/control-seat",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/control-seat.json"
+  },
+  {
+    "id": 31367,
+    "name": "Andustry",
+    "slug": "andustry",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2189a7097412cbf54bc66b9495393ddfceb6282a.png",
+    "website": "http://andustry.com/",
+    "all_locations": "",
+    "long_description": "We build AI agents that automate discovery for industrials products, in particular mid-size machinery. Say goodbye to reaching out to 100s of suppliers, not hearing back from them and getting your first quote after several weeks. Suppliers also get to automate responding to customers, entering once what they offer and receiving ready-to-fulfill orders.",
+    "one_liner": "AI to source and sell industrial products",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1773916364,
+    "tags": [
+      "Marketplace",
+      "Sales",
+      "Manufacturing",
+      "Procurement",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/andustry",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/andustry.json"
+  },
+  {
+    "id": 31374,
+    "name": "Tenet Industries",
+    "slug": "tenet-industries",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5849b2060564f1836d25c1fa4a3cd18ef1bf9553.png",
+    "website": "https://www.tenetindustries.com",
+    "all_locations": "Stockholm, Stockholm County, Sweden",
+    "long_description": "Tenet Industries is building low-cost, mass-manufacturable strike drones. \r\n\r\nWe have developed our own HW and SW platform optimized for automated manufacturing, enabling hyperscaling of production across multiple strike categories (FPV, fixed-wing, shahed-type, missiles).\r\n\r\nWe're using design-for-automation and first principles to reimagine how a defense product is developed and manufactured. Thereby lowering the cost and filling the arsenals of the west.\r\n\r\nOur first product is a kamikaze quadcopter.",
+    "one_liner": "Drones as ammunition. ",
+    "team_size": 4,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Defense",
+    "launched_at": 1775173231,
+    "tags": [
+      "Hardware",
+      "Drones",
+      "Manufacturing",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "regions": [
+      "Sweden",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tenet-industries",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/tenet-industries.json"
+  },
+  {
+    "id": 31511,
+    "name": "Arzana",
+    "slug": "arzana",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4785fcf24308f1fcad59fe3eda9fea668524c25f.png",
+    "website": "https://arzana.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Fortune 500 companies and the fastest-growing manufacturing firms use Arzana’s AI platform to automate order entry, quoting, and customer updates. So teams can scale faster, respond sooner, and grow without adding overhead.",
+    "one_liner": "AI automation for the manufacturing office",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1773098013,
+    "tags": [
+      "Manufacturing",
+      "Automation",
+      "Operations",
+      "AI",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/arzana",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/arzana.json"
   }
 ]

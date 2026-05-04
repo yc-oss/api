@@ -1146,7 +1146,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/275e2a78b8a55a63263d69a44e49471cf75b7b7f.png",
     "website": "http://www.nuvocargo.com",
-    "all_locations": "Mexico City, CDMX, Mexico",
+    "all_locations": "NY, USA; Mexico City, CDMX, Mexico",
     "long_description": "Nuvocargo is a digital-first freight forwarder and licensed US customs broker focused on helping shippers seamlessly move cargo over the road between USA and Mexico. Our goal is to make your life easier by combining exceptional service with beautiful software so that moving your products between USA and Mexico is less painful and more intuitive.\r\n\r\nWe are the **one-stop shop** for shippers for everything they need in their USA/Mexico cross-border supply chain; this includes procuring freight in both Mexico & USA, customs clearance, insurance, trade finance, reporting, and more. We act as an extension of your team so you can outsource to Nuvocargo all the complexities & vendor management associated with your cross border supply chain.",
     "one_liner": "Radically simplifying cross-border logistics between USA & Mexico",
     "team_size": 150,
@@ -1170,7 +1170,9 @@
       "Supply Chain and Logistics"
     ],
     "regions": [
+      "United States of America",
       "Mexico",
+      "America / Canada",
       "Latin America",
       "Remote",
       "Partly Remote"
@@ -2571,13 +2573,13 @@
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Supadock builds AI workers for logistics operations. In freight, every call, document, and signature exists to prove diligence — not just save time. Check calls, proof-of-delivery reconciliations, ID verification, and invoice audits all ensure compliance, reduce liability, and protect margins.\r\n\r\nSupadock automates these high-accountability workflows while ensuring accuracy, compliance, and risk reduction. Our AI agents use cameras, voice, email, and document processing to handle tasks like verifying driver IDs, coordinating warehouse entry, assigning shipments to carriers, checking freight status, reconciling pickup and delivery paperwork, and following up on late invoices.\r\n",
     "one_liner": "AI workers for logistics operations",
-    "team_size": 2,
+    "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1673215529,
     "tags": [
+      "Artificial Intelligence",
       "Logistics",
-      "AI",
       "Conversational AI"
     ],
     "tags_highlighted": [],
@@ -2633,7 +2635,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2021",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "Industrials",
       "Automotive"
@@ -3938,7 +3940,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -3959,50 +3961,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/trackstar",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/trackstar.json"
-  },
-  {
-    "id": 27814,
-    "name": "Narrative",
-    "slug": "narrative",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd0c9a9869afd6e8a0abc998980922778315939f.png",
-    "website": "https://www.trynarrative.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Transforms plain-English requirements into fast, reliable, and self-healing tests, built to replace manual testing and reduce regressions, ",
-    "one_liner": "AI-powered QA testing platform",
-    "team_size": 7,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1678820348,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Logistics"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/narrative",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/narrative.json"
   },
   {
     "id": 27823,
@@ -4141,17 +4099,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f9fd269cc7d10c65c452d836b7ba980b58a0c084.png",
     "website": "http://helloconduit.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Dock Scheduling, Yard Management, Driver Sign In, and more. \r\n\r\nWe make software for warehouses and logistics teams to save time and money managing docks, gates, and yards. With dock, gate, and yard management modules, each module can easily be added on or used on its own. This makes Conduit the perfect fit for all types of operations. Best of all, if you have multiple facilities then Conduit can be configured differently at each facility, but provide you with a comprehensive view of your entire network.\r\n\r\nWe are proud to be able to help supply chains of all sizes optimize their labor, increase throughput, and prepare for the work ahead. ",
-    "one_liner": "Air Traffic Control for Warehouses",
-    "team_size": 9,
+    "long_description": "Conduit is the operating system for shipping and receiving. We build software that systemizes the planning and execution of work on the loading dock and in the yard — giving operators real-time visibility, accountability, and automation across every site they run.\r\n\r\nWe're a small team (<20 people) with real traction: 100+ customers, 172% NRR, and zero churn. We're backed by Innovation Endeavors and Y Combinator, and we recently closed a $6M Seed round.\r\n\r\nWe're based in San Francisco and Seattle, and work hybrid. We move fast, give people real ownership early, and build in a way that most companies don't allow — direct customer access, minimal process, and full access to AI tools.",
+    "one_liner": "The operating system for shipping and receiving.",
+    "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1674704550,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Logistics",
-      "Transportation",
       "Enterprise Software"
     ],
     "tags_highlighted": [],
@@ -4192,18 +4150,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4cf3efb3a17f100893c2b9e11f3f945ba7fbdf04.png",
     "website": "https://www.mandel.ai/",
     "all_locations": "",
-    "long_description": "Mandel surfaces supply chain disruptions and supplier updates with email AI. We use AI agents that proactively extract data and email suppliers for order updates, building a real-time self updating supply chain source of truth.",
+    "long_description": "Manufacturing procurement teams spend 70% of their day buried in supplier emails and spreadsheets. Mandel fixes that. We're an AI supply chain coordinator that reads every supplier email, extracts the data that matters - POs, quotes, delivery dates, pricing - and catches disruptions before they cost you. \r\n",
     "one_liner": "AI Supply Chain Coordinator",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1691105932,
     "tags": [
-      "Generative AI",
       "Logistics",
       "Manufacturing",
       "Supply Chain",
-      "Procurement"
+      "Procurement",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4508,15 +4466,15 @@
     "all_locations": "Seattle, WA, USA; Remote",
     "long_description": "Manifold is revolutionizing the spot freight procurement process for Carriers, Brokers, and Shippers. Our inaugural product transforms the booking process for spot shipments, significantly reducing empty miles and increasing revenue.  We do this by aggregating spot shipment opportunities from a variety of shipper and brokerage sources into a single location.\r\n\r\nAndrew and Oliver bring deep domain expertise of freight from their pivotal roles at Convoy, where they were engineering leaders automating processes that were scaled to handle over 10,000 weekly shipments. This background has been instrumental in shaping Manifold's innovative approach.\r\n\r\nIn just two months since launching Manifold has achieved $5,100 in monthly revenue, showcasing the pressing demand for our product. Manifold is poised to transform this $100+ billion industry. Not only will we streamline spot freight procurement operations but we will also redefine the industry's cost structure for the better.",
     "one_liner": "Aggregating Spot Freight Opportunities for Carriers",
-    "team_size": 3,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1706900903,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Logistics",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4591,7 +4549,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a8698407a8cb5928c428073e83afe6e5668d63c.png",
     "website": "https://www.forgehq.com/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "New York, NY, USA",
     "long_description": "Forge helps companies recover tariffs and duties paid on imported goods that are later exported or scrapped by automating a process called duty drawback.\r\n\r\nBillions of dollars of eligible refunds go unclaimed every year. We take full ownership of the process from organizing data to filing claims so businesses can unlock this extra revenue with minimal effort. ",
     "one_liner": "Getting companies refunds on tariffs & duties",
     "team_size": 3,
@@ -4599,14 +4557,14 @@
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1705516248,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Logistics",
-      "Supply Chain"
+      "Supply Chain",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -4633,23 +4591,23 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/199d48c929434ddb64281cd83b9621eb37c3ed62.png",
     "website": "https://www.retailreadyai.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Every time workers in a warehouse box an order, they reference a 100 page manual with instructions like where to put the shipping label. RetailReady replaces the instruction manual with a tablet application.",
     "one_liner": "An AI-powered supply chain compliance engine",
-    "team_size": 10,
+    "team_size": 12,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1705423924,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Compliance",
       "Logistics",
-      "Supply Chain"
+      "Supply Chain",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -4658,7 +4616,8 @@
       "Supply Chain and Logistics"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": true,
@@ -4764,10 +4723,10 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/590821192763a73a9f24cba27c008ad9759614a4.png",
     "website": "https://lighthouz.ai/",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Lighthouz AI's AI agents solve the biggest problems in logistics - AR and AP! \r\n\r\n3PLs, brokers, factors, and carriers lose billions every year to slow invoicing, manual invoice audits, and billing disputes. Manual AP & AR processes create errors, disputes, cash flow bottlenecks, late fees —hurting everyone in the logistics supply chain. \r\n\r\n🚛 The Problem:\r\n- Factors: Auditing and verifying carrier invoices, timely invoicing\r\n- 3PLs & Brokers: Verifying carrier invoices, creating own invoices, and handling disputes and chargebacks. \r\n- Carriers: Timely invoicing, Submitting correct and complete paperwork, Dealing with late payments, incorrect deductions, and manual paperwork.\r\n- Shippers: Struggling with invoice error identification and resolution, delaying payments. \r\n\r\n📉 The Impact: The U.S. freight industry processes over $1.2 trillion in transactions annually, yet 25% of freight invoices contain errors, leading to payment disputes and delays.\r\n\r\n🔹 Our Solution is an AI agent that automates invoice audits, rate verifications, invoicing, and collections in the logistics industry. \r\n\r\nWith Lighthouz AI agents, businesses 10x their AR and AP processes. ",
-    "one_liner": "AI Agents for AP and AR in Logistics",
-    "team_size": 4,
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Lighthouz is a backoffice AI solution for freight brokers, to automate AP, AR, and Collections. \r\n\r\nLeading freight brokers are using Lighthouz AI to automate FTL (full truckload) and LTL (less than truckload) freight bill auditing, automatically filing disputes, and invoicing customers. \r\n\r\nWith Lighthouz, 70%-85% emails do not need to be touched by humans. \r\n\r\nHence, brokers using Lighthouz are invoicing customers 36% faster, getting paid 5 days sooner, and reducing back office costs by 40%.\r\n\r\nLighthouz brings 25+ years of supply chain, logistics, and AI experience to brokers, with a AI Professor from Georgia Tech who taught 1000+ students, and team with PhD and MS in AI, Machine Learning, and Data Science. ",
+    "one_liner": "Freight bill audits, AP, AR automation for freight brokers with…",
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1724264636,
@@ -4789,9 +4748,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -5049,7 +5006,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -5067,6 +5024,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rally-3",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/rally-3.json"
+  },
+  {
+    "id": 30338,
+    "name": "CopyCat",
+    "slug": "copycat",
+    "former_names": [
+      "Platter"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3785aeb576199608d424a1f1a22cefc23e51e52e.png",
+    "website": "https://runcopycat.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "CopyCat builds AI specifically for the insurance industry. We help brokers, carriers, and MGA's move faster and more efficiently for what will soon be the next generation of insurance operations.",
+    "one_liner": "AI agents built for insurance. ",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1734580429,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Logistics",
+      "Healthcare",
+      "Operations"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/copycat",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/copycat.json"
   },
   {
     "id": 30480,
@@ -5160,7 +5162,7 @@
     "website": "https://www.getasap.us",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Fresh-produce supply chains are built around guesswork. Growers plant without clear demand signals, distributors overbuy to protect against shortages, and retailers end up eating the waste. GETASAP fixes this by rebuilding distribution around real demand and fast execution. We deliver wholesale fresh produce with 8-hour same-day delivery, using micro-fulfillment centers positioned close to demand so we can operate with far less safety stock.\r\n\r\nBehind the scenes, we look at live retail sales, purchasing, and waste patterns to decide what to source, where to place inventory, and when to replenish. That lets us buy closer to actual demand, turn inventory faster, and materially reduce spoilage. For retailers, GETASAP replaces procurement teams and fragmented supplier management—we handle sourcing, inventory decisions, and fulfillment end to end as a single, reliable partner. As more volume flows through the network, demand becomes clearer, sourcing gets smarter, and the operation becomes cheaper and more predictable over time.",
-    "one_liner": "8-hour Produce Distribution for Retailers of Any Size",
+    "one_liner": "Distribution at the Speed of Compute",
     "team_size": 17,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
@@ -5173,7 +5175,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -5242,21 +5244,18 @@
     "former_names": [
       "Lucid Spring"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6c96ba5c83b86c4246bc8f55c3a927bdde88653.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0807345a48d245ca353b1ea731baf819bacfeb81.png",
     "website": "https://www.palace.so",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Palace (palace.so) plans, coordinates, and executes daily back-office work for trucking fleets. By automating the manual decisions that consume planning, dispatch, and CSR teams (assigning loads, managing appointments, communicating updates, and resolving exceptions) carriers can increase revenue-per-driver while running leaner teams.\r\n\r\nLeeds and Derek have been building together as close friends for over six years. The team have been early PMs/engineers at exited startups and decacorns and worked on the algorithms behind Amazon’s robotic logistics systems.",
-    "one_liner": "Palace plans, coordinates, and executes daily ops for trucking fleets",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Today, commercial trucking fleets make planning and dispatch decisions on gut feel and legacy tooling. Palace lets planning and dispatch teams unify their driver, operations, and freight data so they can optimize their load plans in less time.\r\n\r\nLeeds and Derek have been building together as close friends for over six years. The team have been early PMs/engineers at exited startups and decacorns and worked on the algorithms that power Amazon’s distribution centers.",
+    "one_liner": "Palace lets commercial truck fleet optimize load plans in less time",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1755096535,
     "tags": [
       "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Logistics",
-      "Supply Chain"
+      "Logistics"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5292,15 +5291,15 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Fleetline is building the first complete-context algorithmic load planner for mid to large-sized trucking fleets. Today’s dispatchers face an overwhelming task: balancing regulations, customer demands, live fleet data, and individual driver needs, all while coordinating across siloed tools and teams. Mistakes run rampant, and each mistake is thousands of dollars. Even the select fleets using algorithms that have fleet-wide context struggle: the outputs are rigid, hard to interpret, and are blind to real-world nuances like driver preferences and schedule exceptions. Fleetline solves this by combining advanced optimization with LLMs that can easily adapt algorithms to each fleet’s needs and capture driver-specific information. The result is smarter planning truly optimized for every fleet and its drivers.",
     "one_liner": "Optimizing fleet planning with data driven algorithms",
-    "team_size": 3,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1754335865,
     "tags": [
+      "Artificial Intelligence",
       "Logistics",
       "Supply Chain",
-      "Data Science",
-      "AI"
+      "Data Science"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5453,68 +5452,24 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/markit.json"
   },
   {
-    "id": 31224,
-    "name": "Servo7",
-    "slug": "servo7",
+    "id": 31030,
+    "name": "Haladir",
+    "slug": "haladir",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f0947dcd80dc342c9f938f52c6f4959bc0b1b157.png",
-    "website": "https://servo7.com",
-    "all_locations": "Amsterdam, NH, Netherlands",
-    "long_description": "You’re wasting millions of dollars on custom industry robots that take months to implement.\r\n\r\nToday, robotic automation means redesigning your entire facility for the robot to work. You need to change the floor plan, adjust conveyor belts, and re-educate your staff. This is inefficient and unnecessary.\r\n\r\nWith Servo7, you don’t have to do any of that. Automating with Servo7 is simple and fast, because our robots:\r\n1) Deploy in existing operations\r\n2) Learn from simple demonstrations\r\n3) Keep improving on the job\r\n\r\nWe have previously worked on autonomous defense systems, LLMs, autonomous driving, and hyperloops. Not just in the lab, but actually deploying them in the field. We’re already working with warehouses to automate their fulfillment.\r\n\r\nIf you work in assembly, manufacturing, or logistics, email founders@servo7.com. We're onboarding our next partners now.",
-    "one_liner": "Industry Robots - Ready to Work",
-    "team_size": null,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1769385653,
-    "tags": [
-      "Robotics",
-      "Logistics",
-      "Manufacturing",
-      "Automation",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "regions": [
-      "Netherlands",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/servo7",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/servo7.json"
-  },
-  {
-    "id": 31274,
-    "name": "Pollinate",
-    "slug": "pollinate",
-    "former_names": [
-      "Polinate"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a91425bc13e71d0ca296b97834e36834cea9ce3a.png",
-    "website": "https://www.pollinate.tech/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Supply chains still run on spreadsheets and inboxes because ERPs are rigid and the data is messy. We're solving this problem by building an ontology where agents can operate and provide outcomes for our customers.\r\n\r\nWe start with procurement, by automating three-way match: extracting supplier invoices from email and matching them to the correct PO and receipt across ERPs.\r\n\r\nLearn more at pollinate.tech",
-    "one_liner": "AI Agents for the supply chain.",
-    "team_size": 2,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b1a47bf16f93d71a3d1f3af6d10a6c736e170b2.png",
+    "website": "https://www.haladir.com/",
+    "all_locations": "CA, USA",
+    "long_description": "Haladir is the operational AI layer for logistics. We unify and structure data across WMS, TMS, OMS, etc., and embed solver-grade optimization, ML models, RL environments for frontier AI labs, and forecasting into the decisions that power supply chains. Today's AI brought intelligence. The next frontier is judgement.\r\n\r\nWe define operational superintelligence as AI that consistently makes maximally-optimal operational decisions in complex environments. The first component is speed: continuous decisions that take operations managers and OR analysts weeks to make, in seconds. The second is reliability: every decision is guaranteed to satisfy operational constraints. The third is scope: optimize across thousands of constraints no human or team could possibly reason about.",
+    "one_liner": "Building Operational Superintelligence.",
+    "team_size": 4,
     "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
-    "launched_at": 1769216179,
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1766374394,
     "tags": [
-      "Artificial Intelligence",
+      "Reinforcement Learning",
       "Logistics",
-      "Supply Chain"
+      "Data Engineering",
+      "Operations"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5524,7 +5479,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Supply Chain and Logistics"
+      "Operations"
     ],
     "regions": [
       "United States of America",
@@ -5535,7 +5490,48 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pollinate",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/pollinate.json"
+    "url": "https://www.ycombinator.com/companies/haladir",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/haladir.json"
+  },
+  {
+    "id": 31369,
+    "name": "InLoop Robotics",
+    "slug": "inloop-robotics",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/32f586c0db7df7371426565793ae565ba0423774.png",
+    "website": "https://inloop-robotics.com/",
+    "all_locations": "",
+    "long_description": "We are building AI-native fulfillment powered by robotics.\r\nWarehouses without human labor that get better, faster, and cheaper with every order.\r\n\r\nMost robotics companies wait until their system is perfect before deploying. We don't. We ship imperfect policies into real warehouses, detect failures in real time, recover automatically when we can, and bring in a remote human operator when we can't.\r\n\r\nEvery failure becomes training data. Every intervention makes the system better. The result is a fulfillment system that continuously learns from production.",
+    "one_liner": "Deploying robots that ask for help!",
+    "team_size": 4,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1774801488,
+    "tags": [
+      "Artificial Intelligence",
+      "Hard Tech",
+      "Robotics",
+      "Logistics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/inloop-robotics",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/inloop-robotics.json"
   }
 ]

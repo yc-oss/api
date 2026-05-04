@@ -507,15 +507,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Nexa is developing the solution for cattle monitoring, leveraging implantable microchips that collect more comprehensive biometrics than anything else on the market. Our accompanying AI-driven animal health engine empowers farmers with early disease detection, reproductive insights, GPS tracking, and more. \r\n\r\nWe're saving farmers time and money while collecting the world's largest cattle health dataset. We believe that cattle farming should be a science, not an art - this will secure the world's food supply and increase economic output that billions of people depend on.",
     "one_liner": "Implantable microchips and AI for cattle monitoring",
-    "team_size": 5,
+    "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials -> Agriculture",
     "launched_at": 1755009056,
     "tags": [
-      "Artificial Intelligence",
       "Livestock Health",
       "Medical Devices",
       "Agriculture",
+      "AI",
       "Biotechnology"
     ],
     "tags_highlighted": [],
@@ -523,7 +523,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2025",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "Industrials",
       "Agriculture"
@@ -590,16 +590,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/144f0914ccf312aeee94512a8dc4a6cf9502f07e.png",
     "website": "https://exonic.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Exonic is building a global network of intelligence to cure disease.\r\n\r\nWe are the first drug discovery company open to everyone.\r\n\r\nToday drug discovery is siloed - secretive, adversarial institutions in glass towers.\r\n\r\nBiological AI is changing the rules. Every day drug discovery becomes more of a computational problem.\r\n\r\nExonic is turning drug discovery into an open, meritocratic tournament.\r\n\r\nWe are advised by world leaders in bio AI, including the former Head of AI at Ginkgo Bioworks, and the first author of Evo (cover of Science). \r\n\r\nAll of the best biological AI models are open source. And on Exonic, you can combine them, prompt them, and share your innovative workflows without writing a single line of code. \r\n\r\nUsing Exonic Studio, we just beat a state-of-the-art benchmark in liver cancer (HepG2) synthetic enhancer design, validated in our wet lab.\r\n\r\nThe platform just went live - you can start right now.\r\n\r\nWe are turning the internet into a drug discovery powerhouse.",
-    "one_liner": "Crowdsourcing drug discovery.",
+    "long_description": "What if you could train a biological foundation model on... the entire internet?\r\n\r\nExonic is pioneering a new generation of biological foundation models, focused on heterogeneous, unstructured, and noisy datasets.\r\n\r\nOur first application is the design of safer gene therapies.\r\n\r\nIn 2025, we used AI to set a new state of the art in liver cancer targeted gene therapy, validated in vitro in our lab in San Francisco.\r\n\r\nSo far in 2026, we have trained a new model with unprecedented zero-shot generalization on genomic regulatory expression in hold-out biosample datasets. More to be shared soon.\r\n",
+    "one_liner": "Unsupervised Biological AI",
     "team_size": 3,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Drug Discovery and Delivery",
     "launched_at": 1762663893,
     "tags": [
       "Artificial Intelligence",
+      "Machine Learning",
       "Synthetic Biology",
-      "Crowdsourcing",
       "Drug discovery",
       "Biotechnology"
     ],
@@ -618,55 +618,12 @@
       "America / Canada"
     ],
     "stage": "Early",
-    "app_video_public": true,
+    "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/exonic",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/exonic.json"
-  },
-  {
-    "id": 31036,
-    "name": "Mantis Biotechnology",
-    "slug": "mantis-biotechnology",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6f0d946db9933a1c8727f6d2f1866d63131273c1.png",
-    "website": "https://mantisbiotech.com/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Mantis provides the foundational infrastructure layer that enables companies to build human-in-computer models. We unify fragmented data sources, simulate human anatomy and physiology, and validate against real-world outcomes.\r\n\r\nFrom motion capture and biometric sensors to medical imaging and training logs, our platform transforms disparate data into validated digital twins ready for production applications.",
-    "one_liner": "The Infrastructure Powering Human-In-Computer Models",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1766166166,
-    "tags": [
-      "Artificial Intelligence",
-      "Sports Tech",
-      "Biotech",
-      "Architecture",
-      "Biotechnology"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mantis-biotechnology",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/mantis-biotechnology.json"
   },
   {
     "id": 31276,
@@ -680,7 +637,7 @@
     "website": "https://www.ritivel.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Ritivel is an AI-native workspace for regulatory and medical writing teams at life sciences companies. Our AI agents draft CTDs, CSRs, INDs, and BLAs in minutes instead of weeks, helping drugs reach patients faster.\r\n\r\nEvery month a drug is delayed from reaching the market costs pharma companies ~$45M in lost revenue and more importantly, delays treatment for thousands of patients who need it. Yet regulatory teams are stuck in a painful, months-long process: synthesizing thousands of pages of clinical data, hunting through SharePoint folders for the right documents, chasing colleagues for missing inputs, and manually drafting submissions.\r\n\r\nRitivel deploys AI agents that transform how regulatory teams work. Our agents generate comprehensive first drafts directly in Microsoft Word, following FDA formatting requirements and pulling from your existing clinical data and prior submissions. Every data point includes citations linked back to the original source, so reviewers can verify with one click. Connected to SharePoint and Veeva, our agents automatically source the right documents. Integrated with Outlook, they handle reminder emails and follow-ups automatically.\r\n\r\nWe're engineers who previously built AI copilots at Microsoft Research. After 50+ conversations with pharma professionals, we discovered the critical bottleneck in regulatory submissions and built Ritivel to solve it. ",
-    "one_liner": "AI-native platform for regulatory document submission",
+    "one_liner": "AI-native platform for Life-Sciences Documentation ",
     "team_size": 3,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",

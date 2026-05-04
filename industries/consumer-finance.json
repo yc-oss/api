@@ -126,7 +126,7 @@
     "former_names": [],
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "http://marketbrief.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "NY, USA; San Francisco, CA, USA",
     "long_description": "MarketBrief analyzes 30,000+ trusted documents per day looking for relevant business headlines and breaking news all within fractions of a second.",
     "one_liner": "Generate stories from SEC filings.",
     "team_size": 2,
@@ -816,7 +816,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/99e371e9419459527ac037bfb6531a54c832d71b.png",
     "website": "https://www.honeydue.com/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "NY, USA; San Francisco, CA, USA",
     "long_description": "Honeydue is the best personal finance app for couples. Track your bills, bank balances, and spending together, and engage in meaningful dialogue about your goals and habits.",
     "one_liner": "The simplest way for couples to manage money, together",
     "team_size": 2,
@@ -1123,7 +1123,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d5de4c1412998050fa2085e9dbcb8dee8ebd735.png",
     "website": "https://upsolve.org/learn/should-i-file-for-chapter-7-bankruptcy/",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "MA, USA; New York, NY, USA",
     "long_description": "Upsolve is a tech-driven nonprofit that helps low-income Americans overcome debt and rebuild credit at scale. Upsolve was founded in Harvard Law School’s Access to Justice Lab in 2016. Since then, Upsolve has become the nation’s most visited nonprofit financial education site. Upsolve.org educates approximately 2.9 million people a year with 2,000 articles on an array of debt and credit topics. To date, Upsolve’s free DIY bankruptcy filing tool has been used by over 14,000 families to relieve over $600,000,000 in debt. Upsolve users are disproportionately Black and Brown with an average household income of $25,000. Upsolve is now launching a suite of AI tools to help low-income Americans resolve their financial distress earlier. ",
     "one_liner": "Helping low-income Americans overcome debt and rebuild credit at…",
     "team_size": 12,
@@ -2129,7 +2129,7 @@
     "all_locations": "Dubai, United Arab Emirates",
     "long_description": "Ziina is bringing the next generation of financial services to the Middle East.",
     "one_liner": "A digital wallet for the Middle East & North Africa",
-    "team_size": 25,
+    "team_size": 57,
     "industry": "Fintech",
     "subindustry": "Fintech -> Consumer Finance",
     "launched_at": 1615710655,
@@ -2174,7 +2174,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2d21128e3a2a6d5f1c0f5db5fede438273586e9e.png",
     "website": "https://bloomapp.com",
-    "all_locations": "New York, NY, USA; San Francisco, CA, USA",
+    "all_locations": "CA, USA; San Francisco, CA, USA",
     "long_description": "Bloom's mission is to improve the financial outcomes of all Americans by giving them the knowledge and tools they need to achieve prosperity. \r\n\r\nOur first product is an investing app that teaches users how to build wealth through interactive financial lessons, a gamified rewards economy as well as an investing account designed for building long-term wealth.\r\n\r\nSince launching in April 2022, over 1 million users have joined Bloom and we have crossed $3MM in annual recurring revenue.",
     "one_liner": "Investing app that teaches you how to invest",
     "team_size": 8,
@@ -2301,53 +2301,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/flowbo-inc",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/flowbo-inc.json"
-  },
-  {
-    "id": 24135,
-    "name": "Sleek",
-    "slug": "sleek",
-    "former_names": [
-      "Avery",
-      "HeyAvery",
-      "TBA"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d66df5c1e4eac0579c54f345375ef14714c7b02b.png",
-    "website": "https://www.onsleek.com/",
-    "all_locations": "Toronto, ON, Canada",
-    "long_description": "Sleek provides B2C businesses with a custom browser extension that works on both mobile and desktop. With the extension, you can:\r\n- Auto-complete checkout for users with an Apple-pay-like experience tied specifically to your brand.\r\n- Offer Honey-like couponing to help your users save money.\r\n- Grant users extra cashback at 1000's of online stores, funded by Sleek.\r\n\r\nYour users spend time and money in the browser. With Sleek, you can be there for them.",
-    "one_liner": "1-click checkout from every store on the internet + cashback rewards.",
-    "team_size": 5,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Consumer Finance",
-    "launched_at": 1629234147,
-    "tags": [
-      "Fintech",
-      "Machine Learning",
-      "E-commerce"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2021",
-    "status": "Acquired",
-    "industries": [
-      "Fintech",
-      "Consumer Finance"
-    ],
-    "regions": [
-      "Canada",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sleek",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/sleek.json"
   },
   {
     "id": 24143,
@@ -2563,11 +2516,12 @@
   },
   {
     "id": 24461,
-    "name": "Mine (formerly Fizz)",
+    "name": "Mine",
     "slug": "mine",
     "former_names": [
       "ShoulderTap",
-      "Fizz"
+      "Fizz",
+      "Mine (formerly Fizz)"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d7a0d14910b74597e1e70723a08a579e8dafe145.png",
     "website": "https://usemine.com/",
@@ -2579,10 +2533,10 @@
     "subindustry": "Fintech -> Consumer Finance",
     "launched_at": 1628179251,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "Consumer",
-      "Consumer Finance",
-      "AI"
+      "Consumer Finance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2708,9 +2662,9 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/47cb34b7397c027f788b4eed1a3ea9abfcb1c1df.png",
     "website": "https://gauss.money",
-    "all_locations": "New York, NY, USA; Remote",
-    "long_description": "Gauss allows people with good credit scores to significantly lower interest rates on their credit cards while they keep using them. \r\n\r\nUsers connect their credit cards to the mobile app and get a revolving credit line in under 10 minutes. Gauss tracks and automatically pays off any expensive balance on connected cards, saving users thousands of dollars on interest charges and helping them pay off card balances faster and improve credit scores.",
-    "one_liner": "Lower interest rates on existing credit cards",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Gauss is building an AI credit agent that automatically lowers the cost of consumers’ debt.\r\n\r\nThe product connects to a user’s credit profile, continuously monitors balances and available offers, and executes refinances or restructurings when it can materially improve terms.\r\n\r\nFor credit card debt, Gauss can track and automatically pay off any expensive balance on connected cards from an instantly originated line of credit, saving users thousands of dollars on interest charges and helping them pay off faster.",
+    "one_liner": "AI agent that helps consumers lower the cost of debt automatically",
     "team_size": 16,
     "industry": "Fintech",
     "subindustry": "Fintech -> Consumer Finance",
@@ -2733,7 +2687,7 @@
       "United States of America",
       "America / Canada",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3222,6 +3176,54 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/polar.json"
   },
   {
+    "id": 29810,
+    "name": "bluedoor",
+    "slug": "bluedoor",
+    "former_names": [
+      "OpenIndex",
+      "Actionbase",
+      "actionbase",
+      "Actionbase",
+      "Pumpkin",
+      "Leviathan"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2153ec2908ddcc519fbb6285abb74d57437686c4.png",
+    "website": "https://bluedoor.sh/",
+    "all_locations": "Seattle, WA, USA",
+    "long_description": "bluedoor is a CLI tool for stock research.",
+    "one_liner": "Professional-grade stock research in your terminal.",
+    "team_size": 1,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Consumer Finance",
+    "launched_at": 1723408013,
+    "tags": [
+      "Artificial Intelligence",
+      "Finance",
+      "Consumer Finance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Consumer Finance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bluedoor",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/bluedoor.json"
+  },
+  {
     "id": 30106,
     "name": "Sunset",
     "slug": "sunset",
@@ -3311,8 +3313,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0325dd0445e6e32c47cab4c3ffeb0610307557e0.png",
     "website": "https://www.karoo.ca",
     "all_locations": "Toronto, ON, Canada",
-    "long_description": "Canadians have not benefitted from fintech innovations in the last 10 years. They are stuck with a banking oligopoly and limited access to tech-first financial offerings (a lot of products still require you going to a branch in person!). We're fixing this.",
-    "one_liner": "Canadian neobank focused on lending",
+    "long_description": "US consumers within the risk appetite of prime lenders are served by the most competitive and efficient consumer lending marketplace globally. However, once you fall outside of this as a borrower, market efficiency breaks down and incumbents take advantage of low levels of competition to price gouge. We're fixing this.",
+    "one_liner": "AI native consumer lending platform for underserved Americans",
     "team_size": 3,
     "industry": "Fintech",
     "subindustry": "Fintech -> Consumer Finance",
@@ -3395,7 +3397,7 @@
       "Gaus"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/84b5fdcf24f0c61830898968d03a605cac559df3.png",
-    "website": "https://www.joinastor.com/",
+    "website": "https://astor.app/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Astor is an AI investment advisor for retail investors.\r\n\r\nFounded by Bruno Koba (Nubank, monashees) and Daniel Tulha (Stripe, Robinhood), Astor gives every active investor an AI investment advisor working around the clock to surface their next great investment. We’re backed by YC (S25).\r\n\r\nRetail investors now account for 25% of all U.S. trading volume, nearly double from 2012. But over 56% still say they don’t feel confident in their investment decisions. Astor fixes that. \r\n\r\nOur AI agents uncover opportunities, decode emerging trends, and deliver analysis tailored to you. Instead of drowning in noise, investors gain a clear edge, shifting from guesswork to confident decision-making.\r\n",
     "one_liner": "AI advisor for retail investors",
@@ -3441,7 +3443,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Selfin is developing AI-powered banking. Users can enjoy personalised recommendations and optimisations of their finances by connecting all their financial products on a single platform. ",
     "one_liner": "Building the first AI Bank",
-    "team_size": 3,
+    "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Consumer Finance",
     "launched_at": 1759770880,
@@ -3482,18 +3484,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7785e7f2104cbe8c0fd7a9462d42a9b03d5aeb86.png",
     "website": "https://www.freeportmarkets.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Freeport allows you to turn tweets into meaningful alpha. Get news as soon as it brakes with the associated trade. Scroll, Trade, and use Perps all in one app!",
-    "one_liner": "Turn tweets into trades",
-    "team_size": 2,
+    "long_description": "Freeport turns the sources you already trust (starting with Twitter) into a tradable feed. Our AI analysts track breaking news across social and financial media, distill what matters, and translate it into actionable trade ideas so you’re never late when markets move. ",
+    "one_liner": "Tradable Twitter Feed ",
+    "team_size": 3,
     "industry": "Fintech",
     "subindustry": "Fintech -> Consumer Finance",
     "launched_at": 1758671175,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "Crypto / Web3",
       "Investing",
-      "Consumer Finance",
-      "AI"
+      "Consumer Finance"
     ],
     "tags_highlighted": [
       "Crypto / Web3"
@@ -3520,22 +3522,20 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/freeport-markets.json"
   },
   {
-    "id": 31273,
-    "name": "SpotPay",
-    "slug": "spotpay",
+    "id": 31194,
+    "name": "Valence",
+    "slug": "valence",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/86338b0909975d76f85bd358ddf08742a3e504aa.png",
-    "website": "https://www.spotpay.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "SpotPay is a global borderless neobank. We give users one account that works for everything payments related: receiving money from abroad, paying locally, spending anywhere with the SpotPay card and saving and earning on their balance.",
-    "one_liner": "Cross-border Personal Finance on Stablecoins",
-    "team_size": 2,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/355e8c5b3746af19fb0b6ef6149b2028474fbf0a.png",
+    "website": "https://valence.trade",
+    "all_locations": "",
+    "long_description": "Valence is a unified trading platform for prediction markets. We provide infrastructure to aggregate and execute contracts across Kalshi, Polymarket, and other platforms, surface arbitrage and mispricing opportunities in real time, and give systematic traders the API and backtesting tools they need to build and execute data-driven strategies on anything.",
+    "one_liner": "Unified prediction markets trading platform",
+    "team_size": 3,
     "industry": "Fintech",
     "subindustry": "Fintech -> Consumer Finance",
-    "launched_at": 1767931304,
-    "tags": [
-      "Fintech"
-    ],
+    "launched_at": 1772497537,
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -3547,8 +3547,43 @@
       "Consumer Finance"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/valence",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/valence.json"
+  },
+  {
+    "id": 31273,
+    "name": "SpotPay",
+    "slug": "spotpay",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/86338b0909975d76f85bd358ddf08742a3e504aa.png",
+    "website": "https://www.spotpay.ai/",
+    "all_locations": "",
+    "long_description": "SpotPay is a global borderless neobank. We give users one account that works for everything payments related: receiving money from abroad, paying locally, spending anywhere with the SpotPay card and saving and earning on their balance.",
+    "one_liner": "Stablecoin Global Bank Account",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Consumer Finance",
+    "launched_at": 1767931304,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Consumer Finance"
+    ],
+    "regions": [
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3557,5 +3592,94 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/spotpay",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/spotpay.json"
+  },
+  {
+    "id": 31344,
+    "name": "Totalis",
+    "slug": "totalis",
+    "former_names": [
+      "UCALLEDIT®"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/511d877345852eb10f307bb1381829f64760f295.png",
+    "website": "https://www.totalis.trade",
+    "all_locations": "",
+    "long_description": "",
+    "one_liner": "derivative layer for prediction markets",
+    "team_size": 0,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Consumer Finance",
+    "launched_at": 1774744766,
+    "tags": [
+      "DeFi",
+      "APIs"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Consumer Finance"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/totalis",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/totalis.json"
+  },
+  {
+    "id": 31529,
+    "name": "Mochatrade",
+    "slug": "mochatrade",
+    "former_names": [
+      "Marvin",
+      "Leverberry"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9273dfa63dba476a7e62fa37812fc69bfed428ac.png",
+    "website": "https://www.mochatrade.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Mochatrade lets global traders trade perpetual futures on US stocks with up to 20x leverage. Access 50+ US stocks including TSLA, NVDA, AAPL. Mocha is fully self-custodial and no US brokerage account is needed. Traders on-ramp in local currencies and get professional-grade execution on the world's most liquid equities. Starting with India (140M+ demat account holders), and expanding across other markets.",
+    "one_liner": "US stock perps for global traders",
+    "team_size": 3,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Consumer Finance",
+    "launched_at": 1775162589,
+    "tags": [
+      "Fintech",
+      "Crypto / Web3",
+      "Consumer Finance"
+    ],
+    "tags_highlighted": [
+      "Crypto / Web3"
+    ],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Consumer Finance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mochatrade",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/mochatrade.json"
   }
 ]

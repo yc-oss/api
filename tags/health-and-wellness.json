@@ -286,7 +286,7 @@
     "former_names": [],
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "https://www.physioh.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "PhysioHealth is an enterprise health and wellness management platform that rewards your employees for living healthy and decreases your healthcare costs.\n\nTheir customized platform delivers 5x engagement vs. other corporate wellness programs.",
     "one_liner": "An enterprise health benefits platform that rewards employees for…",
     "team_size": 2,
@@ -309,7 +309,8 @@
       "Healthcare Services"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -364,24 +365,25 @@
   },
   {
     "id": 2025,
-    "name": "LemonBox Health",
-    "slug": "lemonbox-health",
+    "name": "LemonBox",
+    "slug": "lemonbox",
     "former_names": [
-      "LemonBox"
+      "LemonBox",
+      "LemonBox Health"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a8e0f926603810ff5a714566d5b989b02b6c7398.png",
     "website": "http://www.lemonbox.com/",
-    "all_locations": "Hong Kong, Hong Kong",
-    "long_description": "LemonBox provides personalized daily vitamin packs for Chinese consumers, along with dietary advice from U.S. registered dietitians. All the products are made in the U.S. and shipped to customers within 7-10 days, based on a monthly subscription model.",
-    "one_liner": "From vitamins to meals, AI that optimizes your daily nutrition.",
-    "team_size": 50,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Home and Personal",
+    "all_locations": "CA, USA",
+    "long_description": "LemonBox is an AI-driven personalized nutrition company. Using generative AI nutrition（AI 生成式定制营养）, LemonBox analyzes each user's dietary habits, health goals, and biometric data to generate a custom daily supplement formula — then produces and delivers it as a personalized day pack via monthly subscription. Founded in Silicon Valley in 2016 and backed by Y Combinator, Bessemer Venture Partners, and Partech Ventures, LemonBox has served over 10 million users globally.",
+    "one_liner": "AI-generated personalized nutrition solutions, built for you daily.",
+    "team_size": 20,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Consumer Health and Wellness",
     "launched_at": 1527526952,
     "tags": [
+      "Generative AI",
       "Health Tech",
       "Health & Wellness",
-      "Consumer Products",
       "AI",
       "China"
     ],
@@ -392,20 +394,20 @@
     "batch": "Summer 2018",
     "status": "Active",
     "industries": [
-      "Consumer",
-      "Home and Personal"
+      "Healthcare",
+      "Consumer Health and Wellness"
     ],
     "regions": [
-      "Hong Kong",
-      "East Asia"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lemonbox-health",
-    "api": "https://yc-oss.github.io/api/batches/summer-2018/lemonbox-health.json"
+    "url": "https://www.ycombinator.com/companies/lemonbox",
+    "api": "https://yc-oss.github.io/api/batches/summer-2018/lemonbox.json"
   },
   {
     "id": 11968,
@@ -449,53 +451,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/nebullam-dba-clayton-farms",
     "api": "https://yc-oss.github.io/api/batches/winter-2019/nebullam-dba-clayton-farms.json"
-  },
-  {
-    "id": 12553,
-    "name": "BODYSIM by Well Principled",
-    "slug": "bodysim-by-well-principled",
-    "former_names": [
-      "Well Principled"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7deb4b1138bf28d77c17917f911b89d59935e15c.png",
-    "website": "https://bodysim.com",
-    "all_locations": "St. Louis, MO, USA",
-    "long_description": "Gain muscle and shed fat with a digital twin of your body. BODYSIM is an app-based simulation of your body and its potential that recommends nutrition and exercise to meet your goals. Use BODYSIM to (1) Assemble your data from food logging, BIA weigh-ins, DEXA scans, at-home blood tests, and wearables, (2) Learn to “triangulate the truth” of your unique metabolism and physiology, and (3) Adjust your nutrition and exercise plans by simulating what will happen to your body. One founder put on 45 lbs muscle, and another put on 25 lbs of muscle while losing 50 lbs of fat. Our alpha testers lost an average of 12.6 pounds in 3 months.\r\n\r\nOur core technology distills messy academic literature into simulations. Before turning to our own fitness journeys, we successfully deployed sophisticated enterprise models of plant-soil-atmosphere, consumer behavior and battery electrochemistry. With BODYSIM we built a science-based simulation of macronutrient balance and muscle hypertrophy. It includes cell turnover, oxidation for energy, lipolysis of fat stores, synthesis of new muscle, glycogen resynthesis, GI latency, and even ketones. Get jacked at BODYSIM.com\r\n",
-    "one_liner": "Gain Muscle and Shed Fat with a Digital Twin of Your Body",
-    "team_size": 10,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Consumer Health and Wellness",
-    "launched_at": 1556081533,
-    "tags": [
-      "Artificial Intelligence",
-      "Sports Tech",
-      "Consumer",
-      "Fitness",
-      "Health & Wellness"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2019",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Consumer Health and Wellness"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": true,
-    "app_answers": true,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/bodysim-by-well-principled",
-    "api": "https://yc-oss.github.io/api/batches/summer-2019/bodysim-by-well-principled.json"
   },
   {
     "id": 12554,
@@ -661,7 +616,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2020",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "Healthcare",
       "Consumer Health and Wellness"
@@ -823,7 +778,7 @@
     "website": "https://www.siphoxhealth.com",
     "all_locations": "Burlington, MA, USA",
     "long_description": "We are developing a new paradigm for consumer health tech wearables by replacing a 100lb optical instrument with an area of silicon smaller than a postage stamp.",
-    "one_liner": "Wearable and At-Home protein monitoring with silicon photonic chips",
+    "one_liner": "Wearable and At-Home health monitoring with silicon photonic chips",
     "team_size": 63,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Consumer Health and Wellness",
@@ -868,15 +823,16 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e40298f2e647873021bf8e485aafd12df64afa02.png",
     "website": "https://nirvahealth.com",
-    "all_locations": "London, England, United Kingdom; Chennai, TN, India",
-    "long_description": "\r\nNirva is an evidence-based, traditional and complementary medicine (T&CM) brand offering treatment programs for chronic conditions in the US and the UK.\r\nOur approach combines natural, holistic, side-effect-free methods, including personalized diets, one-on-one yoga, health coaching, and supplements designed by experts trained in traditional and modern medicine.",
-    "one_liner": "Evidence-based Traditional and Complementary Medicine brand",
-    "team_size": 10,
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Nirva is the lifestyle medicine layer for clinicians. For the first time, any doctor can offer daily care between appointments and earn recurring revenue. 87% of patients improve in weeks, and our system is discovering things like which foods trigger hot flashes, insights that no existing research has found.",
+    "one_liner": "The lifestyle medicine layer for clinicians.",
+    "team_size": 5,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare Services",
     "launched_at": 1615890768,
     "tags": [
-      "Consumer Health Services",
+      "Digital Health",
+      "Healthcare",
       "Health & Wellness"
     ],
     "tags_highlighted": [],
@@ -890,10 +846,8 @@
       "Healthcare Services"
     ],
     "regions": [
-      "United Kingdom",
-      "India",
-      "Europe",
-      "South Asia",
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -1536,50 +1490,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/lifestylerx.json"
   },
   {
-    "id": 29086,
-    "name": "Eden Care",
-    "slug": "eden-care",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7fa49eb2930eeded02c619636a22909358301f3b.png",
-    "website": "https://www.edencaremedical.com/",
-    "all_locations": "Nairobi, Nairobi County, Kenya; Kigali, Kigali City, Rwanda",
-    "long_description": "Eden Care is building a digital health insurer for employers in Africa. \r\n\r\n\r\n\r\nToday, health insurance operation costs in Africa are 2.2x the global average. Eden Care is cutting this by 43% making health insurance cheaper. \r\n\r\n\r\n\r\nThe $11Bn African health insurance market is projected to grow to $72Bn in just  12 years. We are targeting 90 million uninsured African employees.",
-    "one_liner": "Digital health insurance for employers in Africa",
-    "team_size": 28,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Insurance",
-    "launched_at": 1687277447,
-    "tags": [
-      "Health Insurance",
-      "Insurance",
-      "Health & Wellness"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Insurance"
-    ],
-    "regions": [
-      "Kenya",
-      "Rwanda",
-      "Africa",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": true,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/eden-care",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/eden-care.json"
-  },
-  {
     "id": 29107,
     "name": "Saatvy",
     "slug": "saatvy",
@@ -1677,8 +1587,8 @@
       "Ultra"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0586276952946e7eb368770c1670669a2ac319d6.png",
-    "website": "https://deep24.ai",
-    "all_locations": "",
+    "website": "https://deep24.com",
+    "all_locations": "CA, USA",
     "long_description": "Deep24 is a coach that syncs with all your data source, understanding you and then coming up with plans to improve your life. ",
     "one_liner": "AI coach for your entire life",
     "team_size": 2,
@@ -1701,6 +1611,8 @@
       "Education"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -1728,17 +1640,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a533cff802e0f9057f1431e6f53533be5b04b80.png",
     "website": "https://adapted.app",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Adapted helps athletes become bulletproof through personalized prehab.",
-    "one_liner": "Helping athletes stay durable",
+    "long_description": "Adapted is an AI physical therapist for athletes. Tell it your injury history, your sport, and your goals - it builds a personalized program to rehab and prevent injuries, bulletproof your body, and improve mobility and flexibility. No generic exercises. Just training and prehab that actually adapts to you.\r\n\r\nAvailable now on the iOS App Store.",
+    "one_liner": "AI physical therapy for athletes",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1702424671,
     "tags": [
+      "Artificial Intelligence",
       "Fitness",
       "Digital Health",
-      "Health & Wellness",
-      "AI"
+      "Health & Wellness"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1771,7 +1683,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41da0485e955f2070020b3fb65cf8716d346525e.png",
     "website": "https://www.vocalityhealth.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Our app allows doctors to speak any language, eliminating the need for human medical translators in hospitals and clinics. Despite spending billions on in-person and remote translators—mostly through outdated call centers—hospitals still fail to provide adequate care for non-English-speaking patients.\r\n\r\nWe're building the most accurate and compliant medical language translation system across voice and video modalities. ",
     "one_liner": "Voice AI for medical language translation",
     "team_size": 2,
@@ -1794,7 +1706,8 @@
       "Healthcare Services"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1803,6 +1716,54 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/vocality-health",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/vocality-health.json"
+  },
+  {
+    "id": 30482,
+    "name": "Lucis",
+    "slug": "lucis",
+    "former_names": [
+      "Zero Health",
+      "Lucis",
+      "Lucis (ex-Zero Health)"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7c86075dc463745a297d1580339e2396abc55ba.png",
+    "website": "https://www.lucis.life",
+    "all_locations": "Paris, Île-de-France, France",
+    "long_description": "Think Function Health for Europe. We combine medical expertise and AI to transform regular blood testing into actionable insights to help people live healthier, longer.\r\n",
+    "one_liner": "Function Health for Europe ",
+    "team_size": 17,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Consumer Health and Wellness",
+    "launched_at": 1745363793,
+    "tags": [
+      "Telehealth",
+      "Digital Health",
+      "Health & Wellness",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Consumer Health and Wellness"
+    ],
+    "regions": [
+      "France",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lucis",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/lucis.json"
   },
   {
     "id": 30657,
@@ -1897,34 +1858,76 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/play-health.json"
   },
   {
-    "id": 31239,
-    "name": "Fort",
-    "slug": "fort",
+    "id": 31076,
+    "name": "Imperfect",
+    "slug": "imperfect",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ceb9d2604899970735943a3433bb4f01caee05e.png",
-    "website": "https://fort.cx",
-    "all_locations": "",
-    "long_description": "Fort is a wearable that tracks strength training for people who care about longevity.\r\n\r\nOther wearables make you manually log every rep, set, and exercise, then provide unhelpful feedback or underestimate strength-related fatigue. We use heart rate and motion data to track your strength workouts for you, then provide thoughtful, actionable feedback that helps you achieve your goals.",
-    "one_liner": "Wearable that tracks strength",
-    "team_size": 3,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/002fb81dd9c99e80efddd89e683644b3b238f04e.png",
+    "website": "https://imperfect.co",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Imperfect connects your wearables, training platforms, and health apps into one AI coach focused on getting you race day ready. Where other tools give you a fixed plan like MapQuest, Imperfect is Waze, adapting your training, recovery, and nutrition to how your body is actually responding.",
+    "one_liner": "AI coach that connects your wearables to get you race day ready",
+    "team_size": 5,
     "industry": "Consumer",
-    "subindustry": "Consumer -> Consumer Electronics",
-    "launched_at": 1769992231,
+    "subindustry": "Consumer",
+    "launched_at": 1776207717,
     "tags": [
-      "Consumer Health Services",
-      "Consumer",
-      "Digital Health",
-      "Health & Wellness"
+      "Fitness",
+      "Health & Wellness",
+      "AI",
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
-    "batch": "Winter 2026",
+    "batch": "Spring 2026",
     "status": "Active",
     "industries": [
-      "Consumer",
-      "Consumer Electronics"
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/imperfect",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/imperfect.json"
+  },
+  {
+    "id": 31383,
+    "name": "Juno",
+    "slug": "juno-chat",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e0c6bb59547978fc3036953e8d43c990c8c000fc.png",
+    "website": "https://juno-chat.com/",
+    "all_locations": "",
+    "long_description": "Juno is an AI personal health assistant for the 1B+ people living with chronic illness. Juno builds a longitudinal health profile from conversations, biometrics, and medical history to identify patterns behind symptoms and provide tailored guidance. \r\n\r\nIsaac and Marshall started building Juno after growing up with chronic conditions and spending years trying to understand their symptoms. Like millions of others, they waited months for appointments and struggled to explain complex medical history in 15 minutes. As a result, key signals are missed, contributing to an average diagnosis time of 7.6 years. Even after receiving a diagnosis, patients are often left without a clear treatment plan and have to manage their condition alone. \r\n\r\nMany use AI chatbots for support, but without context on their medical history or symptom progression, they receive generic advice that is rarely actionable. Juno solves this by building a continuous, structured health profile for each user and connecting this fragmented health information. We spent the last year conducting research at Oxford and UCL to build our proprietary engagement layer for daily conversations, allowing Juno to ask the right questions at the right time and understand each user's health better than anyone else ever could. \r\n\r\nWe launched in October and are already at $600k in annual run rate, supporting 50,000+ patients globally. We’re building a future where everyone has a private clinical specialist in their pocket, 24/7.",
+    "one_liner": "AI Health Assistant for Chronic Illness",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Consumer Health and Wellness",
+    "launched_at": 1776751581,
+    "tags": [
+      "Health Tech",
+      "Health & Wellness",
+      "Consumer Products"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Consumer Health and Wellness"
     ],
     "regions": [
       "Unspecified"
@@ -1934,7 +1937,50 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/fort",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/fort.json"
+    "url": "https://www.ycombinator.com/companies/juno-chat",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/juno-chat.json"
+  },
+  {
+    "id": 31434,
+    "name": "Adialante",
+    "slug": "adialante",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/783d9149e0d4fcedf1d788091598886930e15376.png",
+    "website": "http://www.adialante.com",
+    "all_locations": "Redwood City, CA, USA",
+    "long_description": "We know how to improve cancer outcomes by 8x-10x: you catch it early. \r\n\r\nMRI is the most robust and powerful cancer-detection tool in the world, yet systems cost millions to purchase, take months to install, and require high levels of technical skill to operate. We've redesigned MRI from the ground up with new physics, algorithms, and hardware, all to bring cancer screening to the entire world. \r\n\r\nOur mobile MRI is an imaging clinic on wheels. No equipment to buy, no infrastructure needed. For a flat per-scan fee, any medical site can offer MRI cancer screening. Starting with prostate cancer. Then everything else.",
+    "one_liner": "Cancer screening without barriers",
+    "team_size": 4,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Diagnostics",
+    "launched_at": 1773702631,
+    "tags": [
+      "Hardware",
+      "Medical Devices",
+      "Health & Wellness"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Diagnostics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/adialante",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/adialante.json"
   }
 ]

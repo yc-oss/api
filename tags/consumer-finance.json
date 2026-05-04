@@ -53,7 +53,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d5de4c1412998050fa2085e9dbcb8dee8ebd735.png",
     "website": "https://upsolve.org/learn/should-i-file-for-chapter-7-bankruptcy/",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "MA, USA; New York, NY, USA",
     "long_description": "Upsolve is a tech-driven nonprofit that helps low-income Americans overcome debt and rebuild credit at scale. Upsolve was founded in Harvard Law School’s Access to Justice Lab in 2016. Since then, Upsolve has become the nation’s most visited nonprofit financial education site. Upsolve.org educates approximately 2.9 million people a year with 2,000 articles on an array of debt and credit topics. To date, Upsolve’s free DIY bankruptcy filing tool has been used by over 14,000 families to relieve over $600,000,000 in debt. Upsolve users are disproportionately Black and Brown with an average household income of $25,000. Upsolve is now launching a suite of AI tools to help low-income Americans resolve their financial distress earlier. ",
     "one_liner": "Helping low-income Americans overcome debt and rebuild credit at…",
     "team_size": 12,
@@ -174,6 +174,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/fondeadora",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/fondeadora.json"
+  },
+  {
+    "id": 22196,
+    "name": "MedPiper Technologies, Inc",
+    "slug": "medpiper-technologies-inc",
+    "former_names": [
+      "MedPiper Technologies"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7d30e3e30894c40033c853cefa3efa02ec9f54b.png",
+    "website": "https://www.medpiper.com",
+    "all_locations": "Bengaluru, KA, India; Remote",
+    "long_description": "OrbitCover (by MedPiper Technologies, YC S20) is parametric travel insurance infrastructure. We power flight delay coverage that auto-settles payouts in under 5 minutes—with zero claims filing. Live on IndiGo today, processing ~49,000 policies/day via UPI. We operate as an MGA (licensed under IRDAI) with 25–30% commission economics and no balance sheet risk.",
+    "one_liner": "Instant cash payouts for delayed flights",
+    "team_size": 55,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1597677447,
+    "tags": [
+      "Fintech",
+      "Travel",
+      "Insurance",
+      "Consumer Finance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2020",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "India",
+      "South Asia",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/medpiper-technologies-inc",
+    "api": "https://yc-oss.github.io/api/batches/summer-2020/medpiper-technologies-inc.json"
   },
   {
     "id": 22581,
@@ -349,11 +395,12 @@
   },
   {
     "id": 24461,
-    "name": "Mine (formerly Fizz)",
+    "name": "Mine",
     "slug": "mine",
     "former_names": [
       "ShoulderTap",
-      "Fizz"
+      "Fizz",
+      "Mine (formerly Fizz)"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d7a0d14910b74597e1e70723a08a579e8dafe145.png",
     "website": "https://usemine.com/",
@@ -365,10 +412,10 @@
     "subindustry": "Fintech -> Consumer Finance",
     "launched_at": 1628179251,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "Consumer",
-      "Consumer Finance",
-      "AI"
+      "Consumer Finance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -548,20 +595,20 @@
     "all_locations": "New York, NY, USA",
     "long_description": "When a lender gives out a car loan, they need to file a lien with their borrower’s DMV. This is difficult because the process varies by state and county. We’ve leveraged LLMs to help lenders automate lien filings for over $1B of loans.",
     "one_liner": "Automating lenders' interactions with the DMV",
-    "team_size": 4,
+    "team_size": 6,
     "industry": "Fintech",
     "subindustry": "Fintech -> Credit and Lending",
     "launched_at": 1687970738,
     "tags": [
-      "Artificial Intelligence",
       "Enterprise Software",
       "Consumer Finance",
       "Automation",
+      "AI",
       "Automotive"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -692,7 +739,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "Fintech"
     ],
@@ -721,10 +768,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3dd16f59d0364681bf3111ec38321f6ece68ed50.png",
     "website": "https://www.finosu.com",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "Hi - Mark and Gab here!\r\n\r\nWe met while working at Alt, a marketplace for collectibles, where we built a $200 million specialty finance business line. At Alt, we faced the complex challenges that come with servicing consumer loans. We spent countless hours and resources developing internal tools to manage loan payments, communicate with borrowers, and keep track of loan performance—all while ensuring a positive experience for our customers.\r\n\r\nHowever, after dealing with the headaches of manual data entry, fragmented systems, delayed payments, lack of personalized borrower engagement, and the stress of maintaining accurate records, we knew there had to be a better way to service consumer loans.\r\n\r\nSo, we started Finosu to build the servicer we wish we had—an AI-powered consumer loan servicer designed to streamline and enhance every aspect of the loan servicing process. \r\n\r\nOur mission is to transform loan servicing into a seamless, efficient, and customer-centric experience.\r\n\r\nThe operational cost of servicing loans reaches into the tens of billions a year and that is money out of the pocket of lenders, borrowers, investors, and ultimately the consumers as a cost of doing business – we are changing that.",
     "one_liner": "AI Native Consumer Loan Servicer",
-    "team_size": 5,
+    "team_size": 7,
     "industry": "Fintech",
     "subindustry": "Fintech -> Credit and Lending",
     "launched_at": 1723762134,
@@ -736,7 +783,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -745,7 +792,8 @@
       "Credit and Lending"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -754,6 +802,97 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/finosu",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/finosu.json"
+  },
+  {
+    "id": 29810,
+    "name": "bluedoor",
+    "slug": "bluedoor",
+    "former_names": [
+      "OpenIndex",
+      "Actionbase",
+      "actionbase",
+      "Actionbase",
+      "Pumpkin",
+      "Leviathan"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2153ec2908ddcc519fbb6285abb74d57437686c4.png",
+    "website": "https://bluedoor.sh/",
+    "all_locations": "Seattle, WA, USA",
+    "long_description": "bluedoor is a CLI tool for stock research.",
+    "one_liner": "Professional-grade stock research in your terminal.",
+    "team_size": 1,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Consumer Finance",
+    "launched_at": 1723408013,
+    "tags": [
+      "Artificial Intelligence",
+      "Finance",
+      "Consumer Finance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Consumer Finance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bluedoor",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/bluedoor.json"
+  },
+  {
+    "id": 29829,
+    "name": "Moreta",
+    "slug": "moreta",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc2125b4c2d5e8eae9ac64af8a5a8f56b7a9e588.png",
+    "website": "https://moretapay.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "At Moreta, we simplify payments for international travelers, letting you pay for anything using just your phone. Done is the hassle of searching for the best cash exchange rates or ATMs on your next trip. With Moreta, paying local merchants is easy.\r\n\r\nWe came up with Moreta while on our own backpacking adventures. Watching locals pay with a simple scan while we fumbled with cards and cash. So, we created a solution. By syncing with local payment networks, Moreta lets you pay like a local securely and digitally, without needing a bank account in every country.\r\n\r\nWe’re starting in Asia, where QR code digital wallets are taking over and are now the top choice at checkout. As these wallets start to join forces for cross-border payments, Moreta is the first to bridge the gap for international travelers from card-centric markets to tap into these local networks. Moreta will target 200 million travelers arriving in the region each year, who together have $410 billion in everyday expenditure.",
+    "one_liner": "Payments made easy for international travelers.",
+    "team_size": 4,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Payments",
+    "launched_at": 1724360319,
+    "tags": [
+      "Fintech",
+      "Payments",
+      "Consumer",
+      "Travel",
+      "Consumer Finance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Payments"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/moreta",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/moreta.json"
   },
   {
     "id": 29839,
@@ -803,10 +942,10 @@
     "former_names": [
       "Elayne AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a98fa9035236422ae40e39daab0354f2090e797e.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a39c5ab69e2cfbf8fdd2de5562516b23e3a5d91.png",
     "website": "https://www.elayne.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Elayne helps families organize their assets, estate documents, and key contacts in one place, then guides them through life transitions as circumstances and priorities evolve. Like getting married, moving, having a baby, or losing a parent.\r\nUnlike traditional wealth management tools or online estate platforms that produce static legal documents, Elayne is dynamic, intelligent, and built not just to delight, but to comfort and guide you when it matters most.\r\n\r\nI started Elayne after my mom passed away and I had to settle her estate, accounts, and affairs - essentially, I suddenly had to untangle all the details of her life. It was shocking how fragmented and opaque the process was and how I spent hundreds of hours chasing documents, coordinating accounts, filling legal gaps, and navigating unfamiliar systems, all while grieving and working full time. It shouldn’t be that way.\r\n\r\nIn the future, you could hire an attorney, download DIY legal forms, fax and mail physical documents, sync 10 different fintech apps, use a financial planner, spend thousands in fees, and hope it all holds together. Or, you could just use Elayne.",
+    "long_description": "Elayne an AI-powered estate settlement platform that helps families settle an estate with clarity and speed using AI plus expert review. We turn scattered accounts, paperwork, and deadlines into a structured workflow: asset discovery, document intake, next steps, and status tracking.\r\n\r\nElayne generates a verified step-by-step action plan based on institution and jurisdiction requirements. Families track progress in one place, share a single source of truth with executors and advisors, and move cases forward with fewer calls, forms, and surprises.",
     "one_liner": "AI copilot for growing, organizing, and transferring family estates",
     "team_size": 6,
     "industry": "Fintech",
@@ -971,7 +1110,7 @@
       "Gaus"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/84b5fdcf24f0c61830898968d03a605cac559df3.png",
-    "website": "https://www.joinastor.com/",
+    "website": "https://astor.app/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Astor is an AI investment advisor for retail investors.\r\n\r\nFounded by Bruno Koba (Nubank, monashees) and Daniel Tulha (Stripe, Robinhood), Astor gives every active investor an AI investment advisor working around the clock to surface their next great investment. We’re backed by YC (S25).\r\n\r\nRetail investors now account for 25% of all U.S. trading volume, nearly double from 2012. But over 56% still say they don’t feel confident in their investment decisions. Astor fixes that. \r\n\r\nOur AI agents uncover opportunities, decode emerging trends, and deliver analysis tailored to you. Instead of drowning in noise, investors gain a clear edge, shifting from guesswork to confident decision-making.\r\n",
     "one_liner": "AI advisor for retail investors",
@@ -1059,7 +1198,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Selfin is developing AI-powered banking. Users can enjoy personalised recommendations and optimisations of their finances by connecting all their financial products on a single platform. ",
     "one_liner": "Building the first AI Bank",
-    "team_size": 3,
+    "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Consumer Finance",
     "launched_at": 1759770880,
@@ -1100,18 +1239,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7785e7f2104cbe8c0fd7a9462d42a9b03d5aeb86.png",
     "website": "https://www.freeportmarkets.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Freeport allows you to turn tweets into meaningful alpha. Get news as soon as it brakes with the associated trade. Scroll, Trade, and use Perps all in one app!",
-    "one_liner": "Turn tweets into trades",
-    "team_size": 2,
+    "long_description": "Freeport turns the sources you already trust (starting with Twitter) into a tradable feed. Our AI analysts track breaking news across social and financial media, distill what matters, and translate it into actionable trade ideas so you’re never late when markets move. ",
+    "one_liner": "Tradable Twitter Feed ",
+    "team_size": 3,
     "industry": "Fintech",
     "subindustry": "Fintech -> Consumer Finance",
     "launched_at": 1758671175,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "Crypto / Web3",
       "Investing",
-      "Consumer Finance",
-      "AI"
+      "Consumer Finance"
     ],
     "tags_highlighted": [
       "Crypto / Web3"
@@ -1136,5 +1275,95 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/freeport-markets",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/freeport-markets.json"
+  },
+  {
+    "id": 31391,
+    "name": "HEVN, inc",
+    "slug": "hevn-inc",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9670403b854641364928ce34e110c0d9752c9d8d.png",
+    "website": "https://gethevn.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "HEVN is a b2b financial platform where international companies can run their business globally with USD.\r\n↓\r\n> Use USD cards with cashback and do not pay fees on converting local currency, by paying to Google/Meta ads\r\n\r\n> Pay/get paid in local currency via named accounts in EU, Hong Kong and UAE banks \r\n\r\n> (soon) store USD in FDIC-insured account in a US bank, even if your company does not have EIN",
+    "one_liner": "\"Brex\" for international companies",
+    "team_size": 4,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1777498705,
+    "tags": [
+      "Finance",
+      "Consumer Finance",
+      "Neobank"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hevn-inc",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/hevn-inc.json"
+  },
+  {
+    "id": 31529,
+    "name": "Mochatrade",
+    "slug": "mochatrade",
+    "former_names": [
+      "Marvin",
+      "Leverberry"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9273dfa63dba476a7e62fa37812fc69bfed428ac.png",
+    "website": "https://www.mochatrade.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Mochatrade lets global traders trade perpetual futures on US stocks with up to 20x leverage. Access 50+ US stocks including TSLA, NVDA, AAPL. Mocha is fully self-custodial and no US brokerage account is needed. Traders on-ramp in local currencies and get professional-grade execution on the world's most liquid equities. Starting with India (140M+ demat account holders), and expanding across other markets.",
+    "one_liner": "US stock perps for global traders",
+    "team_size": 3,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Consumer Finance",
+    "launched_at": 1775162589,
+    "tags": [
+      "Fintech",
+      "Crypto / Web3",
+      "Consumer Finance"
+    ],
+    "tags_highlighted": [
+      "Crypto / Web3"
+    ],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Consumer Finance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mochatrade",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/mochatrade.json"
   }
 ]

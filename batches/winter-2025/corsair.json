@@ -8,8 +8,8 @@
   "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/669230895e9a350309e4b696d01d846593838da1.png",
   "website": "https://www.corsair.dev",
   "all_locations": "New York, NY, USA",
-  "long_description": "Every codebase has integrations. If you look at how they're written, 90% of the code is identical whether you're connecting to Slack, Gmail, Hubspot, or some random API. You have to...\r\n\r\n- make an API call with proper error handling\r\n- deal with authentication and rate limits\r\n- store responses in your database with custom schemas\r\n- map untyped API responses to your own types\r\n- keep that data fresh with webhooks or polling\r\n- write foreign keys to connect the external data to your own\r\n\r\nEach integration requires rebuilding this infrastructure from scratch. This results in fragmented code with different patterns, error handling, and auth flows for every service. \r\n\r\nCorsair is the unified framework for integrating with third-party services. Add Slack, Linear, GitHub, Gmail, and hundreds of other integrations with the same syntax, same types, and same four database tables.",
-  "one_liner": "The TypeScript Integration Framework",
+  "long_description": "What Corsair is:\r\nCorsair gives you (or your agent) safe access to hundreds of integrations. It natively handles all integration plumbing. The only code you write is the code that's specific to your use case. Your data stays yours.\r\n\r\nWhy we wrote it:\r\nIntegrations make products capable. Integrations are also frustrating to write. If you look at any codebase with integrations, 95% of the code is identical. It's all just basic plumbing. The part of the integration that is unique to a codebase and actually adds value is probably just a few lines. We shouldn't waste time writing and maintaining the 95% for a few lines. The developer community has just accepted that we do. Corsair handles the 95% so you don't have to. It's really hard to get wrong. ",
+  "one_liner": "Integration Layer for AI Agents",
   "team_size": 2,
   "industry": "B2B",
   "subindustry": "B2B -> Engineering, Product and Design",
@@ -19,7 +19,7 @@
     "B2B",
     "Workflow Automation",
     "Open Source",
-    "API"
+    "Personalization"
   ],
   "tags_highlighted": [],
   "top_company": false,

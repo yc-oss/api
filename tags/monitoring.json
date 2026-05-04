@@ -347,34 +347,36 @@
   },
   {
     "id": 29325,
-    "name": "Keywords AI",
-    "slug": "keywords-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f60a49b454abcbf399c1110eb888b6aa3b0627f.png",
-    "website": "https://keywordsai.co",
+    "name": "Respan",
+    "slug": "respan",
+    "former_names": [
+      "Keywords AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/511c79fc4e10857bff72dd38626234991f19c62c.png",
+    "website": "https://respan.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're building the core infrastructure that engineers rely on to continuously trace, evaluate, and improve AI agents. \r\n\r\nWe process a billion LLM calls every month to enable some of the best AI teams to ship amazing products, including 70+ YC startups.",
-    "one_liner": "The AI gateway with built-in observability & evals",
-    "team_size": 6,
+    "long_description": "Respan (formerly Keywords AI) gives teams a unified control plane to trace and evaluate agent behavior without guesswork, automatically surface issues, and fix what breaks faster. Respan connects production observability, automated and human-in-the-loop evaluations, and an adaptive AI gateway to close the loop between detection, decision, and action - so agents improve continuously in production.\r\n\r\nRespan is trusted by 100+ AI startups and enterprise teams. Today, the platform process 1B+ logs and 2T+ tokens every month, supporting more than 6.5M end users.",
+    "one_liner": "Self-driving observability, evals, and gateway for AI agents",
+    "team_size": 10,
     "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "subindustry": "B2B -> Infrastructure",
     "launched_at": 1711136962,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "Monitoring",
-      "AI"
+      "Monitoring"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
     "industries": [
       "B2B",
-      "Engineering, Product and Design"
+      "Infrastructure"
     ],
     "regions": [
       "United States of America",
@@ -387,8 +389,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/keywords-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/keywords-ai.json"
+    "url": "https://www.ycombinator.com/companies/respan",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/respan.json"
   },
   {
     "id": 29401,
@@ -408,7 +410,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Monitor your AI agents the right way.\r\n\r\nAI engineers use Raindrop to get alerts about silent failures in their AI agents.\r\n\r\nRaindrop sends you alerts when your AI misbehaves and links straight to the events, so you can dig into the conversations or traces, understand the root cause, and fix it, fast.",
     "one_liner": "Sentry for AI Agents",
-    "team_size": 6,
+    "team_size": 9,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1710985617,
@@ -441,6 +443,51 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/raindrop.json"
   },
   {
+    "id": 29524,
+    "name": "Coval",
+    "slug": "coval",
+    "former_names": [
+      "Datawave"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/728ee9ea2b99fcf7119bc1be1f331371e8b80fc2.png",
+    "website": "https://coval.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Coval is a simulation & evaluation platform for autonomous AI agents, helping engineers launch dependable assistants across chat, voice, and other modalities. \r\nWe simulate thousands of scenarios engineers don't have to manually test their agents. Our CI/CD evaluations automatically simulate and detect regressions.",
+    "one_liner": "Simulation & Evaluation that scales voice and chat AI agents",
+    "team_size": 10,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1725341816,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "B2B",
+      "Monitoring",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/coval",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/coval.json"
+  },
+  {
     "id": 30403,
     "name": "Aravolta",
     "slug": "aravolta",
@@ -452,7 +499,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Aravolta provides a single pane of glass software for data centers to increase uptime, reduce costs, and improve performance.\r\n\r\nA single utility node onboards every asset within an hour and detects hardware failures, hotspots, and other issues.\r\n\r\nIt also generates reports on important metrics like Power Usage Effectiveness (PUE), energy metering, resource utilization, and much more. ",
     "one_liner": "Software to monitor, control, and optimize data centers.",
-    "team_size": 9,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1746569409,
@@ -570,35 +617,88 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/the-context-company.json"
   },
   {
-    "id": 31106,
-    "name": "Protent",
-    "slug": "protent",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4accd78dacbfd5c67ed4bbb399b521fdd61f69b9.png",
-    "website": "https://protent.ai",
-    "all_locations": "San Francisco, CA, USA",
+    "id": 31261,
+    "name": "Control Seat",
+    "slug": "control-seat",
+    "former_names": [
+      "C42"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c9fbf6b23216653c383d7f0caea2def1b673a3a5.png",
+    "website": "https://www.controlseat.com",
+    "all_locations": "",
     "long_description": "",
-    "one_liner": "AI intelligence for mission-critical operations",
+    "one_liner": "Control and Monitoring of Industrial Operations",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1777448165,
+    "tags": [
+      "Workflow Automation",
+      "Monitoring",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/control-seat",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/control-seat.json"
+  },
+  {
+    "id": 31380,
+    "name": "Pulsent",
+    "slug": "pulsent",
+    "former_names": [
+      "Swish",
+      "Pulsend",
+      "Pulsent",
+      "Deep Engage",
+      "Deepengage",
+      "Openengage",
+      "Deepengage",
+      "Pulsending",
+      "deep engage",
+      "Singlevox",
+      "deep engage"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/752bdfb2238c1fa320f09fc4cdb59b41472091d6.png",
+    "website": "https://pulsent.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Pulsent continuously watches how your users and interacts with your product and engages them at the right moment to convert, upsell, and retain. \r\n\r\nAs companies scale, founders, account managers and customer success teams can only take care of a small fraction of users. The rest receive generic, annoying and poorly timed communication. Opportunities are missed, customers churn, and revenue is lost.\r\n\r\nThe core problem is that user behavior is fragmented across tools like PostHog, Stripe, Salesforce, etc., making it impossible to understand users in real time. We unify all data into a single view and let AI agents act on top. This only recently became possible with advances in visual AI (dec ‘25), allowing agents to watch sessions and understand behavior at human or better level.\r\n\r\nPulsent detects expansion and churn signals, prioritizes high-value accounts, and executes through AI agents across channels like email, LinkedIn, and WhatsApp. It increases conversion and reduces churn without adding headcount.\r\n\r\nWe already have paying customers, process hundreds of millions of events daily, and are seeing strong demand from PLG B2B Clients. Nicolò is an ex-BCG who has scaled two startups to millions in ARR. Arseniy worked for several years at Datadog handling billions of datapoints. We’ve worked together for 3+ years and experienced this problem firsthand in our previous startup.",
+    "one_liner": "AI Agents that watch, engage and convert your users.",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1767579587,
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1775225049,
     "tags": [
-      "Hardware",
-      "Machine Learning",
+      "Artificial Intelligence",
       "SaaS",
-      "Security",
+      "B2B",
+      "Sales Enablement",
       "Monitoring"
     ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
-    "batch": "Winter 2026",
+    "batch": "Spring 2026",
     "status": "Active",
     "industries": [
       "B2B",
-      "Security"
+      "Sales"
     ],
     "regions": [
       "United States of America",
@@ -609,7 +709,7 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/protent",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/protent.json"
+    "url": "https://www.ycombinator.com/companies/pulsent",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/pulsent.json"
   }
 ]

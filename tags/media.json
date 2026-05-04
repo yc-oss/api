@@ -447,7 +447,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d29bf58956a62cac907d5bfab6e8858458173060.png",
     "website": "http://facebook.com/live/producer",
-    "all_locations": "Ogden, UT, USA; Remote",
+    "all_locations": "NY, USA; Remote",
     "long_description": "Media companies, brands and celebrities used Vidpresso to create the best quality live videos, typically for Facebook Live and Twitter. Vidpresso was acquired in 2018 by Facebook.",
     "one_liner": "Help media companies make quality live video. [Acquired by Facebook]",
     "team_size": 7,
@@ -745,7 +745,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/08af81b6a3d390826e292425721b229750993e4c.png",
     "website": "https://www.audm.com",
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "CA, USA; New York, NY, USA; Remote",
     "long_description": "Audm is a mobile app that turns long-form print journalism into professionally narrated digital audio. The app, which was quietly launched on 2016, uses professional voice actors to read news content that makes it enjoyable to listen to.",
     "one_liner": "Audm is a subscription service providing mini-audiobooks —…",
     "team_size": 10,
@@ -1102,16 +1102,17 @@
       "QuickVid",
       "True3D"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ff4b03b851bb9232b2e94c25c13366b7bb5c9948.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7da2309b02d5990f41bbcc5b3695e3e028b38c7f.png",
     "website": "https://true3d.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "True3D is building the next generation of video.\r\nOur AI foundation models bring real-world depth to every frame, making 3D creation and streaming instant and universal.",
-    "one_liner": "AI models for 3D video creation and playback",
+    "long_description": "We build AI models that convert any video to fit any screen without reshoots.",
+    "one_liner": "AI that expands any video to fit any screen.",
     "team_size": 4,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Content",
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
     "launched_at": 1614739771,
     "tags": [
+      "Video",
       "Media",
       "Infrastructure",
       "AI"
@@ -1123,8 +1124,8 @@
     "batch": "Winter 2021",
     "status": "Active",
     "industries": [
-      "Consumer",
-      "Content"
+      "B2B",
+      "Infrastructure"
     ],
     "regions": [
       "United States of America",
@@ -1356,56 +1357,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/shortbread.json"
   },
   {
-    "id": 28841,
-    "name": "SuperCraft",
-    "slug": "supercraft",
-    "former_names": [
-      "Neuralyze",
-      "Cerelyze",
-      "Zener",
-      "Front",
-      "Zener",
-      "SuperCraft",
-      "Ponder"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2b6e756502dc5f4b2e2648f538d38a846286de5a.png",
-    "website": "https://supercraft.ai",
-    "all_locations": "New York, NY, USA",
-    "long_description": "SuperCraft is a generative AI software for teams building physical products\r\n\r\nWe help businesses securely use generative AI capabilities across their design departments for faster design exploration and visualization of physical products\r\n\r\nFortune 500 companies are using SuperCraft to create new product designs, and visualize how their product will look like in a real scenario, before actually building it, and treat the design boards as a shared source of truth that all teams involved can collaborate and provide feedback on - resulting in faster design reviews, more creative exploration, and faster time to market.",
-    "one_liner": "Figma for designing physical products",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1688534176,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Productivity",
-      "Design",
-      "Media"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/supercraft",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/supercraft.json"
-  },
-  {
     "id": 28852,
     "name": "Kite",
     "slug": "kite",
@@ -1542,18 +1493,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d21edd589862cd64f905545df119c53426538c8d.png",
     "website": "https://www.capitol.ai/",
     "all_locations": "Washington, DC, USA",
-    "long_description": "Capitol builds intelligence infrastructure for companies overwhelmed by data but starved for clarity. Today, 80% of enterprise AI projects fail because outputs aren't accurate, attributable, or usable. Capitol AI works with companies in high-stakes industries to turn information into intelligence that drives decisions with model-agnostic, purpose-built infrastructure. \r\n\r\nCapitol is building a different future - one where institutions, creators, and analysts stay in control of their knowledge, their IP, and their value. We deliver a model-agnostic platform that turns complexity into decision-grade insight. We don't believe the future should be dictated by a handful of closed models. We enforce attribution, minimize hallucinations, and preserve temporal accuracy - giving companies trusted answers they can act on.",
-    "one_liner": "Model-agnostic AI for enterprises: governed, embedded, decision-grade.",
+    "long_description": "Capitol AI is building a sovereign operating system for intelligence, designed for regulated, high-stakes institutions such as professional services firms, financial services, and government agencies. These organizations are overwhelmed by data and experimenting with generic AI tools that lack auditability, repeatability, and secure deployment. As a result, critical decisions are increasingly shaped by systems they do not fully control.\r\n\r\nCapitol runs entirely inside enterprise infrastructure and transforms proprietary data into structured, decision-grade artifacts such as due diligence reports, regulatory documentation, and executive intelligence. The platform is model-agnostic, fully auditable, and operates with no data egress, giving institutions durable control over their data, workflows, and standards.",
+    "one_liner": "Capitol: the sovereign operating system for intelligence.",
     "team_size": 11,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1724724761,
     "tags": [
       "AI-Enhanced Learning",
-      "Artificial Intelligence",
       "Workflow Automation",
       "Analytics",
-      "Media"
+      "Media",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1603,7 +1554,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -1722,10 +1673,10 @@
     "former_names": [
       "Prism AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e38f7eee6195fcd30d32532805a6f85297a16925.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/973718be82b1053c971c2efe1c5263b785ae3711.png",
     "website": "https://prismvideos.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
+    "long_description": "Prism is a platform for making short-form videos with AI.",
     "one_liner": "AI for the next generation of media",
     "team_size": 3,
     "industry": "B2B",
@@ -1769,8 +1720,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6dbbabdd44f01b97e6141151550ff9162ab83b00.png",
     "website": "https://www.theinterface.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "Interface is a frontier research lab focused on high-fidelity human simulation. We build systems that model human appearance, behavior, and interaction for world-model research.",
-    "one_liner": "The frontier lab for human simulation",
+    "long_description": "Interface is a frontier research lab focused on high-fidelity visual simulation. We build neural systems that model appearance, behavior, and interaction for world-model research.",
+    "one_liner": "The world model research lab",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -1809,9 +1760,9 @@
     "former_names": [
       "Auler"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/172f5fb23b85c343374cfa3c2b0a719eb64be3b6.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/815d0ff1058841ad5ec2314755cc2f91d92a6472.png",
     "website": "https://aspect.inc",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "With our visual understanding engine & platform, Aspect processes dense multimodal datasets, providing tools for segmentation, QC, structured schema extraction. \r\n\r\nCompanies today have access to Glean and Notion Agents for working with vast text corpuses - Aspect is enabling that for multimodal data.",
     "one_liner": "AI Visual Understanding for Multimodal Data ",
     "team_size": 3,
@@ -1819,11 +1770,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1761607655,
     "tags": [
+      "Artificial Intelligence",
       "Computer Vision",
       "B2B",
       "Video",
-      "Media",
-      "AI"
+      "Media"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1836,7 +1787,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1900,10 +1852,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2a8caed7d0a490086d7e541276710ed25029450f.png",
     "website": "https://absurd.com/",
-    "all_locations": "",
-    "long_description": "Absurd makes AI brand and performance ads at scale. Our last video for Kalshi (\"Election Day\") did 1M+ views, and our videos average 400K+ organic views.\r\n\r\nCompanies like Replit, Brex, Whop, Reforge, and Micro1 use Absurd to create production-quality videos in 72 hours. We do it with a multi-agent orchestration layer, working closely with your team from concept to final cut.\r\n\r\nTry it at absurd.com\r\n\r\nWe're hiring: absurd.com/careers",
-    "one_liner": "AI Brand and Performance Ads at Scale",
-    "team_size": 4,
+    "all_locations": "CA, USA",
+    "long_description": "Absurd makes AI brand and performance ads at scale. Our last video for Kalshi (\"Election Day\") did 1M+ views, and our videos average 400K+ organic views.\r\n\r\nCompanies like Hims, Kalshi, Replit, and Brex use Absurd to create production-quality videos in 72 hours. We do it with a multi-agent orchestration layer, working closely with your team from concept to final cut.\r\n\r\nTry it at absurd.com",
+    "one_liner": "AI Videos",
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1760446134,
@@ -1925,7 +1877,8 @@
       "Marketing"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1934,136 +1887,5 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/absurd",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/absurd.json"
-  },
-  {
-    "id": 30995,
-    "name": "Velvet",
-    "slug": "velvet",
-    "former_names": [
-      "Inline",
-      "Lenscape"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c02ad81894db8e1b1d0e71c379c7cae04211613.png",
-    "website": "https://velvet.video",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "The platform where frontier research labs buy data for world models.",
-    "one_liner": "Data for world models",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1761236237,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Video",
-      "Media",
-      "Creator Economy"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/velvet",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/velvet.json"
-  },
-  {
-    "id": 31178,
-    "name": "Cardboard",
-    "slug": "cardboard",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd18107dd1d0b70679aef18956a0bd68d03549b0.png",
-    "website": "https://usecardboard.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cardboard is an agentic video editor for growth/marketing teams and serious creators who need to ship videos consistently. Instead of agencies, long timelines, and infinite review cycles, teams give cardboard a footage + a goal (“3 variants”, “30s hook”, “testimonials”) to get a strong first cut in minutes on which they can iterate quickly.\r\n\r\nMultimodal LLMs can finally reason over footage, and WebGPU/WebCodecs make a real NLE possible in the browser. For the first time, an “AI director” inside a professional editor can be a reality.\r\n\r\nWe have to build two hard things at once: a high-performance editor in the browser and an agentic editor that is reliable for production use cases. Most startups do one; incumbents can’t rebuild their stack without breaking everything.\r\n\r\nSaksham and Ishan met in school and have known each other since 15 years. Saksham was Co-founder/CTO of Iterate AI (backed by EF) and posts content on social media; Ishan has spent ~5yr building memory-heavy, performance-critical browser apps at HackerRank (S11) and deeply understands browsers. He has built Hotspoter (5M+ downloads) when he was 14.\r\n\r\nTogether, we’re unusually suited to build the editor core others avoid.\r\n\r\nVideo is becoming the default distribution channel, and the team that iterates fastest compounds attention. Cardboard becomes the default workspace for video production, the way Canva/Figma became the workspace for design - because it’s collaborative, fast, and does the tedious parts for you.",
-    "one_liner": "Agentic video editor",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1768162565,
-    "tags": [
-      "SaaS",
-      "Video",
-      "Media",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cardboard",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/cardboard.json"
-  },
-  {
-    "id": 31306,
-    "name": "Martini",
-    "slug": "martini",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c61a438eef6d3a1fe29d67dd180ddaaac257b9d.png",
-    "website": "https://martini.film",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Martini is a collaborative, AI-native platform for professional filmmaking in the era of generative media.\r\nBy integrating the best generative models into professional workflows, we enable world-class creatives to harness generative AI as a legitimate medium for film.",
-    "one_liner": "Collaborative AI-native filmmaking for professionals",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1768440972,
-    "tags": [
-      "Generative AI",
-      "Entertainment",
-      "Design Tools",
-      "Video",
-      "Media"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/martini",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/martini.json"
   }
 ]

@@ -452,7 +452,7 @@
     "all_locations": "London, England, United Kingdom",
     "long_description": "Humaans is a next generation HRIS supporting globally distributed organisations. Powered by a flexible data model, deep integrations, fast APIs, and enriched by AI, Humaans removes manual work, reduce compliance risk and enhance your employee experience. Humaans reduces ongoing administrative work by 65% and onboarding time by an average of 55%.\r\n\r\nWe've raised $20 million in VC funding to date. Investors include major Tech players such as Lachy Groom; Slack founder Stewart Butterfield; Shopify founder Tobias Lütke; Figma Founder Dylan Field; Linkedin ex-CEO Jeff Weiner; Stripe COO Claire Johnson; Y Combinator; Moonfire; Frontline Ventures; Exor and more.",
     "one_liner": "AI-Powered HRIS for high performing teams",
-    "team_size": 43,
+    "team_size": 48,
     "industry": "B2B",
     "subindustry": "B2B -> Human Resources",
     "launched_at": 1616012350,
@@ -479,7 +479,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -696,7 +696,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Human Resources"
@@ -805,51 +805,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/compup.json"
   },
   {
-    "id": 29404,
-    "name": "DianaHR",
-    "slug": "dianahr",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f0990cef5b926ae03d0589cc34c56a79adc02d7.png",
-    "website": "http://www.dianahr.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "DianaHR is an AI-powered HR person for the 1.4 million SMBs with at least 10 employees. Today, SMB owners spend 10+ hours a week struggling with managing software, state compliance notices, benefits questions, onboarding, insurance, workers comp, 401k, etc. With DianaHR, a human-in-the-loop AI takes care of all that and delivers peace of mind.",
-    "one_liner": "An AI-Powered HR Person ",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Human Resources",
-    "launched_at": 1706475260,
-    "tags": [
-      "Artificial Intelligence",
-      "Human Resources",
-      "Compliance",
-      "HR Tech",
-      "Operations"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Human Resources"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dianahr",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/dianahr.json"
-  },
-  {
     "id": 29651,
     "name": "FirstWork",
     "slug": "firstwork",
@@ -875,7 +830,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -936,5 +891,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/village-labs",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/village-labs.json"
+  },
+  {
+    "id": 31363,
+    "name": "Saffron",
+    "slug": "saffron",
+    "former_names": [
+      "Saffron AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d3143a0fc23ce4251d146cce9ebb5799fc664317.png",
+    "website": "https://www.trysaffron.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Saffron allows companies to quickly evaluate how well software engineers use AI to code. \r\n\r\nThe way engineers write code has fundamentally changed, but the way companies evaluate them hasn't. Saffron gives teams full visibility into how candidates use AI agents to build, debug, and ship real features on an actual codebase. \r\n\r\nSaffron was founded by Robert Chondro (formerly MIT and Jane Street), Jerry Yao (Stanford and Jane Street), and Kazuma Choji (Harvey Mudd, published in NeurIPS and ICML), and is backed by Y Combinator (P26) and Afore Capital. ",
+    "one_liner": "Helping your company find 10x engineers. ",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Recruiting and Talent",
+    "launched_at": 1773810768,
+    "tags": [
+      "SaaS",
+      "Human Resources",
+      "HR Tech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Recruiting and Talent"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/saffron",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/saffron.json"
   }
 ]

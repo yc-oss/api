@@ -90,7 +90,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/91f99c3342f7ef67fe23f91952d7102c8d49d799.png",
     "website": "http://getentry.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "CA, USA; San Francisco, CA, USA",
     "long_description": "Easily onboard, verify IDs, authenticate and continuously verify credentials and the identities of your users - in one place.",
     "one_liner": "Biometric sign in and identity verification platform",
     "team_size": 7,
@@ -138,7 +138,7 @@
     "website": "https://www.siphoxhealth.com",
     "all_locations": "Burlington, MA, USA",
     "long_description": "We are developing a new paradigm for consumer health tech wearables by replacing a 100lb optical instrument with an area of silicon smaller than a postage stamp.",
-    "one_liner": "Wearable and At-Home protein monitoring with silicon photonic chips",
+    "one_liner": "Wearable and At-Home health monitoring with silicon photonic chips",
     "team_size": 63,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Consumer Health and Wellness",
@@ -244,7 +244,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Human Resources"
@@ -306,5 +306,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/play-health",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/play-health.json"
+  },
+  {
+    "id": 31080,
+    "name": "Didit",
+    "slug": "didit",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/202e6cd94d0ec2c8de835c56ce6b880f99f033d5.png",
+    "website": "https://didit.me/",
+    "all_locations": "CA, USA",
+    "long_description": "One API for KYC, KYB, AML, biometrics, and fraud — powered by 1,000+ data sources, 200+ signals, and in-house AI models. Global coverage. Integrate in minutes, pay as you go, 500 free checks/month. Start free at business.didit.me.",
+    "one_liner": "Infrastructure for identity and fraud.",
+    "team_size": 12,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1764601102,
+    "tags": [
+      "Biometrics",
+      "Identity",
+      "Fraud Prevention",
+      "Fraud Detection",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/didit",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/didit.json"
   }
 ]

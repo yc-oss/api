@@ -6,7 +6,7 @@
     "former_names": [],
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "http://pollground.com",
-    "all_locations": "",
+    "all_locations": "MA, USA",
     "long_description": "A social polling site. Pollground allows you to easily create surveys and allow the “wisdom of the crowd” to answer your questions. Questions and comments can be posted anonymously.",
     "one_liner": "Online polls.",
     "team_size": 0,
@@ -27,7 +27,8 @@
       "Social"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -169,6 +170,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/geostar",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/geostar.json"
+  },
+  {
+    "id": 24391,
+    "name": "CoLoop",
+    "slug": "coloop",
+    "former_names": [
+      "genei",
+      "Genei"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/70bf325ba6f13643292ce722346a076bac8e2292.png",
+    "website": "https://coloop.ai/",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "At CoLoop we’re on a mission to make every company in the world as customer obsessed as Amazon. We’re doing this by giving the next generation of workers immediate, intuitive access to the customer knowledge they need to make better decisions, faster.",
+    "one_liner": "AI Copilot for insights & strategy",
+    "team_size": 16,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1626771804,
+    "tags": [
+      "Generative AI",
+      "Market Research"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/coloop",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/coloop.json"
   },
   {
     "id": 25329,
@@ -351,18 +394,19 @@
   },
   {
     "id": 30017,
-    "name": "Riveter AI",
-    "slug": "riveter-ai",
+    "name": "Riveter",
+    "slug": "riveter",
     "former_names": [
       "Nervy",
       "Haze AI",
-      "Lassen AI"
+      "Lassen AI",
+      "Riveter AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a037b1acaa5b376575f5e3e8a1fdf2e7e2057ddc.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ba11fcc185e7540e26d2fc388417c1e4c6dfad61.png",
     "website": "https://www.riveterhq.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Riveter is Lovable for web scraping. With a single API, agents can search, scrape, and structure data from the web. \r\n\r\nCustomers like Snapchat and OpenAI use us them enrich datasets using Riveter's AI search agents that combine data from the web with third party or internal data.  \r\n\r\nTheir AI agents, custom scrapers, and integrations pack the power of browser use and automation for search, at a cost that allows for scale. \r\n\r\nYou can even create a custom data API for repeated searches live in your app or internal databases. \r\n\r\nPerplexity and ChatGPT are great for single questions, but they can’t handle large amounts of data at once. And they’re working with a single agent and context window instead of one in every cell.\r\n\r\nAnd Riveter’s web browsing can go further—even reading PDFs and images that may contain answers. \r\n\r\nMost teams still spend hours (or hire UpWorkers/contractors) to manually copy product specs, check competitor pricing, pull custom KYB/KYC data to assess customer risk, or scrape filings. Or they spend months building web scrapers, and when that still doesn't work, they come to Riveter.\r\n\r\nOur founding team brings deep product and engineering expertise from to YC-backed companies Gusto, Retool, and Middesk.",
-    "one_liner": "Lovable for web scraping",
+    "long_description": "Riveter fully automates web data extraction, end to end. With a single API, agents can search, scrape, and structure data from the web. \r\n\r\nCustomers like Snapchat and OpenAI use us to enrich datasets using Riveter's AI search agents that combine data from the web with third party or internal data.  \r\n\r\nTheir AI agents, custom scrapers, and integrations pack the power of browser use and automation for search, at a cost that allows for scale. \r\n\r\nYou can even create a custom data API for repeated searches live in your app or internal databases. \r\n\r\nPerplexity and ChatGPT are great for single questions, but they can’t handle large amounts of data at once. And they’re working with a single agent and context window instead of one in every cell.\r\n\r\nAnd Riveter’s web browsing can go further—even reading PDFs and images that may contain answers. \r\n\r\nMost teams still spend hours (or hire UpWorkers/contractors) to manually copy product specs, check competitor pricing, pull custom KYB/KYC data to assess customer risk, or scrape filings. Or they spend months building web scrapers, and when that still doesn't work, they come to Riveter.\r\n\r\nOur founding team (Cody Watters - CTO, Abby Grills, CEO) brings deep product and engineering expertise from to YC-backed companies Gusto, Retool, and Middesk. ",
+    "one_liner": "Turn the web into structured data",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -393,65 +437,20 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/riveter-ai",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/riveter-ai.json"
-  },
-  {
-    "id": 30267,
-    "name": "Lopus AI",
-    "slug": "lopus-ai",
-    "former_names": [
-      "Levo UI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2bf383d00d833f8ead69445747af5777b0e0a0a6.png",
-    "website": "https://lopus.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "GTM teams are drowning in disconnected data—Salesforce, Stripe, Mixpanel, Gong, Slack, and email. The result: leaders can’t trust dashboards, data teams get buried in ad-hoc requests, and deal teams burn days stitching context instead of driving revenue.\r\n\r\nWe have built Lopus Probe, an AI-powered GTM research platform that unifies structured and unstructured data into one governed workspace. Powered by an agentic semantic layer, it understands your company definitions, joins CRM + billing + product + transcripts safely, and delivers fast, explainable answers with lineage back to the source—turning every question into a lever for growth.\r\n\r\nEngineered by Lopus AI, the GTM weapons lab.",
-    "one_liner": "Data Unification for GTM Analytics ",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1740443352,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Analytics",
-      "Market Research",
-      "Enterprise"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lopus-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/lopus-ai.json"
+    "url": "https://www.ycombinator.com/companies/riveter",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/riveter.json"
   },
   {
     "id": 30298,
     "name": "Artificial Societies",
     "slug": "artificial-societies",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0bd6ba915d4b288901694ddd2ae32010844f2ff6.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f1ebd1806463e3909d4a1f7b197b6c3788ebf4c.png",
     "website": "https://societies.io",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Artificial Societies uses AI to simulate large groups of people and how they interact. Companies like Anthropic and 11x are using Artificial Societies to predict how their marketing and content will perform in a simulation of their target customers, before launching in the real world. \r\n\r\nThis is a cracked team: James left rural China at age 14, got into Cambridge, turned down a CS PhD to do startups, and - in his spare time - lead the largest ever study of an LLM society. James is joined by Patrick, an applied behavioural scientist who has run over 200 real-world experiments for businesses including Fortune 500 companies. \r\n\r\nWe joined forces through a shared frustration that no one really understands large scale human behaviours: traditional market research is not only slow and expensive, but fundamentally flawed - it misses how people influence each other. Humans are not isolated individuals, we are social animals.\r\n\r\nWe began by simulating a network of 1,000 investors, and used it to raise a pre-seed and get into YC. Since releasing this publicly as “Wave”, startup founders have run over 3000 simulations. \r\n\r\nWe have since released \"Reach\", where anyone can simulate their own LinkedIn audience and test how their posts will perform before posting for real. Artificial Societies is doing for simulations what ChatGPT did for LLMs - making them accessible to everyone.\r\n\r\nAs AI advances, we will create representative models of entire human societies. Our vision is a world where all content, products, and policies are first simulated in an Artificial Society. We are on a mission to create Artificial Collective Intelligence - humans innovate in collectives, we want to scale collective innovation with ACI.",
-    "one_liner": "We use AI to simulate entire human societies",
-    "team_size": 3,
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "Artificial Societies simulates how large groups of people respond to opinion surveys and react to information. We help global F100 enterprises anticipate how their most important stakeholders react to their most important decisions: from how investors and opinion-leaders react to comms messaging, to how high-value customers react to marketing strategies.\r\n\r\nWe are experts in human behaviour. James, our Founder and CEO, is a Cambridge psychologist and data scientist who led the seminal paper that studied how 33,000 AI chatbots interact. Patrick, our Founder and Chief Product Officer, is an Applied Behavioural Scientist with years of experience helping F500 enterprises conduct market research. They are joined by a team of behavioural scientists, social scientists, and political scientists, all with a passion for uniting technology and an understanding of humanity.\r\n\r\nWe know that every public-facing enterprise decision has million-dollar consequences. From how to position towards opinion-leaders, industry peers, and policymakers, to which marketing content to invest in, knowing how stakeholders would react matters. But traditional market research methods are too slow, too expensive, and often just fail to\r\nreach the stakeholders that truly matter.\r\n\r\nWe spend our lives solving this problem. Our offering is that we build bespoke AI\r\nsimulations of high-value audiences, for insights on questions no one else can answer. We’ve built up over 2.5 million AI personas that are all grounded in real human behaviour – not just what people say, but also what they do. \r\n\r\nBut our enterprise partners choose us not just because we have achieved 95% accuracy in simulating human opinions compared to human self-replication - more importantly, they choose us because of our ability to deliver impossible research projects. Such as having insights in under 24 hours, such as being able to test sensitive strategies on high-value audiences with 100% security, without human risk.\r\n\r\nAs a result, we’ve delivered over 18 million responses to global Fortune 100 enterprises, that helped shape over 100 million dollars’ worth of decisions ranging from global expansion strategies, product positioning, advertising, and strategic communications.\r\n\r\nOur vision of Artificial Societies is a Societal World Model that enables infinite experimentation, so that every organisation can have awareness of outcomes, before making a decision. No planes fly without a wind-tunnel; no medicines are approved without clinical trials; and yet, the biggest decision societies face today are taken as bets. We see Artificial Societies as a historically inevitable technology, and see it as our lives' mission to bring it to life.",
+    "one_liner": "We build networks of AI personas that simulate stakeholder opinions",
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1739843143,
@@ -464,7 +463,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -473,8 +472,8 @@
       "Analytics"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "United Kingdom",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -485,31 +484,24 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/artificial-societies.json"
   },
   {
-    "id": 30454,
-    "name": "Refresh",
-    "slug": "refresh",
+    "id": 30435,
+    "name": "Alpha Research",
+    "slug": "alpha-research",
     "former_names": [
-      "JupyPilot",
-      "Operative",
-      "Operative.sh",
-      "operative.sh",
-      "Operative"
+      "Zenobia Pay",
+      "Dolphin"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ccf0b2ab481c2f80ab1cae885c909b33ef41f986.png",
-    "website": "https://www.refresh.dev",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Building RL environments for coding and computer use. ",
-    "one_liner": "Evals and environments for computer use and software engineering work",
-    "team_size": 5,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9da4ac9dd6be01478b419bbfd282d5e379179bc8.png",
+    "website": "https://alpharesearch.nyc/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Alpha Research builds open source agentic knowledge bases. Our mission is to help knowledge workers work 100x faster. We launched and open sourced our first platform, Alpha Book on a mirror of the Project Gutenberg dataset (75,000 books).\r\n\r\nKnowledge work is bottlenecked in two key ways: finding evidence and testing hypotheses. We make both 100x faster. We extend keyword search and RAG with general coding agents, which use filesystem tools like ripgrep and reason iteratively to find broad evidence. Coding agents also write ad-hoc scripts to label datasets and test hypotheses.\r\n\r\nOur timeline is simple: repeat Alpha Book across every public dataset of humanity's knowledge. Next we'll launch Alpha Econ with US Census, BLS, NBER, etc datasets. Alpha Justice with US Supreme Court Cases, and so on. We support museums, research libraries, historical societies, and archives. We also do custom integration work for enterprise.",
+    "one_liner": "Open source, agentic knowledge bases for all of humanity's knowledge.",
+    "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1745867856,
+    "launched_at": 1747591533,
     "tags": [
-      "Artificial Intelligence",
-      "Reinforcement Learning",
-      "Recruiting",
-      "Market Research",
-      "Data Labeling"
+      "Market Research"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -530,23 +522,24 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/refresh",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/refresh.json"
+    "url": "https://www.ycombinator.com/companies/alpha-research",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/alpha-research.json"
   },
   {
     "id": 30683,
-    "name": "Louiza Labs",
-    "slug": "louiza-labs",
+    "name": "Theora",
+    "slug": "theora",
     "former_names": [
       "Ouiza",
       "Louiza Labs",
-      "Ouiza"
+      "Ouiza",
+      "Louiza Labs"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/89a5d27698a033316145c05810e2edc1dbb57e96.png",
-    "website": "https://www.louizalabs.co",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/09fa077504ffa74fa4dfd4ddd54dca0ee40c3525.png",
+    "website": "https://www.theorahq.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Assemble pharma publication-grade evidence 100x faster\r\n\r\nWe synthesize real-world and published evidence into literature reviews for  pharma teams to prove drug safety and efficacy — in days, not months. Focusing initially on women's health drugs + GLP-1's.\r\n\r\nBuilt by a team of NVIDIA engineers, Apple Engineers, and Harvard Med Students.\r\n\r\n",
-    "one_liner": "Hebbia for Pharmaceutical Evidence",
+    "long_description": "Ensuring every approved drug reaches patients who need it.\r\n\r\nAuditable AI to satisfy regulators and payors 10x faster. We Synthesize fragmented pharma and device data to prove safety, optimize market access, and anticipate regulatory response.\r\n\r\nMembers of our team worked in software engineering at Apple and AI at NVIDIA, helped start a large-cap pharma clinical trial, and trained at Harvard Medical School.\r\n\r\n",
+    "one_liner": "OpenEvidence for Pharmaceutical Evidence",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
@@ -574,8 +567,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/louiza-labs",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/louiza-labs.json"
+    "url": "https://www.ycombinator.com/companies/theora",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/theora.json"
   },
   {
     "id": 30713,
@@ -592,14 +585,14 @@
     "subindustry": "B2B -> Marketing",
     "launched_at": 1752263741,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Marketing",
-      "Market Research"
+      "Market Research",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -661,48 +654,5 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/diligencesquared-inc",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/diligencesquared-inc.json"
-  },
-  {
-    "id": 31223,
-    "name": "Arzule",
-    "slug": "arzule",
-    "former_names": [
-      "Flow AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/34258b15ca5b4476b85cb059efce39097c6b6d07.png",
-    "website": "https://www.arzule.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Arzule is a partnership intelligence platform for B2B SaaS teams. It continuously monitors the SaaS ecosystem for new features, integrations, and product changes, and uses AI agents to identify strategic partnership opportunities as they emerge, such as integration, distribution, technology, or ecosystem partnerships. Arzule is personalized to each company’s product, positioning, and roadmap, so searches are always run with your business in mind. Instead of static lists or manual research, Arzule builds deep, living profiles of companies and explains which partnerships matter, why they make sense now, and what strategic leverage they unlock. The result is faster, higher-quality partnership decisions without missed opportunities or repetitive research.",
-    "one_liner": "AI for B2B Partnership Intelligence",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1767154035,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Market Research",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/arzule",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/arzule.json"
   }
 ]

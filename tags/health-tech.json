@@ -451,14 +451,16 @@
   },
   {
     "id": 695,
-    "name": "PicnicHealth",
-    "slug": "picnichealth",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d5d30956a4bfecca2df896398ce2a95079fea2f9.png",
-    "website": "https://picnichealth.com",
+    "name": "PicnicAI",
+    "slug": "picnicai",
+    "former_names": [
+      "PicnicHealth"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dbf45bc323953c8df6c8183d0e549e723e5e1a71.png",
+    "website": "https://picnic.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Healthcare needs good data. At PicnicHealth, we are building deep real-world datasets fueling cutting-edge research while giving patients control of their own medical record data. These complete, clinically-rich datasets produce unique insights — across dozens of diseases — to ultimately get the right treatments into patients’ hands faster. We work directly with patients and leverage state of the art machine learning to transform messy medical records into structured, research-ready datasets. To date we’ve helped tens of thousands of patients securely access their records and proactively contribute to advancing research in diseases that impacts their lives.",
-    "one_liner": "Empowering Patients for Deep Real World Data",
+    "long_description": "PicnicAI deploys AI into the real-world complexity of care delivery and clinical research. PicnicHealth helps patients navigate fragmented care with AI-powered tools backed by a clinical team, giving them a unified view of their health across all their doctors. PicnicResearch makes clinical research faster, cheaper, and more reliable, using AI agents and direct patient relationships to change the economics of drug development so that more treatments reach the patients who need them.",
+    "one_liner": "Intelligence to accelerate human health.",
     "team_size": 100,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
@@ -490,8 +492,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/picnichealth",
-    "api": "https://yc-oss.github.io/api/batches/summer-2014/picnichealth.json"
+    "url": "https://www.ycombinator.com/companies/picnicai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2014/picnicai.json"
   },
   {
     "id": 805,
@@ -905,7 +907,7 @@
     "former_names": [],
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "https://www.physioh.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "PhysioHealth is an enterprise health and wellness management platform that rewards your employees for living healthy and decreases your healthcare costs.\n\nTheir customized platform delivers 5x engagement vs. other corporate wellness programs.",
     "one_liner": "An enterprise health benefits platform that rewards employees for…",
     "team_size": 2,
@@ -928,7 +930,8 @@
       "Healthcare Services"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -945,7 +948,7 @@
     "former_names": [],
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "https://www.patientbank.us",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "NY, USA; San Francisco, CA, USA",
     "long_description": "PatientBank helps people gather and share medical records online. The company is backed by Y Combinator, General Catalyst, Khosla Ventures, and others.",
     "one_liner": "Get medical records online—from any doctor or hospital.",
     "team_size": 2,
@@ -1115,11 +1118,11 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8dd7453ad7764f8762001557d8da4935d246c1c.png",
     "website": "https://www.thesleepreset.com/?utm_source=yc",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Our mission is to improve quality of life for millions of people by providing easy, immediate access to the world’s best sleep care.\r\n\r\nSleep Reset is a digital, personalized sleep clinic, available in a convenient mobile app for iOS and Android. Our program was designed in partnership with leading sleep experts from top sleep clinics and universities. The program improves sleep and reduces sleep anxiety with the most effective methods from sleep clinics, including strategies based on Cognitive Behavioral Therapy for Insomnia (CBT-i) which are proven to be more effective than sleeping pills. Throughout our program, each member is paired with a dedicated sleep coach who personalizes their program. It’s a life-long, sustainable solution to sleep better in weeks, with no pills or melatonin needed – which means no grogginess, side effects, or dependency.\r\n\r\nSleep Reset has been covered in Forbes, TechCrunch, and INSIDER. The company was founded by Yunha Kim, a serial entrepreneur recognized by Forbes as 30 Under 30 and is backed by top Silicon Valley investors including YCombinator, Foundation Capital, New Enterprise Associates, Stanford University and 20+ founders/executives of leading companies.",
-    "one_liner": "Sleep Reset is a clinically proven CBT-i program for better sleep",
+    "long_description": "Our mission is to improve quality of life for millions of people by providing easy, immediate access to the world’s best sleep care.\r\n\r\nSleep Reset is a modern, digital sleep clinic that delivers end-to-end care for every sleep issue — from insomnia to sleep apnea and beyond — all in one place. Available completely online, we make it simple to get evaluated, diagnosed, and treated without long wait times or in-person visits.\r\n\r\nBuilt in collaboration with leading sleep experts and top academic institutions, Sleep Reset combines clinical evaluation, personalized treatment plans, and ongoing care tailored to each individual. Members can access evidence-based therapies, at-home sleep testing, and clinician-guided treatment — all designed to address the root causes of poor sleep, not just the symptoms.\r\n\r\nWhether you’re struggling to fall asleep, stay asleep, or dealing with underlying conditions like sleep apnea, Sleep Reset provides a clear path to better sleep and better health. Our approach is personalized, clinically grounded, and designed for lasting results.\r\n\r\nSleep Reset has been featured in Forbes, TechCrunch, and INSIDER. The company was founded by Yunha Kim, a serial entrepreneur recognized by Forbes 30 Under 30, and is backed by leading investors including Y Combinator, Foundation Capital, New Enterprise Associates, Stanford University, and a network of top founders and operators.",
+    "one_liner": "One clinic for every sleep issue",
     "team_size": 8,
     "industry": "Healthcare",
-    "subindustry": "Healthcare -> Consumer Health and Wellness",
+    "subindustry": "Healthcare -> Healthcare Services",
     "launched_at": 1478140833,
     "tags": [
       "Mental Health Tech",
@@ -1136,7 +1139,7 @@
     "status": "Active",
     "industries": [
       "Healthcare",
-      "Consumer Health and Wellness"
+      "Healthcare Services"
     ],
     "regions": [
       "United States of America",
@@ -1204,10 +1207,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a948f29975bf2b196b795d5f07b1c3693862d66e.png",
     "website": "https://www.clipboardhealth.com/careers",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "We exist to lift as many people up the socioeconomic ladder as possible. We dramatically improve lives by letting professionals turn extra time and ambition into career growth and financial opportunity. We achieve this with our app-based marketplace that connects workplaces and professionals, allowing professionals to book on-demand shifts and workplaces to access on-demand talent.",
     "one_liner": "Connects workplaces with professionals nearby.",
-    "team_size": 800,
+    "team_size": 1000,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1478221234,
@@ -1230,7 +1233,7 @@
       "United States of America",
       "America / Canada",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "stage": "Growth",
     "app_video_public": false,
@@ -1247,11 +1250,11 @@
     "former_names": [
       "theMednet"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c67b14cf44e883256e2311a78b2945e3463e5eae.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0f87063bea379185eb403bf77343185532b0b26a.png",
     "website": "https://www.themednet.org",
     "all_locations": "New York, NY, USA",
-    "long_description": "The Mednet is a physician-only Q&A platform for expert answers to real world clinical questions. With medical knowledge evolving faster than ever before, theMednet addresses the gap between textbooks and real-patient experience. At theMednet, more than 1,500 expert physicians across numerous medical specialties help answer questions that go beyond textbooks and guidelines. Our platform documents undocumented medical knowledge, while making it accessible and easily searchable to all physicians. We know patients with access to experts have better outcomes. By providing physicians with relevant, up-to-date expert knowledge, their patients benefit from the best care possible.",
-    "one_liner": "Stack Overflow for Medicine",
+    "long_description": "Mednet helps doctors answer their toughest clinical questions — blending AI, medical literature, and real-world physician expertise. Co-founded by siblings Samir Housri and Dr. Nadine Housri while navigating their father's cancer treatment, Mednet was created to capture the undocumented clinical knowledge that makes the difference in patient care. Today, over 40,000 US physicians use Mednet to navigate complex cases, make better-informed decisions, and shape industry innovation — ensuring that every patient benefits from the collective expertise of the medical community",
+    "one_liner": "Mednet helps doctors answer their toughest clinical questions —…",
     "team_size": 35,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
@@ -1939,24 +1942,25 @@
   },
   {
     "id": 2025,
-    "name": "LemonBox Health",
-    "slug": "lemonbox-health",
+    "name": "LemonBox",
+    "slug": "lemonbox",
     "former_names": [
-      "LemonBox"
+      "LemonBox",
+      "LemonBox Health"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a8e0f926603810ff5a714566d5b989b02b6c7398.png",
     "website": "http://www.lemonbox.com/",
-    "all_locations": "Hong Kong, Hong Kong",
-    "long_description": "LemonBox provides personalized daily vitamin packs for Chinese consumers, along with dietary advice from U.S. registered dietitians. All the products are made in the U.S. and shipped to customers within 7-10 days, based on a monthly subscription model.",
-    "one_liner": "From vitamins to meals, AI that optimizes your daily nutrition.",
-    "team_size": 50,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Home and Personal",
+    "all_locations": "CA, USA",
+    "long_description": "LemonBox is an AI-driven personalized nutrition company. Using generative AI nutrition（AI 生成式定制营养）, LemonBox analyzes each user's dietary habits, health goals, and biometric data to generate a custom daily supplement formula — then produces and delivers it as a personalized day pack via monthly subscription. Founded in Silicon Valley in 2016 and backed by Y Combinator, Bessemer Venture Partners, and Partech Ventures, LemonBox has served over 10 million users globally.",
+    "one_liner": "AI-generated personalized nutrition solutions, built for you daily.",
+    "team_size": 20,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Consumer Health and Wellness",
     "launched_at": 1527526952,
     "tags": [
+      "Generative AI",
       "Health Tech",
       "Health & Wellness",
-      "Consumer Products",
       "AI",
       "China"
     ],
@@ -1967,20 +1971,20 @@
     "batch": "Summer 2018",
     "status": "Active",
     "industries": [
-      "Consumer",
-      "Home and Personal"
+      "Healthcare",
+      "Consumer Health and Wellness"
     ],
     "regions": [
-      "Hong Kong",
-      "East Asia"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lemonbox-health",
-    "api": "https://yc-oss.github.io/api/batches/summer-2018/lemonbox-health.json"
+    "url": "https://www.ycombinator.com/companies/lemonbox",
+    "api": "https://yc-oss.github.io/api/batches/summer-2018/lemonbox.json"
   },
   {
     "id": 11976,
@@ -2802,7 +2806,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2020",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "Healthcare",
       "Consumer Health and Wellness"
@@ -2869,8 +2873,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c6d7367572dbd0fc40b24d0143efd38dc5f71af.png",
     "website": "https://tambua.health/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Juno is a fully offline, local-first autonomous AI agent engineered to control and operate medical imaging and diagnostic devices—such as Siemens Healthineers' MRI and CT scanners, hematology analyzers, and PCR machines—with human-like proficiency, powered exclusively by an Embedded System on Module (SoM) AI accelerator. Designed as a \"virtual technician,\" Juno observes device interfaces, reasons over contextual data, and executes actions in a closed-loop system, automating calibration, workflow execution, and optimization without any cloud dependency, internet access, or external APIs. This architecture draws inspiration from agents like ManusAI and Microsoft Copilot's Computer Use Agent (CUA), adapting their observation-reasoning-execution paradigms to treat medical device UIs as controllable \"virtual desktops,\" but confines all processing to edge hardware for compliance with stringent medical safety standards and operational reliability in disconnected environments.",
-    "one_liner": "Juno is ManusAI for controlling medical imaging& diagnostic device GUI",
+    "long_description": "NoDraw by Tambua Health is the world’s first bloodless, blood diagnostic app, turning any smartphone into a full blood panel diagnostic tool",
+    "one_liner": "Bloodless, blood diagnostic app",
     "team_size": 13,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
@@ -2956,9 +2960,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/723a180116227882e144a10e0844486b6a17d2af.png",
     "website": "http://www.synapticure.com",
     "all_locations": "Chicago, IL, USA; Remote",
-    "long_description": "Personalized virtual clinical care is finally here for neurodegenerative diseases like Alzheimer's and related Dementias (Cognitive), Parkinson's and Huntington's (Movement), and ALS (Movement).\r\n\r\nWe provide a novel approach to care in these diseases, centering a patient and caregiver around a coordinator who quarterbacks patients through our full Multi-Disciplinary Care Resources to local aid, PT/OT and home health support. When you leave our clinic, it's not with a handful of paper referrals, but with our coordinators helping you book and find the best physicians, DME, trials, and even cheapest prescriptions. We are devoted to helping patients, from guidance on care and insurance to providing the full spectrum of investigational and clinical testing to improve outcomes. \r\n\r\nSynapticure was built by leading patient and caregiver advocates alongside leading  clinicians, biotech executives and telemedicine executives to bring the neurodegenerative disease care and treatment experience into the 21st century, and is backed by the leading Venture funds and Angel investors in the remote health and life sciences space.",
+    "long_description": "Personalized virtual clinical care is finally here for neurodegenerative diseases like Alzheimer's and related Dementias (Cognitive), Parkinson's and Huntington's (Movement), and ALS (Motor neuron).\r\n\r\nWe provide a novel approach to care in these diseases, centering a patient and caregiver around a coordinator who quarterbacks patients through our full Multi-Disciplinary Care Resources to local aid, PT/OT and home health support. When you leave our clinic, it's not with a handful of paper referrals, but with our coordinators helping you book and find the best physicians, DME, trials, and even cheapest prescriptions. We are devoted to helping patients, from guidance on care and insurance to providing the full spectrum of investigational and clinical testing to improve outcomes. \r\n\r\nSynapticure was built by leading patient and caregiver advocates alongside leading  clinicians, biotech executives and telemedicine executives to bring the neurodegenerative disease care and treatment experience into the 21st century, and is backed by the leading Venture funds and investors in the remote health and life sciences space.",
     "one_liner": "We deliver personalized medicine for neurodegenerative  patients",
-    "team_size": 35,
+    "team_size": 115,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare Services",
     "launched_at": 1643743580,
@@ -3179,7 +3183,7 @@
     "website": "https://www.siphoxhealth.com",
     "all_locations": "Burlington, MA, USA",
     "long_description": "We are developing a new paradigm for consumer health tech wearables by replacing a 100lb optical instrument with an area of silicon smaller than a postage stamp.",
-    "one_liner": "Wearable and At-Home protein monitoring with silicon photonic chips",
+    "one_liner": "Wearable and At-Home health monitoring with silicon photonic chips",
     "team_size": 63,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Consumer Health and Wellness",
@@ -3595,7 +3599,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -3909,7 +3913,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1911bd76396413676c56a0b5104f3203eb60b44e.png",
     "website": "https://www.trymable.com/",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "London; San Francisco, CA, USA; Remote",
     "long_description": "Mable is a personalized migraine clinic using DNA to find and provide the right medication alongside continuous expert care\r\n\r\nUsing our approach, patients have an 80% higher treatment satisfaction rate, have one extra day per week to enjoy their life and get 55% pain reduction.\r\n",
     "one_liner": "First personalized migraine clinic using genetics and telehealth.",
     "team_size": 7,
@@ -3932,7 +3936,9 @@
       "Medical Devices"
     ],
     "regions": [
+      "United Kingdom",
       "United States of America",
+      "Europe",
       "America / Canada",
       "Remote",
       "Fully Remote"
@@ -3952,7 +3958,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/06492ded72b734cf66f1e107ab0974ffc480d989.png",
     "website": "http://makaniscience.net/",
-    "all_locations": "Irvine, CA, USA",
+    "all_locations": "CA, USA",
     "long_description": "Makani Science is a medical device company based in Irvine, California. We have created the world's first wireless patch that can accurately and continuously monitor breathing. The company is co-founded by Dr. Michelle Khine and Dr. Michael Chu, two experts in the wearable monitoring space from the University of California, Irvine. \r\n\r\nThe Makani Science system will collect unique breathing waveforms from patients in everyday environments to create the first large database of respiratory patterns associated with different diseases. Data will be collected through systems sold to our initial beachhead market, where we will help improve monitoring safety in patients being sedated for medical procedures. Our long-term goal is to combine machine learning with this database to identify and predict respiratory complications for different patient populations. \r\n\r\nWe have a highly experienced team and will be FDA cleared in our beachhead market within a year.  ",
     "one_liner": "Reinventing respiration monitoring",
     "team_size": 2,
@@ -4085,8 +4091,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9050d789232441d310c7b2bc53166a978e1f735d.png",
     "website": "https://www.sully.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We’re building the autonomy layer where AI agents, people, and robots work as one team.",
-    "one_liner": "AutonomousOS for healthcare organizations",
+    "long_description": "Sully.ai is printing labor for health systems by building a team of autonomous AI agents to run the entire hospital operations. The autonomous agents run like ClawdBot in the background (Receptionists, Medical Consultant, Triage Nurse, Scribes, Coders) collaborate to execute entire workflows. Replacing the $800B labor doing all the manual work at hospitals.",
+    "one_liner": "Autonomous team of AI agents that runs the entire hospital operations",
     "team_size": 49,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -4321,7 +4327,7 @@
     "all_locations": "New York, NY, USA; Remote",
     "long_description": "Nest is a lab-agnostic, comprehensive solution for organizations to launch and implement large-scale genomic programs. The platform includes the ability to triage, consent, and counsel patients for genetic testing, provide EMR-integrated clinical decision support for providers managing patients with genetic results, and manage patients’ clinical needs across the continuum of care.",
     "one_liner": "Software to launch and integrate genetics into clinical care",
-    "team_size": 11,
+    "team_size": 14,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1648243110,
@@ -4411,7 +4417,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c5062433c0cd2b53219dee1f6f03c41690b9965b.png",
     "website": "https://arintra.com",
-    "all_locations": "Austin, TX, USA",
+    "all_locations": "CA, USA",
     "long_description": "US hospitals and clinics are losing $125B every year due to delayed and inaccurate medical coding. Arintra is solving this problem by automating medical coding using clinical AI. Arintra converts a patient chart instantly into insurance claims with 96% accurate medical codes and zero human intervention.\r\n\r\nArintra has partnered with several provider clients that includes health systems and large physician groups with 100% success. Through automation of these charts, Arintra has reduced undercoding by 11% and coding-related claim denials by 43%. Arintra is headquartered in Austin, Texas. \r\n\r\nArintra is bi-directionally integrated with leading EHRs including Epic, Athena, Cerner, etc. to process patient charts directly from the EHR to create a direct-to-billing claim. This direct-to-billing claim includes precise E/M levels, CPT, ICD-10, HCC, HCPCS codes with appropriate modifiers and units.\r\n\r\nBoth founders have PhDs in AI, significant ML and NLP experience, 60+ patents and publications, and a combined 20+ years of experience working at B2B companies and startups in Silicon Valley.",
     "one_liner": "Medical coding automation",
     "team_size": 50,
@@ -4784,7 +4790,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -4860,7 +4866,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c4e725df0c7bd2ece41618fab3a7e4124841d58.png",
     "website": "http://invisionmedtech.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "At InVision, we use AI to help streamline the interpretation of ultrasounds and identify diseases that may have been missed by human readers. Our models have been tightly integrated into the clinical workflow to allow easy usage by clinicians. Our work has previously been peer-reviewed and published in several top medical venues, including Nature (2020), Nature Medicine (2021), Lancet Digital Health (2021), JAMA Cardiology (2022). Results from our blinded and randomized clinical trial on evaluating cardiac function have also been recently presented as a Late Breaking Clinical Trial at the European Society of Cardiology.",
     "one_liner": "AI Diagnosis of  Heart Disease",
     "team_size": 2,
@@ -4882,6 +4888,8 @@
       "Healthcare"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -4992,15 +5000,16 @@
     "slug": "glass-health",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4bfc350809e1c4f0b4e0ccc1e6449d3a68998b6.png",
-    "website": "http://glass.health",
-    "all_locations": "San Francisco, CA, USA",
+    "website": "https://glass.health",
+    "all_locations": "",
     "long_description": "We empower clinicians with our AI platform for developing differential diagnoses and drafting clinical plans.",
-    "one_liner": "AI-Powered Clinical Decision Support",
-    "team_size": 2,
+    "one_liner": "AI-Powered Clinical Decision Support & Ambient Scribing",
+    "team_size": 7,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1671385379,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Health Tech",
       "Digital Health",
@@ -5017,8 +5026,7 @@
       "Healthcare IT"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -5035,7 +5043,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dce31c6ca3dabf16bfd5ee207762b419f47372bd.png",
     "website": "https://www.pledge.health/",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "Our AI browser assistant automates insurance tasks like verifying benefits, submitting prior auths, checking claim statuses, and more across all payer portals, directly from the clinic's EHR. It does exactly what the admin team is doing today, just helps them do it 10x faster and as thoroughly as a seasoned teammate.",
     "one_liner": "AI RCM assistant that handles any insurance task on payer portals for…",
     "team_size": 2,
@@ -5059,6 +5067,8 @@
       "Healthcare IT"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -5078,7 +5088,7 @@
       "Scanbase",
       "Inc."
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2982f68c8c82ccb0dcb8909ae50c7cdbbdcd9b70.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c9177f461ffabba1796fab772ec9f376ad91bf4e.png",
     "website": "https://www.scanbase.com",
     "all_locations": "Los Angeles, CA, USA",
     "long_description": "Scanbase makes it easy for medical companies to convert photos of rapid diagnostic tests into results. We do this by providing a simple API that any medical company can access.\r\n",
@@ -5088,11 +5098,11 @@
     "subindustry": "Healthcare -> Diagnostics",
     "launched_at": 1670991822,
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
       "Computer Vision",
       "Health Tech",
-      "Telemedicine"
+      "Telemedicine",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5226,7 +5236,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c88fa9e34c4a724f42d4470f0b3d2c1bd0ae22cd.png",
     "website": "https://gethipposcribe.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Burdensome documentation is the #2 reason causing burnout for physical therapists. More than half of all physical therapists have to write documentation in their free time without pay. up to 2 hours a day. \r\n\r\nOur AI Scribe listens, generate first draft of clinical documentation in minutes, and sync reviewed documentation to EMR in 2 seconds. With us, clinicians can finish documentation 70% faster and become happier. ",
     "one_liner": "AI assisted documentation for PT/OT/SLP",
     "team_size": 2,
@@ -5250,7 +5260,8 @@
       "Healthcare"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -5472,7 +5483,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -5536,6 +5547,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/prosper",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/prosper.json"
+  },
+  {
+    "id": 28867,
+    "name": "Shasta Health",
+    "slug": "shasta-health",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d0ddbae01a1bda2827881248dc2c26ab87f27982.png",
+    "website": "https://www.shasta.health",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Shasta Health builds AI agents to handle patient calls, verify insurance and automate admin tasks for healthcare clinics",
+    "one_liner": "AI calling & browser agents for healthcare",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare Services",
+    "launched_at": 1690927737,
+    "tags": [
+      "Health Tech",
+      "Digital Health",
+      "Healthcare",
+      "Healthcare IT",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare Services"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/shasta-health",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/shasta-health.json"
   },
   {
     "id": 28893,
@@ -5719,18 +5773,18 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/174cf352bddd34701bef4a958ce1e21e7d49de3d.png",
     "website": "https://www.cairhealth.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Cair Health empowers billing companies, care management platforms, EHRs, offshore BPOs, provider groups, and specialty pharmacies with AI-driven RCM solutions.  Our suite of AI Agents helps RCM teams streamline operations, reduce manual costs, and improve consistency—while maintaining full control over core workflows. Cair is trusted by 100+ practices across the country — including iconic VC-backed digital health startups, leading specialty EHRs, and some of the largest billing companies and BPOs\r\n\r\nBacked by Y Combinator, Foundation Capital, Soma Capital, Translink Capital & many others.. ",
-    "one_liner": "Predictive analytics and automation for medical claims",
+    "one_liner": "AI Agents for Healthcare RCM",
     "team_size": 6,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1690913334,
     "tags": [
+      "Artificial Intelligence",
       "Health Tech",
       "Healthcare",
       "Health Insurance",
-      "AI",
       "ML"
     ],
     "tags_highlighted": [],
@@ -5744,7 +5798,8 @@
       "Healthcare IT"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -5826,7 +5881,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -5846,53 +5901,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/simbie-ai",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/simbie-ai.json"
-  },
-  {
-    "id": 29134,
-    "name": "Cognitio Labs",
-    "slug": "cognitio-labs",
-    "former_names": [
-      "Flair Technology Services Inc.",
-      "Flair",
-      "Flair Health",
-      "Flair Technologies"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d3245675111b9595800bc8372727af2a05abfea.png",
-    "website": "https://www.flairhealth.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "AI for Contract Audits, Negotiation & Payment Compliance",
-    "team_size": null,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1690407835,
-    "tags": [
-      "Artificial Intelligence",
-      "Health Tech",
-      "B2B",
-      "Data Science",
-      "Healthcare IT"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cognitio-labs",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/cognitio-labs.json"
   },
   {
     "id": 29159,
@@ -5917,7 +5925,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -5947,16 +5955,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Scritch is building the leading AI systems for veterinary medicine, starting with voice agents that automate front-desk operations in veterinary practices.",
     "one_liner": "AI operating system for veterinary care",
-    "team_size": 5,
+    "team_size": null,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1707453846,
     "tags": [
+      "Artificial Intelligence",
       "Consumer Health Services",
       "Health Tech",
       "B2B",
-      "Healthcare",
-      "AI"
+      "Healthcare"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6126,16 +6134,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Andy is AI software that completes documentation for nurses doing home visits. Our software saves $8B a year; Tiantian was previously a PM at Google’s healthcare business and Max was a staff engineer on the health team at Apple. \r\n\r\nAndy benefits nurses and the agencies that employ them. Agencies that use Andy see up to 45% more detailed charts, 2x greater nurse productivity, and timely submission (no more billing delays!) With Andy, clinicians get their evenings back. \r\n\r\nHome health is the fastest growing segment of healthcare, doubling to $251B by 2031. Combined with recent nursing shortages and burnout, we’re seeing not just urgency, but excitement and joy, around adopting AI for home health. ",
     "one_liner": "Faster clinical documentation for home health nurses",
-    "team_size": 2,
+    "team_size": 5,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1707354939,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Health Tech",
       "B2B",
-      "Healthcare",
-      "AI"
+      "Healthcare"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6149,7 +6157,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -6181,10 +6191,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "Healthcare",
       "Healthcare IT"
@@ -6257,17 +6267,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae2e103cef868d10d11f8eda1c9371448e8a4640.png",
     "website": "https://www.getcodeshealth.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Codes automates medical record retrieval. Today, documents are scattered across EHRs, providers, and faxes; we use AI to compile & analyze docs law firms, providers, and more. ",
-    "one_liner": "Perfect medical histories. ",
-    "team_size": 10,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
+    "long_description": "Codes automates medical record retrieval. Today, documents are scattered across EHRs, providers, and faxes; we use AI to compile & analyze docs for law firms, providers, and more. ",
+    "one_liner": "Medical Record Retrieval with Zero Human Error",
+    "team_size": 12,
+    "industry": "B2B",
+    "subindustry": "B2B",
     "launched_at": 1721954121,
     "tags": [
       "Artificial Intelligence",
       "Health Tech",
       "B2B",
-      "Healthcare",
       "LegalTech"
     ],
     "tags_highlighted": [],
@@ -6277,7 +6286,7 @@
     "batch": "Summer 2024",
     "status": "Active",
     "industries": [
-      "Healthcare"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -6292,6 +6301,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/codes-health.json"
   },
   {
+    "id": 29679,
+    "name": "Dodo",
+    "slug": "dodo",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/931b010912edad6092eb6dc209a64e86f18872c9.png",
+    "website": "https://www.dodo.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Dodo turns client communication into booked appointments, completed workflows, and predictive analytics, powering millions of client interactions annually for hundreds of clinics.\r\n\r\nOur multi-agent system autonomously runs scheduling, refills, intake, and follow-ups across calls and texts — integrating directly with clinic systems to cut communication overhead ~70% and act like a trained CSR 24/7.",
+    "one_liner": "AI agents that handle communications for clinics",
+    "team_size": 3,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1723044153,
+    "tags": [
+      "Health Tech",
+      "Dental",
+      "Call Center",
+      "AI",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dodo",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/dodo.json"
+  },
+  {
     "id": 29739,
     "name": "Planbase",
     "slug": "planbase",
@@ -6301,7 +6353,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Planbase has everything health clinics need to manage their team in one place: capacity planning, employee scheduling, credentialing and payroll.\r\n",
     "one_liner": "AI workforce management for healthcare ",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1723528837,
@@ -6341,7 +6393,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c3ccc32c3cef12a79c45aceb7aa532c954f0602.png",
     "website": "https://www.brighterway.ai/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "At Brighterway, we use AI to speed up the medical record review process in the Workers' Compensation Industry. Physicians and claims handlers spend hours reviewing thousands of pages of medical documents– our technology highlights the information that is most relevant to a doctor's specialty or a given injury, streamlining their review process and saving them time.\r\n\r\nBrighterway structures and deduplicates disorganized medical records (PDFs) and extracts the content that is medically relevant and related to a given claim, so they can focus on what matters most.",
     "one_liner": "Streamlining the medical record review process in workers comp",
     "team_size": 14,
@@ -6366,7 +6418,8 @@
       "Healthcare IT"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -6375,6 +6428,51 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/brighterway",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/brighterway.json"
+  },
+  {
+    "id": 29790,
+    "name": "YouShift",
+    "slug": "youshift",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a22f1efd256331a2e5ea299a5c6ecd931817254.png",
+    "website": "https://www.you-shift.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "YouShift uses AI to automate hospital shift scheduling, replacing legacy software and eliminating the need for full-time schedulers. And scheduling is just the beginning — we're building the future of healthcare workforce management.",
+    "one_liner": "The OS for hospital workforce management",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Human Resources",
+    "launched_at": 1738883676,
+    "tags": [
+      "Health Tech",
+      "Healthcare",
+      "HR Tech",
+      "Operations",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Human Resources"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/youshift",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/youshift.json"
   },
   {
     "id": 29794,
@@ -6472,7 +6570,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a8759a02d8be9a9d533e889c8828572da197bc1b.png",
     "website": "https://www.futureclinic.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "NY, USA",
     "long_description": "FutureClinic is a platform that makes it easy for any doctor to open their own digital clinic. Our AI assistant takes a comprehensive medical history using an empathic chat or voice-based interface, uses sophisticated medical reasoning to narrow down likely diagnoses, and produces evidence-based treatment suggestions for each patient. Licensed doctors then review the text-based summaries of the cases our AI provides, and choose how to manage the patients. In this fashion, we're able to deliver end-to-end healthcare in a way that makes personalized, expert healthcare scalable to 8 billion people around the world. ",
     "one_liner": "Personal doctors through chat",
     "team_size": 4,
@@ -6518,7 +6616,7 @@
     "all_locations": "Oakland, CA, USA",
     "long_description": "Careforce builds AI Workers for healthcare orgs to take on coordination burden from staff and reduce time of care by autonomously identifying and outreaching patients (through phone, text, email, & mail) to schedule visits, book screenings, complete pre-post, and onboard. \r\n\r\nThese agents require no integration, can navigate all tools, speak 29 languages, come with 50+ outreach scripts and have a remarkable 80% conversation-to-booking closing rate.",
     "one_liner": "AI Workers for Healthcare Orgs to Find, Call & Schedule More Patients.",
-    "team_size": null,
+    "team_size": 9,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1730747199,
@@ -6820,50 +6918,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/g-lnk.json"
   },
   {
-    "id": 30338,
-    "name": "CopyCat",
-    "slug": "copycat",
-    "former_names": [
-      "Platter"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3785aeb576199608d424a1f1a22cefc23e51e52e.png",
-    "website": "https://runcopycat.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "CopyCat helps dermatology clinics deliver lab results to their patients. We use voice AI to provide simple explanations, answer any FAQs, and schedule patients for treatment.",
-    "one_liner": "AI Biopsy Callback Platform for Dermatologists",
-    "team_size": 3,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1734580429,
-    "tags": [
-      "Artificial Intelligence",
-      "Health Tech",
-      "B2B",
-      "Healthcare",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/copycat",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/copycat.json"
-  },
-  {
     "id": 30399,
     "name": "Frekil",
     "slug": "frekil",
@@ -6872,19 +6926,19 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e885d9503dffbb01e24f5bd3a78965979764099.png",
     "website": "https://www.frekil.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Today, it takes months to understand how drugs perform in the real world, delaying safety insights, slowing approvals, and costing lives. Frekil turns that months-long process into minutes, with full auditability and regulatory-grade rigor.\r\n\r\nFrekil automatically generates real-world evidence of drug performance from EHR and claims data. It acts like an AI Biostatistician that understands medical ontologies and statistical methods, running complex analyses on autopilot.\r\n\r\nWe help Pharma, Biotech, CROs, and Clinical Researchers to run RWE studies 100x faster and produce publication-ready retrospective studies and FDA/EMA-ready evidence packages with transparent lineage in minutes.",
-    "one_liner": "Intelligence Layer for Real World Clinical Data",
+    "all_locations": "Bengaluru",
+    "long_description": "Today, it takes months to understand how drugs perform in the real world, delaying safety insights, slowing approvals, and costing lives. Frekil turns that months-long process into minutes, with full auditability and scientific rigor.\r\n\r\nFrekil accelerates real world evidence (RWE) generation for life sciences companies from months to minutes. It connects to fragmented clinical data (EHR, Claims, etc.), harmonizes it, and lets teams run end-to-end studies from cohort design to SAP, statistical analysis, and final reports.",
+    "one_liner": "Accelerate Real World Evidence (RWE) Generation from months to minutes",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1744440110,
     "tags": [
-      "Artificial Intelligence",
       "Health Tech",
       "B2B",
+      "Biotech",
       "Healthcare",
-      "Healthcare IT"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6896,8 +6950,8 @@
       "Healthcare"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "India",
+      "South Asia"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -7000,50 +7054,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/aegis.json"
   },
   {
-    "id": 30641,
-    "name": "Overdrive Health",
-    "slug": "overdrive-health",
-    "former_names": [
-      "Overdrive Health",
-      "Overdrive"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9f6d5714c40148baca15996e7bc186b870ee0af4.png",
-    "website": "https://overdrive.health",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Overdrive Health offers AI powered medical billing services, helping providers get paid more money in less time. Our technology enables us to provide the best quality insurance and patient billing services for a fraction of the usual cost",
-    "one_liner": "AI Powered Medical Billing",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare Services",
-    "launched_at": 1761922527,
-    "tags": [
-      "Health Tech",
-      "Healthcare",
-      "Health Insurance"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare Services"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/overdrive-health",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/overdrive-health.json"
-  },
-  {
     "id": 30657,
     "name": "Nori",
     "slug": "nori",
@@ -7131,50 +7141,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/careswift.json"
   },
   {
-    "id": 30668,
-    "name": "Wedge",
-    "slug": "wedge",
-    "former_names": [
-      "supermodel",
-      "Supermodel AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f77131cbecf4a204722622db553ac42245dbff78.png",
-    "website": "https://www.wedge.health",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "The Operating System for Health AI: we deploy, govern, and scale AI agents across healthcare organizations.",
-    "one_liner": "Palantir for Healthcare AI Agents",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1753822608,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Health Tech",
-      "Healthcare"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/wedge",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/wedge.json"
-  },
-  {
     "id": 30681,
     "name": "Parachute",
     "slug": "parachute",
@@ -7186,7 +7152,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ffdb102f014e8ce8401417ee051d9fbec55550e0.png",
     "website": "https://parachute-ai.com",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "Parachute helps hospitals adopt AI safely and at scale. We vet AI tools that fill clinical gaps, run state-of-the-art evaluations, monitor every model for drift and compliance, and lock every decision in an immutable audit trail.",
     "one_liner": "Infrastructure for hospitals to monitor and deploy clinical AI ",
     "team_size": 2,
@@ -7211,49 +7177,6 @@
       "Healthcare IT"
     ],
     "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/parachute",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/parachute.json"
-  },
-  {
-    "id": 30754,
-    "name": "Locata",
-    "slug": "locata",
-    "former_names": [
-      "Locata AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0351a7bc0e508af83b9f25fa8db67212e25a78c.png",
-    "website": "https://www.locatahealth.com/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Locata is an AI referral management platform for Primary Care. We deploy AI agents to automate every step of the referral process that back-office staff face daily, from submitting prior authorizations to broadcasting updates and following up with patients. This frees up staff to focus on patient care.\r\n\r\nPrimary care back-offices are severely understaffed and overburdened by administrative work associated with referrals. Additionally, patients suffer navigating the complex referral process, which can have disastrous health effects if they don’t get the care they need. These factors point to a glaring gap in the system—where out of over 100 million specialist referrals issued annually in the US, only half are actually completed. Locata is tackling this problem head-on, saving administrative staff hours each week and ensuring that the referral process goes as smoothly as possible for patients and their providers.\r\n\r\nAlejandro and Josh met at Stanford where they graduated with BS degrees in Computer Science. Alejandro was a senior software engineer at Meta’s Reality Labs where he led development of several AI features for wearable products and prior to that conducted AI research at Stanford Medicine. Josh graduated with a masters in Computer Science, specializing in AI, before working as a software engineer at Google where he developed AI products that served over 1 billion users.\r\n\r\nWithin two weeks of building our product, we signed a major regional health center and have saved them over 100 hours of work in our first month live.",
-    "one_liner": "AI Referral Automation for Primary Care Clinics",
-    "team_size": 3,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1753486430,
-    "tags": [
-      "SaaS",
-      "Health Tech",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "regions": [
       "United States of America",
       "America / Canada"
     ],
@@ -7262,8 +7185,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/locata",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/locata.json"
+    "url": "https://www.ycombinator.com/companies/parachute",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/parachute.json"
   },
   {
     "id": 30868,
@@ -7405,11 +7328,11 @@
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1759865815,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "Health Tech",
       "Healthcare",
-      "Healthcare IT"
+      "Healthcare IT",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7434,122 +7357,75 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/lunabill.json"
   },
   {
-    "id": 31109,
-    "name": "Beacon Health",
-    "slug": "beacon-health",
+    "id": 31383,
+    "name": "Juno",
+    "slug": "juno-chat",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6d74523afde78b3ac3597bb4170a5287e3f38c36.png",
-    "website": "https://www.beaconhealth.ai/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Beacon Health (YC W26) is building AI agents for primary care - starting with value-based care.\r\n\r\n\r\nPrimary care is the primary source of care for 200M Americans but physicians don’t have the bandwidth to manage their patient panels  - preventative screenings, prior authorizations, referrals, and risk adjustment, all important work that steals time from patients. \r\n\r\nOur Al agents handle workflows for them directly in their EHR. We own them from end to end - putting their value based care on autopilot. We’re on a mission is to bring joy back to primary care.",
-    "one_liner": "AI Agents for Primary Care",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e0c6bb59547978fc3036953e8d43c990c8c000fc.png",
+    "website": "https://juno-chat.com/",
+    "all_locations": "",
+    "long_description": "Juno is an AI personal health assistant for the 1B+ people living with chronic illness. Juno builds a longitudinal health profile from conversations, biometrics, and medical history to identify patterns behind symptoms and provide tailored guidance. \r\n\r\nIsaac and Marshall started building Juno after growing up with chronic conditions and spending years trying to understand their symptoms. Like millions of others, they waited months for appointments and struggled to explain complex medical history in 15 minutes. As a result, key signals are missed, contributing to an average diagnosis time of 7.6 years. Even after receiving a diagnosis, patients are often left without a clear treatment plan and have to manage their condition alone. \r\n\r\nMany use AI chatbots for support, but without context on their medical history or symptom progression, they receive generic advice that is rarely actionable. Juno solves this by building a continuous, structured health profile for each user and connecting this fragmented health information. We spent the last year conducting research at Oxford and UCL to build our proprietary engagement layer for daily conversations, allowing Juno to ask the right questions at the right time and understand each user's health better than anyone else ever could. \r\n\r\nWe launched in October and are already at $600k in annual run rate, supporting 50,000+ patients globally. We’re building a future where everyone has a private clinical specialist in their pocket, 24/7.",
+    "one_liner": "AI Health Assistant for Chronic Illness",
     "team_size": 2,
     "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1770418074,
-    "tags": [
-      "Health Tech",
-      "Primary Care",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/beacon-health",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/beacon-health.json"
-  },
-  {
-    "id": 31163,
-    "name": "Opalite Health",
-    "slug": "opalite-health",
-    "former_names": [
-      "Calliope"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/486a2091ac156a249fa74de7d7c575fedb03c889.png",
-    "website": "http://opalitehealth.com/",
-    "all_locations": "Palo Alto, CA, USA",
-    "long_description": "Opalite makes it easy for healthcare providers to communicate with non-English speaking patients. We’re built to work inside existing clinical workflows, so providers can communicate in real time without waiting for an interpreter or delaying care. \r\n\r\nOpalite is available instantly, 24/7, and replaces traditional interpretation services with software that’s more reliable and saves millions of dollars per year.\r\n\r\nWe've built a voice AI system that is the safest, most compliant, and most accurate medical interpreter in the world.",
-    "one_liner": "Solving language barriers in healthcare",
-    "team_size": 3,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1768325224,
-    "tags": [
-      "Artificial Intelligence",
-      "Health Tech",
-      "Digital Health",
-      "Healthcare"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/opalite-health",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/opalite-health.json"
-  },
-  {
-    "id": 31177,
-    "name": "Prana",
-    "slug": "prana-health",
-    "former_names": [
-      "Prana Health",
-      "Prana",
-      "Prana Health"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c6fd6b3bc7fb91c70acd850ce7a537f0e519187f.png",
-    "website": "https://pranadoc.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Prana replaces the reactive, 15-minute annual physical with continuous, proactive care. We connect to your medical records and wearables to watch for \"clinical drift,\" catching subtle declines in health that human doctors miss between visits.\r\n\r\nMost AI health apps are just chatbots. Prana is a full-stack medical provider. Our AI acts as a always-on physician that watches your data, explains your labs, and manages your prescriptions.\r\n\r\nSafety & Scale: We automate 90% of the \"grunt work\" (history taking, logistics, triage) so our human doctors can focus purely on high-leverage decisions. This allows us to offer 24/7 physician care for a fraction of the cost of traditional care.\r\n\r\nThe Team:\r\n - Meer Patel (CEO): JHU BME. Deferred Brown Medical School to build Prana because code scales better than appointments.\r\n- Vishvam Rawal (CTO): Ex-Quant. Building high-frequency data infrastructure for health signals.\r\n- Sanjit Menon (CHO): Graduating MD Candidate. Deep clinical expertise to ensure our models practice good medicine.\r\n\r\nTraction: Live in beta with early users.",
-    "one_liner": "An AI primary care doctor in your pocket",
-    "team_size": 4,
-    "industry": "Healthcare",
     "subindustry": "Healthcare -> Consumer Health and Wellness",
-    "launched_at": 1766024605,
+    "launched_at": 1776751581,
     "tags": [
-      "Health Tech"
+      "Health Tech",
+      "Health & Wellness",
+      "Consumer Products"
     ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
-    "batch": "Winter 2026",
+    "batch": "Spring 2026",
     "status": "Active",
     "industries": [
       "Healthcare",
       "Consumer Health and Wellness"
     ],
     "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/juno-chat",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/juno-chat.json"
+  },
+  {
+    "id": 31445,
+    "name": "Harbor",
+    "slug": "runharbor",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2035055dd5fbc0e7ba3359cc653941b651ebff6b.png",
+    "website": "https://runharbor.com/",
+    "all_locations": "San Diego, CA, USA",
+    "long_description": "Harbor is a new, AI-enabled system of record for clinical trial data that replaces legacy electronic data capture (EDC) systems. Today, medical device and pharma companies spend months setting up custom EDCs that research sites then spend hours per subject per day entering data into. With Harbor, the EDC is spun up simply by reading your clinical trial protocol and research sites upload raw source documents into the platform, skipping the tedious and error-prone data entry process altogether.\r\n\r\nEDCs haven’t fundamentally changed since the 1990s. They are passive, regulatory compliant data bins that cause massive trial delays, coordinator burnout, and weeks of back-and-forth to resolve data errors. Because of this, data management currently consumes ~30% of total clinical trial budgets.\r\n\r\nWith LLM and document extraction capabilities finally reaching the accuracy, reliability, and traceability required in high-risk domains, Harbor is redefining the way data is collected and monitored in clinical trials, all while remaining fully GCP- and 21 CFR Part 11 compliant.\r\n\r\nAfter months of building our initial product, our platform is now live with its first few clinical studies. For our largest customer and their 1600 subject randomized trial, we were able to use our internal tools to get their study database configured in just one week, which was ten times faster than legacy EDC vendors quoted.\r\n\r\nWe built Harbor because we lived through this problem. Albert spent four years in clinical trials and regulatory strategy for a medical device startup, spending weeks at clinical sites watching coordinators battle legacy software firsthand. Nate brings the technical firepower, having built scalable software at Google and Ramp and as employee #1 at a previous YC startup.",
+    "one_liner": "AI system-of-record for clinical trial data",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1773340757,
+    "tags": [
+      "SaaS",
+      "Health Tech",
+      "B2B",
+      "Healthcare"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
       "United States of America",
       "America / Canada"
     ],
@@ -7558,7 +7434,47 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/prana-health",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/prana-health.json"
+    "url": "https://www.ycombinator.com/companies/runharbor",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/runharbor.json"
+  },
+  {
+    "id": 31553,
+    "name": "Framewise Health",
+    "slug": "framewise-health",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e7c03ef5bb8c84872c4ee5809b9b3d8f19f80ae0.png",
+    "website": "https://framewisehealth.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We're building the world's first personalized AI-generated videos for patients, specific to their health history and preferred language.",
+    "one_liner": "AI-personalized patient recovery videos",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1775682737,
+    "tags": [
+      "SaaS",
+      "Health Tech",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/framewise-health",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/framewise-health.json"
   }
 ]

@@ -1203,7 +1203,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/acc0e68099b17b27bc8291119107847bd622a646.png",
     "website": "https://safebeat.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "38 million people suffer from heart rhythm disorders and are recommended to start medications that can save their lives, but require rigorous ECG monitoring to start and remain on these pills. SafeBeat Rx moves beyond diagnostics to guide these therapeutics, powered by our ML ECG software that integrates with existing FDA-cleared wearables to allow seamless physician approval of drug dosing, all from a mobile phone.\r\n\r\nWe are a team of physicians, engineers, data scientists, and machine learning experts dedicated to using engineering to improve heart health.",
+    "long_description": "",
     "one_liner": "Guiding cardiac therapeutics - all from your phone",
     "team_size": 9,
     "industry": "Healthcare",
@@ -1250,7 +1250,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1911bd76396413676c56a0b5104f3203eb60b44e.png",
     "website": "https://www.trymable.com/",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "London; San Francisco, CA, USA; Remote",
     "long_description": "Mable is a personalized migraine clinic using DNA to find and provide the right medication alongside continuous expert care\r\n\r\nUsing our approach, patients have an 80% higher treatment satisfaction rate, have one extra day per week to enjoy their life and get 55% pain reduction.\r\n",
     "one_liner": "First personalized migraine clinic using genetics and telehealth.",
     "team_size": 7,
@@ -1273,7 +1273,9 @@
       "Medical Devices"
     ],
     "regions": [
+      "United Kingdom",
       "United States of America",
+      "Europe",
       "America / Canada",
       "Remote",
       "Fully Remote"
@@ -1293,7 +1295,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/06492ded72b734cf66f1e107ab0974ffc480d989.png",
     "website": "http://makaniscience.net/",
-    "all_locations": "Irvine, CA, USA",
+    "all_locations": "CA, USA",
     "long_description": "Makani Science is a medical device company based in Irvine, California. We have created the world's first wireless patch that can accurately and continuously monitor breathing. The company is co-founded by Dr. Michelle Khine and Dr. Michael Chu, two experts in the wearable monitoring space from the University of California, Irvine. \r\n\r\nThe Makani Science system will collect unique breathing waveforms from patients in everyday environments to create the first large database of respiratory patterns associated with different diseases. Data will be collected through systems sold to our initial beachhead market, where we will help improve monitoring safety in patients being sedated for medical procedures. Our long-term goal is to combine machine learning with this database to identify and predict respiratory complications for different patient populations. \r\n\r\nWe have a highly experienced team and will be FDA cleared in our beachhead market within a year.  ",
     "one_liner": "Reinventing respiration monitoring",
     "team_size": 2,
@@ -1848,5 +1850,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/selera-medical",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/selera-medical.json"
+  },
+  {
+    "id": 31435,
+    "name": "Lumius",
+    "slug": "lumius",
+    "former_names": [
+      "Lumius Imaging"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/19ff35f4e54afb89b7ab4ec1ed26198fc61066ae.png",
+    "website": "https://www.lumius-imaging.com",
+    "all_locations": "Durham, NC, USA",
+    "long_description": "Ultrasound today is still mostly 2D. Clinicians have to imagine the 3D anatomy in their head while also moving the probe at the same time. This makes procedures like vascular access hard to learn and perform consistently, especially for beginners. ~50% fail on their first attempt. Hospitals also spend millions each year on 2D ultrasound training. Meanwhile, existing 3D ultrasound devices can cost >10× as much.\r\n\r\nLumius is building fast, smart, and accessible 3D ultrasound systems to eliminate this 2D guesswork. Our technology shows a clear, real-time 3D view of what’s inside the body. It works over a large volume, not just a thin slice. The device is also affordable, compact, and portable.\r\n\r\nWe are starting with vascular access, especially central line. Future use cases include blood clot detection, tumor diagnosis, and biopsy guidance. Our long-term vision is a universal 3D ultrasound platform that brings easy-to-use, real-time imaging to a wide range of clinical and eventually consumer applications.\r\n",
+    "one_liner": "Fast, smart, accessible 3D ultrasound for everyone",
+    "team_size": 4,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Medical Devices",
+    "launched_at": 1775165077,
+    "tags": [
+      "Hard Tech",
+      "Medical Devices",
+      "Digital Health"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Medical Devices"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lumius",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/lumius.json"
   }
 ]

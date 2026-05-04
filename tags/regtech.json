@@ -330,11 +330,11 @@
     "subindustry": "B2B",
     "launched_at": 1642412738,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "B2B",
       "Compliance",
-      "Regtech"
+      "Regtech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -412,8 +412,8 @@
     "website": "https://aiprise.com/",
     "all_locations": "Santa Clara, CA, USA",
     "long_description": "Verify your customers globally with a single platform. Get 800+ data points on each business and 100+ data points on each individual and onboard with confidence.",
-    "one_liner": "AI Powered Global Compliance Platform",
-    "team_size": 36,
+    "one_liner": "AI-powered Global Compliance Platform",
+    "team_size": 42,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1656614505,
@@ -459,16 +459,16 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Hadrius allows regulated financial firms of all sizes to consolidate and automate their compliance processes using AI in one platform. Today, we're securing compliance for $3T+ AUM across our clients.\r\n\r\nWe're building the AI that will regulate the US financial system and the trillions that flows through it.",
     "one_liner": "Automating Securities Compliance",
-    "team_size": 43,
+    "team_size": 80,
     "industry": "Fintech",
     "subindustry": "Fintech -> Asset Management",
     "launched_at": 1668714980,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Compliance",
-      "Regtech"
+      "Regtech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -482,9 +482,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Growth",
     "app_video_public": false,
@@ -548,19 +546,19 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/306eaffa9ae52c97e7f7fd8c9161b13409115596.png",
     "website": "https://godiligent.ai",
-    "all_locations": "Berlin, Berlin, Germany",
+    "all_locations": "London, England, United Kingdom",
     "long_description": "We help fintech risk and AML compliance teams automate and strengthen routine customer due diligence tasks with LLMs. Our AI assistants slash cost-to-comply, improve risk detection and free up capacity for investigations that require human expertise and decision making. \r\n\r\nFintechs and banks use us to automate workflows like running thorough due diligence on a legal entity, reviewing customer documents like registry extracts, proofs of address etc and remediating false positive alerts from their AML systems.",
     "one_liner": "AI agents for fintech risk and compliance operations",
-    "team_size": 2,
+    "team_size": 10,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1706799734,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "Compliance",
       "Fraud Prevention",
-      "Regtech"
+      "Regtech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -572,7 +570,7 @@
       "Fintech"
     ],
     "regions": [
-      "Germany",
+      "United Kingdom",
       "Europe"
     ],
     "stage": "Early",
@@ -596,16 +594,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Readily uses AI to free 20 million healthcare professionals from manual compliance work so they can focus on patient care. We've helped $B healthcare organizations cut regulatory analysis, policy drafting, and audit work by up to 90%, reducing consulting spend and compliance risk.",
     "one_liner": "AI Compliance Platform for Healthcare Organizations",
-    "team_size": 8,
+    "team_size": 14,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1684821530,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Compliance",
       "Healthcare",
-      "Regtech",
-      "AI"
+      "Regtech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -620,7 +618,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -683,7 +681,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/637fd6f0b41173fce58a7cc13944c42be5d808ec.png",
     "website": "https://www.arva.ai",
-    "all_locations": "",
+    "all_locations": "London",
     "long_description": "Banks and fintechs have large teams of human analysts who conduct manual checks and reviews. We replace those human compliance analysts with AI agents that automate 80% of the manual work for faster and more compliant financial crime (AML) reviews.\r\n\r\nOur first three products are: Screening AI (discount 91% of screening alerts), KYB/C AI (speed up onboarding), Transaction Monitoring AI (handle AML transaction monitoring alerts)\r\n\r\nOur end goal is to have a whole suite of AI workers that can handle manual compliance work for banks and fintechs. A $24B opportunity in the US alone.",
     "one_liner": "AI Agents to scale AML, KYB and KYC operations",
     "team_size": 14,
@@ -707,7 +705,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United Kingdom",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -718,6 +717,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/arva-ai.json"
   },
   {
+    "id": 30057,
+    "name": "Luthor",
+    "slug": "luthor",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bb20b2bce4f5e0cb26cffa31072a6cc5d7bc7145.png",
+    "website": "https://luthor.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Luthor replaces fragmented compliance workflows with a single system that reviews, enforces, and logs every piece of marketing content the moment it’s created.\r\n\r\nGenerative AI has made content production effortless. Manual compliance review has not kept up. This gap is now the largest and fastest-growing source of risk in the enterprise.\r\n\r\nLuthor closes that gap completely. Every claim is checked against your policies, your regulations, and your approved sources before it goes live. Marketing teams move faster. Compliance teams gain complete confidence, with every message verified and fully auditable.\r\n\r\nTrusted by asset managers, RIAs, lenders, banks, and credit unions to operate at AI-era volume while meeting SEC, FINRA, FTC, UDAAP, and more.\r\n\r\nLuthor eliminates the gap between what companies say and what they can stand behind.",
+    "one_liner": "Real-time governance for enterprise communications",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1730139932,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Compliance",
+      "Marketing",
+      "Regtech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/luthor",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/luthor.json"
+  },
+  {
     "id": 30239,
     "name": "Cardamon",
     "slug": "cardamon",
@@ -726,7 +767,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a3e4d26d964f7e9e8a081b6c3ec2ddad6bb65119.png",
     "website": "https://cardamon.ai/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "London",
     "long_description": "Cardamon is an AI powered platform that ingests relevant regulation, understands what applies to each regulated financial firm, and gets compliance officers from regulation, to obligations, to product requirements in minutes - not weeks.\r\n\r\nFinancial firms face a host of complex regulations that make it incredibly painful to launch and maintain products in a compliant way. As a Product team at Revolut, we felt this pain deeply ourselves - we had products ready to launch but stuck in compliance limbo, often for weeks. Turns out, getting compliant took as long as building the product itself. \r\n\r\nFrustrated, we dug in and were shocked by how manual and inefficient the processes were. That’s when it clicked: there’s a huge opportunity to automate the boring stuff (and solve our own problem!). Compliance teams win because they ditch the tedious tasks. Product teams win because they ship faster. Everyone’s happy.",
     "one_liner": "AI compliance co-pilot for regulated financial businesses",
     "team_size": 2,
@@ -750,8 +791,8 @@
       "Finance and Accounting"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "United Kingdom",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -773,7 +814,7 @@
     "website": "https://www.ritivel.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Ritivel is an AI-native workspace for regulatory and medical writing teams at life sciences companies. Our AI agents draft CTDs, CSRs, INDs, and BLAs in minutes instead of weeks, helping drugs reach patients faster.\r\n\r\nEvery month a drug is delayed from reaching the market costs pharma companies ~$45M in lost revenue and more importantly, delays treatment for thousands of patients who need it. Yet regulatory teams are stuck in a painful, months-long process: synthesizing thousands of pages of clinical data, hunting through SharePoint folders for the right documents, chasing colleagues for missing inputs, and manually drafting submissions.\r\n\r\nRitivel deploys AI agents that transform how regulatory teams work. Our agents generate comprehensive first drafts directly in Microsoft Word, following FDA formatting requirements and pulling from your existing clinical data and prior submissions. Every data point includes citations linked back to the original source, so reviewers can verify with one click. Connected to SharePoint and Veeva, our agents automatically source the right documents. Integrated with Outlook, they handle reminder emails and follow-ups automatically.\r\n\r\nWe're engineers who previously built AI copilots at Microsoft Research. After 50+ conversations with pharma professionals, we discovered the critical bottleneck in regulatory submissions and built Ritivel to solve it. ",
-    "one_liner": "AI-native platform for regulatory document submission",
+    "one_liner": "AI-native platform for Life-Sciences Documentation ",
     "team_size": 3,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
@@ -806,5 +847,94 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ritivel",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/ritivel.json"
+  },
+  {
+    "id": 31279,
+    "name": "Regbase",
+    "slug": "regbase",
+    "former_names": [
+      "RegBase"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd72b079b781bbd2a4eb03627c44c4901fd5da63.png",
+    "website": "https://regbase.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "",
+    "one_liner": "Tracking global laws, grants and consultations",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1776112979,
+    "tags": [
+      "Legal",
+      "Sales Enablement",
+      "LegalTech",
+      "Regtech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/regbase",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/regbase.json"
+  },
+  {
+    "id": 31443,
+    "name": "Complir",
+    "slug": "complir",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f1f72e453635f03c2884d2d58c26211bfd627530.png",
+    "website": "https://complir.io/",
+    "all_locations": "Copenhagen, Denmark",
+    "long_description": "AI-powered product compliance platform that makes it easy for retailers to launch and scale products across borders without drowning in regulatory work. Complir's AI agents handle the regulations and documentation across every market you sell in - and keep your entire catalogue audit-ready.",
+    "one_liner": "Vanta for physical products",
+    "team_size": 13,
+    "industry": "B2B",
+    "subindustry": "B2B -> Retail",
+    "launched_at": 1774933783,
+    "tags": [
+      "Retail",
+      "Regtech",
+      "Consumer Products"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Retail"
+    ],
+    "regions": [
+      "Denmark",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/complir",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/complir.json"
   }
 ]

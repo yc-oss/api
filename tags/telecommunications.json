@@ -268,7 +268,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe1dec1da87d011bdd6e9ab33b74b859fda878b0.png",
     "website": "http://joinnecto.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "NY, USA; San Francisco, CA, USA",
     "long_description": "Everything one would need to start an ISP",
     "one_liner": "ISP starter kit",
     "team_size": 4,
@@ -445,7 +445,7 @@
     "name": "Ready",
     "slug": "ready",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b439037aa1eff5c68f155380d209a8b299776afc.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1ac7d4d42d82d2423bb634e41e990a6d65348212.png",
     "website": "https://ready.net",
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Ready builds software tools that help utility stakeholders collaborate, so that more families get better utility services at lower cost. Ready Digital Infrastructure empowers utilities to deliver next-generation digital services. \r\n\r\n",
@@ -624,12 +624,12 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/72d016d4861dc2a571618d99f2156688bbc376f2.png",
     "website": "https://flu.ke/",
-    "all_locations": "São Carlos, SP, Brazil; Remote",
+    "all_locations": "São Carlos, SP, Brazil",
     "long_description": "Brazilians hate the experience of using the traditional mobile carriers. They force you to pay for data packages you don’t need and make it impossible to switch your plans. Fluke offers a better customer experience and that’s why we have a CAC that is 50% lower and an LTV that’s 30% higher than traditional carriers.\r\n\r\nWhat’s smart about our approach is we rent infrastructure from these incumbents and build a better customer experience on top of it. This keeps our costs lows and lets us focus on what really matters: the customer experience! \r\n\r\nWe have the best network and customers are switching to us because of the service and flexibility to build their own customized mobile plans.\r\n\r\nWe are doing in telco what Nubank did in banking in Brazil.\r\n\r\nWe are Fluke, thank you!",
     "one_liner": "fluke is a full-digital mobile operator in Brazil",
-    "team_size": 18,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
+    "team_size": 26,
+    "industry": "B2B",
+    "subindustry": "B2B",
     "launched_at": 1628008828,
     "tags": [
       "B2B",
@@ -642,13 +642,13 @@
     "batch": "Summer 2021",
     "status": "Active",
     "industries": [
-      "Consumer"
+      "B2B"
     ],
     "regions": [
       "Brazil",
       "Latin America",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -832,26 +832,27 @@
   },
   {
     "id": 29284,
-    "name": "Avery",
-    "slug": "avery",
+    "name": "AveryIQ",
+    "slug": "averyiq",
     "former_names": [
       "Starlight Charging",
-      "Avery HQ"
+      "Avery HQ",
+      "Avery"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9858815bbd831276cdcb1d662f0a88316f786e6.png",
     "website": "https://callavery.com",
     "all_locations": "Austin, TX, USA",
-    "long_description": "Avery helps property managers fill vacancies faster and resolve maintenance requests automatically. Our AI property manager and leasing agents can be assigned to complete many common tasks, from getting tours scheduled to following up with vendors.  \r\n\r\nThere are nearly 300,000 third party property management companies across the US, many of whom are overwhelmed by dozens of repetitive tenant requests streaming in through antiquated software every day. Avery modernizes the property manager’s toolkit with a two-way contact center to provide an excellent resident experience.",
-    "one_liner": "AI Contact Center for Residential Property Managers",
+    "long_description": "Avery helps property managers fill vacancies faster and resolve maintenance requests automatically. Our AI property manager and leasing agents can be assigned to complete many common tasks, from getting tours scheduled to following up with vendors.  \r\n\r\nThere are nearly 300,000 third party property management companies across the US, many of whom are overwhelmed by dozens of repetitive tenant requests streaming in through antiquated software every day. Avery modernizes the property manager’s toolkit with a two-way contact center to provide an excellent resident experience.\r\n\r\nLearn more at https://averyiq.com",
+    "one_liner": "AI Copilot for Property Managers and Landlords",
     "team_size": 3,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction -> Housing and Real Estate",
     "launched_at": 1705435157,
     "tags": [
+      "Artificial Intelligence",
       "Real Estate",
       "Proptech",
-      "Telecommunications",
-      "AI"
+      "Telecommunications"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -872,8 +873,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/avery",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/avery.json"
+    "url": "https://www.ycombinator.com/companies/averyiq",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/averyiq.json"
   },
   {
     "id": 29357,
@@ -1020,7 +1021,7 @@
     "all_locations": "San Mateo, CA, USA",
     "long_description": "careCycle is an AI workforce for medicare agencies and FMOs - helping leading agencies achieve 5x higher conversions, 37% better retention, and saving thousands of agent hours.\r\n\r\nWe're transforming how Medicare agencies handle member relationships with teams of voice AI agents. We're solving the industry's biggest challenge: 50% annual member churn caused by poor post-enrollment engagement.\r\n\r\nOur multi-agent AI teams work together to handle the entire customer journey - from initial contact through enrollment and ongoing care. When a lead comes in after hours, one AI agent answers and schedules a callback, another calls at the perfect time, a third captures qualifying information, and a fourth handles the warm transfer to a licensed agent. This approach helped a leading FMO write over $2M in renewals during AEP 2024 while reducing agent talk time by 20% per sale.\r\n\r\nWe've pioneered a purpose-built solution for Medicare's unique compliance requirements. Unlike generic AI platforms, our system features built-in HIPAA/CMS compliance, real-time data structuring, and seamless CRM integration. This enables agencies of all sizes to deliver enterprise-grade member care without massive infrastructure investments.\r\n\r\nEarly metrics show the power of our approach:\r\n\r\n- 5x increase in after-hours conversion rates\r\n- 37% improvement in 90-day retention\r\n- 3,000+ agent hours saved in a single AEP\r\n- $2M+ in additional renewals during AEP 2024\r\n\r\nThe Medicare Advantage market represents a massive opportunity, with over $360B in annual premiums and growing 10% year over year. By solving the member retention challenge, we're positioning ourselves to capture significant value by transforming the member care experience for beneficiaries.",
     "one_liner": "Voice AI teams for medicare agencies.",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1740261060,
@@ -1031,7 +1032,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -1097,7 +1098,7 @@
     "name": "Lyra",
     "slug": "lyrahq",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a035006af550ba05c963eb1da0bf772b51d9511a.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a65f33dd3f6dc3e215ba91c4ce53cbf6671a44ca.png",
     "website": "https://lyra.so/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "AI notetakers clutter meetings. Multiple tabs separate knowledge.\r\nLyra brings meetings and work together in one clean workspace.\r\nYou can work on docs with AI and your team live, no screenshare required. Create follow-ups and action items as you talk. Ask your meeting questions after the call. Access auto-transcribed calls and instant summaries. Everything stays in one place with full context across every meeting.",
@@ -1107,11 +1108,11 @@
     "subindustry": "B2B -> Sales",
     "launched_at": 1746417759,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Customer Success",
       "Sales",
-      "Telecommunications"
+      "Telecommunications",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1134,5 +1135,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lyrahq",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/lyrahq.json"
+  },
+  {
+    "id": 31366,
+    "name": "Nine Fives",
+    "slug": "nine-fives",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12cace5da5d5e5852e19a386d33613f3f8222281.png",
+    "website": "https://ninefives.com/",
+    "all_locations": "",
+    "long_description": "",
+    "one_liner": "Simple, Networked, Driverless, RF Test Equipment",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1775260036,
+    "tags": [
+      "Radar",
+      "Telecommunications",
+      "Electronics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/nine-fives",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/nine-fives.json"
   }
 ]

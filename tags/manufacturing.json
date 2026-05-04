@@ -879,19 +879,19 @@
     "name": "Atomic Industries",
     "slug": "atomic-industries",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f2c7d52a1e7ee5e37927e49b00eec598f4faa0f.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ad99a50e946cb78af9f253ab66655f1d1e1b158c.png",
     "website": "http://atomic.industries",
     "all_locations": "Detroit, MI, USA",
-    "long_description": "Atomic's mission is to replicate high-skill trade knowledge of tool and die makers into AI that powers new manufacturing systems which are orders of magnitude more productive.",
-    "one_liner": "The world's first AI powered tool and die maker",
-    "team_size": 25,
+    "long_description": "Atomic is a vertically integrated plastics supplier. To offer parts better, cheaper, and faster than anyone on Earth, we became the best mold makers using AI. Our software helps us design and build the best possible mold for each unique geometry, with the goal of moving into production more rapidly than existing supply chains.",
+    "one_liner": "Software orchestrated mass production of plastics",
+    "team_size": 60,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1649630827,
     "tags": [
+      "Artificial Intelligence",
       "Hard Tech",
-      "Manufacturing",
-      "AI"
+      "Manufacturing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1013,7 +1013,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6427a932886d345ee567b4d32212b20d32be6163.png",
     "website": "https://aitechpacks.com",
     "all_locations": "Los Angeles, CA, USA",
-    "long_description": "AI Tech Packs turns images into production-ready tech packs within minutes. We allow fashion brands to save hundreds of hours and thousands of dollars otherwise spent creating manual tech packs — which typically cost $100–$500 per style and take days or even weeks to complete.",
+    "long_description": "AI Tech Packs is software that generates factory-ready techpacks in minutes for apparel design teams who currently spend 3-4 hours on each one. Our customers are brands, licensing companies, and manufacturers producing 200+ techpacks a month. We make their designers 3x more productive without new hires.",
     "one_liner": "Build factory ready tech packs in minutes.",
     "team_size": 2,
     "industry": "B2B",
@@ -1284,7 +1284,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/27cef04a2b2af454d42923ab9d77113e9f198884.png",
     "website": "https://www.versableai.com/",
-    "all_locations": "Los Angeles, CA, USA; Remote",
+    "all_locations": "CA, USA; Remote",
     "long_description": "Auto parts retailers get product data from hundreds of manufacturers that is inaccurate and inconsistent, often with big gaps in key values. They currently have a team of \"catalog managers\" who are required to process and enhance this data line by line, resulting in a week to months long lag between receiving product data and actually being able to start generating revenue from those products. \r\n\r\nVersable leverages AI to scan the web for tens of millions of auto parts listings, and uses a fine-tuned LLM with RAG to instantly process, enhance, and transform data. With just a part number, Versable is able to generate market-ready titles, product descriptions, and specs, in any format that's needed. ",
     "one_liner": "AI powered product description enhancement for the auto parts industry",
     "team_size": 3,
@@ -1627,50 +1627,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/proglix.json"
   },
   {
-    "id": 28089,
-    "name": "Thread",
-    "slug": "thread-2",
-    "former_names": [
-      "Leather"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe1ab28914af8d00a360fa68da95751ee8c4470e.png",
-    "website": "https://www.usethread.io",
-    "all_locations": "Chattanooga, TN, USA",
-    "long_description": "Thread simplifies the business processes for manufacturing companies. Upload your company documents to our secure platform, collaborate seamlessly across your organization to respond to vendor questionnaires.",
-    "one_liner": "Lifeline for your business",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1674772876,
-    "tags": [
-      "Developer Tools",
-      "B2B",
-      "Manufacturing",
-      "Enterprise",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/thread-2",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/thread-2.json"
-  },
-  {
     "id": 28221,
     "name": "Serial",
     "slug": "serial",
@@ -1770,18 +1726,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4cf3efb3a17f100893c2b9e11f3f945ba7fbdf04.png",
     "website": "https://www.mandel.ai/",
     "all_locations": "",
-    "long_description": "Mandel surfaces supply chain disruptions and supplier updates with email AI. We use AI agents that proactively extract data and email suppliers for order updates, building a real-time self updating supply chain source of truth.",
+    "long_description": "Manufacturing procurement teams spend 70% of their day buried in supplier emails and spreadsheets. Mandel fixes that. We're an AI supply chain coordinator that reads every supplier email, extracts the data that matters - POs, quotes, delivery dates, pricing - and catches disruptions before they cost you. \r\n",
     "one_liner": "AI Supply Chain Coordinator",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1691105932,
     "tags": [
-      "Generative AI",
       "Logistics",
       "Manufacturing",
       "Supply Chain",
-      "Procurement"
+      "Procurement",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1906,7 +1862,7 @@
     "all_locations": "Toronto, ON, Canada",
     "long_description": "DraftAid is the world's first generative AI for CAD manufacturing drawings, akin to GitHub Copilot but for CAD. It drastically shortens drawing creation time, turning hours into seconds.\r\n\r\nEvery product that is manufactured - from construction to aerospace, automotive, durable goods, and electronics—relies on drawings. Currently, engineers and designers painstakingly make these essential drawings manually. Draftaid streamlines this process saving teams millions in time and quality. \r\n\r\nThe idea was born out of Abdullah's experience as a mechanical design team member, where he created thousands of drawings and longed for a more efficient process. Partnering with Tahsin, a neighbour with a PhD in AI, and Mohammed, a seasoned engineering VP with experience in construction software, they turned the dream into reality.\r\n\r\nSince their launch in August, DraftAid has engaged customers through targeted outreach and word-of-mouth, securing paid pilots with subsequent contracts valued at $150,000.\r\n\r\nBe a part of ushering in the new era of CAD designs!",
     "one_liner": "Go from 3D models to CAD drawings using AI",
-    "team_size": 3,
+    "team_size": 14,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1704853466,
@@ -2100,7 +2056,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -2166,16 +2122,98 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/soff.json"
   },
   {
+    "id": 29814,
+    "name": "Vendra",
+    "slug": "vendra",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/929ad75b7088b9721f87d1e0e30daae50d49198f.png",
+    "website": "https://vendra-marketplace.io/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Vendra makes sourcing custom parts from US manufacturers effortless. Submit one RFQ and we automate the entire sourcing process - matching you with the right suppliers, handling outreach, and collecting competitive quotes. Full transparency and no middleman markups - just smarter sourcing. \r\n\r\nVisit www.vendra.io and submit an RFQ today!",
+    "one_liner": "Custom Parts, Manufactured in America 🇺🇸",
+    "team_size": 5,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1724084407,
+    "tags": [
+      "Hardware",
+      "Manufacturing",
+      "Supply Chain"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/vendra",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/vendra.json"
+  },
+  {
+    "id": 29834,
+    "name": "Rastro",
+    "slug": "rastro",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/447ef3f5bdd55f339b07fe098ff620ccfd86af36.png",
+    "website": "https://rastro.ai",
+    "all_locations": "London",
+    "long_description": "We help distributors and manufacturers turn catalog chaos into launch-ready products. Share vendor data, pull online specs and pricing, fuzzy match to your database, generate images, and output products in your exact schema.",
+    "one_liner": "The fastest way to launch product catalogs.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Retail",
+    "launched_at": 1721284235,
+    "tags": [
+      "Artificial Intelligence",
+      "Manufacturing",
+      "Retail Tech",
+      "Retail"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Retail"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rastro",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/rastro.json"
+  },
+  {
     "id": 29847,
     "name": "Bucket Robotics",
     "slug": "bucket-robotics",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/55cc697d9f14eca5a5d45772ac14d97a83df16ae.png",
     "website": "https://bucket.bot",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Bucket Robotics builds deployable computer vision systems for manufacturing — without labeling, long pilots, or fragile rules.\r\nWe turn CAD and sample data into production-ready vision models that run on existing cameras and edge hardware. No manual labeling. No cold-start problem. Models deploy in minutes and adapt as parts, defects, and lines change.\r\n\r\nOur roots are in self-driving cars (Argo AI, Uber ATG, Stack AV), where we learned how to ship perception systems that operators trust in messy, real-world environments. We’re applying that playbook to factories: robust sensing, fast iteration, and tooling engineers actually enjoy using.\r\n\r\nManufacturers struggle with inspection because parts are too variable for rules-based vision and too expensive to inspect by hand. Legacy systems are rigid, hardware-locked, and slow to customize. We take the opposite approach: software-first vision that fits into existing automation and scales across SKUs, facilities, and workflows.\r\n\r\nAmerican Manufacturing is in the middle of a $700B automation push — but quality is still a trust problem. Bucket Robotics is building the vision infrastructure that lets factories automate inspection with confidence.",
     "one_liner": "Defect detection for manufacturing built from CAD and synthetic data.",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1719001491,
@@ -2196,7 +2234,8 @@
       "Manufacturing and Robotics"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2304,10 +2343,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/92ce63f897a7a8fd8e6126b32364ff3b3ba994a1.png",
     "website": "https://www.loombotic.com",
-    "all_locations": "Toronto, ON, Canada",
+    "all_locations": "",
     "long_description": "Loombotic is automating wire harness manufacturing.",
     "one_liner": "Wire Harnesses in as little as 7 days",
-    "team_size": 4,
+    "team_size": 11,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1731992228,
@@ -2325,8 +2364,7 @@
       "Manufacturing and Robotics"
     ],
     "regions": [
-      "Canada",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2335,53 +2373,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/loombotic",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/loombotic.json"
-  },
-  {
-    "id": 30231,
-    "name": "Paragon",
-    "slug": "deployparagon",
-    "former_names": [
-      "Sift",
-      "Serix",
-      "Sift Dev",
-      "Sift"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/79ffca3b97639c7dbc3864b40c1a8a01d1691675.png",
-    "website": "https://www.runparagon.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Paragon is the AI growth engine for distributors and manufacturers, freeing up staff and growing revenue on autopilot.",
-    "one_liner": "The AI Growth Engine for Industrials",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1737662674,
-    "tags": [
-      "AIOps",
-      "Generative AI",
-      "SaaS",
-      "Manufacturing"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/deployparagon",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/deployparagon.json"
   },
   {
     "id": 30233,
@@ -2396,7 +2387,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Inversion Semiconductor is developing the next-generation chip fabrication machine, to create the most powerful chips 15x faster. Our vision is to reshore advanced chip fabrication capabilities in the West.\r\n\r\nWe're building a lithography machine. Lithography uses light to pattern circuit features on silicon. We're scaling transistors to their physical limits by shrinking particle accelerators 1000x, to create a high power light source. \r\n\r\nUsing our light source we will double transistor density for a given numerical aperture and 3x throughput.",
     "one_liner": "Manufacturing the most powerful chips, 15x faster",
-    "team_size": 5,
+    "team_size": 7,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1740019402,
@@ -2480,7 +2471,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Optifye.ai does AI performance monitoring for factory workers\r\n\r\nWe place cameras in factories and use vision AI to tell supervisors who's working and who's not in real time. \r\n\r\nThe shop floor has historically been a black box. With Optifye, manufacturing companies can now accurately measure worker output and boost efficiency!",
     "one_liner": "AI performance monitoring for factory workers",
-    "team_size": 3,
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1739567184,
@@ -2559,9 +2550,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/82e9354c307a1bd5e3bca2ede62b3b0bdfbdba15.png",
     "website": "https://www.axal.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Helping manufacturers and distributors automate the process of moving RFQs, invoices, and POs from their inboxes to their ERPs.\r\n",
-    "one_liner": "Automate Data Entry From Inbox to ERP",
-    "team_size": 2,
+    "long_description": "Helping manufacturers and distributors eliminate manual work by automating operational processes with AI.\r\n",
+    "one_liner": "AI Workers for Manufacturing and Distribution ",
+    "team_size": 13,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1736891737,
@@ -2612,7 +2603,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -2635,6 +2626,49 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/groundcontrol.json"
   },
   {
+    "id": 30430,
+    "name": "Almond",
+    "slug": "almond-2",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37312e12dc6f12e2470a531052ec0e30ee697a75.png",
+    "website": "https://almond.bot/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We build humanoid robot arms for AI researchers and AI-first robotic companies.",
+    "one_liner": "Robot hardware for AI",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1745432874,
+    "tags": [
+      "Hardware",
+      "Robotics",
+      "Manufacturing",
+      "Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/almond-2",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/almond-2.json"
+  },
+  {
     "id": 30465,
     "name": "Photonium",
     "slug": "photonium",
@@ -2643,7 +2677,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f9f89a3e11065395408b656b79f12f0fd9868a1.png",
     "website": "https://www.photoniumoptics.com/",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "Photonium is building software to automate optical system design. We supercharge optics experts with intelligent tooling to reduce costs and deliver faster. We handle the full design stack — from optimization, verification, sourcing, to prototyping — for AR/VR, quantum, biotech, metrology/chip fab, LiDAR, and more. ",
     "one_liner": "AI-Powered Optical Consulting & Software",
     "team_size": 3,
@@ -2668,7 +2702,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2685,17 +2720,17 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b6d184a7985bf94fb06fe3645712c7af87070512.png",
     "website": "https://morpho.ai/",
-    "all_locations": "",
+    "all_locations": "New York, NY, USA",
     "long_description": "We're building an AI powered platform for engineers that are building new robots and machines. \r\n\r\nWe allow users to invent and modify machine designs in a matter of minutes, not years. Ayna and Andy, the co-founders, met during their time at Harvard and started this in 2024 as their programs were wrapping up. We're commercializing 10+ years research done by our team at Harvard and MIT on this space. Our team wrote the very first papers on applying GenAI and optimization algorithms to compose robots from parts and applying computational design to fine tune machine designs. We're bringing in our deep knowledge of modifying equipment and integrating it into factories keenly understanding what makes hardware hard. \r\n\r\nWe take in parts under consideration, constraints and tasks at hand and our algorithm formulates and fine tunes from 100s of possible design options. All in a few clicks, so engineers can push hardware to market faster and companies can benefit from the inventions being done by their R&D teams. We already have two paying customers in the OEM and system integrator spaces. \r\n\r\nWe are venture backed and supported by a GBP 2.5MM grant by ARIA, the UK Government's invention agency. ",
     "one_liner": "Software tool for designing robots and machines ",
-    "team_size": 5,
+    "team_size": 7,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1746718035,
     "tags": [
-      "Artificial Intelligence",
       "Robotics",
-      "Manufacturing"
+      "Manufacturing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2708,7 +2743,10 @@
       "Manufacturing and Robotics"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2720,20 +2758,21 @@
   },
   {
     "id": 30516,
-    "name": "Bramante Biologics",
-    "slug": "bramante-biologics",
+    "name": "Bramante",
+    "slug": "bramante",
     "former_names": [
       "LabKick Corporation",
-      "LabKick"
+      "LabKick",
+      "Bramante Biologics"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bf074dabb28f6a317b41850f4ce802050e1e38af.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d13627b06670d3337bda071d8e7bccb8d6728ffd.png",
     "website": "https://www.bramantebio.com",
     "all_locations": "Cambridge, MA, USA",
-    "long_description": "Manufacturing pharmaceutical drugs faster and in the USA",
-    "one_liner": "American drug manufacturing",
+    "long_description": "We manufacturing instruments and reagents that are purpose built for AI, automated labs, and personalized medicines.",
+    "one_liner": "Life sciences instrument and reagent manufacturing",
     "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1747846039,
     "tags": [
       "Biotech",
@@ -2747,7 +2786,8 @@
     "batch": "Spring 2025",
     "status": "Active",
     "industries": [
-      "Healthcare"
+      "Industrials",
+      "Manufacturing and Robotics"
     ],
     "regions": [
       "United States of America",
@@ -2758,8 +2798,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/bramante-biologics",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/bramante-biologics.json"
+    "url": "https://www.ycombinator.com/companies/bramante",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/bramante.json"
   },
   {
     "id": 30540,
@@ -2771,9 +2811,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12837739c0d64330042216a7aa87b32fd0deb815.png",
     "website": "https://www.lumari.io/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lumari enables supply chain teams to streamline operations with always-on agents that monitor, coordinate, and take action from sourcing to delivery.",
-    "one_liner": "AI Digital Workers for Supply Chain",
-    "team_size": 4,
+    "long_description": "Lumari is the world's first AI-powered procurement automation platform purpose-built for direct materials and supply chain execution. \r\n\r\nBacked by Y Combinator, Lumari is a well-funded startup that deploys 100s of always-on AI agents that run sourcing workflows, manage RFQs, expedite purchase orders, and coordinate supplier communication end-to-end -- compressing cycle times and giving teams full visibility into active orders, RFQs, and supplier performance.\r\n\r\nFounded by engineers from Google, Tesla, Amazon, and Stripe who have built and scaled supply chain systems serving millions of users. \r\n\r\nBuilt to operate directly on top of existing tools and ERP systems, Lumari helps procurement teams move faster, eliminate operational bottlenecks, and build more resilient supply chains. No rip-and-replace, no supplier onboarding. Lumari handles the manual chase: quote follow-ups, PO confirmations, delivery status updates, and risk escalation.\r\n\r\nLumari helps companies from Fortune 500s to fast-growing startups automate work from sourcing to delivery, streamline supplier communication and order management, and bring full visibility to their procurement operations.\r\n\r\nTo learn more check out https://lumari.io/",
+    "one_liner": "AI Digital Workers for Supply Chain ",
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1747084472,
@@ -2808,26 +2848,27 @@
   },
   {
     "id": 30542,
-    "name": "LineWise",
-    "slug": "linewise",
+    "name": "Vision Lab",
+    "slug": "vision-lab",
     "former_names": [
       "Comply Genie",
-      "Vision Nexus"
+      "Vision Nexus",
+      "LineWise"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/52b288a75cbc24bbab29ace4752b6453e7db35bf.png",
-    "website": "https://www.linewise.io/",
-    "all_locations": "",
-    "long_description": "LineWise is building an AI assistant for manufacturing teams to operate and resolve production issues, from defects to breakdowns. \r\n\r\nLineWise automatically extracts frontline know-how from live video recordings, turning them into structured SOPs and training guides. It also ingests generated SOPs, machine manuals, and past breakdown logs to suggest the most probable root causes when issues occur. \r\n\r\nOperators receive step-by-step guided troubleshooting, and as they confirm outcomes, LineWise learns from each resolution - converting every fix into a reusable playbook and proactively recommending preventive actions to cut future downtime.",
-    "one_liner": "AI platform to train frontline workers to operate and fix issues",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f9c8aab3bb47bc9402833acb64276f52de063681.png",
+    "website": "https://thevisionlab.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We capture and structure real factory workflows at scale by combining first-person industrial video with SOP-level process knowledge.\r\n\r\nThis enables robotics and AI labs to train on real production data, not just controlled lab environments.",
+    "one_liner": "Industrial data layer for robotics training",
+    "team_size": 8,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1743036496,
     "tags": [
-      "Generative AI",
-      "Computer Vision",
+      "Artificial Intelligence",
+      "Robotics",
       "Manufacturing",
-      "Operations"
+      "Data Engineering"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2836,19 +2877,20 @@
     "batch": "Spring 2025",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Operations"
+      "Industrials",
+      "Manufacturing and Robotics"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/linewise",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/linewise.json"
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/vision-lab",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/vision-lab.json"
   },
   {
     "id": 30560,
@@ -2861,10 +2903,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c9c4d6c7b4eeb36609b87bd95a70ffca51164330.png",
     "website": "https://www.foundation-industries.com/",
-    "all_locations": "",
-    "long_description": "America once turned scientific breakthroughs into abundant products with unmatched speed, from the moving assembly line to the integrated circuits that launched the space age. In the last 50 years, we offshored that muscle and drifted into a services-only mindset. GDP rose, but everyday prosperity stalled.\r\n\r\nWe don't accept this as final. We're building a future where advanced manufacturing is a national advantage again, creating good jobs, lowering costs, and turning frontier tech into things people can hold. The path forward is hard but clear: accelerate high-tech domestic manufacturing and make “built here” synonymous with speed, quality, and affordability.\r\n\r\nHistory points the way. When Ford industrialized assembly, cars became accessible to millions. When American fabs mastered process control, computing leapt from labs into every pocket. Progress happens when invention meets production at scale.\r\n\r\nWe're forging deep partnerships with hard-tech teams who need reliable, quick-turn precision, so they can prototype faster, launch sooner, and build more here.\r\n\r\nIf you want to help restore American productive power and enjoy the satisfaction of shipping real hardware, reach out: \r\n\r\nfounders@foundation-industries.com",
+    "all_locations": "CA, USA",
+    "long_description": "For the first time in decades, fast, flexible domestic production can be economically superior. We’re rebuilding America’s productive edge through low-volume, high-mix manufacturing, helping hard-tech teams prototype faster, launch sooner, and build more here.\r\n\r\nIf you want to restore American productive power and ship real hardware, reach out.\r\n\r\njakob@foundation-industries.com",
     "one_liner": "We supply hard tech companies with critical components.",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "Industrials",
     "subindustry": "Industrials",
     "launched_at": 1746512449,
@@ -2882,7 +2924,8 @@
       "Industrials"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2900,8 +2943,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6cbae55e86532c01c20d7392309f9280f190548.png",
     "website": "https://www.normalfactory.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Developing infrastructure to make robots useful in the real world",
-    "one_liner": "Deploying and integrating useful robots",
+    "long_description": "Testing and certifying the hardware of the future",
+    "one_liner": "Testing and certifying the hardware of the future",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials",
@@ -2934,16 +2977,63 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/normal.json"
   },
   {
+    "id": 30779,
+    "name": "Smartbase",
+    "slug": "smartbase",
+    "former_names": [
+      "Glade",
+      "Sandfish",
+      "Anytrace"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2468a3c8a7c5f1a0405c0920fd164d3512f5b6f7.png",
+    "website": "https://www.smartbase.so/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Smartbase automates order entry for manufacturers.\r\n\r\nToday, incoming purchase orders are still entered into the ERP by hand. This often requires multiple full-time employees, even at small manufacturers.\r\n\r\nSmartbase removes this manual work by automatically converting incoming purchase orders into ERP orders.\r\n\r\nWe’ve worked on factory floors, sat side-by-side with employees to learn their workflows, and even slept at a factory. We’re now onboarding our first customers onto five-figure annual contracts.\r\n\r\nThis is our wedge into automating the $26 billion clerical labor market in U.S. manufacturing.\r\n\r\nSam previously founded a DevOps platform that raised $2M. Taira was the youngest SDE 2 at AWS SageMaker Inference, where he built AI infrastructure for enterprises such as Salesforce.",
+    "one_liner": "Automated order entry for manufacturers",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1753758221,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Workflow Automation",
+      "Manufacturing",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/smartbase",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/smartbase.json"
+  },
+  {
     "id": 30781,
     "name": "Duranium",
     "slug": "duranium",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2a84608596d6e85a1a64227a175491ef9496eb22.png",
     "website": "https://www.duranium.co/",
-    "all_locations": "Alameda, CA, USA",
+    "all_locations": "Oakland, CA, USA",
     "long_description": "China and Russia control the world’s critical minerals. We can produce Titanium, Magnesium, Aluminum, Zirconium & Hafnium in the U.S. more profitably than any existing process, and carbon neutrally via co-production.\r\n\r\nCarbochlorination is the primary process for producing critical metals like titanium, hafnium, and zirconium, and was once the standard for magnesium. The problem: conventional carbochlorination relies on purchasing carbon feedstocks, wastes valuable byproducts, and is highly CO₂-intensive.\r\n\r\nDuranium changes this with a novel reactor that recycles CO₂ emissions back into feedstock (CO) while generating a valuable co-product (bleaching agents). This closed loop slashes emissions and delivers Chinese-level metal pricing without subsidies — unlocking the full potential of carbochlorination for U.S. critical mineral production.",
     "one_liner": "Reshoring critical metal production",
-    "team_size": 4,
+    "team_size": 9,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1757191317,
@@ -2954,7 +3044,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -2987,7 +3077,7 @@
     "all_locations": "Detroit, MI, USA",
     "long_description": "Nox Metals is an AI-powered metals supplier powering modern American manufacturing at scale. We are building automated factories that turn raw metal into production-ready material faster, cheaper, and more reliably than legacy service centers.",
     "one_liner": "Supplying America's Industrial Base",
-    "team_size": 8,
+    "team_size": 13,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1751751667,
@@ -3078,15 +3168,15 @@
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1761108820,
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
       "SaaS",
       "Computer Vision",
-      "Manufacturing",
-      "AI"
+      "Manufacturing"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -3129,7 +3219,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -3149,33 +3239,117 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/bravi.json"
   },
   {
-    "id": 30996,
-    "name": "Axial Composites Industries",
-    "slug": "axial-composites-industries",
+    "id": 31294,
+    "name": "Dispatch",
+    "slug": "dispatch",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/007bb2c508bd83c57c360e94b7f692b23ba29ca1.png",
-    "website": "https://www.axialcomposite.com",
-    "all_locations": "",
-    "long_description": "At Axial Composites Industries we are building the first non-planar manufacturing cell to manufacture carbon fiber parts at the speed of software for the upcoming autonomous age\r\n\r\nWe believe in the following:\r\n\r\n•\tAerospace and robotics manufacturing is going exponential\r\n•\tThermoplastic composites will be the foundational materials for such applications\r\n\r\nOur mission is to equip the West with novel composite manufacturing methods that will act as the backbone of the skyrocketing demand in autonomous systems.\r\n\r\nOur method prints stronger and lighter parts by leveraging fiber anisotropy to our advantage. We can manufacture large composite structures in a day rather than weeks. This not only allows for faster iteration cycles, but it unlocks new possibilities for composite manufacturing.",
-    "one_liner": "Carbon Fiber Manufacturing at the Speed of Software",
-    "team_size": 1,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d93a4cb68bc153f52d09c71b45093cc62ba91a62.png",
+    "website": "https://dispatch.space/",
+    "all_locations": "CA, USA",
+    "long_description": "Dispatch is building refurbishable reentry vehicles that host and return payloads for companies making ultra-high-value materials (semiconductors, biotech, and pharma) that can only be manufactured in space. Right now, these companies have no practical way to manufacture and get their products back to Earth. We solve this bottleneck.\r\n\r\nWe just returned from the Mojave Desert testing our first full-scale reentry heat shield designed to protect the satellite as it returns from space at Mach 20+, built in an apartment for 100x cheaper than competitors. To test, we held it behind a rocket engine to simulate the forces of atmospheric reentry. IT WORKED! Watch here - https://youtu.be/dhlQmnIoptg\r\n\r\nTo scale, we anchor permanent infrastructure in orbit - building high power Autonomous Space Stations designed from day one for \"lights-out\" manufacturing serviced by the reentry vehicles.",
+    "one_liner": "Satellites for manufacturing in space",
+    "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Aviation and Space",
-    "launched_at": 1757132336,
+    "launched_at": 1773166639,
     "tags": [
-      "Hard Tech",
       "Manufacturing",
-      "Aerospace"
+      "Aerospace",
+      "Advanced Materials"
     ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
-    "batch": "Fall 2025",
+    "batch": "Spring 2026",
     "status": "Active",
     "industries": [
       "Industrials",
       "Aviation and Space"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dispatch",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/dispatch.json"
+  },
+  {
+    "id": 31327,
+    "name": "Korso",
+    "slug": "korso",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41304734421d088c72c82b8e7d148826f4864bc9.png",
+    "website": "https://korsoai.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Korso builds AI agents that handle the operational work manufacturers still do manually, including processing RFQs, following up on quotes, coordinating with suppliers, and keeping production on track when things go wrong. Our agents plug into your existing ERP and CRM, understand your workflows, and act on your behalf: triaging incoming requests, chasing delayed orders, notifying customers, and escalating when human judgment is needed.\r\n\r\nWe built Korso around the reality that enterprise systems cannot afford mistakes. Every agent action passes through verification layers, tools are scoped, and critical operations go through dry-run validation and secondary review. Full audit trails mean you can see exactly what was done, why, and when.\r\n\r\nMost AI automation breaks down at the ERP integration layer. Korso's orchestration is built for the messiness of real manufacturing systems, with long-running workflows that span weeks and checkpointing that never loses progress.\r\n\r\nInstead of replacing your systems, Korso makes them work harder, so your team spends less time on coordination and more time on the work that actually matters.",
+    "one_liner": "The Intelligence Layer for Manufacturing.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1773339255,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Manufacturing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/korso",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/korso.json"
+  },
+  {
+    "id": 31367,
+    "name": "Andustry",
+    "slug": "andustry",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2189a7097412cbf54bc66b9495393ddfceb6282a.png",
+    "website": "http://andustry.com/",
+    "all_locations": "",
+    "long_description": "We build AI agents that automate discovery for industrials products, in particular mid-size machinery. Say goodbye to reaching out to 100s of suppliers, not hearing back from them and getting your first quote after several weeks. Suppliers also get to automate responding to customers, entering once what they offer and receiving ready-to-fulfill orders.",
+    "one_liner": "AI to source and sell industrial products",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1773916364,
+    "tags": [
+      "Marketplace",
+      "Sales",
+      "Manufacturing",
+      "Procurement",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
     ],
     "regions": [
       "Unspecified"
@@ -3185,127 +3359,41 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/axial-composites-industries",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/axial-composites-industries.json"
+    "url": "https://www.ycombinator.com/companies/andustry",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/andustry.json"
   },
   {
-    "id": 31097,
-    "name": "REV1",
-    "slug": "rev1",
-    "former_names": [
-      "Hefaisto"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4441d91c221886a6f88c6d67b04646e2c34ade6c.png",
-    "website": "https://rev1.so",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "REV1 automates the creation of manufacturing-ready 2D drawings from 3D CAD files. Mechanical engineers spend 25%+ of their time manually creating these drawings, a tedious but critical step for every manufactured part. \r\nREV1 reduces that process from hours to minutes, generating drawings with proper annotations and tolerancing so engineers can focus on design instead of documentation.",
-    "one_liner": "Shortening hardware design cycles by automating post-CAD work",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1769993376,
+    "id": 31374,
+    "name": "Tenet Industries",
+    "slug": "tenet-industries",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5849b2060564f1836d25c1fa4a3cd18ef1bf9553.png",
+    "website": "https://www.tenetindustries.com",
+    "all_locations": "Stockholm, Stockholm County, Sweden",
+    "long_description": "Tenet Industries is building low-cost, mass-manufacturable strike drones. \r\n\r\nWe have developed our own HW and SW platform optimized for automated manufacturing, enabling hyperscaling of production across multiple strike categories (FPV, fixed-wing, shahed-type, missiles).\r\n\r\nWe're using design-for-automation and first principles to reimagine how a defense product is developed and manufactured. Thereby lowering the cost and filling the arsenals of the west.\r\n\r\nOur first product is a kamikaze quadcopter.",
+    "one_liner": "Drones as ammunition. ",
+    "team_size": 4,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Defense",
+    "launched_at": 1775173231,
     "tags": [
-      "Hard Tech",
       "Hardware",
-      "Design",
+      "Drones",
       "Manufacturing",
-      "Enterprise Software"
+      "Industrial"
     ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/rev1",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/rev1.json"
-  },
-  {
-    "id": 31120,
-    "name": "Kyten Technologies",
-    "slug": "kyten-technologies",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/966b1340bdeb6a7d80ba3f1c34c89a62f57a4bff.png",
-    "website": "https://kytentech.com",
-    "all_locations": "Seattle, WA, USA",
-    "long_description": "Kyten Technologies is building a factory to manufacture custom aerospace-grade battery packs. \r\n100,000+ drones, submarines, and satellites are being built in the US, but the legacy supply chain can't keep up. \r\nDuring our six years at Starlink, we put 5,000+ battery packs into space. Now, we're bringing rapid development and volume production of aerospace-grade battery packs to the entire industry.",
-    "one_liner": "Custom aerospace-grade battery pack factory",
-    "team_size": 2,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1769535029,
-    "tags": [
-      "Manufacturing",
-      "Aerospace"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
+    "batch": "Spring 2026",
     "status": "Active",
     "industries": [
       "Industrials",
-      "Manufacturing and Robotics"
+      "Defense"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/kyten-technologies",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/kyten-technologies.json"
-  },
-  {
-    "id": 31224,
-    "name": "Servo7",
-    "slug": "servo7",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f0947dcd80dc342c9f938f52c6f4959bc0b1b157.png",
-    "website": "https://servo7.com",
-    "all_locations": "Amsterdam, NH, Netherlands",
-    "long_description": "You’re wasting millions of dollars on custom industry robots that take months to implement.\r\n\r\nToday, robotic automation means redesigning your entire facility for the robot to work. You need to change the floor plan, adjust conveyor belts, and re-educate your staff. This is inefficient and unnecessary.\r\n\r\nWith Servo7, you don’t have to do any of that. Automating with Servo7 is simple and fast, because our robots:\r\n1) Deploy in existing operations\r\n2) Learn from simple demonstrations\r\n3) Keep improving on the job\r\n\r\nWe have previously worked on autonomous defense systems, LLMs, autonomous driving, and hyperloops. Not just in the lab, but actually deploying them in the field. We’re already working with warehouses to automate their fulfillment.\r\n\r\nIf you work in assembly, manufacturing, or logistics, email founders@servo7.com. We're onboarding our next partners now.",
-    "one_liner": "Industry Robots - Ready to Work",
-    "team_size": null,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1769385653,
-    "tags": [
-      "Robotics",
-      "Logistics",
-      "Manufacturing",
-      "Automation",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "regions": [
-      "Netherlands",
+      "Sweden",
       "Europe"
     ],
     "stage": "Early",
@@ -3313,7 +3401,136 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/servo7",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/servo7.json"
+    "url": "https://www.ycombinator.com/companies/tenet-industries",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/tenet-industries.json"
+  },
+  {
+    "id": 31417,
+    "name": "Pairio",
+    "slug": "pairio",
+    "former_names": [
+      "Servio AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f8a4391b575bceb2e2a9bd9d078e12f8f15d5a5.png",
+    "website": "https://pairio.com",
+    "all_locations": "",
+    "long_description": "Pairo is an AI mobile app to help technicians fix broken equipment in factories. Users just take a picture of the broken machine and we search thousands of pages of manuals to find the right solution.",
+    "one_liner": "AI-native industrial maintenance software",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1776390899,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Manufacturing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pairio",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/pairio.json"
+  },
+  {
+    "id": 31511,
+    "name": "Arzana",
+    "slug": "arzana",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4785fcf24308f1fcad59fe3eda9fea668524c25f.png",
+    "website": "https://arzana.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Fortune 500 companies and the fastest-growing manufacturing firms use Arzana’s AI platform to automate order entry, quoting, and customer updates. So teams can scale faster, respond sooner, and grow without adding overhead.",
+    "one_liner": "AI automation for the manufacturing office",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1773098013,
+    "tags": [
+      "Manufacturing",
+      "Automation",
+      "Operations",
+      "AI",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/arzana",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/arzana.json"
+  },
+  {
+    "id": 31561,
+    "name": "Maquoketa Research",
+    "slug": "maquoketa-research",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe62156e10a2b01da6dc840828e94a31921135d9.png",
+    "website": "https://www.maquoketa.net",
+    "all_locations": "Elk Grove Village, IL, USA",
+    "long_description": "",
+    "one_liner": "Intelligent one-way attack drones",
+    "team_size": 5,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Defense",
+    "launched_at": 1774490913,
+    "tags": [
+      "Artificial Intelligence",
+      "Hardware",
+      "Drones",
+      "Computer Vision",
+      "Manufacturing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/maquoketa-research",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/maquoketa-research.json"
   }
 ]

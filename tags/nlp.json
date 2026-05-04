@@ -42,14 +42,16 @@
   },
   {
     "id": 695,
-    "name": "PicnicHealth",
-    "slug": "picnichealth",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d5d30956a4bfecca2df896398ce2a95079fea2f9.png",
-    "website": "https://picnichealth.com",
+    "name": "PicnicAI",
+    "slug": "picnicai",
+    "former_names": [
+      "PicnicHealth"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dbf45bc323953c8df6c8183d0e549e723e5e1a71.png",
+    "website": "https://picnic.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Healthcare needs good data. At PicnicHealth, we are building deep real-world datasets fueling cutting-edge research while giving patients control of their own medical record data. These complete, clinically-rich datasets produce unique insights — across dozens of diseases — to ultimately get the right treatments into patients’ hands faster. We work directly with patients and leverage state of the art machine learning to transform messy medical records into structured, research-ready datasets. To date we’ve helped tens of thousands of patients securely access their records and proactively contribute to advancing research in diseases that impacts their lives.",
-    "one_liner": "Empowering Patients for Deep Real World Data",
+    "long_description": "PicnicAI deploys AI into the real-world complexity of care delivery and clinical research. PicnicHealth helps patients navigate fragmented care with AI-powered tools backed by a clinical team, giving them a unified view of their health across all their doctors. PicnicResearch makes clinical research faster, cheaper, and more reliable, using AI agents and direct patient relationships to change the economics of drug development so that more treatments reach the patients who need them.",
+    "one_liner": "Intelligence to accelerate human health.",
     "team_size": 100,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
@@ -81,8 +83,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/picnichealth",
-    "api": "https://yc-oss.github.io/api/batches/summer-2014/picnichealth.json"
+    "url": "https://www.ycombinator.com/companies/picnicai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2014/picnicai.json"
   },
   {
     "id": 1238,
@@ -177,7 +179,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b0e1a686e82d7baf1431c13fde889f55c35832d4.png",
     "website": "https://www.rankscience.com",
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "CA, USA; New York, NY, USA; Remote",
     "long_description": "RankScience is the #1 trusted agency to grow SEO traffic for venture-backed Silicon Valley startups to the Fortune 500.",
     "one_liner": "Automated SEO for Startups",
     "team_size": 16,
@@ -222,7 +224,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ef928ade4bf8ee9ed7a1a6f031e860f272f0a2b.png",
     "website": "https://www.getscopeai.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "CA, USA; San Francisco, CA, USA",
     "long_description": "ScopeAI automates the process of communicating user insights to product and operation teams. The product leverages natural language processing (a form of AI) to extract insights from customer conversations. It integrates with existing support channels such as Zendesk, Intercom, Desk.com (salesforce) to automatically tag and analyze conversations for trends in customer feedback.",
     "one_liner": "Automatically extract valuable insights from customer service…",
     "team_size": 4,
@@ -339,51 +341,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/guggy",
     "api": "https://yc-oss.github.io/api/batches/summer-2017/guggy.json"
-  },
-  {
-    "id": 1826,
-    "name": "Volley",
-    "slug": "volley",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9f0d1fed30e4c74c866f99e37ec1de04b5bbc0bd.png",
-    "website": "https://volleygames.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Volley builds the best voice AI games and entertainment experiences for Amazon Alexa, smartphones, and TVs.\r\n\r\nPopular Volley voice games include “Song Quiz”, “Jeopardy!”, and “The Price Is Right”.\r\n\r\nOur voice apps are used by millions of people every month. We believe voice control will become the main way people access entertainment in their bedrooms, kitchens, living rooms, and cars, and our goal is to become the \"Netflix of Voice\" for this emerging category of devices.\r\n\r\nVolley was founded by Max Child and James Wilsterman in 2016. We're a hybrid remote/in-person company, headquartered in San Francisco.",
-    "one_liner": "Voice AI games on smart speakers, TVs, and mobile",
-    "team_size": 80,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Gaming",
-    "launched_at": 1510193033,
-    "tags": [
-      "Speech Recognition",
-      "Entertainment",
-      "Gaming",
-      "NLP",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2018",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Gaming"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/volley",
-    "api": "https://yc-oss.github.io/api/batches/winter-2018/volley.json"
   },
   {
     "id": 12015,
@@ -648,49 +605,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2021/cero.json"
   },
   {
-    "id": 24391,
-    "name": "CoLoop",
-    "slug": "coloop",
-    "former_names": [
-      "genei",
-      "Genei"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/70bf325ba6f13643292ce722346a076bac8e2292.png",
-    "website": "https://coloop.ai/",
-    "all_locations": "London, England, United Kingdom",
-    "long_description": "CoLoop is the AI copilot for insights and strategy. We help insights and strategy consultants complete their qualitative analysis in 30% of the time it would take with traditional tools and methods.",
-    "one_liner": "AI Copilot for insights & strategy",
-    "team_size": 20,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1626771804,
-    "tags": [
-      "Generative AI",
-      "NLP",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2021",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United Kingdom",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/coloop",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/coloop.json"
-  },
-  {
     "id": 25396,
     "name": "HomeRoom",
     "slug": "homeroom",
@@ -747,7 +661,7 @@
     "all_locations": "Berlin, Berlin, Germany",
     "long_description": "At voize, we believe the greatest gift to frontline workers is time - time to care, connect, and be present. Today, that time is lost to admin work that pulls nurses away from what matters most: people. \r\n\r\nWe’re changing that by building the AI companion that frees nurses from admin, giving them back up to 30% of time. We don’t replace humans - we support and amplify their impact. Today, 1,500+ care facilities trust voize, and over 100,000 nurses rely on our AI companion** to ease their daily workload.\r\n\r\nOur mission is backed with a $50M Series A funding led by Balderton Capital, with support from HV Capital, Y Combinator and other leading VCs.",
     "one_liner": "We build the AI companion for nurses, to create time for care.",
-    "team_size": 85,
+    "team_size": 140,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1648233375,
@@ -831,11 +745,11 @@
     "slug": "provision",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/385a0231f7ab5d980e79ffdfbfa16bc2183b283d.png",
-    "website": "https://useprovision.com",
+    "website": "https://provision.com",
     "all_locations": "Toronto, ON, Canada",
-    "long_description": "Provision is building the contract analysis platform for construction. Instead of manually reading through thousands of pages of documents and revisions, Provision organizes and extracts information so constructors can save time and reduce the cost of future mistakes.",
+    "long_description": "Provision is building the AI Estimator for construction. We identify risks and obligations in contracts, specs, and drawings so contractors can reduce time spent reviewing documents and focus on winning and delivering projects profitably. Backed by Y Combinator (S22).",
     "one_liner": "Ironclad for construction",
-    "team_size": 11,
+    "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1653315975,

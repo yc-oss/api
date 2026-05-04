@@ -318,7 +318,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2018",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "Fintech",
       "Insurance"
@@ -473,7 +473,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b31f0d2080bde9e9ace9229bae707bd4fc89619a.png",
     "website": "https://www.aiinsurance.io",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "NY, USA; San Francisco, CA, USA",
     "long_description": "AI Insurance is the platform that small-to-midsize insurance companies use to run every part of their business. Before we showed up, they used spreadsheets and filing cabinets – wasting as much as 60% of revenue on administrative expenses. We’re doing what Salesforce did for SMB sales teams, but we’re tapping into the over 10,000 insurance companies that waste $238 Billion dollars annually.",
     "one_liner": "AI Insurance is the platform that runs insurance companies",
     "team_size": 16,
@@ -727,6 +727,52 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2020/angle-health.json"
   },
   {
+    "id": 22196,
+    "name": "MedPiper Technologies, Inc",
+    "slug": "medpiper-technologies-inc",
+    "former_names": [
+      "MedPiper Technologies"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7d30e3e30894c40033c853cefa3efa02ec9f54b.png",
+    "website": "https://www.medpiper.com",
+    "all_locations": "Bengaluru, KA, India; Remote",
+    "long_description": "OrbitCover (by MedPiper Technologies, YC S20) is parametric travel insurance infrastructure. We power flight delay coverage that auto-settles payouts in under 5 minutes—with zero claims filing. Live on IndiGo today, processing ~49,000 policies/day via UPI. We operate as an MGA (licensed under IRDAI) with 25–30% commission economics and no balance sheet risk.",
+    "one_liner": "Instant cash payouts for delayed flights",
+    "team_size": 55,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1597677447,
+    "tags": [
+      "Fintech",
+      "Travel",
+      "Insurance",
+      "Consumer Finance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2020",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "India",
+      "South Asia",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/medpiper-technologies-inc",
+    "api": "https://yc-oss.github.io/api/batches/summer-2020/medpiper-technologies-inc.json"
+  },
+  {
     "id": 22681,
     "name": "Pibit.ai",
     "slug": "pibit-ai",
@@ -823,7 +869,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/855c741a332ef96bfff5cdcb2a2907b57709f104.png",
     "website": "http://verak.in",
-    "all_locations": "MH, India; Navi Mumbai, MH, India",
+    "all_locations": "Bengaluru; Navi Mumbai, MH, India",
     "long_description": "Verak is now part of InsuranceDekho as of April 2023.\r\n\r\nVerak offered next day coverage starting at ₹8 per day for MSMEs in India to insure any facility (shop, warehouse, factory etc) against 15+ natural & man-made perils. (*)\r\n\r\nOur team worked across the entire insurance value-chain: From satellite based underwriting to machine learning based pricing to instant quotation to WhatsApp based claims.\r\n",
     "one_liner": "Better Business Insurance for MSMEs in India",
     "team_size": 45,
@@ -1050,7 +1096,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -1275,7 +1321,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -1429,54 +1475,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/pasito.json"
   },
   {
-    "id": 27250,
-    "name": "Axle",
-    "slug": "axle",
-    "former_names": [
-      "Axle (Axle Labs",
-      "Inc.)"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc7d56236fe67577e1d51a8f6c48ef7c48d88c9a.png",
-    "website": "https://axle.insure",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Axle is Plaid for insurance - a universal API for insurance data. With Axle, companies can instantly verify insurance and monitor ongoing coverage, helping them reduce operational cost while creating a frictionless experience for users. Axle is backed by leading investors including Y Combinator and Gradient Ventures, Google's AI-focused venture fund, and angels from industry leaders like Plaid and Cox Automotive.",
-    "one_liner": "Universal API for insurance",
-    "team_size": 10,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Insurance",
-    "launched_at": 1658084084,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Fintech",
-      "B2B",
-      "Insurance"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Insurance"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/axle",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/axle.json"
-  },
-  {
     "id": 27260,
     "name": "Coverage Cat",
     "slug": "coverage-cat",
@@ -1484,7 +1482,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9bd0bbec7d523edd1bef0a7fed1c32a4c5e91d07.png",
     "website": "https://www.coveragecat.com/",
     "all_locations": "New York, NY, USA; Remote",
-    "long_description": "[The AI-native insurance broker](https://www.coveragecat.com?utm_source=bookface) fixes your coverage and finds cheaper premiums. \r\n\r\nWe provide both AI and human support so you can get fast answers on your policy and quickly get a response from a human agent so you can protect you assets or close on a new home. \r\n\r\nThe AI-first approach drives core search, support and shopping experiences to ensure you get the best prices with the correct coverage. ",
+    "long_description": "Coverage Cat, the AI-native insurance broker, fixes your coverage limits and finds cheaper premiums. \r\n\r\nWe provide both AI and human support so you can get fast answers on your policy and quickly get a response from a human agent so you can protect you assets or close on a new home. \r\n\r\nThe AI-first approach drives core search, support and shopping experiences to ensure you get the best prices with the correct coverage. ",
     "one_liner": "Consumer Optimized Insurance",
     "team_size": 4,
     "industry": "Fintech",
@@ -1576,17 +1574,17 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7fa49eb2930eeded02c619636a22909358301f3b.png",
     "website": "https://www.edencaremedical.com/",
-    "all_locations": "Nairobi, Nairobi County, Kenya; Kigali, Kigali City, Rwanda",
-    "long_description": "Eden Care is building a digital health insurer for employers in Africa. \r\n\r\n\r\n\r\nToday, health insurance operation costs in Africa are 2.2x the global average. Eden Care is cutting this by 43% making health insurance cheaper. \r\n\r\n\r\n\r\nThe $11Bn African health insurance market is projected to grow to $72Bn in just  12 years. We are targeting 90 million uninsured African employees.",
-    "one_liner": "Digital health insurance for employers in Africa",
+    "all_locations": "Nairobi, Nairobi County, Kenya",
+    "long_description": "Eden Care is building the claims infrastructure for African health insurance ",
+    "one_liner": "Claims infrastructure for African health insurance",
     "team_size": 28,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1687277447,
     "tags": [
+      "Fintech",
       "Health Insurance",
-      "Insurance",
-      "Health & Wellness"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1600,7 +1598,6 @@
     ],
     "regions": [
       "Kenya",
-      "Rwanda",
       "Africa",
       "Remote",
       "Partly Remote"
@@ -1608,7 +1605,7 @@
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
-    "app_answers": true,
+    "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/eden-care",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/eden-care.json"
@@ -1841,7 +1838,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Corgi is a full-stack insurance carrier building better, faster insurance products for startups. We’re not a broker, so we underwrite and issue policies directly, with fewer handoffs and less friction. Cutting out intermediaries lets us tailor coverage to how your company actually operates and price risk more efficiently.\r\n\r\n",
     "one_liner": "Corgi is building an AI financial infrastructure company",
-    "team_size": 70,
+    "team_size": 100,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1720644316,
@@ -1864,7 +1861,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -1880,9 +1877,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/93b1b4fbe4b8807a5770f0fad5c76f3b8685dee9.png",
     "website": "https://riskcube.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "RiskCube (YC F24) is an AI-native insurance brokerage for venture-backed startups. We simplify the complex U.S. insurance landscape with digital transparency, multi-carrier comparison, and plain-English policy breakdowns—powered by AI analysis and backed by licensed human expertise. \r\n\r\nFounders get side-by-side quotes, fair pricing benchmarks, and the right coverage (D&O, Cyber, E&O, and more) without overpaying or guesswork.",
-    "one_liner": "AI-native insurance firm for startups.",
-    "team_size": 2,
+    "long_description": "RiskCube helps startups and growing businesses become vendor-ready faster.\r\nWe use AI-driven workflows and licensed broker to compare top U.S. carriers and deliver the insurance they need to sell into enterprise customers, pass procurement, and close deals quickly.\r\nFounders get D&O, Tech E&O, Cyber, General Liability, Product Liability, and COIs — built for AI/SaaS, Fintech, GovTech, Space, and Web3 startups creating the future, from Earth today to the Moon tomorrow.",
+    "one_liner": "AI-native insurance broker for startups — from Earth to the Moon.",
+    "team_size": 3,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1731782052,
@@ -1948,13 +1945,58 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/harper",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/harper.json"
+  },
+  {
+    "id": 30338,
+    "name": "CopyCat",
+    "slug": "copycat",
+    "former_names": [
+      "Platter"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3785aeb576199608d424a1f1a22cefc23e51e52e.png",
+    "website": "https://runcopycat.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "CopyCat builds AI specifically for the insurance industry. We help brokers, carriers, and MGA's move faster and more efficiently for what will soon be the next generation of insurance operations.",
+    "one_liner": "AI agents built for insurance. ",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1734580429,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Logistics",
+      "Healthcare",
+      "Operations"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/copycat",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/copycat.json"
   },
   {
     "id": 30357,
@@ -1966,9 +2008,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/882e8b4377acdc7c7f1830babf0cd1f7b2e00058.png",
     "website": "https://vantel.com/",
     "all_locations": "",
-    "long_description": "AI-native OS for the commercial insurance brokerages.",
+    "long_description": "AI OS for commercial insurance brokerages.",
     "one_liner": "AI Platform for Commercial Insurance Brokerages",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1738065592,
@@ -2005,7 +2047,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac85a0bca77fe890f3dc1aadd1f0f8a554481659.png",
     "website": "https://www.avallon.ai/",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "Avallon automates insurance claims operations with AI agents that handle routine calls and documents processing. ",
     "one_liner": "AI agents for insurance claims operations",
     "team_size": 7,
@@ -2024,7 +2066,8 @@
       "Insurance"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2088,7 +2131,7 @@
     "all_locations": "",
     "long_description": "The domain specific AI for claims that gives leading insurers clarity and speed on the most complex claims",
     "one_liner": "Automates insurance claims and stops incorrect payouts",
-    "team_size": 6,
+    "team_size": 15,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1754360048,
@@ -2121,7 +2164,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/74e6bdb4c255f21276dac2d593eebde20bf29b57.png",
     "website": "https://getirongrid.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "",
     "one_liner": "AI Insurance for hardware.",
     "team_size": 2,
@@ -2140,7 +2183,8 @@
       "Insurance"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2160,23 +2204,17 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2529eaf040180126a595ccd660f42824d36e2dae.png",
     "website": "https://www.fernstone.com",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Fernstone is a a full-stack insurance brokerage for complex risk. We are competing directly with the 40,000 commercial insurance brokers in the US that earn $80B in revenue each year. Today, construction and security companies use Fernstone to obtain coverage to close contracts and obtain licenses. ",
+    "all_locations": "NY, USA",
+    "long_description": "Fernstone is a full stack insurance brokerage: we combine AI with licensed brokers to obtain complex insurance faster, and at better terms. Today, we manage risk for 100+ businesses in construction, security, and logistics. ",
     "one_liner": "Full-stack insurance brokerage for businesses. ",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1759775643,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "B2B",
-      "Insurance",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -2205,54 +2243,13 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa8267b34eb44ac708090ff04ca6eeef01fa75d3.png",
     "website": "https://www.meetcasey.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Casey is the fastest way for commercial insurance brokers to submit complex risks. We automate client data collection, build risk profiles, and prepare carrier-ready submissions for wholesalers and underwriters in minutes.",
-    "one_liner": "Casey automates workflows for the insurance industry",
+    "all_locations": "",
+    "long_description": "Casey is an AI-native commercial insurance broker. Our producers focus on client relationships and closing business, whilst our AI handles all the operational work behind the scenes.\r\n\r\n",
+    "one_liner": "Casey is an AI-native commercial insurance brokerage",
     "team_size": 3,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1759942019,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Insurance"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Insurance"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/casey",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/casey.json"
-  },
-  {
-    "id": 30992,
-    "name": "Amera",
-    "slug": "amera",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d7bb0bb02c318b2ce1debb47ea96eaba0ea5c5b3.png",
-    "website": "https://amerahealthsolutions.com/",
-    "all_locations": "",
-    "long_description": "Amera automates claims processing for health insurance payers. We turn messy claim inputs (PDFs, bills, receipts, EDI and non-standard submissions) into structured data that plugs into existing systems. This cuts manual entry and exception handling, speeding up operations and reducing cost.\r\n\r\nWe are already working with payers / plan administrators representing ~100k members, giving them access to more affordable care options.",
-    "one_liner": "Automating claims processing workflows for health insurance payers.",
-    "team_size": 2,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Insurance",
-    "launched_at": 1762373612,
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
@@ -2272,6 +2269,43 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/casey",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/casey.json"
+  },
+  {
+    "id": 30992,
+    "name": "Amera",
+    "slug": "amera",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d7bb0bb02c318b2ce1debb47ea96eaba0ea5c5b3.png",
+    "website": "https://amerahealthsolutions.com/",
+    "all_locations": "",
+    "long_description": "Amera automates claims processing for health insurance payers. We turn messy claim inputs (PDFs, bills, receipts, EDI and non-standard submissions) into structured data that plugs into existing systems. This cuts manual entry and exception handling, speeding up operations and reducing cost.\r\n\r\nWe are already working with payers / plan administrators representing ~100k members, giving them access to more affordable care options.",
+    "one_liner": "Automating claims processing workflows for health insurance payers.",
+    "team_size": 7,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1762373612,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
     "url": "https://www.ycombinator.com/companies/amera",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/amera.json"
   },
@@ -2284,17 +2318,14 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dff0894649ff29064b020845633a9ebb22c2e9de.png",
     "website": "https://pantainsure.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Panta is the autonomous commercial insurance brokerage run by AI agents. Today, businesses wait weeks for coverage because the $1 trillion industry runs on a \"human API\"—armies of brokers manually bridging the gap with carriers. Instead of chasing email threads and re-keying data, Panta’s clients get results 10x faster because our AI agents automate the entire back-office.\r\n\r\nVincent was a Machine Learning Engineer at Google, where he led research on foundation models for recommendation at Vertex AI. Frank was a Senior Full Stack Engineer at Apple and is a top open-source contributor to the Rust and Gleam ecosystems.\r\n\r\nWe realized that while carrier response times are slow, the real bottleneck is the broker. Traditional firms spend 80% of their time on manual data entry, forcing them to scale linearly with headcount. By replacing this work with autonomous agents, we operate with zero data entry and significantly higher margins. We are building a service business with software economics.\r\n\r\nWe formed the company in December and have already bound multiple commercial policies for clients in San Francisco.\r\n\r\nWe aren't just building a better brokerage; we are building the autonomous infrastructure that American business runs on.",
-    "one_liner": "Commercial insurance brokerage run by AI agents. Scales like software.",
-    "team_size": 4,
+    "all_locations": "CA, USA",
+    "long_description": "Panta is a technology-enabled commercial insurance brokerage: we combine AI-powered internal workflows with licensed brokers to help businesses secure complex coverage faster than anyone in the world. ",
+    "one_liner": "AI Native Commercial Insurance Brokerage ",
+    "team_size": 3,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1766956081,
-    "tags": [
-      "Insurance",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -2316,5 +2347,214 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/panta",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/panta.json"
+  },
+  {
+    "id": 31129,
+    "name": "Verdex",
+    "slug": "verdex",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f35f0d4e2a885cb8f0c3f1b37d3a0f972156d53.png",
+    "website": "https://www.verdexai.com/",
+    "all_locations": "CA, USA",
+    "long_description": "Verdex is an AI insurance adjuster. We use data streams like satellite imagery to verify claims, allowing insurers to process it immediately and save billions of dollars. We are currently helping insure over 11% of all American farmland.",
+    "one_liner": "AI Verification for Insurance",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1768239774,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/verdex",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/verdex.json"
+  },
+  {
+    "id": 31323,
+    "name": "Hedge",
+    "slug": "hedge",
+    "former_names": [
+      "Taven"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3a2579aaa172cfb606855a9d93aaa1c946945357.png",
+    "website": "https://www.hedgespecialty.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "AI native specialty insurance company",
+    "team_size": 0,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1777586182,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "B2B",
+      "Insurance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hedge",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/hedge.json"
+  },
+  {
+    "id": 31440,
+    "name": "Mount",
+    "slug": "mount",
+    "former_names": [
+      "Cybe"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa5208859312a795f7e72dfb9eb2a5149785a216.png",
+    "website": "https://mount.insure",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Mount is the Insurer for the Agent Economy.\r\n\r\nWhen AI systems autonomously sign contracts, manage finances, or talk to customers, every failure becomes the deployer's liability. Existing insurers don't want to cover this. They lack the data, the models, and the speed to assess deployed AI systems.              \r\n\r\nWe're solving this by building a risk evaluation and mitigation platform specifically for AI Agents. Mount's platform red-teams them, scores their operational risk, and issues ADR certifications (the SOC 2 for AI agents). Every evaluation generates proprietary risk data that feeds our underwriting engine, a data moat no competitor can replicate.\r\n\r\nThe AI agent market is projected to grow from $7.6B to $183B by 2033. The EU AI Act and upcoming regulation require deployers to manage AI risk. Over 90% of businesses want coverage for AI risks, yet no insurer is built to price this new risk category. We are that company.\r\n\r\nFabian studied CS at ETH Zürich with a focus on machine learning and has been building AI systems since. John founded an AI-first media company at 18 and scaled it to 400K in annual revenue. Together, they combine deep technical AI expertise with the operational intensity to build a full-stack insurance company from scratch.",
+    "one_liner": "Insure and secure your AI Agents",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1775605248,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "Security",
+      "Insurance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mount",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/mount.json"
+  },
+  {
+    "id": 31539,
+    "name": "Klaimee",
+    "slug": "klaimee",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7b072cf10e5d03192359bbf4a4f1e59c2bed6476.png",
+    "website": "https://www.klaimee.ai",
+    "all_locations": "",
+    "long_description": "Klaimee is the first insurance for your AI agents. It covers what traditional E&O and cyber explicitly carve out, so you can deploy agentic AI at scale with real peace of mind.\r\nBuilt for companies deploying agentic AI, self-serve from day one.\r\n\r\nThe problem: AI agents are taking actions autonomously buying, emailing, modifying sensitive data. AB 316 already holds deployers liable. EU AI Act enforces in August. Cyber and E&O insurance are excluding AI claims. Companies shipping agents have zero coverage and no third-party proof their agent is safe. Enterprise legal asks \"who pays if your agent breaks something?\" and there's no good answer.\r\n                                                                                                                                                                                                                                        \r\nWe built the answer. Critical-category risk evaluation, certification, financial guarantee, liability insurance and the documentation enterprise procurement needs to sign off.\r\n\r\nTeam: Ines (ex-General Manager at SafetyWing, grew insurance product from $5M to $60M revenue, 5 years launching insurance products from scratch and structuring a TokioMarine MGA into its own carrier) + Julien (AI software engineer + corporate strategy, enterprise compliance).\r\n\r\nWe understand how insurance works, what enterprises require, and why startups can't wait 6 months for either.",
+    "one_liner": "Insurance for the agentic world. You deploy agents, we cover you.",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1775456412,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Compliance",
+      "Insurance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/klaimee",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/klaimee.json"
+  },
+  {
+    "id": 31564,
+    "name": "Huscarl",
+    "slug": "huscarl",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f24300b3eb986e7f19356d2f4af0a1aefc7a5841.png",
+    "website": "https://www.huscarl.io/",
+    "all_locations": "Remote",
+    "long_description": "Huscarl is an AI-native actuarial advisory for large companies ($50M+ turnover) to optimize their insurance decisions. Our approach helps them save ~30% premiums for similar coverage, and manage their own risks like an insurance company would.\r\n\r\nOur technology:\r\n- scans through risks and quantifies them\r\n- translates complex B2B insurance policies into actuarial language\r\n- tells if companies are paying the right $ for their coverage\r\n- tells them what to keep, change or kill in their insurance program",
+    "one_liner": "Actuarial intelligence for corporate risk managers",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1776797773,
+    "tags": [
+      "Generative AI",
+      "Insurance",
+      "Customization"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/huscarl",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/huscarl.json"
   }
 ]

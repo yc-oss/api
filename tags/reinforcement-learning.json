@@ -99,16 +99,15 @@
     "website": "https://www.worldql.com/",
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "",
-    "one_liner": "Multiplayer engine for building games and RL environments",
-    "team_size": 3,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Gaming",
+    "one_liner": "Simulating problems AI can't solve yet",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
     "launched_at": 1648654841,
     "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
       "Reinforcement Learning",
-      "Gaming"
+      "Security",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -117,8 +116,7 @@
     "batch": "Winter 2022",
     "status": "Active",
     "industries": [
-      "Consumer",
-      "Gaming"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -181,13 +179,15 @@
   },
   {
     "id": 28214,
-    "name": "Keeling Labs",
-    "slug": "keeling-labs",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/96c0f2be5c049e0d754ea3c0d933d810e212ead6.png",
-    "website": "http://keelinglabs.com",
+    "name": "Atmeto",
+    "slug": "atmeto",
+    "former_names": [
+      "Keeling Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9903b97190d67a01064a67c7522d3703402c8f0c.png",
+    "website": "https://www.atmeto.com",
     "all_locations": "Los Angeles, CA, USA",
-    "long_description": "Founded in 2022, Keeling Labs was started as a place to develop and apply machine learning to solve the world's biggest problem—climate change. Our current priority is getting the grid to run on 100% clean energy, which is currently limited by battery storage (specifically, the algorithms that control them).\r\n\r\nWe're redefining these algorithms to unlock gigawatts of untapped energy storage capacity, enabling the grid to run on more clean energy from wind and solar.",
+    "long_description": "Founded in 2022, Atmeto was started as a place to develop and apply machine learning to solve the world's biggest problem—climate change. Our current priority is getting the grid to run on 100% clean energy, which is currently limited by battery storage (specifically, the algorithms that control them).\r\n\r\nWe're redefining these algorithms to unlock gigawatts of untapped energy storage capacity, enabling the grid to run on more clean energy from wind and solar.",
     "one_liner": "We develop ML that optimizes how batteries in the grid store energy",
     "team_size": 3,
     "industry": "Industrials",
@@ -219,8 +219,56 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/keeling-labs",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/keeling-labs.json"
+    "url": "https://www.ycombinator.com/companies/atmeto",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/atmeto.json"
+  },
+  {
+    "id": 29347,
+    "name": "Vibrant Labs",
+    "slug": "vibrant-labs",
+    "former_names": [
+      "Exploding Gradients",
+      "Ragas"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b03fadf62fa443c473d34c31148c9785ea34dceb.png",
+    "website": "https://vibrantlabs.com/",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "We work on benchmarking and improving the long-horizon capabilities of AI Agents. We build out specialised environments to improve the long-horizon capabilities of browser and computer use agents. ",
+    "one_liner": "RL environments for long horizon AI Agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1709606147,
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "Reinforcement Learning",
+      "Open Source",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/vibrant-labs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/vibrant-labs.json"
   },
   {
     "id": 29353,
@@ -248,7 +296,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Marketing"
@@ -279,17 +327,17 @@
     "website": "https://getjust.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Always-on AI agents for 1-1 personalization at scale",
-    "one_liner": "A modern workflow for lifecycle marketing",
-    "team_size": 5,
+    "one_liner": "Agentic Marketing Platform",
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1704840202,
     "tags": [
-      "Artificial Intelligence",
       "Reinforcement Learning",
       "Workflow Automation",
       "Personalization",
-      "Marketing"
+      "Marketing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -337,10 +385,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B"
     ],
@@ -378,7 +426,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2024",
     "status": "Active",
@@ -405,18 +453,16 @@
     "former_names": [
       "Tropir"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b42d798135f9265356b3ce6f69ea27eaee4a7b2.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3625aa6dc8b9ca3fedb43ca1043c7246c8185306.png",
     "website": "https://www.aviro.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": ".",
-    "one_liner": ".",
+    "long_description": "Aviro builds RL environments for long-horizon tool use across ML research, live web, and enterprise knowledge work. We partner with frontier labs and Fortune 100 companies to train models as high-stakes operators and perform research-grade work.",
+    "one_liner": "Environments for Long Horizon Tool Use",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1746601065,
     "tags": [
-      "Artificial Intelligence",
-      "Generative AI",
       "Reinforcement Learning"
     ],
     "tags_highlighted": [],
@@ -441,53 +487,47 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/aviro.json"
   },
   {
-    "id": 30222,
-    "name": "Altrina",
-    "slug": "altrina",
+    "id": 30247,
+    "name": "Osmosis",
+    "slug": "osmosis",
     "former_names": [
-      "Symmetric Labs",
-      "Tessa",
-      "General Agency"
+      "Gulp"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/23ee7aa773e16f7887979b0dcfa61db69ba9fd25.png",
-    "website": "https://altrina.com",
-    "all_locations": "Menlo Park, CA, USA",
-    "long_description": "Altrina automates SOPs to give humans back their time to do what matters.\r\n\r\nWe have already significantly improved organizational efficiency for local governments, law offices, insurance brokers, consulting firms, and hedge funds.\r\n\r\nFormerly General Agency/Tessa AI",
-    "one_liner": "The SOP Automation Platform",
-    "team_size": 4,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e0e653e5da051b7c87a56070249ad76479b0594.png",
+    "website": "https://osmosis.ai/",
+    "all_locations": "CA, USA",
+    "long_description": "Osmosis helps companies use reinforcement learning to fine-tune open source models that outperform foundation models. ",
+    "one_liner": "Reinforcement Learning (RL) for AI Agents",
+    "team_size": 6,
     "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1736185270,
+    "subindustry": "B2B",
+    "launched_at": 1737656598,
     "tags": [
       "Artificial Intelligence",
-      "Hard Tech",
+      "Machine Learning",
       "Reinforcement Learning",
-      "Automation",
-      "AI Assistant"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Productivity"
+      "B2B"
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/altrina",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/altrina.json"
+    "url": "https://www.ycombinator.com/companies/osmosis",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/osmosis.json"
   },
   {
     "id": 30254,
@@ -499,11 +539,11 @@
       "HUD"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/53fffc4904f866d9d44ba9a47862b594f1d45667.png",
-    "website": "https://www.hud.so",
+    "website": "https://www.hud.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "HUD (YC W25) is developing agentic evals and RL environments for Computer Use Agents (CUAs) that browse the web for frontier AI labs. Our CUA Evals framework is the first comprehensive evaluation tool for CUAs.\r\n\r\nPeople don't actually know if AI agents are working reliably. To make AI agents work in the real world, we need detailed evals for a huge range of tasks.\r\n\r\nWe're backed by Y Combinator, and work closely with frontier AI labs to provide agent evaluation and training infrastructure at scale.",
     "one_liner": "Platform for building RL environments and evals ",
-    "team_size": 5,
+    "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1740930546,
@@ -582,7 +622,7 @@
     "former_names": [
       "Phoenix"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2becf67c5cc7db1253713a370845eaacd136b86.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4fad47355d59021d6d855bc4b2dc95cbc0ef2f1a.png",
     "website": "http://trainloop.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "TrainLoop makes it effortless for developers to supercharge LLM performance through reinforcement learning.",
@@ -626,21 +666,21 @@
       "GradeAssist",
       "VibeGrade"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c364ff42f5f49e73855b938d253d14065fd07cb2.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/27388bac39ab071f08477907bbcc754dc45c3267.png",
     "website": "https://TypeOS.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Built to advance human taste to the frontier, TypeOS is the best way to write with AI.\r\n",
-    "one_liner": "AI writing you control with your taste.",
+    "one_liner": "AI that sounds like you, where you work.",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1745137302,
     "tags": [
-      "Artificial Intelligence",
       "Reinforcement Learning",
       "Consumer",
       "B2B",
-      "Productivity"
+      "Productivity",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -652,7 +692,8 @@
       "Consumer"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -663,31 +704,26 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/typeos.json"
   },
   {
-    "id": 30454,
-    "name": "Refresh",
-    "slug": "refresh",
+    "id": 30462,
+    "name": "Freesolo",
+    "slug": "freesolo",
     "former_names": [
-      "JupyPilot",
-      "Operative",
-      "Operative.sh",
-      "operative.sh",
-      "Operative"
+      "Linkd",
+      "Clado"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ccf0b2ab481c2f80ab1cae885c909b33ef41f986.png",
-    "website": "https://www.refresh.dev",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/802c9c3c1c23b840027f581702b516674e8f4729.png",
+    "website": "https://freesolo.co",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Building RL environments for coding and computer use. ",
-    "one_liner": "Evals and environments for computer use and software engineering work",
-    "team_size": 5,
+    "long_description": "Freesolo works with companies to encode user-trajectory knowledge into specialized models that outperform the state of the art at much lower latency and cost.",
+    "one_liner": "Product Native Models",
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1745867856,
+    "launched_at": 1742722403,
     "tags": [
       "Artificial Intelligence",
       "Reinforcement Learning",
-      "Recruiting",
-      "Market Research",
-      "Data Labeling"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -708,8 +744,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/refresh",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/refresh.json"
+    "url": "https://www.ycombinator.com/companies/freesolo",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/freesolo.json"
   },
   {
     "id": 30488,
@@ -724,14 +760,14 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
     "one_liner": "Specialized AI for Every Job",
-    "team_size": 6,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1746731099,
     "tags": [
+      "Artificial Intelligence",
       "Reinforcement Learning",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -756,13 +792,14 @@
   },
   {
     "id": 30501,
-    "name": "Jazzberry",
-    "slug": "jazzberry",
+    "name": "Cartpole",
+    "slug": "cartpole",
     "former_names": [
-      "Prophet"
+      "Prophet",
+      "Jazzberry"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4583558e5875db68c5b000cee75a734ef515ec5f.png",
-    "website": "https://jazzberry.ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/154693ac9eca92a2d8f93ead7153a0858c38d2b3.png",
+    "website": "https://cartpole.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We're creating reinforcement learning environments for training frontier models.",
     "one_liner": "Building reinforcement learning environments",
@@ -771,10 +808,9 @@
     "subindustry": "B2B",
     "launched_at": 1744600545,
     "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
       "Reinforcement Learning",
-      "SaaS",
+      "Data Labeling",
+      "AI",
       "ML"
     ],
     "tags_highlighted": [],
@@ -795,8 +831,49 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/jazzberry",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/jazzberry.json"
+    "url": "https://www.ycombinator.com/companies/cartpole",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/cartpole.json"
+  },
+  {
+    "id": 30506,
+    "name": "Klavis AI",
+    "slug": "klavis-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/81ca0035244a123067c03e5df2d892bbd9cb7d00.png",
+    "website": "https://www.klavis.ai/",
+    "all_locations": "",
+    "long_description": "Powering frontier AI labs with real world MCP environments and complex, long-horizon agentic tool-use data.",
+    "one_liner": "Live Environments for Training AI Agents",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1744314522,
+    "tags": [
+      "Artificial Intelligence",
+      "Reinforcement Learning",
+      "Data Science",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/klavis-ai",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/klavis-ai.json"
   },
   {
     "id": 30521,
@@ -851,7 +928,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2b9c845239fb1f16317889a4a843409e109b24f6.png",
     "website": "https://www.topological.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Topological is developing physics-based foundation models for CAD optimization. We help hardware teams iterate at the same speed that software teams do. Our technology is accelerating the engineering workflow with AI and scales design and optimization to identify the ideal designs for complex problems given their physical constraints with enhanced speed and performance. \r\n\r\nOur first model, UToP-v1, is a SOTA topology optimization model that understands physics, geometry, and manufacturability. It can generate the most efficient design given a problem’s physical requirements. It has <5% compliance error and is 1930x faster than current methods. We're reimagining mechanical engineering and computational design with precision spatial AI.",
     "one_liner": "Physics-based foundation models for CAD optimization.",
     "team_size": 2,
@@ -876,7 +953,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -927,46 +1005,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/nuntius.json"
   },
   {
-    "id": 30671,
-    "name": "AgentHub",
-    "slug": "agenthub-2",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5d79e8581245eb7d73760c80116738ec9835755e.png",
-    "website": "https://www.agenthublabs.com",
-    "all_locations": "",
-    "long_description": "AgentHub helps you catch and fix errors in your AI agents - before your users ever see them.\r\n\r\nSimulate real-world scenarios in curated RL environments for your agents - trace, evaluate, and improve agent behavior at scale. Generate large annotated datasets and experiment with different prompts, models, and configurations - all in one place - with clear visualizations of what’s working (and what’s not).\r\n\r\nBuilt by a former tech lead from Apple’s Foundation Model Eval team and a product engineer from MIT with experience working on agents at startups, AgentHub makes it easy to integrate your use case and start improving your agents quickly.\r\n\r\nOur streamlined onboarding process lets you get your agent eval environment up and running fast—no heavy lifting on your end.\r\n\r\nClose the feedback loop and build better agents, faster - with confidence. ",
-    "one_liner": "The simulation and evaluation engine for AI agents",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1753389326,
-    "tags": [
-      "Reinforcement Learning",
-      "B2B",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/agenthub-2",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/agenthub-2.json"
-  },
-  {
     "id": 30730,
     "name": "Idler",
     "slug": "idler",
@@ -976,7 +1014,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Idler builds reinforcement learning environments that teach AI models to code at expert human levels. We create training environments based on real-world coding scenarios that prepare models for the complex challenges they'll face in production.",
     "one_liner": "Reinforcement learning environments. ",
-    "team_size": 14,
+    "team_size": 13,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1749750449,
@@ -1020,16 +1058,16 @@
     "subindustry": "B2B",
     "launched_at": 1762195938,
     "tags": [
-      "Artificial Intelligence",
       "Reinforcement Learning",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2025",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B"
     ],
@@ -1056,9 +1094,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/660320374818f816f5cf14de03fe92dcab2740eb.png",
     "website": "https://hillclimb.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We derive training data from the world's brightest minds, enabling LLMs to achieve state-of-the-art model performance.",
-    "one_liner": "The world's first human superintelligence community",
-    "team_size": 3,
+    "long_description": "We work with frontier AI labs to help train their agents to become AI research scientists",
+    "one_liner": "Training Data for Recursive Self-Improvement",
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1759385382,
@@ -1067,7 +1105,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -1131,64 +1169,24 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/cortex-ai.json"
   },
   {
-    "id": 31112,
-    "name": "Burt",
-    "slug": "burt",
+    "id": 31030,
+    "name": "Haladir",
+    "slug": "haladir",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a11400ce1b300bf129e9c9b8227340f5de10efd.png",
-    "website": "https://www.trainburt.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We help teams train and deploy models specialized for their domain and use cases.\r\n\r\nGeneralist, proprietary models are impressive and have their place but at production scale and usage you need your AI agents to be powered by models that are specialists. Models you own, trained on your data, that can continuously improve for your use cases.\r\n\r\nWe've helped teams build small, specialized LLMs/VLMs that outperform SOTA models like gemini-3-flash/pro while being 10x faster and cheaper. ",
-    "one_liner": "Easily fine tune and deploy specialized models",
-    "team_size": 2,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b1a47bf16f93d71a3d1f3af6d10a6c736e170b2.png",
+    "website": "https://www.haladir.com/",
+    "all_locations": "CA, USA",
+    "long_description": "Haladir is the operational AI layer for logistics. We unify and structure data across WMS, TMS, OMS, etc., and embed solver-grade optimization, ML models, RL environments for frontier AI labs, and forecasting into the decisions that power supply chains. Today's AI brought intelligence. The next frontier is judgement.\r\n\r\nWe define operational superintelligence as AI that consistently makes maximally-optimal operational decisions in complex environments. The first component is speed: continuous decisions that take operations managers and OR analysts weeks to make, in seconds. The second is reliability: every decision is guaranteed to satisfy operational constraints. The third is scope: optimize across thousands of constraints no human or team could possibly reason about.",
+    "one_liner": "Building Operational Superintelligence.",
+    "team_size": 4,
     "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1766971540,
-    "tags": [
-      "Machine Learning",
-      "Reinforcement Learning",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/burt",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/burt.json"
-  },
-  {
-    "id": 31174,
-    "name": "Hex Security",
-    "slug": "hex-security",
-    "former_names": [
-      "Anytool"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/814cf30167622bfb5c6d35815a24f51d91529f3b.png",
-    "website": "https://hex.co",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Hex Security builds AI agents that run continuous penetration tests against your apps and infrastructure. Instead of a once-a-year penetration test, Hex Security's agents works 24/7 to find and verify critical vulnerabilities so you can prevent them before attackers.",
-    "one_liner": "Agentic Offensive Security at Scale",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1768943987,
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1766374394,
     "tags": [
       "Reinforcement Learning",
-      "Cybersecurity"
+      "Logistics",
+      "Data Engineering",
+      "Operations"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1198,7 +1196,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Security"
+      "Operations"
     ],
     "regions": [
       "United States of America",
@@ -1209,92 +1207,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/hex-security",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/hex-security.json"
-  },
-  {
-    "id": 31181,
-    "name": "Synthetic Sciences",
-    "slug": "synthetic-sciences",
-    "former_names": [
-      "InkVell"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d12b5cddde967f28e71a5bdfa173bbd8e7a0b10c.png",
-    "website": "https://syntheticsciences.ai/",
-    "all_locations": "",
-    "long_description": "We’re building the infrastructure for a future AI co-scientist, starting with computational research domains. Our thesis is that capable AI scientists require two things built in tandem: (1) a human-centric product suite that generates high-quality process data, and (2) the research infrastructure to turn that data into increasingly autonomous systems. We’re creating the product and training infrastructure needed for research agents that can execute the full scientific loop.\r\n\r\nSynthetic Sciences Web is our platform where scientists delegate complex research tasks to swarms of AI co-scientists across reading → hypotheses → methods → experimentation → results → drafting, even while they sleep. In parallel, we develop RL environments and process-based training data for LLMs, starting with agentic coding environments for ML research workflows.",
-    "one_liner": "AI co-scientists that run research end-to-end",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1770489645,
-    "tags": [
-      "Developer Tools",
-      "Reinforcement Learning",
-      "Workflow Automation"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/synthetic-sciences",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/synthetic-sciences.json"
-  },
-  {
-    "id": 31191,
-    "name": "Traverse",
-    "slug": "traverse",
-    "former_names": [
-      "Clice AI",
-      "Clice"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e15b7b6ab2a29ad8ce788a73a92e36fd7733b6a.png",
-    "website": "https://www.traverse.so",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "Reinforcement learning environments for long horizon agent journeys",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1767260558,
-    "tags": [
-      "Artificial Intelligence",
-      "Reinforcement Learning"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/traverse",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/traverse.json"
+    "url": "https://www.ycombinator.com/companies/haladir",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/haladir.json"
   },
   {
     "id": 31285,
@@ -1303,23 +1217,22 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d2a4475db614107fb0effa347e625a6885ca8045.png",
     "website": "https://grazemate.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "GrazeMate builds autonomous drones that herd cattle.\r\n\r\nAt the push of a button, our AI drones fly to a paddock, position themselves around the herd and guide them to new paddocks. Instead of a full day mustering with helicopters, motorbikes, and horses, ranchers use GrazeMate.\r\n\r\nWe work with the world's largest cattle ranches, giving them complete visibility into their operations. While our drones herd cattle autonomously, they simultaneously estimate animal weights, measure grass biomass, monitoring water levels, and detect sick animals. We're building physical AI that gives farmers superhuman capabilities - managing thousands of livestock across massive distances from their phone.",
+    "all_locations": "Sydney, NSW, Australia",
+    "long_description": "GrazeMate builds autonomous drones that herd cattle.\r\n\r\nOn command, our drones fly to a paddock, position themselves around the mob, and move them where they need to go. What used to take a full day of helicopters, motorbikes, and horses now runs on a schedule.\r\n\r\nWe work with some of the largest cattle ranches in the world. While the drones are herding, they're also estimating animal weights, measuring grass biomass, monitoring water levels, and flagging sick animals. We're building physical AI that lets a grazier manage thousands of head across millions of acres from their phone.",
     "one_liner": "Robot Cowboys that Herd Cattle with AI Drones",
-    "team_size": 4,
+    "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials -> Agriculture",
     "launched_at": 1768433444,
     "tags": [
-      "Livestock Health",
       "Reinforcement Learning",
-      "Robotics",
       "Drones",
-      "Sustainable Agriculture"
+      "Computer Vision",
+      "Agriculture"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2026",
     "status": "Active",
@@ -1328,8 +1241,8 @@
       "Agriculture"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "Australia",
+      "Oceania",
       "Remote",
       "Partly Remote"
     ],
@@ -1340,5 +1253,91 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/grazemate",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/grazemate.json"
+  },
+  {
+    "id": 31295,
+    "name": "Carrot Labs",
+    "slug": "carrot-labs",
+    "former_names": [
+      "Anyware"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c9d56ba5bab1fb6c9a7734a1a8aab7b6fbc48ed.png",
+    "website": "https://carrotlabs.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We build specialized LLMs for your business’s specific workflows and use cases, then continuously hone them against your success metrics, capturing your proprietary know-how in the model so it gets more valuable and harder to copy as you grow.",
+    "one_liner": "Continuous Fine-Tuning for AI Models",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1772517831,
+    "tags": [
+      "Artificial Intelligence",
+      "Reinforcement Learning",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/carrot-labs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/carrot-labs.json"
+  },
+  {
+    "id": 31373,
+    "name": "Refortifai",
+    "slug": "refortifai",
+    "former_names": [
+      "RefortifAI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b37c6cc458022b158a3f2abce590be2ed10116fb.png",
+    "website": "https://refortif.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Refortifai builds RL environments to solve and evaluate complex tasks involving electronic design.",
+    "one_liner": "Reasoning for Electronic Design Automation ",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1774743443,
+    "tags": [
+      "AI-Enhanced Learning",
+      "Reinforcement Learning",
+      "B2B",
+      "Semiconductors",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/refortifai",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/refortifai.json"
   }
 ]

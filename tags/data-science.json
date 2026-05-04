@@ -88,7 +88,7 @@
     "former_names": [],
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "http://www.teamleada.com",
-    "all_locations": "Berkeley, CA, USA",
+    "all_locations": "CA, USA; Berkeley, CA, USA",
     "long_description": "Leada offers a data training program that companies utilize to on-board their employees in the company's data.\n\nThe data training program enables professionals to understand how to answer the common business questions they face in their role using their BI tool, SQL, R, or Python.",
     "one_liner": "Online enterprise training in data science and analytics.…",
     "team_size": 1,
@@ -229,7 +229,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2019",
     "status": "Active",
@@ -347,53 +347,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2020/mito.json"
   },
   {
-    "id": 22196,
-    "name": "MedPiper Technologies, Inc",
-    "slug": "medpiper-technologies-inc",
-    "former_names": [
-      "MedPiper Technologies"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7d30e3e30894c40033c853cefa3efa02ec9f54b.png",
-    "website": "https://www.medpiper.com",
-    "all_locations": "Bengaluru, KA, India",
-    "long_description": "MedPiper, a full-stack data platform that unifies and delivers end-to-end process for member and population health data: from data sourcing -> data verification -> data readiness -> data standardisation -> data logistics -> data interoperability . We have enabled payors, life sciences, pharma and health platforms obtain deeper insights into health,  delivering better coverage and health outcomes. \r\n\r\nAside from increasing network of healthcare & social determinant data partners, we move workloads that need extensive data handling workflows, to a simple workbench that  can run and deploy rule engines on insights and braoder analytics : contributing to increased customer engagement, depeer personalised products, better GM structure etc for our clients. \r\n\r\n\r\n\r\nA few core things we deliver:\r\n\r\n- Easy integration (API-accessible),\r\n- A seamless experience (for all involved: patient, payor, provider, lab, mobile workforce),\r\n- A commitment to clinical quality standards,",
-    "one_liner": "Salesforce for health data",
-    "team_size": 37,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1597677447,
-    "tags": [
-      "B2B",
-      "Synthetic Biology",
-      "Healthcare",
-      "Insurance",
-      "Data Science"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2020",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "regions": [
-      "India",
-      "South Asia",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/medpiper-technologies-inc",
-    "api": "https://yc-oss.github.io/api/batches/summer-2020/medpiper-technologies-inc.json"
-  },
-  {
     "id": 24159,
     "name": "Patterns",
     "slug": "patterns",
@@ -420,10 +373,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Analytics"
@@ -550,7 +503,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -713,21 +666,21 @@
       "Flair Health",
       "Flair Technologies"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d3245675111b9595800bc8372727af2a05abfea.png",
-    "website": "https://www.flairhealth.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ef89599f5919a67db2c626d5aa12b8e6f38bf8da.png",
+    "website": "https://cognitioiq.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "AI for Contract Audits, Negotiation & Payment Compliance",
+    "long_description": "Cognitio Labs is an applied AI research lab building real-time compliance infrastructure for regulated supply chains, serving as the first line of defense against recalls and regulatory failure.\r\n\r\nWhen a food contamination event happens, time is everything. Today, traceability relies on spreadsheets, PDFs, and manual logs, turning recalls into multi-day investigations. Entire product categories get destroyed, brands lose trust, and a single recall can cost $10M to $100M+.\r\n\r\nWhy now: The FDA’s FSMA 204 rule requires companies to produce standardized digital traceability records within 24 hours by 2028, impacting over 60,000 U.S. food facilities. The regulatory bar is rising, but the infrastructure to meet it does not exist.\r\n\r\nOur first product line uses sensors and AI to automatically capture key events such as temperature, handling, and lot-level movements across production, storage, and transit. We convert fragmented operational data into standardized, FSMA 204-compliant traceability records in real time.\r\n\r\nCompliance is generated as operations happen, not after.\r\n\r\nThis becomes the first line of defense by enabling faster recalls, reducing spoilage, eliminating manual compliance work, and protecting contracts, insurance, and brand equity.\r\n\r\nWe are starting with food and expanding into other regulated, high-risk supply chains.",
+    "one_liner": "Automating FDA-grade Traceability Requirements with Sensors and AI.",
     "team_size": null,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
+    "industry": "Industrials",
+    "subindustry": "Industrials",
     "launched_at": 1690407835,
     "tags": [
+      "AIOps",
       "Artificial Intelligence",
-      "Health Tech",
       "B2B",
       "Data Science",
-      "Healthcare IT"
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -736,7 +689,7 @@
     "batch": "Summer 2023",
     "status": "Active",
     "industries": [
-      "Healthcare"
+      "Industrials"
     ],
     "regions": [
       "United States of America",
@@ -796,49 +749,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/quary.json"
   },
   {
-    "id": 29270,
-    "name": "Buster",
-    "slug": "buster",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b4f74db69743203afdd04fd72ff9cb2c50e324b5.png",
-    "website": "http://buster.so",
-    "all_locations": "Salt Lake City, UT, USA",
-    "long_description": "Buster is an AI agent platform built for analytics engineering. It provides data teams with AI agents that keep their dbt projects reliable, documented, and consistent — automatically.",
-    "one_liner": "AI platform for analytics engineering",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1698776495,
-    "tags": [
-      "Generative AI",
-      "Data Science",
-      "Data Engineering",
-      "Data Visualization",
-      "Databases"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/buster",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/buster.json"
-  },
-  {
     "id": 29366,
     "name": "Metofico",
     "slug": "metofico",
@@ -891,7 +801,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/62ebbbabf82f9c9badd0bbcb60f8749d391d5a78.png",
     "website": "https://www.preloop.com",
-    "all_locations": "",
+    "all_locations": "WA, USA",
     "long_description": "Only 2 out of 10 ML models make it from experiment to production. Preloop helps automate the process of deployment, helping companies realize more value from their machine learning teams, while focusing teams' attention on science instead of engineering.",
     "one_liner": "Translate your experimental scripts into production ML services",
     "team_size": 2,
@@ -916,7 +826,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -935,20 +846,20 @@
       "qaml",
       "camelQA"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7356698f9b3f7a439b9951c6def0617a8421df3.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/827e037c0aea7dec71df3f417e720db6c4d41d15.png",
     "website": "https://camelai.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "CamelAI is an AI-powered data analyst for business intelligence. Connect any data source—CSVs, CRMs, SQL databases, data warehouses—and ask Camel complex questions or request reports and charts, all without needing code or SQL.",
-    "one_liner": "AI Business Intelligence agent. Get actionable insights in minutes.",
+    "long_description": "For decades, companies have settled for software built for everyone, which means it's perfect for no one. They stitch together five SaaS tools to approximate one workflow, pay for seats they don't use, and file tickets with a data team just to answer a simple question.\r\n\r\nCamelAI is a different bet: your own AI software engineer, living on its own computer, building exactly what your business needs.\r\n\r\nYou describe what you want. CamelAI builds it, deploys it to a live URL, and keeps it running. No developers required, no infrastructure to manage. Next week when your process changes, you ask again. The software changes with you.\r\n\r\nThis is personal software: tools made for your team, your data, your workflows.",
+    "one_liner": "AI software engineer that lives on its own computer",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1701468865,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Data Science",
-      "Data Visualization"
+      "Data Visualization",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -987,7 +898,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "MinusX is a chrome extension that adds a side chat to your analytics apps (Jupyter, Metabase, Grafana, Tableau, etc). Given an instruction, our agent operates your apps - by clicking & typing, just like you do - to analyze data and answer queries. We believe an AI Data Scientist is a scientist, not yet-another-new-analytics-platform. MinusX interoperates with you in tools you already love and use, and as a matter of philosophy, gets out of the way.",
     "one_liner": "AI Data Scientist for Jupyter and Metabase",
-    "team_size": 3,
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1722024736,
@@ -1030,15 +941,16 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/061e173be11210d3cca9f1b51ba89c7c5255750b.png",
     "website": "https://overstandlabs.com",
-    "all_locations": "",
-    "long_description": "Overstand is an on-demand data and insights team for customer communications. We unify Slack, email, calls, and operational data, then surface the signals that matter — customer needs, risks, and revenue opportunities hidden in everyday conversations.\r\n\r\nInstead of waiting on reports or manual analysis, teams get immediate, evidence-backed answers from the data they already have. Overstand delivers clarity and leverage as your business scales.",
-    "one_liner": "The on-demand data team for medium-to-large enterprises",
+    "all_locations": "NY, USA",
+    "long_description": "Overstand is a data lab that allows our customers to navigate any set of data in just a few minutes.\r\n\r\n*Enterprise*: For enterprises, we we unify Slack, email, calls, and operational data, then surface the signals that matter — customer needs, risks, and revenue opportunities hidden in everyday conversations.\r\n\r\n*Legal Firms*: For legal firms, we help them really quickly understand their entire discovery corpus (either before, or after document review), and quickly build out an initial case assessment and facts.\r\n\r\nInstead of waiting on reports or manual analysis, teams get immediate, evidence-backed answers from the data they already have. Overstand delivers clarity and leverage as your business scales.",
+    "one_liner": "Navigate any set of data - no matter how large - in minutes.",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1724369845,
     "tags": [
       "Artificial Intelligence",
+      "LegalTech",
       "Data Science",
       "Data Engineering",
       "Conversational AI"
@@ -1054,7 +966,8 @@
       "Analytics"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1088,7 +1001,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -1124,11 +1037,11 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1723245936,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Data Science",
       "Cloud Computing",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1145,7 +1058,7 @@
       "America / Canada"
     ],
     "stage": "Early",
-    "app_video_public": true,
+    "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": true,
@@ -1240,13 +1153,57 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/vortexifyai.json"
   },
   {
+    "id": 30289,
+    "name": "Sherpa Labs",
+    "slug": "sherpa-labs",
+    "former_names": [
+      "DagHub.ai"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fc6e69fe5c9b9ed32dbb15b81f5057c0f2e4abd.png",
+    "website": "https://www.sherpalabs.ai",
+    "all_locations": "NY, USA",
+    "long_description": "Sherpa Labs is building an agentic data team that automates modeling, operations, and discovery via a swarm of agents. Their initial product is a data catalog that enables developers and AI agents to quickly locate the right data sources, effortlessly trace data lineage, and understand messy data lakes — similar to Glean but for enterprise data systems.",
+    "one_liner": "The AI Data Team",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1737526775,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Data Science",
+      "Data Engineering",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sherpa-labs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/sherpa-labs.json"
+  },
+  {
     "id": 30400,
     "name": "Plexe",
     "slug": "plexe",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4911874a37ff01bfa27bb33e5f83f49e6970068e.png",
     "website": "https://plexe.ai",
-    "all_locations": "",
+    "all_locations": "London",
     "long_description": "Plexe builds predictive ML models from a problem description. It connects to data sources, conducts experiments, evaluates and deploys the models to an API endpoint.",
     "one_liner": "Open-source agents to build predictive ML models from a prompt",
     "team_size": 2,
@@ -1260,7 +1217,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -1269,7 +1226,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United Kingdom",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1322,6 +1280,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/percival",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/percival.json"
+  },
+  {
+    "id": 30506,
+    "name": "Klavis AI",
+    "slug": "klavis-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/81ca0035244a123067c03e5df2d892bbd9cb7d00.png",
+    "website": "https://www.klavis.ai/",
+    "all_locations": "",
+    "long_description": "Powering frontier AI labs with real world MCP environments and complex, long-horizon agentic tool-use data.",
+    "one_liner": "Live Environments for Training AI Agents",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1744314522,
+    "tags": [
+      "Artificial Intelligence",
+      "Reinforcement Learning",
+      "Data Science",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/klavis-ai",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/klavis-ai.json"
   },
   {
     "id": 30638,
@@ -1377,15 +1376,15 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Fleetline is building the first complete-context algorithmic load planner for mid to large-sized trucking fleets. Today’s dispatchers face an overwhelming task: balancing regulations, customer demands, live fleet data, and individual driver needs, all while coordinating across siloed tools and teams. Mistakes run rampant, and each mistake is thousands of dollars. Even the select fleets using algorithms that have fleet-wide context struggle: the outputs are rigid, hard to interpret, and are blind to real-world nuances like driver preferences and schedule exceptions. Fleetline solves this by combining advanced optimization with LLMs that can easily adapt algorithms to each fleet’s needs and capture driver-specific information. The result is smarter planning truly optimized for every fleet and its drivers.",
     "one_liner": "Optimizing fleet planning with data driven algorithms",
-    "team_size": 3,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1754335865,
     "tags": [
+      "Artificial Intelligence",
       "Logistics",
       "Supply Chain",
-      "Data Science",
-      "AI"
+      "Data Science"
     ],
     "tags_highlighted": [],
     "top_company": false,

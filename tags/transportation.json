@@ -848,7 +848,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "The trucking and logistics industry provides the backbone of the economy, but the payments infrastructure on which it runs is broken; the existing suite of payment tools is outdated, difficult to use, prone to fraud, and saddled with hidden fee structures. \r\n\r\nAtoB is building Stripe for Transportation — modernizing the payments infrastructure for trucking and logistics, where capital movement occurs quickly and transparently. Our flagship product is the AtoB Fuel Card, a zero-fee fuel card accepted anywhere built for fleets of all shapes and sizes.",
     "one_liner": "Modernizing global transportation payments.",
-    "team_size": 71,
+    "team_size": 75,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1602605067,
@@ -895,7 +895,7 @@
     "all_locations": "Denver, CO, USA",
     "long_description": "",
     "one_liner": "The tolling industry’s prime tech infrastructure",
-    "team_size": 20,
+    "team_size": 22,
     "industry": "Government",
     "subindustry": "Government",
     "launched_at": 1597711066,
@@ -979,12 +979,12 @@
       "SeaCycle",
       "Seabound Carbon"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ef05b260fca4eb9826dc504b44512b6c883854f7.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d1528dd1b7f462a6ecd64d04d3bd29abcce12563.png",
     "website": "http://seabound.co",
     "all_locations": "London, England, United Kingdom",
     "long_description": "Seabound builds carbon capture equipment for ships. We're the only way for existing ships to reduce up to 95% of CO2 emissions and meet new global regulations.",
     "one_liner": "Carbon capture equipment for ships",
-    "team_size": 9,
+    "team_size": 18,
     "industry": "Industrials",
     "subindustry": "Industrials -> Climate",
     "launched_at": 1643912064,
@@ -995,7 +995,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -1005,7 +1005,9 @@
     ],
     "regions": [
       "United Kingdom",
-      "Europe"
+      "Europe",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1104,52 +1106,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2022/olympian-motors.json"
   },
   {
-    "id": 26733,
-    "name": "trebu",
-    "slug": "trebu",
-    "former_names": [
-      "Trebu"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7e23166b394dd40a944a9147832db449cf09b72f.png",
-    "website": "https://www.trebu.io/",
-    "all_locations": "Mexico City, CDMX, Mexico; Remote",
-    "long_description": "Trebu helps logistics companies to reliably detect and structure incoming sales orders by scanning and interpreting the thousands of incoming Whatsapp messages and emails they receive every day.\r\nFor example, we help a logistics broker to double the amount of daily reported shipment requests by automatically detecting messages asking for a shipping service and transferring the details into a structured database.\r\n",
-    "one_liner": "Extract and organize order requests, supplier availabilities, and…",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
-    "launched_at": 1657745629,
-    "tags": [
-      "B2B",
-      "Transportation",
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
-    ],
-    "regions": [
-      "Mexico",
-      "Latin America",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/trebu",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/trebu.json"
-  },
-  {
     "id": 26737,
     "name": "Fetii",
     "slug": "fetii",
@@ -1159,18 +1115,19 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c73c93a3d2686736e8af41a94ccec32614c6ca81.png",
     "website": "https://www.fetii.com/",
     "all_locations": "Austin, TX, USA",
-    "long_description": "Fetii is a group rideshare app that lets both consumers and businesses order 15-passenger vans on-demand. Users pay using a QR check-in system that splits payments seamlessly amongst the group at time of boarding. \r\n\r\nNo longer are groups forced to reserve a charter vehicle weeks in advance, pay a 5 hour minimum for a 15 minute trip, and have no payment flexibility OR split up the group and utilize multiple vehicles...Fetii takes the friction out of group transportation.\r\n\r\nFetii has already transported over 800,000 passengers, removed over 140,000 unnecessary vehicles, and is operating in 7 cities.",
-    "one_liner": "Fetii transports groups and businesses together, on-demand",
-    "team_size": 6,
+    "long_description": "Fetii is an AI-driven platform utilizing high-capacity vehicles to move groups with the click of a button. No more splitting up. No more outdated charters.\r\n\r\nFetii transports millions of riders each year and operates nationwide.",
+    "one_liner": "Fetii is an AI-driven mobility platform",
+    "team_size": 50,
     "industry": "Consumer",
     "subindustry": "Consumer -> Transportation Services",
     "launched_at": 1653410309,
     "tags": [
+      "Artificial Intelligence",
       "Transportation"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -1325,51 +1282,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/bluedot.json"
   },
   {
-    "id": 28110,
-    "name": "Conduit",
-    "slug": "conduit",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f9fd269cc7d10c65c452d836b7ba980b58a0c084.png",
-    "website": "http://helloconduit.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Dock Scheduling, Yard Management, Driver Sign In, and more. \r\n\r\nWe make software for warehouses and logistics teams to save time and money managing docks, gates, and yards. With dock, gate, and yard management modules, each module can easily be added on or used on its own. This makes Conduit the perfect fit for all types of operations. Best of all, if you have multiple facilities then Conduit can be configured differently at each facility, but provide you with a comprehensive view of your entire network.\r\n\r\nWe are proud to be able to help supply chains of all sizes optimize their labor, increase throughput, and prepare for the work ahead. ",
-    "one_liner": "Air Traffic Control for Warehouses",
-    "team_size": 9,
-    "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
-    "launched_at": 1674704550,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Logistics",
-      "Transportation",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/conduit",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/conduit.json"
-  },
-  {
     "id": 28860,
     "name": "Terminal",
     "slug": "terminal",
@@ -1521,7 +1433,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -1621,48 +1533,5 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lunavo",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/lunavo.json"
-  },
-  {
-    "id": 31278,
-    "name": "Zymbly",
-    "slug": "zymbly",
-    "former_names": [
-      "Zymbly AI",
-      "Zymbly",
-      "Zymbly AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/15c98b3bf7b3907fd2d08caff7a209dd0bc20fd3.png",
-    "website": "https://www.zymbly.com",
-    "all_locations": "",
-    "long_description": "",
-    "one_liner": "Automates admin for aircraft technicians",
-    "team_size": 0,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1768869245,
-    "tags": [
-      "AIOps",
-      "Workflow Automation",
-      "Transportation"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/zymbly",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/zymbly.json"
   }
 ]

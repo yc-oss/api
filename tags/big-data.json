@@ -486,9 +486,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4e6df1d33e5151e6b36a83a91e94b8bb2550c930.png",
     "website": "https://newscatcherapi.com/",
     "all_locations": "Kyiv, Ukraine; Remote",
-    "long_description": "NewsCatcher collects multi-language news data from 140,000+ sources and over 1.5 million articles daily, enriches every item and delivers only the signals a client cares about—already mapped to their data models, tools, and security requirements. Alongside news, we also cover signals from municipal, government, regulatory, and corporate sources. \r\n\r\nToday, risk departments, policy teams, product strategists, and AI researchers rely on NewsCatcher to surface mission‑critical events in seconds and keep them embedded in workflows for years.",
-    "one_liner": "We transform public web data into live signals that power search,…",
-    "team_size": 25,
+    "long_description": "CatchAll by NewsCatcher is a recall-first web search API built for queries where the results are spread across hundreds or thousands of pages on the web. Instead of returning the top ranked links like traditional search engines, CatchAll retrieves a large candidate set from the web, validates which pages actually match the query, and extracts structured records of real-world events.\r\n\r\nDevelopers and data teams use CatchAll to answer “long-list” questions such as tracking regulatory actions, funding rounds, product launches, corporate expansions, or cybersecurity incidents. The output is not just links but clean, deduplicated datasets that can power AI agents, monitoring systems, analytics pipelines, and market intelligence workflows.\r\n\r\nCatchAll runs on the data infrastructure developed by NewsCatcher, which continuously indexes millions of articles and public web pages across a global network of sources.",
+    "one_liner": "Turning the web into a structured database of real world events.",
+    "team_size": 22,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1659698356,
@@ -532,7 +532,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b2f7a8dffc7dc8a6fdb4c13dce765cc7d2820b9a.png",
     "website": "https://www.deasylabs.com/",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "Deasy Labs was acquired by Collibra in July 2025 (global leader in enterprise data governance).\r\n\r\nDeasy Labs provides metadata orchestration for AI workflows. Deasie's platform provides the best way for AI teams to create and embed high-quality, customized metadata into their AI workflows (e.g., RAG, Agentic frameworks).\r\n\r\nOur three founders (from Amazon, McKinsey/QuantumBlack & MIT) previously built an ML data governance tool from 0 to 1 within McKinsey, which we deployed with 11 Fortune 500 companies. We saw in early 2023 the ability to create high-quality metadata (without reliance on domain experts) would be a key factor in achieving the accuracy & speed in GenAI applications required for production.  \r\n\r\nOur investors include General Catalyst, Y Combinator, RTP Global and world experts in enterprise data. Website: https://deasylabs.com",
     "one_liner": "Metadata for GenAI workflows",
     "team_size": 8,
@@ -557,7 +557,8 @@
       "Analytics"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -592,7 +593,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -611,51 +612,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/cambioml.json"
   },
   {
-    "id": 29152,
-    "name": "Taylor AI",
-    "slug": "taylor-ai",
-    "former_names": [
-      "Taylor"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ef294d8a3e99ae5f533ac21df5e5886e8713a73f.png",
-    "website": "https://trytaylor.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Taylor is the control panel for enriching unstructured text in real-time. Business leaders and developers use Taylor to label and build products around their free text without the infrastructure and maintenance overhead. \r\n\r\nWhy Taylor? Our customers previously relied on LLMs for tagging, extracting, and enriching data. They soon hit rate limits, high latency, and accuracy issues (LLMs are optimized for generative tasks, not structured high-accuracy workflows). With Taylor, teams get access to our proprietary models purpose-built for text classification and entity extraction. ",
-    "one_liner": "Unified Platform for Text Enrichment",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1687991939,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "B2B",
-      "Data Labeling",
-      "Big Data"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/taylor-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/taylor-ai.json"
-  },
-  {
     "id": 29182,
     "name": "Upsolve AI",
     "slug": "upsolve-ai",
@@ -663,18 +619,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/584af51898d885eead8c1806789fece6d7acaff0.png",
     "website": "https://upsolve.ai/",
     "all_locations": "",
-    "long_description": "Upsolve AI is a customer-facing analytics as a service platform. We are building a full data stack that enables businesses to build and offer analytics to their customers at lightning speed and gives their customers the superpower to answer any data questions via AI. The company is founded by Ka Ling Wu and Serguei Balanovich, who built a similar product at Palantir before (featured in Palantir's S-1), growing it to 50+ enterprise customers and 8-figures of annual revenue in 2 years.",
-    "one_liner": "Embed GenBI in Your SaaS App",
+    "long_description": "Upsolve AI is the analytics platform for deploying governed, grounded, and trustworthy data agents that know your business. Data teams use Upsolve's Agent Studio to get to AI-ready data foundations fast, unify and curate their context layer, and test, tune and monitor their Upsolve Data Agent to their benchmark. The company is founded by Ka Ling Wu and Serguei Balanovich, who built a similar product at Palantir before (featured in Palantir's S-1), growing it to 50+ enterprise customers and 8-figures of annual revenue in 2 years.",
+    "one_liner": "Deploy trustworthy data agent that know your business",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1699320905,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Analytics",
-      "Big Data"
+      "Big Data",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -699,110 +655,20 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/upsolve-ai.json"
   },
   {
-    "id": 29258,
-    "name": "Tile",
-    "slug": "tile",
-    "former_names": [
-      "Odyssey",
-      "Tile",
-      "Tiles"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eda951e43516e87f675fc43262253fd275bb05e5.png",
-    "website": "https://tile.sh",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Create production-grade data automations and applications without writing SQL or code",
-    "one_liner": "AI-first notebook for building operational data apps",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1710167593,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Analytics",
-      "Big Data",
-      "Operations"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tile",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/tile.json"
-  },
-  {
-    "id": 29686,
-    "name": "Snowpilot",
-    "slug": "snowpilot",
-    "former_names": [
-      "Snowpilot.ai"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c15cc576c889b7c67699bfb7c6291c7f7430c95a.png",
-    "website": "https://www.snowpilot.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Snowpilot combines a spreadsheet UI with a federated data engine. We get live data from tools like Salesforce, Gong, and Mixpanel, enabling PMs, marketers, and salespeople to run high-impact workflows with data at any scale.\r\n\r\nBen and Dom met at a Sequoia & a16z-backed data startup, Census. Together, we built the first real-time, warehouse-native customer data platform. Prior to that, Dom led 20+ ML engineers at Adobe to build their internal ad optimization platform, which allocates $1B in annual spend. Ben built the microservices stack powering the new Microsoft Edge, scaling from 0 to hundreds of millions of DAUs.\r\n\r\nWe started coding Snowpilot in mid-August '24, and we already have a live app that can run sub-second queries on millions of rows, entirely in the user's browser.\r\n\r\nThe data warehouse market is $10B/yr, growing 23% YOY. We will disrupt incumbents and significantly expand this market by enabling non-engineers to use big data on a daily basis.",
-    "one_liner": "The connected spreadsheet that destroys data silos",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1725142580,
-    "tags": [
-      "B2B",
-      "Big Data",
-      "Data Engineering",
-      "AI",
-      "Databases"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/snowpilot",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/snowpilot.json"
-  },
-  {
     "id": 29745,
-    "name": "Lumenary",
-    "slug": "lumenary",
+    "name": "Sharpe",
+    "slug": "sharpe",
     "former_names": [
       "January",
       "Lumenary",
-      "Lumenary, Inc."
+      "Lumenary, Inc.",
+      "Lumenary"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/becd07dd532d02d7faf201baa5f85e3101cc6f42.png",
-    "website": "https://try.solar",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed377f5e3e709abc9139475076cec71316b01c06.png",
+    "website": "https://sharpe.sh",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lumenary develops Solar, a tool to build full-stack apps alongside many LLMs on a canvas, where you can freely remix features and try design variants. We provide infra (auth, DBs, storage, servers), or you can integrate with your own. Deploy in a click.\r\n\r\nLumenary was founded by three best friends who met at Dartmouth, with experience from Jane Street, IMC, and Palantir. They've published research in venues like NeurIPS, and have deployed software managing billions of dollars, petabytes of data, and a lot of LLM tokens.",
-    "one_liner": "Build working software exceedingly fast in Solar",
+    "long_description": "Sharpe helps traders go from idea to profit in minutes with AI, bundling petabytes of market data with high-performance infrastructure. Sharpe helped a top 5 quant firm find $10m+ of profit within a few hours of deployment.",
+    "one_liner": "Agents for quantitative research and financial data science.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
@@ -833,8 +699,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lumenary",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/lumenary.json"
+    "url": "https://www.ycombinator.com/companies/sharpe",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/sharpe.json"
   },
   {
     "id": 29835,
@@ -844,20 +710,21 @@
       "Invoke AI",
       "Invoke Labs"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a88e92cf25d0e0f2a176b614b7fca633db69671e.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/efc5cb21ff2d8c0c7bf12fe360a1eb51bd8d4d0d.png",
     "website": "https://voker.ai",
     "all_locations": "Los Angeles, CA, USA",
-    "long_description": "Voker is the analytics platform for monitoring and improving your AI agents. Companies like Lull.com and Dutch.com use our SDK to build better AI.\r\n\r\nAlex and Tyler met at a high-growth E-Commerce startup where Tyler was running Technology & Data. Together, they built AI products that bootstrapped the company profitably to $100MM in Revenue.\r\n\r\nAlex experienced firsthand the broken developer experience in AI while building enterprise infrastructure at Yardi. Even with a dedicated ML team, it took too much time to build simple AI features. It was clear that if large companies were struggling with this, SMBs would definitely be left behind. We went directly to our network of SMB operators and found our hunch was correct. Within a week we had two paying customers even before launching our first prototype.",
-    "one_liner": "Analytics for AI Agents",
+    "long_description": "Voker is the Agent Analytics Platform for monitoring and improving your AI agents. Companies like Dutch.com use our SDK to build better agents.\r\n\r\nAlex and Tyler met at a high-growth E-Commerce startup where Tyler was running Technology & Data. Together, they built AI products that bootstrapped the company profitably to $100MM in Revenue.",
+    "one_liner": "The Agent Analytics Platform",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1722887304,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
+      "Generative AI",
       "Analytics",
-      "Big Data"
+      "Big Data",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -884,18 +751,109 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/voker.json"
   },
   {
+    "id": 29987,
+    "name": "Syntra",
+    "slug": "syntra",
+    "former_names": [
+      "Lightning Medical"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6d299272e28e28fc0eef5034541be246b698d0b.png",
+    "website": "https://www.syntra.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Syntra is building a self-learning agent that replaces a human claim review team at private practices, increasing revenue per encounter while cutting administrative overhead by up to 60%. Our agent learns each practice’s workflows, payer rules, and software stack on its own, enabling us to give every clinic in the country the operating efficiency they need to stay independent.\r\n\r\nSyntra has already processed over 1M patient encounters, supports hundreds of private practices nationwide, and processes $100Ms in medical claim charges annually.\r\n",
+    "one_liner": "Medical chart and claim review ",
+    "team_size": 8,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1723733582,
+    "tags": [
+      "Artificial Intelligence",
+      "Big Data",
+      "Healthcare IT"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/syntra",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/syntra.json"
+  },
+  {
+    "id": 30045,
+    "name": "Archil",
+    "slug": "archil",
+    "former_names": [
+      "Neptune Storage",
+      "Regatta Storage"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cb1bd9703c3d809fb7bdbffd00ba201b34509caa.png",
+    "website": "https://archil.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Archil transforms S3 buckets into a 30x faster, unlimited, local disk. Archil enables AI, analytics, and serverless applications to instantly access massive data sets without waiting for data transfer. Researchers use Archil for shareable, local storage of data set and model versions that never runs out of capacity.",
+    "one_liner": "The high-performance file system that connects AI to data",
+    "team_size": 11,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1727196277,
+    "tags": [
+      "Developer Tools",
+      "Machine Learning",
+      "Big Data",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/archil",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/archil.json"
+  },
+  {
     "id": 30303,
     "name": "AfterQuery",
     "slug": "afterquery",
     "former_names": [
       "Cronus"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ef07251161b57384d4fb72efe63acdf66f79d1d.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b63e52a3ec831660a5917dbb85f52cfd61f714e9.png",
     "website": "https://afterquery.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "AfterQuery is a research lab (backed by Y Combinator) investigating the boundaries and capabilities of artificial intelligence through novel datasets and experimentation. We believe that pushing the frontiers of AI requires both rigorous scientific inquiry and exceptional human data.",
-    "one_liner": "Research lab investigating the boundaries of AI capabilities.",
-    "team_size": 20,
+    "long_description": "AfterQuery is an applied research lab curating data solutions for frontier foundation model development. Serving every frontier AI lab.",
+    "one_liner": "Applied research lab curating data solutions for foundation model…",
+    "team_size": 30,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1738219847,
@@ -986,18 +944,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6d577992606b8392c9619b8dffacec074b48668d.png",
     "website": "https://www.theliva.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Speech and video models trained on internet data still lack realistic and domain-specific results. We solve this by collecting targeted training data for model labs. We hope to create a world where AI feels more human.",
+    "long_description": "Speech models trained on internet data still lack realistic results. We solve this by collecting targeted training data for model labs. We hope to create a world where AI feels more human.",
     "one_liner": "Audio & Video Data",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1753401226,
     "tags": [
+      "Artificial Intelligence",
       "Marketplace",
       "B2B",
       "Data Labeling",
-      "Big Data",
-      "AI"
+      "Big Data"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1071,8 +1029,8 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd2b15ce8a8e404c0ec54c33a17f938963c26455.png",
     "website": "https://parse.bot",
-    "all_locations": "",
-    "long_description": "Parse lets developers build APIs for any website. Unlike traditional scraping tools that rely on slow, expensive headless browsers, Parse reverse-engineers websites' underlying network requests and generates API endpoints automatically. This makes Parse 10-100x faster and cheaper than browser automation,. ",
+    "all_locations": "CA, USA",
+    "long_description": "Parse lets developers build APIs for any website. Unlike traditional scraping tools that rely on slow, expensive headless browsers, Parse examines websites' underlying network requests and generates API endpoints automatically. This makes Parse 10-100x faster and cheaper than browser automation,. ",
     "one_liner": "Build an API to interact with any website.",
     "team_size": 2,
     "industry": "B2B",
@@ -1093,7 +1051,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1104,23 +1063,26 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/parse-bot.json"
   },
   {
-    "id": 30913,
-    "name": "Captain",
-    "slug": "captain",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c5e5da360891b80b4a1d6d511de963d613bbf08.png",
-    "website": "https://runcaptain.com",
+    "id": 30899,
+    "name": "Sciloop",
+    "slug": "sciloop",
+    "former_names": [
+      "SciLoop"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f01d1e4f95660e72f930c4f8b2542e2224dc9107.png",
+    "website": "https://sciloop.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Captain delivers the most accurate general-purpose retrieval engine for unstructured data.\r\n\r\nConnect file stores and effortlessly retrieve knowledge with much higher accuracy than RAG (Avg: 78% → 95% + citations).",
-    "one_liner": "Accurate knowledge search that scales",
+    "long_description": "Sciloop creates expert-level math and physics problems that frontier AI models can't solve, then sells the data to AI labs for training and evaluation. Our problems are created by IPhO and IMO medalists — the top 0.01% of STEM talent globally. On our benchmark, models like GPT 5.4 Pro and Gemini 3.1 Pro score 0-5% on our hardest problems. We work with AI labs to supply continuous, fresh training data that pushes the frontier of mathematical and scientific reasoning. Founded by Bilal and Osman, International Physics Olympiad medalists from MIT with hands-on ML research experience at MIT CSAIL.\r\n",
+    "one_liner": "Expert STEM reasoning data for frontier AI labs.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1762492786,
+    "launched_at": 1761248663,
     "tags": [
-      "Developer Tools",
-      "Big Data",
-      "Data Engineering"
+      "Artificial Intelligence",
+      "Marketplace",
+      "Data Labeling",
+      "Big Data"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1141,29 +1103,30 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/captain",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/captain.json"
+    "url": "https://www.ycombinator.com/companies/sciloop",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/sciloop.json"
   },
   {
-    "id": 31137,
-    "name": "Luel",
-    "slug": "luel",
+    "id": 31283,
+    "name": "Librar Labs",
+    "slug": "librar-labs",
     "former_names": [
-      "Vidcoin"
+      "Librar"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b08b4ca96925b2e8c409dfbed108a0b4f3808348.png",
-    "website": "https://luel.ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cc71fc515d431ac2186349ba194efc3183ef3d19.png",
+    "website": "https://www.librarlabs.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Luel is a sourcing and licensing platform for rights-cleared multimodal training data at scale. We work with frontier AI teams to provide high-quality bespoke data collections and off-the-shelf datasets.",
-    "one_liner": "Turning everyday words and actions into usable training data.",
-    "team_size": 2,
+    "long_description": "Backed by top engineers from OpenAI, Scale AI, and Palantir to build AI that understands human culture.\r\n\r\nOur first commercial product is for the literature industry with a focus on school libraries. It the AI-native OS for libraries, that speed up all of the manual and boring work for librarians.\r\n\r\nFastest growing library tech company in history.\r\n",
+    "one_liner": "AI that understands human culture",
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1763965677,
+    "launched_at": 1769303203,
     "tags": [
-      "Marketplace",
-      "B2B",
-      "Big Data"
+      "Machine Learning",
+      "Big Data",
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1184,69 +1147,27 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/luel",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/luel.json"
+    "url": "https://www.ycombinator.com/companies/librar-labs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/librar-labs.json"
   },
   {
-    "id": 31217,
-    "name": "Polymath",
-    "slug": "polymath",
+    "id": 31375,
+    "name": "Hub.xyz",
+    "slug": "hubxyz",
     "former_names": [
-      "Palette AI"
+      "Hub"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51f7ef12c2171865c4753a3c1623133d92e4becc.png",
-    "website": "https://polymathlabs.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Polymath is an applied research lab focused on increasing the reliability and autonomy of AI agents, in order to better serve people. We believe that the key to getting agents to perform reliably across long horizons is the quality, complexity, and abundance of RL environments.\r\n\r\nWe're building environment factories to produce high-fidelity training and evaluation environments at scale, providing frontier labs with the building blocks they need to make the next breakthrough.",
-    "one_liner": "Long-horizon RL",
-    "team_size": 2,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9e1877ffaf8478eb57359647a0ad11ae811fbf38.png",
+    "website": "http://hub.xyz",
+    "all_locations": "Palo Alto, CA, USA",
+    "long_description": " ",
+    "one_liner": "API for real-world training data.",
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B",
-    "launched_at": 1769103780,
+    "launched_at": 1773429014,
     "tags": [
       "Artificial Intelligence",
-      "B2B",
-      "Big Data",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/polymath",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/polymath.json"
-  },
-  {
-    "id": 31300,
-    "name": "Shofo",
-    "slug": "shofo",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdc8fbfe28cb5c8e4405b92f33ce7b6536b88c17.png",
-    "website": "https://shofo.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Shofo builds large-scale social media training datasets by collecting, labeling, and enriching public content for pre-training and fine-tuning AI models. Our indexes continuously collect and update every video across hard to access social media platforms. Companies use Shofo to avoid building their own data collection and processing systems and spending months turning unstructured social content into model-ready data. We started with TikTok and are expanding across every major social platform.",
-    "one_liner": "Common Crawl for Videos",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1768432806,
-    "tags": [
-      "Social Media",
-      "API",
       "Data Labeling",
       "Big Data",
       "AI"
@@ -1255,22 +1176,23 @@
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
-    "batch": "Winter 2026",
+    "batch": "Spring 2026",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Infrastructure"
+      "B2B"
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/shofo",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/shofo.json"
+    "url": "https://www.ycombinator.com/companies/hubxyz",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/hubxyz.json"
   }
 ]

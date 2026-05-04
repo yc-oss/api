@@ -102,7 +102,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2014",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "Fintech",
       "Payments"
@@ -220,7 +220,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/08af81b6a3d390826e292425721b229750993e4c.png",
     "website": "https://www.audm.com",
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "CA, USA; New York, NY, USA; Remote",
     "long_description": "Audm is a mobile app that turns long-form print journalism into professionally narrated digital audio. The app, which was quietly launched on 2016, uses professional voice actors to read news content that makes it enjoyable to listen to.",
     "one_liner": "Audm is a subscription service providing mini-audiobooks —…",
     "team_size": 10,
@@ -497,7 +497,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2019",
     "status": "Active",
@@ -526,7 +526,7 @@
     "former_names": [
       "Withfriends"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b1c7715701f5ea6fecf38416ed93411a6268bac1.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/54586f7298f42ed1238dba333e454ebc1706b38f.png",
     "website": "https://pools.events",
     "all_locations": "New York, NY, USA",
     "long_description": "Pools makes it easy for art, music, and other cultural communities to build memberships around their events. Inspired by the same methodology that museums have used to grow support, the platform leverages the checkout of tickets sales to upsell attendees into a membership with automated discounts, advance access, or members-only benefits.",
@@ -974,15 +974,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/22a2db8472fb087e350b2fb2e013f633f97d013d.png",
     "website": "https://www.treinta.co",
     "all_locations": "Bogotá, Bogota, Colombia",
-    "long_description": "Treinta powers 7 million SMBs across the US and Latin America with simple finance, inventory, and sales tools. In 2025, Treinta launched idealane, an AI builder that lets entrepreneurs create websites, apps, and automations by chatting. ",
+    "long_description": "Treinta powers 7 million SMBs across the US and Latin America with simple finance, inventory, and sales tools.",
     "one_liner": "Software and AI tools for SMBs in the US and Latin America",
     "team_size": 60,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1611327725,
     "tags": [
-      "Subscriptions",
-      "AI"
+      "Artificial Intelligence",
+      "Subscriptions"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1276,12 +1276,12 @@
     "name": "Rebill",
     "slug": "rebill",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0fed433e0099b065a5b2cae314b93106b213fa52.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac317d3596d742abd3e551f40119a6ba9a7f3d40.png",
     "website": "https://www.rebill.com",
     "all_locations": "Buenos Aires, CABA, Argentina",
-    "long_description": "Go live in less than an hour. Accept local payments, subscriptions, and installments in LATAM with a checkout built to match your ambition.\r\n‍\r\nEngineered for companies that set the standard.\r\n\r\nWith our platform and API, companies can integrate over 100 local payment methods from the region, including cards, bank transfers, cash, and even wallets. In addition, they always receive the best human support with fair pricing and utmost transparency, enabling them to scale across the region 10 times faster.",
-    "one_liner": "Payment infrastructure designed for LATAM.",
-    "team_size": 12,
+    "long_description": "Rebill helps global companies process payments, payouts, and financial operations in LATAM and the US without local entities.\r\n‍\r\nWith one integration, companies can accept payments, subscriptions, and installments across markets without setting up fragmented payment stacks country by country. Rebill combines local acquiring, 100+ payment methods, smart routing, retries, recovery, unified settlement, and a developer-first product in one platform.\r\n\r\nWe help merchants launch faster, increase conversion, and operate across underserved markets with the simplicity global companies expect.",
+    "one_liner": "Global payments infrastructure in LATAM and US",
+    "team_size": 10,
     "industry": "Fintech",
     "subindustry": "Fintech -> Payments",
     "launched_at": 1645553649,
@@ -1312,7 +1312,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": false,
+    "question_answers": true,
     "url": "https://www.ycombinator.com/companies/rebill",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/rebill.json"
   },
@@ -1695,7 +1695,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Marketing"
@@ -1711,48 +1711,5 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/resonance",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/resonance.json"
-  },
-  {
-    "id": 30630,
-    "name": "Lark",
-    "slug": "lark",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d081c0c274bbf68a2b6814e7891694bfd2e2c515.png",
-    "website": "https://uselark.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lark is a modern billing platform with the flexibility to support any pricing model (flat-fee, credit-based, usage-based, hybrid, dimensional, outcome-based, etc.) at any scale. \r\nWhether you're building an AI powered API service or a B2B SaaS product, Lark provides the tools you need to implement complex billing logic without the hassle. Jack and Vijit previously built a usage-based billing system for a large billing provider.",
-    "one_liner": "Billing for modern pricing models",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1755281037,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "Payments",
-      "B2B",
-      "Subscriptions"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lark",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/lark.json"
   }
 ]

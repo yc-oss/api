@@ -7,9 +7,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/29939f1cfbd3fe315d3ded8f43c33775de6b9c89.png",
     "website": "https://www.getlago.com/",
     "all_locations": "Paris, Île-de-France, France",
-    "long_description": "Lago is the open-source alternative to Stripe, with a laser focus on transparency, metering, developer experience, and composability: addressing complex pricing grids and business workflows.\r\n\r\nTheir team previously built and scaled the home-grown billing system of Qonto (a $5B Fintech in Europe), from pre-launch to the tens of millions of MRR. \r\n\r\nLago is the leading open-source repository and community in this space.",
-    "one_liner": "Open Source Metering and Usage Based Billing",
-    "team_size": 32,
+    "long_description": "At Lago, we're on a mission to make billing simpler, more transparent, and more adaptable for SaaS companies.\r\n\r\nAs the leading open-source billing platform, we empower businesses to build flexible pricing models and scale with confidence. We've raised over $22 million in funding from top-tier investors including Y Combinator and FirstMark, reflecting strong confidence in our vision and growth.\r\n\r\nOur platform has garnered over 9,000 stars on GitHub, a testament to our active and growing developer community. Companies such as PayPal, Synthesia and Mistral.ai choose Lago for their billing.\r\n\r\nWe're a team of ambitious, focused individuals who work together to solve hard problems with excellence and accountability. At Lago, we value reliability and proactivity - we trust each other to own tasks, drive them to completion, and adapt quickly. While we encourage you to try fast and \"fail fast\", we also expect you to learn fast: make mistakes, but don't make the same one twice.\r\n\r\nIf you're excited by challenges and want to grow alongside a high-performing, supportive team, this is the place for you.",
+    "one_liner": "The AI Native Billing Platform",
+    "team_size": 45,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1629092704,
@@ -131,25 +131,25 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/health-harbor.json"
   },
   {
-    "id": 28890,
-    "name": "Decoda Health",
-    "slug": "decoda-health",
+    "id": 29085,
+    "name": "Quill Bills",
+    "slug": "quill-bills",
     "former_names": [
-      "Heal Financial"
+      "Quill AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f3b1efd47e85f38279cafba940ec0988913d113.png",
-    "website": "https://decodahealth.com/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ad90ff298c085246c8c2af38a348e6f2c92f338.png",
+    "website": "https://quillbills.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Medical practices struggle with front desk shortages and nonstop admin work—ringing phones, scheduling mishaps, intake errors, and billing headaches. The result? Overworked staff and less time for patient care.\r\n\r\nDecoda Health’s AI platform takes over 80% of these tedious tasks, handling calls, scheduling, and payments while alerting staff only when necessary. By reducing chaos and streamlining operations, teams can focus on what truly matters—providing exceptional patient care.",
-    "one_liner": "AI-powered platform automating medical practice operations",
-    "team_size": 9,
+    "long_description": "Quill Bills is a medical billing company that works with healthcare providers to significantly lower billing costs and recover denied claims.\r\nOur platform performs much of a biller's job autonomously, and we sell this platform to private practice doctors and medical MSOs.",
+    "one_liner": "AI-Powered Medical Billing",
+    "team_size": 3,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1689972321,
+    "launched_at": 1685991991,
     "tags": [
       "Artificial Intelligence",
-      "Messaging",
-      "Digital Health",
+      "Healthcare",
+      "Health Insurance",
       "Healthcare IT",
       "Billing"
     ],
@@ -165,53 +165,6 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/decoda-health",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/decoda-health.json"
-  },
-  {
-    "id": 29085,
-    "name": "Quill Bills",
-    "slug": "quill-bills",
-    "former_names": [
-      "Quill AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ad90ff298c085246c8c2af38a348e6f2c92f338.png",
-    "website": "https://quillbills.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Quill Bills is a medical billing company that works with healthcare providers to significantly lower billing costs and fight every denial.",
-    "one_liner": "AI-Powered Medical Billing",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1685991991,
-    "tags": [
-      "Artificial Intelligence",
-      "Healthcare",
-      "Health Insurance",
-      "Healthcare IT",
-      "Billing"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United States of America",
       "America / Canada"
     ],
     "stage": "Early",
@@ -221,50 +174,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/quill-bills",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/quill-bills.json"
-  },
-  {
-    "id": 29265,
-    "name": "Lumen Payments",
-    "slug": "lumen-payments",
-    "former_names": [
-      "Pretzel AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9374ac7f590e35b961fa334f50707ea210eda158.png",
-    "website": "https://getlumen.dev",
-    "all_locations": "Berlin, Berlin, Germany",
-    "long_description": "Lumen let's you implement complex pricing models in under 10 minutes.\r\n\r\nLumen will take care of webhooks, user credits, tracking usage in real-time, usage based billing, taxes and more so you can focus on your product.",
-    "one_liner": "Fastest way to implement payments in your product.",
-    "team_size": 2,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
-    "launched_at": 1710864971,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "Payments",
-      "Open Source",
-      "Billing"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "Germany",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lumen-payments",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/lumen-payments.json"
   },
   {
     "id": 29702,
@@ -287,7 +196,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -306,51 +215,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/ledgerup",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/ledgerup.json"
-  },
-  {
-    "id": 29987,
-    "name": "Syntra",
-    "slug": "syntra",
-    "former_names": [
-      "Lightning Medical"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6d299272e28e28fc0eef5034541be246b698d0b.png",
-    "website": "https://www.syntra.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Syntra automates chart review, claim review, and claim entry with AI. Our specialty-specific AI agents understand the clinical and payer nuances needed to run your RCM function autonomously. Syntra powers hundreds of specialty practices nationwide and processes over $1B in medical claim charges every year.\r\n\r\n",
-    "one_liner": "AI chart review for speciality medical clinics.",
-    "team_size": 9,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1723733582,
-    "tags": [
-      "Artificial Intelligence",
-      "Healthcare IT",
-      "Billing"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/syntra",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/syntra.json"
   },
   {
     "id": 30807,
@@ -395,5 +259,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/paloma",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/paloma.json"
+  },
+  {
+    "id": 31414,
+    "name": "Drip",
+    "slug": "drippay",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/81cc115767ef5ba186ef4f8840e2888354896cb7.png",
+    "website": "https://drippay.dev/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We build the way for you to create context for all your communications, finances, and inbound.",
+    "one_liner": "The company brain",
+    "team_size": 0,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1777049103,
+    "tags": [
+      "B2B",
+      "Sales Enablement",
+      "Billing",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/drippay",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/drippay.json"
   }
 ]

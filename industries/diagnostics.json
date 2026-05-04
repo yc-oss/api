@@ -327,8 +327,8 @@
       "America / Canada"
     ],
     "stage": "Early",
-    "app_video_public": true,
-    "demo_day_video_public": true,
+    "app_video_public": false,
+    "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/luminist-labs",
@@ -557,7 +557,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a5f04ad2b7ba3169c85be1ac62f4a434b27d75d.png",
     "website": "http://www.InnaMed.com",
-    "all_locations": "Philadelphia, PA, USA",
+    "all_locations": "CA, USA; Philadelphia, PA, USA",
     "long_description": "InnaMed's HomeLab device and software take the hassle out of blood testing and let you access precision medical care from the comfort and privacy of your home. Healthcare providers and researchers can now receive timely clinical reports that they are accustomed to interpreting directly to their EMR, LIMS or EDC system. Trend identification and pattern matching software can guide decision making in the prescription and dosing of therapy and deep integration with the healthcare system and telehealth services allows for data driven care while also ensuring human connection.\r\n\r\n\r\n",
     "one_liner": "At-home blood testing: measure + analyze + enhance.",
     "team_size": 7,
@@ -1920,6 +1920,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2021/caire-health.json"
   },
   {
+    "id": 24820,
+    "name": "Medium Biosciences",
+    "slug": "medium-biosciences",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0f30f00dbe44cde67296a43e445c0bb0dc14f9b5.png",
+    "website": "http://medium.bio",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We turn advances in AI and protein design into experimentally validated molecular tools, partnering with research teams and diagnostic developers to deliver high-performance affinity reagents in weeks, not months.\r\n",
+    "one_liner": "AI-designed Affinity Reagents",
+    "team_size": 6,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Diagnostics",
+    "launched_at": 1630004252,
+    "tags": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Biotech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Diagnostics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/medium-biosciences",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/medium-biosciences.json"
+  },
+  {
     "id": 24840,
     "name": "VedaBio",
     "slug": "vedabio",
@@ -2153,7 +2196,7 @@
       "Scanbase",
       "Inc."
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2982f68c8c82ccb0dcb8909ae50c7cdbbdcd9b70.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c9177f461ffabba1796fab772ec9f376ad91bf4e.png",
     "website": "https://www.scanbase.com",
     "all_locations": "Los Angeles, CA, USA",
     "long_description": "Scanbase makes it easy for medical companies to convert photos of rapid diagnostic tests into results. We do this by providing a simple API that any medical company can access.\r\n",
@@ -2163,11 +2206,11 @@
     "subindustry": "Healthcare -> Diagnostics",
     "launched_at": 1670991822,
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
       "Computer Vision",
       "Health Tech",
-      "Telemedicine"
+      "Telemedicine",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2236,21 +2279,23 @@
   },
   {
     "id": 28891,
-    "name": "Cleancard",
-    "slug": "cleancard",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b2b82979e8cd1a007de394d4f1a3a8e665968d02.png",
-    "website": "https://www.cleancard.bio",
+    "name": "Numen",
+    "slug": "numen",
+    "former_names": [
+      "Cleancard"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/801ff758c035f5849acfdcd35329ec161bd30cef.png",
+    "website": "https://www.numen.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We are combining synthetic biology and artificial intelligence to make cancer detection as easy as a pregnancy test. Cleancard's mission is to bring lab-grade diagnostics into the comfort of your home. Our novel method enables robust diagnostics and biomarker tracking from the urine. We are currently developing fully at-home, 30-minute tests for cancer using this methodology. We are constantly expanding the number of conditions we can detect from a single sample with our platform technology.",
-    "one_liner": "Making cancer detection as easy as a pregnancy test",
+    "long_description": "",
+    "one_liner": "Engineering a future without cancer deaths.",
     "team_size": 16,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Diagnostics",
     "launched_at": 1691571179,
     "tags": [
       "Artificial Intelligence",
-      "Computer Vision",
+      "Machine Learning",
       "Biotech",
       "Healthcare",
       "Diagnostics"
@@ -2267,15 +2312,17 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cleancard",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/cleancard.json"
+    "url": "https://www.ycombinator.com/companies/numen",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/numen.json"
   },
   {
     "id": 29484,
@@ -2284,7 +2331,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d7043e2a3ba867786a1c7649c0cda610207599ea.png",
     "website": "https://www.haplotypelabs.com/",
-    "all_locations": "Remote",
+    "all_locations": "CA, USA; Remote",
     "long_description": "We're building the HaploHub: a SaaS platform for genetic testing labs, concierge medical practices, and payer/providers to: \r\n * predict disease risk for their patients based on proprietary or publicly available genetic models\r\n * securely host, manage, and interrogate the genetic data of their population\r\n * generate reports and run the most common inference algorithms (phasing, imputation, ibd, etc.) without writing code \r\n\r\n",
     "one_liner": "Personalized prevention using genetics and AI",
     "team_size": 1,
@@ -2303,6 +2350,8 @@
       "Diagnostics"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -2313,5 +2362,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/haplotype-labs",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/haplotype-labs.json"
+  },
+  {
+    "id": 31434,
+    "name": "Adialante",
+    "slug": "adialante",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/783d9149e0d4fcedf1d788091598886930e15376.png",
+    "website": "http://www.adialante.com",
+    "all_locations": "Redwood City, CA, USA",
+    "long_description": "We know how to improve cancer outcomes by 8x-10x: you catch it early. \r\n\r\nMRI is the most robust and powerful cancer-detection tool in the world, yet systems cost millions to purchase, take months to install, and require high levels of technical skill to operate. We've redesigned MRI from the ground up with new physics, algorithms, and hardware, all to bring cancer screening to the entire world. \r\n\r\nOur mobile MRI is an imaging clinic on wheels. No equipment to buy, no infrastructure needed. For a flat per-scan fee, any medical site can offer MRI cancer screening. Starting with prostate cancer. Then everything else.",
+    "one_liner": "Cancer screening without barriers",
+    "team_size": 4,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Diagnostics",
+    "launched_at": 1773702631,
+    "tags": [
+      "Hardware",
+      "Medical Devices",
+      "Health & Wellness"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Diagnostics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/adialante",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/adialante.json"
   }
 ]

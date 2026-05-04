@@ -22,7 +22,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -150,9 +150,9 @@
       "LazyWeb"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c2b55aa5e7689ba35628ff2ed6299db9328d83c.png",
-    "website": "https://andisearch.com",
+    "website": "https://AndiAI.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Instead of just links, Andi AI gives you answers - like chatting with a smart friend. \r\n\r\nAndi is a new type of search engine that uses generative AI and language models combined with live data to generate factually correct answers to questions, and to explain and summarize information combined from the best sources. \r\n\r\nAndi works as a search chatbot that's ad-free and privacy-focused. Ask Andi to...\r\n\r\n✅  Answer questions\r\n🧠  Find, summarize and explain information\r\n🔍  Navigate and search the web\r\n\r\nSearch is broken because of SEO spam, ads, and surveillance capitalism. Andi cuts through the clutter to get you straight to the knowledge you need. It presents results visually in a way that's easy to understand with a simple chat interface, and protects you from ad tech and distraction.\r\n\r\n",
+    "long_description": "Instead of just links, Andi AI gives you answers - like chatting with a smart friend. \r\n\r\nAndi is a new type of search engine that uses generative AI and language models combined with live data to generate factually correct answers to questions, and to explain and summarize information combined from the best sources. \r\n\r\nAndi works as a search chatbot that's ad-free and privacy-focused. Ask Andi to...\r\n\r\n✅  Answer questions\r\n🧠  Find, summarize and explain information\r\n🔍  Navigate and search the web\r\n\r\nSearch is broken because of SEO spam, ads, and surveillance capitalism. Andi cuts through the clutter to get you straight to the knowledge you need. It presents results visually in a way that's easy to understand with a simple chat interface, and protects you from ad tech and distraction.\r\n\r\nYou can try the search app at https://andisearch.com",
     "one_liner": "AI Search for the Next Generation",
     "team_size": 2,
     "industry": "Consumer",
@@ -177,9 +177,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": true,
@@ -243,7 +241,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/02ca984c664acd671be4123ea5824a7fbc55c95c.png",
     "website": "https://www.optery.com",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Optery is automated opt out software, and we serve individuals, families and businesses.  With Optery, you can remove yourself from hundreds of data brokers that are posting and selling your home address, phone number, email and other private information on the internet.  \r\n\r\nOptery received the “Editors’ Choice” award by PCMag as the most outstanding product in the personal data removal category in 2022, 2023, 2024, and 2025, the Cybersecurity Excellence Awards for Attack Surface Management, Digital Footprint Management, and Employee Privacy Protection in 2024 and 2025, Cyber Defense Magazine’s Top InfoSec Innovator and Best Attack Surface Management awards in 2024 and 2025, the 2025 Fortress Cybersecurity Award for Privacy Enhancing Technologies, and Fast Company’s Next Big Things in Tech award for security and privacy in 2023. In 2025, Optery was also listed by Business Insider as one of 30 early-stage startups most likely to become a unicorn.\r\n\r\nOptery prevents phishing and social engineering, identity theft and fraud, online stalking and harassment, ransomware, doxxing, and prevents people's private information from showing up in Google search results. \r\n\r\nAnyone can create a free account to receive a personalized Exposure Report with live screenshots summarizing where your information is being posted and sold online.  Optery then provides free tools for self-service removals, or you can upgrade to a paid plan, and Optery will remove the profiles for you.\r\n\r\nOptery for Business serves enterprises removing personal information from the internet for their employees and executives, and offers an API enabling application developers to embed data broker scanning and removal technology into their applications.",
+    "long_description": "Optery is automated opt out software, and we serve individuals, families and businesses.  With Optery, you can remove yourself from hundreds of data brokers that are posting and selling your home address, phone number, email and other private information on the internet.  \r\n\r\nOptery received the “Editors’ Choice” award by PCMag as the most outstanding product in the personal data removal category in 2022, 2023, 2024, 2026 and 2026, the Cybersecurity Excellence Awards for Attack Surface Management, Digital Footprint Management, and Employee Privacy Protection in 2024 and 2025, Cyber Defense Magazine’s Top InfoSec Innovator and Best Attack Surface Management awards in 2024 and 2025, the 2025 Fortress Cybersecurity Award for Privacy Enhancing Technologies, and Fast Company’s Next Big Things in Tech award for security and privacy in 2023. In 2025, Optery was also listed by Business Insider as one of 30 early-stage startups most likely to become a unicorn.\r\n\r\nOptery prevents phishing and social engineering, identity theft and fraud, online stalking and harassment, ransomware, doxxing, and prevents people's private information from showing up in Google search results. \r\n\r\nAnyone can create a free account to receive a personalized Exposure Report with live screenshots summarizing where your information is being posted and sold online.  Optery then provides free tools for self-service removals, or you can upgrade to a paid plan, and Optery will remove the profiles for you.\r\n\r\nOptery for Business serves enterprises removing personal information from the internet for their employees and executives, and offers an API enabling application developers to embed data broker scanning and removal technology into their applications.",
     "one_liner": "Opt out software that removes your private info from the internet",
     "team_size": 55,
     "industry": "B2B",
@@ -258,7 +256,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -656,14 +654,16 @@
   },
   {
     "id": 25152,
-    "name": "Mederva Health",
-    "slug": "mederva-health",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/43a74cfe1478d73715e0a38d1643969f6ddafe1d.png",
+    "name": "Mederva",
+    "slug": "mederva",
+    "former_names": [
+      "Mederva Health"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1beab1ed6c93966e61bb46b319be09173e8b5be0.png",
     "website": "https://medervahealth.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Mederva is bringing AI-enabled healthspan care to primary care. We partner with clinics to turn lifestyle and behavior change into continuous, reimbursed care, extending healthy years of life between visits.",
-    "one_liner": "Longevity medicine for the 99%.",
+    "one_liner": "Longevity for the 99%.",
     "team_size": 13,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
@@ -676,7 +676,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -694,8 +694,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mederva-health",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/mederva-health.json"
+    "url": "https://www.ycombinator.com/companies/mederva",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/mederva.json"
   },
   {
     "id": 25160,
@@ -709,7 +709,7 @@
     "all_locations": "São Paulo, SP, Brazil; Remote",
     "long_description": "Compra Rápida is checkout made easy. Our platform offers a headless checkout experience for e-commerce stores, enabling retailers to increase conversions, retain abandonment, and boost sales. Registered users can buy at any e-commerce site from our network without requiring lengthy registration forms or complicated payment processes. Stores can automate their sales and recovery flows with our AI sales assistant. We aim to empower retailers to sell more while providing shoppers with a superior, humanized, and effortless buying experience.",
     "one_liner": "One-click checkout and AI sales assistant for LatAm.",
-    "team_size": 10,
+    "team_size": 21,
     "industry": "B2B",
     "subindustry": "B2B -> Retail",
     "launched_at": 1641949937,
@@ -754,7 +754,7 @@
     "all_locations": "Palo Alto, CA, USA; Remote",
     "long_description": "GrowthBook is an open source platform to help companies make data-driven product decisions with feature flags and A/B tests.  \r\n\r\nExisting SaaS solutions like LaunchDarkly require a company to send all of their data to them. This results in high costs, data compliance issues, and vendor lock-in.  As a result, many companies end up building their own platforms in-house, which can take thousands of hours of work and lots of headaches.  To solve this, GrowthBook uses a company's existing data infrastructure and business metrics.\r\n\r\nWe believe feature flags and experimentation are the right way to build products at scale and that they will become a standard part of the development process.  GrowthBook is well positioned to be a leader in this growing market.",
     "one_liner": "Open source feature flagging and A/B testing",
-    "team_size": 20,
+    "team_size": 25,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1645834859,
@@ -929,9 +929,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7d66896afcf3127a39f735586c48cd210cab0a7f.png",
     "website": "https://www.useagave.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We’re modernizing construction, a $12T global industry run by siloed software built 20-40 years ago (on-prem, no APIs, no mobile access, etc.). \r\n\r\nOur core product is Agave Sync, which helps General and Trade Contractors keep financial data in sync between their field teams on jobsites and their accounting teams in a central back office.",
-    "one_liner": "Financial Operations Platform for Construction",
-    "team_size": 28,
+    "long_description": "We're building the financial ops platform for construction, a $12T global industry run by software built 20-40 years ago, much of it on-prem with no APIs and no documentation.\r\n\r\nWe spent 3 years building the rails to read and write across those systems, and we use them to deploy AI for invoicing, expenses, compliance, billing, and more.\r\n\r\nWe have 500+ customers and have been profitable & cashflow positive for over two years. We're backed by Accel and Y Combinator, with investors from Procore, Autodesk, and Plaid.\r\n\r\nOur three co-founders have worked together for 12+ years, across Graphiq (acquired by Amazon in 2017) and Amazon.",
+    "one_liner": "AI Financial Operations for Construction",
+    "team_size": 33,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1642541270,
@@ -952,7 +952,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1097,26 +1099,26 @@
   },
   {
     "id": 25279,
-    "name": "Moots AI",
-    "slug": "moots-ai",
+    "name": "Moots",
+    "slug": "moots",
     "former_names": [
       "Take1 Financial",
       "Muse Card",
       "OnScale",
-      "Muse - OnScale"
+      "Muse - OnScale",
+      "Moots AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9141863b7e5cc7a3c7f31d2ae6a9eb60264f0a42.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fde6c91673da136f18472357605fb80d656f17b9.png",
     "website": "https://www.moots.ai/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Moots is a technology platform for curated, relationship-driven events.\r\nWe help hosts structure how guests connect before, during, and after gatherings while respecting privacy, protocol, and discretion.\r\n\r\nMoots is used when:\r\n\r\n- a company hosts private client, partner, or executive gatherings\r\n- an association or institution convenes members or stakeholders\r\n- an advisory or policy-adjacent organization organizes closed-door discussions\r\n- a brand runs curated side events around major global moments\r\n\r\nIn each case, Moots provides a secure, private digital layer that supports the room, without disrupting it.",
-    "one_liner": "Moots help hosts run curated gatherings where the right people meet.",
+    "long_description": "Moots is the Guest Intelligence platform. We engineer the room so every guest walks away with the conversation they came for, and with a relationship that lasts beyond it. Built for the events where the room matters: brand activations, advisory retreats, investor gatherings, members clubs, donor cultivation, political fundraisers, and recurring tech communities on Luma.",
+    "one_liner": "The guest intelligence platform for high-value corporate events",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1644842544,
     "tags": [
       "Collaboration",
-      "Social Network",
       "AI"
     ],
     "tags_highlighted": [],
@@ -1139,8 +1141,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/moots-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/moots-ai.json"
+    "url": "https://www.ycombinator.com/companies/moots",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/moots.json"
   },
   {
     "id": 25285,
@@ -1237,7 +1239,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c392ddb884e3f3f007a8a9e8d8f63e56ca88b47a.png",
     "website": "https://lifeat.com",
-    "all_locations": "Seattle, WA, USA",
+    "all_locations": "CA, USA; Seattle, WA, USA",
     "long_description": "LifeAt is your space to focus and complete tasks. Our mission is to help the 100M+ knowledge workers get into their flow state with video content and task management. Our customers get through their daily tasks twice as fast while feeling great at the end of the day!\r\n\r\nWell funded by Meta (Facebook), Line, Y Combinator, Goodwater, and other top VCs. Loved by over 1M+ users across the world and shared by over 500K+ followers across Tiktok/Instagram/Twitter. Come shape the future of focus and productivity!",
     "one_liner": "One tool to supercharge your productivity.",
     "team_size": 6,
@@ -1453,16 +1455,15 @@
     "website": "https://www.worldql.com/",
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "",
-    "one_liner": "Multiplayer engine for building games and RL environments",
-    "team_size": 3,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Gaming",
+    "one_liner": "Simulating problems AI can't solve yet",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
     "launched_at": 1648654841,
     "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
       "Reinforcement Learning",
-      "Gaming"
+      "Security",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1471,8 +1472,7 @@
     "batch": "Winter 2022",
     "status": "Active",
     "industries": [
-      "Consumer",
-      "Gaming"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -1601,7 +1601,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -1811,12 +1811,12 @@
     "name": "Rebill",
     "slug": "rebill",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0fed433e0099b065a5b2cae314b93106b213fa52.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac317d3596d742abd3e551f40119a6ba9a7f3d40.png",
     "website": "https://www.rebill.com",
     "all_locations": "Buenos Aires, CABA, Argentina",
-    "long_description": "Go live in less than an hour. Accept local payments, subscriptions, and installments in LATAM with a checkout built to match your ambition.\r\n‍\r\nEngineered for companies that set the standard.\r\n\r\nWith our platform and API, companies can integrate over 100 local payment methods from the region, including cards, bank transfers, cash, and even wallets. In addition, they always receive the best human support with fair pricing and utmost transparency, enabling them to scale across the region 10 times faster.",
-    "one_liner": "Payment infrastructure designed for LATAM.",
-    "team_size": 12,
+    "long_description": "Rebill helps global companies process payments, payouts, and financial operations in LATAM and the US without local entities.\r\n‍\r\nWith one integration, companies can accept payments, subscriptions, and installments across markets without setting up fragmented payment stacks country by country. Rebill combines local acquiring, 100+ payment methods, smart routing, retries, recovery, unified settlement, and a developer-first product in one platform.\r\n\r\nWe help merchants launch faster, increase conversion, and operate across underserved markets with the simplicity global companies expect.",
+    "one_liner": "Global payments infrastructure in LATAM and US",
+    "team_size": 10,
     "industry": "Fintech",
     "subindustry": "Fintech -> Payments",
     "launched_at": 1645553649,
@@ -1847,7 +1847,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": false,
+    "question_answers": true,
     "url": "https://www.ycombinator.com/companies/rebill",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/rebill.json"
   },
@@ -2370,9 +2370,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e95b5dd7ee1a5f617dc0a83136e30199f883050a.png",
     "website": "http://engagebio.com",
     "all_locations": "Santa Clara, CA, USA",
-    "long_description": "Engage Bio is developing mRNA immunotherapies to defeat cancer. Our founders have deep experience in immunotherapy development, including four drugs in the clinic, and in building mRNA therapeutics platforms. Our approach is to provide cancer cells with instructions to make and gradually release our drugs within solid tumors. This local therapy allows us to eliminate tumors while sparing healthy distant tissues. ",
-    "one_liner": "mRNA Immunotherapies to Eliminate Cancer",
-    "team_size": 5,
+    "long_description": "Engage Bio has developed Tethosomes, a new class of non-viral DNA which finally unleashes potent, durable, redosable, and scalable genetic medicine.\r\n\r\nEngage’s Tethosome platform solves the two key hurdles that have held back the field of non-viral DNA: potency and toxicity. Using proven LNP technology, we deliver a therapeutic DNA and an mRNA encoding our proprietary Tethosome protein. This protein localizes DNA to the nucleus, increasing expression by over 100-fold. Critically, our Tethosome platform is invisible to immune sensors which detect foreign DNA and which can cause lethal immune reactions. This allows us to safely deliver potent DNA, re-dose when needed, and titrate expression to optimal levels.",
+    "one_liner": "Potent, durable, and redosable non-viral genetic medicines",
+    "team_size": 10,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Therapeutics",
     "launched_at": 1647555290,
@@ -2456,7 +2456,7 @@
     "all_locations": "El Segundo, CA, USA",
     "long_description": "1.2B lbs of fish are caught everyday yet as little as 1 in 3 fish make it to a plate — most of this waste arises because fish are suffocated on boats or electrocuted on farms. \r\n\r\nSuffocation and inaccurate electrocution create stress and so acidify meat, damage quality and significantly reduce shelf-life. \r\n\r\nArtisanal techniques in high-end sushi multiply shelf-life and taste but, because of the variation in fish, are difficult to perform in a mechanical fashion. \r\n\r\nShinkei automates traditional techniques using robotics to provide long-lasting and delicious fish for farmers and harvesters at scale.",
     "one_liner": "Robots for longer-lasting, better-tasting fish at scale.",
-    "team_size": 28,
+    "team_size": 80,
     "industry": "Industrials",
     "subindustry": "Industrials -> Agriculture",
     "launched_at": 1646927109,
@@ -2590,15 +2590,14 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9b22096b578ff14b789d9b1882b55f7dc73e26f3.png",
     "website": "https://www.hellocozmo.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cozmo AI is building the foundational infrastructure for real-time, low-latency voice automation for regulated enterprises. \r\n\r\nWe enable Fortune 500 and leading insurers to deploy AI Employees that can speak, think, and act across revenue-critical workflows. In one global deployment, our voice-native AI employees managed all inbound and outbound policy calls with zero wait time and full compliance. \r\n\r\nThe verified AI performance not only improved service speed but also surfaced new, qualified leads creating what we call the “efficiency loop,” where AI handles repeatable tasks while humans capture higher-value opportunities. \r\n\r\nEach interaction is governed and auditable through our Agent Protocol Engine (APE™), which provides a transparent trail showing what the AI did, why it did it, and what business outcome it achieved. In industries like insurance, where trust and traceability matter more than speed, verified outcomes have become the new competitive edge. Cozmo AI also supports with foundational voice and agentic infrastructure built for regulated, multilingual markets:\r\n•⁠ ⁠Arabic + English first agents with Gulf dialect understanding. 97+ other languages supported\r\n•⁠ ⁠Sub-1.5 second latency across telephony.\r\n•⁠ ⁠Compliance-ready for local sovereignty laws.\r\n•⁠ ⁠APE Memory Engine for contextual, traceable reasoning.\r\n•⁠ ⁠Forward-Deployed Implementation Pods that integrate AI employees directly into live operations.\r\n\r\nBacked by YCombinator, Dubai Future District Fund and other global VCs we have headquarters in San Francisco and EMEA HQ in Dubai.",
-    "one_liner": "Voice AI workforce for regulated businesses",
-    "team_size": 8,
+    "long_description": "Cozmo AI is building the platform for regulated enterprises to deploy their own AI employees.\r\n\r\nCozmo is a system of work for complex enterprise operations. Companies use Cozmo to build and deploy AI employees, which are a collection of agents that own workflows end to end. They talk to customers, read documents, interpret videos, apply company policies and update systems like Guidewire, Temenos and Salesforce, pulling humans into the loop only when real judgment or escalation is needed.\r\n\r\nEvery decision the AI employee makes is logged, including its reasoning and policy reference, providing a complete audit trail for compliance and operations without additional manual effort. This is managed by our proprietary Agent Protocol Engine (APE), the control layer that keeps shared context, enforces policy and ensures every step is tracked for regulated industries.\r\n\r\nCozmo is live with 10+ enterprises, including Fortune Global 500s, like Nestlé, and has already handled over 1M production calls and 10M interactions; cutting costs by up to 70% and turning roughly 1 in 13 conversations into revenue.",
+    "one_liner": "Multimodal AI Employees That See, Speak, Think and Do for Enterprises",
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1644299294,
     "tags": [
-      "Artificial Intelligence",
-      "Infrastructure",
+      "Enterprise",
       "AI",
       "Conversational AI"
     ],
@@ -2625,24 +2624,26 @@
   },
   {
     "id": 25339,
-    "name": "VacationHomeRents",
-    "slug": "vacationhomerents",
+    "name": "AgentRouter",
+    "slug": "agentrouter",
     "former_names": [
-      "PageOne Lab, Inc."
+      "PageOne Lab, Inc.",
+      "VacationHomeRents",
+      "Wizwand",
+      "AgentDiscuss"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0071b16b382bb816988dd49705c681b85468891c.png",
-    "website": "https://www.vacationhomerents.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/06f893d5b073081cd45d8f0f66797ce918654100.png",
+    "website": "https://www.agentrouter.to",
     "all_locations": "Seattle, WA, USA; Remote",
-    "long_description": "VacationHomeRents helps users explore and compare vacation rental options across many listing platforms such as Airbnb, VRBO, Booking.com, etc.",
-    "one_liner": "Kayak.com for vacation rentals",
+    "long_description": "AgentRouter lets agents discover, pay, and execute APIs.",
+    "one_liner": "API Router for AI Agents",
     "team_size": 4,
     "industry": "Consumer",
-    "subindustry": "Consumer -> Travel, Leisure and Tourism",
+    "subindustry": "Consumer",
     "launched_at": 1647541720,
     "tags": [
-      "Marketplace",
-      "Consumer",
-      "Travel"
+      "Artificial Intelligence",
+      "Consumer"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2651,8 +2652,7 @@
     "batch": "Winter 2022",
     "status": "Active",
     "industries": [
-      "Consumer",
-      "Travel, Leisure and Tourism"
+      "Consumer"
     ],
     "regions": [
       "United States of America",
@@ -2663,10 +2663,10 @@
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
-    "app_answers": false,
+    "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/vacationhomerents",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/vacationhomerents.json"
+    "url": "https://www.ycombinator.com/companies/agentrouter",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/agentrouter.json"
   },
   {
     "id": 25340,
@@ -2678,7 +2678,7 @@
     "all_locations": "Washington, DC, USA; New York, NY, USA; Remote",
     "long_description": "Loops is a simple and beautiful email sending platform for SaaS companies. We have a Notion-style block editor for email creation, excellent deliverability for transactional mail and pre-built loops for SaaS companies to snap-in to increase their revenue and user engagement.",
     "one_liner": "Email sending for startups",
-    "team_size": 5,
+    "team_size": 9,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1643293654,
@@ -2764,8 +2764,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7522b24d3853d0b79cebe72798f4a3a33c54ac27.png",
     "website": "https://www.stably.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Stably AI auto-writes, runs, and maintains end-to-end tests directly in your CI, guarding every pull‑request and production release—no flakiness, no test maintenance.\r\n\r\nHundreds of modern engineering orgs already use Stably to merge code in minutes, replace brittle Playwright/Cypress suites, and slash QA spend by up to 80%.\r\n\r\nStably offers\r\n- AI-generated test flows that mirror real user journeys.\r\n- Diff-aware execution—only tests affected by your change run, so CI stays under five minutes.\r\n- Automatic selector & assertion healing when your UI shifts, keeping the suite green.\r\n- Plain‑English editor letting PMs and QAs add tests without writing code.\r\n- One‑click GitHub App or API for instant pipeline integration.",
-    "one_liner": "AI Testing that Writes, Runs & Maintains Tests for Every PR & Release",
+    "long_description": "We build devtools. Orca is an open-source Cursor—a local-first AI coding environment. Stably is our AI testing platform that writes, runs, and maintains E2E tests in CI.                                                                      \r\n                                    \r\nDevelopers use Orca and Stably to ship faster with more control—coding with their own AI setup and merging with confidence in minutes.",
+    "one_liner": "Makers of Orca (OSS Cursor) and Stably (AI testing platform)",
     "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -3024,8 +3024,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c7ebf13baa0b5e29608fd2d781b14ba29cc015b.png",
     "website": "https://unrealmilk.com/",
     "all_locations": "Boston, MA, USA",
-    "long_description": "Brown Foods is a Stanford, Rice University and IIT Delhi alumni venture building the next-generation of food products. They are creating UnReal Milk- lab based, clean milk - extremely sustainable 'real milk' but made without any cows. Unlike any other option in the USD 22 billion dairy alternatives market today, it will be exactly similar to cow’s milk in terms of nutritional profile, taste, texture and could also be processed into butter, cheese and ice creams. They envision to disrupt the USD 700 billion conventional dairy market by giving the world its 1st 'cow free' real milk option, reducing the carbon footprint of milk by over 90% while being completely cruelty-free.",
-    "one_liner": "Making 'REAL' Milk without any Cows!",
+    "long_description": "Brown Foods is a Stanford, Rice University and IIT Delhi alumni venture creating UnReal Milk - 'real milk' made using mammalian cell culture, AI enabled. They are the world's 1st company to produce cow-free whole milk in lab (Forbes). Targeting the $700 billion dairy market and $22 billion alternate dairy market with UnReal Milk - which could be converted into butter, cheese, ice-creams etc. and has taste and texture exactly like conventional dairy - unlike any of the plant based milks like oat milk or soy milk. Also, no animal cruelty and 82% lower carbon foot-print!\r\n\r\nUsing the same technology, they have also created real human milk targeting the $80 billion infant formula market. And who knows if adults also start drinking human milk in future!",
+    "one_liner": "Making 'REAL' Cow and Human Milk!",
     "team_size": 5,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Industrial Bio",
@@ -3074,7 +3074,7 @@
     "all_locations": "New York, NY, USA; Remote",
     "long_description": "Nest is a lab-agnostic, comprehensive solution for organizations to launch and implement large-scale genomic programs. The platform includes the ability to triage, consent, and counsel patients for genetic testing, provide EMR-integrated clinical decision support for providers managing patients with genetic results, and manage patients’ clinical needs across the continuum of care.",
     "one_liner": "Software to launch and integrate genetics into clinical care",
-    "team_size": 11,
+    "team_size": 14,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1648243110,
@@ -3372,7 +3372,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Human Resources"
@@ -3567,27 +3567,28 @@
   },
   {
     "id": 25363,
-    "name": "Gym Class - by IRL Studios",
-    "slug": "gym-class-by-irl-studios",
+    "name": "Gym Class",
+    "slug": "gym-class",
     "former_names": [
       "IRL Studios Inc.",
-      "Gym Class (by IRL Studios)."
+      "Gym Class (by IRL Studios).",
+      "Gym Class - by IRL Studios"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/90fc62ba6240bfed64d6f34df4390cc401252d92.png",
     "website": "https://gymclass.com",
-    "all_locations": "Los Angeles, CA, USA; Remote",
-    "long_description": "Gym Class is a top-rated social game for virtual reality. Download to make friends and hangout, compete and play sports, or create and explore in simulated worlds. Join us on our mission is to connect the world by simulating it.",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Gym Class is a social platform where you can play games, make friends, and create and share your own experiences. Join a community of millions across virtual reality and mobile.",
     "one_liner": "Connecting the world by simulating it",
     "team_size": 20,
     "industry": "Consumer",
-    "subindustry": "Consumer -> Virtual and Augmented Reality",
+    "subindustry": "Consumer -> Social",
     "launched_at": 1642203216,
     "tags": [
-      "Artificial Intelligence",
       "Virtual Reality",
       "Consumer",
       "Gaming",
-      "Social"
+      "Social",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3597,7 +3598,7 @@
     "status": "Active",
     "industries": [
       "Consumer",
-      "Virtual and Augmented Reality"
+      "Social"
     ],
     "regions": [
       "United States of America",
@@ -3610,8 +3611,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/gym-class-by-irl-studios",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/gym-class-by-irl-studios.json"
+    "url": "https://www.ycombinator.com/companies/gym-class",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/gym-class.json"
   },
   {
     "id": 25379,
@@ -3749,9 +3750,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1ff0b6c32ebbaceaa5a81ba55ba260e8e96957c7.png",
     "website": "https://sekilo.com/en/",
     "all_locations": "Jakarta, Jakarta, Indonesia",
-    "long_description": "Sekilo - Poultry processing & supply chain for the SME foodservice industry.\r\n\r\nA category-first consumer food company is revolutionizing the poultry industry with innovative technology. At the forefront of poultry distribution and processing, our robust supply chain, fortified with stringent cold chain control, guarantees excellence from procurement to final delivery, setting a new industry standard. Our unwavering commitment addresses client pain points—ensuring unparalleled quality, hygiene, freshness, and multiple drops with a low MOQ.\r\n\r\nAs a startup deeply rooted in logistics and supply chain expertise, Sekilo is the trusted partner for the diverse needs of the middle-downstream foodservice sector. Delivering cutting-edge solutions in warehouse management, inventory control, operations, delivery logistics, customization, and processing management, we cater to catering SMEs, HORECA chains, industry players, e-grocery startups, and D2C processed meat factories. Embracing technology, Sekilo optimizes Indonesia's poultry supply chain.\r\n\r\nWith robust supply chain capabilities, customization, an efficient business model, and an unwavering commitment to consistency, Sekilo is reshaping the poultry distribution and processing landscape.",
-    "one_liner": "Poultry processing & supply chain for the SME foodservice industry.",
-    "team_size": 11,
+    "long_description": "Sekilo is building the AI powered halal protein supply chain for foodservice in Indonesia, starting with poultry. The middle downstream food ecosystem is highly fragmented, with SMEs, F&B chains, industrial buyers, and government kitchens relying on multiple vendors, leading to inconsistent quality, pricing, and fulfillment. Sekilo unifies this through an asset light operating layer that integrates procurement, processing, cold chain, and delivery into a single system, layering AI across negotiation, pricing, inventory, and demand planning to automate workflows and improve margins.",
+    "one_liner": "Building the AI powered halal protein supply chain for foodservice in…",
+    "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1638382017,
@@ -3771,9 +3772,7 @@
     ],
     "regions": [
       "Indonesia",
-      "Southeast Asia",
-      "Remote",
-      "Partly Remote"
+      "Southeast Asia"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3836,12 +3835,12 @@
       "SeaCycle",
       "Seabound Carbon"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ef05b260fca4eb9826dc504b44512b6c883854f7.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d1528dd1b7f462a6ecd64d04d3bd29abcce12563.png",
     "website": "http://seabound.co",
     "all_locations": "London, England, United Kingdom",
     "long_description": "Seabound builds carbon capture equipment for ships. We're the only way for existing ships to reduce up to 95% of CO2 emissions and meet new global regulations.",
     "one_liner": "Carbon capture equipment for ships",
-    "team_size": 9,
+    "team_size": 18,
     "industry": "Industrials",
     "subindustry": "Industrials -> Climate",
     "launched_at": 1643912064,
@@ -3852,7 +3851,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -3862,7 +3861,9 @@
     ],
     "regions": [
       "United Kingdom",
-      "Europe"
+      "Europe",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4050,24 +4051,25 @@
   },
   {
     "id": 25402,
-    "name": "LlamaFarm",
-    "slug": "llamafarm",
+    "name": "Rownd",
+    "slug": "rownd",
     "former_names": [
-      "Rownd"
+      "Rownd",
+      "LlamaFarm"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c8d3ff52cb90605a538dc8d645bc45e1c2fba559.png",
-    "website": "https://llamafarm.dev",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c9dcd6e10984a18f91f153e7efc538957c387fd.png",
+    "website": "https://rownd.ai",
     "all_locations": "Raleigh, NC, USA",
-    "long_description": "LlamaFarm helps enterprises in regulated industries build and deploy AI applications with our open-core model, providing production-ready components for RAG systems, model fine-tuning, and prompt engineering that run entirely on-premise while maintaining complete data sovereignty. \r\n\r\nWith a powerful CLI and YAML configs, teams can create differentiated AI products without vendor lock-in or ML expertise, ensuring compliance and cost control that cloud-only solutions can't match.",
-    "one_liner": "Build powerful AI projects locally, deploy anywhere",
+    "long_description": "Rownd helps enterprises in regulated industries build and deploy AI applications with our open-core model, providing production-ready components for RAG systems, model fine-tuning, and prompt engineering that run entirely on-premise while maintaining complete data sovereignty. \r\n\r\nWith a powerful CLI and YAML configs, teams can create differentiated AI products without vendor lock-in or ML expertise, ensuring compliance and cost control that cloud-only solutions can't match.",
+    "one_liner": "Build powerful AI solutions. Deploy anywhere.",
     "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1643295526,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Open Source",
+      "AI",
       "ML"
     ],
     "tags_highlighted": [],
@@ -4091,8 +4093,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/llamafarm",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/llamafarm.json"
+    "url": "https://www.ycombinator.com/companies/rownd",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/rownd.json"
   },
   {
     "id": 25403,
@@ -4803,7 +4805,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1c5a065b7a7c24ba9fe5e863ad9867245d795343.png",
     "website": "https://orca.fyi/",
-    "all_locations": "Austin, TX, USA",
+    "all_locations": "CA, USA; Austin, TX, USA",
     "long_description": "Orca is banking built for Gen Z from the ground up. Send money instantly, split bills with groups, access local discounts and perks, spend and save, and do everything else you could ever ask on Orca — the only financial hub you'll ever need. ",
     "one_liner": "Banking for Gen Z, on steroids.",
     "team_size": 4,
@@ -5065,25 +5067,26 @@
   },
   {
     "id": 25511,
-    "name": "Viva Labs",
-    "slug": "viva-labs",
+    "name": "Iron Leap",
+    "slug": "iron-leap",
     "former_names": [
       "Resolutely",
       "Iron Leap",
       "ZeusCloud",
-      "Iron Leap"
+      "Iron Leap",
+      "Viva Labs"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a802faddbe0dc27bf5879f66fe3da6f447e0bcfd.png",
-    "website": "https://www.vivalabs.ai/",
+    "website": "https://getironleap.io/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "AI Automations for Healthcare",
+    "one_liner": "Enteprise AI",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1648099991,
     "tags": [
-      "AI"
+      "Artificial Intelligence"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5105,8 +5108,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/viva-labs",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/viva-labs.json"
+    "url": "https://www.ycombinator.com/companies/iron-leap",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/iron-leap.json"
   },
   {
     "id": 25512,
@@ -5446,7 +5449,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -5460,7 +5463,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -6011,7 +6014,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/27cef04a2b2af454d42923ab9d77113e9f198884.png",
     "website": "https://www.versableai.com/",
-    "all_locations": "Los Angeles, CA, USA; Remote",
+    "all_locations": "CA, USA; Remote",
     "long_description": "Auto parts retailers get product data from hundreds of manufacturers that is inaccurate and inconsistent, often with big gaps in key values. They currently have a team of \"catalog managers\" who are required to process and enhance this data line by line, resulting in a week to months long lag between receiving product data and actually being able to start generating revenue from those products. \r\n\r\nVersable leverages AI to scan the web for tens of millions of auto parts listings, and uses a fine-tuned LLM with RAG to instantly process, enhance, and transform data. With just a part number, Versable is able to generate market-ready titles, product descriptions, and specs, in any format that's needed. ",
     "one_liner": "AI powered product description enhancement for the auto parts industry",
     "team_size": 3,
@@ -6138,7 +6141,7 @@
     "website": "https://www.firezone.dev",
     "all_locations": "Mountain View, CA, USA",
     "long_description": "Firezone connects your workforce to the computing resources they need, wherever they are, securely. Unlike traditional VPNs, Firezone uses a least-privileged approach to access control known as Zero Trust Access.\r\n\r\nConnect your identity provider and define granular policies in minutes, then rejoice in the IT support requests you won't receive due to our lightweight, WireGuard-powered clients which work great on all platforms.",
-    "one_liner": "Easiest, most secure way to set up Zero Trust Access for your team",
+    "one_liner": "Easiest way to set up Zero Trust Access for your team",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
@@ -6234,7 +6237,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -6396,7 +6399,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "LanceDB is a new open-source vector database that can support low-latency billion-scale vector search on a single node. Built around a new columnar data format, LanceDB makes it incredibly easy to build applications for generative AI, recsys, search engines, content moderation, and more.",
     "one_liner": "Open-source, serverless vectordb for production-scale generative AI",
-    "team_size": 20,
+    "team_size": 35,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1648263864,
@@ -7290,16 +7293,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Reforged Labs Boa is the AI creative intelligence agent that answers all your questions about what ads are performing, why they work, and what to create next.",
     "one_liner": "Turn intuition into insights, in minutes",
-    "team_size": 18,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Gaming",
+    "team_size": 19,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
     "launched_at": 1644566628,
     "tags": [
-      "Generative AI",
+      "Artificial Intelligence",
       "B2B",
       "Gaming",
-      "Advertising",
-      "AI"
+      "Marketing",
+      "Advertising"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7308,8 +7311,8 @@
     "batch": "Winter 2022",
     "status": "Active",
     "industries": [
-      "Consumer",
-      "Gaming"
+      "B2B",
+      "Marketing"
     ],
     "regions": [
       "United States of America",
@@ -7327,14 +7330,15 @@
   },
   {
     "id": 25605,
-    "name": "Super Send",
-    "slug": "super-send",
+    "name": "SuperSend",
+    "slug": "supersend",
     "former_names": [
-      "EXO Freight"
+      "EXO Freight",
+      "Super Send"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/30af84e0971fab8e280e8b2aa9d648d3cb85997b.png",
     "website": "https://supersend.io/",
-    "all_locations": "Royal Oak, MI, USA; Remote",
+    "all_locations": "CA, USA; Remote",
     "long_description": "Super Send is a powerful outreach automation platform designed to streamline and scale your prospecting efforts across multiple channels, including email, LinkedIn, and Twitter. With features like dynamic personalization, email warming, inbox rotation, and advanced analytics, Super Send enables businesses to connect with leads efficiently while maintaining a human touch. Whether you’re running A/B tests, managing campaigns, or optimizing deliverability, Super Send provides the tools you need to maximize engagement and grow your business\r\n\r\n",
     "one_liner": "Super Send automates personalized outreach across email, LinkedIn,…",
     "team_size": 8,
@@ -7368,8 +7372,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/super-send",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/super-send.json"
+    "url": "https://www.ycombinator.com/companies/supersend",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/supersend.json"
   },
   {
     "id": 25606,
@@ -7472,11 +7476,11 @@
     "subindustry": "B2B",
     "launched_at": 1642412738,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "B2B",
       "Compliance",
-      "Regtech"
+      "Regtech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7559,9 +7563,9 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/47cb34b7397c027f788b4eed1a3ea9abfcb1c1df.png",
     "website": "https://gauss.money",
-    "all_locations": "New York, NY, USA; Remote",
-    "long_description": "Gauss allows people with good credit scores to significantly lower interest rates on their credit cards while they keep using them. \r\n\r\nUsers connect their credit cards to the mobile app and get a revolving credit line in under 10 minutes. Gauss tracks and automatically pays off any expensive balance on connected cards, saving users thousands of dollars on interest charges and helping them pay off card balances faster and improve credit scores.",
-    "one_liner": "Lower interest rates on existing credit cards",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Gauss is building an AI credit agent that automatically lowers the cost of consumers’ debt.\r\n\r\nThe product connects to a user’s credit profile, continuously monitors balances and available offers, and executes refinances or restructurings when it can materially improve terms.\r\n\r\nFor credit card debt, Gauss can track and automatically pay off any expensive balance on connected cards from an instantly originated line of credit, saving users thousands of dollars on interest charges and helping them pay off faster.",
+    "one_liner": "AI agent that helps consumers lower the cost of debt automatically",
     "team_size": 16,
     "industry": "Fintech",
     "subindustry": "Fintech -> Consumer Finance",
@@ -7584,7 +7588,7 @@
       "United States of America",
       "America / Canada",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -7819,7 +7823,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3875d1d979cbc4f3d637b7d4c36031d0e7abc4ec.png",
     "website": "https://play.google.com/store/apps/details?id=com.foodmonk.rekordapp",
-    "all_locations": "Remote",
+    "all_locations": "Bengaluru; Remote",
     "long_description": "RecordBook is one stop solution to manage all business DATA, WORKFLOWS & TEAMS for Small and Medium Businesses on their mobile devices & in their local languages.",
     "one_liner": "Airtable for 400 Million SMBs Globally",
     "team_size": 15,
@@ -7837,6 +7841,8 @@
       "B2B"
     ],
     "regions": [
+      "India",
+      "South Asia",
       "Remote",
       "Fully Remote"
     ],
@@ -7870,10 +7876,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "Fintech"
     ],
@@ -7956,10 +7962,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B"
     ],
@@ -8028,9 +8034,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed8c75028bc46b4acc10c1fcd555e74616bcdeb3.png",
     "website": "https://mintlify.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "The best developer companies (think Stripe, Twilio, MongoDB) have effective and user-centric documentation at their backbone. Mintlify helps any company achieve the documentation they need effortlessly, so that they can focus on building what they do best.",
-    "one_liner": "The intelligent documentation platform",
-    "team_size": 35,
+    "long_description": "Helping teams create and maintain world-class documentation built for both humans and AI",
+    "one_liner": "The intelligent knowledge platform",
+    "team_size": 55,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1641800191,
@@ -8630,9 +8636,9 @@
       "digiventures"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c8d7e7a8349d90a3fd3d3c8ff6fff809eccf9156.png",
-    "website": "https://www.digiventures.la/",
+    "website": "https://www.digitech.la/",
     "all_locations": "",
-    "long_description": "Digiventures SaaS enables banks in Latin America to digitize their loan origination and account opening process. We are live with 30 clients (including 7 banks) in 9 countries.",
+    "long_description": "Digi SaaS enables banks in Latin America to digitize their loan origination and account opening process. We are live with 30 clients (including 7 banks) in 9 countries.",
     "one_liner": "Enabling banks have a fintech-style loan origination process",
     "team_size": 30,
     "industry": "Fintech",
@@ -8673,18 +8679,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/36bc77538c7b2b901965b5e1ff49fe05b84cc1f1.png",
     "website": "https://velt.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Our mission is to make the web more collaborative. We're not just making collaboration faster—we're crafting it to be the best.\r\n\r\nToday we’re all using online platforms more than ever before - building, researching, learning, connecting etc. And we're not doing it alone. We're doing it together with other people and machines, turning the internet into the world's biggest team.\r\n\r\nYet, the web was built for solo voyages. We saw a shift when platforms like Figma and Google Docs brought a multiplayer approach, breaking down walls and inspiring seamless teamwork.\r\n\r\nAt Velt, we're taking it further. We're on a mission to infuse the magic of collaboration into the fabric of the web—one app at a time. We aim to erase the lines between online and offline co-working, crafting an environment where distance is irrelevant, and 'flow' is the norm.\r\n\r\nRight now, more than half of work hours are spent on coordination and communication—less on creating. With Velt, we're setting out to reverse these figures, reducing time spent on logistical issues by over 90%. Imagine what we can create when we spend less time talking about work and more time doing it!\r\n\r\nWe're building a better web—a web for us, for our team, for everyone. Join us, and let's accelerate the future of web together 🚀\r\n\r\nOur Products:\r\n\r\n- Velt Collaboration SDK (https://velt.dev/): JS SDK to add powerful collaboration experiences to your own product for your end-users. This helps you ship such experiences ridiculously fast, increase user growth and engagement.\r\n- Superflow (https://usesuperflow.com/): JS plugin to enable product, marketing and design teams to comment and collaborate directly on their websites. This helps them iterate and ship their products 10x faster.\r\n\r\nWe’re a team of ex-Googlers. We've launched products like Augmented Reality in Google Search & Maps.\r\n\r\nCome build a better web with us 🚀",
-    "one_liner": "Add powerful collaboration features to your product ridiculously fast.",
+    "long_description": "Add features like contextual Comments, Notifications, Recordings, Multiplayer editing, Huddles, Activity Logs to your product.",
+    "one_liner": "The Complete Collaboration Toolkit",
     "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1646206414,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "Collaboration",
-      "API",
-      "Remote Work"
+      "Compliance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -8842,10 +8848,10 @@
     "name": "Cogram",
     "slug": "cogram",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/61153d83e47c1914a8eed2b2b8b7f1813bf43dca.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9e67ec6dcc40ad110095fd4caf4f77334ee70a01.png",
     "website": "https://cogram.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "Cogram is an AI platform for the architecture, engineering, and construction (AEC) industry. Our products automate a growing number of AEC workflows such as site reports, meeting minutes, mail management, and RFP bidding.",
+    "long_description": "The software architects and engineers rely on is decades old, hard to use, and built for a pre-AI world. Since 2021, Cogram is building the alternative: AI-native tools that leading firms use to deliver projects.",
     "one_liner": "The AI Platform for Architects, Builders, and Engineers",
     "team_size": 15,
     "industry": "B2B",
@@ -9055,11 +9061,11 @@
       "Taktile Technologies, Inc.",
       "Takt"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/397f876989dcf422d675bcd202915947068a7da4.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc613b83486084b72c7376074fa84d16dbd06dbc.png",
     "website": "https://www.sero.so",
-    "all_locations": "Chicago, IL, USA; Remote",
-    "long_description": "",
-    "one_liner": "Customer onboarding built for B2B SaaS",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We help onboarding, implementation and professional services teams at B2B companies onboard customers faster, more consistently and more efficiently with AI agents.",
+    "one_liner": "Intelligent Customer Implementation Platform for B2B",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -9067,8 +9073,7 @@
     "tags": [
       "SaaS",
       "B2B",
-      "Customer Success",
-      "Customer Support"
+      "Customer Success"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -9081,9 +9086,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -9382,7 +9385,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -9457,7 +9460,7 @@
     "all_locations": "Berlin, Berlin, Germany",
     "long_description": "At voize, we believe the greatest gift to frontline workers is time - time to care, connect, and be present. Today, that time is lost to admin work that pulls nurses away from what matters most: people. \r\n\r\nWe’re changing that by building the AI companion that frees nurses from admin, giving them back up to 30% of time. We don’t replace humans - we support and amplify their impact. Today, 1,500+ care facilities trust voize, and over 100,000 nurses rely on our AI companion** to ease their daily workload.\r\n\r\nOur mission is backed with a $50M Series A funding led by Balderton Capital, with support from HV Capital, Y Combinator and other leading VCs.",
     "one_liner": "We build the AI companion for nurses, to create time for care.",
-    "team_size": 85,
+    "team_size": 140,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1648233375,
@@ -9673,9 +9676,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b9732a89bf577bd80a0c7d0b377bd35fcce86ce.png",
     "website": "https://GetAgency.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "Agency specializes in multi-party security and compliance scenarios; we are the Palantir of compliance. We serve the most innovative companies and their teams working on critical challenges and transformative technologies by helping them achieve standards like SOC2, ISO 27001, CMMC, NIST, HIPAA, and GDPR that meet the highest levels of scrutiny from third parties.\r\n \r\n\r\nOur patented platform, Verse, integrates with GRC software like Vanta, cloud infrastructure, and your endpoints to securely handle complex multi-layered configurations, such as remote contractor use, BYODs, and federated client-hosted application deployments. \r\n\r\n\r\nOur managed security and compliance team helps high-growth software companies meet rigorous standards as quickly as possible by doing it for them. \r\n\r\n\r\nOur ETDR program enables organizations to prevent threats directly targeting their employees' personal devices, data, and online accounts while respecting their privacy. We provide customized solutions to prevent insider threats, data loss prevention, and threat intelligence while safeguarding personal privacy. ",
-    "one_liner": "Solving Complex Security and Compliance",
-    "team_size": null,
+    "long_description": "Agency replaces traditional security and compliance headcount with AI without replacing your existing tools.\r\n\r\nOur platform is operated by forward-deployed engineers who run your entire security and compliance program including full virtual CISO coverage on your behalf. All powered by our proprietary AI agents.\r\n\r\nAgency is a vertically integrated AI platform and services company that enables organizations to achieve and maintain SOC 2, ISO 27001, CMMC 2.0, HIPAA, GDPR, FedRAMP, HITRUST, ISO 42001, and more without building internal teams. We integrate with leading GRC platforms like Vanta and Drata and security tools like CrowdStrike.\r\n\r\nAt its core is our proprietary cybersecurity and GRC orchestration layer powering a suite of AI systems that execute end-to-end security and compliance operations: control implementation, evidence collection, monitoring, vendor risk, penetration testing, and audit coordination — across complex environments like BYODs, contractor fleets, and multi-party systems. Things that GRC automation platforms can't do.\r\n\r\nWe deliver this through two distinctly separate products:\r\n\r\nAgency Comply — forward-deployed engineers who operate the platform, implement controls, run compliance programs, and manage security end-to-end\r\n\r\nAuditsuisse Assurance — our US and Swiss licensed CPA firm, powered by Auditsuisse AI, delivering independent SOC and global audits with speed and rigor. (Auditsuisse does not audit Agency Comply customers).\r\n\r\nAgency serves startups through enterprises building in high-stakes environments — AI, defense, aerospace, fintech, and healthcare — replacing fragmented tools and large internal teams with a single AI-driven system of execution.",
+    "one_liner": "Agency replaces traditional security and compliance headcount with AI.",
+    "team_size": 50,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1641532353,
@@ -9698,9 +9701,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -9866,7 +9867,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Finance and Accounting"
@@ -9981,7 +9982,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ea5429baf87f6ffc90d9204f3b44880844aead6.png",
     "website": "http://www.subscriptionflow.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "London; San Francisco, CA, USA",
     "long_description": "SubscriptionFlow is an AI-based customizable revenue management platform that helps SMBs optimize subscription revenue. It monitors user activity to identify customers at risk of churning and automatically alerts the sales team.\r\n\r\nFor example, eLearning/SaaS/Membership businesses require to monitor subscription usage to improve customer retention. Ecommerce/Magazine companies need to see the subscription trends to cross-sell and upsell products/services.\r\n",
     "one_liner": "AI based Customizable Subscription & Revenue Management Platform",
     "team_size": 9,
@@ -10004,7 +10005,9 @@
       "Sales"
     ],
     "regions": [
+      "United Kingdom",
       "United States of America",
+      "Europe",
       "America / Canada",
       "Remote",
       "Partly Remote"
@@ -10287,19 +10290,19 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8bc1e9f862fee999c4e72bc8a67f0dedc5205775.png",
     "website": "https://getlovage.com",
-    "all_locations": "Lehi, UT, USA",
-    "long_description": "Lovage creates automated, virtual receptionists for businesses that can handle almost any customer need over the phone, via text, or on social media. Instead of hiring someone or having to deal with interruptions while working, Lovage helps your customers by answering questions, booking appointments, and more - just like you would.",
-    "one_liner": "Smart, virtual receptionists for local businesses.",
-    "team_size": 7,
+    "all_locations": "Orem, UT, USA",
+    "long_description": "Lovage helps barbers and stylists fill empty appointment slots and get more clients.\r\n\r\nBeauty professionals frequently have gaps in their schedules due to cancellations, no-shows, and uneven demand. Lovage turns that unused availability into booked appointments.\r\n\r\nWe integrate with booking systems to detect open slots, generate on-brand content, and distribute it to channels like Instagram where clients can instantly book.\r\n\r\nThe result is more bookings, higher utilization, and increased revenue without relying on ads or manual marketing.",
+    "one_liner": "Automatically fill empty appointment slots for beauty professionals",
+    "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B -> Operations",
+    "subindustry": "B2B -> Marketing",
     "launched_at": 1642140655,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Productivity",
-      "SMB"
+      "Marketing",
+      "SMB",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -10309,7 +10312,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Operations"
+      "Marketing"
     ],
     "regions": [
       "United States of America",
@@ -10682,7 +10685,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c5062433c0cd2b53219dee1f6f03c41690b9965b.png",
     "website": "https://arintra.com",
-    "all_locations": "Austin, TX, USA",
+    "all_locations": "CA, USA",
     "long_description": "US hospitals and clinics are losing $125B every year due to delayed and inaccurate medical coding. Arintra is solving this problem by automating medical coding using clinical AI. Arintra converts a patient chart instantly into insurance claims with 96% accurate medical codes and zero human intervention.\r\n\r\nArintra has partnered with several provider clients that includes health systems and large physician groups with 100% success. Through automation of these charts, Arintra has reduced undercoding by 11% and coding-related claim denials by 43%. Arintra is headquartered in Austin, Texas. \r\n\r\nArintra is bi-directionally integrated with leading EHRs including Epic, Athena, Cerner, etc. to process patient charts directly from the EHR to create a direct-to-billing claim. This direct-to-billing claim includes precise E/M levels, CPT, ICD-10, HCC, HCPCS codes with appropriate modifiers and units.\r\n\r\nBoth founders have PhDs in AI, significant ML and NLP experience, 60+ patents and publications, and a combined 20+ years of experience working at B2B companies and startups in Silicon Valley.",
     "one_liner": "Medical coding automation",
     "team_size": 50,
@@ -10745,7 +10748,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Infrastructure"
@@ -10814,7 +10817,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b052c26e0beb63cd2a5aef297f7855da685f8dc.png",
     "website": "http://www.goodfin.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "CA, USA",
     "long_description": "GoodFin is reimagining private wealth in the era of AI. Our mission is to empower a new generation to build wealth, starting with their investments in alternative assets. \r\n\r\nOur AI-native platform combines a design-forward experience with a backend powered by a system of intelligent agents. We are building a future where AI unlocks financial hyperpersonalization, automation and optimization for sophisticated financial products, which are typically gated by advisors and reserved for very wealthy clients. This highly fragmented $1.25T global services market will undergo a sea change in the coming years, as trillions pass in the largest intergenerational wealth transfer to date.  \r\n\r\nIn a world where most financial decisions will become automated, we believe the next category-defining wealth company will still be human-driven at its core – powered by a high-value community like our membership base of professionals, founders and investors. The next generation financial giant will be an AI-native platform that makes wealth creation seamless, personalized, and social. That’s what we’re building.",
     "one_liner": "Building the next generation of wealth",
     "team_size": 8,
@@ -10897,7 +10900,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/66275e8e5b14cf01520f9100a1137a199d69e399.png",
     "website": "https://simplifyd.com",
-    "all_locations": "Lagos, LA, Nigeria; LA, Nigeria",
+    "all_locations": "London; LA, Nigeria",
     "long_description": "Simplifyd enables businesses deliver their internet apps (websites/mobile apps) data-free, similar to toll-free telephone lines. We do this through our Zerodata app\r\n\r\nFounded in August of 2021 and based in Lagos, Nigeria and Nairobi, Kenya, Simplifyd through its Zerodata platform is a trusted marketplace for data-free internet apps. \r\n\r\nBusinesses list their internet apps (websites/mobile apps) on the Zerodata platform so end users can access them data-free!\r\n\r\nEnd users simply need to download the Zerodata app, available for both mobile and desktop, toggle on and enjoy access to listed apps data-free!\r\n\r\nWe are on a mission to make apps accessible to over ~2B people in emerging economies who simply cannot afford the costs of internet data subscriptions.\r\n\r\n\r\n",
     "one_liner": "We deliver toll-free internet apps",
     "team_size": 8,
@@ -10917,7 +10920,9 @@
       "B2B"
     ],
     "regions": [
+      "United Kingdom",
       "Nigeria",
+      "Europe",
       "Africa",
       "Remote",
       "Partly Remote"
@@ -11165,8 +11170,8 @@
     "website": "http://www.cinder.co",
     "all_locations": "New York, NY, USA",
     "long_description": "From content moderation to responsible AI, Cinder empowers businesses to orchestrate and automate digital safety at scale. Cinder was founded to help organizations foster safe online spaces for everyone. Our platform empowers companies from start-ups to enterprises with end-to-end capabilities to mitigate harm, investigate abuse, and produce trustworthy and reliable AI outcomes. Building your world-class company means keeping your users and community safe—Cinder unlocks faster growth by making safety easy. We work with customers in every industry from frontier AI labs to e-commerce and social media. \r\n\r\nWe're hiring across a variety of teams and looking for candidates based in NYC or open to relocating to NYC, and able to work in-person.",
-    "one_liner": "Cinder | Responsible AI, Trust & Safety, and Data Labeling At Scale",
-    "team_size": 23,
+    "one_liner": "Infrastructure to protect companies from AI abuse",
+    "team_size": 30,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1647554051,
@@ -11212,15 +11217,17 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae92ae03ac6751b76d657b89f31e27c32bddc3d7.png",
     "website": "https://getpartna.com",
-    "all_locations": "Wilmington, DE, USA; LA, Nigeria; Remote",
-    "long_description": "Modern companies use Partna's API and B2B payment tools to smoothly launch and operate in Africa",
-    "one_liner": "Your Global payments partner for Africa",
-    "team_size": 16,
+    "all_locations": "Wilmington, DE, USA; Remote",
+    "long_description": "Stablecoin-powered payment infrastructure, to collect, convert, and settle between Africa and global markets.",
+    "one_liner": "Unlock African payments",
+    "team_size": 8,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1647334206,
     "tags": [
-      "Fintech"
+      "Fintech",
+      "Payments",
+      "Remittances"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11233,9 +11240,7 @@
     ],
     "regions": [
       "United States of America",
-      "Nigeria",
       "America / Canada",
-      "Africa",
       "Remote",
       "Fully Remote"
     ],
@@ -11428,17 +11433,17 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3fe5c2be7e2aa0778e285c356dcedd5751eb0f3d.png",
     "website": "https://courtyard.io",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Courtyard.io (YC W’22) is a marketplace and tokenization service that enables anyone to easily own and trade physical collectibles on the blockchain, unlocking greater transparency, liquidity, and a powerful new form of ownership. For vaulting, we’re partnered with Brink’s – one of the global leaders in security and logistics. We’re currently focused on graded cards, and offer a variety of slab Vending Machines along with curated mystery pack Drops to provide a fun, fair, and transparent way for enthusiasts and new collectors alike to grow their collections.",
-    "one_liner": "A frictionless, safe, and fun experience to invest in collectibles",
-    "team_size": 13,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Asset Management",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Courtyard.io (YC W’22) turns shopping into entertainment. Open digital packs to instantly reveal physical trading cards, comics, watches, and more. Keep what you love – securely vaulted, insured, and ready to ship – or sell back instantly at a guaranteed price. Expanding across new collectibles, fashion, and beyond, Courtyard is pioneering a new model of shopping where entertainment drives demand and liquidity backs every purchase.",
+    "one_liner": "Courtyard turns shopping into entertainment with instant liquidity",
+    "team_size": 90,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
     "launched_at": 1642471735,
     "tags": [
       "Marketplace",
-      "Sports Tech",
-      "Consumer"
+      "Consumer",
+      "E-commerce"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11447,14 +11452,13 @@
     "batch": "Winter 2022",
     "status": "Active",
     "industries": [
-      "Fintech",
-      "Asset Management"
+      "Consumer"
     ],
     "regions": [
       "United States of America",
       "America / Canada",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "stage": "Growth",
     "app_video_public": false,
@@ -12935,7 +12939,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6ae65ec2d1ccb8f2c368690d2013dc58fcdf2be.png",
     "website": "https://betteropinions.in/",
-    "all_locations": "Gurugram, HR, India; Remote",
+    "all_locations": "Bengaluru; Gurugram, HR, India; Remote",
     "long_description": "Better Opinions is a prediction market of India which allows users to trade their opinion on everyday topics. For example, If you think India Covid cases will decrease by 10% this week, you can trade this insight and win money if correct.\r\n\r\nOur aim is to make the app inclusive for all. The stock market unfortunately can be very technical and opaque and therefore isn’t always accessible for all. However, when we start allowing trading in categories such as cricket, politics and entertainment, not only do we make trading more relatable, but we also help improve their financial literacy.",
     "one_liner": "Prediction market of India",
     "team_size": 12,
@@ -13245,7 +13249,7 @@
     "all_locations": "CA, USA; Remote",
     "long_description": "PropelAuth provides the right level of authentication for all stages of a company. New startups can use our hosted pre-built UIs which provide the simplest possible integration. Out of the box, our customers immediately have the same auth experience as large tech companies like Slack. As those startups grow, they can use our APIs and component libraries to pull aspects of the experience into their product.\r\n\r\nMore than just authentication, we will also provide useful functions tied to a \"user\" or \"organization\", like analytics, billing/subscriptions, referral programs, etc.",
     "one_liner": "Team-based authentication for B2B SaaS",
-    "team_size": 6,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1642107038,
@@ -13320,29 +13324,30 @@
     "name": "Spade",
     "slug": "spade",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c34a890239baf0d72f56f357f5a24dee709b667.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc25342edef4b9f6942587780f3a5d96fae04f9c.png",
     "website": "https://www.spade.com",
     "all_locations": "New York, NY, USA",
     "long_description": "Spade is the next generation of fintech infrastructure. We’re building a financial data enrichment API purpose built to empower our customers to uncover the truth hidden within their transaction data. We use our vast, ground-truth merchant data set to decipher cryptic transactions, helping customers underwrite, detect fraud, build better banking infrastructure and get a unique understanding of their users’ spending habits.",
     "one_liner": "Enriched transaction data you can build on",
-    "team_size": 13,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "team_size": 25,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
     "launched_at": 1641512856,
     "tags": [
-      "Developer Tools",
       "Fintech",
-      "Machine Learning"
+      "Machine Learning",
+      "Payments",
+      "Data Labeling",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Engineering, Product and Design"
+      "Fintech"
     ],
     "regions": [
       "United States of America",
@@ -13497,17 +13502,18 @@
     "former_names": [
       "WishRoll"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa51d4e5cd378c79609ddec29d9290ae0a186930.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/66b261d06ec27d85efae10b1912e47d9eb0ee4c6.png",
     "website": "https://www.statusai.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Status allows users to live in immersive fantasy worlds through the familiar lens of social media.\r\n",
+    "long_description": "Status allows users to live in immersive fantasy worlds through the familiar lens of social media. Over 3 million users worldwide. \r\n",
     "one_liner": "Sims but Social Media",
-    "team_size": 6,
+    "team_size": 9,
     "industry": "Consumer",
     "subindustry": "Consumer -> Social",
     "launched_at": 1648151808,
     "tags": [
       "Consumer",
+      "Gaming",
       "Social",
       "AI"
     ],
@@ -13561,7 +13567,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Human Resources"
@@ -13590,7 +13596,7 @@
     "all_locations": "Maracaibo, Zulia, Venezuela",
     "long_description": "QUIK is building the operating system for business in LATAM.\r\n\r\nOn one side, powering users on QUIK Super App, where they can order foods, groceries and goods and get them on 30 minutes, while paying using any currency they want and logistics enterally handled by QUIK team. \r\n\r\nOn the other side, powering business with QUIK Pro, giving them a complete set of software to manage their business and online presence, with their own website, inventory management, logistics solutions, all in perfect sync with QUIK Super App, increasing sales and customer satisfaction.",
     "one_liner": "Building the operating system for business in LATAM",
-    "team_size": 35,
+    "team_size": 20,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1647204382,
@@ -13872,7 +13878,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -14041,7 +14047,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -14561,7 +14567,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/80599cf5bcd63aeaa1e1a40441b37a2b1c3b4839.png",
     "website": "https://www.glowenergy.com/",
-    "all_locations": "Los Angeles, CA, USA; Remote",
+    "all_locations": "CA, USA; Los Angeles, CA, USA; Remote",
     "long_description": "Glow Energy is a mission-driven company dedicated to making the built environment more sustainable. Our software empowers rental property owners to transform their buildings into Virtual Power Plants that drive sustainability and financial benefits for tenants, property owners, and clean energy infrastructure developers.",
     "one_liner": "Unlocking Virtual Power Plants for rental properties",
     "team_size": 6,
@@ -14600,19 +14606,19 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c71984e3c90e232ebbf75967edf3df1a6a22f4e9.png",
     "website": "https://www.workflow86.com",
-    "all_locations": "Sydney, NSW, Australia",
-    "long_description": "Workflow86 is your on-demand AI workflow engineer that designs, builds and edits complete end-to-end automated workflows and business processes based on your instructions. \r\n\r\nWorkflow86 turns any description of a business process or procedure into an automated workflow with fully configured forms, tasks, integrations, notifications, document generation and more. Deploy highly customized business processes and workflows that work with your existing systems in minutes, and just as easily edit and iterate on them with no-code, code or AI assistance.",
-    "one_liner": "AI Workflow Engineer for automating your business operations",
+    "all_locations": "CA, USA",
+    "long_description": "Workflow86 provides a complete end-to-end platform for building agentic workflows and automating complex business processes and operations. \r\n\r\nWorkflow86 provides users with a complete suite of tools to build and deploy custom agents and orchestrate them to perform complex, long-running workflows including human-in-the-loop steps, custom code, agent tools, and integrations with your existing systems. \r\n\r\nBuild using a visual canvas, or simply describe the workflow in natural language with agents able to self-configure tools, prompts, and integrations, and even build the multi-agent workflows. ",
+    "one_liner": "Agentic workflows for complex, long running business operations",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1642126076,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Enterprise",
-      "No-code"
+      "No-code",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -14625,8 +14631,8 @@
       "Operations"
     ],
     "regions": [
-      "Australia",
-      "Oceania",
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -14828,7 +14834,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -14857,17 +14863,16 @@
       "Fortuna Genomics"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/82c002dd039ff3ea4d28dfce449b49fc390b93bd.png",
-    "website": "https://splendorhealth.com",
-    "all_locations": "Cambridge, MA, USA; Remote",
-    "long_description": "Splendor's AI agent helps providers, EHRs, and billing companies automate benefits checks, prior auth, and more.",
-    "one_liner": "We make dealing with insurance less annoying.",
+    "website": "https://withsplendor.com",
+    "all_locations": "NY, USA; Remote",
+    "long_description": "Splendor provides year-round security coverage for startups that aren't ready to hire a CISO. Start with continuous embedded code review and exploit research, or scale to get a fractional security function covering board reporting, security roadmaps, and enterprise procurement reviews.",
+    "one_liner": "The security firm for startups.",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1711477333,
     "tags": [
-      "Health Insurance",
-      "Healthcare IT"
+      "Cybersecurity"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -14912,7 +14917,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -14945,15 +14950,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7e61aca9e3ec1f41c1b6e3f94c2d34767562c42d.png",
     "website": "http://www.AYCFund.com/",
     "all_locations": "Seoul, South Korea",
-    "long_description": "AYC Fund is web3 VC and web3 liquid fund. ",
-    "one_liner": "Web3 VC and Web3 Liquid Fund",
-    "team_size": 2,
+    "long_description": "AI-native crypto hedge fund",
+    "one_liner": "AI-native crypto hedge fund",
+    "team_size": 1,
     "industry": "Fintech",
     "subindustry": "Fintech -> Asset Management",
     "launched_at": 1641267384,
     "tags": [
       "Crypto / Web3",
       "Finance",
+      "Trading",
+      "AI",
       "Cryptocurrency"
     ],
     "tags_highlighted": [
@@ -15069,7 +15076,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/00e87778f713ce047a743a9838a85c3b22cc4b8b.png",
     "website": "https://www.revivingmind.com/",
-    "all_locations": "Boston, MA, USA; Remote",
+    "all_locations": "CA, USA; Boston, MA, USA; Remote",
     "long_description": "Navigating chronic illness is an isolating and lonely process which ultimately reduces medical adherence and adversely impacts outcomes. There are over 100 deadly chronic conditions as 1 out of 2 Americans is currently living with at least 1 chronic condition. The US healthcare system has over $1 trillion dollars in direct costs. Medical adherence rates for therapeutic programs and medicine are only 50% because patients feel lonely, isolated, and unsupported in their chronic illness journey.\r\n\r\nReviving Mind is an in-network telehealth provider that improves clinical outcomes and program adherence for the senior medicare and medicare-advantage population that is plagued with loneliness and chronic illness. This is done through a novel and proprietary clinical program and technology platform that integrates virtual, private, curated, and professionally led groups that scale up to 8-patients with individualized and goal oriented lifestyle medicine coaching that is automated but managed by a licensed provider.\r\n\r\nScaling rapidly across the United States.",
     "one_liner": "Addressing Loneliness and Isolation for Seniors",
     "team_size": 3,
@@ -15810,7 +15817,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -15947,7 +15954,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -16014,7 +16021,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bc09b4ea9334ecf8e0b870238b77cbe372f82c39.png",
     "website": "https://www.offbeast.com",
-    "all_locations": "Baltimore, MD, USA",
+    "all_locations": "NY, USA",
     "long_description": "We make premium plant-based whole-cuts with an authentic texture through our proprietary Cross-Fiber Assembly™ platform. More than 85% of our customers agree that Offbeast products have the best texture they've ever had in a plant-based meat product.",
     "one_liner": "We make plant-based steaks with an authentic texture",
     "team_size": 15,
@@ -16240,13 +16247,19 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c372268dde1c1e5ed3e639d9cb8603d8cf3639ea.png",
     "website": "https://www.beyond-aero.com/",
     "all_locations": "",
-    "long_description": "Beyond Aero was founded to meet the challenges of climate change and is developing the first hydrogen-powered electric business aircraft. \r\nThe company is on a mission to make aviation electric, starting with business aviation since private jet are the most emissions-intensive segment per passenger, producing ten times more CO2 per person than commercial flights. \r\nBeyond Aero has hit significant technical milestones, achieving France's first manned fully hydrogen-electric flight earlier this year and appointing Luiz Oliveira, former advisor on Embraer’s hybrid hydrogen program, as Chief Engineer. Beyond Aero has secured $914 million in Letters of Intent (LOIs) for 108 aircraft and earned multiple awards, including Brilliant Minds and the Sustainable Aviation Challenge by the World Economic Forum, joining the First Movers Coalition.",
+    "long_description": "Beyond Aero is building the first electric business aircraft powered by hydrogen propulsion, enabling six passengers to fly up to 800 NM (1,500 km), a range unattainable with battery-electric aircraft. Founded in December 2020, the company is redesigning the architecture of an aircraft around hydrogen-electric propulsion, focusing on fuel cell technology, gaseous hydrogen tank integration, and advanced cooling systems. With offices in Toulouse, Paris, and Los Angeles, the company boasts a team of over 80 highly qualified engineers from leading aerospace companies. Beyond Aero has secured over $50 million in funding, backed by investors such as Giant Ventures, Bpifrance, and prior supporters like Initialized Capital, Female Founders Fund, and 7 Percent Ventures. Beyond Aero also completed Y Combinator in 2022. The company has secured $1.5bn in Letters of Intent (LOIs), completed France’s first manned, fully hydrogen-electric flight, and acquired Universal Hydrogen Co.'s assets, IP, and flight data. Beyond Aero is a member of the World Economic Forum’s First Movers Coalition and the Alliance for Zero Emission Aviation, underscoring its commitment to electrifying aviation with hydrogen propulsion.",
     "one_liner": "First electric business aircraft designed for hydrogen propulsion",
-    "team_size": 50,
+    "team_size": 80,
     "industry": "Industrials",
     "subindustry": "Industrials -> Aviation and Space",
     "launched_at": 1639500772,
-    "tags": [],
+    "tags": [
+      "Hydrogen Energy",
+      "Airplanes",
+      "Energy",
+      "Electric Vehicles",
+      "Aerospace"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -16318,12 +16331,12 @@
     "former_names": [
       "KorrAI Technologies Ltd."
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eb9d2b3aba4530f352bea1055d57d8a8874049ff.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/33961621d8602321f304fcd55e4abfa80d7569d4.png",
     "website": "https://www.korrai.com",
     "all_locations": "Toronto, ON, Canada",
     "long_description": "KorrAI provides an AI-native workspace for remote desktop risk studies across construction, infrastructure, and mining projects.\r\nOur platform, TRAIL, enables insurers, asset owners, and builders to evaluate site and construction risk in hours instead of weeks by unifying geospatial data, geotechnical reports, catastrophe model outputs, and engineering context into one traceable system.",
     "one_liner": "AI-native workspace for end-to-end desktop studies",
-    "team_size": 17,
+    "team_size": 24,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction -> Construction",
     "launched_at": 1643659113,
@@ -16868,7 +16881,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "Industrials",
       "Energy"
@@ -17384,18 +17397,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5de4d57756c747e087b70e720cbfdb09672b0cc7.png",
     "website": "http://www.realitydefender.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "Reality Defender’s deepfake detection platform empowers enterprises to flag fraudulent users and content (audio calls, videos, images, documents). Our API and web app provides real-time risk scoring, reporting, alerts, and forensics review.  \r\n\r\nOur team spent 20+ years at Google, Goldman Sachs, and the Intelligence Community at the intersection of data science and cybersecurity.\r\n \r\nCustomer Use Cases:\r\n\r\n• Voice Voice Fraud (Ie. Realtime detection of AI generated voices for banks and call centers)\r\n\r\n• Onboarding KYC (Ie. Anti-fraud to identify fraudulent users and materials)\r\n\r\n• Content Moderation (Ie. Social media, e-commerce, marketplaces, dating, streaming)\r\n\r\n• Disinformation Detection (Ie. News, defense, government)\r\n \r\nWebsite: www.realitydefender.com\r\n\r\nContact: ask@realitydefender.com\r\n\r\nYC AMA: https://news.ycombinator.com/item?id=30766050",
+    "long_description": "Reality Defender is the market leader in deepfake detection, protecting enterprises and governments from realtime deepfake and agentic fraud. Sign up for free access at https://www.realitydefender.com/api\r\n\r\nWebsite: www.realitydefender.com\r\nContact: ask@realitydefender.com\r\nYC AMA: https://news.ycombinator.com/item?id=30766050\r\n\r\nAwards:\r\n2025 - Gartner: Recognized as Market Leader in Deepfake Detection\r\n2025 - JPMorgan: Inducted into Hall of Innovation\r\n2025 - World Economic Forum: Named Technology Pioneer\r\n2025 - USA DIU + Japan MOD: 1st Place \"Global Innovation Challenge\"\r\n2024 - RSA Conference: 1st Place “Most Innovative Startup”\r\n2024 - SINET16 Innovator Award\r\n2023 - SXSW 1st Place \"Artificial Intelligence, Voice, & Robotics Technologies\"",
     "one_liner": "Enterprise Deepfake Detection",
     "team_size": 54,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1647888631,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Deepfake Detection",
       "Security",
-      "Privacy",
-      "AI"
+      "Privacy"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -17479,33 +17492,34 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/138a9ab05de536189c7973eacdc2ce67a9ebddc0.png",
     "website": "https://mymindbase.ai",
-    "all_locations": "Gurugram, HR, India",
-    "long_description": "Mindbase is an AI cloning platform that empowers individuals, especially influencers, founders, and creators, to replicate their entire mind and create a digital twin. This isn't just a chatbot; it's a living, breathing digital version of yourself that can think, talk, and interact 24/7, complete with your actual voice, tone, and personality.\r\n\r\nWhat makes Mindbase truly powerful is its ability to ingest your entire body of work—from podcasts and YouTube videos to blogs and social media content—automatically updating and learning to capture your true style, phrasing, and depth. This digital clone can then be distributed everywhere you need to be, embeddable on your website, courses, SMS, WhatsApp, and even phone calls, ensuring your audience can connect with you anytime, anywhere.\r\n\r\nEach Mindbase clone comes equipped with its own email, phone number, and WhatsApp, marking a significant leap in how humans can communicate, scale their presence, and build a lasting legacy. Beyond just interaction, Mindbase provides a full analytics dashboard, offering deep insights into conversations, trends, FAQs, and user engagement, all while ensuring your data remains private and encrypted. It's a scalable, authentic digital extension of you, designed to grow with your audience and unlock limitless possibilities for engagement and impact.",
-    "one_liner": "AI Clone for scalable, authentic engagement with your entire audience",
+    "all_locations": "Gurugram, HR, India; Remote",
+    "long_description": "Mindbase is an AI avatar platform where we launch AI avatars of real human as well create artificial entities and grow them on Instagram/Youtube like a influencer using AI content strategies. \r\n\r\nWe give each AI influencer its own email, phone number and WhatsApp account so they can build deep relationships like a human creator would. \r\n\r\nAlready, generating over 5m+ daily views with just a network of 10+ AI influencers.\r\n\r\nOur business model is simple: brands pay us between $1,000 to $4,000 per month per AI influencer. One of our brand partners generated $45,000 in sales from a $3,000 spend, achieving a 15X ROAS.\r\n\r\nWe believe this is just the beginning.  We can generate $20,000 annually per AI influencer. With just 5000 AI influencers we can quickly scale to $100 million ARR business. \r\n\r\nTo put that in perspective: there are over 400 million regular human influencers globally. Even if we just target a fraction of the market, it’s a massive thing.\r\n\r\nOur team is the key to making this happen. We're alumni of IIT and repeat founders. Previously, built TradeX, a prediction market platform, scaled that to $40 million in monthly trading volume with 5 million users. That success was driven by our trend tracking system & influencer partnerships, the very same expertise we're now using to build Mindbase.\r\n",
+    "one_liner": "Build AI influencers that autonomously create content, engage fans…",
     "team_size": 7,
     "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
+    "subindustry": "B2B -> Marketing",
     "launched_at": 1642774181,
     "tags": [
-      "Fintech",
       "Consumer",
-      "Gaming"
+      "Gaming",
+      "Social",
+      "Marketing"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
     "industries": [
       "B2B",
-      "Productivity"
+      "Marketing"
     ],
     "regions": [
       "India",
       "South Asia",
       "Remote",
-      "Partly Remote"
+      "Fully Remote"
     ],
     "stage": "Early",
     "app_video_public": false,

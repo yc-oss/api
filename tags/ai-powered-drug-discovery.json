@@ -405,7 +405,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2019",
     "status": "Active",
@@ -741,10 +741,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/983561db384b2274b11c61cd0cad3af0a429c991.png",
     "website": "http://parallel.bio",
-    "all_locations": "Cambridge, MA, USA; Los Angeles, CA, USA",
-    "long_description": "Parallel Bio created a human 'immune system in a dish' to discover drugs and immunotherapies more likely to work in patients. Our platform has all of the same elements as a human immune system, meaning you can test drugs and vaccines as if you were testing them in actual patients from the start. The biggest reason why 95% of new drugs fail is that they were tested in mice - but with our human platform, pharma companies will know which drugs will successfully treat patients, speeding up the process and reducing the cost. To date our platform has successfully been used to test 12 drugs, and vaccines against 8 different diseases. The company is founded by Robert DiFazio, a former Stanford R&D director with a PhD in immunology, and Juliana Hilliard, a former System1 Biosciences R&D lead with an MSc in bioengineering, both of whom have led drug discovery programs for years.",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Parallel Bio is pioneering human-first drug discovery by creating the first map of human biology. Using groundbreaking biological and computational tools that track real clinical outcomes, the company generates data that enable earlier, more reliable decisions about disease biology and drug development. \r\n\r\nParallel Bio’s platform overcomes the core limitations of traditional animal testing, which fails to encapsulate the complexity of human biology. The company is building internal pipelines of novel disease targets and drug candidates in both cancer and autoimmune disease, while collaborating with pharmaceutical companies to evaluate therapies directly in human systems to reduce the cost and risk of clinical trials. \r\n\r\nBased in San Francisco, the company was founded in 2021 by two of the world’s leading experts in replacing animal models with human-first platforms.",
     "one_liner": "Using the immune system to cure disease",
-    "team_size": 9,
+    "team_size": 20,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Drug Discovery and Delivery",
     "launched_at": 1626811179,
@@ -754,7 +754,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -832,7 +832,7 @@
     "all_locations": "Lausanne, VD, Switzerland",
     "long_description": "Proteins are the most advanced nanotechnology we know of. At Adaptyv, we’re building a fully automated protein foundry to allow you to synthesize and test any protein you design.\r\n",
     "one_liner": "We're building fully automated labs for protein engineering",
-    "team_size": 12,
+    "team_size": 25,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Drug Discovery and Delivery",
     "launched_at": 1628157260,
@@ -923,6 +923,7 @@
     "launched_at": 1628006072,
     "tags": [
       "AI-powered Drug Discovery",
+      "Artificial Intelligence",
       "Generative AI",
       "Biotech"
     ],
@@ -1036,50 +1037,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/sfa-therapeutics-inc",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/sfa-therapeutics-inc.json"
-  },
-  {
-    "id": 24820,
-    "name": "Medium Biosciences",
-    "slug": "medium-biosciences",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0f30f00dbe44cde67296a43e445c0bb0dc14f9b5.png",
-    "website": "http://medium.bio",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We develop AI models & new assays to create functional, therapeutic proteins.",
-    "one_liner": "AI-designed Protein Therapeutics",
-    "team_size": 6,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Therapeutics",
-    "launched_at": 1630004252,
-    "tags": [
-      "AI-powered Drug Discovery",
-      "Machine Learning",
-      "Biotech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2021",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Therapeutics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/medium-biosciences",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/medium-biosciences.json"
   },
   {
     "id": 25151,
@@ -1265,8 +1222,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ae1f1866a70286591b56aa5fd2f81bdf18af255.png",
     "website": "https://nanograb.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Nanograb is a computational drug discovery company that uses AI to generate the best combination of binders to treat different diseases. Our product allows drugs to be targeted to very specific areas of the body.",
-    "one_liner": "AI-generated binders for targeted drug delivery",
+    "long_description": "Nanograb is a computational drug discovery company that uses AI to create novel targeted non-viral gene therapy vectors. Our platform designs unique combinations of small peptide binders attached to nanoparticles to safely deliver genetic medicines to specific cells and tissues in the body at scale. ",
+    "one_liner": "Deliver genes to any cell with AI",
     "team_size": 5,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Drug Discovery and Delivery",
@@ -1307,19 +1264,19 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/201884765e11baf051338d72f6f2e7ead2bb1fa1.png",
     "website": "https://www.tamarind.bio",
-    "all_locations": "",
-    "long_description": "Tamarind Bio is a website and API which allows scientists to use computational biology tools at scale using a simple interface. On Tamarind, scientists can use ML models like AlphaFold to design and simulate molecules by simply selecting inputs instead of or setting up a high performance computing environment or dealing with DevOps.\r\n\r\n\r\nOur tools are used by thousands researchers in large pharma companies, top biotechs, and academic institutions. We currently focus on models in protein design and engineering, including for antibodies/therapeutics and enzymes.\r\n\r\n\r\nGet in touch at founders@tamarind.bio",
-    "one_liner": "Easy to use computational biology tools for drug discovery",
-    "team_size": 10,
+    "all_locations": "CA, USA",
+    "long_description": "Tamarind Bio is a website and API which allows scientists to use computational biology tools at scale using a simple interface. On Tamarind, scientists can use ML models like AlphaFold to design and simulate molecules by simply selecting inputs instead of or setting up a high performance computing environment or dealing with DevOps.\r\n\r\n\r\nTamarind is used by tens of thousands researchers in large pharma companies, top biotechs, and academic institutions.",
+    "one_liner": "AI Inference Platform for Drug Discovery",
+    "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1702859345,
     "tags": [
       "AI-powered Drug Discovery",
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Biotech",
-      "AI"
+      "Biotech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1331,7 +1288,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Growth",
     "app_video_public": false,
@@ -1438,7 +1396,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7d5463656052d09bd1bc697531992af867d844c.png",
     "website": "https://www.aminoanalytica.com",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "London; Remote",
     "long_description": "Design, simulate, and test your proteins 100x faster with the end-to-end no-code platform for protein engineering. Powered by Amina, our AI agent.\r\n\r\nWith Amina, one protein engineer can do the work of 10. Describe what you want to achieve and Amina will handle everything else – from research and design to simulation, folding, docking, and protein characterization. It asks clarifying questions if needed, intelligently understands and performs the task, and analyzes your results within the context of your project.",
     "one_liner": "The AI-Native Operating System for Protein Engineering",
     "team_size": 2,
@@ -1463,8 +1421,8 @@
       "Industrial Bio"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "United Kingdom",
+      "Europe",
       "Remote",
       "Fully Remote"
     ],
@@ -1607,29 +1565,29 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/b12-labs.json"
   },
   {
-    "id": 31064,
-    "name": "Origin",
-    "slug": "origin-bio",
+    "id": 30747,
+    "name": "Convexia",
+    "slug": "convexia",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f0bdde9261c1483c617c9ca235a7378e3d7ba10.png",
-    "website": "https://origin.bio/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Designing novel regulatory DNA (e.g., enhancers and promoters) to program precise therapeutic gene expression patterns - for diseases like cancer, CNS disorders and more. We're building the largest proprietary dataset of synthetic regulatory sequences across diverse cell-states.",
-    "one_liner": "AI for safer cell & gene therapies",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c68bf871c0fe363c6048343df283d9282ab990f4.png",
+    "website": "https://convexia.bio",
+    "all_locations": "CA, USA",
+    "long_description": "An AI-maximalist pharma platform. We use agents to buy drugs, run clinical trials, and sell for a profit. 10x faster and 20x leaner than incumbents.\r\n\r\nSourcing Agent: Mines public/private databases and unstructured global data to surface overlooked preclinical candidates.\r\nScientific Agent: Runs comp bio models (ESM-3, RFdiffusion, Boltz-2, AlphaFold) to assess safety and efficacy in silico.\r\nCommercial Agent: Analyzes FDA incentives, pricing dynamics, TAM, competitive landscape, and payer alignment.\r\nClinical Agent: Runs digital twin simulations, evaluates CRO/CMC risk, and builds trial plans to Phase 1.\r\nPoS Agent: Evaluates the most critical factors that impact the likelihood of clinical trial success. \r\n\r\nBuilt by 2 Stanford CS students who have built 3 startups together before. ",
+    "one_liner": "The world's first AI-maximalist pharma company",
     "team_size": 4,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Drug Discovery and Delivery",
-    "launched_at": 1770167044,
+    "launched_at": 1752301183,
     "tags": [
       "AI-powered Drug Discovery",
-      "Gene Therapy",
-      "Cell Therapy"
+      "Biotech",
+      "Drug Delivery"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
-    "batch": "Winter 2026",
+    "batch": "Summer 2025",
     "status": "Active",
     "industries": [
       "Healthcare",
@@ -1643,8 +1601,50 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/convexia",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/convexia.json"
+  },
+  {
+    "id": 31439,
+    "name": "Alchemy",
+    "slug": "alchemyai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7d5d92304f2eaa0377d188245540fde04aec2281.png",
+    "website": "https://www.alchemyai.dev/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Alchemy helps biotech and pharma researchers train and share computer vision models to convert raw images into numerical data, reducing analysis time by 98%.\r\n\r\nAll a researcher has to do is upload their images, describe what they need in plain language, and our agents help assemble their tailored analysis pipeline, select the right models for their specific images, and let them verify every step before exporting reproducible, publication-ready results.",
+    "one_liner": "AI-powered image analysis for life sciences",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1774445922,
+    "tags": [
+      "AI-powered Drug Discovery",
+      "Machine Learning",
+      "SaaS",
+      "Biotech",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/origin-bio",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/origin-bio.json"
+    "url": "https://www.ycombinator.com/companies/alchemyai",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/alchemyai.json"
   }
 ]

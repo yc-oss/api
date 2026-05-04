@@ -9,7 +9,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/07fc8711d53bff780e8a1a0a0737d04137bffc8d.png",
     "website": "https://globe.exchange",
-    "all_locations": "Seychelles; Remote",
+    "all_locations": "London; Seychelles; Remote",
     "long_description": "The global cryptocurrency derivatives exchange \r\n\r\nInventors of bitcoin VIX, the first low latency perpetual futures exchange and more",
     "one_liner": "coinbase for derivatives",
     "team_size": 20,
@@ -31,7 +31,9 @@
       "Banking and Exchange"
     ],
     "regions": [
+      "United Kingdom",
       "Seychelles",
+      "Europe",
       "Africa",
       "Remote",
       "Fully Remote"
@@ -92,47 +94,47 @@
   },
   {
     "id": 23075,
-    "name": "Sturdy",
-    "slug": "sturdy-2",
+    "name": "TaoFi",
+    "slug": "taofi",
     "former_names": [
       "Trained Eye",
       "Sturdy",
-      "Sturdy Finance"
+      "Sturdy Finance",
+      "Sturdy"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ad9396b9cebc1da00df8e848c265dd081f363791.png",
-    "website": "https://sturdy.finance",
-    "all_locations": "",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0978b02398d2e208700132e4080e74a5adc8d662.png",
+    "website": "https://taofi.com",
+    "all_locations": "CA, USA",
     "long_description": "",
-    "one_liner": "DeFi protocol for permissionless lending",
+    "one_liner": "The financial layer for decentralized AI",
     "team_size": 11,
     "industry": "Fintech",
-    "subindustry": "Fintech -> Credit and Lending",
+    "subindustry": "Fintech",
     "launched_at": 1616256593,
     "tags": [
-      "DeFi",
-      "Fintech",
-      "Lending"
+      "Artificial Intelligence",
+      "DeFi"
     ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2021",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
-      "Fintech",
-      "Credit and Lending"
+      "Fintech"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sturdy-2",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/sturdy-2.json"
+    "url": "https://www.ycombinator.com/companies/taofi",
+    "api": "https://yc-oss.github.io/api/batches/winter-2021/taofi.json"
   },
   {
     "id": 23645,
@@ -296,10 +298,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "Fintech"
     ],
@@ -553,5 +555,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/payfura",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/payfura.json"
+  },
+  {
+    "id": 31344,
+    "name": "Totalis",
+    "slug": "totalis",
+    "former_names": [
+      "UCALLEDIT®"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/511d877345852eb10f307bb1381829f64760f295.png",
+    "website": "https://www.totalis.trade",
+    "all_locations": "",
+    "long_description": "",
+    "one_liner": "derivative layer for prediction markets",
+    "team_size": 0,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Consumer Finance",
+    "launched_at": 1774744766,
+    "tags": [
+      "DeFi",
+      "APIs"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Consumer Finance"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/totalis",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/totalis.json"
   }
 ]

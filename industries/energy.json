@@ -955,7 +955,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/99290b7945e22f2dcc0d8b0286db8221c37245e7.png",
     "website": "https://inbalanceresearch.com",
-    "all_locations": "Cambridge, MA, USA; Remote",
+    "all_locations": "CA, USA; Cambridge, MA, USA; Remote",
     "long_description": "We use machine learning to accurately forecast electricity prices. Our live customers, including Enel, use our software to improve revenue by millions of dollars per year.",
     "one_liner": "Electricity price forecasts for energy storage, ev charging, etc.",
     "team_size": 10,
@@ -1101,7 +1101,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "Industrials",
       "Energy"
@@ -1208,56 +1208,16 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/maverickx.json"
   },
   {
-    "id": 27762,
-    "name": "Ohm",
-    "slug": "ohm-2",
-    "former_names": [
-      "Byterat"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b3e2558be3a398339579a5be68b4d4a636ca905.png",
-    "website": "https://www.ohm.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ohm supports battery design & manufacturing teams globally. Our customers include battery manufacturers (traditional and next-generation chemistries) and Fortune 100 technology companies that use batteries in their products.",
-    "one_liner": "AI \"co-scientists\" for battery design & manufacturing",
-    "team_size": 6,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Energy",
-    "launched_at": 1676603508,
-    "tags": [
-      "Data Engineering",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Energy"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ohm-2",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/ohm-2.json"
-  },
-  {
     "id": 28214,
-    "name": "Keeling Labs",
-    "slug": "keeling-labs",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/96c0f2be5c049e0d754ea3c0d933d810e212ead6.png",
-    "website": "http://keelinglabs.com",
+    "name": "Atmeto",
+    "slug": "atmeto",
+    "former_names": [
+      "Keeling Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9903b97190d67a01064a67c7522d3703402c8f0c.png",
+    "website": "https://www.atmeto.com",
     "all_locations": "Los Angeles, CA, USA",
-    "long_description": "Founded in 2022, Keeling Labs was started as a place to develop and apply machine learning to solve the world's biggest problem—climate change. Our current priority is getting the grid to run on 100% clean energy, which is currently limited by battery storage (specifically, the algorithms that control them).\r\n\r\nWe're redefining these algorithms to unlock gigawatts of untapped energy storage capacity, enabling the grid to run on more clean energy from wind and solar.",
+    "long_description": "Founded in 2022, Atmeto was started as a place to develop and apply machine learning to solve the world's biggest problem—climate change. Our current priority is getting the grid to run on 100% clean energy, which is currently limited by battery storage (specifically, the algorithms that control them).\r\n\r\nWe're redefining these algorithms to unlock gigawatts of untapped energy storage capacity, enabling the grid to run on more clean energy from wind and solar.",
     "one_liner": "We develop ML that optimizes how batteries in the grid store energy",
     "team_size": 3,
     "industry": "Industrials",
@@ -1289,8 +1249,48 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/keeling-labs",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/keeling-labs.json"
+    "url": "https://www.ycombinator.com/companies/atmeto",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/atmeto.json"
+  },
+  {
+    "id": 28745,
+    "name": "Nectar",
+    "slug": "nectar",
+    "former_names": [
+      "Pairly Climate",
+      "Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7411f4ecb5153ac85174724f663e8e21142f624a.png",
+    "website": "https://nectarclimate.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Nectar is the modern AI energy management platform. We automate utility data analysis to optimize energy costs, manage buildings, and report energy efficiency metrics for energy and sustainability teams. Our utility data API uses in-house AI agents to deliver the most accurate granular usage and cost data on the market.",
+    "one_liner": "Manage energy cost & usage with AI for facility & sustainability teams",
+    "team_size": 7,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Energy",
+    "launched_at": 1688762834,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Energy"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/nectar",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/nectar.json"
   },
   {
     "id": 29444,
@@ -1467,7 +1467,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/988eb2e2b20c2a99fe4d96b54932cdebea0632d4.png",
     "website": "https://www.astroenergy.ai/",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "Astro finds and buys land for new renewable energy projects, secures grid connections at minimal cost, and sells these development-ready projects to larger energy companies. Founded by Alex Fuster, a former Citadel energy trader, Astro's AI models identify profitable grid connections that eliminate the surprise costs causing 80-90% of renewable projects to fail. With the U.S. needing 2,000 gigawatts of new power generation by 2035 for AI data centers and electrification, Astro unlocks development opportunities that traditional methods consistently miss.",
     "one_liner": "The world’s first AI energy developer",
     "team_size": 1,
@@ -1492,7 +1492,8 @@
       "Energy"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1509,7 +1510,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2af0192d25e843e5333e635fa35115413fbca155.png",
     "website": "https://maritimefusion.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Maritime Fusion is building fusion reactors for ships and off grid energy markets. En route on this endeavor we’re commercializing High Temperature Superconducting (HTS) cable technology for power distribution while advancing the physics basis of our HTS tokamak to decarbonize global shipping. \r\n\r\nBreakeven fusion is coming soon, but the first-of-a-kind (FOAK) reactors will be costly, high maintenance, and have low capacity factors, leading to 5–10x higher electricity cost on the grid. Maritime Fusion is pursuing the most widely accepted approach to fusion, the tokamak, but specifically designed for the marine environment where the challenges that arise between breakeven and a commercially viable energy source are alleviated. The market we're targeting requires 15x less power, lower up-time, and costs the same as alternative fuels but without any emissions. Since fusion does not use highly radioactive fuels or materials – unlike fission – we sidestep the vast majority of regulatory challenges and safety risks associated with nuclear energy. Our team brings over a decade of industry and research experience in plasma physics, nuclear engineering, and electrical engineering with backgrounds at SpaceX, Tesla, Columbia University, and University of Pennsylvania.",
     "one_liner": "Fusion reactors for ships",
     "team_size": 6,
@@ -1532,7 +1533,8 @@
       "Energy"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1628,26 +1630,57 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/zephyr-fusion.json"
   },
   {
+    "id": 31023,
+    "name": "Inviscid AI",
+    "slug": "inviscid-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/edd438978013e82ecd281b761baafad0dab9c68e.png",
+    "website": "https://inviscidai.com/",
+    "all_locations": "Remote",
+    "long_description": "Inviscid AI builds physics-informed AI solutions that transform how buildings and data centers operate. By combining real-time IoT sensor data with computational fluid dynamics (CFD) modeling, we create digital twins that simulate building performance in real time and autonomously optimize operations.\r\n\r\nOur platform optimizes airflow patterns and ventilation strategies to eliminate dead zones, improve air distribution, and reduce the load on mechanical systems. On the energy side, we minimize HVAC power consumption, reduce cooling costs, and lower overall operational expenses while maintaining optimal thermal comfort and indoor air quality. Beyond immediate operational efficiency, we optimize equipment scheduling and maintenance cycles by predicting system behavior under different conditions, allowing facilities managers to proactively address issues before they become problems.\r\n\r\nOur physics first approach ensures that we're not just optimizing against historical patterns, but optimizing based on a deep understanding of how air, heat, and energy actually move through your building, enabling us to find solutions that traditional rule-based or purely data-driven systems would miss.",
+    "one_liner": "Real-time Physics Simulations for Industrial Facilities & Data Centers",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Energy",
+    "launched_at": 1769244149,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Energy"
+    ],
+    "regions": [
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/inviscid-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/inviscid-ai.json"
+  },
+  {
     "id": 31135,
     "name": "RoboDock",
     "slug": "robodock",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d6ce96c0e4a1cbd7e0458649e2af7fa551e2bfb.png",
     "website": "https://www.robodock.tech/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "RoboDock automates charging for electric and autonomous vehicle fleets by orchestrating when and how vehicles charge, then physically executing charging with robotics. We turn fleet depots from manually operated sites into autonomous, self-optimizing systems that lower operational costs and increase vehicle uptime.",
-    "one_liner": "Enabling autonomous EV and AV depot operations",
+    "all_locations": "CA, USA",
+    "long_description": "RoboDock builds robots that automate depot operations, like charging and vehicle checks, for electric and autonomous vehicle fleets. We turn fleet depots from manual sites into self-running systems that lower operational costs and increase vehicle uptime.",
+    "one_liner": "Robots that run autonomous depots for autonomous fleets.",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Energy",
     "launched_at": 1769119894,
-    "tags": [
-      "SaaS",
-      "Robotics",
-      "Energy",
-      "Electric Vehicles",
-      "Automation"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -1671,6 +1704,43 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/robodock.json"
   },
   {
+    "id": 31158,
+    "name": "Terranox AI",
+    "slug": "terranox-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f32ec888cb2d0eee4fa5e89a1e14a8af2c2f61f.png",
+    "website": "https://terranox.ai",
+    "all_locations": "CA, USA",
+    "long_description": "Terranox is the first vertically integrated AI-powered uranium exploration company. We find high-grade uranium deposits in North America using AI trained on 70+ years of exploration outcomes. Our mission is to find the fuel we need to power the next century with nuclear energy.",
+    "one_liner": "The first AI-powered uranium discovery company",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Energy",
+    "launched_at": 1771881994,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Energy"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/terranox-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/terranox-ai.json"
+  },
+  {
     "id": 31219,
     "name": "Voxel Energy",
     "slug": "voxel-energy",
@@ -1678,17 +1748,55 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/74fcdd0e430ec52b7926e6bf7ffe4e4cbb1b2571.png",
     "website": "https://voxelenergy.com/",
     "all_locations": "",
-    "long_description": "The best grid connection is no grid connection. Voxel data centers capture, store, and consume solar energy onsite without the grid, completely bypassing utility connection delays. By leveraging the vast supply of second-life EV batteries with our novel DC microgrid architecture, we drastically reduce engineering overhead and time-to-power.",
+    "long_description": "The best grid connection is no grid connection. Voxel builds vertically integrated energy generation and storage systems for data centers that bypass utility connection delays. \r\n\r\nBy leveraging the vast supply of second-life EV batteries and our novel DC microgrid architecture, Voxel generates datacenter power on site and drastically reduces system cost and time-to-power.",
     "one_liner": "Energy independent data centers with solar and repurposed batteries. ",
     "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials -> Energy",
     "launched_at": 1768576763,
     "tags": [
-      "Renewable Energy",
-      "Infrastructure",
-      "AI"
+      "Artificial Intelligence",
+      "Hardware",
+      "Solar Power",
+      "Energy",
+      "Renewable Energy"
     ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Energy"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": true,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/voxel-energy",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/voxel-energy.json"
+  },
+  {
+    "id": 31245,
+    "name": "Squid",
+    "slug": "squid",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/93fe1704e4703d232c51eb59b83175a7dcf288f7.png",
+    "website": "https://squid.energy",
+    "all_locations": "",
+    "long_description": "We believe the electricity grid is the most important machine on Earth. If we want electrification to move fast, the teams planning and operating networks need software that is as modern as the challenge.\r\n\r\nOur thesis is simple. Better decisions come from one unified, trusted network model. When everyone works from the same model, planning becomes consistent, assumptions are visible, and progress stops getting lost in spreadsheets and static reports.\r\n\r\nSquid is AI powered grid planning in your browser. We have spent years inside National Grid, Octopus Energy, and AWS, building and learning what breaks. Now we are building what we wished existed.",
+    "one_liner": "AI agents for power grid planning  🦑 ",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Energy",
+    "launched_at": 1768422882,
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -1707,47 +1815,6 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/voxel-energy",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/voxel-energy.json"
-  },
-  {
-    "id": 31245,
-    "name": "Squid",
-    "slug": "squid",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0dabfec2f533f2142f1c315fccba6afcb525ef1.png",
-    "website": "https://squid.energy",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We believe the electricity grid is the most important machine on Earth. If we want electrification to move fast, the teams planning and operating networks need software that is as modern as the challenge.\r\n\r\nOur thesis is simple. Better decisions come from one unified, trusted network model. When everyone works from the same model, planning becomes consistent, assumptions are visible, and progress stops getting lost in spreadsheets and static reports.\r\n\r\nSquid is AI powered grid planning in your browser. We have spent years inside National Grid, Octopus Energy, and AWS, building and learning what breaks. Now we are building what we wished existed.",
-    "one_liner": "AI-powered grid planning in your browser 🦑 (squid.energy)",
-    "team_size": 2,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Energy",
-    "launched_at": 1768422882,
-    "tags": [
-      "SaaS",
-      "Energy",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Energy"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
     "url": "https://www.ycombinator.com/companies/squid",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/squid.json"
   },
@@ -1756,18 +1823,16 @@
     "name": "Condor Energy",
     "slug": "condor-energy",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5751db10a61d10ff4226cc9aa0b10f70ff87bb6d.png",
-    "website": "",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8fb409eebab1bce05d1234942c6f03c6739eec60.png",
+    "website": "https://www.condor.energy",
     "all_locations": "",
-    "long_description": "Condor helps large electricity consumers - C&I and data centers - cut electricity costs by helping the grid.\r\nWe are former electricity traders and energy systems experts building our AI-powered software. Our clients use Condor to control their electricity costs, to steer their consumption based on reliable forecasts and to conduct profitable investments. ",
-    "one_liner": "Energy system enabling reliable, cheap and sustainable electricity…",
+    "long_description": "Condor helps large electricity consumers - C&I and data centers - cut electricity costs by helping the grid.\r\nWe are former electricity traders and energy physicists. We build an AI-powered software that our clients use to optimize their energy procurement - making sure they always have access to cheap & reliable power.",
+    "one_liner": "Software for enterprise energy procurement.",
     "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials -> Energy",
     "launched_at": 1770133131,
-    "tags": [
-      "Energy"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -1788,5 +1853,90 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/condor-energy",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/condor-energy.json"
+  },
+  {
+    "id": 31362,
+    "name": "matforge",
+    "slug": "matforge",
+    "former_names": [
+      "MatForge",
+      "Matforge"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/910cd5b0344664a22b57c59a7d459cabe1095bee.png",
+    "website": "https://matforge.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We build AI scientists that discover new materials for the semiconductor industry - specifically datacenters and fabs. Finding novel materials today takes 10+ years of lab work. We aim to compress that timeline to months, using a swarm of AI agents.\r\n\r\nAkash completed his PhD at Stanford on material discovery for semiconductors. The materials he discovered for nanoscale interconnects have been adopted into the roadmaps of Intel and TSMC. Advaith was the founding applied scientist at Persona AI (acquired by Luma Labs), where he built long horizon autonomous agents for major telecom and crypto companies.\r\n\r\nPower consumption and heat release from AI chips is doubling every year. The semiconductor industry needs new materials to keep this exponential going - Matforge will help find them. ",
+    "one_liner": "AI scientists to discover semiconductor materials",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Energy",
+    "launched_at": 1773874719,
+    "tags": [
+      "Artificial Intelligence",
+      "Advanced Materials",
+      "Semiconductors",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Energy"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/matforge",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/matforge.json"
+  },
+  {
+    "id": 31442,
+    "name": "AICE Power",
+    "slug": "aice-power",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/35c821ac938388eef9bdac08cedddc97651fe77c.png",
+    "website": "https://aicepower.com",
+    "all_locations": "",
+    "long_description": "AICE Power makes a new generation of sensors that give commercial buildings full visibility into their energy consumption. \r\nWe deploy on any site in one day with no disruption, at 5% the cost of traditional Building Management Systems. \r\nThe platform automatically detects anomalies and alerts teams in real time, before inefficiencies show up on the bill. ",
+    "one_liner": "Smart energy monitoring for buildings.",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Energy",
+    "launched_at": 1775067317,
+    "tags": [
+      "Batteryless IoT Sensors",
+      "Hardware",
+      "Climate"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Energy"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/aice-power",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/aice-power.json"
   }
 ]

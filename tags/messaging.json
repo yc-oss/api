@@ -774,7 +774,7 @@
     "former_names": [],
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "http://locent.com",
-    "all_locations": "Santa Monica, CA, USA",
+    "all_locations": "CA, USA; Santa Monica, CA, USA",
     "long_description": "",
     "one_liner": "Locent is an automated messaging platform for companies",
     "team_size": 11,
@@ -900,9 +900,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdb97ca4207ccb8346f6dd29984f5fca487812e0.png",
     "website": "https://pocketsuite.io",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "PocketSuite is a YC-backed mobile platform for service businesses, ranging from fitness trainers, photographers, and home cleaners to dog trainers, hairstylists, therapists, and life coaches. Businesses use PocketSuite to get booked, paid, and message their clients. We make the work of running your own business simple for solo operators and small teams. PocketSuite empowers the U.S. market of 20 million service professionals generating $800 billion in sales with a mobile cloud solution for running their business. Thousands of businesses run on PocketSuite. Over 500,000 clients book and pay their Pros on PocketSuite today and we're growing fast.",
-    "one_liner": "PocketSuite makes it easy for your clients to book and pay you",
-    "team_size": 40,
+    "long_description": "PocketSuite is the all-in-one platform built for service businesses. From bookings and payments to client communication and beyond, we help owners and managers simplify their business and focus on what they do best. For more than a decade, thousands of independent professionals, small businesses, and multi-location brands have trusted PocketSuite to power their service businesses and serve hundreds of thousands of clients. We’re proud to support a diverse community of entrepreneurs at every stage of their journey. PocketSuite empowers the U.S. market of 20 million service businesses, generating $1 billion in sales with a desktop and mobile cloud solution for running their business. Thousands of businesses run on PocketSuite. Over 600,000 clients book, pay, and communicate with their service providers on PocketSuite today, and we're growing fast.",
+    "one_liner": "All-In-One Business Operating System by PocketSuite",
+    "team_size": 30,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1447312814,
@@ -911,7 +911,7 @@
       "Payments",
       "Messaging",
       "Scheduling",
-      "CRM"
+      "Operations"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -932,7 +932,7 @@
     "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
-    "app_answers": true,
+    "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pocketsuite",
     "api": "https://yc-oss.github.io/api/batches/winter-2016/pocketsuite.json"
@@ -1690,53 +1690,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/typeless.json"
   },
   {
-    "id": 28890,
-    "name": "Decoda Health",
-    "slug": "decoda-health",
-    "former_names": [
-      "Heal Financial"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f3b1efd47e85f38279cafba940ec0988913d113.png",
-    "website": "https://decodahealth.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Medical practices struggle with front desk shortages and nonstop admin work—ringing phones, scheduling mishaps, intake errors, and billing headaches. The result? Overworked staff and less time for patient care.\r\n\r\nDecoda Health’s AI platform takes over 80% of these tedious tasks, handling calls, scheduling, and payments while alerting staff only when necessary. By reducing chaos and streamlining operations, teams can focus on what truly matters—providing exceptional patient care.",
-    "one_liner": "AI-powered platform automating medical practice operations",
-    "team_size": 9,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1689972321,
-    "tags": [
-      "Artificial Intelligence",
-      "Messaging",
-      "Digital Health",
-      "Healthcare IT",
-      "Billing"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/decoda-health",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/decoda-health.json"
-  },
-  {
     "id": 29380,
     "name": "Conduit",
     "slug": "conduit-ai",
@@ -1748,16 +1701,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Conduit is the AI agent platform that drives conversational outcomes across support and sales.\r\n\r\nCustomer conversations are the backbone of every business. Consumer businesses spend nearly a third of their working hours calling and texting customers. Conduit turns those conversations into an engine for conversions, revenue, and cost savings. \r\n\r\nWe enable operators across real estate, financials, and service-based businesses, to build and deploy AI agents that perform better than your best employee. Our modular platform enables automation for the most complex, high-volume conversational workflows.",
     "one_liner": "Conversational AI agents for Customer Service.",
-    "team_size": 11,
+    "team_size": 18,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1707775068,
     "tags": [
+      "Artificial Intelligence",
       "Messaging",
       "Sales",
       "Customer Service",
-      "Customer Support",
-      "AI"
+      "Customer Support"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1789,7 +1742,7 @@
     "former_names": [
       "BeerMe"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/89809c1c92456868d0ec23623461414449c6f692.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bdd48a02de2e277524168808bf7edcd14c995ed9.png",
     "website": "https://withcharm.app",
     "all_locations": "New York, NY, USA",
     "long_description": "Charm makes sending money as easy as sending email. Most people juggle multiple payment apps and scattered balances. Charm lets you pay anyone — no matter what app they use — and earns you 5% interest on your balance, automatically.",
@@ -1828,46 +1781,5 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/withcharm",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/withcharm.json"
-  },
-  {
-    "id": 30621,
-    "name": "Pond",
-    "slug": "pond",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b509b40e2c3c32e42ebe7d8742a534de91515647.png",
-    "website": "https://trypond.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We’re building an AI-native messaging app. Pond is a desktop app you can use with your existing messaging services like iMessage (and soon WhatsApp + more). You can see important messages you haven’t replied to, snooze conversations, answer customers in your voice, and more.",
-    "one_liner": "Superhuman for text messages",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1752567931,
-    "tags": [
-      "Artificial Intelligence",
-      "Productivity",
-      "Messaging"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pond",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/pond.json"
   }
 ]

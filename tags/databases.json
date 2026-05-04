@@ -140,7 +140,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/52f8bfabfa73534a4e180ab67b04914310f2a95e.png",
     "website": "https://influxdata.com",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "NY, USA; San Francisco, CA, USA; Remote",
     "long_description": "InfluxData, the creators of InfluxDB, delivers a modern Open Source Platform built from the ground up for analyzing metrics and events (time series data) for DevOps and IoT applications. Whether the data comes from humans, sensors, or machines, InfluxData empowers developers to build next-generation monitoring, analytics, and IoT applications faster, easier, and to scale delivering real business value quickly. Based in San Francisco, InfluxData customers include Autodesk, Cisco, eBay, and Coupa. Visit https://www.influxdata.com.",
     "one_liner": "The platform for building and operating time series applications.",
     "team_size": 210,
@@ -448,53 +448,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/blitz.json"
   },
   {
-    "id": 26756,
-    "name": "IvyCheck",
-    "slug": "ivycheck",
-    "former_names": [
-      "Deekard"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6872d6dbb758aef4e167e2daf0efa6876bbbf16.png",
-    "website": "https://www.ivycheck.com",
-    "all_locations": "Berlin, Berlin, Germany; Remote",
-    "long_description": "IvyCheck helps you extract hidden insights from your data and ensures high data quality and consistency. Use Generative AI in your data warehouse to transform data at scale.",
-    "one_liner": "Clean and enrich your data 10x faster",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1658837091,
-    "tags": [
-      "Generative AI",
-      "B2B",
-      "Data Engineering",
-      "AI",
-      "Databases"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "Germany",
-      "Europe",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ivycheck",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/ivycheck.json"
-  },
-  {
     "id": 28659,
     "name": "PeerDB",
     "slug": "peerdb",
@@ -548,7 +501,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b2f7a8dffc7dc8a6fdb4c13dce765cc7d2820b9a.png",
     "website": "https://www.deasylabs.com/",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "Deasy Labs was acquired by Collibra in July 2025 (global leader in enterprise data governance).\r\n\r\nDeasy Labs provides metadata orchestration for AI workflows. Deasie's platform provides the best way for AI teams to create and embed high-quality, customized metadata into their AI workflows (e.g., RAG, Agentic frameworks).\r\n\r\nOur three founders (from Amazon, McKinsey/QuantumBlack & MIT) previously built an ML data governance tool from 0 to 1 within McKinsey, which we deployed with 11 Fortune 500 companies. We saw in early 2023 the ability to create high-quality metadata (without reliance on domain experts) would be a key factor in achieving the accuracy & speed in GenAI applications required for production.  \r\n\r\nOur investors include General Catalyst, Y Combinator, RTP Global and world experts in enterprise data. Website: https://deasylabs.com",
     "one_liner": "Metadata for GenAI workflows",
     "team_size": 8,
@@ -573,7 +526,8 @@
       "Analytics"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -679,10 +633,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6668d68dbb65664dcc7f40eff60e4ee586f09132.png",
     "website": "https://paradedb.com",
-    "all_locations": "New York, NY, USA",
-    "long_description": "ParadeDB is an open source, ACID-compliant search and analytics database. Built on Postgres for update-heavy workloads.",
-    "one_liner": "The transactional Elasticsearch alternative built on Postgres",
-    "team_size": 8,
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "You want better search, not the burden of Elasticsearch. ParadeDB is the modern Elastic alternative built as a Postgres extension.",
+    "one_liner": "Simple, Elastic-quality search for Postgres",
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1689280457,
@@ -782,7 +736,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -803,49 +757,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/ubicloud.json"
   },
   {
-    "id": 29270,
-    "name": "Buster",
-    "slug": "buster",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b4f74db69743203afdd04fd72ff9cb2c50e324b5.png",
-    "website": "http://buster.so",
-    "all_locations": "Salt Lake City, UT, USA",
-    "long_description": "Buster is an AI agent platform built for analytics engineering. It provides data teams with AI agents that keep their dbt projects reliable, documented, and consistent — automatically.",
-    "one_liner": "AI platform for analytics engineering",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1698776495,
-    "tags": [
-      "Generative AI",
-      "Data Science",
-      "Data Engineering",
-      "Data Visualization",
-      "Databases"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/buster",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/buster.json"
-  },
-  {
     "id": 29300,
     "name": "Trellis AI",
     "slug": "trellis-ai",
@@ -854,7 +765,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f9cc80521b4e48dc602aef29ce4fb7d4c0f5dda1.png",
     "website": "https://runtrellis.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Trellis helps healthcare providers treat more patients, faster—while eliminating pre-service paperwork. We automate document intake, prior authorizations, and appeals at scale to streamline operations and accelerate care.\r\n\r\nOur AI agent is trained on millions of clinical data points and converts messy, unstructured documents into clean, structured data directly in your EHR.\r\n\r\nWith Trellis, leading healthcare providers and pharmaceutical companies were able to:\r\n\r\n1. Reduce time to treatment by over 90%\r\n\r\n2. Improve prior authorization approval and reimbursement rates\r\n\r\n3. Leverage structured data to enhance drug program performance and clinical decision-making\r\n\r\nAdministrative costs account for over 20% of U.S. healthcare spending—delaying care, draining revenue, and driving staff burnout while having less visibility into patient care than ever before. We built Trellis to tackle this head on.",
     "one_liner": "AI for streamlining healthcare paperwork",
     "team_size": 25,
@@ -878,49 +789,6 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/trellis-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/trellis-ai.json"
-  },
-  {
-    "id": 29686,
-    "name": "Snowpilot",
-    "slug": "snowpilot",
-    "former_names": [
-      "Snowpilot.ai"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c15cc576c889b7c67699bfb7c6291c7f7430c95a.png",
-    "website": "https://www.snowpilot.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Snowpilot combines a spreadsheet UI with a federated data engine. We get live data from tools like Salesforce, Gong, and Mixpanel, enabling PMs, marketers, and salespeople to run high-impact workflows with data at any scale.\r\n\r\nBen and Dom met at a Sequoia & a16z-backed data startup, Census. Together, we built the first real-time, warehouse-native customer data platform. Prior to that, Dom led 20+ ML engineers at Adobe to build their internal ad optimization platform, which allocates $1B in annual spend. Ben built the microservices stack powering the new Microsoft Edge, scaling from 0 to hundreds of millions of DAUs.\r\n\r\nWe started coding Snowpilot in mid-August '24, and we already have a live app that can run sub-second queries on millions of rows, entirely in the user's browser.\r\n\r\nThe data warehouse market is $10B/yr, growing 23% YOY. We will disrupt incumbents and significantly expand this market by enabling non-engineers to use big data on a daily basis.",
-    "one_liner": "The connected spreadsheet that destroys data silos",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1725142580,
-    "tags": [
-      "B2B",
-      "Big Data",
-      "Data Engineering",
-      "AI",
-      "Databases"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
       "United States of America",
       "America / Canada"
     ],
@@ -929,8 +797,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/snowpilot",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/snowpilot.json"
+    "url": "https://www.ycombinator.com/companies/trellis-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/trellis-ai.json"
   },
   {
     "id": 30187,
@@ -1063,6 +931,47 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/helixdb.json"
   },
   {
+    "id": 30448,
+    "name": "PgDog",
+    "slug": "pgdog",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e611bab66e36c7b14163abfaf0665e260a2ac3e2.png",
+    "website": "https://pgdog.dev",
+    "all_locations": "CA, USA; Remote",
+    "long_description": "PgDog is an application for sharding PostgreSQL. It understands SQL and can distribute queries automatically between databases. It's built for managed databases, like AWS RDS, and doesn't require any changes to application code or schema.\r\n\r\nIn addition to sharding, PgDog is a load balancer and pooler, so it can act as a replacement for PgBouncer, RDS Proxy, and other Postgres scaling products. It brings the simplicity and performance of HTTP load balancing to the database.\r\n\r\nBuilt from the experience of sharding Postgres at Instacart during peak growth in 2020, PgDog is the answer to the old question: does Postgres scale? It does now.",
+    "one_liner": "Scaling engine for PostgreSQL",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1745009582,
+    "tags": [
+      "Databases"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pgdog",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/pgdog.json"
+  },
+  {
     "id": 30475,
     "name": "Morphik",
     "slug": "morphik",
@@ -1115,7 +1024,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/db49ec4c66c85d205171bbf2f1700ea1146f627c.png",
     "website": "https://s2.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "S2 is a serverless datastore for real-time, streaming data.\r\n\r\nThe more we worked on data systems, the more we felt like there was a missing building block. The seamless experience of object storage simply did not exist for durable streams – so we set out to fix that!\r\n\r\nS2 reimagines streams as an unlimited and access-controlled web resource. Like if Kafka and S3 had a baby.\r\n\r\n- Building agents? Use granular streams to persist context in real time, make workflows auditable, and coordinate between agents.\r\n\r\n- Publishing fast-moving data? Streams support high fanout and can be accessed directly over the internet, so they are a great fit for broadcasting real-time feeds.\r\n\r\n- Sandboxing? Emit to per-instance streams, and read history or live events just as easily.\r\n\r\n- Local-first and multiplayer experiences? Propagate updates reliably and efficiently.\r\n\r\nStop dealing with clusters, and start streaming.",
+    "long_description": "S2 is an API for durable streams. We make working with streaming data dead simple and reliable.\r\n\r\nThe more we worked on data systems, the more we felt like there was a missing building block. The seamless experience of object storage simply did not exist for durable streams – so we set out to fix that!\r\n\r\nS2 reimagines streams as an unlimited and access-controlled web resource. Like if Kafka and S3 had a baby.\r\n\r\n- Building agents? Use granular streams to persist context in real time, make workflows auditable, and coordinate between agents.\r\n\r\n- Publishing fast-moving data? Streams support high fanout and can be accessed directly over the internet, so they are a great fit for broadcasting real-time feeds.\r\n\r\n- Sandboxing? Emit to per-instance streams, and read history or live events just as easily.\r\n\r\n- Local-first and multiplayer experiences? Propagate updates reliably and efficiently.\r\n\r\nStop dealing with clusters, and start streaming.",
     "one_liner": "API for unlimited, durable, real-time streams",
     "team_size": 5,
     "industry": "B2B",

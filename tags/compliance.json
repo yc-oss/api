@@ -376,7 +376,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f00f6931229f64701cd737b9839f92f72e20005.png",
     "website": "https://www.swif.ai",
     "all_locations": "Sunnyvale, CA, USA",
-    "long_description": "Swif.ai is a real-time device compliance and security platform that keeps every Mac, Windows, and Linux endpoint secure and audit-ready. Our lightweight agent enforces policies (encryption, patching, app controls) as people work, auto-remediates drift, and streams audit evidence to tools like Vanta and Drata. Unlike legacy MDM or “after-the-fact” compliance software, Swif.ai delivers enforcement—not just reports—plus device-level Shadow IT/AI governance to detect and block risky or unauthorized SaaS and LLM tools.\r\n\r\nEnterprises choose Swif.ai for true multi-OS coverage in a single pane of glass, one-click remediation, and fast time-to-value via silent installers and native integrations with Okta, Microsoft Entra ID, and Google Workspace (conditional access by device posture). The result is fewer tools to manage, shorter audits, and stronger security with lower operational burden. Swif.ai is SOC 2 Type II. Our near-term roadmap adds Safe-AI controls for regulated industries, AI-agent monitoring, and integrated vulnerability detection with one-click fixes—expanding our lead as the enforcement layer for endpoint compliance and AI security.\r\n\r\nProduct:\r\nBrowser extension: https://www.ycombinator.com/verify/qcevgcdkljtatq4b\r\nShadow IT visibility and control: https://www.ycombinator.com/verify/sw1ibjjvvvnfreyt\r\nNVIDIA DRIVE OS: https://www.ycombinator.com/verify/l3t1czjxb7nnyrgb\r\nAndroid MDM: https://www.ycombinator.com/verify/woqnqh3rthffqmbx\r\nLinux MDM: https://www.ycombinator.com/verify/9agdwvvykayp5b1b\r\nWindows MDM: https://www.ycombinator.com/verify/a4yio3xgdkzsmx9t\r\nMac MDM: https://www.ycombinator.com/verify/leou6zsbef0haiwc\r\niOS MDM: https://www.ycombinator.com/verify/vylqbbiavpmbgszm\r\nApple MDM: https://www.ycombinator.com/verify/lqtmir4nw2vedlje\r\nDevice CVE Report: https://www.ycombinator.com/verify/ahvwm91gapho25zf\r\nUnified MDM: https://www.ycombinator.com/verify/aforcignwhchkmhg",
+    "long_description": "Swif.ai is a real-time device compliance and security platform that keeps every Mac, Windows, and Linux endpoint secure and audit-ready. Our lightweight agent enforces policies (encryption, patching, app controls) as people work, auto-remediates drift, and streams audit evidence to tools like Vanta and Drata. Unlike legacy MDM or “after-the-fact” compliance software, Swif.ai delivers enforcement—not just reports—plus device-level Shadow IT/AI governance to detect and block risky or unauthorized SaaS and LLM tools.\r\n\r\nEnterprises choose Swif.ai for true multi-OS coverage in a single pane of glass, one-click remediation, and fast time-to-value via silent installers and native integrations with Okta, Microsoft Entra ID, and Google Workspace (conditional access by device posture). The result is fewer tools to manage, shorter audits, and stronger security with lower operational burden. Swif.ai is SOC 2 Type II. Our near-term roadmap adds Safe-AI controls for regulated industries, AI-agent monitoring, and integrated vulnerability detection with one-click fixes—expanding our lead as the enforcement layer for endpoint compliance and AI security.",
     "one_liner": "The guardrail for AI on every device",
     "team_size": 20,
     "industry": "B2B",
@@ -543,58 +543,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/striga",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/striga.json"
-  },
-  {
-    "id": 23105,
-    "name": "Reclaim Protocol",
-    "slug": "reclaim-protocol",
-    "former_names": [
-      "Socionity",
-      "CreatorOS",
-      "CreatorOS - Questbook",
-      "Questbook",
-      "Reclaim Protocol, Questbook",
-      "CreatorOS",
-      "Bluecheck"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/140b14ae167716f111115a81e06b1a7eb94e8ef3.png",
-    "website": "https://reclaimprotocol.org",
-    "all_locations": "Hyderabad, Telangana, India; Remote",
-    "long_description": "Reclaim Protocol is a verification company that leverages advances in AI and cryptography to bring you global, instantaneous and compliant verifications.\r\n\r\nUsing Reclaim Protocol, you can verify :\r\n- Education : Which university is this student enrolled in? 20k+ universities globally supported\r\n- Employment : Where is the user employed and what is their designation? Employers in all countries supported\r\n- Finances : What is the Credit Score and Accredited Investor status of the user? Again, all countries supported\r\n- Shopping : Where is the user spending, and what brands are they loyal to? Supporting all major ecommerce and travel services\r\n\r\nOnce you integrate Reclaim Protocol, your users will be presented with a button similar to \"Login with Google\", but for the website from where we need to verify information. e.g. their university portal, their tax portals and so on.\r\nAs soon as they login, Reclaim Protocol extracts the required information and verifies the integrity of it. Particularly, ensures that the user has not tampered with the data that was displayed by the website.\r\n\r\nThe verification is done using zero knowledge proofs using an open sourced library!",
-    "one_liner": "User data verification across Employment, Academic Creds, Retail…",
-    "team_size": 26,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1616635998,
-    "tags": [
-      "Finance",
-      "Identity",
-      "Compliance",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2021",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "India",
-      "South Asia",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/reclaim-protocol",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/reclaim-protocol.json"
   },
   {
     "id": 23174,
@@ -932,11 +880,11 @@
     "subindustry": "B2B",
     "launched_at": 1642412738,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "B2B",
       "Compliance",
-      "Regtech"
+      "Regtech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -962,6 +910,56 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2022/flagright.json"
   },
   {
+    "id": 25663,
+    "name": "Velt",
+    "slug": "velt",
+    "former_names": [
+      "Snippyly Inc.",
+      "Snippyly",
+      "Velt",
+      "Velt: Collaboration SDK"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/36bc77538c7b2b901965b5e1ff49fe05b84cc1f1.png",
+    "website": "https://velt.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Add features like contextual Comments, Notifications, Recordings, Multiplayer editing, Huddles, Activity Logs to your product.",
+    "one_liner": "The Complete Collaboration Toolkit",
+    "team_size": 15,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1646206414,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "SaaS",
+      "Collaboration",
+      "Compliance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/velt",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/velt.json"
+  },
+  {
     "id": 25696,
     "name": "Agency",
     "slug": "agency",
@@ -971,9 +969,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b9732a89bf577bd80a0c7d0b377bd35fcce86ce.png",
     "website": "https://GetAgency.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "Agency specializes in multi-party security and compliance scenarios; we are the Palantir of compliance. We serve the most innovative companies and their teams working on critical challenges and transformative technologies by helping them achieve standards like SOC2, ISO 27001, CMMC, NIST, HIPAA, and GDPR that meet the highest levels of scrutiny from third parties.\r\n \r\n\r\nOur patented platform, Verse, integrates with GRC software like Vanta, cloud infrastructure, and your endpoints to securely handle complex multi-layered configurations, such as remote contractor use, BYODs, and federated client-hosted application deployments. \r\n\r\n\r\nOur managed security and compliance team helps high-growth software companies meet rigorous standards as quickly as possible by doing it for them. \r\n\r\n\r\nOur ETDR program enables organizations to prevent threats directly targeting their employees' personal devices, data, and online accounts while respecting their privacy. We provide customized solutions to prevent insider threats, data loss prevention, and threat intelligence while safeguarding personal privacy. ",
-    "one_liner": "Solving Complex Security and Compliance",
-    "team_size": null,
+    "long_description": "Agency replaces traditional security and compliance headcount with AI without replacing your existing tools.\r\n\r\nOur platform is operated by forward-deployed engineers who run your entire security and compliance program including full virtual CISO coverage on your behalf. All powered by our proprietary AI agents.\r\n\r\nAgency is a vertically integrated AI platform and services company that enables organizations to achieve and maintain SOC 2, ISO 27001, CMMC 2.0, HIPAA, GDPR, FedRAMP, HITRUST, ISO 42001, and more without building internal teams. We integrate with leading GRC platforms like Vanta and Drata and security tools like CrowdStrike.\r\n\r\nAt its core is our proprietary cybersecurity and GRC orchestration layer powering a suite of AI systems that execute end-to-end security and compliance operations: control implementation, evidence collection, monitoring, vendor risk, penetration testing, and audit coordination — across complex environments like BYODs, contractor fleets, and multi-party systems. Things that GRC automation platforms can't do.\r\n\r\nWe deliver this through two distinctly separate products:\r\n\r\nAgency Comply — forward-deployed engineers who operate the platform, implement controls, run compliance programs, and manage security end-to-end\r\n\r\nAuditsuisse Assurance — our US and Swiss licensed CPA firm, powered by Auditsuisse AI, delivering independent SOC and global audits with speed and rigor. (Auditsuisse does not audit Agency Comply customers).\r\n\r\nAgency serves startups through enterprises building in high-stakes environments — AI, defense, aerospace, fintech, and healthcare — replacing fragmented tools and large internal teams with a single AI-driven system of execution.",
+    "one_liner": "Agency replaces traditional security and compliance headcount with AI.",
+    "team_size": 50,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1641532353,
@@ -996,9 +994,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1017,8 +1013,8 @@
     "website": "http://www.cinder.co",
     "all_locations": "New York, NY, USA",
     "long_description": "From content moderation to responsible AI, Cinder empowers businesses to orchestrate and automate digital safety at scale. Cinder was founded to help organizations foster safe online spaces for everyone. Our platform empowers companies from start-ups to enterprises with end-to-end capabilities to mitigate harm, investigate abuse, and produce trustworthy and reliable AI outcomes. Building your world-class company means keeping your users and community safe—Cinder unlocks faster growth by making safety easy. We work with customers in every industry from frontier AI labs to e-commerce and social media. \r\n\r\nWe're hiring across a variety of teams and looking for candidates based in NYC or open to relocating to NYC, and able to work in-person.",
-    "one_liner": "Cinder | Responsible AI, Trust & Safety, and Data Labeling At Scale",
-    "team_size": 23,
+    "one_liner": "Infrastructure to protect companies from AI abuse",
+    "team_size": 30,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1647554051,
@@ -1077,7 +1073,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -1371,8 +1367,8 @@
     "website": "https://aiprise.com/",
     "all_locations": "Santa Clara, CA, USA",
     "long_description": "Verify your customers globally with a single platform. Get 800+ data points on each business and 100+ data points on each individual and onboard with confidence.",
-    "one_liner": "AI Powered Global Compliance Platform",
-    "team_size": 36,
+    "one_liner": "AI-powered Global Compliance Platform",
+    "team_size": 42,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1656614505,
@@ -1471,7 +1467,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -1501,9 +1497,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0f30c988fde8ec60cc14e8c5cf656b62cd6d35d.png",
     "website": "https://www.numeral.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Numeral is the fastest, easiest way to stay compliant with US sales tax and global VAT. \r\n\r\nTrusted by 2,000+ businesses, including Eight Sleep, Ridge, and Manus, our end-to-end platform keeps our customers compliant wherever they sell, with registrations, filings, calculations, and ongoing compliance support.\r\n\r\nNumeral’s AI-native solution covers more than 70 countries and tens of thousands of jurisdictions and is built for accuracy and scale.",
+    "long_description": "Numeral is the fastest, easiest way to stay compliant with US sales tax and global VAT. \r\n\r\nTrusted by 3,000+ businesses, including Eight Sleep, Ridge, and Manus, our end-to-end platform keeps our customers compliant wherever they sell, with registrations, filings, calculations, and ongoing compliance support.\r\n\r\nNumeral’s AI-native solution covers more than 70 countries and tens of thousands of jurisdictions and is built for accuracy and scale.",
     "one_liner": "The AI-native sales tax solution.",
-    "team_size": 85,
+    "team_size": 100,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1672355505,
@@ -1539,51 +1535,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/numeral.json"
   },
   {
-    "id": 27902,
-    "name": "Logital AI (Teclada)",
-    "slug": "logital-ai-teclada",
-    "former_names": [
-      "Teclada",
-      "Logital (Teclada)"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b5e56a9b5e26e2dce5d150c6db8702733501105.png",
-    "website": "https://www.logital.ai",
-    "all_locations": "Sunnyvale, CA, USA",
-    "long_description": "Compare models and outputs without random noise skewing your results. Verifiable AI. Store input + seed + output for audits, compliance, and reproducibility.\r\n\r\nhttps://www.logital.ai/\r\n\r\nhttps://www.teclada.com/",
-    "one_liner": "Compare models and ouputs without random noise skewing your results.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1678082739,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Productivity",
-      "Compliance",
-      "Security"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/logital-ai-teclada",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/logital-ai-teclada.json"
-  },
-  {
     "id": 27926,
     "name": "Variance",
     "slug": "variance",
@@ -1592,19 +1543,19 @@
       "Intrinsic"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e32d61652a6684aecf45080965c0897ba451022f.png",
-    "website": "https://www.variance.co/",
+    "website": "https://www.variance.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Build safer platforms with Intrinsic. Get access to the best safety technologies from one unified API. Enable your Trust & Safety team to tell cohesive stories from policy to product, to enforcement.\r\n\r\nMichael and Karine first met two years ago at Apple’s Fraud Engineering, Algorithmic Risk team, which evolved to become Apple’s Trust & Safety function. We are both engineers and helped solve online abuse problems, including spam, botting, account security, and developer fraud for Apple’s customer base of over a billion users.",
+    "long_description": "Variance builds AI agents for fraud, identity, and investigations for Fortune 500s, Marketplaces, and regulated financial services.",
     "one_liner": "AI Agents for Fraud Review and Investigations",
-    "team_size": 8,
+    "team_size": 12,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1677704898,
     "tags": [
-      "Artificial Intelligence",
       "Compliance",
       "Cybersecurity",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1640,16 +1591,16 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Hadrius allows regulated financial firms of all sizes to consolidate and automate their compliance processes using AI in one platform. Today, we're securing compliance for $3T+ AUM across our clients.\r\n\r\nWe're building the AI that will regulate the US financial system and the trillions that flows through it.",
     "one_liner": "Automating Securities Compliance",
-    "team_size": 43,
+    "team_size": 80,
     "industry": "Fintech",
     "subindustry": "Fintech -> Asset Management",
     "launched_at": 1668714980,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Compliance",
-      "Regtech"
+      "Regtech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1663,9 +1614,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Growth",
     "app_video_public": false,
@@ -1686,12 +1635,12 @@
       "Psychic",
       "Dealwise"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a35948c3008ce03b100758e6c4240b2dae0ac9d6.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/06180819ad31c1d2ee1b4b62d506fd5e7655aec4.png",
     "website": "https://www.finic.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Finic helps fintechs and banks automate the detection and investigation of financial crimes. \r\n\r\nWe automate human jobs-to-be-done for:\r\n- Fraud operations teams\r\n- AML/BSA teams\r\n- Compliance teams\r\n- Credit risk teams\r\n\r\nWhile our approach is agentic, we use AI only where it's better than the alternative. Our vertical focus allows us to be more accurate and efficient than horizontal agent companies on the same task.",
-    "one_liner": "Detect and investigate financial crimes with AI",
-    "team_size": 2,
+    "long_description": "Finic helps fraud teams catch organized fraud earlier, act on it faster, and turn discoveries into lasting defenses. Our AI agent analyzes structured and unstructured data across your systems to proactively surface the fraud that rules and scoring models miss.",
+    "one_liner": "Proactively hunt down fraud with AI",
+    "team_size": 4,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1677272534,
@@ -1866,19 +1815,19 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/306eaffa9ae52c97e7f7fd8c9161b13409115596.png",
     "website": "https://godiligent.ai",
-    "all_locations": "Berlin, Berlin, Germany",
+    "all_locations": "London, England, United Kingdom",
     "long_description": "We help fintech risk and AML compliance teams automate and strengthen routine customer due diligence tasks with LLMs. Our AI assistants slash cost-to-comply, improve risk detection and free up capacity for investigations that require human expertise and decision making. \r\n\r\nFintechs and banks use us to automate workflows like running thorough due diligence on a legal entity, reviewing customer documents like registry extracts, proofs of address etc and remediating false positive alerts from their AML systems.",
     "one_liner": "AI agents for fintech risk and compliance operations",
-    "team_size": 2,
+    "team_size": 10,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1706799734,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "Compliance",
       "Fraud Prevention",
-      "Regtech"
+      "Regtech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1890,7 +1839,7 @@
       "Fintech"
     ],
     "regions": [
-      "Germany",
+      "United Kingdom",
       "Europe"
     ],
     "stage": "Early",
@@ -1914,16 +1863,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Readily uses AI to free 20 million healthcare professionals from manual compliance work so they can focus on patient care. We've helped $B healthcare organizations cut regulatory analysis, policy drafting, and audit work by up to 90%, reducing consulting spend and compliance risk.",
     "one_liner": "AI Compliance Platform for Healthcare Organizations",
-    "team_size": 8,
+    "team_size": 14,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1684821530,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Compliance",
       "Healthcare",
-      "Regtech",
-      "AI"
+      "Regtech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1938,7 +1887,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -1948,16 +1897,16 @@
   },
   {
     "id": 28929,
-    "name": "Greenlite",
-    "slug": "greenlite",
+    "name": "Bretton AI",
+    "slug": "bretton-ai",
     "former_names": [
       "Greenlite AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e1cb1ba3c32ce40d88e6b4b79ac86d9a520edfb7.png",
-    "website": "https://www.greenlite.ai/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a2e212679d6416b22e5a93c56292d0faf00edc5.png",
+    "website": "https://www.bretton.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Greenlite is the leading AI agent platform for compliance in financial services. Regulated banks and fintechs — including those overseen by the OCC, FDIC, and SEC — trust Greenlite to automate mission-critical work like sanction reviews and anti-money laundering investigations with speed and accuracy. \r\n",
-    "one_liner": "AI agents for financial compliance",
+    "long_description": "Bretton AI (formerly Greenlite) is the leading AI agent platform for compliance in financial services. Regulated banks and fintechs — including those overseen by the OCC, FDIC, and SEC — trust Bretton AI to automate mission-critical work like sanction reviews and anti-money laundering investigations with speed and accuracy. \r\n",
+    "one_liner": "AI agents for financial compliance (AML, KYC and Sanctions)",
     "team_size": 34,
     "industry": "Fintech",
     "subindustry": "Fintech",
@@ -1987,8 +1936,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/greenlite",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/greenlite.json"
+    "url": "https://www.ycombinator.com/companies/bretton-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/bretton-ai.json"
   },
   {
     "id": 29000,
@@ -2036,20 +1985,20 @@
     "slug": "dili",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9e905bd15e69e145959bbab0b2b161c61c3dd16c.png",
-    "website": "https://www.dili.ai",
+    "website": "https://www.dili.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "Dili (YC S23) is building the most reliable AI automation for compliance in real-world industries. \r\nAcross energy, infrastructure, datacenters, advanced manufacturing, and construction, Dili has run prevailing wage, apprenticeship, & other labor compliance to help customers secure over $1 billion in federal funding.\r\n\r\nDili is building the AI system of record to help physical industries track compliance, analyze labor and spend, run payroll, and more. ",
+    "long_description": "Dili (YC S23) is building the most reliable AI automation for compliance in real-world industries.\r\n\r\nAcross energy, infrastructure, datacenters, advanced manufacturing, and construction, Dili has run prevailing wage, apprenticeship, & other labor compliance to help customers secure over $1 billion in federal funding.\r\n\r\nDili is building the AI system of record to help physical industries track compliance, analyze labor and spend, run payroll, and more. ",
     "one_liner": "Automating PWA Compliance and Diligence",
-    "team_size": 5,
+    "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1686681508,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "B2B",
       "Compliance",
-      "Energy",
-      "AI"
+      "Energy"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2164,6 +2113,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/roe.json"
   },
   {
+    "id": 29298,
+    "name": "Greenboard",
+    "slug": "greenboard",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b27383428d763a236956940e76e892fc851162b4.png",
+    "website": "https://www.greenboard.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Greenboard is building a singular, AI-powered platform to handle management of the entirety of financial firms’ compliance programs, and eventually all back office processes. Today, financial institutions use Greenboard to detect risk using AI and to rip out and replace the bad legacy back office tooling they have wanted to get rid of for years.\r\n \r\n\r\n\r\nGreenboard's mission is to enable financial institutions to operate their back office teams at a higher standard, with half of the headcount. We’re starting with compliance",
+    "one_liner": "Modern OS for the financial back office. ",
+    "team_size": 26,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1700498020,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "SaaS",
+      "Compliance",
+      "Operations"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/greenboard",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/greenboard.json"
+  },
+  {
     "id": 29376,
     "name": "Carma",
     "slug": "carma",
@@ -2207,98 +2198,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/carma",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/carma.json"
-  },
-  {
-    "id": 29389,
-    "name": "Delve",
-    "slug": "delve",
-    "former_names": [
-      "Sunona"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe5544e1b1b961aace9e8e6d50ba3a3f37c9ca2d.png",
-    "website": "https://delve.co/?utm_source=yc&utm_medium=bio&utm_campaign=delve",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Delve helps fast-growing teams get compliant with an AI-automated platform.\r\n\r\nServing hundreds of companies on frameworks like SOC 2, HIPAA, ISO 27001, GDPR, PCI DSS, and more.",
-    "one_liner": "AI that makes compliance effortless",
-    "team_size": 33,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1704449902,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Compliance",
-      "Cybersecurity",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/delve",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/delve.json"
-  },
-  {
-    "id": 29404,
-    "name": "DianaHR",
-    "slug": "dianahr",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f0990cef5b926ae03d0589cc34c56a79adc02d7.png",
-    "website": "http://www.dianahr.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "DianaHR is an AI-powered HR person for the 1.4 million SMBs with at least 10 employees. Today, SMB owners spend 10+ hours a week struggling with managing software, state compliance notices, benefits questions, onboarding, insurance, workers comp, 401k, etc. With DianaHR, a human-in-the-loop AI takes care of all that and delivers peace of mind.",
-    "one_liner": "An AI-Powered HR Person ",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Human Resources",
-    "launched_at": 1706475260,
-    "tags": [
-      "Artificial Intelligence",
-      "Human Resources",
-      "Compliance",
-      "HR Tech",
-      "Operations"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Human Resources"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dianahr",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/dianahr.json"
   },
   {
     "id": 29405,
@@ -2355,23 +2254,23 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/199d48c929434ddb64281cd83b9621eb37c3ed62.png",
     "website": "https://www.retailreadyai.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Every time workers in a warehouse box an order, they reference a 100 page manual with instructions like where to put the shipping label. RetailReady replaces the instruction manual with a tablet application.",
     "one_liner": "An AI-powered supply chain compliance engine",
-    "team_size": 10,
+    "team_size": 12,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1705423924,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Compliance",
       "Logistics",
-      "Supply Chain"
+      "Supply Chain",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -2380,7 +2279,8 @@
       "Supply Chain and Logistics"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": true,
@@ -2464,7 +2364,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -2543,7 +2443,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/637fd6f0b41173fce58a7cc13944c42be5d808ec.png",
     "website": "https://www.arva.ai",
-    "all_locations": "",
+    "all_locations": "London",
     "long_description": "Banks and fintechs have large teams of human analysts who conduct manual checks and reviews. We replace those human compliance analysts with AI agents that automate 80% of the manual work for faster and more compliant financial crime (AML) reviews.\r\n\r\nOur first three products are: Screening AI (discount 91% of screening alerts), KYB/C AI (speed up onboarding), Transaction Monitoring AI (handle AML transaction monitoring alerts)\r\n\r\nOur end goal is to have a whole suite of AI workers that can handle manual compliance work for banks and fintechs. A $24B opportunity in the US alone.",
     "one_liner": "AI Agents to scale AML, KYB and KYC operations",
     "team_size": 14,
@@ -2567,7 +2467,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United Kingdom",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2624,48 +2525,46 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/galini.json"
   },
   {
-    "id": 30067,
-    "name": "Platus",
-    "slug": "platus",
-    "former_names": [
-      "Openlaw"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/014b1ba3942482fbcc33d8bd34b870f8e4f598a4.png",
-    "website": "https://www.platus.com",
-    "all_locations": "",
-    "long_description": "Platus delivers fast, reliable legal infrastructure with a no-code platform and API, designed to support SMBs with instant access to notarization, legal drafting, e-signing, and workflow automations. Our solution removes the high costs and slow processing of traditional legal services, by empowering businesses to seamlessly manage compliance and legal tasks.",
-    "one_liner": "Instant Legal Infrastructure - Draft, Sign, Notarize & Process",
-    "team_size": 15,
+    "id": 30057,
+    "name": "Luthor",
+    "slug": "luthor",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bb20b2bce4f5e0cb26cffa31072a6cc5d7bc7145.png",
+    "website": "https://luthor.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Luthor replaces fragmented compliance workflows with a single system that reviews, enforces, and logs every piece of marketing content the moment it’s created.\r\n\r\nGenerative AI has made content production effortless. Manual compliance review has not kept up. This gap is now the largest and fastest-growing source of risk in the enterprise.\r\n\r\nLuthor closes that gap completely. Every claim is checked against your policies, your regulations, and your approved sources before it goes live. Marketing teams move faster. Compliance teams gain complete confidence, with every message verified and fully auditable.\r\n\r\nTrusted by asset managers, RIAs, lenders, banks, and credit unions to operate at AI-era volume while meeting SEC, FINRA, FTC, UDAAP, and more.\r\n\r\nLuthor eliminates the gap between what companies say and what they can stand behind.",
+    "one_liner": "Real-time governance for enterprise communications",
+    "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B -> Legal",
-    "launched_at": 1731569238,
+    "subindustry": "B2B",
+    "launched_at": 1730139932,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Workflow Automation",
       "Compliance",
-      "LegalTech",
-      "AI"
+      "Marketing",
+      "Regtech"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2024",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Legal"
+      "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/platus",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/platus.json"
+    "url": "https://www.ycombinator.com/companies/luthor",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/luthor.json"
   },
   {
     "id": 30225,
@@ -2721,7 +2620,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a3e4d26d964f7e9e8a081b6c3ec2ddad6bb65119.png",
     "website": "https://cardamon.ai/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "London",
     "long_description": "Cardamon is an AI powered platform that ingests relevant regulation, understands what applies to each regulated financial firm, and gets compliance officers from regulation, to obligations, to product requirements in minutes - not weeks.\r\n\r\nFinancial firms face a host of complex regulations that make it incredibly painful to launch and maintain products in a compliant way. As a Product team at Revolut, we felt this pain deeply ourselves - we had products ready to launch but stuck in compliance limbo, often for weeks. Turns out, getting compliant took as long as building the product itself. \r\n\r\nFrustrated, we dug in and were shocked by how manual and inefficient the processes were. That’s when it clicked: there’s a huge opportunity to automate the boring stuff (and solve our own problem!). Compliance teams win because they ditch the tedious tasks. Product teams win because they ship faster. Everyone’s happy.",
     "one_liner": "AI compliance co-pilot for regulated financial businesses",
     "team_size": 2,
@@ -2745,8 +2644,8 @@
       "Finance and Accounting"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "United Kingdom",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2989,7 +2888,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Cotool is an agentic security platform that eliminates manual and repetitive work for security teams.\r\n\r\nToday’s cybersecurity teams remain bogged down by alert fatigue, context switching, and documentation overhead. Security teams don't need more dashboards with \"AI-powered insights\" — they need their time back.\r\n\r\nCotool empowers teams to build security their way. Our platform provides an AI co-pilot that automatically assembles context across tools, a no-code agent builder that transforms successful investigations into reusable automations, and automated report generation, providing comprehensive documentation in seconds.\r\n\r\nUnlike solutions that force teams to adapt to vendor workflows, Cotool puts the power of AI directly in practitioners' hands, letting them shape tools around their unique processes. Early users have already cut time spent on investigation and detection engineering by 70%.",
     "one_liner": "AI Agents for Security Operations Teams",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1747110142,
@@ -3070,7 +2969,7 @@
     "former_names": [
       "Logos AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3e17b292dce9142e728fb1a7ba4705bb06cceff.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/028016b5518081901c8e2d5a5483ea0f04a88946.png",
     "website": "https://logosguard.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Enterprises are racing to adopt AI, but often don't have the right controls in place or know how to verify vendors are compliant. LogosGuard turns AI policies into executable controls, stress-tests your AI products, and continuously monitors changes, giving enterprises the confidence to scale AI responsibly.",
@@ -3108,47 +3007,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/logosguard.json"
   },
   {
-    "id": 30927,
-    "name": "Oxus",
-    "slug": "oxus",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ece043321e153a7271fa8a0ce88ad2f409b18fe3.png",
-    "website": "https://oxus-ai.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Oxus automates internal audits for pre-IPO and public companies using AI. We turn hours of manual scoping, documentation, and control testing into review-ready outputs generated within minutes.\r\n \r\nWith Oxus, audit teams deliver more audits, faster.",
-    "one_liner": "AI-powered automation for internal audit workflows",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1765688555,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Workflow Automation",
-      "Compliance"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/oxus",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/oxus.json"
-  },
-  {
     "id": 30962,
     "name": "Denki",
     "slug": "denki",
@@ -3158,14 +3016,14 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Automate internal auditing (planning, testing, documenting) to comply better with financial regulations.\r\n\r\nDenki performs audit work with 99% software, 1% services:\r\n\r\n✔️ Works on existing systems (e.g. Auditboard, Workiva, ERPs)\r\n✔️ Automates Control processes (e.g. collects evidence, runs walkthrough interviews, tests)\r\n✔️ Records every step for traceability (workpapers w/ full audit trace)\r\n\r\nFocused on SOX programs and financial regulations (SEC Rules etc.)",
     "one_liner": "The full-stack AI financial audit firm",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1759884466,
     "tags": [
-      "Artificial Intelligence",
       "FinOps",
       "Compliance",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -3191,74 +3049,27 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/denki.json"
   },
   {
-    "id": 31146,
-    "name": "Arcline",
-    "slug": "arcline",
+    "id": 31102,
+    "name": "fuchsia",
+    "slug": "fuchsia",
     "former_names": [
-      "https://www.arcline-ai.com/",
-      "Arcline AI"
+      "Human Oracle",
+      "noetic",
+      "Fable",
+      "noetic"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f76442626bb5dc33b9b6ae6b9ea6033dff2869f6.png",
-    "website": "https://www.arcline-ai.com/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/864a14cbf1a285a8411263cf32fd2240cbb9f2d9.png",
+    "website": "https://getfuchsia.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Arcline provides AI-native legal services for startups, with same-day turnaround & elite lawyers in the loop. Our AI does 80% of the work, so startups pay elite lawyers only for the final 20%.\r\n\r\nArcline’s founder Pamir, ex-outside counsel to OpenAI, saw the same issues on repeat when lawyers were serving startups: simple legal work took weeks, pricing was opaque, and lawyers kept starting from scratch instead of using AI.\r\n\r\nWe’ve built a bench of top-tier startup lawyers to change that - folks from top schools (Harvard, Stanford, Oxford) and leading firms (Cooley, Goodwin, Fenwick). \r\n\r\nArcline’s lawyers start with first drafts generated with AI, and then do final revisions. This ends up reducing the work by up to 80% - so startups pay elite lawyers only for the final 20%.\r\n\r\nMore importantly, your legal matters can often be handled same-day. No other law firm today offers this kind of speed.\r\n\r\nWe’ve scaled to helping several Y-companies and 50+ venture-backed startups across the US and Nordics. \r\n\r\nDiscover Arcline: arcline-ai.com",
-    "one_liner": "Startup legal work handled by elite lawyers & same-day turnaround",
-    "team_size": 5,
+    "long_description": "Fuchsia handles hardware compliance end to end, making the process as fast and painless as software compliance has become.\r\n\r\nProduct safety requirements are fragmented across dozens of regional and industry-specific standards (FCC, FDA, FAA, CE, UL, ISO, RIA) and thousands of codes, leaving companies to spend months and tens of thousands in consultant fees just figuring out what applies. Our AI agents surface every relevant requirement in minutes, drafts the technical documentation, and matches teams with the right testing labs.",
+    "one_liner": "AI that gets hardware compliance done in weeks, not months.",
+    "team_size": 1,
     "industry": "B2B",
-    "subindustry": "B2B -> Legal",
-    "launched_at": 1767976988,
+    "subindustry": "B2B",
+    "launched_at": 1773017725,
     "tags": [
-      "Artificial Intelligence",
-      "Marketplace",
-      "Compliance",
-      "Legal",
-      "LegalTech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Legal"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": true,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/arcline",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/arcline.json"
-  },
-  {
-    "id": 31187,
-    "name": "Fenrock AI (YC W26)",
-    "slug": "fenrock-ai-yc-w26",
-    "former_names": [
-      "new co",
-      "Fenrock.AI",
-      "Fenrock AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/49628c649d0cbcd7910ecb380ad944b7613d8242.png",
-    "website": "https://fenrock.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We help highly regulated financial institutions and fintechs prevent financial crimes. With our AI agents, you can process 10X compliance workload per analyst, with bullet-proof audit logs for regulators!",
-    "one_liner": "The most powerful AI agents for Financial Crime Compliance",
-    "team_size": 2,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
-    "launched_at": 1769406704,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
+      "Hardware",
+      "Robotics",
       "Compliance",
       "AI"
     ],
@@ -3266,47 +3077,7 @@
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/fenrock-ai-yc-w26",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/fenrock-ai-yc-w26.json"
-  },
-  {
-    "id": 31263,
-    "name": "Veriad",
-    "slug": "veriad",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4a713774c85daa51c5353d80d0b599eae5069e05.png",
-    "website": "https://veriad.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Veriad is building AI compliance officers for enterprises. Our agent analyze documents, media, and processes against regulations, industry precedents, and internal policies - flagging what's compliant, what's not, and why. Rohan and Anton founded Veriad after building and selling internal compliance tools to Fortune 500 companies.\r\n",
-    "one_liner": "AI compliance officers",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1767420715,
-    "tags": [
-      "B2B",
-      "Compliance",
-      "Marketing"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
+    "batch": "Spring 2026",
     "status": "Active",
     "industries": [
       "B2B"
@@ -3320,8 +3091,53 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/veriad",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/veriad.json"
+    "url": "https://www.ycombinator.com/companies/fuchsia",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/fuchsia.json"
+  },
+  {
+    "id": 31246,
+    "name": "Inth",
+    "slug": "inth",
+    "former_names": [
+      "Consent.io",
+      "Consent"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aca00ac880b2d3d17acae2b1679332dc8000c5f7.png",
+    "website": "https://inth.com",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "Automate consent and user data rights compliance. Built for performance and full developer control.",
+    "one_liner": "Privacy Infrastructure for Developers",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1776095941,
+    "tags": [
+      "Compliance",
+      "Web Development"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/inth",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/inth.json"
   },
   {
     "id": 31276,
@@ -3335,7 +3151,7 @@
     "website": "https://www.ritivel.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Ritivel is an AI-native workspace for regulatory and medical writing teams at life sciences companies. Our AI agents draft CTDs, CSRs, INDs, and BLAs in minutes instead of weeks, helping drugs reach patients faster.\r\n\r\nEvery month a drug is delayed from reaching the market costs pharma companies ~$45M in lost revenue and more importantly, delays treatment for thousands of patients who need it. Yet regulatory teams are stuck in a painful, months-long process: synthesizing thousands of pages of clinical data, hunting through SharePoint folders for the right documents, chasing colleagues for missing inputs, and manually drafting submissions.\r\n\r\nRitivel deploys AI agents that transform how regulatory teams work. Our agents generate comprehensive first drafts directly in Microsoft Word, following FDA formatting requirements and pulling from your existing clinical data and prior submissions. Every data point includes citations linked back to the original source, so reviewers can verify with one click. Connected to SharePoint and Veeva, our agents automatically source the right documents. Integrated with Outlook, they handle reminder emails and follow-ups automatically.\r\n\r\nWe're engineers who previously built AI copilots at Microsoft Research. After 50+ conversations with pharma professionals, we discovered the critical bottleneck in regulatory submissions and built Ritivel to solve it. ",
-    "one_liner": "AI-native platform for regulatory document submission",
+    "one_liner": "AI-native platform for Life-Sciences Documentation ",
     "team_size": 3,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
@@ -3368,5 +3184,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ritivel",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/ritivel.json"
+  },
+  {
+    "id": 31539,
+    "name": "Klaimee",
+    "slug": "klaimee",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7b072cf10e5d03192359bbf4a4f1e59c2bed6476.png",
+    "website": "https://www.klaimee.ai",
+    "all_locations": "",
+    "long_description": "Klaimee is the first insurance for your AI agents. It covers what traditional E&O and cyber explicitly carve out, so you can deploy agentic AI at scale with real peace of mind.\r\nBuilt for companies deploying agentic AI, self-serve from day one.\r\n\r\nThe problem: AI agents are taking actions autonomously buying, emailing, modifying sensitive data. AB 316 already holds deployers liable. EU AI Act enforces in August. Cyber and E&O insurance are excluding AI claims. Companies shipping agents have zero coverage and no third-party proof their agent is safe. Enterprise legal asks \"who pays if your agent breaks something?\" and there's no good answer.\r\n                                                                                                                                                                                                                                        \r\nWe built the answer. Critical-category risk evaluation, certification, financial guarantee, liability insurance and the documentation enterprise procurement needs to sign off.\r\n\r\nTeam: Ines (ex-General Manager at SafetyWing, grew insurance product from $5M to $60M revenue, 5 years launching insurance products from scratch and structuring a TokioMarine MGA into its own carrier) + Julien (AI software engineer + corporate strategy, enterprise compliance).\r\n\r\nWe understand how insurance works, what enterprises require, and why startups can't wait 6 months for either.",
+    "one_liner": "Insurance for the agentic world. You deploy agents, we cover you.",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1775456412,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Compliance",
+      "Insurance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/klaimee",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/klaimee.json"
   }
 ]

@@ -183,7 +183,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e25ba04ae8686807d958c48f1372502741b4b2e3.png",
     "website": "http://www.focal.systems",
-    "all_locations": "New York, NY, USA; San Francisco, CA, USA; Toronto, ON, Canada; London, England, United Kingdom",
+    "all_locations": "CA, USA; San Francisco, CA, USA; Toronto, ON, Canada; London, England, United Kingdom",
     "long_description": "Focal Systems is on a mission to lower the cost of living for all mankind by automating and optimizing Brick and Mortar Retail with the latest advancements in AI. Focal Systems is the industry leader in retail automation solutions. By digitizing store shelves hourly and unleashing FocalOS, retailers unlock huge operational efficiencies, optimized merchandising, and streamlined supply chains which deliver impactful financial results. Focal is transforming retail by empowering store management to make automated, data-driven decisions. We are the operating system of retail.",
     "one_liner": "Building the Operating System for B&M Retail using Deep Learning",
     "team_size": 170,
@@ -326,7 +326,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Here at Spellbrush, we're passionate about making a good anime game.\r\n\r\nWe also happen to be the world's leading generative AI studio — we're the team behind niji・journey.\r\n\r\nWe are currently investigating how AI can be used to help human artists perform masterpieces in the most complex medium of our times: video games.\r\n\r\nOur games are characterized by a no-compromise approach to well-balanced gameplay married to a truthful love of visual arts.",
     "one_liner": "Making Anime Real",
-    "team_size": 35,
+    "team_size": 30,
     "industry": "Consumer",
     "subindustry": "Consumer -> Gaming",
     "launched_at": 1669939734,
@@ -637,7 +637,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5aa6fac6d2489885ce08d4c58cabcc5b5a131c29.png",
     "website": "https://sapling.ai",
-    "all_locations": "San Francisco, CA, USA; Los Angeles, CA, USA",
+    "all_locations": "CA, USA; Los Angeles, CA, USA",
     "long_description": "Sapling offers an API and SDK to help businesses integrate language models into their applications. Its messaging assistant sits on top of CRMs and messaging platforms to help users more efficiently compose responses.",
     "one_liner": "Language models for enterprise applications.",
     "team_size": 2,
@@ -1350,7 +1350,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/62ebbbabf82f9c9badd0bbcb60f8749d391d5a78.png",
     "website": "https://www.preloop.com",
-    "all_locations": "",
+    "all_locations": "WA, USA",
     "long_description": "Only 2 out of 10 ML models make it from experiment to production. Preloop helps automate the process of deployment, helping companies realize more value from their machine learning teams, while focusing teams' attention on science instead of engineering.",
     "one_liner": "Translate your experimental scripts into production ML services",
     "team_size": 2,
@@ -1375,7 +1375,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1604,32 +1605,41 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/tensr.json"
   },
   {
-    "id": 31084,
-    "name": "Bits",
-    "slug": "bits-2",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ad7cbe9bb51e9d5c0dea0e9dc6f1d62f8da6903.png",
-    "website": "https://usebits.com",
+    "id": 30961,
+    "name": "Arcten",
+    "slug": "arcten",
+    "former_names": [
+      "Cortex",
+      "ArcTen",
+      "Arc Ten",
+      "ArcTen",
+      "ArcTen, Inc.",
+      "Arcten, Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8b85a37c57824f6296369d2840bc02a481f8bf6.png",
+    "website": "https://arcten.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Get your personal OpenClaw instance on the cloud and connected to your Slack or other messaging app in 3 minutes. Pre-installed security features and common skills. ",
-    "one_liner": "Fast and Safe OpenClaw on the cloud",
+    "long_description": "",
+    "one_liner": "Lab working on long-horizon autonomous research and coding agents",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1770051535,
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1761245566,
     "tags": [
-      "AIOps",
-      "Deep Learning"
+      "Deep Learning",
+      "Generative AI",
+      "Machine Learning",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
-    "batch": "Winter 2026",
+    "batch": "Fall 2025",
     "status": "Active",
     "industries": [
       "B2B",
-      "Infrastructure"
+      "Engineering, Product and Design"
     ],
     "regions": [
       "United States of America",
@@ -1640,89 +1650,92 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/bits-2",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/bits-2.json"
+    "url": "https://www.ycombinator.com/companies/arcten",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/arcten.json"
   },
   {
-    "id": 31152,
-    "name": "Ishiki Labs",
-    "slug": "ishiki-labs",
-    "former_names": [
-      "ProactiveAI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4791097536ccb2083067cbad86c74ce21f0dea77.png",
-    "website": "https://www.ishikilabs.ai/",
-    "all_locations": "",
-    "long_description": "Current multimodal models can see and hear. But they talk when they shouldn't. They can't tell if you're speaking to them or someone else. We are building an AI that knows when to stay silent, yet still understanding what's going on in your conversation, so it can best assist when you do need it in real time.\r\n\r\nOur first version, fern-0.1: provides real-time expert opinions on demand, instant task delegation, zero interruptions. All as fast as ChatGPT voice and Gemini live.",
-    "one_liner": "Building the Future of Multimodal AI",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1768297786,
+    "id": 31019,
+    "name": "Ndea",
+    "slug": "ndea-com",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51a1310dd1344aa031a62430dad084db50b7229d.png",
+    "website": "https://ndea.com",
+    "all_locations": "Remote",
+    "long_description": "Ndea is building frontier AI systems that blend intuitive pattern recognition and formal reasoning into a unified architecture.\r\n\r\n# AI for Scientific Advancement\r\n\r\nUnlike all life before us, humanity's ascent is a story of ingenuity, not just biological evolution. Our progress has been driven by the curiosity to acquire knowledge, the ability to pass it on, and an intrinsic drive to innovate. We build technology which gives us leverage beyond our biology.\r\n\r\nWe stand at the top of a knowledge and technology colossus that we collectively created over the past ten thousand generations. Scientific progress has helped us overcome burdens that long defined human life — famines, plagues, and widespread illiteracy. Science will continue to redefine the boundaries of the human condition.\r\n\r\nToday, the acceleration of scientific progress hinges on one factor: AI capable of independent invention and discovery. This capacity is the gateway to advancements beyond our wildest imagination.\r\n\r\n# A New Research Lab\r\n\r\nWe're starting Ndea — an AI research and science lab. The name - like 'idea' with an 'n' - is inspired by the Greek concepts ennoia (intuitive understanding) and dianoia (logical reasoning), capturing our first goal to merge deep learning with program synthesis.\r\n\r\nNdea is entirely focused on developing and operationalizing AGI to realize unprecedented scientific progress in our lifetime for the benefit of all current and future generations.\r\n\r\nBuilding AGI alone is a monumental undertaking, but our mission is even bigger. We're creating a factory for rapid scientific advancement — a factory capable of inventing and commercializing N ideas.\r\n\r\nFrom our vantage point today, we see many 'known' frontiers like self-driving vehicles, drug discovery, sustainable energy, robotics, and space exploration. While AGI will benefit all of these, the most exciting adventure lies in the 'unknown'. AGI promises discoveries and progress we cannot imagine today.",
+    "one_liner": "Building AGI that can innovate.",
+    "team_size": 15,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1772669917,
     "tags": [
+      "Artificial Intelligence",
       "Deep Learning",
-      "Generative AI",
-      "AI"
+      "Hard Tech",
+      "Remote Work",
+      "ML"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2026",
     "status": "Active",
     "industries": [
-      "B2B"
+      "Industrials"
     ],
     "regions": [
-      "Unspecified"
+      "Remote",
+      "Fully Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/ishiki-labs",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/ishiki-labs.json"
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ndea-com",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/ndea-com.json"
   },
   {
-    "id": 31209,
-    "name": "AxionOrbital Space",
-    "slug": "axionorbital-space",
+    "id": 31386,
+    "name": "Interfaze",
+    "slug": "interfaze",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/45756da0fcb8d428dd8a6d3aaccf624ef98863b9.png",
-    "website": "https://axionorbital.space/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cbbb1bb306037fdebdde3c7b1d20cb434879fb79.png",
+    "website": "https://interfaze.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "AxionOrbital Space builds foundation models that enable continuous visibility through clouds and darkness. Legacy optical satellites are rendered useless 70% of the time by weather and night cycles, while Synthetic Aperture Radar (SAR) produces data that is unintelligible to humans and breaks standard vision pipelines.\r\n\r\nWe solve this by translating raw radar backscatter into analysis-ready optical imagery in real-time. Our proprietary architecture uses deterministic one-step diffusion to transform complex radar signals into clear, photorealistic images. This enables persistent, 24/7 situational awareness for defense, commodities trading, and disaster response, guaranteeing visibility even when the sky is blocked.",
-    "one_liner": "Foundation models for 24/7 Earth Observation",
-    "team_size": 2,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Aviation and Space",
-    "launched_at": 1766035351,
+    "long_description": "Interfaze is an AI model built on a new architecture that merges specialized DNN/CNN models with LLMs for developer tasks that require deterministic output and high consistency like OCR, web scraping, classification, Speech-to-text (STT) and more.\r\n\r\nRead paper:https://arxiv.org/abs/2602.04101",
+    "one_liner": "AI model built for deterministic developer tasks",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1774812127,
     "tags": [
       "Deep Learning",
-      "Satellites",
-      "Weather"
+      "Developer Tools",
+      "Generative AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
-    "batch": "Winter 2026",
+    "batch": "Spring 2026",
     "status": "Active",
     "industries": [
-      "Industrials",
-      "Aviation and Space"
+      "B2B",
+      "Infrastructure"
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/axionorbital-space",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/axionorbital-space.json"
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/interfaze",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/interfaze.json"
   }
 ]

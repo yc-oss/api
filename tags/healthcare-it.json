@@ -6,7 +6,7 @@
     "former_names": [],
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "https://www.patientbank.us",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "NY, USA; San Francisco, CA, USA",
     "long_description": "PatientBank helps people gather and share medical records online. The company is backed by Y Combinator, General Catalyst, Khosla Ventures, and others.",
     "one_liner": "Get medical records online—from any doctor or hospital.",
     "team_size": 2,
@@ -180,10 +180,10 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/caddac306c8ff38ff1f26a77e311f70a0784ef09.png",
     "website": "https://www.medmehealth.com",
-    "all_locations": "Toronto, ON, Canada; Remote",
+    "all_locations": "Toronto, ON, Canada",
     "long_description": "MedMe Health builds software for pharmacists to deliver paid clinical services like prescribing/adapting medications, point-of-care testing, giving vaccinations, and monitoring chronic conditions.  \r\n\r\nOur web-based platform helps both independent pharmacies and large chains schedule appointments online, conduct virtual care, automate documentation, and flag clinical opportunities. With MedMe, our customers have increased their efficiency of clinical service delivery by 10x and increased pharmacy revenue with the same staff.\r\n\r\nFor the first time, MedMe enables integrations to traditionally locally-stored pharmacy data. Our vision is to transform today’s dispensing locations to tomorrow’s health hubs. ",
     "one_liner": "Software for pharmacies to move beyond dispensing",
-    "team_size": 30,
+    "team_size": 60,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1615839636,
@@ -208,7 +208,7 @@
       "Canada",
       "America / Canada",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "stage": "Growth",
     "app_video_public": false,
@@ -318,9 +318,9 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c8830f0fbee8d57566664d25f05fa802119f757a.png",
     "website": "https://triomics.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Triomics is helping cancer care providers by reducing the burden associated with manually reviewing patient charts. Utilizing our OncoLLM™—a family of oncology-focused language models—we are able to accelerate clinical trial enrollment, power quality improvement projects, and address many other key strategic priorities.",
-    "one_liner": "Generative AI for Oncology EHRs",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Triomics is building the AI infrastructure for modern oncology. Across the U.S., cancer care providers rely on highly trained staff to manually review unstructured patient records such as pathology reports, clinical notes, genomic panels, and scanned faxes to support workflows like clinical trial matching, visit preparation, and quality reporting. We replace that manual work with task-driven AI agents embedded directly into clinical workflows, automatically processing medical records at scale and in real time.\r\n\r\nOur platform is trusted by 4 of the top 10 Best Hospitals for Cancer ranked by U.S. News, as well as several of the largest community oncology practices.",
+    "one_liner": "AI Agents for Oncology EHRs",
     "team_size": 50,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare Services",
@@ -490,50 +490,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/curacel",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/curacel.json"
-  },
-  {
-    "id": 26015,
-    "name": "Splendor",
-    "slug": "splendor",
-    "former_names": [
-      "Uptick",
-      "Fortuna Genomics"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/82c002dd039ff3ea4d28dfce449b49fc390b93bd.png",
-    "website": "https://splendorhealth.com",
-    "all_locations": "Cambridge, MA, USA; Remote",
-    "long_description": "Splendor's AI agent helps providers, EHRs, and billing companies automate benefits checks, prior auth, and more.",
-    "one_liner": "We make dealing with insurance less annoying.",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1711477333,
-    "tags": [
-      "Health Insurance",
-      "Healthcare IT"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/splendor",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/splendor.json"
   },
   {
     "id": 26094,
@@ -713,6 +669,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/clearest-health.json"
   },
   {
+    "id": 28867,
+    "name": "Shasta Health",
+    "slug": "shasta-health",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d0ddbae01a1bda2827881248dc2c26ab87f27982.png",
+    "website": "https://www.shasta.health",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Shasta Health builds AI agents to handle patient calls, verify insurance and automate admin tasks for healthcare clinics",
+    "one_liner": "AI calling & browser agents for healthcare",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare Services",
+    "launched_at": 1690927737,
+    "tags": [
+      "Health Tech",
+      "Digital Health",
+      "Healthcare",
+      "Healthcare IT",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare Services"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/shasta-health",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/shasta-health.json"
+  },
+  {
     "id": 28869,
     "name": "Health Harbor",
     "slug": "health-harbor",
@@ -765,18 +764,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f3b1efd47e85f38279cafba940ec0988913d113.png",
     "website": "https://decodahealth.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Medical practices struggle with front desk shortages and nonstop admin work—ringing phones, scheduling mishaps, intake errors, and billing headaches. The result? Overworked staff and less time for patient care.\r\n\r\nDecoda Health’s AI platform takes over 80% of these tedious tasks, handling calls, scheduling, and payments while alerting staff only when necessary. By reducing chaos and streamlining operations, teams can focus on what truly matters—providing exceptional patient care.",
-    "one_liner": "AI-powered platform automating medical practice operations",
-    "team_size": 9,
+    "long_description": "Med spas, wellness clinics, and aesthetics practices run on 5-10 disconnected tools — separate systems for scheduling, charting, payments, patient communication, and more. It's expensive, error-prone, and holds teams back.\r\n\r\nDecoda is the all-in-one EMR and practice management platform purpose-built for elective care. AI is woven into every workflow — from an AI front desk that answers calls and books patients 24/7, to an ambient scribe that generates clinical notes in real time, to automated patient follow-ups that keep calendars full. Scheduling, payments, memberships, inventory, and analytics all live in one place.\r\n\r\nLive in 150+ clinics, processing $100M+ in annual transactions.",
+    "one_liner": "The all-in-one EMR built for med spas and elective care",
+    "team_size": 15,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1689972321,
     "tags": [
       "Artificial Intelligence",
-      "Messaging",
+      "SaaS",
       "Digital Health",
-      "Healthcare IT",
-      "Billing"
+      "Healthcare IT"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -897,11 +895,11 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ad90ff298c085246c8c2af38a348e6f2c92f338.png",
     "website": "https://quillbills.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Quill Bills is a medical billing company that works with healthcare providers to significantly lower billing costs and fight every denial.",
+    "long_description": "Quill Bills is a medical billing company that works with healthcare providers to significantly lower billing costs and recover denied claims.\r\nOur platform performs much of a biller's job autonomously, and we sell this platform to private practice doctors and medical MSOs.",
     "one_liner": "AI-Powered Medical Billing",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
+    "team_size": 3,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1685991991,
     "tags": [
       "Artificial Intelligence",
@@ -912,13 +910,13 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Finance and Accounting"
+      "Healthcare",
+      "Healthcare IT"
     ],
     "regions": [
       "United States of America",
@@ -976,53 +974,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/wattson-health.json"
   },
   {
-    "id": 29134,
-    "name": "Cognitio Labs",
-    "slug": "cognitio-labs",
-    "former_names": [
-      "Flair Technology Services Inc.",
-      "Flair",
-      "Flair Health",
-      "Flair Technologies"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d3245675111b9595800bc8372727af2a05abfea.png",
-    "website": "https://www.flairhealth.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "AI for Contract Audits, Negotiation & Payment Compliance",
-    "team_size": null,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1690407835,
-    "tags": [
-      "Artificial Intelligence",
-      "Health Tech",
-      "B2B",
-      "Data Science",
-      "Healthcare IT"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cognitio-labs",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/cognitio-labs.json"
-  },
-  {
     "id": 29159,
     "name": "Healthtech 1",
     "slug": "healthtech-1",
@@ -1045,7 +996,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -1087,10 +1038,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "Healthcare",
       "Healthcare IT"
@@ -1117,16 +1068,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6d299272e28e28fc0eef5034541be246b698d0b.png",
     "website": "https://www.syntra.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Syntra automates chart review, claim review, and claim entry with AI. Our specialty-specific AI agents understand the clinical and payer nuances needed to run your RCM function autonomously. Syntra powers hundreds of specialty practices nationwide and processes over $1B in medical claim charges every year.\r\n\r\n",
-    "one_liner": "AI chart review for speciality medical clinics.",
-    "team_size": 9,
+    "long_description": "Syntra is building a self-learning agent that replaces a human claim review team at private practices, increasing revenue per encounter while cutting administrative overhead by up to 60%. Our agent learns each practice’s workflows, payer rules, and software stack on its own, enabling us to give every clinic in the country the operating efficiency they need to stay independent.\r\n\r\nSyntra has already processed over 1M patient encounters, supports hundreds of private practices nationwide, and processes $100Ms in medical claim charges annually.\r\n",
+    "one_liner": "Medical chart and claim review ",
+    "team_size": 8,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1723733582,
     "tags": [
       "Artificial Intelligence",
-      "Healthcare IT",
-      "Billing"
+      "Big Data",
+      "Healthcare IT"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1208,7 +1159,7 @@
     "all_locations": "Oakland, CA, USA",
     "long_description": "Careforce builds AI Workers for healthcare orgs to take on coordination burden from staff and reduce time of care by autonomously identifying and outreaching patients (through phone, text, email, & mail) to schedule visits, book screenings, complete pre-post, and onboard. \r\n\r\nThese agents require no integration, can navigate all tools, speak 29 languages, come with 50+ outreach scripts and have a remarkable 80% conversation-to-booking closing rate.",
     "one_liner": "AI Workers for Healthcare Orgs to Find, Call & Schedule More Patients.",
-    "team_size": null,
+    "team_size": 9,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1730747199,
@@ -1378,95 +1329,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/paratus-health.json"
   },
   {
-    "id": 30399,
-    "name": "Frekil",
-    "slug": "frekil",
-    "former_names": [
-      "Notate"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e885d9503dffbb01e24f5bd3a78965979764099.png",
-    "website": "https://www.frekil.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Today, it takes months to understand how drugs perform in the real world, delaying safety insights, slowing approvals, and costing lives. Frekil turns that months-long process into minutes, with full auditability and regulatory-grade rigor.\r\n\r\nFrekil automatically generates real-world evidence of drug performance from EHR and claims data. It acts like an AI Biostatistician that understands medical ontologies and statistical methods, running complex analyses on autopilot.\r\n\r\nWe help Pharma, Biotech, CROs, and Clinical Researchers to run RWE studies 100x faster and produce publication-ready retrospective studies and FDA/EMA-ready evidence packages with transparent lineage in minutes.",
-    "one_liner": "Intelligence Layer for Real World Clinical Data",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1744440110,
-    "tags": [
-      "Artificial Intelligence",
-      "Health Tech",
-      "B2B",
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/frekil",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/frekil.json"
-  },
-  {
-    "id": 30533,
-    "name": "Delty",
-    "slug": "delty",
-    "former_names": [
-      "Cue",
-      "Delty AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdd61a6b51bd621ffd6f24f4e6cd7ce09b1d4a71.png",
-    "website": "https://delty.ai",
-    "all_locations": "",
-    "long_description": "",
-    "one_liner": "Transforming healthcare operations with AI agents",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1746945144,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Healthcare",
-      "Healthcare IT",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/delty",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/delty.json"
-  },
-  {
     "id": 30681,
     "name": "Parachute",
     "slug": "parachute",
@@ -1478,7 +1340,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ffdb102f014e8ce8401417ee051d9fbec55550e0.png",
     "website": "https://parachute-ai.com",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "Parachute helps hospitals adopt AI safely and at scale. We vet AI tools that fill clinical gaps, run state-of-the-art evaluations, monitor every model for drift and compliance, and lock every decision in an immutable audit trail.",
     "one_liner": "Infrastructure for hospitals to monitor and deploy clinical AI ",
     "team_size": 2,
@@ -1503,7 +1365,8 @@
       "Healthcare IT"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1523,15 +1386,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f48e664a460b19faede05bd1de6c49c5d3931a9.png",
     "website": "https://phases.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Phases uses AI to automate clinical trial operations, starting with patient recruitment. Our agent scans medical records and conducts human-like voice interviews to assess patient eligibility for clinical trials. Our vision is to run the entire clinical trial back-office with agents, getting drugs to market at a fraction of the time and cost it takes today.",
-    "one_liner": "Automating clinical trials, starting with patient recruitment.",
+    "long_description": "Phases deploys AI agents to oversee clinical trials, improving operational performance, data quality, and audit readiness by identifying risks and taking actions autonomously to solve issues.",
+    "one_liner": "Automated clinical trial oversight and execution",
     "team_size": 3,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1751998711,
     "tags": [
-      "Artificial Intelligence",
       "Healthcare IT",
+      "AI",
       "Conversational AI"
     ],
     "tags_highlighted": [],
@@ -1654,11 +1517,11 @@
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1759865815,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "Health Tech",
       "Healthcare",
-      "Healthcare IT"
+      "Healthcare IT",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1681,5 +1544,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lunabill",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/lunabill.json"
+  },
+  {
+    "id": 31545,
+    "name": "Modern",
+    "slug": "modern",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d2529e7f9c6b526eaa04259dba132d262fb29fc.png",
+    "website": "https://getmodern.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Modern helps IT, HR, and Finance teams automatically resolve 80%+ of high-volume requests. Teams define workflows in plain language, set approval rules and policies, and Modern handles the rest: password resets, access provisioning, expense approvals, on-boarding checklists, and more. Everything runs with full audit trails, role-based approvals, and enterprise-grade security built in.\r\n\r\nModern works alongside your existing ITSM with no rip-and-replace required or runs as your ITSM from day one. Most teams are live in under a day. For teams that want to go fully hands-off, 100% automation via a fully managed IT services are also available.",
+    "one_liner": "AI agents for IT, HR & Operations teams",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1775918136,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Healthcare IT"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/modern",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/modern.json"
   }
 ]

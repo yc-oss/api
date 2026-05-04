@@ -328,7 +328,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/17547ff6e0fe5d75c99f92fdc3b9c13fa6712bd5.png",
     "website": "https://www.aptible.com",
-    "all_locations": "San Francisco, CA, USA; Toronto, ON, Canada; New York, NY, USA; Philadelphia, PA, USA; Boston, MA, USA; Indianapolis, IN, USA; Remote",
+    "all_locations": "NY, USA; Toronto, ON, Canada; New York, NY, USA; Philadelphia, PA, USA; Boston, MA, USA; Indianapolis, IN, USA; Remote",
     "long_description": "At Aptible, we envision a world where developers achieve more with less infrastructure. We’re building the platform that empowers developers at companies of all stages of development to move beyond the traditional method of managing infrastructure—DIY with expert infrastructure and platform engineers on AWS, GCP, or Azure. We’ve done this through our secure, compliant, reliable, and scalable Platform as a Service that’s been used by thousand of developers, hundreds of companies, and dozens of publicly traded and unicorn companies since 2013.",
     "one_liner": "The No Infrastructure Platform as a Service",
     "team_size": 25,
@@ -535,13 +535,60 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2016/opsolutely.json"
   },
   {
+    "id": 1510,
+    "name": "FastJVM",
+    "slug": "fastjvm",
+    "former_names": [
+      "Manycore",
+      "Manycore.io",
+      "Manycore",
+      "Inboxbooster"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d20c1dd1d05527f51041212802e5e737587823ff.png",
+    "website": "https://fastjvm.com",
+    "all_locations": "Palo Alto, CA, USA",
+    "long_description": "FastJVM analyzes JVM bytecode and applies provably safe optimizations such as automatic parallelization.\r\n\r\nOn some workloads it already delivers up to 10× speedups; the goal is to generalize these gains across the JVM.",
+    "one_liner": "Making the JVM faster",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1478578235,
+    "tags": [
+      "DevOps",
+      "Cloud Computing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2017",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/fastjvm",
+    "api": "https://yc-oss.github.io/api/batches/winter-2017/fastjvm.json"
+  },
+  {
     "id": 12266,
     "name": "Dockup",
     "slug": "dockup",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7bbbc0b138970d664365f112bc20022470751139.png",
     "website": "https://getdockup.com/",
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "Bengaluru; Mountain View, CA, USA",
     "long_description": "Dockup gives on-demand environments for engineering teams so they can merge pull requests with confidence. It works like CircleCI, but allows you to manually test and see each code changes in action with your entire tech stack without having to mock any of your services.",
     "one_liner": "On demand ephemeral environments to run manual and automated tests.",
     "team_size": 4,
@@ -562,7 +609,9 @@
       "Engineering, Product and Design"
     ],
     "regions": [
+      "India",
       "United States of America",
+      "South Asia",
       "America / Canada"
     ],
     "stage": "Early",
@@ -990,8 +1039,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7522b24d3853d0b79cebe72798f4a3a33c54ac27.png",
     "website": "https://www.stably.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Stably AI auto-writes, runs, and maintains end-to-end tests directly in your CI, guarding every pull‑request and production release—no flakiness, no test maintenance.\r\n\r\nHundreds of modern engineering orgs already use Stably to merge code in minutes, replace brittle Playwright/Cypress suites, and slash QA spend by up to 80%.\r\n\r\nStably offers\r\n- AI-generated test flows that mirror real user journeys.\r\n- Diff-aware execution—only tests affected by your change run, so CI stays under five minutes.\r\n- Automatic selector & assertion healing when your UI shifts, keeping the suite green.\r\n- Plain‑English editor letting PMs and QAs add tests without writing code.\r\n- One‑click GitHub App or API for instant pipeline integration.",
-    "one_liner": "AI Testing that Writes, Runs & Maintains Tests for Every PR & Release",
+    "long_description": "We build devtools. Orca is an open-source Cursor—a local-first AI coding environment. Stably is our AI testing platform that writes, runs, and maintains E2E tests in CI.                                                                      \r\n                                    \r\nDevelopers use Orca and Stably to ship faster with more control—coding with their own AI setup and merging with confidence in minutes.",
+    "one_liner": "Makers of Orca (OSS Cursor) and Stably (AI testing platform)",
     "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -1093,7 +1142,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -1265,7 +1314,7 @@
     "former_names": [
       "Koala Ops"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2051debd2ddc50b321426f669aa98a0120dfc537.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c4df2dc3a8591521492f4797ca92971742623b68.png",
     "website": "https://skyhook.io",
     "all_locations": "Tel Aviv-Yafo, Tel Aviv District, Israel",
     "long_description": "We make running services on Kubernetes as easy as Heroku, but on your cloud and with all the flexibility and power of Kubernetes. Companies use Skyhook so that they don't have to hire dedicated infrastructure engineers.\r\n\r\nAlthough 50-70% of organizations have already adopted Kubernetes, most developers agree that it is too complex and difficult to manage. It is intended to be extremely flexible in order to solve pretty much everyone’s needs, but it can take a ton of work and many auxiliary tools to get there.\r\n\r\nAs companies grow, they spend a lot on DevOps or Platform Engineers that try to reduce the burden on developers by gluing together all the 3p tools via custom internal tools.\r\n\r\nWe are building an “internal developer platform” out of the box, with best practices and golden paths for building and operating services on Kubernetes.\r\n\r\nWe do the research on the latest and greatest tools in the extremely vibrant ecosystem, and automatically integrate for you the tools you want to use.\r\n\r\nWe operate on our customers code and in your Cloud environment, so they never locked in and never restricted, as is common with classic PaaS offerings.\r\n\r\nIf you prefer a fully hosted environment like Heroku, Fly or Vercel, we’ll host a cluster for you and offer you a one-click migration to your own cluster when you want.",
@@ -1394,6 +1443,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/parea",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/parea.json"
+  },
+  {
+    "id": 28957,
+    "name": "Continue",
+    "slug": "continue",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6603bbbb05f3629720acc724a2c02719efad6f67.png",
+    "website": "https://continue.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "AI coding tools made your team ship faster. But standards are slipping through review. Continue runs source-controlled AI checks on every pull request, enforcing your team's conventions, security patterns, and architecture boundaries as native GitHub status checks. Each check is a markdown file in your repo, running as a full AI agent. It only enforces what you asked for and never misses it. Consistency over breadth. Standards as checks, enforced by AI, decided by humans.\r\n\r\nWith hundreds of thousands of users, Continue is loved by developers worldwide at organizations ranging from small startups to Fortune 500 companies. Continue has raised $5.1M from Heavybit, Y Combinator, and angel investors. The company was founded in 2023 and is based in San Francisco.\r\n\r\nWe believe the time is now to create a future where developers are amplified, not automated.",
+    "one_liner": "Quality control for your software factory",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1688142176,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "DevSecOps",
+      "DevOps",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/continue",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/continue.json"
   },
   {
     "id": 29073,
@@ -1542,7 +1634,7 @@
       "Miru ML"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f8c54103232ce6ad4a91f33685eeaecbcd4d224.png",
-    "website": "https://www.miruml.com",
+    "website": "https://www.mirurobotics.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Miru makes it easy for robotics teams to manage, version, and deploy robot configurations. Developers use our well-documented APIs and UI components to automate configuration updates for both engineers and operators.\r\n\r\nIn the long term, we're building software infrastructure to accelerate the automation of the physical world.",
     "one_liner": "Config Management for Robotics",
@@ -1670,16 +1762,17 @@
   },
   {
     "id": 30108,
-    "name": "Edgedive",
-    "slug": "edgedive",
+    "name": "Struct",
+    "slug": "struct-ai",
     "former_names": [
-      "Bramble"
+      "Bramble",
+      "Edgedive"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f92fa322d1cca62c4066915fee6ecf728cde156.png",
-    "website": "https://edgedive.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f292fd64c9e2943d040e390cd2700e19b243bb8c.png",
+    "website": "https://struct.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Edgedive is the agent that triages & debugs your eng team's oncall issues to reduce mean-time-to-resolution (MTTR). It:\r\n\r\n- Automates your oncall runbook for incoming issues to provide an impact assessment, root cause, and plan to fix.\r\n- Opens merge-ready PRs that build cleanly and follow your team’s standards.\r\n- Can be triggered from Slack, Linear, Asana, or automatically from support tickets or alerts (ex. Intercom, Sentry, etc)\r\n\r\nIt’s like having a teammate that responds to issues 24/7, gathering the context your team needs to address them ASAP.",
-    "one_liner": "The AI Support Engineer",
+    "long_description": "Struct cross-references logs, metrics, traces, and your codebase to accurately root-cause eng alerts and bugs. \r\n\r\nIntegrate your entire stack in minutes, auto-investigate every issue, dive deeper at will, and hand-off context to fix in one click.\r\n",
+    "one_liner": "Automate your on-call runbook",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -1710,8 +1803,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/edgedive",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/edgedive.json"
+    "url": "https://www.ycombinator.com/companies/struct-ai",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/struct-ai.json"
   },
   {
     "id": 30114,
@@ -1725,7 +1818,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Ryvn provides the devtools and infrastructure to easily deploy any workload, on any cloud, and on-prem. Run apps in your own cloud and offer Bring Your Own Cloud (BYOC) to your customers in minutes, with built-in observability designed for sensitive industries.",
     "one_liner": "Easy and secure customer cloud deployments",
-    "team_size": 2,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1730680026,
@@ -1810,7 +1903,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2aa06b2c04632ad68c2151cc3aac66c942a0119b.png",
     "website": "https://www.relvy.ai",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Relvy provides AI-powered debugging notebooks that help software engineers investigate and resolve incidents faster. It finds the root cause in over 70% of alerts automatically, and when it doesn’t, engineers can easily guide or correct the investigation - saving valuable time across the team.",
     "one_liner": "AI powered debugging notebooks for incident response",
     "team_size": 3,
@@ -1835,7 +1928,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1852,7 +1946,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/79bd0c6f85962c1282260ab60adb0462fdb87ec8.png",
     "website": "https://tensorpool.dev",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Our CLI makes ML model training effortless - just describe your job, and we handle GPU orchestration and execution at half the cost of major cloud providers.",
     "one_liner": "Vercel For GPUs",
     "team_size": 3,
@@ -1877,7 +1971,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1895,8 +1990,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fae29a98d132c4b435b336dbb5d6cf4a1aaf5de7.png",
     "website": "https://www.starsling.dev/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "StarSling is building an agentic developer homepage that automates all the tasks that eat up a developer’s time after they’ve left their code editor: deployments, performance, incidents, and bugs. Open your homepage, click on a GitHub, Linear, or Sentry issue and you’ll see an Autofix button that triggers an AI agent and opens up a Pull Request with a fix, all without leaving your homepage.",
-    "one_liner": "Cursor for DevOps",
+    "long_description": "StarSling is building an AI-native DevOps platform for developers that ship, starting with CI. StarSling Runners are fast GitHub Actions runners with AI agents that continuously improve your build speeds by more than 80%.",
+    "one_liner": "Self-Driving CI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -1910,7 +2005,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -1935,20 +2030,20 @@
     "name": "Dedalus Labs",
     "slug": "dedalus-labs",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/17a7e021922e11a9b8f5a5ff401fd1b2375e7969.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7090c5a2d73a4c3057030995d02dc87abae964a5.png",
     "website": "https://www.dedaluslabs.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Dedalus Labs is building Vercel for AI Agents. We host MCP servers on our cloud and handle the boring stuff like autoscaling and load balancing so users can go from idea to production in a single click. Our OpenAI-compatible SDK lets users orchestrate complex agentic workflows through one clean API. Route between any LLM provider, connect any MCP tools from our hosted marketplace, and ship in minutes.",
-    "one_liner": "Connect any LLM to any MCP tools and create complex agents in minutes.",
-    "team_size": 9,
+    "long_description": "1. Multi-model Agents SDK: build production-grade tool-calling agents in 5 lines of code using our open-source, vendor-agnostic SDK. Connect multiple models across providers (eg. Opus 4.6 + Gemini 3 Flash + GPT 5.4) within the same agent to optimize your agentic workflow's cost, latency, efficiency, and performance.\r\n\r\n2. Agents-as-a-Service (AaaS): serve your agent or service as a hosted endpoint that anyone - including OpenClaw and Claude Code - can call.",
+    "one_liner": "Connect any model(s) to any tool(s) and ship hosted agents in minutes.",
+    "team_size": 10,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
     "launched_at": 1756399069,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Workflow Automation",
-      "DevOps",
-      "AI"
+      "DevOps"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1957,7 +2052,8 @@
     "batch": "Summer 2025",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Infrastructure"
     ],
     "regions": [
       "United States of America",
@@ -1972,28 +2068,25 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/dedalus-labs.json"
   },
   {
-    "id": 30628,
-    "name": "datafruit",
-    "slug": "datafruit",
-    "former_names": [
-      "Lychee",
-      "DataFruit",
-      "datafruit",
-      "Datafruit"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0545fc19adebb3a29cdf7c671311902833861e8.png",
-    "website": "https://datafruit.dev/",
+    "id": 30630,
+    "name": "Lark",
+    "slug": "lark",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d081c0c274bbf68a2b6814e7891694bfd2e2c515.png",
+    "website": "https://getlark.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Datafruit is the first agentic DevOps engineer.\r\n\r\nIt understands your deployment standards, design docs, and DevOps practices, then reasons across them to reduce cloud waste, prevent deployment delays, and eliminate wasted time across the stack. \r\n\r\nReach out to us: founders@datafruit.dev",
-    "one_liner": "AI DevOps Engineer",
-    "team_size": 4,
+    "long_description": "Lark lets teams write end-to-end tests in plain English. Validate dashboards, APIs, SDKs, and full product flows without maintaining fragile test code. Run continuously on feature branches, in CI, or in production.",
+    "one_liner": "The E2E testing layer for AI-driven development",
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1755048308,
+    "launched_at": 1755281037,
     "tags": [
+      "Developer Tools",
+      "B2B",
       "DevOps",
-      "Cloud Computing",
-      "Infrastructure"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2014,51 +2107,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/datafruit",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/datafruit.json"
-  },
-  {
-    "id": 30648,
-    "name": "Janet AI",
-    "slug": "tryjanet",
-    "former_names": [
-      "MeetingToCode"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/00eb0a0f3a1d2e114523331a618501c6336a1b3f.png",
-    "website": "https://janet.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Janet AI (janet.ai) is the first AI-native ticket management system, built for modern engineering teams and tool stacks. Janet doesn’t wait for your manual work.\r\n\r\n- Ideas, bug reports, and feature requests get tracked directly from meetings/Slack/Discord/SMS/email.\r\n- Tickets are auto-moved when GitHub PRs resolving them are opened and merged.\r\n- You can reply to issue reporters in Slack/Discord directly from Janet when a ticket is resolved.\r\n- Janet evaluates ticket quality, clusters related issues, and auto-tags issues.\r\n- We bring all your tickets to your Cursor/Claude Code's context so coding agents can create, understand, update, prioritize, and resolve issues - the time spent on thorough ticketing finally has tangible ROI (not just a chore).\r\n- And more!\r\n\r\nFounders, product leaders, customer success, and engineers all love Janet: cross-team communication, collaboration, and execution are made seamless. That’s why users repeatedly switch away from Linear, Jira, and others after trying Janet for just a single project/sprint.\r\n\r\nCheck out janet.ai to get started today!",
-    "one_liner": "The AI-Native Jira",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1752861520,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "DevOps",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tryjanet",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/tryjanet.json"
+    "url": "https://www.ycombinator.com/companies/lark",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/lark.json"
   },
   {
     "id": 30954,
@@ -2068,17 +2118,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b78cfc7f96ec9c05be6c06823bccd27995a3125.png",
     "website": "https://specific.dev",
     "all_locations": "Stockholm, Stockholm County, Sweden",
-    "long_description": "Specific lets users build and deploy backends without code. They simply connect their preferred coding agent and we build, deploy and scale a backend for any project automatically.",
-    "one_liner": "Build and deploy production-ready backends without code",
+    "long_description": "Specific lets your coding agent write code and build the infrastructure to deploy it. Connect your favorite coding agent and start building immediately. Run `specific dev` to get a full local environment running in seconds. Run `specific deploy` to go to production on our scalable cloud platform in minutes.",
+    "one_liner": "AWS for coding agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1758776605,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "No-code",
-      "DevOps"
+      "DevOps",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2103,32 +2153,35 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/specific.json"
   },
   {
-    "id": 31210,
-    "name": "Mendral",
-    "slug": "mendral",
+    "id": 31507,
+    "name": "ProjectX",
+    "slug": "projectx",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fb8ab79d58a9a62e857747309cac10d5d41fbb2.png",
-    "website": "https://mendral.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Mendral is an AI DevOps Engineer that observes, diagnoses, acts, and learns continuously. It autonomously handles CI failures, flaky tests, slow builds, broken releases, and code reviews, improving with every build and run. Over time, Mendral evolves into a self-improving delivery system that manages performance, quality, security, and compliance, all without manual intervention.",
-    "one_liner": "AI DevOps Engineer",
-    "team_size": 2,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f60ad803d2e9b0079d1a0e2e9afd248df7aafcd.png",
+    "website": "https://www.projectx.cloud/",
+    "all_locations": "CA, USA",
+    "long_description": "Every computer ever made forces you to do one thing at a time. One cursor. One keyboard. One Hardware. One app in focus. Fifty years. Nobody questioned it.\r\n\r\nWe did. We started over.\r\n\r\nWe built InfinityOS, a fundamentally new computer OS on the cloud from ground up.\r\n\r\nInfinity runs every app in its own independent computer -- own GPU, own input, own environment. Windows and Linux in the same session. Humans and agents working side by side. No concurrency ceiling. Cold start in seconds. One URL.",
+    "one_liner": "Infinity: the first OS where humans and agents work with no limits.",
+    "team_size": 6,
     "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1769123342,
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1773453080,
     "tags": [
       "Artificial Intelligence",
-      "Developer Tools",
-      "DevOps"
+      "Marketplace",
+      "DevOps",
+      "Cloud Computing",
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
-    "batch": "Winter 2026",
+    "batch": "Spring 2026",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Infrastructure"
     ],
     "regions": [
       "United States of America",
@@ -2141,7 +2194,7 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mendral",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/mendral.json"
+    "url": "https://www.ycombinator.com/companies/projectx",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/projectx.json"
   }
 ]

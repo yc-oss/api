@@ -94,7 +94,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6df4cc84a7b27db9480fd2d7bff6fa62ff56aacb.png",
     "website": "http://hackerrank.com",
-    "all_locations": "Mountain View, CA, USA; Remote",
+    "all_locations": "Santa Clara, CA, USA",
     "long_description": "At HackerRank, our mission is to change the world to value skills over pedigree.\r\n\r\nThousands of companies use our AI-powered platform to hire next-gen developers based on what they can do - not just what’s on their resume. From hiring to upskilling, we help teams identify and grow technical talent at every stage of the developer journey.\r\n\r\nOver 26 million developers have joined the HackerRank Community to learn and certify their skills, practice interviewing, and discover relevant jobs.\r\n",
     "one_liner": "Change the world to value skills over pedigree",
     "team_size": 300,
@@ -117,9 +117,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
+      "America / Canada"
     ],
     "stage": "Growth",
     "app_video_public": false,
@@ -172,7 +170,7 @@
     "former_names": [],
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "http://snaptalent.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "London; San Francisco, CA, USA",
     "long_description": "Snaptalent powers a distributed job advertisement network primarily meant for developer listings.\n\nJob ads submitted to Snaptalent are displayed on the service's participating websites. A unique feature about the network is that it will detect the IP addresses of website visitors and attempt to identify whether they work for a particular company or attend a particular university. It will then serve up targeted ads that have been designated for, say, employees of Google or students of Carnegie Mellon.",
     "one_liner": "",
     "team_size": 2,
@@ -191,7 +189,9 @@
       "Recruiting and Talent"
     ],
     "regions": [
+      "United Kingdom",
       "United States of America",
+      "Europe",
       "America / Canada"
     ],
     "stage": "Early",
@@ -209,7 +209,7 @@
     "former_names": [],
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "http://joberator.com",
-    "all_locations": "Los Angeles, CA, USA",
+    "all_locations": "CA, USA; Los Angeles, CA, USA",
     "long_description": "Joberator was formed to tackle head-on the growing challenges and connection-gap issues in the STEM employment and recruitment marketplace. Our goal is to help the right talent and right employers connect together through accelerated, streamlined and STEM-specialized search / matching tools and features.\n\nWith a Centralized end-to-end platform where Graduates and Professionals can showcase their skills, plus access a unique connection-pipeline that empowers job seekers at all levels and in every Science, Technology, Engineering and Math fields - to 'Pinpoint' the right businesses who have the highest STEM employment and hiring demand for their skills, thus creating improved and increased hiring opportunities.\n\nEmployers can post jobs with fully integrated social recruitment features plus extended reach job distribution channels, and search profiles of top-tier talent members, connect privately, arrange interviews and hire directly on the Joberator platform.\n\nBoth Job seekers and Employers can create a Free account.",
     "one_liner": "",
     "team_size": 2,
@@ -398,48 +398,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hackermeter",
     "api": "https://yc-oss.github.io/api/batches/summer-2013/hackermeter.json"
-  },
-  {
-    "id": 703,
-    "name": "UserGems",
-    "slug": "usergems",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4871a9dcb74ef8a41b1532167a4c54c5ba5b7354.png",
-    "website": "https://www.usergems.com",
-    "all_locations": "Austria; Remote",
-    "long_description": "UserGems is an AI-driven prospecting solution for revenue teams to drive bigger pipelines, faster sales cycles, and larger deals.\r\n\r\nWhenever your customers change their jobs, UserGems automatically surfaces them as new leads to your sales reps directly in Salesforce. This enables reps to close more deals, faster.\r\n\r\nLeveraging machine learning, UserGems automatically identifies other prospects that match your best customers. That means you get a complete, up-to-date list of leads that match your ICP, persona and other key criteria so that reps spend less time sourcing leads, and more time selling.",
-    "one_liner": "AI-powered sales solution based on your best customers",
-    "team_size": 60,
-    "industry": "B2B",
-    "subindustry": "B2B -> Recruiting and Talent",
-    "launched_at": 1398907983,
-    "tags": [
-      "B2B",
-      "Sales"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2014",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Recruiting and Talent"
-    ],
-    "regions": [
-      "Austria",
-      "Europe",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/usergems",
-    "api": "https://yc-oss.github.io/api/batches/summer-2014/usergems.json"
   },
   {
     "id": 744,
@@ -1118,18 +1076,19 @@
   },
   {
     "id": 1705,
-    "name": "Candidate.ly",
-    "slug": "candidate-ly",
+    "name": "Candidately",
+    "slug": "candidately",
     "former_names": [
       "Gustav",
       "Candidately",
       "Gustav",
-      "Candidately"
+      "Candidately",
+      "Candidate.ly"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2eb845253b30b7d03651816b8bbbf27b80eaffa2.png",
-    "website": "https://candidate.ly/",
-    "all_locations": "New York, NY, USA; Vienna, Vienna, Austria; Remote",
-    "long_description": "Candidately simplifies the process of sharing candidate resumes between staffing firms and their clients. Instead of relying on email attachments, Candidately offers a collaborative space where staffing firms can submit their top candidates, receive prompt client feedback, track client activity on candidate profiles, and increase the number of successful placements.",
+    "website": "https://www.candidately.com/",
+    "all_locations": "New York, NY, USA; Remote",
+    "long_description": "Candidately is the AI workspace for recruitment agencies. We sit on top of Bullhorn and other major ATS platforms and give every recruiter on the team the speed and reach of the best biller in the building.\r\n\r\nOne platform, five products. Rediscovery uses semantic search to find candidates the ATS already has but Boolean search can't surface. Sourcing reaches 250+ million web profiles when the database falls short. Resume Builder turns a raw CV into a branded, client-ready document in seconds. Client Portal replaces email threads with a white-labeled space where hiring managers review, shortlist, and respond. Talent Marketplace puts a searchable candidate directory on agency websites so clients come to you.\r\n\r\nAgencies have spent years building candidate databases worth millions. Candidately makes that investment actually pay off, from first search to final placement.",
     "one_liner": "The digital storefront for staffing and recruiting teams.",
     "team_size": 9,
     "industry": "B2B",
@@ -1153,9 +1112,7 @@
     ],
     "regions": [
       "United States of America",
-      "Austria",
       "America / Canada",
-      "Europe",
       "Remote",
       "Fully Remote"
     ],
@@ -1164,8 +1121,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/candidate-ly",
-    "api": "https://yc-oss.github.io/api/batches/summer-2017/candidate-ly.json"
+    "url": "https://www.ycombinator.com/companies/candidately",
+    "api": "https://yc-oss.github.io/api/batches/summer-2017/candidately.json"
   },
   {
     "id": 1728,
@@ -1221,7 +1178,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/69b6a37b7adaa6a16d3c4640af935a47c7002a49.png",
     "website": "https://www.keyvalues.com",
-    "all_locations": "",
+    "all_locations": "WA, USA",
     "long_description": "",
     "one_liner": "Helping software developers find teams that share their values. ",
     "team_size": 1,
@@ -1243,7 +1200,8 @@
       "Recruiting and Talent"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1573,7 +1531,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f5f05f68a4cb7e62b9cdc1958e83f4e17257a68.png",
     "website": "https://www.gotlanded.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "NY, USA",
     "long_description": "",
     "one_liner": "Generative AI for frontline worker hiring",
     "team_size": 50,
@@ -1661,7 +1619,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f909fcfa4b1bfac3a61c82e3d1b8ee42e93bf79.png",
     "website": "https://dover.com",
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "CA, USA; Remote",
     "long_description": "Dover is on a mission to help every company build an amazing team. Every founder and business leader should have the tools and support they need to hire the right talent — fast.\r\n\r\nDover combines powerful free software with flexible recruiting services to help startups and growing companies scale efficiently. Dover is built around two core offerings:\r\n\r\nFree Recruiting Tools:\r\nDover's ATS is a lightweight but powerful applicant tracking system built for busy founders and hiring managers. It’s as easy to use as a spreadsheet but includes everything you need to manage your first 100 hires — without the bloat of traditional ATS platforms. Hundreds of companies use Dover’s free tools to streamline their hiring process and stay in control as they grow.\r\n\r\nRecruiting Partner Marketplace:\r\nWhen companies need help, Dover connects them with top-tier, fractional recruiters through our on-demand marketplace. Recruiting Partners are experienced, startup-savvy professionals who can step in quickly to manage sourcing, interviewing, closing, and more — without the cost or commitment of an agency or full-time hire.\r\n\r\nDover went through Y Combinator in 2019, and today 500+ companies use our product to run a better hiring process. We've raised $23M from top VCs. ",
     "one_liner": "Your startup's all-in-one recruiting solution",
     "team_size": 12,
@@ -1739,22 +1697,26 @@
   },
   {
     "id": 12648,
-    "name": "Flo Recruit",
-    "slug": "flo-recruit",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/784e322314b424b51a956f67ca758620ef053f13.png",
-    "website": "https://florecruit.com",
+    "name": "Flo",
+    "slug": "flo",
+    "former_names": [
+      "Flo Recruit"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d34ba9366f64d6a8b9a2854394d58a3073d1af15.png",
+    "website": "https://joinflo.com",
     "all_locations": "Austin, TX, USA",
     "long_description": "",
-    "one_liner": "We help law firms hire the best legal talent faster",
+    "one_liner": "The talent platform for legal",
     "team_size": 50,
     "industry": "B2B",
     "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1556761785,
     "tags": [
-      "Recruiting",
+      "Marketplace",
       "Legal",
-      "LegalTech"
+      "LegalTech",
+      "HR Tech",
+      "Talent Acquisition"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1777,8 +1739,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/flo-recruit",
-    "api": "https://yc-oss.github.io/api/batches/summer-2019/flo-recruit.json"
+    "url": "https://www.ycombinator.com/companies/flo",
+    "api": "https://yc-oss.github.io/api/batches/summer-2019/flo.json"
   },
   {
     "id": 12659,
@@ -2280,7 +2242,7 @@
     "slug": "weekday",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/abebec09c171112b2f825b920689d4885969573a.png",
-    "website": "https://weekdayworks.com/",
+    "website": "https://weekday.works",
     "all_locations": "Bengaluru, KA, India; Remote",
     "long_description": "At Weekday, we have built the most accurate database of talent (250mn+ people in US & India with contact data), we run outbound campaigns to identify top talent for any role you might be hiring for. We generate the highest response rates (30-40%) on our campaigns making sourcing talent as easy as making a job posting ",
     "one_liner": "AI recruiter that runs outbound sourcing campaigns to find top talent",
@@ -2602,16 +2564,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Juicebox is on a mission to help teams win the talent war.\r\n\r\nIn the age of AI, human ingenuity is the ultimate scarce resource. Recruiting is a zero-sum game where you either compete or lose.\r\n\r\nTeams at Ramp, Perplexity, and leading AI labs use Juicebox to power their hiring, alongside 3,000+ customers from early-stage startups to Fortune 500 companies.\r\n\r\nWe’ve crossed $10M in ARR with 20%+ monthly growth, powering thousands of searches every day and making Juicebox one of the fastest-growing AI SaaS companies in the world.\r\n\r\nJuicebox has raised $36M in funding, including a $30M Series A led by Sequoia Capital. Additional investors in Juicebox include Coatue, NFDG, Lux Capital, Y Combinator, and BOND Capital.",
     "one_liner": "AI-powered talent sourcing for recruiters",
-    "team_size": 35,
+    "team_size": 50,
     "industry": "B2B",
     "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1659905940,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "B2B",
       "Recruiting",
-      "HR Tech",
-      "AI"
+      "HR Tech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2658,10 +2620,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Recruiting and Talent"
@@ -2685,7 +2647,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e638279869f7de4ca5752835249b8d2c8711f432.png",
     "website": "https://www.arcimus.com/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "NY, USA",
     "long_description": "We send founders and recruiting teams  a steady flow of engineers filtered with real engineering judgment.",
     "one_liner": "A stream of engineering candidates who ship.",
     "team_size": 2,
@@ -2772,18 +2734,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea398f420376203b7d9380b70500e67185b63403.png",
     "website": "https://alex.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Alex is an agentic AI recruiter for the future of hiring. Companies use us to get the best hiring signal on their applicant pool and hire in a fraction of the time.\r\nOur AI recruiter has a live conversation over a video call with each of your candidates based on the interview questions you choose or that are recommended based on the job description. During the interview, our AI asks personalized follow-up questions in real-time based on the candidate's responses.\r\nOur AI recruiter can be customized to your roles in minutes and has already conducted thousands of interviews across engineering, IT, retail, hospitality, and more.",
+    "long_description": "Alex is an agentic AI recruiter for the future of hiring. Companies use us to get the best hiring signal on their applicant pool and hire in a fraction of the time.\r\n\r\nOur AI recruiter, Alex, has a live conversation over a video call with each of your candidates based on the interview questions you choose or that are recommended based on the job description. During the interview, Alex asks personalized follow-up questions in real-time based on the candidate's responses.\r\n\r\nAlex can be customized to your roles in minutes and has already conducted thousands of interviews across engineering, IT, retail, hospitality, and more.",
     "one_liner": "Your AI recruiter for interviewing and identifying the best talent",
     "team_size": 30,
     "industry": "B2B",
     "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1703103445,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Recruiting",
-      "HR Tech",
-      "AI"
+      "HR Tech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2814,7 +2776,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe703a7786db01d44cd03aafbbbf2dd7b0cc99cf.png",
     "website": "https://lightscreen.ai",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Lightscreen’s voice + video AI interviewer enables companies to identify and invest in genuinely skilled candidates. It's already being used by high-growth startups and recruiting agencies to screen technical candidates. \r\n\r\nWe provide companies with a voicebot that can run a full-length technical interview, does smart interruptions, and multi-modal cheating detection. The AI provides the company rubric-based, rich candidate evaluation in minutes and can be fully customized to ask questions and evaluate based on the company's needs. ",
     "one_liner": "Voice + video AI interviewer",
     "team_size": 2,
@@ -2833,7 +2795,8 @@
       "Recruiting and Talent"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2842,6 +2805,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lightscreen-ai",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/lightscreen-ai.json"
+  },
+  {
+    "id": 30176,
+    "name": "Outship",
+    "slug": "outship",
+    "former_names": [
+      "Trace"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/500ff8202faf0a9f25c1a4ee0f51ff6e2499c9b6.png",
+    "website": "https://outship.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Software engineering is being rewritten in real time, and hiring is getting pulled along for the ride. \r\n\r\nWith tools like Claude Code and Cursor, being able to ship is the new baseline. The signal for finding extraordinary engineers is the process: how candidates break down work, steer the agent, make tradeoffs, and recover when things break. \r\n\r\nOutship is a recruiting tool that allows you to capture and analyze that process alongside the final code so you can hire with confidence.\r\n\r\nCandidates work in a cloud workspace that's ready to code. We handle the environment setup and secret management to give you a level testing ground.",
+    "one_liner": "Hire amazing engineers by seeing how they use AI",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Recruiting and Talent",
+    "launched_at": 1738662568,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Recruiting"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Recruiting and Talent"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/outship",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/outship.json"
   },
   {
     "id": 30183,
@@ -2938,15 +2944,15 @@
     "website": "https://fromolive.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "The context layer for your team",
+    "one_liner": "Curated stories, every day",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1740018718,
     "tags": [
-      "Artificial Intelligence",
       "Productivity",
-      "Team Collaboration"
+      "Team Collaboration",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2962,7 +2968,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -2980,16 +2986,16 @@
     "all_locations": "",
     "long_description": "Spott is the first AI-native ATS/CRM for recruiting & staffing firms. We built Spott because existing recruitment platforms require extensive manual work, are clunky to use, rely on fragmented add-ons, and are not designed for AI adoption.\r\n\r\nSpott combines everything recruiting firms need, from a full ATS & CRM to AI agents across the entire workflow, into one AI-native solution. It enables recruiters to focus on what matters most and close more placements.",
     "one_liner": "AI-native ATS/CRM for recruiting firms",
-    "team_size": 20,
+    "team_size": 25,
     "industry": "B2B",
     "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1737184010,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "HR Tech",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3011,50 +3017,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/spott",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/spott.json"
-  },
-  {
-    "id": 30462,
-    "name": "Clado",
-    "slug": "clado",
-    "former_names": [
-      "Linkd"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a95219f5a96e1b807c46a92b589b396703516e1.png",
-    "website": "https://clado.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Clado puts 800 million+ people profiles (and growing) at your fingertips with simple, agentic search. If you’re interested in a global people search for sales, spreadsheets, hiring, and more, try our product at clado.ai",
-    "one_liner": "Deep Research for People",
-    "team_size": 7,
-    "industry": "B2B",
-    "subindustry": "B2B -> Recruiting and Talent",
-    "launched_at": 1742722403,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Recruiting",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Recruiting and Talent"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/clado",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/clado.json"
   },
   {
     "id": 30796,
@@ -3098,17 +3060,18 @@
   },
   {
     "id": 30944,
-    "name": "HireGlide",
-    "slug": "hireglide",
+    "name": "Prism",
+    "slug": "tryprism",
     "former_names": [
-      "Grappl"
+      "Grappl",
+      "HireGlide"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f43313bb066e1501a71f08b9bb9435ada83f0e9c.png",
-    "website": "https://www.hireglide.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "HireGlide is an AI job board where companies post roles and candidates either apply directly or take a generalized assessment to be matched to opportunities. We screen everyone and pass companies the candidates who fit, and anyone who doesn't fit one role can be redirected to others where they're a better fit.\r\n\r\n",
-    "one_liner": "The AI-native job board",
-    "team_size": 2,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e52603aa2143dd9017a5e541c9233008c5afe63.png",
+    "website": "https://tryprism.com/",
+    "all_locations": "London",
+    "long_description": "Prism is an AI-native recruiting agency. We use software and agents to find companies better people faster.\r\n\r\n",
+    "one_liner": "AI-native recruiting agency",
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1762295048,
@@ -3122,7 +3085,50 @@
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
-    "batch": "Fall 2025",
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Recruiting and Talent"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tryprism",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/tryprism.json"
+  },
+  {
+    "id": 31363,
+    "name": "Saffron",
+    "slug": "saffron",
+    "former_names": [
+      "Saffron AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d3143a0fc23ce4251d146cce9ebb5799fc664317.png",
+    "website": "https://www.trysaffron.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Saffron allows companies to quickly evaluate how well software engineers use AI to code. \r\n\r\nThe way engineers write code has fundamentally changed, but the way companies evaluate them hasn't. Saffron gives teams full visibility into how candidates use AI agents to build, debug, and ship real features on an actual codebase. \r\n\r\nSaffron was founded by Robert Chondro (formerly MIT and Jane Street), Jerry Yao (Stanford and Jane Street), and Kazuma Choji (Harvey Mudd, published in NeurIPS and ICML), and is backed by Y Combinator (P26) and Afore Capital. ",
+    "one_liner": "Helping your company find 10x engineers. ",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Recruiting and Talent",
+    "launched_at": 1773810768,
+    "tags": [
+      "SaaS",
+      "Human Resources",
+      "HR Tech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
     "status": "Active",
     "industries": [
       "B2B",
@@ -3137,7 +3143,7 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/hireglide",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/hireglide.json"
+    "url": "https://www.ycombinator.com/companies/saffron",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/saffron.json"
   }
 ]

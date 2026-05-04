@@ -251,7 +251,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/17547ff6e0fe5d75c99f92fdc3b9c13fa6712bd5.png",
     "website": "https://www.aptible.com",
-    "all_locations": "San Francisco, CA, USA; Toronto, ON, Canada; New York, NY, USA; Philadelphia, PA, USA; Boston, MA, USA; Indianapolis, IN, USA; Remote",
+    "all_locations": "NY, USA; Toronto, ON, Canada; New York, NY, USA; Philadelphia, PA, USA; Boston, MA, USA; Indianapolis, IN, USA; Remote",
     "long_description": "At Aptible, we envision a world where developers achieve more with less infrastructure. We’re building the platform that empowers developers at companies of all stages of development to move beyond the traditional method of managing infrastructure—DIY with expert infrastructure and platform engineers on AWS, GCP, or Azure. We’ve done this through our secure, compliant, reliable, and scalable Platform as a Service that’s been used by thousand of developers, hundreds of companies, and dozens of publicly traded and unicorn companies since 2013.",
     "one_liner": "The No Infrastructure Platform as a Service",
     "team_size": 25,
@@ -416,6 +416,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sixa",
     "api": "https://yc-oss.github.io/api/batches/summer-2016/sixa.json"
+  },
+  {
+    "id": 1510,
+    "name": "FastJVM",
+    "slug": "fastjvm",
+    "former_names": [
+      "Manycore",
+      "Manycore.io",
+      "Manycore",
+      "Inboxbooster"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d20c1dd1d05527f51041212802e5e737587823ff.png",
+    "website": "https://fastjvm.com",
+    "all_locations": "Palo Alto, CA, USA",
+    "long_description": "FastJVM analyzes JVM bytecode and applies provably safe optimizations such as automatic parallelization.\r\n\r\nOn some workloads it already delivers up to 10× speedups; the goal is to generalize these gains across the JVM.",
+    "one_liner": "Making the JVM faster",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1478578235,
+    "tags": [
+      "DevOps",
+      "Cloud Computing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2017",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/fastjvm",
+    "api": "https://yc-oss.github.io/api/batches/winter-2017/fastjvm.json"
   },
   {
     "id": 1536,
@@ -968,7 +1015,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -1235,7 +1282,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -1254,51 +1301,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ubicloud",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/ubicloud.json"
-  },
-  {
-    "id": 29266,
-    "name": "nCompass Technologies",
-    "slug": "ncompass-technologies",
-    "former_names": [
-      "nCompass"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ec22cfec2eb1602e4ae48a85862a05e4be149771.png",
-    "website": "https://www.ncompass.tech",
-    "all_locations": "Remote",
-    "long_description": "nCompass is a platform for acceleration and hosting of open-source and custom AI models. We provide low-latency AI deployment without rate-limiting you. All with just one line of code.",
-    "one_liner": "Deploy hardware accelerated AI models with only one line of code",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1708296726,
-    "tags": [
-      "Hardware",
-      "Open Source",
-      "API",
-      "Cloud Computing",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ncompass-technologies",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/ncompass-technologies.json"
   },
   {
     "id": 29320,
@@ -1451,11 +1453,11 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1723245936,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Data Science",
       "Cloud Computing",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1472,7 +1474,7 @@
       "America / Canada"
     ],
     "stage": "Early",
-    "app_video_public": true,
+    "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": true,
@@ -1491,18 +1493,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9c9b9996bb500ee171134f1e1a0a83f5d48bec3.png",
     "website": "https://www.starcloud.com/",
     "all_locations": "Redmond, WA, USA",
-    "long_description": "Starcloud is building data centers in space, initially to provide GPU compute to other satellites, and later to address the rapidly growing demand for energy caused by the deployment of AI. Falling launch costs give Starcloud access to abundant energy, radiative cooling, and the ability to rapidly scale in space.\r\n\r\nIn November 2025, just 21 months after founding, Starcloud launched its first satellite, Starcloud-1 to space. This has an Nvidia H100, which is 100x more powerful GPU than has ever been operated in space before. With this, they became the first entity to train an LLM in space and the first to run a version of Gemini in space. Starcloud will soon also run high-powered inference on Capella SAR data on orbit for the first time. \r\n\r\nStarcloud is launching its second satellite in October 2026, which will have 100x the power generation of the first and generate more cash than it costs to build and launch. Starcloud expects that within 10 years, most new data centers will be being built in space for the energy.",
+    "long_description": "Starcloud is building data centers in space, initially to provide GPU compute to other satellites, and later to address the rapidly growing demand for energy caused by the deployment of AI. Falling launch costs give Starcloud access to abundant energy, radiative cooling, and the ability to rapidly scale in space.\r\n\r\nIn November 2025, just 21 months after founding, Starcloud launched its first satellite, Starcloud-1 to space. This has an Nvidia H100, which is 100x more powerful GPU than has ever been operated in space before. With this, they became the first entity to train an LLM in space and the first to run a version of Gemini in space. Starcloud will soon also run high-powered inference on Capella SAR data on orbit for the first time. \r\n\r\nStarcloud is launching its second satellite in October 2026, which will have 100x the power generation of the first and generate more cash than it costs to build and launch. Starcloud expects that within 10 years, most new data centers will be being built in space for the energy.\r\n\r\nIn March 2026, Starcloud raised a $170M Series A led by Benchmark, becoming the fastest unicorn in YC history, just 17 months after demo day.",
     "one_liner": "Data centers in space",
     "team_size": 12,
     "industry": "Industrials",
     "subindustry": "Industrials -> Aviation and Space",
     "launched_at": 1718841179,
     "tags": [
-      "Artificial Intelligence",
       "Hard Tech",
       "Satellites",
       "Climate",
-      "Cloud Computing"
+      "Cloud Computing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1618,7 +1620,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/79bd0c6f85962c1282260ab60adb0462fdb87ec8.png",
     "website": "https://tensorpool.dev",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Our CLI makes ML model training effortless - just describe your job, and we handle GPU orchestration and execution at half the cost of major cloud providers.",
     "one_liner": "Vercel For GPUs",
     "team_size": 3,
@@ -1643,7 +1645,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1670,9 +1673,10 @@
     "subindustry": "B2B",
     "launched_at": 1745276338,
     "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
       "Cloud Computing",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1707,7 +1711,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Aravolta provides a single pane of glass software for data centers to increase uptime, reduce costs, and improve performance.\r\n\r\nA single utility node onboards every asset within an hour and detects hardware failures, hotspots, and other issues.\r\n\r\nIt also generates reports on important metrics like Power Usage Effectiveness (PUE), energy metering, resource utilization, and much more. ",
     "one_liner": "Software to monitor, control, and optimize data centers.",
-    "team_size": 9,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1746569409,
@@ -1739,38 +1743,35 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/aravolta.json"
   },
   {
-    "id": 30628,
-    "name": "datafruit",
-    "slug": "datafruit",
-    "former_names": [
-      "Lychee",
-      "DataFruit",
-      "datafruit",
-      "Datafruit"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0545fc19adebb3a29cdf7c671311902833861e8.png",
-    "website": "https://datafruit.dev/",
+    "id": 30456,
+    "name": "Tinfoil",
+    "slug": "tinfoil",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1fb98a08722d6b4a90ad914611f5c3579c0f3558.png",
+    "website": "https://tinfoil.sh",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Datafruit is the first agentic DevOps engineer.\r\n\r\nIt understands your deployment standards, design docs, and DevOps practices, then reasons across them to reduce cloud waste, prevent deployment delays, and eliminate wasted time across the stack. \r\n\r\nReach out to us: founders@datafruit.dev",
-    "one_liner": "AI DevOps Engineer",
-    "team_size": 4,
+    "long_description": "Tinfoil makes it easy to make your AI workloads secure and provably private. You get the privacy of on-prem deployments, while running on the cloud. It's like end-to-end encrypted messaging but for your AI applications. \r\n\r\nWe’ve built a full-stack platform on top of the latest NVIDIA GPUs offering confidential computing capabilities, meaning that you don’t have to trade off performance for privacy. We integrate a suite of recent advances in secure hardware technologies, in particular NVIDIA’s confidential compute mode available on Hopper and Blackwell. When combined with Tinfoil’s software stack, companies can prove their security claims like \"we can't see and don’t log your queries.” Tinfoil guarantees that all data always stays private and cannot be accessed by anyone other than the end user -- not even by Tinfoil or the cloud provider it’s processed on. Everything can be made end-to-end encrypted and private with Tinfoil. \r\n\r\nThe founding team combines deep academic and industry experience in security and Internet protocols. Tanya was previously a systems engineer at Cloudflare, where she built Internet security protocols used by billions, and contributed to the Workers AI platform. Jules and Sacha hold PhDs from MIT, where they worked on secure hardware, cryptography, and privacy technologies. Jules has also worked at NVIDIA on their confidential computing team. Tinfoil was born from our personal frustration with the false choice between access to powerful AI and the massive data privacy implications of deeply integrated AI.\r\n\r\nAI is a universal tool that becomes part of our personal lives and business workflows. In the process, it needs access to all personal, private, and proprietary data. Right now, the only solutions are data processing agreements (i.e., \"pinky promises\"), band-aids like PII redaction that don't work in practice, or AI locally/on-prem, which doesn't scale. Tinfoil promises to unlock significantly deeper AI adoption and integrations by making it easy to obtain true privacy, just as TLS on the Internet enabled e-commerce to flourish by securing credit cards on the network.\r\n\r\nToday we offer several self-serve products: \r\n\r\n- A consumer-facing chatbot that keeps your chats end-to-end encrypted and provides zero-access inference with powerful open-source models like Kimi, Gemma, and GLM. You can try it out for free: https://chat.tinfoil.sh\r\n\r\n- A developer-friendly API that allows you to build AI applications where all user data is kept private and we as the inference provider cannot see any of the prompts. Our SDKs make sure that all relevant security measures are checked for you before even sending a single byte of data. Learn more:https://docs.tinfoil.sh \r\n\r\n- An advanced confidential computing platform we call Tinfoil Containers that allows you to secure any Docker application. We make it easy to deploy your own logic and applications inside secure enclaves and prove to the world what code is running inside. This enables attested workloads and publicly verifiable privacy policies for sensitive applications. Learn more: https://tinfoil.sh/containers ",
+    "one_liner": "Encrypted AI with verifiable privacy",
+    "team_size": 5,
     "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1755048308,
+    "subindustry": "B2B -> Security",
+    "launched_at": 1744845895,
     "tags": [
-      "DevOps",
-      "Cloud Computing",
-      "Infrastructure"
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Security",
+      "Privacy",
+      "Cloud Computing"
     ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
-    "batch": "Summer 2025",
+    "batch": "Spring 2025",
     "status": "Active",
     "industries": [
       "B2B",
-      "Engineering, Product and Design"
+      "Security"
     ],
     "regions": [
       "United States of America",
@@ -1781,8 +1782,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/datafruit",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/datafruit.json"
+    "url": "https://www.ycombinator.com/companies/tinfoil",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/tinfoil.json"
   },
   {
     "id": 30649,
@@ -1792,17 +1793,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/18234851431f8da18d1f087abc867a57412f1a97.png",
     "website": "https://getlilac.com",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Lilac taps idle GPUs from cloud providers and enterprises, giving startups and researchers cheaper compute while letting companies monetize unused capacity. Fully automated with Kubernetes integration.",
-    "one_liner": "Spot GPUs that use idle GPUs from enterprises",
-    "team_size": 2,
+    "long_description": "Lilac taps idle GPUs from cloud providers and enterprises, giving startups and researchers cheaper inference while letting companies monetize unused capacity. Fully automated with Kubernetes integration.",
+    "one_liner": "We automatically monetize idle GPUs",
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1754345371,
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
       "Cloud Computing",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1829,10 +1830,12 @@
   },
   {
     "id": 30762,
-    "name": "Kernel",
+    "name": "KERNEL",
     "slug": "kernel",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/99f219c3bf45966a5083306e113e41c33e2a056a.png",
+    "former_names": [
+      "Kernel"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b651ae4215e55c6eec3b366c18c9dcdd7838a97.png",
     "website": "https://www.kernel.sh",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Kernel is crazy fast, open source infra for AI agents to access the internet 🧠🕸️\r\n- Built on unikernels for crazy fast cold starts and low resource usage\r\n- Sub-150ms cold starts on managed headful browsers\r\n- Built-in stealth mode with residential proxies and automatic CAPTCHA solving\r\n- Full observability: session recording, live view, and full logs\r\n- Persistent sessions that maintain cookies and auth across invocations\r\n- Native support for all browser and computer use frameworks\r\n- SOC 2 compliant and HIPAA-ready\r\n\r\nTrusted by Cash App, Rye, and 1000+ others. Backed by Accel & Y Combinator (S25).",
@@ -1876,9 +1879,9 @@
     "name": "Luminal",
     "slug": "luminal",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a913a7346d718d968cd73ae55003ff70433afe98.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/200fe1fa3e40bd9aed419582490f17ed6cf00c37.png",
     "website": "https://luminal.com",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Luminal builds an ML framework and compiler that generates GPU code.\r\nOur stack 10x's model speed while simplifying deployment and cutting idle GPU costs\r\n\r\nGithub: https://github.com/luminal-ai/luminal\r\nDiscord: https://discord.gg/APjuwHAbGy",
     "one_liner": "Making AI run fast on any hardware.",
     "team_size": 3,
@@ -1887,9 +1890,9 @@
     "launched_at": 1752295982,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
       "Developer Tools",
-      "Cloud Computing"
+      "Cloud Computing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1902,7 +1905,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1954,5 +1958,135 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/kestrel-ai",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/kestrel-ai.json"
+  },
+  {
+    "id": 31448,
+    "name": "smol machines",
+    "slug": "smol-machines",
+    "former_names": [
+      "Smol Machines"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c9db625bd34a051e8617673268bb5d9659339ed.png",
+    "website": "https://smolmachines.com/",
+    "all_locations": "",
+    "long_description": "Smol machines solve the problem of \"but app works on my machine\" by shipping the machine.\r\n\r\nSmol machine enables devs to ship a lightweight virtual machine with any software, similar to how Electron ships an entire browser with the web app. ",
+    "one_liner": "Ship software faster with portable, self contained virtual machines.",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1775148410,
+    "tags": [
+      "Cloud Computing",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/smol-machines",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/smol-machines.json"
+  },
+  {
+    "id": 31459,
+    "name": "Zibra Labs",
+    "slug": "zibra-labs",
+    "former_names": [
+      "TBD. We don't have a name yet."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/561de55fc1ba8b5c7254d0ad9eed2d656139b041.png",
+    "website": "https://zibralabs.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Quant research is generating candidate strategies orders of magnitude faster than backtesting infrastructure can evaluate them. AI has further accelerated alpha research from a handful of signals per quarter to hundreds per day. The bottleneck has moved from researcher time to compute throughput.\r\n\r\nWe're building large HPC clusters (100 - 50,000 nodes) that can run up to 6.4M tasks in parallel across multiple cloud providers on spot instances.\r\n\r\nOur goal is to make backtesting strategies simple, fast, and cheap at scale.",
+    "one_liner": "HPC for Quant Trading Firms running backtesting at scale.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1777682633,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Cloud Computing",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zibra-labs",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/zibra-labs.json"
+  },
+  {
+    "id": 31507,
+    "name": "ProjectX",
+    "slug": "projectx",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f60ad803d2e9b0079d1a0e2e9afd248df7aafcd.png",
+    "website": "https://www.projectx.cloud/",
+    "all_locations": "CA, USA",
+    "long_description": "Every computer ever made forces you to do one thing at a time. One cursor. One keyboard. One Hardware. One app in focus. Fifty years. Nobody questioned it.\r\n\r\nWe did. We started over.\r\n\r\nWe built InfinityOS, a fundamentally new computer OS on the cloud from ground up.\r\n\r\nInfinity runs every app in its own independent computer -- own GPU, own input, own environment. Windows and Linux in the same session. Humans and agents working side by side. No concurrency ceiling. Cold start in seconds. One URL.",
+    "one_liner": "Infinity: the first OS where humans and agents work with no limits.",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1773453080,
+    "tags": [
+      "Artificial Intelligence",
+      "Marketplace",
+      "DevOps",
+      "Cloud Computing",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/projectx",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/projectx.json"
   }
 ]

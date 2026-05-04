@@ -263,7 +263,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f4e9ac60aa5b0583ce914c6dee2848e5b72c4b4f.png",
     "website": "https://www.reviserobotics.com/",
-    "all_locations": "",
+    "all_locations": "NY, USA",
     "long_description": "E-waste recycling facilities spend most of their time and effort sifting through discarded electronics, searching for valuable devices, refurbishing them, and reselling them in second-hand markets.\r\n\r\nOur first product is an AI-enabled robotic system that integrates with these facilities to assess and refurbish hundreds of laptops a day without any human intervention. The system tests laptops, wipes their hard drives, photographs them, and posts them on online marketplaces for resale, regardless of model, manufacturer, or operating system.",
     "one_liner": "Automating refurbishment of $1T in consumer electronics",
     "team_size": 3,
@@ -286,7 +286,8 @@
       "Manufacturing and Robotics"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": true,
@@ -384,85 +385,43 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/powermatrix.json"
   },
   {
-    "id": 31062,
-    "name": "Hlabs",
-    "slug": "hlabs",
+    "id": 31366,
+    "name": "Nine Fives",
+    "slug": "nine-fives",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2007aefe34bda2618000c044128494ad2cb4af5f.png",
-    "website": "https://www.hlaboratories.com",
-    "all_locations": "Austin, TX, USA",
-    "long_description": "HLabs is making an industrial supply chain for building robots in the USA including electronics and actuators.\r\n\r\nRobotics is going to be one of the largest industries the world has ever seen. Teams have to buy what they can from overseas and then build everything else in house just to get something to move. HLabs is producing a plug and play set of robotic primitives to accelerate the early development and then working with larger scale production robots for bespoke designs.\r\n\r\nEarly customers span across household robotics, humanoids, robot arms, quadrupeds, and defense.\r\n\r\nHlabs is founded by Paul, a second time YC founder who also participated in the W21 batch with Mystic. He ran Mystic as CEO for 6 years.\r\n\r\n",
-    "one_liner": "Making an industrial supply chain for building robots in the USA",
-    "team_size": 1,
-    "industry": "Industrials",
-    "subindustry": "Industrials",
-    "launched_at": 1763422443,
-    "tags": [
-      "Artificial Intelligence",
-      "Hardware",
-      "Robotics",
-      "Electronics"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "Industrials"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/hlabs",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/hlabs.json"
-  },
-  {
-    "id": 31107,
-    "name": "BaseFrame",
-    "slug": "baseframe",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/13bf1c04a6815e7f5e0f651298fe715b7395428d.png",
-    "website": "https://baseframe.co",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "BaseFrame helps hardware teams build more efficiently by identifying design gaps, data-driven tradeoffs, and component availability issues before the first board is spun, catching fatal mistakes while they are still cheap to fix.\r\n\r\nWe want to speed-up hardware teams so that they can build the cool innovations they are trying to bring to life with fewer bottlenecks.\r\n\r\nThe current hardware workflow is a broken sequence of handoffs: you finalize a design and send it to procurement, only to discover weeks later that there was an oversight or a critical component has a massive lead time. \r\n\r\nHow It Works\r\n• Project Scoping: Specialized AI agents ask you questions to scope out the project and uncover gaps, drilling down with follow up questions if needed or handing off to the next agent when sufficient. It provides suggestions and recommendations for each question, making sure we have thought about everything early on. \r\n• Validations: Once the questions are answered, we consolidate them into a document and run parallel agents to once again find issues, contradictions, or areas of improvement. \r\n• BOM Generation: Our AI splits the scope into a block diagram and generates a Bill of Materials (BOM) for each by parsing diagrams and tables from datasheets, getting price and lead time data from top vendors, and internal vendor communications. \r\n• Versioning & Parallel Agents: You can branch designs and use parallel agents to simulate multiple architectures simultaneously, revealing quantitative tradeoffs in cost, price, and lead times \r\n\r\nWe met during our first week of college and became roommates at Berkeley, and are excited to make physical innovation easier!\r\n",
-    "one_liner": "AI agents for hardware design that catch risks and tradeoffs early",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12cace5da5d5e5852e19a386d33613f3f8222281.png",
+    "website": "https://ninefives.com/",
+    "all_locations": "",
+    "long_description": "",
+    "one_liner": "Simple, Networked, Driverless, RF Test Equipment",
     "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1768518655,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1775260036,
     "tags": [
-      "Hardware",
-      "Workflow Automation",
+      "Radar",
+      "Telecommunications",
       "Electronics"
     ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
-    "batch": "Winter 2026",
+    "batch": "Spring 2026",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Engineering, Product and Design"
+      "Industrials",
+      "Manufacturing and Robotics"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/baseframe",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/baseframe.json"
+    "url": "https://www.ycombinator.com/companies/nine-fives",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/nine-fives.json"
   }
 ]

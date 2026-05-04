@@ -169,53 +169,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2016/fightcamp.json"
   },
   {
-    "id": 12553,
-    "name": "BODYSIM by Well Principled",
-    "slug": "bodysim-by-well-principled",
-    "former_names": [
-      "Well Principled"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7deb4b1138bf28d77c17917f911b89d59935e15c.png",
-    "website": "https://bodysim.com",
-    "all_locations": "St. Louis, MO, USA",
-    "long_description": "Gain muscle and shed fat with a digital twin of your body. BODYSIM is an app-based simulation of your body and its potential that recommends nutrition and exercise to meet your goals. Use BODYSIM to (1) Assemble your data from food logging, BIA weigh-ins, DEXA scans, at-home blood tests, and wearables, (2) Learn to “triangulate the truth” of your unique metabolism and physiology, and (3) Adjust your nutrition and exercise plans by simulating what will happen to your body. One founder put on 45 lbs muscle, and another put on 25 lbs of muscle while losing 50 lbs of fat. Our alpha testers lost an average of 12.6 pounds in 3 months.\r\n\r\nOur core technology distills messy academic literature into simulations. Before turning to our own fitness journeys, we successfully deployed sophisticated enterprise models of plant-soil-atmosphere, consumer behavior and battery electrochemistry. With BODYSIM we built a science-based simulation of macronutrient balance and muscle hypertrophy. It includes cell turnover, oxidation for energy, lipolysis of fat stores, synthesis of new muscle, glycogen resynthesis, GI latency, and even ketones. Get jacked at BODYSIM.com\r\n",
-    "one_liner": "Gain Muscle and Shed Fat with a Digital Twin of Your Body",
-    "team_size": 10,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Consumer Health and Wellness",
-    "launched_at": 1556081533,
-    "tags": [
-      "Artificial Intelligence",
-      "Sports Tech",
-      "Consumer",
-      "Fitness",
-      "Health & Wellness"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2019",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Consumer Health and Wellness"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": true,
-    "app_answers": true,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/bodysim-by-well-principled",
-    "api": "https://yc-oss.github.io/api/batches/summer-2019/bodysim-by-well-principled.json"
-  },
-  {
     "id": 13100,
     "name": "FitnessAI",
     "slug": "fitnessai",
@@ -719,7 +672,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c618208d2cb852eeff16409fb7e787701c395b91.png",
     "website": "https://www.rex.fit",
-    "all_locations": "Zürich, ZH, Switzerland",
+    "all_locations": "CA, USA",
     "long_description": "The DROP by Rex.Fit is an AI wearable camera that automates nutrition tracking using computer vision. It has garnered more than 93k USD in preorders (~450 units) since its launch last month. The nutrition estimation and recommendation tech behind the DROP is already integrated as an API for fitness chains, generating hundreds of thousands of dollars in yearly revenue for them. The DROP is built by brothers, sports nutritionists and computer vision engineers from the Swiss Federal Institute of Technology (ETH Zurich).",
     "one_liner": "Automating nutrition tracking.",
     "team_size": 2,
@@ -743,8 +696,8 @@
       "Consumer"
     ],
     "regions": [
-      "Switzerland",
-      "Europe"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -753,6 +706,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rex-fit",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/rex-fit.json"
+  },
+  {
+    "id": 29207,
+    "name": "Cora",
+    "slug": "cora",
+    "former_names": [
+      "PurplePill",
+      "HeyPurple",
+      "PurplePages"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c4d875b70b030b8234a9895a54859da447f55d2e.png",
+    "website": "https://www.corahealth.app/download",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Cora is a mobile app that provides personalized fitness coaching using health and wearable data. Cora is built for people who want structure and guidance in their training, but don’t benefit from generic programs or static plans. By connecting to Apple Watch and other health data sources, Cora understands a user’s current fitness level and adapts coaching, insights, and training plans over time.\r\n\r\nWith Cora, users get:\r\n- Coaching and insights based on real health and wearable data\r\n- Adaptive training plans that evolve with fitness level\r\n- Nutrition tracking with smart macro targets based on your goals\r\n- Clear guidance on training, recovery, and progress over time\r\n- A simple way to understand where they are and what to do next",
+    "one_liner": "AI Fitness Coach",
+    "team_size": 3,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1707161827,
+    "tags": [
+      "Consumer",
+      "Fitness",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cora",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/cora.json"
   },
   {
     "id": 29443,
@@ -770,17 +768,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a533cff802e0f9057f1431e6f53533be5b04b80.png",
     "website": "https://adapted.app",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Adapted helps athletes become bulletproof through personalized prehab.",
-    "one_liner": "Helping athletes stay durable",
+    "long_description": "Adapted is an AI physical therapist for athletes. Tell it your injury history, your sport, and your goals - it builds a personalized program to rehab and prevent injuries, bulletproof your body, and improve mobility and flexibility. No generic exercises. Just training and prehab that actually adapts to you.\r\n\r\nAvailable now on the iOS App Store.",
+    "one_liner": "AI physical therapy for athletes",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1702424671,
     "tags": [
+      "Artificial Intelligence",
       "Fitness",
       "Digital Health",
-      "Health & Wellness",
-      "AI"
+      "Health & Wellness"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -808,11 +806,11 @@
     "name": "HYBRD",
     "slug": "hybrd",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2c9c9e9401c331a915e89803f89ed7452f03d962.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d43a2e4ad2a1d85682aa3ad5a84240ff8cd7dca.png",
     "website": "https://www.hybrd.com/",
     "all_locations": "Boston, MA, USA",
-    "long_description": "HYBRD helps you get stronger and faster. It pulls in all your training data, from every wearable and workout tracking app you use, and uses it to personalize training plans specifically to you and your goals\r\n\r\nExisting products tend to focus on only one type of exercise (either cardio or strength), leaving hybrid athletes juggling disconnected tools. As hybrid athletes themselves the founders found this frustrating and set out to build the unified approach they needed for their training.\r\n\r\nThree of HYBRD’s founders previously worked at WHOOP, each leading teams across product, growth and analytics. Ruiters, the CTO, was a senior tech lead at AWS. In parallel, Mats was a member of the US national rowing team and Ben, Shoe and Ruiters have all completed Ironman 70.3s. The team's VP of tech/founding engineer Michael rowed at Cornell and is ex-WHOOP as well. \r\n",
-    "one_liner": "Get faster & stronger",
+    "long_description": "The mission of HYBRD is to take world-class coaching and make it universally available. \r\n\r\nHealth data has never been more abundant. GPS watches track pace and heart rate, wearables monitor sleep and recovery, and voice logging has made it easier than ever to capture weightlifting and HYROX. \r\n\r\nAnd yet most athletes are still following static PDF plans they found online, or \"adaptive\" apps that fall apart the moment cross-training enters the picture.\r\n\r\nExisting tools feel disappointing because they don’t actually know your goals and constraints, so they can’t do anything meaningful with the data they collect. \r\nHYBRD can. \r\n\r\nWe aggregate your wearable data, fill the gaps with a simple AI logger, and use that complete picture to build personalized training programs from the best coaches in the world, like Alex Viada, who coined the term \"hybrid athlete.\" \r\n\r\nFrom there, the HYBRD agent keeps you on track, adjusting your schedule around weather, travel, and fatigue as you progress. Everything you'd get from a $500/month coach, at a 50x lower price. \r\n\r\nFounded in 2024 by WHOOP and AWS alumni, HYBRD is built by hybrid athletes. Join us for a workout every Monday morning in San Francisco and Boston.",
+    "one_liner": "coaching agents for athletes",
     "team_size": 5,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -844,5 +842,92 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hybrd",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/hybrd.json"
+  },
+  {
+    "id": 31076,
+    "name": "Imperfect",
+    "slug": "imperfect",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/002fb81dd9c99e80efddd89e683644b3b238f04e.png",
+    "website": "https://imperfect.co",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Imperfect connects your wearables, training platforms, and health apps into one AI coach focused on getting you race day ready. Where other tools give you a fixed plan like MapQuest, Imperfect is Waze, adapting your training, recovery, and nutrition to how your body is actually responding.",
+    "one_liner": "AI coach that connects your wearables to get you race day ready",
+    "team_size": 5,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1776207717,
+    "tags": [
+      "Fitness",
+      "Health & Wellness",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/imperfect",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/imperfect.json"
+  },
+  {
+    "id": 31427,
+    "name": "Napkin Math",
+    "slug": "napkin-math",
+    "former_names": [
+      "Paper Star"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3186460384778570f52c73ff19cf5b102436f57.png",
+    "website": "https://napkinmath.club",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Napkin Math is the food journal for real people. Stop counting calories, get personalized insights and realistic goals. Easily keep a beautiful food journal, get deep insights on your data with AI, and share your table with friends.",
+    "one_liner": "Building Napkin Math, AI-powered food journaling for real people",
+    "team_size": 3,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1775700750,
+    "tags": [
+      "Artificial Intelligence",
+      "Consumer",
+      "Fitness",
+      "Digital Health",
+      "Food"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/napkin-math",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/napkin-math.json"
   }
 ]

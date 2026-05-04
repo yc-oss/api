@@ -133,15 +133,16 @@
   },
   {
     "id": 1927,
-    "name": "AskMyClass",
-    "slug": "askmyclass",
+    "name": "AskMyClass, now Soundkins",
+    "slug": "askmyclass-now-soundkins",
     "former_names": [
       "Hoogalit",
       "Inc.",
-      "Hoogalit"
+      "Hoogalit",
+      "AskMyClass"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2177907760d08fb491a5c3607a0b5577d2629c98.png",
-    "website": "https://mysoundtown.com/",
+    "website": "https://soundkins.com/",
     "all_locations": "Menlo Park, CA, USA; Remote",
     "long_description": "AskMyClass, is a learning assistant that helps teachers save time and enhance learning, using smart speakers like Alexa, and help students get back-on-task quickly and build life skills through classroom management, social-emotional learning, and lesson support.",
     "one_liner": "Audio learning assistant for teachers and students.",
@@ -173,8 +174,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/askmyclass",
-    "api": "https://yc-oss.github.io/api/batches/summer-2018/askmyclass.json"
+    "url": "https://www.ycombinator.com/companies/askmyclass-now-soundkins",
+    "api": "https://yc-oss.github.io/api/batches/summer-2018/askmyclass-now-soundkins.json"
   },
   {
     "id": 2037,
@@ -357,11 +358,11 @@
     "name": "Soraban",
     "slug": "soraban",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/86fe3bfd9f0947fd674a2b55047687dd231a935d.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/125412ffd8bc4ba73f837a877437db742e0a6d80.png",
     "website": "https://www.soraban.com",
     "all_locations": "Tempe, AZ, USA",
-    "long_description": "Soraban's building an intelligent admin assistant for accounting firms. Our AI is first automating the client data intake process and data entry into legacy accounting software.\r\n\r\nWe are looking for ambitious people to build the best piece of software for accountants.",
-    "one_liner": "AI assistant for accounting firms ",
+    "long_description": "Soraban's building an intelligent tax workflow platform for accounting firms. Our AI is first automating the client data intake process, data entry into legacy accounting software, and final delivery of the return package.\r\n\r\nWe are looking for ambitious people to build the best piece of software for accountants, since excel. ",
+    "one_liner": "AI Tax Workflow for accounting firms ",
     "team_size": 50,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
@@ -443,24 +444,26 @@
   },
   {
     "id": 23530,
-    "name": "Waydev",
-    "slug": "waydev",
-    "former_names": [],
+    "name": "Waydev AI",
+    "slug": "waydev-ai",
+    "former_names": [
+      "Waydev"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/90694f4bdb7eb8f17b02f85faee3e3455edb365b.png",
     "website": "https://waydev.co/",
     "all_locations": "Menlo Park, CA, USA",
-    "long_description": "Waydev is the Engineering Productivity Intelligence platform that helps companies understand, measure, and improve the performance of their software teams. It connects to the tools engineers already use, then transforms code, work items, reviews, deployments, and AI-assisted activity into a unified source of truth for engineering effectiveness.\r\n\r\nBuilt for modern engineering leaders, Waydev delivers deep visibility across delivery speed, code quality, collaboration patterns, and real business impact. With automated insights, conversational analytics, and industry benchmarks, teams can make decisions with clarity, reduce bottlenecks, and continuously improve how software is shipped.\r\n\r\nWaydev replaces manual reporting, subjective evaluations, and static dashboards. It gives executives, managers, and ICs the context they need to optimize workflows, forecast outcomes, and align engineering output to business results.\r\n\r\nWaydev powers engineering intelligence for fast-growing startups and global enterprises by turning raw activity into actionable strategy.",
-    "one_liner": "The Engineering Intelligence Platform | DORA, SPACE, DX, CORE 4 ",
+    "long_description": "Waydev tracks AI-generated code from commit to production. AI Checkpoints capture which agent wrote the code, tokens consumed, cost per PR, acceptance rate, and whether it deployed. Compare Copilot, Cursor, and Claude Code on real production outcomes. Measure AI adoption by team, monthly spend, avg tokens per developer, and total tokens used. The Waydev Agent answers plain-English questions about your AI investment. Built for VPs of Engineering and CTOs. Trusted by Dropbox, American Express, Caterpillar, and PwC. ",
+    "one_liner": "Waydev: AI Adoption, AI Impact, and AI ROI for engineering teams",
     "team_size": 13,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1616455133,
     "tags": [
       "AI-Enhanced Learning",
-      "Enterprise",
+      "Artificial Intelligence",
       "Data Engineering",
-      "Data Visualization",
-      "AI"
+      "AI",
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -483,8 +486,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/waydev",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/waydev.json"
+    "url": "https://www.ycombinator.com/companies/waydev-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2021/waydev-ai.json"
   },
   {
     "id": 24025,
@@ -542,7 +545,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/acc0e68099b17b27bc8291119107847bd622a646.png",
     "website": "https://safebeat.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "38 million people suffer from heart rhythm disorders and are recommended to start medications that can save their lives, but require rigorous ECG monitoring to start and remain on these pills. SafeBeat Rx moves beyond diagnostics to guide these therapeutics, powered by our ML ECG software that integrates with existing FDA-cleared wearables to allow seamless physician approval of drug dosing, all from a mobile phone.\r\n\r\nWe are a team of physicians, engineers, data scientists, and machine learning experts dedicated to using engineering to improve heart health.",
+    "long_description": "",
     "one_liner": "Guiding cardiac therapeutics - all from your phone",
     "team_size": 9,
     "industry": "Healthcare",
@@ -946,7 +949,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f8a08dbc0e0067d1983b3b85b2e3893f29d7f41f.png",
     "website": "https://www.pairai.com/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "NY, USA",
     "long_description": "Pair AI is Shopify for knowledge products. We empower creators, educators, and experts to launch addicting mobile-first video courses and provide AI-assisted coaching services at scale. Our platform is a one-stop shop to seamlessly monetize what you know! We make learning as fun and engaging as watching a TikTok.",
     "one_liner": "Reimagining education with short form video and AI",
     "team_size": 2,
@@ -1088,7 +1091,7 @@
       "Shaktimaan",
       "Kalam"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1b77af33029a4b47cc037f68e90edf366b8b47b3.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3e158289890d2edaade7efd0948c8b53b8775a93.png",
     "website": "https://superkalam.com",
     "all_locations": "Bengaluru, KA, India",
     "long_description": "Every student deserve personal attention. With AI, we can infinitely scale personalised learning experience at scale to every student. That's what we are building at SuperKalam.\r\n\r\n",
@@ -1229,9 +1232,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d914e5099612c52b407ca205a19346b7915e770f.png",
     "website": "https://hyperbound.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Hyperbound pioneered AI Sales Roleplay technology and is the trailblazer behind the AI Sales Roleplay category for mid-market/enterprise revenue teams.\r\n\r\nWe provide human-like roleplays with AI buyers customized for your ICP, giving reps more at-bats and leveling up their business acumen in half the amount of time.\r\n\r\nWe then inspect live calls to certify that reps are mirroring your top performers and generate personalized AI feedback and targeted roleplays to tackle performance gaps.\r\nThe goal is faster ramp times, more pipeline, higher win rates, increased ACVs, more consistent performance across your team, and more time for your managers.\r\n\r\nInterested in trying it out today? Start a free demo simulation at hyperbound.ai and contact us at founders@hyperbound.ai for next steps.",
-    "one_liner": "AI Sales Performance OS",
-    "team_size": 17,
+    "long_description": "Hyperbound is the leading enterprise-first Revenue Activation Platform, pioneering a new category focused on turning insights into revenue-driving actions. Hyperbound AI analyzes thousands of sales calls to identify the behaviors that lead to closed-won deals, then transforms those insights into realistic, highly customizable human-like roleplays with AI buyers that drive behavior change at scale.\r\n\r\nTrusted by enterprises like IBM, LinkedIn, Monday.com, Bloomberg, Vanta, Autodesk, and G2, Hyperbound helps revenue teams ramp 50% faster, define what good looks like, and scale top performance across thousands of reps.\r\n\r\nInterested in trying it out today? Start a free demo simulation at https://app.hyperbound.ai/buyers and book time with our team to learn more.",
+    "one_liner": "Revenue Activation Platform",
+    "team_size": 30,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1690226897,
@@ -1321,7 +1324,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2edb78c6c7dfbdc3b8cbd1632fcf94f82d5bf32d.png",
     "website": "https://readbean.app/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "NY, USA",
     "long_description": "Read Bean helps intermediate-advanced language learners and heritage speakers improve their literacy using real-world content. The app measures your initial reading level and automatically transforms texts into bite-sized lessons at your level. It adapts to your progress, reinforcing vocabulary and tailoring content to ensure continuous improvement.",
     "one_liner": "Learn language with real-world content, at your level",
     "team_size": 3,
@@ -1495,18 +1498,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d21edd589862cd64f905545df119c53426538c8d.png",
     "website": "https://www.capitol.ai/",
     "all_locations": "Washington, DC, USA",
-    "long_description": "Capitol builds intelligence infrastructure for companies overwhelmed by data but starved for clarity. Today, 80% of enterprise AI projects fail because outputs aren't accurate, attributable, or usable. Capitol AI works with companies in high-stakes industries to turn information into intelligence that drives decisions with model-agnostic, purpose-built infrastructure. \r\n\r\nCapitol is building a different future - one where institutions, creators, and analysts stay in control of their knowledge, their IP, and their value. We deliver a model-agnostic platform that turns complexity into decision-grade insight. We don't believe the future should be dictated by a handful of closed models. We enforce attribution, minimize hallucinations, and preserve temporal accuracy - giving companies trusted answers they can act on.",
-    "one_liner": "Model-agnostic AI for enterprises: governed, embedded, decision-grade.",
+    "long_description": "Capitol AI is building a sovereign operating system for intelligence, designed for regulated, high-stakes institutions such as professional services firms, financial services, and government agencies. These organizations are overwhelmed by data and experimenting with generic AI tools that lack auditability, repeatability, and secure deployment. As a result, critical decisions are increasingly shaped by systems they do not fully control.\r\n\r\nCapitol runs entirely inside enterprise infrastructure and transforms proprietary data into structured, decision-grade artifacts such as due diligence reports, regulatory documentation, and executive intelligence. The platform is model-agnostic, fully auditable, and operates with no data egress, giving institutions durable control over their data, workflows, and standards.",
+    "one_liner": "Capitol: the sovereign operating system for intelligence.",
     "team_size": 11,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1724724761,
     "tags": [
       "AI-Enhanced Learning",
-      "Artificial Intelligence",
       "Workflow Automation",
       "Analytics",
-      "Media"
+      "Media",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1589,9 +1592,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c86ce92c78b4bd9698a823b31a8ee51eff7418e7.png",
     "website": "https://www.x1.new",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "x1 helps anyone build a real, native iOS app — step by step.\r\n\r\nYou describe what you want to build, and x1 generates a clear plan that takes you from idea to App Store. Each step ships a real feature and explains how the pieces fit together.\r\n\r\nInstead of asking AI to one-shot an entire app, x1 guides it through the build — the first tool that teaches you and builds with you.",
-    "one_liner": "The Blueprint for Shipping iOS Apps",
-    "team_size": 1,
+    "long_description": "x1 is building the next generation AI app studio for iOS.\r\n\r\nInstead of generating disposable demos, we provide a structured system that guides builders from idea to a production-ready App Store launch. Our platform replaces chaotic prompt loops with modular, purpose-built studios that handle everything from product design to monetization and growth.\r\n\r\nWe’re turning AI app creation into a disciplined, end-to-end system.",
+    "one_liner": "World’s Most Powerful AI App Studio",
+    "team_size": 5,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1731963387,
@@ -1752,58 +1755,13 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/alice-tech.json"
   },
   {
-    "id": 30250,
-    "name": "GradeWiz",
-    "slug": "gradewiz",
-    "former_names": [
-      "GradeWIz",
-      "Gradewiz",
-      "GradeWiz",
-      "GradeWIz"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/457b05762957fe3db28fe1457bc145653e7ee436.png",
-    "website": "https://www.gradewiz.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "GradeWiz is an AI assistant that helps educators create rubrics, grade student work and give detailed feedback on handwritten worksheets and tests, saving 4+ hrs a week\r\n\r\n",
-    "one_liner": "AI Grading for Teachers",
-    "team_size": 2,
-    "industry": "Education",
-    "subindustry": "Education",
-    "launched_at": 1736138044,
-    "tags": [
-      "AI-Enhanced Learning",
-      "Edtech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "Education"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/gradewiz",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/gradewiz.json"
-  },
-  {
     "id": 30442,
     "name": "YouLearn",
     "slug": "youlearn",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6853a397a8c949c1f81a95e63684f2b530461ce0.png",
     "website": "https://www.youlearn.ai/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "YouLearn is an AI tutor for college students. It turns your learning materials into concise notes, an AI tutor you can talk to, and personalized tests.",
     "one_liner": "AI tutor for each student. ",
     "team_size": 3,
@@ -1825,7 +1783,8 @@
       "Education"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1875,50 +1834,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/chiron",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/chiron.json"
-  },
-  {
-    "id": 30721,
-    "name": "Knowlify",
-    "slug": "knowlify",
-    "former_names": [
-      "Knowlify",
-      "Ritvik Varada"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f9c7327b2253f8bd8e5f5ae01e113ba12ee0e4bd.png",
-    "website": "https://knowlify.net/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Everyone loves the way 3Blue1Brown explains complex ideas. Now imagine having that same level of clarity for any topic, tailored to each learner’s needs.\r\n\r\nThat’s what we’re building at Knowlify.\r\n\r\nCurrent use cases:\r\n- Researchers turn dense papers into clear, digestible explanations\r\n- Textbook publishers help students grasp challenging concepts\r\n- Universities produce high-quality content while cutting costs by 90%\r\n- Corporations keep teams sharp and up to date on the latest technologies\r\n\r\nWith Knowlify, the possibilities for learning are limitless.",
-    "one_liner": "Convert textual content into explainer videos in < 15s",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1754937543,
-    "tags": [
-      "AI-Enhanced Learning",
-      "Artificial Intelligence",
-      "Education",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/knowlify",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/knowlify.json"
   },
   {
     "id": 30743,
@@ -2019,8 +1934,8 @@
     "launched_at": 1759526048,
     "tags": [
       "AI-Enhanced Learning",
-      "Artificial Intelligence",
-      "Generative AI"
+      "Generative AI",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2043,5 +1958,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pixley-ai",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/pixley-ai.json"
+  },
+  {
+    "id": 31373,
+    "name": "Refortifai",
+    "slug": "refortifai",
+    "former_names": [
+      "RefortifAI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b37c6cc458022b158a3f2abce590be2ed10116fb.png",
+    "website": "https://refortif.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Refortifai builds RL environments to solve and evaluate complex tasks involving electronic design.",
+    "one_liner": "Reasoning for Electronic Design Automation ",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1774743443,
+    "tags": [
+      "AI-Enhanced Learning",
+      "Reinforcement Learning",
+      "B2B",
+      "Semiconductors",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/refortifai",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/refortifai.json"
   }
 ]

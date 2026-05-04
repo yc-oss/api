@@ -6,7 +6,7 @@
     "former_names": [],
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "http://justspotted.com",
-    "all_locations": "Copenhagen, Denmark",
+    "all_locations": "CA, USA; Copenhagen, Denmark",
     "long_description": "The artist-formerly-known-as Scoopler is a real-time search engine. It aggregates and organizes content being shared on the Internet as it happens, like eye-witness reports of breaking news, photos and videos from big events, and links to the hottest memes of the day. It does this by constantly indexing live updates from services including Twitter, Flickr, Digg, Delicious and more. When users search for a topic on Scoopler, they get the most relevant results, updated in real-time.\n\nScoopler has now become JustSpotted, a celebrity-tracking tool, meant to give fans an idea of what their favorite celebrities are up to at any given moment. JustSpotted, like Scoopler, is a data-aggregator, yet JustSpotted collects from Twitter, Facebook, and Foursquare -- alongside their own data theyâ€™ll be collecting from users who actual spot celebrities in the wild. All the information we aggregate is publicly available and you can even do a search on Twitter yourself and find sightings of celebrities. We're just the first people to organize it on a map and in such a way that it's easy to consume and ENJOY.â€\n\nJustSpotted is about connecting with celebs. All the sightings on our website are naturally occurring events where an everyday person bumps into a celebrity as a chance occurrence. Back in the day, when you saw a celebrity while you were out and about the first thing you would have done was phone or text a friend. In the new age of social media, the first thing you do is share it on Facebook or Twitter. This phenomena is already happening.\n\nThe service, which launches the week of October 11, 2010, is the latest creation by AJ Asver, Dilan Jarawardane and Benjamin Tauber.",
     "one_liner": "Acquired by Google in 2011",
     "team_size": 2,
@@ -28,7 +28,9 @@
       "Content"
     ],
     "regions": [
+      "United States of America",
       "Denmark",
+      "America / Canada",
       "Europe"
     ],
     "stage": "Early",
@@ -81,6 +83,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/skyways",
     "api": "https://yc-oss.github.io/api/batches/summer-2017/skyways.json"
+  },
+  {
+    "id": 1891,
+    "name": "Klarity",
+    "slug": "klarity",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5d4790f2b102f3fd696a88213e44f23e7083929b.png",
+    "website": "http://klarity.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Klarity is Enterprise AI that helps companies like OpenAI, DoorDash, CrowdStrike and Zoom bend the G&A curve.\r\n\r\nKlarity delivers two core capabilities:\r\n(1) unlimited transformation; creating a digital twin of your business to identify gaps, risks and inefficiencies, and provide valuable insights into your business in weeks instead of quarters, and\r\n(2) intelligent document processing that turns contracts, invoices, and POs into audit-ready data with 82%+ pass-through rates.\r\nKlarity reduces OpEx, boosts accuracy, and empowers CFOs to deliver board-ready ROI.",
+    "one_liner": "Klarity: Your Always-On AI Analyst, Advisor & Coach",
+    "team_size": 128,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1524539154,
+    "tags": [
+      "Artificial Intelligence",
+      "ML"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2018",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/klarity",
+    "api": "https://yc-oss.github.io/api/batches/summer-2018/klarity.json"
   },
   {
     "id": 12091,
@@ -221,24 +265,25 @@
   },
   {
     "id": 25402,
-    "name": "LlamaFarm",
-    "slug": "llamafarm",
+    "name": "Rownd",
+    "slug": "rownd",
     "former_names": [
-      "Rownd"
+      "Rownd",
+      "LlamaFarm"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c8d3ff52cb90605a538dc8d645bc45e1c2fba559.png",
-    "website": "https://llamafarm.dev",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c9dcd6e10984a18f91f153e7efc538957c387fd.png",
+    "website": "https://rownd.ai",
     "all_locations": "Raleigh, NC, USA",
-    "long_description": "LlamaFarm helps enterprises in regulated industries build and deploy AI applications with our open-core model, providing production-ready components for RAG systems, model fine-tuning, and prompt engineering that run entirely on-premise while maintaining complete data sovereignty. \r\n\r\nWith a powerful CLI and YAML configs, teams can create differentiated AI products without vendor lock-in or ML expertise, ensuring compliance and cost control that cloud-only solutions can't match.",
-    "one_liner": "Build powerful AI projects locally, deploy anywhere",
+    "long_description": "Rownd helps enterprises in regulated industries build and deploy AI applications with our open-core model, providing production-ready components for RAG systems, model fine-tuning, and prompt engineering that run entirely on-premise while maintaining complete data sovereignty. \r\n\r\nWith a powerful CLI and YAML configs, teams can create differentiated AI products without vendor lock-in or ML expertise, ensuring compliance and cost control that cloud-only solutions can't match.",
+    "one_liner": "Build powerful AI solutions. Deploy anywhere.",
     "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1643295526,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Open Source",
+      "AI",
       "ML"
     ],
     "tags_highlighted": [],
@@ -262,8 +307,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/llamafarm",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/llamafarm.json"
+    "url": "https://www.ycombinator.com/companies/rownd",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/rownd.json"
   },
   {
     "id": 25590,
@@ -359,18 +404,18 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/174cf352bddd34701bef4a958ce1e21e7d49de3d.png",
     "website": "https://www.cairhealth.com/",
-    "all_locations": "",
+    "all_locations": "CA, USA",
     "long_description": "Cair Health empowers billing companies, care management platforms, EHRs, offshore BPOs, provider groups, and specialty pharmacies with AI-driven RCM solutions.  Our suite of AI Agents helps RCM teams streamline operations, reduce manual costs, and improve consistency—while maintaining full control over core workflows. Cair is trusted by 100+ practices across the country — including iconic VC-backed digital health startups, leading specialty EHRs, and some of the largest billing companies and BPOs\r\n\r\nBacked by Y Combinator, Foundation Capital, Soma Capital, Translink Capital & many others.. ",
-    "one_liner": "Predictive analytics and automation for medical claims",
+    "one_liner": "AI Agents for Healthcare RCM",
     "team_size": 6,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1690913334,
     "tags": [
+      "Artificial Intelligence",
       "Health Tech",
       "Healthcare",
       "Health Insurance",
-      "AI",
       "ML"
     ],
     "tags_highlighted": [],
@@ -384,7 +429,8 @@
       "Healthcare IT"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -491,15 +537,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f47cbbc26af6f2d783af0166e54e51212101bcc.png",
     "website": "https://runlocal.ai",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "RunLocal helps engineering teams ship better on-device AI in their application, faster, with more confidence and less hassle.\r\n",
-    "one_liner": "The On-Device AI Development Platform ",
+    "long_description": "RunLocal is the first AI-native platform for optimizing ML model inference on edge hardware (like Nvidia Orin and Qualcomm)\r\n\r\nOur AI agent automates on-device model performance debugging and optimization. Our web platform replaces brittle validation scripts and manual experiment tracking.\r\n\r\nWith RunLocal, you deploy more capable/efficient models on your target hardware with a fraction of the engineering effort.\r\n\r\nWe’re working with market-leaders in autonomous vehicles, robotics, drones and smart cameras. We're backed by investors like Y Combinator and 468 Capital.",
+    "one_liner": "The first AI agent for optimizing ML model inference on edge hardware",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1722617907,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
+      "Computer Vision",
+      "AI",
       "ML"
     ],
     "tags_highlighted": [],
@@ -525,14 +572,61 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/runlocal-ai.json"
   },
   {
-    "id": 30501,
-    "name": "Jazzberry",
-    "slug": "jazzberry",
+    "id": 29950,
+    "name": "Pipeshift",
+    "slug": "pipeshift",
     "former_names": [
-      "Prophet"
+      "Xylem AI",
+      "Pipeshift AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4583558e5875db68c5b000cee75a734ef515ec5f.png",
-    "website": "https://jazzberry.ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6dc8136429eadec250bda86f1102143f81a24beb.png",
+    "website": "https://pipeshift.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Pipeshift helps engineering teams run real-time inference in production. We offer optimized runtimes to meet latency/throughput SLAs, paired with infrastructure orchestration that auto-scales and routes workloads across clusters and regions at cost-effective rates.",
+    "one_liner": "Inference for real-time agents",
+    "team_size": 10,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1717199794,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "Infrastructure",
+      "AI",
+      "ML"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pipeshift",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/pipeshift.json"
+  },
+  {
+    "id": 30501,
+    "name": "Cartpole",
+    "slug": "cartpole",
+    "former_names": [
+      "Prophet",
+      "Jazzberry"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/154693ac9eca92a2d8f93ead7153a0858c38d2b3.png",
+    "website": "https://cartpole.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We're creating reinforcement learning environments for training frontier models.",
     "one_liner": "Building reinforcement learning environments",
@@ -541,10 +635,9 @@
     "subindustry": "B2B",
     "launched_at": 1744600545,
     "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
       "Reinforcement Learning",
-      "SaaS",
+      "Data Labeling",
+      "AI",
       "ML"
     ],
     "tags_highlighted": [],
@@ -565,8 +658,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/jazzberry",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/jazzberry.json"
+    "url": "https://www.ycombinator.com/companies/cartpole",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/cartpole.json"
   },
   {
     "id": 30559,
@@ -610,5 +703,90 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/godela",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/godela.json"
+  },
+  {
+    "id": 31019,
+    "name": "Ndea",
+    "slug": "ndea-com",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51a1310dd1344aa031a62430dad084db50b7229d.png",
+    "website": "https://ndea.com",
+    "all_locations": "Remote",
+    "long_description": "Ndea is building frontier AI systems that blend intuitive pattern recognition and formal reasoning into a unified architecture.\r\n\r\n# AI for Scientific Advancement\r\n\r\nUnlike all life before us, humanity's ascent is a story of ingenuity, not just biological evolution. Our progress has been driven by the curiosity to acquire knowledge, the ability to pass it on, and an intrinsic drive to innovate. We build technology which gives us leverage beyond our biology.\r\n\r\nWe stand at the top of a knowledge and technology colossus that we collectively created over the past ten thousand generations. Scientific progress has helped us overcome burdens that long defined human life — famines, plagues, and widespread illiteracy. Science will continue to redefine the boundaries of the human condition.\r\n\r\nToday, the acceleration of scientific progress hinges on one factor: AI capable of independent invention and discovery. This capacity is the gateway to advancements beyond our wildest imagination.\r\n\r\n# A New Research Lab\r\n\r\nWe're starting Ndea — an AI research and science lab. The name - like 'idea' with an 'n' - is inspired by the Greek concepts ennoia (intuitive understanding) and dianoia (logical reasoning), capturing our first goal to merge deep learning with program synthesis.\r\n\r\nNdea is entirely focused on developing and operationalizing AGI to realize unprecedented scientific progress in our lifetime for the benefit of all current and future generations.\r\n\r\nBuilding AGI alone is a monumental undertaking, but our mission is even bigger. We're creating a factory for rapid scientific advancement — a factory capable of inventing and commercializing N ideas.\r\n\r\nFrom our vantage point today, we see many 'known' frontiers like self-driving vehicles, drug discovery, sustainable energy, robotics, and space exploration. While AGI will benefit all of these, the most exciting adventure lies in the 'unknown'. AGI promises discoveries and progress we cannot imagine today.",
+    "one_liner": "Building AGI that can innovate.",
+    "team_size": 15,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1772669917,
+    "tags": [
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Hard Tech",
+      "Remote Work",
+      "ML"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ndea-com",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/ndea-com.json"
+  },
+  {
+    "id": 31223,
+    "name": "Datoric",
+    "slug": "datoric",
+    "former_names": [
+      "Flow AI",
+      "Arzule"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa894803120df3a3a9250c66e4232e33e2a223d0.png",
+    "website": "https://www.datoric.com",
+    "all_locations": "CA, USA",
+    "long_description": "",
+    "one_liner": "Responsibly sourced data for multimodal AI",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1767154035,
+    "tags": [
+      "Artificial Intelligence",
+      "Data Labeling",
+      "ML"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/datoric",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/datoric.json"
   }
 ]

@@ -82,6 +82,50 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2019/truora.json"
   },
   {
+    "id": 26776,
+    "name": "Overwatch",
+    "slug": "overwatch",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1def1e618878c538c08d4635fb23a133ed14d476.png",
+    "website": "http://www.overwatchdata.ai",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Overwatch Data offers real-time AI agents to scale fraud, cyber, and security teams. Our agents automate the threat intelligence and brand protection workflow, while also conducting risk reviews at scale to detect fraud and financial crime.",
+    "one_liner": "Enterprise software for enterprise risk and cyber fraud intelligence",
+    "team_size": 14,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1657829137,
+    "tags": [
+      "Artificial Intelligence",
+      "Cybersecurity",
+      "Fraud Prevention",
+      "Fraud Detection"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/overwatch",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/overwatch.json"
+  },
+  {
     "id": 28805,
     "name": "Diligent",
     "slug": "diligent",
@@ -90,19 +134,19 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/306eaffa9ae52c97e7f7fd8c9161b13409115596.png",
     "website": "https://godiligent.ai",
-    "all_locations": "Berlin, Berlin, Germany",
+    "all_locations": "London, England, United Kingdom",
     "long_description": "We help fintech risk and AML compliance teams automate and strengthen routine customer due diligence tasks with LLMs. Our AI assistants slash cost-to-comply, improve risk detection and free up capacity for investigations that require human expertise and decision making. \r\n\r\nFintechs and banks use us to automate workflows like running thorough due diligence on a legal entity, reviewing customer documents like registry extracts, proofs of address etc and remediating false positive alerts from their AML systems.",
     "one_liner": "AI agents for fintech risk and compliance operations",
-    "team_size": 2,
+    "team_size": 10,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1706799734,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "Compliance",
       "Fraud Prevention",
-      "Regtech"
+      "Regtech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -114,7 +158,7 @@
       "Fintech"
     ],
     "regions": [
-      "Germany",
+      "United Kingdom",
       "Europe"
     ],
     "stage": "Early",
@@ -173,25 +217,25 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/indemni.json"
   },
   {
-    "id": 31248,
-    "name": "BeeSafe AI",
-    "slug": "beesafe-ai",
+    "id": 31080,
+    "name": "Didit",
+    "slug": "didit",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3a94eb8ceff47b3a9989e9c3c4f0bff0ac9c2e0a.png",
-    "website": "https://beesafe.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "BeeSafe AI is a fraud-prevention platform for enterprises that helps them protect their customers against trust-based attacks like \"pig butchering\" and impersonation. By engaging fraudsters at the source in real-time, the AI system identifies and shuts down channels by extracting deterministic data on mule accounts and attacker infrastructure. Our intel has already enabled financial services and government agencies to intercept scammers mid-transaction and prevent victim losses.",
-    "one_liner": "Stopping Scams Before They Reach Your Customers",
-    "team_size": 3,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/202e6cd94d0ec2c8de835c56ce6b880f99f033d5.png",
+    "website": "https://didit.me/",
+    "all_locations": "CA, USA",
+    "long_description": "One API for KYC, KYB, AML, biometrics, and fraud — powered by 1,000+ data sources, 200+ signals, and in-house AI models. Global coverage. Integrate in minutes, pay as you go, 500 free checks/month. Start free at business.didit.me.",
+    "one_liner": "Infrastructure for identity and fraud.",
+    "team_size": 12,
     "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1770327115,
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1764601102,
     "tags": [
-      "Artificial Intelligence",
-      "Security",
-      "Cybersecurity",
+      "Biometrics",
+      "Identity",
       "Fraud Prevention",
-      "Fraud Detection"
+      "Fraud Detection",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -201,18 +245,20 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Security"
+      "Infrastructure"
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/beesafe-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/beesafe-ai.json"
+    "url": "https://www.ycombinator.com/companies/didit",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/didit.json"
   }
 ]

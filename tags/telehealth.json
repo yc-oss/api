@@ -419,9 +419,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/723a180116227882e144a10e0844486b6a17d2af.png",
     "website": "http://www.synapticure.com",
     "all_locations": "Chicago, IL, USA; Remote",
-    "long_description": "Personalized virtual clinical care is finally here for neurodegenerative diseases like Alzheimer's and related Dementias (Cognitive), Parkinson's and Huntington's (Movement), and ALS (Movement).\r\n\r\nWe provide a novel approach to care in these diseases, centering a patient and caregiver around a coordinator who quarterbacks patients through our full Multi-Disciplinary Care Resources to local aid, PT/OT and home health support. When you leave our clinic, it's not with a handful of paper referrals, but with our coordinators helping you book and find the best physicians, DME, trials, and even cheapest prescriptions. We are devoted to helping patients, from guidance on care and insurance to providing the full spectrum of investigational and clinical testing to improve outcomes. \r\n\r\nSynapticure was built by leading patient and caregiver advocates alongside leading  clinicians, biotech executives and telemedicine executives to bring the neurodegenerative disease care and treatment experience into the 21st century, and is backed by the leading Venture funds and Angel investors in the remote health and life sciences space.",
+    "long_description": "Personalized virtual clinical care is finally here for neurodegenerative diseases like Alzheimer's and related Dementias (Cognitive), Parkinson's and Huntington's (Movement), and ALS (Motor neuron).\r\n\r\nWe provide a novel approach to care in these diseases, centering a patient and caregiver around a coordinator who quarterbacks patients through our full Multi-Disciplinary Care Resources to local aid, PT/OT and home health support. When you leave our clinic, it's not with a handful of paper referrals, but with our coordinators helping you book and find the best physicians, DME, trials, and even cheapest prescriptions. We are devoted to helping patients, from guidance on care and insurance to providing the full spectrum of investigational and clinical testing to improve outcomes. \r\n\r\nSynapticure was built by leading patient and caregiver advocates alongside leading  clinicians, biotech executives and telemedicine executives to bring the neurodegenerative disease care and treatment experience into the 21st century, and is backed by the leading Venture funds and investors in the remote health and life sciences space.",
     "one_liner": "We deliver personalized medicine for neurodegenerative  patients",
-    "team_size": 35,
+    "team_size": 115,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare Services",
     "launched_at": 1643743580,
@@ -599,18 +599,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d3ae3f109ad60ca8a6a5c6055ffa946a4d30cd38.png",
     "website": "https://legionhealth.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Legion Health is a high-quality, AI-enabled psychiatry network where patients receive care from a provider who takes their insurance. We use LLMs and AI agents to improve care quality, streamline operations, enhance patient communications, and more.",
-    "one_liner": "AI-native psychiatry, built for scale and covered by insurance",
+    "long_description": "Legion Health is building autonomous medical care, starting with psychiatry. Our AI-native care-delivery platform currently automates 95% of the administrative work required for us to deliver direct patient care. We also became the first company ever to receive regulatory authorization to let AI prescribe psychiatric medications, allowing us to not only collapse health care’s admin costs but also its clinical labor costs—entirely shifting this industry’s economics from humans to tokens.",
+    "one_liner": "Autonomous medical care",
     "team_size": 11,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Consumer Health and Wellness",
     "launched_at": 1624636729,
     "tags": [
-      "Artificial Intelligence",
       "Consumer Health Services",
       "Telehealth",
       "Healthcare",
-      "Mental Health"
+      "Mental Health",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -692,7 +692,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1911bd76396413676c56a0b5104f3203eb60b44e.png",
     "website": "https://www.trymable.com/",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "London; San Francisco, CA, USA; Remote",
     "long_description": "Mable is a personalized migraine clinic using DNA to find and provide the right medication alongside continuous expert care\r\n\r\nUsing our approach, patients have an 80% higher treatment satisfaction rate, have one extra day per week to enjoy their life and get 55% pain reduction.\r\n",
     "one_liner": "First personalized migraine clinic using genetics and telehealth.",
     "team_size": 7,
@@ -715,7 +715,9 @@
       "Medical Devices"
     ],
     "regions": [
+      "United Kingdom",
       "United States of America",
+      "Europe",
       "America / Canada",
       "Remote",
       "Fully Remote"
@@ -817,14 +819,16 @@
   },
   {
     "id": 25152,
-    "name": "Mederva Health",
-    "slug": "mederva-health",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/43a74cfe1478d73715e0a38d1643969f6ddafe1d.png",
+    "name": "Mederva",
+    "slug": "mederva",
+    "former_names": [
+      "Mederva Health"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1beab1ed6c93966e61bb46b319be09173e8b5be0.png",
     "website": "https://medervahealth.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Mederva is bringing AI-enabled healthspan care to primary care. We partner with clinics to turn lifestyle and behavior change into continuous, reimbursed care, extending healthy years of life between visits.",
-    "one_liner": "Longevity medicine for the 99%.",
+    "one_liner": "Longevity for the 99%.",
     "team_size": 13,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
@@ -837,7 +841,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -855,8 +859,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mederva-health",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/mederva-health.json"
+    "url": "https://www.ycombinator.com/companies/mederva",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/mederva.json"
   },
   {
     "id": 25512,
@@ -914,7 +918,7 @@
     "all_locations": "Gurugram, HR, India",
     "long_description": "India's leading digital health destination for Dermatology, Nutrition & Wellness. A multi-condition health platform providing Telehealth, AI-powered treatment plans, and Rx-grade products. Our virtual care is entirely science-based and personalized to each patient, based on prescription history, medical parameters, family history, lifestyle, surroundings and preexisting health issues.",
     "one_liner": "India's Telemedicine Platform & Online Pharmacy for Dermatology Care",
-    "team_size": 76,
+    "team_size": 125,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Consumer Health and Wellness",
     "launched_at": 1652898405,
@@ -1020,7 +1024,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "Healthcare",
       "Consumer Health and Wellness"
@@ -1177,5 +1181,97 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/copper-health",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/copper-health.json"
+  },
+  {
+    "id": 30482,
+    "name": "Lucis",
+    "slug": "lucis",
+    "former_names": [
+      "Zero Health",
+      "Lucis",
+      "Lucis (ex-Zero Health)"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7c86075dc463745a297d1580339e2396abc55ba.png",
+    "website": "https://www.lucis.life",
+    "all_locations": "Paris, Île-de-France, France",
+    "long_description": "Think Function Health for Europe. We combine medical expertise and AI to transform regular blood testing into actionable insights to help people live healthier, longer.\r\n",
+    "one_liner": "Function Health for Europe ",
+    "team_size": 17,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Consumer Health and Wellness",
+    "launched_at": 1745363793,
+    "tags": [
+      "Telehealth",
+      "Digital Health",
+      "Health & Wellness",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Consumer Health and Wellness"
+    ],
+    "regions": [
+      "France",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lucis",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/lucis.json"
+  },
+  {
+    "id": 31063,
+    "name": "Clara",
+    "slug": "clara-2",
+    "former_names": [
+      "Clara Health"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ab52625ae85ffe0da16a13dee9f82eaa1e7c33f.png",
+    "website": "http://askclara.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Clara is an AI primary care and longevity practice from the team that founded and grew Circle Medical to $100M in revenue.\r\n\r\nOur mission at Clara is to add one billion years of healthspan to humanity. We do this with an AI with deep clinical knowledge, coupled with the ability to sift through medical data to detect trends and patterns that could be missed.\r\n\r\nUnlike Claude or ChatGPT, Clara can see your medical data and then act. Chat with Clara as you would a doctor and Clara can help with you make sense of symptoms, get medication refills, order and understand labs, and achieve health goals. Medical recommendations are preliminary until one of our human medical providers in the loop reviews and approves them.",
+    "one_liner": "AI primary care doctor",
+    "team_size": 9,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Consumer Health and Wellness",
+    "launched_at": 1774031425,
+    "tags": [
+      "Telehealth",
+      "Healthcare",
+      "Telemedicine",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Consumer Health and Wellness"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/clara-2",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/clara-2.json"
   }
 ]

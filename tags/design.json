@@ -251,7 +251,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b960c3cd3323ef642c02e83ce226f1403dfec5e.png",
     "website": "http://www.aalo.co",
-    "all_locations": "Toronto, ON, Canada",
+    "all_locations": "CA, USA; Toronto, ON, Canada",
     "long_description": "",
     "one_liner": "Lego-like furniture for design geeks. We create furniture that's…",
     "team_size": 1,
@@ -273,6 +273,7 @@
       "Home and Personal"
     ],
     "regions": [
+      "United States of America",
       "Canada",
       "America / Canada"
     ],
@@ -548,56 +549,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/alloy.json"
   },
   {
-    "id": 28841,
-    "name": "SuperCraft",
-    "slug": "supercraft",
-    "former_names": [
-      "Neuralyze",
-      "Cerelyze",
-      "Zener",
-      "Front",
-      "Zener",
-      "SuperCraft",
-      "Ponder"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2b6e756502dc5f4b2e2648f538d38a846286de5a.png",
-    "website": "https://supercraft.ai",
-    "all_locations": "New York, NY, USA",
-    "long_description": "SuperCraft is a generative AI software for teams building physical products\r\n\r\nWe help businesses securely use generative AI capabilities across their design departments for faster design exploration and visualization of physical products\r\n\r\nFortune 500 companies are using SuperCraft to create new product designs, and visualize how their product will look like in a real scenario, before actually building it, and treat the design boards as a shared source of truth that all teams involved can collaborate and provide feedback on - resulting in faster design reviews, more creative exploration, and faster time to market.",
-    "one_liner": "Figma for designing physical products",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1688534176,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Productivity",
-      "Design",
-      "Media"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/supercraft",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/supercraft.json"
-  },
-  {
     "id": 28882,
     "name": "Repaint",
     "slug": "repaint",
@@ -609,18 +560,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a40c666dc622907d8af3f29f4b78c554dba156c9.png",
     "website": "https://repaint.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Repaint lets you build professional websites by chatting with AI. It interviews you and searches information to plan your website. Then it builds it. You can edit anything through AI chat, and directly publish to a custom domain. It lets non-coders build sites without learning coding or a heavy design tool. Our vision is to make a new type of software creation that's accessible to the masses.",
+    "long_description": "Repaint lets you build professional websites by chatting with AI. It interviews you, researches you online, and generates a custom websites. Then you can edit anything by asking the AI. Our vision is to merge traditional website builders with AI coding tools, creating a new way for anyone to make more advanced software.",
     "one_liner": "Build a website by chatting with AI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1690825892,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Chatbot",
       "Design",
-      "Web Development"
+      "Web Development",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -643,6 +594,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/repaint",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/repaint.json"
+  },
+  {
+    "id": 28930,
+    "name": "Midrender",
+    "slug": "midrender",
+    "former_names": [
+      "Haven",
+      "Revideo"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae8f20158b0233edf45f926bd2ba47a325fa7fd6.png",
+    "website": "https://midrender.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Midrender is a visual editor for creating motion graphics, powered by AI. Point the agent at your codebase, it reads your code, understands the feature, and creates an animated walkthrough you can ship. A full timeline and design editor lets you fine-tune every detail.",
+    "one_liner": "Turn product features into launch videos",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1688598945,
+    "tags": [
+      "Design",
+      "Design Tools",
+      "Video",
+      "Marketing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/midrender",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/midrender.json"
   },
   {
     "id": 28994,
@@ -705,7 +702,7 @@
     "all_locations": "Toronto, ON, Canada",
     "long_description": "DraftAid is the world's first generative AI for CAD manufacturing drawings, akin to GitHub Copilot but for CAD. It drastically shortens drawing creation time, turning hours into seconds.\r\n\r\nEvery product that is manufactured - from construction to aerospace, automotive, durable goods, and electronics—relies on drawings. Currently, engineers and designers painstakingly make these essential drawings manually. Draftaid streamlines this process saving teams millions in time and quality. \r\n\r\nThe idea was born out of Abdullah's experience as a mechanical design team member, where he created thousands of drawings and longed for a more efficient process. Partnering with Tahsin, a neighbour with a PhD in AI, and Mohammed, a seasoned engineering VP with experience in construction software, they turned the dream into reality.\r\n\r\nSince their launch in August, DraftAid has engaged customers through targeted outreach and word-of-mouth, securing paid pilots with subsequent contracts valued at $150,000.\r\n\r\nBe a part of ushering in the new era of CAD designs!",
     "one_liner": "Go from 3D models to CAD drawings using AI",
-    "team_size": 3,
+    "team_size": 14,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1704853466,
@@ -750,15 +747,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Onlook is the fastest way for anyone to build, deploy, and iterate on websites and web apps. We built an open-source, visual editor for code that merges design, development, and AI.\r\n\r\nSince launching, Onlook hit #1 on Hacker News, was the #1 trending repo on GitHub—above DeepSeek—and has earned over 8,500 GitHub stars.\r\n\r\nFounded by Daniel Farrell, a designer of 10+ years and former Head of Growth, and Kiet Ho, an ex-Amazon and ex-ServiceNow engineer, Onlook is on a mission to finally solve the gap between design and development. ",
     "one_liner": "Cursor for Designers",
-    "team_size": 2,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1737572736,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Design",
-      "Design Tools",
-      "AI"
+      "Design Tools"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -772,7 +769,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -956,94 +955,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/adam.json"
   },
   {
-    "id": 30321,
-    "name": "Woz",
-    "slug": "woz",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c0c9ada6111e7b8097807a72d2e056755c4323f.png",
-    "website": "https://withwoz.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Woz is an AI platform that enables anyone to build and scale real software businesses - no coding required.\r\n\r\nHistorically, the ability to write code and architect software served as a massive barrier to business building. Woz eliminates this barrier with a team of AI agents that enable anyone, regardless of technical ability, to build products, go to market and grow a business all on one platform without a technical cofounder or inhouse engineering team. \r\n\r\nTo start, we’re helping entrepreneurs build high quality mobile apps and launch them directly to the app store. For example, one of our first customers is a personal trainer building a fitness app for his clients. Ultimately, Woz aims to be the default platform where millions of AI-enabled entrepreneurs launch and scale businesses.\r\n\r\nWoz is built by a team of engineers and ML scientists who've worked together building complex AI systems for the last decade. We're backed by YC, Untapped Ventures, MGV and more. ",
-    "one_liner": "AI platform enabling anyone to build and scale software businesses",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1737406523,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Design",
-      "No-code",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": true,
-    "demo_day_video_public": true,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/woz",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/woz.json"
-  },
-  {
-    "id": 30345,
-    "name": "Lightbox",
-    "slug": "lightbox",
-    "former_names": [
-      "851 Inc.",
-      "851",
-      "AI Emojis",
-      "emojis",
-      "emojis.com"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/559780f3ea4d1b8b93260bd86f70fcb205e616a6.png",
-    "website": "https://www.lightbox.sh/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Our mission is to give small businesses an AI Graphic Designer to help them create a brand and identity without having to pay 💰💰💰 of dollars hire someone.",
-    "one_liner": "Cursor for Content Creation",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1740542821,
-    "tags": [
-      "Artificial Intelligence",
-      "Design",
-      "Design Tools"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lightbox",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/lightbox.json"
-  },
-  {
     "id": 30441,
     "name": "stratify",
     "slug": "stratify",
@@ -1139,19 +1050,19 @@
     "former_names": [
       "Ordinary Intelligence"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8874713141e02cb143838e685aab73861963b373.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f9845a726fcc8f4b24f4e6fbdbe17fc46f07039.png",
     "website": "https://interfere.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "The greatest product teams use Interfere to spend more time building what’s next instead of maintaining what was. ",
+    "long_description": "Interfere is the experience layer for modern product teams. Detect, triage, and fix bugs automatically – no human required. Interfere finds issues in your app, understands what's happening, and owns resolution from first signal to production.\r\n",
     "one_liner": "Build software that never breaks",
-    "team_size": 5,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1752094986,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Design"
+      "Design",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1229,17 +1140,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3a74c32ba5c193f4216d063ad72608f841e04786.png",
     "website": "https://www.tryinspector.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Inspector helps front-end engineers ship faster with AI by automating the most frustrating part of the job — gathering context between the browser and the codebase.\r\n\r\nInspector is an AI IDE for front-end that connects your browser and codebase. Inspector lets you select elements visually and prompt changes, giving coding agents access to the same runtime context developers have: visuals, elements, and logs. \r\n\r\nWith Inspector, you’re editing right in the front-end, not buried under tabs and screenshots.",
+    "long_description": "Inspector is the AI IDE for designers to ship to prod. Just select any element on your live front end, edit it like you would in Figma, and Inspector writes the changes straight to your codebase.",
     "one_liner": "AI IDE for front-end development",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1762248076,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Design",
-      "Design Tools",
-      "AI"
+      "Design Tools"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1262,6 +1173,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/inspector",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/inspector.json"
+  },
+  {
+    "id": 30987,
+    "name": "Lightberry",
+    "slug": "lightberry",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d547e87dd8a95aef15364dc6867d855165863209.png",
+    "website": "https://lightberry.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We build brains for robots.\r\n\r\nWe work with manufacturers like Unitree to make robots listen, speak, and act. You can program your robot out of the box by literally talking to it, no coding involved.\r\n\r\nRobots running Lightberry are emotionally intelligent, always on, and fully autonomous. Just like in Star Wars!",
+    "one_liner": "The social brain for robots.",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1761343459,
+    "tags": [
+      "Hard Tech",
+      "Hardware",
+      "Robotics",
+      "Design",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lightberry",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/lightberry.json"
   },
   {
     "id": 31013,
@@ -1307,14 +1261,16 @@
   },
   {
     "id": 31022,
-    "name": "JSX Tool",
-    "slug": "jsx-tool",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/336184b5090a4103bd3801bd555ccb2323dee7f4.png",
-    "website": "https://jsxtool.com",
+    "name": "Coasts",
+    "slug": "coasts",
+    "former_names": [
+      "JSX Tool"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/14423e406f790420f115f8958c1af6eb85b97201.png",
+    "website": "https://coasts.dev",
     "all_locations": "",
-    "long_description": "JSX Tool is a browser extension that hooks into your React project, so you can easily locate any React component and file with just a click. This gives developers the ability to articulate visual requests to LLMs that without JSX Tool, are either vague or cumbersome to communicate in English and code snippets. On top of that JSX Tool is a full featured IDE tailored specifically for React Development, so users never have to leave the context of their browser when developing React code.",
-    "one_liner": "AI-First In-Browser IDE for React Development",
+    "long_description": "A Coast (containerized host) is a local development runtime. Coasts let you run multiple isolated environments for the same project on one machine. As AI coding agents increasingly work in parallel across git worktrees, developers hit painful conflicts — clashing ports, duplicated databases, and fragile per-branch setup. Coasts solve this by giving each worktree its own fully isolated runtime, so multiple agents can build and test side by side without stepping on each other.",
+    "one_liner": "Localhost service isolation and orchestration for git worktrees",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -1344,52 +1300,7 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/jsx-tool",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/jsx-tool.json"
-  },
-  {
-    "id": 31097,
-    "name": "REV1",
-    "slug": "rev1",
-    "former_names": [
-      "Hefaisto"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4441d91c221886a6f88c6d67b04646e2c34ade6c.png",
-    "website": "https://rev1.so",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "REV1 automates the creation of manufacturing-ready 2D drawings from 3D CAD files. Mechanical engineers spend 25%+ of their time manually creating these drawings, a tedious but critical step for every manufactured part. \r\nREV1 reduces that process from hours to minutes, generating drawings with proper annotations and tolerancing so engineers can focus on design instead of documentation.",
-    "one_liner": "Shortening hardware design cycles by automating post-CAD work",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1769993376,
-    "tags": [
-      "Hard Tech",
-      "Hardware",
-      "Design",
-      "Manufacturing",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/rev1",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/rev1.json"
+    "url": "https://www.ycombinator.com/companies/coasts",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/coasts.json"
   }
 ]
