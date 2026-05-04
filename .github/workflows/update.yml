@@ -3,26 +3,35 @@ name: Update APIs
 permissions:
   contents: write
   pages: write
+  id-token: write
 
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6.0.2
 
       - name: Setup Deno
-        uses: denoland/setup-deno@v1
+        uses: denoland/setup-deno@v2.0.4
         with:
-          deno-version: v1.x
+          deno-version: v2.x
+          cache: true
 
       - name: Run fetcher script
-        run: deno run --allow-net --allow-read --allow-write fetcher.ts
+        run: deno task update
 
       - name: Format README.md
         run: deno fmt README.md
@@ -32,12 +41,18 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add .
-          git commit -m ":card_file_box: Update APIs: $(date +'%Y-%m-%d')" || exit 0
-          git push
+          if git diff --cached --quiet; then
+            echo "No API changes to commit"
+          else
+            git commit -m ":card_file_box: Update APIs: $(date +'%Y-%m-%d')"
+            git push
+          fi
 
-      - name: Publish to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v5.0.0
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./
-          force_orphan: true
+          path: ./
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5.0.0
