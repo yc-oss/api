@@ -1440,17 +1440,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc4c9a8bb7a853c14be4dac967fb9717f36fca1c.png",
     "website": "https://airbyte.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Airbyte is the leading open data movement platform that empowers data teams in the AI era by transforming raw data into actionable intelligence. With the largest catalog of over 350 connectors, it offers low-code, no-code, and AI-powered connector development, and provides flexible deployment options across self-hosted, cloud, and hybrid environments. \r\n\r\nhttps://github.com/airbytehq/airbyte",
-    "one_liner": "Open Data Movement Platform",
+    "long_description": "Airbyte Agents is the context layer your AI agents query before they act. Features the Context Store, which unifies entities across Salesforce, Stripe, Zendesk and more. Use it from the UI, your LLM via MCP, or our SDK. 40% fewer tool calls, up to 80% fewer tokens.\r\n\r\nAirbyte Data Replication is the leading open data movement platform that empowers data teams in the AI era by transforming raw data into actionable intelligence. \r\n\r\nhttps://github.com/airbytehq/",
+    "one_liner": "Context layer for production-grade AI agents",
     "team_size": 90,
     "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
+    "subindustry": "B2B",
     "launched_at": 1584288236,
     "tags": [
       "Artificial Intelligence",
       "Developer Tools",
       "Open Source",
-      "Data Engineering"
+      "Data Engineering",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1459,14 +1460,11 @@
     "batch": "Winter 2020",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Infrastructure"
+      "B2B"
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2887,7 +2885,7 @@
     "all_locations": "Palo Alto, CA, USA; Remote",
     "long_description": "GrowthBook is an open source platform to help companies make data-driven product decisions with feature flags and A/B tests.  \r\n\r\nExisting SaaS solutions like LaunchDarkly require a company to send all of their data to them. This results in high costs, data compliance issues, and vendor lock-in.  As a result, many companies end up building their own platforms in-house, which can take thousands of hours of work and lots of headaches.  To solve this, GrowthBook uses a company's existing data infrastructure and business metrics.\r\n\r\nWe believe feature flags and experimentation are the right way to build products at scale and that they will become a standard part of the development process.  GrowthBook is well positioned to be a leader in this growing market.",
     "one_liner": "Open source feature flagging and A/B testing",
-    "team_size": 25,
+    "team_size": 40,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1645834859,
@@ -2913,7 +2911,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -7265,6 +7263,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sourcebot",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/sourcebot.json"
+  },
+  {
+    "id": 31222,
+    "name": "Superset",
+    "slug": "superset",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9c4aa01fc589ba1d208558f7b720c6081f672b08.png",
+    "website": "https://www.superset.sh/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Superset helps engineers run 100s of coding agents in parallel. ",
+    "one_liner": "The IDE for the AI Agents Era",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1772696752,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "SaaS",
+      "Swarm AI",
+      "Open Source"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/superset",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/superset.json"
   },
   {
     "id": 31547,

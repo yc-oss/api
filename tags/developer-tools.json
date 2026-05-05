@@ -5586,17 +5586,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc4c9a8bb7a853c14be4dac967fb9717f36fca1c.png",
     "website": "https://airbyte.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Airbyte is the leading open data movement platform that empowers data teams in the AI era by transforming raw data into actionable intelligence. With the largest catalog of over 350 connectors, it offers low-code, no-code, and AI-powered connector development, and provides flexible deployment options across self-hosted, cloud, and hybrid environments. \r\n\r\nhttps://github.com/airbytehq/airbyte",
-    "one_liner": "Open Data Movement Platform",
+    "long_description": "Airbyte Agents is the context layer your AI agents query before they act. Features the Context Store, which unifies entities across Salesforce, Stripe, Zendesk and more. Use it from the UI, your LLM via MCP, or our SDK. 40% fewer tool calls, up to 80% fewer tokens.\r\n\r\nAirbyte Data Replication is the leading open data movement platform that empowers data teams in the AI era by transforming raw data into actionable intelligence. \r\n\r\nhttps://github.com/airbytehq/",
+    "one_liner": "Context layer for production-grade AI agents",
     "team_size": 90,
     "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
+    "subindustry": "B2B",
     "launched_at": 1584288236,
     "tags": [
       "Artificial Intelligence",
       "Developer Tools",
       "Open Source",
-      "Data Engineering"
+      "Data Engineering",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5605,14 +5606,11 @@
     "batch": "Winter 2020",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Infrastructure"
+      "B2B"
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -9642,7 +9640,7 @@
     "all_locations": "Palo Alto, CA, USA; Remote",
     "long_description": "GrowthBook is an open source platform to help companies make data-driven product decisions with feature flags and A/B tests.  \r\n\r\nExisting SaaS solutions like LaunchDarkly require a company to send all of their data to them. This results in high costs, data compliance issues, and vendor lock-in.  As a result, many companies end up building their own platforms in-house, which can take thousands of hours of work and lots of headaches.  To solve this, GrowthBook uses a company's existing data infrastructure and business metrics.\r\n\r\nWe believe feature flags and experimentation are the right way to build products at scale and that they will become a standard part of the development process.  GrowthBook is well positioned to be a leader in this growing market.",
     "one_liner": "Open source feature flagging and A/B testing",
-    "team_size": 25,
+    "team_size": 40,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1645834859,
@@ -9668,7 +9666,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -18652,17 +18650,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd48721d6c682c48e30cb675f7793656d5a02a9f.png",
     "website": "https://haystackeditor.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Haystack helps teams review and merge more code without lowering quality.\r\n\r\nAs AI-generated pull requests become more common, code review shifts from reading every line to deciding what actually deserves human attention.\r\n\r\nHaystack uses full codebase context and agent traces to recover author intent, verify changes, and route only the risky or ambiguous work to reviewers.\r\n\r\nTeams use it to keep standards high while moving faster through a growing volume of changes.",
-    "one_liner": "AI review layer that decides which code changes need human attention",
+    "long_description": "Haystack helps engineering teams manage the growing volume of AI-generated pull requests.\r\n\r\nCoding agents make it much easier to produce code, but they also create a new problem: teams now have more changes to review, many of them larger, more frequent, and harder to trust at a glance.\r\n\r\nHaystack sits on top of GitHub and acts as the control layer for AI-generated code changes. For every pull request, it looks at the codebase, the diff, the agent trace, the author’s intent, and any verification evidence like tests, logs, commands, or screenshots.\r\n\r\nThen Haystack decides what should happen next: whether the change can move forward, needs fixes, or should be reviewed by a human.\r\n\r\nTeams use Haystack to keep code moving without turning review into rubber-stamping. It helps them merge more code, focus human attention on the changes that actually need judgment, and maintain quality as AI-generated work becomes a bigger part of development.",
+    "one_liner": "The agent-native control layer for code changes",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1722315932,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Productivity",
-      "AI"
+      "Productivity"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20185,7 +20183,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/79bd0c6f85962c1282260ab60adb0462fdb87ec8.png",
     "website": "https://tensorpool.dev",
-    "all_locations": "CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Our CLI makes ML model training effortless - just describe your job, and we handle GPU orchestration and execution at half the cost of major cloud providers.",
     "one_liner": "Vercel For GPUs",
     "team_size": 3,
@@ -23063,6 +23061,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/archal.json"
   },
   {
+    "id": 31222,
+    "name": "Superset",
+    "slug": "superset",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9c4aa01fc589ba1d208558f7b720c6081f672b08.png",
+    "website": "https://www.superset.sh/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Superset helps engineers run 100s of coding agents in parallel. ",
+    "one_liner": "The IDE for the AI Agents Era",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1772696752,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "SaaS",
+      "Swarm AI",
+      "Open Source"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/superset",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/superset.json"
+  },
+  {
     "id": 31231,
     "name": "Glue",
     "slug": "glue",
@@ -23399,7 +23440,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0fb7d11f60217eaded2ae0e96dbee3bf9ebcd68c.png",
     "website": "https://www.runtm.com/",
-    "all_locations": "CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Runtime (runtm.com) gives engineering teams control and visibility to enable anyone in their org to use coding agents securely.\r\n\r\nEng leaders rolling out coding agents have no way to see what's happening, set boundaries, or safely let non-engineers use them. We provide sandboxed environments, session-level observability, and configurable guardrails so anyone on your team can ship with coding agents without breaking prod.\r\n\r\nWe're live with fast-growing YC scaleups empowering their Engineers, PMs, designers, marketers, and ops to contribute to their codebase or build prod-grade zero-to-one apps.",
     "one_liner": "Let all your team ship safely with coding agents",
     "team_size": 3,

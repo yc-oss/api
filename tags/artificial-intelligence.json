@@ -6272,17 +6272,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc4c9a8bb7a853c14be4dac967fb9717f36fca1c.png",
     "website": "https://airbyte.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Airbyte is the leading open data movement platform that empowers data teams in the AI era by transforming raw data into actionable intelligence. With the largest catalog of over 350 connectors, it offers low-code, no-code, and AI-powered connector development, and provides flexible deployment options across self-hosted, cloud, and hybrid environments. \r\n\r\nhttps://github.com/airbytehq/airbyte",
-    "one_liner": "Open Data Movement Platform",
+    "long_description": "Airbyte Agents is the context layer your AI agents query before they act. Features the Context Store, which unifies entities across Salesforce, Stripe, Zendesk and more. Use it from the UI, your LLM via MCP, or our SDK. 40% fewer tool calls, up to 80% fewer tokens.\r\n\r\nAirbyte Data Replication is the leading open data movement platform that empowers data teams in the AI era by transforming raw data into actionable intelligence. \r\n\r\nhttps://github.com/airbytehq/",
+    "one_liner": "Context layer for production-grade AI agents",
     "team_size": 90,
     "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
+    "subindustry": "B2B",
     "launched_at": 1584288236,
     "tags": [
       "Artificial Intelligence",
       "Developer Tools",
       "Open Source",
-      "Data Engineering"
+      "Data Engineering",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6291,14 +6292,11 @@
     "batch": "Winter 2020",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Infrastructure"
+      "B2B"
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -21340,7 +21338,7 @@
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
-    "batch": "Winter 2024",
+    "batch": "Spring 2026",
     "status": "Active",
     "industries": [
       "Consumer"
@@ -21357,7 +21355,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/jo",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/jo.json"
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/jo.json"
   },
   {
     "id": 29157,
@@ -28204,6 +28202,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/baseline-ai.json"
   },
   {
+    "id": 29797,
+    "name": "Haystack",
+    "slug": "haystackeditor",
+    "former_names": [
+      "Haystack Software"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd48721d6c682c48e30cb675f7793656d5a02a9f.png",
+    "website": "https://haystackeditor.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Haystack helps engineering teams manage the growing volume of AI-generated pull requests.\r\n\r\nCoding agents make it much easier to produce code, but they also create a new problem: teams now have more changes to review, many of them larger, more frequent, and harder to trust at a glance.\r\n\r\nHaystack sits on top of GitHub and acts as the control layer for AI-generated code changes. For every pull request, it looks at the codebase, the diff, the agent trace, the author’s intent, and any verification evidence like tests, logs, commands, or screenshots.\r\n\r\nThen Haystack decides what should happen next: whether the change can move forward, needs fixes, or should be reviewed by a human.\r\n\r\nTeams use Haystack to keep code moving without turning review into rubber-stamping. It helps them merge more code, focus human attention on the changes that actually need judgment, and maintain quality as AI-generated work becomes a bigger part of development.",
+    "one_liner": "The agent-native control layer for code changes",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1722315932,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "Productivity"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/haystackeditor",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/haystackeditor.json"
+  },
+  {
     "id": 29804,
     "name": "Thyme",
     "slug": "thyme",
@@ -33655,7 +33697,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -34409,49 +34451,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/text-ai",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/text-ai.json"
-  },
-  {
-    "id": 30557,
-    "name": "Aegis",
-    "slug": "aegis",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/36103b40de751e5ec5889840f60eec43dc493e69.png",
-    "website": "https://aegishealth.us/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Aegis is the all-in-one platform that helps healthcare providers recover lost revenue by automating insurance denial appeals—from intake to resolution. Built for billing teams, healthcare providers and hospitals.",
-    "one_liner": "AI Agents to win denied health insurance claims.",
-    "team_size": 3,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1745980735,
-    "tags": [
-      "Artificial Intelligence",
-      "Health Tech",
-      "Workflow Automation",
-      "Insurance",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/aegis",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/aegis.json"
   },
   {
     "id": 30561,
@@ -36980,7 +36979,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a1286c1ed0f215411585d2faaf1c76a245ee266.png",
     "website": "https://zavopay.com",
-    "all_locations": "London",
+    "all_locations": "London, United Kingdom",
     "long_description": "Zavo is the AI-powered operating system for restaurants.\r\n\r\nWe bring payments, point of sale, and AI agents into one unified platform, so restaurants can run their entire business seamlessly.\r\n\r\nFrom reservations to payments to POS, Zavo replaces fragmented tools with a fully integrated stack built in-house. Our AI agents automate repetitive tasks, streamline operations, and help teams focus on delivering great guest experiences.",
     "one_liner": "AI Operating System for Restaurants ",
     "team_size": 8,
@@ -37358,6 +37357,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/norra",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/norra.json"
+  },
+  {
+    "id": 30871,
+    "name": "Bron",
+    "slug": "bron",
+    "former_names": [
+      "PlayVision AI",
+      "PlayVision",
+      "PlayVision AI",
+      "PlayVision"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/322e036fa9ab0e06f47840b20ad078b02e03e79b.png",
+    "website": "https://askbron.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Bron is the ChatGPT for sports betting. Find +EV bets across 150+ sportsbooks and prediction markets, build parlays automatically, and surface the best bets of the day — in seconds.\r\n\r\nDownload Bron on the App Store here: https://apps.apple.com/us/app/bron-ai-sports-analysis/id6761323087",
+    "one_liner": "ChatGPT for Sports Betting",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1761579619,
+    "tags": [
+      "Artificial Intelligence",
+      "Sports Tech",
+      "Analytics",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bron",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/bron.json"
   },
   {
     "id": 30880,
@@ -38128,6 +38174,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/patent-watch",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/patent-watch.json"
+  },
+  {
+    "id": 30937,
+    "name": "Anto Biosciences",
+    "slug": "anto-biosciences",
+    "former_names": [
+      "Anto"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/83f56c369ac0fb5e70438516e774b8603717940a.png",
+    "website": "https://www.anto.bio/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Anto is building a foundation model for microbial communities, making the gut microbiome computable for the first time. We predict drug toxicity and efficacy across diverse populations and fix drugs so they work for everyone — solving the hidden root cause of most drug failures. \r\n\r\nFounded by Arvid (Broad Institute of MIT and Harvard; Nature-published researcher who pioneered quality-aware, goal-directed sparsification) and David (Harvard Medical School Gastroenterology, J&J), second-time founders who published the breakthrough at leading machine learning AI conferences and Nature. ",
+    "one_liner": "A Foundation Model for Microbial Communities.",
+    "team_size": 4,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1761948352,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Biotech",
+      "Genomics",
+      "Drug discovery"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/anto-biosciences",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/anto-biosciences.json"
   },
   {
     "id": 30946,
@@ -39031,6 +39121,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/voxel-energy",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/voxel-energy.json"
+  },
+  {
+    "id": 31222,
+    "name": "Superset",
+    "slug": "superset",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9c4aa01fc589ba1d208558f7b720c6081f672b08.png",
+    "website": "https://www.superset.sh/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Superset helps engineers run 100s of coding agents in parallel. ",
+    "one_liner": "The IDE for the AI Agents Era",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1772696752,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "SaaS",
+      "Swarm AI",
+      "Open Source"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/superset",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/superset.json"
   },
   {
     "id": 31223,
@@ -40279,6 +40412,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/projectx",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/projectx.json"
+  },
+  {
+    "id": 31511,
+    "name": "Arzana",
+    "slug": "arzana",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4785fcf24308f1fcad59fe3eda9fea668524c25f.png",
+    "website": "https://www.arzana.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Fortune 500 companies and the fastest-growing manufacturing firms use Arzana’s AI platform to automate order entry, quoting, and customer updates. So teams can scale faster, respond sooner, and grow without adding overhead.",
+    "one_liner": "AI automation for the manufacturing office",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1773098013,
+    "tags": [
+      "Artificial Intelligence",
+      "Manufacturing",
+      "Automation",
+      "Operations",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/arzana",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/arzana.json"
   },
   {
     "id": 31523,

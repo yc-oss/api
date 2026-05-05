@@ -5982,17 +5982,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd48721d6c682c48e30cb675f7793656d5a02a9f.png",
     "website": "https://haystackeditor.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Haystack helps teams review and merge more code without lowering quality.\r\n\r\nAs AI-generated pull requests become more common, code review shifts from reading every line to deciding what actually deserves human attention.\r\n\r\nHaystack uses full codebase context and agent traces to recover author intent, verify changes, and route only the risky or ambiguous work to reviewers.\r\n\r\nTeams use it to keep standards high while moving faster through a growing volume of changes.",
-    "one_liner": "AI review layer that decides which code changes need human attention",
+    "long_description": "Haystack helps engineering teams manage the growing volume of AI-generated pull requests.\r\n\r\nCoding agents make it much easier to produce code, but they also create a new problem: teams now have more changes to review, many of them larger, more frequent, and harder to trust at a glance.\r\n\r\nHaystack sits on top of GitHub and acts as the control layer for AI-generated code changes. For every pull request, it looks at the codebase, the diff, the agent trace, the author’s intent, and any verification evidence like tests, logs, commands, or screenshots.\r\n\r\nThen Haystack decides what should happen next: whether the change can move forward, needs fixes, or should be reviewed by a human.\r\n\r\nTeams use Haystack to keep code moving without turning review into rubber-stamping. It helps them merge more code, focus human attention on the changes that actually need judgment, and maintain quality as AI-generated work becomes a bigger part of development.",
+    "one_liner": "The agent-native control layer for code changes",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1722315932,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Productivity",
-      "AI"
+      "Productivity"
     ],
     "tags_highlighted": [],
     "top_company": false,
