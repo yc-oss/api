@@ -427,6 +427,49 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/sazabi.json"
   },
   {
+    "id": 31221,
+    "name": "Netter",
+    "slug": "netter",
+    "former_names": [
+      "Netter AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b2e86ec70fa3e3c6a1b8dc9f39e6aa2b5b7b5952.png",
+    "website": "https://netter.ai",
+    "all_locations": "",
+    "long_description": "Netter centralizes and structures traditional mid-market data to deploy analytics, workflows and ML pipelines.\r\n- A nursing home group was chasing unpaid invoices manually across disconnected tools. Netter centralized the collection workflows, automated reminders, real-time visibility, task routing.\r\n- A logistics operator had trucks running empty. Netter connected their TMS, ERP and fleet data, and automated route and load optimization. Less fuel, better margins.\r\n- A retail chain had years of loyalty card data sitting unused. Netter cross-referenced it with public demographic data to build precise customer segments and trigger the right promotions to the right people.\r\n",
+    "one_liner": "Data Science Autopilot for the real economy. ",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1778028550,
+    "tags": [
+      "Workflow Automation",
+      "Big Data",
+      "AI",
+      "ML"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/netter",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/netter.json"
+  },
+  {
     "id": 31222,
     "name": "Superset",
     "slug": "superset",
@@ -1010,6 +1053,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rudus",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/rudus.json"
+  },
+  {
+    "id": 31351,
+    "name": "Scope",
+    "slug": "scope",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6d0e13bdfef2fd20cec6977b8134ca84d57ab225.png",
+    "website": "https://tryscope.app",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Scope helps companies understand and improve how AI agents discover and use their product.\r\n\r\nAs more products gets used through AI agents like Claude Code, Codex, Cursor, and similar agents, agents are starting to influence which tools get chosen, how they get set up, and whether they keep getting used. Most companies still cannot see that process clearly.\r\n\r\nWe run real workflows across agents and show teams when the agent picks them versus a competitor, where it breaks, where docs or product surfaces confuse the agent, and what to change to get better results and a better agent experience.\r\n\r\nI started Scope after working on interpretability research for closed-source models at Princeton and later as an ML engineer in GEO/AEO. I kept seeing the same pattern: these systems were shaping real product discovery and usage, but companies had very little visibility into what the model was actually doing.\r\n\r\nWe are starting with products that agents can directly interact with, especially APIs, infra products, CLIs, and MCP servers.",
+    "one_liner": "We make your product discoverable and usable by any AI agent",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1778026418,
+    "tags": [
+      "Generative AI",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/scope",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/scope.json"
   },
   {
     "id": 31360,
@@ -1934,21 +2017,20 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0cae3b4c599e9e6ff92522ffbf541670c1a97669.png",
     "website": "https://standout.work",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Actors have agents. Athletes have agents.\r\nEvery elite performer has someone supporting their career. Except people in tech.\r\n\r\nStandout changes this.\r\n\r\nWe gather deep context on millions of talented builders, learning who they are, what they’ve built, and what they want next.\r\nThen we represent a small fraction of them and connect them to the best opportunities in the world.\r\n\r\nHelping exceptional builders reach their full potential.",
-    "one_liner": "The Hollywood agent for startup talent",
+    "long_description": "Standout gives every talent and company an autonomous agent that represents them, assess the other side, and makes intros when it matters.\r\n\r\nWhy it matters? Because this is hiring today:\r\n- Talent use AI to apply to 100s of jobs - this is spam.\r\n- Founders/Recruiting send 100s of AI-generated messages to hire the same talent - this is spam.\r\n\r\nThis has to stop.\r\n\r\nTalent stays fully anonymous until they accept an intro. The best way for passively exploring the market and not missing a life changing opportunity.\r\n\r\nIn 1 month, 10k talent / 60 companies / 100 intros.",
+    "one_liner": "Agentic hiring marketplace",
     "team_size": 3,
     "industry": "Consumer",
     "subindustry": "Consumer -> Job and Career Services",
     "launched_at": 1773415057,
     "tags": [
-      "Artificial Intelligence",
-      "Consumer",
-      "Recruiting",
+      "Marketplace",
+      "AI",
       "Careers"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2026",
     "status": "Active",
@@ -2100,7 +2182,7 @@
     "former_names": [
       "RentAHuman AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7890eeb84993f21c597e6eedfe3a2e603178f14f.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b67f36dd87617d3ebd7151d1c77707aaa16c25f.png",
     "website": "https://rentahuman.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
@@ -2110,8 +2192,8 @@
     "subindustry": "Consumer -> Job and Career Services",
     "launched_at": 1776727730,
     "tags": [
-      "Marketplace",
-      "AI"
+      "Artificial Intelligence",
+      "Marketplace"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2846,6 +2928,48 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/lumius.json"
   },
   {
+    "id": 31436,
+    "name": "Prototyping.io",
+    "slug": "prototypingio",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f7df040bbed273d21312d9b7e349583e363f5e4.png",
+    "website": "https://www.prototyping.io",
+    "all_locations": "Sunnyvale, CA, USA",
+    "long_description": "Prototyping.io turns CAD designs into real mechanical parts through an AI-driven manufacturing system. We analyze designs for manufacturability and automate production workflows to deliver high-quality parts faster and at lower cost.\r\n",
+    "one_liner": "Autonomous manufacturing for mechanical parts",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1774425608,
+    "tags": [
+      "Artificial Intelligence",
+      "Hardware",
+      "Manufacturing",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/prototypingio",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/prototypingio.json"
+  },
+  {
     "id": 31437,
     "name": "Sidekick",
     "slug": "textsidekick",
@@ -3146,8 +3270,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8149769a0781242dca23d1bed75bdf39b4b9dba6.png",
     "website": "https://archermoney.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Archer helps companies automatically pay people when specific business outcomes happen. Instead of manually managing commissions, referrals, or incentive programs, companies can tie payouts directly to things like revenue, signups, onboarding processes, and Archer handles tracking, calculation, and payouts end-to-end using stablecoins. Users are able to spin up the programs using a simple natural language interface.\r\n\r\nToday, every company already spends money to drive behavior, sales bonuses, referral payouts, creator deals, marketplace incentives, but these systems are static, manual, and fragmented across spreadsheets, internal tools, and finance workflows. The result is billions of dollars in incentive spend that is poorly optimized and disconnected from actual outcomes.\r\n\r\nArcher makes this programmable. Companies can define what they want to reward using natural language and only pay when measurable value is created. This turns incentives from a cost center into a lever for growth, allowing teams to continuously test and optimize how money drives behavior across employees, partners, and users.",
-    "one_liner": "Instant payouts for work and incentives.",
+    "long_description": "Payout anything. Anywhere. Anytime.\r\n\r\nArcher is a conversational AI platform that turns any event into an instant payout.\r\nDefine a behavior in plain English. Archer tracks it. Money and rewards move automatically.\r\n\r\nWe deploy AI agents with the ability to send payments and rewards globally using stablecoin and card rails.\r\nNo dashboards. No manual ops. No engineering bottlenecks.\r\n\r\nIf something happens in your product or business, Archer can pay on it.\r\n\r\nExamples:\r\nPay users as they complete onboarding steps\r\nSend partners revenue share when deals close\r\nTrigger commissions the moment a sale happens\r\nReward customers with physical gifts based on milestones\r\nAutomate payouts for creators, affiliates, and teams in real time\r\n\r\nArcher acts as your autonomous payout layer.\r\nIt connects to your data, tracks any metric you care about, and executes instantly when conditions are met.\r\n\r\nFrom user growth to partner programs to internal performance.\r\nIf you can define it, Archer pays it.\r\n\r\nThe interface for money is changing.\r\nTalk to your bank. Program your money. Let Archer run the rest.",
+    "one_liner": "Payout. Anything.",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
@@ -3387,6 +3511,46 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/plan0-ai.json"
   },
   {
+    "id": 31468,
+    "name": "Chronicle Labs",
+    "slug": "chronicle-labs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e6cfdb2b03f7cc6e2abb97466ff1635be02eb5c.png",
+    "website": "https://chronicle-labs.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Chronicle Labs is a staging environment for enterprise AI agents: we capture every event the agent sees in production and backtest it, so customers can safely test new behaviors without breaking anything.",
+    "one_liner": "Staging Environments for Enterprise AI Agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1778001486,
+    "tags": [
+      "AIOps",
+      "SaaS",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/chronicle-labs",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/chronicle-labs.json"
+  },
+  {
     "id": 31470,
     "name": "Tasklet",
     "slug": "tasklet-2",
@@ -3581,6 +3745,47 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/silmaril.json"
   },
   {
+    "id": 31480,
+    "name": "Pops",
+    "slug": "pops",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ff1807225bc4aea4a50ef4d5315e963925c04afd.png",
+    "website": "https://pops.fyi",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Pops lets people play, remix, and share AI games with friends.\r\n\r\nDiscover an infinite feed of games, challenges, quizzes, and other fun interactive experiences made by others. Every play instantly becomes a funny gameplay/reaction video you can send to friends, post online, or use to challenge someone to beat your score.\r\n\r\nFor creators, Pops makes it easier than ever to bring ideas to life and get them played. Instead of learning complex game engines, writing code, or fighting for distribution, anyone can create or remix a playable game in seconds. Bring your ideas, and Pops brings the audience.",
+    "one_liner": "Create & play AI games with friends",
+    "team_size": 1,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Gaming",
+    "launched_at": 1778022680,
+    "tags": [
+      "Generative AI",
+      "Consumer",
+      "Gaming"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Gaming"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pops",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/pops.json"
+  },
+  {
     "id": 31481,
     "name": "Saudara AI",
     "slug": "saudara-ai",
@@ -3666,6 +3871,49 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/memory-store.json"
   },
   {
+    "id": 31485,
+    "name": "ANORIA",
+    "slug": "anoria",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/da4a14a3baf739d13d28c4b5fd536756215a6801.png",
+    "website": "https://www.anoria.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We've spent decades tracking everything. Sleep. Recovery. Steps. All proxies for how we feel. Performance is 90% mental. And yet no one has built the feedback loop for our emotions. We close that loop by designing a device that understands how you feel, tells you why, and what you can do about it. Emotional intelligence becomes trainable, so you can better connect and create with those around you.",
+    "one_liner": "The first wearable that reads your emotions to enhance your EQ. ",
+    "team_size": 5,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Consumer Electronics",
+    "launched_at": 1777953945,
+    "tags": [
+      "Artificial Intelligence",
+      "Hardware",
+      "Mental Health Tech",
+      "Consumer Health Services",
+      "Consumer Products"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Consumer Electronics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/anoria",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/anoria.json"
+  },
+  {
     "id": 31486,
     "name": "Ornadyne",
     "slug": "ornadyne",
@@ -3715,16 +3963,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdcff33c87fe29fc884e55a8d2475dd3ed741f53.png",
     "website": "https://foaster.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Foaster is an AI-native partner for AI transformation. \r\n\r\nWe help companies become AI-native by building a deep understanding of how they actually operate, then using that understanding to decide where AI should be deployed, what should change, and how to make the transformation stick.\r\n\r\nOur AI agents conduct private 45-minute interviews across the organization, in parallel, to capture how work really happens: workflows, tools, handoffs, bottlenecks, dependencies, and what people think should change. \r\n\r\nFrom those interviews, we build a living operational map of the company and use it to produce transformation blueprints grounded in real operational data. \r\n\r\nThis is work that, done manually, would have required very large teams working full-time. AI is what allows us to do it with far greater speed, depth, and consistency.\r\n\r\nAnd we do not stop at a one-off plan. Every month, our system updates its understanding of the business, tracks adoption, refreshes the operational map, surfaces new opportunities, and delivers personalized AI upskilling to employees based on their exact role and context. \r\n\r\nOur human experts focus where humans matter most: validating recommendations, building trust, and helping companies execute over time. For enterprise deployments, our forward-deployed engineers help embed AI directly into workflows and systems.",
-    "one_liner": "Your AI-native partner for AI transformation. ",
+    "long_description": "Foaster is an AI-native consulting firm for AI transformation, powered by agents instead of armies of consultants.\r\n\r\nCompanies are spending millions on AI tools, pilots, workshops, and roadmaps. But most confuse AI adoption with AI transformation. Adoption is buying tools. Transformation is understanding how work should change across every team, workflow, and role. Traditional consulting moves too slowly for that: a few interviews, a few workshops, a static roadmap, then the company is left to execute.\r\n\r\nFoaster uses AI agents to go much faster and much deeper. Agents interview employees at scale, map how work actually happens, and build in days a roadmap showing what should be automated, redesigned, or improved first. Then Foaster stays embedded to keep the transformation moving through adoption tracking, deeply personalized upskilling, and continuous follow-up.\r\n\r\nThe result is the precision and scale of AI, with human experts brought in where judgment, expertise and implementation matter most.",
+    "one_liner": "Agents that help your company transform for AI.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1773744030,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3926,7 +4174,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/79f117b2c0a8e5660f929ae9a8070ce8dd61d0ff.png",
     "website": "https://openworklabs.com",
-    "all_locations": "CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "OpenWork is a desktop app that lets people connect to their existing skills, MCPs, and agents. Users can download the app for free, try it with over 50+ model providers, and easily share their setup with their team.",
     "one_liner": "The open source alternative to Claude Cowork",
     "team_size": 4,
@@ -4296,6 +4544,48 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/indexable.json"
   },
   {
+    "id": 31524,
+    "name": "AgentPhone",
+    "slug": "agentphone",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/78e3ea34a9d85939aea1d2c30105838c61d54547.png",
+    "website": "https://www.agentphone.to/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Phone Numbers for AI Agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1778010009,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "API",
+      "Telecommunications"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/agentphone",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/agentphone.json"
+  },
+  {
     "id": 31527,
     "name": "Revnu",
     "slug": "revnu",
@@ -4521,7 +4811,7 @@
     "website": "https://www.klaimee.ai",
     "all_locations": "",
     "long_description": "Klaimee is the first insurance for your AI agents. It covers what traditional E&O and cyber explicitly carve out, so you can deploy agentic AI at scale with real peace of mind.\r\nBuilt for companies deploying agentic AI, self-serve from day one.\r\n\r\nThe problem: AI agents are taking actions autonomously buying, emailing, modifying sensitive data. AB 316 already holds deployers liable. EU AI Act enforces in August. Cyber and E&O insurance are excluding AI claims. Companies shipping agents have zero coverage and no third-party proof their agent is safe. Enterprise legal asks \"who pays if your agent breaks something?\" and there's no good answer.\r\n                                                                                                                                                                                                                                        \r\nWe built the answer. Critical-category risk evaluation, certification, financial guarantee, liability insurance and the documentation enterprise procurement needs to sign off.\r\n\r\nTeam: Ines (ex-General Manager at SafetyWing, grew insurance product from $5M to $60M revenue, 5 years launching insurance products from scratch and structuring a TokioMarine MGA into its own carrier) + Julien (AI software engineer + corporate strategy, enterprise compliance).\r\n\r\nWe understand how insurance works, what enterprises require, and why startups can't wait 6 months for either.",
-    "one_liner": "Insurance for the agentic world. You deploy agents, we cover you.",
+    "one_liner": "Liability insurance for AI Agents. You deploy agents, we cover you.",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
