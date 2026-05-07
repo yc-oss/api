@@ -2072,11 +2072,11 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea58757964e6a91a573e05252efa6451ce5f41bf.png",
     "website": "https://nanonets.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Nanonets is an AI-driven solution that automates document processing and data extraction workflows. Leveraging advanced Optical Character Recognition (OCR) and deep learning models, Nanonets helps companies automate document-heavy business processes like accounts payable, order processing and insurance underwriting.\r\n\r\nNanonets processes unstructured documents such as invoices, receipts, purchase orders, contracts, claims, and forms and converts them into structured output.",
+    "long_description": "AI agents break where it matters most: when the details are buried in an invoice, a BoL, or a clinical document. Most agents guess. They hallucinate field values, apply rules inconsistently, and when something goes wrong, you can’t tell why or fix it without redoing the work yourself.\r\n\r\nNanonets is built differently. Every extraction is traceable. You can see exactly what the agent read, what rule it applied, and why it made the call it did. When it’s uncertain, it flags the right thing for human review instead of silently getting it wrong. When you correct it, it learns. When you add business rules, it tracks which rule drove which decision.\r\n\r\nAnyone can build agentic workflows, but AI agents are black boxes that struggle with complex files and processes, like POs, invoices, BoLs and clinical documents. Nanonets agents understand key details in files, work through complex processes and act with transparency, making them the most reliable foundation for building workflows where details matter.\r\n\r\nNanonets reduces processing time by 95% by automating messy manual processes and delivering clean data to systems of record like SAP, SFDC and more. That’s why Nanonets is the automation layer global enterprises reach for when accuracy is non-negotiable.",
     "one_liner": "Automatic Data Extraction",
     "team_size": 102,
     "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "subindustry": "B2B -> Productivity",
     "launched_at": 1478742016,
     "tags": [
       "Developer Tools",
@@ -2092,7 +2092,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Engineering, Product and Design"
+      "Productivity"
     ],
     "regions": [
       "United States of America",
@@ -5098,7 +5098,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aa2c854ed688cf4ff0f5cf7f48786c533f00b943.png",
     "website": "https://metaplane.dev",
-    "all_locations": "NY, USA",
+    "all_locations": "New York City, NY, USA",
     "long_description": "Metaplane ensures everyone trusts the data that powers your business. Data teams at Bose, Ramp, and Klaviyo use our data observability platform to prevent and detect data issues — before the CEO pings them about weird revenue numbers.\r\n\r\nWe do this with ML-based anomaly detection, end-to-end column-level lineage, and tools to help prevent incidents before they occur. You can monitor your entire data stack within 30 minutes.\r\n\r\nThe company is backed by Khosla Ventures, Y Combinator, and the founders of Okta, HubSpot, and Vercel.",
     "one_liner": "Data observability for modern data teams",
     "team_size": 32,
@@ -21133,49 +21133,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/cactus.json"
   },
   {
-    "id": 30521,
-    "name": "Janus",
-    "slug": "janus",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b44f7b050ecc3ee1451baeb4e0a733b19937955.png",
-    "website": "https://www.withjanus.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Janus automates AI evaluations by using high-fidelity simulation environments, catching failures in reasoning, compliance, tool usage, and performance. \r\n\r\nThe resulting datasets benchmark products and feed post-training loops to continuously improve performance over time.",
-    "one_liner": "Evaluate AI Agents with Simulation Environments",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1748466933,
-    "tags": [
-      "AIOps",
-      "Developer Tools",
-      "Reinforcement Learning",
-      "Monitoring",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/janus",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/janus.json"
-  },
-  {
     "id": 30539,
     "name": "mlop",
     "slug": "mlop",
@@ -22172,7 +22129,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/200fe1fa3e40bd9aed419582490f17ed6cf00c37.png",
     "website": "https://luminal.com",
-    "all_locations": "CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Luminal builds an ML framework and compiler that generates GPU code.\r\nOur stack 10x's model speed while simplifying deployment and cutting idle GPU costs\r\n\r\nGithub: https://github.com/luminal-ai/luminal\r\nDiscord: https://discord.gg/APjuwHAbGy",
     "one_liner": "Making AI run fast on any hardware.",
     "team_size": 3,
@@ -23439,17 +23396,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/78e3ea34a9d85939aea1d2c30105838c61d54547.png",
     "website": "https://www.agentphone.to/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
+    "long_description": "Agents can't act in the real world today. They need carrier access, identity, and trust. AgentPhone gives every agent its own phone number to reach people through messages and calls.",
     "one_liner": "Phone Numbers for AI Agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1778010009,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "API",
-      "Telecommunications"
+      "Telecommunications",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -23564,8 +23521,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/de52713fe1552551dbe8aa2a5e60202c09bfc0d7.png",
     "website": "https://insforge.dev/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "InsForge is a backend platform built for AI coding agents. Unlike traditional backends designed for humans, InsForge exposes backend primitives like databases and auth through a semantic layer that agents can natively understand and operate, so teams can ship fullstack apps without backend bottlenecks.",
-    "one_liner": "The backend AI agents can actually use",
+    "long_description": "InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.",
+    "one_liner": "The backend platform for AI-native developers",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",

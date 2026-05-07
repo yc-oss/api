@@ -1921,23 +1921,24 @@
   },
   {
     "id": 30521,
-    "name": "Janus",
-    "slug": "janus",
-    "former_names": [],
+    "name": "Kairos",
+    "slug": "kairos",
+    "former_names": [
+      "Janus"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b44f7b050ecc3ee1451baeb4e0a733b19937955.png",
-    "website": "https://www.withjanus.com/",
+    "website": "https://www.withkairos.co/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Janus automates AI evaluations by using high-fidelity simulation environments, catching failures in reasoning, compliance, tool usage, and performance. \r\n\r\nThe resulting datasets benchmark products and feed post-training loops to continuously improve performance over time.",
-    "one_liner": "Evaluate AI Agents with Simulation Environments",
+    "long_description": "Kairos closes the last-mile reliability gap in AI deployments. \r\n\r\nWe bring frontier techniques to companies in critical industries, deploying specialized agents that encode operator expertise and reliably automate their most manual workflows.",
+    "one_liner": "Specialized AI for Critical Industries",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1748466933,
     "tags": [
       "AIOps",
-      "Developer Tools",
+      "Machine Learning",
       "Reinforcement Learning",
-      "Monitoring",
       "AI"
     ],
     "tags_highlighted": [],
@@ -1959,8 +1960,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/janus",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/janus.json"
+    "url": "https://www.ycombinator.com/companies/kairos",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/kairos.json"
   },
   {
     "id": 30539,
@@ -2139,7 +2140,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/200fe1fa3e40bd9aed419582490f17ed6cf00c37.png",
     "website": "https://luminal.com",
-    "all_locations": "CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Luminal builds an ML framework and compiler that generates GPU code.\r\nOur stack 10x's model speed while simplifying deployment and cutting idle GPU costs\r\n\r\nGithub: https://github.com/luminal-ai/luminal\r\nDiscord: https://discord.gg/APjuwHAbGy",
     "one_liner": "Making AI run fast on any hardware.",
     "team_size": 3,

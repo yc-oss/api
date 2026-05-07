@@ -1396,6 +1396,46 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2014/cambly.json"
   },
   {
+    "id": 585,
+    "name": "Noora Health",
+    "slug": "noora-health",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b4cd850f3939d61304f38ffc3355cec0cadbdab2.png",
+    "website": "http://noorahealth.org",
+    "all_locations": "Bengaluru, KA, India",
+    "long_description": "Noora Health trains patient families with high-impact health skills that improve outcomes and save lives. Our model provides basic yet vital care knowledge through trusted providers by creating a scalable program for caregiving education and training within\r\nthe established healthcare system. This model expands the care umbrella\r\nto include those closest to the patient — their family and community. Noora Health has trained over 30 million caregivers and patients across over 12,400 healthcare facilities in India, Bangladesh, Indonesia, and Nepal. The program reduces cardiac surgery complications by 71%, newborn readmissions by 56%, and neonatal mortality by 18%. By 2028, Noora Health will expand to reach over 70 million caregivers and\r\npatients. ",
+    "one_liner": "Training patients and their families with health skills",
+    "team_size": 500,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1384978665,
+    "tags": [
+      "Consumer Health Services"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": true,
+    "batch": "Winter 2014",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "India",
+      "South Asia",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/noora-health",
+    "api": "https://yc-oss.github.io/api/batches/winter-2014/noora-health.json"
+  },
+  {
     "id": 595,
     "name": "Flexport",
     "slug": "flexport",
@@ -5554,11 +5594,11 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea58757964e6a91a573e05252efa6451ce5f41bf.png",
     "website": "https://nanonets.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Nanonets is an AI-driven solution that automates document processing and data extraction workflows. Leveraging advanced Optical Character Recognition (OCR) and deep learning models, Nanonets helps companies automate document-heavy business processes like accounts payable, order processing and insurance underwriting.\r\n\r\nNanonets processes unstructured documents such as invoices, receipts, purchase orders, contracts, claims, and forms and converts them into structured output.",
+    "long_description": "AI agents break where it matters most: when the details are buried in an invoice, a BoL, or a clinical document. Most agents guess. They hallucinate field values, apply rules inconsistently, and when something goes wrong, you can’t tell why or fix it without redoing the work yourself.\r\n\r\nNanonets is built differently. Every extraction is traceable. You can see exactly what the agent read, what rule it applied, and why it made the call it did. When it’s uncertain, it flags the right thing for human review instead of silently getting it wrong. When you correct it, it learns. When you add business rules, it tracks which rule drove which decision.\r\n\r\nAnyone can build agentic workflows, but AI agents are black boxes that struggle with complex files and processes, like POs, invoices, BoLs and clinical documents. Nanonets agents understand key details in files, work through complex processes and act with transparency, making them the most reliable foundation for building workflows where details matter.\r\n\r\nNanonets reduces processing time by 95% by automating messy manual processes and delivering clean data to systems of record like SAP, SFDC and more. That’s why Nanonets is the automation layer global enterprises reach for when accuracy is non-negotiable.",
     "one_liner": "Automatic Data Extraction",
     "team_size": 102,
     "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "subindustry": "B2B -> Productivity",
     "launched_at": 1478742016,
     "tags": [
       "Developer Tools",
@@ -5574,7 +5614,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Engineering, Product and Design"
+      "Productivity"
     ],
     "regions": [
       "United States of America",
@@ -7745,49 +7785,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2018/replit.json"
   },
   {
-    "id": 1884,
-    "name": "Curebase",
-    "slug": "curebase",
-    "former_names": [
-      "tlemberg"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/743d6b742bf525fbb43068b05726fc770af763b7.png",
-    "website": "https://www.curebase.ai/",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Curebase is the modern eClinical platform built for flexibility, usability, and full-study oversight. We empower sponsors, CROs, and sites to launch studies faster, deliver better participant experiences, and seamlessly capture data with next-gen, AI-powered ePRO, eConsent, engagement tools, and integrated EDC.",
-    "one_liner": "Modern, AI-powered clinical trial software platform.",
-    "team_size": 27,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare Services",
-    "launched_at": 1524535493,
-    "tags": [
-      "Healthcare"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2018",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare Services"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/curebase",
-    "api": "https://yc-oss.github.io/api/batches/summer-2018/curebase.json"
-  },
-  {
     "id": 1889,
     "name": "OWNY",
     "slug": "owny",
@@ -9520,8 +9517,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a8bf2233f3d639f46c87be05e11eb153ca925d88.png",
     "website": "https://centaur.ai/",
     "all_locations": "Boston, MA, USA",
-    "long_description": "",
-    "one_liner": "Quality-first data labeling for model evaluation and training",
+    "long_description": "The best AI models aren’t just trained and evaluated with human data; they’re built with superhuman data. The strongest datasets emerge through collective intelligence, where humans and machines work together to outperform either one alone. At Centaur, we create superior quality data by turning annotation into an arena where experts and AI compete.",
+    "one_liner": "We Create Superior Data By Making Annotation Competitive",
     "team_size": 45,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
@@ -17637,7 +17634,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -23428,48 +23425,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2021/zensors-inc.json"
   },
   {
-    "id": 24488,
-    "name": "Heimdal",
-    "slug": "heimdal",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/59d7a492c16a589b2127d73b70edf9aee906b7db.png",
-    "website": "https://www.heimdalccu.com",
-    "all_locations": "Denver, CO, USA",
-    "long_description": "Heimdal builds machines that permanently capture and store atmospheric CO2. We are building technology that profitably captures CO2 with this tax credit, right here in the United States. Our first deployment is Bantam, the largest DAC facility in the US with the lowest cost per ton anywhere in the world.",
-    "one_liner": "Affordable and verified direct air carbon capture and storage",
-    "team_size": 12,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Climate",
-    "launched_at": 1626356816,
-    "tags": [
-      "Carbon Capture and Removal",
-      "Climate"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2021",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Climate"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/heimdal",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/heimdal.json"
-  },
-  {
     "id": 24489,
     "name": "HeyCharge",
     "slug": "heycharge",
@@ -28932,7 +28887,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/138a9ab05de536189c7973eacdc2ce67a9ebddc0.png",
     "website": "https://mymindbase.ai",
-    "all_locations": "Gurugram, HR, India; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Mindbase is an AI avatar platform where we launch AI avatars of real human as well create artificial entities and grow them on Instagram/Youtube like a influencer using AI content strategies. \r\n\r\nWe give each AI influencer its own email, phone number and WhatsApp account so they can build deep relationships like a human creator would. \r\n\r\nAlready, generating over 5m+ daily views with just a network of 10+ AI influencers.\r\n\r\nOur business model is simple: brands pay us between $1,000 to $4,000 per month per AI influencer. One of our brand partners generated $45,000 in sales from a $3,000 spend, achieving a 15X ROAS.\r\n\r\nWe believe this is just the beginning.  We can generate $20,000 annually per AI influencer. With just 5000 AI influencers we can quickly scale to $100 million ARR business. \r\n\r\nTo put that in perspective: there are over 400 million regular human influencers globally. Even if we just target a fraction of the market, it’s a massive thing.\r\n\r\nOur team is the key to making this happen. We're alumni of IIT and repeat founders. Previously, built TradeX, a prediction market platform, scaled that to $40 million in monthly trading volume with 5 million users. That success was driven by our trend tracking system & influencer partnerships, the very same expertise we're now using to build Mindbase.\r\n",
     "one_liner": "Build AI influencers that autonomously create content, engage fans…",
     "team_size": 7,
@@ -28956,8 +28911,8 @@
       "Marketing"
     ],
     "regions": [
-      "India",
-      "South Asia",
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -32381,7 +32336,7 @@
     "name": "Rubbrband",
     "slug": "rubbrband",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/edbdef67f732120578d082d14f588ee6d68e7720.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5720d48d89fcdf16b2887231b42541c2a4f1da5b.png",
     "website": "https://rubbrband.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Rubbrband is an creative agency that creates trailers, ads, and stories of the highest quality. Built by a team of creatives and engineers from Hollywood, we’re scaling that level of production for a new generation of brands.",
@@ -33699,7 +33654,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Vooma is the AI agent for logistics. We help our customers automate manual tasks and focus on work that drives business value.\r\n\r\nMike built self driving trucks as a founding engineer at Kodiak Robotics (prev. Uber, Otto) and led their motion planning and safety teams. Jesse grew a private equity backed logistics software company from $2M to $20M+ as CEO.",
     "one_liner": "Automation platform for logistics",
-    "team_size": 3,
+    "team_size": 30,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1677551717,
@@ -33718,7 +33673,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -34492,10 +34447,10 @@
     "subindustry": "B2B -> Security",
     "launched_at": 1677704898,
     "tags": [
+      "Artificial Intelligence",
       "Compliance",
       "Cybersecurity",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -35321,7 +35276,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b0f3c94a7859923f3ba272902a34a8093dda07dd.png",
     "website": "https://useconstant.com",
-    "all_locations": "CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Institutional-grade AI, replicating a team of top analysts.",
     "one_liner": "AI Analysts for the Buy-Side",
     "team_size": 2,
@@ -36154,9 +36109,9 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/395716f6d146dcf41e580e9125238862d3acb64d.png",
     "website": "https://yn.app/",
-    "all_locations": "CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Y/n is the most entertaining app in the world.\r\n\r\nOn Y/n, you play a character in a story. Be a boarding school transfer student and get the boys to fall in love with you, or figure out a jailbreak with Sherlock Holmes.\r\n\r\nYour choices change the story and how characters feel about you (oops!) – so no two playthroughs are the same (but you can rewind).\r\n\r\n■ Play interactive romance, drama, fanfiction, mysteries, fantasy, fluff (or angst), and more.\r\n■ Discover 1M+ stories written by the community. \r\n■ Write and publish your own interactive stories.\r\n\r\nDownload Y/n and try for yourself!",
-    "one_liner": "Interactive Stories",
+    "one_liner": "Play a fun story",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer -> Content",
@@ -45019,7 +44974,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/069321145273b85ba7d87787840c61562c041b8f.png",
     "website": "https://www.prohost.ai/",
-    "all_locations": "NY, USA",
+    "all_locations": "New York City, NY, USA",
     "long_description": "ProhostAI is building an AI Property Manager for short-term rental hosts on Airbnb and other platforms. Our team consists of an ex-Airbnb Staff Data Scientist and Dropbox Sr Software Engineer who are also Superhosts with 9 properties worth $15M making $1.5M/yr.",
     "one_liner": "AI Property Manager for Airbnb & Short-Term Rental Hosts",
     "team_size": 5,
@@ -47967,16 +47922,16 @@
     "all_locations": "New York, NY, USA",
     "long_description": "YouShift uses AI to automate hospital shift scheduling, replacing legacy software and eliminating the need for full-time schedulers. And scheduling is just the beginning — we're building the future of healthcare workforce management.",
     "one_liner": "The OS for hospital workforce management",
-    "team_size": 5,
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Human Resources",
     "launched_at": 1738883676,
     "tags": [
+      "Artificial Intelligence",
       "Health Tech",
       "Healthcare",
       "HR Tech",
-      "Operations",
-      "AI"
+      "Operations"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49273,7 +49228,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a0e73c4d8c73910405ffe3b999578c9cd45ed9dd.png",
     "website": "https://www.moonsethealth.com/",
-    "all_locations": "WA, USA",
+    "all_locations": "Seattle, WA, USA",
     "long_description": "",
     "one_liner": "AI for Post-Acute Senior Care (Hospice, Home Health, Skilled Nursing…",
     "team_size": 4,
@@ -49895,6 +49850,49 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/crustdata.json"
   },
   {
+    "id": 30080,
+    "name": "Dexter",
+    "slug": "dexter",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc1d327c6dd1df139ea6177767194e0a1289d32b.png",
+    "website": "https://www.getdexter.co/",
+    "all_locations": "Berlin, Berlin, Germany",
+    "long_description": "Dexter helps procurement teams understand exactly where money is being spent and where it can be saved. Dexter's AI agents mine supplier invoices and contracts for insights, surfacing consolidation opportunities, contract leakage, and off-contract spend. ",
+    "one_liner": "Spend Intelligence for Complex Enterprises",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1727913374,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Analytics",
+      "Procurement",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "Germany",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dexter",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/dexter.json"
+  },
+  {
     "id": 30083,
     "name": "Curo",
     "slug": "curo",
@@ -49982,7 +49980,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b817d9ff432f589aa1f3d4acdce2adb596dc372c.png",
     "website": "https://fresco-ai.com/",
-    "all_locations": "CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Fresco is an AI-powered takeoff and estimating for Division 8 construction (doors, frames, and hardware).\r\n\r\nEstimating Division 8 has always been brutally manual: flipping through hundreds of pages of specs, cross-referencing hardware sets, and building out schedules by hand. A single missed door or misread hardware group can kill a bid's margin.\r\n\r\nFresco automates the entire takeoff process with 99% accuracy, cutting the time estimators spend on takeoffs by 70%. We've processed 3,000+ takeoffs for general contractors and Division 8 subs, and we're becoming the system of record for how this trade gets estimated.\r\n\r\nDivision 8 is our beachhead: it's complex enough that AI creates massive value, and siloed enough that the incumbents haven't solved it. We're starting here and expanding across the spec trades.",
     "one_liner": "AI copilot for construction estimators",
     "team_size": 2,
@@ -51078,15 +51076,15 @@
     "website": "https://contrario.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Contrario is on a mission to help companies build generational teams.\r\n\r\nIn the age of AI, the best teams are still built by the best people. Recruiting has become a zero-sum game where speed and quality decide who wins.\r\n\r\nContrario is a network of expert recruiters supercharged by vertical AI agents purpose-built for hiring. Teams at Wispr Flow, Listen Labs, Slash, and 200+ of the fastest-growing companies use Contrario to power their hiring.\r\n\r\nIn under six months, Contrario has crossed $6M in annualized revenue, paid out $1M+ to recruiters, and placed 150+ candidates — making it one of the fastest-growing AI recruiting platforms on the market.\r\n\r\nBacked by Y Combinator, Nexus Venture Partners, Goodwater Capital, and Inventum Ventures, alongside angels including David Chen (ex-HRT), Abhijeet Dwivedi (OpenAI), Hank Couture (DoorDash), and Jerry Cain (Stanford CS). Built by Stanford dropouts. Headquartered in San Francisco.",
-    "one_liner": "The agentic layer for hiring, powered by expert recruiters",
+    "one_liner": "AI recruiting platform powered by expert recruiters",
     "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1740035301,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
-      "Recruiting"
+      "Recruiting",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -52902,7 +52900,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9bbd5c88222cf5eb971b76232ac40284413785f0.png",
     "website": "https://proception.ai/",
-    "all_locations": "CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "",
     "one_liner": "Making humanoids dexterous enough to thread a needle",
     "team_size": 10,
@@ -54673,7 +54671,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5dc1e2e5cc8a224ba29a91be64f14ab1fbc9cde3.png",
     "website": "https://www.novoflow.io/",
-    "all_locations": "CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Novoflow is building AI employees that automate medical operations for clinics. Novoflow built the universal bridge into EHR systems—so every workflow, from scheduling to billing, can finally run on AI. The first product is an AI employee that talks to patients and uses computer agents to book, reschedule, and recover cancelled appointments. Built for healthcare providers and hospitals.",
     "one_liner": "AI employees that automate medical operations for clinics. ",
     "team_size": 6,
@@ -55002,7 +55000,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67f8fa73a583138ab0060e99d6a10e8341a0d040.png",
     "website": "https://www.mindfort.ai",
-    "all_locations": "CA, USA",
+    "all_locations": "Los Angeles, CA, USA",
     "long_description": "MindFort is building fully autonomous AI agents powered by their in-house models that can find, exploit, and patch complex vulnerabilities in web applications at massive scale. MindFort agents use the same principles as human penetration testers to understand their target and figure out the best ways to work together to exploit it. We can do fully autonomous AI web pentesting and bring offensive security to teams out numbered. \r\n\r\nWhile security teams were already behind with legacy tools and processes, AI coding is make the problem worse. AI generates code far faster than human teams can secure it; MindFort can match that speed and scale. Our agents will become critical as organizations scale up development with AI.\r\n",
     "one_liner": "Autonomous Security Agents",
     "team_size": 5,
@@ -55707,7 +55705,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/465a7528e2de2669ab4bb994eb9cb8630eff6db1.png",
     "website": "https://www.promptingcompany.com",
-    "all_locations": "CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "The problem:\r\nPeople are no longer searching on Google. They’re ASKING AI. If your product doesn’t appear in AI answers, you’re dead.\r\n\r\nHow it works:\r\n1. Find & analyze user questions: We find the exact questions your users ask and check how often your product is mentioned.\r\n2. Create content: We tell you what to post, where to post, and do it for you.\r\n3. Route to AI-optimized page: We redirect AI traffic to AI-optimized page\r\n\r\nOffer: Get your free AI visibility report → promptingcompany.com",
     "one_liner": "We help products get mentioned in ChatGPT.",
     "team_size": 4,
@@ -57998,46 +57996,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/duranium.json"
   },
   {
-    "id": 30782,
-    "name": "TectoAI",
-    "slug": "tectoai",
-    "former_names": [
-      "TectoAI Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/660e2396a1d079a64a42ea2a4ce4b81cefd385f0.png",
-    "website": "https://www.tecto.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We help your company identify roles that can be filled by agentic AI tools, onboard them quickly, monitor their performance and behavior post deployment, ensure they remain compliant, and aligned with regulations. Tecto is building the governance platform for managing the AI stack! ",
-    "one_liner": "A Platform for AI Governance",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1752441321,
-    "tags": [
-      "Artificial Intelligence"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tectoai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/tectoai.json"
-  },
-  {
     "id": 30789,
     "name": "Interfere",
     "slug": "interfere",
@@ -58130,7 +58088,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/65242d9e142c66d4afe70eb47ebf05c1dcff789c.png",
     "website": "https://noso.so",
-    "all_locations": "CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "In the home services industry, field technicians are expected to handle three key tasks: diagnosing issues, making sales, and completing paperwork. It's rare to find individuals who excel at all three. We build AI agents to support technicians by improving diagnostic accuracy and helping them capture sales opportunities.",
     "one_liner": "Build AI agents for field technicians to diagnose and sell 10x better",
     "team_size": 3,
@@ -58331,7 +58289,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/200fe1fa3e40bd9aed419582490f17ed6cf00c37.png",
     "website": "https://luminal.com",
-    "all_locations": "CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Luminal builds an ML framework and compiler that generates GPU code.\r\nOur stack 10x's model speed while simplifying deployment and cutting idle GPU costs\r\n\r\nGithub: https://github.com/luminal-ai/luminal\r\nDiscord: https://discord.gg/APjuwHAbGy",
     "one_liner": "Making AI run fast on any hardware.",
     "team_size": 3,
@@ -58365,6 +58323,47 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/luminal",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/luminal.json"
+  },
+  {
+    "id": 30806,
+    "name": "Uplift AI",
+    "slug": "uplift-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c2008e580fb1146da7922b566c2a03af87f5a0c.png",
+    "website": "https://upliftai.org/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We build Voice Models for regional languages (like Urdu, Bengali, Greek etc) and make them available through simple APIs and SDKs. \r\nDevelopers use us to create Voice-first digital experiences (eg. Voice eCommerce, Voice Banking, Voice AI Tutors etc).\r\n\r\nWe gather our own data, develop our own labelling tools, train our own models, and design our own voice infra. This fully integrated approach enables us to offer the best models and the best developer experience for regional languages.\r\n\r\n---\r\n\r\nPeople who would previously never use certain digital services (like online ordering), actually use the service when they are given an intuitive Voice based interface.\r\nWe believe that Voice Interfaces will onboard 100s of millions of new users onto digital services; and double the addressable market for technology companies. \r\nUplift AI will provide the best models to create these Voice Interfaces for 60% of the world's population that only speaks their regional language and represents 42 trillion dollars in GDP.\r\n",
+    "one_liner": "Foundational Voice Models for regional languages",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1750590533,
+    "tags": [
+      "Speech Recognition",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/uplift-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/uplift-ai.json"
   },
   {
     "id": 30816,
@@ -58945,6 +58944,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/wardstone",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/wardstone.json"
+  },
+  {
+    "id": 30882,
+    "name": "AtlasGrid",
+    "slug": "atlasgrid",
+    "former_names": [
+      "I purchased precedents.ai, will found a corp w/ Clerky in 2 weeks once the domain transfer is confirmed",
+      "precedents.ai",
+      "AtlasGrid AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c51d7c36e595d35dc2f3a6fbe00ef8d4d923dbe9.png",
+    "website": "https://atlasgrid.ai",
+    "all_locations": "Remote",
+    "long_description": "AtlasGrid automatically builds a visual graph of your mobile app UI and displays analytics directly on your screens. Additionally, our fleet of AI-powered agents will continuously analyze thousands of mobile apps, gathering design insights and identifying growth opportunities + actionable product improvements.",
+    "one_liner": "Accelerate Product Iteration",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1763057438,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/atlasgrid",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/atlasgrid.json"
   },
   {
     "id": 30883,
@@ -59660,7 +59700,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/adc8f9d4d6337ea663afc0947984b8597189cd0a.png",
     "website": "https://www.savahq.com",
-    "all_locations": "NY, USA",
+    "all_locations": "New York City, NY, USA",
     "long_description": "If you are a trusts & estates attorney, RIA, fintech, or family office interested in Sava, reach us at founders@savahq.com",
     "one_liner": "Building the future of trusts",
     "team_size": 3,
@@ -60053,7 +60093,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f7aeefba483366ce37b43e62ede2e86d091b755.png",
     "website": "https://zag.dev/",
-    "all_locations": "CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Zag is an AI review agent platform for teams shipping iOS, iPadOS, and macOS apps. You describe review agents in TypeScript or Swift that actually build, test, and run your app on every PR, catching bugs and security issues before they reach a human reviewer.\r\n\r\nUnder the hood, Zag runs on dedicated Apple Silicon in real macOS environments with Xcode, simulators, and your full toolchain.\r\n\r\nZag offers at-cost macOS compute at $0.015/min - 5× cheaper than any other macOS runner on the market.",
     "one_liner": "AI review agents for iOS, iPadOS, and macOS developers.",
     "team_size": 3,
@@ -62207,7 +62247,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/76df6473c36e2adfda2b2ab7e987413907cd9c97.png",
     "website": "https://www.kinro.ai/",
-    "all_locations": "CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Kinro helps companies sell insurance through AI assistants such as ChatGPT. We build AI sales agents that manage the end-to-end insurance sales process, from answering questions, personalized coverage explanations and quoting. These agents are continuously evaluated and improved through our proprietary platform, optimizing sales performance while remaining 100% compliant.\r\n\r\nSelling insurance requires strict regulatory compliance, deep carrier integrations, and extremely reliable answers. Platforms like OpenAI and Google remain general-purpose and are less likely to build the vertical infrastructure required for regulated industries.\r\n\r\nToday, Kinro serves brokers and direct-to-consumer carriers across the US and Europe. Insurance distribution is huge: insurers pay roughly $100B+ in commissions annually, and distributors spend $10B+ every year on advertising to acquire customers.\r\n\r\nPierre-Alexandre led research improving Gemini for financial services at DeepMind. Parth led infrastructure for training and inference at Zoox. Corentin was the first employee in an insurance startup and worked closely with many insurance leaders.",
     "one_liner": "AI sales agents for insurance. Sell everywhere your buyers are.",
     "team_size": 3,
