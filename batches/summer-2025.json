@@ -377,22 +377,23 @@
   },
   {
     "id": 30566,
-    "name": "Chestnut Forty",
-    "slug": "chestnut-forty",
+    "name": "Preseen",
+    "slug": "preseen",
     "former_names": [
       "Alpha's Game",
       "Ludus",
       "Ludus Labs",
-      "Rid"
+      "Rid",
+      "Chestnut Forty"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b50eeaec6516885328ae6b094795e471d93069f5.png",
-    "website": "https://chestnutforty.com",
-    "all_locations": "CA, USA",
+    "website": "https://preseen.com",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "We build forecasting agents for global macro events. ",
     "one_liner": "The AI forecasting company for global macro events. ",
     "team_size": 1,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
     "launched_at": 1754272842,
     "tags": [],
     "tags_highlighted": [],
@@ -402,7 +403,8 @@
     "batch": "Summer 2025",
     "status": "Active",
     "industries": [
-      "Consumer"
+      "B2B",
+      "Analytics"
     ],
     "regions": [
       "United States of America",
@@ -413,8 +415,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/chestnut-forty",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/chestnut-forty.json"
+    "url": "https://www.ycombinator.com/companies/preseen",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/preseen.json"
   },
   {
     "id": 30582,
@@ -628,8 +630,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7090c5a2d73a4c3057030995d02dc87abae964a5.png",
     "website": "https://www.dedaluslabs.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "1. Multi-model Agents SDK: build production-grade tool-calling agents in 5 lines of code using our open-source, vendor-agnostic SDK. Connect multiple models across providers (eg. Opus 4.6 + Gemini 3 Flash + GPT 5.4) within the same agent to optimize your agentic workflow's cost, latency, efficiency, and performance.\r\n\r\n2. Agents-as-a-Service (AaaS): serve your agent or service as a hosted endpoint that anyone - including OpenClaw and Claude Code - can call.",
-    "one_liner": "Connect any model(s) to any tool(s) and ship hosted agents in minutes.",
+    "long_description": "The fastest persistent computer for agents. Host long-running, stateful agents that never sleep in <250ms. ",
+    "one_liner": "Compute substrate for AI agents",
     "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -2247,7 +2249,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/59526ba018b33a62299943322dc03eae29a298f4.png",
     "website": "https://deepgrove.ai",
-    "all_locations": "CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "",
     "one_liner": "Frontier Intelligence. On Any Device.",
     "team_size": 3,
@@ -3129,7 +3131,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fda446d464914642f213b7da0cd38f3f6fead898.png",
     "website": "https://ironledger.ai",
-    "all_locations": "NY, USA",
+    "all_locations": "New York City, NY, USA",
     "long_description": "IronLedger automates property accounting for property managers, developers and contractors, starting with accounts payable. We eliminate more than $70K of accounting costs annually for over 50K multifamily units.\r\n\r\nhttps://www.ironledger.ai/",
     "one_liner": "AI-enabled Corporate Cards and Invoice Processing for Real Estate",
     "team_size": 2,
@@ -4872,6 +4874,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pares-ai",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/pares-ai.json"
+  },
+  {
+    "id": 30737,
+    "name": "Foresight",
+    "slug": "foresight",
+    "former_names": [
+      "Fluentive AI",
+      "Fluentive"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e73e06f06f9c82efc635b55f38984d2cb9645b67.png",
+    "website": "https://foresight.tt/",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "Foresight builds AI-powered simulations of human behavior to help companies predict how people will think, react, and choose before making real-world decisions. It lets organizations test countless possible moves in advance, see how each one is likely to play out, and choose the strongest path forward.",
+    "one_liner": "On-demand consumer insights",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1778160677,
+    "tags": [
+      "Artificial Intelligence",
+      "Consumer",
+      "Market Research",
+      "Consumer Products"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/foresight",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/foresight.json"
   },
   {
     "id": 30738,

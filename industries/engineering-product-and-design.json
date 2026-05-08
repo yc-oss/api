@@ -13107,7 +13107,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -18985,10 +18985,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3696c9745e142e57106326ecee11170df0cc6971.png",
     "website": "https://www.dmodel.ai",
-    "all_locations": "CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "rl. interp. alignment. data.",
     "one_liner": "Look inside the model",
-    "team_size": 12,
+    "team_size": 14,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1725040353,
@@ -20843,10 +20843,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1737327618,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
-      "Design",
-      "AI"
+      "Design"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -23785,8 +23785,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/815d0ff1058841ad5ec2314755cc2f91d92a6472.png",
     "website": "https://aspect.inc",
     "all_locations": "New York City, NY, USA",
-    "long_description": "With our visual understanding engine & platform, Aspect processes dense multimodal datasets, providing tools for segmentation, QC, structured schema extraction. \r\n\r\nCompanies today have access to Glean and Notion Agents for working with vast text corpuses - Aspect is enabling that for multimodal data.",
-    "one_liner": "AI Visual Understanding for Multimodal Data ",
+    "long_description": "Aspect helps creative teams consolidate 5 media tools into one platform. We provide everything a media team needs: ingest, local file streaming, review and approval, sharing, and archiving. With Aspect as one source of truth, AI search becomes especially effective across video, audio, faces, objects, and anything else your team could search for.\r\n\r\nCheck out aspect.inc/use-cases to see how different media teams use Aspect to deliver content faster.",
+    "one_liner": "Intelligent media storage for creative teams.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -24638,7 +24638,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c34fbe5d783459ff37f7c664b24ff15cf5e7843.png",
     "website": "https://valgo.ai",
-    "all_locations": "CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Insurers struggle to price autonomous systems because the historical data simply doesn't exist. Your car insurance draws from over 30 billion claims records, but autonomous trucks and robots have nearly zero. Valgo is the risk quantification platform that closes that gap. We are building probabilistic models of routes, tasks, and environments from the bottom up. We output a simulated loss estimate that insurers need to price coverage. Valgo is the foundational layer that gives insurance providers confidence to properly price autonomy risk.\r\n\r\nOur team combines expertise in risk estimation for autonomy with deep experience in the insurance industry. Sydney and Robert are Stanford PhDs with leading expertise in safety of physical AI systems. Sydney wrote the textbook on validating safety-critical systems and teaches the course at Stanford. Robert spent 7 years at MIT Lincoln Laboratory on the core team that designed and validated an FAA-certified aircraft collision avoidance system, now a worldwide standard. Jon is a Sloan Fellow from the Stanford GSB and an actuary who spent over 12 years in insurance leadership and led over $5 billion in M&A as head of corporate development for one of the largest insurers in Asia-Pacific.",
     "one_liner": "Insurance risk layer for physical AI",
     "team_size": 3,
@@ -25431,9 +25431,9 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1773355936,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "API",
-      "AI"
+      "API"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -25494,6 +25494,62 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/lightsprint",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/lightsprint.json"
+  },
+  {
+    "id": 31380,
+    "name": "Superlog",
+    "slug": "superlog",
+    "former_names": [
+      "Swish",
+      "Pulsend",
+      "Pulsent",
+      "Deep Engage",
+      "Deepengage",
+      "Openengage",
+      "Deepengage",
+      "Pulsending",
+      "deep engage",
+      "Singlevox",
+      "deep engage",
+      "Pulsent"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/96347d910b359b8008029da5fa69b30000efd6d0.png",
+    "website": "https://superlog.sh/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sentry and Datadog dump a stream of alerts. Most are duplicates, most lack context, and you still have to solve the issue yourself.\r\n\r\nSuperlog is AI-native observability that's meant not to be opened. A wizard scans your repo and installs proper OpenTelemetry instrumentation, then runs daily to keep up as you ship new code. When something breaks, Superlog groups the errors into a single incident, investigates with full context (logs, traces, recent deploys, past Slack threads), and posts one mergeable PR in Slack. You merge it, ignore it, or open it as a Claude Code session and modify it.\r\n\r\nTelemetry is vendor-neutral, so you keep every log, trace, and metric we install, even if you leave.",
+    "one_liner": "Observability that installs itself and fixes the bugs it finds.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1775225049,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Open Source",
+      "Monitoring",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/superlog",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/superlog.json"
   },
   {
     "id": 31421,
@@ -25580,6 +25636,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/oddpool",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/oddpool.json"
+  },
+  {
+    "id": 31463,
+    "name": "Armature",
+    "slug": "armature",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8cd44a063abb5739ba907e8a724718f7fd09c808.png",
+    "website": "https://armature.tech",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "As we shift from user experience to agent experience, the entire way we design, operate, and evaluate our products must be rethought. The first step is to understand how agents use products through MCPs and CLIs, the exact same way we used to understand how users interacted with UIs.\r\n\r\nArmature automates agent workflow testing.\r\nConnect your MCP, CLI and ChatGPT apps and let Armature discover the workflows agents actually run. Armature will then continuously test them across every harness (Claude Code, Codex, Openclaw, etc.) and frontier model and show you how you perform, how you compare to your competitors as well as alert you when something breaks.",
+    "one_liner": "Your next user is an agent. We help you optimize the AX.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1778126369,
+    "tags": [
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/armature",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/armature.json"
   },
   {
     "id": 31491,

@@ -3379,7 +3379,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -12656,7 +12656,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -19894,10 +19894,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1737327618,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
-      "Design",
-      "AI"
+      "Design"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21270,8 +21270,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7090c5a2d73a4c3057030995d02dc87abae964a5.png",
     "website": "https://www.dedaluslabs.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "1. Multi-model Agents SDK: build production-grade tool-calling agents in 5 lines of code using our open-source, vendor-agnostic SDK. Connect multiple models across providers (eg. Opus 4.6 + Gemini 3 Flash + GPT 5.4) within the same agent to optimize your agentic workflow's cost, latency, efficiency, and performance.\r\n\r\n2. Agents-as-a-Service (AaaS): serve your agent or service as a hosted endpoint that anyone - including OpenClaw and Claude Code - can call.",
-    "one_liner": "Connect any model(s) to any tool(s) and ship hosted agents in minutes.",
+    "long_description": "The fastest persistent computer for agents. Host long-running, stateful agents that never sleep in <250ms. ",
+    "one_liner": "Compute substrate for AI agents",
     "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -23159,9 +23159,9 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1773355936,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "API",
-      "AI"
+      "API"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -23222,6 +23222,62 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/lightsprint",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/lightsprint.json"
+  },
+  {
+    "id": 31380,
+    "name": "Superlog",
+    "slug": "superlog",
+    "former_names": [
+      "Swish",
+      "Pulsend",
+      "Pulsent",
+      "Deep Engage",
+      "Deepengage",
+      "Openengage",
+      "Deepengage",
+      "Pulsending",
+      "deep engage",
+      "Singlevox",
+      "deep engage",
+      "Pulsent"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/96347d910b359b8008029da5fa69b30000efd6d0.png",
+    "website": "https://superlog.sh/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sentry and Datadog dump a stream of alerts. Most are duplicates, most lack context, and you still have to solve the issue yourself.\r\n\r\nSuperlog is AI-native observability that's meant not to be opened. A wizard scans your repo and installs proper OpenTelemetry instrumentation, then runs daily to keep up as you ship new code. When something breaks, Superlog groups the errors into a single incident, investigates with full context (logs, traces, recent deploys, past Slack threads), and posts one mergeable PR in Slack. You merge it, ignore it, or open it as a Claude Code session and modify it.\r\n\r\nTelemetry is vendor-neutral, so you keep every log, trace, and metric we install, even if you leave.",
+    "one_liner": "Observability that installs itself and fixes the bugs it finds.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1775225049,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Open Source",
+      "Monitoring",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/superlog",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/superlog.json"
   },
   {
     "id": 31386,
@@ -23393,20 +23449,20 @@
     "name": "AgentPhone",
     "slug": "agentphone",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/78e3ea34a9d85939aea1d2c30105838c61d54547.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3cd0619758d7e852f6674fba763a0d1167fa4a69.png",
     "website": "https://www.agentphone.to/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Agents can't act in the real world today. They need carrier access, identity, and trust. AgentPhone gives every agent its own phone number to reach people through messages and calls.",
+    "long_description": "Agents can't act in the real world today. They need carrier access, identity, and trust. AgentPhone gives every agent its own phone number to reach people and businesses through messages and calls.",
     "one_liner": "Phone Numbers for AI Agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1778010009,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "API",
-      "Telecommunications",
-      "AI"
+      "Telecommunications"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -23436,7 +23492,7 @@
     "slug": "revnu",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37b7a4d126859b0a7edce4eaee5984ecd6f85757.png",
-    "website": "https://revnu.app/",
+    "website": "https://revnu.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Revnu is a growth team for founders addicted to building. \r\n\r\nPoint us at your product and autonomous agents start running your SEO, ads, cold outreach, A/B tests and more. All sharing a single intelligence layer, so every channel makes the others smarter. \r\n\r\nYou keep shipping. We run the business.",
     "one_liner": "Everything but the app itself",

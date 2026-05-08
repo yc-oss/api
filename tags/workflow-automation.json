@@ -1753,6 +1753,49 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/commodityai.json"
   },
   {
+    "id": 29478,
+    "name": "Reform",
+    "slug": "reform",
+    "former_names": [
+      "Knowstory"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d1dc8f5914cad7c44e1fba45da40ae265dd9bfe2.png",
+    "website": "https://www.reformhq.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Automate freight operations from quote to cash without replacing your trusted systems.",
+    "one_liner": "Workflow automation. Built for logistics.",
+    "team_size": 10,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1706556384,
+    "tags": [
+      "Artificial Intelligence",
+      "Workflow Automation",
+      "Logistics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/reform",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/reform.json"
+  },
+  {
     "id": 29505,
     "name": "Tower",
     "slug": "tower",
@@ -2440,7 +2483,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -2468,8 +2511,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7090c5a2d73a4c3057030995d02dc87abae964a5.png",
     "website": "https://www.dedaluslabs.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "1. Multi-model Agents SDK: build production-grade tool-calling agents in 5 lines of code using our open-source, vendor-agnostic SDK. Connect multiple models across providers (eg. Opus 4.6 + Gemini 3 Flash + GPT 5.4) within the same agent to optimize your agentic workflow's cost, latency, efficiency, and performance.\r\n\r\n2. Agents-as-a-Service (AaaS): serve your agent or service as a hosted endpoint that anyone - including OpenClaw and Claude Code - can call.",
-    "one_liner": "Connect any model(s) to any tool(s) and ship hosted agents in minutes.",
+    "long_description": "The fastest persistent computer for agents. Host long-running, stateful agents that never sleep in <250ms. ",
+    "one_liner": "Compute substrate for AI agents",
     "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -2862,9 +2905,9 @@
     "name": "Bubble Lab",
     "slug": "bubble-lab",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fc7f7534f4fb913904f49914952c1daa8086654.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ff46390128d2a3a9098a5a430b66444fd364775.png",
     "website": "https://bubblelab.ai/",
-    "all_locations": "CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Bubble Lab turns natural language into visual, production-ready workflows — built for modern ops teams, with built-in observability, logs, and execution traces.\r\n\r\nDeploy to Slack in one click so your team can build and run workflows from anywhere.\r\n",
     "one_liner": "Prompt once, automate forever.",
     "team_size": 2,
@@ -2872,10 +2915,10 @@
     "subindustry": "B2B -> Operations",
     "launched_at": 1764881455,
     "tags": [
-      "Artificial Intelligence",
       "Workflow Automation",
       "Automation",
-      "Operations"
+      "Operations",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
