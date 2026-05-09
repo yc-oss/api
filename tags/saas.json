@@ -13038,7 +13038,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": true,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -17229,7 +17229,7 @@
     "all_locations": "New York, NY, USA; Remote",
     "long_description": "",
     "one_liner": "Easier and more reliable mobile app releases for teams.",
-    "team_size": 18,
+    "team_size": 20,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1615594933,
@@ -32782,7 +32782,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -37798,51 +37798,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/conduit.json"
   },
   {
-    "id": 28115,
-    "name": "Vellum",
-    "slug": "vellum",
-    "former_names": [
-      "Vocify"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/211ce1fb908d8d56541fcc5ddfa4be47bd69dc5d.png",
-    "website": "https://www.vellum.ai/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Prompting: Systematically iterate on prompts\r\n- Unified prompt management dashboard\r\n- Side-by-side model comparisons\r\n- Native support for tools, structured outputs, OpenAPI specs\r\n\r\nWorkflows: The IDE for building steerable, agent-like systems.\r\n- Visual graph builder for orchestrating complex AI systems\r\n- Support for any model, custom code, and map/reduce functions\r\n- Built-in features like loops, parallelism, error handling\r\n\r\nWorkflows SDK: A full-stack SDK + GUI for building AI apps with precision and flexibility.\r\n- Bi-directional sync between code and UI\r\n- Fine-grained control flow and global state management\r\n- Customizable with Docker and streaming support\r\n\r\nEvaluations: Test-driven development for AI.\r\n- Build scalable test suites via UI/API/CSV\r\n- Use pre-built or custom metrics for evaluation\r\n- Track quality, cost, latency, and regressions over time\r\n\r\nRetrieval: Powerful RAG infrastructure without the complexity.\r\n- Simple APIs for uploading and querying unstructured data\r\n- Tweak chunking, embeddings, and search for advanced use-cases\r\n- Supports various file types including tables and images\r\n\r\nDeployments: Update AI systems without redeploying your app.\r\n- One-click deploy across any model or provider\r\n- Staging environments for safe iteration\r\n- Scalable inference endpoints for production use\r\n\r\nObservability: Full visibility into AI system performance.\r\n- Audit logs, debugging tools, and feedback capture\r\n- Evaluation loops on live traffic\r\n- Dashboards to track cost, latency, errors, and trends",
-    "one_liner": "The AI Product Development Platform",
-    "team_size": 23,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1673626837,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/vellum",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/vellum.json"
-  },
-  {
     "id": 28119,
     "name": "Fabius",
     "slug": "fabius",
@@ -41592,7 +41547,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Brainbase Labs is an applied AI research lab enabling AI in the workforce by building high-fidelity agent environments and tooling.\r\n\r\n",
     "one_liner": "The AI Labor Company",
-    "team_size": 5,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1707350817,
@@ -46422,7 +46377,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/36e55270dbc5bebe580db836e83f643f2121440a.png",
     "website": "https://cascade.space",
-    "all_locations": "CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Cascade Space is building a turn-key communications system for lunar and deep space missions. Our ground station network and integrated software tools work together to maximize uptime and availability, while reducing spacecraft iteration cycles from weeks to hours. \r\n",
     "one_liner": "Deep space communications as a service",
     "team_size": 7,
@@ -46438,7 +46393,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -48016,47 +47971,49 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/q2q.json"
   },
   {
-    "id": 31222,
-    "name": "Superset",
-    "slug": "superset",
+    "id": 31326,
+    "name": "Klarify",
+    "slug": "klarify",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9c4aa01fc589ba1d208558f7b720c6081f672b08.png",
-    "website": "https://www.superset.sh/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/da07c22749d8fc786add9b4e0ff52fd40f5a5290.png",
+    "website": "https://www.klarify.ca/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Superset helps engineers run 100s of coding agents in parallel. ",
-    "one_liner": "The IDE for the AI Agents Era",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1772696752,
+    "long_description": "Klarify handles everything therapists do outside the session, from clinical notes and treatment plans to insurance claims and finding new clients.\r\n\r\nTherapists hold the world together. They also run businesses, file insurance claims, write letters, fill forms, supervise new grads, and do hours of paperwork every night. Most software helps with one of those jobs. None help with all.\r\n\r\nKlara is the AI at the heart of Klarify. She starts with writing notes, and uses that context across the rest of practice life: handling insurance, treatment plans, clinical letters, research, client homework, supervision prep, between-session progress, and more.\r\n\r\n5,200 therapists use Klarify today. Privacy-first. Klara never trains on your notes or client data.\r\n\r\nOur mission is to empower therapists, not replace them. So they can focus on the one thing only a human can do. Be fully there.",
+    "one_liner": "AI-native operating system for mental health practices",
+    "team_size": 4,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1778267831,
     "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
+      "Mental Health Tech",
       "SaaS",
-      "Swarm AI",
-      "Open Source"
+      "Health Tech",
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2026",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Engineering, Product and Design"
+      "Healthcare",
+      "Healthcare IT"
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/superset",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/superset.json"
+    "url": "https://www.ycombinator.com/companies/klarify",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/klarify.json"
   },
   {
     "id": 31327,
@@ -48107,8 +48064,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/651678718cc0436dc7af01c6a4293c6ee03d08c7.png",
     "website": "https://www.stagereview.app/",
     "all_locations": "",
-    "long_description": "Teams are shipping faster than ever with AI, but engineers are merging changes that neither they nor their reviewers fully understand, leading to bugs in production and overwhelming cognitive debt.\r\n\r\nStage is a new code review platform built for today’s fast moving teams. Instead of forcing readers to piece things together from unorganized diffs, Stage breaks changes down into structured chapters so teams can understand what's happening and ship with confidence.",
-    "one_liner": "Code review platform for today’s engineers",
+    "long_description": "Teams are shipping faster than ever with AI, but engineers are merging changes that neither they nor their reviewers fully understand, leading to bugs in production and cognitive debt.\r\n\r\nStage is a new code review platform built for today’s fast moving teams. Instead of forcing readers to piece things together from unorganized diffs, Stage breaks changes down into structured chapters so teams can understand what's happening and ship with confidence.",
+    "one_liner": "A better code review platform",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -48240,10 +48197,10 @@
     "subindustry": "B2B",
     "launched_at": 1777155515,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "API",
       "Customer Support",
+      "AI",
       "Conversational AI"
     ],
     "tags_highlighted": [],
@@ -48471,6 +48428,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/arga-labs",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/arga-labs.json"
+  },
+  {
+    "id": 31415,
+    "name": "Synphony",
+    "slug": "synphony",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/53a6cd89169bae47c2b36df57db7197b466fab96.png",
+    "website": "https://www.synphony.co/",
+    "all_locations": "San Carlos, CA, USA",
+    "long_description": "Strawberry farming is a $3B industry in California alone with 60% labor cost using 40-year old software. Synphony provides strawberry picking robots and software services including: bed-level analytics, data pipeline integration, and agentic solutions.\r\n\r\nSynphony's \"side hustle\" is selling data, evals, and viral demos to robot foundation labs while building capacity for general robot deployments. We've started with strawberry farming for great margins and outdoor data moat, but also received requests for robots in semi-conductors and autonomous space labs. \r\n\r\nSynphony's team has won over 15 hackathons together (taking home 4 Jensen-signed GPUs!). Sean did ML research at NVIDIA and led AI products used by IRS and Citibank. Lucas' research spanned robotics, IoT devices, and neuromorphic computing. Alex architected an app with 400k users. ",
+    "one_liner": "robots & software for farms",
+    "team_size": 10,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1778272380,
+    "tags": [
+      "Food Service Robots & Machines",
+      "SaaS",
+      "Robotics",
+      "Agriculture"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/synphony",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/synphony.json"
   },
   {
     "id": 31417,
