@@ -770,7 +770,7 @@
     ],
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "http://www.envyl.com",
-    "all_locations": "NY, USA",
+    "all_locations": "Brooklyn, NY, USA",
     "long_description": "Envyl is an affordable and fast international peer to peer delivery.",
     "one_liner": "Envyl enables a fast, reliable and cost effective peer to peer…",
     "team_size": 2,
@@ -2474,7 +2474,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3216297669f8a2cef1d4cb56c1dbc1ec4a127187.png",
     "website": "https://fluxauto.ai",
-    "all_locations": "Houston, TX, USA",
+    "all_locations": "Bengaluru, India",
     "long_description": "Flux Auto is building autonomous mobility technology to fully automate the movement and operation of vehicles in controlled spaces. Using Flux's solutions customers can reduce their dependency on human drivers, while also increasing productivity and reducing operating costs. \r\n\r\nFlux is currently deploying in warehouses, farms and mines.",
     "one_liner": "General Autonomy for Controlled Spaces",
     "team_size": 56,
@@ -2499,8 +2499,8 @@
       "Manufacturing and Robotics"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "India",
+      "South Asia",
       "Remote",
       "Partly Remote"
     ],
@@ -4630,7 +4630,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/199d48c929434ddb64281cd83b9621eb37c3ed62.png",
     "website": "https://www.retailreadyai.com/",
-    "all_locations": "CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Every time workers in a warehouse box an order, they reference a 100 page manual with instructions like where to put the shipping label. RetailReady replaces the instruction manual with a tablet application.",
     "one_liner": "An AI-powered supply chain compliance engine",
     "team_size": 12,
@@ -5278,17 +5278,18 @@
   },
   {
     "id": 30731,
-    "name": "Palace",
-    "slug": "palace",
+    "name": "Maximal",
+    "slug": "maximal",
     "former_names": [
-      "Lucid Spring"
+      "Lucid Spring",
+      "Palace"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0807345a48d245ca353b1ea731baf819bacfeb81.png",
-    "website": "https://www.palace.so",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/746f4c597089f60925c303aaeb1fc9a203810522.png",
+    "website": "https://www.trymaximal.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Today, commercial trucking fleets make planning and dispatch decisions on gut feel and legacy tooling. Palace lets planning and dispatch teams unify their driver, operations, and freight data so they can optimize their load plans in less time.\r\n\r\nLeeds and Derek have been building together as close friends for over six years. The team have been early PMs/engineers at exited startups and decacorns and worked on the algorithms that power Amazon’s distribution centers.",
-    "one_liner": "Palace lets commercial truck fleet optimize load plans in less time",
-    "team_size": 2,
+    "long_description": "Today, commercial trucking fleets make planning and dispatch decisions on gut feel and legacy tooling. Their margin is dictated by their planner's cognitive capacity.\r\n\r\nMaximal gives carriers an AI planning system that sources loads, creates plans, and automatically adjusts as changes happen. Maximal lets carriers run at the margin of our simulation engine + agents.\r\n\r\nLeeds (CEO) family runs a 3PL and his background is in operations research + computer science at Cornell and Columbia. He worked on the algorithm's that power Amazon’s robotics in distribution centers and he was the 1st PM at Golden (acquired) and 7th PM at Alchemy (a16z, Coatue). Derek (CTO) studied computer science at USC, was founding engineer at Kits AI (acquired), and was the youngest tech lead in his department at Amazon.",
+    "one_liner": "Maximal automates planning for commercial truck fleets",
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1755096535,
@@ -5315,8 +5316,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/palace",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/palace.json"
+    "url": "https://www.ycombinator.com/companies/maximal",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/maximal.json"
   },
   {
     "id": 30775,
@@ -5539,7 +5540,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/32f586c0db7df7371426565793ae565ba0423774.png",
     "website": "https://inloop-robotics.com/",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "We are building AI-native fulfillment powered by robotics.\r\nWarehouses without human labor that get better, faster, and cheaper with every order.\r\n\r\nMost robotics companies wait until their system is perfect before deploying. We don't. We ship imperfect policies into real warehouses, detect failures in real time, recover automatically when we can, and bring in a remote human operator when we can't.\r\n\r\nEvery failure becomes training data. Every intervention makes the system better. The result is a fulfillment system that continuously learns from production.",
     "one_liner": "Deploying robots that ask for help!",
     "team_size": 4,
@@ -5563,7 +5564,8 @@
       "Manufacturing and Robotics"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": true,
