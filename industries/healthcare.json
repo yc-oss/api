@@ -1572,7 +1572,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -3469,7 +3469,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -20591,7 +20591,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b6c81c094d264ef85d463d3f87f8c0a2cf70fe0.png",
     "website": "https://www.getsolum.com/",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Turning therapy admin chaos into automated calm—VoiceAI for intakes, seamless prior auths, referral and scheduling management.\r\n\r\nBuilt by practice owners, for practice owners (www.getsolum.com).\r\n",
     "one_liner": "AI Automation for Therapy Practices",
     "team_size": 3,
@@ -20609,6 +20609,8 @@
       "Healthcare"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -20816,7 +20818,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -27451,6 +27453,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/kaigo-health.json"
   },
   {
+    "id": 30915,
+    "name": "FinalDose",
+    "slug": "finaldose",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5910d81ebbfb17b7489c9613332140c02f40b7f4.png",
+    "website": "https://finaldose.ai/",
+    "all_locations": "London, United Kingdom",
+    "long_description": "FinalDose is building the first programmable drug - a single smart drug molecule that you can insert any diseased genetic code and it can search and destroy cells upon DNA recognition.  Unlocking 80% of undruggable targets today. Starting with all cancers.",
+    "one_liner": "Programmable DNA drug destroying all cancers, unlocking 80% of targets",
+    "team_size": 5,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Therapeutics",
+    "launched_at": 1778543597,
+    "tags": [
+      "Artificial Intelligence",
+      "Gene Therapy",
+      "Therapeutics",
+      "Genetic Engineering"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Therapeutics"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/finaldose",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/finaldose.json"
+  },
+  {
     "id": 30925,
     "name": "Play Health",
     "slug": "play-health",
@@ -28325,11 +28369,11 @@
     "name": "Klarify",
     "slug": "klarify",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/da07c22749d8fc786add9b4e0ff52fd40f5a5290.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b1e276eff7f94fc1f97bb94df15769f7ec1b4fef.png",
     "website": "https://www.klarify.ca/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Klarify handles everything therapists do outside the session, from clinical notes and treatment plans to insurance claims and finding new clients.\r\n\r\nTherapists hold the world together. They also run businesses, file insurance claims, write letters, fill forms, supervise new grads, and do hours of paperwork every night. Practice management software has existed for decades. It records what therapists do. It can't actually do any of it.\r\n\r\nKlara is the AI at the heart of Klarify. She reads the session and does the work that comes after it: notes, treatment plans, clinical letters, insurance claims, client homework, supervision prep, and the profile pages that bring in new clients.\r\n\r\n5,600 therapists use Klarify today.\r\n\r\nOur mission is to empower therapists, not replace them. So they can focus on the one thing only a human can do. Be present with their client.",
-    "one_liner": "AI-native operating system for mental health practices",
+    "long_description": "Klarify handles every job a therapist does other than the therapy itself, from clinical notes and treatment plans to insurance claims and finding new clients.\r\n\r\nTherapists hold the world together. They also run businesses, file insurance claims, write letters, fill forms, supervise new grads, and do hours of paperwork every night. \r\n\r\nPractice management software has existed for decades. It records what therapists do. It can't actually do any of it.\r\n\r\nKlara is the AI at the heart of Klarify. She handles notes, treatment plans, clinical letters, insurance claims, between-session resources, supervision prep, and finding new clients.\r\n\r\nNearly 6,000 therapists use Klarify today.\r\n\r\nOur mission is to empower therapists, not replace them. So they can focus on the one thing only a human can do. Be present with their client.",
+    "one_liner": "AI Agent for Therapists",
     "team_size": 4,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
@@ -28622,7 +28666,7 @@
     "website": "https://arctic.health",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Arctic Health is building AI-native credentialing and contracting for healthcare organizations. We automate the full workflow, from establishing payer contracts to enrolling each provider. We collect and validate organization and provider data according to each state and payer’s requirements, and submit on the organization's behalf. We then monitor status and compliance on an ongoing basis.\r\n\r\nTools on the market today either perform small pieces of the workflow or price out small and mid-sized organizations. We handle the process end-to-end regardless of organization type or size. Our browser automations enable AI agents to submit and monitor across hundreds of payer portals, and our system is trained by experienced industry experts who handle every edge case.\r\n\r\nHealthcare organizations get one simple platform. We handle the rest. ",
-    "one_liner": "We get doctors in-network",
+    "one_liner": "AI-native credentialing and contracting for healthcare",
     "team_size": 4,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare Services",

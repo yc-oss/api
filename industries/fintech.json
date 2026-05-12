@@ -5452,7 +5452,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d9461ed7e5093ac18bab6ae2cb43de29136be3a7.png",
     "website": "https://www.getparker.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "New York City, NY, USA; San Francisco, CA, USA",
     "long_description": "Parker is a digital bank.",
     "one_liner": "Parker is a digital bank.",
     "team_size": 10,
@@ -22290,22 +22290,25 @@
   },
   {
     "id": 28932,
-    "name": "Respaid",
-    "slug": "respaid",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a8fe646749d3e1dce9b22d9134f31c861d6c0324.png",
-    "website": "https://www.respaid.com",
+    "name": "AgentCollect",
+    "slug": "agentcollect",
+    "former_names": [
+      "Respaid"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e7fa66d4491c66a8637435f8ec4ca509a67f236.png",
+    "website": "https://www.agentcollect",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We recover up to 85,000 invoices per day and get 50% paid within 20 days on average.\r\n\r\nRespaid uses AI to respectfully collect overdue B2B invoices. Just give us an excel file—no attached invoices needed. We integrate with your stack or work standalone, protecting your brand's reputation while maximizing collections through our AI-powered, respectful approach.",
-    "one_liner": "Respectful B2B Debt Collection, Powered by AI",
+    "long_description": "We recover aged B2B debt in weeks, not quarters: ~49% in 20 days vs ~20% in 4-6 months for traditional agencies.\r\nOur AI agents call, email, text, find the right contact (20% of B2B contact data is outdated), and negotiate payment plans 24/7 ; all under your brand. \r\nWe replace your offshore BPO and third-party agencies. \r\nYour AR team stays focused on strategic accounts.\r\n\r\nLive with Dell, Microsoft, FedEx, Plaid, and Checkr and hundreds of enterprise companies.\r\n\r\nLong-tail AR your team has deprioritized becomes recovered cash before a traditional agency even gets moving.",
+    "one_liner": "B2B debt collection powered by AI agents",
     "team_size": 42,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1688400893,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
-      "B2B"
+      "B2B",
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -22327,8 +22330,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/respaid",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/respaid.json"
+    "url": "https://www.ycombinator.com/companies/agentcollect",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/agentcollect.json"
   },
   {
     "id": 28965,
@@ -25724,18 +25727,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7785e7f2104cbe8c0fd7a9462d42a9b03d5aeb86.png",
     "website": "https://www.freeportmarkets.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Freeport turns the sources you already trust (starting with Twitter) into a tradable feed. Our AI analysts track breaking news across social and financial media, distill what matters, and translate it into actionable trade ideas so you’re never late when markets move. ",
-    "one_liner": "Tradable Twitter Feed ",
+    "long_description": "Freeport is a trading platform for pre-IPO shares, equities, crypto, and perpetual futures. Our AI analysts turn trusted social and financial media into a real-time feed of market-moving news and actionable trade ideas.",
+    "one_liner": "Trade like a hedge fund. ",
     "team_size": 3,
     "industry": "Fintech",
     "subindustry": "Fintech -> Consumer Finance",
     "launched_at": 1758671175,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "Crypto / Web3",
       "Investing",
-      "Consumer Finance"
+      "Consumer Finance",
+      "AI"
     ],
     "tags_highlighted": [
       "Crypto / Web3"

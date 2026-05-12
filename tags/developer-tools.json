@@ -11632,7 +11632,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2fbe2f8faf8c91d41cd8099b3a53511fa45c4635.png",
     "website": "https://codecrafters.io",
-    "all_locations": "Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Build your own Git, Redis, SQLite — in Go, Rust, Python, etc.",
     "one_liner": "Programming courses for experienced engineers",
     "team_size": 10,
@@ -11656,6 +11656,8 @@
       "Job and Career Services"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -14577,7 +14579,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -15801,20 +15803,21 @@
   },
   {
     "id": 29118,
-    "name": "Waldium",
-    "slug": "waldium",
+    "name": "Structured Labs",
+    "slug": "structured-labs",
     "former_names": [
       "Structured",
       "Structured Labs",
       "Preswald",
       "Structured Labs",
-      "Wadium"
+      "Wadium",
+      "Waldium"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1b0b60f11ab6498ea22f5e4f79a7e5ea9222dcf6.png",
-    "website": "https://www.waldium.com/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e8dd08fd61491d9efffabb3dff787320791e2421.png",
+    "website": "https://www.structuredlabs.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Waldium is an AI-driven platform for researching, writing, and publishing technical knowledge in formats that both humans and AIs can understand. We help developers create technical guides, resources and tutorials — structured, durable knowledge that AIs can learn from, cite, and build upon.",
-    "one_liner": "The publishing layer for the AI-native web",
+    "one_liner": "The publishing layer for the agentic internet",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -15845,8 +15848,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/waldium",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/waldium.json"
+    "url": "https://www.ycombinator.com/companies/structured-labs",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/structured-labs.json"
   },
   {
     "id": 29120,
@@ -19887,7 +19890,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/070d8df8755a600f5ecf800f273f60a2cfa54bb0.png",
     "website": "https://lucidic.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "As AI agents take on more consequential workflows, the hard part isn’t just whether they work—it’s whether they behave consistently with your company’s knowledge, policies, and expectations. Lucidic AI turns that institutional knowledge into consistent agent behavior by continuously testing, stress-simulating, and auto-optimizing agents against your real production scenarios.\r\nLucidic ingests your real logs, edge cases, and operational rules, then uses controlled simulations, reinforcement learning, and Bayesian optimization to automatically discover failure modes, propose targeted fixes, and verify improvements before anything reaches production. Instead of relying on manual prompt fiddling or guesswork, your agents get a continuous improvement loop: they’re tested, corrected, and optimized based on what your business actually requires—not what a generic model assumes.\r\nThe result is AI agents that reliably follow your domain logic, adapt to changes, and stay aligned across clients, configurations, and environments—without you needing to hand-engineer every prompt or behavior.",
+    "long_description": "Lucidic AI helps enterprises train AI agents without changing model weights. Frontier models are powerful, but they are still general-purpose; they do not automatically understand how a specific company operates. Lucidic creates a training layer that adapts agents to a company’s real business environment through simulations.",
     "one_liner": "AI Agent Training via Simulations",
     "team_size": 4,
     "industry": "B2B",
@@ -19895,10 +19898,10 @@
     "launched_at": 1736904770,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20759,7 +20762,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -21961,9 +21964,9 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d9ff55657c9c6cb094a914f151062d5bc781a912.png",
     "website": "https://stagewise.io",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "stagewise builds an open-source frontend coding agent for real codebases. We enable backend devs, designers and product managers to build pretty and functional web apps in a simple and visually guided manner - no matter the used tech stack.\r\n\r\nstagewise lives right inside your browser, makes changes in your local codebase and is compatible with all kinds of frameworks and setups - allowing it to be retrofitted into any existing project. Our agent enables you to show and tell what you want to change - all while using your app on localhost and without having to switch to external tools. Making changes is as easy as selecting elements, giving a simple prompt like “make it green and put it in the top right corner”, and immediately seeing the result.\r\n\r\nWe're two founders from Germany who met while working at a B2B SaaS startup. With Glenn's background in building dev tools for enterpries (Rheinmetall, Miele), as well as Julians experience in building web apps used by thousands (saasmetrix, strukto.io), we have the unique blend of experience and product sense needed to build this.\r\n\r\nAfter making our initial launch with the open-sourced toolbar that puts your favorite coding agent right inside your browser and going viral with it, we’re now launching a high-speed coding agent dedicated to frontend development - taking our product and the experience of our users to the next level.\r\n\r\nOur vision is to replace frontend devs completely, by gradually enabling both the backend devs, but also less technical designers and product managers to create well-designed applications. We start with developers who lack design experience, but our ultimate goal is to change how products are built.",
-    "one_liner": "The coding agent built for the web",
+    "one_liner": "The Open Source Agentic IDE",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -21985,11 +21988,12 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": true,
-    "demo_day_video_public": false,
+    "demo_day_video_public": true,
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/stagewise",
@@ -23025,7 +23029,7 @@
     "name": "Stage",
     "slug": "stage",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/651678718cc0436dc7af01c6a4293c6ee03d08c7.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac5a6cce941f973ff80cb4496e195f4010e5c21b.png",
     "website": "https://www.stagereview.app/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Teams are shipping faster than ever with AI, but engineers are merging changes that neither they nor their reviewers fully understand, leading to bugs in production and cognitive debt.\r\n\r\nStage is a new code review platform built for today’s fast moving teams. Instead of forcing readers to piece things together from unorganized diffs, Stage breaks changes down into structured chapters so teams can understand what's happening and ship with confidence.",
@@ -23493,7 +23497,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/de52713fe1552551dbe8aa2a5e60202c09bfc0d7.png",
     "website": "https://insforge.dev/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.",
+    "long_description": "InsForge is the backend platform designed for coding agents. Database, auth, storage, compute, hosting, and AI gateway in one place, built for agents to configure and manage end to end.",
     "one_liner": "The backend platform for AI-native developers",
     "team_size": 6,
     "industry": "B2B",

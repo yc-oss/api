@@ -5934,7 +5934,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d9461ed7e5093ac18bab6ae2cb43de29136be3a7.png",
     "website": "https://www.getparker.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "New York City, NY, USA; San Francisco, CA, USA",
     "long_description": "Parker is a digital bank.",
     "one_liner": "Parker is a digital bank.",
     "team_size": 10,
@@ -22671,49 +22671,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/moneco.json"
   },
   {
-    "id": 26739,
-    "name": "Craze",
-    "slug": "craze",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b5c0add505f7307410cfab6e36c9a7df97ce8d5d.png",
-    "website": "https://www.crazehq.com/?utm_source=yc",
-    "all_locations": "Mumbai, MH, India; MH, India",
-    "long_description": "Craze makes it simple for founders and growing teams in India to manage, run and automate all of payroll, HR and IT in one place. \r\n\r\nOur integrated system serves as the single source of truth for all of admin, from onboarding to offboarding and everything in between. With Craze, businesses in India:\r\n- Have a system of record for people, employee and entity data that automates onboarding and offboarding\r\n- Run payroll in one click\r\n- Ensure payroll compliance\r\n- Manage leaves, time and attendance seamlessly synced with payroll\r\n- Automate and manage expenses, devices, benefits and lots more\r\n\r\nEntrepreneurs start businesses to build something people want and change the world. Craze eliminates disjointed point solutions, multiple spreadsheets and coordination headaches and saves time, money and unnecessary stress so founders can focus on what matters most — growing their business.",
-    "one_liner": "All-in-one Payroll, HR and IT for India",
-    "team_size": 8,
-    "industry": "B2B",
-    "subindustry": "B2B -> Human Resources",
-    "launched_at": 1659184640,
-    "tags": [
-      "Fintech",
-      "SaaS",
-      "Compliance",
-      "HR Tech",
-      "Payroll"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Human Resources"
-    ],
-    "regions": [
-      "India",
-      "South Asia"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/craze",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/craze.json"
-  },
-  {
     "id": 26743,
     "name": "EthosX",
     "slug": "ethosx",
@@ -26406,22 +26363,25 @@
   },
   {
     "id": 28932,
-    "name": "Respaid",
-    "slug": "respaid",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a8fe646749d3e1dce9b22d9134f31c861d6c0324.png",
-    "website": "https://www.respaid.com",
+    "name": "AgentCollect",
+    "slug": "agentcollect",
+    "former_names": [
+      "Respaid"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e7fa66d4491c66a8637435f8ec4ca509a67f236.png",
+    "website": "https://www.agentcollect",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We recover up to 85,000 invoices per day and get 50% paid within 20 days on average.\r\n\r\nRespaid uses AI to respectfully collect overdue B2B invoices. Just give us an excel file—no attached invoices needed. We integrate with your stack or work standalone, protecting your brand's reputation while maximizing collections through our AI-powered, respectful approach.",
-    "one_liner": "Respectful B2B Debt Collection, Powered by AI",
+    "long_description": "We recover aged B2B debt in weeks, not quarters: ~49% in 20 days vs ~20% in 4-6 months for traditional agencies.\r\nOur AI agents call, email, text, find the right contact (20% of B2B contact data is outdated), and negotiate payment plans 24/7 ; all under your brand. \r\nWe replace your offshore BPO and third-party agencies. \r\nYour AR team stays focused on strategic accounts.\r\n\r\nLive with Dell, Microsoft, FedEx, Plaid, and Checkr and hundreds of enterprise companies.\r\n\r\nLong-tail AR your team has deprioritized becomes recovered cash before a traditional agency even gets moving.",
+    "one_liner": "B2B debt collection powered by AI agents",
     "team_size": 42,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1688400893,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
-      "B2B"
+      "B2B",
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -26443,8 +26403,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/respaid",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/respaid.json"
+    "url": "https://www.ycombinator.com/companies/agentcollect",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/agentcollect.json"
   },
   {
     "id": 28965,
@@ -29997,18 +29957,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7785e7f2104cbe8c0fd7a9462d42a9b03d5aeb86.png",
     "website": "https://www.freeportmarkets.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Freeport turns the sources you already trust (starting with Twitter) into a tradable feed. Our AI analysts track breaking news across social and financial media, distill what matters, and translate it into actionable trade ideas so you’re never late when markets move. ",
-    "one_liner": "Tradable Twitter Feed ",
+    "long_description": "Freeport is a trading platform for pre-IPO shares, equities, crypto, and perpetual futures. Our AI analysts turn trusted social and financial media into a real-time feed of market-moving news and actionable trade ideas.",
+    "one_liner": "Trade like a hedge fund. ",
     "team_size": 3,
     "industry": "Fintech",
     "subindustry": "Fintech -> Consumer Finance",
     "launched_at": 1758671175,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "Crypto / Web3",
       "Investing",
-      "Consumer Finance"
+      "Consumer Finance",
+      "AI"
     ],
     "tags_highlighted": [
       "Crypto / Web3"

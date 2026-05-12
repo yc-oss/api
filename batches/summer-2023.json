@@ -203,7 +203,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -4729,22 +4729,25 @@
   },
   {
     "id": 28932,
-    "name": "Respaid",
-    "slug": "respaid",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a8fe646749d3e1dce9b22d9134f31c861d6c0324.png",
-    "website": "https://www.respaid.com",
+    "name": "AgentCollect",
+    "slug": "agentcollect",
+    "former_names": [
+      "Respaid"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e7fa66d4491c66a8637435f8ec4ca509a67f236.png",
+    "website": "https://www.agentcollect",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We recover up to 85,000 invoices per day and get 50% paid within 20 days on average.\r\n\r\nRespaid uses AI to respectfully collect overdue B2B invoices. Just give us an excel file—no attached invoices needed. We integrate with your stack or work standalone, protecting your brand's reputation while maximizing collections through our AI-powered, respectful approach.",
-    "one_liner": "Respectful B2B Debt Collection, Powered by AI",
+    "long_description": "We recover aged B2B debt in weeks, not quarters: ~49% in 20 days vs ~20% in 4-6 months for traditional agencies.\r\nOur AI agents call, email, text, find the right contact (20% of B2B contact data is outdated), and negotiate payment plans 24/7 ; all under your brand. \r\nWe replace your offshore BPO and third-party agencies. \r\nYour AR team stays focused on strategic accounts.\r\n\r\nLive with Dell, Microsoft, FedEx, Plaid, and Checkr and hundreds of enterprise companies.\r\n\r\nLong-tail AR your team has deprioritized becomes recovered cash before a traditional agency even gets moving.",
+    "one_liner": "B2B debt collection powered by AI agents",
     "team_size": 42,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1688400893,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
-      "B2B"
+      "B2B",
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4766,8 +4769,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/respaid",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/respaid.json"
+    "url": "https://www.ycombinator.com/companies/agentcollect",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/agentcollect.json"
   },
   {
     "id": 28933,
@@ -8553,20 +8556,21 @@
   },
   {
     "id": 29118,
-    "name": "Waldium",
-    "slug": "waldium",
+    "name": "Structured Labs",
+    "slug": "structured-labs",
     "former_names": [
       "Structured",
       "Structured Labs",
       "Preswald",
       "Structured Labs",
-      "Wadium"
+      "Wadium",
+      "Waldium"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1b0b60f11ab6498ea22f5e4f79a7e5ea9222dcf6.png",
-    "website": "https://www.waldium.com/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e8dd08fd61491d9efffabb3dff787320791e2421.png",
+    "website": "https://www.structuredlabs.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Waldium is an AI-driven platform for researching, writing, and publishing technical knowledge in formats that both humans and AIs can understand. We help developers create technical guides, resources and tutorials — structured, durable knowledge that AIs can learn from, cite, and build upon.",
-    "one_liner": "The publishing layer for the AI-native web",
+    "one_liner": "The publishing layer for the agentic internet",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -8597,8 +8601,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/waldium",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/waldium.json"
+    "url": "https://www.ycombinator.com/companies/structured-labs",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/structured-labs.json"
   },
   {
     "id": 29119,
