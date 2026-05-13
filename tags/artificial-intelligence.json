@@ -4340,50 +4340,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2019/askdata.json"
   },
   {
-    "id": 12036,
-    "name": "Probably Genetic",
-    "slug": "probably-genetic",
-    "former_names": [
-      "Aiwa Health"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9558e9a7114240a3f1e2a6378bd906ffe21826f3.png",
-    "website": "https://www.probablygenetic.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Probably Genetic is changing the lives of patients living with severe, complex diseases. Our data platform is used by drug developers and patient advocacy groups to develop and launch treatments for these patients. Our technology discovers undiagnosed patients online, analyzes their disease state using machine learning and at-home testing, and enables compliant communication with patients. In doing so, we help patients access diagnoses, clinical trials, and treatments as early as possible.",
-    "one_liner": "Patient Intelligence Platform for Genetic Disease ",
-    "team_size": 20,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Diagnostics",
-    "launched_at": 1541561609,
-    "tags": [
-      "Artificial Intelligence",
-      "Health Tech",
-      "Biotech",
-      "Genomics"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2019",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Diagnostics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/probably-genetic",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/probably-genetic.json"
-  },
-  {
     "id": 12040,
     "name": "Superorder",
     "slug": "superorder",
@@ -14415,6 +14371,52 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/rima-ai.json"
   },
   {
+    "id": 26912,
+    "name": "Quinn",
+    "slug": "quinn",
+    "former_names": [
+      "iollo"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5bd3e4de086fbafd70c63dbae211f55425382f05.png",
+    "website": "https://www.quinnbio.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Quinn makes the highest-stakes scientific decisions in drug development. Which drugs to bet on, what to develop next, how to get them to patients. In days instead of months.",
+    "one_liner": "The AI that delivers pharma R&D decisions in days, not months",
+    "team_size": 4,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Drug Discovery and Delivery",
+    "launched_at": 1656567327,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Biotech",
+      "Enterprise"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Drug Discovery and Delivery"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/quinn",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/quinn.json"
+  },
+  {
     "id": 27037,
     "name": "Metriport",
     "slug": "metriport",
@@ -14424,7 +14426,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Metriport provides real-time access to comprehensive medical data for 300M+ individuals across the US. Our open-source intelligence platform helps organizations access, analyze, and exchange patient data while integrating with all major healthcare IT systems.\r\n\r\nIf you’ve been to doctors in the US, you may have encountered the problem: how does a healthcare provider get access to your up-to-date medical history to treat you properly? Reliance on archaic methods is still the norm: typically, you or your provider need to call the facilities where you’ve previously received treatment (assuming you remember them all), just to have them send your records via fax (yep, fax). This can take weeks, only then to have a provider sift through hundreds of pages of unstructured docs, just to figure out basic things like your active medication list, what conditions you may have, latest lab results, etc. This not only delays care—it can cause improper treatment, since the medical history is critical for informing treatment decisions. \r\n\r\nMetriport integrates fragmented medical data from thousands of sources—including both national and state/regional Health Information Exchanges (HIEs), ADTs, EHRs, pharmacies, and labs—through a single API connector. The platform then standardizes, deduplicates, and enriches this data to create a comprehensive longitudinal patient record, with AI-powered clinical summaries. \r\n\r\nAlong with a rich understanding of patient health history, healthcare providers also get realtime updates about their patients' health through Metriport. This includes getting notified when a patient is discharged from the hospital, picks up their prescription from the pharmacy, or has a new lab result available. Through this data, care teams get insights across their patient population, helping with 30-day readmissions prediction, care gap closure, risk adjustment, and more.\r\n\r\nOn top of all of this, Metriport enables healthcare organizations to share net-new clinical information back to all major healthcare IT systems, and to become interoperable with popular EHR systems such as Epic, Cerner, athena, eClinicalWorks, and many more—forming an internet for healthcare data.\r\n\r\nMetriport improves both patient and provider lives at the point-of-care, supporting use cases such as medication adherence, transitions of care management, chart prep, and much more. If you want to do work that matters, get in touch with us today.",
     "one_liner": "Open-Source Platform for Healthcare Data Intelligence",
-    "team_size": 23,
+    "team_size": 24,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1654554081,
@@ -14451,7 +14453,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -14641,54 +14643,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/findly",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/findly.json"
-  },
-  {
-    "id": 27108,
-    "name": "Sanifu",
-    "slug": "sanifu",
-    "former_names": [
-      "Patika Technology Limited",
-      "Patika"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc10943e14517d77a119ecad164eb2d76d6db52b.png",
-    "website": "https://sanifu.ai",
-    "all_locations": "Nairobi, Nairobi County, Kenya; Remote",
-    "long_description": "Sanifu helps finance, marketing, operations, and revenue teams to automate the manual data processes they currently do across spreadsheets, emails, PDFs, and disconnected systems. Instead of exporting data into Excel, cleaning files, running formulas, and stitching everything together manually everyday, teams can now describe their exact process, including the rules, checks, and exceptions behind workflows like data cleanup, bank reconciliations, report consolidation, payment allocations, channel attributions, and Sanifu turns it into a reliable data app that runs the same way every time.\r\n\r\nThis significantly reduces time spent on copy-paste work, spreadsheet cleanup, and manual entries and checking, while improving accuracy, consistency, and operational visibility. Sanifu helps teams scale critical back-office processes without relying on brittle spreadsheets, scripts, or general AI tools that reinvent the logic every run.\r\n\r\nSanifu is a full operational platform with 5k+ app integrations, 1k+ native components, forms, scheduler, data stores, dashboards, approvals, reviews, AI-powered entity matching among many other features that make it an end-to-end data app management platform.",
-    "one_liner": "Put your manual data processes on autopilot",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1655225496,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Analytics",
-      "Data Engineering"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "Kenya",
-      "Africa",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sanifu",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/sanifu.json"
   },
   {
     "id": 27109,
@@ -15322,6 +15276,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dev-tools-ai",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/dev-tools-ai.json"
+  },
+  {
+    "id": 27583,
+    "name": "Rubbrband",
+    "slug": "rubbrband",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5720d48d89fcdf16b2887231b42541c2a4f1da5b.png",
+    "website": "https://rubbrband.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Rubbrband is a creative agency producing high quality video advertisements for a new generation of brands. Built by a team of creatives from Hollywood, we bring that level of production to fast growing companies.",
+    "one_liner": "The creative agency",
+    "team_size": 3,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Content",
+    "launched_at": 1666397912,
+    "tags": [
+      "Artificial Intelligence",
+      "Video",
+      "Advertising"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Content"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rubbrband",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/rubbrband.json"
   },
   {
     "id": 27673,
@@ -19612,6 +19607,57 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/gleam.json"
   },
   {
+    "id": 28976,
+    "name": "Bolto",
+    "slug": "bolto",
+    "former_names": [
+      "Social Inc.",
+      "Pampas Inc.",
+      "Pampas",
+      "Onnix",
+      "Crew",
+      "Crew AI",
+      "Crew"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd164a122dacc9defa9cfe1e3478f126b401b963.png",
+    "website": "https://www.bolto.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "AI-powered recruiting and HR platform. Find and hire the best pre-vetted global software talent and simplify onboarding, payroll, and compliance. ",
+    "one_liner": "AI Powered All-In-One Payroll, HR + Recruiting ",
+    "team_size": 14,
+    "industry": "B2B",
+    "subindustry": "B2B -> Human Resources",
+    "launched_at": 1691417670,
+    "tags": [
+      "Artificial Intelligence",
+      "Recruiting",
+      "HR Tech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Human Resources"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bolto",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/bolto.json"
+  },
+  {
     "id": 28979,
     "name": "Slicker",
     "slug": "slicker",
@@ -21955,48 +22001,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/nuanced",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/nuanced.json"
-  },
-  {
-    "id": 29251,
-    "name": "Poka Labs",
-    "slug": "poka-labs",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c3db3e4b14d4a36988633e929d3562b45dfa8d41.png",
-    "website": "https://www.pokalabs.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Poka Labs builds an AI platform to help sales reps at chemical manufacturers respond to requests from customers and win more business.  Our agent understands each companies product catalog, customer purchase behaviors, and company specific pricing logic to price, quote, and win the business.\r\n\r\nMalay and Andrew met while pursuing their MBAs at Harvard Business School. Malay previously worked as an engineer in the specialty chemical industry, saving his employers over $100 million across US, China, and German plants. Andrew worked as a software engineer on data infrastructure at Meta and optimization problems at a seed-stage startup. He also completed a Masters degree at Harvard specializing in Machine Learning.",
-    "one_liner": "The modern operating system for chemical manufacturing.",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
-    "launched_at": 1721318249,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Supply Chain",
-      "Industrial"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/poka-labs",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/poka-labs.json"
   },
   {
     "id": 29254,
@@ -26311,7 +26315,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Willow is an AI dictation app that lets you type with your voice. Built to 4x the productivity of anyone spending too much time on email, docs, and AI prompting workflows.\r\n\r\nWe’re Mac-only for now. You can try it free at WillowVoice.com",
     "one_liner": "The voice interface replacing your keyboard",
-    "team_size": 6,
+    "team_size": 7,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1724580560,
@@ -29743,51 +29747,47 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/luthor.json"
   },
   {
-    "id": 30060,
-    "name": "Lingo.dev",
-    "slug": "lingodotdev",
+    "id": 30066,
+    "name": "Unusual",
+    "slug": "unusual",
     "former_names": [
-      "Replexica"
+      "Aditto"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8a284047c475d06365013890a991877b3bdad21e.png",
-    "website": "https://lingo.dev",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Lingo.dev is a localization engineering platform where teams create localization engines – stateful translation APIs configured with glossaries, brand voice rules, per-locale model preferences, and quality scoring. Each engine persists domain context across every request via retrieval augmented localization (RAL). Integrate via API, CLI, CI/CD, or other integrations. Localization infrastructure behind 200M+ translated words for teams including Mistral, Solana, SoSafe, and Cal.com.",
-    "one_liner": "Localization engineering platform for consistent, quality translations",
-    "team_size": 7,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cd15b298040da78745561fe92b10fb7b1c25f4d5.png",
+    "website": "https://unusual.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "AI agents are increasingly making buying decisions on behalf of humans. Unusual helps leading go-to-market teams refine their positioning so that AI agents recommend and buy their products over their competitors'. \r\n\r\nThe Unusual platform helps teams form a cohesive understanding of how marketing, sales, and product strategy must converge to enable AI brand alignment.\r\n\r\nCustomers have used Unusual to shift models’ perception of their brand from “niche” to “enterprise-platform”, from “scrappy” to “customer-obsessed”, and from “good for startups” to “a solid bet for the middle market”.\r\n\r\nWe've delivered insights to Fortune 100 brands as well as to scale ups, like Change.org, Astronomer, Monarch.",
+    "one_liner": "Helping position brands so that AI agents choose and recommend them.",
+    "team_size": 4,
     "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1728389519,
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1730767330,
     "tags": [
       "Artificial Intelligence",
-      "Developer Tools",
-      "B2B",
-      "International",
-      "Infrastructure"
+      "Sales",
+      "Marketing"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2024",
     "status": "Active",
     "industries": [
       "B2B",
-      "Engineering, Product and Design"
+      "Marketing"
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lingodotdev",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/lingodotdev.json"
+    "url": "https://www.ycombinator.com/companies/unusual",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/unusual.json"
   },
   {
     "id": 30074,
@@ -29871,6 +29871,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/autocomputer",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/autocomputer.json"
+  },
+  {
+    "id": 30078,
+    "name": "Abundant",
+    "slug": "abundant",
+    "former_names": [
+      "Abundant (prev. Scorecard)"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac0261264b03915325cd897f5bcb7484eec48903.png",
+    "website": "https://www.abundant.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Hello! 👋\r\n\r\nWe are a team of former ML engineers, founders, roboticists and ops leads who obsess about data and its impact on safe, reliable AI.\r\n\r\nWe specialize in creating environments and datasets for RL by leveraging our experience in simulation and model training.\r\n\r\nBy the numbers:\r\n  • Powering 3 of the top 6 global AI labs and multiple Fortune 500 enterprises\r\n  • Billions of training tokens generated each month, 2x month over month\r\n  • Exclusive, global network of over 500 domain experts\r\n\r\nWe believe humans are inherently creative, and thrive by pushing the frontier.\r\n\r\nWe are working towards an abundant future--one where everyone has access to infinite intelligence, services and goods.\r\n\r\nBased in San Francisco, CA. We enjoy good food and good company.\r\n\r\n-- more info below --\r\n\r\nAbundant is building the NVIDIA of training data. AI models rely on two fundamental ingredients: compute and data. NVIDIA, the leader in compute, has a peak market cap of $5T and generated $130B in revenue last year as the need for scaling compute has exploded. We believe the need to scale data is just beginning, as we move beyond SFT and human supervision to RL and Learning from Experience.\r\n\r\nOur founding team consists of second-time founders, ML engineers and data leads from Waymo, Google, Meta and AWS. Our team has previously collaborated with DeepMind to classify hate speech in YouTube videos, trained SOTA models for self-driving, and scaled data pipelines with thousands of human annotators. Our pioneering work in human computation, synthetic data, imitation learning and RL give us a solid advantage in delivering results to our customers.\r\n\r\nWhy now? Training data is more important and more scarce than ever before. Scaling laws dictate that linear improvement in model performance demands an exponential increase in training data. But there is only one World Wide Web and most of it has already been trained on. The next advances will require new, diverse, and high-quality datasets, making training data more important and scarce than ever before.\r\n\r\nWhat happens if we succeed? Abundant will be the core enabler for AGI and beyond. Most of the challenges in model training are already solved. What’s missing is the data necessary to move from general knowledge to domain expertise; from chatbots to agents; and from digital intelligence to physical AI. Ask any AI researcher or roboticist: the core bottleneck to progress is the availability of data, i.e. “abundant data”.\r\n\r\nAbundant works with the most advanced AI labs and startups, as well as F500 enterprises.",
+    "one_liner": "Agent simulation and RL for researchers",
+    "team_size": 7,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1731958841,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "API",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/abundant",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/abundant.json"
   },
   {
     "id": 30099,
@@ -33461,6 +33504,49 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/crimson.json"
   },
   {
+    "id": 30485,
+    "name": "Anana",
+    "slug": "anana",
+    "former_names": [
+      "DMV-EZ",
+      "cleon",
+      "Cleon"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51a782f9ec25213533c54cb1e2cb41bde2210c14.png",
+    "website": "https://getanana.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Anana is an AI-powered platform for hospitality revenue, sales, and operations teams to work together in one place. From investigating group pickup and triaging guest complaints to taking action directly in the tools your team already uses, Anana streamlines the workflows that drive occupancy, guest satisfaction, and revenue growth.",
+    "one_liner": "The agentic system of action for hotel groups and management companies",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1748491833,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/anana",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/anana.json"
+  },
+  {
     "id": 30488,
     "name": "Theta",
     "slug": "theta",
@@ -34553,7 +34639,7 @@
     "website": "https://closera.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "AI employees for commercial real estate",
+    "one_liner": "AI Shopping Agent for Your Ecommerce Store",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -39170,6 +39256,47 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/klarify.json"
   },
   {
+    "id": 31327,
+    "name": "Korso",
+    "slug": "korso",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bff684184cec0196e94661d371f2a25d85fea831.png",
+    "website": "https://korsoai.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Korso builds AI agents that handle the operational work manufacturers still do manually, including processing RFQs, following up on quotes, coordinating with suppliers, and keeping production on track when things go wrong. Our agents plug into your existing ERP and CRM, understand your workflows, and act on your behalf: triaging incoming requests, chasing delayed orders, notifying customers, and escalating when human judgment is needed.\r\n\r\nWe built Korso around the reality that enterprise systems cannot afford mistakes. Every agent action passes through verification layers, tools are scoped, and critical operations go through dry-run validation and secondary review. Full audit trails mean you can see exactly what was done, why, and when.\r\n\r\nMost AI automation breaks down at the ERP integration layer. Korso's orchestration is built for the messiness of real manufacturing systems, with long-running workflows that span weeks and checkpointing that never loses progress.\r\n\r\nInstead of replacing your systems, Korso makes them work harder, so your team spends less time on coordination and more time on the work that actually matters.",
+    "one_liner": "The Intelligence Layer for Manufacturing.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1773339255,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Manufacturing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/korso",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/korso.json"
+  },
+  {
     "id": 31329,
     "name": "primitive",
     "slug": "primitive",
@@ -39213,6 +39340,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/primitive",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/primitive.json"
+  },
+  {
+    "id": 31343,
+    "name": "WithAI",
+    "slug": "withai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/50c65da10294fd5bf94572379e6cd2c7b0a8302f.png",
+    "website": "https://withai.co",
+    "all_locations": "New York, NY, USA",
+    "long_description": "WithAI helps institutional investors research stocks and track their portfolio using AI.\r\n\r\nToday's agents are powerful but insufficient. The training data quality and customization schlep prevent them from being seriously useful for investors. But WithAI has found the right form factor, context management, and consultative sale to help independent asset managers hold their own against the huge platforms' in-house projects. Our first client is \"tremendously accelerated\" (their words) when months ago they were \"existentially threatened.\"\r\n\r\nBen and Ian became fast friends at Princeton co-founding a technology investment firm. Ben became the founding researcher at unicorn Sentient Labs, where he built LLM coordination and security tech. Ian became an investor at Bridgewater Associates, where he spearheaded \"how will AI affect the economy?\" and \"how can we use LLMs to invest?\"\r\n\r\nHis contrarian conclusion: the future of work isn't just \"managing agents.\" That form factor works for coding, but non-verifiable work is structurally different. You check whether code is good by running it. But do you check whether a stock is good by shorting it?\r\n\r\nFundamental equity hedge funds are elite, time-constrained, un-automatable knowledge workers in dire need of AI augmentation, so they make an ideal customer. But the combination of customization lock-in and huge ACV is not the real prize. If human knowledge work survives this decade, it will be AI-augmented. We're building that augmentation.\r\n",
+    "one_liner": "Custom command centers for hedge funds",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1778527074,
+    "tags": [
+      "Artificial Intelligence",
+      "Team Collaboration",
+      "Investing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/withai",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/withai.json"
   },
   {
     "id": 31345,
@@ -39567,48 +39736,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/elyra",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/elyra.json"
-  },
-  {
-    "id": 31396,
-    "name": "qomplement",
-    "slug": "qomplement",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f74f218c2714dc8c9f24d72389a7bfa22f2b11d.png",
-    "website": "https://qomplement.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Early stage AI lab based in San Francisco building the layer between unstructured data and enterprise systems.\r\n\r\nEvery day, operations and finance teams at large retailers and trucking companies manually process hundreds of POs, invoices, and shipping documents before any of it reaches their ERP. One of the most expensive inefficiencies in enterprise operations. Never solved at scale.\r\n\r\nWe automate those workflows end-to-end with AI agents. Already working with 20+ companies across retail, supply chain, and logistics.\r\n\r\nWe believe the operational layer eventually becomes the system of record itself. That is what we are building.",
-    "one_liner": "The AI-native operating system for enterprises",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1771907564,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Logistics",
-      "Enterprise",
-      "Automation"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/qomplement",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/qomplement.json"
   },
   {
     "id": 31398,
@@ -40507,51 +40634,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/asendia-ai",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/asendia-ai.json"
-  },
-  {
-    "id": 31536,
-    "name": "Gigacatalyst",
-    "slug": "gigacatalyst",
-    "former_names": [
-      "Giga Next Inc",
-      "Giga Catalyst"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f036b6b16ede0b0a7e4c426862254c490d653c42.png",
-    "website": "https://gigacatalyst.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We provide a AI customization layer that learns your APIs and embeds in your product, so your customers can build their own apps on your SaaS. Each customer can now adapt your product to match their workflows perfectly, and share it across their team with our in-built app store.\r\n\r\nThe result is that customers use your SaaS more, retain for longer, and expand quicker, because they get bespoke implementation for their exact usecase, without waiting.\r\n\r\nWe're live with the top Series B companies with 90% repeat usage rate. Our customers tell us that Gigacatalyst is the best way to increase usage, retention, and expansion in 2026.",
-    "one_liner": "Customize your software to every user with AI",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1775192956,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Enterprise",
-      "No-code"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/gigacatalyst",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/gigacatalyst.json"
   },
   {
     "id": 31538,

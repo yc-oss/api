@@ -4193,7 +4193,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -5164,7 +5164,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2faf8d8d822c59f1eac78a6bce3d6ba75c760df7.png",
     "website": "https://www.clipboardworks.com/careers",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Our Why\r\nAt Clipboard, our mission is to uplift as many communities as possible. We do this by connecting healthcare professionals with the workplaces that need amazing workers, helping people achieve financial stability for themselves and their families while providing essential care to people all across the U.S.\r\n\r\nOur How\r\nClipboard is an app-based marketplace where workplaces post calls for help and workers answer. Every year, we help hundreds of thousands of workers fill millions of shifts across the U.S. We’re the leader in Long-Term Care staffing and are rapidly expanding into Home Health, Hospitals, and more.\r\n\r\nOur Team\r\nFounded in 2016, we are a remote-first team of over 1,000 people working to uplift communities across the country.",
+    "long_description": "Our Why\r\nAt Clipboard, our mission is to uplift as many communities as possible. We do this by connecting professionals with the workplaces that need amazing workers, helping people achieve financial stability for themselves and their families all across the U.S.\r\n\r\nOur How\r\nClipboard is an app-based marketplace where workplaces post calls for help and workers answer. Every year, we help hundreds of thousands of workers fill millions of shifts across the U.S. We’re the leader in Long-Term Care staffing and are rapidly expanding into Home Health, Hospitals, and more.\r\n\r\nOur Team\r\nFounded in 2016, we are a remote-first team of over 1,000 people working to uplift communities across the country.",
     "one_liner": "Every shift, Covered.",
     "team_size": 1000,
     "industry": "Consumer",
@@ -9116,6 +9116,51 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2018/oxygen.json"
   },
   {
+    "id": 2023,
+    "name": "SPATE",
+    "slug": "spate",
+    "former_names": [
+      "SPATE",
+      "Spate"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7577742d36a89182bb27d25c3ad944da530cabbf.png",
+    "website": "https://www.spate.nyc",
+    "all_locations": "New York, NY, USA; Remote",
+    "long_description": "Spate is your machine intelligence solution for finding the next big trend in Beauty and Food. For example, we spotted trends such as turmeric, face masks, and cold brew.",
+    "one_liner": "Trends prediction for marketers",
+    "team_size": 15,
+    "industry": "B2B",
+    "subindustry": "B2B -> Retail",
+    "launched_at": 1527062926,
+    "tags": [
+      "Machine Learning",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2018",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Retail"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/spate",
+    "api": "https://yc-oss.github.io/api/batches/summer-2018/spate.json"
+  },
+  {
     "id": 2030,
     "name": "Culdesac",
     "slug": "culdesac",
@@ -10069,15 +10114,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Probably Genetic is changing the lives of patients living with severe, complex diseases. Our data platform is used by drug developers and patient advocacy groups to develop and launch treatments for these patients. Our technology discovers undiagnosed patients online, analyzes their disease state using machine learning and at-home testing, and enables compliant communication with patients. In doing so, we help patients access diagnoses, clinical trials, and treatments as early as possible.",
     "one_liner": "Patient Intelligence Platform for Genetic Disease ",
-    "team_size": 20,
+    "team_size": 17,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Diagnostics",
     "launched_at": 1541561609,
     "tags": [
-      "Artificial Intelligence",
       "Health Tech",
       "Biotech",
-      "Genomics"
+      "Genomics",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -10093,7 +10138,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -11616,6 +11661,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/upequity",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/upequity.json"
+  },
+  {
+    "id": 12632,
+    "name": "ZETA SURGICAL",
+    "slug": "zeta-surgical",
+    "former_names": [
+      "Z Imaging",
+      "Zeta Surgical"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f35e72eadffc7d385a7236cd7b79ab14672ed983.png",
+    "website": "http://zetasurgical.com",
+    "all_locations": "Boston, MA, USA",
+    "long_description": "We develop surgical navigation and robotics tools to make minimally invasive surgeries easier, faster and more accessible.",
+    "one_liner": "Next-Generation Surgical Navigation and Robotics",
+    "team_size": 12,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Medical Devices",
+    "launched_at": 1556686578,
+    "tags": [
+      "Medical Robotics",
+      "Augmented Reality",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2019",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Medical Devices"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zeta-surgical",
+    "api": "https://yc-oss.github.io/api/batches/summer-2019/zeta-surgical.json"
   },
   {
     "id": 12639,
@@ -13722,7 +13811,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -18834,6 +18923,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/enode",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/enode.json"
+  },
+  {
+    "id": 22958,
+    "name": "Text Blaze",
+    "slug": "text-blaze",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3155ba3b687741c19a97719f6f226e3e148c98f5.png",
+    "website": "https://blaze.today",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Text Blaze saves time and increases comms quality by automating repeated tasks. Users save smart templates and insert them anywhere on the web using keyboard shortcuts. Templates can include placeholders, logic, dynamic fields, integrations with other apps, and more. ",
+    "one_liner": "Slash commands anywhere",
+    "team_size": 9,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1615472232,
+    "tags": [
+      "Robotic Process Automation",
+      "SaaS",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2021",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/text-blaze",
+    "api": "https://yc-oss.github.io/api/batches/winter-2021/text-blaze.json"
   },
   {
     "id": 22983,
@@ -24544,7 +24676,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -25110,7 +25242,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5810f2cdca1ab3fedc5a811643be13d5387e300c.png",
     "website": "https://www.strac.io/",
-    "all_locations": "Bellevue, WA, USA",
+    "all_locations": "Seattle, WA, USA",
     "long_description": "Strac is an agentless Data Discovery (aka DSPM - Data Security Posture Management), Data Classification & DLP (Data Leak Prevention) that automatically discovers, classifies and remediates sensitive data (alert, label, redact, mask, block, delete). \r\n\r\nStrac protects SaaS, Cloud, Gen AI, Browsers, On-Prem and Endpoints like O365, Slack, GDrive, AWS, Salesforce, ChatGPT, Jira, Mac, Zendesk, Azure, On-Prem (On-Prem, MS SQL SAP) and 40+ integrations. \r\n\r\nStrac protects enterprise companies like UiPath, Databricks, thredUP, B Capital, Crypto (dot) com!",
     "one_liner": "Data Discovery, DLP, DSPM for SaaS, Cloud, Gen AI & Endpoints",
     "team_size": 8,
@@ -27118,9 +27250,9 @@
     "slug": "cinder-2",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/11e79fdb615e4008b53b6d456fb9c93446ae9d40.png",
-    "website": "http://www.cinder.co",
+    "website": "https://cinder.ai",
     "all_locations": "New York, NY, USA",
-    "long_description": "From content moderation to responsible AI, Cinder empowers businesses to orchestrate and automate digital safety at scale. Cinder was founded to help organizations foster safe online spaces for everyone. Our platform empowers companies from start-ups to enterprises with end-to-end capabilities to mitigate harm, investigate abuse, and produce trustworthy and reliable AI outcomes. Building your world-class company means keeping your users and community safe—Cinder unlocks faster growth by making safety easy. We work with customers in every industry from frontier AI labs to e-commerce and social media. \r\n\r\nWe're hiring across a variety of teams and looking for candidates based in NYC or open to relocating to NYC, and able to work in-person.",
+    "long_description": "From content moderation to AI safety, Cinder empowers businesses to orchestrate and automate digital safety at scale. Cinder was founded to help organizations foster safe online spaces for everyone. Our platform empowers companies from start-ups to enterprises with end-to-end capabilities to mitigate harm, investigate abuse, and produce trustworthy and reliable AI outcomes. Building your world-class company means keeping your users and community safe—Cinder unlocks faster growth by making safety easy. We work with customers in every industry from frontier AI labs to e-commerce and social media. \r\n\r\nWe're hiring across a variety of teams and looking for candidates based in NYC or open to relocating to NYC, and able to work in-person.",
     "one_liner": "Infrastructure to protect companies from AI abuse",
     "team_size": 30,
     "industry": "B2B",
@@ -28039,49 +28171,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/postal",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/postal.json"
-  },
-  {
-    "id": 26021,
-    "name": "Anja Health",
-    "slug": "anja-health",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e828fbd44248d357d8c1ecab4b67c1b2309f5c0c.png",
-    "website": "https://anjahealth.com",
-    "all_locations": "Los Angeles, CA, USA; Remote",
-    "long_description": "Helping pregnant parents save the most personal source of stem cells - from their umbilical cord and placenta - to unlock future disease treatments. Offering cord blood banking, cord tissue banking, and placenta stem cell banking.",
-    "one_liner": "Cord Blood Banking Reimagined",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Consumer Health and Wellness",
-    "launched_at": 1644310950,
-    "tags": [
-      "Consumer Health Services",
-      "Consumer",
-      "Healthcare"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Consumer Health and Wellness"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/anja-health",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/anja-health.json"
   },
   {
     "id": 26032,
@@ -30755,7 +30844,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Metriport provides real-time access to comprehensive medical data for 300M+ individuals across the US. Our open-source intelligence platform helps organizations access, analyze, and exchange patient data while integrating with all major healthcare IT systems.\r\n\r\nIf you’ve been to doctors in the US, you may have encountered the problem: how does a healthcare provider get access to your up-to-date medical history to treat you properly? Reliance on archaic methods is still the norm: typically, you or your provider need to call the facilities where you’ve previously received treatment (assuming you remember them all), just to have them send your records via fax (yep, fax). This can take weeks, only then to have a provider sift through hundreds of pages of unstructured docs, just to figure out basic things like your active medication list, what conditions you may have, latest lab results, etc. This not only delays care—it can cause improper treatment, since the medical history is critical for informing treatment decisions. \r\n\r\nMetriport integrates fragmented medical data from thousands of sources—including both national and state/regional Health Information Exchanges (HIEs), ADTs, EHRs, pharmacies, and labs—through a single API connector. The platform then standardizes, deduplicates, and enriches this data to create a comprehensive longitudinal patient record, with AI-powered clinical summaries. \r\n\r\nAlong with a rich understanding of patient health history, healthcare providers also get realtime updates about their patients' health through Metriport. This includes getting notified when a patient is discharged from the hospital, picks up their prescription from the pharmacy, or has a new lab result available. Through this data, care teams get insights across their patient population, helping with 30-day readmissions prediction, care gap closure, risk adjustment, and more.\r\n\r\nOn top of all of this, Metriport enables healthcare organizations to share net-new clinical information back to all major healthcare IT systems, and to become interoperable with popular EHR systems such as Epic, Cerner, athena, eClinicalWorks, and many more—forming an internet for healthcare data.\r\n\r\nMetriport improves both patient and provider lives at the point-of-care, supporting use cases such as medication adherence, transitions of care management, chart prep, and much more. If you want to do work that matters, get in touch with us today.",
     "one_liner": "Open-Source Platform for Healthcare Data Intelligence",
-    "team_size": 23,
+    "team_size": 24,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1654554081,
@@ -30782,7 +30871,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -32129,16 +32218,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5720d48d89fcdf16b2887231b42541c2a4f1da5b.png",
     "website": "https://rubbrband.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Rubbrband is a creative agency that creates trailers, ads, and stories of the highest quality. Built by a team of creatives and engineers from Hollywood, we’re scaling that level of production for a new generation of brands.",
+    "long_description": "Rubbrband is a creative agency producing high quality video advertisements for a new generation of brands. Built by a team of creatives from Hollywood, we bring that level of production to fast growing companies.",
     "one_liner": "The creative agency",
     "team_size": 3,
     "industry": "Consumer",
     "subindustry": "Consumer -> Content",
     "launched_at": 1666397912,
     "tags": [
+      "Artificial Intelligence",
       "Video",
-      "Advertising",
-      "AI"
+      "Advertising"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -40647,16 +40736,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c3db3e4b14d4a36988633e929d3562b45dfa8d41.png",
     "website": "https://www.pokalabs.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Poka Labs builds an AI platform to help sales reps at chemical manufacturers respond to requests from customers and win more business.  Our agent understands each companies product catalog, customer purchase behaviors, and company specific pricing logic to price, quote, and win the business.\r\n\r\nMalay and Andrew met while pursuing their MBAs at Harvard Business School. Malay previously worked as an engineer in the specialty chemical industry, saving his employers over $100 million across US, China, and German plants. Andrew worked as a software engineer on data infrastructure at Meta and optimization problems at a seed-stage startup. He also completed a Masters degree at Harvard specializing in Machine Learning.",
-    "one_liner": "The modern operating system for chemical manufacturing.",
-    "team_size": 3,
+    "long_description": "Poka Labs builds an AI platform to help sales reps at chemical manufacturers respond to requests from customers and win more business.  Our agents understand each companies product catalog, customer purchase behaviors, and tribal knowledge in order to price, quote, and win the business.\r\n\r\nMalay and Andrew met while pursuing at Harvard Business School and now are building for companies ranging from a few million in sales per year to billions. ",
+    "one_liner": "Helping industrial manufacturers win deals fast, at the right price.",
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1721318249,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Supply Chain",
+      "AI",
       "Industrial"
     ],
     "tags_highlighted": [],
@@ -42353,43 +42442,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/astro-mechanica.json"
   },
   {
-    "id": 29373,
-    "name": "Bilanc",
-    "slug": "bilanc",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d7390c9fddfe9a6cf41b3b323ffc04d09432fa0.png",
-    "website": "https://www.bilanc.co",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Bilanc helps engineering leaders build more productive, happier teams. We use AI to analyse every line of code that is written, and our platform delivers insights that help to improve developer experience, and increase developer productivity.",
-    "one_liner": "AI-Powered Engineering Productivity",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1701093428,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/bilanc",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/bilanc.json"
-  },
-  {
     "id": 29376,
     "name": "Carma",
     "slug": "carma",
@@ -43312,8 +43364,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e540520fafc66c31f803395b8f5603e6765d484.png",
     "website": "https://hatchet.run",
     "all_locations": "New York, NY, USA",
-    "long_description": "Hatchet abstracts away the infrastructure for managing task queues and message brokers, so you can focus on writing your background task and workflow logic. With Hatchet, you can run slow OpenAI requests in the background with async tasks, chain complex tasks together into workflows, and set retries and timeouts to recover from failure. ",
-    "one_liner": "Background task orchestration and visibility",
+    "long_description": "Hatchet is an orchestration platform for managing and observing AI agents, background tasks, and mission-critical workflows. Our mission is to provide developers with a simple, powerful, and reliable orchestration layer, enabling them to focus on building great applications.",
+    "one_liner": "The orchestration platform for teams who ship.",
     "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -44007,48 +44059,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/haplotype-labs",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/haplotype-labs.json"
-  },
-  {
-    "id": 29499,
-    "name": "Forge",
-    "slug": "forge",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a8698407a8cb5928c428073e83afe6e5668d63c.png",
-    "website": "https://www.forgehq.com/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Forge helps companies recover tariffs and duties paid on imported goods that are later exported or scrapped by automating a process called duty drawback.\r\n\r\nBillions of dollars of eligible refunds go unclaimed every year. We take full ownership of the process from organizing data to filing claims so businesses can unlock this extra revenue with minimal effort. ",
-    "one_liner": "Getting companies refunds on tariffs & duties",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
-    "launched_at": 1705516248,
-    "tags": [
-      "B2B",
-      "Logistics",
-      "Supply Chain",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/forge",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/forge.json"
   },
   {
     "id": 29509,
@@ -45742,7 +45752,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Willow is an AI dictation app that lets you type with your voice. Built to 4x the productivity of anyone spending too much time on email, docs, and AI prompting workflows.\r\n\r\nWe’re Mac-only for now. You can try it free at WillowVoice.com",
     "one_liner": "The voice interface replacing your keyboard",
-    "team_size": 6,
+    "team_size": 7,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1724580560,
@@ -49516,15 +49526,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cd15b298040da78745561fe92b10fb7b1c25f4d5.png",
     "website": "https://unusual.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Unusual helps brands discover and change how AI models talk about them.\r\n\r\nUnusual surveys models with thousands of targeted probing questions to understand how they form their opinions. We examine the sources they pull from, and find patterns in their reasoning, that let us create content and PR engineered to change those models’ minds.\r\n\r\nCustomers have used Unusual to shift models’ perception of their brand from “niche” to “enterprise-platform”, from “scrappy” to “customer-obsessed”, and from “good for startups” to “a solid bet for the middle market”.\r\n\r\nWe work with top companies including Reducto, Monarch Money, and more.",
-    "one_liner": "Discover and change how AI models talk about your brand.",
-    "team_size": 2,
+    "long_description": "AI agents are increasingly making buying decisions on behalf of humans. Unusual helps leading go-to-market teams refine their positioning so that AI agents recommend and buy their products over their competitors'. \r\n\r\nThe Unusual platform helps teams form a cohesive understanding of how marketing, sales, and product strategy must converge to enable AI brand alignment.\r\n\r\nCustomers have used Unusual to shift models’ perception of their brand from “niche” to “enterprise-platform”, from “scrappy” to “customer-obsessed”, and from “good for startups” to “a solid bet for the middle market”.\r\n\r\nWe've delivered insights to Fortune 100 brands as well as to scale ups, like Change.org, Astronomer, Monarch.",
+    "one_liner": "Helping position brands so that AI agents choose and recommend them.",
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1730767330,
     "tags": [
-      "Marketing",
-      "AI"
+      "Artificial Intelligence",
+      "Sales",
+      "Marketing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49664,6 +49675,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/crustdata",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/crustdata.json"
+  },
+  {
+    "id": 30078,
+    "name": "Abundant",
+    "slug": "abundant",
+    "former_names": [
+      "Abundant (prev. Scorecard)"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac0261264b03915325cd897f5bcb7484eec48903.png",
+    "website": "https://www.abundant.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Hello! 👋\r\n\r\nWe are a team of former ML engineers, founders, roboticists and ops leads who obsess about data and its impact on safe, reliable AI.\r\n\r\nWe specialize in creating environments and datasets for RL by leveraging our experience in simulation and model training.\r\n\r\nBy the numbers:\r\n  • Powering 3 of the top 6 global AI labs and multiple Fortune 500 enterprises\r\n  • Billions of training tokens generated each month, 2x month over month\r\n  • Exclusive, global network of over 500 domain experts\r\n\r\nWe believe humans are inherently creative, and thrive by pushing the frontier.\r\n\r\nWe are working towards an abundant future--one where everyone has access to infinite intelligence, services and goods.\r\n\r\nBased in San Francisco, CA. We enjoy good food and good company.\r\n\r\n-- more info below --\r\n\r\nAbundant is building the NVIDIA of training data. AI models rely on two fundamental ingredients: compute and data. NVIDIA, the leader in compute, has a peak market cap of $5T and generated $130B in revenue last year as the need for scaling compute has exploded. We believe the need to scale data is just beginning, as we move beyond SFT and human supervision to RL and Learning from Experience.\r\n\r\nOur founding team consists of second-time founders, ML engineers and data leads from Waymo, Google, Meta and AWS. Our team has previously collaborated with DeepMind to classify hate speech in YouTube videos, trained SOTA models for self-driving, and scaled data pipelines with thousands of human annotators. Our pioneering work in human computation, synthetic data, imitation learning and RL give us a solid advantage in delivering results to our customers.\r\n\r\nWhy now? Training data is more important and more scarce than ever before. Scaling laws dictate that linear improvement in model performance demands an exponential increase in training data. But there is only one World Wide Web and most of it has already been trained on. The next advances will require new, diverse, and high-quality datasets, making training data more important and scarce than ever before.\r\n\r\nWhat happens if we succeed? Abundant will be the core enabler for AGI and beyond. Most of the challenges in model training are already solved. What’s missing is the data necessary to move from general knowledge to domain expertise; from chatbots to agents; and from digital intelligence to physical AI. Ask any AI researcher or roboticist: the core bottleneck to progress is the availability of data, i.e. “abundant data”.\r\n\r\nAbundant works with the most advanced AI labs and startups, as well as F500 enterprises.",
+    "one_liner": "Agent simulation and RL for researchers",
+    "team_size": 7,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1731958841,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "API",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/abundant",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/abundant.json"
   },
   {
     "id": 30080,
@@ -53293,7 +53347,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c1261383b7f5f7d5fcba63a49453bf6d9148fcfc.png",
     "website": "https://www.ambral.com/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "New York City, NY, USA",
     "long_description": "AI agents for enterprise account management and customer success. Ambral has already been used to drive $XXXm in expansion revenue and preventable churn at multi-billion dollar enterprises and top scale-ups.\r\n\r\nAmbral synthesizes signals from all customer activity and interactions into AI-powered models of every account. It pinpoints who needs attention and why, and autonomously takes the best next action to drive expansions, prevent churn, and ensure no customer slips through the cracks. \r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI at Everlywell and early PM at Wonder (now valued at $7bn). Lived the pain of losing customer intimacy at scale and is obsessed with solving it. \r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the most complex machines ever created. He’s now doing the same for the complexities of customer relationships. ",
     "one_liner": "AI for account management and customer success",
     "team_size": 3,
@@ -57705,7 +57759,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Magnetic scans client documents - from handwritten charity notes to excel spreadsheet Schedule Cs to multi-state K-1s - and enters them into tax software automatically, saving hours of tedious data entry. \r\n\r\nThe accounting profession is facing a massive talent shortage, as graduates choose different professions and the old guard begins to retire. As a result, CPA and tax preparation firms are awash in clientele, but unable to keep up. At many firms, phones go unanswered, clients are \"fired\", and websites are taken down, as the existing workforce tries to handle the grueling 80 hour+ weeks necessary to push through tax season to the April 15th deadline.\r\n\r\nWe built this because a former colleague who owns her own tax firm asked us to automate her workload, and we quickly realized the massive opportunity. Thomas brings deep domain expertise as the former Head of Product at Keeper (YC W19), where he built tax engine automation systems and an OCR form scanning system that outperformed everything else on the market. At Keeper, he leveraged early access to OpenAI's LLMs (well before ChatGPT) to build systems that automated the entire tax filing process, allowing a tiny team of CPAs to process thousands of returns with near zero busy work. Patrick was the first engineer at FunCraft, shipping multiple mobile games with 1M+ downloads and building scalable shared codebases. We've worked together since 2017, including co-leading multiple teams at Zynga as PM & Tech Lead respectively.\r\n\r\nThe opportunity is massive - there are 80M US personal tax returns filed via professionals annually, in a $2B outsourcing market where individual CPA firms currently pay $100k-$1M per year for inferior services. We're positioned to capture significant market share by offering better accuracy & document coverage, instant processing, and superior user experience.\r\n\r\nWe've built this kind of software before, we've worked together for years (and even lived together), we've built products to $10M ARR before, and we have the grit to outwork anyone in this space.",
     "one_liner": "AI Tax Preparer for CPA firms",
-    "team_size": 2,
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1750477681,
@@ -57742,7 +57796,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "China and Russia control the world’s critical minerals. We can produce Titanium, Magnesium, Aluminum, Zirconium & Hafnium in the U.S. more profitably than any existing process, and carbon neutrally via co-production.\r\n\r\nCarbochlorination is the primary process for producing critical metals like titanium, hafnium, and zirconium, and was once the standard for magnesium. The problem: conventional carbochlorination relies on purchasing carbon feedstocks, wastes valuable byproducts, and is highly CO₂-intensive.\r\n\r\nDuranium changes this with a novel reactor that recycles CO₂ emissions back into feedstock (CO) while generating a valuable co-product (bleaching agents). This closed loop slashes emissions and delivers Chinese-level metal pricing without subsidies — unlocking the full potential of carbochlorination for U.S. critical mineral production.",
     "one_liner": "Reshoring critical metal production",
-    "team_size": 9,
+    "team_size": 10,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1757191317,
@@ -58227,6 +58281,44 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/nox-metals",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/nox-metals.json"
+  },
+  {
+    "id": 30828,
+    "name": "Semiotic",
+    "slug": "semiotic",
+    "former_names": [
+      "Mooodboard"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d4bdfd8767934d0004a0927458374ac99619350f.png",
+    "website": "http://semiotic.com",
+    "all_locations": "",
+    "long_description": "Semiotic builds AI design agents. We’re starting with agents that build landing pages for fast‑growing startups. \r\n\r\nExisting AI website builders didn't make creating websites easier—they made creating ugly websites easier. So, companies choose between blue-purple gradient slop or agencies with 3-month waitlists and $100k minimums.\r\n\r\nYou don't have to choose anymore. \r\n\r\nStart a project: semiotic.com",
+    "one_liner": "Studio-Grade Design at Scale",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1760501936,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/semiotic",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/semiotic.json"
   },
   {
     "id": 30832,
@@ -59199,6 +59291,44 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/bravi",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/bravi.json"
+  },
+  {
+    "id": 30924,
+    "name": "Casey",
+    "slug": "casey",
+    "former_names": [
+      "Clausee"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa8267b34eb44ac708090ff04ca6eeef01fa75d3.png",
+    "website": "https://caseyinsure.com/",
+    "all_locations": "",
+    "long_description": "Casey is an AI-native commercial insurance broker. Our producers focus on client relationships and closing business, whilst our AI handles all the operational work behind the scenes.\r\n\r\n",
+    "one_liner": "Casey is an AI-native commercial insurance brokerage",
+    "team_size": 3,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1759942019,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/casey",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/casey.json"
   },
   {
     "id": 30932,
@@ -61510,6 +61640,42 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/chasi.json"
   },
   {
+    "id": 31239,
+    "name": "Fort",
+    "slug": "fort",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/942d9dd9102b9fef3579d0744c11a1afd6e01de3.png",
+    "website": "https://fort.cx",
+    "all_locations": "",
+    "long_description": "Fort is a wearable that tracks strength training for people who care about longevity. Other wearables make you manually log every rep, set, and exercise, then provide unhelpful feedback or underestimate strength-related fatigue. We use heart rate and motion data to track your strength workouts for you, then provide thoughtful, actionable feedback that helps you achieve your goals.",
+    "one_liner": "Strength Tracking Wearable",
+    "team_size": 3,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Consumer Electronics",
+    "launched_at": 1769992231,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Consumer Electronics"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/fort",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/fort.json"
+  },
+  {
     "id": 31240,
     "name": "General Legal",
     "slug": "general-legal",
@@ -61590,7 +61756,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4ea6017f7d414cf92f14434141d6dd12101b14d9.png",
     "website": "https://foreman.co",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Foreman is the all-in-one AI-powered project management platform built for residential contractors.\r\nToday, contractors run complex businesses on a patchwork of tools that were never designed for construction — estimates in spreadsheets, plans in email, proposals copy-pasted from old Word docs, photos scattered across phones. Nothing talks to anything else, and the admin work never stops.\r\nForeman replaces that patchwork with a single platform that manages the full lifecycle of a construction job, from first estimate to final invoice. Contractors upload plans, photos, or a project description, and Foreman's AI instantly generates structured takeoffs, scoped estimates, and professional proposals — in minutes, not hours. From there, every customer record, document, permit, photo, change order, and conversation lives in one place, organized around the job.\r\nThe result: contractors spend less time buried in admin and more time building. They bid faster, manage jobs with less chaos, and close projects cleanly — without duct-taping five tools together to do it.",
+    "long_description": "Foreman is the all-in-one AI-powered project management platform built for construction contractors and the trade industry.\r\nToday, contractors run complex businesses on a patchwork of tools that were never designed for construction — estimates in spreadsheets, plans in email, proposals copy-pasted from old Word docs, photos scattered across phones. Nothing talks to anything else, and the admin work never stops.\r\nForeman replaces that patchwork with a single platform that manages the full lifecycle of a construction job, from first estimate to final invoice. Contractors upload plans, photos, or a project description, and Foreman's AI instantly generates structured takeoffs, scoped estimates, and professional proposals — in minutes, not hours. From there, every customer record, document, permit, photo, change order, and conversation lives in one place, organized around the job.\r\nThe result: contractors spend less time buried in admin and more time building. They bid faster, manage jobs with less chaos, and close projects cleanly — without duct-taping five tools together to do it.",
     "one_liner": "Keeping contractors on the job site, not behind a desk.",
     "team_size": 2,
     "industry": "Real Estate and Construction",

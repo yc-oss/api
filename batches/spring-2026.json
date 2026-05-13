@@ -770,6 +770,48 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/hedge.json"
   },
   {
+    "id": 31325,
+    "name": "Surtr Defense Systems",
+    "slug": "surtr-defense-systems",
+    "former_names": [
+      "Overwatch Systems",
+      "Parallax"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ab5a7de765aab31de659bc6429451ecb734f5da7.png",
+    "website": "https://surtrdefense.com",
+    "all_locations": "Los Angeles, CA, USA",
+    "long_description": "Surtr builds ParallaxOS, the open operating system for counter-UAS. It takes sensor data from any radar, RF detector, camera, or acoustic array and fuses it into a single unified picture with AI-driven threat classification and engagement recommendations. One interface, any hardware, human in the loop.",
+    "one_liner": "The open operating system for counter-UAS",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Defense",
+    "launched_at": 1769034553,
+    "tags": [
+      "Computer Vision"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/surtr-defense-systems",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/surtr-defense-systems.json"
+  },
+  {
     "id": 31326,
     "name": "Klarify",
     "slug": "klarify",
@@ -819,7 +861,7 @@
     "name": "Korso",
     "slug": "korso",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac34665b345f4552ab4e6b4cab4e833de7086b28.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bff684184cec0196e94661d371f2a25d85fea831.png",
     "website": "https://korsoai.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Korso builds AI agents that handle the operational work manufacturers still do manually, including processing RFQs, following up on quotes, coordinating with suppliers, and keeping production on track when things go wrong. Our agents plug into your existing ERP and CRM, understand your workflows, and act on your behalf: triaging incoming requests, chasing delayed orders, notifying customers, and escalating when human judgment is needed.\r\n\r\nWe built Korso around the reality that enterprise systems cannot afford mistakes. Every agent action passes through verification layers, tools are scoped, and critical operations go through dry-run validation and secondary review. Full audit trails mean you can see exactly what was done, why, and when.\r\n\r\nMost AI automation breaks down at the ERP integration layer. Korso's orchestration is built for the messiness of real manufacturing systems, with long-running workflows that span weeks and checkpointing that never loses progress.\r\n\r\nInstead of replacing your systems, Korso makes them work harder, so your team spends less time on coordination and more time on the work that actually matters.",
@@ -829,9 +871,9 @@
     "subindustry": "B2B -> Operations",
     "launched_at": 1773339255,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
-      "Manufacturing",
-      "AI"
+      "Manufacturing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1035,9 +1077,9 @@
     "subindustry": "B2B",
     "launched_at": 1778527074,
     "tags": [
+      "Artificial Intelligence",
       "Team Collaboration",
-      "Investing",
-      "AI"
+      "Investing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2153,17 +2195,17 @@
     "website": "https://qomplement.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Early stage AI lab based in San Francisco building the layer between unstructured data and enterprise systems.\r\n\r\nEvery day, operations and finance teams at large retailers and trucking companies manually process hundreds of POs, invoices, and shipping documents before any of it reaches their ERP. One of the most expensive inefficiencies in enterprise operations. Never solved at scale.\r\n\r\nWe automate those workflows end-to-end with AI agents. Already working with 20+ companies across retail, supply chain, and logistics.\r\n\r\nWe believe the operational layer eventually becomes the system of record itself. That is what we are building.",
-    "one_liner": "The AI-native operating system for enterprises",
+    "one_liner": "AI-native operating system for enterprises",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1771907564,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Logistics",
       "Enterprise",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4251,9 +4293,9 @@
     "subindustry": "Consumer -> Gaming",
     "launched_at": 1778022680,
     "tags": [
-      "Generative AI",
       "Consumer",
-      "Gaming"
+      "Gaming",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5338,6 +5380,46 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/manicule.json"
   },
   {
+    "id": 31534,
+    "name": "Astraea",
+    "slug": "astraea",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a54f06b55a2ed047cbb87b6611e0a25bcf346a72.png",
+    "website": "https://tryastraea.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Astraea is an AI-native biometrics platform for clinical trials. We automate the data management, statistical programming, and clinical data analysis workflows that take Phase II and III studies from raw study inputs to auditable, FDA-ready outputs. Instead of relying on fragmented legacy systems, manual handoffs, and large programming teams, Astraea gives sponsors a single platform to move from source data through standards generation, analysis datasets, tables/listings/figures, and final reporting with human oversight built in.\r\n\r\nOur platform is designed for the parts of clinical development that are still painfully manual today: raw data ingestion, data normalization, CDISC mapping, SDTM generation, ADaM transformation, TFL production, QC cycles, and revision workflows. We unify these steps in one system so teams can track the entire data analysis pipeline from a single interface, with full visibility, version control, auditability, and traceability at every stage.\r\n\r\nIn practice, Astraea helps sponsors and biometrics teams replace months of repetitive expert work with automated, reviewable execution. Highly trained statisticians, programmers, and data managers should not be spending so much time stitching together datasets, formatting outputs, resolving handoff issues, and repeating the same cleanup and QC loops across disconnected tools. Astraea keeps experts in control of the critical decisions while dramatically reducing the operational burden around them.\r\n\r\nWe are starting with the workflows that matter most in trial analysis and reporting: SDTM generation, ADaM generation, statistical programming workflows, TFL generation, and the QC and revision cycles needed to get outputs ready for delivery. Over time, Astraea is building toward a full end-to-end system for modern clinical trial data execution in regulated environments.",
+    "one_liner": "Agents that accelerate clinical trials.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1778617120,
+    "tags": [
+      "SaaS",
+      "Health Tech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/astraea",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/astraea.json"
+  },
+  {
     "id": 31536,
     "name": "Gigacatalyst",
     "slug": "gigacatalyst",
@@ -5348,17 +5430,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f036b6b16ede0b0a7e4c426862254c490d653c42.png",
     "website": "https://gigacatalyst.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We provide a AI customization layer that learns your APIs and embeds in your product, so your customers can build their own apps on your SaaS. Each customer can now adapt your product to match their workflows perfectly, and share it across their team with our in-built app store.\r\n\r\nThe result is that customers use your SaaS more, retain for longer, and expand quicker, because they get bespoke implementation for their exact usecase, without waiting.\r\n\r\nWe're live with the top Series B companies with 90% repeat usage rate. Our customers tell us that Gigacatalyst is the best way to increase usage, retention, and expansion in 2026.",
+    "long_description": "Gigacatalyst allows sales and CS teams to build missing features that customers need, so you stop losing business because of feature gaps. We’ve helped our customers unblock $1M in sales in 6 weeks.\r\n\r\nWe do this with an embedded AI customization layer that learns your APIs. Each customer can now adapt your product to match their workflows perfectly, and share it across their team with our in-built app store.\r\n\r\nThe result is that customers use your SaaS more, retain for longer, and expand quicker, because they get bespoke implementation for their exact usecase, without waiting.\r\n\r\nWe're live with the top Series B companies with 90% repeat usage rate. Our customers tell us that Gigacatalyst is the best way to increase usage, retention, and expansion in 2026.",
     "one_liner": "Customize your software to every user with AI",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1775192956,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Enterprise",
-      "No-code"
+      "No-code",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5372,7 +5454,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -6006,5 +6090,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/huscarl",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/huscarl.json"
+  },
+  {
+    "id": 31574,
+    "name": "HeyClicky",
+    "slug": "heyclicky",
+    "former_names": [
+      "makesomething",
+      "Humansongs",
+      "makesomething",
+      "Clicky",
+      "HeyClicky",
+      "Clicky"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/34ed2451ac5368900060488563c63ff6cbf673d7.png",
+    "website": "https://heyclicky.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Clicky sits right next to your cursor and sees everything you see. ask a question out loud and it walks you through whatever you're working on. Or say “Clicky Agent” and it'll spin up an agent to build, research, or do whatever for you in the background.",
+    "one_liner": "An AI buddy that lives on your Mac.",
+    "team_size": 0,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1778615142,
+    "tags": [
+      "Education"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/heyclicky",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/heyclicky.json"
   }
 ]
