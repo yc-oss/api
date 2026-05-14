@@ -9620,7 +9620,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -10850,9 +10850,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/211741e576e95e4b60804792a946753d0b41a090.png",
     "website": "https://www.decent.xyz/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Decent's core product,[The Box](https://decent.xyz/), enables 1-click transactions using any token across chains.  For example, a user can purchase an Optimism NFT off primary or secondary sales using USDC on Arbitrum.\r\n\r\nAs applications splinter across an increasing number of rollups and app chains, wallets and dapps will have to meet users at their point of liquidity vs. expecting users to jump through hoops to arrive with tokens on the correct network.",
-    "one_liner": "One-click transactions using any token across chains.",
-    "team_size": 8,
+    "long_description": "Any asset, every chain, in an instant.",
+    "one_liner": "Cross-chain routing + trading APIs. One-click transactions with any…",
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1642784251,
@@ -10860,7 +10860,6 @@
       "Developer Tools",
       "Crypto / Web3",
       "B2B",
-      "NFT",
       "Cryptocurrency"
     ],
     "tags_highlighted": [
@@ -16719,7 +16718,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -22094,15 +22093,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Luminal builds an ML framework and compiler that generates GPU code.\r\nOur stack 10x's model speed while simplifying deployment and cutting idle GPU costs\r\n\r\nGithub: https://github.com/luminal-ai/luminal\r\nDiscord: https://discord.gg/APjuwHAbGy",
     "one_liner": "Making AI run fast on any hardware.",
-    "team_size": 3,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1752295982,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "Developer Tools",
-      "Cloud Computing",
-      "AI"
+      "Cloud Computing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -22980,6 +22979,53 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/glue.json"
   },
   {
+    "id": 31246,
+    "name": "Inth",
+    "slug": "inth",
+    "former_names": [
+      "Consent.io",
+      "Consent"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aca00ac880b2d3d17acae2b1679332dc8000c5f7.png",
+    "website": "https://inth.com",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "Automate consent and user data rights compliance. Built for performance and full developer control.",
+    "one_liner": "Privacy Infrastructure for Developers",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1776095941,
+    "tags": [
+      "Developer Tools",
+      "Compliance",
+      "Open Source",
+      "Web Development"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/inth",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/inth.json"
+  },
+  {
     "id": 31329,
     "name": "primitive",
     "slug": "primitive",
@@ -23370,7 +23416,7 @@
     "slug": "agentphone",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3cd0619758d7e852f6674fba763a0d1167fa4a69.png",
-    "website": "https://www.agentphone.to/",
+    "website": "https://www.agentphone.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "The $2T global telecom industry was built for humans. Agents can't act in the real world today because without a phone number, they have no identity. AgentPhone gives every AI agent its own phone number to reach people and businesses through messages and calls.",
     "one_liner": "Phone Numbers for AI Agents",

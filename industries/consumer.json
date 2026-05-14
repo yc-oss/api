@@ -17233,7 +17233,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -19581,14 +19581,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/172c7c20a5a1a0c8a7a52184606d3db47df2fa90.png",
     "website": "http://hypnos.ai",
     "all_locations": "Dallas, TX, USA; Remote",
-    "long_description": "Hypnos is a digital sleep journal that helps you discover how your habits impact your sleep. It does this by taking in your mood, daily activities, and pairing them with data from your sleep tracker. Delivering insights on how to improve your sleep and habits.",
-    "one_liner": "A digital sleep journal that helps you get better sleep.",
+    "long_description": "Hypnos is an AI powered digital sleep journal that helps you discover how your habits impact your sleep. It does this by taking in your mood, daily activities, and pairing them with data from your sleep tracker. Delivering insights on how to improve your sleep and habits.",
+    "one_liner": "AI-powered sleep coach learns and optimizes your sleep",
     "team_size": 3,
     "industry": "Consumer",
-    "subindustry": "Consumer -> Food and Beverage",
+    "subindustry": "Consumer",
     "launched_at": 1541714571,
     "tags": [
-      "Sleep Tech"
+      "Sleep Tech",
+      "Consumer",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -19597,8 +19599,7 @@
     "batch": "Winter 2019",
     "status": "Inactive",
     "industries": [
-      "Consumer",
-      "Food and Beverage"
+      "Consumer"
     ],
     "regions": [
       "United States of America",
@@ -31882,6 +31883,53 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/sevnai.json"
   },
   {
+    "id": 29378,
+    "name": "Whip",
+    "slug": "whip",
+    "former_names": [
+      "10K",
+      "TensorFuse",
+      "Tensorfuse"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67c055fb6b37674bee00462ed6a2c2e6292f35b1.png",
+    "website": "https://whip.run/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Whip is a mobile app where you can create and discover interactive mini apps and games, we call them \"whips\". \r\n\r\nScroll a social feed of playable posts like trivia games, quizzes, polls, party games, and more. Build your own whip in the app and publish it on the feed in minutes. Discover, remix, like, and comment on whips built by others on the platform.\r\n\r\nwhip is built by the team behind tensorfuse",
+    "one_liner": "A social feed for interactive AI Creations",
+    "team_size": 6,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Social",
+    "launched_at": 1708013970,
+    "tags": [
+      "Social",
+      "Social Network",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Social"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/whip",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/whip.json"
+  },
+  {
     "id": 29382,
     "name": "Soundry AI",
     "slug": "soundry-ai",
@@ -36077,22 +36125,23 @@
   },
   {
     "id": 31333,
-    "name": "Gikl, Inc",
-    "slug": "gikl-inc",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/671f22915a13be6fba0e1479fe843328102d944c.png",
-    "website": "https://scienceswarm.ai",
+    "name": "PerfectBit",
+    "slug": "perfectbit",
+    "former_names": [
+      "Gikl, Inc"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/900c210e3f57ee42221dbb5ea21f81418b553e70.png",
+    "website": "https://perfectbit.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "ScienceSwarm makes AI useful for what matters. Coding assistants turned millions of people into software developers — we're doing the same for science. Our platform lets anyone point their AI at unsolved problems in math, science, and engineering, submit approaches and hypotheses, and verify the work with a community of AI-powered enthusiasts. AI's biggest impact won't be personal productivity. It will be unlocking scientific breakthroughs that humans alone can't reach.",
-    "one_liner": "Accelerating scientific discovery with AI",
+    "long_description": "We create a new kind of data for training AI models. Most LLMs are pre-trained on noisy web-scraped text, but they hallucinate and still fail on tasks that humans find trivial. World models try to solve this through multimodality. Another way is to give LLMs information-dense supplements about the natural world which you don't get by scraping the internet. We're projecting the laws of physics, biological facts, self-consistent logic and more into natural language.",
+    "one_liner": "Training data for frontier AI labs",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1773359306,
     "tags": [
-      "Swarm AI",
-      "AI",
-      "AI Assistant"
+      "Artificial Intelligence",
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -36112,8 +36161,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/gikl-inc",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/gikl-inc.json"
+    "url": "https://www.ycombinator.com/companies/perfectbit",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/perfectbit.json"
   },
   {
     "id": 31376,
@@ -36290,10 +36339,10 @@
     "former_names": [
       "EasyClaw"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5c3e5d1551696471133f9061b94ff8e979292e7f.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/43521ae4f2f9575593c80ebf4f8bf7ce020d70da.png",
     "website": "https://ara.so",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Imagine Wispr Flow got hands. Ara is a voice-first AI agent that lives in the notch of your Mac and actually drives your computer for you. Speak a command and Ara moves the cursor, clicks through apps, fills out forms, and navigates the browser in the background, without taking over your screen.\r\nWe reverse-engineered Codex-level computer use and reinvented the interface around it: ACP from day one, bring your own subscription.",
+    "long_description": "Imagine Wispr Flow got hands. Ara is a voice-first AI agent that lives in the notch of your Mac and actually drives your computer for you. We reverse-engineered Codex-level computer use and reinvented the interface around it for the future.\r\n\r\nSpeak a command and Ara moves the cursor, clicks through apps, fills out forms, and navigates the browser in the background, without taking over your screen.",
     "one_liner": "Voice-first computer use for Mac. Lives in your notch.",
     "team_size": 2,
     "industry": "Consumer",
