@@ -5704,11 +5704,11 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6babda5ff95102983cef278d4efd8b7a1d06c10b.png",
     "website": "https://usecaribou.com",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "Caribou is the full-stack transfer pricing platform for “micro-multinationals.” Built for the next generation of global startups, Caribou brings together automation, compliance, and deep tax intelligence to solve one of the most complex problems in finance: transfer pricing.\r\n\r\nWith our AI-powered functional analysis, Caribou structures the messy mix of tax, law, and accounting data automatically—delivering near-perfect tax advice. The result: startups expand internationally faster, unlock trapped cash, and stay fully compliant without the need for costly consultants.\r\n\r\nFrom YC companies to high-growth scale-ups, businesses choose Caribou to eliminate compliance risk, reclaim R&D incentives, and achieve a 5-10x ROI—turning transfer pricing from a burden into a growth advantage. Learn how Caribou is building a new global tax infrastructure for startups at usecaribou.com",
-    "one_liner": "Full-stack Transfer Pricing for global startups",
-    "team_size": 13,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
+    "long_description": "Going global is now the norm. But the moment you set up an entity in another country, you inherit a tax and legal mess that compounds with every hire and every invoice. \r\n\r\nFor example, one jurisdiction has to be profitable, cash has to move between entities compliantly, and every cross-border decision has to be audit-ready, which today means a different law firm in each country, a tax advisor on top of that, and you coordinating the chaos.\r\n\r\nThe real expertise is locked up inside the Big Four. The world's largest companies pay millions a year for access. Everyone else gets selective coverage and hefty legal bills to half-solve the problem.\r\n\r\nCaribou is the first autonomous tax firm. No lengthy workshops, no months of back-and-fort; connect your finance and HR systems and we graph your business — every entity, process, and employee — into a model we call the Atlas. \r\n\r\nFrom there we check transfer pricing, surface legal risks you didn't know you had, maximise your R&D credits, and monitor for accidental taxes as your shape changes.\r\n\r\nAnd we don't just hand you a report. We speak to your accountants, draft the legal agreements, and implement the fix ourselves. We've turned an \r\neight-week engagement into three hours.\r\n\r\nWhy work with three firms when one does the job?\r\n\r\nWe're already working with fast-growing companies like Butternut Box, OpenFX, Encord, Vertice, Omnea, and Hadrian - we've saved them hundreds of thousands on legal fees and surprise tax bills.",
+    "one_liner": "The autonomous tax firm",
+    "team_size": 10,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1541646249,
     "tags": [
       "Fintech",
@@ -5723,13 +5723,12 @@
     "batch": "Winter 2019",
     "status": "Active",
     "industries": [
-      "Fintech"
+      "B2B",
+      "Finance and Accounting"
     ],
     "regions": [
       "United Kingdom",
-      "Europe",
-      "Remote",
-      "Partly Remote"
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -18548,52 +18547,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2021/resident-boost.json"
   },
   {
-    "id": 24615,
-    "name": "Infer",
-    "slug": "infer",
-    "former_names": [
-      "Synth"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f093ce23ca35f332213eeee11dee08581cefba9d.png",
-    "website": "https://www.infer.so/",
-    "all_locations": "San Mateo, CA, USA",
-    "long_description": "",
-    "one_liner": "Operating system for insurance agencies",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1627633217,
-    "tags": [
-      "Generative AI",
-      "B2B",
-      "API",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2021",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/infer",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/infer.json"
-  },
-  {
     "id": 24635,
     "name": "Stownest",
     "slug": "stownest",
@@ -18904,10 +18857,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ea7660c6ef79a3f3c31b84b9791afa7da450839.png",
     "website": "https://www.storylane.io/",
-    "all_locations": "Santa Clara, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Storylane enables marketing and sales teams to create and share interactive product demos in 10 min. Prospective buyers can self-experience the demos without talking to sales. Our no-code platform allows teams (without any engineering help) to capture, personalize, add guides and publish a demo. These Demos can be embedded on websites, email campaigns or sales followups. ",
     "one_liner": "Build Interactive Product Demo in 10 mins for SaaS companies",
-    "team_size": 40,
+    "team_size": 55,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1626457570,
@@ -19683,7 +19636,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -32699,7 +32652,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Building a modern alternative to Salesforce: https://github.com/twentyhq/twenty",
     "one_liner": "Open Source CRM",
-    "team_size": 10,
+    "team_size": 11,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1690850787,
@@ -32906,7 +32859,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -45061,7 +45014,7 @@
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Reacher is an AI-powered platform that automates creator marketing workflows—from discovery and outreach to campaign management and content strategy—making marketing teams 10x more productive. \r\n\r\nWe handle the manual tasks so brands can focus on building relationships with creators while centralizing their operations in one platform to manage creators on TikTok Shop, Instagram, and YouTube.\r\n\r\n\r\n\r\n\r\n",
     "one_liner": "We automate creator marketing for the world's largest brands",
-    "team_size": 15,
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1750191046,
@@ -47385,6 +47338,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rudus",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/rudus.json"
+  },
+  {
+    "id": 31350,
+    "name": "Hexa",
+    "slug": "hexa",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/18de5d109d1472eebb05fe3ee80832938d3c1cef.png",
+    "website": "https://www.hexaagents.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "The OS for Manufacturers and Distributors",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1778807756,
+    "tags": [
+      "B2B",
+      "Workflow Automation",
+      "Supply Chain"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hexa",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/hexa.json"
   },
   {
     "id": 31351,

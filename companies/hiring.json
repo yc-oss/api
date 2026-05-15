@@ -1068,6 +1068,52 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2013/influxdata.json"
   },
   {
+    "id": 493,
+    "name": "RADAR",
+    "slug": "radar",
+    "former_names": [
+      "Skip",
+      "Automaton",
+      "NoQ"
+    ],
+    "small_logo_thumb_url": "/company/thumb/missing.png",
+    "website": "https://goradar.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "RADAR is a platform that combines RFID and computer vision to automate and augment retail store processes. Our technology offers unprecedented speed and location accuracy, which allows stores to:\r\n\r\n1) Manage inventory efficiently, through automated inventory counts, improved in-store replenishment and instantaneous customer stock checks\r\n\r\n2) Eliminate checkout lines altogether through our autonomous checkout tool.\r\n\r\n3) Measure all customer-product interactions, giving physical stores the same insight into consumer behavior and product performance as online stores.\r\n\r\nhttps://goradar.com",
+    "one_liner": "RADAR is building technology to completely transform the in-store…",
+    "team_size": 120,
+    "industry": "B2B",
+    "subindustry": "B2B -> Retail",
+    "launched_at": 1354492792,
+    "tags": [
+      "Artificial Intelligence",
+      "Retail Tech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2013",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Retail"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/radar",
+    "api": "https://yc-oss.github.io/api/batches/winter-2013/radar.json"
+  },
+  {
     "id": 500,
     "name": "SimplyInsured",
     "slug": "simplyinsured",
@@ -3963,10 +4009,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/69fc3eaa7d024cb1636c3fb74c1b9ff45b63ca30.png",
     "website": "http://relativityspace.com",
-    "all_locations": "Los Angeles, CA, USA; Seattle, WA, USA; Washington, DC, USA; John C. Stennis Space Center, MS, USA; Cape Canaveral, FL, USA",
-    "long_description": "Relativity is building humanity’s multiplanetary future. We invented a new approach to design, build, and fly our own rockets, starting with Terran 1 – the world’s first entirely 3D printed rocket, and Terran R, our next generation medium-heavy lift fully reusable launch vehicle.\r\n \r\nAs a vertically integrated technology platform, Relativity is at the forefront of an inevitable shift toward software-defined manufacturing. By fusing 3D printing, artificial intelligence, and autonomous robotics, we are pioneering the factory of the future. Disrupting 60 years of aerospace, Relativity offers a radically simplified supply chain, building a rocket with 100x fewer parts in less than 60 days.\r\n \r\nWe believe in a future where interplanetary life fundamentally expands the possibilities for human experience. Our long-term vision is to upgrade humanity’s industrial base on Earth and on Mars.",
+    "all_locations": "Los Angeles, CA, USA",
+    "long_description": "Relativity is building humanity’s multiplanetary future. We invented a new approach to design, build, and fly our own rockets, starting with Terran 1 – the world’s first entirely 3D printed rocket, and Terran R, our next generation medium-heavy lift reusable launch vehicle.\r\n \r\nAs a vertically integrated technology platform, Relativity is at the forefront of an inevitable shift toward software-defined manufacturing. By fusing 3D printing, artificial intelligence, and autonomous robotics, we are pioneering the factory of the future. Disrupting 60 years of aerospace, Relativity offers a radically simplified supply chain, building a rocket with fewer parts and faster iteration.\r\n \r\nWe believe in a future where interplanetary life fundamentally expands the possibilities for human experience. Our long-term vision is to upgrade humanity’s industrial base on Earth and on Mars.",
     "one_liner": "Building humanity’s multiplanetary future.",
-    "team_size": 1000,
+    "team_size": 2500,
     "industry": "Industrials",
     "subindustry": "Industrials -> Aviation and Space",
     "launched_at": 1448133615,
@@ -3991,9 +4037,9 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": true,
-    "demo_day_video_public": false,
+    "demo_day_video_public": true,
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/relativity-space",
@@ -8103,7 +8149,7 @@
     "former_names": [],
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "http://www.jitx.com",
-    "all_locations": "Berkeley, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "",
     "one_liner": "Automatic circuit board design.",
     "team_size": 18,
@@ -10385,11 +10431,11 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6babda5ff95102983cef278d4efd8b7a1d06c10b.png",
     "website": "https://usecaribou.com",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "Caribou is the full-stack transfer pricing platform for “micro-multinationals.” Built for the next generation of global startups, Caribou brings together automation, compliance, and deep tax intelligence to solve one of the most complex problems in finance: transfer pricing.\r\n\r\nWith our AI-powered functional analysis, Caribou structures the messy mix of tax, law, and accounting data automatically—delivering near-perfect tax advice. The result: startups expand internationally faster, unlock trapped cash, and stay fully compliant without the need for costly consultants.\r\n\r\nFrom YC companies to high-growth scale-ups, businesses choose Caribou to eliminate compliance risk, reclaim R&D incentives, and achieve a 5-10x ROI—turning transfer pricing from a burden into a growth advantage. Learn how Caribou is building a new global tax infrastructure for startups at usecaribou.com",
-    "one_liner": "Full-stack Transfer Pricing for global startups",
-    "team_size": 13,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
+    "long_description": "Going global is now the norm. But the moment you set up an entity in another country, you inherit a tax and legal mess that compounds with every hire and every invoice. \r\n\r\nFor example, one jurisdiction has to be profitable, cash has to move between entities compliantly, and every cross-border decision has to be audit-ready, which today means a different law firm in each country, a tax advisor on top of that, and you coordinating the chaos.\r\n\r\nThe real expertise is locked up inside the Big Four. The world's largest companies pay millions a year for access. Everyone else gets selective coverage and hefty legal bills to half-solve the problem.\r\n\r\nCaribou is the first autonomous tax firm. No lengthy workshops, no months of back-and-fort; connect your finance and HR systems and we graph your business — every entity, process, and employee — into a model we call the Atlas. \r\n\r\nFrom there we check transfer pricing, surface legal risks you didn't know you had, maximise your R&D credits, and monitor for accidental taxes as your shape changes.\r\n\r\nAnd we don't just hand you a report. We speak to your accountants, draft the legal agreements, and implement the fix ourselves. We've turned an \r\neight-week engagement into three hours.\r\n\r\nWhy work with three firms when one does the job?\r\n\r\nWe're already working with fast-growing companies like Butternut Box, OpenFX, Encord, Vertice, Omnea, and Hadrian - we've saved them hundreds of thousands on legal fees and surprise tax bills.",
+    "one_liner": "The autonomous tax firm",
+    "team_size": 10,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1541646249,
     "tags": [
       "Fintech",
@@ -10404,13 +10450,12 @@
     "batch": "Winter 2019",
     "status": "Active",
     "industries": [
-      "Fintech"
+      "B2B",
+      "Finance and Accounting"
     ],
     "regions": [
       "United Kingdom",
-      "Europe",
-      "Remote",
-      "Partly Remote"
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -16663,7 +16708,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -22778,14 +22823,13 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e289a9031601f6402130b6a300f81b1926f4798b.png",
     "website": "https://www.lootrush.com",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "We create an affordable way for gamers to start playing crypto games and a secure way for investors to earn yield through NFTs.",
-    "one_liner": "A safe and friendly way to play crypto games.",
+    "long_description": "The account designed to earn in one country, live in another, and access assets everywhere.",
+    "one_liner": "The global operating account you truly deserve.",
     "team_size": null,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Gaming",
+    "industry": "Fintech",
+    "subindustry": "Fintech",
     "launched_at": 1632868569,
     "tags": [
-      "Cloud Gaming",
       "Crypto / Web3"
     ],
     "tags_highlighted": [
@@ -22797,8 +22841,7 @@
     "batch": "Summer 2021",
     "status": "Active",
     "industries": [
-      "Consumer",
-      "Gaming"
+      "Fintech"
     ],
     "regions": [
       "United States of America",
@@ -24045,19 +24088,14 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f093ce23ca35f332213eeee11dee08581cefba9d.png",
     "website": "https://www.infer.so/",
-    "all_locations": "San Mateo, CA, USA",
+    "all_locations": "",
     "long_description": "",
     "one_liner": "Operating system for insurance agencies",
-    "team_size": 3,
+    "team_size": 9,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1627633217,
-    "tags": [
-      "Generative AI",
-      "B2B",
-      "API",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -24069,10 +24107,7 @@
       "Sales"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -24092,10 +24127,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ea7660c6ef79a3f3c31b84b9791afa7da450839.png",
     "website": "https://www.storylane.io/",
-    "all_locations": "Santa Clara, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Storylane enables marketing and sales teams to create and share interactive product demos in 10 min. Prospective buyers can self-experience the demos without talking to sales. Our no-code platform allows teams (without any engineering help) to capture, personalize, add guides and publish a demo. These Demos can be embedded on websites, email campaigns or sales followups. ",
     "one_liner": "Build Interactive Product Demo in 10 mins for SaaS companies",
-    "team_size": 40,
+    "team_size": 55,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1626457570,
@@ -25014,53 +25049,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/growthbook",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/growthbook.json"
-  },
-  {
-    "id": 25249,
-    "name": "SilkChart",
-    "slug": "silkchart",
-    "former_names": [
-      "SandyLane"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/72e4b035942c238f7d9c3a1d28e95b05b81a8d48.png",
-    "website": "https://www.silkchart.com",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "SilkChart analyzes sales calls and measures how well playbooks are executed. It proactively surfaces coaching opportunities to managers, and provides reps with actionable feedback to close more deals.",
-    "one_liner": "AI Sales Assistant to increase playbook adoption and win more deals",
-    "team_size": 8,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1657442843,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Sales",
-      "Sales Enablement"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/silkchart",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/silkchart.json"
   },
   {
     "id": 25262,
@@ -31645,47 +31633,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/knowtex.json"
   },
   {
-    "id": 27191,
-    "name": "AlgoTest",
-    "slug": "algotest",
-    "former_names": [
-      "Fintrix"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ee27828a872551486a5a61cefdc3f0f73dca1b91.png",
-    "website": "https://algotest.in",
-    "all_locations": "Delhi, DL, India",
-    "long_description": "AlgoTest is an algorithmic options trading platform for Indian retail traders. For the first time ever, day traders will be able to trade using the same technology as the top hedge funds and high-frequency trading firms of the world.\r\n\r\nThe company is founded by Raghav Malik (Financial Engineering @ Columbia Univ), an HFT technologist and former options market-maker in the US.",
-    "one_liner": "Ecosystem for options trading in India",
-    "team_size": 28,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
-    "launched_at": 1658736780,
-    "tags": [
-      "Fintech",
-      "No-code"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "India",
-      "South Asia"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/algotest",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/algotest.json"
-  },
-  {
     "id": 27194,
     "name": "REVER",
     "slug": "rever",
@@ -32371,7 +32318,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -36151,7 +36098,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Building a modern alternative to Salesforce: https://github.com/twentyhq/twenty",
     "one_liner": "Open Source CRM",
-    "team_size": 10,
+    "team_size": 11,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1690850787,
@@ -36662,6 +36609,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pointhound",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/pointhound.json"
+  },
+  {
+    "id": 28808,
+    "name": "PropRise",
+    "slug": "proprise",
+    "former_names": [
+      "River AI",
+      "River",
+      "Introscopic",
+      "River AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/099267e4ee22818f2d0af078193f368735107d1e.png",
+    "website": "https://www.proprise.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "PropRise is the AI platform for institutional CRE investment teams. We automate the tedious, Excel-heavy workflows that slow down dealmaking: from sourcing to underwriting to due diligence. Our two live products serve 50+ customers including Public Storage: Beacon automates site selection for developers, and Primer extracts financial data from deal packages into structured, model-ready formats, cutting hours of analyst work to minutes. We're expanding across asset classes to become the operating system for CRE dealmaking.",
+    "one_liner": "The AI platform for CRE investment teams",
+    "team_size": 3,
+    "industry": "Real Estate and Construction",
+    "subindustry": "Real Estate and Construction",
+    "launched_at": 1690588132,
+    "tags": [
+      "Machine Learning",
+      "SaaS",
+      "Real Estate",
+      "B2B",
+      "Analytics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "Real Estate and Construction"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/proprise",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/proprise.json"
   },
   {
     "id": 28809,
@@ -41973,7 +41967,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Open is an AI-powered, all-in-one customer support and communication platform — used in production by:\r\n\r\nPrint.com, Mollie.com, Viva.com, More.com, Orderchamp.com, OneCarNow.com, and other major enterprise companies.\r\n\r\nWe specialize in solving and automating complex support cases across email, web, phone, SMS, and WhatsApp.\r\n\r\nWe’re a research-based company currently working on releasing Support-Bench, the world’s most comprehensive AI customer support benchmark.\r\n\r\nOur team consists of +3 programming language builders, a nationwide cybersecurity competition winner at age 16, and a dentist.",
     "one_liner": "Enterprise AI customer support",
-    "team_size": 22,
+    "team_size": 21,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1701287911,
@@ -44521,46 +44515,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/saphira-ai",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/saphira-ai.json"
-  },
-  {
-    "id": 29589,
-    "name": "Theseus",
-    "slug": "theseus",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/05b004a38c0a5df5a4e151b258151cd9a38f08c8.png",
-    "website": "https://theseus.us",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Theseus builds visual navigation software for GPS-denied drone operations. Using onboard cameras, inertial sensors, and satellite reference imagery, our system computes position fixes entirely passively. The system is entirely self contained, can't be jammed and has no RF signature.",
-    "one_liner": "GPS Denied Navigation for Drones",
-    "team_size": 6,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Drones",
-    "launched_at": 1725406335,
-    "tags": [
-      "Robotics",
-      "Drones"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Drones"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/theseus",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/theseus.json"
   },
   {
     "id": 29597,
@@ -47646,7 +47600,7 @@
     "name": "Cartage",
     "slug": "cartage",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e8f6d3db65691d588f5769ee5f350c062cf8671.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d0afccc0962e52bb6440d323cf8b43f42b8a268.png",
     "website": "https://cartage.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Cartage is the future of freight coordination. Transparent, tech-driven and eliminating the need for human coordinators.",
@@ -47656,11 +47610,11 @@
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1716915052,
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
       "Workflow Automation",
       "Logistics",
-      "Supply Chain"
+      "Supply Chain",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -53663,7 +53617,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/388c63ca4d8b705c5dcaf89934394977693456e0.png",
     "website": "https://cua.ai",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Give every agent a cloud desktop. Built for Claude Code, Codex, OpenClaw, and any computer-use agents.",
     "one_liner": "Give every agent a cloud desktop",
     "team_size": 3,
@@ -53684,7 +53638,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -56166,7 +56121,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Pangolin is an open-source, identity-based remote access platform built on WireGuard that enables secure, seamless connectivity to private and public resources.",
     "one_liner": "Identity-aware VPN and proxy for remote access to anything, anywhere.",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1752801073,
@@ -56725,7 +56680,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Novaflow is the AI data analyst for biology labs. \r\n--\r\nBioinformatics data analysis is a time-consuming and expensive process for scientists. With Novaflow, life scientists can upload experimental data, ask questions in plain English, and get instant, publication-ready plots, giving them results in minutes instead of months.\r\n\r\nResearchers at leading institutions like UCSF, Mount Sinai, UC Berkeley, and Harvard are already using Novaflow in their labs.",
     "one_liner": "The AI data analyst for biology labs",
-    "team_size": 2,
+    "team_size": 5,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1753390612,
@@ -57369,7 +57324,7 @@
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Reacher is an AI-powered platform that automates creator marketing workflows—from discovery and outreach to campaign management and content strategy—making marketing teams 10x more productive. \r\n\r\nWe handle the manual tasks so brands can focus on building relationships with creators while centralizing their operations in one platform to manage creators on TikTok Shop, Instagram, and YouTube.\r\n\r\n\r\n\r\n\r\n",
     "one_liner": "We automate creator marketing for the world's largest brands",
-    "team_size": 15,
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1750191046,
@@ -58513,6 +58468,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/deeptrace",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/deeptrace.json"
+  },
+  {
+    "id": 30862,
+    "name": "Sorce",
+    "slug": "sorce",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8b7d8d3ea28624898e277427bd19760e45bd0535.png",
+    "website": "https://sorce.jobs",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Tinder for Jobs. Swipe right, AI applies on your behalf.",
+    "one_liner": "Tinder for jobs",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Human Resources",
+    "launched_at": 1759034914,
+    "tags": [
+      "Marketplace",
+      "Consumer",
+      "HR Tech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Human Resources"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sorce",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/sorce.json"
   },
   {
     "id": 30877,
@@ -60216,7 +60213,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Autonomous AI agents that answer calls, close sales, and run operations, so your team can focus on guests. Trusted by some of the top hotel groups in the US, supporting 50+ hotels across brands like Marriott, Hilton, and Hyatt\r\n\r\nBuilt on advanced Computer Use Agent technology, Lance agents can navigate your existing hotel software, make real-time decisions, and handle complex multi-step tasks.",
     "one_liner": "AI Agents That Run Hotel Operations.",
-    "team_size": 3,
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1768895498,
@@ -61409,42 +61406,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/fort.json"
   },
   {
-    "id": 31240,
-    "name": "General Legal",
-    "slug": "general-legal",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d1ee22f8af278a7604adf3083f1a87027e066a9.png",
-    "website": "https://general.legal",
-    "all_locations": "",
-    "long_description": "We're the AI native law firm that solves commercial legal for founders. Our firm provides fast, high-quality contract drafting, review, and negotiation for a flat fee. We save founders $100s-$1000s per contract, turn contracts in hours instead of days, and our expert attorneys provide practical, real-time guidance to get deals closed safely.",
-    "one_liner": "The AI native law firm for growth stage companies",
-    "team_size": 15,
-    "industry": "B2B",
-    "subindustry": "B2B -> Legal",
-    "launched_at": 1769746017,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Legal"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/general-legal",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/general-legal.json"
-  },
-  {
     "id": 31242,
     "name": "Booko",
     "slug": "booko",
@@ -61524,8 +61485,8 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5670afa2f39d71d15be15ed4c56ae5e0a65dbea4.png",
     "website": "https://tsenta.com",
-    "all_locations": "",
-    "long_description": "Tsenta is a desktop app that matches you with jobs, optimizes your profile & applies on your behalf. It runs on your device, so you have granular control over every application being submitted in real-time.\r\n\r\nWe built Tsenta after applying to over 3,000 jobs manually, so that nobody else would have to.\r\n\r\nCheck us out at https://tsenta.com :)",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Tsenta matches you with jobs, optimizes your profile & applies on your behalf. We have:\r\n➙ a web app ➙ an imessage bot ➙ an MCP ➙ a chrome extension, giving you control over every application being submitted.\r\n\r\nWe built Tsenta after applying to over 3,000 jobs manually, so that nobody else would have to.\r\n\r\nCheck us out at https://tsenta.com :)",
     "one_liner": "We match you with jobs and apply automatically",
     "team_size": 2,
     "industry": "Consumer",
@@ -61548,7 +61509,8 @@
       "Job and Career Services"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

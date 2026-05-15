@@ -148,7 +148,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2013",
     "status": "Active",
@@ -11078,7 +11078,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -11142,6 +11142,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tigereye",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/tigereye.json"
+  },
+  {
+    "id": 25306,
+    "name": "WorldQL",
+    "slug": "worldql",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/77812b9a6c46bc50c4a0b0326c080c241d029714.png",
+    "website": "https://www.worldql.com/",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "",
+    "one_liner": "Custom AI harnesses for enterprises",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1648654841,
+    "tags": [
+      "Artificial Intelligence",
+      "Reinforcement Learning",
+      "Security"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/worldql",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/worldql.json"
   },
   {
     "id": 25314,
@@ -28167,51 +28209,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/youshift.json"
   },
   {
-    "id": 29791,
-    "name": "Cartage",
-    "slug": "cartage",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e8f6d3db65691d588f5769ee5f350c062cf8671.png",
-    "website": "https://cartage.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cartage is the future of freight coordination. Transparent, tech-driven and eliminating the need for human coordinators.",
-    "one_liner": "Autonomous freight coordination",
-    "team_size": 12,
-    "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
-    "launched_at": 1716915052,
-    "tags": [
-      "Artificial Intelligence",
-      "Machine Learning",
-      "Workflow Automation",
-      "Logistics",
-      "Supply Chain"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cartage",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/cartage.json"
-  },
-  {
     "id": 29794,
     "name": "Baseline AI",
     "slug": "baseline-ai",
@@ -33510,47 +33507,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/morphik.json"
   },
   {
-    "id": 30479,
-    "name": "Crimson",
-    "slug": "crimson",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d21989f713e50ef7cfbe220d4cfc1a1fbcff900f.png",
-    "website": "https://crimson.law",
-    "all_locations": "London, England, United Kingdom",
-    "long_description": "Crimson is the first AI platform purpose-built for complex disputes. Litigation teams use Crimson to analyze case files, draft legal documents and answer case-specific questions. By automating manual workflows throughout the lifecycle of a case, Crimson helps lawyers save more than 10 hours per week on common litigation tasks.",
-    "one_liner": "The AI Associate for Litigation Lawyers",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Legal",
-    "launched_at": 1746120512,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Legal"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Legal"
-    ],
-    "regions": [
-      "United Kingdom",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/crimson",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/crimson.json"
-  },
-  {
     "id": 30485,
     "name": "Anana",
     "slug": "anana",
@@ -36423,47 +36379,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/foresight.json"
   },
   {
-    "id": 30739,
-    "name": "Eden",
-    "slug": "tryeden",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12c60f7c48d152e63842700acbb1bf22c973bd5a.png",
-    "website": "https://edenhq.com",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Eden helps companies generate realistic, high fidelity synthetic data on demand. We simulate customer data, product activity, and edge cases so sales engineers can run live demos without using production data or spending hours hand-building demo accounts.",
-    "one_liner": "Synthetic data + simulators for sales demos",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1753907556,
-    "tags": [
-      "Artificial Intelligence",
-      "Sales Enablement",
-      "Data Visualization"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tryeden",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/tryeden.json"
-  },
-  {
     "id": 30748,
     "name": "Pleom",
     "slug": "pleom",
@@ -36600,7 +36515,7 @@
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Reacher is an AI-powered platform that automates creator marketing workflows—from discovery and outreach to campaign management and content strategy—making marketing teams 10x more productive. \r\n\r\nWe handle the manual tasks so brands can focus on building relationships with creators while centralizing their operations in one platform to manage creators on TikTok Shop, Instagram, and YouTube.\r\n\r\n\r\n\r\n\r\n",
     "one_liner": "We automate creator marketing for the world's largest brands",
-    "team_size": 15,
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1750191046,
@@ -38612,6 +38527,49 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/exonic.json"
   },
   {
+    "id": 30975,
+    "name": "MadeThis",
+    "slug": "madethis",
+    "former_names": [
+      "Castar",
+      "Castari"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/73b59fa186ca146c4f90522806e84fb89b3f9f10.png",
+    "website": "https://madethis.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "The autonomous business platform",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1762394891,
+    "tags": [
+      "Artificial Intelligence",
+      "Operations"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/madethis",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/madethis.json"
+  },
+  {
     "id": 30982,
     "name": "Boom AI",
     "slug": "boom-ai",
@@ -39181,8 +39139,8 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5670afa2f39d71d15be15ed4c56ae5e0a65dbea4.png",
     "website": "https://tsenta.com",
-    "all_locations": "",
-    "long_description": "Tsenta is a desktop app that matches you with jobs, optimizes your profile & applies on your behalf. It runs on your device, so you have granular control over every application being submitted in real-time.\r\n\r\nWe built Tsenta after applying to over 3,000 jobs manually, so that nobody else would have to.\r\n\r\nCheck us out at https://tsenta.com :)",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Tsenta matches you with jobs, optimizes your profile & applies on your behalf. We have:\r\n➙ a web app ➙ an imessage bot ➙ an MCP ➙ a chrome extension, giving you control over every application being submitted.\r\n\r\nWe built Tsenta after applying to over 3,000 jobs manually, so that nobody else would have to.\r\n\r\nCheck us out at https://tsenta.com :)",
     "one_liner": "We match you with jobs and apply automatically",
     "team_size": 2,
     "industry": "Consumer",
@@ -39205,7 +39163,8 @@
       "Job and Career Services"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -39473,47 +39432,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/primitive",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/primitive.json"
-  },
-  {
-    "id": 31333,
-    "name": "PerfectBit",
-    "slug": "perfectbit",
-    "former_names": [
-      "Gikl, Inc"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/900c210e3f57ee42221dbb5ea21f81418b553e70.png",
-    "website": "https://perfectbit.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We create a new kind of data for training AI models. Most LLMs are pre-trained on noisy web-scraped text, but they hallucinate and still fail on tasks that humans find trivial. World models try to solve this through multimodality. Another way is to give LLMs information-dense supplements about the natural world which you don't get by scraping the internet. We're projecting the laws of physics, biological facts, self-consistent logic and more into natural language.",
-    "one_liner": "Training data for frontier AI labs",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1773359306,
-    "tags": [
-      "Artificial Intelligence",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/perfectbit",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/perfectbit.json"
   },
   {
     "id": 31343,
