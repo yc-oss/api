@@ -4037,7 +4037,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": true,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -5077,7 +5077,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/580dd6a5c00e2c92b90e16d46f81b1a7844b8314.png",
     "website": "http://www.extern.com",
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "At Extern, we’re solving the experience gap.  Extern created the remote Externship, a skill-building work experience that is easier for students to access, and easier for companies to run, than an internship.  Our mission is to help anyone discover and launch their career through professional experiences available anywhere at any time.  Since 2020, we’ve created and powered Externships for over 50,000 students on behalf of companies from Fortune 500s to startups.  \r\n\r\nAfter spending $100K on average for a 4-year degree, graduates find that almost 40% of entry level jobs on Linkedin required 3+ years of work experience. Internships are how many college students get this kind of experience, but the demand for good internships outstrips the supply. Internship programs are difficult to scale, they favor students who already have social capital, and they’re time-consuming for employers to run.\r\n\r\nExternships are short, online, project-based work experiences that employers can offer to hundreds of students using less resource and employee time than it would take to support an intern.  Extern makes the complex process of running an Externship completely turnkey with software and industry experts which in turn makes professional experience more accessible to more students.\r\n\r\nBy making work experience more accessible, Extern is driving the rapid mobility and upskilling needed for a new economy.  We envision a world where anyone can access work experience as a form of education – no matter their background, experience, or socio-economic status.  Come join our movement to reshape work, education, and credentialing for future generations with the Externship.\r\n\r\nExtern was born out of a pivot from Paragon One (W17) which initially focused on providing students with a career center-as-a-service platform, connecting them with industry professionals to receive career coaching and guidance.  Backed by Y Combinator, Foundation Capital, Launch Fund, University Ventures, and Learn Capital.",
     "one_liner": "Professional Experience Anytime, Anywhere.",
     "team_size": 30,
@@ -8372,13 +8372,13 @@
     "all_locations": "London, England, United Kingdom",
     "long_description": "Any business - from travel startups to financial enterprises - can build with Duffel. Shop flights and accommodation, purchase extras, manage bookings and more.",
     "one_liner": "The complete toolkit to sell travel.",
-    "team_size": 70,
+    "team_size": 55,
     "industry": "Consumer",
     "subindustry": "Consumer -> Travel, Leisure and Tourism",
     "launched_at": 1525230394,
     "tags": [
-      "Developer Tools",
       "Airplanes",
+      "B2B",
       "Travel",
       "API",
       "Transportation"
@@ -8395,9 +8395,11 @@
     ],
     "regions": [
       "United Kingdom",
-      "Europe"
+      "Europe",
+      "Remote",
+      "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -19862,46 +19864,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/soraban",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/soraban.json"
-  },
-  {
-    "id": 23236,
-    "name": "Stayflexi",
-    "slug": "stayflexi",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/515150abaf49833041469b5930b7351102adefeb.png",
-    "website": "https://business.stayflexi.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Stayflexi is a revolutionary platform designed to simplify hotel and vacation rental operations, while increasing revenues from unsold rooms and amenities. By harnessing the power of automation, Stayflexi eliminates the need for manual processes and provides a seamless, positive customer experience for guests. \r\n\r\nFounded by computer science majors from Carnegie Mellon and Cornell, Stayflexi was born out of the need to solve the problems experienced by hosts and travelers. With Stayflexi, you can rest assured that your guests will be given the best possible experience and that you will be able to maximize profits on your unsold rooms.\r\n\r\nStayflexi platform is helping over 3000 hotels in 16 different countries and growing rapidly.",
-    "one_liner": "Operating System for Hotels and Vacation Rentals",
-    "team_size": 58,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1614624956,
-    "tags": [
-      "Travel"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2021",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/stayflexi",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/stayflexi.json"
   },
   {
     "id": 23259,
@@ -31418,16 +31380,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe35a47d1e4dd7a3c1a7dcbea86c08b5ef2d67e6.png",
     "website": "https://www.firecrawl.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Firecrawl is a web data infrastructure platform that converts websites into clean, structured data optimized for AI applications through a simple API. Originally built as an internal tool at Mendable to solve their own data ingestion challenges, the team recognized the broader need for reliable web data extraction and transformed it into a standalone product. The platform combines web search, scraping, and AI-powered parsing into a unified solution, focusing on the core developer priorities of reliability, speed, and ease of use. By abstracting away the complexities of web data extraction, Firecrawl serves as the foundational data layer that enables AI applications to seamlessly access and process web content in the exact format they need.",
-    "one_liner": "The web data API for AI",
+    "long_description": "Firecrawl is the web context API for AI agents. Search, scrape, parse, and interact with the live web to turn any source into clean Markdown or structured data your agents can ship with. Open source, ZDR-ready, and trusted by 80,000+ teams including Apple, Shopify, Canva, Zapier, and Lovable to power production AI.",
+    "one_liner": "Search, scrape, and clean the web for AI agents.",
     "team_size": 25,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1661283698,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -32892,7 +32854,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -34311,7 +34273,7 @@
     "former_names": [
       "Quantbase"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/860789e4b5347ff0d9c534e39f80af9c01143ab3.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c353648255801133354e3f97ac5cff982e04eb93.png",
     "website": "https://www.hadrius.com",
     "all_locations": "New York, NY, USA",
     "long_description": "Hadrius allows regulated financial firms of all sizes to consolidate and automate their compliance processes using AI in one platform. Today, we're securing compliance for $3T+ AUM across our clients.\r\n\r\nWe're building the AI that will regulate the US financial system and the trillions that flows through it.",
@@ -34321,11 +34283,11 @@
     "subindustry": "Fintech -> Asset Management",
     "launched_at": 1668714980,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Compliance",
-      "Regtech",
-      "AI"
+      "Regtech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -38035,7 +37997,7 @@
       "Respaid"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e7fa66d4491c66a8637435f8ec4ca509a67f236.png",
-    "website": "https://www.agentcollect",
+    "website": "https://www.agentcollect.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We recover aged B2B debt in weeks, not quarters: ~49% in 20 days vs ~20% in 4-6 months for traditional agencies.\r\nOur AI agents call, email, text, find the right contact (20% of B2B contact data is outdated), and negotiate payment plans 24/7 ; all under your brand. \r\nWe replace your offshore BPO and third-party agencies. \r\nYour AR team stays focused on strategic accounts.\r\n\r\nLive with Dell, Microsoft, FedEx, Plaid, and Checkr and hundreds of enterprise companies.\r\n\r\nLong-tail AR your team has deprioritized becomes recovered cash before a traditional agency even gets moving.",
     "one_liner": "B2B debt collection powered by AI agents",
@@ -38044,10 +38006,10 @@
     "subindustry": "Fintech",
     "launched_at": 1688400893,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "B2B",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49621,6 +49583,46 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/autumn.json"
   },
   {
+    "id": 30088,
+    "name": "PermitPortal",
+    "slug": "permitportal",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cef39f01d1e58afe740b7263fb93bc33f88f6f1f.png",
+    "website": "https://permitportalapp.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We are building workflows to help developers go from finding and closing development sites to getting a building permit faster. PermitPortal accelerates the most critical parts of the pre-construction phase: finding the right sites, understanding entitlements and navigating local development sentiment.\r\n",
+    "one_liner": "AI Operating System for Pre-construction",
+    "team_size": 2,
+    "industry": "Real Estate and Construction",
+    "subindustry": "Real Estate and Construction",
+    "launched_at": 1731370344,
+    "tags": [
+      "Real Estate",
+      "Construction",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "Real Estate and Construction"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/permitportal",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/permitportal.json"
+  },
+  {
     "id": 30089,
     "name": "Fresco",
     "slug": "fresco",
@@ -56520,7 +56522,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5596537c1b7f7b2fdc729cd0da77e9c233f79180.png",
     "website": "https://vibeflow.ai/",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "VibeFlow generates full-stack web apps from prompts with n8n-style visual workflows for the backend. Users of tools like Lovable or v0 can easily iterate over frontends because they can see them, while backends remain closed black boxes that are hard to evolve through prompting. VibeFlow opens up backend logic, making it visual and editable, with powerful integrations built in.",
     "one_liner": "Lovable, n8n and a database all in one platform ",
     "team_size": 3,
@@ -56543,7 +56545,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -58016,44 +58019,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/nox-metals",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/nox-metals.json"
-  },
-  {
-    "id": 30828,
-    "name": "Semiotic",
-    "slug": "semiotic",
-    "former_names": [
-      "Mooodboard"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d4bdfd8767934d0004a0927458374ac99619350f.png",
-    "website": "http://semiotic.com",
-    "all_locations": "",
-    "long_description": "Semiotic builds AI design agents. We’re starting with agents that build landing pages for fast‑growing startups. \r\n\r\nExisting AI website builders didn't make creating websites easier—they made creating ugly websites easier. So, companies choose between blue-purple gradient slop or agencies with 3-month waitlists and $100k minimums.\r\n\r\nYou don't have to choose anymore. \r\n\r\nStart a project: semiotic.com",
-    "one_liner": "Studio-Grade Design at Scale",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1760501936,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/semiotic",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/semiotic.json"
   },
   {
     "id": 30832,
@@ -60322,6 +60287,43 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/10x-science.json"
   },
   {
+    "id": 31101,
+    "name": "LegalOS",
+    "slug": "legalos",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bfdd01c1d2dde8d7cec7f0d61a5c75e8551e254d.png",
+    "website": "https://www.legalos.ai",
+    "all_locations": "Remote",
+    "long_description": "LegalOS is an AI-native immigration law firm that combines cutting-edge technology with 40+ years of legal expertise.\r\n\r\nWe’ve studied 12,000 successful petitions to design our process - which allows us to deliver top-quality visa applications in as quickly as 48 hours. Our specialized AI agents draft petition narratives, compile evidence, and anticipate USCIS objections - work that traditionally takes attorneys weeks, if not months.\r\n\r\nEvery case is reviewed and signed by licensed immigration attorneys with 40+ years of experience, so companies get both speed and reliability. We support O-1, H-1B, L-1A, L-1B, TN, EB-1A, EB-1C, and EB-2 NIW petitions.\r\n\r\nOur unique approach works. We’ve filed dozens of visa applications and have a 100% approval rate so far.\r\n\r\nThe U.S. processes 1M+ work visas annually—a market where incumbents still operate on fax machines, email, and 1990s case management software. We're building the modern immigration law firm.",
+    "one_liner": "The AI-Native Immigration Law Firm",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1765500266,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/legalos",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/legalos.json"
+  },
+  {
     "id": 31104,
     "name": "Cofia",
     "slug": "cofia",
@@ -60832,6 +60834,41 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pax-historia",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/pax-historia.json"
+  },
+  {
+    "id": 31178,
+    "name": "Cardboard",
+    "slug": "cardboard",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd18107dd1d0b70679aef18956a0bd68d03549b0.png",
+    "website": "https://usecardboard.com",
+    "all_locations": "",
+    "long_description": "Cardboard is an agentic video editor for growth/marketing teams and serious creators who need to ship videos consistently. Instead of agencies, long timelines, and infinite review cycles, teams give cardboard a footage + a goal (“3 variants”, “30s hook”, “testimonials”) to get a strong first cut in minutes on which they can iterate quickly.\r\n\r\nMultimodal LLMs can finally reason over footage, and WebGPU/WebCodecs make a real NLE possible in the browser. For the first time, an “AI director” inside a professional editor can be a reality.\r\n\r\nWe have to build two hard things at once: a high-performance editor in the browser and an agentic editor that is reliable for production use cases. Most startups do one; incumbents can’t rebuild their stack without breaking everything.\r\n\r\nSaksham and Ishan met in school and have known each other since 15 years. Saksham was Co-founder/CTO of Iterate AI (backed by EF) and posts content on social media; Ishan has spent ~5yr building memory-heavy, performance-critical browser apps at HackerRank (S11) and deeply understands browsers. He has built Hotspoter (5M+ downloads) when he was 14.\r\n\r\nTogether, we’re unusually suited to build the editor core others avoid.\r\n\r\nVideo is becoming the default distribution channel, and the team that iterates fastest compounds attention. Cardboard becomes the default workspace for video production, the way Canva/Figma became the workspace for design - because it’s collaborative, fast, and does the tedious parts for you.",
+    "one_liner": "Agentic video editor",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1768162565,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cardboard",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/cardboard.json"
   },
   {
     "id": 31179,
@@ -61406,6 +61443,42 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/fort.json"
   },
   {
+    "id": 31240,
+    "name": "General Legal",
+    "slug": "general-legal",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d1ee22f8af278a7604adf3083f1a87027e066a9.png",
+    "website": "https://general.legal",
+    "all_locations": "",
+    "long_description": "We're the AI native law firm that solves commercial legal for founders. Our firm provides fast, high-quality contract drafting, review, and negotiation for a flat fee. We save founders $100s-$1000s per contract, turn contracts in hours instead of days, and our expert attorneys provide practical, real-time guidance to get deals closed safely.",
+    "one_liner": "The AI native law firm for growth stage companies",
+    "team_size": 15,
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1769746017,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/general-legal",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/general-legal.json"
+  },
+  {
     "id": 31242,
     "name": "Booko",
     "slug": "booko",
@@ -61834,12 +61907,12 @@
     "former_names": [
       "Taven"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be7a6c101c292b6662ffb48e1b9a900ec01c660b.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e50e6bbc1c4c10b22b1552aa50a3d2a41d202a6e.png",
     "website": "https://www.hedgespecialty.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "AI native specialty insurance company",
-    "team_size": 0,
+    "long_description": "Hedge is an AI-Native specialty insurance company. We help insurance brokers find faster, cheaper, and better coverage for their customers. ",
+    "one_liner": "AI-Native specialty insurance company",
+    "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1777586182,
@@ -61847,8 +61920,7 @@
       "Artificial Intelligence",
       "Fintech",
       "B2B",
-      "Insurance",
-      "AI"
+      "Insurance"
     ],
     "tags_highlighted": [],
     "top_company": false,

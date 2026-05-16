@@ -1672,7 +1672,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": true,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -5709,19 +5709,21 @@
     "name": "UrbanKisaan",
     "slug": "urbankisaan",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f72e93b198ddc7826d8828d858d3a423116dc75f.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/46e8aa32e04a21d9a5ef18ccaae02b6b9ddea65d.png",
     "website": "https://www.urbankisaan.com",
     "all_locations": "Hyderabad, Telangana, India",
-    "long_description": "We've built over last 4 years on precision farming, hydroponics and core agronomy. We make vertical farming affordable and accessible to everyone. ",
-    "one_liner": "Reimagining Food through Farming",
+    "long_description": "UrbanKisaan is an AI-for-plant-biology company. We build foundation models and the physical infrastructure that trains them.\r\n\r\nShipping a single new seed variety takes about ten+ years. Two on germplasm, three on crosses and selection, three or four on field trials, one on regulatory. Inside that decade, prediction and experiment never properly meet. DNA is abundant, phenotype data is scarce and unpaired, and the cycle never trains itself.\r\n\r\nWe closed that loop.\r\n\r\nThree foundation models cover the upstream science. \r\n\r\nAadi is a 48-layer transformer trained from scratch on the public and proprietary corpus of plant genomes; it reads plant DNA and ranks variants before any wet-lab spend. \r\n\r\nJeeva is the genotype-to-phenotype model that turns a seed and a target environment into yield, flowering, maturity, and height with confidence intervals plus per-locus attribution. \r\n\r\nAkash is the geospatial backbone - it maps every pixel of every field to crop class and growing condition.\r\n\r\nTwo pieces of physical infrastructure close the downstream half. \r\n\r\nGeneRush is a controlled-environment chamber engineered for speed: extended photoperiod, optimized temperature, integrated phenomics. Wheat reaches anthesis in 38 days. Breeding programs run 4–6 generations a year instead of 1–2. \r\n\r\nGrowRush takes that same chamber to commercial production scale, where every harvest is also a labelled phenotype training pair flowing back to Jeeva. The unit is paid for by what it grows; the science works because the unit is identical to the chamber the AI was trained on.\r\n\r\nEvery cycle produces proprietary genotype-to-phenotype data the next generation of models needs. The ten-year breeding cycle compresses toward three. We are already commercial",
+    "one_liner": "Foundation models and autonomous chambers for plant biology",
     "team_size": 53,
     "industry": "Industrials",
     "subindustry": "Industrials -> Agriculture",
     "launched_at": 1583951636,
     "tags": [
-      "Artificial Intelligence",
-      "Vertical Farming",
-      "Agriculture"
+      "Biotech",
+      "Agriculture",
+      "AI",
+      "Sustainable Agriculture",
+      "Biotechnology"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -15802,16 +15804,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/35c821ac938388eef9bdac08cedddc97651fe77c.png",
     "website": "https://aicepower.com",
     "all_locations": "",
-    "long_description": "AICE Power makes a new generation of sensors that give commercial buildings full visibility into their energy consumption. \r\nWe deploy on any site in one day with no disruption, at 5% the cost of traditional Building Management Systems. \r\nThe platform automatically detects anomalies and alerts teams in real time, before inefficiencies show up on the bill. ",
-    "one_liner": "Smart energy monitoring for buildings.",
+    "long_description": "We are building the next generation of underwater defense systems: autonomous swarms of modular marine drones to secure naval assets and coastal infrastructure against evolving underwater threats.",
+    "one_liner": "Submarine drones for defense",
     "team_size": 2,
     "industry": "Industrials",
-    "subindustry": "Industrials -> Energy",
+    "subindustry": "Industrials -> Defense",
     "launched_at": 1775067317,
     "tags": [
-      "Batteryless IoT Sensors",
-      "Hardware",
-      "Climate"
+      "Swarm AI",
+      "Robotics",
+      "Drones"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -15821,7 +15823,7 @@
     "status": "Active",
     "industries": [
       "Industrials",
-      "Energy"
+      "Defense"
     ],
     "regions": [
       "Unspecified"
@@ -16093,5 +16095,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/maquoketa-research",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/maquoketa-research.json"
+  },
+  {
+    "id": 32194,
+    "name": "GUILD",
+    "slug": "guild",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/efd3ccc04f842f9a3a1235ba1ef66aa4447fc993.png",
+    "website": "https://www.guildai.co",
+    "all_locations": "New York, NY, USA; Remote",
+    "long_description": "",
+    "one_liner": "Neoprime Reshaping Defense Supply Chain",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Defense",
+    "launched_at": 1778869862,
+    "tags": [
+      "GovTech",
+      "Compliance",
+      "Manufacturing",
+      "Supply Chain",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/guild",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/guild.json"
   }
 ]

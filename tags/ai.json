@@ -4040,6 +4040,49 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2020/deepsource.json"
   },
   {
+    "id": 13346,
+    "name": "UrbanKisaan",
+    "slug": "urbankisaan",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/46e8aa32e04a21d9a5ef18ccaae02b6b9ddea65d.png",
+    "website": "https://www.urbankisaan.com",
+    "all_locations": "Hyderabad, Telangana, India",
+    "long_description": "UrbanKisaan is an AI-for-plant-biology company. We build foundation models and the physical infrastructure that trains them.\r\n\r\nShipping a single new seed variety takes about ten+ years. Two on germplasm, three on crosses and selection, three or four on field trials, one on regulatory. Inside that decade, prediction and experiment never properly meet. DNA is abundant, phenotype data is scarce and unpaired, and the cycle never trains itself.\r\n\r\nWe closed that loop.\r\n\r\nThree foundation models cover the upstream science. \r\n\r\nAadi is a 48-layer transformer trained from scratch on the public and proprietary corpus of plant genomes; it reads plant DNA and ranks variants before any wet-lab spend. \r\n\r\nJeeva is the genotype-to-phenotype model that turns a seed and a target environment into yield, flowering, maturity, and height with confidence intervals plus per-locus attribution. \r\n\r\nAkash is the geospatial backbone - it maps every pixel of every field to crop class and growing condition.\r\n\r\nTwo pieces of physical infrastructure close the downstream half. \r\n\r\nGeneRush is a controlled-environment chamber engineered for speed: extended photoperiod, optimized temperature, integrated phenomics. Wheat reaches anthesis in 38 days. Breeding programs run 4–6 generations a year instead of 1–2. \r\n\r\nGrowRush takes that same chamber to commercial production scale, where every harvest is also a labelled phenotype training pair flowing back to Jeeva. The unit is paid for by what it grows; the science works because the unit is identical to the chamber the AI was trained on.\r\n\r\nEvery cycle produces proprietary genotype-to-phenotype data the next generation of models needs. The ten-year breeding cycle compresses toward three. We are already commercial",
+    "one_liner": "Foundation models and autonomous chambers for plant biology",
+    "team_size": 53,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Agriculture",
+    "launched_at": 1583951636,
+    "tags": [
+      "Biotech",
+      "Agriculture",
+      "AI",
+      "Sustainable Agriculture",
+      "Biotechnology"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2020",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Agriculture"
+    ],
+    "regions": [
+      "India",
+      "South Asia"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/urbankisaan",
+    "api": "https://yc-oss.github.io/api/batches/winter-2020/urbankisaan.json"
+  },
+  {
     "id": 13522,
     "name": "Atmo",
     "slug": "atmo",
@@ -10509,7 +10552,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b5c0add505f7307410cfab6e36c9a7df97ce8d5d.png",
     "website": "https://www.crazehq.com/?utm_source=yc",
     "all_locations": "Mumbai, MH, India",
-    "long_description": "Ask Craze to do anything — run marketing campaigns, hire employees, build AI coworkers, automate workflows, plan weddings and more. Craze picks and brings together all the right AI models, apps, tools and agents to actually get things done for you.",
+    "long_description": "Don't just chat with AI, tell Craze to do anything: run marketing campaigns, hire employees, build AI coworkers, automate workflows, plan weddings, etc. Craze picks and brings together all the right AI models, apps, tools and agents to actually get things done for you.",
     "one_liner": "Get anything done with all the right AI models, apps & agents for you",
     "team_size": 10,
     "industry": "B2B",
@@ -10828,18 +10871,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/027aebd8670e1f9af979f5faf2e16000e83da2c8.png",
     "website": "https://unify.ai",
     "all_locations": "London, England, United Kingdom; Remote",
-    "long_description": "Assign Tasks by Call, E-mail, or Message — Your Assistant will Handle the Rest! https://unify.ai ✨",
-    "one_liner": "Hire AI — Not APIs ✨",
-    "team_size": 10,
+    "long_description": "Start with one painful workflow. Give an AI teammate the context. The shared operating layer compounds from there.",
+    "one_liner": "AI teammates for real estate",
+    "team_size": 6,
     "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
+    "subindustry": "B2B -> Productivity",
     "launched_at": 1657390616,
     "tags": [
       "Artificial Intelligence",
-      "Generative AI",
-      "SaaS",
-      "API",
-      "AI"
+      "Real Estate",
+      "Investing",
+      "AI",
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -10849,7 +10892,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Infrastructure"
+      "Productivity"
     ],
     "regions": [
       "United Kingdom",
@@ -11538,53 +11581,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/typeless",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/typeless.json"
-  },
-  {
-    "id": 27152,
-    "name": "Firecrawl",
-    "slug": "firecrawl",
-    "former_names": [
-      "SideGuide",
-      "Mendable",
-      "SideGuide",
-      "Mendable"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe35a47d1e4dd7a3c1a7dcbea86c08b5ef2d67e6.png",
-    "website": "https://www.firecrawl.dev",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Firecrawl is a web data infrastructure platform that converts websites into clean, structured data optimized for AI applications through a simple API. Originally built as an internal tool at Mendable to solve their own data ingestion challenges, the team recognized the broader need for reliable web data extraction and transformed it into a standalone product. The platform combines web search, scraping, and AI-powered parsing into a unified solution, focusing on the core developer priorities of reliability, speed, and ease of use. By abstracting away the complexities of web data extraction, Firecrawl serves as the foundational data layer that enables AI applications to seamlessly access and process web content in the exact format they need.",
-    "one_liner": "The web data API for AI",
-    "team_size": 25,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1661283698,
-    "tags": [
-      "Developer Tools",
-      "Open Source",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/firecrawl",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/firecrawl.json"
   },
   {
     "id": 27166,
@@ -12352,6 +12348,54 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/concourse",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/concourse.json"
+  },
+  {
+    "id": 27701,
+    "name": "Backdrop",
+    "slug": "backdrop",
+    "former_names": [
+      "Sphere",
+      "Twig",
+      "Backdrop",
+      "Backdrop (previously Twig)"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dcbaa3bb5c44063d7f8556a66262b6a2852f72aa.png",
+    "website": "https://www.backdropagent.com",
+    "all_locations": "Seattle, WA, USA",
+    "long_description": "",
+    "one_liner": "Operating system for autonomous agent AI agents. ",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1677171652,
+    "tags": [
+      "Fintech",
+      "B2B",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/backdrop",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/backdrop.json"
   },
   {
     "id": 27708,
@@ -13611,51 +13655,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sensorsurf",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/sensorsurf.json"
-  },
-  {
-    "id": 27943,
-    "name": "Hadrius",
-    "slug": "hadrius",
-    "former_names": [
-      "Quantbase"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/860789e4b5347ff0d9c534e39f80af9c01143ab3.png",
-    "website": "https://www.hadrius.com",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Hadrius allows regulated financial firms of all sizes to consolidate and automate their compliance processes using AI in one platform. Today, we're securing compliance for $3T+ AUM across our clients.\r\n\r\nWe're building the AI that will regulate the US financial system and the trillions that flows through it.",
-    "one_liner": "Automating Securities Compliance",
-    "team_size": 80,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Asset Management",
-    "launched_at": 1668714980,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Compliance",
-      "Regtech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Asset Management"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/hadrius",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/hadrius.json"
   },
   {
     "id": 27945,
@@ -16179,51 +16178,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/vizly",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/vizly.json"
-  },
-  {
-    "id": 28932,
-    "name": "AgentCollect",
-    "slug": "agentcollect",
-    "former_names": [
-      "Respaid"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e7fa66d4491c66a8637435f8ec4ca509a67f236.png",
-    "website": "https://www.agentcollect",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We recover aged B2B debt in weeks, not quarters: ~49% in 20 days vs ~20% in 4-6 months for traditional agencies.\r\nOur AI agents call, email, text, find the right contact (20% of B2B contact data is outdated), and negotiate payment plans 24/7 ; all under your brand. \r\nWe replace your offshore BPO and third-party agencies. \r\nYour AR team stays focused on strategic accounts.\r\n\r\nLive with Dell, Microsoft, FedEx, Plaid, and Checkr and hundreds of enterprise companies.\r\n\r\nLong-tail AR your team has deprioritized becomes recovered cash before a traditional agency even gets moving.",
-    "one_liner": "B2B debt collection powered by AI agents",
-    "team_size": 42,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
-    "launched_at": 1688400893,
-    "tags": [
-      "Fintech",
-      "B2B",
-      "Enterprise Software",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/agentcollect",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/agentcollect.json"
   },
   {
     "id": 28936,
@@ -25612,7 +25566,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2024",
     "status": "Active",
@@ -30418,7 +30372,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5596537c1b7f7b2fdc729cd0da77e9c233f79180.png",
     "website": "https://vibeflow.ai/",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "VibeFlow generates full-stack web apps from prompts with n8n-style visual workflows for the backend. Users of tools like Lovable or v0 can easily iterate over frontends because they can see them, while backends remain closed black boxes that are hard to evolve through prompting. VibeFlow opens up backend logic, making it visual and editable, with powerful integrations built in.",
     "one_liner": "Lovable, n8n and a database all in one platform ",
     "team_size": 3,
@@ -30441,7 +30395,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -32338,6 +32293,46 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/compyle.json"
   },
   {
+    "id": 30928,
+    "name": "Thesis",
+    "slug": "thesis",
+    "former_names": [
+      "Thesis Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/834b16b30c5de79bf9dbcd0a4819289bfa937936.png",
+    "website": "https://thesislabs.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We are accelerating AI research and development. Our aim is to help researchers uncover the next AlphaFold or build the next Transformer, faster, more systematically, and at scale. We treat discovery not as a matter of luck, but as an intelligent search problem.\r\n\r\nBy giving researchers access to an autonomous AI research lab, Thesis lets you build powerful machine learning models for anything imaginable. Every major breakthrough in AI over the next decade will be made on Thesis.",
+    "one_liner": "Automate AI research",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1762476616,
+    "tags": [
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/thesis",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/thesis.json"
+  },
+  {
     "id": 30931,
     "name": "Pixley AI",
     "slug": "pixley-ai",
@@ -33509,6 +33504,49 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/q2q.json"
   },
   {
+    "id": 31191,
+    "name": "Traverse",
+    "slug": "traverse",
+    "former_names": [
+      "Clice AI",
+      "Clice"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/35a08dba94f5c7c4efe9e2c566eb21cc8f85b0e1.png",
+    "website": "https://www.traverse.so",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Research lab solving non-verifiable work",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1767260558,
+    "tags": [
+      "Machine Learning",
+      "Reinforcement Learning",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/traverse",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/traverse.json"
+  },
+  {
     "id": 31192,
     "name": "Approxima",
     "slug": "approxima",
@@ -33809,51 +33847,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/librar-labs.json"
   },
   {
-    "id": 31323,
-    "name": "Hedge",
-    "slug": "hedge",
-    "former_names": [
-      "Taven"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be7a6c101c292b6662ffb48e1b9a900ec01c660b.png",
-    "website": "https://www.hedgespecialty.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "AI native specialty insurance company",
-    "team_size": 0,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Insurance",
-    "launched_at": 1777586182,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "B2B",
-      "Insurance",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Insurance"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/hedge",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/hedge.json"
-  },
-  {
     "id": 31330,
     "name": "Standard Signal",
     "slug": "standard-signal",
@@ -34020,26 +34013,21 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/matforge.json"
   },
   {
-    "id": 31373,
-    "name": "Refortifai",
-    "slug": "refortifai",
-    "former_names": [
-      "RefortifAI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b37c6cc458022b158a3f2abce590be2ed10116fb.png",
-    "website": "https://refortif.ai",
+    "id": 31365,
+    "name": "Incandor",
+    "slug": "incandor",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/897d4bcd4f8d8953ac74712b5cc1711e4eb40c78.png",
+    "website": "https://www.incandor.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Refortifai builds RL environments to solve and evaluate complex tasks involving electronic design.",
-    "one_liner": "Reasoning for Electronic Design Automation ",
-    "team_size": 3,
+    "long_description": "Incandor detects fraud on banking and fintech platforms by learning how every user physically behaves — mouse dynamics, keystroke timing, scroll patterns, and on mobile, how they hold their phone. Founded by two Stanford engineers and backed by Y Combinator, Incandor builds a behavioral map of every user on your platform — no fraud labels or historical data required. At the individual level, it identifies account takeovers with >99% accuracy. At the population level, coordinated rings, mule operators, and coerced sessions separate out naturally. Rather than a black-box risk score, fraud teams query the map via a programmable API.",
+    "one_liner": "Behavioral intelligence infrastructure for fraud and trust & safety",
+    "team_size": 0,
     "industry": "B2B",
     "subindustry": "B2B",
-    "launched_at": 1774743443,
+    "launched_at": 1778822795,
     "tags": [
-      "AI-Enhanced Learning",
-      "Reinforcement Learning",
-      "B2B",
-      "Semiconductors",
+      "Security",
       "AI"
     ],
     "tags_highlighted": [],
@@ -34060,8 +34048,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/refortifai",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/refortifai.json"
+    "url": "https://www.ycombinator.com/companies/incandor",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/incandor.json"
   },
   {
     "id": 31375,
@@ -34540,50 +34528,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/kimpton-ai.json"
   },
   {
-    "id": 31427,
-    "name": "Napkin Math",
-    "slug": "napkin-math",
-    "former_names": [
-      "Paper Star"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3186460384778570f52c73ff19cf5b102436f57.png",
-    "website": "https://napkinmath.club",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Napkin Math is the food journal for real people. Stop counting calories, get personalized insights and realistic goals. Easily keep a beautiful food journal, get deep insights on your data with AI, and share your table with friends.",
-    "one_liner": "Building Napkin Math, AI-powered food journaling for real people",
-    "team_size": 3,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1775700750,
-    "tags": [
-      "Consumer",
-      "Fitness",
-      "Digital Health",
-      "Food",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/napkin-math",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/napkin-math.json"
-  },
-  {
     "id": 31432,
     "name": "Keyframe Labs",
     "slug": "keyframe-labs",
@@ -34875,48 +34819,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/chronicle-labs",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/chronicle-labs.json"
-  },
-  {
-    "id": 31473,
-    "name": "Kuli",
-    "slug": "kuli",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d0faca2d7e56f4ac9ab8fe42a2e560d516e70bab.png",
-    "website": "https://kuli.one",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Kuli is an AI agent for social media and influencer marketing teams at the world's largest consumer brands. Our agent watches every video on socials in the brand's context and helps marketers get work done to launch their campaigns 4x faster.\r\n\r\nPrevious platforms gave marketers databases to search through and a CRM. Kuli actually watches the content. Marketers at team like Supercell, Disney and Havas use it to scout creators, run analysis on trends and competitor strategies, and analyse what makes their campaign perform better.\r\n\r\nFor 10 years, influencer marketing meant more tools, more tabs, more spreadsheets. Kuli replaces all of that with one single agent you orchestrate. One marketer with Kuli does what a $50K/month agency bills for manual tasks.",
-    "one_liner": "Claude Cowork for social media and creator marketers",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1775508388,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Social Media",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/kuli",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/kuli.json"
   },
   {
     "id": 31475,
@@ -35506,46 +35408,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/manicule.json"
   },
   {
-    "id": 31534,
-    "name": "Astraea",
-    "slug": "astraea",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a54f06b55a2ed047cbb87b6611e0a25bcf346a72.png",
-    "website": "https://tryastraea.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Astraea is an AI-native biometrics platform for clinical trials. We automate the data management, statistical programming, and clinical data analysis workflows that take Phase II and III studies from raw study inputs to auditable, FDA-ready outputs. Instead of relying on fragmented legacy systems, manual handoffs, and large programming teams, Astraea gives sponsors a single platform to move from source data through standards generation, analysis datasets, tables/listings/figures, and final reporting with human oversight built in.\r\n\r\nOur platform is designed for the parts of clinical development that are still painfully manual today: raw data ingestion, data normalization, CDISC mapping, SDTM generation, ADaM transformation, TFL production, QC cycles, and revision workflows. We unify these steps in one system so teams can track the entire data analysis pipeline from a single interface, with full visibility, version control, auditability, and traceability at every stage.\r\n\r\nIn practice, Astraea helps sponsors and biometrics teams replace months of repetitive expert work with automated, reviewable execution. Highly trained statisticians, programmers, and data managers should not be spending so much time stitching together datasets, formatting outputs, resolving handoff issues, and repeating the same cleanup and QC loops across disconnected tools. Astraea keeps experts in control of the critical decisions while dramatically reducing the operational burden around them.\r\n\r\nWe are starting with the workflows that matter most in trial analysis and reporting: SDTM generation, ADaM generation, statistical programming workflows, TFL generation, and the QC and revision cycles needed to get outputs ready for delivery. Over time, Astraea is building toward a full end-to-end system for modern clinical trial data execution in regulated environments.",
-    "one_liner": "Agents that accelerate clinical trials.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1778617120,
-    "tags": [
-      "SaaS",
-      "Health Tech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/astraea",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/astraea.json"
-  },
-  {
     "id": 31536,
     "name": "Gigacatalyst",
     "slug": "gigacatalyst",
@@ -35760,5 +35622,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/intelligence-factory",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/intelligence-factory.json"
+  },
+  {
+    "id": 32194,
+    "name": "GUILD",
+    "slug": "guild",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/efd3ccc04f842f9a3a1235ba1ef66aa4447fc993.png",
+    "website": "https://www.guildai.co",
+    "all_locations": "New York, NY, USA; Remote",
+    "long_description": "",
+    "one_liner": "Neoprime Reshaping Defense Supply Chain",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Defense",
+    "launched_at": 1778869862,
+    "tags": [
+      "GovTech",
+      "Compliance",
+      "Manufacturing",
+      "Supply Chain",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/guild",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/guild.json"
   }
 ]
