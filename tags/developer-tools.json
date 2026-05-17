@@ -8089,7 +8089,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -11603,7 +11603,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -17336,18 +17336,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c28333543424f2e5753fd39fd195e354af322187.png",
     "website": "https://www.integuru.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Integuru turns any website into a reliable, real-time, low-latency, and high-volume API. No RPA involved. We specialize in delivering the most robust integrations, processing millions of API calls monthly at 99.99%+ success rate.",
-    "one_liner": "Generate the most robust APIs with any website",
-    "team_size": 4,
+    "long_description": "Integuru turns any platform into a reliable, low-latency, and high-throughput API. Requests complete in 3 seconds with 99.9%+ success, including deployments above 1M requests/month/platform. No RPA or browsers. No data caching.",
+    "one_liner": "Generate fast, reliable APIs for any platform",
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1709153976,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "API",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -23080,9 +23080,9 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac5a6cce941f973ff80cb4496e195f4010e5c21b.png",
     "website": "https://www.stagereview.app/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Teams are shipping faster than ever with AI, but engineers are merging changes that neither they nor their reviewers fully understand, leading to bugs in production and cognitive debt.\r\n\r\nStage is a new code review platform built for today’s fast moving teams. Instead of forcing readers to piece things together from unorganized diffs, Stage breaks changes down into structured chapters so teams can understand what's happening and ship with confidence.",
-    "one_liner": "A better code review platform",
+    "all_locations": "",
+    "long_description": "Everyone is shipping 10x more with AI, but now code review is becoming the bottleneck for engineering teams. PRs are being rubber stamped without getting closely looked at, bugs are slipping through to production, and engineers are gradually building cognitive debt.\r\n\r\nStage redesigns GitHub’s outdated code review interface around the way developers naturally read PRs. Instead of building another code review bot, Stage empowers reviewers to understand changes faster and review implementations at a higher level.",
+    "one_liner": "AI-native code review platform for modern teams",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -23102,8 +23102,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -23290,6 +23289,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/interfaze",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/interfaze.json"
+  },
+  {
+    "id": 31395,
+    "name": "Deep Interactions",
+    "slug": "deep-interactions",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2150b2f6e149aef04ef65b7381c3bd0b77037221.png",
+    "website": "https://deepinteractions.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Deep Interactions is a humans-in-the-loop AI builder. We don't leave you with a spaghetti mess of a code. We bring product intelligence and power the context layer that enables your team to build in sync - saving companies tokens, time, and nerves. You give us a problem and we ship a working AI product in the same afternoon.\r\n",
+    "one_liner": "Collaborative AI app builder for teams",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1771462206,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Generative AI",
+      "SaaS",
+      "Team Collaboration"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/deep-interactions",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/deep-interactions.json"
   },
   {
     "id": 31413,
