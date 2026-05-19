@@ -2303,7 +2303,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -4437,7 +4437,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2018",
     "status": "Active",
@@ -25986,16 +25986,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d57b2b10c7e35a1990c9ac0bf09d58abdb4ff9d5.png",
     "website": "https://mistle.dev",
     "all_locations": "Singapore, Singapore; Remote",
-    "long_description": "Mistle is an open-source platform for orchestrating sandboxed coding agents in engineering workflows. It provides credential brokering so agents can access tools without direct access to secrets.",
-    "one_liner": "Open source platform for automating sandboxed coding agents",
+    "long_description": "Mistle is the open source alternative to Stripe Minions, Ramp Inspect and Shopify River. Instead of spending months building an internal platform, teams use Mistle to run collaborative background agents from day one.",
+    "one_liner": "Open source background agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1654527668,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Open Source"
+      "Open Source",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -34734,18 +34734,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/38b0ef5314d328b72aff9a8d9829350f181b5ace.png",
     "website": "https://opensteer.com",
     "all_locations": "Los Angeles, CA, USA; Remote",
-    "long_description": "Oversteer is building browser agents to automate web tasks and turn them into reusable, deterministic APIs. You can integrate the API into any system and automate/integrate any website or portal. ",
-    "one_liner": "The most reliable browser agent for any web task",
+    "long_description": "Opensteer creates specialized AI agents in cloud computers that can integrate with anything. Each agent gets customizable browser access, tools, instructions, and guardrails, so it can work 24/7 exactly the way you need.",
+    "one_liner": "Specialized agents for real work",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1689032123,
     "tags": [
+      "Artificial Intelligence",
       "Robotic Process Automation",
       "B2B",
       "API",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -36353,7 +36353,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -37945,16 +37945,17 @@
     "website": "https://www.decisional.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Decisional is the fastest way to build self healing automation agents that work with the apps you use.\r\nYou just ask for an agent in natural language, it builds and tests its own workflow that it runs constantly in the background.\r\n",
-    "one_liner": "Self healing automation agents that run in the background.",
+    "one_liner": "AI Coworkers for Business Automation",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1723533013,
     "tags": [
       "Artificial Intelligence",
-      "SaaS",
       "B2B",
-      "Automation"
+      "Workflow Automation",
+      "Automation",
+      "Operations"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -38779,8 +38780,8 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/20753f897b891239d8d377fd61dc4c2f58e6523d.png",
     "website": "https://redouble.ai/",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "At Redouble AI we have developed Silverlake, a Java-native agentic AI operating system for enterprise. While other AI solutions force enterprise stakeholders to embrace unfamiliar concepts in an unfamiliar language, we do the opposite: we slot agentic AI right into the enterprise comfort zone - by mapping all agentic principles onto familiar enterprise primitives in their own language, their own security model, their own infrastructure. It’s like moving from Bitcoin to Stablecoin, just for agentic AI. \r\n\r\nWhen we did YC we realized there was no framework or platform that gave us as enterprise and workflow automation veterans what we needed to build truly secure, reliable, and scalable agentic solutions for mission-critical workflows. That’s why we spent the past 18 months building Silverlake from the ground up. \r\n\r\nWe empower the 12 million Java engineers worldwide to write and deploy their own AI, securely, at scale. They define an agent in a few lines of code, and our platform does everything else, from orchestration to permission control, from auditability to rate limiting, from long-running agents to autonomous coordinated networks that perform the work of entire departments. \r\n\r\nSilverlake has been developed with design partners across biopharma, insurance and financial services. For example, our agentic workflows write submission-ready Clinical Study Reports that are hundreds of pages long, analyze entire datarooms full of financial and operational data for private equity investors, and automate claims processing for a large insurance player. \r\n\r\nWe are backed by Y Combinator, Exponential, Transpose Platform, Tiny VC, and the Oxford Seed Fund and advised by Java inventor James Gosling and automation guru Professor Christian Terwiesch. ",
+    "all_locations": "New York, NY, USA; Remote",
+    "long_description": "At Redouble AI we have developed Silverlake, a Java-native agentic AI operating system for enterprise. While other AI solutions force enterprise stakeholders to embrace unfamiliar concepts in an unfamiliar language, we do the opposite: we slot agentic AI right into the enterprise comfort zone - by mapping all agentic concepts onto established enterprise primitives in their own language, their own security model, their own infrastructure. It’s like moving from Bitcoin to Stablecoin, just for agentic AI. \r\n\r\nWhen we did YC we realized there was no framework or platform that gave us as enterprise and workflow automation veterans what we needed to build truly secure, reliable, and scalable agentic solutions for mission-critical workflows. That’s why we spent the past 18 months building Silverlake from the ground up. \r\n\r\nWe empower the 12 million Java engineers worldwide to write and deploy their own AI, securely, at scale. They define an agent in a few lines of code, and our platform does everything else, from orchestration to permission control, from auditability to rate limiting, from long-running agents to autonomous coordinated networks that perform the work of entire departments. \r\n\r\nSilverlake has been developed with design partners across biopharma, insurance and financial services. For example, our agentic workflows write submission-ready Clinical Study Reports that are hundreds of pages long, analyze entire datarooms full of financial and operational data for private equity investors, and automate claims processing for a large insurance player. \r\n\r\nWe are backed by Y Combinator, Exponential, Transpose Platform, Tiny VC, and the Oxford Seed Fund and advised by Java inventor James Gosling and automation guru Professor Christian Terwiesch. ",
     "one_liner": "Java-native multi-agentic AI operating system for enterprise",
     "team_size": 3,
     "industry": "B2B",
@@ -40597,11 +40598,11 @@
     "subindustry": "B2B",
     "launched_at": 1730139932,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Compliance",
       "Marketing",
-      "Regtech"
+      "Regtech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -40870,7 +40871,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2024",
     "status": "Active",
@@ -41161,8 +41162,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2cf89546e97aa00342fd94e13a639b43add977d5.png",
     "website": "https://www.leapingai.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Leaping AI is the best platform to deploy voice AI agents for customer service, lead qualification and appointment scheduling. We target mid-market and Enterprise companies and industries are: home services, pay per call, travel, retail, health insurance, Medicare, health and real estate.\r\n\r\nWe automated contact centers employing >100 human agents and now handle their incoming customer support and sales calls, end-to-end. All while maintaining 90% customer satisfaction score.\r\n\r\nFor another company, our voice AI agents were able to convert 30% of contacted leads within a week of the outbound campaign. A similar campaign with humans previously took that same company 5 weeks.\r\n",
-    "one_liner": "Voice AI agents to automate call centers (digital call center workers)",
+    "long_description": "Leaping AI is the best platform to deploy voice and texting AI agents for customer service, lead qualification and appointment scheduling. We target mid-market and Enterprise companies and industries are: home remodeling, roofing, pay per call, travel, retail, health insurance, Medicare, health and real estate.\r\n\r\nWe automated contact centers employing >100 human agents and now handle their incoming customer support and appointment scheduling calls, end-to-end. All while maintaining 90% customer satisfaction score.\r\n\r\nPain points that we solve: missed calls, insufficient speed to lead, not enough call center resources, call center inefficiencies, agents not sticking to the script, etc.\r\n\r\nAt its core, we have a multi-channel outreach campaign feature, whereby our customers can call and text potential leads over an arbitrary time period. If end customers call or text back, the Leaping voice or text AI agent can autonomously schedule appointments and resolve service requests.\r\n\r\nSome of our differentiating features: most-human like voice in the market, CRM integrations in place (Salesforce, Hubspot, MarketSharp, AccuLynx, JobNimbus, LeadPerfection, Google, etc.) and white-glove onboarding (in-person for larger accounts). Our AI agents can hold 100+ conversations at once, speak multiple languages and be equipped with company specific FAQ. Lastly, we have our own number health monitoring and DNC software.",
+    "one_liner": "AI voice and texting agents",
     "team_size": 11,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -42422,16 +42423,16 @@
     "all_locations": "",
     "long_description": "Spott is the first AI-native ATS/CRM for recruiting & staffing firms. We built Spott because existing recruitment platforms require extensive manual work, are clunky to use, rely on fragmented add-ons, and are not designed for AI adoption.\r\n\r\nSpott combines everything recruiting firms need, from a full ATS & CRM to AI agents across the entire workflow, into one AI-native solution. It enables recruiters to focus on what matters most and close more placements.",
     "one_liner": "AI-native ATS/CRM for recruiting firms",
-    "team_size": 25,
+    "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1737184010,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "HR Tech",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -43413,7 +43414,7 @@
     "slug": "probo",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0e14dfc874747053fa6732daf6dbf9f9ed3e18d.png",
-    "website": "https://www.getprobo.com/",
+    "website": "https://www.probo.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Probo acts like your compliance team. You tell us how you work, and Probo does the rest:\r\n1. Set the right requirements - not overkill\r\n2. Handle docs, risks, controls, evidence\r\n3. Run the audit\r\n4. Keep everything up to date afterward\r\nFounders shouldn’t lose weeks to this stuff. Even one day is too much.\r\n",
     "one_liner": "We help you get compliant while you focus on your business.",
@@ -44546,11 +44547,11 @@
     "name": "Embedder",
     "slug": "embedder",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d68609856b561b0ebfce1f766d19021620459fa0.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f049c3a76d0d9ec2435f1d6426d5bbc667e7a25d.png",
     "website": "https://www.embedder.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Embedder is a coding agent that can write, test, and debug firmware.",
-    "one_liner": "AI Firmware Engineer",
+    "long_description": "Embedder is building an AI coding agent that can write, test, and debug firmware on real hardware.",
+    "one_liner": "AI Agents for Firmware",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -46282,11 +46283,11 @@
     "subindustry": "B2B -> Legal",
     "launched_at": 1759460278,
     "tags": [
-      "Artificial Intelligence",
-      "SaaS",
       "B2B",
+      "Compliance",
       "LegalTech",
-      "Cybersecurity"
+      "Cybersecurity",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47169,6 +47170,50 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/q2q.json"
   },
   {
+    "id": 31241,
+    "name": "Corelayer",
+    "slug": "corelayer",
+    "former_names": [
+      "Sevvy"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7fc77bd9760310dfdeb4b8ba962b09280b614937.png",
+    "website": "https://www.corelayer.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Corelayer is the AI-native platform for production software support, built for data-heavy, regulated industries like finance and healthcare. It continuously monitors alerts, logs, infrastructure, and underlying data for issues and uses agents to debug and suggest fixes.\r\n\r\nWe're helping teams at companies ranging from growth-stage fintechs to S&P 500 financial institutions spend less time on support and more on high-leverage work.",
+    "one_liner": "AI on-call engineer for data-heavy, regulated industries",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1767713346,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/corelayer",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/corelayer.json"
+  },
+  {
     "id": 31263,
     "name": "Supafax",
     "slug": "supafax",
@@ -47480,7 +47525,7 @@
     "website": "https://qomplement.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Enterprises employ thousands of people whose only job is moving data between systems manually. Processing documents, updating ERPs, logging into vendor portals, sending confirmation emails. Every day, across every department.\r\n\r\nIt is one of the largest unsolved problems in business. And the only solution companies have found is hiring more people to do more of the same work.\r\n\r\nqomplement connects to your existing tools and deploys AI agents that do that work automatically. No migration, no replacing current software. The agents run in the background and your team sees everything in one dashboard.\r\n\r\nWe are already running 1,000+ workflows across 20+ companies in retail, logistics, and energy and processing 10,000+ documents per day.",
-    "one_liner": "AI agents for enterprise operations",
+    "one_liner": "AI agents that process invoices, purchase orders, and reconcile AP",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -48099,6 +48144,50 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/kuli.json"
   },
   {
+    "id": 31481,
+    "name": "Saudara AI",
+    "slug": "saudara-ai",
+    "former_names": [
+      "Saudara AI Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1c4216679eb008bbc4571315894d674d507a751f.png",
+    "website": "https://saudara.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Saudara AI is an AI broker connecting American brands with vetted overseas factories.\r\n\r\nUS brands import $3T in goods a year and lose billions to ghost suppliers, hidden fees, and blown deadlines. The factories that actually deliver sit behind decades-old relationships outsiders can't break into. We were born into them.\r\n\r\nEvery deal runs through a real human broker, supercharged by AI that handles sourcing, quoting, QC, and logistics. 10x faster, at a fraction of the cost.\r\n\r\nSourcing is the largest broken market in global trade. We're the on-ramp.",
+    "one_liner": "AI sourcing broker linking brands to top global factories.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1774887463,
+    "tags": [
+      "B2B",
+      "Logistics",
+      "Manufacturing",
+      "Procurement",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/saudara-ai",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/saudara-ai.json"
+  },
+  {
     "id": 31487,
     "name": "AquaShield",
     "slug": "aquashield",
@@ -48432,6 +48521,46 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/arden.json"
   },
   {
+    "id": 31528,
+    "name": "Asendia AI",
+    "slug": "asendia-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e735fee67a48586d3de061beb544a8ab8d481fc6.png",
+    "website": "https://asendia.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Asendia AI builds AI recruiters for staffing agencies and enterprise companies. It clones their best recruiters into AI agents that match, screen, and submit candidates 10x faster.\r\nIn a few months, the Asendia team crossed $500k in revenue and is now working with the top enterprises in the space.",
+    "one_liner": "AI Recruiters for Staffing Agencies and Enterprise",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1773592389,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/asendia-ai",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/asendia-ai.json"
+  },
+  {
     "id": 31531,
     "name": "Manicule",
     "slug": "manicule",
@@ -48448,9 +48577,9 @@
     "subindustry": "B2B",
     "launched_at": 1773484930,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48733,7 +48862,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/813e1a8e770c08e788937c21e5a62c42be5e08d9.png",
     "website": "https://tryrote.com/",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Rote handles the entire negotiation lifecycle between shops and insurance companies to help them recover thousands of dollars in denied claims. Shops today lose millions per year because they lack the resources to negotiate with insurance companies that undervalue repair costs. Rote's agents recover denied revenue by taking shop estimates and referencing technical repair data to autonomously file and defend shop claims.",
     "one_liner": "AI-native insurance department for auto body shops",
     "team_size": 0,
@@ -48756,7 +48885,8 @@
       "Operations"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
