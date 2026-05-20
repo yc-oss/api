@@ -11951,6 +11951,50 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/primitive.json"
   },
   {
+    "id": 31377,
+    "name": "Limrun",
+    "slug": "limrun",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ab10903dc4335cb12beff61e9e9cb75f732ed72a.png",
+    "website": "https://lim.run",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Coding agents in the cloud don't work for majority of teams who require native capabilities; they lack XCode for iOS, Emulator for Android, Unity for game development teams. We are on a mission to cloudify every local development utility so that regardless of where it runs, your agent can compose an ideal set of capabilities on the fly so you don't need to run it on your laptop.\r\n\r\nToday, we provide remote services such as XCode, iOS & Android simulators to enable coding agents running in any sandbox to be able to build and iterate over mobile apps, too.\r\n\r\nReplit, Rork, Momentic, Minitap and more agent companies have built mobile development and testing experiences on Limrun platform. Coconote (Quizlet), SorceJobs (W25) and more companies with mobile apps use Limrun with their cloud agents, merging PRs without having to check out the code locally.",
+    "one_liner": "Extend your cloud agent with XCode, Android and more",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1779230895,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Enterprise Software",
+      "Cloud Computing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/limrun",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/limrun.json"
+  },
+  {
     "id": 31386,
     "name": "Interfaze",
     "slug": "interfaze",
@@ -12131,7 +12175,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "AI companies selling into legacy industries can't go live because their customers' systems of record are Windows desktop apps with no APIs. The only way in is clicking through the UI, and it breaks constantly.\r\n\r\nMinicor is a platform for building self-healing desktop automations at scale. Speak the automation into existence through your favourite coding agent via our MCP, or to us directly, and get an API endpoint to trigger it. One API call triggers a full desktop workflow on a Windows VM. On-premise, cloud, or Citrix.\r\n\r\nVideo replay, error logging, and scaling built in.",
     "one_liner": "Managed, self healing desktop automation at scale",
-    "team_size": 5,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1772756028,
@@ -12257,14 +12301,14 @@
     "website": "https://www.watolabs.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Wato gives AI agents shared memory, reusable workflows, connected tools, and living artifacts so work compounds across a team instead of disappearing into chat threads. Teams use Wato to give every agent access to trusted company context and turn useful runs into knowledge the next agent can build on.",
-    "one_liner": "The orchestration layer for AI in institutions",
+    "one_liner": "Shared memory, tools, and workflows for agents across teams",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1779059409,
     "tags": [
-      "Artificial Intelligence",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -12465,7 +12509,7 @@
     "slug": "agentphone",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3cd0619758d7e852f6674fba763a0d1167fa4a69.png",
-    "website": "https://www.agentphone.ai/",
+    "website": "https://agentphone.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "The $2T global telecom industry was built for humans. Agents can't act in the real world today because without a phone number, they have no identity. AgentPhone gives every AI agent its own phone number to reach people and businesses through messages and calls.",
     "one_liner": "Phone Numbers for AI Agents",
@@ -12474,10 +12518,10 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1778010009,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "API",
-      "Telecommunications",
-      "AI"
+      "Telecommunications"
     ],
     "tags_highlighted": [],
     "top_company": false,

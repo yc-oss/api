@@ -1978,7 +1978,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -3723,15 +3723,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "What if every experiment you wanted to run could be modeled using AI? \r\nGodela is an AI-powered physics engine that gives engineers faster, cheaper replacement to simulations and physical prototypes.\r\nNo set up, no wait. Just ask—and get simulation quality result.\r\n",
     "one_liner": "AI Physics Engine to replace simulations and prototypes",
-    "team_size": 4,
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1747413596,
     "tags": [
+      "Artificial Intelligence",
       "Hard Tech",
       "Hardware",
       "Aerospace",
-      "AI",
       "ML"
     ],
     "tags_highlighted": [],
@@ -3937,16 +3937,16 @@
     "website": "https://inloop-robotics.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We are building AI-native fulfillment powered by robotics.\r\nWarehouses without human labor that get better, faster, and cheaper with every order.\r\n\r\nMost robotics companies wait until their system is perfect before deploying. We don't. We ship imperfect policies into real warehouses, detect failures in real time, recover automatically when we can, and bring in a remote human operator when we can't.\r\n\r\nEvery failure becomes training data. Every intervention makes the system better. The result is a fulfillment system that continuously learns from production.",
-    "one_liner": "Deploying robots that ask for help!",
+    "one_liner": "Staff your warehouse with robotic employees today",
     "team_size": 4,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1774801488,
     "tags": [
-      "Artificial Intelligence",
       "Hard Tech",
       "Robotics",
-      "Logistics"
+      "Logistics",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4101,6 +4101,47 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/general-aviation.json"
   },
   {
+    "id": 31530,
+    "name": "Avea Robotics",
+    "slug": "avea-robotics",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8bbc0f67672c28c5bc0d90aef4a3427383e238ac.png",
+    "website": "https://www.avearobotics.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We built the fastest VR teleoperation software on the market, so you can control your robots from anywhere in the world. We help robotics companies collect Physical AI data and scale their deployments.",
+    "one_liner": "Control your robots from anywhere in the world.",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1779165169,
+    "tags": [
+      "Hard Tech",
+      "Robotics",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/avea-robotics",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/avea-robotics.json"
+  },
+  {
     "id": 31535,
     "name": "Arlo Industries",
     "slug": "arlo-industries",
@@ -4108,7 +4149,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/de06e5d81f17778befa407072af627f2fb2c544d.png",
     "website": "https://arlo1.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Arlo Industries builds a decentralised, passive aerial sensing network that precisely tracks stealthy drones and swarms. This capability does not exist yet because traditional radars are built on past war doctrines designed to protect single, centralised assets. Modern warfare, however, demands wide-area, persistent coverage that is both passive and economically scalable. By utilising a mesh architecture, Arlo Industries unlocks unprecedented asymmetric economics. The network is fundamentally built to scale: the cost of adding sensors grows linearly, but the tracking accuracy increases exponentially, delivering highly resilient, persistent coverage for a fraction of the cost of legacy systems.\r\n\r\nDeo founded Arlo Industries after spending over 6 years in the Israeli defence ecosystem, where he lived through multiple conflicts and experienced the Iron Dome and other systems in action against ICBMs and the infamous Shahed drones. Learning exactly how these defence systems could be improved after a Shahed exploded close to his apartment, he built Arlo Industries around the core philosophy that conflict should be concise & precise. Arlo Industries has actively showcased this technology directly to Ukrainian militaries on the frontlines, as well as to operators across Europe and the USA.",
+    "long_description": "Arlo Industries builds Mentat: a decentralised, passive aerial sensing network that precisely tracks stealthy drones and swarms. This capability does not exist yet because traditional radars are built on past war doctrines designed to protect single, centralised assets. Modern warfare, however, demands wide-area, persistent coverage that is both passive and economically scalable. By utilising a mesh architecture, Arlo Industries unlocks unprecedented asymmetric economics. The network is fundamentally built to scale: the cost of adding sensors grows linearly, but the tracking accuracy increases exponentially, delivering highly resilient, persistent coverage for a fraction of the cost of legacy systems.\r\n\r\nDeo founded Arlo Industries after spending over 6 years in the Israeli defence ecosystem, where he lived through multiple conflicts and experienced the Iron Dome and other systems in action against ICBMs and the infamous Shahed drones. Learning exactly how these defence systems could be improved after a Shahed exploded close to his apartment, he built Arlo Industries around the core philosophy that conflict should be concise & precise. Arlo Industries has actively showcased this technology directly to Ukrainian militaries on the frontlines, as well as to operators across Europe and the USA.",
     "one_liner": "Passive aerial sensing mesh to track drones and missiles",
     "team_size": 3,
     "industry": "Industrials",

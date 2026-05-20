@@ -2680,18 +2680,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9794d4fb523375d125992ce9fa5e9e9db45daf9a.png",
     "website": "https://reducto.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Reducto offers robust and reliable document ingestion for any workflow. Our API allows you to convert complex, unstructured documents into structured outputs that are perfect for RAG, process automation, and more. ",
-    "one_liner": "The most accurate API to parse documents",
+    "long_description": "Reducto is the agentic document platform for leading AI teams building systems to automate document workflows at enterprise scale.\r\n\r\nOur platform provides a comprehensive toolkit for working with documents the way a human would, combining custom in-house and leading frontier models to power efficient and accurate document workflows. Reducto is trusted by leading AI teams at companies like Harvey, Scale AI, and Vanta.\r\n\r\nWe are built for enterprise workloads with flexible deployment options from the cloud to fully air-gapped environments, SOC II and HIPAA compliance, and zero data retention.\r\n\r\nLearn more: https://reducto.ai/\r\nFind our YC deal: https://reducto.ai/yc",
+    "one_liner": "The complete agentic document platform",
     "team_size": 30,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1704664395,
     "tags": [
       "Documents",
-      "Artificial Intelligence",
       "Data Engineering",
       "Enterprise Software",
-      "Search"
+      "Search",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4685,6 +4685,50 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/ritivel.json"
   },
   {
+    "id": 31377,
+    "name": "Limrun",
+    "slug": "limrun",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ab10903dc4335cb12beff61e9e9cb75f732ed72a.png",
+    "website": "https://lim.run",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Coding agents in the cloud don't work for majority of teams who require native capabilities; they lack XCode for iOS, Emulator for Android, Unity for game development teams. We are on a mission to cloudify every local development utility so that regardless of where it runs, your agent can compose an ideal set of capabilities on the fly so you don't need to run it on your laptop.\r\n\r\nToday, we provide remote services such as XCode, iOS & Android simulators to enable coding agents running in any sandbox to be able to build and iterate over mobile apps, too.\r\n\r\nReplit, Rork, Momentic, Minitap and more agent companies have built mobile development and testing experiences on Limrun platform. Coconote (Quizlet), SorceJobs (W25) and more companies with mobile apps use Limrun with their cloud agents, merging PRs without having to check out the code locally.",
+    "one_liner": "Extend your cloud agent with XCode, Android and more",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1779230895,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Enterprise Software",
+      "Cloud Computing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/limrun",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/limrun.json"
+  },
+  {
     "id": 31404,
     "name": "Userlens",
     "slug": "userlens",
@@ -4734,15 +4778,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8cd44a063abb5739ba907e8a724718f7fd09c808.png",
     "website": "https://armature.tech",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "As we shift from user experience to agent experience, the entire way we design, operate, and evaluate our products must be rethought. The first step is to understand how agents use products through MCPs and CLIs, the exact same way we used to understand how users interacted with UIs.\r\n\r\nArmature automates agent workflow testing.\r\nConnect your MCP, CLI and ChatGPT apps and let Armature discover the workflows agents actually run. Armature will then continuously test them across every harness (Claude Code, Codex, Openclaw, etc.) and frontier model and show you how you perform, how you compare to your competitors as well as alert you when something breaks.",
-    "one_liner": "Your next user is an agent. We help you optimize the AX.",
+    "long_description": "Armature helps companies monitor, analyze, and optimize how AI agents experience their products.\r\n\r\nWhat we do today:\r\n- Automated testing: We run complex sessions against your MCPs/CLIs across all major harnesses and models to catch broken workflows before your users do.\r\n- AX analytics & benchmarking: No more black boxes. We trace agent sessions to show you exactly what the model \"thought\", what context it missed, and why it failed. We measure your AX against competitors to ensure you remain the preferred platform for agents to use.\r\n- Auto-remediation: Our MCP lets your internal coding agents plug into Armature to autonomously fix your product's AX based on our run data.\r\n\r\nOur vision for tomorrow:\r\nReaching full understanding of how agents use your product and how you can improve it is only step one. \r\nThe next step is to provide the foundational infrastructure for the Agent Experience, powering agent-native revenue, lifecycle marketing, and customer support for the next generation of software.",
+    "one_liner": "Armature helps companies monitor and optimize the agent experience.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1778126369,
     "tags": [
-      "Enterprise Software",
-      "AI"
+      "Artificial Intelligence",
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4777,14 +4821,14 @@
     "website": "https://www.watolabs.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Wato gives AI agents shared memory, reusable workflows, connected tools, and living artifacts so work compounds across a team instead of disappearing into chat threads. Teams use Wato to give every agent access to trusted company context and turn useful runs into knowledge the next agent can build on.",
-    "one_liner": "The orchestration layer for AI in institutions",
+    "one_liner": "Shared memory, tools, and workflows for agents across teams",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1779059409,
     "tags": [
-      "Artificial Intelligence",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

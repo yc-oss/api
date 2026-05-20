@@ -369,7 +369,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2015",
     "status": "Active",
@@ -2868,7 +2868,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2019",
     "status": "Active",
@@ -3121,7 +3121,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Taskade is the execution layer for ideas. One prompt becomes a live app that thinks and collaborates with your team. Build live dashboards, websites, and tools that connect with your workspace in real time.\r\n\r\nEvery workflow automates itself.\r\nEvery project becomes a live database.\r\nEvery agent plans, acts, and learns inside your workspace.\r\n\r\nNo code. No setup. Just creation.\r\n\r\nTaskade Genesis turns work into living systems.\r\nProjects remember. Agents learn. Automations keep everything in motion.\r\nBuild once, and your workspace evolves as your data and team grow.\r\n\r\nYour workspace is the backend. The interface builds itself.\r\nSoftware should be built by everyone.\r\nBuild without permission.\r\n\r\nhttps://www.taskade.com",
     "one_liner": "One prompt. One app. One living workspace for teams.",
-    "team_size": 14,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1559271132,
@@ -13749,6 +13749,51 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/sensorsurf.json"
   },
   {
+    "id": 27943,
+    "name": "Hadrius",
+    "slug": "hadrius",
+    "former_names": [
+      "Quantbase"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/baeea0b99bf74c18e8e63d396a18ee00083f0359.png",
+    "website": "https://www.hadrius.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Hadrius allows regulated financial firms of all sizes to consolidate and automate their compliance processes using AI in one platform. Today, we're securing compliance for $3T+ AUM across our clients.\r\n\r\nWe're building the AI that will regulate the US financial system and the trillions that flows through it.",
+    "one_liner": "Automating Securities Compliance",
+    "team_size": 80,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Asset Management",
+    "launched_at": 1668714980,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Compliance",
+      "Regtech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Asset Management"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hadrius",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/hadrius.json"
+  },
+  {
     "id": 27945,
     "name": "Fairway Health",
     "slug": "fairway-health",
@@ -15331,6 +15376,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sid",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/sid.json"
+  },
+  {
+    "id": 28844,
+    "name": "Alguna",
+    "slug": "alguna",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e2a3ced5969028060bbaaf152193b5b6a2b3982.png",
+    "website": "https://alguna.com",
+    "all_locations": "New York, NY, USA; Remote",
+    "long_description": "We are Alguna, building a modern platform that helps B2B companies price deals, send quotes, bill customers, and collect payments - all in one place.\r\n\r\nOur mission is to create the most efficient revenue engine for B2B SaaS.\r\n\r\nToday, many companies run these processes with spreadsheets and a patchwork of separate tools. That leads to slow approvals, manual work, mistakes, and missed revenue—especially as pricing gets more complex.\r\n\r\nAlguna replaces that mess by connecting the entire flow from **quote to cash**: what sales sells becomes what finance bills, automatically. We help teams automate invoicing, handle usage-based or custom pricing, and reduce back-and-forth between sales, finance, and engineering.\r\n\r\nThe result: growth-stage startups and enterprises can close deals faster, bill accurately, and scale revenue operations without adding headcount or building internal systems.\r\n",
+    "one_liner": "AI-Native CPQ & Billing for Modern Pricing Models",
+    "team_size": 10,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1691026781,
+    "tags": [
+      "Fintech",
+      "SaaS",
+      "B2B",
+      "Enterprise",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": true,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/alguna",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/alguna.json"
   },
   {
     "id": 28845,
@@ -18075,6 +18165,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/andon-labs",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/andon-labs.json"
+  },
+  {
+    "id": 29254,
+    "name": "Reducto",
+    "slug": "reducto",
+    "former_names": [
+      "Remembrall"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9794d4fb523375d125992ce9fa5e9e9db45daf9a.png",
+    "website": "https://reducto.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Reducto is the agentic document platform for leading AI teams building systems to automate document workflows at enterprise scale.\r\n\r\nOur platform provides a comprehensive toolkit for working with documents the way a human would, combining custom in-house and leading frontier models to power efficient and accurate document workflows. Reducto is trusted by leading AI teams at companies like Harvey, Scale AI, and Vanta.\r\n\r\nWe are built for enterprise workloads with flexible deployment options from the cloud to fully air-gapped environments, SOC II and HIPAA compliance, and zero data retention.\r\n\r\nLearn more: https://reducto.ai/\r\nFind our YC deal: https://reducto.ai/yc",
+    "one_liner": "The complete agentic document platform",
+    "team_size": 30,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1704664395,
+    "tags": [
+      "Documents",
+      "Data Engineering",
+      "Enterprise Software",
+      "Search",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/reducto",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/reducto.json"
   },
   {
     "id": 29256,
@@ -21703,52 +21838,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/bayesline",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/bayesline.json"
-  },
-  {
-    "id": 29643,
-    "name": "Sage Care",
-    "slug": "sagecare",
-    "former_names": [
-      "Clara",
-      "Sage"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8391ef28b31f763fdf577fc8631f259459023eb8.png",
-    "website": "https://sagecare.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sage is a HIPAA compliant, AI-native communication platform that makes home care agency client-intake handling smarter, faster, and more reliable.\r\n\r\nTeams that use Sage can save over 100 minutes of busywork per prospect, freeing up their teams to manage a larger, faster growing business.",
-    "one_liner": "Automating home care agency operations with AI",
-    "team_size": 4,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1722734654,
-    "tags": [
-      "AIOps",
-      "Automation",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sagecare",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/sagecare.json"
   },
   {
     "id": 29646,
@@ -25715,47 +25804,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/capy.json"
   },
   {
-    "id": 30097,
-    "name": "Innate",
-    "slug": "innate",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/374e6b2cd282f5fe31c64fcc82aaebb3105153c9.png",
-    "website": "https://innate.bot",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We make personal AI robots - general-purpose physical machines that anyone can program with code, language and demonstrations.\r\n\r\nWe believe building open platforms like the first PCs this is the only way to bring the robotics future that we all want, where everyone can participate in the robotics revolution.",
-    "one_liner": "Personal AI Robots",
-    "team_size": 5,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Consumer Electronics",
-    "launched_at": 1730365227,
-    "tags": [
-      "Developer Tools",
-      "Robotics",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Consumer Electronics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/innate",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/innate.json"
-  },
-  {
     "id": 30102,
     "name": "Diffusion Studio",
     "slug": "diffusion-studio",
@@ -26605,50 +26653,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/olive",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/olive.json"
-  },
-  {
-    "id": 30259,
-    "name": "Asteroid",
-    "slug": "asteroid",
-    "former_names": [
-      "Entropy Labs"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4598dd293d773fa0a9a1c72940f2f2e3153dda35.png",
-    "website": "https://asteroid.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Asteroid builds and hosts AI browser agents for back-office tasks. With guardrails, evaluations, and human oversight, we deliver enterprise-grade reliability across millions of operations, even in regulated industries. Companies can build agents themselves or rely on us to deliver and maintain them.",
-    "one_liner": "AI Browser Workforce for Operations Teams",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1734639467,
-    "tags": [
-      "Artificial Intelligence",
-      "Robotic Process Automation",
-      "B2B",
-      "Automation",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/asteroid",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/asteroid.json"
   },
   {
     "id": 30265,
@@ -29515,7 +29519,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -29534,49 +29538,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/starsling",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/starsling.json"
-  },
-  {
-    "id": 30559,
-    "name": "Godela",
-    "slug": "godela",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe1589548b774d33ca4f20c5020467a9627f9c13.png",
-    "website": "http://godela.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "What if every experiment you wanted to run could be modeled using AI? \r\nGodela is an AI-powered physics engine that gives engineers faster, cheaper replacement to simulations and physical prototypes.\r\nNo set up, no wait. Just ask—and get simulation quality result.\r\n",
-    "one_liner": "AI Physics Engine to replace simulations and prototypes",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1747413596,
-    "tags": [
-      "Hard Tech",
-      "Hardware",
-      "Aerospace",
-      "AI",
-      "ML"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/godela",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/godela.json"
   },
   {
     "id": 30565,
@@ -29662,49 +29623,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/fifth-door",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/fifth-door.json"
-  },
-  {
-    "id": 30613,
-    "name": "Blank Bio",
-    "slug": "blank-bio",
-    "former_names": [
-      "Orthrus Bio"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be87bc4cb37ba90fa0907b54d6337ec3f0723a2f.png",
-    "website": "http://blank.bio/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Blank Bio builds foundation models that understand RNA, the language of life. Our model powers applications across the entire R&D pipeline, from designing better drugs to running smarter clinical trials. \r\n\r\nOur first model is state-of-the-art in mRNA property prediction. It simulates costly experiments, helping partners design more effective mRNA medicines faster and cheaper. Our open-source models are being used by Sanofi & GSK. We’re also collaborating with the Arc Institute to bring our RNA embeddings into the next generation of virtual cell models. \r\n\r\nmRNA design is just the beginning. As the model improves, we’re extending to applications like target ID, novel biomarker discovery, patient stratification, and more. We’ve spent decades applying machine learning to biology across academia (PhDs at the University of Toronto) and industry (Recursion, Deep Genomics, Amazon). \r\n\r\nContact us to learn more: founders@blank.bio ",
-    "one_liner": "RNA-based AI for better drugs and smarter clinical trials.",
-    "team_size": 3,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Therapeutics",
-    "launched_at": 1754432955,
-    "tags": [
-      "AI-powered Drug Discovery",
-      "Biotech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Therapeutics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/blank-bio",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/blank-bio.json"
   },
   {
     "id": 30614,
@@ -33589,20 +33507,21 @@
   },
   {
     "id": 31102,
-    "name": "fuchsia",
+    "name": "Fuchsia",
     "slug": "fuchsia",
     "former_names": [
       "Human Oracle",
       "noetic",
       "Fable",
-      "noetic"
+      "noetic",
+      "fuchsia"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/864a14cbf1a285a8411263cf32fd2240cbb9f2d9.png",
     "website": "https://getfuchsia.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Fuchsia handles hardware compliance end to end, making the process as fast and painless as software compliance has become.\r\n\r\nProduct safety requirements are fragmented across dozens of regional and industry-specific standards (FCC, FDA, FAA, CE, UL, ISO, RIA) and thousands of codes, leaving companies to spend months and tens of thousands in consultant fees just figuring out what applies. Our AI agents surface every relevant requirement in minutes, drafts the technical documentation, and matches teams with the right testing labs.",
-    "one_liner": "AI that gets hardware compliance done in weeks, not months.",
-    "team_size": 1,
+    "long_description": "Fuchsia handles hardware certification and testing so great products can get to markets faster. AI agents keep our work accurate, timely, and fully traceable for every stakeholder.",
+    "one_liner": "Hardware compliance done on your timeline",
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1773017725,
@@ -33610,7 +33529,8 @@
       "Hardware",
       "Robotics",
       "Compliance",
-      "AI"
+      "AI",
+      "Industrial"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -33644,8 +33564,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/532e556aaa674c581b4083dc6595ac75eeeb0b1a.png",
     "website": "https://cignara.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "AI voice & chat agents for sales and customer support at large B2C…",
+    "long_description": "Cignara provides agentic AI to automate sales sales and customer support conversations for large enterprises over voice & chat. \r\n\r\nCignara focuses on turning customer interactions into business growth opportunities, such as upsells, cross-sells, churn prevention, and increasing customer LTV. Unlike other players, Cignara uniquely builds an enterprise's \"AI brain\" by ingesting its knowledge base, business logic, process workflows and customer profile data. This enables us to take personalized and compliant actions that directly impact revenue outcomes. \r\n",
+    "one_liner": "AI agents for sales & customer support at large Fortune 500 companies",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -34106,50 +34026,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/librar-labs.json"
   },
   {
-    "id": 31323,
-    "name": "Hedge",
-    "slug": "hedge",
-    "former_names": [
-      "Taven"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8a1538d53d448eb6576948272922254e90a73ced.png",
-    "website": "https://www.hedgespecialty.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Hedge is an AI-Native specialty insurance company. We help insurance brokers find faster, cheaper, and better coverage for their customers. ",
-    "one_liner": "AI-Native specialty insurance company",
-    "team_size": 2,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Insurance",
-    "launched_at": 1777586182,
-    "tags": [
-      "Fintech",
-      "B2B",
-      "Insurance",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Insurance"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/hedge",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/hedge.json"
-  },
-  {
     "id": 31330,
     "name": "Standard Signal",
     "slug": "standard-signal",
@@ -34324,7 +34200,7 @@
     "website": "https://www.incandor.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Incandor detects fraud on banking and fintech platforms by learning how every user physically behaves — mouse dynamics, keystroke timing, scroll patterns, and on mobile, how they hold their phone. Founded by two Stanford engineers and backed by Y Combinator, Incandor builds a behavioral map of every user on your platform — no fraud labels or historical data required. At the individual level, it identifies account takeovers with >99% accuracy. At the population level, coordinated rings, mule operators, and coerced sessions separate out naturally. Rather than a black-box risk score, fraud teams query the map via a programmable API.",
-    "one_liner": "Behavioral intelligence infrastructure for fraud and trust & safety",
+    "one_liner": "Behavioral intelligence infrastructure for anti-fraud",
     "team_size": 0,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -34353,6 +34229,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/incandor",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/incandor.json"
+  },
+  {
+    "id": 31369,
+    "name": "InLoop Robotics",
+    "slug": "inloop-robotics",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/32f586c0db7df7371426565793ae565ba0423774.png",
+    "website": "https://inloop-robotics.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We are building AI-native fulfillment powered by robotics.\r\nWarehouses without human labor that get better, faster, and cheaper with every order.\r\n\r\nMost robotics companies wait until their system is perfect before deploying. We don't. We ship imperfect policies into real warehouses, detect failures in real time, recover automatically when we can, and bring in a remote human operator when we can't.\r\n\r\nEvery failure becomes training data. Every intervention makes the system better. The result is a fulfillment system that continuously learns from production.",
+    "one_liner": "Staff your warehouse with robotic employees today",
+    "team_size": 4,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1774801488,
+    "tags": [
+      "Hard Tech",
+      "Robotics",
+      "Logistics",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/inloop-robotics",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/inloop-robotics.json"
   },
   {
     "id": 31375,
@@ -34398,45 +34316,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hubxyz",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/hubxyz.json"
-  },
-  {
-    "id": 31376,
-    "name": "Light Anchor",
-    "slug": "light-anchor",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3e90f1f997478761cc013525bd81b5fc23984166.png",
-    "website": "https://lightanchor.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Light Anchor (YC P26) builds fully autonomous e-commerce brands that run at the speed of compute. \r\n\r\nConsumer brands have always been limited by the speed of humans: hiring, coordinating, and sleeping. AI agents that now run operations end-to-end break all those constraints, making a new kind of consumer business possible: one capped by compute, not headcount.\r\n\r\nToday, Light Anchor operates one flagship brand and multiple experiment stores, all run by AI agents on a shared platform that compounds with every new brand launched. The vision is thousands of consumer businesses, operating with little to no human intervention.",
-    "one_liner": "Autonomous e-commerce",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1777575492,
-    "tags": [
-      "E-commerce",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/light-anchor",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/light-anchor.json"
   },
   {
     "id": 31378,
@@ -34957,48 +34836,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/plan0-ai.json"
   },
   {
-    "id": 31463,
-    "name": "Armature",
-    "slug": "armature",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8cd44a063abb5739ba907e8a724718f7fd09c808.png",
-    "website": "https://armature.tech",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "As we shift from user experience to agent experience, the entire way we design, operate, and evaluate our products must be rethought. The first step is to understand how agents use products through MCPs and CLIs, the exact same way we used to understand how users interacted with UIs.\r\n\r\nArmature automates agent workflow testing.\r\nConnect your MCP, CLI and ChatGPT apps and let Armature discover the workflows agents actually run. Armature will then continuously test them across every harness (Claude Code, Codex, Openclaw, etc.) and frontier model and show you how you perform, how you compare to your competitors as well as alert you when something breaks.",
-    "one_liner": "Your next user is an agent. We help you optimize the AX.",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1778126369,
-    "tags": [
-      "Enterprise Software",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/armature",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/armature.json"
-  },
-  {
     "id": 31468,
     "name": "Chronicle Labs",
     "slug": "chronicle-labs",
@@ -35037,6 +34874,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/chronicle-labs",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/chronicle-labs.json"
+  },
+  {
+    "id": 31472,
+    "name": "Wato",
+    "slug": "wato",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8a0fda3e03dbdf2968a5299c0170999587d03c6a.png",
+    "website": "https://www.watolabs.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Wato gives AI agents shared memory, reusable workflows, connected tools, and living artifacts so work compounds across a team instead of disappearing into chat threads. Teams use Wato to give every agent access to trusted company context and turn useful runs into knowledge the next agent can build on.",
+    "one_liner": "Shared memory, tools, and workflows for agents across teams",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1779059409,
+    "tags": [
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/wato",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/wato.json"
   },
   {
     "id": 31475,
@@ -35078,47 +34955,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ardent",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/ardent.json"
-  },
-  {
-    "id": 31480,
-    "name": "Pops",
-    "slug": "pops",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ff1807225bc4aea4a50ef4d5315e963925c04afd.png",
-    "website": "https://pops.fyi",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Pops lets people play, remix, and share AI games with friends.\r\n\r\nDiscover an infinite feed of games, challenges, quizzes, and other fun interactive experiences made by others. Every play instantly becomes a funny gameplay/reaction video you can send to friends, post online, or use to challenge someone to beat your score.\r\n\r\nFor creators, Pops makes it easier than ever to bring ideas to life and get them played. Instead of learning complex game engines, writing code, or fighting for distribution, anyone can create or remix a playable game in seconds. Bring your ideas, and Pops brings the audience.",
-    "one_liner": "Create & play AI games with friends",
-    "team_size": 1,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Gaming",
-    "launched_at": 1778022680,
-    "tags": [
-      "Consumer",
-      "Gaming",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Gaming"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pops",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/pops.json"
   },
   {
     "id": 31481,
@@ -35500,48 +35336,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/runtime.json"
   },
   {
-    "id": 31524,
-    "name": "AgentPhone",
-    "slug": "agentphone",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3cd0619758d7e852f6674fba763a0d1167fa4a69.png",
-    "website": "https://www.agentphone.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "The $2T global telecom industry was built for humans. Agents can't act in the real world today because without a phone number, they have no identity. AgentPhone gives every AI agent its own phone number to reach people and businesses through messages and calls.",
-    "one_liner": "Phone Numbers for AI Agents",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1778010009,
-    "tags": [
-      "Developer Tools",
-      "API",
-      "Telecommunications",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/agentphone",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/agentphone.json"
-  },
-  {
     "id": 31525,
     "name": "Arden",
     "slug": "arden",
@@ -35890,7 +35684,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/efd3ccc04f842f9a3a1235ba1ef66aa4447fc993.png",
     "website": "https://www.guildai.co",
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York, NY, USA",
     "long_description": "",
     "one_liner": "Neoprime Reshaping Defense Supply Chain",
     "team_size": 2,
@@ -35916,9 +35710,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

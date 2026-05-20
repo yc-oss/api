@@ -19237,14 +19237,14 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We make personal AI robots - general-purpose physical machines that anyone can program with code, language and demonstrations.\r\n\r\nWe believe building open platforms like the first PCs this is the only way to bring the robotics future that we all want, where everyone can participate in the robotics revolution.",
     "one_liner": "Personal AI Robots",
-    "team_size": 5,
+    "team_size": 7,
     "industry": "Consumer",
     "subindustry": "Consumer -> Consumer Electronics",
     "launched_at": 1730365227,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Robotics",
-      "AI"
+      "Robotics"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21164,7 +21164,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -23428,6 +23428,92 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/arga-labs.json"
   },
   {
+    "id": 31496,
+    "name": "Hessian",
+    "slug": "hessian",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a157b955e7cce11f4ddc7486efceba324bb8cffd.png",
+    "website": "https://hessian.sh",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Hessian is the platform for automating business operations with AI agents. We forward deploy  to embed with your team, learn how the work actually gets done, and build the agents on our platform that run the work end-to-end. Unlike off-the-shelf tools that don't know your business, you get a partner that owns the software end-to-end and operates it every day.\r\n\r\nWe all met and studied computer science at Durham University and have known each other for ten years. James and Bao went on to work together as software engineers at Bloomberg, delivering billions of financial time series observations a day. James went on to DRW building data infrastructure and pipelines for commodities trading desks. Bao then co-founded Zettafleet to build a decentralized training platform for large language models on hundreds of GPUs. Tom built a 0-to-1 retail trading app for US investors at CMC markets, before joining GoCardless to scale processing capacity to over £1 billion in payment volumes within a day.\r\n\r\nSitting with our customers, we discovered that no one inside had the capacity or resources to build these systems that would help them scale with their operational challenges. So we built the platform that solves this and are now saving them hundreds of hours a month. We forward deploy on-site to map the work, and build the agents on our platform to do it. Over time, we are building the standard for how companies should deploy, operate and govern AI agents. Every deployment compounds, our cycles get faster, the platform and our playbook improves with each iteration, and every customer benefits.\r\n\r\nWhy now? Coding agents have matured to the point where, combined with the engineering judgment we've built across a decade of shipping production systems, we can scale forward-deployed engagements and take on more customers with minimal headcount. We are also building FDE agents and tooling that accelerate how quickly we automate workflows on our platform.\r\n\r\nTrillions of dollars a year are spent on knowledge work. Capturing even a single-digit percentage of that spend through automation is a market measured in the hundreds of billions.",
+    "one_liner": "We forward deploy with AI agents to automate business operations",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1779173686,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Machine Learning",
+      "Workflow Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hessian",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/hessian.json"
+  },
+  {
+    "id": 31500,
+    "name": "OpenProse",
+    "slug": "openprose",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dfca6a5f5aa7231f41eea9902807c4880158f20b.png",
+    "website": "https://prose.md",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Create agents with structured english and markdown. OpenProse agents are portable across model providers and harnesses. Our framework allows you to declare intents, responsibilities, and outcomes in natural language, while the agents self-configure to deliver results.\r\n\r\nRead more about how OpenProse came to be: https://x.com/irl_danB/status/2011122779890831601\r\n\r\nIf you want to learn more about OpenProse, book some time with the founder here: https://cal.com/irl-danb/openprose-intro",
+    "one_liner": "A natural language agent framework: write the future into existence.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1779199533,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Swarm AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/openprose",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/openprose.json"
+  },
+  {
     "id": 31516,
     "name": "Expanse",
     "slug": "expanse",
@@ -23515,7 +23601,7 @@
     "slug": "agentphone",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3cd0619758d7e852f6674fba763a0d1167fa4a69.png",
-    "website": "https://www.agentphone.ai/",
+    "website": "https://agentphone.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "The $2T global telecom industry was built for humans. Agents can't act in the real world today because without a phone number, they have no identity. AgentPhone gives every AI agent its own phone number to reach people and businesses through messages and calls.",
     "one_liner": "Phone Numbers for AI Agents",
@@ -23524,10 +23610,10 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1778010009,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "API",
-      "Telecommunications",
-      "AI"
+      "Telecommunications"
     ],
     "tags_highlighted": [],
     "top_company": false,
