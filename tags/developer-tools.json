@@ -3751,49 +3751,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2019/lunasec.json"
   },
   {
-    "id": 12618,
-    "name": "Embrace",
-    "slug": "embrace",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c5df7e755694ec01e6b16cfc307e0ddf5712e43.png",
-    "website": "https://embrace.io",
-    "all_locations": "Los Angeles, CA, USA; Remote",
-    "long_description": "*S19 and YCG F21*\r\nEngineering teams shouldn’t be in the dark when it comes to the performance of their mobile apps and user experiences. With our industry-leading mobile observability technology, Embrace aims to give SRE and DevOps teams better insight into what matters most – their users – by tying mobile performance data to backend observability insights.\r\n\r\nAs the only user-focused, mobile-first observability solution built on OpenTelemetry, Embrace delivers crucial insights across both DevOps and mobile teams to illuminate real customer impact – not just server impact – to deliver the best app experiences. Customers like The New York Times, Marriott, Warby Parker, Masterclass, Home Depot, and Cameo love Embrace’s mobile observability platform because it makes extremely complicated and voluminous data actionable.",
-    "one_liner": "Modern mobile observability built on OpenTelemetry",
-    "team_size": 52,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1556659657,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "Open Source"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2019",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": true,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/embrace",
-    "api": "https://yc-oss.github.io/api/batches/summer-2019/embrace.json"
-  },
-  {
     "id": 12628,
     "name": "FeaturePeek",
     "slug": "featurepeek",
@@ -17040,7 +16997,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -17647,21 +17604,21 @@
       "Embedchain Inc",
       "Embedchain"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/56ef3ec5ae83019ddb5d6898272fd3b9d1089c62.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7d1e9679b389145f8635f2a0ae631bb24eba7cf8.png",
     "website": "https://mem0.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Mem0 provides a memory layer for LLM applications, enabling them to remember and learn from user interactions over time.\r\n",
-    "one_liner": "The Memory layer for your AI apps",
-    "team_size": 4,
+    "long_description": "Mem0 enhances AI assistants and agents with an intelligent memory layer, enabling personalized AI interactions. It remembers user preferences, adapts to individual needs, and continuously learns over time - ideal for customer support chatbots, AI assistants, and autonomous systems.",
+    "one_liner": "The Memory layer for AI Agents",
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1716511817,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "Open Source",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -17675,7 +17632,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Growth",
     "app_video_public": false,
@@ -19040,6 +18999,51 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/revyl.json"
   },
   {
+    "id": 30043,
+    "name": "Vespper",
+    "slug": "vespper",
+    "former_names": [
+      "Merlinn"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8071a4dd821b17c48fe53b21be58c8dd37534c31.png",
+    "website": "https://vespper.com/?utm_source=ycombinator.com",
+    "all_locations": "Remote",
+    "long_description": "The AI-native document editor for long-form content. Create, edit and review with full end-to-end traceability and full searchability of your source documents.\r\nPerfect for regulatory, compliance and legal professionals.",
+    "one_liner": "The first AI-native document editor for long-form content",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1729555399,
+    "tags": [
+      "Documents",
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "API"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/vespper",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/vespper.json"
+  },
+  {
     "id": 30045,
     "name": "Archil",
     "slug": "archil",
@@ -19047,7 +19051,7 @@
       "Neptune Storage",
       "Regatta Storage"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cb1bd9703c3d809fb7bdbffd00ba201b34509caa.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0695554aaa43f831a6d970c73486aad8f7a9101f.png",
     "website": "https://archil.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Archil transforms S3 buckets into a 30x faster, unlimited, local disk. Archil enables AI, analytics, and serverless applications to instantly access massive data sets without waiting for data transfer. Researchers use Archil for shareable, local storage of data set and model versions that never runs out of capacity.",
@@ -21584,8 +21588,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9292b62c58dc81055b437ce647dc7c3ea10ffc5c.png",
     "website": "https://magnitude.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Magnitude is an open source coding agent that follows intent more reliably, stays effective on longer tasks, and produces higher-quality code. Install: npm i -g @magnitudedev/cli",
-    "one_liner": "Open source coding agent",
+    "long_description": "Magnitude is built from the ground up around open models. It matches the performance of Claude Code at 5x lower token prices. Install: npm i -g @magnitudedev/cli",
+    "one_liner": "The best coding agent for open models",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -22259,48 +22263,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/daridev",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/daridev.json"
-  },
-  {
-    "id": 30874,
-    "name": "Minro",
-    "slug": "minro",
-    "former_names": [
-      "Iris"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f77542ef92b9a995fd50ddb381187d909ec7f5fd.png",
-    "website": "https://minro.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Minro is a shared workspace for engineering teams using AI coding tools.\r\n\r\nYour teams are running a ton of Claude, Codex, and Cursor sessions every day, and the context from those sessions goes nowhere. Decisions get lost between sessions. Plans live in one person's head. Docs are stale within a week. Engineers keep rebuilding things someone already figured out.\r\nMinro captures what happens in every coding session - decisions, architecture choices, what was tried, what broke, what shipped and writes it back to one place your team and your agents both use. Features get broken into task graphs so work can be split across humans and agents. Docs stay in sync with the code.\r\nA new engineer joins and the workspace already knows the system. A session ends and the next one picks up where it left off. A feature spans three sprints and four people, and the plan is right there - linked to every ticket, doc, and decision.",
-    "one_liner": "The interface for shipping with agents.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1762405247,
-    "tags": [
-      "Developer Tools",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/minro",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/minro.json"
   },
   {
     "id": 30916,
@@ -23435,17 +23397,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a157b955e7cce11f4ddc7486efceba324bb8cffd.png",
     "website": "https://hessian.sh",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Hessian is the platform for automating business operations with AI agents. We forward deploy  to embed with your team, learn how the work actually gets done, and build the agents on our platform that run the work end-to-end. Unlike off-the-shelf tools that don't know your business, you get a partner that owns the software end-to-end and operates it every day.\r\n\r\nWe all met and studied computer science at Durham University and have known each other for ten years. James and Bao went on to work together as software engineers at Bloomberg, delivering billions of financial time series observations a day. James went on to DRW building data infrastructure and pipelines for commodities trading desks. Bao then co-founded Zettafleet to build a decentralized training platform for large language models on hundreds of GPUs. Tom built a 0-to-1 retail trading app for US investors at CMC markets, before joining GoCardless to scale processing capacity to over £1 billion in payment volumes within a day.\r\n\r\nSitting with our customers, we discovered that no one inside had the capacity or resources to build these systems that would help them scale with their operational challenges. So we built the platform that solves this and are now saving them hundreds of hours a month. We forward deploy on-site to map the work, and build the agents on our platform to do it. Over time, we are building the standard for how companies should deploy, operate and govern AI agents. Every deployment compounds, our cycles get faster, the platform and our playbook improves with each iteration, and every customer benefits.\r\n\r\nWhy now? Coding agents have matured to the point where, combined with the engineering judgment we've built across a decade of shipping production systems, we can scale forward-deployed engagements and take on more customers with minimal headcount. We are also building FDE agents and tooling that accelerate how quickly we automate workflows on our platform.\r\n\r\nTrillions of dollars a year are spent on knowledge work. Capturing even a single-digit percentage of that spend through automation is a market measured in the hundreds of billions.",
+    "long_description": "Hessian is the platform for automating business operations with AI agents. We forward deploy on-site to map the work, and build the agents on our platform to run it end-to-end. Unlike off-the-shelf tools that don't know your business, you get a partner that owns the software and operates it every day. Why now? Coding agents have matured to the point where, combined with our engineering judgment we've built across a decade of shipping production systems, we can scale forward-deployed engagements with minimal headcount. Furthermore, our FDE agents and tooling will accelerate how quickly we automate workflows on our platform. We're already saving our customers hundreds of hours a month. Trillions of dollars a year are spent on knowledge work, and we're building the standard for how every company deploys, operates, and governs the AI agents that do it.",
     "one_liner": "We forward deploy with AI agents to automate business operations",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1779173686,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Machine Learning",
-      "Workflow Automation"
+      "Workflow Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

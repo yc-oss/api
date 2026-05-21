@@ -2187,7 +2187,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -2392,21 +2392,21 @@
       "Embedchain Inc",
       "Embedchain"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/56ef3ec5ae83019ddb5d6898272fd3b9d1089c62.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7d1e9679b389145f8635f2a0ae631bb24eba7cf8.png",
     "website": "https://mem0.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Mem0 provides a memory layer for LLM applications, enabling them to remember and learn from user interactions over time.\r\n",
-    "one_liner": "The Memory layer for your AI apps",
-    "team_size": 4,
+    "long_description": "Mem0 enhances AI assistants and agents with an intelligent memory layer, enabling personalized AI interactions. It remembers user preferences, adapts to individual needs, and continuously learns over time - ideal for customer support chatbots, AI assistants, and autonomous systems.",
+    "one_liner": "The Memory layer for AI Agents",
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1716511817,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "Open Source",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2420,7 +2420,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Growth",
     "app_video_public": false,
@@ -2832,7 +2834,7 @@
       "Neptune Storage",
       "Regatta Storage"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cb1bd9703c3d809fb7bdbffd00ba201b34509caa.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0695554aaa43f831a6d970c73486aad8f7a9101f.png",
     "website": "https://archil.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Archil transforms S3 buckets into a 30x faster, unlimited, local disk. Archil enables AI, analytics, and serverless applications to instantly access massive data sets without waiting for data transfer. Researchers use Archil for shareable, local storage of data set and model versions that never runs out of capacity.",
@@ -3719,8 +3721,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png",
     "website": "https://usebidflow.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "We use AI to help electrical contractors submit more competitive bids to construction projects. We do this by speeding up the estimating part of bidding, which is the most tedious part of the job. Specifically, we're building models that can understand floor plans and count electrical devices to generate the estimate. Bidflow is the future of electrical pre-construction.",
-    "one_liner": "AI Electrical Estimator",
+    "long_description": "We use AI to help electricians speed up the time it takes to submit a competitive bid to a job. We do this by scanning complex CAD drawings and 10X-ing the time it takes to estimate a job. This involves using vision models to read and count complex symbols in large PDFs, which typically take hours (sometimes days) to do precisely. Every missed symbol can cost thousands, and our AI can count to 99% accuracy.",
+    "one_liner": "AI Takeoffs for Electrical",
     "team_size": 2,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction -> Construction",
@@ -3894,8 +3896,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9292b62c58dc81055b437ce647dc7c3ea10ffc5c.png",
     "website": "https://magnitude.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Magnitude is an open source coding agent that follows intent more reliably, stays effective on longer tasks, and produces higher-quality code. Install: npm i -g @magnitudedev/cli",
-    "one_liner": "Open source coding agent",
+    "long_description": "Magnitude is built from the ground up around open models. It matches the performance of Claude Code at 5x lower token prices. Install: npm i -g @magnitudedev/cli",
+    "one_liner": "The best coding agent for open models",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -4578,50 +4580,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/archal",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/archal.json"
-  },
-  {
-    "id": 31283,
-    "name": "Librar Labs",
-    "slug": "librar-labs",
-    "former_names": [
-      "Librar"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cc71fc515d431ac2186349ba194efc3183ef3d19.png",
-    "website": "https://www.librarlabs.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Backed by top engineers from OpenAI, Scale AI, and Palantir to build AI that understands human culture.\r\n\r\nOur first commercial product is for the literature industry with a focus on school libraries. It the AI-native OS for libraries, that speed up all of the manual and boring work for librarians.\r\n\r\nFastest growing library tech company in history.\r\n",
-    "one_liner": "AI that understands human culture",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1769303203,
-    "tags": [
-      "Machine Learning",
-      "Big Data",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/librar-labs",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/librar-labs.json"
   },
   {
     "id": 31300,

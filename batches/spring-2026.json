@@ -794,7 +794,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2026",
     "status": "Active",
@@ -1941,19 +1941,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5849b2060564f1836d25c1fa4a3cd18ef1bf9553.png",
     "website": "https://www.tenetindustries.com",
-    "all_locations": "Stockholm, Stockholm County, Sweden",
+    "all_locations": "",
     "long_description": "Tenet Industries is building low-cost, mass-manufacturable strike drones. \r\n\r\nWe have developed our own HW and SW platform optimized for automated manufacturing, enabling hyperscaling of production across multiple strike categories (FPV, fixed-wing, shahed-type, missiles).\r\n\r\nWe're using design-for-automation and first principles to reimagine how a defense product is developed and manufactured. Thereby lowering the cost and filling the arsenals of the west.\r\n\r\nOur first product is a kamikaze quadcopter.",
     "one_liner": "Drones as ammunition. ",
     "team_size": 4,
     "industry": "Industrials",
     "subindustry": "Industrials -> Defense",
     "launched_at": 1775173231,
-    "tags": [
-      "Hardware",
-      "Drones",
-      "Manufacturing",
-      "Industrial"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -1965,8 +1960,7 @@
       "Defense"
     ],
     "regions": [
-      "Sweden",
-      "Europe"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2543,11 +2537,11 @@
     "subindustry": "B2B",
     "launched_at": 1771907564,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Enterprise",
       "Automation",
-      "Operations"
+      "Operations",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3384,8 +3378,11 @@
     "subindustry": "B2B",
     "launched_at": 1775188246,
     "tags": [
-      "Artificial Intelligence",
-      "B2B"
+      "SaaS",
+      "B2B",
+      "Enterprise",
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3580,6 +3577,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/oddpool",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/oddpool.json"
+  },
+  {
+    "id": 31430,
+    "name": "Voquill",
+    "slug": "voquill",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5abd49db087306e856126eb6c4acf3af787f1749.png",
+    "website": "https://voquill.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Voquill is the AI coworker that helps pathologists write their case reports faster. It listens as they work the case, learns their reporting style, maximizes reimbursement codes, and produces a sign-out ready report in real-time.\r\n\r\nPathologists bill $30–40B each year, but spend a third of their time on reporting, and lose another third of their contracted revenue to documentation gaps and billing errors. It's a massive drag on a field that's already short-staffed. We're building an agentic platform to manage every aspect of the lab and displace the billions spent on legacy management systems.",
+    "one_liner": "The AI coworker that helps pathologists work cases faster",
+    "team_size": 3,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1779284137,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Health Tech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/voquill",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/voquill.json"
   },
   {
     "id": 31432,
@@ -3792,6 +3829,46 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/textsidekick.json"
   },
   {
+    "id": 31438,
+    "name": "Result",
+    "slug": "result",
+    "former_names": [
+      "SimpleClaw"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/491f3ceee613aa7162b09bfa1617070e1872cb2b.png",
+    "website": "https://www.result.dev/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Result is where the next generation of founders start and run their companies. In one place, you incorporate, open accounts, take payments, launch a product, and run the operational work of the business — marketing campaigns, customer support, content production, and growth experiments — with agents inside Result helping the founder do the work.",
+    "one_liner": "Where new internet entrepreneurs build and run their companies",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1779248549,
+    "tags": [
+      "Consumer"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/result",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/result.json"
+  },
+  {
     "id": 31439,
     "name": "Alchemy",
     "slug": "alchemyai",
@@ -3960,7 +4037,7 @@
     "name": "Alchemize",
     "slug": "alchemize",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/daf3c746491c78db577d89f0c5f0d9d79ca3aafd.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f82ae07ea418af65738a5555df328a4907b4da13.png",
     "website": "https://tryalchemize.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Alchemize is an AI-native customs brokerage. Importers are currently hindered by legacy brokers relying on manual workflows, where hand-keyed entries and slow research result in preventable shipping delays, lack of visibility, and unnecessary costs. Alchemize automates these workflows, delivering expert-level compliance at software speed.",
@@ -4119,6 +4196,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/smol-machines",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/smol-machines.json"
+  },
+  {
+    "id": 31450,
+    "name": "River Markets",
+    "slug": "river-markets",
+    "former_names": [
+      "Centos Group"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d52c6b2c2316334447d190e02bf6f2665c34ccb.png",
+    "website": "https://www.rivermarkets.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "River Markets is the prime brokerage for prediction markets. We aggregate every major event-contract venue into one account, giving professional traders best execution, portfolio and order management systems, and a unified API.",
+    "one_liner": "Prime brokerage for prediction markets",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1779315257,
+    "tags": [
+      "Trading"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/river-markets",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/river-markets.json"
   },
   {
     "id": 31451,
@@ -4916,7 +5033,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a7b4f70c5d14e24fb5773ec42e56d354595bd134.png",
     "website": "https://www.abinitio-bio.com",
-    "all_locations": "Boston, MA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "",
     "one_liner": "The Intelligence layer for Drug Manufacturing",
     "team_size": 1,
@@ -5210,17 +5327,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a157b955e7cce11f4ddc7486efceba324bb8cffd.png",
     "website": "https://hessian.sh",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Hessian is the platform for automating business operations with AI agents. We forward deploy  to embed with your team, learn how the work actually gets done, and build the agents on our platform that run the work end-to-end. Unlike off-the-shelf tools that don't know your business, you get a partner that owns the software end-to-end and operates it every day.\r\n\r\nWe all met and studied computer science at Durham University and have known each other for ten years. James and Bao went on to work together as software engineers at Bloomberg, delivering billions of financial time series observations a day. James went on to DRW building data infrastructure and pipelines for commodities trading desks. Bao then co-founded Zettafleet to build a decentralized training platform for large language models on hundreds of GPUs. Tom built a 0-to-1 retail trading app for US investors at CMC markets, before joining GoCardless to scale processing capacity to over £1 billion in payment volumes within a day.\r\n\r\nSitting with our customers, we discovered that no one inside had the capacity or resources to build these systems that would help them scale with their operational challenges. So we built the platform that solves this and are now saving them hundreds of hours a month. We forward deploy on-site to map the work, and build the agents on our platform to do it. Over time, we are building the standard for how companies should deploy, operate and govern AI agents. Every deployment compounds, our cycles get faster, the platform and our playbook improves with each iteration, and every customer benefits.\r\n\r\nWhy now? Coding agents have matured to the point where, combined with the engineering judgment we've built across a decade of shipping production systems, we can scale forward-deployed engagements and take on more customers with minimal headcount. We are also building FDE agents and tooling that accelerate how quickly we automate workflows on our platform.\r\n\r\nTrillions of dollars a year are spent on knowledge work. Capturing even a single-digit percentage of that spend through automation is a market measured in the hundreds of billions.",
+    "long_description": "Hessian is the platform for automating business operations with AI agents. We forward deploy on-site to map the work, and build the agents on our platform to run it end-to-end. Unlike off-the-shelf tools that don't know your business, you get a partner that owns the software and operates it every day. Why now? Coding agents have matured to the point where, combined with our engineering judgment we've built across a decade of shipping production systems, we can scale forward-deployed engagements with minimal headcount. Furthermore, our FDE agents and tooling will accelerate how quickly we automate workflows on our platform. We're already saving our customers hundreds of hours a month. Trillions of dollars a year are spent on knowledge work, and we're building the standard for how every company deploys, operates, and governs the AI agents that do it.",
     "one_liner": "We forward deploy with AI agents to automate business operations",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1779173686,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Machine Learning",
-      "Workflow Automation"
+      "Workflow Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6224,7 +6341,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/de06e5d81f17778befa407072af627f2fb2c544d.png",
     "website": "https://arlo1.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Arlo Industries builds Mentat: a decentralised, passive aerial sensing network that precisely tracks stealthy drones and swarms. This capability does not exist yet because traditional radars are built on past war doctrines designed to protect single, centralised assets. Modern warfare, however, demands wide-area, persistent coverage that is both passive and economically scalable. By utilising a mesh architecture, Arlo Industries unlocks unprecedented asymmetric economics. The network is fundamentally built to scale: the cost of adding sensors grows linearly, but the tracking accuracy increases exponentially, delivering highly resilient, persistent coverage for a fraction of the cost of legacy systems.\r\n\r\nDeo founded Arlo Industries after spending over 6 years in the Israeli defence ecosystem, where he lived through multiple conflicts and experienced the Iron Dome and other systems in action against ICBMs and the infamous Shahed drones. Learning exactly how these defence systems could be improved after a Shahed exploded close to his apartment, he built Arlo Industries around the core philosophy that conflict should be concise & precise. Arlo Industries has actively showcased this technology directly to Ukrainian militaries on the frontlines, as well as to operators across Europe and the USA.",
+    "long_description": "Arlo Industries builds Mentat: a decentralised, passive aerial sensing network that precisely tracks stealthy drones and swarms. This capability does not exist yet because traditional radars are built on past war doctrines designed to protect single, centralised assets. Modern warfare, however, demands wide-area, persistent coverage that is both passive and economically scalable. By utilising a mesh architecture, Arlo Industries unlocks unprecedented asymmetric economics. The network is fundamentally built to scale: the cost of adding sensors grows linearly, but the tracking accuracy increases exponentially, delivering highly resilient, persistent coverage for a fraction of the cost of legacy systems.\r\n\r\nDeo founded Arlo Industries after spending over 6 years in the Israeli defence ecosystem, where he lived through multiple conflicts and experienced the Iron Dome and other systems in action against ICBMs and the infamous Shahed drones. Learning exactly how these defence systems could be improved after a Shahed exploded close to his apartment, he built Arlo Industries around the core philosophy that conflict should be concise & precise.\r\n\r\nThe people behind Arlo1 includes a PhD in drones and autonomy and military experts.\r\n\r\nArlo Industries has actively showcased this technology directly to Ukrainian militaries on the frontlines, as well as to operators across Europe and the USA.",
     "one_liner": "Passive aerial sensing mesh to track drones and missiles",
     "team_size": 3,
     "industry": "Industrials",
@@ -6656,9 +6773,9 @@
     "subindustry": "Consumer -> Gaming",
     "launched_at": 1773783180,
     "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Gaming"
+      "Consumer",
+      "Gaming",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6672,9 +6789,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

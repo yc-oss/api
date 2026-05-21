@@ -16378,7 +16378,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -32640,7 +32640,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -35271,7 +35271,7 @@
     "website": "https://nessielabs.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Knowledge work is being restructured by AI. Strategy happens in Claude. Research happens in ChatGPT. Building happens in Claude Code. The people defining the next decade of work are already thinking with AI every day. But none of that thinking compounds. Every session starts from zero. The reasoning behind decisions, the context behind strategies, the evolution of ideas across hundreds of conversations - all of it evaporates.\r\n\r\nNessie is the infrastructure that makes it permanent. We auto-sync AI conversations across every major provider - ChatGPT, Claude, Gemini, Perplexity, Claude Code, OpenClaw, Codex, and more - and structure them into queryable, trustworthy context available to both humans and agents. No browser extension. No manual capture. Your thinking flows in automatically and compounds over time.\r\n\r\nToday, Nessie is the memory layer that makes every AI interaction smarter - grounded in your actual reasoning, not the median. Your agents start with your accumulated thinking instead of a blank slate. Your decisions have provenance, traceable back to the conversation where the thinking happened.\r\n\r\nWhere we are going: the AI-native organization of the near future is a small team running thousands of agents. Those agents are powerful but amnesiac - they make decisions, form hypotheses, discover patterns, and forget everything between sessions. The organization's collective intelligence exists nowhere. There is no layer that integrates what the organization knows, what it has decided, and how its thinking has evolved. Nessie is that layer. Not another workspace. Not another wiki. The connective tissue that makes AI-native organizations possible.\r\n\r\nScience has journals. Law has case law. Software has git. AI-native knowledge work has nothing. We are building the infrastructure for cumulative thinking in the AI era.\r\n\r\nWe are two Yale CS grads and former Amazon engineers. Backed by BoxGroup, Pioneer Fund, Y Combinator, Precursor, and more.\r\n\r\nhttps://nessielabs.com",
-    "one_liner": "The system of record for how knowledge work gets done",
+    "one_liner": "A shared context layer for you, your team, and your agents.",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -36255,6 +36255,46 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/napkin-math.json"
   },
   {
+    "id": 31438,
+    "name": "Result",
+    "slug": "result",
+    "former_names": [
+      "SimpleClaw"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/491f3ceee613aa7162b09bfa1617070e1872cb2b.png",
+    "website": "https://www.result.dev/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Result is where the next generation of founders start and run their companies. In one place, you incorporate, open accounts, take payments, launch a product, and run the operational work of the business — marketing campaigns, customer support, content production, and growth experiments — with agents inside Result helping the founder do the work.",
+    "one_liner": "Where new internet entrepreneurs build and run their companies",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1779248549,
+    "tags": [
+      "Consumer"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/result",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/result.json"
+  },
+  {
     "id": 31458,
     "name": "Ara",
     "slug": "ara",
@@ -36437,9 +36477,9 @@
     "subindustry": "Consumer -> Gaming",
     "launched_at": 1773783180,
     "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Gaming"
+      "Consumer",
+      "Gaming",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -36453,9 +36493,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
