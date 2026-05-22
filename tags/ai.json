@@ -3785,7 +3785,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2020",
     "status": "Active",
@@ -3849,7 +3849,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -11755,7 +11755,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -22782,52 +22782,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/fazeshift.json"
   },
   {
-    "id": 29716,
-    "name": "CreativeMode",
-    "slug": "creativemode",
-    "former_names": [
-      "Condor Labs",
-      "Argon",
-      "Parity"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2bdf22dccaa26c230a94ceee5b1728f0d487b3cd.png",
-    "website": "https://creativemode.net",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lovable for Minecraft Mods. Empowering the 200+ million Minecraft players to become creators.",
-    "one_liner": "Lovable for Minecraft mods",
-    "team_size": 5,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Gaming",
-    "launched_at": 1723073466,
-    "tags": [
-      "Consumer",
-      "Entertainment",
-      "Gaming",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Gaming"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/creativemode",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/creativemode.json"
-  },
-  {
     "id": 29719,
     "name": "Manaflow",
     "slug": "manaflow",
@@ -30603,6 +30557,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/trace-so.json"
   },
   {
+    "id": 30691,
+    "name": "Embedder",
+    "slug": "embedder",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be01ab7ec03dfffcf2a6f87ab306a19bf22fe64b.png",
+    "website": "https://www.embedder.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Embedder is building an AI coding agent that can write, test, and debug firmware on real hardware.",
+    "one_liner": "AI Agents for Firmware",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1752258104,
+    "tags": [
+      "Developer Tools",
+      "Hardware",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/embedder",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/embedder.json"
+  },
+  {
     "id": 30696,
     "name": "GhostEye",
     "slug": "ghosteye",
@@ -32864,46 +32860,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/imagine-ai.json"
   },
   {
-    "id": 30943,
-    "name": "Aside",
-    "slug": "aside",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e9196c93cd4fc802b51eabcb6432760d1efd3fb.png",
-    "website": "https://asidehq.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Aside is an AI browser that acts on your behalf. Give it your passwords, browsing history, and browser context. It gets real work done end to end in the apps you already use, with no integrations required.\r\n\r\n- 🌐 Browser-native automation: Works directly in Gmail, Notion, Slack, Figma, banking apps, and internal tools, without any integrations.\r\n- 🔑 Passwords into tools: Lets AI use logins, sessions, passkeys, and credentials to take action.\r\n- 📚 Browsing history into memory: Gives AI persistent context across sessions.\r\n- 🧡 Push notifications into a heartbeat: Lets agents react to events and resume work in real time.",
-    "one_liner": "Operating system for the AI era",
-    "team_size": 3,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1760485553,
-    "tags": [
-      "SaaS",
-      "Automation",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/aside",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/aside.json"
-  },
-  {
     "id": 30944,
     "name": "Prism",
     "slug": "tryprism",
@@ -32947,6 +32903,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tryprism",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/tryprism.json"
+  },
+  {
+    "id": 30946,
+    "name": "Sourcebot",
+    "slug": "sourcebot",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8dc3d95366a9f12c7989780cf364009423a55b54.png",
+    "website": "https://www.sourcebot.dev/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sourcebot is an open source code understanding platform for massive codebases. We’re used by thousands of engineers in some of the largest companies in the world, including NVIDIA, Red Hat, Wikimedia, and Arista Networks.\r\n\r\nUnderstanding code, not writing it, is the primary bottleneck for large engineering teams. For developers, this means onboarding onto complex codebases faster. For AI agents, it means getting the necessary code context to minimize hallucinations and maximize cohesion within the wider codebase.\r\n\r\nSourcebot solves this by giving developers and AI agents the ability to regex search across millions of lines of code instantly, as well as ask questions across thousands of repos using any flagship reasoning model. Being open source and on-prem, we can get deployed in enterprises within minutes before other tools even get approval.\r\n\r\nWe met a decade ago at McGill University and have been building together full time for over 2 years. We’ve personally felt the pain of understanding large codebases while working at Microsoft, EA, Ubisoft, Google, and Meta.",
+    "one_liner": "Helping humans and AI agents understand massive codebases",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1759606313,
+    "tags": [
+      "Developer Tools",
+      "DevSecOps",
+      "B2B",
+      "Open Source",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sourcebot",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/sourcebot.json"
   },
   {
     "id": 30950,
@@ -33124,6 +33123,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/denki",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/denki.json"
+  },
+  {
+    "id": 30963,
+    "name": "TakeCareOS",
+    "slug": "takecareos",
+    "former_names": [
+      "Something Labs",
+      "Waffer"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ae7dea18b41ec38482c8a5138befb84756ece8b.png",
+    "website": "https://takecareos.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "TakeCareOS is building the infrastructure for the AI-native home care and outpatient therapy providers. Today’s care providers are held back by massive administrative overhead, buried under fragmented tools and manual workflows. TakeCareOS consolidates the entire care lifecycle—scheduling, billing, documentation, compliance, customer support etc.—into a single, intelligent system driven by AI agents. We are eliminating the operational friction of care coordination to establish a new standard of high-efficiency, highly scalable care practices.",
+    "one_liner": "Building infrastructure for AI-native care providers",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1760645046,
+    "tags": [
+      "SaaS",
+      "Health Tech",
+      "B2B",
+      "Healthcare",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/takecareos",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/takecareos.json"
   },
   {
     "id": 30969,
@@ -33342,6 +33386,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lunabill",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/lunabill.json"
+  },
+  {
+    "id": 30999,
+    "name": "Antigen",
+    "slug": "antigen",
+    "former_names": [
+      "Claybird",
+      "zag.dev",
+      "Zag"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e0ea6449871f1f94eb669a7d9e2d8bee4d35474.png",
+    "website": "https://antigen.sh/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Antigen is an AI adversary for the enterprise. It maps, exploits, and secures your attack surface through nightly automated offensive testing and monthly human red team assessments. Every finding is delivered with traces, reproduction steps, and remediation directly in GitHub, Linear, or the Antigen Platform.\r\n\r\nWe work with companies in financial services, healthcare, retail, and government where security is trust.\r\n\r\nWe're backed by Lightspeed, DST Global, and Susa Ventures.",
+    "one_liner": "Continuous offensive security for the enterprise.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1759979466,
+    "tags": [
+      "Cybersecurity",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/antigen",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/antigen.json"
   },
   {
     "id": 31001,
@@ -33687,51 +33775,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/imperfect",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/imperfect.json"
-  },
-  {
-    "id": 31080,
-    "name": "Didit",
-    "slug": "didit",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/202e6cd94d0ec2c8de835c56ce6b880f99f033d5.png",
-    "website": "https://didit.me/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "One API for KYC, KYB, AML, biometrics, and fraud — powered by 1,000+ data sources, 200+ signals, and in-house AI models. Global coverage. Integrate in minutes, pay as you go, 500 free checks/month. Start free at business.didit.me.",
-    "one_liner": "Infrastructure for identity and fraud.",
-    "team_size": 12,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1764601102,
-    "tags": [
-      "Biometrics",
-      "Identity",
-      "Fraud Prevention",
-      "Fraud Detection",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/didit",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/didit.json"
   },
   {
     "id": 31098,
@@ -34374,6 +34417,49 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/scope.json"
   },
   {
+    "id": 31360,
+    "name": "Lightsprint",
+    "slug": "lightsprint",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3feaf8d76278baf8b9fbde6cc73fdda3ea2a5b18.png",
+    "website": "https://lightsprint.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Lightsprint is a collaborative platform for software teams to plan visually, preview live and ship with an army of cloud agents. Your whole team, including non-engineers, can now ship end to end reliably.\r\n\r\nThe company is founded by Ben Ong, an AI investor who previously scaled AI products at SEA Group (NYSE: SE) and Temasek ($300B fund), Benedict Chan who was VP Engineering at Chainlink and CTO at BitGo (NYSE:BTGO), and Heng Hong Lee who built Facebook Messenger in 2013 and was Director of Engineering at Fazz (YC S17).",
+    "one_liner": "Collaborative product development platform",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1776537521,
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "B2B",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/lightsprint",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/lightsprint.json"
+  },
+  {
     "id": 31362,
     "name": "matforge",
     "slug": "matforge",
@@ -34853,6 +34939,48 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/taiga.json"
   },
   {
+    "id": 31419,
+    "name": "StableBrowse",
+    "slug": "stablebrowse",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed9bc479aa95e772450f53b3ce34a581c2a1e4b7.png",
+    "website": "https://stablebrowse.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We are making the browser infrastructure for your AI agents. Agents don’t need to see UIs like us humans do. We give agents a semantic understanding of the web instead of brittle visual interfaces. Your agents can perform deep research, large-scale scraping, and complex automation—more efficiently with our knowledge graphs that turns the web into a native protocol for LLMs.",
+    "one_liner": "Browser for AI agents",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1774843315,
+    "tags": [
+      "API",
+      "Automation",
+      "Web Development",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/stablebrowse",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/stablebrowse.json"
+  },
+  {
     "id": 31420,
     "name": "Kimpton AI",
     "slug": "kimpton-ai",
@@ -35063,46 +35191,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/archer",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/archer.json"
-  },
-  {
-    "id": 31458,
-    "name": "Ara",
-    "slug": "ara",
-    "former_names": [
-      "EasyClaw"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/43521ae4f2f9575593c80ebf4f8bf7ce020d70da.png",
-    "website": "https://ara.so",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Imagine Wispr Flow got hands. Ara is a voice-first AI agent that lives in the notch of your Mac and actually drives your computer for you. We reverse-engineered Codex-level computer use and reinvented the interface around it for the future.\r\n\r\nSpeak a command and Ara moves the cursor, clicks through apps, fills out forms, and navigates the browser in the background, without taking over your screen.",
-    "one_liner": "Voice-first computer use for Mac. Lives in your notch.",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1775160352,
-    "tags": [
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ara",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/ara.json"
   },
   {
     "id": 31460,

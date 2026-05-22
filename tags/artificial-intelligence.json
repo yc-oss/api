@@ -5890,7 +5890,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -14028,7 +14028,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -25737,7 +25737,7 @@
     "slug": "codes-health",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae2e103cef868d10d11f8eda1c9371448e8a4640.png",
-    "website": "https://www.getcodeshealth.com/",
+    "website": "https://www.codeshealth.com/",
     "all_locations": "New York, NY, USA",
     "long_description": "Codes automates medical record retrieval. Today, documents are scattered across EHRs, providers, and faxes; we use AI to compile & analyze docs for law firms, providers, and more. ",
     "one_liner": "Medical Record Retrieval with Zero Human Error",
@@ -26873,6 +26873,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/anthrogen",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/anthrogen.json"
+  },
+  {
+    "id": 29716,
+    "name": "CreativeMode",
+    "slug": "creativemode",
+    "former_names": [
+      "Condor Labs",
+      "Argon",
+      "Parity"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2bdf22dccaa26c230a94ceee5b1728f0d487b3cd.png",
+    "website": "https://creativemode.net",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "In the past 9 months, more Minecraft mods were made with CreativeMode than in the game's previous 17 years combined. CreativeMode is making every player a creator.\r\n\r\nGames like Minecraft, Fortnite, and Roblox started a revolution by allowing players to shape the games they love. CreativeMode is taking it to the next level by giving every player the power of a game studio at their fingertips. Players on CreativeMode create new experiences, play them with friends, and share their creations with the community. It’s a new way to play and create where imagination is the only limit.",
+    "one_liner": "Lovable for Minecraft mods",
+    "team_size": 5,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Gaming",
+    "launched_at": 1723073466,
+    "tags": [
+      "Artificial Intelligence",
+      "Consumer",
+      "Entertainment",
+      "Gaming"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Gaming"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/creativemode",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/creativemode.json"
   },
   {
     "id": 29723,
@@ -32010,7 +32056,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -34807,6 +34853,45 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/datafruit.json"
   },
   {
+    "id": 30636,
+    "name": "EffiGov",
+    "slug": "effigov",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7ff2d4057e1128c01e602989e199ee71f53d392.png",
+    "website": "https://effigov.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "EffiGov is building an AI OS for local governments. We've started with AI call operators that answer 311 and departmental lines 24/7 - handling everything from permit applications to animal control.",
+    "one_liner": "The AI OS for Cities",
+    "team_size": 3,
+    "industry": "Government",
+    "subindustry": "Government",
+    "launched_at": 1755582399,
+    "tags": [
+      "Artificial Intelligence",
+      "GovTech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Government"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/effigov",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/effigov.json"
+  },
+  {
     "id": 30637,
     "name": "Design Arena",
     "slug": "design-arena",
@@ -35568,48 +35653,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/doe.json"
   },
   {
-    "id": 30691,
-    "name": "Embedder",
-    "slug": "embedder",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f049c3a76d0d9ec2435f1d6426d5bbc667e7a25d.png",
-    "website": "https://www.embedder.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Embedder is building an AI coding agent that can write, test, and debug firmware on real hardware.",
-    "one_liner": "AI Agents for Firmware",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1752258104,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Hardware",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/embedder",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/embedder.json"
-  },
-  {
     "id": 30695,
     "name": "Channel3",
     "slug": "channel3",
@@ -36341,7 +36384,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d9ff55657c9c6cb094a914f151062d5bc781a912.png",
     "website": "https://stagewise.io",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "stagewise builds an open-source frontend coding agent for real codebases. We enable backend devs, designers and product managers to build pretty and functional web apps in a simple and visually guided manner - no matter the used tech stack.\r\n\r\nstagewise lives right inside your browser, makes changes in your local codebase and is compatible with all kinds of frameworks and setups - allowing it to be retrofitted into any existing project. Our agent enables you to show and tell what you want to change - all while using your app on localhost and without having to switch to external tools. Making changes is as easy as selecting elements, giving a simple prompt like “make it green and put it in the top right corner”, and immediately seeing the result.\r\n\r\nWe're two founders from Germany who met while working at a B2B SaaS startup. With Glenn's background in building dev tools for enterpries (Rheinmetall, Miele), as well as Julians experience in building web apps used by thousands (saasmetrix, strukto.io), we have the unique blend of experience and product sense needed to build this.\r\n\r\nAfter making our initial launch with the open-sourced toolbar that puts your favorite coding agent right inside your browser and going viral with it, we’re now launching a high-speed coding agent dedicated to frontend development - taking our product and the experience of our users to the next level.\r\n\r\nOur vision is to replace frontend devs completely, by gradually enabling both the backend devs, but also less technical designers and product managers to create well-designed applications. We start with developers who lack design experience, but our ultimate goal is to change how products are built.",
+    "long_description": "stagewise is building the open-source agentic IDE: a developer workspace for creating and orchestrating coding agents, previewing running apps, and managing Git workflows. Developers can run agents in parallel, use their preferred models or existing coding subscriptions, and keep agents connected to browser/runtime context as well as the broader codebase, from APIs and tests to docs and deployment paths.",
     "one_liner": "The Open Source Agentic IDE",
     "team_size": 2,
     "industry": "B2B",
@@ -37884,25 +37927,23 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/anto-biosciences.json"
   },
   {
-    "id": 30946,
-    "name": "Sourcebot",
-    "slug": "sourcebot",
+    "id": 30943,
+    "name": "Aside",
+    "slug": "aside",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8dc3d95366a9f12c7989780cf364009423a55b54.png",
-    "website": "https://www.sourcebot.dev/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e9196c93cd4fc802b51eabcb6432760d1efd3fb.png",
+    "website": "https://asidehq.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sourcebot is an open source code understanding platform for massive codebases. We’re used by thousands of engineers in some of the largest companies in the world, including NVIDIA, Red Hat, Wikimedia, and Arista Networks.\r\n\r\nUnderstanding code, not writing it, is the primary bottleneck for large engineering teams. For developers, this means onboarding onto complex codebases faster. For AI agents, it means getting the necessary code context to minimize hallucinations and maximize cohesion within the wider codebase.\r\n\r\nSourcebot solves this by giving developers and AI agents the ability to regex search across millions of lines of code instantly, as well as ask questions across thousands of repos using any flagship reasoning model. Being open source and on-prem, we can get deployed in enterprises within minutes before other tools even get approval.\r\n\r\nWe met a decade ago at McGill University and have been building together full time for over 2 years. We’ve personally felt the pain of understanding large codebases while working at Microsoft, EA, Ubisoft, Google, and Meta.",
-    "one_liner": "Helping humans and AI agents understand massive codebases",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1759606313,
+    "long_description": "Aside is an AI browser that acts on your behalf. Give it your passwords, browsing history, and browser context. It gets real work done end to end in the apps you already use, with no integrations required.\r\n\r\n- 🌐 Browser-native automation: Works directly in Gmail, Notion, Slack, Figma, banking apps, and internal tools, without any integrations.\r\n- 🔑 Passwords into tools: Lets AI use logins, sessions, passkeys, and credentials to take action.\r\n- 📚 Browsing history into memory: Gives AI persistent context across sessions.\r\n- 🧡 Push notifications into a heartbeat: Lets agents react to events and resume work in real time.",
+    "one_liner": "Operating system for the AI era",
+    "team_size": 3,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1760485553,
     "tags": [
       "Artificial Intelligence",
-      "Developer Tools",
-      "DevSecOps",
-      "B2B",
-      "Open Source"
+      "SaaS",
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -37911,8 +37952,7 @@
     "batch": "Fall 2025",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Engineering, Product and Design"
+      "Consumer"
     ],
     "regions": [
       "United States of America",
@@ -37922,9 +37962,9 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sourcebot",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/sourcebot.json"
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/aside",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/aside.json"
   },
   {
     "id": 30947,
@@ -38010,51 +38050,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/primer",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/primer.json"
-  },
-  {
-    "id": 30963,
-    "name": "TakeCareOS",
-    "slug": "takecareos",
-    "former_names": [
-      "Something Labs",
-      "Waffer"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ae7dea18b41ec38482c8a5138befb84756ece8b.png",
-    "website": "https://takecareos.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "TakeCareOS is building the infrastructure for the AI-native home care agency. Today’s care providers are held back by massive administrative overhead, buried under fragmented tools and manual workflows. TakeCareOS consolidates the entire care lifecycle—scheduling, billing, incident management, compliance, customer support etc.—into a single, intelligent system driven by AI agents. We are eliminating the operational friction of care coordination to establish a new standard of high-efficiency, highly scalable home care.",
-    "one_liner": "Building AI-native home care agency",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1760645046,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Health Tech",
-      "B2B",
-      "Healthcare"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/takecareos",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/takecareos.json"
   },
   {
     "id": 30969,
@@ -38228,50 +38223,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/diligencesquared-inc",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/diligencesquared-inc.json"
-  },
-  {
-    "id": 30999,
-    "name": "Antigen",
-    "slug": "antigen",
-    "former_names": [
-      "Claybird",
-      "zag.dev",
-      "Zag"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e0e06e25aec1342b30cc5ab4bc6e547328ac8f5e.png",
-    "website": "https://antigen.sh/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Antigen is an AI adversary for the enterprise. It maps, exploits, and secures your attack surface through nightly automated offensive testing and monthly human red team assessments. Every finding is delivered with traces, reproduction steps, and remediation directly in GitHub, Linear, or the Antigen Platform.\r\n\r\nWe work with companies in financial services, healthcare, retail, and government where security is trust.\r\n\r\nWe're backed by Lightspeed, DST Global, and Susa Ventures.",
-    "one_liner": "Continuous offensive security for the enterprise.",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1759979466,
-    "tags": [
-      "Artificial Intelligence",
-      "Cybersecurity"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/antigen",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/antigen.json"
   },
   {
     "id": 31002,
@@ -39788,48 +39739,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/callab-ai.json"
   },
   {
-    "id": 31419,
-    "name": "StableBrowse",
-    "slug": "stablebrowse",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed9bc479aa95e772450f53b3ce34a581c2a1e4b7.png",
-    "website": "https://stablebrowse.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We are making the world's fastest browser for your AI agents. Agents don’t need to see UIs like us humans do. We give agents a semantic understanding of the web instead of brittle visual interfaces. Your agents can perform deep research, large-scale scraping, and complex automation—more efficiently with our agentic browser that turns the web into a native protocol for LLMs.",
-    "one_liner": "Browser for AI agents",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1774843315,
-    "tags": [
-      "Artificial Intelligence",
-      "API",
-      "Automation",
-      "Web Development"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/stablebrowse",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/stablebrowse.json"
-  },
-  {
     "id": 31427,
     "name": "Napkin Math",
     "slug": "napkin-math",
@@ -40040,6 +39949,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/general-instinct",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/general-instinct.json"
+  },
+  {
+    "id": 31458,
+    "name": "Ara",
+    "slug": "ara",
+    "former_names": [
+      "EasyClaw"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/43521ae4f2f9575593c80ebf4f8bf7ce020d70da.png",
+    "website": "https://ara.so",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Ara is a non-invasive AI cursor that executes tasks on your computer. With first-class computer use it clicks buttons and retrieves info from any app, fills out forms and can navigate your browser. It supports self-improving and reproducible workflows that can be scheduled at set times.",
+    "one_liner": "Voice-first computer use for Mac. Lives in your notch.",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1775160352,
+    "tags": [
+      "Artificial Intelligence"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ara",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/ara.json"
   },
   {
     "id": 31459,
