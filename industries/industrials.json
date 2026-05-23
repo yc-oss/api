@@ -3007,7 +3007,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -8105,7 +8105,7 @@
       "Australia",
       "Oceania"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -12436,7 +12436,7 @@
     "all_locations": "Toronto, ON, Canada",
     "long_description": "Forge Automation runs software enabled factories that deliver custom metal parts in four days or less. Instead of mechanical engineers having to wait two to three weeks for their low volume CNC parts, they can simply upload a CAD model on our platform and we will ship it out in four days or less. We aim to give mechanical engineers the \"Amazon experience\" for custom metal parts.",
     "one_liner": "Software Enabled CNC Parts Supplier",
-    "team_size": 10,
+    "team_size": 21,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1736647566,
@@ -14110,7 +14110,7 @@
     "all_locations": "Los Angeles, CA, USA",
     "long_description": "Always-on intelligence and connectivity for Defense. Icarus builds autonomous, solar-powered aircraft that fly at 60,000 feet for weeks at a time, above the clouds harnessing the power of the Sun, but never too close. It’s the modern-day U-2 spy plane, except each costs $100K and is built by the thousands. The future of warfare is in the Stratosphere.",
     "one_liner": "Stratospheric birds for defense",
-    "team_size": 16,
+    "team_size": 29,
     "industry": "Industrials",
     "subindustry": "Industrials -> Defense",
     "launched_at": 1759599519,
@@ -14280,7 +14280,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2026",
     "status": "Active",
@@ -15802,9 +15802,9 @@
     "name": "AICE Power",
     "slug": "aice-power",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/35c821ac938388eef9bdac08cedddc97651fe77c.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/581bc66ce17e1873b4f5c5446cc221ea8275a118.png",
     "website": "https://aicepower.com",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "We are building the next generation of underwater defense systems: autonomous swarms of modular marine drones to secure naval assets and coastal infrastructure against evolving underwater threats.",
     "one_liner": "Submarine drones for defense",
     "team_size": 2,
@@ -15812,6 +15812,7 @@
     "subindustry": "Industrials -> Defense",
     "launched_at": 1775067317,
     "tags": [
+      "Hardware",
       "Swarm AI",
       "Robotics",
       "Drones"
@@ -15827,7 +15828,8 @@
       "Defense"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -16015,6 +16017,46 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/general-aviation.json"
   },
   {
+    "id": 31503,
+    "name": "Apollo Atomics, Inc.",
+    "slug": "apollo-atomics-inc",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/16f6645d8ad61e91c9ab2ac0538b531424aa4cb7.png",
+    "website": "https://apolloatomics.com/",
+    "all_locations": "Cambridge, MA, USA",
+    "long_description": "",
+    "one_liner": "We make the most compact nuclear machines.",
+    "team_size": null,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Energy",
+    "launched_at": 1779451083,
+    "tags": [
+      "Small Modular Reactors",
+      "Manufacturing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Energy"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/apollo-atomics-inc",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/apollo-atomics-inc.json"
+  },
+  {
     "id": 31530,
     "name": "Avea Robotics",
     "slug": "avea-robotics",
@@ -16147,20 +16189,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe62156e10a2b01da6dc840828e94a31921135d9.png",
     "website": "https://www.maquoketa.net",
-    "all_locations": "Elk Grove Village, IL, USA",
+    "all_locations": "",
     "long_description": "",
     "one_liner": "Intelligent one-way attack drones",
     "team_size": 5,
     "industry": "Industrials",
     "subindustry": "Industrials -> Defense",
     "launched_at": 1774490913,
-    "tags": [
-      "Artificial Intelligence",
-      "Hardware",
-      "Drones",
-      "Computer Vision",
-      "Manufacturing"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -16172,8 +16208,7 @@
       "Defense"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,

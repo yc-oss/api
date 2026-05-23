@@ -672,7 +672,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2015",
     "status": "Active",
@@ -2692,49 +2692,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/10-by-10",
     "api": "https://yc-oss.github.io/api/batches/summer-2017/10-by-10.json"
-  },
-  {
-    "id": 1702,
-    "name": "Thematic",
-    "slug": "thematic",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fdfd6d76b44b6fa6fbb40a4e9c99072a13924b8.png",
-    "website": "http://www.getthematic.com",
-    "all_locations": "Auckland, Auckland, New Zealand; Remote",
-    "long_description": "Thematic is a Customer Feedback Analysis platform. We pull feedback from sources you already use for surveying or talking to customers. We automatically discover themes in feedback and provide visualizations and reports that help improve customer satisfaction, prioritize product roadmap and track trends in customer feedback over time.",
-    "one_liner": "We analyze feedback to help companies improve customer experience",
-    "team_size": 25,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1496779967,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2017",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "New Zealand",
-      "Oceania",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/thematic",
-    "api": "https://yc-oss.github.io/api/batches/summer-2017/thematic.json"
   },
   {
     "id": 1723,
@@ -5629,6 +5586,49 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2020/fitnessai.json"
   },
   {
+    "id": 13109,
+    "name": "Taiv",
+    "slug": "taiv",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/86c32f1abe7d2cba987238d8fbcc9048fc815dfe.png",
+    "website": "https://taiv.tv",
+    "all_locations": "Winnipeg, MB, Canada",
+    "long_description": "Taiv puts business TVs on autopilot, automatically switching between cable, our own streaming channels, digital signage, and trivia.  Our proprietary AI model analyzes the live video feed and intelligently switches sources during commercial breaks, show changes, or based on the time of day, to show the best possible content & ads for any environment.\r\n\r\nWe offer this for free to venues and make money by selling ads, which we rev-share back with the venue, turning their TVs from a cost center to a profit center. ",
+    "one_liner": "AI-powered tech that makes business TV smarter, engaging, and…",
+    "team_size": 40,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1584223249,
+    "tags": [
+      "Artificial Intelligence",
+      "Marketplace",
+      "Computer Vision",
+      "B2B",
+      "Advertising"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2020",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "Canada",
+      "America / Canada"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/taiv",
+    "api": "https://yc-oss.github.io/api/batches/winter-2020/taiv.json"
+  },
+  {
     "id": 13113,
     "name": "Glisten AI",
     "slug": "glisten-ai",
@@ -5890,7 +5890,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -10687,50 +10687,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/caire-health",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/caire-health.json"
-  },
-  {
-    "id": 24727,
-    "name": "Output Biosciences",
-    "slug": "output",
-    "former_names": [
-      "Jingu Health"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/990074a168ed566a1898edae4ddc84a3de0b15c3.png",
-    "website": "https://www.outputbio.com/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Output Biosciences is pioneering Biologically-Aware Generative AI to finally understand complex biological systems. Our new generative AI architecture can handle the extremely long, nonlinear, fragmented, and high dimensional data of biological systems. We are building Large Biological Models that can generate breakthrough medicines and transform the way we diagnose, treat and prevent disease. ",
-    "one_liner": "Teaching Generative AI the Language of Biology",
-    "team_size": 6,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Therapeutics",
-    "launched_at": 1628006072,
-    "tags": [
-      "AI-powered Drug Discovery",
-      "Artificial Intelligence",
-      "Generative AI",
-      "Biotech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2021",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Therapeutics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/output",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/output.json"
   },
   {
     "id": 24787,
@@ -22362,51 +22318,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/arini.json"
   },
   {
-    "id": 29296,
-    "name": "Simplex",
-    "slug": "simplex",
-    "former_names": [
-      "Simplex",
-      "Pansimulate"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/556d5a66ef0386d859db3ad9f500ceeadf756032.png",
-    "website": "https://simplex.sh",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Simplex builds AI agents to handle provider enrollment end-to-end, including NPI verification, CAQH profile creation and re-attestation, payer portal enrollment, daily and weekly status checks, and appeals on denial.",
-    "one_liner": "AI agents to enroll providers with payors",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1723709594,
-    "tags": [
-      "Artificial Intelligence",
-      "Machine Learning",
-      "Robotic Process Automation",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/simplex",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/simplex.json"
-  },
-  {
     "id": 29297,
     "name": "Eggnog",
     "slug": "eggnog",
@@ -30458,7 +30369,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -32554,50 +32465,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/blaxel.json"
   },
   {
-    "id": 30399,
-    "name": "Frekil",
-    "slug": "frekil",
-    "former_names": [
-      "Notate"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e885d9503dffbb01e24f5bd3a78965979764099.png",
-    "website": "https://www.frekil.com",
-    "all_locations": "Bengaluru, India",
-    "long_description": "Today, it takes months to understand how drugs perform in the real world, delaying safety insights and leaving patients exposed to unknown risks and benefits for far too long. Frekil turns that months-long process into minutes, with full auditability and scientific rigor.\r\n\r\nFrekil accelerates real world evidence (RWE) generation for life sciences companies on their own clinical data from months to minutes. It connects to fragmented clinical data (EHR, Claims, etc.) and lets teams run end-to-end studies from study design, cohort extraction to SAP, statistical analysis, and final reports.",
-    "one_liner": "Accelerate Real World Evidence (RWE) Generation from months to minutes",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1744440110,
-    "tags": [
-      "Artificial Intelligence",
-      "Health Tech",
-      "B2B",
-      "Biotech",
-      "Healthcare"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "India",
-      "South Asia"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/frekil",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/frekil.json"
-  },
-  {
     "id": 30407,
     "name": "Golf",
     "slug": "golf",
@@ -32952,6 +32819,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/clarm",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/clarm.json"
+  },
+  {
+    "id": 30443,
+    "name": "Units",
+    "slug": "units",
+    "former_names": [
+      "GradeAssist",
+      "VibeGrade",
+      "TypeOS"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6cf4b48f0d6277a46b6938b7cc1d145878182dc6.png",
+    "website": "https://units.school",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Units lets ambitious students graduate high school in 4 months instead of 4 years with real accredited diploma credits, plus a portfolio of real-world work, not just a transcript. \r\n\r\nWe're rebuilding school for a post-AGI world.",
+    "one_liner": "The school for a post-agi world.",
+    "team_size": 1,
+    "industry": "Education",
+    "subindustry": "Education",
+    "launched_at": 1745137302,
+    "tags": [
+      "Artificial Intelligence",
+      "Education",
+      "Consumer"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "Education"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/units",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/units.json"
   },
   {
     "id": 30444,
@@ -36809,49 +36720,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/lapis.json"
   },
   {
-    "id": 30844,
-    "name": "Uplane",
-    "slug": "uplane",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f28d39fea2309ac2fc4d42b7be088ee964dccf6a.png",
-    "website": "https://uplane.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Uplane replaces marketing agencies with AI. We generate hundreds of ads with matching landing pages and steer the ad spend across channels like Meta, Google, LinkedIn and others. By connecting to CRM and ERP data, Uplane learns what drives profits and continuously improves campaigns.\r\n\r\nCompanies waste billions on bad ads, mismatched landing pages, and poor budget allocation. Uplane fixes this by replacing a patchwork of agencies, spreadsheets, and siloed tools with one self-improving system. The result: Higher ROAS for enterprises and effortless, expert-level marketing for SMBs.",
-    "one_liner": "Replace marketing agencies with AI",
-    "team_size": 7,
-    "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1759250646,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Analytics",
-      "Advertising"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/uplane",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/uplane.json"
-  },
-  {
     "id": 30850,
     "name": "Zavo",
     "slug": "zavo",
@@ -38749,18 +38617,20 @@
       "Anyware"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c9d56ba5bab1fb6c9a7734a1a8aab7b6fbc48ed.png",
-    "website": "https://carrotlabs.ai/",
+    "website": "https://superpenguin.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We build specialized LLMs for your business’s specific workflows and use cases, then continuously hone them against your success metrics, capturing your proprietary know-how in the model so it gets more valuable and harder to copy as you grow.",
-    "one_liner": "Continuous Fine-Tuning for AI Models",
+    "long_description": "The problem: \r\nAI spend is scattered across multiple provider billing consoles that don't talk to each other. Teams can't answer simple questions like \"which customer is driving our Anthropic bill?\" or \"is this feature profitable after AI costs?\" without manually pulling data from each provider and stitching it together in a spreadsheet.\r\n\r\nWhat SuperPenguin does: \r\nSuperPenguin tracks AI spend across 14 providers (OpenAI, Anthropic, Deepgram, ElevenLabs, Modal, Cursor and more).\r\n\r\nZero-code setup: connect an API key and costs sync automatically with model-level breakdowns, trends, and forecasts.\r\nPer-request attribution: add two lines of Python SDK to tag every AI call by customer, feature, or team.\r\nSlack alerts on budget thresholds and spend anomalies.\r\n\r\nMost teams are set up in under five minutes. We help companies see where their AI money goes and whether it's worth it.\r\n",
+    "one_liner": "AI Cost Management: Track and attribute AI spend across every provider",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1772517831,
     "tags": [
+      "AIOps",
       "Artificial Intelligence",
-      "Reinforcement Learning",
-      "Automation"
+      "FinOps",
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -38776,7 +38646,7 @@
       "America / Canada"
     ],
     "stage": "Early",
-    "app_video_public": true,
+    "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
@@ -39703,8 +39573,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aa8adf98dd895cf00084bc119e643a0794f80959.png",
     "website": "https://callab.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Callab AI - AI voice agents for contact centers. Over half the world's contact center infrastructure still runs on legacy telephony (CUCM, on-prem PBX, carrier-grade SIP) - a $70B+ market where current AI voice platforms can't natively integrate. \r\n\r\nWe plug into these environments without requiring a rip-and-replace. We serve clients across three continents, including brands like DunkinDonut.",
-    "one_liner": "AI voice agents for enterprise telephony systems.",
+    "long_description": "58% of the $400B call center industry runs on on-prem phone systems, and until now bringing AI voice automation to them meant ripping out their entire infrastructure first. That's the largest unserved segment in the market. Callab AI connects directly to legacy PBX systems like Avaya, Cisco UCM, and Mitel, and automates up to 70% of call volume with zero migration needed.\r\n\r\nWe plug into these environments without requiring a rip-and-replace. We serve clients across three continents, including brands like Dunkin Donuts.",
+    "one_liner": "AI voice agents for legacy telephony systems.",
     "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
@@ -39905,6 +39775,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/prototypingio",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/prototypingio.json"
+  },
+  {
+    "id": 31451,
+    "name": "Archer",
+    "slug": "archer",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8149769a0781242dca23d1bed75bdf39b4b9dba6.png",
+    "website": "https://archermoney.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Archer lets companies programatically send hyper-personalized physical rewards for any action, milestone, or behavior.\r\n\r\nBusinesses use Archer to automate rewards across onboarding, referrals, sales, retention, partnerships, employee milestones, and customer engagement.\r\n\r\nRewards can range from personalized gifts and food deliveries to branded merchandise, surprise packages, team experiences, and custom curated rewards all tailored to the person, milestone, and moment.\r\n\r\nArcher handles the infrastructure behind sourcing, personalization, delivery, payouts, and triggering so companies can turn rewards into a scalable part of how they grow and retain users using AI agents.\r\n\r\nReward. Anything.",
+    "one_liner": "Reward. Anything.",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1776977656,
+    "tags": [
+      "Artificial Intelligence",
+      "Finance",
+      "E-commerce"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/archer",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/archer.json"
   },
   {
     "id": 31456,
@@ -40292,6 +40205,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/eden-robotics",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/eden-robotics.json"
+  },
+  {
+    "id": 31496,
+    "name": "Hessian",
+    "slug": "hessian",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0292614a2f54d51074ba89fdaa311465570dc7da.png",
+    "website": "https://hessian.sh",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Hessian is the platform for automating business operations with AI agents. We forward deploy on-site to map the work, and build the agents on our platform to run it end-to-end. Unlike off-the-shelf tools that don't know your business, you get a partner that owns the software and operates it every day. Why now? Coding agents have matured to the point where, combined with our engineering judgment we've built across a decade of shipping production systems, we can scale forward-deployed engagements with minimal headcount. Furthermore, our FDE agents and tooling will accelerate how quickly we automate workflows on our platform. We're already saving our customers hundreds of hours a month. Trillions of dollars a year are spent on knowledge work, and we're building the standard for how every company deploys, operates, and governs the AI agents that do it.",
+    "one_liner": "We forward deploy with AI agents to automate business operations",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1779173686,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Machine Learning",
+      "Workflow Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hessian",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/hessian.json"
   },
   {
     "id": 31498,
@@ -40883,48 +40837,5 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/clawvisor",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/clawvisor.json"
-  },
-  {
-    "id": 31561,
-    "name": "Maquoketa Research",
-    "slug": "maquoketa-research",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe62156e10a2b01da6dc840828e94a31921135d9.png",
-    "website": "https://www.maquoketa.net",
-    "all_locations": "Elk Grove Village, IL, USA",
-    "long_description": "",
-    "one_liner": "Intelligent one-way attack drones",
-    "team_size": 5,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Defense",
-    "launched_at": 1774490913,
-    "tags": [
-      "Artificial Intelligence",
-      "Hardware",
-      "Drones",
-      "Computer Vision",
-      "Manufacturing"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Defense"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/maquoketa-research",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/maquoketa-research.json"
   }
 ]

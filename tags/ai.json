@@ -460,7 +460,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2015",
     "status": "Active",
@@ -1374,6 +1374,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/assemblyai",
     "api": "https://yc-oss.github.io/api/batches/summer-2017/assemblyai.json"
+  },
+  {
+    "id": 1702,
+    "name": "Thematic",
+    "slug": "thematic",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fdfd6d76b44b6fa6fbb40a4e9c99072a13924b8.png",
+    "website": "http://www.getthematic.com",
+    "all_locations": "Auckland, Auckland, New Zealand; Remote",
+    "long_description": "Thematic is the customer intelligence layer for enterprise CX. Trustworthy and traceable reporting your teams can stake decisions on, and the grounded data foundation your AI agents need to scale safely. Customers see NPS gains of 5 to 35 points and have attributed $4.8M in revenue from a 6-month pilot. Forrester measured 543% three-year ROI. Trusted by DoorDash, Woolworths, BNY, and Mitsubishi.",
+    "one_liner": "Customer intelligence for Enterprise CX teams. The grounded…",
+    "team_size": 20,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1496779967,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2017",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "New Zealand",
+      "Oceania",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/thematic",
+    "api": "https://yc-oss.github.io/api/batches/summer-2017/thematic.json"
   },
   {
     "id": 1703,
@@ -3342,49 +3385,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2020/segmed.json"
   },
   {
-    "id": 13109,
-    "name": "Taiv",
-    "slug": "taiv",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/86c32f1abe7d2cba987238d8fbcc9048fc815dfe.png",
-    "website": "https://taiv.tv",
-    "all_locations": "Winnipeg, MB, Canada",
-    "long_description": "Taiv puts TVs on autopilot, automatically switching between cable, our own streaming channels, digital signage, and trivia.  Our proprietary AI model analyzes the live video feed and intelligently switches sources during commercial breaks, show changes, or based on the time of day, to show the best possible content & ads for any environment.\r\n\r\nWe offer this for free to venues and make money by selling ads, which we rev-share back with the venue, turning their TVs from a cost center to a profit center. ",
-    "one_liner": "AI-powered tech that makes business TV smarter, engaging, and…",
-    "team_size": 40,
-    "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1584223249,
-    "tags": [
-      "Marketplace",
-      "Computer Vision",
-      "B2B",
-      "Advertising",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2020",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "Canada",
-      "America / Canada"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/taiv",
-    "api": "https://yc-oss.github.io/api/batches/winter-2020/taiv.json"
-  },
-  {
     "id": 13118,
     "name": "Perceptive Technologies",
     "slug": "perceptive-technologies",
@@ -3849,7 +3849,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -4316,7 +4316,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -5218,7 +5218,7 @@
     "all_locations": "New York, NY, USA; Remote",
     "long_description": "",
     "one_liner": "Analyzing EHR and messaging data to predict disease before it occurs.",
-    "team_size": 7,
+    "team_size": 8,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1652306351,
@@ -7303,6 +7303,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/contraforce",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/contraforce.json"
+  },
+  {
+    "id": 24727,
+    "name": "Output Biosciences",
+    "slug": "output",
+    "former_names": [
+      "Jingu Health"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/990074a168ed566a1898edae4ddc84a3de0b15c3.png",
+    "website": "https://www.outputbio.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Output Biosciences is pioneering Biologically-Aware Generative AI to finally understand complex biological systems. Our new generative AI architecture can handle the extremely long, nonlinear, fragmented, and high dimensional data of biological systems. We are building Large Biological Models that can generate breakthrough medicines and transform the way we diagnose, treat and prevent disease. ",
+    "one_liner": "Teaching Generative AI the Language of Biology",
+    "team_size": 6,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Drug Discovery and Delivery",
+    "launched_at": 1628006072,
+    "tags": [
+      "AI-powered Drug Discovery",
+      "Generative AI",
+      "Biotech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Drug Discovery and Delivery"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/output",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/output.json"
   },
   {
     "id": 24817,
@@ -18749,6 +18793,51 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/artisan.json"
   },
   {
+    "id": 29296,
+    "name": "Simplex",
+    "slug": "simplex",
+    "former_names": [
+      "Simplex",
+      "Pansimulate"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/556d5a66ef0386d859db3ad9f500ceeadf756032.png",
+    "website": "https://simplex.sh",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Simplex builds AI agents to handle provider enrollment end-to-end. We automate pulling provider data from CAQH, filling out enrollment forms + uploading licenses via payor portals/email/phone, updating applications when returned for corrections, and performing effective date follow-ups until a final determination is made, all autonomously.",
+    "one_liner": "AI agents to enroll providers with payors",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1723709594,
+    "tags": [
+      "Machine Learning",
+      "Robotic Process Automation",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/simplex",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/simplex.json"
+  },
+  {
     "id": 29300,
     "name": "Trellis AI",
     "slug": "trellis-ai",
@@ -28010,6 +28099,50 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/chestnut.json"
   },
   {
+    "id": 30399,
+    "name": "Frekil",
+    "slug": "frekil",
+    "former_names": [
+      "Notate"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e885d9503dffbb01e24f5bd3a78965979764099.png",
+    "website": "https://www.frekil.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Today, it takes months to understand how drugs perform in the real world, delaying safety insights and leaving patients exposed to unknown risks and benefits for far too long. Frekil turns that months-long process into minutes, with full auditability and scientific rigor.\r\n\r\nFrekil accelerates real world evidence (RWE) generation for life sciences companies on their own clinical data from months to minutes. It connects to fragmented clinical data (EHR, Claims, etc.) and lets teams run end-to-end studies from study design, cohort extraction to SAP, statistical analysis, and final reports.",
+    "one_liner": "RWE Generation in minutes",
+    "team_size": 5,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1744440110,
+    "tags": [
+      "Health Tech",
+      "B2B",
+      "Biotech",
+      "Healthcare",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/frekil",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/frekil.json"
+  },
+  {
     "id": 30400,
     "name": "Plexe",
     "slug": "plexe",
@@ -28640,51 +28773,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/youlearn",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/youlearn.json"
-  },
-  {
-    "id": 30443,
-    "name": "TypeOS",
-    "slug": "typeos",
-    "former_names": [
-      "GradeAssist",
-      "VibeGrade"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/27388bac39ab071f08477907bbcc754dc45c3267.png",
-    "website": "https://TypeOS.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Built to advance human taste to the frontier, TypeOS is the best way to write with AI.\r\n",
-    "one_liner": "AI that sounds like you, where you work.",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1745137302,
-    "tags": [
-      "Reinforcement Learning",
-      "Consumer",
-      "B2B",
-      "Productivity",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/typeos",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/typeos.json"
   },
   {
     "id": 30445,
@@ -29856,8 +29944,8 @@
       "Kesher Link",
       "ShorPay"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4831b44f5c4fb81b23bc71603346f936a8519a8.png",
-    "website": "https://www.tryshor.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67cf625efef1309318e252d2b2a3c6ad2c4d7300.png",
+    "website": "https://www.shorpay.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Shor is a new Employer-of-Record built from the ground up with AI agents and stablecoins. We enable remote teams to hire and pay global employees at a fraction of the cost. The process is fast, simple, and fully compliant.\r\n\r\nToday, global payroll is broken. Payments take days, cost 5–10% in fees, and force companies to navigate complex banking, tax, and labor regulations. Platforms like Deel and Rippling solved this for large enterprises but remain too expensive and cumbersome for the millions of startups and growing remote teams scaling globally.\r\n\r\nShor fixes this by combining autonomous AI agents with stablecoin-based settlement. Our agents handle contracts, worker classification, compliance, and payroll automatically in a simple, messaging-first experience. Payments can settle in seconds rather than weeks at a fraction of the cost of legacy providers.\r\n\r\nWe are making global payroll fast, affordable, and accessible for the millions of companies left out by legacy platforms.",
     "one_liner": "The fastest, most affordable payroll for global teams",
@@ -31926,6 +32014,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/brickanta",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/brickanta.json"
+  },
+  {
+    "id": 30844,
+    "name": "Uplane",
+    "slug": "uplane",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f28d39fea2309ac2fc4d42b7be088ee964dccf6a.png",
+    "website": "https://uplane.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Uplane replaces marketing agencies with AI. We generate hundreds of ads with matching landing pages and steer the ad spend across channels like Meta, Google, LinkedIn and others. By connecting to CRM and ERP data, Uplane learns what drives profits and continuously improves campaigns.\r\n\r\nCompanies waste billions on bad ads, mismatched landing pages, and poor budget allocation. Uplane fixes this by replacing a patchwork of agencies, spreadsheets, and siloed tools with one self-improving system. The result: Higher ROAS for enterprises and effortless, expert-level marketing for SMBs.",
+    "one_liner": "Replace marketing agencies with AI",
+    "team_size": 19,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1759250646,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Analytics",
+      "Advertising",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/uplane",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/uplane.json"
   },
   {
     "id": 30845,
@@ -34296,6 +34427,50 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/datoric.json"
   },
   {
+    "id": 31295,
+    "name": "Carrot Labs",
+    "slug": "carrot-labs",
+    "former_names": [
+      "Anyware"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c9d56ba5bab1fb6c9a7734a1a8aab7b6fbc48ed.png",
+    "website": "https://superpenguin.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "The problem: \r\nAI spend is scattered across multiple provider billing consoles that don't talk to each other. Teams can't answer simple questions like \"which customer is driving our Anthropic bill?\" or \"is this feature profitable after AI costs?\" without manually pulling data from each provider and stitching it together in a spreadsheet.\r\n\r\nWhat SuperPenguin does: \r\nSuperPenguin tracks AI spend across 14 providers (OpenAI, Anthropic, Deepgram, ElevenLabs, Modal, Cursor and more).\r\n\r\nZero-code setup: connect an API key and costs sync automatically with model-level breakdowns, trends, and forecasts.\r\nPer-request attribution: add two lines of Python SDK to tag every AI call by customer, feature, or team.\r\nSlack alerts on budget thresholds and spend anomalies.\r\n\r\nMost teams are set up in under five minutes. We help companies see where their AI money goes and whether it's worth it.\r\n",
+    "one_liner": "AI Cost Management: Track and attribute AI spend across every provider",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1772517831,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "FinOps",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/carrot-labs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/carrot-labs.json"
+  },
+  {
     "id": 31330,
     "name": "Standard Signal",
     "slug": "standard-signal",
@@ -35150,49 +35325,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/alchemize.json"
   },
   {
-    "id": 31451,
-    "name": "Archer",
-    "slug": "archer",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8149769a0781242dca23d1bed75bdf39b4b9dba6.png",
-    "website": "https://archermoney.com/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Reward. Anything.\r\n\r\nArcher is an agentic commerce platform that allows you to send a physical or monetary reward for any behavior users take on your app, platform, or business. Define an action in plain English like “send a cake when a user fully onboards” or “reward affiliates instantly when they close a deal.” Archer tracks the event and automatically sends the reward.\r\n\r\nCompanies use Archer for onboarding rewards, customer retention/client relationship management and even physical gift GTM motions at scale.",
-    "one_liner": "Reward. Anything.",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1776977656,
-    "tags": [
-      "Finance",
-      "E-commerce",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/archer",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/archer.json"
-  },
-  {
     "id": 31460,
     "name": "PLAN0 AI",
     "slug": "plan0-ai",
@@ -35483,47 +35615,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/testerarmy",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/testerarmy.json"
-  },
-  {
-    "id": 31496,
-    "name": "Hessian",
-    "slug": "hessian",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a157b955e7cce11f4ddc7486efceba324bb8cffd.png",
-    "website": "https://hessian.sh",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Hessian is the platform for automating business operations with AI agents. We forward deploy on-site to map the work, and build the agents on our platform to run it end-to-end. Unlike off-the-shelf tools that don't know your business, you get a partner that owns the software and operates it every day. Why now? Coding agents have matured to the point where, combined with our engineering judgment we've built across a decade of shipping production systems, we can scale forward-deployed engagements with minimal headcount. Furthermore, our FDE agents and tooling will accelerate how quickly we automate workflows on our platform. We're already saving our customers hundreds of hours a month. Trillions of dollars a year are spent on knowledge work, and we're building the standard for how every company deploys, operates, and governs the AI agents that do it.",
-    "one_liner": "We forward deploy with AI agents to automate business operations",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1779173686,
-    "tags": [
-      "Developer Tools",
-      "Machine Learning",
-      "Workflow Automation",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/hessian",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/hessian.json"
   },
   {
     "id": 31498,
@@ -36159,6 +36250,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/intelligence-factory",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/intelligence-factory.json"
+  },
+  {
+    "id": 31591,
+    "name": "RightNow",
+    "slug": "rightnow",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/59b2e02a314037738d9f32192f83e8bd442be246.png",
+    "website": "https://runinfra.ai/",
+    "all_locations": "",
+    "long_description": "RightNow AI is a research lab building GPU infrastructure that lets teams own their AI stack instead of depending on closed-source APIs. Our platform RunInfra takes any HuggingFace model, auto-generates optimized GPU kernels, and deploys it serverlessly with pay-per-token pricing\r\n\r\nRightNow AI lab: https://rightnowai.co\r\nRunInfra platform: https://runinfra.ai.",
+    "one_liner": "Enabling Model-Hardware Co-Design at Scale",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1779474756,
+    "tags": [
+      "Developer Tools",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rightnow",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/rightnow.json"
   },
   {
     "id": 32194,

@@ -7544,7 +7544,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -11142,7 +11142,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a985c19aae7a6332fcfc82b7724dd2f4276053d2.png",
     "website": "https://cumuluslabs.io",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cumulus Labs is a fast multimodal inference provider, purpose-built for AI teams who want faster performance, lower costs, and zero infrastructure work on fine-tuned & open source models.\r\n\r\nMost teams today are stuck choosing between bad options. Self-hosting inference means wrestling with configurations and babysitting infrastructure that slows/breaks at scale. Big providers like Fireworks are convenient but extremely expensive and idle GPUs.\r\n\r\nCumulus ships Ion, a proprietary inference engine that run LLMs, VLMs, and audio/video gen with high performance and lower cost.",
+    "long_description": "Cumulus Labs lets engineering teams ship AI in production without needing a dedicated ML platform team. Right now, companies building AI products are forced to stitch together separate vendors for routing, observability, evaluation, fine-tuning, and inference. This fragmented approach is brittle, expensive, and is a common reason enterprises fail with AI.  \r\n\r\nWe replace that entire stack with a single unified platform. Developers can keep their existing code while instantly upgrading to a unified platform that handles routing, semantic caching, continuous shadow evaluation, simulated data, and one-click fine-tuning. \r\n\r\nBehind the platform is Ion, our proprietary inference engine running on a custom NVIDIA Grace GPU fleet. Ion uses in-house custom GPU kernels to deliver 30 to 50 percent more throughput than standard vLLM or SGLang, giving our customers SOTA inference economics.",
     "one_liner": "The Fastest Multimodal Inference OS",
     "team_size": 2,
     "industry": "B2B",
@@ -11169,7 +11169,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": false,
+    "question_answers": true,
     "url": "https://www.ycombinator.com/companies/cumulus-labs",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/cumulus-labs.json"
   },
@@ -11624,8 +11624,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aca00ac880b2d3d17acae2b1679332dc8000c5f7.png",
     "website": "https://inth.com",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "Automate consent and user data rights compliance. Built for performance and full developer control.",
-    "one_liner": "Privacy Infrastructure for Developers",
+    "long_description": "Inth is compliance infrastructure built for engineers. Every codebase has hundreds of violations breaking privacy laws right now, but existing tools like OneTrust live in dashboards, not code.\r\n\r\nInth sits in your repo, detects compliance liability, and generates the evidence regulators and procurement actually ask for.\r\n\r\nc15t, their open-source consent manager, hit 2.5M npm downloads and is trusted by Zed and Infisical. And that is just the start.\r\n\r\nThey are building the layer that makes every codebase compliant by default, for modern stacks and the agents rewriting them.\r\n",
+    "one_liner": "Compliance as code infrastructure for engineering teams",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -11776,44 +11776,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/maven",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/maven.json"
-  },
-  {
-    "id": 31283,
-    "name": "Librar Labs",
-    "slug": "librar-labs",
-    "former_names": [
-      "Librar"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cc71fc515d431ac2186349ba194efc3183ef3d19.png",
-    "website": "https://www.librarlabs.com",
-    "all_locations": "",
-    "long_description": "Backed by top engineers from OpenAI, Scale AI, and Palantir to build intelligence for cultural institutions.\r\n\r\nOur first commercial product is for the literature industry with a focus on school libraries. It the AI-native OS for libraries, that speed up all of the manual and boring work for librarians.\r\n\r\nFastest growing library tech company in history.\r\n",
-    "one_liner": "Intelligence for cultural institutions",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1769303203,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/librar-labs",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/librar-labs.json"
   },
   {
     "id": 31299,
@@ -12615,5 +12577,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/kugelaudio",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/kugelaudio.json"
+  },
+  {
+    "id": 31591,
+    "name": "RightNow",
+    "slug": "rightnow",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/59b2e02a314037738d9f32192f83e8bd442be246.png",
+    "website": "https://runinfra.ai/",
+    "all_locations": "",
+    "long_description": "RightNow AI is a research lab building GPU infrastructure that lets teams own their AI stack instead of depending on closed-source APIs. Our platform RunInfra takes any HuggingFace model, auto-generates optimized GPU kernels, and deploys it serverlessly with pay-per-token pricing\r\n\r\nRightNow AI lab: https://rightnowai.co\r\nRunInfra platform: https://runinfra.ai.",
+    "one_liner": "Enabling Model-Hardware Co-Design at Scale",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1779474756,
+    "tags": [
+      "Developer Tools",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rightnow",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/rightnow.json"
   }
 ]
