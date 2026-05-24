@@ -1984,17 +1984,18 @@
     "former_names": [
       "Hub"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9e1877ffaf8478eb57359647a0ad11ae811fbf38.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3a80b4c53151c13a3264f328d405b5dfd6b54d18.png",
     "website": "http://hub.xyz",
     "all_locations": "Palo Alto, CA, USA",
-    "long_description": " ",
-    "one_liner": "API for real-world training data.",
+    "long_description": "Hub.xyz provides real-world training data to leading startups, Fortune 500 companies, and frontier AI labs.",
+    "one_liner": "The API for real-world training data.",
     "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1773429014,
     "tags": [
       "Artificial Intelligence",
+      "Robotics",
       "Data Labeling",
       "Big Data",
       "AI"
@@ -3767,10 +3768,10 @@
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1774425608,
     "tags": [
-      "Artificial Intelligence",
       "Hardware",
       "Manufacturing",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3877,24 +3878,25 @@
   },
   {
     "id": 31439,
-    "name": "Alchemy",
-    "slug": "alchemyai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7d5d92304f2eaa0377d188245540fde04aec2281.png",
-    "website": "https://www.alchemyai.dev/",
+    "name": "Parrot",
+    "slug": "useparrot",
+    "former_names": [
+      "Alchemy"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2c249d05a58f649a682096055e9a55a3440fbafa.png",
+    "website": "https://www.useparrot.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Alchemy helps biotech and pharma researchers train and share computer vision models to convert raw images into numerical data, reducing analysis time by 98%.\r\n\r\nAll a researcher has to do is upload their images, describe what they need in plain language, and our agents help assemble their tailored analysis pipeline, select the right models for their specific images, and let them verify every step before exporting reproducible, publication-ready results.",
-    "one_liner": "AI-powered image analysis for life sciences",
+    "long_description": "Our AI agents make and take every call - negotiating insurance supplements, sourcing parts, and coordinating customers and technicians - allowing for complete back-end automation.",
+    "one_liner": "AI-native operating system for auto shops",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1774445922,
     "tags": [
-      "AI-powered Drug Discovery",
-      "Machine Learning",
       "SaaS",
-      "Biotech",
-      "Automation"
+      "Workflow Automation",
+      "Automation",
+      "Automotive"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3914,8 +3916,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/alchemyai",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/alchemyai.json"
+    "url": "https://www.ycombinator.com/companies/useparrot",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/useparrot.json"
   },
   {
     "id": 31440,
@@ -5248,7 +5250,7 @@
       "Eden Robotics Inc.",
       "Eden"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d769c33ef07da11294e43bb975e258d0ec8c712e.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6d14a9f773f254e36c45b6a27e9f082f69047340.png",
     "website": "https://www.edenrobotics.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We're building robots that just work and use them to deliver autonomous services at scale. Our first use case is semi-humanoid robots for manufacturing and logistics. Unlike traditional robotics companies, we don't sell robots, we provide physical agents for hire where companies pay for the robots based on usage, decreasing the barrier to entry and expanding the robotics market as a whole.",
@@ -5258,10 +5260,10 @@
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1775447037,
     "tags": [
-      "Artificial Intelligence",
       "Robotic Process Automation",
       "Robotics",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5292,7 +5294,7 @@
     "former_names": [
       "Tester Army"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2140ec31aaa09498a7c4c7a8559cd2f274b9d9e0.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2383517bbad408b44b80d2d5f5912ef81073ff0.png",
     "website": "https://tester.army",
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "TesterArmy is an AI agent that tests websites and mobile apps. It monitors production on a schedule and runs automatically on every GitHub Pull Request, delivering screenshots, recordings, and actionable bug reports.\r\n\r\nDescribe tests in plain English. The agent handles login flows, OAuth, and OTPs, no scripts to write or maintain. We catch the regressions and UX issues that code review misses.",
@@ -5302,6 +5304,7 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1773767171,
     "tags": [
+      "Developer Tools",
       "AI"
     ],
     "tags_highlighted": [],
@@ -5333,7 +5336,7 @@
     "name": "Hessian",
     "slug": "hessian",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0292614a2f54d51074ba89fdaa311465570dc7da.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f536986f121d1ec1c4cb08cbe10e493da54b21ee.png",
     "website": "https://hessian.sh",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Hessian is the platform for automating business operations with AI agents. We forward deploy on-site to map the work, and build the agents on our platform to run it end-to-end. Unlike off-the-shelf tools that don't know your business, you get a partner that owns the software and operates it every day. Why now? Coding agents have matured to the point where, combined with our engineering judgment we've built across a decade of shipping production systems, we can scale forward-deployed engagements with minimal headcount. Furthermore, our FDE agents and tooling will accelerate how quickly we automate workflows on our platform. We're already saving our customers hundreds of hours a month. Trillions of dollars a year are spent on knowledge work, and we're building the standard for how every company deploys, operates, and governs the AI agents that do it.",
@@ -5343,10 +5346,10 @@
     "subindustry": "B2B",
     "launched_at": 1779173686,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Machine Learning",
-      "Workflow Automation"
+      "Workflow Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5937,12 +5940,12 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1773951001,
     "tags": [
-      "Developer Tools",
-      "AI"
+      "Artificial Intelligence",
+      "Developer Tools"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2026",
     "status": "Active",
