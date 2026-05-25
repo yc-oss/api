@@ -5189,7 +5189,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/43f6ad213b156602e95160d80103b0750e2abdef.png",
     "website": "https://helicarrier.studio",
-    "all_locations": "Lagos, LA, Nigeria; LA, Nigeria",
+    "all_locations": "London, United Kingdom; LA, Nigeria",
     "long_description": "Helicarrier (previously Buycoins) is building cryptocurrency infrastructure for Africa. \r\n\r\nSendcash is an app that lets Africans in the diaspora send money back home. Buycoins is the easiest place to buy, sell, and manage your cryptocurrency portfolio.",
     "one_liner": "Cryptocurrency infrastructure for Africa.",
     "team_size": 30,
@@ -5212,7 +5212,9 @@
       "Banking and Exchange"
     ],
     "regions": [
+      "United Kingdom",
       "Nigeria",
+      "Europe",
       "Africa",
       "Remote",
       "Partly Remote"
@@ -17410,7 +17412,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b78f8543daddcbab960f2418bf3909cc4b5b026.png",
     "website": "https://getnashglobal.com/",
-    "all_locations": "Nairobi, Nairobi County, Kenya",
+    "all_locations": "San Francisco, CA, USA; Nairobi, Nairobi County, Kenya",
     "long_description": "Nash enables finance teams to manage all their finance flows in one place and craft their money flow experiences globally.  Our ledger-based operating system allows your borderless business to connect all your money accounts, accounting systems, payment service providers, treasury operations, spend management in one place. \r\n\r\nOur mission is to enable borderless commerce in Africa. We achieve this initially by providing your team with all the finance tools needed to build, scale, and grow your borderless business without the need for a costly and complex in-house infrastructure. ",
     "one_liner": "All in one finance platform for borderless businesses in Africa",
     "team_size": 11,
@@ -17433,7 +17435,9 @@
       "Fintech"
     ],
     "regions": [
+      "United States of America",
       "Kenya",
+      "America / Canada",
       "Africa",
       "Remote",
       "Partly Remote"
@@ -21236,46 +21240,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rainmaker",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/rainmaker.json"
-  },
-  {
-    "id": 27922,
-    "name": "Berilium",
-    "slug": "berilium",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/22d5359d7da9993b23f2395a5cfec5ebcbe81cfb.png",
-    "website": "https://berilium.com/",
-    "all_locations": "Los Angeles, CA, USA",
-    "long_description": "Berilium is a digital wealth management platform for investors to access actively managed portfolios of alternative strategies (i.e. private equity, private credit etc.).",
-    "one_liner": "Invest in top Private Equity and Private Credit starting at $10k",
-    "team_size": 3,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Asset Management",
-    "launched_at": 1679074069,
-    "tags": [
-      "Fintech",
-      "Investing"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Asset Management"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/berilium",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/berilium.json"
   },
   {
     "id": 27936,
@@ -26315,7 +26279,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/86338b0909975d76f85bd358ddf08742a3e504aa.png",
     "website": "https://www.spotpay.ai/",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "SpotPay is a global borderless neobank. We give users one account that works for everything payments related: receiving money from abroad, paying locally, spending anywhere with the SpotPay card and saving and earning on their balance.",
     "one_liner": "Stablecoin Global Bank Account",
     "team_size": 2,
@@ -26334,7 +26298,8 @@
       "Consumer Finance"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -26552,16 +26517,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9670403b854641364928ce34e110c0d9752c9d8d.png",
     "website": "https://gethevn.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "HEVN is a Mercury for global internet companies. We give companies local bank accounts in banks worldwide to save on FX and transaction fees for global operations. HEVN runs over traditional banks and crypto rails, winning on use cases for internet companies with Stripe, ads payments, and contractors.\r\n\r\nTeam: \r\n· 4 co-founders, ex-HOT Labs — a 15M-user multichain wallet and $100M TVL infrastructure. #1 crypto app by users for 8 month.\r\n· Based in SF and UAE\r\n· We used to run our own company in BVI, UAE and HK.",
-    "one_liner": "\"Brex\" for international companies",
+    "long_description": "HEVN is the automated USD account for global internet companies, built for humans and AI agents.\r\n\r\nEvery international company today runs a fragmented finance stack: Mercury for US banking, Wise for FX, Deel for payroll, and Stripe for revenue. Legacy banks can't be automated, can't move at internet speed, and can't be operated by software. We believe every modern company will need a second account - one built on stablecoin rails, accessible via API, secure by design for autonomous code, and covering all operational primitives of a global business.\r\n\r\nHEVN is that account: receive USD globally, hold treasury in USD/USDC, and run every payment operation a global business needs - invoices, contracts, contractor payouts, vendor payments, payroll - in local currencies through local banks worldwide, with a single click or API call.\r\n\r\nTeam previously built HOT Labs - 15M users, $100M TVL, #1 crypto app on DappRadar for 8 months. Operated companies across SF, UAE, BVI, and HK, and felt all the pain of global payments automation ourselves.",
+    "one_liner": "The automated USD account for global internet companies",
     "team_size": 4,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1777498705,
     "tags": [
+      "AIOps",
       "Finance",
-      "Consumer Finance",
-      "Neobank"
+      "Neobank",
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
