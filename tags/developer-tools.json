@@ -12478,7 +12478,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -17062,52 +17062,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/downlink.json"
   },
   {
-    "id": 29442,
-    "name": "Ocular AI",
-    "slug": "ocular-ai",
-    "former_names": [
-      "AutoflowAI (Zapier for AI Copilots)",
-      "AutoflowAI",
-      "Ocular"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e20f659338993dfe61925632a05952fe44797ed.png",
-    "website": "https://useocular.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ocular AI is the data annotation engine for Generative AI, Computer Vision, and Enterprise AI models.\r\n\r\nWe help you transform unstructured, multi-modal data into golden datasets to power generative AI, frontier models, and computer vision.   \r\n\r\nOcular Foundry is the most intuitive, data-centric, and fastest platform that lets you label, annotate, version, and deploy your data for training models. It also orchestrates your annotation jobs, improving collaboration with members and annotators.   \r\n\r\nWith Ocular Bolt, shift from humans in the loop to experts in the loop to supercharge your data labeling and annotation projects. Our global expert workforce ensures fast, accurate results—no matter the scale or complexity of your data.  \r\n\r\nCompanies spend huge amounts on training data, but Foundry and Bolt are AI-native tools that lower costs, reduce manual effort, and accelerate high-quality data collection. We’re replacing outdated, clunky, and expensive data software!",
-    "one_liner": "AI-Native Data Engine for LLMs, Computer Vision, & Enterprise AI",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1706216304,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Machine Learning",
-      "Computer Vision",
-      "Data Engineering"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/ocular-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/ocular-ai.json"
-  },
-  {
     "id": 29449,
     "name": "Fileforge",
     "slug": "fileforge",
@@ -19271,6 +19225,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lingodotdev",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/lingodotdev.json"
+  },
+  {
+    "id": 30063,
+    "name": "Freebuff",
+    "slug": "freebuff",
+    "former_names": [
+      "Manicode",
+      "Codebuff"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7e79d88ee27d8bcba8981ffbb6cfd8dfaee476e3.png",
+    "website": "https://freebuff.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We're making consumer agent products completely free, using the best open source models, and funded by ads.\r\n\r\nOur first product is a coding agent CLI called Freebuff. Install it with \"npm i -g freebuff\". We're also working on a free Lovable competitor.",
+    "one_liner": "The 100% free coding agent",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1728685475,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/freebuff",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/freebuff.json"
   },
   {
     "id": 30097,
@@ -22332,7 +22329,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2025",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -23046,8 +23043,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aca00ac880b2d3d17acae2b1679332dc8000c5f7.png",
     "website": "https://inth.com",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "Inth is compliance infrastructure built for engineers. Every codebase has hundreds of violations breaking privacy laws right now, but existing tools like OneTrust live in dashboards, not code.\r\n\r\nInth sits in your repo, detects compliance liability, and generates the evidence regulators and procurement actually ask for.\r\n\r\nc15t, their open-source consent manager, hit 2.5M npm downloads and is trusted by Zed and Infisical. And that is just the start.\r\n\r\nThey are building the layer that makes every codebase compliant by default, for modern stacks and the agents rewriting them.\r\n",
-    "one_liner": "Compliance as code infrastructure for engineering teams",
+    "long_description": "Inth makes privacy compliance live where the risk actually is: the codebase and runtime. Companies still rely on dashboards, questionnaires, and policy docs to prove compliance, but consent breaks in code, deletion breaks in code, and vendors, logs, AI systems, and agent-written changes all move user data in code. Inth sits in the repo, detects user-data privacy risk, maps it to files and owners, and generates the evidence regulators and enterprise buyers ask for. Its wedge is c15t, an open-source consent SDK with 2.6M npm downloads and adoption from teams like Zed, Infisical, and Expo. Inth is making every codebase compliant by default.",
+    "one_liner": "Privacy compliance, enforced in code",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -23166,6 +23163,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/stage",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/stage.json"
+  },
+  {
+    "id": 31335,
+    "name": "Memoir",
+    "slug": "memoir",
+    "former_names": [
+      "Tachyon",
+      "Agentsite",
+      "Agentsight",
+      "Recon"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/db5e3e6f38c3e09bc340d492006001bcc103b8d3.png",
+    "website": "https://www.trymemoir.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "AI marketing service for developer tools. We turn your real product into social posts and demo videos in your voice automatically. Think of it as a clone of you that's also marketing your company at the same time.\r\n\r\nMemoir is one system. It reads your repo, drives your live staging app with an AI agent, generates branded demo videos with synthetic data so dashboards look real and narrates them in a voice cloned from yours. For the social side, we monitor what's actually getting traction in your space right now. The threads going viral on dev-tools X, the posts climbing on HN, the formats your audience is engaging with this week, and we draft posts in your writing voice that ride those currents. You review everything before it goes out. The output is indistinguishable from how you'd write and record it yourself, if you had the time and a full marketing team behind you.",
+    "one_liner": "AI-Native Marketing for Developer Tools",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1778812476,
+    "tags": [
+      "Developer Tools",
+      "Analytics",
+      "Marketing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/memoir",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/memoir.json"
   },
   {
     "id": 31345,
@@ -23738,11 +23782,11 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cd583af5fd7e25beb6cf6bd63167daa1273db6c5.png",
     "website": "https://manicule.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Manicule is an AI-native technical documentation agency. We own technical documentation end-to-end for developer tool companies, including information architecture, messaging, writing, design, and QA. Agents handle the mechanical parts like code verification and auditing at a scale and speed no human team can match, while humans refine the thinking and make the docs actually good. We're at $15K MRR and profitable, with clients like Supermemory, Greptile, Reducto, and Rootly. Supermemory's docs drove a 30% improvement in answer success rate and went viral on Twitter, all shipped in 23 days.\r\n\r\nEvery dev tool founder knows their docs are broken but simply don't have the time to fix them. The old solution was hiring a full-time technical writer who understands engineering, marketing, and devrel. That role is really hard and expensive to hire for, so docs stay broken. Naman started freelance writing for developer tools 3 years ago and realized that you can't one-shot docs. They require tight feedback loops with the engineering team, multiple review cycles, and real product understanding. When he worked with Supermemory, they had two products that sounded identical to customers. He got on calls with the CEO, figured out the right positioning for each product, and restructured the entire docs around it. That kind of work requires judgment and context that agents simply don’t have.\r\n\r\nOn the other hand, testing every code snippet against a live API, auditing hundreds of pages for broken links, and drafting from OpenAPI specs is grunt work that agents do in minutes. The insight behind Manicule is that good documentation requires both, and nobody has packaged them together. Shreyans was a founding engineer at Supermemory, saw the impact of good docs firsthand, and joined Naman to productize Manicule. We're now a team of 5, building toward that vision. Thousands of AI startups are launching dev tools every month, and docs are the single biggest asset they're all neglecting.",
-    "one_liner": "AI Native Technical Documentation Studio",
-    "team_size": 2,
+    "long_description": "Manicule is an AI native devrel that owns developer documentation and technical content across social channels. We're at $250K cARR and our customers include Supermemory, Greptile, Reducto, Mastra, Agentmail and more.\r\n\r\nIt is insanely hard to hire for devrel. Our customers tell us they’ve had roles up for months, paying $300K+ and still can’t find good people. The industry is currently split between SEO/GEO SaaS and agencies that only do videos or in-person devrel. Developer-focused companies also love the velocity AI brings but hate giving their readers AI slop.\r\n\r\nNaman has been writing content since he was 13 having worked with companies like Promptlayer, Brightdata, Courier.com and others. Shreyans has been building since 14, built an AI app that got onto App Store Productivity Trending in a month and worked as founding engineer at Supermemory. We met in high school and have built multiple startups together since.",
+    "one_liner": "AI Native Developer Relations",
+    "team_size": 5,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Marketing",
     "launched_at": 1773484930,
     "tags": [
       "Artificial Intelligence",
@@ -23756,7 +23800,8 @@
     "batch": "Spring 2026",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Marketing"
     ],
     "regions": [
       "United States of America",
@@ -23780,8 +23825,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/de52713fe1552551dbe8aa2a5e60202c09bfc0d7.png",
     "website": "https://insforge.dev/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "InsForge is the backend platform designed for coding agents. Database, auth, storage, compute, hosting, and AI gateway in one place, built for agents to configure and manage end to end.",
-    "one_liner": "The backend platform for AI-native developers",
+    "long_description": "Model gateway, compute, deployment, database, auth, and more. Every service built for AI coding agents to operate end to end through CLI and skills.",
+    "one_liner": "The agent-native cloud infrastructure platform",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",

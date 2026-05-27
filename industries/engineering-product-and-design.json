@@ -12970,7 +12970,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -17428,8 +17428,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9efd3b7815df44b6aca06023be3c607e3a345ee5.png",
     "website": "https://codeant.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "CodeAnt AI is the agentic code security platform, combining defense and offense in a single self-learning engine.\r\n\r\nDefense\r\n→ AI Code Review: Cuts code review time down 80%.\r\n→ Code Security: SAST, SCA, Secrets, IaC, SBOM in one scan.\r\n→ Code Quality: Retires SonarQube across 30+ languages.\r\n\r\nOffense\r\n→ AI Pentesting: 500+ exploit agents, 48-hour report. Free unless we find a critical.\r\n\r\nPlus Developer 360: engineering metrics that ship work.\r\n\r\nWorks with GitHub, GitLab, Bitbucket, Azure DevOps. Every IDE, every CI/CD, every language. \r\n\r\nSOC 2 Type II & HIPAA Complaint.",
-    "one_liner": "Agentic Code Security Platform",
+    "long_description": "CodeAnt AI attacks your systems the way a real adversary would, then it walks back into your code and helps you build the defenses exactly where the attack got through.\r\n\r\nContinuous attack. Continuous defense. One self-learning platform.\r\n\r\nTrigger a free pentest No engagement fee. Pay only if we find high or critical issues; low and medium issues are free.",
+    "one_liner": "Autonomous offensive and defensive security platform",
     "team_size": 25,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -20202,24 +20202,28 @@
   },
   {
     "id": 30063,
-    "name": "Codebuff",
-    "slug": "codebuff",
+    "name": "Freebuff",
+    "slug": "freebuff",
     "former_names": [
-      "Manicode"
+      "Manicode",
+      "Codebuff"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7e79d88ee27d8bcba8981ffbb6cfd8dfaee476e3.png",
-    "website": "https://codebuff.com",
+    "website": "https://freebuff.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Chat with Codebuff to edit your codebase. It's a coding agent that can iterate and run terminal commands, just like a real engineer! We are going up-market from Cursor, starting at a $49/mo price point.\r\n\r\nCodebuff chooses files to read automatically on each message, which improves its awareness of your codebase and saves you time. It has full access to your terminal — Codebuff can run terminal commands to install packages, run tests, check for type errors, etc. It's the most powerful coding agent on the market that also happens to be the easiest to use.\r\n\r\nCodebuff is an engineer working for you. Run `npm install -g codebuff` to get started.",
-    "one_liner": "The CLI tool that writes code for you",
+    "long_description": "We're making consumer agent products completely free, using the best open source models, and funded by ads.\r\n\r\nOur first product is a coding agent CLI called Freebuff. Install it with \"npm i -g freebuff\". We're also working on a free Lovable competitor.",
+    "one_liner": "The 100% free coding agent",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1728685475,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools"
+    ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2024",
     "status": "Active",
@@ -20236,8 +20240,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/codebuff",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/codebuff.json"
+    "url": "https://www.ycombinator.com/companies/freebuff",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/freebuff.json"
   },
   {
     "id": 30074,
@@ -24147,7 +24151,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2025",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -25844,8 +25848,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/de52713fe1552551dbe8aa2a5e60202c09bfc0d7.png",
     "website": "https://insforge.dev/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "InsForge is the backend platform designed for coding agents. Database, auth, storage, compute, hosting, and AI gateway in one place, built for agents to configure and manage end to end.",
-    "one_liner": "The backend platform for AI-native developers",
+    "long_description": "Model gateway, compute, deployment, database, auth, and more. Every service built for AI coding agents to operate end to end through CLI and skills.",
+    "one_liner": "The agent-native cloud infrastructure platform",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",

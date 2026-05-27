@@ -689,8 +689,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aca00ac880b2d3d17acae2b1679332dc8000c5f7.png",
     "website": "https://inth.com",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "Inth is compliance infrastructure built for engineers. Every codebase has hundreds of violations breaking privacy laws right now, but existing tools like OneTrust live in dashboards, not code.\r\n\r\nInth sits in your repo, detects compliance liability, and generates the evidence regulators and procurement actually ask for.\r\n\r\nc15t, their open-source consent manager, hit 2.5M npm downloads and is trusted by Zed and Infisical. And that is just the start.\r\n\r\nThey are building the layer that makes every codebase compliant by default, for modern stacks and the agents rewriting them.\r\n",
-    "one_liner": "Compliance as code infrastructure for engineering teams",
+    "long_description": "Inth makes privacy compliance live where the risk actually is: the codebase and runtime. Companies still rely on dashboards, questionnaires, and policy docs to prove compliance, but consent breaks in code, deletion breaks in code, and vendors, logs, AI systems, and agent-written changes all move user data in code. Inth sits in the repo, detects user-data privacy risk, maps it to files and owners, and generates the evidence regulators and enterprise buyers ask for. Its wedge is c15t, an open-source consent SDK with 2.6M npm downloads and adoption from teams like Zed, Infisical, and Expo. Inth is making every codebase compliant by default.",
+    "one_liner": "Privacy compliance, enforced in code",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -1187,6 +1187,53 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/perfectbit.json"
   },
   {
+    "id": 31335,
+    "name": "Memoir",
+    "slug": "memoir",
+    "former_names": [
+      "Tachyon",
+      "Agentsite",
+      "Agentsight",
+      "Recon"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/db5e3e6f38c3e09bc340d492006001bcc103b8d3.png",
+    "website": "https://www.trymemoir.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "AI marketing service for developer tools. We turn your real product into social posts and demo videos in your voice automatically. Think of it as a clone of you that's also marketing your company at the same time.\r\n\r\nMemoir is one system. It reads your repo, drives your live staging app with an AI agent, generates branded demo videos with synthetic data so dashboards look real and narrates them in a voice cloned from yours. For the social side, we monitor what's actually getting traction in your space right now. The threads going viral on dev-tools X, the posts climbing on HN, the formats your audience is engaging with this week, and we draft posts in your writing voice that ride those currents. You review everything before it goes out. The output is indistinguishable from how you'd write and record it yourself, if you had the time and a full marketing team behind you.",
+    "one_liner": "AI-Native Marketing for Developer Tools",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1778812476,
+    "tags": [
+      "Developer Tools",
+      "Analytics",
+      "Marketing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/memoir",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/memoir.json"
+  },
+  {
     "id": 31343,
     "name": "WithAI",
     "slug": "withai",
@@ -1444,7 +1491,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b53a9421cbabfd2beb79e95471ccb31ba8eb85e2.png",
     "website": "https://www.twolabs.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Twolabs is building socially intelligent robots for caregiving. Our semi-humanoids go into nursing homes, senior living communities, and care facilities to support elderly residents, handling everyday tasks like feeding, dressing, medication, and object retrieval, while providing genuine social and emotional companionship. We build the full stack in-house: the robot hardware and all the AI that makes it socially capable, so one caregiver can do more for more residents in a field facing chronic staffing shortages.\r\n\r\nWhile the rest of robotics is working on object manipulation like moving boxes and folding laundry, we're focused on what we think is the most meaningful problem: how people and robots can work together.",
+    "long_description": "Building socially intelligent robots for caregiving, to assist the elderly.\r\n\r\nOur semi-humanoids go into nursing homes, senior living communities, and care facilities to support elderly residents, handling everyday tasks like feeding, dressing, medication, and object retrieval, while providing genuine social and emotional companionship. We build the full stack in-house: the robot hardware and all the AI that makes it socially capable, so one caregiver can do more for more residents in a field facing chronic staffing shortages.\r\n\r\nWhile the rest of robotics is working on object manipulation like moving boxes and folding laundry, we're focused on what we think is the most meaningful problem: how people and robots can work together.",
     "one_liner": "Humanoid robots for caregiving.",
     "team_size": 2,
     "industry": "Industrials",
@@ -2021,7 +2068,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3a80b4c53151c13a3264f328d405b5dfd6b54d18.png",
     "website": "http://hub.xyz",
     "all_locations": "Palo Alto, CA, USA",
-    "long_description": "Hub.xyz provides real-world training data to leading startups, Fortune 500 companies, and frontier AI labs.",
+    "long_description": "Hub.xyz provides real-world training data to leading startups, Fortune 50 companies, and frontier AI labs.",
     "one_liner": "The API for real-world training data.",
     "team_size": 10,
     "industry": "B2B",
@@ -2279,7 +2326,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e0c6bb59547978fc3036953e8d43c990c8c000fc.png",
     "website": "https://junocompanion.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Juno is an AI personal health assistant for the 1B+ people living with chronic illness. \r\n\r\nWe launched in October and now support 80,000+ patients globally. ",
+    "long_description": "Juno is an AI personal health assistant for the 1B+ people living with chronic illness.\r\n\r\nLaunched in October, Juno now supports 90,000+ patients globally and has grown to $65K MRR.",
     "one_liner": "AI Health Assistant for Chronic Illness",
     "team_size": 2,
     "industry": "Healthcare",
@@ -3499,7 +3546,7 @@
     "former_names": [
       "Paper Star"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3186460384778570f52c73ff19cf5b102436f57.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/43a02b84a6b28b5fb26796fe822a596c638d433c.png",
     "website": "https://napkinmath.club",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Napkin Math is the food journal for real people. Stop counting calories, get personalized insights and realistic goals. Easily keep a beautiful food journal, get deep insights on your data with AI, and share your table with friends.",
@@ -4624,6 +4671,47 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/armature.json"
   },
   {
+    "id": 31464,
+    "name": "Soria",
+    "slug": "soria",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/05b2506991797891dcda24e0fe6be2c7f7a60423.png",
+    "website": "https://www.soriaanalytics.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Soria is an AI-native Bloomberg Terminal built from the bottom up, one sector at a time. Starting with health insurance and hospitals, we aggregate dozens of long-tail public and private data sets into a continuously updated \"sector model\" that replaces what every analyst currently maintains independently in Excel. Customers get auditable, Excel-like dashboards, which are activated by platform features including search, AI chat, alerts, an excel add-on and MCP. We are already working with many of the largest banks and hedge funds, and now we're expanding to all of healthcare before moving to other major verticals.",
+    "one_liner": "AI Bloomberg Terminal built for Healthcare (and beyond)",
+    "team_size": 3,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Asset Management",
+    "launched_at": 1779835583,
+    "tags": [
+      "Fintech",
+      "AI",
+      "Stocks"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Asset Management"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/soria",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/soria.json"
+  },
+  {
     "id": 31465,
     "name": "Aseon Labs",
     "slug": "aseon-labs",
@@ -5707,8 +5795,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e35e07f61bc16ff060889081c97809a3aad66df5.png",
     "website": "https://www.useauxos.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Auxos creates simulated audiences for marketing, product, and research teams to test their hypotheses at scale. We build custom audiences for each company to validate product, pricing, and positioning decisions before going live.\r\n\r\nCurrently, customer research is slow and expensive. Surveys and panels cost a fortune and it takes weeks to recruit, moderate, and gather insights.   \r\n\r\nAuxos can get you population scale insights in minutes, at a fraction of the current cost.",
-    "one_liner": "Simulated audiences for customer research",
+    "long_description": "Auxos creates digital twin audiences for marketing, product, and research teams to test their hypotheses at scale. For each audience a customer asks for, whether consumer or B2B, we source and process our own first party human data, one real person behind every digital twin.\r\n\r\nCurrently, customer research is slow and expensive. Surveys and panels cost a fortune and it takes weeks to recruit, moderate, and gather insights.   Auxos aims to transform customer research to make it fast and affordable.\r\n\r\nWhat we have seen is as research is more accessible, it shifts from being used for once-a-year large decisions to the day-to-day ones across messaging, pricing, packaging, products, and more.\r\n\r\nAuxos can get you population scale insights in minutes, at a fraction of the current cost.",
+    "one_liner": "Digital twins for customer research",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -6004,8 +6092,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/13574e5b60275accf705e704a142fb091a82a4b0.png",
     "website": "https://www.trykinect.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "The product detail page is one of the last unchanged surfaces in commerce. Brands have spent years getting sophisticated at driving traffic there but nobody fixed what happens when shoppers arrive.\r\n\r\nKinect is the AI shopping assistant layer for e-commerce. We plug into ecommerce stores and give agents live access to your catalog, inventory, and policies. A brand’s online sales rep that can answer all a customer’s questions, help them find the right products, convince them. The website itself adapts to the shopper’s context: it considers the ads the user clicked on, their searches, filters, scrolling behavior, chat context to all show the shopper what they need to see.\r\n\r\nWe're building for human shoppers today and the AI agents that will shop for them tomorrow. Either way, the product page needs to get a lot smarter. That's Kinect – the product page finally does what it was supposed to do all along.",
-    "one_liner": "Personalized storefronts for every visitor",
+    "long_description": "\r\n\r\nKinect is the AI shopping assistant layer for e-commerce. We plug into ecommerce stores and give agents live access to your catalog, inventory, and policies. A brand’s online sales rep that can answer all a customer’s questions, help them find the right products, convince them. The website itself adapts to the shopper’s context: it considers the ads the user clicked on, their searches, filters, scrolling behavior, chat context to all show the shopper what they need to see.\r\n\r\nWe're building for human shoppers today and the AI agents that will shop for them tomorrow. Either way, the product page needs to get a lot smarter. That's Kinect – the product page finally does what it was supposed to do all along.\r\n\r\nKinect builds AI agents that know your brand, your catalog, and your customers' taste. On your site, they sell every visitor — running the conversation, adapting product pages in real time, picking the right recommendation for the question being asked. The agent picks up on what each shopper actually wants from how they ask, what they hesitate on, what they compare, and what objection makes them bounce. The storefront stops being a static grid and starts being a salesperson. \r\n\r\nOff your site, the same brand-owned data layer makes the brand legible to ChatGPT, Gemini, and Perplexity. Structured catalog, brand voice, fit notes, return reasons, segment-level nuance — all exposed in formats external agents can actually use. When an agent describes the brand, the version it describes is the one you'd want them to, not whatever it guessed from a public catalog scrape.\r\n\r\nEvery interaction becomes signal the brand owns. The model gets sharper, the storefront gets better at selling, every session. Kinect continues to optimize on intent data, user journey data, agentic search data, and more. Over time gaps are filled and conversion for agentic commerce continues to improve.\r\n\r\nTwo surfaces. One brand layer. Built for scaling DTC ecommerce brands.",
+    "one_liner": "Storefronts that sell to humans and AI agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -6035,6 +6123,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/kinect",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/kinect.json"
+  },
+  {
+    "id": 31522,
+    "name": "Gravy",
+    "slug": "gravy",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/046c8f79269b011fabec54b03a626f072794e49d.png",
+    "website": "https://gravy.finance",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "AI Agent for your personal finances.",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Consumer Finance",
+    "launched_at": 1779811070,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Consumer",
+      "Consumer Finance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Consumer Finance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/gravy",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/gravy.json"
   },
   {
     "id": 31523,
@@ -6165,6 +6295,46 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/arden.json"
   },
   {
+    "id": 31526,
+    "name": "Uno Wallet",
+    "slug": "uno-wallet",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2393bf402ae2e425fc41cb7f78facb4b67fa9d5.png",
+    "website": "https://myunowallet.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Uno is building an AI-powered wallet for everyday spending. We start at checkout: Uno automatically selects the best credit card for each purchase based on merchant category, card rewards, and spending patterns, so users earn more points, miles, and cashback without thinking about it.\r\n\r\nToday, people either guess which card to use or manually juggle rewards categories. Uno turns that decision into an invisible automation. Over time, Uno becomes the financial agent in your pocket: optimizing which card to tap, which cards to apply for, when bills are due, and other everyday money decisions.",
+    "one_liner": "The AI wallet that picks the best card at checkout.",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1779834493,
+    "tags": [
+      "Artificial Intelligence",
+      "Payments",
+      "Consumer Finance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/uno-wallet",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/uno-wallet.json"
+  },
+  {
     "id": 31527,
     "name": "Revnu",
     "slug": "revnu",
@@ -6210,18 +6380,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e735fee67a48586d3de061beb544a8ab8d481fc6.png",
     "website": "https://asendia.ai/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Asendia AI builds AI recruiters for staffing agencies and enterprise companies. It clones their best recruiters into AI agents that match, screen, and submit candidates 10x faster.\r\nIn a few months, the Asendia team crossed $500k in revenue and is now working with the top enterprises in the space.",
     "one_liner": "AI Recruiters for Staffing Agencies and Enterprise",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1773592389,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -6232,8 +6398,7 @@
       "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -6342,11 +6507,11 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cd583af5fd7e25beb6cf6bd63167daa1273db6c5.png",
     "website": "https://manicule.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Manicule is an AI-native technical documentation agency. We own technical documentation end-to-end for developer tool companies, including information architecture, messaging, writing, design, and QA. Agents handle the mechanical parts like code verification and auditing at a scale and speed no human team can match, while humans refine the thinking and make the docs actually good. We're at $15K MRR and profitable, with clients like Supermemory, Greptile, Reducto, and Rootly. Supermemory's docs drove a 30% improvement in answer success rate and went viral on Twitter, all shipped in 23 days.\r\n\r\nEvery dev tool founder knows their docs are broken but simply don't have the time to fix them. The old solution was hiring a full-time technical writer who understands engineering, marketing, and devrel. That role is really hard and expensive to hire for, so docs stay broken. Naman started freelance writing for developer tools 3 years ago and realized that you can't one-shot docs. They require tight feedback loops with the engineering team, multiple review cycles, and real product understanding. When he worked with Supermemory, they had two products that sounded identical to customers. He got on calls with the CEO, figured out the right positioning for each product, and restructured the entire docs around it. That kind of work requires judgment and context that agents simply don’t have.\r\n\r\nOn the other hand, testing every code snippet against a live API, auditing hundreds of pages for broken links, and drafting from OpenAPI specs is grunt work that agents do in minutes. The insight behind Manicule is that good documentation requires both, and nobody has packaged them together. Shreyans was a founding engineer at Supermemory, saw the impact of good docs firsthand, and joined Naman to productize Manicule. We're now a team of 5, building toward that vision. Thousands of AI startups are launching dev tools every month, and docs are the single biggest asset they're all neglecting.",
-    "one_liner": "AI Native Technical Documentation Studio",
-    "team_size": 2,
+    "long_description": "Manicule is an AI native devrel that owns developer documentation and technical content across social channels. We're at $250K cARR and our customers include Supermemory, Greptile, Reducto, Mastra, Agentmail and more.\r\n\r\nIt is insanely hard to hire for devrel. Our customers tell us they’ve had roles up for months, paying $300K+ and still can’t find good people. The industry is currently split between SEO/GEO SaaS and agencies that only do videos or in-person devrel. Developer-focused companies also love the velocity AI brings but hate giving their readers AI slop.\r\n\r\nNaman has been writing content since he was 13 having worked with companies like Promptlayer, Brightdata, Courier.com and others. Shreyans has been building since 14, built an AI app that got onto App Store Productivity Trending in a month and worked as founding engineer at Supermemory. We met in high school and have built multiple startups together since.",
+    "one_liner": "AI Native Developer Relations",
+    "team_size": 5,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Marketing",
     "launched_at": 1773484930,
     "tags": [
       "Artificial Intelligence",
@@ -6360,7 +6525,8 @@
     "batch": "Spring 2026",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Marketing"
     ],
     "regions": [
       "United States of America",
@@ -6463,7 +6629,7 @@
     "name": "Arlo Industries",
     "slug": "arlo-industries",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/de06e5d81f17778befa407072af627f2fb2c544d.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/166eb653276ae01578265fba11a85425827f26aa.png",
     "website": "https://arlo1.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Arlo Industries is building a network of sensors that precisely tracks stealthy drones and aerial threats better than radars.\r\n\r\nThis capability does not exist yet because traditional radars are built on past war doctrines designed to protect single, centralised assets. Modern warfare, however, demands wide-area, persistent coverage that is both passive and economically scalable. By utilising a mesh architecture, Arlo Industries unlocks unprecedented asymmetric economics. The network is fundamentally built to scale: the cost of adding sensors grows linearly, but the tracking accuracy increases exponentially, delivering highly resilient, persistent coverage for a fraction of the cost of legacy systems.\r\n\r\nDeo founded Arlo Industries after spending over 6 years in the Israeli defence ecosystem, where he lived through multiple conflicts and experienced the Iron Dome and other systems in action against ICBMs and the infamous Shahed drones. Learning exactly how these defence systems could be improved after a Shahed exploded close to his apartment, he built Arlo Industries around the core philosophy that conflict should be concise & precise.\r\n\r\nThe people behind Arlo1 includes a PhD in drones and autonomy and military experts.\r\n\r\nArlo Industries has actively showcased this technology directly to Ukrainian militaries on the frontlines, as well as to operators across Europe and the USA.",
@@ -6481,7 +6647,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2026",
     "status": "Active",
@@ -6810,8 +6976,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/de52713fe1552551dbe8aa2a5e60202c09bfc0d7.png",
     "website": "https://insforge.dev/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "InsForge is the backend platform designed for coding agents. Database, auth, storage, compute, hosting, and AI gateway in one place, built for agents to configure and manage end to end.",
-    "one_liner": "The backend platform for AI-native developers",
+    "long_description": "Model gateway, compute, deployment, database, auth, and more. Every service built for AI coding agents to operate end to end through CLI and skills.",
+    "one_liner": "The agent-native cloud infrastructure platform",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
