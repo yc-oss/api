@@ -8052,7 +8052,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2020",
     "status": "Active",
@@ -18994,6 +18994,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/alma.json"
   },
   {
+    "id": 26704,
+    "name": "Two Dots",
+    "slug": "two-dots",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/06c738449ceac7bc3068c3a0510a285b6078503d.png",
+    "website": "https://www.twodots.net/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We're building an AI consumer underwriting automation agent. ",
+    "one_liner": "AI fraud prevention and underwriting agent",
+    "team_size": 28,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Consumer Finance",
+    "launched_at": 1652906962,
+    "tags": [
+      "Fintech",
+      "Real Estate",
+      "B2B",
+      "AI",
+      "ML"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Consumer Finance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/two-dots",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/two-dots.json"
+  },
+  {
     "id": 26707,
     "name": "Chariot",
     "slug": "chariot-2",
@@ -24042,18 +24085,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a39c5ab69e2cfbf8fdd2de5562516b23e3a5d91.png",
     "website": "https://www.elayne.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Elayne is building the modern estate settlement platform. \r\n\r\nEstate settlement is a $250B+ annual market, with $80T+ in assets expected to transfer over the next 25 years. But after a death, families and executors have to spend 400+ hours manually identifying, organize, and distribute everything that was left behind like: financial accounts, debts, property, insurance, legal documents, incorporating juristidi ation requirements and family context. \r\n\r\nElayne is the first platform to surface verified assets and debts for presicesly this moment, then turing our discovery into a clear inheritance map. We work directly with families and executors, and with the partners who support them: funeral homes, hospice and aftercare providers, attorneys, and financial institutions.\r\n\r\nThe company was founded by Adria, a former large-cap investor who experienced the problem firsthand, and Rebecca, a repeat fintech and mental health founder who left her master’s program in psychology at Harvard to launch Elayne. Together, they bring financial rigor, technical execution, and lived empathy to a massive but deeply human category.\r\n\r\nBacked by Y Combinator and Accel, we are now an 8-person team based in NYC.",
+    "long_description": "Elayne is building the modern estate settlement platform. \r\n\r\nEstate settlement is a $250B+ annual market, with $80T+ in assets expected to transfer over the next 25 years. But after a death, families and executors have to spend 400+ hours manually identifying, organize, and distribute everything that was left behind like: financial accounts, debts, property, insurance, legal documents, incorporating juristidi ation requirements and family context. \r\n\r\nElayne is the first platform to surface verified assets and debts for precisely this moment, then turing our discovery into a clear inheritance map. We work directly with families and executors, and with the partners who support them: funeral homes, hospice and aftercare providers, attorneys, and financial institutions.\r\n\r\nThe company was founded by Adria, a former large-cap investor who experienced the problem firsthand, and Rebecca, a repeat fintech and mental health founder who left her master’s program in psychology at Harvard to launch Elayne. Together, they bring financial rigor, technical execution, and lived empathy to a massive but deeply human category.\r\n\r\nBacked by Y Combinator and Accel, we are now an 8-person team based in NYC.",
     "one_liner": "Estate settlement, from verified discovery to distribution",
     "team_size": 8,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1718839098,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "B2B",
       "Legal",
-      "Consumer Finance",
-      "AI"
+      "Consumer Finance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -26555,25 +26598,29 @@
   },
   {
     "id": 31393,
-    "name": "KELAI",
+    "name": "KelAI",
     "slug": "kelai",
     "former_names": [
       "KelAI",
       "KelAI Capital",
-      "KelAI"
+      "KelAI",
+      "KELAI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb95270d371de6d06642014f38003f5b677b044f.png",
-    "website": "https://kelaicapital.com/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bdd4d030971f6aff2ed8a9e7b9db6c95c7b29e08.png",
+    "website": "https://kelaitech.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "For decades, finance has been a race to know first. The first traders belonged to the floor; then came quant teams building infrastructure to interpret markets systematically.\r\nIn the era of AI, as the boundary between human and machine intelligence dissolves, KelAI brings finance into cognitive interpretation at scale. Our autonomous agents read every market move, formulate systematic investment insights and compound knowledge at market speed.\r\n\r\nCompounding intelligence, trade by trade.",
+    "long_description": "KelAI is an AI research engine for hedge funds and institutional investors. It captures the full investment research process in one platform and runs it autonomously from idea generation to data analysis, backtesting, validation, monitoring, and feedback.\r\n\r\nKelAI is built by Jeremie Cohen, a former systematic equity PM at WorldQuant with deep machine learning experience, after years inside institutional quant research. \r\n\r\nHedge fund research is constrained by human throughput and lost context. Teams can only explore so many ideas, and much of what they learn gets scattered across siloed systems. \r\n\r\nKelAI unifies the research loop into one continuous workflow, empowering institutional investors with an AI research team they can scale on demand, while capturing the full context so every cycle improves the next one.",
     "one_liner": "Intelligence platform for systematic market insights",
     "team_size": 3,
     "industry": "Fintech",
-    "subindustry": "Fintech -> Asset Management",
+    "subindustry": "Fintech",
     "launched_at": 1779077553,
     "tags": [
       "Generative AI",
-      "Swarm AI"
+      "Swarm AI",
+      "Finance",
+      "Market Research",
+      "Investments"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -26582,8 +26629,7 @@
     "batch": "Spring 2026",
     "status": "Active",
     "industries": [
-      "Fintech",
-      "Asset Management"
+      "Fintech"
     ],
     "regions": [
       "United States of America",
@@ -26761,6 +26807,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/river-markets",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/river-markets.json"
+  },
+  {
+    "id": 31457,
+    "name": "ValCtrl",
+    "slug": "valctrl",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/62a4ea0ebf35b0c566bf502925d17cda1e04fa89.png",
+    "website": "https://valctrl.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "ValCtrl is building the world model for Prediction Finance. Prediction markets contain useful prices about the future, but today those prices are fragmented across venues, titles, rules, and proxy contracts. Users think in beliefs; markets are stored as scattered contracts.\r\n\r\nOur first product is Kassandre Search. Users type a natural-language belief, and Kassandre maps it to relevant prediction markets with backtrace and quality labels. Existing markets are the first scaffold. The long-term product path is search -> composed exposures -> native quotes -> gated bet/trade placement, with legal/compliance gates respected at each step.\r\n\r\nWe are looking for hard belief-to-market queries from forecasters, investors, operators, and YC founders.",
+    "one_liner": "ValCtrl is the world model for Prediction Finance, and Kassandre…",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Banking and Exchange",
+    "launched_at": 1771955279,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Finance",
+      "Analytics",
+      "Data Engineering"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Banking and Exchange"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/valctrl",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/valctrl.json"
   },
   {
     "id": 31464,

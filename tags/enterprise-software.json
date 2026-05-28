@@ -3027,7 +3027,7 @@
       "Unit IQ"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fbd00107f697b5f5493bc13c93f8896ad8eff46b.png",
-    "website": "http://superunit.ai",
+    "website": "http://superunit.com",
     "all_locations": "Los Angeles, CA, USA",
     "long_description": "Superunit deploys AI voice and email agents to complete employment verifications for background check companies—faster, cheaper, and more compliant than internal teams or outsourced call centers.\r\n\r\nOur agents call and email employers, collect verification data, and log every interaction for audit and compliance. Customers are replacing manual workflows with Superunit to scale without adding headcount or compromising quality.\r\n\r\nWe work with background screeners and banks to process thousands of verifications per month.",
     "one_liner": "Faster, more profitable background checks with AI",
@@ -3044,7 +3044,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -4738,7 +4738,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Coding agents in the cloud don't work for majority of teams who require native capabilities; they lack XCode for iOS, Emulator for Android, Unity for game development teams. We are on a mission to cloudify every local development utility so that regardless of where it runs, your agent can compose an ideal set of capabilities on the fly so you don't need to run it on your laptop.\r\n\r\nToday, we provide remote services such as XCode, iOS & Android simulators to enable coding agents running in any sandbox to be able to build and iterate over mobile apps, too.\r\n\r\nReplit, Rork, Momentic, Minitap and more agent companies have built mobile development and testing experiences on Limrun platform. Coconote (Quizlet), SorceJobs (W25) and more companies with mobile apps use Limrun with their cloud agents, merging PRs without having to check out the code locally.",
     "one_liner": "Extend your cloud agent with XCode, Android and more",
-    "team_size": 3,
+    "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1779230895,
@@ -4773,6 +4773,48 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/limrun.json"
   },
   {
+    "id": 31396,
+    "name": "qomplement",
+    "slug": "qomplement",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/638b55f98e908e0ccf30170e7b53dff164439c5b.png",
+    "website": "https://qomplement.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "qomplement is the agentic ERP built for retail and logistics companies. We give mid-market and enterprise procurement and operations teams superpowers by automating the work that nobody wants to do: purchase order intake, vendor onboarding, item master updates, freight order processing, carrier invoicing, and inventory reconciliation.\r\n\r\nThese industries move trillions of dollars in goods every year, yet most still run on emails, spreadsheets, and disconnected legacy systems. Legacy software has left them behind.\r\n\r\nAlready trusted by some of the largest grocery chains and trucking companies in the world, processing 10,000+ documents per day across 20+ companies. Headquartered in San Francisco.",
+    "one_liner": "The Agentic ERP for supply chain operations",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1771907564,
+    "tags": [
+      "B2B",
+      "Logistics",
+      "Supply Chain",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/qomplement",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/qomplement.json"
+  },
+  {
     "id": 31404,
     "name": "Userlens",
     "slug": "userlens",
@@ -4781,10 +4823,10 @@
     "website": "https://userlens.io",
     "all_locations": "Helsinki, Finland",
     "long_description": "Most B2B churn is preventable - most teams just see it too late. \r\n\r\nBy the time a CSM notices, the champion has already quietly disengaged, key features went unadopted, and the renewal conversation is damage control. The dangerous part? The customer might still be logging in, but they've stopped using what actually matters. \r\n\r\nUserlens catches all of that months earlier.\r\n\r\nOur AI agents monitor every user at every account the way your best CSM watches your top five strategic accounts:\r\n- feature adoption\r\n- usage trends\r\n- champion engagement\r\n- sentiment shifts in Slack and Intercom\r\n- open support issues. \r\n\r\nWhen a signal hits (churn risk, renewal, expansion opportunity), Userlens doesn't just alert you. It builds the talking points and deck on top of your team's approved templates and playbook. If you have CSMs, Userlens makes every one of them your best. If you don't have one yet, Userlens runs your book like the best CSM money could buy.",
-    "one_liner": "AI agents that predicts churn months before it happens. ",
+    "one_liner": "AI CSM that never misses churn and upsells. ",
     "team_size": 4,
     "industry": "B2B",
-    "subindustry": "B2B -> Operations",
+    "subindustry": "B2B -> Productivity",
     "launched_at": 1775157268,
     "tags": [
       "SaaS",
@@ -4800,7 +4842,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Operations"
+      "Productivity"
     ],
     "regions": [
       "Finland",
@@ -5104,5 +5146,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/flowscope",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/flowscope.json"
+  },
+  {
+    "id": 32155,
+    "name": "Rex",
+    "slug": "rex-inc",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b14c16514ac7654483b96e54e1bf49a45714e8f6.png",
+    "website": "https://www.rex.inc",
+    "all_locations": "",
+    "long_description": "Rex is an AI-native service for order to cash. We replace people-heavy operations with AI agents that continuously manage invoices, customers and exceptions.\r\n\r\nOrder to cash is a $60B outsourced function because the work is too messy for traditional automation. Every customer has different context, exceptions do not follow clean rules, and the next step is often buried in emails, portals, handoffs, or someone’s memory. Rex agents run continuously in the background and resolve work to SLA standards so cash keeps moving. We're live with pre-IPO tech companies, managing  >$500m in receivables from F100 companies, cutting manual follow-up cycles from weeks to hours.\r\n\r\nWe founded Rex after spending four years building Sequence, an a16z-backed finance ops platform, from zero to Series A — where we saw firsthand that at-scale, O2C still runs on manual labour.\r\n\r\nRex is the #1 winner of the Vercel AI Accelerator out of 2,500 teams, selected by Guillermo Rauch and leaders from OpenAI, Anthropic, Browserbase and more.",
+    "one_liner": "AI Operations Partner for Enterprise Order to Cash",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1779903831,
+    "tags": [
+      "B2B",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rex-inc",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/rex-inc.json"
   }
 ]

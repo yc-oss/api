@@ -13517,7 +13517,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2020",
     "status": "Active",
@@ -22805,7 +22805,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -34188,7 +34188,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -41905,7 +41905,7 @@
       "Unit IQ"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fbd00107f697b5f5493bc13c93f8896ad8eff46b.png",
-    "website": "http://superunit.ai",
+    "website": "http://superunit.com",
     "all_locations": "Los Angeles, CA, USA",
     "long_description": "Superunit deploys AI voice and email agents to complete employment verifications for background check companies—faster, cheaper, and more compliant than internal teams or outsourced call centers.\r\n\r\nOur agents call and email employers, collect verification data, and log every interaction for audit and compliance. Customers are replacing manual workflows with Superunit to scale without adding headcount or compromising quality.\r\n\r\nWe work with background screeners and banks to process thousands of verifications per month.",
     "one_liner": "Faster, more profitable background checks with AI",
@@ -41922,7 +41922,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -43885,7 +43885,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2024",
     "status": "Active",
@@ -47385,9 +47385,9 @@
     "subindustry": "Consumer",
     "launched_at": 1760485553,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47521,7 +47521,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -48018,10 +48018,10 @@
     "website": "https://userlens.io",
     "all_locations": "Helsinki, Finland",
     "long_description": "Most B2B churn is preventable - most teams just see it too late. \r\n\r\nBy the time a CSM notices, the champion has already quietly disengaged, key features went unadopted, and the renewal conversation is damage control. The dangerous part? The customer might still be logging in, but they've stopped using what actually matters. \r\n\r\nUserlens catches all of that months earlier.\r\n\r\nOur AI agents monitor every user at every account the way your best CSM watches your top five strategic accounts:\r\n- feature adoption\r\n- usage trends\r\n- champion engagement\r\n- sentiment shifts in Slack and Intercom\r\n- open support issues. \r\n\r\nWhen a signal hits (churn risk, renewal, expansion opportunity), Userlens doesn't just alert you. It builds the talking points and deck on top of your team's approved templates and playbook. If you have CSMs, Userlens makes every one of them your best. If you don't have one yet, Userlens runs your book like the best CSM money could buy.",
-    "one_liner": "AI agents that predicts churn months before it happens. ",
+    "one_liner": "AI CSM that never misses churn and upsells. ",
     "team_size": 4,
     "industry": "B2B",
-    "subindustry": "B2B -> Operations",
+    "subindustry": "B2B -> Productivity",
     "launched_at": 1775157268,
     "tags": [
       "SaaS",
@@ -48037,7 +48037,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Operations"
+      "Productivity"
     ],
     "regions": [
       "Finland",
@@ -48143,7 +48143,7 @@
     "website": "https://www.argalabs.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We build environments to test your app and agents against the real world.\r\n\r\nDeploy your code/agent into a sandbox that runs against replicas of external services (Stripe, Slack, Google Drive, etc.). Twins support the same APIs, MCP tool calls & SDKs as the real software, and you can spin up thousands of instances in parallel and seed them using natural language. Run real workflows, surface edge cases, and observe how your code/agents actually behave before hitting production.",
-    "one_liner": "The validation infrastructure for AI agents",
+    "one_liner": "Real-world sandboxes to test agents and agent-facing software",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -48425,6 +48425,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/useparrot",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/useparrot.json"
+  },
+  {
+    "id": 31441,
+    "name": "Infera",
+    "slug": "infera",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be061afea8007a31da2afafddc3638b0f8cad08a.png",
+    "website": "https://www.infera.bio",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Describe an experiment in plain English, and Infera turns it into a validated, instrument-ready run across the equipment your lab already uses. Infera handles the protocol logic, vendor-specific scripts, data, inventory, and institutional knowledge in one system. An AI-native compiler for the lab: one system from intent to execution.",
+    "one_liner": "Control lab instruments with natural language.",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Industrial Bio",
+    "launched_at": 1779916747,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Biotech",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Industrial Bio"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/infera",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/infera.json"
   },
   {
     "id": 31445,
@@ -48733,16 +48776,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d73e9cbe0885e3d783faf674783100f13336068b.png",
     "website": "https://reasonblocks.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "ReasonBlocks makes AI agents more accurate and cheaper by catching failures mid-run and compounding reasoning patterns across every agent you deploy. Plugs into your existing agent stack in minutes and starts improving results from the first call.",
-    "one_liner": "Infra layer for smarter and cheaper AI agents",
+    "long_description": "ReasonBlocks is the runtime layer that makes AI agents cheaper and more reliable. We correct agent reasoning and compress tokens mid-run, with gains compounding across runs. On SWE-Bench pro we have seen a 52% token reduction and 42% accuracy lift.",
+    "one_liner": "The runtime layer that makes AI agents cheaper and more reliable",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1777282713,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
