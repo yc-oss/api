@@ -7679,16 +7679,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
     "one_liner": "Engineering a future without cancer deaths.",
-    "team_size": 16,
+    "team_size": 18,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Diagnostics",
     "launched_at": 1691571179,
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
       "Biotech",
       "Healthcare",
-      "Diagnostics"
+      "Diagnostics",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7706,7 +7706,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -9127,16 +9127,16 @@
     "website": "https://www.nitrode.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Nitrode builds high-quality game data to train and evaluate LLMs and agents on spatial and temporal reasoning. Today’s models are trained on static text and images, but struggle to understand how the world evolves over time. We create small, fully specified game environments that generate ground-truth data on state, transitions, and hidden dynamics. This enables AI systems to move beyond simple pattern matching, incorporating memory, causality, and multi-step reasoning to create more reliable agents in dynamic environments.",
-    "one_liner": "Data for reasoning agents in dynamic environments",
+    "one_liner": "Gaming data for reasoning agents in dynamic environments",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1738144366,
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
       "B2B",
-      "Data Engineering"
+      "Data Engineering",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -9974,6 +9974,93 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/amika",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/amika.json"
+  },
+  {
+    "id": 31157,
+    "name": "Drafted",
+    "slug": "drafted",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a2c139b868432353a44f9beec890c283ae5570b6.png",
+    "website": "https://www.drafted.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Drafted is building multimodal generative models for residential architecture and spatial design.\r\n\r\nThe product allows users to design homes by combining sketches and direct spatial input to generate coherent floor plans and elevations that can be explored in both 2D and 3D. Users can define footprints, lot boundaries, room placement, relationships, room programs, and square footage constraints that persist across generations and iterative design exploration, then export CAD, PDF, and other files into the rest of the home design and construction process.\r\n\r\nMore info on the company:\r\n⁃ In the past month, we've had 120k users come to the site, generating 325k+ floor plans through socials and word-of-mouth. \r\n⁃ A team of 9, made up of researchers from Stanford, Autodesk, Brown, Adobe, and Architects from WeWork, Atmos, and design families\r\n⁃ Raised $17.5M from investors such as Buckley Ventures (Josh Buckley), YC (Aaron Epstein), Patrick Collison, Evan Moore, Convective Capital (Bill Clerico), Ben Silbermann, Jack Altman, Samsung, Starship Ventures, Charlie Songhurst, Ryan Tedder, Moses Moody, Alex Blania, and Kevin Mahaffey",
+    "one_liner": "Design your home instantly with AI",
+    "team_size": 9,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1780013660,
+    "tags": [
+      "Machine Learning",
+      "Real Estate",
+      "Design",
+      "Architecture",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/drafted",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/drafted.json"
+  },
+  {
+    "id": 31168,
+    "name": "Instinct",
+    "slug": "instinct-xyz",
+    "former_names": [
+      "Assonant"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f2c4947196f35e938655df560aee5ba21c58b51.png",
+    "website": "https://instinct.xyz",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We believe in the next generation of finance where everyone around the world can access the global market and liquidity from the tip of their hands. \r\n\r\nWe are building the best mobile trading app that will enable this vision. \r\n\r\nHyperliquid is the house of all finance, Instinct is the app of all finance. \r\n\r\nHyperliquid.",
+    "one_liner": "Trade your instinct",
+    "team_size": 4,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1779953002,
+    "tags": [
+      "Machine Learning",
+      "Trading",
+      "AI",
+      "Cryptocurrency"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/instinct-xyz",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/instinct-xyz.json"
   },
   {
     "id": 31191,

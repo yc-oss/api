@@ -3593,16 +3593,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dbbb70598f14b005aa7da32e84d2d14fed9e3e3a.png",
     "website": "https://www.pares.ai/",
     "all_locations": "Los Angeles, CA, USA",
-    "long_description": "PARES is an AI-native real estate services firm, providing investment sales brokerage, leasing, property management, and acquisition advisory to institutional and middle-market property owners and investors across the country. \r\n\r\nReal estate is an extremely labor-intensive business, often requiring scaling headcount to grow, being extremely local to submarkets, and operating on low margins. With AI, these services can be centralized and delivered better, faster, and at a fraction of the cost.\r\n\r\nAI-native brokerage:\r\n- Prospecting sellers through automated inbound and outbound outreach\r\n- Underwriting deals and producing marketing materials with speed and precision\r\n- Surfacing hidden buyers, running the marketing process, and negotiating contracts\r\n- Handling all back-office, accounting, and additional support\r\n\r\nAI-native property management: \r\n- Communicating with tenants and vendors around the clock\r\n- Screening leasing prospects, sending applications, and drafting leases\r\n- Collecting rents, making payments, and chasing delinquencies\r\n- Running accounting, payroll, and owner reporting\r\n\r\nCheck us out at https://www.pares.ai/",
+    "long_description": "PARES is an AI-native real estate services firm, providing investment sales brokerage and property management to institutional and middle-market property owners and investors across the country. \r\n\r\nReal estate is an extremely labor-intensive business, often requiring scaling headcount to grow, being extremely local to submarkets, and operating on low margins. With AI, these services can be centralized and delivered better, faster, and at a fraction of the cost.\r\n\r\nAI-native brokerage:\r\n- Prospecting sellers through automated inbound and outbound outreach\r\n- Underwriting deals and producing marketing materials with speed and precision\r\n- Surfacing hidden buyers, running the marketing process, and negotiating contracts\r\n- Handling all back-office, accounting, and additional support\r\n\r\nAI-native property management: \r\n- Communicating with tenants and vendors around the clock\r\n- Screening leasing prospects, sending applications, and drafting leases\r\n- Collecting rents, making payments, and chasing delinquencies\r\n- Running accounting, payroll, and owner reporting\r\n\r\nCheck us out at https://www.pares.ai/",
     "one_liner": "AI-native real estate services firm",
     "team_size": 3,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction",
     "launched_at": 1752084453,
     "tags": [
+      "Artificial Intelligence",
       "Real Estate",
       "Proptech",
-      "AI",
       "Conversational AI"
     ],
     "tags_highlighted": [],
@@ -3678,7 +3678,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/abb178493b637223c4623f43b2c209131939af8e.png",
     "website": "https://plan0.ai/",
     "all_locations": "",
-    "long_description": "PLAN0 is an AI-powered construction cost intelligence platform serving real estate developers, investors, and general contractors.\r\n\r\nPLAN0 analyzes architectural plans using computer vision models to generate detailed cost estimates and analytics in minutes. Through industry partnerships, the platform is also building a database of historical and real-time localized cost data that power its analytics tools. A developer can test whether switching from concrete to steel reduces cost, a lender can stress-test against historical overrun patterns, and a contractor can lock in steel pricing ahead of forecasted hikes.\r\n\r\nThe vision is to develop the Bloomberg of construction.",
+    "long_description": "PLAN0 is building the Bloomberg of construction for real estate developers, investors, and general contractors — $20B of projects are already running through the platform.\r\n\r\nWe analyze architectural plans using computer vision AI models to generate detailed cost estimates and analytics in minutes. Through industry partnerships, the platform is also building a database of historical and real-time localized project cost data that power its analytics. Using quant finance inspired ML models, it can decompose construction costs in market observable factors to predict all local trade level costs up to 24 months out with high accuracy. ",
     "one_liner": "AI powered construction cost estimation & analytics.",
     "team_size": 5,
     "industry": "Real Estate and Construction",
@@ -3711,5 +3711,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/plan0-ai",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/plan0-ai.json"
+  },
+  {
+    "id": 31543,
+    "name": "CentralComs",
+    "slug": "centralcoms",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/54ba538a0dd95f0a3b77f6e1bf3245359e03da5f.png",
+    "website": "https://centralcoms.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "CentralComs is building AI Agents for property managers that tracks every maintenance call, chases every open ticket, and keep owners/tenants/vendors updated, so nothing falls through the cracks and operations never stall.\r\n\r\nThese agent work directly inside AppFolio, Buildium, Yardi and your existing stack, making real-time decisions and resolving multi-step workflows without handoffs.",
+    "one_liner": "Property Management AI Agents that automate leasing and maintenance.",
+    "team_size": 0,
+    "industry": "Real Estate and Construction",
+    "subindustry": "Real Estate and Construction -> Housing and Real Estate",
+    "launched_at": 1779989306,
+    "tags": [
+      "Real Estate",
+      "B2B",
+      "Proptech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Real Estate and Construction",
+      "Housing and Real Estate"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/centralcoms",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/centralcoms.json"
   }
 ]

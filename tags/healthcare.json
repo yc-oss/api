@@ -5157,16 +5157,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Metriport provides real-time access to comprehensive medical data for 300M+ individuals across the US. Our open-source intelligence platform helps organizations access, analyze, and exchange patient data while integrating with all major healthcare IT systems.\r\n\r\nIf you’ve been to doctors in the US, you may have encountered the problem: how does a healthcare provider get access to your up-to-date medical history to treat you properly? Reliance on archaic methods is still the norm: typically, you or your provider need to call the facilities where you’ve previously received treatment (assuming you remember them all), just to have them send your records via fax (yep, fax). This can take weeks, only then to have a provider sift through hundreds of pages of unstructured docs, just to figure out basic things like your active medication list, what conditions you may have, latest lab results, etc. This not only delays care—it can cause improper treatment, since the medical history is critical for informing treatment decisions. \r\n\r\nMetriport integrates fragmented medical data from thousands of sources—including both national and state/regional Health Information Exchanges (HIEs), ADTs, EHRs, pharmacies, and labs—through a single API connector. The platform then standardizes, deduplicates, and enriches this data to create a comprehensive longitudinal patient record, with AI-powered clinical summaries. \r\n\r\nAlong with a rich understanding of patient health history, healthcare providers also get realtime updates about their patients' health through Metriport. This includes getting notified when a patient is discharged from the hospital, picks up their prescription from the pharmacy, or has a new lab result available. Through this data, care teams get insights across their patient population, helping with 30-day readmissions prediction, care gap closure, risk adjustment, and more.\r\n\r\nOn top of all of this, Metriport enables healthcare organizations to share net-new clinical information back to all major healthcare IT systems, and to become interoperable with popular EHR systems such as Epic, Cerner, athena, eClinicalWorks, and many more—forming an internet for healthcare data.\r\n\r\nMetriport improves both patient and provider lives at the point-of-care, supporting use cases such as medication adherence, transitions of care management, chart prep, and much more. If you want to do work that matters, get in touch with us today.",
     "one_liner": "Open-Source Platform for Healthcare Data Intelligence",
-    "team_size": 24,
+    "team_size": 26,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1654554081,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Digital Health",
       "Healthcare",
-      "API"
+      "API",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6025,16 +6025,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Readily uses AI to free 20 million healthcare professionals from manual compliance work so they can focus on patient care. We've helped $B healthcare organizations cut regulatory analysis, policy drafting, and audit work by up to 90%, reducing consulting spend and compliance risk.",
     "one_liner": "AI Compliance Platform for Healthcare Organizations",
-    "team_size": 14,
+    "team_size": 20,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1684821530,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Compliance",
       "Healthcare",
-      "Regtech"
+      "Regtech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6049,7 +6049,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -6285,16 +6285,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
     "one_liner": "Engineering a future without cancer deaths.",
-    "team_size": 16,
+    "team_size": 18,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Diagnostics",
     "launched_at": 1691571179,
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
       "Biotech",
       "Healthcare",
-      "Diagnostics"
+      "Diagnostics",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6312,7 +6312,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -8861,8 +8861,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2035055dd5fbc0e7ba3359cc653941b651ebff6b.png",
     "website": "https://runharbor.com/",
     "all_locations": "San Diego, CA, USA",
-    "long_description": "Harbor is a new, AI-enabled system of record for clinical trial data that replaces legacy electronic data capture (EDC) systems. Today, medical device and pharma companies spend months setting up custom EDCs that research sites then spend hours per subject per day entering data into. With Harbor, the EDC is spun up simply by reading your clinical trial protocol and research sites upload raw source documents into the platform, skipping the tedious and error-prone data entry process altogether.\r\n\r\nEDCs haven’t fundamentally changed since the 1990s. They are passive, regulatory compliant data bins that cause massive trial delays, coordinator burnout, and weeks of back-and-forth to resolve data errors. Because of this, data management currently consumes ~30% of total clinical trial budgets.\r\n\r\nWith LLM and document extraction capabilities finally reaching the accuracy, reliability, and traceability required in high-risk domains, Harbor is redefining the way data is collected and monitored in clinical trials, all while remaining fully GCP- and 21 CFR Part 11 compliant.\r\n\r\nAfter months of building our initial product, our platform is now live with its first few clinical studies. For our largest customer and their 1600 subject randomized trial, we were able to use our internal tools to get their study database configured in just one week, which was ten times faster than legacy EDC vendors quoted.\r\n\r\nWe built Harbor because we lived through this problem. Albert spent four years in clinical trials and regulatory strategy for a medical device startup, spending weeks at clinical sites watching coordinators battle legacy software firsthand. Nate brings the technical firepower, having built scalable software at Google and Ramp and as employee #1 at a previous YC startup.",
-    "one_liner": "AI system-of-record for clinical trial data",
+    "long_description": "Harbor is building an AI-native contract research organization (CRO) for clinical trials. We started with an AI-native system of record for clinical trial data (electronic data capture system), grew the software business to seven trials and ~$187k in contracted software revenue over the next twelve months, then expanded into full-service trial execution and signed our first CRO contract worth $1.93M over three years.\r\n\r\nClinical trials consume 45% of all new drug and device development spend. While some of that goes to software, sites, and patients, the largest line items are services: project management, monitoring, data management, site coordination, source verification, query resolution, record reconciliation, and analysis.\r\n\r\nToday, drug and device companies outsource clinical operations to legacy CROs and their massive teams, which is why the CRO market is $82B annually. Harbor delivers the regulated services companies buy from legacy CROs, but built around our AI-native system of record from day one. Our software already automates the core data workflows: study build, data capture, query generation, monitoring, signing, and database lock. Because we own the system of record, we can expand into the surrounding service workflows: site contracting and billing, subject engagement and retention, statistics, reporting, and more.\r\n\r\nWe built Harbor because we lived through the problem. Albert spent four years in clinical trials and regulatory strategy at a medical device startup, taking an unproven wearable from first-in-human trials to FDA authorization. Nate brings the technical depth, having built scalable software at Google and Ramp and served as employee #1 at a previous YC startup.",
+    "one_liner": "AI-native CRO for clinical trial operations",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
