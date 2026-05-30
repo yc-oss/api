@@ -22,15 +22,17 @@ API endpoint: https://yc-oss.github.io/api/meta.json
 
 ### 🏢 Companies
 
-| List of companies                 | API endpoint                                                        |
-| --------------------------------- | ------------------------------------------------------------------- |
-| All launched companies            | https://yc-oss.github.io/api/companies/all.json                     |
-| Top companies                     | https://yc-oss.github.io/api/companies/top.json                     |
-| Black-founded companies           | https://yc-oss.github.io/api/companies/black-founded.json           |
-| Hispanic/Latino-founded companies | https://yc-oss.github.io/api/companies/hispanic-latino-founded.json |
-| Women-founded companies           | https://yc-oss.github.io/api/companies/women-founded.json           |
-| Not-for-profit companies          | https://yc-oss.github.io/api/companies/nonprofit.json               |
-| Companies currently hiring        | https://yc-oss.github.io/api/companies/hiring.json                  |
+| List of companies                        | API endpoint                                                        |
+| ---------------------------------------- | ------------------------------------------------------------------- |
+| All launched companies                   | https://yc-oss.github.io/api/companies/all.json                     |
+| Top companies                            | https://yc-oss.github.io/api/companies/top.json                     |
+| Black-founded companies                  | https://yc-oss.github.io/api/companies/black-founded.json           |
+| Hispanic/Latino-founded companies        | https://yc-oss.github.io/api/companies/hispanic-latino-founded.json |
+| Women-founded companies                  | https://yc-oss.github.io/api/companies/women-founded.json           |
+| Not-for-profit companies                 | https://yc-oss.github.io/api/companies/nonprofit.json               |
+| Companies currently hiring               | https://yc-oss.github.io/api/companies/hiring.json                  |
+| Companies with public application videos | https://yc-oss.github.io/api/companies/app-video-public.json        |
+| Companies with public demo day videos    | https://yc-oss.github.io/api/companies/demo-day-video-public.json   |
 
 ### 🎓 Batches
 
@@ -541,6 +543,11 @@ Each object has the following properties:
 | `question_answers`      | boolean  | Whether the company's question answers are public                |
 | `url`                   | string   | The company's URL on the Y Combinator website                    |
 | `api`                   | string   | The company's API endpoint from this repository                  |
+
+YC also exposes signed S3 URLs for some application and demo day videos, but
+those URLs expire quickly. This API stores the durable `app_video_public` and
+`demo_day_video_public` booleans, and provides matching filtered endpoints,
+instead of publishing stale signed media URLs.
 
 For example, the `airbnb.json` endpoint returns the following object:
 
