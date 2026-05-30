@@ -316,6 +316,16 @@ const companyBooleanFilters = [
   },
   { key: "nonprofit", slug: "nonprofit", name: "Not-for-profit companies" },
   { key: "isHiring", slug: "hiring", name: "Companies currently hiring" },
+  {
+    key: "app_video_public",
+    slug: "app-video-public",
+    name: "Companies with public application videos",
+  },
+  {
+    key: "demo_day_video_public",
+    slug: "demo-day-video-public",
+    name: "Companies with public demo day videos",
+  },
 ] as const satisfies ReadonlyArray<{
   key: keyof Pick<
     CompanyResult,
@@ -325,6 +335,8 @@ const companyBooleanFilters = [
     | "highlight_women"
     | "nonprofit"
     | "isHiring"
+    | "app_video_public"
+    | "demo_day_video_public"
   >;
   slug: string;
   name: string;
