@@ -19440,15 +19440,17 @@
   },
   {
     "id": 12065,
-    "name": "Gordian Software",
-    "slug": "gordian-software",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bba37502ba38f42df1df621e97c2d5fffd434c73.png",
-    "website": "https://www.gordiansoftware.com/",
+    "name": "Axel Travel",
+    "slug": "axel-travel",
+    "former_names": [
+      "Gordian Software"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/33c2f464dad2729b9186b0a075e4c083d2478569.png",
+    "website": "https://helloaxel.com/",
     "all_locations": "Bellevue, WA, USA",
-    "long_description": "Gordian is pioneering seamless, personalized travel powered by world-class software.\r\n\r\nWe don’t remodel legacy platforms — we invent what's next.\r\n\r\nBuilt on the values of freedom, impact, and ownership, we emphasize in-person collaboration, deep thinking, and bold execution.\r\n\r\nWe believe in a high-talent, low-ego team with the energy to build something extraordinary.",
-    "one_liner": "Building software to remove friction in travel",
-    "team_size": 30,
+    "long_description": "Axel finds you the best travel deals, has negotiated rates and gets you money back if the price drops after booking.\r\n\r\nFKA - Gordian Software: API for online travel companies to sell airline ancillaries",
+    "one_liner": "AI agent that saves you money on travel",
+    "team_size": 20,
     "industry": "Consumer",
     "subindustry": "Consumer -> Travel, Leisure and Tourism",
     "launched_at": 1541644473,
@@ -19476,8 +19478,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/gordian-software",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/gordian-software.json"
+    "url": "https://www.ycombinator.com/companies/axel-travel",
+    "api": "https://yc-oss.github.io/api/batches/winter-2019/axel-travel.json"
   },
   {
     "id": 12078,
@@ -25045,7 +25047,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "HomeBreeze offers the fastest and easiest way to make home upgrades. Our AI system remotely scopes projects based on photos, video, answers to questions, and other data. We send those scopes to our network of contractors and get homeowners quotes within minutes, rather than weeks. We started with energy-efficient upgrades (e.g. heat pumps), as our first stop toward modernizing home management.\r\n\r\nAs a pioneer in bringing AI to home services, we served thousands of customers across California and delivered an experience that both homeowners and contractors love (our reviews average 4.97 stars!).",
     "one_liner": "The fastest and easiest way to make home upgrades",
-    "team_size": 40,
+    "team_size": 45,
     "industry": "Consumer",
     "subindustry": "Consumer -> Home and Personal",
     "launched_at": 1627653790,
@@ -36217,18 +36219,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/43a02b84a6b28b5fb26796fe822a596c638d433c.png",
     "website": "https://napkinmath.club",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Napkin Math is the food journal for real people. Stop counting calories, get personalized insights and realistic goals. Easily keep a beautiful food journal, get deep insights on your data with AI, and share your table with friends.",
-    "one_liner": "Building Napkin Math, hyper-personalized AI food journal",
+    "long_description": "Existing consumer health apps focus on scaling a one-size-fits-all solution: calorie deficits. But they don’t answer the questions you actually have.\r\n\r\nFood is deeply personal, and so is Napkin Math:\r\n\r\nGet the fuel you need for marathon training, while understanding you eat catered office lunches five days a week. Discover what’s triggering your stomach irritation, without sacrificing your weekly dinner with friends. Napkin Math tailors a plan for not only your specific health goal, but also your life.",
+    "one_liner": "the hyper-The hyper-personalized AI food journal that helps people…",
     "team_size": 3,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1775700750,
     "tags": [
-      "Artificial Intelligence",
       "Consumer",
       "Fitness",
       "Digital Health",
-      "Food"
+      "Food",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -36290,46 +36292,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/result",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/result.json"
-  },
-  {
-    "id": 31458,
-    "name": "Ara",
-    "slug": "ara",
-    "former_names": [
-      "EasyClaw"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/43521ae4f2f9575593c80ebf4f8bf7ce020d70da.png",
-    "website": "https://ara.so",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ara is a non-invasive AI cursor that executes tasks on your computer. With first-class computer use it clicks buttons and retrieves info from any app, fills out forms and can navigate your browser. It supports self-improving and reproducible workflows that can be scheduled at set times.",
-    "one_liner": "Ara is a non-invasive AI cursor that executes tasks on your computer.",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1775160352,
-    "tags": [
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ara",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/ara.json"
   },
   {
     "id": 31480,
@@ -36474,9 +36436,9 @@
     "subindustry": "Consumer",
     "launched_at": 1779834493,
     "tags": [
-      "Artificial Intelligence",
       "Payments",
-      "Consumer Finance"
+      "Consumer Finance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

@@ -10341,15 +10341,17 @@
   },
   {
     "id": 12065,
-    "name": "Gordian Software",
-    "slug": "gordian-software",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bba37502ba38f42df1df621e97c2d5fffd434c73.png",
-    "website": "https://www.gordiansoftware.com/",
+    "name": "Axel Travel",
+    "slug": "axel-travel",
+    "former_names": [
+      "Gordian Software"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/33c2f464dad2729b9186b0a075e4c083d2478569.png",
+    "website": "https://helloaxel.com/",
     "all_locations": "Bellevue, WA, USA",
-    "long_description": "Gordian is pioneering seamless, personalized travel powered by world-class software.\r\n\r\nWe don’t remodel legacy platforms — we invent what's next.\r\n\r\nBuilt on the values of freedom, impact, and ownership, we emphasize in-person collaboration, deep thinking, and bold execution.\r\n\r\nWe believe in a high-talent, low-ego team with the energy to build something extraordinary.",
-    "one_liner": "Building software to remove friction in travel",
-    "team_size": 30,
+    "long_description": "Axel finds you the best travel deals, has negotiated rates and gets you money back if the price drops after booking.\r\n\r\nFKA - Gordian Software: API for online travel companies to sell airline ancillaries",
+    "one_liner": "AI agent that saves you money on travel",
+    "team_size": 20,
     "industry": "Consumer",
     "subindustry": "Consumer -> Travel, Leisure and Tourism",
     "launched_at": 1541644473,
@@ -10377,8 +10379,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/gordian-software",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/gordian-software.json"
+    "url": "https://www.ycombinator.com/companies/axel-travel",
+    "api": "https://yc-oss.github.io/api/batches/winter-2019/axel-travel.json"
   },
   {
     "id": 12067,
@@ -13378,6 +13380,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/turing-labs-inc",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/turing-labs-inc.json"
+  },
+  {
+    "id": 13224,
+    "name": "Ello",
+    "slug": "ello",
+    "former_names": [
+      "Trustle"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/928879516f7652875f17aa5c190183b7d41f2982.png",
+    "website": "https://www.ello.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Building the world's first 1:1 AI teacher.",
+    "team_size": 45,
+    "industry": "Education",
+    "subindustry": "Education",
+    "launched_at": 1584136938,
+    "tags": [
+      "Education",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2020",
+    "status": "Active",
+    "industries": [
+      "Education"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ello",
+    "api": "https://yc-oss.github.io/api/batches/winter-2020/ello.json"
   },
   {
     "id": 13239,
@@ -24511,7 +24556,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -29453,6 +29498,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/cerrion.json"
   },
   {
+    "id": 26720,
+    "name": "TrueBiz",
+    "slug": "truebiz",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/744ba21703836aacf20f93a8ea2eaf05fdb4ad3f.png",
+    "website": "https://truebiz.io/",
+    "all_locations": "New York, NY, USA; Remote",
+    "long_description": "TrueBiz helps financial service providers reduce manual review during business onboarding.\r\n\r\nWe add color to the company's background with 250+ data points on the company from around the web (such as industry and address), and summarize key risk indicators.\r\n\r\nThe process takes seconds – not days, so financial service providers can efficiently meet risk requirements and onboard new businesses faster.",
+    "one_liner": "Instant Background Checks for Businesses",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1653081454,
+    "tags": [
+      "Fintech",
+      "B2B",
+      "Identity",
+      "Regtech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/truebiz",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/truebiz.json"
+  },
+  {
     "id": 26741,
     "name": "Paragon AI",
     "slug": "paragon-ai",
@@ -30453,11 +30542,11 @@
     "subindustry": "B2B -> Human Resources",
     "launched_at": 1653465182,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Recruiting",
-      "HR Tech",
-      "AI"
+      "HR Tech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -30471,9 +30560,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -36584,7 +36671,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -37695,7 +37782,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -44984,7 +45071,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -51346,7 +51433,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e0e653e5da051b7c87a56070249ad76479b0594.png",
     "website": "https://osmosis.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Osmosis helps companies use reinforcement learning to fine-tune open source models that outperform foundation models. ",
+    "long_description": "Osmosis is a post-training platform that helps companies fine-tune language models using reinforcement learning. We work with fast-growing AI companies to train task/domain-specific models that beat foundation models on performance, cost, and latency. Our platform handles compute orchestration, reward modeling, and training run observability as a CLI-based product usable by developers and agents. ",
     "one_liner": "Reinforcement Learning (RL) for AI Agents",
     "team_size": 6,
     "industry": "B2B",
@@ -54642,7 +54729,7 @@
     "regions": [
       "Unspecified"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -55473,7 +55560,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Fresh-produce supply chains are built around guesswork. Growers plant without clear demand signals, distributors overbuy to protect against shortages, and retailers end up eating the waste. GETASAP fixes this by rebuilding distribution around real demand and fast execution. We deliver wholesale fresh produce with 8-hour same-day delivery, using micro-fulfillment centers positioned close to demand so we can operate with far less safety stock.\r\n\r\nBehind the scenes, we look at live retail sales, purchasing, and waste patterns to decide what to source, where to place inventory, and when to replenish. That lets us buy closer to actual demand, turn inventory faster, and materially reduce spoilage. For retailers, GETASAP replaces procurement teams and fragmented supplier management—we handle sourcing, inventory decisions, and fulfillment end to end as a single, reliable partner. As more volume flows through the network, demand becomes clearer, sourcing gets smarter, and the operation becomes cheaper and more predictable over time.",
     "one_liner": "Distribution at the Speed of Compute",
-    "team_size": 17,
+    "team_size": 30,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1755567142,
@@ -55629,14 +55716,14 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/28f75fbb2513c3b5ef3e67a4b3c47ce3995f896b.png",
     "website": "https://www.mangodesk.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We help AI become better at real-world software engineering through production-grade RL environments.",
-    "one_liner": "RL environments for software engineering",
+    "long_description": "We help AI become better at real-world workflows through production-grade RL environments.",
+    "one_liner": "Long-horizon RL environments",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1753752561,
     "tags": [
-      "Artificial Intelligence"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -58758,6 +58845,44 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/trelium.json"
   },
   {
+    "id": 30878,
+    "name": "Cranston AI",
+    "slug": "cranston-ai",
+    "former_names": [
+      "Cranston Group"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/88689b5dae77948437304c27aefbb12261dcacb3.png",
+    "website": "https://www.cranstonai.com/",
+    "all_locations": "",
+    "long_description": "Cranston is a full stack AI accounting firm automating the $900b market for accounting labor. Our software automates reconciliation, tax compliance and financial analysis for startups & SMBs. We pull in context from all your company's apps & data, connect to existing systems of record and handle repetitive accounting work.\r\n\r\nOur team is deep in the accounting space. Sean spent 5 years building an ERP after dropping out of Stanford and Max spent 5 years building an accounting firm that did every accounting workflow you can imagine on top of ERPs.",
+    "one_liner": "Full Stack AI Accounting Firm",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1759732290,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cranston-ai",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/cranston-ai.json"
+  },
+  {
     "id": 30879,
     "name": "Hypercubic",
     "slug": "hypercubic",
@@ -59946,16 +60071,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c02ad81894db8e1b1d0e71c379c7cae04211613.png",
     "website": "https://velvetlab.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Helping frontier models go multimodal.",
-    "one_liner": "Helping frontier models go multimodal.",
+    "long_description": "Training data for underserved domains",
+    "one_liner": "Training data for underserved domains",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1761236237,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "Data Engineering",
-      "AI",
       "Conversational AI"
     ],
     "tags_highlighted": [],
@@ -62175,51 +62300,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/hedge.json"
   },
   {
-    "id": 31329,
-    "name": "primitive",
-    "slug": "primitive",
-    "former_names": [
-      "MyMX"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/68d79963abcea30afcb5624fb54adb42544a50ed.png",
-    "website": "https://primitive.dev",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Building the communication infrastructure needed for fully autonomous agents",
-    "one_liner": "Communication for agents",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1773121787,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Automation",
-      "Email",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/primitive",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/primitive.json"
-  },
-  {
     "id": 31345,
     "name": "Replicas",
     "slug": "replicas",
@@ -62338,7 +62418,7 @@
     "slug": "kinro",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/76df6473c36e2adfda2b2ab7e987413907cd9c97.png",
-    "website": "https://www.kinro.ai/",
+    "website": "https://www.kinro.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Kinro helps companies sell insurance through AI assistants such as ChatGPT. We build AI sales agents that manage the end-to-end insurance sales process, from answering questions, personalized coverage explanations and quoting. These agents are continuously evaluated and improved through our proprietary platform, optimizing sales performance while remaining 100% compliant.\r\n\r\nSelling insurance requires strict regulatory compliance, deep carrier integrations, and extremely reliable answers. Platforms like OpenAI and Google remain general-purpose and are less likely to build the vertical infrastructure required for regulated industries.\r\n\r\nToday, Kinro serves brokers and direct-to-consumer carriers across the US and Europe. Insurance distribution is huge: insurers pay roughly $100B+ in commissions annually, and distributors spend $10B+ every year on advertising to acquire customers.\r\n\r\nPierre-Alexandre led research improving Gemini for financial services at DeepMind. Parth led infrastructure for training and inference at Zoox. Corentin was the first employee in an insurance startup and worked closely with many insurance leaders.",
     "one_liner": "AI sales agents for insurance. Sell everywhere your buyers are.",
@@ -62621,47 +62701,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/aseon-labs",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/aseon-labs.json"
-  },
-  {
-    "id": 31466,
-    "name": "Walter",
-    "slug": "walter",
-    "former_names": [
-      "Lobster AI",
-      "Vaulter",
-      "Vaulter Technologies",
-      "Vaulter"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/32ab6a53db384b8f8c669e8396a088094060b64a.png",
-    "website": "https://www.walter.one",
-    "all_locations": "",
-    "long_description": "Walter is an AI employee for manufacturing operations: he takes care of manual, time-consuming workflows and works with multiple 9-figure customers, primarily in the packaging industry.",
-    "one_liner": "AI Employee for Manufacturing Operations",
-    "team_size": 0,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1779919838,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/walter",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/walter.json"
   },
   {
     "id": 31470,
