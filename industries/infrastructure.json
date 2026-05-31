@@ -10399,6 +10399,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/autumn-ai.json"
   },
   {
+    "id": 30723,
+    "name": "Miso Labs",
+    "slug": "miso-labs",
+    "former_names": [
+      "Kamino Learning",
+      "Dalta Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8dd28df9a99151aedfe26a296d8e112af2bf4edb.png",
+    "website": "https://misolabs.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Miso Labs is building the world’s most emotive foundation models for voice. We believe that the next generation of AI interactions shouldn't just be functional—they should be human. By bringing warmth and lightning-fast speed to the voice layer, we empower developers to build voice agents that users truly love.",
+    "one_liner": "The most emotive foundation models for voice",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1780176393,
+    "tags": [
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/miso-labs",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/miso-labs.json"
+  },
+  {
     "id": 30740,
     "name": "Metis",
     "slug": "metis",
@@ -11778,6 +11820,47 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/maven.json"
   },
   {
+    "id": 31283,
+    "name": "Librar Labs",
+    "slug": "librar-labs",
+    "former_names": [
+      "Librar"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cc71fc515d431ac2186349ba194efc3183ef3d19.png",
+    "website": "https://www.librarlabs.com",
+    "all_locations": "",
+    "long_description": "We build intelligence for cultural institutions.\r\n\r\nOur first commercial product is for the literature industry with a focus on school and public libraries. It is a AI-native OS for libraries, that helps librarians save time on tedious tasks and lets them focus on their patrons.\r\n",
+    "one_liner": "Intelligence for cultural institutions",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1769303203,
+    "tags": [
+      "Artificial Intelligence",
+      "Culture"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/librar-labs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/librar-labs.json"
+  },
+  {
     "id": 31299,
     "name": "Wayco",
     "slug": "wayco",
@@ -12165,16 +12248,16 @@
     "website": "https://general-instinct.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "Deploy AI into any edge device, fully offline, maximum performance.",
+    "one_liner": "Deployable Physical AI on Any Edge Device.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1779088548,
     "tags": [
-      "Artificial Intelligence",
       "Robotics",
       "Drones",
-      "Manufacturing"
+      "Manufacturing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -12208,8 +12291,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/561de55fc1ba8b5c7254d0ad9eed2d656139b041.png",
     "website": "https://zibralabs.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Quant research is generating candidate strategies orders of magnitude faster than backtesting infrastructure can evaluate them. AI has further accelerated alpha research from a handful of signals per quarter to hundreds per day. The bottleneck has moved from researcher time to compute throughput.\r\n\r\nWe're building large HPC clusters (100 - 50,000 nodes) that can run up to 6.4M tasks in parallel across multiple cloud providers on spot instances.\r\n\r\nOur goal is to make backtesting strategies simple, fast, and cheap at scale.",
-    "one_liner": "HPC for Quant Trading Firms running backtesting at scale.",
+    "long_description": "We build distributed compute clusters with the cheapest CPUs and GPUs across Hyperscalers and Neoclouds for AI. Our mission is to bring frontier-grade infrastructure to everyone.\r\n\r\nWe believe the bottleneck isn't just GPU availability, but effective utilization by the infrastructure software that runs on it.\r\n\r\nWe're starting by building large scale high performance computing (HPC) clusters for quantitative trading firms to run parallel simulation workloads such as backtesting. \r\n\r\nOur technology generalizes to critical AI workloads such as post-training with reinforcement learning, fine-tuning, long-horizon agents with high tool use, and batch inference.",
+    "one_liner": "Distributed Compute for AI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",

@@ -13281,7 +13281,7 @@
       "Sprout"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ca5175ef8306416ab49073e12201559f42064d62.png",
-    "website": "https://www.sproutfi.com",
+    "website": "",
     "all_locations": "São Paulo, SP, Brazil",
     "long_description": "We're on a mission to make investing in the US markets accessible and fair to everyone in Latin America.  Our social features make it seamless for investors to mingle, share investment ideas and learn from each other.   We make it super easy to invest in thousands of US stocks & ETFs, with as little as a $1 USD, no account minimums, and no fees.  \r\n\r\nOur team is composed of highly experienced builders hailing from Goldman Sachs, E*Trade Financial, Nubank, ING, Wise...\r\n\r\n",
     "one_liner": "Latin Americas' first investing social network.  Learn. Share. Invest.",
@@ -13863,7 +13863,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -21502,7 +21502,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -25594,7 +25594,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/949208e95883f37f6c02c5daa9417bb2876ac66f.png",
     "website": "https://alt-x.co",
     "all_locations": "Los Angeles, CA, USA",
-    "long_description": "Alt-X is building the Cursor for financial modeling in Excel, an Excel agent that you can actually trust.\r\n\r\nPrivate-market investing still runs on Excel. Every year, trillions of dollars in real estate and private-equity deals are underwritten through manual spreadsheet work — copying numbers from PDFs, CIMs, and data rooms into fragile models that analysts rebuild from scratch.\r\n\r\nAlt-X is the AI underwriting layer for Excel. It turns raw deal materials into clean, auditable financial models inside Excel, automatically extracting key metrics and generating institutional-grade underwriting models that analysts can immediately review and edit.\r\n\r\nBuilding reliable AI workflows for financial models is difficult. Underwriting models contain thousands of interdependent formulas across multiple sheets, and small errors can materially change investment decisions. Alt-X focuses on making model generation and data extraction reliable enough for real deal workflows, not just demos. We built our product to underwrite billions.\r\n\r\nRyan Samadi (Stanford CS/AI, former Citadel trader) and Michael Wachsmann (Cornell CS, infrastructure engineer) have spent years building systems around financial data and modeling workflows.\r\nWe have hundreds of millions in AUM using us already, and our users already prefer us to legacy cash flow modeling tools in the real estate space.\r\n\r\nPrivate markets remain one of the largest manual workflows in finance. Alt-X’s goal is to become the default infrastructure layer for underwriting private-market investments inside Excel.",
+    "long_description": "Alt-X is building the AI-native liquidity layer for private markets.\r\n\r\nPrivate markets have created trillions of dollars in value, yet remain fragmented, illiquid, and inaccessible. While public markets benefit from exchanges, market makers, brokerages, and data infrastructure, private markets still rely on brokers, spreadsheets, and manual workflows to connect buyers and sellers.\r\n\r\nAlt-X uses AI to automate the core functions required to make private assets liquid. We streamline diligence, valuation, investor matching, and transaction execution, reducing the friction that makes private-market transactions slow, expensive, and opaque today.\r\n\r\nOur initial focus is venture-backed secondaries. We source opportunities from founders, employees, and early investors while building a network of accredited investors seeking exposure to the world's most valuable private companies. Over time, we believe every private asset—from startup equity to private credit and alternative investments—will require modern liquidity infrastructure.\r\n\r\nBuilding trusted infrastructure for private markets is difficult. Transactions involve complex diligence, fragmented information, transfer restrictions, and significant compliance requirements. Alt-X is focused on creating systems that can support real transactions at scale, not just marketplace listings.\r\n\r\nRyan Samadi (Stanford CS/AI, former Citadel commodities trader) and Michael Wachsman (Cornell CS, infrastructure engineer) are building Alt-X because they believe ownership of innovation should be more liquid, transparent, and accessible. Today, Alt-X has sourced over $1.5 million in transaction opportunities and assembled a network of 40 accredited investors representing hundreds of millions of dollars in investable assets.\r\n\r\nOur mission is to democratize ownership of innovation by building the financial infrastructure that private markets have never had.",
     "one_liner": "Automation for institutional-grade financial modeling in Excel",
     "team_size": 2,
     "industry": "Fintech",
@@ -26644,18 +26644,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9670403b854641364928ce34e110c0d9752c9d8d.png",
     "website": "https://gethevn.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "HEVN is the automated USD account for global internet companies, built for humans and AI agents.\r\n\r\nEvery international company today runs a fragmented finance stack: Mercury for US banking, Wise for FX, Deel for payroll, and Stripe for revenue. Legacy banks can't be automated, can't move at internet speed, and can't be operated by software. We believe every modern company will need a second account - one built on stablecoin rails, accessible via API, secure by design for autonomous code, and covering all operational primitives of a global business.\r\n\r\nHEVN is that account: receive USD globally, hold treasury in USD/USDC, and run every payment operation a global business needs - invoices, contracts, contractor payouts, vendor payments, payroll - in local currencies through local banks worldwide, with a single click or API call.\r\n\r\nTeam previously built HOT Labs - 15M users, $100M TVL, #1 crypto app on DappRadar for 8 months. Operated companies across SF, UAE, BVI, and HK, and felt all the pain of global payments automation ourselves.",
-    "one_liner": "The automated USD account for global internet companies",
+    "long_description": "HEVN is API primitives for global payments. Companies use our API to build internal tools for paying contractors in 100+ countries, replacing Deel and Rippling with custom workflows tailored to their business.\r\n\r\nThe opportunity is that AI codegen made internal tools cheap to build. A company that used to pay $50 per contract in huge SaaS can now build their own version in days, if they have the financial primitives. We provide those primitives.\r\n\r\nTeam previously built HOT Labs - 15M users, $100M TVL, #1 crypto app on DappRadar for 8 months. Operated companies across SF, UAE, BVI, and HK, and felt all the pain of global payments automation ourselves.",
+    "one_liner": "API primitives to automate global payroll",
     "team_size": 4,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1777498705,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "Finance",
       "Neobank",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,

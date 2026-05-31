@@ -25887,25 +25887,24 @@
   },
   {
     "id": 26818,
-    "name": "Pivot",
-    "slug": "pivot",
+    "name": "Hypestream",
+    "slug": "hypestream",
     "former_names": [
-      "Metafi"
+      "Metafi",
+      "Pivot"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/890f95427cc41ee18857db66456770c31a41ddf7.png",
-    "website": "https://www.trypivot.xyz/",
-    "all_locations": "San Francisco, CA, USA; Singapore, Singapore",
-    "long_description": "Pivot helps you visualise, analyse and model your company's financial data way faster than Excel.",
-    "one_liner": "Your AI FP&A Analyst",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/65c3d48f8f2c1fa85722638c957dba4e3a035637.png",
+    "website": "https://www.hypestream.io/",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "We help livestream sellers get more sales.",
+    "one_liner": "We help livestream sellers get more sales.",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
+    "subindustry": "B2B",
     "launched_at": 1661470428,
     "tags": [
       "SaaS",
-      "Finance",
       "B2B",
-      "Productivity",
       "Enterprise Software"
     ],
     "tags_highlighted": [],
@@ -25915,24 +25914,21 @@
     "batch": "Summer 2022",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Finance and Accounting"
+      "B2B"
     ],
     "regions": [
       "United States of America",
-      "Singapore",
       "America / Canada",
-      "Southeast Asia",
       "Remote",
-      "Partly Remote"
+      "Fully Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pivot",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/pivot.json"
+    "url": "https://www.ycombinator.com/companies/hypestream",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/hypestream.json"
   },
   {
     "id": 26819,
@@ -42591,24 +42587,25 @@
   },
   {
     "id": 30352,
-    "name": "Fluidize",
-    "slug": "fluidize",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bdde5b32f2b28f78eb65fb57e6bddd78dfc14d6b.png",
-    "website": "https://fluidize.ai",
+    "name": "Monte",
+    "slug": "monte",
+    "former_names": [
+      "Fluidize"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/68e7220bf98c2ada16e57a233198c1b1dce034e4.png",
+    "website": "https://trymonte.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Fluidize accelerates R&D for scientists and engineers by using AI to build and run simulations and experiments. Our platform speeds up development pipelines by automating setup, execution, validation, and scaling, allowing engineers to focus on their science.",
-    "one_liner": "Helping scientists and engineers run experiments with AI. ",
+    "long_description": "Monte is an applied research lab building products for continual learning and recursive self-improvement for AI agents.",
+    "one_liner": "Continual Learning for Agents",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1753994250,
     "tags": [
-      "Developer Tools",
+      "Artificial Intelligence",
+      "Reinforcement Learning",
       "B2B",
-      "Open Source",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -42629,8 +42626,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/fluidize",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/fluidize.json"
+    "url": "https://www.ycombinator.com/companies/monte",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/monte.json"
   },
   {
     "id": 30399,
@@ -47400,6 +47397,49 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/klarify.json"
   },
   {
+    "id": 31345,
+    "name": "Replicas",
+    "slug": "replicas",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/45f1eda8aab66eabaa151ae4c6fdca3a6325a068.png",
+    "website": "https://tryreplicas.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Replicas is a background coding agent that allows you to delegate tasks to Claude Code or Codex from Slack, Linear, GitHub, and more. Each task works inside of a sandboxed virtual machine, allowing teams to heavily parallelize work and burn through tickets.\r\n\r\nReplicas agents output higher quality PRs via feedback loops - each task automatically is notified and fixes CI failures and reads all code reviews. With Environments, engineering teams can configure agents to run their entire codebase locally, verify its work, and provide preview URLs.",
+    "one_liner": "Run any coding agent harness in the cloud",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1773355936,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "SaaS",
+      "B2B",
+      "API"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/replicas",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/replicas.json"
+  },
+  {
     "id": 31346,
     "name": "Rudus",
     "slug": "rudus",
@@ -47663,7 +47703,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/638b55f98e908e0ccf30170e7b53dff164439c5b.png",
     "website": "https://qomplement.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "qomplement is the agentic ERP built for retail and logistics companies. We give mid-market and enterprise procurement and operations teams superpowers by automating the work that nobody wants to do: purchase order intake, vendor onboarding, item master updates, freight order processing, carrier invoicing, and inventory reconciliation.\r\n\r\nThese industries move trillions of dollars in goods every year, yet most still run on emails, spreadsheets, and disconnected legacy systems. Legacy software has left them behind.\r\n\r\nAlready trusted by some of the largest grocery chains and trucking companies in the world, processing 10,000+ documents per day across 20+ companies. Headquartered in San Francisco.",
+    "long_description": "qomplement is the agentic ERP for retail and logistics companies.\r\n\r\nRetail and logistics are the industries with the highest volume of transactions in the world. POs, freight invoices, inventory updates, and shipment confirmations. Every single one still requires a person to process it manually. Their only solution has been hiring more people.\r\n\r\nLegacy ERPs were built for humans. qomplement is the agentic ERP that cuts 95% of manual work and handles 100x more transactions with the same headcount. We give procurement and operations teams superpowers: automating purchase order intake, vendor onboarding, item master updates, freight order processing, carrier invoicing, three-way matching, and inventory reconciliation.\r\n\r\nAlready trusted by some of the largest grocery chains and trucking companies in the world. Headquartered in San Francisco.",
     "one_liner": "The Agentic ERP for supply chain operations",
     "team_size": 4,
     "industry": "B2B",
@@ -47917,15 +47957,15 @@
     "website": "https://callab.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "58% of the $400B call center industry runs on on-prem phone systems, and until now bringing AI voice automation to them meant ripping out their entire infrastructure first. That's the largest unserved segment in the market. Callab AI connects directly to legacy PBX systems like Avaya, Cisco UCM, and Mitel, and automates up to 70% of call volume with zero migration needed.\r\n\r\nWe plug into these environments without requiring a rip-and-replace. We serve clients across three continents, including brands like Dunkin Donuts.",
-    "one_liner": "AI voice agents for legacy telephony systems.",
+    "one_liner": "AI voice agents for on-prem telephony stack. ",
     "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1773416869,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Call Center"
+      "Call Center",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48089,15 +48129,15 @@
     "website": "https://www.gojiberry.ai",
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Gojiberry is building the AI GTM team for B2B companies.\r\n\r\nWe start with outbound: Gojiberry finds buyers showing intent, enriches them, reaches out, follows up, handles replies, and books qualified meetings.\r\n\r\nCompanies use Gojiberry to replace the old way of doing outbound: buying tools, hiring SDRs & agencies, testing lists, writing messages, and guessing what works. Gojiberry turns it into one AI team that finds buyers and books meetings.\r\n\r\nEvery campaign makes Gojiberry smarter. It learns which buyers convert, which signals matter, which messages get replies, and which actions create revenue. Over time, Gojiberry uses what works across similar companies and industries to help every new customer get better results from day one.\r\n\r\nLong term, Gojiberry will become the system that finds every revenue opportunity and acts on it: outbound leads, website visitors, inbound leads, old CRM leads, replies, meetings, CRM updates, new campaign ideas, and account expansion.\r\n\r\nThe goal is to make every B2B company able to run a high-performing GTM team without hiring one.\r\n\r\nWe grew from $0 to $2.5M ARR in 10 months, are growing 35% MoM, profitable, and used by 2,000+ customers.\r\n\r\nCustomers get 2-5x more positive replies than traditional outbound.",
-    "one_liner": "AI GTM agents for lean sales teams",
+    "one_liner": "AI GTM agents for B2B teams",
     "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1774430148,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Sales"
+      "Sales",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48678,17 +48718,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e35e07f61bc16ff060889081c97809a3aad66df5.png",
     "website": "https://www.useauxos.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Auxos builds digital twins for marketing, product, and research teams to test their hypotheses at scale. We work with companies to create 1:1 replicas of their customers by sourcing and interviewing real people in their ICP, allowing us to accurately model how they behave and make decisions. \r\n\r\nCurrently, market research is too slow and expensive to use on anything but the biggest decisions. Surveys and panels cost a fortune and it takes weeks to recruit, moderate, and gather insights.   \r\n\r\nAuxos provides a 24/7 available customer panel that can give population-scale insights in minutes. The day-to-day decisions surrounding product, pricing, and positioning can now be validated with the same rigor that used to be reserved for the big ones. \r\n",
-    "one_liner": "Digital twins for market research",
+    "long_description": "Auxos builds AI customer clones for marketing, product, and research teams to test their hypotheses at scale. We work with companies to create 1:1 replicas of their customers by sourcing and interviewing real people in their ICP, allowing us to accurately model how they behave and make decisions. \r\n\r\nCurrently, market research is too slow and expensive to use on anything but the biggest decisions. Surveys and panels cost a fortune and it takes weeks to recruit, moderate, and gather insights.   \r\n\r\nAuxos provides a 24/7 available customer panel that can give population-scale insights in minutes. The day-to-day decisions surrounding product, pricing, and positioning can now be validated with the same rigor that used to be reserved for the big ones. \r\n",
+    "one_liner": "AI customer clones for market research",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1778707730,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Marketing",
-      "Market Research"
+      "Market Research",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

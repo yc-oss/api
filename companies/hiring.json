@@ -26901,49 +26901,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2022/voize.json"
   },
   {
-    "id": 25692,
-    "name": "Livedocs",
-    "slug": "livedocs",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ce0c55378b1978172dcaae2ec40f66f80a955ff6.png",
-    "website": "https://livedocs.com",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Mix Python, SQL, charts, and dynamic text in a fast, shareable, collaborative medium. Build and share data-rich docs and apps your team will love",
-    "one_liner": "A New Kind of Notebook for Data Storytelling",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1645977565,
-    "tags": [
-      "SaaS",
-      "Productivity",
-      "Analytics"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/livedocs",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/livedocs.json"
-  },
-  {
     "id": 25696,
     "name": "Agency",
     "slug": "agency",
@@ -34443,7 +34400,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -35458,21 +35415,22 @@
   },
   {
     "id": 28303,
-    "name": "Social Radar",
-    "slug": "social-radar",
+    "name": "Scout",
+    "slug": "thedailyscout",
     "former_names": [
       "Meru",
       "PromptBidder",
-      "Prompt"
+      "Prompt",
+      "Social Radar"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/df878962ed9cb02c09cd52208ecb6116d97c7c3a.png",
-    "website": "https://socialradar.app",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/62066a9f835dfb54435fdb72d9510ec33510d68f.png",
+    "website": "https://thedailyscout.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Social Radar is the absolute best way to search for social media content. We support BDRs, sales teams, recruiters, marketing, and more. ",
-    "one_liner": "Social Radar is the best way to search for posts, people, and…",
+    "long_description": "Scout features 10 minute long generative podcasts that update you about your industry and interests while you are at the gym or in the car. We currently have 58% D7 retention, 35% D30 retention, and 24% DAU/MAU. ",
+    "one_liner": "Scout is an AI news aggregator that turns your role, industry, and…",
     "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "industry": "Consumer",
+    "subindustry": "Consumer",
     "launched_at": 1674851057,
     "tags": [],
     "tags_highlighted": [],
@@ -35482,8 +35440,7 @@
     "batch": "Winter 2023",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Engineering, Product and Design"
+      "Consumer"
     ],
     "regions": [
       "United States of America",
@@ -35494,8 +35451,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/social-radar",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/social-radar.json"
+    "url": "https://www.ycombinator.com/companies/thedailyscout",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/thedailyscout.json"
   },
   {
     "id": 28329,
@@ -42297,7 +42254,7 @@
     "former_names": [
       "HostAI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3a191a8ba3e9f773c150eb657c1104f6d0427aec.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b7203ae9cb780218b08e159ff4d1da47aae0c79a.png",
     "website": "https://conduit.ai/?utm_source=referral&utm_medium=organic&utm_campaign=ycombinator",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Conduit is the AI agent platform that drives conversational outcomes across support and sales.\r\n\r\nCustomer conversations are the backbone of every business. Consumer businesses spend nearly a third of their working hours calling and texting customers. Conduit turns those conversations into an engine for conversions, revenue, and cost savings. \r\n\r\nWe enable operators across real estate, financials, and service-based businesses, to build and deploy AI agents that perform better than your best employee. Our modular platform enables automation for the most complex, high-volume conversational workflows.",
@@ -43082,7 +43039,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Stacksync powers real-time and bidirectional data synchronization between CRMs (e.g. Salesforce, Hubspot or SAP) and databases (e.g. Postgres, Google BigQuery,...). Edits made in your CRM will instantly update in your Database, and vice-versa. To set up a sync, users simply have to connect the two chosen apps in one click and select the tables they want to sync, no-code!\r\nStacksync reduces implementation delays from months to minutes for CRM integration projects and removes all the complexity behind CRM new feature development. We show a 90% improvement on delivery time and budget.",
     "one_liner": "Real-time and two-way sync between CRMs and Databases",
-    "team_size": 16,
+    "team_size": 17,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1702317253,
@@ -45943,15 +45900,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "An OpenClaw Framwork that builds an AI Workforce paired with an in-built CRM, that lives in your communication channels, is online forever, knows your everything about your business. and does the tasks on your behalf only so you can click \"Approve\" every morning.\r\n\r\nBuild you own AI employees today...\r\n- Lead intake via Voice / SMS / Email and then updating the Contact / Matter / Case in the CRM.\r\n- Connects with Gmail / Outlook for AI to write replies (in draft for you to review) all ready to send, for every email that deserves your reply, so you don't spend time writing emails anymore.\r\n- Handles outbound sales completely, scrapes all the leads there possibly are on the internet, phone books, data brokers, and contacts customers, chats back and forth with them at scale, infinitely, parallely all at once.\r\n- Writes daily/weekly/monthly briefings and reports based on all the new context there is on the CRM every day/week/month. It finds out insights you possibly couldn't have found by looking at it all manually.\r\n- Customer Research AI agents: find powerful POCs of a company, check through your LinkedIn connection tree to find out how far apart in mutual connections you are from them, research their background, and send out intro texts / emails / call agents to connect you with the POC.\r\n\r\nand so much more. Contact us for enterprise needs.",
     "one_liner": "Open Source AI CRM built on top of OpenClaw",
-    "team_size": 4,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1720334032,
     "tags": [
+      "Artificial Intelligence",
       "Workflow Automation",
       "Open Source",
       "CRM",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -56972,18 +56929,18 @@
       "Nozomio (Nia AI)"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d85c6a1195667680f7ed4c90a6bda101d0cc579.png",
-    "website": "https://www.trynia.ai/",
+    "website": "https://www.nozomio.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Nozomio is a product and research lab solving context, starting with Nia.\r\n\r\nNia is a search and index API. We continuously provide context from docs, research papers, datasets, codebases, and more so agents never rely on stale data. Scalable, 5x cheaper, and reliable.",
-    "one_liner": "index anything. search it with ai.",
-    "team_size": 3,
+    "long_description": "We are a product lab solving context in AI.",
+    "one_liner": "product lab solving context in ai",
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1751302971,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "API"
+      "Consumer",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -62063,6 +62020,47 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/zymbly.json"
   },
   {
+    "id": 31283,
+    "name": "Librar Labs",
+    "slug": "librar-labs",
+    "former_names": [
+      "Librar"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cc71fc515d431ac2186349ba194efc3183ef3d19.png",
+    "website": "https://www.librarlabs.com",
+    "all_locations": "",
+    "long_description": "We build intelligence for cultural institutions.\r\n\r\nOur first commercial product is for the literature industry with a focus on school and public libraries. It is a AI-native OS for libraries, that helps librarians save time on tedious tasks and lets them focus on their patrons.\r\n",
+    "one_liner": "Intelligence for cultural institutions",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1769303203,
+    "tags": [
+      "Artificial Intelligence",
+      "Culture"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/librar-labs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/librar-labs.json"
+  },
+  {
     "id": 31285,
     "name": "GrazeMate",
     "slug": "grazemate",
@@ -62304,18 +62302,20 @@
     "name": "Replicas",
     "slug": "replicas",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/42200c6faa28ad1e57b9f2675695026205379dbf.png",
-    "website": "https://replicas.dev",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/45f1eda8aab66eabaa151ae4c6fdca3a6325a068.png",
+    "website": "https://tryreplicas.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Replicas is a background coding agent that allows you to delegate tasks to Claude Code or Codex from Slack, Linear, GitHub, and more. Each task works inside of a sandboxed virtual machine, allowing teams to heavily parallelize work and burn through tickets.\r\n\r\nReplicas agents output higher quality PRs via feedback loops - each task automatically is notified and fixes CI failures and reads all code reviews. With Environments, engineering teams can configure agents to run their entire codebase locally, verify its work, and provide preview URLs.",
-    "one_liner": "Background coding agents for engineering teams",
-    "team_size": 1,
+    "one_liner": "Run any coding agent harness in the cloud",
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1773355936,
     "tags": [
       "Artificial Intelligence",
       "Developer Tools",
+      "SaaS",
+      "B2B",
       "API"
     ],
     "tags_highlighted": [],
@@ -62460,12 +62460,12 @@
     "long_description": "Standout gives every talent and company an autonomous agent that represents them, assess the other side, and makes intros when it matters.\r\n\r\nWhy it matters? Because this is hiring today:\r\n- Talent use AI to apply to 100s of jobs - this is spam.\r\n- Founders/Recruiting send 100s of AI-generated messages to hire the same talent - this is spam.\r\n\r\nThis has to stop.\r\n\r\nTalent stays fully anonymous until they accept an intro. The best way for passively exploring the market and not missing a life changing opportunity.\r\n\r\nIn 1 month, 10k talent / 60 companies / 100 intros.",
     "one_liner": "Agentic hiring marketplace",
     "team_size": 3,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Job and Career Services",
+    "industry": "B2B",
+    "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1773415057,
     "tags": [
+      "Artificial Intelligence",
       "Marketplace",
-      "AI",
       "Careers"
     ],
     "tags_highlighted": [],
@@ -62475,8 +62475,8 @@
     "batch": "Spring 2026",
     "status": "Active",
     "industries": [
-      "Consumer",
-      "Job and Career Services"
+      "B2B",
+      "Recruiting and Talent"
     ],
     "regions": [
       "United States of America",
@@ -62543,15 +62543,15 @@
     "website": "https://www.gojiberry.ai",
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Gojiberry is building the AI GTM team for B2B companies.\r\n\r\nWe start with outbound: Gojiberry finds buyers showing intent, enriches them, reaches out, follows up, handles replies, and books qualified meetings.\r\n\r\nCompanies use Gojiberry to replace the old way of doing outbound: buying tools, hiring SDRs & agencies, testing lists, writing messages, and guessing what works. Gojiberry turns it into one AI team that finds buyers and books meetings.\r\n\r\nEvery campaign makes Gojiberry smarter. It learns which buyers convert, which signals matter, which messages get replies, and which actions create revenue. Over time, Gojiberry uses what works across similar companies and industries to help every new customer get better results from day one.\r\n\r\nLong term, Gojiberry will become the system that finds every revenue opportunity and acts on it: outbound leads, website visitors, inbound leads, old CRM leads, replies, meetings, CRM updates, new campaign ideas, and account expansion.\r\n\r\nThe goal is to make every B2B company able to run a high-performing GTM team without hiring one.\r\n\r\nWe grew from $0 to $2.5M ARR in 10 months, are growing 35% MoM, profitable, and used by 2,000+ customers.\r\n\r\nCustomers get 2-5x more positive replies than traditional outbound.",
-    "one_liner": "AI GTM agents for lean sales teams",
+    "one_liner": "AI GTM agents for B2B teams",
     "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1774430148,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Sales"
+      "Sales",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

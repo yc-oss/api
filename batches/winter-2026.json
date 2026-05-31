@@ -328,7 +328,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/949208e95883f37f6c02c5daa9417bb2876ac66f.png",
     "website": "https://alt-x.co",
     "all_locations": "Los Angeles, CA, USA",
-    "long_description": "Alt-X is building the Cursor for financial modeling in Excel, an Excel agent that you can actually trust.\r\n\r\nPrivate-market investing still runs on Excel. Every year, trillions of dollars in real estate and private-equity deals are underwritten through manual spreadsheet work — copying numbers from PDFs, CIMs, and data rooms into fragile models that analysts rebuild from scratch.\r\n\r\nAlt-X is the AI underwriting layer for Excel. It turns raw deal materials into clean, auditable financial models inside Excel, automatically extracting key metrics and generating institutional-grade underwriting models that analysts can immediately review and edit.\r\n\r\nBuilding reliable AI workflows for financial models is difficult. Underwriting models contain thousands of interdependent formulas across multiple sheets, and small errors can materially change investment decisions. Alt-X focuses on making model generation and data extraction reliable enough for real deal workflows, not just demos. We built our product to underwrite billions.\r\n\r\nRyan Samadi (Stanford CS/AI, former Citadel trader) and Michael Wachsmann (Cornell CS, infrastructure engineer) have spent years building systems around financial data and modeling workflows.\r\nWe have hundreds of millions in AUM using us already, and our users already prefer us to legacy cash flow modeling tools in the real estate space.\r\n\r\nPrivate markets remain one of the largest manual workflows in finance. Alt-X’s goal is to become the default infrastructure layer for underwriting private-market investments inside Excel.",
+    "long_description": "Alt-X is building the AI-native liquidity layer for private markets.\r\n\r\nPrivate markets have created trillions of dollars in value, yet remain fragmented, illiquid, and inaccessible. While public markets benefit from exchanges, market makers, brokerages, and data infrastructure, private markets still rely on brokers, spreadsheets, and manual workflows to connect buyers and sellers.\r\n\r\nAlt-X uses AI to automate the core functions required to make private assets liquid. We streamline diligence, valuation, investor matching, and transaction execution, reducing the friction that makes private-market transactions slow, expensive, and opaque today.\r\n\r\nOur initial focus is venture-backed secondaries. We source opportunities from founders, employees, and early investors while building a network of accredited investors seeking exposure to the world's most valuable private companies. Over time, we believe every private asset—from startup equity to private credit and alternative investments—will require modern liquidity infrastructure.\r\n\r\nBuilding trusted infrastructure for private markets is difficult. Transactions involve complex diligence, fragmented information, transfer restrictions, and significant compliance requirements. Alt-X is focused on creating systems that can support real transactions at scale, not just marketplace listings.\r\n\r\nRyan Samadi (Stanford CS/AI, former Citadel commodities trader) and Michael Wachsman (Cornell CS, infrastructure engineer) are building Alt-X because they believe ownership of innovation should be more liquid, transparent, and accessible. Today, Alt-X has sourced over $1.5 million in transaction opportunities and assembled a network of 40 accredited investors representing hundreds of millions of dollars in investable assets.\r\n\r\nOur mission is to democratize ownership of innovation by building the financial infrastructure that private markets have never had.",
     "one_liner": "Automation for institutional-grade financial modeling in Excel",
     "team_size": 2,
     "industry": "Fintech",
@@ -596,13 +596,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/24fe2cfdacb0c9b085052b0bee9ce77035a7373e.png",
     "website": "https://vectorlegal.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "A modern solution for Startup legal. We are a premier, full service, hybrid AI law firm & legal tech platform. \r\n\r\nServices: fundraise & priced rounds | customer contracts | complex formations | grow your team | agentic data rooms | e-signatures | cap table management | legal health checks | mergers & acquisitions | co-founder separations | dissolutions.",
-    "one_liner": "Full service ai law firm & software solution, for startups",
+    "long_description": "A modern solution for Startup legal.\r\n\r\nVector combines premier lawyers/paralegals (averaging 12 yrs of Big Law experience) + custom-built AI, so our clients get world class startup legal service at a fraction of Big Law rates. See our client testimonials - https://www.vectorlegal.com/testimonials.\r\n\r\nServices: fundraise & priced rounds | customer contracts | international flips | complex formations | grow your team | agentic data rooms | e-signatures | cap table management | legal health checks | mergers & acquisitions | co-founder separations | dissolutions.",
+    "one_liner": "The premier AI-native law firm & legal operating system for Startups.",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1771526564,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Legal",
+      "LegalTech",
+      "Operations"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -619,7 +624,7 @@
     ],
     "stage": "Early",
     "app_video_public": false,
-    "demo_day_video_public": false,
+    "demo_day_video_public": true,
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/vector-legal",
@@ -6365,7 +6370,7 @@
     "website": "https://www.fed10.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Fed10 is a legislative consulting firm staffed by AI agents. \r\n\r\nWe monitor every bill across the U.S., flag threats to your business, and deliver actionable insights — the same work a $500/hr policy consultant does, but in seconds instead of days.\r\n\r\nBuilt by three ex-lobbyists who passed legislation together.",
-    "one_liner": "AI agents that replace your policy consultants",
+    "one_liner": "AI Agents for Government Affairs",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
@@ -7138,6 +7143,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rubric-ai",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/rubric-ai.json"
+  },
+  {
+    "id": 31283,
+    "name": "Librar Labs",
+    "slug": "librar-labs",
+    "former_names": [
+      "Librar"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cc71fc515d431ac2186349ba194efc3183ef3d19.png",
+    "website": "https://www.librarlabs.com",
+    "all_locations": "",
+    "long_description": "We build intelligence for cultural institutions.\r\n\r\nOur first commercial product is for the literature industry with a focus on school and public libraries. It is a AI-native OS for libraries, that helps librarians save time on tedious tasks and lets them focus on their patrons.\r\n",
+    "one_liner": "Intelligence for cultural institutions",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1769303203,
+    "tags": [
+      "Artificial Intelligence",
+      "Culture"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/librar-labs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/librar-labs.json"
   },
   {
     "id": 31284,

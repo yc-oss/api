@@ -88,24 +88,25 @@
   },
   {
     "id": 30352,
-    "name": "Fluidize",
-    "slug": "fluidize",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bdde5b32f2b28f78eb65fb57e6bddd78dfc14d6b.png",
-    "website": "https://fluidize.ai",
+    "name": "Monte",
+    "slug": "monte",
+    "former_names": [
+      "Fluidize"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/68e7220bf98c2ada16e57a233198c1b1dce034e4.png",
+    "website": "https://trymonte.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Fluidize accelerates R&D for scientists and engineers by using AI to build and run simulations and experiments. Our platform speeds up development pipelines by automating setup, execution, validation, and scaling, allowing engineers to focus on their science.",
-    "one_liner": "Helping scientists and engineers run experiments with AI. ",
+    "long_description": "Monte is an applied research lab building products for continual learning and recursive self-improvement for AI agents.",
+    "one_liner": "Continual Learning for Agents",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1753994250,
     "tags": [
-      "Developer Tools",
+      "Artificial Intelligence",
+      "Reinforcement Learning",
       "B2B",
-      "Open Source",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -126,8 +127,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/fluidize",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/fluidize.json"
+    "url": "https://www.ycombinator.com/companies/monte",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/monte.json"
   },
   {
     "id": 30362,
@@ -3711,18 +3712,18 @@
       "Nozomio (Nia AI)"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d85c6a1195667680f7ed4c90a6bda101d0cc579.png",
-    "website": "https://www.trynia.ai/",
+    "website": "https://www.nozomio.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Nozomio is a product and research lab solving context, starting with Nia.\r\n\r\nNia is a search and index API. We continuously provide context from docs, research papers, datasets, codebases, and more so agents never rely on stale data. Scalable, 5x cheaper, and reliable.",
-    "one_liner": "index anything. search it with ai.",
-    "team_size": 3,
+    "long_description": "We are a product lab solving context in AI.",
+    "one_liner": "product lab solving context in ai",
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1751302971,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "API"
+      "Consumer",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4449,6 +4450,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/omnara",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/omnara.json"
+  },
+  {
+    "id": 30723,
+    "name": "Miso Labs",
+    "slug": "miso-labs",
+    "former_names": [
+      "Kamino Learning",
+      "Dalta Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8dd28df9a99151aedfe26a296d8e112af2bf4edb.png",
+    "website": "https://misolabs.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Miso Labs is building the world’s most emotive foundation models for voice. We believe that the next generation of AI interactions shouldn't just be functional—they should be human. By bringing warmth and lightning-fast speed to the voice layer, we empower developers to build voice agents that users truly love.",
+    "one_liner": "The most emotive foundation models for voice",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1780176393,
+    "tags": [
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/miso-labs",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/miso-labs.json"
   },
   {
     "id": 30724,

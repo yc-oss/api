@@ -29255,7 +29255,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -32949,25 +32949,24 @@
   },
   {
     "id": 26818,
-    "name": "Pivot",
-    "slug": "pivot",
+    "name": "Hypestream",
+    "slug": "hypestream",
     "former_names": [
-      "Metafi"
+      "Metafi",
+      "Pivot"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/890f95427cc41ee18857db66456770c31a41ddf7.png",
-    "website": "https://www.trypivot.xyz/",
-    "all_locations": "San Francisco, CA, USA; Singapore, Singapore",
-    "long_description": "Pivot helps you visualise, analyse and model your company's financial data way faster than Excel.",
-    "one_liner": "Your AI FP&A Analyst",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/65c3d48f8f2c1fa85722638c957dba4e3a035637.png",
+    "website": "https://www.hypestream.io/",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "We help livestream sellers get more sales.",
+    "one_liner": "We help livestream sellers get more sales.",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
+    "subindustry": "B2B",
     "launched_at": 1661470428,
     "tags": [
       "SaaS",
-      "Finance",
       "B2B",
-      "Productivity",
       "Enterprise Software"
     ],
     "tags_highlighted": [],
@@ -32977,24 +32976,21 @@
     "batch": "Summer 2022",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Finance and Accounting"
+      "B2B"
     ],
     "regions": [
       "United States of America",
-      "Singapore",
       "America / Canada",
-      "Southeast Asia",
       "Remote",
-      "Partly Remote"
+      "Fully Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pivot",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/pivot.json"
+    "url": "https://www.ycombinator.com/companies/hypestream",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/hypestream.json"
   },
   {
     "id": 26819,
@@ -47796,6 +47792,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/stage",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/stage.json"
+  },
+  {
+    "id": 31345,
+    "name": "Replicas",
+    "slug": "replicas",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/45f1eda8aab66eabaa151ae4c6fdca3a6325a068.png",
+    "website": "https://tryreplicas.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Replicas is a background coding agent that allows you to delegate tasks to Claude Code or Codex from Slack, Linear, GitHub, and more. Each task works inside of a sandboxed virtual machine, allowing teams to heavily parallelize work and burn through tickets.\r\n\r\nReplicas agents output higher quality PRs via feedback loops - each task automatically is notified and fixes CI failures and reads all code reviews. With Environments, engineering teams can configure agents to run their entire codebase locally, verify its work, and provide preview URLs.",
+    "one_liner": "Run any coding agent harness in the cloud",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1773355936,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "SaaS",
+      "B2B",
+      "API"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/replicas",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/replicas.json"
   },
   {
     "id": 31346,
