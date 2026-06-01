@@ -10836,7 +10836,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/919432869b9d7a01cb7d24ccff7380278318f625.png",
     "website": "https://atum.works/",
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Atum Works is building 3D ASML.\r\n\r\nFounded by Caltech and NASA engineers, we're starting the next scaling law of semiconductor manufacturing, this time in 3D.",
     "one_liner": "Gigascale Nanomanufacturing",
     "team_size": 3,
@@ -11305,7 +11305,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bb8bcc76da3e91c1a436eea5e5eec4075f3deb89.png",
     "website": "https://piggyrobotics.com",
-    "all_locations": "",
+    "all_locations": "London, United Kingdom",
     "long_description": "We build humanoid robots that do your chores at iPhone prices. Just like the millions of cars generating data for self-driving, we need millions of humanoids generating real-world data for general-purpose robotics. Humanoid companies today can only manufacture hundreds a year because motors are expensive and slow to assemble. We use artificial muscles. Each muscle is just a tube wrapped in braided fibre, and the whole robot is powered by a single pump — which means we can mass-produce humanoids by the millions. Our design is built for that scale from day one and is cheap enough to enter billions of homes.",
     "one_liner": "Humanoid robots that do your chores for the price of an iPhone!",
     "team_size": 15,
@@ -11329,6 +11329,8 @@
       "Manufacturing and Robotics"
     ],
     "regions": [
+      "United Kingdom",
+      "Europe",
       "Remote",
       "Partly Remote"
     ],
@@ -11593,7 +11595,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9c9b9996bb500ee171134f1e1a0a83f5d48bec3.png",
     "website": "https://www.starcloud.com/",
-    "all_locations": "Redmond, WA, USA",
+    "all_locations": "Seattle, WA, USA",
     "long_description": "Starcloud is building data centers in space, initially to provide GPU compute to other satellites, and later to address the rapidly growing demand for energy caused by the deployment of AI. Falling launch costs give Starcloud access to abundant energy, radiative cooling, and the ability to rapidly scale in space.\r\n\r\nIn November 2025, just 21 months after founding, Starcloud launched its first satellite, Starcloud-1 to space. This has an Nvidia H100, which is 100x more powerful GPU than has ever been operated in space before. With this, they became the first entity to train an LLM in space and the first to run a version of Gemini in space. Starcloud will soon also run high-powered inference on Capella SAR data on orbit for the first time. \r\n\r\nStarcloud is launching its second satellite in October 2026, which will have 100x the power generation of the first and generate more cash than it costs to build and launch. Starcloud expects that within 10 years, most new data centers will be being built in space for the energy.\r\n\r\nIn March 2026, Starcloud raised a $170M Series A led by Benchmark, becoming the fastest unicorn in YC history, just 17 months after demo day.",
     "one_liner": "Data centers in space",
     "team_size": 12,
@@ -15162,7 +15164,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/94f9d60cdf58d3c7fc724152a315ad834ec78eec.png",
     "website": "https://www.tryremy.ai/",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Robotics foundation models are bottlenecked by data. The internet is saturated with cooking tutorials and unboxing videos, but it has almost nothing on the tasks that actually matter for industry: wire harnessing, SMT rework, surgical suturing, mechanical assembly, food prep at scale. Lab teleoperation and handcrafted sims try to fill the gap, but they collapse to archetypal motions in sterile environments and miss the contact-rich, force-modulated messiness of how work actually gets done. \r\n\r\nWe're solving this by going to the source: we pair head-mounted capture with wearable tactile sensors to record synchronized vision, proprioception, and contact forces from people doing real work on real job sites. \r\n\r\nOur privacy-first pipeline guarantees anonymization, with end-to-end encryption in transit and at rest. Our proprietary annotation stack delivers contact events, hand poses, and drift-corrected trajectories at a granularity that off-the-shelf tooling can't match.",
     "one_liner": "Documenting human dexterity ",
     "team_size": 2,
@@ -15181,7 +15183,8 @@
       "Manufacturing and Robotics"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -15678,7 +15681,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5849b2060564f1836d25c1fa4a3cd18ef1bf9553.png",
     "website": "https://www.tenetindustries.com",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Tenet Industries is building low-cost, mass-manufacturable strike drones. \r\n\r\nWe have developed our own HW and SW platform optimized for automated manufacturing, enabling hyperscaling of production across multiple defense categories (FPV, fixed-wing, shahed-type, missiles).\r\n\r\nWe're using design-for-manufacturing and first principles to reimagine how a defense product is developed and manufactured. \r\n\r\nOur first product is a kamikaze quadcopter.",
     "one_liner": "Low-cost, mass-produced strike drones",
     "team_size": 4,
@@ -15700,7 +15703,8 @@
       "Defense"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -16149,8 +16153,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8bbc0f67672c28c5bc0d90aef4a3427383e238ac.png",
     "website": "https://www.avearobotics.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We built the fastest VR teleoperation software on the market, so you can control your robots from anywhere in the world. We help robotics companies collect Physical AI data and scale their deployments.",
-    "one_liner": "Control your robots from anywhere in the world.",
+    "long_description": "We built the fastest software to control robots from anywhere in the world. We make it possible for robotics companies to keep their robots at 100% uptime, and intervene instantly when a failure occurs. ",
+    "one_liner": "Teleoperate your robots from anywhere in the world",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -16242,8 +16246,8 @@
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1777499618,
     "tags": [
-      "Robotics",
-      "AI"
+      "Artificial Intelligence",
+      "Robotics"
     ],
     "tags_highlighted": [],
     "top_company": false,
