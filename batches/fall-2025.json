@@ -3086,7 +3086,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -4880,13 +4880,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a48984c0a7bc281e9b076876c8d571aaf44c799e.png",
     "website": "https://jarmin.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Jarmin.ai is your 24/7 ML eng employee that you hire. Just talk to Jarmin like any other employee and Jarmin handles your AI/ML work from there. Completely hand over full initiatives or individual tasks.\r\n\r\nJarmin’s founding team is from Meta SuperIntelligence Labs (Staff Engineers), Apple (Machine Learning Engineer), AWS (scaling infra), Lockheed-Martin (Research), and JPMorganChase (SWE) with experience building AI/ML and automating complex work of Researchers, Data Scientists, ML Engineers with AI.",
-    "one_liner": "24/7 Machine Learning Engineer employees",
+    "long_description": "Jarmin.ai builds AI employees for human-level roles. It learns its responsibilities, understands your data, embeds into your systems, and becomes part of your team's day-to-day workflow. Completely hand over full initiatives or individual tasks.\r\n\r\nHire AI ML Engineers, Account Executives, Paralegals, Financial analysts, Compliance analysts, and more.\r\n\r\nJarmin’s founding team is from Meta SuperIntelligence Labs (Staff Engineers), Apple (Machine Learning Engineer), AWS (scaling infra), Lockheed-Martin (Research), and JPMorganChase (SWE) with experience building AI/ML and automating complex work of Researchers, Data Scientists, ML Engineers with AI.",
+    "one_liner": "AI Employees for human-level roles",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1762304310,
-    "tags": [],
+    "tags": [
+      "Machine Learning",
+      "B2B",
+      "Enterprise"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -5171,8 +5175,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ba9edbf42a04ad97bf80ea5c1940458e14f3f70.png",
     "website": "https://thehog.ai/",
     "all_locations": "",
-    "long_description": "TheHog.ai is the first predictive intelligence engine for growth. We don't just find leads; we predict your next customer before they enter the market.\r\n\r\nTheHog.ai maps your ICP, channels, and opportunities across the internet, monitors competitors, communities, keywords, and turns signals into ranked actionable game plans.\r\n\r\nThe future of sales isn't a static dashboard; it is a living, autonomous command center. TheHog.ai gives a single operator the power of an entire sales and marketing teams by compressing weeks of research into minutes of execution.\r\n\r\nThe Hog Mind & Global Graph At our core is \"The Hog Mind\": a proprietary Contributory Global Graph that fuses real-time social listening with advanced identity resolution. Unlike traditional enrichment tools that rely on stale databases, The Hog monitors millions of live conversations across the internet to identify high-frequency intent signals. This creates a self-reinforcing data flywheel that ranks opportunities and triggers autonomous engagement workflows instantly.\r\n\r\nWhat We Do:\r\n\r\nPredictive Buying Intelligence: We map the \"Global Graph\" of customer nodes to surface opportunities before competitors know they exist.\r\n\r\nAutonomous Engagement: An army of AI agents that don't just draft, but identify, verify, and engage with customers across LinkedIn, Reddit, and X.\r\n\r\nDeep Data Enrichment: We bridge the gap between anonymous social signals and verified contact data, creating a holistic view of your market.\r\n\r\nThe Data Flywheel: A bottom-up network where every user interaction cleans and verifies our dataset, creating a defensive moat that gets smarter with every query.\r\n\r\nThe Result: Win your customers before it’s even a competition",
-    "one_liner": "AI Demand Gen for Companies",
+    "long_description": "One API to search, enrich, and monitor the web.\r\n\r\nAn agent is only as good as the data it runs on. Most agents and GTM tools today are stuck pulling stale, fragmented data from a dozen different providers, which caps how good their output can ever be. We unify all of it behind one API.\r\n\r\nOne credit-based API covers people data, company data, web search, deep research, news, social signals, and web scraping. Multi-provider waterfall logic routes each call to the best source and falls back automatically, so you get one integration and one bill instead of stitching together Clay, Apollo, Exa, Tavily, and a handful of others.\r\n\r\nWe're building the data layer that agents and GTM teams plug into to find, understand, and reach their customers.",
+    "one_liner": "Real-time web intelligence API for AI agents and GTM teams",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
@@ -5790,7 +5794,7 @@
     "former_names": [
       "InferEdge Inc."
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f11bc5117eb236dd5cf2bbd42019008011ec1a59.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/631b5f054745e65be97bbf8459061215b1e4e693.png",
     "website": "https://moss.dev",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Moss is building the real-time semantic search runtime for conversational and multimodal AI. Our system enables voice agents, copilots, and chat interfaces to retrieve, reason, and respond in sub-10 ms, delivering the responsiveness that makes AI interactions feel truly natural.\r\n\r\nIf you’ve ever built a conversational or voice AI product, you’ve felt the lag. That moment when an agent pauses and the illusion of intelligence breaks. The bottleneck is almost always retrieval. Each query hops across networks and databases, adding delay and cost. Moss eliminates that gap by keeping retrieval close to where the agent runs.\r\n\r\nMoss runs natively across browsers, mobile devices, and servers with an optimized vector index built in Rust and WebAssembly. It enables teams to build AI products that feel instant, contextual, and adaptive. The experiences that sustain engagement and unlock new kinds of interaction. For our customers, this translates into tangible business value: stronger user retention, higher conversion, and entirely new product categories made possible by real-time understanding. Moss is already powering production pilots across voice AI and developer platforms, achieving sub-10 ms retrieval and 70–90% token savings compared to traditional pipelines.",
@@ -5800,9 +5804,9 @@
     "subindustry": "B2B",
     "launched_at": 1761590258,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "SaaS",
-      "AI"
+      "SaaS"
     ],
     "tags_highlighted": [],
     "top_company": false,

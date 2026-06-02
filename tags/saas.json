@@ -18552,7 +18552,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -40782,48 +40782,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/topo.json"
   },
   {
-    "id": 29308,
-    "name": "atopile",
-    "slug": "atopile",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bc01556ac42a30413be04851c543100ade541b52.png",
-    "website": "http://atopile.io",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "atopile is a new language to design electronic circuit boards with code. We replace point and click graphical interfaces with code to bring software level automation and reuse to the field of hardware design. Our project is open source on GitHub! https://github.com/atopile/atopile",
-    "one_liner": "We make tools to design electronics circuit boards with code",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1709142669,
-    "tags": [
-      "Hardware",
-      "SaaS",
-      "Design Tools",
-      "Electronics"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/atopile",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/atopile.json"
-  },
-  {
     "id": 29318,
     "name": "StarJar",
     "slug": "starjar",
@@ -40961,7 +40919,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Respan (formerly Keywords AI) gives teams a unified control plane to trace and evaluate agent behavior without guesswork, automatically surface issues, and fix what breaks faster. Respan connects production observability, automated and human-in-the-loop evaluations, and an adaptive AI gateway to close the loop between detection, decision, and action - so agents improve continuously in production.\r\n\r\nRespan is trusted by 100+ AI startups and enterprise teams. Today, the platform process 1B+ logs and 2T+ tokens every month, supporting more than 6.5M end users.",
     "one_liner": "Self-driving observability, evals, and gateway for AI agents",
-    "team_size": 10,
+    "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1711136962,
@@ -44223,18 +44181,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb2a3cdbbb6f4b0b97cc737484c96197f2cb06a5.png",
     "website": "https://archilabs.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "ArchiLabs is building the AI CAD tool for architects and engineers, starting with data center design.",
-    "one_liner": "AI Copilot for Architects",
+    "long_description": "ArchiLabs is building the AI CAD tool for architects and engineers. We focus on use cases like: production homebuilding, modular housing, MEP, fire suppression systems, and more.",
+    "one_liner": "AI CAD for AEC",
     "team_size": 2,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction -> Construction",
     "launched_at": 1732038457,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Construction",
       "B2B",
-      "Proptech"
+      "Proptech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45533,7 +45491,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -46768,15 +46726,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Floot lets non-coders & entrepreneurs build real web apps that actually work. We’re taking a new approach by building everything from the ground up for AI.\r\n\r\n✨ Try building an app at floot.com\r\n\r\nExisting AI app builders fall short of enabling non-coders to build real, serious apps. They often:\r\n- Break down when building anything more than a prototype or toy app\r\n- Have non-coders stuck with errors they don’t understand\r\n- Require non-coders to handle multiple services designed for developers (e.g. for backend, database, hosting, etc)\r\n\r\nThe fundamental problem: these AI app builders just cobble together existing developer tools and slap AI on top, but these tools were designed for humans and not for AI.\r\n\r\nThe result? Non-coders get excited, start building, hit a wall, and then abandon their projects.\r\n\r\nFloot is purpose-built for AI. Our secret sauce:\r\n\r\n1) Instead of reusing a coding framework designed for humans, we created a specialized framework that dictates how AI should write code and how the code runs on our infrastructure. This allows us to enforce best practices, detect errors earlier, and give the best feedback to the AI. As a result, Floot can write better code and fix issues more effectively.\r\n\r\n2) Floot has the entire tech stack built-in (backend, database, hosting, etc) so building and managing an app feels seamless, especially for non-coders. And because we control every layer of the stack, we can optimize each layer for AI-first coding.\r\n\r\nBecause of this, non-coders can get more done with less time and prompting. They can finally build serious apps that work, instead of getting stuck in frustrating error loops and then abandoning their projects.\r\n\r\nWe also built a highly scalable hosting system directly on AWS so Floot apps can handle real traffic and business demands. This means non-coders can build, deploy, and scale their apps on a single platform seamlessly.\r\n\r\nPlus, Floot is really fun to use! Try building an app at floot.com",
     "one_liner": "The easiest way for non-coders to build apps with AI.",
-    "team_size": 2,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1753721322,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "No-code",
-      "Web Development"
+      "Web Development",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46938,11 +46896,11 @@
     "former_names": [
       "Salesmith"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/59cd4e66e87a2529fc200defa6e386523e11058a.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f1218976659374be7dae288b56678777bbb6a1eb.png",
     "website": "https://getpaloma.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We unify your contracts, service consumption, and customer relationship context so that your revenue, success and sales teams can operate from the same ground truth. With everything centralized, you can proactively react to customer signals for upsell and churn while billing is seamlessly handled in the background.",
-    "one_liner": "AI-native CRM for putting post-sales operations on autopilot",
+    "long_description": "Paloma gives manufacturing companies an embedded team of engineers and ops experts who replace their manual operations with custom AI-native software.",
+    "one_liner": "Digital transformation for real economy businesses",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -46950,9 +46908,9 @@
     "tags": [
       "Artificial Intelligence",
       "SaaS",
-      "Customer Success",
-      "Sales",
-      "Billing"
+      "Analytics",
+      "Manufacturing",
+      "Operations"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47457,7 +47415,7 @@
     "former_names": [
       "InferEdge Inc."
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f11bc5117eb236dd5cf2bbd42019008011ec1a59.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/631b5f054745e65be97bbf8459061215b1e4e693.png",
     "website": "https://moss.dev",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Moss is building the real-time semantic search runtime for conversational and multimodal AI. Our system enables voice agents, copilots, and chat interfaces to retrieve, reason, and respond in sub-10 ms, delivering the responsiveness that makes AI interactions feel truly natural.\r\n\r\nIf you’ve ever built a conversational or voice AI product, you’ve felt the lag. That moment when an agent pauses and the illusion of intelligence breaks. The bottleneck is almost always retrieval. Each query hops across networks and databases, adding delay and cost. Moss eliminates that gap by keeping retrieval close to where the agent runs.\r\n\r\nMoss runs natively across browsers, mobile devices, and servers with an optimized vector index built in Rust and WebAssembly. It enables teams to build AI products that feel instant, contextual, and adaptive. The experiences that sustain engagement and unlock new kinds of interaction. For our customers, this translates into tangible business value: stronger user retention, higher conversion, and entirely new product categories made possible by real-time understanding. Moss is already powering production pilots across voice AI and developer platforms, achieving sub-10 ms retrieval and 70–90% token savings compared to traditional pipelines.",
@@ -47467,9 +47425,9 @@
     "subindustry": "B2B",
     "launched_at": 1761590258,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "SaaS",
-      "AI"
+      "SaaS"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47763,7 +47721,7 @@
     "website": "https://www.stagereview.app/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Stage is a code review platform designed to help engineers better understand and review AI generated code.\r\n\r\nEngineering teams are shipping faster than ever with coding agents, but now they’re drowning in an endless backlog of PRs to review. Stage reorganizes the code review process around how engineers naturally read changes, enabling your team to review (and merge!) PRs 5x faster than GitHub.",
-    "one_liner": "Code review platform for AI generated code",
+    "one_liner": "Code review platform for humans and agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -48472,7 +48430,7 @@
     "name": "Infera",
     "slug": "infera",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be061afea8007a31da2afafddc3638b0f8cad08a.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e31e68f847b8067b4a5a541fed968e4b0739a6c4.png",
     "website": "https://www.infera.bio",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Describe an experiment in plain English, and Infera turns it into a validated, instrument-ready run across the equipment your lab already uses. Infera handles the protocol logic, vendor-specific scripts, data, inventory, and institutional knowledge in one system. An AI-native compiler for the lab: one system from intent to execution.",
