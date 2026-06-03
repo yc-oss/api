@@ -10937,7 +10937,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -12392,7 +12392,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -13480,6 +13480,54 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/co-dev",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/co-dev.json"
+  },
+  {
+    "id": 27870,
+    "name": "Langfuse",
+    "slug": "langfuse",
+    "former_names": [
+      "Finto",
+      "langfuse"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d3e0acd0e4d5b3b53104245ec4f7548555f11896.png",
+    "website": "https://langfuse.com",
+    "all_locations": "Berlin, Berlin, Germany",
+    "long_description": "Traces, evals, prompt management and metrics to debug and improve your LLM application.\r\nOnboard via https://langfuse.com\r\n\r\nLangfuse helps you build and improve LLM applications across the entire lifecycle: \r\n- Develop: Observability, Langfuse UI & Prompt Management\r\n- Monitor: Traces, Analytics, Metrics & Evaluations\r\n- Test: Experiments, Releases & Datasets\r\n\r\nWe are hiring: https://langfuse.com/careers\r\n\r\nLangfuse was acquired by Clickhouse in January of 2026.",
+    "one_liner": "Open source LLM engineering platform",
+    "team_size": 19,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1673911015,
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "Analytics",
+      "Open Source",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Acquired",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Germany",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/langfuse",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/langfuse.json"
   },
   {
     "id": 27871,
@@ -17136,7 +17184,7 @@
     "all_locations": "Berlin, Berlin, Germany",
     "long_description": "Langdock is a comprehensive and secure platform for deploying AI in companies. From a powerful chat interface for all employees to tools for creating custom workflow automations with AI-driven agents.",
     "one_liner": "The all-in-one AI platform for companies.",
-    "team_size": 22,
+    "team_size": 50,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1690080205,
@@ -20180,6 +20228,51 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/trieve",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/trieve.json"
+  },
+  {
+    "id": 29380,
+    "name": "Conduit",
+    "slug": "conduit-ai",
+    "former_names": [
+      "HostAI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b7203ae9cb780218b08e159ff4d1da47aae0c79a.png",
+    "website": "https://conduit.ai/?utm_source=referral&utm_medium=organic&utm_campaign=ycombinator",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Conduit is the leading AI agent platform for hospitality operations.\r\n\r\nOperators can create, test, and run AI agents on Conduit's harness purpose built for hospitality. On-brand agents handles the full guest journey, converting inquiries into bookings and driving upsell revenue, then runs internal operations and surfaces insights for leadership. All connected to the systems operators already use. \r\n\r\nTrusted by over 1000+ global hospitality brands across 120+ countries.",
+    "one_liner": "AI Agents for Hospitality",
+    "team_size": 15,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1707775068,
+    "tags": [
+      "Travel",
+      "Sales",
+      "Customer Service",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/conduit-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/conduit-ai.json"
   },
   {
     "id": 29382,
@@ -26894,48 +26987,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/sublingual.json"
   },
   {
-    "id": 30220,
-    "name": "Verbiflow",
-    "slug": "verbiflow",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1bd29bf3ae78d877579bc04ed995435a51eec466.png",
-    "website": "https://verbiflow.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Research on autopilot. Discover, Qualify & Engage your market.",
-    "one_liner": "People search that works",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1740147387,
-    "tags": [
-      "SaaS",
-      "Analytics",
-      "Sales",
-      "Sales Enablement",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/verbiflow",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/verbiflow.json"
-  },
-  {
     "id": 30230,
     "name": "SalesPatriot",
     "slug": "salespatriot",
@@ -27316,6 +27367,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mundo-ai",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/mundo-ai.json"
+  },
+  {
+    "id": 30272,
+    "name": "Lucidic AI",
+    "slug": "lucidic-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f666d84f3ea0fbb63226b5b84cd46c97e83f4414.png",
+    "website": "https://lucidic.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Lucidic emulates model training without changing model weights. The last decade made models intelligent, but intelligence is not the same as experience. Humans do not get better by memorizing thousands of examples; we build learning systems around ourselves: skills, memories, critique, practice, tools, and guidance. And every person learns differently because every task is different. Lucidic brings that idea to AI agents by training a custom learning system for each agent, so it learns what to remember, what skills to build, when to ask for help, and how to improve from experience. The model provides the intelligence, Lucidic gives it a way to learn.",
+    "one_liner": "Reimagining how Machines Learn ",
+    "team_size": null,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1736904770,
+    "tags": [
+      "AIOps",
+      "Developer Tools",
+      "SaaS",
+      "Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lucidic-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/lucidic-ai.json"
   },
   {
     "id": 30273,
@@ -28271,50 +28364,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/chestnut",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/chestnut.json"
-  },
-  {
-    "id": 30399,
-    "name": "Frekil",
-    "slug": "frekil",
-    "former_names": [
-      "Notate"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e885d9503dffbb01e24f5bd3a78965979764099.png",
-    "website": "https://www.frekil.com",
-    "all_locations": "Bengaluru, India",
-    "long_description": "Today, it takes months to understand how drugs perform in the real world, delaying safety insights and leaving patients exposed to unknown risks and benefits for far too long. Frekil turns that months-long process into minutes, with full auditability and scientific rigor.\r\n\r\nFrekil accelerates real world evidence (RWE) generation for life sciences companies on their own clinical data from months to minutes. It connects to fragmented clinical data (EHR, Claims, etc.) and lets teams run end-to-end studies from study design, cohort extraction to SAP, statistical analysis, and final reports.",
-    "one_liner": "RWE Generation in minutes",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1744440110,
-    "tags": [
-      "Health Tech",
-      "B2B",
-      "Biotech",
-      "Healthcare",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "India",
-      "South Asia"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/frekil",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/frekil.json"
   },
   {
     "id": 30400,
@@ -30378,6 +30427,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lark",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/lark.json"
+  },
+  {
+    "id": 30644,
+    "name": "Wafer",
+    "slug": "wafer",
+    "former_names": [
+      "Herdora",
+      "wafer"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d73d3d68555ca97a0b7fa88945cb6c577d872c4c.png",
+    "website": "https://www.wafer.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Wafer builds AI agents that work as autonomous performance engineers, optimizing GPU kernels for AI inference. \r\n\r\nOur product is serverless and dedicated inference for the world’s fastest open source LLMs, achieved by Wafer's autonomous performance engineers. ",
+    "one_liner": "AI that makes AI fast",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1751530242,
+    "tags": [
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/wafer",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/wafer.json"
   },
   {
     "id": 30649,
@@ -32882,8 +32973,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/834b16b30c5de79bf9dbcd0a4819289bfa937936.png",
     "website": "https://thesislabs.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We are accelerating AI research and development. Our aim is to help researchers uncover the next AlphaFold or build the next Transformer, faster, more systematically, and at scale. We treat discovery not as a matter of luck, but as an intelligent search problem.\r\n\r\nBy giving researchers access to an autonomous AI research lab, Thesis lets you build powerful machine learning models for anything imaginable. Every major breakthrough in AI over the next decade will be made on Thesis.",
-    "one_liner": "Automate AI research",
+    "long_description": "We are automating AI research and development. Our aim is to help AI researchers uncover the next AlphaFold or build the next Transformer, faster, more systematically, and at scale. We treat discovery not as a matter of luck, but as a combinatorial search problem. Every major breakthrough in AI over the next decade will be made by Thesis.",
+    "one_liner": "Autonomous AI research",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -34173,48 +34264,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/q2q.json"
   },
   {
-    "id": 31157,
-    "name": "Drafted",
-    "slug": "drafted",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a2c139b868432353a44f9beec890c283ae5570b6.png",
-    "website": "https://www.drafted.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Drafted is building multimodal generative models for residential architecture and spatial design.\r\n\r\nThe product allows users to design homes by combining sketches and direct spatial input to generate coherent floor plans and elevations that can be explored in both 2D and 3D. Users can define footprints, lot boundaries, room placement, relationships, room programs, and square footage constraints that persist across generations and iterative design exploration, then export CAD, PDF, and other files into the rest of the home design and construction process.\r\n\r\nMore info on the company:\r\n⁃ In the past month, we've had 120k users come to the site, generating 325k+ floor plans through socials and word-of-mouth. \r\n⁃ A team of 9, made up of researchers from Stanford, Autodesk, Brown, Adobe, and Architects from WeWork, Atmos, and design families\r\n⁃ Raised $17.5M from investors such as Buckley Ventures (Josh Buckley), YC (Aaron Epstein), Patrick Collison, Evan Moore, Convective Capital (Bill Clerico), Ben Silbermann, Jack Altman, Samsung, Starship Ventures, Charlie Songhurst, Ryan Tedder, Moses Moody, Alex Blania, and Kevin Mahaffey",
-    "one_liner": "Design your home instantly with AI",
-    "team_size": 9,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1780013660,
-    "tags": [
-      "Machine Learning",
-      "Real Estate",
-      "Design",
-      "Architecture",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/drafted",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/drafted.json"
-  },
-  {
     "id": 31191,
     "name": "Traverse",
     "slug": "traverse",
@@ -34514,47 +34563,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/carrot-labs.json"
   },
   {
-    "id": 31300,
-    "name": "Shofo",
-    "slug": "shofo",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdc8fbfe28cb5c8e4405b92f33ce7b6536b88c17.png",
-    "website": "https://shofo.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We are building the world’s largest video library. We've aggregated billions of videos into a searchable index and use agents to find and label the exact datasets a lab needs on demand.\r\n\r\nIf a lab needs 100K hours of cooking videos where someone is holding a pan, with reasoning annotations on top, our agents search the index, extract the matching subset, route it through our labeling pipeline, and deliver a custom dataset in days, not months.",
-    "one_liner": "The World's Largest Video Library",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1768432806,
-    "tags": [
-      "Data Labeling",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/shofo",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/shofo.json"
-  },
-  {
     "id": 31323,
     "name": "Hedge",
     "slug": "hedge",
@@ -34597,6 +34605,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hedge",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/hedge.json"
+  },
+  {
+    "id": 31329,
+    "name": "primitive",
+    "slug": "primitive",
+    "former_names": [
+      "MyMX"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/68d79963abcea30afcb5624fb54adb42544a50ed.png",
+    "website": "https://primitive.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Building the communication infrastructure needed for fully autonomous agents",
+    "one_liner": "Communication for agents",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1773121787,
+    "tags": [
+      "Developer Tools",
+      "Automation",
+      "Email",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/primitive",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/primitive.json"
   },
   {
     "id": 31330,
@@ -35376,47 +35429,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/napkin-math.json"
   },
   {
-    "id": 31432,
-    "name": "Keyframe Labs",
-    "slug": "keyframe-labs",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ca6ef21e7c765ce2b9f612cc2ec833a2654c6bd4.png",
-    "website": "https://keyframelabs.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Our real-time, generative models turn AI into lifelike video calls. Deploy in minutes with a few lines of embed code. Photorealism, emotion, and scale for just $0.06 per minute.",
-    "one_liner": "Turn agents into lifelike video calls. $0.06 a minute.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1774290085,
-    "tags": [
-      "B2B",
-      "Video",
-      "API",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/keyframe-labs",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/keyframe-labs.json"
-  },
-  {
     "id": 31436,
     "name": "Prototyping.io",
     "slug": "prototypingio",
@@ -35722,52 +35734,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/zibra-labs.json"
   },
   {
-    "id": 31460,
-    "name": "PLAN0 AI",
-    "slug": "plan0-ai",
-    "former_names": [
-      "PLANO AI Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/abb178493b637223c4623f43b2c209131939af8e.png",
-    "website": "https://plan0.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "PLAN0 is building the Bloomberg of construction for real estate developers, investors, and general contractors — $20B of projects are already running through the platform.\r\n\r\nWe analyze architectural plans using computer vision AI models to generate detailed cost estimates and analytics in minutes. Through industry partnerships, the platform is also building a database of historical and real-time localized project cost data that power its analytics. Using quant finance inspired ML models, it can decompose construction costs in market observable factors to predict all local trade level costs up to 24 months out with high accuracy. ",
-    "one_liner": "AI powered construction cost estimation & analytics.",
-    "team_size": 5,
-    "industry": "Real Estate and Construction",
-    "subindustry": "Real Estate and Construction",
-    "launched_at": 1777504379,
-    "tags": [
-      "Computer Vision",
-      "Real Estate",
-      "Construction",
-      "Proptech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Real Estate and Construction"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/plan0-ai",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/plan0-ai.json"
-  },
-  {
     "id": 31463,
     "name": "Armature",
     "slug": "armature",
@@ -35887,47 +35853,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/wato",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/wato.json"
-  },
-  {
-    "id": 31475,
-    "name": "Ardent",
-    "slug": "ardent",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f4ef54cc2ae204ad4ac662f9bfacf6a3fa6faf47.png",
-    "website": "https://tryardent.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Clone any postgres DB regardless of size in 6s so agents can test their work",
-    "one_liner": "Database sandboxes for Agents",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1775685642,
-    "tags": [
-      "Data Engineering",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ardent",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/ardent.json"
   },
   {
     "id": 31488,
@@ -36058,47 +35983,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/raspire.json"
   },
   {
-    "id": 31496,
-    "name": "Hessian",
-    "slug": "hessian",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f536986f121d1ec1c4cb08cbe10e493da54b21ee.png",
-    "website": "https://hessian.sh",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Hessian is the platform for automating business operations with AI agents. We forward deploy on-site to map the work, and build the agents on our platform to run it end-to-end. Unlike off-the-shelf tools that don't know your business, you get a partner that owns the software and operates it every day. Why now? Coding agents have matured to the point where, combined with our engineering judgment we've built across a decade of shipping production systems, we can scale forward-deployed engagements with minimal headcount. Furthermore, our FDE agents and tooling will accelerate how quickly we automate workflows on our platform. We're already saving our customers hundreds of hours a month. Trillions of dollars a year are spent on knowledge work, and we're building the standard for how every company deploys, operates, and governs the AI agents that do it.",
-    "one_liner": "We forward deploy with AI agents to automate business operations",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1779173686,
-    "tags": [
-      "Developer Tools",
-      "Machine Learning",
-      "Workflow Automation",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/hessian",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/hessian.json"
-  },
-  {
     "id": 31498,
     "name": "Aster",
     "slug": "asterlab",
@@ -36182,47 +36066,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/projectx",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/projectx.json"
-  },
-  {
-    "id": 31510,
-    "name": "Auxos",
-    "slug": "auxos",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e35e07f61bc16ff060889081c97809a3aad66df5.png",
-    "website": "https://www.useauxos.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Auxos builds AI customer clones for marketing, product, and research teams to test their hypotheses at scale. We work with companies to create 1:1 replicas of their customers by sourcing and interviewing real people in their ICP, allowing us to accurately model how they behave and make decisions. \r\n\r\nCurrently, market research is too slow and expensive to use on anything but the biggest decisions. Surveys and panels cost a fortune and it takes weeks to recruit, moderate, and gather insights.   \r\n\r\nAuxos provides a 24/7 available customer panel that can give population-scale insights in minutes. The day-to-day decisions surrounding product, pricing, and positioning can now be validated with the same rigor that used to be reserved for the big ones. \r\n",
-    "one_liner": "AI customer clones for market research",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1778707730,
-    "tags": [
-      "B2B",
-      "Marketing",
-      "Market Research",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/auxos",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/auxos.json"
   },
   {
     "id": 31511,
@@ -36357,91 +36200,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/gravy.json"
   },
   {
-    "id": 31524,
-    "name": "AgentPhone",
-    "slug": "agentphone",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3cd0619758d7e852f6674fba763a0d1167fa4a69.png",
-    "website": "https://agentphone.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "The $2T global telecom industry was built for humans. Agents can't act in the real world today because without a phone number, they lack identity. AgentPhone gives every AI agent its own phone number to reach people and businesses through messages and calls.",
-    "one_liner": "Phone Numbers for AI Agents",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1778010009,
-    "tags": [
-      "Developer Tools",
-      "API",
-      "Telecommunications",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/agentphone",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/agentphone.json"
-  },
-  {
-    "id": 31525,
-    "name": "Arden",
-    "slug": "arden",
-    "former_names": [
-      "Veris"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/66c948c30bb6ef7a235b3bf6ee7bcb0964990077.png",
-    "website": "https://ardentech.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Arden is the AI-native platform for internal audit and SOX teams.\r\n\r\nWe build AI agents that automatically pull evidence from your stack, test controls end-to-end, and produce audit-ready workpapers in minutes instead of weeks.\r\n\r\nInternal audit is a massive but underserved market. Every public company in the US is required to do SOX testing, yet teams still run it through spreadsheets and screenshots. Arden is the engine that does this work.",
-    "one_liner": "AI agents that automate SOX control testing.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1778059206,
-    "tags": [
-      "Finance",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/arden",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/arden.json"
-  },
-  {
     "id": 31526,
     "name": "Uno Wallet",
     "slug": "uno-wallet",
@@ -36456,6 +36214,8 @@
     "subindustry": "Consumer",
     "launched_at": 1779834493,
     "tags": [
+      "Fintech",
+      "Machine Learning",
       "Payments",
       "Consumer Finance",
       "AI"
@@ -36708,15 +36468,16 @@
     "website": "https://www.enjamb.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Enjamb puts agents across the entire drug program, from preclinical research through clinical trials and approval. Our agents synthesize up-to-date clinical evidence from the literature and real-world data to pinpoint the right endpoints and patient populations; draft and audit regulatory documents like INDs, protocols, SAPs, and NDAs; and run the statistical programming behind them, including SDTM, ADaM, TFLs, and QC, all in one auditable workspace that cuts months off the path from preclinical to clinic and clinic to market.",
-    "one_liner": "Full stack AI Agents accelerating Biopharma R&D ",
+    "one_liner": "Claude Code for accelerating Biopharma R&D ",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1779929226,
     "tags": [
-      "AI-powered Drug Discovery",
+      "SaaS",
       "B2B",
       "Biotech",
+      "Healthcare",
       "AI"
     ],
     "tags_highlighted": [],

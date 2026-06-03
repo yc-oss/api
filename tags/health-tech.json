@@ -5931,7 +5931,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -7062,7 +7062,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e885d9503dffbb01e24f5bd3a78965979764099.png",
     "website": "https://www.frekil.com",
-    "all_locations": "Bengaluru, India",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Today, it takes months to understand how drugs perform in the real world, delaying safety insights and leaving patients exposed to unknown risks and benefits for far too long. Frekil turns that months-long process into minutes, with full auditability and scientific rigor.\r\n\r\nFrekil accelerates real world evidence (RWE) generation for life sciences companies on their own clinical data from months to minutes. It connects to fragmented clinical data (EHR, Claims, etc.) and lets teams run end-to-end studies from study design, cohort extraction to SAP, statistical analysis, and final reports.",
     "one_liner": "RWE Generation in minutes",
     "team_size": 2,
@@ -7070,11 +7070,11 @@
     "subindustry": "Healthcare",
     "launched_at": 1744440110,
     "tags": [
+      "Artificial Intelligence",
       "Health Tech",
       "B2B",
       "Biotech",
-      "Healthcare",
-      "AI"
+      "Healthcare"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7086,8 +7086,8 @@
       "Healthcare"
     ],
     "regions": [
-      "India",
-      "South Asia"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -7193,45 +7193,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/nori",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/nori.json"
-  },
-  {
-    "id": 30666,
-    "name": "CareSwift",
-    "slug": "careswift",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f57117138aa46056d21a2d0bd92569a3da39e148.png",
-    "website": "https://www.careswift.com/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "CareSwift is a real-time AI assistant built directly into ambulance reporting systems, guiding medics as they document care and instantly flagging errors. Crews complete accurate, compliant reports in under three minutes, cutting documentation time by 80 percent and helping agencies avoid insurance claim denials. Ambulance crews lose valuable time completing reports after each call. Even minor mistakes cause insurance claims to be rejected. ",
-    "one_liner": "AI scribe for Ambulance Reports",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1751153734,
-    "tags": [
-      "Artificial Intelligence",
-      "Health Tech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/careswift",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/careswift.json"
   },
   {
     "id": 30681,
@@ -7540,47 +7501,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/klarify.json"
   },
   {
-    "id": 31383,
-    "name": "Juno",
-    "slug": "juno-chat",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e0c6bb59547978fc3036953e8d43c990c8c000fc.png",
-    "website": "https://junocompanion.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Juno is an AI personal health assistant for the 1B+ people living with chronic illness.\r\n\r\nLaunched in October, Juno now supports 90,000+ patients globally and has grown to $70K MRR.",
-    "one_liner": "AI Health Assistant for Chronic Illness",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Consumer Health and Wellness",
-    "launched_at": 1776751581,
-    "tags": [
-      "Health Tech",
-      "Health & Wellness",
-      "Consumer Products"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Consumer Health and Wellness"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/juno-chat",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/juno-chat.json"
-  },
-  {
     "id": 31430,
     "name": "Voquill",
     "slug": "voquill",
@@ -7659,45 +7579,5 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/astraea",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/astraea.json"
-  },
-  {
-    "id": 31553,
-    "name": "Framewise Health",
-    "slug": "framewise-health",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e7c03ef5bb8c84872c4ee5809b9b3d8f19f80ae0.png",
-    "website": "https://framewisehealth.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We turn medical records into personalized videos walking patients through onboarding, adherence, and recovery. The engagement data we collect builds our AI-native patient engagement platform for pharma, hospitals, medical devices, and private clinics, so they can stop chasing the patient and spend more time caring for them.",
-    "one_liner": "AI-native patient engagement",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1775682737,
-    "tags": [
-      "SaaS",
-      "Health Tech",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/framewise-health",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/framewise-health.json"
   }
 ]

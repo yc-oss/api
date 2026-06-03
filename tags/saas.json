@@ -4669,7 +4669,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2016",
     "status": "Active",
@@ -40186,7 +40186,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -44739,18 +44739,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1bd29bf3ae78d877579bc04ed995435a51eec466.png",
     "website": "https://verbiflow.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Research on autopilot. Discover, Qualify & Engage your market.",
-    "one_liner": "People search that works",
+    "long_description": "We help startups reach prospective customers through email, LinkedIn, and cold calls, while keeping your team aligned on every conversation and response.",
+    "one_liner": "Outbound Sequencing Infrastructure for Startups",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1740147387,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Analytics",
       "Sales",
-      "Sales Enablement",
-      "AI"
+      "Sales Enablement"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -44995,21 +44995,21 @@
     "name": "Lucidic AI",
     "slug": "lucidic-ai",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/070d8df8755a600f5ecf800f273f60a2cfa54bb0.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f666d84f3ea0fbb63226b5b84cd46c97e83f4414.png",
     "website": "https://lucidic.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lucidic AI helps enterprises train AI agents without changing model weights. Frontier models are powerful, but they are still general-purpose; they do not automatically understand how a specific company operates. Lucidic creates a training layer that adapts agents to a company’s real business environment through simulations.",
-    "one_liner": "AI Agent Training via Simulations",
+    "long_description": "Lucidic emulates model training without changing model weights. The last decade made models intelligent, but intelligence is not the same as experience. Humans do not get better by memorizing thousands of examples; we build learning systems around ourselves: skills, memories, critique, practice, tools, and guidance. And every person learns differently because every task is different. Lucidic brings that idea to AI agents by training a custom learning system for each agent, so it learns what to remember, what skills to build, when to ask for help, and how to improve from experience. The model provides the intelligence, Lucidic gives it a way to learn.",
+    "one_liner": "Reimagining how Machines Learn ",
     "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1736904770,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48017,7 +48017,7 @@
     "website": "https://userlens.io",
     "all_locations": "Helsinki, Finland",
     "long_description": "Most B2B churn is preventable - most teams just see it too late. \r\n\r\nBy the time a CSM notices, the champion has already quietly disengaged, key features went unadopted, and the renewal conversation is damage control. The dangerous part? The customer might still be logging in, but they've stopped using what actually matters. \r\n\r\nUserlens catches all of that months earlier.\r\n\r\nOur AI agents monitor every user at every account the way your best CSM watches your top five strategic accounts:\r\n- feature adoption\r\n- usage trends\r\n- champion engagement\r\n- sentiment shifts in Slack and Intercom\r\n- open support issues. \r\n\r\nWhen a signal hits (churn risk, renewal, expansion opportunity), Userlens doesn't just alert you. It builds the talking points and deck on top of your team's approved templates and playbook. If you have CSMs, Userlens makes every one of them your best. If you don't have one yet, Userlens runs your book like the best CSM money could buy.",
-    "one_liner": "AI CSM that never misses churn and upsells. ",
+    "one_liner": "First ever Agentic CSMs to upsell & renew 6+ figure deals.",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -48856,23 +48856,28 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/reasonblocks.json"
   },
   {
-    "id": 31553,
-    "name": "Framewise Health",
-    "slug": "framewise-health",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e7c03ef5bb8c84872c4ee5809b9b3d8f19f80ae0.png",
-    "website": "https://framewisehealth.com",
+    "id": 31549,
+    "name": "Enjamb Labs",
+    "slug": "enjamb-labs",
+    "former_names": [
+      "Enjamb Labs Inc",
+      "Enjamb"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/72c48d60b66c3872f55fda2ba7dbab9415312dd4.png",
+    "website": "https://www.enjamb.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We turn medical records into personalized videos walking patients through onboarding, adherence, and recovery. The engagement data we collect builds our AI-native patient engagement platform for pharma, hospitals, medical devices, and private clinics, so they can stop chasing the patient and spend more time caring for them.",
-    "one_liner": "AI-native patient engagement",
+    "long_description": "Enjamb puts agents across the entire drug program, from preclinical research through clinical trials and approval. Our agents synthesize up-to-date clinical evidence from the literature and real-world data to pinpoint the right endpoints and patient populations; draft and audit regulatory documents like INDs, protocols, SAPs, and NDAs; and run the statistical programming behind them, including SDTM, ADaM, TFLs, and QC, all in one auditable workspace that cuts months off the path from preclinical to clinic and clinic to market.",
+    "one_liner": "Claude Code for accelerating Biopharma R&D ",
     "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1775682737,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1779929226,
     "tags": [
       "SaaS",
-      "Health Tech",
-      "B2B"
+      "B2B",
+      "Biotech",
+      "Healthcare",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48881,7 +48886,7 @@
     "batch": "Spring 2026",
     "status": "Active",
     "industries": [
-      "Healthcare"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -48892,8 +48897,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/framewise-health",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/framewise-health.json"
+    "url": "https://www.ycombinator.com/companies/enjamb-labs",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/enjamb-labs.json"
   },
   {
     "id": 31562,
