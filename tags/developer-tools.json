@@ -14456,7 +14456,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -18921,17 +18921,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1eca61dd3b32e7b0f7174161cd567ec823504e49.png",
     "website": "https://www.revyl.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Revyl is a AI-native mobile testing platform that automatically catches and triages bugs before they reach production.",
-    "one_liner": "AI-Native Mobile Testing",
+    "long_description": "Revyl is a vertically integrated development platform for mobile teams",
+    "one_liner": "The mobile source of truth",
     "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1729643205,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20578,54 +20578,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/helixdb.json"
   },
   {
-    "id": 30439,
-    "name": "Clarm",
-    "slug": "clarm",
-    "former_names": [
-      "Dialin - Dialogue Insights",
-      "dialin",
-      "dialin ai",
-      "Dialin AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a20bfc6fd0067cd630d43fa83552c610e2a0c0d2.png",
-    "website": "https://www.clarm.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "You only need two tools to build a business in 2026 - Cursor for building and Clarm for sales, distribution, and support. Our AI captures inbound, qualifies buyer intent, and routes revenue across every channel while you build.",
-    "one_liner": "Capture inbound revenue whilst you build",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1747978633,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Sales",
-      "Marketing",
-      "Customer Support"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/clarm",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/clarm.json"
-  },
-  {
     "id": 30444,
     "name": "Percival",
     "slug": "percival",
@@ -20846,17 +20798,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eaee1ea603a9cd9e2411a3a9821c8820cdfb0f90.png",
     "website": "https://clidey.com",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "WhoDB is an open-source platform for modeling organizations and running decisions on top of their data.\r\n\r\nIt lets teams define their core entities (customers, accounts, assets, workflows), the relationships between them, and the rules and objectives that govern how decisions should be made. WhoDB continuously ingests operational data and keeps this model up to date in real time.\r\n\r\nInstead of building dashboards, writing ad-hoc queries, or maintaining scattered business logic, teams express decisions declaratively—what should happen, under what conditions, and with what constraints. WhoDB evaluates those decisions automatically as data changes and produces actions, recommendations, or state updates.\r\n\r\nEverything is transparent and inspectable: data models, decision logic, and outcomes are fully auditable and can be extended in code. The system is open source and runs in your own environment.",
-    "one_liner": "We turn your scattered data infrastructure into one platform your…",
+    "long_description": "WhoDB is an open-source platform for modeling organizations and running decisions on top of their data.\r\n\r\nIt lets teams define their core entities (customers, accounts, assets, workflows), the relationships between them, and the rules and objectives that govern how decisions should be made. WhoDB continuously ingests operational data and keeps this model up to date in real time.\r\n\r\nInstead of building dashboards, writing ad-hoc queries, or maintaining scattered business logic, teams express decisions declaratively—what should happen, under what conditions, and with what constraints. WhoDB evaluates those decisions automatically as data changes and produces actions, recommendations, or state updates.\r\n\r\nEverything is transparent and inspectable: data models, decision logic, and outcomes are fully auditable and can be extended in code.",
+    "one_liner": "Turn scattered data into one platform for decision-making",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1747802459,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -23217,6 +23169,49 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/lightsprint.json"
   },
   {
+    "id": 31368,
+    "name": "Zenbu",
+    "slug": "zenbu-2",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cac51a9c6d5e214ddcaeb4498d21b0b6a8e87e58.png",
+    "website": "https://www.zenbu.dev/",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Zenbu is an extensible IDE for orchestrating coding agents. Shape it around exactly how you and your team work.",
+    "one_liner": "The extensible IDE for coding agents",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1780458165,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Open Source"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zenbu-2",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/zenbu-2.json"
+  },
+  {
     "id": 31380,
     "name": "Superlog",
     "slug": "superlog",
@@ -23441,6 +23436,51 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/bentolabs-ai.json"
   },
   {
+    "id": 31458,
+    "name": "Ara",
+    "slug": "ara",
+    "former_names": [
+      "EasyClaw"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c65b718e0ad0cd66c030e2903aa681d9bd8aa94.png",
+    "website": "https://ara.so",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Ara is the self-driving IDE for software teams. It watches work in progress, suggests the next step, and executes tasks through non-invasive computer use, background agents, memory, and reusable skills. Ara turns coding into a closed loop: suggest, act, learn, improve.",
+    "one_liner": "Ara is the self-driving IDE for software teams.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1775160352,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Productivity",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ara",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/ara.json"
+  },
+  {
     "id": 31491,
     "name": "TesterArmy",
     "slug": "testerarmy",
@@ -23525,97 +23565,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hessian",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/hessian.json"
-  },
-  {
-    "id": 31500,
-    "name": "OpenProse",
-    "slug": "openprose",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dfca6a5f5aa7231f41eea9902807c4880158f20b.png",
-    "website": "https://prose.md",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Create agents with structured english and markdown. OpenProse agents are portable across model providers and harnesses. Our framework allows you to declare intents, responsibilities, and outcomes in natural language, while the agents self-configure to deliver results.\r\n\r\nRead more about how OpenProse came to be: https://x.com/irl_danB/status/2011122779890831601\r\n\r\nIf you want to learn more about OpenProse, book some time with the founder here: https://cal.com/irl-danb/openprose-intro",
-    "one_liner": "A natural language agent framework: write the future into existence.",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1779199533,
-    "tags": [
-      "AIOps",
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Swarm AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": true,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/openprose",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/openprose.json"
-  },
-  {
-    "id": 31515,
-    "name": "Probe",
-    "slug": "probe",
-    "former_names": [
-      "Probe",
-      "Prbe"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/98ad261e1a8577cabdde0c1b435198a9e456119d.png",
-    "website": "https://useprobe.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Probe is an incident management platform built for AI agents. It uses a knowledge base to ground agents in the context buried across a team's stack and surfaces the right pieces the moment an engineer is paged. When an incident hits, the agent is already working from the team's tribal knowledge: what happened and why, who has touched the code before, where it broke last time, and who to wake versus who to let sleep. Engineers debug faster and simply approve the fix. Once resolved, Probe writes the postmortems and updates your knowledge base so every incident makes the next one easier. \r\n",
-    "one_liner": "Agent-Native Incident Management",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1779943372,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "B2B",
-      "DevOps",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/probe",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/probe.json"
   },
   {
     "id": 31516,

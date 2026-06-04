@@ -14848,7 +14848,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -20776,7 +20776,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -25444,6 +25444,49 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/lightsprint.json"
   },
   {
+    "id": 31368,
+    "name": "Zenbu",
+    "slug": "zenbu-2",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cac51a9c6d5e214ddcaeb4498d21b0b6a8e87e58.png",
+    "website": "https://www.zenbu.dev/",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Zenbu is an extensible IDE for orchestrating coding agents. Shape it around exactly how you and your team work.",
+    "one_liner": "The extensible IDE for coding agents",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1780458165,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Open Source"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zenbu-2",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/zenbu-2.json"
+  },
+  {
     "id": 31373,
     "name": "Refortifai",
     "slug": "refortifai",
@@ -25717,22 +25760,16 @@
     "name": "OpenProse",
     "slug": "openprose",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dfca6a5f5aa7231f41eea9902807c4880158f20b.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/64b6d546d22917532ccb4e5251eb0d9aa20d25d4.png",
     "website": "https://prose.md",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Create agents with structured english and markdown. OpenProse agents are portable across model providers and harnesses. Our framework allows you to declare intents, responsibilities, and outcomes in natural language, while the agents self-configure to deliver results.\r\n\r\nRead more about how OpenProse came to be: https://x.com/irl_danB/status/2011122779890831601\r\n\r\nIf you want to learn more about OpenProse, book some time with the founder here: https://cal.com/irl-danb/openprose-intro",
-    "one_liner": "A natural language agent framework: write the future into existence.",
+    "all_locations": "Remote",
+    "long_description": "OpenProse is building open-source infrastructure for long-running AI work: a declarative language plus the Reactor harness/runtime for reliable agent workflows.\r\n\r\nOur organic open-source traction (7k+ installs) has already translated into a customer at a medical research lab, starting with a $10k pilot set to roll into a $10k/month contract.\r\n\r\nYC recruited us into the current batch and we've since hired two senior founding team members (ex-Google, Forbes 30u30 harness engineer). All three founding team members are two time founders.\r\n\r\nWe just closed a $1m capped SAFE from Jonathan Abrams 8-Bit Capital and expect to raise $2.5-$3m more on Demo Day.",
+    "one_liner": "Open-source infrastructure for reliable long-running agents",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1779199533,
-    "tags": [
-      "AIOps",
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Swarm AI",
-      "AI Assistant"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -25744,8 +25781,6 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -25756,52 +25791,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/openprose",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/openprose.json"
-  },
-  {
-    "id": 31515,
-    "name": "Probe",
-    "slug": "probe",
-    "former_names": [
-      "Probe",
-      "Prbe"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/98ad261e1a8577cabdde0c1b435198a9e456119d.png",
-    "website": "https://useprobe.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Probe is an incident management platform built for AI agents. It uses a knowledge base to ground agents in the context buried across a team's stack and surfaces the right pieces the moment an engineer is paged. When an incident hits, the agent is already working from the team's tribal knowledge: what happened and why, who has touched the code before, where it broke last time, and who to wake versus who to let sleep. Engineers debug faster and simply approve the fix. Once resolved, Probe writes the postmortems and updates your knowledge base so every incident makes the next one easier. \r\n",
-    "one_liner": "Agent-Native Incident Management",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1779943372,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "B2B",
-      "DevOps",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/probe",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/probe.json"
   },
   {
     "id": 31518,

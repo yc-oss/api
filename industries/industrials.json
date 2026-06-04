@@ -8065,7 +8065,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -11262,18 +11262,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6f87b0dddb05a92646b51780f21648d12f3019bf.png",
     "website": "https://www.conductorquantum.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Quantum computers will allow humanity to understand the world at its most fundamental level, enabling the acceleration of drug discovery and the development of new materials. \r\n\r\nCurrently, quantum engineers spend days, sometimes weeks, manually getting their silicon quantum chips to operational conditions to realize two qubits. A qubit is the information-carrying unit of a quantum computer, analogous to a bit in a classical computer. \r\n\r\nWe need billions of qubits to make a useful quantum computer. Therefore, automation software will be vital to realizing this goal. \r\n\r\nConductor Quantum will develop AI software to remove the human from the loop, enable the scaling of quantum technology.",
-    "one_liner": "AI software for operating quantum computers",
-    "team_size": 3,
+    "long_description": "Conductor Quantum is building quantum superintelligence: AI that operates quantum computers to make scientific discoveries beyond human reach.\r\n\r\nQuantum computers let us understand the world at its most fundamental level, the path to new drugs, new materials, and discoveries no human can reach alone. \r\n\r\nA quantum computer is the perfect simulator of nature: it encodes the logic of reality into a programmable machine, atom by atom, electron by electron. Give AI that simulator and you open the door to discovery.\r\n\r\nThe bottleneck is operating the hardware. Today, engineers spend days or weeks by hand to bring a chip to operating conditions for just two qubits. A qubit is the information-carrying unit of a quantum computer, the equivalent of a bit in a classical one, and a useful machine needs billions. \r\n\r\nRemoving the human from that loop is only half the problem. Every command an AI sends to a quantum computer must be optimised for the specific hardware it runs on.\r\n\r\nWe build the AI that operates quantum computers and tunes every machine it runs on. That is the path to quantum superintelligence.",
+    "one_liner": "AI that operates quantum computers for scientific discovery",
+    "team_size": 4,
     "industry": "Industrials",
     "subindustry": "Industrials",
     "launched_at": 1718219316,
     "tags": [
+      "Artificial Intelligence",
       "Hard Tech",
       "Machine Learning",
       "Quantum Computing",
-      "Semiconductors",
-      "AI"
+      "Semiconductors"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11432,16 +11432,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc824cdcd1866f181c1cae19f0dfc1371a717e51.png",
     "website": "https://zscc.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Zetta is building the next NVIDIA, energy-efficient chips (\"XPUs\") for AI training and inference, offering superior speed and energy efficiency compared to traditional GPUs and TPUs.\r\n\r\nOur XPUs are reconfigurable, capable of optimizing the dataflow of each model, making them faster and more energy-efficient than the current SOTA chips on the market. This saves data centers *billions* in cooling and energy costs.",
+    "long_description": "Zetta builds energy-efficient chips (\"XPUs\") for AI to accelerate discovery. Our XPUs are highly programmable, letting them optimize the dataflow for each model and making them faster and far more efficient than anything on the market today, saving data centers billions in energy and cooling costs.",
     "one_liner": "Energy efficient chips for AI",
     "team_size": 4,
     "industry": "Industrials",
     "subindustry": "Industrials",
     "launched_at": 1722631140,
     "tags": [
-      "Artificial Intelligence",
       "Hardware",
-      "Semiconductors"
+      "Semiconductors",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -12559,7 +12559,7 @@
     "name": "Instinct",
     "slug": "instinct",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/755313167313a2de3bd2cc31183948d26996bb07.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4bb840258f778d8499065a3377b1461a88ad66ed.png",
     "website": "https://www.instinct-space.com/",
     "all_locations": "London, United Kingdom",
     "long_description": "Instinct is making the Moon the new LEO. Our small lunar lander is designed to be launched as a regular LEO rideshare, enabling higher mission cadence at a lower cost.",
@@ -14939,19 +14939,14 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/84622897534f7613d85e63267d30b56cc2f7e6df.png",
     "website": "https://9mothers.com",
-    "all_locations": "Austin, TX, USA",
+    "all_locations": "",
     "long_description": "We are making AI mission systems for the modern battlefield.\r\n\r\nOur first product - EDDA - is a small, low power, low cost fully autonomous-capable counter drone system. It's designed to be used on vehicles, bases, or carried - to stop group 1 suicide drones. We have multiple contracts, sales, etc.\r\n\r\nWe have 3 more products with demand in various stages of development.\r\n\r\nMore details at https://9mothers.com",
     "one_liner": "AI mission systems",
     "team_size": 18,
     "industry": "Industrials",
     "subindustry": "Industrials -> Defense",
     "launched_at": 1772383071,
-    "tags": [
-      "Hard Tech",
-      "Hardware",
-      "Aerospace",
-      "Industrial"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -14963,8 +14958,7 @@
       "Defense"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -15172,7 +15166,7 @@
     "all_locations": "London, United Kingdom",
     "long_description": "We believe the electricity grid is the most important machine on Earth. If we want electrification to move fast, the teams planning and operating networks need software that is as modern as the challenge.\r\n\r\nOur thesis is simple. Better decisions come from one unified, trusted network model. When everyone works from the same model, planning becomes consistent, assumptions are visible, and progress stops getting lost in spreadsheets and static reports.\r\n\r\nSquid is AI powered grid planning in your browser. We have spent years inside National Grid, Octopus Energy, and AWS, building and learning what breaks. Now we are building what we wished existed.",
     "one_liner": "AI agents for power grid planning  🦑 ",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials -> Energy",
     "launched_at": 1768422882,
@@ -15364,18 +15358,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d93a4cb68bc153f52d09c71b45093cc62ba91a62.png",
     "website": "https://dispatch.space/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Dispatch is building refurbishable reentry vehicles that host and return payloads for companies making ultra-high-value materials (semiconductors, biotech, and pharma) that can only be manufactured in space. Right now, these companies have no practical way to manufacture and get their products back to Earth. We solve this bottleneck.\r\n\r\nWe just returned from the Mojave Desert testing our first full-scale reentry heat shield designed to protect the satellite as it returns from space at Mach 20+, built in an apartment for 100x cheaper than competitors. To test, we held it behind a rocket engine to simulate the forces of atmospheric reentry. IT WORKED! Watch here - https://youtu.be/dhlQmnIoptg\r\n\r\nTo scale, we anchor permanent infrastructure in orbit - building high power Autonomous Space Stations designed from day one for \"lights-out\" manufacturing serviced by the reentry vehicles.",
     "one_liner": "Satellites for manufacturing in space",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Aviation and Space",
     "launched_at": 1773166639,
-    "tags": [
-      "Manufacturing",
-      "Aerospace",
-      "Advanced Materials"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -15387,8 +15377,7 @@
       "Aviation and Space"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
