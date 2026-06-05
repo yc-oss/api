@@ -8637,7 +8637,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -8962,8 +8962,8 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/feb213c736f108f91e8194abd3b972fee0e217c3.png",
     "website": "https://postscript.io",
-    "all_locations": "Phoenix, AZ, USA; Remote",
-    "long_description": "We are building the #1 revenue channel for ecommerce. Top customers include Ruggable, Dr. Squatch, Thrive Cosmetics, and 10,000 more.\r\n\r\nPostscript generates more than $2B/yr in e-commerce revenue for our merchants, growing ~2x per year. Our goal is to generate $1T+ per year in e-commerce revenue.\r\n\r\nInteresting challenges:\r\n- Massive Scale\r\n- Real-time conversations across 100M phones\r\n",
+    "all_locations": "Remote",
+    "long_description": "We are building the #1 revenue channel for ecommerce. Top customers include Ruggable, Dr. Squatch, Thrive Cosmetics, and 20,000 more.\r\n\r\nPostscript generates more than $2B/yr in e-commerce revenue for our merchants, growing ~2x per year. Our goal is to generate $1T+ per year in e-commerce revenue.\r\n\r\nInteresting challenges:\r\n- Massive Scale\r\n- Real-time conversations across 100M phones\r\n",
     "one_liner": "The SMS revenue platform for e-commerce merchants",
     "team_size": 180,
     "industry": "B2B",
@@ -8984,8 +8984,6 @@
       "Marketing"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -42304,51 +42302,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/gauge.json"
   },
   {
-    "id": 29694,
-    "name": "AminoAnalytica",
-    "slug": "aminoanalytica",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7d5463656052d09bd1bc697531992af867d844c.png",
-    "website": "https://www.aminoanalytica.com",
-    "all_locations": "London, United Kingdom; Remote",
-    "long_description": "Design, simulate, and test your proteins 100x faster with the end-to-end no-code platform for protein engineering. Powered by Amina, our AI agent.\r\n\r\nWith Amina, one protein engineer can do the work of 10. Describe what you want to achieve and Amina will handle everything else – from research and design to simulation, folding, docking, and protein characterization. It asks clarifying questions if needed, intelligently understands and performs the task, and analyzes your results within the context of your project.",
-    "one_liner": "The AI-Native Operating System for Protein Engineering",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Industrial Bio",
-    "launched_at": 1715962434,
-    "tags": [
-      "AI-powered Drug Discovery",
-      "SaaS",
-      "Synthetic Biology",
-      "Biotech",
-      "Therapeutics"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Industrial Bio"
-    ],
-    "regions": [
-      "United Kingdom",
-      "Europe",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/aminoanalytica",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/aminoanalytica.json"
-  },
-  {
     "id": 29697,
     "name": "Stormy AI",
     "slug": "stormy-ai",
@@ -46854,16 +46807,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2468a3c8a7c5f1a0405c0920fd164d3512f5b6f7.png",
     "website": "https://www.smartbase.so/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Smartbase automates order entry for manufacturers.\r\n\r\nToday, incoming purchase orders are still entered into the ERP by hand. This often requires multiple full-time employees, even at small manufacturers.\r\n\r\nSmartbase removes this manual work by automatically converting incoming purchase orders into ERP orders.\r\n\r\nWe’ve worked on factory floors, sat side-by-side with employees to learn their workflows, and even slept at a factory. We’re now onboarding our first customers onto five-figure annual contracts.\r\n\r\nThis is our wedge into automating the $26 billion clerical labor market in U.S. manufacturing.\r\n\r\nSam previously founded a DevOps platform that raised $2M. Taira was the youngest SDE 2 at AWS SageMaker Inference, where he built AI infrastructure for enterprises such as Salesforce.",
-    "one_liner": "Automated order entry for manufacturers",
+    "long_description": "Smartbase is an AI-native ERP for manufacturers. Unlike traditional ERPs, we reduce headcount by automating workflows like quoting and order entry.",
+    "one_liner": "AI-native ERP for manufacturers",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1753758221,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Workflow Automation",
       "Manufacturing",
       "Automation"
     ],
@@ -47925,46 +47878,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/chert.json"
   },
   {
-    "id": 31388,
-    "name": "Elyra",
-    "slug": "elyra",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dfc0518b0601b15bf131b045d7c9085b3ab4ac5e.png",
-    "website": "https://www.elyrasystems.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Elyra is an AI reservation system for restaurants. Instead of missing 40% of incoming phone calls and taking days to reply to emails, leaving over $100,000 in bookings on the table every year, restaurants get AI agents that answer every call and email instantly, 24/7, connected to a reservation system that optimizes table placements in real time so empty seats get filled with the right guests.\r\n\r\nFelix and Alan met in primary school in Stockholm and have been building things together ever since.\r\n\r\nWe launched with a single restaurant and within weeks they hit record occupancy, bookings they used to miss were suddenly being captured automatically, and empty Tuesday nights started filling up. Today we power top restaurants groups. \r\n\r\nThere are over 1 million restaurants in the US and Europe alone. The average restaurant loses $100K+ a year to missed calls and slow email replies. At our current pricing, that's a $10B+ market opportunity, and we're the only system that handles the call, the email, and the table allocation in one place.",
-    "one_liner": "AI Reservation System for Restaurants ",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1776156708,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Restaurant Tech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/elyra",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/elyra.json"
-  },
-  {
     "id": 31395,
     "name": "Deep Interactions",
     "slug": "deep-interactions",
@@ -48309,16 +48222,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5abd49db087306e856126eb6c4acf3af787f1749.png",
     "website": "https://voquill.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Voquill is the AI coworker that helps pathologists write their case reports faster. It listens as they work the case, learns their reporting style, maximizes reimbursement codes, and produces a sign-out ready report in real-time.\r\n\r\nPathologists bill $30–40B each year, but spend a third of their time on reporting, and lose another third of their contracted revenue to documentation gaps and billing errors. It's a massive drag on a field that's already short-staffed. We're building an agentic platform to manage every aspect of the lab and displace the billions spent on legacy management systems.",
-    "one_liner": "The AI coworker that helps pathologists work cases faster",
+    "long_description": "Voquill is the modern AI-native operating system for medical labs. This software manages the entire workflow of the lab (accessioning, workflow, reporting, coding, compliance, and revenue) and contains modern agentic AI tools to help each step. For example, pathologists can write reports 20% faster through our voice AI coworker.\r\n\r\nIncumbent lab operating systems are old, don't scale with how modern labs work, and can’t integrate existing AI solutions. As a result, labs are either building their own or paying millions for band-aid solutions and consultants. We're building an agentic platform to manage every aspect of the lab and displace the billions spent on legacy management systems.",
+    "one_liner": "The modern AI-native operating system for medical labs. ",
     "team_size": 3,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1779284137,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
-      "Health Tech"
+      "Health Tech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48560,17 +48473,17 @@
     "website": "https://raspire.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "RASPIRE is a mobile threat defense platform with autonomous threat response that protects Android and iOS applications post-compilation without SDKs, code changes, or complex integrations. It adds advanced runtime security layers including anti-reverse engineering, fraud prevention, API attestation, and live threat monitoring against real-time attacks.",
-    "one_liner": "No-code runtime app security with AI",
+    "one_liner": "App Security at AI Speed.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1780001140,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Cybersecurity",
-      "No-code",
-      "AI"
+      "No-code"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48770,46 +48683,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/modern.json"
   },
   {
-    "id": 31546,
-    "name": "ReasonBlocks",
-    "slug": "reasonblocks",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d73e9cbe0885e3d783faf674783100f13336068b.png",
-    "website": "https://reasonblocks.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "ReasonBlocks is the runtime layer that makes AI agents cheaper and more reliable. We correct agent reasoning and compress tokens mid-run, with gains compounding across runs. On SWE-Bench pro we have seen a 52% token reduction and 42% accuracy lift.",
-    "one_liner": "The runtime layer that makes AI agents cheaper and more reliable",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1777282713,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/reasonblocks",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/reasonblocks.json"
-  },
-  {
     "id": 31549,
     "name": "Enjamb Labs",
     "slug": "enjamb-labs",
@@ -48855,47 +48728,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/enjamb-labs.json"
   },
   {
-    "id": 31562,
-    "name": "Cohesion",
-    "slug": "cohesion",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a85ed9b4f8c87d919e87f4a7838af368b02f0f94.png",
-    "website": "https://cohesionplatform.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cohesion is building AI agents for hedge funds. Our agents track earnings and non-traditional datasets like podcasts and X/twitter. Analysts spend hours a week manually tracking these data sources and still miss relevant investing signals. Now, our agents do it for them autonomously. \r\n",
-    "one_liner": "Your public equities agentic teammate ",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1776132340,
-    "tags": [
-      "Fintech",
-      "SaaS",
-      "Investing"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cohesion",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/cohesion.json"
-  },
-  {
     "id": 31563,
     "name": "Thomas",
     "slug": "thomas",
@@ -48939,5 +48771,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/thomas",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/thomas.json"
+  },
+  {
+    "id": 33021,
+    "name": "Care GP",
+    "slug": "care-gp",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f871fa8c32b501e71ef06d881893d564e003fbd.png",
+    "website": "https://caregp.com.au/",
+    "all_locations": "Sydney, NSW, Australia",
+    "long_description": "Care GP is building AI agents to run operations for primary healthcare clinics",
+    "one_liner": "AI agents to run healthcare operations",
+    "team_size": 10,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1780569041,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Healthcare"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "Australia",
+      "Oceania"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/care-gp",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/care-gp.json"
   }
 ]

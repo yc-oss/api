@@ -6549,7 +6549,7 @@
     "all_locations": "Boston, MA, USA",
     "long_description": "At Maven Bio, we’re transforming BioPharma knowledge work by pairing domain-specific AI with curated industry data—letting consultants, investors, and corporate teams move from question to decision with less manual work. Our integrated BioPharma-specific platform features four flagship modules:\r\n\r\n• Maven Workflows: Monitor Maven's domain-specific AI through structured research tasks—step by step—and finalize results with confidence.\r\n• Maven Atlas: Access hundreds of pre-built indication landscapes, or generate custom ones on demand for in-depth insights.\r\n• Maven Compass: Build precise lists of companies, drugs, trials, or documents with advanced filters—move faster with AI-driven filter suggestions.\r\n• Maven Assistant: Get instant answers to your BioPharma questions, complete with direct links to primary sources.\r\n\r\nStop burning hours on manual data hunts. Maven Bio’s continuously updated database and collaborative AI features empower you to focus on strategic decisions. We offer usage-based pricing and usage-restricted trials, plus custom solutions for unique data sources or specialized workflows. Trusted by life science consultants, BD teams, and investors worldwide, Maven Bio delivers faster, deeper insights.\r\n\r\nBook a call to learn how our purpose-built AI can transform your research and accelerate your success.",
     "one_liner": "The AI Platform for Life Sciences Intelligence",
-    "team_size": 10,
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1689099430,
@@ -9339,17 +9339,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e33a2875f652bdd69936c606147614f5fff8283.png",
     "website": "http://www.pearsonlabs.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pearson builds AI agents to automate corporate transactions. Large law firms use us to run gigantic books of businesses with AI, reducing their cost of delivery 40-60%. We work with Orrick as our first design partner, starting with M&A due diligence and financings. $3-6T dollars flow through corporate transactions a year and lawyers take home 1-3% as their cut for every transaction ($150B / year). In the long run, we will capture 50% of the corporate transaction market with the top 30 law firms. We will then provide our AI to companies so they can execute these transactions themselves.",
+    "long_description": "Pearson builds AI agents to automate corporate transactions. Large law firms use us to run gigantic books of businesses with AI, reducing their cost of delivery 40-60%.",
     "one_liner": "AI agents to automate corporate transactions",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1731901982,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "Legal",
-      "LegalTech",
-      "AI"
+      "LegalTech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -10847,8 +10847,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c02ad81894db8e1b1d0e71c379c7cae04211613.png",
     "website": "https://velvetlab.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Training data for underserved domains",
-    "one_liner": "Training data for underserved domains",
+    "long_description": "Bringing data realism to frontier models.",
+    "one_liner": "Bringing data realism to frontier models.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -11097,13 +11097,14 @@
   },
   {
     "id": 31373,
-    "name": "Refortifai",
-    "slug": "refortifai",
+    "name": "Atrisa (formerly Refortifai)",
+    "slug": "atrisa",
     "former_names": [
-      "RefortifAI"
+      "RefortifAI",
+      "Refortifai"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3e8c11b11b3d05f3f64423383a8b0edd5673efe0.png",
-    "website": "https://refortif.ai",
+    "website": "https://atrisa.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "AI Agents to build, debug and automate analog circuit design",
     "one_liner": "AI Agents for Analog Circuit Design",
@@ -11112,11 +11113,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1774743443,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "Reinforcement Learning",
       "B2B",
-      "Semiconductors"
+      "Semiconductors",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11137,8 +11138,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/refortifai",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/refortifai.json"
+    "url": "https://www.ycombinator.com/companies/atrisa",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/atrisa.json"
   },
   {
     "id": 31386,
@@ -11182,55 +11183,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/interfaze",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/interfaze.json"
-  },
-  {
-    "id": 31393,
-    "name": "KelAI",
-    "slug": "kelai",
-    "former_names": [
-      "KelAI",
-      "KelAI Capital",
-      "KelAI",
-      "KELAI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b7461c7f09da9e6741c74b2b9dabd9a198c9af70.png",
-    "website": "https://kelaitech.com/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "KelAI is an AI research engine for hedge funds and institutional investors. It captures the full investment research process in one platform and runs it autonomously from idea generation to data analysis, backtesting, validation, monitoring, and feedback.\r\n\r\nKelAI is built by Jeremie Cohen, a former systematic equity PM at WorldQuant with deep machine learning experience, after years inside institutional quant research. \r\n\r\nHedge fund research is constrained by human throughput and lost context. Teams can only explore so many ideas, and much of what they learn gets scattered across siloed systems. \r\n\r\nKelAI unifies the research loop into one continuous workflow, empowering institutional investors with an AI research team they can scale on demand, while capturing the full context so every cycle improves the next one.",
-    "one_liner": "Intelligence platform for systematic market insights",
-    "team_size": 3,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
-    "launched_at": 1779077553,
-    "tags": [
-      "Generative AI",
-      "Swarm AI",
-      "Finance",
-      "Market Research",
-      "Investments"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/kelai",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/kelai.json"
   },
   {
     "id": 31395,
@@ -11367,7 +11319,7 @@
       "markup.one",
       "tday"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a9740c4f6f69dddfb0525e92f44c1f873ad8a477.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8097564a05c5d4f6c65beb4b34b3c74ff72b4ac7.png",
     "website": "https://tday.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "tday automatically turns a software company's product into on-brand marketing creative. Connect your product and git repo, and tday generates polished launch videos, social graphics, and ads, the content a team would normally spend hours making in a design tool or pay a freelancer for. tday then publishes the creative and measures how it performs across your social and ad channels, closing the loop from what you ship to what you post.",

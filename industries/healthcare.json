@@ -18660,7 +18660,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "Healthcare",
       "Therapeutics"
@@ -24929,17 +24929,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7d5463656052d09bd1bc697531992af867d844c.png",
     "website": "https://www.aminoanalytica.com",
     "all_locations": "London, United Kingdom; Remote",
-    "long_description": "Design, simulate, and test your proteins 100x faster with the end-to-end no-code platform for protein engineering. Powered by Amina, our AI agent.\r\n\r\nWith Amina, one protein engineer can do the work of 10. Describe what you want to achieve and Amina will handle everything else – from research and design to simulation, folding, docking, and protein characterization. It asks clarifying questions if needed, intelligently understands and performs the task, and analyzes your results within the context of your project.",
-    "one_liner": "The AI-Native Operating System for Protein Engineering",
-    "team_size": 2,
+    "long_description": "We design point-of-care molecular diagnostics for emerging biological threats - in weeks, not 12+ months.",
+    "one_liner": "The AI scientist for always-on biosecurity",
+    "team_size": 3,
     "industry": "Healthcare",
-    "subindustry": "Healthcare -> Industrial Bio",
+    "subindustry": "Healthcare -> Diagnostics",
     "launched_at": 1715962434,
     "tags": [
       "AI-powered Drug Discovery",
-      "SaaS",
       "Synthetic Biology",
       "Biotech",
+      "Diagnostics",
       "Therapeutics"
     ],
     "tags_highlighted": [],
@@ -24950,7 +24950,7 @@
     "status": "Active",
     "industries": [
       "Healthcare",
-      "Industrial Bio"
+      "Diagnostics"
     ],
     "regions": [
       "United Kingdom",
@@ -24976,7 +24976,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Mito Health uses blood work and scans to tell our customers what to do to prevent disease and live longer. Customers love having a health expert in their pocket, who knows all about them, and can offer trusted advice. Our program has already helped customers detect cancer early and cut their risk of heart disease.",
     "one_liner": "Bloodwork and personalized insights to help you live longer",
-    "team_size": 8,
+    "team_size": 5,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Consumer Health and Wellness",
     "launched_at": 1721173093,
@@ -24993,9 +24993,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -28529,16 +28527,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5abd49db087306e856126eb6c4acf3af787f1749.png",
     "website": "https://voquill.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Voquill is the AI coworker that helps pathologists write their case reports faster. It listens as they work the case, learns their reporting style, maximizes reimbursement codes, and produces a sign-out ready report in real-time.\r\n\r\nPathologists bill $30–40B each year, but spend a third of their time on reporting, and lose another third of their contracted revenue to documentation gaps and billing errors. It's a massive drag on a field that's already short-staffed. We're building an agentic platform to manage every aspect of the lab and displace the billions spent on legacy management systems.",
-    "one_liner": "The AI coworker that helps pathologists work cases faster",
+    "long_description": "Voquill is the modern AI-native operating system for medical labs. This software manages the entire workflow of the lab (accessioning, workflow, reporting, coding, compliance, and revenue) and contains modern agentic AI tools to help each step. For example, pathologists can write reports 20% faster through our voice AI coworker.\r\n\r\nIncumbent lab operating systems are old, don't scale with how modern labs work, and can’t integrate existing AI solutions. As a result, labs are either building their own or paying millions for band-aid solutions and consultants. We're building an agentic platform to manage every aspect of the lab and displace the billions spent on legacy management systems.",
+    "one_liner": "The modern AI-native operating system for medical labs. ",
     "team_size": 3,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1779284137,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
-      "Health Tech"
+      "Health Tech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -28961,5 +28959,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/framewise-health",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/framewise-health.json"
+  },
+  {
+    "id": 33021,
+    "name": "Care GP",
+    "slug": "care-gp",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f871fa8c32b501e71ef06d881893d564e003fbd.png",
+    "website": "https://caregp.com.au/",
+    "all_locations": "Sydney, NSW, Australia",
+    "long_description": "Care GP is building AI agents to run operations for primary healthcare clinics",
+    "one_liner": "AI agents to run healthcare operations",
+    "team_size": 10,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1780569041,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Healthcare"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "Australia",
+      "Oceania"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/care-gp",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/care-gp.json"
   }
 ]

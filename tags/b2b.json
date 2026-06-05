@@ -12977,7 +12977,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -32420,7 +32420,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -45205,16 +45205,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2468a3c8a7c5f1a0405c0920fd164d3512f5b6f7.png",
     "website": "https://www.smartbase.so/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Smartbase automates order entry for manufacturers.\r\n\r\nToday, incoming purchase orders are still entered into the ERP by hand. This often requires multiple full-time employees, even at small manufacturers.\r\n\r\nSmartbase removes this manual work by automatically converting incoming purchase orders into ERP orders.\r\n\r\nWe’ve worked on factory floors, sat side-by-side with employees to learn their workflows, and even slept at a factory. We’re now onboarding our first customers onto five-figure annual contracts.\r\n\r\nThis is our wedge into automating the $26 billion clerical labor market in U.S. manufacturing.\r\n\r\nSam previously founded a DevOps platform that raised $2M. Taira was the youngest SDE 2 at AWS SageMaker Inference, where he built AI infrastructure for enterprises such as Salesforce.",
-    "one_liner": "Automated order entry for manufacturers",
+    "long_description": "Smartbase is an AI-native ERP for manufacturers. Unlike traditional ERPs, we reduce headcount by automating workflows like quoting and order entry.",
+    "one_liner": "AI-native ERP for manufacturers",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1753758221,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Workflow Automation",
       "Manufacturing",
       "Automation"
     ],
@@ -45724,15 +45724,15 @@
     "website": "https://soren-ai.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Soren develops specialized AI solutions for modern teams. We help institutions identify, deploy, and operate AI safely across high-impact workflows.\r\n\r\nWe partner with organizations at every stage, from early exploration to full-scale AI transformations.\r\n\r\nAs an AI-native company, we're able to deliver these services at a fraction of the time and cost as legacy firms.",
-    "one_liner": "Custom AI for Modern Businesses",
+    "one_liner": "Custom AI for the Modern Business",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1759390917,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46699,46 +46699,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/uselemma.json"
   },
   {
-    "id": 30972,
-    "name": "Jarmin",
-    "slug": "jarmin",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a48984c0a7bc281e9b076876c8d571aaf44c799e.png",
-    "website": "https://jarmin.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Jarmin.ai builds AI employees for human-level roles. It learns its responsibilities, understands your data, embeds into your systems, and becomes part of your team's day-to-day workflow. Completely hand over full initiatives or individual tasks.\r\n\r\nHire AI ML Engineers, Account Executives, Paralegals, Financial analysts, Compliance analysts, and more.\r\n\r\nJarmin’s founding team is from Meta SuperIntelligence Labs (Staff Engineers), Apple (Machine Learning Engineer), AWS (scaling infra), Lockheed-Martin (Research), and JPMorganChase (SWE) with experience building AI/ML and automating complex work of Researchers, Data Scientists, ML Engineers with AI.",
-    "one_liner": "AI Employees for human-level roles",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1762304310,
-    "tags": [
-      "Machine Learning",
-      "B2B",
-      "Enterprise"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/jarmin",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/jarmin.json"
-  },
-  {
     "id": 30982,
     "name": "Boom AI",
     "slug": "boom-ai",
@@ -47609,13 +47569,14 @@
   },
   {
     "id": 31373,
-    "name": "Refortifai",
-    "slug": "refortifai",
+    "name": "Atrisa (formerly Refortifai)",
+    "slug": "atrisa",
     "former_names": [
-      "RefortifAI"
+      "RefortifAI",
+      "Refortifai"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3e8c11b11b3d05f3f64423383a8b0edd5673efe0.png",
-    "website": "https://refortif.ai",
+    "website": "https://atrisa.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "AI Agents to build, debug and automate analog circuit design",
     "one_liner": "AI Agents for Analog Circuit Design",
@@ -47624,11 +47585,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1774743443,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "Reinforcement Learning",
       "B2B",
-      "Semiconductors"
+      "Semiconductors",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47649,8 +47610,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/refortifai",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/refortifai.json"
+    "url": "https://www.ycombinator.com/companies/atrisa",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/atrisa.json"
   },
   {
     "id": 31377,
@@ -48035,47 +47996,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/pairio.json"
   },
   {
-    "id": 31423,
-    "name": "BentoLabs AI",
-    "slug": "bentolabs-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ff7747818f703617e1cd9444a5600eef3511337.png",
-    "website": "https://bentolabs.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "BentoLabs is the monitoring and learning layer for long-running agents. We detect when agents silently fail or drift from the user's goal, system prompt, or tool contracts, show affected users and root cause, and suggest the prompt, skill, or harness fix.\r\n\r\nAs more teams deploy agents, keeping them reliable in production becomes mission-critical. Bento sits directly in the production loop and gives teams the operational leverage required to scale agent ecosystems without scaling human firefighting alongside them. The result is a system that turns opaque agents into agents that can be monitored, debugged, and improved continuously.\r\n\r\nThe founders learned this problem at Emergent (YC S24), where they built and operated production coding agents used by 5M+ users. Abhinav was hire #1 and helped Emergent hit SWE-Bench #1 and scale from $0 to $100M ARR in just 8 months. Kaushik was hire #2, led full-stack engineering at Emergent, and was key to building the infrastructure that made production agents reliable, observable, and debuggable. Bento's self-learning engine has also lifted ARC-AGI-3 (internal) by 2.6x and Terminal-Bench 2.0 (internal) from 42.2% to 52.4% pass@1 with the same model, tools, and budget.",
-    "one_liner": "The monitoring and learning layer for long-running agents",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1779852780,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "B2B",
-      "Monitoring"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/bentolabs-ai",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/bentolabs-ai.json"
-  },
-  {
     "id": 31424,
     "name": "Lab0",
     "slug": "lab0",
@@ -48385,7 +48305,7 @@
       "markup.one",
       "tday"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a9740c4f6f69dddfb0525e92f44c1f873ad8a477.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8097564a05c5d4f6c65beb4b34b3c74ff72b4ac7.png",
     "website": "https://tday.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "tday automatically turns a software company's product into on-brand marketing creative. Connect your product and git repo, and tday generates polished launch videos, social graphics, and ads, the content a team would normally spend hours making in a design tool or pay a freelancer for. tday then publishes the creative and measures how it performs across your social and ad channels, closing the loop from what you ship to what you post.",
@@ -48645,17 +48565,17 @@
     "website": "https://raspire.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "RASPIRE is a mobile threat defense platform with autonomous threat response that protects Android and iOS applications post-compilation without SDKs, code changes, or complex integrations. It adds advanced runtime security layers including anti-reverse engineering, fraud prevention, API attestation, and live threat monitoring against real-time attacks.",
-    "one_liner": "No-code runtime app security with AI",
+    "one_liner": "App Security at AI Speed.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1780001140,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Cybersecurity",
-      "No-code",
-      "AI"
+      "No-code"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48823,9 +48743,10 @@
     "subindustry": "B2B -> Marketing",
     "launched_at": 1773484930,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "B2B"
+      "B2B",
+      "Marketing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48980,46 +48901,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/modern.json"
   },
   {
-    "id": 31546,
-    "name": "ReasonBlocks",
-    "slug": "reasonblocks",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d73e9cbe0885e3d783faf674783100f13336068b.png",
-    "website": "https://reasonblocks.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "ReasonBlocks is the runtime layer that makes AI agents cheaper and more reliable. We correct agent reasoning and compress tokens mid-run, with gains compounding across runs. On SWE-Bench pro we have seen a 52% token reduction and 42% accuracy lift.",
-    "one_liner": "The runtime layer that makes AI agents cheaper and more reliable",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1777282713,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/reasonblocks",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/reasonblocks.json"
-  },
-  {
     "id": 31549,
     "name": "Enjamb Labs",
     "slug": "enjamb-labs",
@@ -49108,6 +48989,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/thomas",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/thomas.json"
+  },
+  {
+    "id": 31576,
+    "name": "Akkari",
+    "slug": "akkari",
+    "former_names": [
+      "Akkari",
+      "Autonomous Customer Operations"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41f2e1e21f4e3a8ba8036325a9ff27c4013efaa6.png",
+    "website": "https://akkari.io/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Akkari runs the operational work from the first sales call through expansion. It captures and stays on top of every commitment, issue, request and opportunity across customer channels (Slack, calls, meetings, email, Discord, etc.) then drives each loop to resolution - our wedge toward building the AI execution system for companies.\r\n\r\nWe are 2x YC founders who scaled OrderAhead (acquired by Square) to millions of users and BLADE to $1.2B+ in monthly trading volume.",
+    "one_liner": "Autonomous Customer Operations",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1780594806,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/akkari",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/akkari.json"
   },
   {
     "id": 32155,

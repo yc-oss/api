@@ -13224,7 +13224,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -26454,7 +26454,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -30221,6 +30221,56 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/wealor.json"
   },
   {
+    "id": 31393,
+    "name": "KelAI",
+    "slug": "kelai",
+    "former_names": [
+      "KelAI",
+      "KelAI Capital",
+      "KelAI",
+      "KELAI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/173bcf6c0b9d00045db94da34f174baaafeb2255.png",
+    "website": "https://kelaitech.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Founded by former WorldQuant portfolio manager Jeremie Cohen, KelAI is building the autonomous alpha engine for hedge funds, traders and institutional investors. \r\n\r\nInvestment teams now have more data, tools and compute than ever, but research still runs across siloed systems and inefficient workflows. KelAI turns that fragmented process into a compounding AI-native engine that continuously finds, tests and validates trading signals at a pace no human team can match.",
+    "one_liner": "The AI Quant: Autonomous Alpha Engine for Funds and Traders.",
+    "team_size": 3,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Asset Management",
+    "launched_at": 1779077553,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Finance",
+      "Investing",
+      "Trading"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Asset Management"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/kelai",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/kelai.json"
+  },
+  {
     "id": 31420,
     "name": "Kimpton AI",
     "slug": "kimpton-ai",
@@ -30495,8 +30545,10 @@
     "subindustry": "Fintech -> Asset Management",
     "launched_at": 1779835583,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
+      "Finance",
+      "Trading",
+      "AI",
       "Stocks"
     ],
     "tags_highlighted": [],
@@ -30571,11 +30623,11 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2393bf402ae2e425fc41cb7f78facb4b67fa9d5.png",
     "website": "https://myunowallet.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Uno is building an AI-powered wallet for everyday spending. We start at checkout: Uno automatically selects the best credit card for each purchase based on merchant category, card rewards, and spending patterns, so users earn more points, miles, and cashback without thinking about it.\r\n\r\nOver time, Uno becomes the financial agent in your pocket.\r\n\r\nFounded by Saket Joshi (www.linkedin.com/in/saket-dattatray-joshi/) and \r\nMordi Shadpour (www.linkedin.com/in/mordi-shadpour/)",
+    "long_description": "Uno is building the AI wallet that replaces Apple Pay.\r\n\r\nAt checkout, Uno automatically picks the best credit card for every purchase based on merchant category, rewards structure, and spending patterns. Users earn more points, miles, and cashback without thinking about it.\r\n\r\nThat's the wedge. The vision is a financial agent that automates every money decision in your pocket.\r\n\r\nFounded by Saket Joshi (www.linkedin.com/in/saket-dattatray-joshi/) and \r\nMordi Shadpour (www.linkedin.com/in/mordi-shadpour/)",
     "one_liner": "The AI wallet that picks the best card at checkout.",
     "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Payments",
     "launched_at": 1779834493,
     "tags": [
       "Fintech",
@@ -30591,7 +30643,8 @@
     "batch": "Spring 2026",
     "status": "Active",
     "industries": [
-      "Consumer"
+      "Fintech",
+      "Payments"
     ],
     "regions": [
       "United States of America",
@@ -30695,46 +30748,5 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/klaimee",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/klaimee.json"
-  },
-  {
-    "id": 31562,
-    "name": "Cohesion",
-    "slug": "cohesion",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a85ed9b4f8c87d919e87f4a7838af368b02f0f94.png",
-    "website": "https://cohesionplatform.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cohesion is building AI agents for hedge funds. Our agents track earnings and non-traditional datasets like podcasts and X/twitter. Analysts spend hours a week manually tracking these data sources and still miss relevant investing signals. Now, our agents do it for them autonomously. \r\n",
-    "one_liner": "Your public equities agentic teammate ",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1776132340,
-    "tags": [
-      "Fintech",
-      "SaaS",
-      "Investing"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cohesion",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/cohesion.json"
   }
 ]

@@ -4418,7 +4418,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "Healthcare",
       "Therapeutics"
@@ -5561,12 +5561,12 @@
     "former_names": [
       "Elegant"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ce9a2d0eb717408f7a56ad8fd6c76940b02a6a9.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3807f5ec8c0c63e791201050e45457f0ca05759.png",
     "website": "https://www.tennr.com",
     "all_locations": "New York, NY, USA",
     "long_description": "Tennr is solving the black hole problem in healthcare by leveraging models to digitize the flow of paperwork between healthcare providers.\r\n--\r\nToday, when you go to your doctor and need to be referred to a specialist (e.g., for sleep apnea), your doctor sends a fax (yes, in 2024, 90% of provider-provider communication is a 1980s fax). These are often converted into 20+ page PDFs, with handwritten (doctor’s handwriting!) notes, in thousands of different formats. The problem is so complex that a person has to read it, type it up, and manually enter your information. Tennr built RaeLM™ (7B—trained on 3M+ documents) to read these docs, talk to your doc to ensure nothing is missed, and text you to help schedule your appointment so you can get better, faster.\r\n",
     "one_liner": "Fast, Transparent Patient Experiences",
-    "team_size": 135,
+    "team_size": 195,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1676577561,
@@ -5586,7 +5586,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -6332,7 +6332,7 @@
     "all_locations": "Boston, MA, USA",
     "long_description": "At Maven Bio, we’re transforming BioPharma knowledge work by pairing domain-specific AI with curated industry data—letting consultants, investors, and corporate teams move from question to decision with less manual work. Our integrated BioPharma-specific platform features four flagship modules:\r\n\r\n• Maven Workflows: Monitor Maven's domain-specific AI through structured research tasks—step by step—and finalize results with confidence.\r\n• Maven Atlas: Access hundreds of pre-built indication landscapes, or generate custom ones on demand for in-depth insights.\r\n• Maven Compass: Build precise lists of companies, drugs, trials, or documents with advanced filters—move faster with AI-driven filter suggestions.\r\n• Maven Assistant: Get instant answers to your BioPharma questions, complete with direct links to primary sources.\r\n\r\nStop burning hours on manual data hunts. Maven Bio’s continuously updated database and collaborative AI features empower you to focus on strategic decisions. We offer usage-based pricing and usage-restricted trials, plus custom solutions for unique data sources or specialized workflows. Trusted by life science consultants, BD teams, and investors worldwide, Maven Bio delivers faster, deeper insights.\r\n\r\nBook a call to learn how our purpose-built AI can transform your research and accelerate your success.",
     "one_liner": "The AI Platform for Life Sciences Intelligence",
-    "team_size": 10,
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1689099430,
@@ -9065,5 +9065,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/arctic-health",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/arctic-health.json"
+  },
+  {
+    "id": 33021,
+    "name": "Care GP",
+    "slug": "care-gp",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f871fa8c32b501e71ef06d881893d564e003fbd.png",
+    "website": "https://caregp.com.au/",
+    "all_locations": "Sydney, NSW, Australia",
+    "long_description": "Care GP is building AI agents to run operations for primary healthcare clinics",
+    "one_liner": "AI agents to run healthcare operations",
+    "team_size": 10,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1780569041,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Healthcare"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "Australia",
+      "Oceania"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/care-gp",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/care-gp.json"
   }
 ]

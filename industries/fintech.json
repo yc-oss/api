@@ -11007,7 +11007,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -15504,23 +15504,23 @@
   },
   {
     "id": 25348,
-    "name": "Sei",
-    "slug": "sei",
+    "name": "Sei AI",
+    "slug": "sei-ai",
     "former_names": [
-      "Arda"
+      "Arda",
+      "Sei"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/866cec0759154ee708c6b843e16d3f00f9d773be.png",
     "website": "https://seiright.com/",
     "all_locations": "Delhi, DL, India",
-    "long_description": "Sei is an AI platform for CX and Compliance teams. Simplify your customer support & collections workflows with a compliant AI",
-    "one_liner": " AI Agents for Financial Institutions",
+    "long_description": "Sei is an AI platform for mortgage lenders, servicers & banks. We're already live with banks, and top IMBs.",
+    "one_liner": "AI Operations Partner for Mortgage & Banking",
     "team_size": null,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1646055749,
     "tags": [
-      "Compliance",
-      "AI",
+      "Artificial Intelligence",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -15541,8 +15541,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sei",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/sei.json"
+    "url": "https://www.ycombinator.com/companies/sei-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/sei-ai.json"
   },
   {
     "id": 25394,
@@ -23856,54 +23856,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/finosu.json"
   },
   {
-    "id": 29810,
-    "name": "bluedoor",
-    "slug": "bluedoor",
-    "former_names": [
-      "OpenIndex",
-      "Actionbase",
-      "actionbase",
-      "Actionbase",
-      "Pumpkin",
-      "Leviathan"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3363d046ba2892bd7c82963a8a504e094bd39d2e.png",
-    "website": "https://bluedoor.sh/",
-    "all_locations": "Seattle, WA, USA",
-    "long_description": "bluedoor is a CLI tool for stock research.",
-    "one_liner": "Professional-grade stock research in your terminal.",
-    "team_size": 1,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Consumer Finance",
-    "launched_at": 1723408013,
-    "tags": [
-      "Finance",
-      "Consumer Finance",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Consumer Finance"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/bluedoor",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/bluedoor.json"
-  },
-  {
     "id": 29820,
     "name": "Kontigo",
     "slug": "kontigo",
@@ -26644,8 +26596,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9670403b854641364928ce34e110c0d9752c9d8d.png",
     "website": "https://gethevn.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "HEVN is API primitives for global payments. Companies use our API to build internal tools for paying contractors in 100+ countries, replacing Deel and Rippling with custom workflows tailored to their business.\r\n\r\nThe opportunity is that AI codegen made internal tools cheap to build. A company that used to pay $50 per contract in huge SaaS can now build their own version in days, if they have the financial primitives. We provide those primitives.\r\n\r\nTeam previously built HOT Labs - 15M users, $100M TVL, #1 crypto app on DappRadar for 8 months. Operated companies across SF, UAE, BVI, and HK, and felt all the pain of global payments automation ourselves.",
-    "one_liner": "Global banking for payroll",
+    "long_description": "HEVN is a B2B banking platform for global payments, built on stablecoin rails and a new API for virtual bank accounts under DASP regulation. Companies use HEVN for global payroll and payment automation, with 70% of transaction volume processed through our API. We are up to 30% cheaper than Wise, while transfers are sent from bank accounts in the company's name and transaction limits of up to $1M per transfer.",
+    "one_liner": "b2b banking for global payments",
     "team_size": 4,
     "industry": "Fintech",
     "subindustry": "Fintech",
@@ -26690,21 +26642,21 @@
       "KelAI",
       "KELAI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b7461c7f09da9e6741c74b2b9dabd9a198c9af70.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/173bcf6c0b9d00045db94da34f174baaafeb2255.png",
     "website": "https://kelaitech.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "KelAI is an AI research engine for hedge funds and institutional investors. It captures the full investment research process in one platform and runs it autonomously from idea generation to data analysis, backtesting, validation, monitoring, and feedback.\r\n\r\nKelAI is built by Jeremie Cohen, a former systematic equity PM at WorldQuant with deep machine learning experience, after years inside institutional quant research. \r\n\r\nHedge fund research is constrained by human throughput and lost context. Teams can only explore so many ideas, and much of what they learn gets scattered across siloed systems. \r\n\r\nKelAI unifies the research loop into one continuous workflow, empowering institutional investors with an AI research team they can scale on demand, while capturing the full context so every cycle improves the next one.",
-    "one_liner": "Intelligence platform for systematic market insights",
+    "long_description": "Founded by former WorldQuant portfolio manager Jeremie Cohen, KelAI is building the autonomous alpha engine for hedge funds, traders and institutional investors. \r\n\r\nInvestment teams now have more data, tools and compute than ever, but research still runs across siloed systems and inefficient workflows. KelAI turns that fragmented process into a compounding AI-native engine that continuously finds, tests and validates trading signals at a pace no human team can match.",
+    "one_liner": "The AI Quant: Autonomous Alpha Engine for Funds and Traders.",
     "team_size": 3,
     "industry": "Fintech",
-    "subindustry": "Fintech",
+    "subindustry": "Fintech -> Asset Management",
     "launched_at": 1779077553,
     "tags": [
-      "Generative AI",
-      "Swarm AI",
+      "Artificial Intelligence",
+      "Fintech",
       "Finance",
-      "Market Research",
-      "Investments"
+      "Investing",
+      "Trading"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -26713,7 +26665,8 @@
     "batch": "Spring 2026",
     "status": "Active",
     "industries": [
-      "Fintech"
+      "Fintech",
+      "Asset Management"
     ],
     "regions": [
       "United States of America",
@@ -26956,8 +26909,10 @@
     "subindustry": "Fintech -> Asset Management",
     "launched_at": 1779835583,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
+      "Finance",
+      "Trading",
+      "AI",
       "Stocks"
     ],
     "tags_highlighted": [],
@@ -27023,6 +26978,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/gravy",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/gravy.json"
+  },
+  {
+    "id": 31526,
+    "name": "Uno Wallet",
+    "slug": "uno-wallet",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2393bf402ae2e425fc41cb7f78facb4b67fa9d5.png",
+    "website": "https://myunowallet.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Uno is building the AI wallet that replaces Apple Pay.\r\n\r\nAt checkout, Uno automatically picks the best credit card for every purchase based on merchant category, rewards structure, and spending patterns. Users earn more points, miles, and cashback without thinking about it.\r\n\r\nThat's the wedge. The vision is a financial agent that automates every money decision in your pocket.\r\n\r\nFounded by Saket Joshi (www.linkedin.com/in/saket-dattatray-joshi/) and \r\nMordi Shadpour (www.linkedin.com/in/mordi-shadpour/)",
+    "one_liner": "The AI wallet that picks the best card at checkout.",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Payments",
+    "launched_at": 1779834493,
+    "tags": [
+      "Fintech",
+      "Machine Learning",
+      "Payments",
+      "Consumer Finance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Payments"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/uno-wallet",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/uno-wallet.json"
   },
   {
     "id": 31529,

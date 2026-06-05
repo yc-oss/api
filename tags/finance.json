@@ -3013,54 +3013,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/thyme.json"
   },
   {
-    "id": 29810,
-    "name": "bluedoor",
-    "slug": "bluedoor",
-    "former_names": [
-      "OpenIndex",
-      "Actionbase",
-      "actionbase",
-      "Actionbase",
-      "Pumpkin",
-      "Leviathan"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3363d046ba2892bd7c82963a8a504e094bd39d2e.png",
-    "website": "https://bluedoor.sh/",
-    "all_locations": "Seattle, WA, USA",
-    "long_description": "bluedoor is a CLI tool for stock research.",
-    "one_liner": "Professional-grade stock research in your terminal.",
-    "team_size": 1,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Consumer Finance",
-    "launched_at": 1723408013,
-    "tags": [
-      "Finance",
-      "Consumer Finance",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Consumer Finance"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/bluedoor",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/bluedoor.json"
-  },
-  {
     "id": 29840,
     "name": "Blaze",
     "slug": "blaze-2",
@@ -3565,7 +3517,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -3843,8 +3795,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9670403b854641364928ce34e110c0d9752c9d8d.png",
     "website": "https://gethevn.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "HEVN is API primitives for global payments. Companies use our API to build internal tools for paying contractors in 100+ countries, replacing Deel and Rippling with custom workflows tailored to their business.\r\n\r\nThe opportunity is that AI codegen made internal tools cheap to build. A company that used to pay $50 per contract in huge SaaS can now build their own version in days, if they have the financial primitives. We provide those primitives.\r\n\r\nTeam previously built HOT Labs - 15M users, $100M TVL, #1 crypto app on DappRadar for 8 months. Operated companies across SF, UAE, BVI, and HK, and felt all the pain of global payments automation ourselves.",
-    "one_liner": "Global banking for payroll",
+    "long_description": "HEVN is a B2B banking platform for global payments, built on stablecoin rails and a new API for virtual bank accounts under DASP regulation. Companies use HEVN for global payroll and payment automation, with 70% of transaction volume processed through our API. We are up to 30% cheaper than Wise, while transfers are sent from bank accounts in the company's name and transaction limits of up to $1M per transfer.",
+    "one_liner": "b2b banking for global payments",
     "team_size": 4,
     "industry": "Fintech",
     "subindustry": "Fintech",
@@ -3889,21 +3841,21 @@
       "KelAI",
       "KELAI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b7461c7f09da9e6741c74b2b9dabd9a198c9af70.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/173bcf6c0b9d00045db94da34f174baaafeb2255.png",
     "website": "https://kelaitech.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "KelAI is an AI research engine for hedge funds and institutional investors. It captures the full investment research process in one platform and runs it autonomously from idea generation to data analysis, backtesting, validation, monitoring, and feedback.\r\n\r\nKelAI is built by Jeremie Cohen, a former systematic equity PM at WorldQuant with deep machine learning experience, after years inside institutional quant research. \r\n\r\nHedge fund research is constrained by human throughput and lost context. Teams can only explore so many ideas, and much of what they learn gets scattered across siloed systems. \r\n\r\nKelAI unifies the research loop into one continuous workflow, empowering institutional investors with an AI research team they can scale on demand, while capturing the full context so every cycle improves the next one.",
-    "one_liner": "Intelligence platform for systematic market insights",
+    "long_description": "Founded by former WorldQuant portfolio manager Jeremie Cohen, KelAI is building the autonomous alpha engine for hedge funds, traders and institutional investors. \r\n\r\nInvestment teams now have more data, tools and compute than ever, but research still runs across siloed systems and inefficient workflows. KelAI turns that fragmented process into a compounding AI-native engine that continuously finds, tests and validates trading signals at a pace no human team can match.",
+    "one_liner": "The AI Quant: Autonomous Alpha Engine for Funds and Traders.",
     "team_size": 3,
     "industry": "Fintech",
-    "subindustry": "Fintech",
+    "subindustry": "Fintech -> Asset Management",
     "launched_at": 1779077553,
     "tags": [
-      "Generative AI",
-      "Swarm AI",
+      "Artificial Intelligence",
+      "Fintech",
       "Finance",
-      "Market Research",
-      "Investments"
+      "Investing",
+      "Trading"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3912,7 +3864,8 @@
     "batch": "Spring 2026",
     "status": "Active",
     "industries": [
-      "Fintech"
+      "Fintech",
+      "Asset Management"
     ],
     "regions": [
       "United States of America",
@@ -3980,8 +3933,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8149769a0781242dca23d1bed75bdf39b4b9dba6.png",
     "website": "https://archermoney.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Archer is the AI business bank.\r\n\r\nWe help companies deploy AI agents that can spend, purchase, reward, and move money on behalf of their business. Instead of relying on employees to manually execute every financial action, businesses can give agents budgets, permissions, and goals, allowing them to take action automatically when important events occur.\r\n\r\nOur flagship feature is agentic commerce. Businesses use Archer to deploy AI agents that can purchase goods and services in the real world on behalf of their company. Today, companies are using Archer to automatically send personalized physical rewards when important business events occur. A customer completes onboarding. A partner generates a referral. An employee hits a milestone. An agent understands the context, purchases the reward, and handles execution automatically.\r\n\r\nWe believe physical rewards are just the beginning. The same infrastructure that allows agents to purchase and send rewards today will allow them to route revenue, incentivize employees, run referral programs, manage payroll, and execute financial actions across every part of a business. As agents gain context from CRMs, product data, Slack, Linear, Notion, internal systems, and APIs, they become increasingly capable of understanding what is happening across a company and taking action automatically.\r\n\r\nFor hundreds of years, businesses have used software to manage information and banks to store money. We believe the next generation of businesses will rely on AI agents to make decisions and take financial action on their behalf all within their bank.",
-    "one_liner": "The AI business bank. Let agents move your money.",
+    "long_description": "Archer is the company money brain. We let agents move your money for you in your business.\r\n\r\nWe help companies deploy AI agents that can spend, purchase, reward, and move money on behalf of their business. Instead of relying on employees to manually execute every financial action, businesses can give agents budgets, permissions, and goals, allowing them to take action automatically when important events occur.\r\n\r\nOur flagship feature is agentic commerce. Businesses use Archer to deploy AI agents that can purchase goods and services in the real world on behalf of their company. Today, companies are using Archer to automatically send personalized physical rewards when important business events occur. A customer completes onboarding. A partner generates a referral. An employee hits a milestone. An agent understands the context, purchases the reward, and handles execution automatically.\r\n\r\nWe believe physical rewards are just the beginning. The same infrastructure that allows agents to purchase and send rewards today will allow them to route revenue, incentivize employees, run referral programs, and execute financial actions across every part of a business. As agents gain context from CRMs, product data, Slack, Linear, Notion, internal systems, and APIs, they become increasingly capable of understanding what is happening across a company and taking action automatically.\r\n\r\nFor hundreds of years, businesses have used software to manage information and store money. We believe the next generation of businesses will rely on AI agents to make decisions and take financial action on their behalf to materially benefit their business.",
+    "one_liner": "The company money brain. Let agents move your money.",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
@@ -3989,7 +3942,6 @@
     "tags": [
       "Crypto / Web3",
       "Finance",
-      "Neobank",
       "AI"
     ],
     "tags_highlighted": [
@@ -4060,5 +4012,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/valctrl",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/valctrl.json"
+  },
+  {
+    "id": 31464,
+    "name": "Soria",
+    "slug": "soria",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/05b2506991797891dcda24e0fe6be2c7f7a60423.png",
+    "website": "https://www.soriaanalytics.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Soria is an AI-native Bloomberg Terminal for investors who specialize in a particular sector, starting with healthcare. Our agents convert hundreds of the most important public and private sources into an always-on financial model, reviewed by domain experts and delivered to hedge funds, banks, and asset managers through a terminal UI, MCP, API, warehouse sync, and research feed. Unlike our competitors, we own the data layer and expand bottom-up, one sector at a time - additionally our agents proactively do research on behalf of our clients without them lifting a finger or sharing any data.",
+    "one_liner": "AI Bloomberg Terminal built for Healthcare (and beyond)",
+    "team_size": 3,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Asset Management",
+    "launched_at": 1779835583,
+    "tags": [
+      "Fintech",
+      "Finance",
+      "Trading",
+      "AI",
+      "Stocks"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Asset Management"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/soria",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/soria.json"
   }
 ]

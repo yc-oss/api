@@ -120,6 +120,48 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/humwork.json"
   },
   {
+    "id": 30723,
+    "name": "Miso Labs",
+    "slug": "miso-labs",
+    "former_names": [
+      "Kamino Learning",
+      "Dalta Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8dd28df9a99151aedfe26a296d8e112af2bf4edb.png",
+    "website": "https://misolabs.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Miso Labs is building the world’s most emotive foundation models for voice. We believe that the next generation of AI interactions shouldn't just be functional—they should be human. By bringing warmth and lightning-fast speed to the voice layer, we empower developers to build voice agents that users truly love.",
+    "one_liner": "The most emotive foundation models for voice",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1780176393,
+    "tags": [
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/miso-labs",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/miso-labs.json"
+  },
+  {
     "id": 30737,
     "name": "Foresight",
     "slug": "foresight",
@@ -176,16 +218,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2468a3c8a7c5f1a0405c0920fd164d3512f5b6f7.png",
     "website": "https://www.smartbase.so/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Smartbase automates order entry for manufacturers.\r\n\r\nToday, incoming purchase orders are still entered into the ERP by hand. This often requires multiple full-time employees, even at small manufacturers.\r\n\r\nSmartbase removes this manual work by automatically converting incoming purchase orders into ERP orders.\r\n\r\nWe’ve worked on factory floors, sat side-by-side with employees to learn their workflows, and even slept at a factory. We’re now onboarding our first customers onto five-figure annual contracts.\r\n\r\nThis is our wedge into automating the $26 billion clerical labor market in U.S. manufacturing.\r\n\r\nSam previously founded a DevOps platform that raised $2M. Taira was the youngest SDE 2 at AWS SageMaker Inference, where he built AI infrastructure for enterprises such as Salesforce.",
-    "one_liner": "Automated order entry for manufacturers",
+    "long_description": "Smartbase is an AI-native ERP for manufacturers. Unlike traditional ERPs, we reduce headcount by automating workflows like quoting and order entry.",
+    "one_liner": "AI-native ERP for manufacturers",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1753758221,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Workflow Automation",
       "Manufacturing",
       "Automation"
     ],
@@ -2078,13 +2120,14 @@
   },
   {
     "id": 31373,
-    "name": "Refortifai",
-    "slug": "refortifai",
+    "name": "Atrisa (formerly Refortifai)",
+    "slug": "atrisa",
     "former_names": [
-      "RefortifAI"
+      "RefortifAI",
+      "Refortifai"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3e8c11b11b3d05f3f64423383a8b0edd5673efe0.png",
-    "website": "https://refortif.ai",
+    "website": "https://atrisa.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "AI Agents to build, debug and automate analog circuit design",
     "one_liner": "AI Agents for Analog Circuit Design",
@@ -2093,11 +2136,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1774743443,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "Reinforcement Learning",
       "B2B",
-      "Semiconductors"
+      "Semiconductors",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2118,8 +2161,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/refortifai",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/refortifai.json"
+    "url": "https://www.ycombinator.com/companies/atrisa",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/atrisa.json"
   },
   {
     "id": 31374,
@@ -2544,18 +2587,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dfc0518b0601b15bf131b045d7c9085b3ab4ac5e.png",
     "website": "https://www.elyrasystems.com/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Elyra is an AI reservation system for restaurants. Instead of missing 40% of incoming phone calls and taking days to reply to emails, leaving over $100,000 in bookings on the table every year, restaurants get AI agents that answer every call and email instantly, 24/7, connected to a reservation system that optimizes table placements in real time so empty seats get filled with the right guests.\r\n\r\nFelix and Alan met in primary school in Stockholm and have been building things together ever since.\r\n\r\nWe launched with a single restaurant and within weeks they hit record occupancy, bookings they used to miss were suddenly being captured automatically, and empty Tuesday nights started filling up. Today we power top restaurants groups. \r\n\r\nThere are over 1 million restaurants in the US and Europe alone. The average restaurant loses $100K+ a year to missed calls and slow email replies. At our current pricing, that's a $10B+ market opportunity, and we're the only system that handles the call, the email, and the table allocation in one place.",
     "one_liner": "AI Reservation System for Restaurants ",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1776156708,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Restaurant Tech"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -2566,8 +2605,7 @@
       "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2624,8 +2662,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9670403b854641364928ce34e110c0d9752c9d8d.png",
     "website": "https://gethevn.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "HEVN is API primitives for global payments. Companies use our API to build internal tools for paying contractors in 100+ countries, replacing Deel and Rippling with custom workflows tailored to their business.\r\n\r\nThe opportunity is that AI codegen made internal tools cheap to build. A company that used to pay $50 per contract in huge SaaS can now build their own version in days, if they have the financial primitives. We provide those primitives.\r\n\r\nTeam previously built HOT Labs - 15M users, $100M TVL, #1 crypto app on DappRadar for 8 months. Operated companies across SF, UAE, BVI, and HK, and felt all the pain of global payments automation ourselves.",
-    "one_liner": "Global banking for payroll",
+    "long_description": "HEVN is a B2B banking platform for global payments, built on stablecoin rails and a new API for virtual bank accounts under DASP regulation. Companies use HEVN for global payroll and payment automation, with 70% of transaction volume processed through our API. We are up to 30% cheaper than Wise, while transfers are sent from bank accounts in the company's name and transaction limits of up to $1M per transfer.",
+    "one_liner": "b2b banking for global payments",
     "team_size": 4,
     "industry": "Fintech",
     "subindustry": "Fintech",
@@ -2670,21 +2708,21 @@
       "KelAI",
       "KELAI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b7461c7f09da9e6741c74b2b9dabd9a198c9af70.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/173bcf6c0b9d00045db94da34f174baaafeb2255.png",
     "website": "https://kelaitech.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "KelAI is an AI research engine for hedge funds and institutional investors. It captures the full investment research process in one platform and runs it autonomously from idea generation to data analysis, backtesting, validation, monitoring, and feedback.\r\n\r\nKelAI is built by Jeremie Cohen, a former systematic equity PM at WorldQuant with deep machine learning experience, after years inside institutional quant research. \r\n\r\nHedge fund research is constrained by human throughput and lost context. Teams can only explore so many ideas, and much of what they learn gets scattered across siloed systems. \r\n\r\nKelAI unifies the research loop into one continuous workflow, empowering institutional investors with an AI research team they can scale on demand, while capturing the full context so every cycle improves the next one.",
-    "one_liner": "Intelligence platform for systematic market insights",
+    "long_description": "Founded by former WorldQuant portfolio manager Jeremie Cohen, KelAI is building the autonomous alpha engine for hedge funds, traders and institutional investors. \r\n\r\nInvestment teams now have more data, tools and compute than ever, but research still runs across siloed systems and inefficient workflows. KelAI turns that fragmented process into a compounding AI-native engine that continuously finds, tests and validates trading signals at a pace no human team can match.",
+    "one_liner": "The AI Quant: Autonomous Alpha Engine for Funds and Traders.",
     "team_size": 3,
     "industry": "Fintech",
-    "subindustry": "Fintech",
+    "subindustry": "Fintech -> Asset Management",
     "launched_at": 1779077553,
     "tags": [
-      "Generative AI",
-      "Swarm AI",
+      "Artificial Intelligence",
+      "Fintech",
       "Finance",
-      "Market Research",
-      "Investments"
+      "Investing",
+      "Trading"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2693,7 +2731,8 @@
     "batch": "Spring 2026",
     "status": "Active",
     "industries": [
-      "Fintech"
+      "Fintech",
+      "Asset Management"
     ],
     "regions": [
       "United States of America",
@@ -3638,19 +3677,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ff7747818f703617e1cd9444a5600eef3511337.png",
     "website": "https://bentolabs.ai/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "BentoLabs is the monitoring and learning layer for long-running agents. We detect when agents silently fail or drift from the user's goal, system prompt, or tool contracts, show affected users and root cause, and suggest the prompt, skill, or harness fix.\r\n\r\nAs more teams deploy agents, keeping them reliable in production becomes mission-critical. Bento sits directly in the production loop and gives teams the operational leverage required to scale agent ecosystems without scaling human firefighting alongside them. The result is a system that turns opaque agents into agents that can be monitored, debugged, and improved continuously.\r\n\r\nThe founders learned this problem at Emergent (YC S24), where they built and operated production coding agents used by 5M+ users. Abhinav was hire #1 and helped Emergent hit SWE-Bench #1 and scale from $0 to $100M ARR in just 8 months. Kaushik was hire #2, led full-stack engineering at Emergent, and was key to building the infrastructure that made production agents reliable, observable, and debuggable. Bento's self-learning engine has also lifted ARC-AGI-3 (internal) by 2.6x and Terminal-Bench 2.0 (internal) from 42.2% to 52.4% pass@1 with the same model, tools, and budget.",
-    "one_liner": "The monitoring and learning layer for long-running agents",
+    "one_liner": "Monitoring and learning layer for long-running agents",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1779852780,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "B2B",
-      "Monitoring"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -3661,8 +3695,7 @@
       "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3900,16 +3933,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5abd49db087306e856126eb6c4acf3af787f1749.png",
     "website": "https://voquill.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Voquill is the AI coworker that helps pathologists write their case reports faster. It listens as they work the case, learns their reporting style, maximizes reimbursement codes, and produces a sign-out ready report in real-time.\r\n\r\nPathologists bill $30–40B each year, but spend a third of their time on reporting, and lose another third of their contracted revenue to documentation gaps and billing errors. It's a massive drag on a field that's already short-staffed. We're building an agentic platform to manage every aspect of the lab and displace the billions spent on legacy management systems.",
-    "one_liner": "The AI coworker that helps pathologists work cases faster",
+    "long_description": "Voquill is the modern AI-native operating system for medical labs. This software manages the entire workflow of the lab (accessioning, workflow, reporting, coding, compliance, and revenue) and contains modern agentic AI tools to help each step. For example, pathologists can write reports 20% faster through our voice AI coworker.\r\n\r\nIncumbent lab operating systems are old, don't scale with how modern labs work, and can’t integrate existing AI solutions. As a result, labs are either building their own or paying millions for band-aid solutions and consultants. We're building an agentic platform to manage every aspect of the lab and displace the billions spent on legacy management systems.",
+    "one_liner": "The modern AI-native operating system for medical labs. ",
     "team_size": 3,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1779284137,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
-      "Health Tech"
+      "Health Tech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4601,8 +4634,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8149769a0781242dca23d1bed75bdf39b4b9dba6.png",
     "website": "https://archermoney.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Archer is the AI business bank.\r\n\r\nWe help companies deploy AI agents that can spend, purchase, reward, and move money on behalf of their business. Instead of relying on employees to manually execute every financial action, businesses can give agents budgets, permissions, and goals, allowing them to take action automatically when important events occur.\r\n\r\nOur flagship feature is agentic commerce. Businesses use Archer to deploy AI agents that can purchase goods and services in the real world on behalf of their company. Today, companies are using Archer to automatically send personalized physical rewards when important business events occur. A customer completes onboarding. A partner generates a referral. An employee hits a milestone. An agent understands the context, purchases the reward, and handles execution automatically.\r\n\r\nWe believe physical rewards are just the beginning. The same infrastructure that allows agents to purchase and send rewards today will allow them to route revenue, incentivize employees, run referral programs, manage payroll, and execute financial actions across every part of a business. As agents gain context from CRMs, product data, Slack, Linear, Notion, internal systems, and APIs, they become increasingly capable of understanding what is happening across a company and taking action automatically.\r\n\r\nFor hundreds of years, businesses have used software to manage information and banks to store money. We believe the next generation of businesses will rely on AI agents to make decisions and take financial action on their behalf all within their bank.",
-    "one_liner": "The AI business bank. Let agents move your money.",
+    "long_description": "Archer is the company money brain. We let agents move your money for you in your business.\r\n\r\nWe help companies deploy AI agents that can spend, purchase, reward, and move money on behalf of their business. Instead of relying on employees to manually execute every financial action, businesses can give agents budgets, permissions, and goals, allowing them to take action automatically when important events occur.\r\n\r\nOur flagship feature is agentic commerce. Businesses use Archer to deploy AI agents that can purchase goods and services in the real world on behalf of their company. Today, companies are using Archer to automatically send personalized physical rewards when important business events occur. A customer completes onboarding. A partner generates a referral. An employee hits a milestone. An agent understands the context, purchases the reward, and handles execution automatically.\r\n\r\nWe believe physical rewards are just the beginning. The same infrastructure that allows agents to purchase and send rewards today will allow them to route revenue, incentivize employees, run referral programs, and execute financial actions across every part of a business. As agents gain context from CRMs, product data, Slack, Linear, Notion, internal systems, and APIs, they become increasingly capable of understanding what is happening across a company and taking action automatically.\r\n\r\nFor hundreds of years, businesses have used software to manage information and store money. We believe the next generation of businesses will rely on AI agents to make decisions and take financial action on their behalf to materially benefit their business.",
+    "one_liner": "The company money brain. Let agents move your money.",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
@@ -4610,7 +4643,6 @@
     "tags": [
       "Crypto / Web3",
       "Finance",
-      "Neobank",
       "AI"
     ],
     "tags_highlighted": [
@@ -4729,7 +4761,7 @@
       "markup.one",
       "tday"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a9740c4f6f69dddfb0525e92f44c1f873ad8a477.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8097564a05c5d4f6c65beb4b34b3c74ff72b4ac7.png",
     "website": "https://tday.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "tday automatically turns a software company's product into on-brand marketing creative. Connect your product and git repo, and tday generates polished launch videos, social graphics, and ads, the content a team would normally spend hours making in a design tool or pay a freelancer for. tday then publishes the creative and measures how it performs across your social and ad channels, closing the loop from what you ship to what you post.",
@@ -4784,10 +4816,10 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1779088548,
     "tags": [
+      "Artificial Intelligence",
       "Robotics",
       "Drones",
-      "Manufacturing",
-      "AI"
+      "Manufacturing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4953,18 +4985,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/abb178493b637223c4623f43b2c209131939af8e.png",
     "website": "https://plan0.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "PLAN0 is building the Bloomberg of construction for real estate developers, investors, and general contractors — $20B of projects are already running through the platform.\r\n\r\nWe analyze architectural plans using computer vision AI models to generate detailed cost estimates and analytics in minutes. The platform also learns from historical localized project data aggregated through industry partnerships — capturing cost overruns, delays, and inefficiencies — to help stakeholders design and price new buildings more effectively from the start.",
+    "long_description": "PLAN0 is building the Bloomberg of construction for real estate developers, investors, and general contractors — $20B of projects are already running through the platform.\r\n\r\nWe analyze architectural plans using vision models to generate detailed cost estimates and analytics in minutes. Through large scale industry partnerships, the platform also aggregates historical and real-time project data across all major geographies to power ML-driven analytics, decomposing costs into market-observable factors and predicting local trade-level pricing up to 24 months out.",
     "one_liner": "AI native construction cost estimation & analytics.",
     "team_size": 4,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction",
     "launched_at": 1777504379,
     "tags": [
-      "Artificial Intelligence",
       "Computer Vision",
       "Real Estate",
       "Construction",
-      "Proptech"
+      "Proptech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5045,8 +5077,10 @@
     "subindustry": "Fintech -> Asset Management",
     "launched_at": 1779835583,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
+      "Finance",
+      "Trading",
+      "AI",
       "Stocks"
     ],
     "tags_highlighted": [],
@@ -5293,7 +5327,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Kuli is an AI coworker for marketing teams at the world's largest consumer brands. Our agent watches all videos across social media, learns the brand's context and helps them turn signals from billions of social videos into winning campaigns without increasing headcount.\r\n\r\nPrevious platforms gave marketers databases to search through and a CRM. Kuli actually watches the content. Marketers at team like Disney, Nivea and Havas use it to scout creators, run analysis on trends and competitor strategies, and analyse what makes their campaign perform better.\r\n\r\nFor 10 years, influencer marketing meant more tools, more tabs, more spreadsheets. Kuli replaces all of that with one single agent you orchestrate. One marketer with Kuli does what a $50K/month agency bills for manual tasks.",
     "one_liner": "AI coworker for marketing teams at the largest consumer brands",
-    "team_size": 3,
+    "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1775508388,
@@ -5904,17 +5938,17 @@
     "website": "https://raspire.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "RASPIRE is a mobile threat defense platform with autonomous threat response that protects Android and iOS applications post-compilation without SDKs, code changes, or complex integrations. It adds advanced runtime security layers including anti-reverse engineering, fraud prevention, API attestation, and live threat monitoring against real-time attacks.",
-    "one_liner": "No-code runtime app security with AI",
+    "one_liner": "App Security at AI Speed.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1780001140,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Cybersecurity",
-      "No-code",
-      "AI"
+      "No-code"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6761,11 +6795,11 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2393bf402ae2e425fc41cb7f78facb4b67fa9d5.png",
     "website": "https://myunowallet.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Uno is building an AI-powered wallet for everyday spending. We start at checkout: Uno automatically selects the best credit card for each purchase based on merchant category, card rewards, and spending patterns, so users earn more points, miles, and cashback without thinking about it.\r\n\r\nOver time, Uno becomes the financial agent in your pocket.\r\n\r\nFounded by Saket Joshi (www.linkedin.com/in/saket-dattatray-joshi/) and \r\nMordi Shadpour (www.linkedin.com/in/mordi-shadpour/)",
+    "long_description": "Uno is building the AI wallet that replaces Apple Pay.\r\n\r\nAt checkout, Uno automatically picks the best credit card for every purchase based on merchant category, rewards structure, and spending patterns. Users earn more points, miles, and cashback without thinking about it.\r\n\r\nThat's the wedge. The vision is a financial agent that automates every money decision in your pocket.\r\n\r\nFounded by Saket Joshi (www.linkedin.com/in/saket-dattatray-joshi/) and \r\nMordi Shadpour (www.linkedin.com/in/mordi-shadpour/)",
     "one_liner": "The AI wallet that picks the best card at checkout.",
     "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Payments",
     "launched_at": 1779834493,
     "tags": [
       "Fintech",
@@ -6781,7 +6815,8 @@
     "batch": "Spring 2026",
     "status": "Active",
     "industries": [
-      "Consumer"
+      "Fintech",
+      "Payments"
     ],
     "regions": [
       "United States of America",
@@ -6807,7 +6842,7 @@
     "one_liner": "The AI that replaces your growth team",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Marketing",
     "launched_at": 1776869663,
     "tags": [
       "Developer Tools",
@@ -6820,7 +6855,8 @@
     "batch": "Spring 2026",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Marketing"
     ],
     "regions": [
       "United States of America",
@@ -6976,9 +7012,10 @@
     "subindustry": "B2B -> Marketing",
     "launched_at": 1773484930,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "B2B"
+      "B2B",
+      "Marketing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7437,18 +7474,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d73e9cbe0885e3d783faf674783100f13336068b.png",
     "website": "https://reasonblocks.com/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "ReasonBlocks is the runtime layer that makes AI agents cheaper and more reliable. We correct agent reasoning and compress tokens mid-run, with gains compounding across runs. On SWE-Bench pro we have seen a 52% token reduction and 42% accuracy lift.",
     "one_liner": "The runtime layer that makes AI agents cheaper and more reliable",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1777282713,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -7459,8 +7492,7 @@
       "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -7844,18 +7876,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a85ed9b4f8c87d919e87f4a7838af368b02f0f94.png",
     "website": "https://cohesionplatform.com/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Cohesion is building AI agents for hedge funds. Our agents track earnings and non-traditional datasets like podcasts and X/twitter. Analysts spend hours a week manually tracking these data sources and still miss relevant investing signals. Now, our agents do it for them autonomously. \r\n",
     "one_liner": "Your public equities agentic teammate ",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1776132340,
-    "tags": [
-      "Fintech",
-      "SaaS",
-      "Investing"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -7867,8 +7895,7 @@
       "Finance and Accounting"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -8005,5 +8032,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/heyclicky",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/heyclicky.json"
+  },
+  {
+    "id": 31576,
+    "name": "Akkari",
+    "slug": "akkari",
+    "former_names": [
+      "Akkari",
+      "Autonomous Customer Operations"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41f2e1e21f4e3a8ba8036325a9ff27c4013efaa6.png",
+    "website": "https://akkari.io/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Akkari runs the operational work from the first sales call through expansion. It captures and stays on top of every commitment, issue, request and opportunity across customer channels (Slack, calls, meetings, email, Discord, etc.) then drives each loop to resolution - our wedge toward building the AI execution system for companies.\r\n\r\nWe are 2x YC founders who scaled OrderAhead (acquired by Square) to millions of users and BLADE to $1.2B+ in monthly trading volume.",
+    "one_liner": "Autonomous Customer Operations",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1780594806,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/akkari",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/akkari.json"
   }
 ]
