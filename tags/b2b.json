@@ -5763,7 +5763,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2019",
     "status": "Active",
@@ -14962,6 +14962,54 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/nextpay",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/nextpay.json"
+  },
+  {
+    "id": 23636,
+    "name": "Humance",
+    "slug": "humance",
+    "former_names": [
+      "Angkm",
+      "Blushh",
+      "blushh",
+      "Blushh",
+      "R.care"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3b53627ae1b22d1f3bdcba5ce58bcf5be26b18a.png",
+    "website": "https://www.humance.tech/",
+    "all_locations": "Remote",
+    "long_description": "Humance is building an AI-powered project management tool for the construction industry, where work is highly coordinated and delays are costly.\r\n\r\nLarge projects involve dozens of interdependent workstreams where a single setback can cascade unpredictably through the entire timeline. Today, most project managers track this manually — tracing dependencies by hand, updating schedules, and notifying stakeholders one by one. It's slow, error-prone, and pulls focus away from the higher-order decisions that demand real expertise.\r\n\r\nExperienced project managers carry deep knowledge — of sequencing, trade-offs, site realities, and stakeholder dynamics — that no tool can replicate. Humance is built around that expertise. By handling the mechanical work of dependency tracking and schedule coordination, it frees project managers to do what they're actually skilled at: exercising judgment, managing complexity, and keeping the big picture in view.",
+    "one_liner": "AI that keeps complex construction projects on schedule.",
+    "team_size": 3,
+    "industry": "Real Estate and Construction",
+    "subindustry": "Real Estate and Construction -> Construction",
+    "launched_at": 1614638320,
+    "tags": [
+      "Construction",
+      "B2B",
+      "Scheduling",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2021",
+    "status": "Active",
+    "industries": [
+      "Real Estate and Construction",
+      "Construction"
+    ],
+    "regions": [
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/humance",
+    "api": "https://yc-oss.github.io/api/batches/winter-2021/humance.json"
   },
   {
     "id": 23638,
@@ -26662,20 +26710,20 @@
     "former_names": [
       "Everyspace"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9537ead4689f40de113462a9fdc026b494a307f6.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/290690229ed29797c07fe092447c7095acc04e18.png",
     "website": "https://unthread.io",
     "all_locations": "New York, NY, USA",
     "long_description": "Unthread is an AI-powered helpdesk built natively into Slack. We help companies to automate the creation and resolution of tickets right from a Slack channel.\r\n\r\nWe work with IT, HR, and CX teams at some of the world's largest companies to resolve tickets instantly using AI.",
-    "one_liner": "Agentic service management in Slack",
+    "one_liner": "Automate support ops natively in Slack",
     "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1656512918,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Customer Support",
-      "AI"
+      "Customer Support"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -32480,7 +32528,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d405f124083ad95be24745d98de294a71b7cf71c.png",
     "website": "http://www.metal.so",
     "all_locations": "Los Angeles, CA, USA",
-    "long_description": "Backed by a16z and YC, Metal offers super intelligence for fundraising. Our platform brings deep intelligence for core fundraising workflows (from identifying investors and researching / qualifying the \"most likely\" firms to relationship intelligence and managing the process).",
+    "long_description": "Backed by a16z and YC, Metal is building an AI-native operating system for founders raising venture rounds. Metal brings proprietary intelligence on the venture ecosystem, enabling founders to identify the \"most likely\" investors, research various firms, and identify who they know that can introduce them to specific investors.\r\n\r\nMore than 100 YC founders have signed as paying customers.",
     "one_liner": "Metal is an AI-driven operating system for fundraising",
     "team_size": 21,
     "industry": "B2B",
@@ -37640,16 +37688,16 @@
     "all_locations": "Los Angeles, CA, USA",
     "long_description": "Superunit deploys AI voice and email agents to complete employment verifications for background check companies—faster, cheaper, and more compliant than internal teams or outsourced call centers.\r\n\r\nOur agents call and email employers, collect verification data, and log every interaction for audit and compliance. Customers are replacing manual workflows with Superunit to scale without adding headcount or compromising quality.\r\n\r\nWe work with background screeners and banks to process thousands of verifications per month.",
     "one_liner": "Faster, more profitable background checks with AI",
-    "team_size": 2,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1719276994,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "HR Tech",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -43328,45 +43376,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/eloquent-ai.json"
   },
   {
-    "id": 30514,
-    "name": "Scalar Field",
-    "slug": "scalar-field",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7b28fd1bee5f680014678e8985405788a687849f.png",
-    "website": "https://www.scalarfield.io/",
-    "all_locations": "",
-    "long_description": "We’re building the agentic trading desk for the new operating system of markets.\r\n\r\nI used to be a trader at Tower Research and Goldman Sachs, and I’m building Scalar Field with my co-founder Ramakant, who led engineering teams at Microsoft.\r\n\r\nWe’ve both spent our careers at the intersection of finance and technology, and we’re using that experience to rethink how markets are analyzed, tested, and traded in the age of agents.\r\n\r\nScalar Field is built around a simple belief: over the next few years, agents will not just help people research markets — they will actively participate in them.\r\n\r\nThey will monitor news, parse filings, track sentiment, test hypotheses, rebalance portfolios, and execute trades. They will turn ideas into strategies, and strategies into live portfolios.\r\n\r\nBut today’s financial infrastructure was not built for that world.\r\n\r\nTerminals are dashboards. Backtesting tools are fragmented. Execution systems are separate. Market data is hard to unify. And most platforms still assume the human is the only decision-maker.\r\n\r\nScalar Field changes that.\r\n\r\nWe’re building an agentic trading platform where users can create financial agents that research data, backtest strategies, monitor market events, and trigger trades when specific conditions are met.\r\n\r\nThe long-term vision is agentic ETFs: portfolios created, managed, and rebalanced by agents around any idea, narrative, event, or market signal.\r\n\r\nScalar Field lets users go from thesis to backtest to live portfolio in one place.\r\n\r\nIt is infrastructure for the agentic trading era.\r\n",
-    "one_liner": "Your Agentic Trading Desk — Building the next era of agentic…",
-    "team_size": 3,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
-    "launched_at": 1746086893,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/scalar-field",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/scalar-field.json"
-  },
-  {
     "id": 30528,
     "name": "Probo",
     "slug": "probo",
@@ -45205,7 +45214,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2468a3c8a7c5f1a0405c0920fd164d3512f5b6f7.png",
     "website": "https://www.smartbase.so/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Smartbase is an AI-native ERP for manufacturers. Unlike traditional ERPs, we reduce headcount by automating workflows like quoting and order entry.",
+    "long_description": "Smartbase is an AI-native ERP for manufacturers. Unlike traditional ERPs, we reduce labor costs by automating office work like quoting and order entry.",
     "one_liner": "AI-native ERP for manufacturers",
     "team_size": 2,
     "industry": "B2B",
@@ -45419,7 +45428,7 @@
     "slug": "zavo",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a1286c1ed0f215411585d2faaf1c76a245ee266.png",
-    "website": "https://zavo.ai",
+    "website": "https://zavopay.com",
     "all_locations": "London, United Kingdom",
     "long_description": "Zavo is the AI-powered operating system for restaurants.\r\n\r\nWe bring payments, point of sale, and AI agents into one unified platform, so restaurants can run their entire business seamlessly.\r\n\r\nFrom reservations to payments to POS, Zavo replaces fragmented tools with a fully integrated stack built in-house. Our AI agents automate repetitive tasks, streamline operations, and help teams focus on delivering great guest experiences.",
     "one_liner": "AI Operating System for Restaurants ",
@@ -45720,19 +45729,19 @@
     "former_names": [
       "Remediate"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/66adc42c53024ebb1bfc81c3de3961890ae2b2a8.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6d6915c313ba06f18c746ac65e502b29b9a5ab90.png",
     "website": "https://soren-ai.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Soren develops specialized AI solutions for modern teams. We help institutions identify, deploy, and operate AI safely across high-impact workflows.\r\n\r\nWe partner with organizations at every stage, from early exploration to full-scale AI transformations.\r\n\r\nAs an AI-native company, we're able to deliver these services at a fraction of the time and cost as legacy firms.",
-    "one_liner": "Custom AI for the Modern Business",
+    "one_liner": "Custom AI for Modern Businesses",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1759390917,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45850,17 +45859,17 @@
       "Nivara"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3725baa6ed275d3fe7064a6f04d7c57debd641c.png",
-    "website": "https://onterrain.ai/",
+    "website": "https://getnivara.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Stealth",
-    "one_liner": "Stealth",
+    "long_description": "Terrain is an AI native go-to-market platform for teams selling to the physical economy - contractors, restaurants, etc.",
+    "one_liner": "AI native GTM platform for the physical economy",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Security",
+    "subindustry": "B2B -> Sales",
     "launched_at": 1761077242,
     "tags": [
-      "Artificial Intelligence",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45870,7 +45879,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Security"
+      "Sales"
     ],
     "regions": [
       "United States of America",
@@ -47265,6 +47274,51 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/supafax.json"
   },
   {
+    "id": 31279,
+    "name": "Regbase",
+    "slug": "regbase",
+    "former_names": [
+      "RegBase"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd72b079b781bbd2a4eb03627c44c4901fd5da63.png",
+    "website": "https://regbase.com",
+    "all_locations": "",
+    "long_description": "",
+    "one_liner": "The source of truth for global and local regulation",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1776112979,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Legal",
+      "LegalTech",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/regbase",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/regbase.json"
+  },
+  {
     "id": 31295,
     "name": "Carrot Labs",
     "slug": "carrot-labs",
@@ -47873,7 +47927,7 @@
     "name": "Drip",
     "slug": "drippay",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/81cc115767ef5ba186ef4f8840e2888354896cb7.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a200f7dd92eb8502bc67be24771887da99cbcfb.png",
     "website": "https://usedrip.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "dripos sends first messages, handles replies, follows up, and books calls across iMessage, LinkedIn, Gmail, Slack, and group chats. You choose who it can message and when it can act.",
@@ -48050,16 +48104,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4a81291bc11ae471a475ddf6ccf1d67360474a8c.png",
     "website": "https://www.gojiberry.ai",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Gojiberry is building the AI GTM team for B2B companies.\r\n\r\nWe start with outbound: Gojiberry finds buyers showing intent, enriches them, reaches out, follows up, handles replies, and books qualified meetings.\r\n\r\nCompanies use Gojiberry to replace the old way of doing outbound: buying tools, hiring SDRs & agencies, testing lists, writing messages, and guessing what works. Gojiberry turns it into one AI team that finds buyers and books meetings.\r\n\r\nEvery campaign makes Gojiberry smarter. It learns which buyers convert, which signals matter, which messages get replies, and which actions create revenue. Over time, Gojiberry uses what works across similar companies and industries to help every new customer get better results from day one.\r\n\r\nLong term, Gojiberry will become the system that finds every revenue opportunity and acts on it: outbound leads, website visitors, inbound leads, old CRM leads, replies, meetings, CRM updates, new campaign ideas, and account expansion.\r\n\r\nThe goal is to make every B2B company able to run a high-performing GTM team without hiring one.\r\n\r\nWe grew from $0 to $2.5M ARR in 10 months, are growing 35% MoM, profitable, and used by 2,000+ customers.\r\n\r\nCustomers get 2-5x more positive replies than traditional outbound.",
+    "long_description": "Gojiberry is building the AI GTM team for B2B companies.\r\n\r\nWe start with outbound: Gojiberry finds buyers showing intent, enriches them, reaches out, follows up, handles replies, and books qualified meetings.\r\n\r\nCompanies use Gojiberry to replace the old way of doing outbound: buying tools, hiring SDRs & agencies, testing lists, writing messages, and guessing what works. Gojiberry turns it into one AI team that finds buyers and books meetings.\r\n\r\nEvery campaign makes Gojiberry smarter. It learns which buyers convert, which signals matter, which messages get replies, and which actions create revenue. Over time, Gojiberry uses what works across similar companies and industries to help every new customer get better results from day one.\r\n\r\nLong term, Gojiberry will become the system that finds every revenue opportunity and acts on it: outbound leads, website visitors, inbound leads, old CRM leads, replies, meetings, CRM updates, new campaign ideas, and account expansion.\r\n\r\nThe goal is to make every B2B company able to run a high-performing GTM team without hiring one.\r\n\r\nWe grew from $0 to $2.5M ARR in 10 months, are growing 30% MoM, profitable, and used by 2,000+ customers.\r\n\r\nCustomers get 2-5x more positive replies than traditional outbound.",
     "one_liner": "AI GTM agents for B2B teams",
     "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1774430148,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Sales"
+      "Sales",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48093,17 +48147,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51ba58b94e0a45c3a3cc270067fe72dcf1f9027e.png",
     "website": "https://ontora.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ontora gives C-suite leaders AI agents that interview every employee to uncover process bottlenecks across their organization. Consultants spend months doing this manually; Ontora does it in hours.",
+    "long_description": "Ontora is an AI Agent that interviews every employee to map how work actually gets done and identify bottlenecks. Consultants spend months doing this manually; Ontora does it in hours.",
     "one_liner": "AI agents that interview every employee to map how work gets done.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1773487694,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Analytics",
-      "Operations"
+      "Operations",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48214,49 +48268,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/mount.json"
   },
   {
-    "id": 31441,
-    "name": "Infera",
-    "slug": "infera",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e31e68f847b8067b4a5a541fed968e4b0739a6c4.png",
-    "website": "https://www.infera.bio",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Describe an experiment in plain English, and Infera turns it into a validated, instrument-ready run across the equipment your lab already uses. Infera handles the protocol logic, vendor-specific scripts, data, inventory, and institutional knowledge in one system. An AI-native compiler for the lab: one system from intent to execution.",
-    "one_liner": "Control lab instruments with natural language.",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Industrial Bio",
-    "launched_at": 1779916747,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Biotech",
-      "Automation"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Industrial Bio"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/infera",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/infera.json"
-  },
-  {
     "id": 31454,
     "name": "Datost",
     "slug": "datost",
@@ -48305,7 +48316,7 @@
       "markup.one",
       "tday"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8097564a05c5d4f6c65beb4b34b3c74ff72b4ac7.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/33cc2363c4ec1859b3256fa83d3906a151f1e0ed.png",
     "website": "https://tday.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "tday automatically turns a software company's product into on-brand marketing creative. Connect your product and git repo, and tday generates polished launch videos, social graphics, and ads, the content a team would normally spend hours making in a design tool or pay a freelancer for. tday then publishes the creative and measures how it performs across your social and ad channels, closing the loop from what you ship to what you post.",
@@ -48727,52 +48738,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/characterquilt.json"
   },
   {
-    "id": 31531,
-    "name": "Manicule",
-    "slug": "manicule",
-    "former_names": [
-      "better-cmdk"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cd583af5fd7e25beb6cf6bd63167daa1273db6c5.png",
-    "website": "https://manicule.dev",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Manicule is an AI native devrel that owns developer documentation and technical content across social channels. We grew 100% MoM over the last three months to $58k in monthly revenue, and our customers include Supermemory, Greptile, Reducto, Mastra, Agentmail, and more.\r\n\r\nIt is insanely hard to hire for devrel. Our customers tell us they’ve had roles up for months, paying $300K+ and still can’t find good people. The industry is currently split between SEO/GEO SaaS and agencies that only do videos or in-person devrel. Developer-focused companies also love the velocity AI brings but hate giving their readers AI slop.\r\n\r\nNaman has been writing content since he was 13 having worked with companies like Promptlayer, Brightdata, Courier.com and others. Shreyans has been building since 14, built an AI app that got onto App Store Productivity Trending in a month and worked as founding engineer at Supermemory. We met in high school and have built multiple startups together since.",
-    "one_liner": "AI Native Developer Relations",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1773484930,
-    "tags": [
-      "Developer Tools",
-      "B2B",
-      "Marketing",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/manicule",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/manicule.json"
-  },
-  {
     "id": 31538,
     "name": "flowscope",
     "slug": "flowscope",
@@ -48899,51 +48864,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/modern",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/modern.json"
-  },
-  {
-    "id": 31549,
-    "name": "Enjamb Labs",
-    "slug": "enjamb-labs",
-    "former_names": [
-      "Enjamb Labs Inc",
-      "Enjamb"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/72c48d60b66c3872f55fda2ba7dbab9415312dd4.png",
-    "website": "https://www.enjamb.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Enjamb puts agents across the entire drug program, from preclinical research through clinical trials and approval. Our agents synthesize up-to-date clinical evidence from the literature and real-world data to pinpoint the right endpoints and patient populations; draft and audit regulatory documents like INDs, protocols, SAPs, and NDAs; and run the statistical programming behind them, including SDTM, ADaM, TFLs, and QC, all in one auditable workspace that cuts months off the path from preclinical to clinic and clinic to market.",
-    "one_liner": "Claude Code for accelerating Biopharma R&D ",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1779929226,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Biotech",
-      "Healthcare",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/enjamb-labs",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/enjamb-labs.json"
   },
   {
     "id": 31563,
