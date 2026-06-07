@@ -12352,7 +12352,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -26818,6 +26818,45 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/astro.json"
   },
   {
+    "id": 30209,
+    "name": "Closure",
+    "slug": "closure",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c5b9a8ffa191d64a12f160ab46ed4cf4f2dd85dc.png",
+    "website": "https://closure-intel.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Law enforcement is drowning in data. Closure helps search it to solve crime.\r\n\r\n- Hiring: UX, Engineering, AI, Ops,\r\n- Supporting: law enforcement throughout the country\r\n- Expanding: Local, state, and federal law enforcement.",
+    "one_liner": "We help law enforcement solve crime",
+    "team_size": 10,
+    "industry": "Government",
+    "subindustry": "Government",
+    "launched_at": 1739862740,
+    "tags": [
+      "GovTech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "Government"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/closure",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/closure.json"
+  },
+  {
     "id": 30212,
     "name": "superglue",
     "slug": "superglue",
@@ -27157,48 +27196,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/trim",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/trim.json"
-  },
-  {
-    "id": 30242,
-    "name": "Oki",
-    "slug": "oki",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a80f26794f39a5699d91f7551f1b29f686e1b0b.png",
-    "website": "https://www.okiapplications.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Oki AI tells you everything you need to know to run your company.\r\n\r\nBy reading your team’s code, tickets, messages, and more, Oki delivers personalized - and interactive - updates daily to you and other leaders.",
-    "one_liner": "Personalized Updates on Company Progress",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1739303977,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Enterprise",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/oki",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/oki.json"
   },
   {
     "id": 30255,
@@ -31132,6 +31129,51 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/phases.json"
   },
   {
+    "id": 30710,
+    "name": "Manufact (formerly mcp-use)",
+    "slug": "manufact",
+    "former_names": [
+      "mcp-use"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3838f80b214ed1fcda53a2778860e8be11cfdb0d.png",
+    "website": "https://manufact.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Manufact provides open-source dev tools and infrastructure for MCP to help dev teams quickly build and deploy MCP Servers for AI agents & MCP Apps for ChatGPT and Claude.\r\nWe developed the mcp-use SDK, which has over 7M downloads and 10,000 GitHub stars, and is used by 20% of the US 500.\r\nCreate MCP servers/apps in minutes, connect your GitHub repo, and make them immediately available to AI agents and ChatGPT.",
+    "one_liner": "Open source SDK & cloud infrastructure for MCP Servers & ChatGPT Apps ",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1752861544,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "Open Source",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/manufact",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/manufact.json"
+  },
+  {
     "id": 30711,
     "name": "Char",
     "slug": "char",
@@ -31816,6 +31858,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/okibi",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/okibi.json"
+  },
+  {
+    "id": 30779,
+    "name": "Smartbase",
+    "slug": "smartbase",
+    "former_names": [
+      "Glade",
+      "Sandfish",
+      "Anytrace"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2468a3c8a7c5f1a0405c0920fd164d3512f5b6f7.png",
+    "website": "https://www.smartbase.so/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Smartbase is an AI-native ERP for manufacturers. We have traditional ERP features like inventory management, and we use AI to automate office work like quoting and order entry. In the past six weeks, we’ve grown from $0 to $171k in contracted ARR.",
+    "one_liner": "AI-native ERP for manufacturers",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1753758221,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Manufacturing",
+      "Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/smartbase",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/smartbase.json"
   },
   {
     "id": 30792,
@@ -32544,6 +32633,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sorce",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/sorce.json"
+  },
+  {
+    "id": 30867,
+    "name": "Soren",
+    "slug": "soren",
+    "former_names": [
+      "Remediate"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a70034836fd6c1c36dc93a7c297ef0a862c5aff5.png",
+    "website": "https://soren-ai.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Soren develops specialized AI solutions for modern teams. We help institutions identify, deploy, and operate AI safely across high-impact workflows.\r\n\r\nWe partner with organizations at every stage, from early exploration to full-scale AI transformations.\r\n\r\nAs an AI-native company, we're able to deliver these services at a fraction of the time and cost as legacy firms.",
+    "one_liner": "Custom AI for Modern Businesses",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1759390917,
+    "tags": [
+      "B2B",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/soren",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/soren.json"
   },
   {
     "id": 30875,
@@ -34469,6 +34600,46 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/datoric.json"
   },
   {
+    "id": 31293,
+    "name": "Bloom",
+    "slug": "trybloom",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/69e41f29f70735fdb2645501787e9a1ddf8d46dc.png",
+    "website": "https://trybloom.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Bloom is the brand layer for agents - it turns brand into infrastructure that any agent, app, or platform can call.\r\n\r\nIngest your brand from anywhere - decks, websites, social, Figma, and more.\r\nBloom systemises your brand, enabling the creation of on-brand outputs like images, video, video, copy, and more, through the web app, the API, or MCP.\r\n\r\nWe're building brand-as-infrastructure for the AI era.\r\n",
+    "one_liner": "Brand infrastructure for AI",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1776275888,
+    "tags": [
+      "Marketing",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/trybloom",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/trybloom.json"
+  },
+  {
     "id": 31295,
     "name": "Carrot Labs",
     "slug": "carrot-labs",
@@ -34723,49 +34894,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/withai",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/withai.json"
-  },
-  {
-    "id": 31360,
-    "name": "Lightsprint",
-    "slug": "lightsprint",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3feaf8d76278baf8b9fbde6cc73fdda3ea2a5b18.png",
-    "website": "https://lightsprint.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lightsprint is a collaborative platform for software teams to plan visually, preview live and ship with an army of cloud agents. Your whole team, including non-engineers, can now ship end to end reliably.\r\n\r\nThe company is founded by Ben Ong, an AI investor who previously scaled AI products at SEA Group (NYSE: SE) and Temasek ($300B fund), Benedict Chan who was VP Engineering at Chainlink and CTO at BitGo (NYSE:BTGO), and Heng Hong Lee who built Facebook Messenger in 2013 and was Director of Engineering at Fazz (YC S17).",
-    "one_liner": "Collaborative product development platform",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1776537521,
-    "tags": [
-      "Developer Tools",
-      "Generative AI",
-      "B2B",
-      "Enterprise Software",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/lightsprint",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/lightsprint.json"
   },
   {
     "id": 31365,
@@ -35472,48 +35600,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/napkin-math.json"
   },
   {
-    "id": 31428,
-    "name": "Ontora",
-    "slug": "ontora",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51ba58b94e0a45c3a3cc270067fe72dcf1f9027e.png",
-    "website": "https://ontora.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ontora is an AI Agent that interviews every employee to map how work actually gets done and identify bottlenecks. Consultants spend months doing this manually; Ontora does it in hours.",
-    "one_liner": "AI agents that interview every employee to map how work gets done.",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1773487694,
-    "tags": [
-      "B2B",
-      "Analytics",
-      "Operations",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/ontora",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/ontora.json"
-  },
-  {
     "id": 31430,
     "name": "Voquill",
     "slug": "voquill",
@@ -35648,20 +35734,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8149769a0781242dca23d1bed75bdf39b4b9dba6.png",
     "website": "https://archermoney.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Archer is the company money brain. We let agents move your money for you in your business.\r\n\r\nWe help companies deploy AI agents that can spend, purchase, reward, and move money on behalf of their business. Instead of relying on employees to manually execute every financial action, businesses can give agents budgets, permissions, and goals, allowing them to take action automatically when important events occur.\r\n\r\nOur flagship feature is agentic commerce. Businesses use Archer to deploy AI agents that can purchase goods and services in the real world on behalf of their company. Today, companies are using Archer to automatically send personalized physical rewards when important business events occur. A customer completes onboarding. A partner generates a referral. An employee hits a milestone. An agent understands the context, purchases the reward, and handles execution automatically.\r\n\r\nWe believe physical rewards are just the beginning. The same infrastructure that allows agents to purchase and send rewards today will allow them to route revenue, incentivize employees, run referral programs, and execute financial actions across every part of a business. As agents gain context from CRMs, product data, Slack, Linear, Notion, internal systems, and APIs, they become increasingly capable of understanding what is happening across a company and taking action automatically.\r\n\r\nFor hundreds of years, businesses have used software to manage information and store money. We believe the next generation of businesses will rely on AI agents to make decisions and take financial action on their behalf to materially benefit their business.",
-    "one_liner": "The company money brain. Let agents move your money.",
+    "long_description": "Archer is the agentic commerce platform for customer acquisition and retention.\r\n\r\nWe help companies deploy AI agents that can automatically purchase, personalize, and deliver physical gifts on behalf of their business. Instead of manually coordinating rewards, swag, meals, experiences, and gifts, companies can give agents budgets, goals, and instructions, allowing them to take action automatically when important business events occur.\r\n\r\nToday, businesses use Archer to automate corporate gifting across outbound sales, customer onboarding, referrals, partnerships, customer success, and employee milestones. A prospect books a meeting. A customer completes onboarding. A partner generates a referral. An agent understands the context, selects an appropriate gift, purchases it, and handles fulfillment automatically.\r\n\r\nWhat makes Archer different is that companies no longer need to manage gifting campaigns manually. Agents continuously monitor what is happening across a business and execute personalized physical experiences at the right moment for the right person.\r\n\r\nWe believe corporate gifting is just the beginning. As AI agents become increasingly capable of understanding business context through CRMs, product data, Slack, Linear, Notion, and other systems, they will become active participants in how companies build relationships, acquire customers, retain users, and grow revenue.\r\n\r\nFor decades, businesses have relied on software to track relationships. We believe the next generation of businesses will rely on AI agents to strengthen them.",
+    "one_liner": " AI-powered gifting for customer acquisition and retention",
     "team_size": 4,
     "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
+    "subindustry": "B2B -> Marketing",
     "launched_at": 1776977656,
     "tags": [
-      "Crypto / Web3",
+      "Autonomous Delivery",
       "Finance",
       "AI"
     ],
-    "tags_highlighted": [
-      "Crypto / Web3"
-    ],
+    "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
@@ -35669,7 +35753,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Finance and Accounting"
+      "Marketing"
     ],
     "regions": [
       "United States of America",
@@ -36764,48 +36848,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rex-inc",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/rex-inc.json"
-  },
-  {
-    "id": 32195,
-    "name": "RealPact",
-    "slug": "realpact",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0066aaeaa91920faf3f4b4ee35ce9e7c2bc99740.png",
-    "website": "https://realpact.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "RealPact builds AI agents that handle the paperwork behind real estate transactions. They find property records like deeds, tax records, permits, parcel data, and MLS information, then use that data to fill out contracts, organize documents, track deadlines, and help brokerages close deals faster.\r\n\r\nWe currently sell to brokerages in New Hampshire and are expanding quickly.",
-    "one_liner": "AI-native OS for Real Estate Brokerages",
-    "team_size": 3,
-    "industry": "Real Estate and Construction",
-    "subindustry": "Real Estate and Construction -> Housing and Real Estate",
-    "launched_at": 1780455733,
-    "tags": [
-      "Real Estate",
-      "Enterprise Software",
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "Real Estate and Construction",
-      "Housing and Real Estate"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/realpact",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/realpact.json"
   },
   {
     "id": 33021,

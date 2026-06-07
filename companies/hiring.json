@@ -13499,7 +13499,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -50919,13 +50919,13 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Law enforcement is drowning in data. Closure helps search it to solve crime.\r\n\r\n- Hiring: UX, Engineering, AI, Ops,\r\n- Supporting: law enforcement throughout the country\r\n- Expanding: Local, state, and federal law enforcement.",
     "one_liner": "We help law enforcement solve crime",
-    "team_size": 4,
+    "team_size": 10,
     "industry": "Government",
     "subindustry": "Government",
     "launched_at": 1739862740,
     "tags": [
-      "Artificial Intelligence",
-      "GovTech"
+      "GovTech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -53876,6 +53876,49 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/claim-health.json"
   },
   {
+    "id": 30430,
+    "name": "Almond",
+    "slug": "almond-2",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37312e12dc6f12e2470a531052ec0e30ee697a75.png",
+    "website": "https://almond.bot/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We build robots for physical AI. Meet Axol - A dual-arm robot designed for real-world tasks using AI.",
+    "one_liner": "A dual-arm robot built for physical AI.",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1745432874,
+    "tags": [
+      "Artificial Intelligence",
+      "Hardware",
+      "Robotics",
+      "Manufacturing",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/almond-2",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/almond-2.json"
+  },
+  {
     "id": 30440,
     "name": "Sim",
     "slug": "sim",
@@ -54159,6 +54202,44 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/jeevy-fabrication",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/jeevy-fabrication.json"
+  },
+  {
+    "id": 30460,
+    "name": "VoiceOS",
+    "slug": "voiceos",
+    "former_names": [
+      "NuPhone",
+      "Wako AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1b1aed7099a4bf552ddb400d14fc642d3157809c.png",
+    "website": "https://voiceos.com",
+    "all_locations": "",
+    "long_description": "VoiceOS turns voice into a seamless, universal interface to 10x productivity — a true voice operating system for the next era of computing.\r\n\r\nIt works across any app, letting users speak naturally to dictate, edit, and write text instantly. Whether writing an email, revising a document, or grasping complex information, VoiceOS transforms voice into the most powerful productivity tool, bridging the gap between thought and expression.",
+    "one_liner": "The Siri for Productivity",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1748319646,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/voiceos",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/voiceos.json"
   },
   {
     "id": 30461,
@@ -57142,16 +57223,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Manufact provides open-source dev tools and infrastructure for MCP to help dev teams quickly build and deploy MCP Servers for AI agents & MCP Apps for ChatGPT and Claude.\r\nWe developed the mcp-use SDK, which has over 7M downloads and 10,000 GitHub stars, and is used by 20% of the US 500.\r\nCreate MCP servers/apps in minutes, connect your GitHub repo, and make them immediately available to AI agents and ChatGPT.",
     "one_liner": "Open source SDK & cloud infrastructure for MCP Servers & ChatGPT Apps ",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1752861544,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Open Source",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -59263,7 +59344,7 @@
     "all_locations": "",
     "long_description": "AI researchers should be pushing the boundaries of what's possible with new architectures and training methods. Instead, they waste weeks configuring cloud infrastructure, debugging distributed systems, and optimizing their GPU code. We know because we lived it: While training our own models across thousands of GPUs earlier this year, we spent more time fighting our infrastructure than doing actual research.\r\n\r\nThat's why we're building two things. First, Elastic Cloud: a managed platform that automatically finds the cheapest GPUs across all providers, handles spot instance preemption, and cuts compute costs by up to 80%. Second, automatic kernel optimization that makes training code run faster by modeling hardware topology, often beating hand-tuned implementations.\r\n\r\nThe problem is that getting high performance across different hardware is genuinely hard. NVIDIA's CUDA moat exists because writing fast kernels requires deep expertise. Most teams either accept vendor lock-in or hire expensive kernel engineers. Our goal is to break the CUDA moat.\r\n\r\nThe compute bottleneck is the biggest constraint on AI progress. NVIDIA can't manufacture enough GPUs, and their monopoly keeps prices astronomical. Meanwhile, AMD, Google, and Amazon are shipping capable alternative hardware that nobody uses because the software is too hard. We're breaking that moat. If we succeed, anyone will be able to train state-of-the-art models without thinking past their PyTorch code.",
     "one_liner": "Infrastructure for AI labs to focus on research.",
-    "team_size": 5,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1759869599,
@@ -61148,7 +61229,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Hex Security builds AI agents that run continuous penetration tests against your apps and infrastructure. Instead of a once-a-year penetration test, Hex Security's agents works 24/7 to find and verify critical vulnerabilities so you can prevent them before attackers.",
     "one_liner": "Agentic Offensive Security at Scale",
-    "team_size": 3,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1768943987,
@@ -61977,19 +62058,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5670afa2f39d71d15be15ed4c56ae5e0a65dbea4.png",
     "website": "https://tsenta.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Tsenta matches you with jobs, optimizes your profile & applies on your behalf. We have:\r\n➙ a web app ➙ an imessage bot ➙ an MCP ➙ a chrome extension, giving you control over every application being submitted.\r\n\r\nWe built Tsenta after applying to over 3,000 jobs manually, so that nobody else would have to.\r\n\r\nCheck us out at https://tsenta.com :)",
     "one_liner": "We match you with jobs and apply automatically",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer -> Job and Career Services",
     "launched_at": 1769729252,
-    "tags": [
-      "Artificial Intelligence",
-      "Consumer",
-      "Recruiting",
-      "HR Tech"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -62001,8 +62077,7 @@
       "Job and Career Services"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -62297,12 +62372,16 @@
     "website": "https://trybloom.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Bloom is the brand layer for agents - it turns brand into infrastructure that any agent, app, or platform can call.\r\n\r\nIngest your brand from anywhere - decks, websites, social, Figma, and more.\r\nBloom systemises your brand, enabling the creation of on-brand outputs like images, video, video, copy, and more, through the web app, the API, or MCP.\r\n\r\nWe're building brand-as-infrastructure for the AI era.\r\n",
-    "one_liner": "The brand layer for agents",
+    "one_liner": "Brand infrastructure for AI",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1776275888,
-    "tags": [],
+    "tags": [
+      "Marketing",
+      "Infrastructure",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -62492,8 +62571,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b05d200707537271b32356fc9f883781eb7e5f4a.png",
     "website": "https://www.getdayjob.ai",
     "all_locations": "London, United Kingdom",
-    "long_description": "Dayjob builds autonomous AI workers for transport operations. Our scheduling agent plugs into existing ERPs and continuously re-optimises routes in real time - handling new jobs, driver changes, and exceptions automatically. Customers in waste management see 8%+ efficiency gains from day one.",
-    "one_liner": "AI Agents for Industrial Logistics",
+    "long_description": "Dayjob does AI Scheduling for Short Haul Trucks. Our scheduling agent plugs into existing ERPs and continuously re-optimises routes in real time - handling new jobs, driver changes, and exceptions automatically. Customers in waste management see 8%+ efficiency gains from day one.",
+    "one_liner": "AI Scheduling for Short Haul Trucks",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",

@@ -651,7 +651,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -3748,6 +3748,50 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/crunched.json"
   },
   {
+    "id": 31243,
+    "name": "Foreman",
+    "slug": "foreman",
+    "former_names": [
+      "Scout Out"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4ea6017f7d414cf92f14434141d6dd12101b14d9.png",
+    "website": "https://foreman.co",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Foreman is the all-in-one AI-powered project management platform built for construction contractors and the trade industry.\r\nToday, contractors run complex businesses on a patchwork of tools that were never designed for construction — estimates in spreadsheets, plans in email, proposals copy-pasted from old Word docs, photos scattered across phones. Nothing talks to anything else, and the admin work never stops.\r\nForeman replaces that patchwork with a single platform that manages the full lifecycle of a construction job, from first estimate to final invoice. Contractors upload plans, photos, or a project description, and Foreman's AI instantly generates structured takeoffs, scoped estimates, and professional proposals — in minutes, not hours. From there, every customer record, document, permit, photo, change order, and conversation lives in one place, organized around the job.\r\nThe result: contractors spend less time buried in admin and more time building. They bid faster, manage jobs with less chaos, and close projects cleanly — without duct-taping five tools together to do it.",
+    "one_liner": "Keeping contractors on the job site, not behind a desk.",
+    "team_size": 2,
+    "industry": "Real Estate and Construction",
+    "subindustry": "Real Estate and Construction",
+    "launched_at": 1768343791,
+    "tags": [
+      "Artificial Intelligence",
+      "Finance",
+      "Construction",
+      "Scheduling",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Real Estate and Construction"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/foreman",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/foreman.json"
+  },
+  {
     "id": 31330,
     "name": "Standard Signal",
     "slug": "standard-signal",
@@ -3933,20 +3977,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8149769a0781242dca23d1bed75bdf39b4b9dba6.png",
     "website": "https://archermoney.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Archer is the company money brain. We let agents move your money for you in your business.\r\n\r\nWe help companies deploy AI agents that can spend, purchase, reward, and move money on behalf of their business. Instead of relying on employees to manually execute every financial action, businesses can give agents budgets, permissions, and goals, allowing them to take action automatically when important events occur.\r\n\r\nOur flagship feature is agentic commerce. Businesses use Archer to deploy AI agents that can purchase goods and services in the real world on behalf of their company. Today, companies are using Archer to automatically send personalized physical rewards when important business events occur. A customer completes onboarding. A partner generates a referral. An employee hits a milestone. An agent understands the context, purchases the reward, and handles execution automatically.\r\n\r\nWe believe physical rewards are just the beginning. The same infrastructure that allows agents to purchase and send rewards today will allow them to route revenue, incentivize employees, run referral programs, and execute financial actions across every part of a business. As agents gain context from CRMs, product data, Slack, Linear, Notion, internal systems, and APIs, they become increasingly capable of understanding what is happening across a company and taking action automatically.\r\n\r\nFor hundreds of years, businesses have used software to manage information and store money. We believe the next generation of businesses will rely on AI agents to make decisions and take financial action on their behalf to materially benefit their business.",
-    "one_liner": "The company money brain. Let agents move your money.",
+    "long_description": "Archer is the agentic commerce platform for customer acquisition and retention.\r\n\r\nWe help companies deploy AI agents that can automatically purchase, personalize, and deliver physical gifts on behalf of their business. Instead of manually coordinating rewards, swag, meals, experiences, and gifts, companies can give agents budgets, goals, and instructions, allowing them to take action automatically when important business events occur.\r\n\r\nToday, businesses use Archer to automate corporate gifting across outbound sales, customer onboarding, referrals, partnerships, customer success, and employee milestones. A prospect books a meeting. A customer completes onboarding. A partner generates a referral. An agent understands the context, selects an appropriate gift, purchases it, and handles fulfillment automatically.\r\n\r\nWhat makes Archer different is that companies no longer need to manage gifting campaigns manually. Agents continuously monitor what is happening across a business and execute personalized physical experiences at the right moment for the right person.\r\n\r\nWe believe corporate gifting is just the beginning. As AI agents become increasingly capable of understanding business context through CRMs, product data, Slack, Linear, Notion, and other systems, they will become active participants in how companies build relationships, acquire customers, retain users, and grow revenue.\r\n\r\nFor decades, businesses have relied on software to track relationships. We believe the next generation of businesses will rely on AI agents to strengthen them.",
+    "one_liner": " AI-powered gifting for customer acquisition and retention",
     "team_size": 4,
     "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
+    "subindustry": "B2B -> Marketing",
     "launched_at": 1776977656,
     "tags": [
-      "Crypto / Web3",
+      "Autonomous Delivery",
       "Finance",
       "AI"
     ],
-    "tags_highlighted": [
-      "Crypto / Web3"
-    ],
+    "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
@@ -3954,7 +3996,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Finance and Accounting"
+      "Marketing"
     ],
     "regions": [
       "United States of America",
