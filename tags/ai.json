@@ -1071,7 +1071,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b363a44bfe1278786c4092bd157ce82f208e1a21.png",
     "website": "https://www.veryfi.com/",
-    "all_locations": "San Mateo, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Enterprise-grade document extraction and fraud detection — deploy in minutes via mobile SDKs or APIs. No ML expertise required.\r\n\r\nTurn receipts, invoices, checks and bank statements into automated expense tracking, instant payments, and fraud-protected transactions. Explore our Multi-Modal APIs: https://www.veryfi.com/apis/",
     "one_liner": "Document AI. One API Call.",
     "team_size": 70,
@@ -15353,7 +15353,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4cf3efb3a17f100893c2b9e11f3f945ba7fbdf04.png",
     "website": "https://www.mandel.ai/",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Manufacturing procurement teams spend 70% of their day buried in supplier emails and spreadsheets. Mandel fixes that. We're an AI supply chain coordinator that reads every supplier email, extracts the data that matters - POs, quotes, delivery dates, pricing - and catches disruptions before they cost you. \r\n",
     "one_liner": "AI Supply Chain Coordinator",
     "team_size": 2,
@@ -15378,6 +15378,8 @@
       "Supply Chain and Logistics"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -28580,6 +28582,50 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/notus-autonomous-systems.json"
   },
   {
+    "id": 30413,
+    "name": "Serafis",
+    "slug": "serafis",
+    "former_names": [
+      "MetaSpark"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67a815e7868c4a6d85c8b5fdb3324a29a6600f72.png",
+    "website": "https://serafis.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Serafis is building super-intelligence for financial markets. We mine petabytes of unstructured data to identify narrative inflections before they become consensus. Think building early conviction in Bitcoin (2014), Tesla (2018), or Nvidia (2022).\r\n\r\nWe are already live with 12 organizations managing over $70B in capital.",
+    "one_liner": "Narrative intelligence for investors",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1755276267,
+    "tags": [
+      "SaaS",
+      "Finance",
+      "Investing",
+      "Search",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/serafis",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/serafis.json"
+  },
+  {
     "id": 30418,
     "name": "Kanava AI",
     "slug": "kanava-ai",
@@ -29916,6 +29962,51 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/pelica.json"
   },
   {
+    "id": 30540,
+    "name": "Lumari",
+    "slug": "lumari",
+    "former_names": [
+      "Rextly"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12837739c0d64330042216a7aa87b32fd0deb815.png",
+    "website": "https://www.lumari.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Lumari is the world's first AI-powered procurement automation platform purpose-built for direct materials and supply chain execution. \r\n\r\nBacked by Y Combinator, Lumari is a well-funded startup that deploys 100s of always-on AI agents that run sourcing workflows, manage RFQs, expedite purchase orders, and coordinate supplier communication end-to-end -- compressing cycle times and giving teams full visibility into active orders, RFQs, and supplier performance.\r\n\r\nFounded by engineers from Google, Tesla, Amazon, and Stripe who have built and scaled supply chain systems serving millions of users. \r\n\r\nBuilt to operate directly on top of existing tools and ERP systems, Lumari helps procurement teams move faster, eliminate operational bottlenecks, and build more resilient supply chains. No rip-and-replace, no supplier onboarding. Lumari handles the manual chase: quote follow-ups, PO confirmations, delivery status updates, and risk escalation.\r\n\r\nLumari helps companies from Fortune 500s to fast-growing startups automate work from sourcing to delivery, streamline supplier communication and order management, and bring full visibility to their procurement operations.\r\n\r\nTo learn more check out https://lumari.ai/",
+    "one_liner": "AI Digital Workers for Supply Chain ",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1747084472,
+    "tags": [
+      "B2B",
+      "Manufacturing",
+      "Supply Chain",
+      "Operations",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lumari",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/lumari.json"
+  },
+  {
     "id": 30545,
     "name": "StarSling",
     "slug": "starsling",
@@ -31045,47 +31136,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/nozomio.json"
   },
   {
-    "id": 30703,
-    "name": "GoRiff",
-    "slug": "goriff",
-    "former_names": [
-      "Riff"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e868dfd092e1a64ed4a293058223d5f698e12bc7.png",
-    "website": "https://goriff.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Personalized digital greetings cards and gifts for your loved ones. ",
-    "one_liner": "Personalized AI Stories with Music",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1752283172,
-    "tags": [
-      "Consumer",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/goriff",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/goriff.json"
-  },
-  {
     "id": 30707,
     "name": "Phases",
     "slug": "phases",
@@ -31474,6 +31524,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/floot.json"
   },
   {
+    "id": 30731,
+    "name": "Maximal",
+    "slug": "maximal",
+    "former_names": [
+      "Lucid Spring",
+      "Palace"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/372f70ec336f450e72151d3d9d0a4035f916b2a7.png",
+    "website": "https://www.trymaximal.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Today, commercial trucking fleets plan and dispatch on gut feel and legacy tooling. Their margin is capped by their planner's cognitive capacity.\r\n\r\nMaximal is an AI planning system that sources loads, builds the plan, and re-optimizes automatically as conditions change. Carriers stop running at the limit of their planner's performance and start running at the limit of our simulation engine and agents. The result: carriers covering more loads, with fewer empty miles, at higher margin.\r\n\r\nLeeds (CEO) studied operations research + computer science at Cornell and Columbia and his family runs a 3PL. He worked on the algorithm's that power Amazon’s robotics in distribution centers and he was the 1st PM at Golden (acquired) and 7th PM at Alchemy (a16z, Coatue). Derek (CTO) studied computer science at USC, was founding engineer at Kits AI (acquired), and was the youngest tech lead in his department at Amazon.",
+    "one_liner": "Truckload Planning at Machine Precision",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1755096535,
+    "tags": [
+      "Logistics",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/maximal",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/maximal.json"
+  },
+  {
     "id": 30738,
     "name": "Altur",
     "slug": "altur",
@@ -31606,7 +31699,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b1e76d8c0743b28030c0f3c37f0d0bfa7f51272.png",
     "website": "https://pleom.com",
-    "all_locations": "",
+    "all_locations": "New York City, NY, USA",
     "long_description": "Automatic insights on all your company data. Speed up business workflows to visualizations with a 0 learning curve.",
     "one_liner": "Agentic Business Intelligence",
     "team_size": 0,
@@ -31631,7 +31724,8 @@
       "Analytics"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -32633,48 +32727,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sorce",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/sorce.json"
-  },
-  {
-    "id": 30867,
-    "name": "Soren",
-    "slug": "soren",
-    "former_names": [
-      "Remediate"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a70034836fd6c1c36dc93a7c297ef0a862c5aff5.png",
-    "website": "https://soren-ai.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Soren develops specialized AI solutions for modern teams. We help institutions identify, deploy, and operate AI safely across high-impact workflows.\r\n\r\nWe partner with organizations at every stage, from early exploration to full-scale AI transformations.\r\n\r\nAs an AI-native company, we're able to deliver these services at a fraction of the time and cost as legacy firms.",
-    "one_liner": "Custom AI for Modern Businesses",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1759390917,
-    "tags": [
-      "B2B",
-      "Enterprise Software",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/soren",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/soren.json"
   },
   {
     "id": 30875,
@@ -35167,50 +35219,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/superlog.json"
   },
   {
-    "id": 31391,
-    "name": "HEVN, inc",
-    "slug": "hevn-inc",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9670403b854641364928ce34e110c0d9752c9d8d.png",
-    "website": "https://gethevn.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "HEVN is a B2B banking platform for global payments, built on stablecoin rails and a new API for virtual bank accounts under DASP regulation. Companies use HEVN for global payroll and payment automation, with 70% of transaction volume processed through our API. We are up to 30% cheaper than Wise, while transfers are sent from bank accounts in the company's name and transaction limits of up to $1M per transfer.",
-    "one_liner": "b2b banking for global payments",
-    "team_size": 4,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
-    "launched_at": 1777498705,
-    "tags": [
-      "AIOps",
-      "Finance",
-      "Neobank",
-      "Automation",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/hevn-inc",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/hevn-inc.json"
-  },
-  {
     "id": 31396,
     "name": "qomplement",
     "slug": "qomplement",
@@ -35464,6 +35472,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/stablebrowse",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/stablebrowse.json"
+  },
+  {
+    "id": 31421,
+    "name": "Lamina Labs",
+    "slug": "lamina-labs",
+    "former_names": [
+      "Lamina AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0f3c20c1d636f955e4a6afb30207ec372d5f1a4f.png",
+    "website": "https://laminalabs.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Lamina Labs is building infrastructure for near-real-time structured video generation.\r\n\r\nMost AI video is built for cinematic clips. Lamina is built for useful videos that teach and explain. Our first product, Simi, turns prompts, documents, and AI answers into whiteboard-style teaching videos in seconds.\r\n\r\nOur goal is to make video the default interface for AI communication.\r\n",
+    "one_liner": "Near-real-time structured video generation infrastructure for LLMs",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1773199517,
+    "tags": [
+      "Consumer",
+      "B2B",
+      "Video",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lamina-labs",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/lamina-labs.json"
   },
   {
     "id": 31424,
@@ -36504,48 +36557,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/gigacatalyst.json"
   },
   {
-    "id": 31538,
-    "name": "flowscope",
-    "slug": "flowscope",
-    "former_names": [
-      "GEO Advisor"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8294685f458783c2fab7247c8fd749f25be5691c.png",
-    "website": "https://flowscope.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "flowscope is an AI-native consulting firm that uses agents to map companies’ business processes, identify inefficiencies, and deploy AI automations to fix them; doing what consulting firms charge millions for at a fraction of the cost and timeline.",
-    "one_liner": "AI-native consulting to map and automate business processes",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1778457195,
-    "tags": [
-      "B2B",
-      "Enterprise Software",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/flowscope",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/flowscope.json"
-  },
-  {
     "id": 31539,
     "name": "Klaimee",
     "slug": "klaimee",
@@ -36630,50 +36641,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/panacea",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/panacea.json"
-  },
-  {
-    "id": 31550,
-    "name": "Playabl.ai",
-    "slug": "playablai",
-    "former_names": [
-      "Playabl.ai",
-      "NeonRain, Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/484b887f79a6e0d055be256cbacda5f8badb1317.png",
-    "website": "https://playabl.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Playabl is the TikTok for user-generated games, where anyone can play, create, publish, and monetize games.\r\n\r\n[May 31st Update] We launched 5 days ago. 1m organic plays on 3k user-generated games at playabl.ai.\r\n",
-    "one_liner": "TikTok for User-generated Games",
-    "team_size": 9,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Gaming",
-    "launched_at": 1773783180,
-    "tags": [
-      "Consumer",
-      "Gaming",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Gaming"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/playablai",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/playablai.json"
   },
   {
     "id": 31552,
