@@ -1326,7 +1326,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -3157,6 +3157,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hightouch",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/hightouch.json"
+  },
+  {
+    "id": 12862,
+    "name": "Meridian Industries",
+    "slug": "meridian-industries",
+    "former_names": [
+      "Houston",
+      "Index"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d8d3cb25a60e81613dcaac912d3f28552022bc8.png",
+    "website": "https://mora.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Index is a next-generation business intelligence (BI) tool designed for data teams and analysts to rapidly create, share, and explore interactive dashboards. By combining powerful SQL capabilities with a collaborative workspace, Index simplifies complex data visualization and enables teams to make faster, data-driven decisions.",
+    "one_liner": "Index is the modern business intelligence platform",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1599762607,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Analytics",
+      "Data Visualization",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2019",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/meridian-industries",
+    "api": "https://yc-oss.github.io/api/batches/summer-2019/meridian-industries.json"
   },
   {
     "id": 12863,
@@ -7614,7 +7660,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -15580,55 +15626,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/greentally.json"
   },
   {
-    "id": 28841,
-    "name": "Baud Labs",
-    "slug": "baud-labs",
-    "former_names": [
-      "Neuralyze",
-      "Cerelyze",
-      "Zener",
-      "Front",
-      "Zener",
-      "SuperCraft",
-      "Ponder",
-      "SuperCraft"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ea89d0878c367c79b3a58c19eb1323a648e3f38.png",
-    "website": "https://baudlabs.ai",
-    "all_locations": "New York, NY, USA",
-    "long_description": "something new and big",
-    "one_liner": "something new",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1688534176,
-    "tags": [
-      "Hard Tech",
-      "Computer Vision",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/baud-labs",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/baud-labs.json"
-  },
-  {
     "id": 28843,
     "name": "SID",
     "slug": "sid",
@@ -17950,6 +17947,49 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/upsolve-ai.json"
   },
   {
+    "id": 29183,
+    "name": "Navier AI",
+    "slug": "navier-ai",
+    "former_names": [
+      "NavierAI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/013b05510174120a0b1551eb38a764500bbd5525.png",
+    "website": "http://navier.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Navier AI is building the first Agent-Driven Engineering platform.\r\n\r\nWe believe engineers should focus on designing great products, not wrestling with simulation software.\r\n\r\nNavier AI makes it simple to run CFD simulations at scale through our web-based platform built on OpenFOAM, the industry-standard solver for CFD. Our AI agents autonomously handle the complex, time-consuming steps of simulation—from geometry cleanup and meshing to solver configuration and cloud resource management.\r\n\r\nBy automating the tedious parts of the workflow, we enable engineering teams to move faster, explore more design possibilities, and spend their time on high-value engineering decisions.",
+    "one_liner": "Agent-Driven Engineering",
+    "team_size": 7,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Aviation and Space",
+    "launched_at": 1708536461,
+    "tags": [
+      "Aerospace",
+      "AI",
+      "Automotive"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Aviation and Space"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/navier-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/navier-ai.json"
+  },
+  {
     "id": 29205,
     "name": "ego",
     "slug": "ego",
@@ -18233,7 +18273,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -18552,17 +18592,18 @@
   },
   {
     "id": 29257,
-    "name": "Tuesday Lab",
-    "slug": "tuesday-lab",
+    "name": "Tuesday Labs",
+    "slug": "tuesday-labs",
     "former_names": [
-      "Adagy Robotics"
+      "Adagy Robotics",
+      "Tuesday Lab"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/133f27769085a4d8d20b1f989ff2737c643c9935.png",
-    "website": "https://www.tuesdaylab.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bb7c6f660a8e21354833989c609687d7125a07b0.png",
+    "website": "https://www.tuesdaylabs.com",
     "all_locations": "New York, NY, USA",
     "long_description": "Tuesday makes delightful robots that tidy your home for you",
     "one_liner": "Delightful robots",
-    "team_size": 5,
+    "team_size": 7,
     "industry": "Consumer",
     "subindustry": "Consumer -> Consumer Electronics",
     "launched_at": 1706678921,
@@ -18592,8 +18633,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tuesday-lab",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/tuesday-lab.json"
+    "url": "https://www.ycombinator.com/companies/tuesday-labs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/tuesday-labs.json"
   },
   {
     "id": 29258,
@@ -19480,6 +19521,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/clarion",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/clarion.json"
+  },
+  {
+    "id": 29341,
+    "name": "14.ai",
+    "slug": "14-ai",
+    "former_names": [
+      "Markprompt"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bf27e2b5fff1afcb51538ca47d0ce384847305c2.png",
+    "website": "https://14.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "14.ai operates brands autonomously. Our software runs the core machinery of a modern company, from demand generation to fulfillment to customer relationships.\r\n\r\nThe next iconic brands will run with far fewer people, tighter software loops, and much more operational intelligence. Our system connects acquisition, operations, support, and decision-making across the brands we build into one intelligent layer.\r\n\r\nWe use 14.ai to launch and run our own brands, improve the system in production, and make brand creation faster, measurable, and more programmable with every cycle.",
+    "one_liner": "AI engine powering autonomous brands starting with gloglo.com",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1700867535,
+    "tags": [
+      "E-commerce",
+      "Customer Service",
+      "Infrastructure",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/14-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/14-ai.json"
   },
   {
     "id": 29342,
@@ -24190,12 +24276,12 @@
     "name": "Rescript",
     "slug": "rescript",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/52d14c2c72f66c6805d933bc967187d7bfd4fbd9.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0aaaece51f8461a1fcd555d3c78601c9adf54414.png",
     "website": "https://rescript.ai/",
     "all_locations": "Washington, DC, USA",
-    "long_description": "Rescript helps regulatory compliance and advocacy teams effortlessly track the constant stream of legal developments to always stay ahead and compliant. Rescript intelligently scans the web and analyzes regulatory changes and emerging issues, enabling teams to respond proactively and efficiently. Rescript helps Fortune 100 compliance officers juggling multi-state regulations, lobbyists tracking late-night amendments on the Hill, and trade association analysts scanning dozens of agencies at once. We’re profitable and backed by seed funding from YC, General Catalyst, and Floodgate. ",
-    "one_liner": "AI Regulatory Analyst for Enterprises",
-    "team_size": 3,
+    "long_description": "Rescript helps compliance and advocacy teams effortlessly research and monitor changing laws and public policy. F100 enterprises, AmLaw100 firms, and BGov Top-10 lobbying firms use Rescript to summarize the legal landscape for their issues, and then track how it changes over time. We're backed by seed funding from YC, General Catalyst, and Floodgate. ",
+    "one_liner": "AI for Legal & Public Policy Teams",
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1725406800,
@@ -24672,6 +24758,52 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/dayflow.json"
   },
   {
+    "id": 29853,
+    "name": "No Logo",
+    "slug": "no-logo",
+    "former_names": [
+      "Terra Labs",
+      "Terra"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b5b06eac03359187ea4b158a471d8bc4ecb6c046.png",
+    "website": "https://nologo.com/",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "No Logo is building the orchestration layer for creating viral consumer products. The manufacturing world is full of capable, underutilized overseas factories with the machines, tooling, and engineers to build winning products – but no way to connect them to the creators and brands with the ideas and distribution. As a result, bringing a new product to market has traditionally taken 6-12 months, tens of thousands of dollars, and a team of 20-30 people.\r\n\r\nNo Logo collapses that. Using generative AI, we take a creator's product idea, visualize it, break it into core components and manufacturing processes, and match each step to the right factory in our network – turning an idea into a shippable product in just a few weeks.",
+    "one_liner": "Turn ideas into physical products",
+    "team_size": 15,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1720474111,
+    "tags": [
+      "Consumer",
+      "Manufacturing",
+      "E-commerce",
+      "Supply Chain",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/no-logo",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/no-logo.json"
+  },
+  {
     "id": 29856,
     "name": "et al.",
     "slug": "et-al",
@@ -25106,6 +25238,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pathpilot",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/pathpilot.json"
+  },
+  {
+    "id": 29987,
+    "name": "Syntra",
+    "slug": "syntra",
+    "former_names": [
+      "Lightning Medical"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6d299272e28e28fc0eef5034541be246b698d0b.png",
+    "website": "https://www.syntra.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Syntra is building the intelligence layer for medical charts: a unified system of record that aggregates data across point solutions and enables AI agents to automate administrative work. Our agents learn each practice’s workflows, payer rules, and software stack on its own, enabling us to give every clinic in the country the operating efficiency they need to stay independent.\r\n\r\nSyntra has already processed over 1M patient encounters, supports hundreds of private practices nationwide, and processes $100Ms in medical claim collections annually.\r\n",
+    "one_liner": "Medical chart intelligence",
+    "team_size": 8,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1723733582,
+    "tags": [
+      "Big Data",
+      "Healthcare IT",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/syntra",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/syntra.json"
   },
   {
     "id": 29988,
@@ -26277,6 +26454,54 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/capy",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/capy.json"
+  },
+  {
+    "id": 30101,
+    "name": "Kilvin",
+    "slug": "kilvin",
+    "former_names": [
+      "Chorrie",
+      "BrowserBook"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/32467b13d36c9fed6c944cbb62eed3f24594bf45.png",
+    "website": "https://www.kilvin.ai",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Kilvin is an AI-native agency that builds custom software solutions for non-technical teams.\r\n\r\nWith AI, the future of software is democratized. Every team deserves tools built exactly for them, not off-the-shelf SaaS products they need to adapt to. Kilvin makes it a reality, delivering a private, secure workspace of custom applications, built around your workflows and ready in days, not months.\r\n\r\nNo engineers needed on your side. Just software that fits exactly how you work.",
+    "one_liner": "Custom software for non-technical teams.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1731609344,
+    "tags": [
+      "Developer Tools",
+      "Productivity",
+      "Data Engineering",
+      "Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/kilvin",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/kilvin.json"
   },
   {
     "id": 30102,
@@ -27961,7 +28186,7 @@
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Mastra is the easiest way to build a production AI application, built by the team that brought you Gatsby. We provide a complete set of AI primitives: workflows for complex operations, agents for autonomous decisions, RAG for knowledge integration, and evals for quality & accuracy. Mastra is open-source, modular, and built in Typescript for product developers. You can deploy Mastra on any cloud, and it gives you a straightforward syntax to solve the hardest problems building with AI: human-in-the-loop workflows, agent memory and tool selection, and output quality. ",
     "one_liner": "The Javascript framework for building AI agents, from the Gatsby devs",
-    "team_size": 8,
+    "team_size": 30,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1737136768,
@@ -29449,47 +29674,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cartpole",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/cartpole.json"
-  },
-  {
-    "id": 30506,
-    "name": "Klavis AI",
-    "slug": "klavis-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/81ca0035244a123067c03e5df2d892bbd9cb7d00.png",
-    "website": "https://www.klavis.ai/",
-    "all_locations": "",
-    "long_description": "Powering frontier AI labs with real world MCP environments and complex, long-horizon agentic tool-use data.",
-    "one_liner": "Live Environments for Training AI Agents",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1744314522,
-    "tags": [
-      "Artificial Intelligence",
-      "Reinforcement Learning",
-      "Data Science",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/klavis-ai",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/klavis-ai.json"
   },
   {
     "id": 30510,
@@ -31149,6 +31333,46 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/nozomio.json"
   },
   {
+    "id": 30701,
+    "name": "Mimos",
+    "slug": "mimos",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9f836a0c8c51e91ad3364666cbc06dd260a0a3c1.png",
+    "website": "https://www.trymimos.com/",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "Plaintiff-side law firms compete in some of the most expensive search ad markets to acquire high-intent leads, but the path from click, call, or form fill to signed retainer is still fragmented. Disconnected intake workflows, slow response times, and disconnected spend-to-case data makes it hard to know what is actually working.\r\n\r\nMimos automates their growth and intake playbook:\r\n1. Generate Qualified Leads: Our agents manage Google Ads, Local Services Ads, Google Business Profile, and other high-intent acquisition channels.\r\n2. Convert Faster: Every lead flows into a CRM built for intake, triage, follow-up, and handoff from inquiry to signed retainer.\r\n3. Close the Loop: We connect spend, lead source, intake actions, and signed-case outcomes so firms know what to scale, pause, or fix.\r\n\r\nThe result: more qualified leads, less wasted spend, and more signed cases.",
+    "one_liner": "The growth OS for plaintiff-side law firms",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1753307750,
+    "tags": [
+      "SaaS",
+      "LegalTech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mimos",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/mimos.json"
+  },
+  {
     "id": 30707,
     "name": "Phases",
     "slug": "phases",
@@ -31621,13 +31845,15 @@
   },
   {
     "id": 30739,
-    "name": "Eden",
-    "slug": "tryeden",
-    "former_names": [],
+    "name": "Quotain",
+    "slug": "quotain",
+    "former_names": [
+      "Eden"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12c60f7c48d152e63842700acbb1bf22c973bd5a.png",
-    "website": "https://edenhq.com",
+    "website": "https://quotain.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "Eden helps sales teams practice the calls they actually need to win. Reps upload or connect CRM notes, past calls, LinkedIn profiles, and company websites, then Eden creates realistic AI buyers they can speak with before the real meeting. After each practice call, Eden scores the rep and shows exactly what to improve.",
+    "long_description": "Quotain helps sales teams practice the calls they actually need to win. Reps upload or connect CRM notes, past calls, LinkedIn profiles, and company websites, then Quotain creates realistic AI buyers they can speak with before the real meeting. After each practice call, Quotain scores the rep and shows exactly what to improve.",
     "one_liner": "AI sales practice using your real deals",
     "team_size": 2,
     "industry": "B2B",
@@ -31657,8 +31883,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tryeden",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/tryeden.json"
+    "url": "https://www.ycombinator.com/companies/quotain",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/quotain.json"
   },
   {
     "id": 30744,
@@ -32185,6 +32411,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/burnt",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/burnt.json"
+  },
+  {
+    "id": 30804,
+    "name": "Luminal",
+    "slug": "luminal",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/200fe1fa3e40bd9aed419582490f17ed6cf00c37.png",
+    "website": "https://luminal.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Luminal builds an ML framework and compiler that generates GPU code.\r\nOur stack 10x's model speed while simplifying deployment and cutting idle GPU costs\r\n\r\nGithub: https://github.com/luminal-ai/luminal\r\nDiscord: https://discord.gg/APjuwHAbGy",
+    "one_liner": "Making AI run fast on any hardware.",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1752295982,
+    "tags": [
+      "AIOps",
+      "Developer Tools",
+      "Cloud Computing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": true,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/luminal",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/luminal.json"
   },
   {
     "id": 30805,
@@ -33164,46 +33432,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/compyle",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/compyle.json"
-  },
-  {
-    "id": 30928,
-    "name": "Thesis",
-    "slug": "thesis",
-    "former_names": [
-      "Thesis Labs"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/834b16b30c5de79bf9dbcd0a4819289bfa937936.png",
-    "website": "https://thesislabs.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We are automating AI research and development. Our aim is to help AI researchers uncover the next AlphaFold or build the next Transformer, faster, more systematically, and at scale. We treat discovery not as a matter of luck, but as a combinatorial search problem. Every major breakthrough in AI over the next decade will be made by Thesis.",
-    "one_liner": "Autonomous AI research",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1762476616,
-    "tags": [
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/thesis",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/thesis.json"
   },
   {
     "id": 30931,
@@ -34834,6 +35062,53 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/perfectbit.json"
   },
   {
+    "id": 31335,
+    "name": "Memoir",
+    "slug": "memoir",
+    "former_names": [
+      "Tachyon",
+      "Agentsite",
+      "Agentsight",
+      "Recon"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/db5e3e6f38c3e09bc340d492006001bcc103b8d3.png",
+    "website": "https://www.trymemoir.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Autonomous AI marketing service for software companies. We turn your real product into content and demo videos in your voice automatically. Think of it as a clone of you that's also marketing your company at the same time.\r\n\r\nMemoir is a marketer with the soul of an engineer. It reads through all your product development tooling like GitHub, Linear, Slack, etc and identifies the story behind the product. \r\n\r\nFor the social side, we monitor what's actually getting traction in your space right now. The threads going viral on dev-tools X, the posts climbing on HN, the formats your audience is engaging with this week, and we draft posts in your writing voice that ride those currents.\r\n\r\nYou review everything before it goes out. Our system is self learning, so over time, it tracks your edits and sees what posts do well, so those can be surfaced again. The output becomes indistinguishable from how you'd write and record it yourself, if you had the time and a full marketing team behind you. ",
+    "one_liner": "AI CMO for Software Companies",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1778812476,
+    "tags": [
+      "Developer Tools",
+      "Analytics",
+      "Marketing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/memoir",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/memoir.json"
+  },
+  {
     "id": 31343,
     "name": "WithAI",
     "slug": "withai",
@@ -34874,6 +35149,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/withai",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/withai.json"
+  },
+  {
+    "id": 31346,
+    "name": "Rudus",
+    "slug": "rudus",
+    "former_names": [
+      "BuildFlux"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/407f4a93871730524968180bcf20dd23fc9ce7b2.png",
+    "website": "http://rudus.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Rudus is an AI-powered takeoff and estimation platform enabling concrete contractors to win 3x more projects yearly. It automatically identifies every concrete structure like footings, walls, columns, and slabs on plans, eliminating the manual work and reducing estimation time by 70%. Concrete is the most-used material on earth after water, and demand is surging with the AI infrastructure boom.",
+    "one_liner": "AI Takeoffs for Concrete",
+    "team_size": 2,
+    "industry": "Real Estate and Construction",
+    "subindustry": "Real Estate and Construction -> Construction",
+    "launched_at": 1777879888,
+    "tags": [
+      "SaaS",
+      "Construction",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Real Estate and Construction",
+      "Construction"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rudus",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/rudus.json"
   },
   {
     "id": 31365,
@@ -35187,50 +35506,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/qomplement",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/qomplement.json"
-  },
-  {
-    "id": 31398,
-    "name": "Pavoot",
-    "slug": "pavoot",
-    "former_names": [
-      "Pavoot (formerly capturecore)"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/085aa6b975fc26df4bd975cbb1ee82cc22f514a2.png",
-    "website": "https://pavoot.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pavoot is an AI event manager for companies that run in person customer events.\r\n\r\nMore and more companies are investing in dinners, summits, and community events because relationships drive revenue. But today, running events means sourcing attendees, sending invites, hosting the event, and then manually digging through notes, emails, and spreadsheets afterward to figure out who attended, what was discussed, who is a strong lead, and who should be followed up with. Most teams either send generic \"thanks for coming\" emails or never properly capture the value created during the event.\r\n\r\nPavoot replaces this fragmented workflow with one AI system that keeps every attendee, interaction, conversation, and follow up connected in one place, making relationship driven growth scalable.\r\n\r\nGohar and Ana met while studying Computer Science at ETH Zürich. Gohar was part of Switzerland’s national chess team at the age of 16 and is a 6x Swiss chess champion. Ana won more than 20 medals in Scientific Olympiads and built internal AI systems used by hundreds of data scientists at some of the largest banks in Latin America.\r\n\r\n===\r\n\r\nBook a demo: pavoot.com",
-    "one_liner": "AI Event Manager for Customer Events",
-    "team_size": 0,
-    "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1778084784,
-    "tags": [
-      "B2B",
-      "Sales",
-      "Marketing",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pavoot",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/pavoot.json"
   },
   {
     "id": 31400,
@@ -35758,7 +36033,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9b4aa40c1f823de9d3ec9a6c4b04e1e382dc5a85.png",
     "website": "https://degla.ai",
     "all_locations": "Boston, MA, USA",
-    "long_description": "We turn natural Language into Multi-Drone Search & Rescue Mission execution. Degla is built around a simple idea: once you’ve expressed your intent, the system owns the problem.You don’t babysit drones. You don’t micromanage failures. You don’t rewrite plans. You state the goal, Degla figures out how.",
+    "long_description": "We turn natural Language into Multi-Drone Mission execution. Degla is built around a simple idea: once you’ve expressed your intent, the system owns the problem.You don’t babysit drones. You don’t micromanage failures. You don’t rewrite plans. You state the goal, Degla figures out how.",
     "one_liner": "The fully autonomous intelligence layer in the sky.",
     "team_size": 2,
     "industry": "Industrials",
@@ -36657,6 +36932,49 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/arctic-health.json"
   },
   {
+    "id": 31561,
+    "name": "Maquoketa Research",
+    "slug": "maquoketa-research",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe62156e10a2b01da6dc840828e94a31921135d9.png",
+    "website": "https://www.maquoketa.net",
+    "all_locations": "Elk Grove Village, IL, USA",
+    "long_description": "",
+    "one_liner": "The intelligence layer for drones",
+    "team_size": 5,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Defense",
+    "launched_at": 1774490913,
+    "tags": [
+      "Hard Tech",
+      "Hardware",
+      "Drones",
+      "Aerospace",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/maquoketa-research",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/maquoketa-research.json"
+  },
+  {
     "id": 31563,
     "name": "Thomas",
     "slug": "thomas",
@@ -36700,51 +37018,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/thomas",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/thomas.json"
-  },
-  {
-    "id": 31576,
-    "name": "Akkari",
-    "slug": "akkari",
-    "former_names": [
-      "Akkari",
-      "Autonomous Customer Operations"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41f2e1e21f4e3a8ba8036325a9ff27c4013efaa6.png",
-    "website": "https://akkari.io/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Akkari runs the operational work from the first sales call through expansion. It captures and stays on top of every commitment, issue, request and opportunity across customer channels (Slack, calls, meetings, email, Discord, etc.) then drives each loop to resolution - our wedge toward building the AI execution system for companies.\r\n\r\nWe are 2x YC founders who scaled OrderAhead (acquired by Square) to millions of users and BLADE to $1.2B+ in monthly trading volume.",
-    "one_liner": "Autonomous Customer Operations",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1780594806,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "B2B",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/akkari",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/akkari.json"
   },
   {
     "id": 32155,

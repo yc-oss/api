@@ -6082,7 +6082,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -7530,7 +7530,7 @@
       "India",
       "South Asia"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -9653,49 +9653,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/postscript",
     "api": "https://yc-oss.github.io/api/batches/winter-2019/postscript.json"
-  },
-  {
-    "id": 11977,
-    "name": "MedCrypt",
-    "slug": "medcrypt",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f83d9fea6258d4ade4828219ac97951e9aabc969.png",
-    "website": "https://www.medcrypt.co",
-    "all_locations": "San Diego, CA, USA",
-    "long_description": "MedCrypt has developed a security toolkit that allows medical device developers to focus on diagnosing and treating disease, while ensuring their devices comply with security regulations and best practices. And since each installation of our software communicates with our MedCrypt network, we can use machine learning-based transaction monitoring algorithms to detect anomalous behavior, thwarting attacks in real time. This centralization of transaction data allows us to facilitate \"Threat Sharing\" between device vendors, helping build a community of device vendors offering the most secure devices possible.\r\n\r\n\r\n\r\nMedCrypt protects medical devices against malicious hacking. Each installation of our software communicates with our MedCrypt network, allowing us to use machine learning-based transaction monitoring algorithms to detect anomalous behavior, thwarting attacks in real time. This centralization of transaction data allows us to facilitate \"Threat Sharing\" between device vendors, helping build a community of device vendors offering the most secure devices possible.\r\n\r\n\r\nIf someone hacks your connected thermostat, you’re uncomfortable. If someone hacks your pacemaker, you could be dead. MedCrypt is bringing modern software security technologies to an important, but underserved technology sector.\r\n",
-    "one_liner": "MedCrypt gives medical device vendors cybersecurity features in a few…",
-    "team_size": 16,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1541131379,
-    "tags": [
-      "Medical Devices",
-      "Healthcare",
-      "Cybersecurity"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2019",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/medcrypt",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/medcrypt.json"
   },
   {
     "id": 11983,
@@ -12291,7 +12248,7 @@
       "Index"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d8d3cb25a60e81613dcaac912d3f28552022bc8.png",
-    "website": "https://index.app",
+    "website": "https://mora.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Index is a next-generation business intelligence (BI) tool designed for data teams and analysts to rapidly create, share, and explore interactive dashboards. By combining powerful SQL capabilities with a collaborative workspace, Index simplifies complex data visualization and enables teams to make faster, data-driven decisions.",
     "one_liner": "Index is the modern business intelligence platform",
@@ -12300,11 +12257,11 @@
     "subindustry": "B2B -> Analytics",
     "launched_at": 1599762607,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Analytics",
-      "Data Visualization"
+      "Data Visualization",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -12734,7 +12691,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3cbf4c2fae04f0bf480c466e071e33c3b2be8a0d.png",
     "website": "https://ophelia.com",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "long_description": "Ophelia helps people quit opioids without going to rehab. We offer online doctor’s visits, withdrawal medication prescriptions, and support for long-term recovery, using a protocol 6x more effective than most rehabs (2/3rds of which don't have doctors).\r\n\r\nMore than 3 million Americans are addicted to opioids, but 80% are not getting help, due to jobs, families, and privacy concerns. Meanwhile, there's a proven treatment that increases survival rates by 600%, and it's low cost, discreet, and convenient. It's called MAT, and it looks like treatment for anxiety or depression: medication plus therapy. However, doctors need a special waiver to prescribe the medication, which fewer than 5% of them have, so it's difficult to get, and most people are buying it on the street. Sadly, drug dealers aren't doctors: every 11 minutes another American dies of an opioid overdose, now the #1 cause of death for Americans under 50.\r\n\r\nOphelia is replacing rehab with telemedicine, using proven science and a consumer-first approach. The opioid treatment market in the U.S. is $15B, and 85% of opioid addicts have insurance that pays for it. We're treating roughly 400 patients with thousands more waiting.\r\n\r\nZack started Ophelia after losing his girlfriend to an opioid overdose, who found it easier to get medication from a drug dealer than a doctor. We are raising money to help patients in waiting, grow our footprint, save lives, and earn venture-level returns for investors.",
     "one_liner": "Medication & support to beat opioid addiction from home",
     "team_size": 130,
@@ -24378,50 +24335,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2021/lightly.json"
   },
   {
-    "id": 24893,
-    "name": "Exa",
-    "slug": "exa",
-    "former_names": [
-      "Exa Search",
-      "Metaphor"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a54e5c11b9f296fb3be7980c9aaaf6ddd2f0c8c.png",
-    "website": "https://exa.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Exa is a search engine built for AIs. We enable developers to filter the internet's content with complex queries in order to bring the world's knowledge into their AI apps.",
-    "one_liner": "Web search rebuilt for LLMs",
-    "team_size": 75,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1628280127,
-    "tags": [
-      "Developer Tools",
-      "Search",
-      "AI",
-      "APIs"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2021",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/exa",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/exa.json"
-  },
-  {
     "id": 24914,
     "name": "Sully.ai",
     "slug": "sully-ai",
@@ -29270,6 +29183,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/pasito.json"
   },
   {
+    "id": 26716,
+    "name": "erad",
+    "slug": "erad",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9d0ed957088f6e7aa3ae2c4441c38d0cfd8d0fe4.png",
+    "website": "https://erad.co/",
+    "all_locations": "Riyadh, Riyadh Province, Saudi Arabia",
+    "long_description": "erad provides startups in the Middle East with non-dilutive growth capital. Connect your sales, marketing and banking data and receive an offer within 48 hours. Get access to key insights and analysis about your business.",
+    "one_liner": "Non-dilutive funding and payments in the Middle East",
+    "team_size": 5,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1653900418,
+    "tags": [
+      "Fintech",
+      "Payments",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "Saudi Arabia",
+      "Middle East and North Africa",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/erad",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/erad.json"
+  },
+  {
     "id": 26718,
     "name": "Cerrion",
     "slug": "cerrion",
@@ -32933,7 +32888,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -36948,55 +36903,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/subsets.json"
   },
   {
-    "id": 28841,
-    "name": "Baud Labs",
-    "slug": "baud-labs",
-    "former_names": [
-      "Neuralyze",
-      "Cerelyze",
-      "Zener",
-      "Front",
-      "Zener",
-      "SuperCraft",
-      "Ponder",
-      "SuperCraft"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ea89d0878c367c79b3a58c19eb1323a648e3f38.png",
-    "website": "https://baudlabs.ai",
-    "all_locations": "New York, NY, USA",
-    "long_description": "something new and big",
-    "one_liner": "something new",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1688534176,
-    "tags": [
-      "Hard Tech",
-      "Computer Vision",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/baud-labs",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/baud-labs.json"
-  },
-  {
     "id": 28842,
     "name": "Capi Money",
     "slug": "capi-money",
@@ -38627,7 +38533,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/61f4bbb4f45487fb9514316eae7b6e1b1c316a4a.png",
     "website": "https://www.silimate.com",
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "We're building AI-native core tools & agent-driven workflows for frontend chip design. \r\n\r\nToday, Silimate is helping Fortune 500s and chip unicorns create & iterate to correct, optimized designs 40x faster. Our goal is to enable autonomous spec-to-design for silicon.",
     "one_liner": "The copilot for chip designers",
     "team_size": 8,
@@ -39973,7 +39879,7 @@
     "former_names": [
       "NavierAI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5d00aa43f66ec38980b608755437974dcc244c98.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/013b05510174120a0b1551eb38a764500bbd5525.png",
     "website": "http://navier.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Navier AI is building the first Agent-Driven Engineering platform.\r\n\r\nWe believe engineers should focus on designing great products, not wrestling with simulation software.\r\n\r\nNavier AI makes it simple to run CFD simulations at scale through our web-based platform built on OpenFOAM, the industry-standard solver for CFD. Our AI agents autonomously handle the complex, time-consuming steps of simulation—from geometry cleanup and meshing to solver configuration and cloud resource management.\r\n\r\nBy automating the tedious parts of the workflow, we enable engineering teams to move faster, explore more design possibilities, and spend their time on high-value engineering decisions.",
@@ -39983,8 +39889,8 @@
     "subindustry": "Industrials -> Aviation and Space",
     "launched_at": 1708536461,
     "tags": [
-      "Artificial Intelligence",
       "Aerospace",
+      "AI",
       "Automotive"
     ],
     "tags_highlighted": [],
@@ -40349,6 +40255,50 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/duckie.json"
   },
   {
+    "id": 29241,
+    "name": "Tekton Dynamics",
+    "slug": "tekton-dynamics",
+    "former_names": [
+      "MAIHEM",
+      "Maihem"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c88f8c82a6ce22ef99621a0f594acb23ef6aa48f.png",
+    "website": "https://www.tekton-dynamics.com",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "Our mission is to empower every manufacturer, no matter their scale, to invent and build anything using intelligent robots.\r\n\r\nToday’s industrial robots are fast but \"blind\". They struggle with any task that isn't perfectly repetitive. We are building the eyes and brain (a proprietary vision system and AI model) that allow industrial robots to see, reason, and perform complex work with sub-millimeter accuracy and the adaptability of a human expert.\r\n\r\nWe are witnessing the start of a new industrial revolution: an era of advanced manufacturing powered by AI and robotics. We aim to lead this shift by putting these tools into the hands of every manufacturer, ensuring the power to invent and build at scale isn’t a privilege of the few.",
+    "one_liner": "AI control layer for welding robots",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1706234384,
+    "tags": [
+      "Robotics",
+      "Manufacturing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tekton-dynamics",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/tekton-dynamics.json"
+  },
+  {
     "id": 29245,
     "name": "Kabilah",
     "slug": "kabilah",
@@ -40568,17 +40518,18 @@
   },
   {
     "id": 29257,
-    "name": "Tuesday Lab",
-    "slug": "tuesday-lab",
+    "name": "Tuesday Labs",
+    "slug": "tuesday-labs",
     "former_names": [
-      "Adagy Robotics"
+      "Adagy Robotics",
+      "Tuesday Lab"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/133f27769085a4d8d20b1f989ff2737c643c9935.png",
-    "website": "https://www.tuesdaylab.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bb7c6f660a8e21354833989c609687d7125a07b0.png",
+    "website": "https://www.tuesdaylabs.com",
     "all_locations": "New York, NY, USA",
     "long_description": "Tuesday makes delightful robots that tidy your home for you",
     "one_liner": "Delightful robots",
-    "team_size": 5,
+    "team_size": 7,
     "industry": "Consumer",
     "subindustry": "Consumer -> Consumer Electronics",
     "launched_at": 1706678921,
@@ -40608,8 +40559,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tuesday-lab",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/tuesday-lab.json"
+    "url": "https://www.ycombinator.com/companies/tuesday-labs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/tuesday-labs.json"
   },
   {
     "id": 29259,
@@ -41620,7 +41571,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -41635,7 +41586,7 @@
     "former_names": [
       "Markprompt"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ecdeb51e1b2a618115abfd5f0aefe2b01ed8e6a.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bf27e2b5fff1afcb51538ca47d0ce384847305c2.png",
     "website": "https://14.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "14.ai operates brands autonomously. Our software runs the core machinery of a modern company, from demand generation to fulfillment to customer relationships.\r\n\r\nThe next iconic brands will run with far fewer people, tighter software loops, and much more operational intelligence. Our system connects acquisition, operations, support, and decision-making across the brands we build into one intelligent layer.\r\n\r\nWe use 14.ai to launch and run our own brands, improve the system in production, and make brand creation faster, measurable, and more programmable with every cycle.",
@@ -41645,10 +41596,10 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1700867535,
     "tags": [
-      "Artificial Intelligence",
       "E-commerce",
       "Customer Service",
       "Infrastructure",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -46190,7 +46141,7 @@
     "all_locations": "Antwerp, Flanders, Belgium",
     "long_description": "Conveo powers your qualitative research from start to finish, all in one platform. Your AI co-worker designs expert research studies, interviews real people and instantly analyzes your videos. Get robust, actionable insights of consumers, users and audiences at scale. Tell powerful stories to your stakeholders within days.",
     "one_liner": "Confident decisions in days with AI-led interviews.",
-    "team_size": 24,
+    "team_size": 75,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1718889893,
@@ -46214,7 +46165,7 @@
       "Belgium",
       "Europe"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -48137,21 +48088,28 @@
   },
   {
     "id": 29853,
-    "name": "Terra",
-    "slug": "terra-2",
+    "name": "No Logo",
+    "slug": "no-logo",
     "former_names": [
-      "Terra Labs"
+      "Terra Labs",
+      "Terra"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/60929159fb0457a72b649564d6a624da5a1ec7b5.png",
-    "website": "https://useterra.com/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b5b06eac03359187ea4b158a471d8bc4ecb6c046.png",
+    "website": "https://nologo.com/",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Terra empowers creators and brands to design, sample, and bring their own products to market. Creators keep 100% of profits above manufacturing cost — all with no upfront cost or minimums, while manufacturing, fulfillment & logistics are handled in full.",
-    "one_liner": "Design and sell products in minutes",
-    "team_size": 6,
+    "long_description": "No Logo is building the orchestration layer for creating viral consumer products. The manufacturing world is full of capable, underutilized overseas factories with the machines, tooling, and engineers to build winning products – but no way to connect them to the creators and brands with the ideas and distribution. As a result, bringing a new product to market has traditionally taken 6-12 months, tens of thousands of dollars, and a team of 20-30 people.\r\n\r\nNo Logo collapses that. Using generative AI, we take a creator's product idea, visualize it, break it into core components and manufacturing processes, and match each step to the right factory in our network – turning an idea into a shippable product in just a few weeks.",
+    "one_liner": "Turn ideas into physical products",
+    "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1720474111,
-    "tags": [],
+    "tags": [
+      "Consumer",
+      "Manufacturing",
+      "E-commerce",
+      "Supply Chain",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -48171,8 +48129,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/terra-2",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/terra-2.json"
+    "url": "https://www.ycombinator.com/companies/no-logo",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/no-logo.json"
   },
   {
     "id": 29957,
@@ -48454,16 +48412,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6d299272e28e28fc0eef5034541be246b698d0b.png",
     "website": "https://www.syntra.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Syntra is building the intelligence layer for medical charts: a unified system of record that aggregates data across point solutions and enables AI agents to automate administrative work. Our agents learn each practice’s workflows, payer rules, and software stack on its own, enabling us to give every clinic in the country the operating efficiency they need to stay independent.\r\n\r\nSyntra has already processed over 1M patient encounters, supports hundreds of private practices nationwide, and processes $100Ms in medical claim charges annually.\r\n",
+    "long_description": "Syntra is building the intelligence layer for medical charts: a unified system of record that aggregates data across point solutions and enables AI agents to automate administrative work. Our agents learn each practice’s workflows, payer rules, and software stack on its own, enabling us to give every clinic in the country the operating efficiency they need to stay independent.\r\n\r\nSyntra has already processed over 1M patient encounters, supports hundreds of private practices nationwide, and processes $100Ms in medical claim collections annually.\r\n",
     "one_liner": "Medical chart intelligence",
     "team_size": 8,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1723733582,
     "tags": [
-      "Artificial Intelligence",
       "Big Data",
-      "Healthcare IT"
+      "Healthcare IT",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49857,6 +49815,54 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/alex",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/alex.json"
+  },
+  {
+    "id": 30101,
+    "name": "Kilvin",
+    "slug": "kilvin",
+    "former_names": [
+      "Chorrie",
+      "BrowserBook"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/32467b13d36c9fed6c944cbb62eed3f24594bf45.png",
+    "website": "https://www.kilvin.ai",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Kilvin is an AI-native agency that builds custom software solutions for non-technical teams.\r\n\r\nWith AI, the future of software is democratized. Every team deserves tools built exactly for them, not off-the-shelf SaaS products they need to adapt to. Kilvin makes it a reality, delivering a private, secure workspace of custom applications, built around your workflows and ready in days, not months.\r\n\r\nNo engineers needed on your side. Just software that fits exactly how you work.",
+    "one_liner": "Custom software for non-technical teams.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1731609344,
+    "tags": [
+      "Developer Tools",
+      "Productivity",
+      "Data Engineering",
+      "Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/kilvin",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/kilvin.json"
   },
   {
     "id": 30114,
@@ -57352,7 +57358,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Socratix builds AI coworkers for fraud and risk teams so that humans don't have to spend their days drowning in alerts and spreadsheets.\r\n\r\nToday, fraud and risk teams at fintechs and banks are overwhelmed. Analysts jump between tools, manually stitch together context, and make judgment calls under pressure, often for hundreds of alerts a week. Too much of their work is slow, repetitive, and error-prone. We're here to change that. \r\n\r\nSocratix gives fraud and risk teams AI coworkers that investigate alerts in real time, replacing manual reviews with fast, explainable decisions. Socratix agents plug into existing workflows and reason across signals just like human analysts to help teams reduce fraud losses, minimize false positives, and scale operations without scaling headcount.\r\n\r\nWe've seen this problem firsthand. At DoorDash, Riya helped save $30M+ a year by building smarter fraud detection and investigation tooling, and at Unit21, she built products for analysts that made them 3X faster. We're able to build and sell enterprise-grade software. At Cruise, Satya built scalable AI systems powering petabyte-scale data, and at LinkedIn, he built enterprise products from 0 to 1 generating $50M+ in incremental revenue. Now, the two of us are teaming up to eliminate the manual toil in fraud and risk.\r\n\r\nWe're obsessed with fraud, LLMs, real-world automation, and the messy edge cases traditional ML has trouble handling. We believe that every fraud analyst should have an AI coworker - and the future of fraud will involve combining human-level reasoning with machine-speed execution. ",
     "one_liner": "AI coworkers for fraud and risk teams.",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1752778488,
@@ -58248,9 +58254,9 @@
     "launched_at": 1752295982,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
       "Developer Tools",
-      "Cloud Computing"
+      "Cloud Computing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -59370,6 +59376,43 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/multifactor.json"
   },
   {
+    "id": 30928,
+    "name": "Thesis",
+    "slug": "thesis",
+    "former_names": [
+      "Thesis Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/834b16b30c5de79bf9dbcd0a4819289bfa937936.png",
+    "website": "https://thesislabs.ai",
+    "all_locations": "",
+    "long_description": "We are automating AI research and development. Our aim is to help AI researchers uncover the next AlphaFold or build the next Transformer, faster, more systematically, and at scale. We treat discovery not as a matter of luck, but as a combinatorial search problem. Every major breakthrough in AI over the next decade will be made by Thesis.",
+    "one_liner": "Autonomous AI research",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1762476616,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/thesis",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/thesis.json"
+  },
+  {
     "id": 30932,
     "name": "Leadbay",
     "slug": "leadbay",
@@ -60360,44 +60403,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ploy",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/ploy.json"
-  },
-  {
-    "id": 31054,
-    "name": "ARC Prize Foundation",
-    "slug": "arc-prize-foundation",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6cfa6fd37255bf3036179eb9d4770661d2f35d12.png",
-    "website": "https://arcprize.org/",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "ARC Prize builds AI benchmarks that measure general intelligence. Our benchmark, ARC-AGI, has been used by OpenAI, Anthropic, Google DeepMind, and xAI.\r\n\r\nFounded by Mike Knoop and Francois Chollet, we inspire open source artificial general intelligence (AGI) research through benchmarks (the ARC-AGI series), global competitions, research grants, community, and content, we exist to guide researchers, industry, and regulators on the path to AGI.\r\n\r\nWe believe that AGI requires more than just scaling up existing AI models. It demands a fundamental shift towards systems capable of genuine fluid intelligence, the ability to adapt to novel challenges and solve problems efficiently, much like humans do.",
-    "one_liner": "AI benchmarks that measure general intelligence and inspire new ideas",
-    "team_size": 4,
-    "industry": "Industrials",
-    "subindustry": "Industrials",
-    "launched_at": 1769103962,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "Industrials"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/arc-prize-foundation",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/arc-prize-foundation.json"
   },
   {
     "id": 31063,
@@ -61636,45 +61641,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/mendral.json"
   },
   {
-    "id": 31212,
-    "name": "Constellation Space",
-    "slug": "constellation-space",
-    "former_names": [
-      "Constellation"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/507992dfdd26c7120b018a48e02b63f2dbff68b3.png",
-    "website": "https://constellation.space/",
-    "all_locations": "Seattle, WA, USA",
-    "long_description": "Constellation Space is building the autonomous infrastructure layer for the next generation of space networking. As satellite constellations rapidly scale from hundreds of nodes to tens of thousands, traditional ground-based orchestration fundamentally breaks down. ConstellationOS bridges this gap by providing zero-intervention network handoffs, predictive thermal load-balancing, and sub-second optical routing.\r\n\r\nOur founding team spent years building and operating satellite systems at SpaceX, Blue Origin, and NASA. We started Constellation to solve the problem we kept running into: reactive monitoring doesn't scale.\r\n\r\nWe are building the sub-second routing protocols and hyperscale load-balancing infrastructure that will manage the future of off-world telecommunications and compute. \r\n\r\nhello@constellation-io.com",
-    "one_liner": "AI operating system for mega-scale satellite networks. ",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1766273553,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/constellation-space",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/constellation-space.json"
-  },
-  {
     "id": 31214,
     "name": "Pocket",
     "slug": "pocket",
@@ -61907,11 +61873,11 @@
     "name": "General Legal",
     "slug": "general-legal",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d1ee22f8af278a7604adf3083f1a87027e066a9.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dbf548c3bb9f1d826b76f6c508355bcfc063f988.png",
     "website": "https://general.legal",
     "all_locations": "",
-    "long_description": "We're the AI native law firm that solves commercial legal for founders. Our firm provides fast, high-quality contract drafting, review, and negotiation for a flat fee. We save founders $100s-$1000s per contract, turn contracts in hours instead of days, and our expert attorneys provide practical, real-time guidance to get deals closed safely.",
-    "one_liner": "The AI native law firm for growth stage companies",
+    "long_description": "We're the elite AI law firm for high growth companies. Our firm provides exceptional, top-of-market legal work across commercial, corporate and employment law, at speeds and prices that put traditional law firms to shame.",
+    "one_liner": "Elite AI law firm for high growth companies",
     "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",

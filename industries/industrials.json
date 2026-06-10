@@ -10191,7 +10191,7 @@
     "former_names": [
       "NavierAI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5d00aa43f66ec38980b608755437974dcc244c98.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/013b05510174120a0b1551eb38a764500bbd5525.png",
     "website": "http://navier.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Navier AI is building the first Agent-Driven Engineering platform.\r\n\r\nWe believe engineers should focus on designing great products, not wrestling with simulation software.\r\n\r\nNavier AI makes it simple to run CFD simulations at scale through our web-based platform built on OpenFOAM, the industry-standard solver for CFD. Our AI agents autonomously handle the complex, time-consuming steps of simulation—from geometry cleanup and meshing to solver configuration and cloud resource management.\r\n\r\nBy automating the tedious parts of the workflow, we enable engineering teams to move faster, explore more design possibilities, and spend their time on high-value engineering decisions.",
@@ -10201,8 +10201,8 @@
     "subindustry": "Industrials -> Aviation and Space",
     "launched_at": 1708536461,
     "tags": [
-      "Artificial Intelligence",
       "Aerospace",
+      "AI",
       "Automotive"
     ],
     "tags_highlighted": [],
@@ -10251,7 +10251,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -14531,7 +14531,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2026",
     "status": "Active",
@@ -15930,7 +15930,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9b4aa40c1f823de9d3ec9a6c4b04e1e382dc5a85.png",
     "website": "https://degla.ai",
     "all_locations": "Boston, MA, USA",
-    "long_description": "We turn natural Language into Multi-Drone Search & Rescue Mission execution. Degla is built around a simple idea: once you’ve expressed your intent, the system owns the problem.You don’t babysit drones. You don’t micromanage failures. You don’t rewrite plans. You state the goal, Degla figures out how.",
+    "long_description": "We turn natural Language into Multi-Drone Mission execution. Degla is built around a simple idea: once you’ve expressed your intent, the system owns the problem.You don’t babysit drones. You don’t micromanage failures. You don’t rewrite plans. You state the goal, Degla figures out how.",
     "one_liner": "The fully autonomous intelligence layer in the sky.",
     "team_size": 2,
     "industry": "Industrials",
@@ -16106,20 +16106,14 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0ea954602807b3490b23ce9d1c2e1a7490777284.png",
     "website": "https://generalaviation.com",
-    "all_locations": "New York City, NY, USA",
+    "all_locations": "",
     "long_description": "Building the elements of a new ATC system.",
     "one_liner": "Fix ATC by connecting aircraft to the internet",
     "team_size": 0,
     "industry": "Industrials",
     "subindustry": "Industrials -> Aviation and Space",
     "launched_at": 1778742722,
-    "tags": [
-      "Hard Tech",
-      "Satellites",
-      "Transportation",
-      "Mobility",
-      "Aerospace"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -16131,8 +16125,7 @@
       "Aviation and Space"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -16310,7 +16303,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe62156e10a2b01da6dc840828e94a31921135d9.png",
     "website": "https://www.maquoketa.net",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Elk Grove Village, IL, USA",
     "long_description": "",
     "one_liner": "The intelligence layer for drones",
     "team_size": 5,
@@ -16318,11 +16311,11 @@
     "subindustry": "Industrials -> Defense",
     "launched_at": 1774490913,
     "tags": [
-      "Artificial Intelligence",
       "Hard Tech",
       "Hardware",
       "Drones",
-      "Aerospace"
+      "Aerospace",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -16388,5 +16381,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/guild",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/guild.json"
+  },
+  {
+    "id": 33277,
+    "name": "Hop Aero",
+    "slug": "hop-aero",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a5cab9ede70e23b0ea3f8e3b64b7a19735939c17.png",
+    "website": "https://hop-aero.com",
+    "all_locations": "Orange, CA, USA",
+    "long_description": "Hop Aero is building rocket cargo vehicles that deliver to contested environments hundreds of miles away in minutes. Our rockets fly point-to-point into the most austere locations at hypersonic speeds. Hop Aero's goal is to provide the U.S. and allies the asymmetric advantage that deters a future major conflict.",
+    "one_liner": "Rocket cargo delivery to contested environments",
+    "team_size": 6,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Defense",
+    "launched_at": 1781029529,
+    "tags": [
+      "Hard Tech",
+      "Drones",
+      "Rocketry"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hop-aero",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/hop-aero.json"
   }
 ]

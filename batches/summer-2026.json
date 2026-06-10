@@ -404,6 +404,46 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/cerenovus.json"
   },
   {
+    "id": 32527,
+    "name": "machine0",
+    "slug": "machine0",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c00ce2cbd95a0e0d81ff55b96ce241fb3462c28b.png",
+    "website": "https://machine0.io",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "machine0 is a CLI that lets you create, provision, and snapshot cloud VMs. `machine0 new my-vm` spins up a VM with dedicated CPU, RAM, and optional GPUs, plus a static IP and HTTPS endpoint. The tools agents need (e.g. Node, Python, Docker) and the agents themselves (e.g. Claude Code, Codex, OpenClaw, Hermes) come pre-installed. 99.99% VM uptime SLA across four regions.\r\n\r\nAgent workloads are moving from ephemeral to always-on. A coding agent debugging a complex issue runs 4-8 hours. OpenClaw runs 24/7. machine0 is the environment in which these agents run.",
+    "one_liner": "Persistent & powerful cloud VMs from your CLI",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1780987913,
+    "tags": [
+      "Developer Tools",
+      "Cloud Computing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/machine0",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/machine0.json"
+  },
+  {
     "id": 33018,
     "name": "Agentcard",
     "slug": "agentcard",
@@ -480,5 +520,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/care-gp",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/care-gp.json"
+  },
+  {
+    "id": 33277,
+    "name": "Hop Aero",
+    "slug": "hop-aero",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a5cab9ede70e23b0ea3f8e3b64b7a19735939c17.png",
+    "website": "https://hop-aero.com",
+    "all_locations": "Orange, CA, USA",
+    "long_description": "Hop Aero is building rocket cargo vehicles that deliver to contested environments hundreds of miles away in minutes. Our rockets fly point-to-point into the most austere locations at hypersonic speeds. Hop Aero's goal is to provide the U.S. and allies the asymmetric advantage that deters a future major conflict.",
+    "one_liner": "Rocket cargo delivery to contested environments",
+    "team_size": 6,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Defense",
+    "launched_at": 1781029529,
+    "tags": [
+      "Hard Tech",
+      "Drones",
+      "Rocketry"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hop-aero",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/hop-aero.json"
   }
 ]
