@@ -5464,53 +5464,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2022/flowdeploy.json"
   },
   {
-    "id": 25402,
-    "name": "Rownd",
-    "slug": "rownd",
-    "former_names": [
-      "Rownd",
-      "LlamaFarm"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c9dcd6e10984a18f91f153e7efc538957c387fd.png",
-    "website": "https://rownd.ai",
-    "all_locations": "Raleigh, NC, USA",
-    "long_description": "Rownd helps enterprises in regulated industries build and deploy AI applications with our open-core model, providing production-ready components for RAG systems, model fine-tuning, and prompt engineering that run entirely on-premise while maintaining complete data sovereignty. \r\n\r\nWith a powerful CLI and YAML configs, teams can create differentiated AI products without vendor lock-in or ML expertise, ensuring compliance and cost control that cloud-only solutions can't match.",
-    "one_liner": "Build powerful AI solutions. Deploy anywhere.",
-    "team_size": 7,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1643295526,
-    "tags": [
-      "Developer Tools",
-      "Open Source",
-      "AI",
-      "ML"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/rownd",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/rownd.json"
-  },
-  {
     "id": 25537,
     "name": "Cerebrium",
     "slug": "cerebrium",
@@ -9701,7 +9654,7 @@
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "PgDog is an application for sharding PostgreSQL. It understands SQL and can distribute queries automatically between databases. It's built for managed databases, like AWS RDS, and doesn't require any changes to application code or schema.\r\n\r\nIn addition to sharding, PgDog is a load balancer and pooler, so it can act as a replacement for PgBouncer, RDS Proxy, and other Postgres scaling products. It brings the simplicity and performance of HTTP load balancing to the database.\r\n\r\nBuilt from the experience of sharding Postgres at Instacart during peak growth in 2020, PgDog is the answer to the old question: does Postgres scale? It does now.",
     "one_liner": "Scaling engine for PostgreSQL",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1745009582,
@@ -12043,18 +11996,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cbbb1bb306037fdebdde3c7b1d20cb434879fb79.png",
     "website": "https://interfaze.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Interfaze is an AI model built on a new architecture that merges specialized DNN/CNN models with LLMs for developer tasks that require deterministic output and high consistency like OCR, Object detection, classification, Speech-to-text (STT) and more.\r\n\r\nInterfaze has outperforms large labs across 9 frontier benchmarks like OCRBench V2, RedCOCO and more.\r\n\r\nFull benchmarks: https://interfaze.ai/leaderboards\r\nRead paper: https://arxiv.org/abs/2602.04101",
-    "one_liner": "AI model built for deterministic developer tasks like OCR",
+    "all_locations": "",
+    "long_description": "Interfaze is an AI model built on a new architecture that merges specialized DNN/CNN models with transformers for tasks that require deterministic output and high consistency like Document intelligence, Object detection, Classification, Audio understanding and more.\r\n\r\nInterfaze outperforms large lab models like Gemini flash, Claude Sonnet and the GPT-5.4 mini series\r\n\r\nArchitecture paper: https://arxiv.org/abs/2602.04101\r\nFull open benchmarks: https://interfaze.ai/leaderboards",
+    "one_liner": "AI model built for deterministic tasks like OCR",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1774812127,
-    "tags": [
-      "Deep Learning",
-      "Developer Tools",
-      "Generative AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -12066,8 +12015,7 @@
       "Infrastructure"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -12212,7 +12160,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e14eb470879a4e71c717ad6774095600e8b0de85.png",
     "website": "https://minicor.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Minicor connects AI startups to legacy desktop apps that have no API. Reliably, quickly and at scale.\r\n\r\nDescribe a workflow and get an API endpoint. Each call triggers a self-healing desktop automation on a Windows VM. On-prem, cloud, or Citrix. Build through your coding agent via our MCP.\r\n\r\nComplete with the observability tools to manage your customer relationship: full video replay of every automation, granular logging, and slack enabled alerts.",
     "one_liner": "RPA platform for deploying AI into legacy desktop systems",
     "team_size": 7,
@@ -12231,8 +12179,6 @@
       "Infrastructure"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -12617,7 +12563,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe20b06c889ed9f1a1b7d9b0ecf522c8e057d68b.png",
     "website": "https://context.dev",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Context.dev provides AI agents and software products with realtime web context at scale through a single API layer. \r\n\r\nInstead of stitching together multiple providers for crawling, markdown extraction, brand data, images, sitemaps, style guides, enrichment, and other web data needs, teams can use Context.dev to turn websites, companies, brands, and people into clean, structured, token-optimized context. \r\n\r\nWe help developers build smarter agents, personalization workflows, sales and marketing tools, design automation, and B2B SaaS products that depend on accurate, fresh web data.",
+    "long_description": "Context.dev provides AI agents and software products with realtime web context at scale through a single API layer. \r\n\r\nWe help developers build smarter agents & products that depend on accurate, fresh web data.\r\n\r\nIf you need structured data from the internet, you need Context.dev\r\n\r\nProud to power agentic products at Mintlify, Super, Vizzy, Klarna, and 250 other companies. ",
     "one_liner": "We give AI agents realtime web context.",
     "team_size": 1,
     "industry": "B2B",
