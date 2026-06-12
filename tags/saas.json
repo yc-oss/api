@@ -32745,7 +32745,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -35069,7 +35069,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a79c1285a2d784965cac2f7d6a820ded7c6499f2.png",
     "website": "https://syncly.app/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Syncly is an AI-native social listening platform that analyzes social content from text to video. Syncly extracts content, creator, and consumer insights from audio, visuals, and on-screen context, not just captions and comments, across TikTok, Instagram, YouTube, and more. From enterprise leaders like Kimberly-Clark and Clorox to fast-growing brands like Neuro, teams use Syncly to get full visibility across every social channel and make faster, smarter decisions.",
+    "long_description": "Syncly co-founders (former founders of Sualab, a video AI startup, $200M exit) are building agentic AI to automate video marketing for the world’s largest CPG brands (Tiffany, Clorox), a market where brands spend hundreds of billions on agencies today. At $2M ARR, grown 2x in 6 months, 4x in 12 months, and 120% NDR. Backed by YC, SoftBank, and John Kim (Sendbird CEO).",
     "one_liner": "Social listening for the video era",
     "team_size": 15,
     "industry": "B2B",
@@ -46071,7 +46071,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3af9294b241ac810c538d00aea0a921d1229099f.png",
     "website": "https://mlop.ai",
     "all_locations": "London, United Kingdom",
-    "long_description": "A fully open-source, performant and actionable Weights & Biases alternative that saves you money. \r\n\r\nCheck out our story here! https://www.reddit.com/r/mlopai/comments/1kkc9jp/mlopai_an_efficient_free_and_opensource/",
+    "long_description": "A fully open-source, performant and actionable ML model training platform\r\n",
     "one_liner": "Experiment tracking for training ML models",
     "team_size": 2,
     "industry": "B2B",
@@ -47626,52 +47626,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/q2q.json"
   },
   {
-    "id": 31279,
-    "name": "Regbase",
-    "slug": "regbase",
-    "former_names": [
-      "RegBase"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd72b079b781bbd2a4eb03627c44c4901fd5da63.png",
-    "website": "https://regbase.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "The source of truth for global and local regulation",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Legal",
-    "launched_at": 1776112979,
-    "tags": [
-      "SaaS",
-      "Compliance",
-      "Legal",
-      "LegalTech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Legal"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/regbase",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/regbase.json"
-  },
-  {
     "id": 31327,
     "name": "Korso",
     "slug": "korso",
@@ -47751,49 +47705,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/stage",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/stage.json"
-  },
-  {
-    "id": 31345,
-    "name": "Replicas",
-    "slug": "replicas",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/45f1eda8aab66eabaa151ae4c6fdca3a6325a068.png",
-    "website": "https://tryreplicas.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Replicas is a background coding agent that allows you to delegate tasks to Claude Code or Codex from Slack, Linear, GitHub, and more. Each task works inside of a sandboxed virtual machine, allowing teams to heavily parallelize work and burn through tickets.\r\n\r\nReplicas agents output higher quality PRs via feedback loops - each task automatically is notified and fixes CI failures and reads all code reviews. With Environments, engineering teams can configure agents to run their entire codebase locally, verify its work, and provide preview URLs.",
-    "one_liner": "Run any coding agent harness in the cloud",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1773355936,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "SaaS",
-      "B2B",
-      "API"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/replicas",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/replicas.json"
   },
   {
     "id": 31346,
@@ -47883,48 +47794,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/saffron.json"
   },
   {
-    "id": 31364,
-    "name": "Chert",
-    "slug": "chert",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dbcfda02066d2a118790619245d76bd15d26183.png",
-    "website": "https://www.trychert.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Chert provides the infrastructure for businesses to automate conversations over iMessage. We’re already working with B2C startups, customer experience teams, and sales teams to reach end users through trusted and conversational messaging. ",
-    "one_liner": "iMessage infrastructure for trusted communication at scale",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1777155515,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "API",
-      "Customer Support",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/chert",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/chert.json"
-  },
-  {
     "id": 31395,
     "name": "Deep Interactions",
     "slug": "deep-interactions",
@@ -47967,48 +47836,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/deep-interactions",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/deep-interactions.json"
-  },
-  {
-    "id": 31404,
-    "name": "Userlens",
-    "slug": "userlens",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/044f868ff4fda0ae90471c98a5ffee29018c984b.png",
-    "website": "https://userlens.io",
-    "all_locations": "Helsinki, Finland",
-    "long_description": "Most B2B churn is preventable - most teams just see it too late. \r\n\r\nBy the time a CSM notices, the champion has already quietly disengaged, key features went unadopted, and the renewal conversation is damage control. The dangerous part? The customer might still be logging in, but they've stopped using what actually matters. \r\n\r\nUserlens catches all of that months earlier.\r\n\r\nOur AI agents monitor every user at every account the way your best CSM watches your top five strategic accounts:\r\n- feature adoption\r\n- usage trends\r\n- champion engagement\r\n- sentiment shifts in Slack and Intercom\r\n- open support issues. \r\n\r\nWhen a signal hits (churn risk, renewal, expansion opportunity), Userlens doesn't just alert you. It builds the talking points and deck on top of your team's approved templates and playbook. If you have CSMs, Userlens makes every one of them your best. If you don't have one yet, Userlens runs your book like the best CSM money could buy.",
-    "one_liner": "First ever Agentic CSMs to upsell & renew 6+ figure deals.",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1775157268,
-    "tags": [
-      "SaaS",
-      "Customer Success",
-      "Enterprise Software",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "Finland",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/userlens",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/userlens.json"
   },
   {
     "id": 31407,
@@ -48094,46 +47921,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/salesgraph.json"
   },
   {
-    "id": 31413,
-    "name": "Arga Labs",
-    "slug": "arga-labs",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e3d9a7c1d8ec13bb1565520e7fc7a6ca3a8fa82.png",
-    "website": "https://www.argalabs.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We build environments to test your app and agents against the real world.\r\n\r\nDeploy your code/agent into a sandbox that runs against replicas of external services (Stripe, Slack, Google Drive, etc.). Twins support the same APIs, MCP tool calls & SDKs as the real software, and you can spin up thousands of instances in parallel and seed them using natural language. Run real workflows, surface edge cases, and observe how your code/agents actually behave before hitting production.",
-    "one_liner": "Real-world sandboxes to test agents and agent-facing software",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1771902214,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/arga-labs",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/arga-labs.json"
-  },
-  {
     "id": 31415,
     "name": "Synphony",
     "slug": "synphony",
@@ -48176,48 +47963,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/synphony.json"
   },
   {
-    "id": 31417,
-    "name": "Pairio",
-    "slug": "pairio",
-    "former_names": [
-      "Servio AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f8a4391b575bceb2e2a9bd9d078e12f8f15d5a5.png",
-    "website": "https://pairio.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pairo is an AI mobile app to help technicians fix broken equipment in factories. Users just take a picture of the broken machine and we search thousands of pages of manuals to find the right solution.",
-    "one_liner": "AI-native industrial maintenance software",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1776390899,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Manufacturing"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pairio",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/pairio.json"
-  },
-  {
     "id": 31424,
     "name": "Lab0",
     "slug": "lab0",
@@ -48226,17 +47971,17 @@
     "website": "https://lab0.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Enterprise software implementation is broken,  and it has been for decades. \r\nEvery rollout, whether it's a traditional ERP or a new AI system, requires months of manual integration, configuration, and tuning done by armies of system integrators and forward-deployed engineers. \r\nLab0 builds agentic systems that automate this layer, compressing months-long implementations into weeks.",
-    "one_liner": "Automated forward-deployed engineers (AI FDEs)",
+    "one_liner": "AI FDEs to make your B2B SaaS Go Live in Days, not Months",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1775188246,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Enterprise",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48467,49 +48212,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/memory-store",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/memory-store.json"
-  },
-  {
-    "id": 31494,
-    "name": "RASPIRE",
-    "slug": "raspire",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0eec2630d827ef4927b95e335dc060a630450da9.png",
-    "website": "https://raspire.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "RASPIRE is a mobile threat defense platform with autonomous threat response that protects Android and iOS applications post-compilation without SDKs, code changes, or complex integrations. It adds advanced runtime security layers including anti-reverse engineering, fraud prevention, API attestation, and live threat monitoring against real-time attacks.",
-    "one_liner": "App Security at AI Speed.",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1780001140,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Cybersecurity",
-      "No-code"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/raspire",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/raspire.json"
   },
   {
     "id": 31536,

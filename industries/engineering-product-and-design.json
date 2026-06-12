@@ -23049,8 +23049,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9292b62c58dc81055b437ce647dc7c3ea10ffc5c.png",
     "website": "https://magnitude.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Magnitude is built from the ground up around open models. It matches the performance of Claude Code at 5x lower token prices. Install: npm i -g @magnitudedev/cli",
-    "one_liner": "The best coding agent for open models",
+    "long_description": "Magnitude is a coding agent that runs 90% on open models, escalating to frontier models only when the work demands it.",
+    "one_liner": "Frontier coding at half the cost",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -23058,7 +23058,7 @@
     "tags": [
       "Artificial Intelligence",
       "Developer Tools",
-      "Open Source",
+      "Enterprise Software",
       "Infrastructure",
       "AI"
     ],
@@ -24567,6 +24567,51 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/coasts.json"
   },
   {
+    "id": 31046,
+    "name": "Linzumi",
+    "slug": "linzumi",
+    "former_names": [
+      "[Placeholder] Sean Grove NewCo"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5cfae971c0f6dc34ce7d88e4c9086b3ed9aa19e2.png",
+    "website": "https://linzumi.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Linzumi is the chat your engineering team uses to direct dozens of AI coding agents.\r\n\r\nKick off work, review it, ship it. All from chat.\r\n\r\nSee every agent's work. Unblock the agents that need you from your laptop, your phone, the coffee line. Your teammates see it too.\r\n\r\nEvery decision your team makes compiles into a source of truth - what to build, why it changed, how your agents should act. That same source generates new work and verifies completed work.\r\n\r\nDeliberative alignment, repurposed from aligning LLMs to aligning companies.",
+    "one_liner": "Direct your AI engineering team from one team chat",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1760990467,
+    "tags": [
+      "Developer Tools",
+      "Chat",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/linzumi",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/linzumi.json"
+  },
+  {
     "id": 31057,
     "name": "Valgo",
     "slug": "valgo",
@@ -25361,20 +25406,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/45f1eda8aab66eabaa151ae4c6fdca3a6325a068.png",
     "website": "https://tryreplicas.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Replicas is a background coding agent that allows you to delegate tasks to Claude Code or Codex from Slack, Linear, GitHub, and more. Each task works inside of a sandboxed virtual machine, allowing teams to heavily parallelize work and burn through tickets.\r\n\r\nReplicas agents output higher quality PRs via feedback loops - each task automatically is notified and fixes CI failures and reads all code reviews. With Environments, engineering teams can configure agents to run their entire codebase locally, verify its work, and provide preview URLs.",
     "one_liner": "Run any coding agent harness in the cloud",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1773355936,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "SaaS",
-      "B2B",
-      "API"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -25386,8 +25425,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -25549,20 +25587,14 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/96347d910b359b8008029da5fa69b30000efd6d0.png",
     "website": "https://superlog.sh/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Sentry and Datadog dump a stream of alerts. Most are duplicates, most lack context, and you still have to solve the issue yourself.\r\n\r\nSuperlog is AI-native observability that's meant not to be opened. A wizard scans your repo and installs proper OpenTelemetry instrumentation, then runs daily to keep up as you ship new code. When something breaks, Superlog groups the errors into a single incident, investigates with full context (logs, traces, recent deploys, past Slack threads), and posts one mergeable PR in Slack. You merge it, ignore it, or open it as a Claude Code session and modify it.\r\n\r\nTelemetry is vendor-neutral, so you keep every log, trace, and metric we install, even if you leave.",
-    "one_liner": "Observability that installs itself and fixes the bugs it finds.",
+    "one_liner": "Make software self-healing",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1775225049,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Open Source",
-      "Monitoring",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -25574,8 +25606,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -25640,18 +25671,14 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cbb613ad9cc7cb217457623774de2039f44ba7d6.png",
     "website": "https://www.oddpool.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Oddpool is a platform that helps quant funds and trading desks harness the power of prediction markets. We make it easy to access, search, and analyze every venue from one place.\r\n\r\nAvi and Ritesh have been roommates since freshman year at Georgia Tech. Avi has a Master's in ML and saved Microsoft $6M/year by building a more accurate model on half the hardware. Ritesh has a Master's in Distributed Systems and made buy-side trading systems at Bloomberg 40% faster.\r\n\r\nWe started trading prediction markets ourselves but couldn't backtest our strategies because the tooling for this emerging asset class didn't exist. The deeper we went, the more we saw that fragmentation between prediction markets and lack of clean data was going to be a big problem.\r\n\r\nWe launched a prosumer tier and grew to several thousand dollars in MRR within months. Now we're bringing it to institutions, building tooling with the rigor and depth serious desks demand. \r\n\r\nThey're the fastest growing asset class in finance, and CFTC applications for new exchanges keep climbing. Each new venue makes the market bigger, the fragmentation worse, and the unified data layer more valuable. It doesn't exist yet. We're building it.",
     "one_liner": "Institutional infrastructure for prediction markets",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1773859660,
-    "tags": [
-      "Fintech",
-      "Finance",
-      "Analytics"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -25663,8 +25690,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -25683,7 +25709,7 @@
     "website": "https://armature.tech",
     "all_locations": "",
     "long_description": "Armature helps companies monitor, analyze, and optimize how AI agents experience their products.\r\n\r\nWhat we do today:\r\n- Automated testing: We run complex sessions against your MCPs/CLIs across all major harnesses and models to catch broken workflows before your users do.\r\n- AX analytics & benchmarking: No more black boxes. We trace agent sessions to show you exactly what the model \"thought\", what context it missed, and why it failed. We measure your AX against competitors to ensure you remain the preferred platform for agents to use.\r\n- Auto-remediation: Our MCP lets your internal coding agents plug into Armature to autonomously fix your product's AX based on our run data.\r\n\r\nOur vision for tomorrow:\r\nReaching full understanding of how agents use your product and how you can improve it is only step one. \r\nThe next step is to provide the foundational infrastructure for the Agent Experience, powering agent-native revenue, lifecycle marketing, and customer support for the next generation of software.",
-    "one_liner": "Armature helps companies monitor and optimize the agent experience.",
+    "one_liner": "Armature builds, monitors and optimizes products' agent experience.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -25720,18 +25746,14 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2383517bbad408b44b80d2d5f5912ef81073ff0.png",
     "website": "https://tester.army",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "Remote",
     "long_description": "TesterArmy is an AI agent that tests websites and mobile apps. It monitors production on a schedule and runs automatically on every GitHub Pull Request, delivering screenshots, recordings, and actionable bug reports.\r\n\r\nDescribe tests in plain English. The agent handles login flows, OAuth, and OTPs, no scripts to write or maintain. We catch the regressions and UX issues that code review misses.",
     "one_liner": "Test your app with AI, catch bugs before users do",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1773767171,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "B2B"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -25743,8 +25765,6 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -25889,18 +25909,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/de52713fe1552551dbe8aa2a5e60202c09bfc0d7.png",
     "website": "https://insforge.dev/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Model gateway, compute, deployment, database, auth, and more. Every service built for AI coding agents to operate end to end through CLI and skills.",
-    "one_liner": "The agent-native cloud infrastructure platform",
+    "one_liner": "The agent-native AWS",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1776234676,
-    "tags": [
-      "Developer Tools",
-      "Open Source",
-      "Infrastructure"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -25912,8 +25928,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,

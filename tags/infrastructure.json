@@ -1943,50 +1943,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/trellis-ai.json"
   },
   {
-    "id": 29311,
-    "name": "Engines",
-    "slug": "engines",
-    "former_names": [
-      "Parasale"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f746cab4c1fdc6ea404f1bbe73e27c8e7bf34caf.png",
-    "website": "https://engines.dev",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Engines is an AI platform engineer that containerizes codebases, debugs Terraform code, and helps you get complex monorepos setup.",
-    "one_liner": "Setup any repo with one command",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1709590695,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "DevOps",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Inactive",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/engines",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/engines.json"
-  },
-  {
     "id": 29320,
     "name": "Celest",
     "slug": "celest",
@@ -3857,8 +3813,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9292b62c58dc81055b437ce647dc7c3ea10ffc5c.png",
     "website": "https://magnitude.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Magnitude is built from the ground up around open models. It matches the performance of Claude Code at 5x lower token prices. Install: npm i -g @magnitudedev/cli",
-    "one_liner": "The best coding agent for open models",
+    "long_description": "Magnitude is a coding agent that runs 90% on open models, escalating to frontier models only when the work demands it.",
+    "one_liner": "Frontier coding at half the cost",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -3866,7 +3822,7 @@
     "tags": [
       "Artificial Intelligence",
       "Developer Tools",
-      "Open Source",
+      "Enterprise Software",
       "Infrastructure",
       "AI"
     ],
@@ -4709,46 +4665,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/perfectbit.json"
   },
   {
-    "id": 31413,
-    "name": "Arga Labs",
-    "slug": "arga-labs",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e3d9a7c1d8ec13bb1565520e7fc7a6ca3a8fa82.png",
-    "website": "https://www.argalabs.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We build environments to test your app and agents against the real world.\r\n\r\nDeploy your code/agent into a sandbox that runs against replicas of external services (Stripe, Slack, Google Drive, etc.). Twins support the same APIs, MCP tool calls & SDKs as the real software, and you can spin up thousands of instances in parallel and seed them using natural language. Run real workflows, surface edge cases, and observe how your code/agents actually behave before hitting production.",
-    "one_liner": "Real-world sandboxes to test agents and agent-facing software",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1771902214,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/arga-labs",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/arga-labs.json"
-  },
-  {
     "id": 31421,
     "name": "Lamina Labs",
     "slug": "lamina-labs",
@@ -4923,88 +4839,5 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/projectx",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/projectx.json"
-  },
-  {
-    "id": 31516,
-    "name": "Expanse",
-    "slug": "expanse",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/26ca5cac6157441dd12d0352f7d3fd4a77c4c39a.png",
-    "website": "https://expanse.sh",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Expanse unlocks wasted GPU capacity. We recover idle compute through three capabilities: resource prediction (right-sizing job submissions before they reach the scheduler), optimisation suggestions (code and config changes researchers can apply themselves), and failure prediction (catching jobs that will fail before they consume hours of GPU time).\r\n\r\nWe’re four engineers. We ran HPC and GPU training workloads at the largest quant funds and national supercomputing centres. We faced this problem first hand and the only fix was to over-provision and burn millions. Ismaeel built the first multimodal HPC resource predictor as research at EPCC (Edinburgh’s Parallel Computing Centre), which beat every published baseline. This is the tool we wish we had.",
-    "one_liner": "Unlock wasted GPU capacity.",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1777849866,
-    "tags": [
-      "AIOps",
-      "Developer Tools",
-      "Enterprise Software",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/expanse",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/expanse.json"
-  },
-  {
-    "id": 31547,
-    "name": "InsForge",
-    "slug": "insforge",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/de52713fe1552551dbe8aa2a5e60202c09bfc0d7.png",
-    "website": "https://insforge.dev/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Model gateway, compute, deployment, database, auth, and more. Every service built for AI coding agents to operate end to end through CLI and skills.",
-    "one_liner": "The agent-native cloud infrastructure platform",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1776234676,
-    "tags": [
-      "Developer Tools",
-      "Open Source",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/insforge",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/insforge.json"
   }
 ]

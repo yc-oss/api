@@ -25775,7 +25775,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -28614,7 +28614,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a79c1285a2d784965cac2f7d6a820ded7c6499f2.png",
     "website": "https://syncly.app/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Syncly is an AI-native social listening platform that analyzes social content from text to video. Syncly extracts content, creator, and consumer insights from audio, visuals, and on-screen context, not just captions and comments, across TikTok, Instagram, YouTube, and more. From enterprise leaders like Kimberly-Clark and Clorox to fast-growing brands like Neuro, teams use Syncly to get full visibility across every social channel and make faster, smarter decisions.",
+    "long_description": "Syncly co-founders (former founders of Sualab, a video AI startup, $200M exit) are building agentic AI to automate video marketing for the world’s largest CPG brands (Tiffany, Clorox), a market where brands spend hundreds of billions on agencies today. At $2M ARR, grown 2x in 6 months, 4x in 12 months, and 120% NDR. Backed by YC, SoftBank, and John Kim (Sendbird CEO).",
     "one_liner": "Social listening for the video era",
     "team_size": 15,
     "industry": "B2B",
@@ -39769,11 +39769,11 @@
     "subindustry": "Fintech",
     "launched_at": 1718839098,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "B2B",
       "Legal",
-      "Consumer Finance"
+      "Consumer Finance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47366,49 +47366,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/hedge.json"
   },
   {
-    "id": 31345,
-    "name": "Replicas",
-    "slug": "replicas",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/45f1eda8aab66eabaa151ae4c6fdca3a6325a068.png",
-    "website": "https://tryreplicas.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Replicas is a background coding agent that allows you to delegate tasks to Claude Code or Codex from Slack, Linear, GitHub, and more. Each task works inside of a sandboxed virtual machine, allowing teams to heavily parallelize work and burn through tickets.\r\n\r\nReplicas agents output higher quality PRs via feedback loops - each task automatically is notified and fixes CI failures and reads all code reviews. With Environments, engineering teams can configure agents to run their entire codebase locally, verify its work, and provide preview URLs.",
-    "one_liner": "Run any coding agent harness in the cloud",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1773355936,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "SaaS",
-      "B2B",
-      "API"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/replicas",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/replicas.json"
-  },
-  {
     "id": 31346,
     "name": "Rudus",
     "slug": "rudus",
@@ -47751,6 +47708,48 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/salesgraph.json"
   },
   {
+    "id": 31409,
+    "name": "InstaAgent",
+    "slug": "instaagent",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1efbbb9a75fe89206f180f9f9d1afb75dba57ca0.png",
+    "website": "https://instaagent.com",
+    "all_locations": "",
+    "long_description": "InstaAgent helps consumer brands scale a single campaign across hundreds of specific audiences on Meta and TikTok, each with its own content, voice, and targeting. Traction: $1M ARR in 10 months.\r\n\r\nFrom one brief, we create personalized creatives, distribute them through paid channels and niche social accounts, and use performance data to learn what works, scale winners, and improve every campaign.",
+    "one_liner": "Scale marketing campaigns across hundreds of personas",
+    "team_size": 9,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1778187883,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Social Media",
+      "Marketing",
+      "Advertising"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/instaagent",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/instaagent.json"
+  },
+  {
     "id": 31414,
     "name": "Drip",
     "slug": "drippay",
@@ -47836,48 +47835,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/callab-ai.json"
   },
   {
-    "id": 31417,
-    "name": "Pairio",
-    "slug": "pairio",
-    "former_names": [
-      "Servio AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f8a4391b575bceb2e2a9bd9d078e12f8f15d5a5.png",
-    "website": "https://pairio.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pairo is an AI mobile app to help technicians fix broken equipment in factories. Users just take a picture of the broken machine and we search thousands of pages of manuals to find the right solution.",
-    "one_liner": "AI-native industrial maintenance software",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1776390899,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Manufacturing"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pairio",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/pairio.json"
-  },
-  {
     "id": 31421,
     "name": "Lamina Labs",
     "slug": "lamina-labs",
@@ -47931,17 +47888,17 @@
     "website": "https://lab0.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Enterprise software implementation is broken,  and it has been for decades. \r\nEvery rollout, whether it's a traditional ERP or a new AI system, requires months of manual integration, configuration, and tuning done by armies of system integrators and forward-deployed engineers. \r\nLab0 builds agentic systems that automate this layer, compressing months-long implementations into weeks.",
-    "one_liner": "Automated forward-deployed engineers (AI FDEs)",
+    "one_liner": "AI FDEs to make your B2B SaaS Go Live in Days, not Months",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1775188246,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Enterprise",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47965,52 +47922,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lab0",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/lab0.json"
-  },
-  {
-    "id": 31426,
-    "name": "Gojiberry AI",
-    "slug": "gojiberry-ai",
-    "former_names": [
-      "GojiberryAI",
-      "Superfruits Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4a81291bc11ae471a475ddf6ccf1d67360474a8c.png",
-    "website": "https://www.gojiberry.ai",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Gojiberry is building the AI GTM team for B2B companies.\r\n\r\nWe start with outbound: Gojiberry finds buyers showing intent, enriches them, reaches out, follows up, handles replies, and books qualified meetings.\r\n\r\nCompanies use Gojiberry to replace the old way of doing outbound: buying tools, hiring SDRs & agencies, testing lists, writing messages, and guessing what works. Gojiberry turns it into one AI team that finds buyers and books meetings.\r\n\r\nEvery campaign makes Gojiberry smarter. It learns which buyers convert, which signals matter, which messages get replies, and which actions create revenue. Over time, Gojiberry uses what works across similar companies and industries to help every new customer get better results from day one.\r\n\r\nLong term, Gojiberry will become the system that finds every revenue opportunity and acts on it: outbound leads, website visitors, inbound leads, old CRM leads, replies, meetings, CRM updates, new campaign ideas, and account expansion.\r\n\r\nThe goal is to make every B2B company able to run a high-performing GTM team without hiring one.\r\n\r\nWe grew from $0 to $2.5M ARR in 10 months, are growing 30% MoM, profitable, and used by 2,000+ customers.\r\n\r\nCustomers get 2-5x more positive replies than traditional outbound.",
-    "one_liner": "AI GTM agents for B2B teams",
-    "team_size": 7,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1774430148,
-    "tags": [
-      "B2B",
-      "Sales",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/gojiberry-ai",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/gojiberry-ai.json"
   },
   {
     "id": 31437,
@@ -48099,47 +48010,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/mount.json"
   },
   {
-    "id": 31454,
-    "name": "Datost",
-    "slug": "datost",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd7847f34ece1088e5a00b8771f63e4d68d53fb8.png",
-    "website": "https://www.datost.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Datost watches your docs, Slack, databases, data lakes, and codebase, surfacing issues, answering questions, and flagging anomalies before anyone asks. Query, debug, and analyze right where your team works",
-    "one_liner": "The proactive AI data analyst",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1772488469,
-    "tags": [
-      "B2B",
-      "Analytics",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/datost",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/datost.json"
-  },
-  {
     "id": 31455,
     "name": "tday.com",
     "slug": "tdaycom",
@@ -48147,7 +48017,7 @@
       "markup.one",
       "tday"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5d55f04b867f224963d154fc3f6a488441a8d57a.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/418587c4dad97134682672137c5336138c5f8404.png",
     "website": "https://tday.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "tday automatically turns a software company's product into on-brand marketing creative. Connect your product and git repo, and tday generates polished launch videos, social graphics, and ads, the content a team would normally spend hours making in a design tool or pay a freelancer for. tday then publishes the creative and measures how it performs across your social and ad channels, closing the loop from what you ship to what you post.",
@@ -48184,52 +48054,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tdaycom",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/tdaycom.json"
-  },
-  {
-    "id": 31481,
-    "name": "Saudara AI",
-    "slug": "saudara-ai",
-    "former_names": [
-      "Saudara AI Inc.",
-      "Saudara AI",
-      "Saudara"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1c4216679eb008bbc4571315894d674d507a751f.png",
-    "website": "https://saudara.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Saudara AI is an AI broker connecting American brands with vetted overseas factories.\r\n\r\nUS brands import $3T in goods a year and lose billions to ghost suppliers, hidden fees, and blown deadlines. The factories that actually deliver sit behind decades-old relationships outsiders can't break into. We were born into them.\r\n\r\nEvery deal runs through a real human broker, supercharged by AI that handles sourcing, quoting, QC, and logistics. 10x faster, at a fraction of the cost.\r\n\r\nSourcing is the largest broken market in global trade. We're the on-ramp.",
-    "one_liner": "AI Native Sourcing Broker For Overseas Manufacturing",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1774887463,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Manufacturing",
-      "Supply Chain",
-      "Procurement"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/saudara-ai",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/saudara-ai.json"
   },
   {
     "id": 31482,
@@ -48354,135 +48178,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/foaster.json"
   },
   {
-    "id": 31491,
-    "name": "TesterArmy",
-    "slug": "testerarmy",
-    "former_names": [
-      "Tester Army"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2383517bbad408b44b80d2d5f5912ef81073ff0.png",
-    "website": "https://tester.army",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "TesterArmy is an AI agent that tests websites and mobile apps. It monitors production on a schedule and runs automatically on every GitHub Pull Request, delivering screenshots, recordings, and actionable bug reports.\r\n\r\nDescribe tests in plain English. The agent handles login flows, OAuth, and OTPs, no scripts to write or maintain. We catch the regressions and UX issues that code review misses.",
-    "one_liner": "Test your app with AI, catch bugs before users do",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1773767171,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/testerarmy",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/testerarmy.json"
-  },
-  {
-    "id": 31494,
-    "name": "RASPIRE",
-    "slug": "raspire",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0eec2630d827ef4927b95e335dc060a630450da9.png",
-    "website": "https://raspire.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "RASPIRE is a mobile threat defense platform with autonomous threat response that protects Android and iOS applications post-compilation without SDKs, code changes, or complex integrations. It adds advanced runtime security layers including anti-reverse engineering, fraud prevention, API attestation, and live threat monitoring against real-time attacks.",
-    "one_liner": "App Security at AI Speed.",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1780001140,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Cybersecurity",
-      "No-code"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/raspire",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/raspire.json"
-  },
-  {
-    "id": 31510,
-    "name": "Auxos",
-    "slug": "auxos",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e35e07f61bc16ff060889081c97809a3aad66df5.png",
-    "website": "https://www.useauxos.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Auxos builds AI customer twins for marketing, product, and research teams to test their hypotheses at scale. We work with companies to create 1:1 replicas of their customers by sourcing and interviewing real people in their ICP, allowing us to accurately model how they behave and make decisions. \r\n\r\nCurrently, market research is too slow and expensive to use on anything but the biggest decisions. Surveys and panels cost a fortune and it takes weeks to recruit, moderate, and gather insights.   \r\n\r\nAuxos provides a 24/7 available customer panel that can give population-scale insights in minutes. The day-to-day decisions surrounding product, pricing, and positioning can now be validated with the same rigor that used to be reserved for the big ones. \r\n",
-    "one_liner": "Simulations of real people for market research ",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1778707730,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Marketing",
-      "Market Research"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/auxos",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/auxos.json"
-  },
-  {
     "id": 31512,
     "name": "Pentagon",
     "slug": "pentagon",
@@ -48522,48 +48217,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pentagon",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/pentagon.json"
-  },
-  {
-    "id": 31538,
-    "name": "flowscope",
-    "slug": "flowscope",
-    "former_names": [
-      "GEO Advisor"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8294685f458783c2fab7247c8fd749f25be5691c.png",
-    "website": "https://flowscope.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "flowscope is an AI-native consulting firm that deploys agents to map, optimize, and automate companies’ processes end to end without human intervention; doing what consulting firms charge millions for at a fraction of the cost and time.",
-    "one_liner": "AI-native consulting to map and automate business processes",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1778457195,
-    "tags": [
-      "B2B",
-      "Enterprise Software",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/flowscope",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/flowscope.json"
   },
   {
     "id": 31544,
@@ -48650,6 +48303,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/modern",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/modern.json"
+  },
+  {
+    "id": 31549,
+    "name": "Enjamb Labs",
+    "slug": "enjamb-labs",
+    "former_names": [
+      "Enjamb Labs Inc",
+      "Enjamb"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/72c48d60b66c3872f55fda2ba7dbab9415312dd4.png",
+    "website": "https://www.enjamb.ai",
+    "all_locations": "",
+    "long_description": "Enjamb is Claude Code for drug development. Describe what you need, and agents execute it across the entire program, from discovery to FDA approval. Enjamb synthesizes the clinical evidence, designs the trials, runs the data analysis and statistical programming, and drafts and audits the regulatory submissions, all in one auditable workspace.",
+    "one_liner": "Claude Code for Drug Discovery",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1779929226,
+    "tags": [
+      "AI-powered Drug Discovery",
+      "B2B",
+      "Biotech",
+      "Healthcare"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/enjamb-labs",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/enjamb-labs.json"
   },
   {
     "id": 31563,
@@ -48786,12 +48482,12 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cc11fde647ded2f52bca6ff53c7ad045f290e1ee.png",
     "website": "https://www.tryglen.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "One org-wide memory store your agents read and write to. What one agent learns is learned by all. Glen turns clusters of these memories into skills any agent can use, so your intern writes copy like your head of growth on day one.",
-    "one_liner": "Shared agent memory that becomes shared expertise.",
+    "long_description": "What your best people know, every agent in your org can use. Glen picks it up as the work happens, nothing to write down, nothing to maintain, and it never walks out the door. A day-one hire's agent runs on the same judgment as your most senior person's.",
+    "one_liner": "Shared learning for AI Agents",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
-    "launched_at": 1778809219,
+    "launched_at": 1781114514,
     "tags": [
       "Artificial Intelligence",
       "Generative AI",

@@ -105,7 +105,8 @@
     "tags": [
       "Hardware",
       "IoT",
-      "Telecommunications"
+      "Telecommunications",
+      "Defense"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2105,7 +2106,9 @@
     "industry": "Industrials",
     "subindustry": "Industrials -> Defense",
     "launched_at": 1461865813,
-    "tags": [],
+    "tags": [
+      "Defense"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -2754,7 +2757,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -3909,7 +3912,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -9018,6 +9021,52 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2022/pina-earth.json"
   },
   {
+    "id": 26138,
+    "name": "KorrAI",
+    "slug": "korrai",
+    "former_names": [
+      "KorrAI Technologies Ltd."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/33961621d8602321f304fcd55e4abfa80d7569d4.png",
+    "website": "https://www.korrai.com",
+    "all_locations": "Toronto, ON, Canada",
+    "long_description": "We exist for the moments when the data is overwhelming, the timeline is unforgiving, and the decision can't wait, giving every stakeholder the clarity and confidence to act on high-stakes decisions across critical infrastructure, mining, and commercial insurance.\r\n\r\nTRAIL is the AI workspace for site risk assessments, investment decisions, hazard identification, and continuous monitoring across the full project lifecycle. It unifies geospatial data, geotechnical studies, proprietary satellite data pipelines, catastrophe model outputs, and engineering documentation into a single, traceable AI workspace. \r\n\r\nSo every analysis output, failure mode, and report is grounded in defense.\r\n\r\nBuilt for mining operations, risk engineers, underwriters, geotechnical consultants, and asset owners who can't afford to miss early signals.\r\n\r\nWe have worked with Zurich North America, Amazon Web Services, Stantec, TransAlta, Ramboll, Agnico Eagle, Hecla, and Eldorado Gold Corporation, and many more- across mining, data centers, energy infrastructure, and commercial property insurance.",
+    "one_liner": "Traceable AI for billion-dollar infrastructure.",
+    "team_size": 24,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Energy",
+    "launched_at": 1643659113,
+    "tags": [
+      "Artificial Intelligence",
+      "Construction",
+      "Insurance",
+      "Mining"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Energy"
+    ],
+    "regions": [
+      "Canada",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/korrai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/korrai.json"
+  },
+  {
     "id": 26139,
     "name": "Revoy",
     "slug": "revoy",
@@ -11812,13 +11861,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bbe9d08b52107f4ba06be791e9808aa96113cd5f.png",
     "website": "https://www.consus.io",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Consus is your single source of truth for government specifications, standards, or handbooks. We verify the active revision of documents, notify you when documents are updated, and make it easy to extract the relevant information. Win new business or execute existing contracts faster with Consus.",
-    "one_liner": "Your single source of truth for government documents",
+    "long_description": "Consus is an API that routes all AI requests to secure and compliant infrastructure. Aerospace and defense companies use the API to access the latest models without worrying about paperwork or infrastructure engineering. Consus manages the compliance and backend work so you can plug AI into an application and get to work. ",
+    "one_liner": "The fastest and cheapest way to use AI with ITAR or CUI data. ",
     "team_size": 1,
     "industry": "Industrials",
     "subindustry": "Industrials -> Aviation and Space",
     "launched_at": 1732222348,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Aerospace",
+      "Defense"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -13949,12 +14003,12 @@
       "NOX METALS",
       "NOX METAL"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/466d7bdd89d6183b6dae5d76321288d79743d24f.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f724f217879daf89f5fc2ea9279d9cf723f6300.png",
     "website": "https://noxmetals.co/",
     "all_locations": "Detroit, MI, USA",
     "long_description": "Nox Metals is an AI-powered metals supplier powering modern American manufacturing at scale. We are building automated factories that turn raw metal into production-ready material faster, cheaper, and more reliably than legacy service centers.",
     "one_liner": "Supplying America's Industrial Base",
-    "team_size": 13,
+    "team_size": 22,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1751751667,
@@ -15040,10 +15094,11 @@
     "subindustry": "Industrials -> Defense",
     "launched_at": 1772383071,
     "tags": [
-      "Artificial Intelligence",
       "Hard Tech",
       "Hardware",
-      "GovTech"
+      "GovTech",
+      "Defense",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -15457,7 +15512,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d93a4cb68bc153f52d09c71b45093cc62ba91a62.png",
     "website": "https://dispatch.space/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Dispatch is building refurbishable reentry vehicles that host and return payloads for companies making ultra-high-value materials (semiconductors, biotech, and pharma) that can only be manufactured in space. Right now, these companies have no practical way to manufacture and get their products back to Earth. We solve this bottleneck.\r\n\r\nWe just returned from the Mojave Desert testing our first full-scale reentry heat shield designed to protect the satellite as it returns from space at Mach 20+, built in an apartment for 100x cheaper than competitors. To test, we held it behind a rocket engine to simulate the forces of atmospheric reentry. IT WORKED! Watch here - https://youtu.be/dhlQmnIoptg\r\n\r\nTo scale, we anchor permanent infrastructure in orbit - building high power Autonomous Space Stations designed from day one for \"lights-out\" manufacturing serviced by the reentry vehicles.",
     "one_liner": "Satellites for manufacturing in space",
     "team_size": 2,
@@ -15476,8 +15531,7 @@
       "Aviation and Space"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -15770,20 +15824,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e3bc19e9055d8345250c7f097d06dc514f21674.png",
     "website": "https://madrone.cool/",
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "",
     "long_description": "Madrone builds cooling systems for data centers. In Texas, where most new sites are, Madrone can cool using 30% less power and water, thanks to novel dew-point cooling technology. ",
     "one_liner": "Maximizing compute via hyper-efficient cooling",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Energy",
     "launched_at": 1778520435,
-    "tags": [
-      "Artificial Intelligence",
-      "Hardware",
-      "Climate",
-      "Advanced Materials",
-      "Industrial"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -15795,8 +15843,7 @@
       "Energy"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -15813,19 +15860,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/31e129a3b1f344b0b01705a950c37b68af60a957.png",
     "website": "http://shotwell.ai/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Shotwell provides dense annotations and quality checks for robotics training data. Data quality is the biggest lever in improving robot model performance, and we have developed models that can automatically produce these annotations and operate at a fraction of the cost and instant turnaround time.",
     "one_liner": "Automated Scale AI for robotics data",
     "team_size": 4,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1780340127,
-    "tags": [
-      "Robotics",
-      "Data Labeling",
-      "Data Visualization",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -15837,8 +15879,7 @@
       "Manufacturing and Robotics"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -15897,19 +15938,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f7df040bbed273d21312d9b7e349583e363f5e4.png",
     "website": "https://www.prototyping.io",
-    "all_locations": "Sunnyvale, CA, USA",
+    "all_locations": "",
     "long_description": "Prototyping.io turns CAD designs into real mechanical parts through an AI-driven manufacturing system. We analyze designs for manufacturability and automate production workflows to deliver high-quality parts faster and at lower cost.\r\n",
     "one_liner": "Autonomous manufacturing for mechanical parts",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1774425608,
-    "tags": [
-      "Hardware",
-      "Manufacturing",
-      "Automation",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -15921,8 +15957,7 @@
       "Manufacturing and Robotics"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -16027,20 +16062,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3a7200a010691b9273e88c68a977b6ab42f7e674.png",
     "website": "https://www.aseonlabs.com/",
-    "all_locations": "Redwood City, CA, USA",
+    "all_locations": "",
     "long_description": "Aseon Labs builds robotic pitstops for self-driving cars. A depot in a box for charging, cleaning & inspecting autonomous fleets directly in operating zones.\r\n\r\nAutonomous driving is working. The operational layer around it is not. Today, fleets lose significant time and money traveling to centralized depots for charging, cleaning and servicing, creating dead miles, lower uptime and operational bottlenecks that limit fleet scale.\r\n\r\nAseon Pods are modular, rapidly deployable robotic pitstops that keep autonomous fleets operating near demand. By bringing charging, cleaning and inspection directly into operating zones, we help fleet operators increase uptime, reduce operational overhead and scale markets more efficiently without relying on large centralized depots.\r\n\r\nWe’re second-time founders and mobility infrastructure operators. Previously, we built and scaled Pushme to 5,000 stations across 40 cities before its acquisition by TIER–Dott ($600M raised). Aseon Labs is backed by Y Combinator and headquartered in Redwood City.",
     "one_liner": "Robotic pitstops for self-driving cars",
     "team_size": 5,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1778523485,
-    "tags": [
-      "Artificial Intelligence",
-      "Hardware",
-      "Machine Learning",
-      "Robotics",
-      "Self-Driving Vehicles"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -16052,8 +16081,6 @@
       "Manufacturing and Robotics"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -16197,17 +16224,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/16f6645d8ad61e91c9ab2ac0538b531424aa4cb7.png",
     "website": "https://apolloatomics.com/",
-    "all_locations": "Cambridge, MA, USA",
+    "all_locations": "",
     "long_description": "",
     "one_liner": "We make the most compact nuclear machines.",
     "team_size": null,
     "industry": "Industrials",
     "subindustry": "Industrials -> Energy",
     "launched_at": 1779451083,
-    "tags": [
-      "Small Modular Reactors",
-      "Manufacturing"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -16219,8 +16243,7 @@
       "Energy"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -16273,20 +16296,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9516f2cea09963c1b9ba307c35589a5d194c61c0.png",
     "website": "https://arlo1.com/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Arlo Industries is building a network of sensors that precisely tracks stealthy drones and aerial threats better than radars.\r\n\r\nThis capability does not exist yet because traditional radars are built on past war doctrines designed to protect single, centralised assets. Modern warfare, however, demands wide-area, persistent coverage that is both passive and economically scalable. By utilising a mesh architecture, Arlo Industries unlocks unprecedented asymmetric economics. The network is fundamentally built to scale: the cost of adding sensors grows linearly, but the tracking accuracy increases exponentially, delivering highly resilient, persistent coverage for a fraction of the cost of legacy systems.\r\n\r\nDeo founded Arlo Industries after spending over 6 years in the Israeli defence ecosystem, where he lived through multiple conflicts and experienced the Iron Dome and other systems in action against ICBMs and the infamous Shahed drones. Learning exactly how these defence systems could be improved after a Shahed exploded close to his apartment, he built Arlo Industries around the core philosophy that conflict should be concise & precise.\r\n\r\nThe people behind Arlo1 includes a PhD in drones and autonomy and military experts.\r\n\r\nArlo Industries has actively showcased this technology directly to Ukrainian militaries on the frontlines, as well as to operators across Europe and the USA.",
     "one_liner": "Passive aerial sensing mesh to track drones and missiles",
     "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials -> Defense",
     "launched_at": 1778901342,
-    "tags": [
-      "Hard Tech",
-      "Drones",
-      "Security",
-      "Radar",
-      "Aerospace"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -16298,8 +16315,6 @@
       "Defense"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -16318,17 +16333,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/30c1f1fb7356289878fa2341c0a20700f178fbcf.png",
     "website": "https://intelligence-factory.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Robotics is the new paradigm. With hardware converging, Intelligence is the biggest bottleneck. Our world was built for humans and we're giving robots the ability to reason and act like us. \r\n\r\nThe way we learn any task - by seeing, doing, and feeling - is how we train robots. We're building general intelligence that works on any robot and fits seamlessly within our world.",
     "one_liner": "Human Intelligence for Robots",
     "team_size": 5,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1777499618,
-    "tags": [
-      "Artificial Intelligence",
-      "Robotics"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -16340,8 +16352,7 @@
       "Manufacturing and Robotics"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -16358,20 +16369,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe62156e10a2b01da6dc840828e94a31921135d9.png",
     "website": "https://www.maquoketa.net",
-    "all_locations": "Elk Grove Village, IL, USA",
+    "all_locations": "",
     "long_description": "",
     "one_liner": "The intelligence layer for drones",
     "team_size": 5,
     "industry": "Industrials",
     "subindustry": "Industrials -> Defense",
     "launched_at": 1774490913,
-    "tags": [
-      "Hard Tech",
-      "Hardware",
-      "Drones",
-      "Aerospace",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -16383,8 +16388,7 @@
       "Defense"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
