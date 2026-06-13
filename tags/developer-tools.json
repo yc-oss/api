@@ -17962,14 +17962,14 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Manaflow is an open-source applied AI lab building AI dev tools. We're the creators of cmux, the open source terminal for coding agents.",
     "one_liner": "Building the open-source terminal for coding agents",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1715992295,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20836,6 +20836,48 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/morphik.json"
   },
   {
+    "id": 30492,
+    "name": "Prism",
+    "slug": "prism",
+    "former_names": [
+      "Prism AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/973718be82b1053c971c2efe1c5263b785ae3711.png",
+    "website": "https://herm.run",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Prism is the easiest way to build and deploy a production AI Agent. \r\n\r\nStop harness-engineering. Bring your system prompt, tools, MCP, and skills — get infrastructure, orchestration, memory, self learning, and more out of the box.",
+    "one_liner": "Deploy AI Agents with a Single API Call",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1745261196,
+    "tags": [
+      "Developer Tools",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/prism",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/prism.json"
+  },
+  {
     "id": 30497,
     "name": "Human Behavior",
     "slug": "human-behavior",
@@ -22434,11 +22476,11 @@
     "name": "Lemma",
     "slug": "uselemma",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c12ccaaa4d43530a4f13abb208362f187f33e86d.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/335dca5772b36d447d2e1c9b0f730539813d1846.png",
     "website": "https://www.uselemma.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Lemma catches the silent, semantic failures your observability tools miss, where your AI agent looks like it worked but didn’t. We scan every trace to surface issues before users complain, identify root causes, and help you fix them without manual digging, so your agents improve over time.",
-    "one_liner": "Reliability platform for AI agents",
+    "one_liner": "Production Monitoring for AI agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -22864,228 +22906,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/corelayer.json"
   },
   {
-    "id": 31246,
-    "name": "Inth",
-    "slug": "inth",
-    "former_names": [
-      "Consent.io",
-      "Consent"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aca00ac880b2d3d17acae2b1679332dc8000c5f7.png",
-    "website": "https://inth.com",
-    "all_locations": "London, England, United Kingdom",
-    "long_description": "Inth makes privacy compliance live where the risk actually is: the codebase and runtime. Companies still rely on dashboards, questionnaires, and policy docs to prove compliance, but consent breaks in code, deletion breaks in code, and vendors, logs, AI systems, and agent-written changes all move user data in code. Inth sits in the repo, detects user-data privacy risk, maps it to files and owners, and generates the evidence regulators and enterprise buyers ask for. Its wedge is c15t, an open-source consent SDK with 2.6M npm downloads and adoption from teams like Zed, Infisical, and Expo. Inth is making every codebase compliant by default.",
-    "one_liner": "Privacy compliance, enforced in code",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1776095941,
-    "tags": [
-      "Developer Tools",
-      "Compliance",
-      "Open Source",
-      "Web Development"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United Kingdom",
-      "Europe",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": true,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/inth",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/inth.json"
-  },
-  {
-    "id": 31329,
-    "name": "primitive",
-    "slug": "primitive",
-    "former_names": [
-      "MyMX"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/68d79963abcea30afcb5624fb54adb42544a50ed.png",
-    "website": "https://primitive.dev",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Building the communication infrastructure needed for fully autonomous agents",
-    "one_liner": "Communication for agents",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1773121787,
-    "tags": [
-      "Developer Tools",
-      "Automation",
-      "Email",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/primitive",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/primitive.json"
-  },
-  {
-    "id": 31332,
-    "name": "Stage",
-    "slug": "stage",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac5a6cce941f973ff80cb4496e195f4010e5c21b.png",
-    "website": "https://www.stagereview.app/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Stage is a code review platform designed to help engineers better understand and review AI generated code.\r\n\r\nEngineering teams are shipping faster than ever with coding agents, but now they’re drowning in an endless backlog of PRs to review. Stage reorganizes the code review process around how engineers naturally read changes, enabling your team to review (and merge!) PRs 5x faster than GitHub.",
-    "one_liner": "Code review platform for humans and agents",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1774297910,
-    "tags": [
-      "Developer Tools",
-      "SaaS"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/stage",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/stage.json"
-  },
-  {
-    "id": 31335,
-    "name": "Memoir",
-    "slug": "memoir",
-    "former_names": [
-      "Tachyon",
-      "Agentsite",
-      "Agentsight",
-      "Recon"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/db5e3e6f38c3e09bc340d492006001bcc103b8d3.png",
-    "website": "https://www.trymemoir.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Memoir turns what your team ships into market motion. It connects to GitHub, Linear, Slack, customer feedback, and product analytics to understand what changed, why it matters, who should hear about it, and how to tell the story.\r\n\r\nFrom there, Memoir creates multi-touchpoint marketing across social, blogs, changelogs, demo videos, customer updates, and launch content, all in your company’s voice. It also watches what is getting traction in your market, learns from your edits and campaign performance, and gets better every time you ship.\r\n\r\nIt is not a generic AI content tool. Memoir is a marketer with the soul of an engineer: it starts from the product source of truth and turns product velocity into market velocity.",
-    "one_liner": "One-click campaigns from everything your team ships",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1778812476,
-    "tags": [
-      "Developer Tools",
-      "Analytics",
-      "Marketing",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/memoir",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/memoir.json"
-  },
-  {
-    "id": 31360,
-    "name": "Lightsprint",
-    "slug": "lightsprint",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3feaf8d76278baf8b9fbde6cc73fdda3ea2a5b18.png",
-    "website": "https://lightsprint.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lightsprint is a collaborative platform for software teams to plan visually, preview live and ship with an army of cloud agents. Your whole team, including non-engineers, can now ship end to end reliably.\r\n\r\nThe company is founded by Ben Ong, an AI investor who previously scaled AI products at SEA Group (NYSE: SE) and Temasek ($300B fund), Benedict Chan who was VP Engineering at Chainlink and CTO at BitGo (NYSE:BTGO), and Heng Hong Lee who built Facebook Messenger in 2013 and was Director of Engineering at Fazz (YC S17).",
-    "one_liner": "Collaborative product development platform",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1776537521,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Generative AI",
-      "B2B",
-      "Collaboration"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/lightsprint",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/lightsprint.json"
-  },
-  {
     "id": 31368,
     "name": "Zenbu",
     "slug": "zenbu-2",
@@ -23129,121 +22949,35 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/zenbu-2.json"
   },
   {
-    "id": 31395,
-    "name": "Deep Interactions",
-    "slug": "deep-interactions",
+    "id": 31494,
+    "name": "RASPIRE",
+    "slug": "raspire",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2150b2f6e149aef04ef65b7381c3bd0b77037221.png",
-    "website": "https://deepinteractions.ai/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0eec2630d827ef4927b95e335dc060a630450da9.png",
+    "website": "https://raspire.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Deep Interactions is a humans-in-the-loop AI builder. We don't leave you with a spaghetti mess of a code. We bring product intelligence and power the context layer that enables your team to build in sync - saving companies tokens, time, and nerves. You give us a problem and we ship a working AI product in the same afternoon.\r\n",
-    "one_liner": "Collaborative AI app builder for teams",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1778970590,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Generative AI",
-      "SaaS",
-      "Team Collaboration"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/deep-interactions",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/deep-interactions.json"
-  },
-  {
-    "id": 31458,
-    "name": "Ara",
-    "slug": "ara",
-    "former_names": [
-      "EasyClaw"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c65b718e0ad0cd66c030e2903aa681d9bd8aa94.png",
-    "website": "https://ara.so",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ara is the self-driving IDE for software teams. It watches work in progress, suggests the next step, and executes tasks through non-invasive computer use, background agents, memory, and reusable skills. Ara turns coding into a closed loop: suggest, act, learn, improve.",
-    "one_liner": "Ara is the self-driving IDE for software teams.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1775160352,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Productivity",
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ara",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/ara.json"
-  },
-  {
-    "id": 31518,
-    "name": "Runtime",
-    "slug": "runtime",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0fb7d11f60217eaded2ae0e96dbee3bf9ebcd68c.png",
-    "website": "https://www.runtm.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Runtime (runtm.com) gives engineering teams control and visibility to enable anyone in their org to use coding agents securely.\r\n\r\nEng leaders rolling out coding agents have no way to see what's happening, set boundaries, or safely let non-engineers use them. We provide sandboxed environments, session-level observability, and configurable guardrails so anyone on your team can ship with coding agents without breaking prod.\r\n\r\nWe're live with fast-growing YC scaleups empowering their Engineers, PMs, designers, marketers, and ops to contribute to their codebase or build prod-grade zero-to-one apps.",
-    "one_liner": "Sandboxed coding agents for everyone on your team.",
+    "long_description": "RASPIRE is the first line of defense for applications against AI-powered fraud attacks, API abuse, and runtime threats. Unlike code scanners and pentesting tools that identify vulnerabilities before release, RASPIRE operates like a security expert running inside applications, monitoring, detecting, and blocking attacks 24/7 in real time. All without writing a single line of code.",
+    "one_liner": "Autonomous Runtime Security",
     "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1773951001,
+    "subindustry": "B2B -> Security",
+    "launched_at": 1780001140,
     "tags": [
-      "Artificial Intelligence",
-      "Developer Tools"
+      "Developer Tools",
+      "SaaS",
+      "B2B",
+      "Cybersecurity",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2026",
     "status": "Active",
     "industries": [
       "B2B",
-      "Engineering, Product and Design"
+      "Security"
     ],
     "regions": [
       "United States of America",
@@ -23254,8 +22988,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/runtime",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/runtime.json"
+    "url": "https://www.ycombinator.com/companies/raspire",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/raspire.json"
   },
   {
     "id": 32230,

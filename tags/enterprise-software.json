@@ -3891,15 +3891,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Sixtyfour deploys AI agents that investigate people and companies across the open and dark web, official records, proprietary databases, and unstructured sources. We resolve identities, map entity relationships, and surface risk signals for teams where data quality is essential.",
     "one_liner": "Intelligence Infrastructure on People and Entities",
-    "team_size": 8,
+    "team_size": 12,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1747432267,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Enterprise Software",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4816,50 +4816,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/ritivel.json"
   },
   {
-    "id": 31377,
-    "name": "Limrun",
-    "slug": "limrun",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ab10903dc4335cb12beff61e9e9cb75f732ed72a.png",
-    "website": "https://lim.run",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Coding agents in the cloud don't work for majority of teams who require native capabilities; they lack XCode for iOS, Emulator for Android, Unity for game development teams. We are on a mission to cloudify every local development utility so that regardless of where it runs, your agent can compose an ideal set of capabilities on the fly so you don't need to run it on your laptop.\r\n\r\nToday, we provide remote services such as XCode, iOS & Android simulators to enable coding agents running in any sandbox to be able to build and iterate over mobile apps, too.\r\n\r\nReplit, Rork, Momentic, Minitap and more agent companies have built mobile development and testing experiences on Limrun platform. Coconote (Quizlet), SorceJobs (W25) and more companies with mobile apps use Limrun with their cloud agents, merging PRs without having to check out the code locally.",
-    "one_liner": "Extend your cloud agent with XCode, Android and more",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1779230895,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Enterprise Software",
-      "Cloud Computing"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/limrun",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/limrun.json"
-  },
-  {
     "id": 31396,
     "name": "qomplement",
     "slug": "qomplement",
@@ -4900,90 +4856,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/qomplement",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/qomplement.json"
-  },
-  {
-    "id": 31424,
-    "name": "Lab0",
-    "slug": "lab0",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e54ac65b683433835143a5b5da2159a7c9445255.png",
-    "website": "https://lab0.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Enterprise software implementation is broken,  and it has been for decades. \r\nEvery rollout, whether it's a traditional ERP or a new AI system, requires months of manual integration, configuration, and tuning done by armies of system integrators and forward-deployed engineers. \r\nLab0 builds agentic systems that automate this layer, compressing months-long implementations into weeks.",
-    "one_liner": "AI FDEs to make your B2B SaaS Go Live in Days, not Months",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1775188246,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Enterprise",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lab0",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/lab0.json"
-  },
-  {
-    "id": 31488,
-    "name": "Foaster",
-    "slug": "foaster",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdcff33c87fe29fc884e55a8d2475dd3ed741f53.png",
-    "website": "https://foaster.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Foaster is the AI-native consulting firm for AI transformation, powered by agents instead of armies of consultants.\r\n\r\nCompanies are spending millions on AI tools, pilots, workshops, and roadmaps. But most confuse AI adoption with AI transformation. Adoption is buying tools. Transformation is understanding how work should change across every team, workflow, and role. Traditional consulting moves too slowly for that: a few interviews, a few workshops, a static roadmap, then the company is left to execute.\r\n\r\nFoaster uses AI agents to go much faster and much deeper. Agents interview employees at scale, map how work actually happens, and build in days a roadmap showing what should be automated, redesigned, or improved first. Then Foaster stays embedded to keep the transformation moving through adoption tracking, deeply personalized upskilling, and continuous follow-up.\r\n\r\nThe result is the precision and scale of AI, with human experts brought in where judgment, expertise and implementation matter most.",
-    "one_liner": "The AI-native consulting firm for AI transformation.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1773744030,
-    "tags": [
-      "B2B",
-      "Enterprise Software",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/foaster",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/foaster.json"
   },
   {
     "id": 31512,

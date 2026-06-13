@@ -1174,7 +1174,7 @@
       "Watu"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/48360413020d2b744e8c5f969d2f31d5390b1957.png",
-    "website": "https://socosearch.com/",
+    "website": "https://trysoco.com/",
     "all_locations": "New York, NY, USA",
     "long_description": "Soco: You talk to it, it brings you hundreds of products.",
     "one_liner": "Visual AI shopping",
@@ -1183,10 +1183,10 @@
     "subindustry": "Consumer -> Apparel and Cosmetics",
     "launched_at": 1630032705,
     "tags": [
-      "Artificial Intelligence",
       "Consumer",
       "Chatbot",
       "Retail",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -3120,6 +3120,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hippo-scribe",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/hippo-scribe.json"
+  },
+  {
+    "id": 28089,
+    "name": "Maxi",
+    "slug": "maxi",
+    "former_names": [
+      "Leather",
+      "Thread"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/74fe59b0fad86e3ef763c2294a3eb1d69431df2b.png",
+    "website": "https://www.usemaxi.app",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Maxi is an iMessage-based, AI-native agent for your personal finances. It connects to all your accounts (secure read-only access) and Gmail and proactively texts you to help cancel subscriptions, identify split expenses, and send Venmo requests (on your behalf). It also tracks your net worth, reminds you about bills, and keeps you in line with your budgets.",
+    "one_liner": "AI Agent for your personal finances",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Consumer Finance",
+    "launched_at": 1674772876,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Consumer Finance",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Consumer Finance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/maxi",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/maxi.json"
   },
   {
     "id": 28127,
@@ -6771,50 +6816,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/imperfect.json"
   },
   {
-    "id": 31117,
-    "name": "Cignara",
-    "slug": "cignara",
-    "former_names": [
-      "Bujo",
-      "Bujo AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/532e556aaa674c581b4083dc6595ac75eeeb0b1a.png",
-    "website": "https://cignara.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Companies lose revenue every time a customer is stuck in IVR, waits too long for help, gets blocked by a dumb chatbot, or receives a generic answer from an agent without the right context. These are not just support problems. A complaint is a retention moment, an inquiry is a sales moment, and a support call is often an upsell moment.\r\n\r\nWe built Cignara to fix this. Cignara provides end-to-end AI voice and chat agents that use customer context, company data, business logic, and policy rules to take personalized, agentic actions. Every response is grounded, every action is policy-bound, governed, and verifiable, and every conversation is tracked as a business outcome.\r\n\r\nFortune 500 brands like LG use Cignara as fully autonomous agents and as real-time assistants for human teams.",
-    "one_liner": "AI Agents for Fortune 500 grade customer support",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1766553284,
-    "tags": [
-      "Artificial Intelligence",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cignara",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/cignara.json"
-  },
-  {
     "id": 31263,
     "name": "Supafax",
     "slug": "supafax",
@@ -6899,98 +6900,5 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/textsidekick",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/textsidekick.json"
-  },
-  {
-    "id": 31458,
-    "name": "Ara",
-    "slug": "ara",
-    "former_names": [
-      "EasyClaw"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c65b718e0ad0cd66c030e2903aa681d9bd8aa94.png",
-    "website": "https://ara.so",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ara is the self-driving IDE for software teams. It watches work in progress, suggests the next step, and executes tasks through non-invasive computer use, background agents, memory, and reusable skills. Ara turns coding into a closed loop: suggest, act, learn, improve.",
-    "one_liner": "Ara is the self-driving IDE for software teams.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1775160352,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Productivity",
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ara",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/ara.json"
-  },
-  {
-    "id": 31466,
-    "name": "Walter",
-    "slug": "walter",
-    "former_names": [
-      "Lobster AI",
-      "Vaulter",
-      "Vaulter Technologies",
-      "Vaulter"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/32ab6a53db384b8f8c669e8396a088094060b64a.png",
-    "website": "https://www.walter.one",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Walter is an AI employee for manufacturing operations.",
-    "one_liner": "AI Employee for Manufacturing Operations",
-    "team_size": 0,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1779919838,
-    "tags": [
-      "Artificial Intelligence",
-      "Manufacturing",
-      "Automation",
-      "AI Assistant",
-      "Industrial"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/walter",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/walter.json"
   }
 ]

@@ -38806,7 +38806,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -42348,13 +42348,14 @@
   },
   {
     "id": 29697,
-    "name": "Stormy AI",
-    "slug": "stormy-ai",
+    "name": "Stormy",
+    "slug": "stormy",
     "former_names": [
       "1nterface.ai",
       "stormy.ai",
       "Stormy AI – Autonomous marketing agent",
-      "Stormy AI – Vibe marketing agent"
+      "Stormy AI – Vibe marketing agent",
+      "Stormy AI"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png",
     "website": "https://stormy.ai",
@@ -42366,10 +42367,10 @@
     "subindustry": "B2B -> Marketing",
     "launched_at": 1723238839,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Marketing"
+      "Marketing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -42383,17 +42384,15 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/stormy-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/stormy-ai.json"
+    "url": "https://www.ycombinator.com/companies/stormy",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/stormy.json"
   },
   {
     "id": 29705,
@@ -47363,51 +47362,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/primer.json"
   },
   {
-    "id": 30963,
-    "name": "TakeCareOS",
-    "slug": "takecareos",
-    "former_names": [
-      "Something Labs",
-      "Waffer"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ae7dea18b41ec38482c8a5138befb84756ece8b.png",
-    "website": "https://takecareos.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "TakeCareOS is building the infrastructure for the AI-native long term care providers. Today’s care providers are held back by massive administrative overhead, buried under fragmented tools and manual workflows. TakeCareOS consolidates the entire care lifecycle—scheduling, billing, documentation, compliance, customer support etc.—into a single, intelligent system driven by AI agents. We are eliminating the operational friction of care coordination to establish a new standard of high-efficiency, highly scalable care practices.",
-    "one_liner": "AI-native operating system for long term care providers",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1760645046,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Health Tech",
-      "B2B",
-      "Healthcare"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/takecareos",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/takecareos.json"
-  },
-  {
     "id": 31008,
     "name": "Moss",
     "slug": "moss",
@@ -47667,90 +47621,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/korso.json"
   },
   {
-    "id": 31332,
-    "name": "Stage",
-    "slug": "stage",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac5a6cce941f973ff80cb4496e195f4010e5c21b.png",
-    "website": "https://www.stagereview.app/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Stage is a code review platform designed to help engineers better understand and review AI generated code.\r\n\r\nEngineering teams are shipping faster than ever with coding agents, but now they’re drowning in an endless backlog of PRs to review. Stage reorganizes the code review process around how engineers naturally read changes, enabling your team to review (and merge!) PRs 5x faster than GitHub.",
-    "one_liner": "Code review platform for humans and agents",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1774297910,
-    "tags": [
-      "Developer Tools",
-      "SaaS"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/stage",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/stage.json"
-  },
-  {
-    "id": 31346,
-    "name": "Rudus",
-    "slug": "rudus",
-    "former_names": [
-      "BuildFlux"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/407f4a93871730524968180bcf20dd23fc9ce7b2.png",
-    "website": "http://rudus.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Rudus is an AI-powered takeoff and estimation platform enabling concrete contractors to win 3x more projects yearly. It automatically identifies every concrete structure like footings, walls, columns, and slabs on plans, eliminating the manual work and reducing estimation time by 70%. Concrete is the most-used material on earth after water, and demand is surging with the AI infrastructure boom.",
-    "one_liner": "AI Takeoffs for Concrete",
-    "team_size": 2,
-    "industry": "Real Estate and Construction",
-    "subindustry": "Real Estate and Construction -> Construction",
-    "launched_at": 1777879888,
-    "tags": [
-      "SaaS",
-      "Construction",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Real Estate and Construction",
-      "Construction"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/rudus",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/rudus.json"
-  },
-  {
     "id": 31363,
     "name": "Saffron",
     "slug": "saffron",
@@ -47794,259 +47664,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/saffron.json"
   },
   {
-    "id": 31395,
-    "name": "Deep Interactions",
-    "slug": "deep-interactions",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2150b2f6e149aef04ef65b7381c3bd0b77037221.png",
-    "website": "https://deepinteractions.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Deep Interactions is a humans-in-the-loop AI builder. We don't leave you with a spaghetti mess of a code. We bring product intelligence and power the context layer that enables your team to build in sync - saving companies tokens, time, and nerves. You give us a problem and we ship a working AI product in the same afternoon.\r\n",
-    "one_liner": "Collaborative AI app builder for teams",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1778970590,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Generative AI",
-      "SaaS",
-      "Team Collaboration"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/deep-interactions",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/deep-interactions.json"
-  },
-  {
-    "id": 31407,
-    "name": "Sherpa",
-    "slug": "sherpa",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/24b3833352a8b36953c5bec1a4cb93f9ac0f2259.png",
-    "website": "https://www.withsherpa.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sherpa automatically increases website conversion rates by analyzing visitor behavior, building new page variants, and continuously A/B testing them. Customers typically see a 15-20% lift on their primary conversion metric in their first 30 days.",
-    "one_liner": "Turn more website visitors into customers",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1774901696,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Marketing",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": true,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/sherpa",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/sherpa.json"
-  },
-  {
-    "id": 31408,
-    "name": "Salesgraph",
-    "slug": "salesgraph",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/febca88acc45186c0d3c21c31cb8dfbdd7f32484.png",
-    "website": "https://www.salesgraph.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Salesgraph equips reps with the most relevant context throughout the deal stage, providing proactive pre-call notes and post-call next steps. Sellers are CEOs of their deals; they need to know who the buyer is, what triggered them to take the first call, what their pain points are, how much value this new tool is bringing, are there any technical blockers, etc. \r\n\r\nA sale is only good when it doesn't feel like a sale to your customer, but rather the sales rep solved a problem for the customer. This was the problem Ricardo and I solved at Mintlify. We created a business case generator that took in call recordings, background news triggers and job updates, Mintlify's ROI and Pricing calculator, past deals won, and customer case studies --> produced a 3 page document expressing the value Mintlify provided + why the quote presented is justifiable. In doing so we closed more enterprise deals at a higher ACV as our champion was able to build a better purchasing case internally. \r\n\r\nOur goal is to empower every sales team to close deals at a higher ACV, while making sure reps learn from their mistakes and create a smooth sales experience for their end customer. ",
-    "one_liner": "the context layer for fast moving sales teams",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1775259755,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Sales"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/salesgraph",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/salesgraph.json"
-  },
-  {
-    "id": 31415,
-    "name": "Synphony",
-    "slug": "synphony",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/53a6cd89169bae47c2b36df57db7197b466fab96.png",
-    "website": "https://www.synphony.co/",
-    "all_locations": "San Carlos, CA, USA",
-    "long_description": "Strawberry farming is a $3B industry in California alone with 60% labor cost using 40-year old software. Synphony provides strawberry picking robots and software services including: bed-level analytics, data pipeline integration, and agentic solutions.\r\n\r\nSynphony's \"side hustle\" is selling data, evals, and viral demos to robot foundation labs while building capacity for general robot deployments. We've started with strawberry farming for great margins and outdoor data moat, but also received requests for robots in semi-conductors and autonomous space labs. \r\n\r\nSynphony's team has won over 15 hackathons together (taking home 4 Jensen-signed GPUs!). Sean did ML research at NVIDIA and led AI products used by IRS and Citibank. Lucas' research spanned robotics, IoT devices, and neuromorphic computing. Alex architected an app with 400k users. ",
-    "one_liner": "robots & software for farms",
-    "team_size": 10,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1778272380,
-    "tags": [
-      "Food Service Robots & Machines",
-      "SaaS",
-      "Robotics",
-      "Agriculture"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/synphony",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/synphony.json"
-  },
-  {
-    "id": 31424,
-    "name": "Lab0",
-    "slug": "lab0",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e54ac65b683433835143a5b5da2159a7c9445255.png",
-    "website": "https://lab0.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Enterprise software implementation is broken,  and it has been for decades. \r\nEvery rollout, whether it's a traditional ERP or a new AI system, requires months of manual integration, configuration, and tuning done by armies of system integrators and forward-deployed engineers. \r\nLab0 builds agentic systems that automate this layer, compressing months-long implementations into weeks.",
-    "one_liner": "AI FDEs to make your B2B SaaS Go Live in Days, not Months",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1775188246,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Enterprise",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lab0",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/lab0.json"
-  },
-  {
-    "id": 31430,
-    "name": "Voquill",
-    "slug": "voquill",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5abd49db087306e856126eb6c4acf3af787f1749.png",
-    "website": "https://voquill.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Voquill is the modern AI-native operating system for medical labs. This software manages the entire workflow of the lab (accessioning, workflow, reporting, coding, compliance, and revenue) and contains modern agentic AI tools to help each step. For example, pathologists can write reports 20% faster through our voice AI coworker.\r\n\r\nIncumbent lab operating systems are old, don't scale with how modern labs work, and can’t integrate existing AI solutions. As a result, labs are either building their own or paying millions for band-aid solutions and consultants. We're building an agentic platform to manage every aspect of the lab and displace the billions spent on legacy management systems.",
-    "one_liner": "The modern AI-native operating system for medical labs. ",
-    "team_size": 3,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1779284137,
-    "tags": [
-      "SaaS",
-      "Health Tech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/voquill",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/voquill.json"
-  },
-  {
     "id": 31437,
     "name": "Sidekick",
     "slug": "textsidekick",
@@ -48086,49 +47703,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/textsidekick",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/textsidekick.json"
-  },
-  {
-    "id": 31439,
-    "name": "Parrot",
-    "slug": "useparrot",
-    "former_names": [
-      "Alchemy"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2c249d05a58f649a682096055e9a55a3440fbafa.png",
-    "website": "https://www.useparrot.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Parrot is an agentic OS that understands your business so it can call, negotiate, and coordinate with real humans.",
-    "one_liner": "Agentic operating system for auto repair shops",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1774445922,
-    "tags": [
-      "SaaS",
-      "Workflow Automation",
-      "Automation",
-      "Automotive"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/useparrot",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/useparrot.json"
   },
   {
     "id": 31468,
@@ -48171,69 +47745,24 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/chronicle-labs.json"
   },
   {
-    "id": 31482,
-    "name": "Memory Store",
-    "slug": "memory-store",
+    "id": 31494,
+    "name": "RASPIRE",
+    "slug": "raspire",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/81520a45661b113f68072bffbdfe2eeb3b94215d.png",
-    "website": "https://memory.store",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0eec2630d827ef4927b95e335dc060a630450da9.png",
+    "website": "https://raspire.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "One memory for your team's agents. \r\n\r\nTurn every meeting, Claude session, and Slack chat into context your team and agents share.",
-    "one_liner": "Shared context for all of your team's agents.",
-    "team_size": 4,
+    "long_description": "RASPIRE is the first line of defense for applications against AI-powered fraud attacks, API abuse, and runtime threats. Unlike code scanners and pentesting tools that identify vulnerabilities before release, RASPIRE operates like a security expert running inside applications, monitoring, detecting, and blocking attacks 24/7 in real time. All without writing a single line of code.",
+    "one_liner": "Autonomous Runtime Security",
+    "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1777184787,
+    "subindustry": "B2B -> Security",
+    "launched_at": 1780001140,
     "tags": [
-      "Generative AI",
+      "Developer Tools",
       "SaaS",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
       "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/memory-store",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/memory-store.json"
-  },
-  {
-    "id": 31536,
-    "name": "Gigacatalyst",
-    "slug": "gigacatalyst",
-    "former_names": [
-      "Giga Next Inc",
-      "Giga Catalyst"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f036b6b16ede0b0a7e4c426862254c490d653c42.png",
-    "website": "https://gigacatalyst.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Gigacatalyst allows sales and CS teams to build missing features that customers need, so you stop losing business because of feature gaps. We’ve helped our customers unblock $1M in sales in 6 weeks.\r\n\r\nWe do this with an embedded AI customization layer that learns your APIs. Each customer can now adapt your product to match their workflows perfectly, and share it across their team with our in-built app store.\r\n\r\nThe result is that customers use your SaaS more, retain for longer, and expand quicker, because they get bespoke implementation for their exact usecase, without waiting.\r\n\r\nWe're live with the top Series B companies with 90% repeat usage rate. Our customers tell us that Gigacatalyst is the best way to increase usage, retention, and expansion in 2026.",
-    "one_liner": "Customize your software to every user with AI",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1775192956,
-    "tags": [
-      "SaaS",
-      "Enterprise",
-      "No-code",
+      "Cybersecurity",
       "AI"
     ],
     "tags_highlighted": [],
@@ -48244,52 +47773,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/gigacatalyst",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/gigacatalyst.json"
-  },
-  {
-    "id": 31545,
-    "name": "Modern",
-    "slug": "modern",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d2529e7f9c6b526eaa04259dba132d262fb29fc.png",
-    "website": "https://getmodern.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Modern is consolidating the IT function into a single platform powered by secure, always-on agents who understand your business. Help desk, access, hardware, on/off-boarding, security, procurement are automated end-to-end inside the channels your team already uses (Slack, Teams, Email, Voice, WhatsApp, Telegram).",
-    "one_liner": "AI-Native ServiceNow run by always-on AI agents",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1775918136,
-    "tags": [
-      "AIOps",
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Healthcare IT"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
+      "Security"
     ],
     "regions": [
       "United States of America",
@@ -48300,8 +47784,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/modern",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/modern.json"
+    "url": "https://www.ycombinator.com/companies/raspire",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/raspire.json"
   },
   {
     "id": 31563,

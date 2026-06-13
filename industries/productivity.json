@@ -9349,7 +9349,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/19d0e4c250082b6d92fda2c96cf3af7a535c03a5.png",
     "website": "https://tryrobby.com",
-    "all_locations": "Boston, MA, USA",
+    "all_locations": "",
     "long_description": "Robby is an AI growth engine for home services businesses that uncovers revenue opportunities and collects additional data from every technician visit. Our AI combines customer and third party data to generate dozens of new leads every day, and then arms the technicians with talking points to increase close rates, giving GMs a single command center to manage and drive revenue. We have several paying customers that are each uncovering 6 figures in additional revenue opportunities every week. On our first day of launch, we helped close $40k in new business within an hour.\r\n\r\nOur team has spent the last few months riding along with dozens of technicians and shadowing every position in the office to best understand the industry. We're also studying for the EPA 608 exam to become certified technicians ourselves.\r\n\r\nVineet and Feroze have both built critical products and infra at prominent startups (Ironclad, Porter, Affinity, Uber, Cloud Health Systems). Joe previously consulted PE firms on software acquisitions and led home services growth projects at Bain. We all met at Harvard Business School, and dropped out to work on Robby full-time.",
     "one_liner": "AI agents that grow revenue for home services businesses",
     "team_size": 3,
@@ -9359,7 +9359,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2026",
     "status": "Active",
@@ -9368,8 +9368,7 @@
       "Productivity"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -9472,8 +9471,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/044f868ff4fda0ae90471c98a5ffee29018c984b.png",
     "website": "https://userlens.io",
     "all_locations": "",
-    "long_description": "Most B2B churn is preventable - most teams just see it too late. \r\n\r\nBy the time a CSM notices, the champion has already quietly disengaged, key features went unadopted, and the renewal conversation is damage control. The dangerous part? The customer might still be logging in, but they've stopped using what actually matters. \r\n\r\nUserlens catches all of that months earlier.\r\n\r\nOur AI agents monitor every user at every account the way your best CSM watches your top five strategic accounts:\r\n- feature adoption\r\n- usage trends\r\n- champion engagement\r\n- sentiment shifts in Slack and Intercom\r\n- open support issues. \r\n\r\nWhen a signal hits (churn risk, renewal, expansion opportunity), Userlens doesn't just alert you. It builds the talking points and deck on top of your team's approved templates and playbook. If you have CSMs, Userlens makes every one of them your best. If you don't have one yet, Userlens runs your book like the best CSM money could buy.",
-    "one_liner": "First ever Agentic CSMs to upsell & renew 6+ figure deals.",
+    "long_description": "Companies today are growing faster than ever with smaller teams. We are making it possible for these lean, AI-native companies to manage enterprise deals. \r\n\r\nUserlens is building the AI customer success manager. Our goal is to be the CSM for every customer at every company. \r\n\r\nEvery $1-5M of new revenue requires another CSM hire. Userlens breaks that ceiling. Our agents research accounts, catch churn before it happens, and drive renewals and upsells like a top-tier CSM would. \r\n\r\nWe're at $307K ARR, growing 127% month over month, with 30 customers including Smartly (300M ARR). Over 300 CSMs are on Userlens, and 76% of them use it weekly. \r\n\r\nBuilt by second-time founders who lived this problem at their last startup.",
+    "one_liner": "Agents that renew and expand six and seven-figure enterprise software",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -9501,6 +9500,45 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/userlens.json"
   },
   {
+    "id": 31433,
+    "name": "Savant",
+    "slug": "savant",
+    "former_names": [
+      "Bledger",
+      "DataGate"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/460e0811dc62379211d4c46f1467f5deb66e5e23.png",
+    "website": "https://heysavant.com/",
+    "all_locations": "",
+    "long_description": "Savant is the company brain every AI-native enterprise runs on. We plug into the tools you already use, capture the written knowledge / undocumented procedures, and serve them to your employees and agents at decision time.",
+    "one_liner": "Company brain every AI-native enterprise runs on",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1781284438,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/savant",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/savant.json"
+  },
+  {
     "id": 31458,
     "name": "Ara",
     "slug": "ara",
@@ -9510,19 +9548,13 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c65b718e0ad0cd66c030e2903aa681d9bd8aa94.png",
     "website": "https://ara.so",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ara is the self-driving IDE for software teams. It watches work in progress, suggests the next step, and executes tasks through non-invasive computer use, background agents, memory, and reusable skills. Ara turns coding into a closed loop: suggest, act, learn, improve.",
-    "one_liner": "Ara is the self-driving IDE for software teams.",
+    "long_description": "Ara (YC P26) is the self-driving engineer for software teams. It watches work in progress, suggests the next step, and executes tasks through non-invasive computer use, background agents, memory, and reusable skills. Ara turns coding into a closed loop: suggest, act, learn, improve.",
+    "one_liner": "The Autonomous software engineer",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1775160352,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Productivity",
-      "AI",
-      "AI Assistant"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -9583,49 +9615,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/tasklet-2.json"
   },
   {
-    "id": 31482,
-    "name": "Memory Store",
-    "slug": "memory-store",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/81520a45661b113f68072bffbdfe2eeb3b94215d.png",
-    "website": "https://memory.store",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "One memory for your team's agents. \r\n\r\nTurn every meeting, Claude session, and Slack chat into context your team and agents share.",
-    "one_liner": "Shared context for all of your team's agents.",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1777184787,
-    "tags": [
-      "Generative AI",
-      "SaaS",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/memory-store",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/memory-store.json"
-  },
-  {
     "id": 31498,
     "name": "Aster",
     "slug": "asterlab",
@@ -9668,7 +9657,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/79f117b2c0a8e5660f929ae9a8070ce8dd61d0ff.png",
     "website": "https://openworklabs.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "OpenWork is a desktop app that lets people connect to their existing skills, MCPs, and agents. Users can download the app for free, try it with over 50+ model providers, and easily share their setup with their team.",
     "one_liner": "The open source alternative to Claude Cowork",
     "team_size": 4,
@@ -9687,8 +9676,7 @@
       "Productivity"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -9744,11 +9732,11 @@
     "name": "Hyper",
     "slug": "hyper-4",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/edfe78075967b07a685fa0dfd4fdea085432c035.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/abd9dfc78c0e009619b79ba5da0e6cea61e1f72a.png",
     "website": "https://heyhyper.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Hyper is the company brain that \"just works\" for AI-first teams. Hyper silently learns from every update in every tool your team uses -- Notion docs, Claude Code questions, emails, LinkedIn DMs, Cursor sessions, etc. Our agent-driven algorithms update and clean all that information into real-time knowledge that is shared across your entire team. That knowledge is quietly infused into all your existing AI tools on every chat turn, so your whole company gets smarter permanently.",
-    "one_liner": "The Self-Driving Company Brain",
+    "all_locations": "",
+    "long_description": "Hyper is a shared brain that plugs into all information flowing inside a company, creates a self-maintaining knowledge graph, and makes your AI employees better and ultimately saves people time. Our in-house memory system scores at or above SOTA on most public benchmarks, and we've built a custom eval suite to measure our precision/recall metrics. In the last 12 days since launch, we've gotten top 5 on hacker news, onboarded 50+ teams, grown 0 to 1k MRR, and are starting paid design pilots with co's like Razorpay and Snorkel AI. Our whole lives we've packaged hardcore engineering into beautifully simple products, and that's how we’ll win this platform shift.",
+    "one_liner": "Company brain that powers your AI employees",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -9765,8 +9753,7 @@
       "Productivity"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
