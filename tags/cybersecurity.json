@@ -648,6 +648,7 @@
     "tags": [
       "Privacy",
       "Cybersecurity",
+      "Defense",
       "AI"
     ],
     "tags_highlighted": [],
@@ -1213,7 +1214,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/475ae1459a273ef4827fe78aeed097961151b782.png",
     "website": "https://gecko.security",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "London, United Kingdom",
     "long_description": "We built Gecko for teams that want to build secure code quickly without wasting time on security tools that don’t deliver results, or relying on one-time human pentests that quickly become outdated. Gecko uses AI to understand how your application should work, simulates relevant attacks to find critical vulnerabilities, and then verifies these vulnerabilities by exploiting them. It also helps you understand the risk of these vulnerabilities and applies a working fix to keep your code secure.",
     "one_liner": "The AI Security Engineer to Find and Fix Vulnerabilities ",
     "team_size": 2,
@@ -1238,8 +1239,8 @@
       "Security"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "United Kingdom",
+      "Europe",
       "Remote",
       "Partly Remote"
     ],
@@ -1767,88 +1768,5 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/antigen",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/antigen.json"
-  },
-  {
-    "id": 31478,
-    "name": "Silmaril",
-    "slug": "silmaril",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/86b9dc2025d8d9aaca7a7d152afe3f067bb14268.png",
-    "website": "https://silmaril.dev",
-    "all_locations": "",
-    "long_description": "Silmaril is a prompt injection defense that self-improves for AI native applications and agents. It understands application context to block 2x as many threats as current SOTA defenses with 10x lower latency. Customers plug us into agentic frameworks like LangGraph with 5 lines of code. Silmaril has stopped $28M of damages for customers.",
-    "one_liner": "Prompt injection defense that self-improves",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1775745444,
-    "tags": [
-      "Developer Tools",
-      "Security",
-      "Cybersecurity",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/silmaril",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/silmaril.json"
-  },
-  {
-    "id": 31494,
-    "name": "RASPIRE",
-    "slug": "raspire",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0eec2630d827ef4927b95e335dc060a630450da9.png",
-    "website": "https://raspire.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "RASPIRE is the first line of defense for applications against AI-powered fraud attacks, API abuse, and runtime threats. Unlike code scanners and pentesting tools that identify vulnerabilities before release, RASPIRE operates like a security expert running inside applications, monitoring, detecting, and blocking attacks 24/7 in real time. All without writing a single line of code.",
-    "one_liner": "Autonomous Runtime Security",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1780001140,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "B2B",
-      "Cybersecurity",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/raspire",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/raspire.json"
   }
 ]

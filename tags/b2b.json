@@ -4610,7 +4610,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a0364689423de527320c7ab191c89691067d7e91.png",
     "website": "https://novahq.com",
-    "all_locations": "Dallas, TX, USA; San Francisco, CA, USA",
+    "all_locations": "Dallas, TX, USA",
     "long_description": "Nova centralizes digital subscriptions, data room, and ongoing investor communication in a single investor management platform for private funds.",
     "one_liner": "Digital subscriptions that delight investors.",
     "team_size": 12,
@@ -5563,7 +5563,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d0bf05671926ad00ff8728c45f6416fb329f300.png",
     "website": "https://www.mobot.io",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "long_description": "Mobot (YC W19) is a QA-as-a-service platform using actual mechanical robots to automate testing of repetitive functions on real mobile devices. Mobot's human-supervised robots make it possible to automate mobile app tests that emulators, virtual devices, and existing frameworks can't. This approach eliminates thousands of hours of manual testing, increases testing efficiency and physical device coverage, and captures more bugs in-app before app store launches than software can do alone.",
     "one_liner": "Mobot is a QA-as-a-service platform using actual mechanical robots",
     "team_size": 40,
@@ -24576,7 +24576,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4857d95e94326dab2796fc4935e39cb912bd34e3.png",
     "website": "https://sigmamind.ai?utm_source=yc&utm_medium=web",
-    "all_locations": "Bengaluru, KA, India",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "SigmaMind AI is a conversational AI platform to deploy voice, chat & email agents. Build with our no-code agent builder or plug into APIs. Prebuilt integrations + support for custom tools = fast, flexible deployment across industries.",
     "one_liner": "Platform to build enterprise-ready voice/chat agents",
     "team_size": 12,
@@ -24599,8 +24599,8 @@
       "B2B"
     ],
     "regions": [
-      "India",
-      "South Asia",
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -26259,7 +26259,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d90945bbd65aa37022870fefcb46d282f82e8624.png",
     "website": "https://www.peoplebox.ai",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Bengaluru, India",
     "long_description": "Peoplebox.ai is an AI-native talent platform used by 500+ companies to hire, manage, and grow their people.\r\n\r\nAt the center is Nova, the world’s most human-like AI teammate, for all talent conversations. Nova runs two-way voice/video pre-screen calls, first-round interviews (with coding round and advance proctoring), check-ins, and assessments,  all with your company’s context built in.\r\n\r\nThe talent management platform brings together OKRs/goals, performance reviews, career growth, calibration, and compensation into one unified system, helping companies align, assess, and develop talent faster.",
     "one_liner": "AI talent platform to hire, manage, and grow your people ",
     "team_size": 35,
@@ -26284,8 +26284,8 @@
       "Human Resources"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "India",
+      "South Asia"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -40817,7 +40817,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/475ae1459a273ef4827fe78aeed097961151b782.png",
     "website": "https://gecko.security",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "London, United Kingdom",
     "long_description": "We built Gecko for teams that want to build secure code quickly without wasting time on security tools that don’t deliver results, or relying on one-time human pentests that quickly become outdated. Gecko uses AI to understand how your application should work, simulates relevant attacks to find critical vulnerabilities, and then verifies these vulnerabilities by exploiting them. It also helps you understand the risk of these vulnerabilities and applies a working fix to keep your code secure.",
     "one_liner": "The AI Security Engineer to Find and Fix Vulnerabilities ",
     "team_size": 2,
@@ -40842,8 +40842,8 @@
       "Security"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "United Kingdom",
+      "Europe",
       "Remote",
       "Partly Remote"
     ],
@@ -42653,11 +42653,11 @@
     "subindustry": "Healthcare",
     "launched_at": 1744440110,
     "tags": [
-      "Artificial Intelligence",
       "Health Tech",
       "B2B",
       "Biotech",
-      "Healthcare"
+      "Healthcare",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -44952,7 +44952,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/551c81e2cf1198e6431c7a170e74ee43deff6f61.png",
     "website": "https://www.sigmanticai.com",
-    "all_locations": "Dublin, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "SigmanticAI is building an AI-native hardware development assistant that automates the entire RTL design flow, from natural language to synthesizable HDL and testbenches, inside a seamless VSCode fork. Powered by fine-tuned Verilog LLMs, reinforcement learning, and real compiler feedback, SigmanticAI iteratively refines code until it compiles and passes synthesis, no matter how complex the design. It’s like the Cursor for HDL design. \r\n\r\nIn addition to code generation, SigmanticAI can generate token-level annotations and onboarding documents to accelerate ramp-up for new engineers. With support for both cloud and on-prem deployment, it integrates with existing EDA tools to dramatically reduce debug time, improve collaboration, and accelerate hardware design across teams",
     "one_liner": "The Cursor for Chip Design - Delivering Silicon-Ready Chip Designs…",
     "team_size": 2,
@@ -46533,49 +46533,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/automax-ai.json"
   },
   {
-    "id": 30963,
-    "name": "TakeCareOS",
-    "slug": "takecareos",
-    "former_names": [
-      "Something Labs",
-      "Waffer"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ae7dea18b41ec38482c8a5138befb84756ece8b.png",
-    "website": "https://takecareos.com",
-    "all_locations": "",
-    "long_description": "TakeCareOS is building the infrastructure for the AI-native long term care providers. Today’s care providers are held back by massive administrative overhead, buried under fragmented tools and manual workflows. TakeCareOS consolidates the entire care lifecycle—scheduling, billing, documentation, compliance, customer support etc.—into a single, intelligent system driven by AI agents. We are eliminating the operational friction of care coordination to establish a new standard of high-efficiency, highly scalable care practices.",
-    "one_liner": "AI-native operating system for long term care providers",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1760645046,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Health Tech",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/takecareos",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/takecareos.json"
-  },
-  {
     "id": 30969,
     "name": "Lemma",
     "slug": "uselemma",
@@ -47229,6 +47186,50 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/carrot-labs.json"
   },
   {
+    "id": 31398,
+    "name": "Pavoot",
+    "slug": "pavoot",
+    "former_names": [
+      "Pavoot (formerly capturecore)"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/085aa6b975fc26df4bd975cbb1ee82cc22f514a2.png",
+    "website": "https://pavoot.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Pavoot is an AI event manager for companies that run in-person customer events.\r\n\r\nMore and more companies are investing in dinners, summits, and community events because relationships drive revenue. But today, running events means sourcing attendees, sending invitations, hosting the event, and then manually digging through notes, emails, and spreadsheets afterward to figure out who attended, what was discussed, who is a strong lead, and who should be followed up with. Most teams either send generic \"thanks for coming\" emails or never properly capture the value created during the event.\r\n\r\nPavoot replaces this fragmented workflow with a single AI system that keeps every attendee, interaction, conversation, and follow-up connected in one place, making relationship-driven growth scalable.\r\n\r\nGohar and Ana met while studying Computer Science at ETH Zurich. Gohar is a six-time Swiss chess champion and was the youngest member of Switzerland’s national chess team at age 13. Ana won more than 20 medals in scientific Olympiads, ranked 1st in CS at Latin America’s most competitive university, and built internal AI systems used by hundreds of data scientists at some of the largest banks in Latin America before moving to ETH Zurich for AI research.\r\n\r\n===\r\n\r\nBook a demo: pavoot.com",
+    "one_liner": "AI Event Manager for in-person events",
+    "team_size": 0,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1778084784,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Marketing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pavoot",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/pavoot.json"
+  },
+  {
     "id": 31414,
     "name": "Drip",
     "slug": "drippay",
@@ -47312,90 +47313,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/textsidekick.json"
   },
   {
-    "id": 31494,
-    "name": "RASPIRE",
-    "slug": "raspire",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0eec2630d827ef4927b95e335dc060a630450da9.png",
-    "website": "https://raspire.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "RASPIRE is the first line of defense for applications against AI-powered fraud attacks, API abuse, and runtime threats. Unlike code scanners and pentesting tools that identify vulnerabilities before release, RASPIRE operates like a security expert running inside applications, monitoring, detecting, and blocking attacks 24/7 in real time. All without writing a single line of code.",
-    "one_liner": "Autonomous Runtime Security",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1780001140,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "B2B",
-      "Cybersecurity",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/raspire",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/raspire.json"
-  },
-  {
-    "id": 31512,
-    "name": "Pentagon",
-    "slug": "pentagon",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/668fe720bcb2a436a1056efc2df9c0c22d5922cc.png",
-    "website": "https://pentagon.run",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pentagon is a workspace for your AI employees to communicate, coordinate, and get work done as a team.",
-    "one_liner": "A coordination layer for humans and agents.",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1775312221,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pentagon",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/pentagon.json"
-  },
-  {
     "id": 31527,
     "name": "Revnu",
     "slug": "revnu",
@@ -47435,51 +47352,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/revnu",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/revnu.json"
-  },
-  {
-    "id": 31549,
-    "name": "Enjamb Labs",
-    "slug": "enjamb-labs",
-    "former_names": [
-      "Enjamb Labs Inc",
-      "Enjamb"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/72c48d60b66c3872f55fda2ba7dbab9415312dd4.png",
-    "website": "https://www.enjamb.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Enjamb runs the entire drug program for biopharma teams, from discovery to FDA approval. Pharma runs on decades of closed legacy systems like Benchling, Veeva, Medidata, and SAS, with no AI layer and no MCP to connect agents to them. \r\n\r\nSo we built that connection layer in one platform. Our agents run on top of their existing systems and data, with no migration, and do the work across the whole program: clinical evidence, trial design, statistical programming, and regulatory submissions. \r\n\r\nIn just 3 weeks since launch, we're already being used by 500+ employees at top pharma companies, including Johnson & Johnson, AbbVie, Bristol Myers Squibb, Merck & Sanofi.",
-    "one_liner": "Where drug teams run their entire program, discovery to FDA approval",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1779929226,
-    "tags": [
-      "AI-powered Drug Discovery",
-      "SaaS",
-      "B2B",
-      "Biotech",
-      "Healthcare"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/enjamb-labs",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/enjamb-labs.json"
   },
   {
     "id": 32155,

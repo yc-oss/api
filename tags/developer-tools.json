@@ -3166,7 +3166,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d0bf05671926ad00ff8728c45f6416fb329f300.png",
     "website": "https://www.mobot.io",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "long_description": "Mobot (YC W19) is a QA-as-a-service platform using actual mechanical robots to automate testing of repetitive functions on real mobile devices. Mobot's human-supervised robots make it possible to automate mobile app tests that emulators, virtual devices, and existing frameworks can't. This approach eliminates thousands of hours of manual testing, increases testing efficiency and physical device coverage, and captures more bugs in-app before app store launches than software can do alone.",
     "one_liner": "Mobot is a QA-as-a-service platform using actual mechanical robots",
     "team_size": 40,
@@ -9728,29 +9728,30 @@
   },
   {
     "id": 25342,
-    "name": "Stably AI",
-    "slug": "stably-ai",
+    "name": "Stably AI (Orca)",
+    "slug": "stably-ai-orca",
     "former_names": [
       "Lovecast",
       "UpArrow",
       "UpDragon",
-      "Stably"
+      "Stably",
+      "Stably AI"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7522b24d3853d0b79cebe72798f4a3a33c54ac27.png",
-    "website": "https://www.stably.ai",
+    "website": "http://onorca.dev/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We build devtools. Orca is an open-source Cursor—a local-first AI coding environment. Stably is our AI testing platform that writes, runs, and maintains E2E tests in CI.                                                                      \r\n                                    \r\nDevelopers use Orca and Stably to ship faster with more control—coding with their own AI setup and merging with confidence in minutes.",
-    "one_liner": "Makers of Orca (OSS Cursor) and Stably (AI testing platform)",
-    "team_size": 8,
+    "long_description": "Orca is an ADE built for engineers who run 10 to 100 coding agents at once. Termina-based. Any coding agent. Bring your own subscription (Claude Code, Codex etc). Mobile app included. Browser, CUA, Mobile emulator, and other. Minimal yet powerful.\r\n\r\nIncludes CLI to let agents control it\r\n\r\nhttps://github.com/stablyai/orca",
+    "one_liner": "We make Orca, MIT open source terminal-based agent orchestrator",
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1645204142,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "DevOps",
-      "Web Development",
-      "AI"
+      "Web Development"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -9773,8 +9774,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/stably-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/stably-ai.json"
+    "url": "https://www.ycombinator.com/companies/stably-ai-orca",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/stably-ai-orca.json"
   },
   {
     "id": 25509,
@@ -16582,8 +16583,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b03fadf62fa443c473d34c31148c9785ea34dceb.png",
     "website": "https://vibrantlabs.com/",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "We work on benchmarking and improving the long-horizon capabilities of AI Agents. We build out specialised environments to improve the long-horizon capabilities of browser and computer use agents. ",
-    "one_liner": "RL environments for long horizon AI Agents",
+    "long_description": "We work on methods to autonomously scaling evals/environments for post-training agents. ",
+    "one_liner": "Autonomously scaling environments",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -17607,7 +17608,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c3c6b9b422d6e861a26fcf29a7acd2c4eae136af.png",
     "website": "https://trymaitai.com",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Maitai makes building reliable AI applications easy. We autocorrect faulty model output in real-time and automatically fine-tune models that learn from their mistakes. This means our customers get more reliable results immediately, and over time, they gain custom models built specifically for their application that only get better and faster. You wouldn’t hire an employee who doesn’t learn from their mistakes—so why use a model that doesn’t? Maitai is here to deliver the next generation of reliable AI inference.",
     "one_liner": "Reliable, self-improving enterprise AI",
     "team_size": 6,
@@ -17632,7 +17633,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -22356,7 +22358,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8dc3d95366a9f12c7989780cf364009423a55b54.png",
     "website": "https://www.sourcebot.dev/",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Sourcebot is an open source code understanding platform for massive codebases. We’re used by thousands of engineers in some of the largest companies in the world, including NVIDIA, Red Hat, Wikimedia, and Arista Networks.\r\n\r\nUnderstanding code, not writing it, is the primary bottleneck for large engineering teams. For developers, this means onboarding onto complex codebases faster. For AI agents, it means getting the necessary code context to minimize hallucinations and maximize cohesion within the wider codebase.\r\n\r\nSourcebot solves this by giving developers and AI agents the ability to regex search across millions of lines of code instantly, as well as ask questions across thousands of repos using any flagship reasoning model. Being open source and on-prem, we can get deployed in enterprises within minutes before other tools even get approval.\r\n\r\nWe met a decade ago at McGill University and have been building together full time for over 2 years. We’ve personally felt the pain of understanding large codebases while working at Microsoft, EA, Ubisoft, Google, and Meta.",
     "one_liner": "Helping humans and AI agents understand massive codebases",
     "team_size": 3,
@@ -22379,7 +22381,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -22659,7 +22662,7 @@
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1760990467,
+    "launched_at": 1781215175,
     "tags": [
       "Developer Tools",
       "Chat",
@@ -22947,89 +22950,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/zenbu-2",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/zenbu-2.json"
-  },
-  {
-    "id": 31478,
-    "name": "Silmaril",
-    "slug": "silmaril",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/86b9dc2025d8d9aaca7a7d152afe3f067bb14268.png",
-    "website": "https://silmaril.dev",
-    "all_locations": "",
-    "long_description": "Silmaril is a prompt injection defense that self-improves for AI native applications and agents. It understands application context to block 2x as many threats as current SOTA defenses with 10x lower latency. Customers plug us into agentic frameworks like LangGraph with 5 lines of code. Silmaril has stopped $28M of damages for customers.",
-    "one_liner": "Prompt injection defense that self-improves",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1775745444,
-    "tags": [
-      "Developer Tools",
-      "Security",
-      "Cybersecurity",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/silmaril",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/silmaril.json"
-  },
-  {
-    "id": 31494,
-    "name": "RASPIRE",
-    "slug": "raspire",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0eec2630d827ef4927b95e335dc060a630450da9.png",
-    "website": "https://raspire.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "RASPIRE is the first line of defense for applications against AI-powered fraud attacks, API abuse, and runtime threats. Unlike code scanners and pentesting tools that identify vulnerabilities before release, RASPIRE operates like a security expert running inside applications, monitoring, detecting, and blocking attacks 24/7 in real time. All without writing a single line of code.",
-    "one_liner": "Autonomous Runtime Security",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1780001140,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "B2B",
-      "Cybersecurity",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/raspire",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/raspire.json"
   },
   {
     "id": 32230,
