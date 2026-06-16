@@ -15020,7 +15020,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -43885,17 +43885,18 @@
   },
   {
     "id": 22625,
-    "name": "Gaiia",
+    "name": "gaiia",
     "slug": "gaiia",
     "former_names": [
-      "oxio"
+      "oxio",
+      "Gaiia"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f33f5c2c6c8f8eae4c79b3afb782709b112e4b8.png",
     "website": "http://gaiia.com",
     "all_locations": "Remote, OR, USA; Remote",
     "long_description": "",
     "one_liner": "all-in-one operating system (OS) for telcos",
-    "team_size": 40,
+    "team_size": 100,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1612041832,
@@ -59078,7 +59079,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -70332,17 +70333,17 @@
       "Ultimate Tournament",
       "Tangia"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/20731e8efa0785f3495235679c27e8fd6f2fe2f2.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/77230af72102ed90cdbe2e9c55a7bb68f65b9b9b.png",
     "website": "https://cobbery.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Enabling discovery to be done entirely in-house",
-    "one_liner": "Enabling discovery to be done entirely in-house",
+    "long_description": "Born out of 9-figure litigation, Cobbery AI agents are staffed on every matter to give your litigation teams superpowers",
+    "one_liner": "Superpowers for litigators",
     "team_size": 4,
     "industry": "B2B",
-    "subindustry": "B2B -> Operations",
+    "subindustry": "B2B -> Legal",
     "launched_at": 1653598743,
     "tags": [
-      "AI"
+      "Artificial Intelligence"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -70352,7 +70353,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Operations"
+      "Legal"
     ],
     "regions": [
       "United States of America",
@@ -83699,7 +83700,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -84030,18 +84031,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6603bbbb05f3629720acc724a2c02719efad6f67.png",
     "website": "https://continue.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "AI coding tools made your team ship faster. But standards are slipping through review. Continue runs source-controlled AI checks on every pull request, enforcing your team's conventions, security patterns, and architecture boundaries as native GitHub status checks. Each check is a markdown file in your repo, running as a full AI agent. It only enforces what you asked for and never misses it. Consistency over breadth. Standards as checks, enforced by AI, decided by humans.\r\n\r\nWith hundreds of thousands of users, Continue is loved by developers worldwide at organizations ranging from small startups to Fortune 500 companies. Continue has raised $5.1M from Heavybit, Y Combinator, and angel investors. The company was founded in 2023 and is based in San Francisco.\r\n\r\nWe believe the time is now to create a future where developers are amplified, not automated.",
-    "one_liner": "Quality control for your software factory",
-    "team_size": 5,
+    "long_description": "Acquired by Cursor",
+    "one_liner": "Pioneering open-source coding agent",
+    "team_size": 0,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1688142176,
     "tags": [
       "Artificial Intelligence",
-      "Developer Tools",
-      "DevSecOps",
-      "DevOps",
-      "AI"
+      "Developer Tools"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -86963,6 +86961,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/orbio-earth",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/orbio-earth.json"
+  },
+  {
+    "id": 29160,
+    "name": "Letterbook",
+    "slug": "letterbook",
+    "former_names": [
+      "Usher",
+      "Martin"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c6c57e5c710ca16dd9d6aada5b18cbe7dbed8be8.png",
+    "website": "https://www.letterbook.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Letterbook is the AI-native alternative to Zendesk, Freshdesk, Zohodesk, and Intercom. We help companies manage and resolve customer support tickets across email, in-app feedback, and website forms. Our AI will triage your tickets, write replies, and build your knowledge base.",
+    "one_liner": "AI-native customer support platform",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1689104591,
+    "tags": [
+      "Customer Service",
+      "Customer Support",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/letterbook",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/letterbook.json"
   },
   {
     "id": 29177,
@@ -94674,9 +94716,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -97919,18 +97959,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d93b9323bb2d6146f1e9e67bf29441615e86a467.png",
     "website": "https://opslane.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Opslane is a developer-first Kubernetes delivery platform. Connect your repo and get previews, safe rollouts, and instant rollbacks — no YAML, no ops team required.",
-    "one_liner": "Deploy to Kubernetes in minutes",
+    "long_description": "Opslane verifies that AI-written code actually works. Opslane opens your app in a real browser, clicks through what the PR changed, and posts screenshots, video, and data checks as proof it works.",
+    "one_liner": "Verify AI-generated code before you ship it",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1721925789,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Open Source",
       "Enterprise",
-      "DevOps",
-      "AI"
+      "DevOps"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -98984,7 +99024,7 @@
       "Haystack Software"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd48721d6c682c48e30cb675f7793656d5a02a9f.png",
-    "website": "https://haystackeditor.com/",
+    "website": "https://tryhaystack.dev/",
     "all_locations": "New York, NY, USA",
     "long_description": "Haystack helps engineering teams manage the growing volume of AI-generated pull requests.\r\n\r\nCoding agents make it much easier to produce code, but they also create a new problem: teams now have more changes to review, many of them larger, more frequent, and harder to trust at a glance.\r\n\r\nHaystack sits on top of GitHub and acts as the control layer for AI-generated code changes. For every pull request, it looks at the codebase, the diff, the agent trace, the author’s intent, and any verification evidence like tests, logs, commands, or screenshots.\r\n\r\nThen Haystack decides what should happen next: whether the change can move forward, needs fixes, or should be reviewed by a human.\r\n\r\nTeams use Haystack to keep code moving without turning review into rubber-stamping. It helps them merge more code, focus human attention on the changes that actually need judgment, and maintain quality as AI-generated work becomes a bigger part of development.",
     "one_liner": "The agent-native control layer for code changes",
@@ -98993,10 +99033,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1722315932,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Productivity"
+      "Productivity",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -100031,7 +100071,7 @@
     "website": "https://pipeshift.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Pipeshift helps engineering teams run real-time inference in production. We offer optimized runtimes to meet latency/throughput SLAs, paired with infrastructure orchestration that auto-scales and routes workloads across clusters and regions at cost-effective rates.",
-    "one_liner": "Inference for real-time agents",
+    "one_liner": "Ultra-low latency inference cloud for real-time workloads",
     "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -100055,7 +100095,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -111439,7 +111481,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -112772,16 +112814,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Lark lets teams write end-to-end tests in plain English. Validate dashboards, APIs, SDKs, and full product flows without maintaining fragile test code. Run continuously on feature branches, in CI, or in production.",
     "one_liner": "The E2E testing layer for AI-driven development",
-    "team_size": 2,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1755281037,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "DevOps",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -114599,14 +114641,14 @@
     "subindustry": "B2B -> Marketing",
     "launched_at": 1752263741,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Marketing",
-      "Market Research",
-      "AI"
+      "Market Research"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -114893,7 +114935,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8dd28df9a99151aedfe26a296d8e112af2bf4edb.png",
     "website": "https://misolabs.ai",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Miso Labs is building the world’s most emotive foundation models for voice. We believe that the next generation of AI interactions shouldn't just be functional—they should be human. By bringing warmth and lightning-fast speed to the voice layer, we empower developers to build voice agents that users truly love.",
     "one_liner": "Emotive foundation voice models",
     "team_size": 2,
@@ -114912,8 +114954,7 @@
       "Infrastructure"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -116168,13 +116209,14 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/caf676672b230c36291913a0a2ddce1bd212e7b0.png",
     "website": "https://modelence.com",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "You built the demo in a weekend. Now you need auth, a prod-grade database, real-time events, AI observability, cron jobs, email, monitoring… and you needed them yesterday.\r\n\r\nWe spent a decade at our previous startup, building a platform while scaling to millions of users and customers like Meta & Netflix. Now we put that into an open-source framework, so others wouldn’t have to do the same from scratch.\r\n\r\nModelence is a batteries-included production ready platform for agentic development that abstracts away boilerplate so you can just focus on building your product logic and deploy it to production without worrying about infrastructure.\r\n\r\nShipping production apps is much harder than building a prototype that runs locally and 95% of all production apps share the same building blocks. We did a massive amount of work on our previous platforms that was not specific to our product, and we’ve created Modelence to abstract that away:\r\n- Authentication\r\n- Database setup\r\n- Hosting / CDN\r\n- AI integration (LLM observability, prompts)\r\n- Real-time events\r\n- Cron jobs\r\n- Email service\r\n- Monitoring\r\n- Analytics\r\n- Admin dashboards\r\n\r\nAndrej Karpathy recently posted about this same exact problem:\r\nhttps://x.com/karpathy/status/1905051558783418370\r\n\r\nand explained it further in his YC AI Startup School talk:\r\nhttps://youtu.be/LCEmiRjPEtQ?feature=shared&t=1940",
-    "one_liner": "The full-stack platform for agentic development",
+    "long_description": "You built the demo in a weekend. Now you need auth, a prod-grade database, real-time events, AI observability, cron jobs, email, monitoring… and you needed them yesterday.\r\n\r\nWe spent a decade at our previous startup, building a $500M platform while scaling to millions of users and customers like Meta & Netflix. Now we're standardizing how web applications are built with an open-source framework and AI App Builder, so non developers can build reliable production apps and not just prototypes.\r\n\r\nModelence is a batteries-included platform with a dedicated web app framework that's designed for building production grade apps with AI, abstracting away the standard building blocks:\r\n- Authentication\r\n- Database\r\n- Hosting\r\n- AI integration\r\n- Cron jobs\r\n- Live / real-time data\r\n- Email integration\r\n- Monitoring\r\n\r\nMost AI app builders just stitch together multiple services and existing frameworks. The reliability drops hard because integrations between different parts break. Modelence defines a single full-stack framework with dedicated cloud infrastructure, where these integrations are already built into the framework and don't need to be built for every app.",
+    "one_liner": "Build production-ready apps with AI",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1752778004,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Infrastructure"
     ],
@@ -120898,7 +120940,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ccc3c5e484f835514f0cfb2db7ddd1510a6b0be4.png",
     "website": "https://ploy.ai",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "",
     "one_liner": "Ploy turns your website into your company's growth engine. ",
     "team_size": 14,
@@ -120916,8 +120958,6 @@
       "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -121687,7 +121727,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2026",
     "status": "Active",
@@ -121987,13 +122027,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/532e556aaa674c581b4083dc6595ac75eeeb0b1a.png",
     "website": "https://cignara.com/",
     "all_locations": "",
-    "long_description": "Companies lose revenue every time a customer is stuck in IVR, waits too long for help, gets blocked by a dumb chatbot, or receives a generic answer from an agent without the right context. These are not just support problems. A complaint is a retention moment, an inquiry is a sales moment, and a support call is often an upsell moment.\r\n\r\nWe built Cignara to fix this. Cignara provides end-to-end AI voice and chat agents that use customer context, company data, business logic, and policy rules to take personalized, agentic actions. Every response is grounded, every action is policy-bound, governed, and verifiable, and every conversation is tracked as a business outcome.\r\n\r\nFortune 500 brands like LG use Cignara as fully autonomous agents and as real-time assistants for human teams.",
+    "long_description": "Cignara automates the entire revenue cycle - sales and support - across voice and chat - for Fortune 500-scale companies. Companies like LG love us because of our ability to take personalized, agentic actions within their legacy IT systems, in a way that actively drives revenue increases (not just delivers CSAT).",
     "one_liner": "AI Customer Support for Fortune 500-scale enterprises",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1766553284,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Call Center",
+      "AI Assistant"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -124813,7 +124857,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Moda is the reliability & monitoring layer for agents. It surfaces patterns across agent hallucinations, laziness, forgetfulness, and tool call failures. While also providing analytics on user frustration, net promoter score, retention, and churn rates.\r\n\r\nIn the next 10 years, with more AI agents spawning and trying to get PMF, developing an agent that actually works for users is critical. Everyone has access to the same models, thus the ones that win on a product level will be the ones who learn fastest from real usage. Moda is that learning layer.",
     "one_liner": "The monitoring layer your AI agents need.",
-    "team_size": 2,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1769121297,
@@ -126202,7 +126246,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dbcfda02066d2a118790619245d76bd15d26183.png",
     "website": "https://www.trychert.com/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Chert provides the infrastructure for businesses to automate conversations over iMessage. We’re already working with B2C startups, customer experience teams, and sales teams to reach end users through trusted and conversational messaging. ",
     "one_liner": "iMessage infrastructure for business",
     "team_size": 2,
@@ -126220,8 +126264,7 @@
       "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -126507,7 +126550,7 @@
       "Hub"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3a80b4c53151c13a3264f328d405b5dfd6b54d18.png",
-    "website": "http://hub.xyz",
+    "website": "https://hub.xyz",
     "all_locations": "",
     "long_description": "Hub.xyz provides real-world training data to frontier AI labs",
     "one_liner": "Real-world training data for frontier AI labs and robotics.",
@@ -126783,9 +126826,9 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/638b55f98e908e0ccf30170e7b53dff164439c5b.png",
     "website": "https://qomplement.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "qomplement is the agentic ERP for retail and logistics companies.\r\n\r\nRetail and logistics are the industries with the highest volume of transactions in the world. POs, freight invoices, inventory updates, and shipment confirmations. Every single one still requires a person to process it manually. Their only solution has been hiring more people.\r\n\r\nLegacy ERPs were built for humans. qomplement is the agentic ERP that cuts 95% of manual work and handles 100x more transactions with the same headcount. We give procurement and operations teams superpowers: automating purchase order intake, vendor onboarding, item master updates, freight order processing, carrier invoicing, three-way matching, and inventory reconciliation.\r\n\r\nAlready trusted by some of the largest grocery chains and trucking companies in the world. Headquartered in San Francisco.",
-    "one_liner": "The Agentic ERP replacing Netsuite and SAP",
+    "one_liner": "The Agentic ERP for supply chain operations",
     "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -126801,8 +126844,7 @@
       "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -126821,19 +126863,14 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/085aa6b975fc26df4bd975cbb1ee82cc22f514a2.png",
     "website": "https://pavoot.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Pavoot is an AI event manager for companies that run in-person customer events.\r\n\r\nMore and more companies are investing in dinners, summits, and community events because relationships drive revenue. But today, running events means sourcing attendees, sending invitations, hosting the event, and then manually digging through notes, emails, and spreadsheets afterward to figure out who attended, what was discussed, who is a strong lead, and who should be followed up with. Most teams either send generic \"thanks for coming\" emails or never properly capture the value created during the event.\r\n\r\nPavoot replaces this fragmented workflow with a single AI system that keeps every attendee, interaction, conversation, and follow-up connected in one place, making relationship-driven growth scalable.\r\n\r\nGohar and Ana met while studying Computer Science at ETH Zurich. Gohar is a six-time Swiss chess champion and was the youngest member of Switzerland’s national chess team at age 13. Ana won more than 20 medals in scientific Olympiads, ranked 1st in CS at Latin America’s most competitive university, and built internal AI systems used by hundreds of data scientists at some of the largest banks in Latin America before moving to ETH Zurich for AI research.\r\n\r\n===\r\n\r\nBook a demo: pavoot.com",
     "one_liner": "AI Event Manager for in-person events",
     "team_size": 0,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1778084784,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Marketing",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -126845,8 +126882,7 @@
       "Marketing"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -126899,7 +126935,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1bddf9622d95fa25a8b10500158d81f74f5df2f7.png",
     "website": "https://www.transload.io",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "transload helps logistics companies measure shipments using the security cameras they already have. A pallet, a couch, a tire – we capture its true size as it moves through the warehouse.\r\n\r\nFor our customers, 15% of shipments turn out to be bigger than what the sender claimed. Catching those differences is worth ~$50k per site per month in rebillings and improved trailer utilization.",
     "one_liner": "Measure freight with security cameras",
     "team_size": 3,
@@ -126918,8 +126954,7 @@
       "Supply Chain and Logistics"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -127434,7 +127469,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2026",
     "status": "Active",
@@ -127733,7 +127768,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f82ae07ea418af65738a5555df328a4907b4da13.png",
     "website": "https://tryalchemize.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Alchemize is building an AI-native customs brokerage. Importers are currently hindered by legacy brokers relying on manual workflows, where hand-keyed entries and slow tariff research result in preventable shipping delays, lack of visibility, and unnecessary costs. Alchemize automates these workflows, delivering expert-level compliance at software speed.",
     "one_liner": "AI-Native Customs Brokerage",
     "team_size": 2,
@@ -127752,8 +127787,7 @@
       "Supply Chain and Logistics"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -128302,7 +128336,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f4ef54cc2ae204ad4ac662f9bfacf6a3fa6faf47.png",
     "website": "https://tryardent.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Clone any postgres DB regardless of size in 6s so agents can test their work",
     "one_liner": "Database sandboxes for Agents",
     "team_size": 2,
@@ -128321,8 +128355,7 @@
       "Infrastructure"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -128674,7 +128707,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/64b6d546d22917532ccb4e5251eb0d9aa20d25d4.png",
     "website": "https://prose.md",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "Remote",
     "long_description": "OpenProse is building open-source infrastructure for long-running AI work: a declarative language plus the Reactor harness/runtime for reliable agent workflows.\r\n\r\nOur organic open-source traction (7k+ installs) has already translated into a customer at a medical research lab, starting with a $10k pilot set to roll into a $10k/month contract.\r\n\r\nYC recruited us into the current batch and we've since hired two senior founding team members (ex-Google, Forbes 30u30 harness engineer). All three founding team members are two time founders.\r\n\r\nWe've raised $1.25M in the last two weeks from Jonathan Abrams 8-Bit Capital, Otis Chandler, and other angels.",
     "one_liner": "An open-source operating system for reliable long-running agents",
     "team_size": 3,
@@ -128693,8 +128726,6 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -128823,14 +128854,20 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4785fcf24308f1fcad59fe3eda9fea668524c25f.png",
     "website": "https://www.arzana.com/",
-    "all_locations": "",
-    "long_description": "The fastest-growing manufacturing firms use Arzana’s AI platform to automate order entry, quoting, and customer updates. So teams can scale faster, respond sooner, and grow without adding overhead. ",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Arzana trains custom models on a factory's historical data and use them to deploy agents that automate their quoting, order entry, invoicing, and other repetitive office work. We've saved our customers over $1M in avoided staff costs.\r\n\r\nIn the future, we'll expand into shop-floor automation, sending instructions to machinery and robots to produce the orders that our office agents processed. By 2035, we aim to fully automate 10,000 American factories.",
     "one_liner": "The autonomous ERP for every manufacturer",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1773098013,
-    "tags": [],
+    "tags": [
+      "Machine Learning",
+      "B2B",
+      "Manufacturing",
+      "Operations",
+      "Industrial"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -128842,6 +128879,8 @@
       "Operations"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -129195,7 +129234,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cd583af5fd7e25beb6cf6bd63167daa1273db6c5.png",
     "website": "https://manicule.dev",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Manicule does AgentRel. We get companies discovered and used by AI agents. Think DevRel, rebuilt for a world where agents make all the decisions. We own developer documentation and technical content across social channels, end-to-end. We've grown 100% MoM over the last three months to $53K in monthly revenue, with customers like Supermemory, Greptile, Reducto, and Mastra.\r\n  \r\nGetting discovered and used by agents is its own job now, and the market for it is broken. The SEO/GEO SaaS tools just show you data like where you rank in AI answers. The agencies are slow and lack know-how with agents. The one person who could own all of it end-to-end, a DevRel, is nearly impossible to hire: our customers have had roles open for months at $300K+ and still can't find anyone good. \r\n\r\nWe solve all these gaps. Naman has been doing fractional DevRel since he was 13, working with companies like PromptLayer, Brightdata, and Courier.com. Shreyans has been building since 14 — he built an AI app that hit App Store Productivity Trending within a month, and\r\nwas the founding engineer at Supermemory. We met in high school and have built multiple startups together since.",
     "one_liner": "Devrel for Agents",
     "team_size": 5,
@@ -129214,8 +129253,6 @@
       "Marketing"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -129234,7 +129271,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a54f06b55a2ed047cbb87b6611e0a25bcf346a72.png",
     "website": "https://tryastraea.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Astraea automates clinical trial biometrics from raw study inputs to FDA-ready outputs. The platform handles data normalization, CDISC mapping, SDTM, ADaM, TFLs, QC, and revision workflows in one auditable system, helping Phase II/III sponsors reduce months of manual programming and data management into automated, reviewable execution.",
     "one_liner": "AI Operating System for Clinical Development",
     "team_size": 2,
@@ -129252,8 +129289,7 @@
       "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -129275,7 +129311,7 @@
     "website": "https://gigacatalyst.com/",
     "all_locations": "",
     "long_description": "Gigacatalyst allows sales and CS teams to build missing features that customers need, so you stop losing business because of feature gaps. We’ve helped our customers unblock $1M in sales in 6 weeks.\r\n\r\nWe do this with an embedded AI customization layer that learns your APIs. Each customer can now adapt your product to match their workflows perfectly, and share it across their team with our in-built app store.\r\n\r\nThe result is that customers use your SaaS more, retain for longer, and expand quicker, because they get bespoke implementation for their exact usecase, without waiting.\r\n\r\nWe're live with the top Series B companies with 90% repeat usage rate. Our customers tell us that Gigacatalyst is the best way to increase usage, retention, and expansion in 2026.",
-    "one_liner": "Enterprise embedded AI builder: Your software customers become FDEs",
+    "one_liner": "An AI FDE for every B2B software customer",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -129457,7 +129493,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/de52713fe1552551dbe8aa2a5e60202c09bfc0d7.png",
     "website": "https://insforge.dev/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "InsForge is the agent-native AWS: cloud infrastructure that AI coding agents can understand, operate, and recover from end to end.",
     "one_liner": "The agent-native AWS",
     "team_size": 6,
@@ -129476,8 +129512,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,

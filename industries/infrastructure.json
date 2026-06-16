@@ -8697,18 +8697,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d93b9323bb2d6146f1e9e67bf29441615e86a467.png",
     "website": "https://opslane.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Opslane is a developer-first Kubernetes delivery platform. Connect your repo and get previews, safe rollouts, and instant rollbacks — no YAML, no ops team required.",
-    "one_liner": "Deploy to Kubernetes in minutes",
+    "long_description": "Opslane verifies that AI-written code actually works. Opslane opens your app in a real browser, clicks through what the PR changed, and posts screenshots, video, and data checks as proof it works.",
+    "one_liner": "Verify AI-generated code before you ship it",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1721925789,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Open Source",
       "Enterprise",
-      "DevOps",
-      "AI"
+      "DevOps"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -8882,7 +8882,7 @@
     "website": "https://pipeshift.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Pipeshift helps engineering teams run real-time inference in production. We offer optimized runtimes to meet latency/throughput SLAs, paired with infrastructure orchestration that auto-scales and routes workloads across clusters and regions at cost-effective rates.",
-    "one_liner": "Inference for real-time agents",
+    "one_liner": "Ultra-low latency inference cloud for real-time workloads",
     "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -8906,7 +8906,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -10362,7 +10364,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8dd28df9a99151aedfe26a296d8e112af2bf4edb.png",
     "website": "https://misolabs.ai",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Miso Labs is building the world’s most emotive foundation models for voice. We believe that the next generation of AI interactions shouldn't just be functional—they should be human. By bringing warmth and lightning-fast speed to the voice layer, we empower developers to build voice agents that users truly love.",
     "one_liner": "Emotive foundation voice models",
     "team_size": 2,
@@ -10381,8 +10383,7 @@
       "Infrastructure"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -10485,13 +10486,14 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/caf676672b230c36291913a0a2ddce1bd212e7b0.png",
     "website": "https://modelence.com",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "You built the demo in a weekend. Now you need auth, a prod-grade database, real-time events, AI observability, cron jobs, email, monitoring… and you needed them yesterday.\r\n\r\nWe spent a decade at our previous startup, building a platform while scaling to millions of users and customers like Meta & Netflix. Now we put that into an open-source framework, so others wouldn’t have to do the same from scratch.\r\n\r\nModelence is a batteries-included production ready platform for agentic development that abstracts away boilerplate so you can just focus on building your product logic and deploy it to production without worrying about infrastructure.\r\n\r\nShipping production apps is much harder than building a prototype that runs locally and 95% of all production apps share the same building blocks. We did a massive amount of work on our previous platforms that was not specific to our product, and we’ve created Modelence to abstract that away:\r\n- Authentication\r\n- Database setup\r\n- Hosting / CDN\r\n- AI integration (LLM observability, prompts)\r\n- Real-time events\r\n- Cron jobs\r\n- Email service\r\n- Monitoring\r\n- Analytics\r\n- Admin dashboards\r\n\r\nAndrej Karpathy recently posted about this same exact problem:\r\nhttps://x.com/karpathy/status/1905051558783418370\r\n\r\nand explained it further in his YC AI Startup School talk:\r\nhttps://youtu.be/LCEmiRjPEtQ?feature=shared&t=1940",
-    "one_liner": "The full-stack platform for agentic development",
+    "long_description": "You built the demo in a weekend. Now you need auth, a prod-grade database, real-time events, AI observability, cron jobs, email, monitoring… and you needed them yesterday.\r\n\r\nWe spent a decade at our previous startup, building a $500M platform while scaling to millions of users and customers like Meta & Netflix. Now we're standardizing how web applications are built with an open-source framework and AI App Builder, so non developers can build reliable production apps and not just prototypes.\r\n\r\nModelence is a batteries-included platform with a dedicated web app framework that's designed for building production grade apps with AI, abstracting away the standard building blocks:\r\n- Authentication\r\n- Database\r\n- Hosting\r\n- AI integration\r\n- Cron jobs\r\n- Live / real-time data\r\n- Email integration\r\n- Monitoring\r\n\r\nMost AI app builders just stitch together multiple services and existing frameworks. The reliability drops hard because integrations between different parts break. Modelence defines a single full-stack framework with dedicated cloud infrastructure, where these integrations are already built into the framework and don't need to be built for every app.",
+    "one_liner": "Build production-ready apps with AI",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1752778004,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Infrastructure"
     ],
@@ -11698,7 +11700,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Moda is the reliability & monitoring layer for agents. It surfaces patterns across agent hallucinations, laziness, forgetfulness, and tool call failures. While also providing analytics on user frustration, net promoter score, retention, and churn rates.\r\n\r\nIn the next 10 years, with more AI agents spawning and trying to get PMF, developing an agent that actually works for users is critical. Everyone has access to the same models, thus the ones that win on a product level will be the ones who learn fastest from real usage. Moda is that learning layer.",
     "one_liner": "The monitoring layer your AI agents need.",
-    "team_size": 2,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1769121297,
@@ -12276,7 +12278,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f4ef54cc2ae204ad4ac662f9bfacf6a3fa6faf47.png",
     "website": "https://tryardent.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Clone any postgres DB regardless of size in 6s so agents can test their work",
     "one_liner": "Database sandboxes for Agents",
     "team_size": 2,
@@ -12295,8 +12297,7 @@
       "Infrastructure"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,

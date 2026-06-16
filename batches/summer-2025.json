@@ -1512,16 +1512,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Lark lets teams write end-to-end tests in plain English. Validate dashboards, APIs, SDKs, and full product flows without maintaining fragile test code. Run continuously on feature branches, in CI, or in production.",
     "one_liner": "The E2E testing layer for AI-driven development",
-    "team_size": 2,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1755281037,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "DevOps",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4166,14 +4166,14 @@
     "subindustry": "B2B -> Marketing",
     "launched_at": 1752263741,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Marketing",
-      "Market Research",
-      "AI"
+      "Market Research"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -5898,13 +5898,14 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/caf676672b230c36291913a0a2ddce1bd212e7b0.png",
     "website": "https://modelence.com",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "You built the demo in a weekend. Now you need auth, a prod-grade database, real-time events, AI observability, cron jobs, email, monitoring… and you needed them yesterday.\r\n\r\nWe spent a decade at our previous startup, building a platform while scaling to millions of users and customers like Meta & Netflix. Now we put that into an open-source framework, so others wouldn’t have to do the same from scratch.\r\n\r\nModelence is a batteries-included production ready platform for agentic development that abstracts away boilerplate so you can just focus on building your product logic and deploy it to production without worrying about infrastructure.\r\n\r\nShipping production apps is much harder than building a prototype that runs locally and 95% of all production apps share the same building blocks. We did a massive amount of work on our previous platforms that was not specific to our product, and we’ve created Modelence to abstract that away:\r\n- Authentication\r\n- Database setup\r\n- Hosting / CDN\r\n- AI integration (LLM observability, prompts)\r\n- Real-time events\r\n- Cron jobs\r\n- Email service\r\n- Monitoring\r\n- Analytics\r\n- Admin dashboards\r\n\r\nAndrej Karpathy recently posted about this same exact problem:\r\nhttps://x.com/karpathy/status/1905051558783418370\r\n\r\nand explained it further in his YC AI Startup School talk:\r\nhttps://youtu.be/LCEmiRjPEtQ?feature=shared&t=1940",
-    "one_liner": "The full-stack platform for agentic development",
+    "long_description": "You built the demo in a weekend. Now you need auth, a prod-grade database, real-time events, AI observability, cron jobs, email, monitoring… and you needed them yesterday.\r\n\r\nWe spent a decade at our previous startup, building a $500M platform while scaling to millions of users and customers like Meta & Netflix. Now we're standardizing how web applications are built with an open-source framework and AI App Builder, so non developers can build reliable production apps and not just prototypes.\r\n\r\nModelence is a batteries-included platform with a dedicated web app framework that's designed for building production grade apps with AI, abstracting away the standard building blocks:\r\n- Authentication\r\n- Database\r\n- Hosting\r\n- AI integration\r\n- Cron jobs\r\n- Live / real-time data\r\n- Email integration\r\n- Monitoring\r\n\r\nMost AI app builders just stitch together multiple services and existing frameworks. The reliability drops hard because integrations between different parts break. Modelence defines a single full-stack framework with dedicated cloud infrastructure, where these integrations are already built into the framework and don't need to be built for every app.",
+    "one_liner": "Build production-ready apps with AI",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1752778004,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Infrastructure"
     ],
@@ -6650,10 +6651,10 @@
       "RealRoots Inc."
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e4b72e88bef4437e7d672c23bb7e1f952c837fca.png",
-    "website": "http://www.therealroots.com",
+    "website": "http://www.realroots.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "This is where real friendships begin. Women use our mobile app to talk to Lisa, our AI matchmaker, and get set up for fun social experiences with compatible new friends, all planned and coordinated by AI.",
-    "one_liner": "AI social app for women",
+    "long_description": "Real friendships, made in real life. Answer a few questions, and we'll match you into IRL hangs with women you'll actually click with. Made for women, by women.",
+    "one_liner": "IRL friendship app for women",
     "team_size": 7,
     "industry": "Consumer",
     "subindustry": "Consumer -> Social",
@@ -6661,8 +6662,7 @@
     "tags": [
       "Marketplace",
       "Consumer",
-      "Social Network",
-      "AI"
+      "Social Network"
     ],
     "tags_highlighted": [],
     "top_company": false,
