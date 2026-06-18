@@ -3464,15 +3464,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5d4790f2b102f3fd696a88213e44f23e7083929b.png",
     "website": "http://klarity.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Klarity is Enterprise AI that helps companies like OpenAI, DoorDash, CrowdStrike and Zoom bend the G&A curve.\r\n\r\nKlarity delivers two core capabilities:\r\n(1) unlimited transformation; creating a digital twin of your business to identify gaps, risks and inefficiencies, and provide valuable insights into your business in weeks instead of quarters, and\r\n(2) intelligent document processing that turns contracts, invoices, and POs into audit-ready data with 82%+ pass-through rates.\r\nKlarity reduces OpEx, boosts accuracy, and empowers CFOs to deliver board-ready ROI.",
-    "one_liner": "Klarity: Your Always-On AI Analyst, Advisor & Coach",
+    "long_description": "Klarity is a Company Brain used by OpenAI, DoorDash, ServiceNow, Salesforce, JLL, McKesson, etc.. Our product maps  how work actually gets done, structure it, and reallocate it between people and agents.\r\n\r\nDiscover: Employees log into our web app — nothing to install — share their screen, and work as usual. Klarity maps and anonymizes every task while sending Signals back to highlight what they do well.\r\n\r\nStructure: Klarity agents consolidate activity across the enterprise into a Company Brain: how work gets done, how decisions are made, how approvals flow, how controls are enforced, when work actually happens.\r\n\r\nImprove: Against your business objectives, Klarity finds the right opportunities for agents, builds those agents, and redesigns the people, process, and rituals around them.\r\n",
+    "one_liner": "Company Brain for people and agents to work in harmony. ",
     "team_size": 128,
     "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
+    "subindustry": "B2B",
     "launched_at": 1524539154,
     "tags": [
       "Artificial Intelligence",
-      "ML"
+      "Enterprise",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3481,8 +3482,7 @@
     "batch": "Summer 2018",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Productivity"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -5974,7 +5974,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -7259,6 +7259,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/vogent",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/vogent.json"
+  },
+  {
+    "id": 22708,
+    "name": "Flux Auto",
+    "slug": "flux-auto",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3216297669f8a2cef1d4cb56c1dbc1ec4a127187.png",
+    "website": "https://fluxauto.ai",
+    "all_locations": "Bengaluru, India",
+    "long_description": "Flux Auto is building autonomous mobility technology to fully automate the movement and operation of vehicles in controlled spaces. Using Flux's solutions customers can reduce their dependency on human drivers, while also increasing productivity and reducing operating costs. \r\n\r\nFlux is currently deploying in warehouses, farms and mines.",
+    "one_liner": "General Autonomy for Controlled Spaces",
+    "team_size": 56,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1647888445,
+    "tags": [
+      "Artificial Intelligence",
+      "Autonomous Trucking",
+      "Hard Tech",
+      "Robotics",
+      "Logistics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2021",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "India",
+      "South Asia",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/flux-auto",
+    "api": "https://yc-oss.github.io/api/batches/winter-2021/flux-auto.json"
   },
   {
     "id": 22714,
@@ -13396,50 +13441,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/two-dots.json"
   },
   {
-    "id": 26712,
-    "name": "CodeCanary",
-    "slug": "codecanary",
-    "former_names": [
-      "Bunting Labs",
-      "Atonomo"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/936fc756bb90a52a74ebf1328770458b263316df.png",
-    "website": "https://www.codecanary.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "CodeCanary is an AI product engineer that proactively finds and fixes bugs, improves conversion rate, and gathers insights about your product. CodeCanary runs regularly and connects directly to Slack, GitHub, and PostHog.",
-    "one_liner": "Find and fix bugs from session replays with AI",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1659469853,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Web Development"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/codecanary",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/codecanary.json"
-  },
-  {
     "id": 26718,
     "name": "Cerrion",
     "slug": "cerrion",
@@ -19020,7 +19021,7 @@
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Skyvern helps companies automate browser based workflows using LLMs and Computer Vision, fully automating manual workflows and replacing brittle or unreliable scripts.\r\n\r\nExamples include:\r\n1. Automating materials procurement from commerce websites\r\n2. Completing complex multi-step workflows (ie getting an insurance quote from Geico.com)\r\n3. Automatically logging into portals and downloading invoices\r\n4. Navigating legacy content systems to do data extraction or data entry",
     "one_liner": "Open Source AI Agent to automate browser workflows via an API",
-    "team_size": 6,
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1687648021,
@@ -22601,6 +22602,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/polished",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/polished.json"
+  },
+  {
+    "id": 29333,
+    "name": "LemonSlice",
+    "slug": "lemonslice",
+    "former_names": [
+      "Infinity AI",
+      "Lemon Slice"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/05eb67ac8202d3dd3c90fdda089940b58b254645.png",
+    "website": "https://www.lemonslice.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "LemonSlice is a frontier AI research and product lab building the future of interactive video. Our interactive avatar models allow you to turn a single photo into a real-time video call like FaceTime.  \r\n",
+    "one_liner": "Give your voice agents a face",
+    "team_size": 8,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1709320242,
+    "tags": [
+      "Artificial Intelligence",
+      "Consumer",
+      "Video"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lemonslice",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/lemonslice.json"
   },
   {
     "id": 29334,
@@ -29318,6 +29362,45 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/abundant.json"
   },
   {
+    "id": 30079,
+    "name": "Moonshine",
+    "slug": "moonshine",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41d0d29f17c0fe53c2d566e5f77d03d3f14a7e62.png",
+    "website": "https://usemoonshine.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Extending AI to interact with the real world",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1729546253,
+    "tags": [
+      "Artificial Intelligence",
+      "Machine Learning"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/moonshine",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/moonshine.json"
+  },
+  {
     "id": 30095,
     "name": "Consus",
     "slug": "consus",
@@ -31581,7 +31664,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -32081,49 +32164,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/synthio-labs",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/synthio-labs.json"
-  },
-  {
-    "id": 30426,
-    "name": "Ralo",
-    "slug": "ralo",
-    "former_names": [
-      "Approval AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd1079ebae09b6f3c1cfa789bc4e9fa9c80c8537.png",
-    "website": "https://www.ralo.com/",
-    "all_locations": "New York City, NY, USA",
-    "long_description": "Ralo is a mortgage platform built to deliver lower rates and lower fees by cutting out unnecessary intermediaries. We automate the complex work behind the scenes, from paperwork to pricing and negotiation.",
-    "one_liner": "Find Your Best Mortgage Deal",
-    "team_size": 2,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Consumer Finance",
-    "launched_at": 1744861920,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "Consumer"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Consumer Finance"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ralo",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/ralo.json"
   },
   {
     "id": 30427,
@@ -34593,22 +34633,23 @@
   },
   {
     "id": 30653,
-    "name": "Skope",
-    "slug": "skope",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e403e5ebfb77935a44bb057a8a646c4ae90d54f2.png",
-    "website": "https://useskope.com",
+    "name": "Async",
+    "slug": "withasync",
+    "former_names": [
+      "Skope"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ef853f258eb99b0ff5f02c093cf533799635b8c.png",
+    "website": "https://withasync.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Skope builds AI for core legal workflows. We will save your law firm time and help you make more money, with AI.",
-    "one_liner": "AI Agents for Law Firms.",
+    "long_description": "Async builds frontier AI agents for service businesses like law firms, healthcare clinics and real estate companies.",
+    "one_liner": "AI Agents for Service Businesses.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1750879126,
     "tags": [
       "Artificial Intelligence",
-      "B2B",
-      "Legal"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -34628,8 +34669,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/skope",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/skope.json"
+    "url": "https://www.ycombinator.com/companies/withasync",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/withasync.json"
   },
   {
     "id": 30655,
@@ -34896,49 +34937,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/kestroll",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/kestroll.json"
-  },
-  {
-    "id": 30671,
-    "name": "Panoptive",
-    "slug": "panoptive",
-    "former_names": [
-      "AgentHub"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e968a9edc53bbf932ccbe0585917fe2029077b90.png",
-    "website": "https://www.panoptive.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We turn unstructured monitoring data - monitoring visit reports, EDC data - into structured deviation, safety, and quality findings for human review. Panoptive generates an audit-ready oversight trail as a natural byproduct. \r\n\r\nThe platform aggregates findings and identifies systemic patterns across sites and subjects before they compound, and tracks every finding through decision, follow-up, and resolution.",
-    "one_liner": "Real-time defensible oversight for clinical trials",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1753389326,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Biotech",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/panoptive",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/panoptive.json"
   },
   {
     "id": 30676,
@@ -35496,6 +35494,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/alara.json"
   },
   {
+    "id": 30731,
+    "name": "Maximal",
+    "slug": "maximal",
+    "former_names": [
+      "Lucid Spring",
+      "Palace"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/372f70ec336f450e72151d3d9d0a4035f916b2a7.png",
+    "website": "https://www.trymaximal.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Today, commercial trucking fleets plan and dispatch on gut feel and legacy tooling. Their margin is capped by their planner's cognitive capacity.\r\n\r\nMaximal is an AI planning system that sources loads, builds the plan, and re-optimizes automatically as conditions change. Carriers stop running at the limit of their planner's performance and start running at the limit of our simulation engine and agents. The result: carriers cover more loads, with fewer empty miles, at higher margin.\r\n\r\nLeeds (CEO) studied operations research + computer science at Cornell and Columbia and his family runs a 3PL. He worked on the algorithm's that power Amazon’s robotics in distribution centers and he was the 1st PM at Golden (acquired) and 7th PM at Alchemy (a16z, Coatue). Derek (CTO) studied computer science at USC, was founding engineer at Kits AI (acquired), and was the youngest tech lead in his department at Amazon.",
+    "one_liner": "Truckload Planning at Machine Precision",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1755096535,
+    "tags": [
+      "Artificial Intelligence",
+      "Logistics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/maximal",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/maximal.json"
+  },
+  {
     "id": 30732,
     "name": "Humoniq",
     "slug": "humoniq",
@@ -35577,6 +35618,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pares-ai",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/pares-ai.json"
+  },
+  {
+    "id": 30738,
+    "name": "Altur",
+    "slug": "altur",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ce362aa339ed75ccb6c9572c39d69b3d181f1cc9.png",
+    "website": "https://altur.io",
+    "all_locations": "Mexico City, CDMX, Mexico",
+    "long_description": "Voice AI Agents for Debt Collection",
+    "one_liner": "Voice AI Agents for Debt Collection",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1750622964,
+    "tags": [
+      "Artificial Intelligence"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Mexico",
+      "Latin America",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/altur",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/altur.json"
   },
   {
     "id": 30739,
@@ -37298,18 +37379,19 @@
   },
   {
     "id": 30929,
-    "name": "Inspector",
-    "slug": "inspector",
+    "name": "Sol",
+    "slug": "solbrowser",
     "former_names": [
       "sandbox.ai",
       "Cheepr.ai",
-      "FunForge.ai"
+      "FunForge.ai",
+      "Inspector"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3a74c32ba5c193f4216d063ad72608f841e04786.png",
-    "website": "https://www.tryinspector.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dbe7084af8a106e89b75c980e855e0e9ac2aaedf.png",
+    "website": "https://www.solbrowser.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Inspector is the AI IDE for designers to ship to prod. Just select any element on your live front end, edit it like you would in Figma, and Inspector writes the changes straight to your codebase.",
-    "one_liner": "AI IDE for front-end development",
+    "long_description": "Sol is a browser where developers can orchestrate agents from their tabs. Ship 100x from a single place where agents can see, navigate, and act on your workspace.",
+    "one_liner": "Code and browse in the same place",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -37339,8 +37421,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/inspector",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/inspector.json"
+    "url": "https://www.ycombinator.com/companies/solbrowser",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/solbrowser.json"
   },
   {
     "id": 30930,
@@ -37724,50 +37806,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/diligencesquared-inc",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/diligencesquared-inc.json"
-  },
-  {
-    "id": 30995,
-    "name": "Velvet",
-    "slug": "velvet",
-    "former_names": [
-      "Inline",
-      "Lenscape"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c02ad81894db8e1b1d0e71c379c7cae04211613.png",
-    "website": "https://velvetlab.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Bringing data realism to frontier models.",
-    "one_liner": "Bringing data realism to frontier models.",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1761236237,
-    "tags": [
-      "Artificial Intelligence",
-      "Generative AI",
-      "Data Engineering",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/velvet",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/velvet.json"
   },
   {
     "id": 31008,
@@ -38554,6 +38592,46 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/korso.json"
   },
   {
+    "id": 31359,
+    "name": "Twolabs",
+    "slug": "twolabs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6140e69d64bb482f52d28db6644ebb4a4c700ef.png",
+    "website": "https://www.twolabs.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We build modular humanoid robots and the software platform that allows anyone to train, deploy, and scale robots for real-world tasks.\r\n\r\nToday, teaching a robot a new skill requires robotics engineers, machine learning engineers, training infrastructure, and significant compute resources. We reduce that process to:\r\nRecord → Upload → Train → Deploy.\r\n\r\nOur robots are modular and configurable, with interchangeable end effectors, configurable sensors, and multiple deployment configurations. \r\n\r\nWe believe current humanoid embodiments are often overfit for specific use cases, so we're building a platform that adapts to different environments and applications.\r\n\r\nLong term, we want robotics to be as accessible as software development. Our goal is to become the default platform for training and deploying autonomous robots.",
+    "one_liner": "Humanoid robot platform for builders.",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1779755220,
+    "tags": [
+      "Artificial Intelligence",
+      "Robotics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/twolabs",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/twolabs.json"
+  },
+  {
     "id": 31368,
     "name": "Zenbu",
     "slug": "zenbu-2",
@@ -38719,6 +38797,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pops",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/pops.json"
+  },
+  {
+    "id": 31506,
+    "name": "Tolmo",
+    "slug": "tolmo",
+    "former_names": [
+      "Droid Factory"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8b1fe60a254c3f83e0d218298337418aad753714.png",
+    "website": "https://www.tolmo.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Tolmo is an agent-driven security platform that secures every layer — code, CI, cloud applications at the speed of AI changes.\r\n\r\nCodebases are growing faster than ever, at a rate humans can’t keep up with. Tolmo deploys fleets of AI security agents on a live production knowledge graph that connects data from cloud services, containers, databases, and third-party providers (Observability, Security, etc.).\r\n\r\nTolmo agents triage, verify impact, and remediate security issues autonomously, escalating to humans only when truly necessary.",
+    "one_liner": "Tolmo is the AI security platform that secures every layer of cloud…",
+    "team_size": 12,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1781726326,
+    "tags": [
+      "Artificial Intelligence",
+      "DevSecOps",
+      "Security"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tolmo",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/tolmo.json"
   },
   {
     "id": 32194,

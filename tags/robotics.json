@@ -1658,11 +1658,11 @@
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1647888445,
     "tags": [
+      "Artificial Intelligence",
       "Autonomous Trucking",
       "Hard Tech",
       "Robotics",
-      "Logistics",
-      "AI"
+      "Logistics"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3363,48 +3363,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/proception-inc.json"
   },
   {
-    "id": 30409,
-    "name": "Notus Autonomous Systems",
-    "slug": "notus-autonomous-systems",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/64d433326d1439cca20362b396d9908aa3f426b0.png",
-    "website": "http://www.notussystems.com/",
-    "all_locations": "Los Angeles, CA, USA",
-    "long_description": "We are making drone swarms of arbitrary size which are strategically immune to RF interference using phased arrays at 60GHz steered by a novel radar algorithm.",
-    "one_liner": "Arbitrary size interference resistant drone swarms using EHF radios",
-    "team_size": 3,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Aviation and Space",
-    "launched_at": 1746979571,
-    "tags": [
-      "Robotics",
-      "Drones",
-      "3D Printing",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Aviation and Space"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/notus-autonomous-systems",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/notus-autonomous-systems.json"
-  },
-  {
     "id": 30430,
     "name": "Almond",
     "slug": "almond-2",
@@ -4440,6 +4398,46 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/fern-bot",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/fern-bot.json"
+  },
+  {
+    "id": 31359,
+    "name": "Twolabs",
+    "slug": "twolabs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6140e69d64bb482f52d28db6644ebb4a4c700ef.png",
+    "website": "https://www.twolabs.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We build modular humanoid robots and the software platform that allows anyone to train, deploy, and scale robots for real-world tasks.\r\n\r\nToday, teaching a robot a new skill requires robotics engineers, machine learning engineers, training infrastructure, and significant compute resources. We reduce that process to:\r\nRecord → Upload → Train → Deploy.\r\n\r\nOur robots are modular and configurable, with interchangeable end effectors, configurable sensors, and multiple deployment configurations. \r\n\r\nWe believe current humanoid embodiments are often overfit for specific use cases, so we're building a platform that adapts to different environments and applications.\r\n\r\nLong term, we want robotics to be as accessible as software development. Our goal is to become the default platform for training and deploying autonomous robots.",
+    "one_liner": "Humanoid robot platform for builders.",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1779755220,
+    "tags": [
+      "Artificial Intelligence",
+      "Robotics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/twolabs",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/twolabs.json"
   },
   {
     "id": 31375,

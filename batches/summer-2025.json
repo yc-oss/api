@@ -865,7 +865,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "AgentMail is the email inbox API for AI agents. It gives agents their own email inboxes, like Gmail does for humans.",
     "one_liner": "Email Inboxes for AI Agents",
-    "team_size": 8,
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1750990316,
@@ -1160,23 +1160,17 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9323f5fe8a247ae355ff7d76dd80f82fd6b8e192.png",
     "website": "https://www.shorpay.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Shor is international payroll, built for founders. Hire your first international employee or contractor at startup speed. Set up on one call, run payroll the same week.\r\n\r\nPay contractors and employ full-time team members through Shor's EOR across the world. Localized contracts, automatic compliance, and same-day local-currency payouts at a flat FX margin. No setup fees, no lock-ins.\r\n\r\nBacked by Polychain Capital, Founders Capital, and Goodwater, among others.",
     "one_liner": "International payroll, built for founders",
     "team_size": 4,
     "industry": "Fintech",
     "subindustry": "Fintech -> Payments",
     "launched_at": 1753916245,
-    "tags": [
-      "Fintech",
-      "B2B",
-      "HR Tech",
-      "Payroll",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -1185,8 +1179,6 @@
       "Payments"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -2163,22 +2155,23 @@
   },
   {
     "id": 30653,
-    "name": "Skope",
-    "slug": "skope",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e403e5ebfb77935a44bb057a8a646c4ae90d54f2.png",
-    "website": "https://useskope.com",
+    "name": "Async",
+    "slug": "withasync",
+    "former_names": [
+      "Skope"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ef853f258eb99b0ff5f02c093cf533799635b8c.png",
+    "website": "https://withasync.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Skope builds AI for core legal workflows. We will save your law firm time and help you make more money, with AI.",
-    "one_liner": "AI Agents for Law Firms.",
+    "long_description": "Async builds frontier AI agents for service businesses like law firms, healthcare clinics and real estate companies.",
+    "one_liner": "AI Agents for Service Businesses.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1750879126,
     "tags": [
       "Artificial Intelligence",
-      "B2B",
-      "Legal"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2198,8 +2191,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/skope",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/skope.json"
+    "url": "https://www.ycombinator.com/companies/withasync",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/withasync.json"
   },
   {
     "id": 30655,
@@ -2754,16 +2747,16 @@
     "website": "https://www.panoptive.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We turn unstructured monitoring data - monitoring visit reports, EDC data - into structured deviation, safety, and quality findings for human review. Panoptive generates an audit-ready oversight trail as a natural byproduct. \r\n\r\nThe platform aggregates findings and identifies systemic patterns across sites and subjects before they compound, and tracks every finding through decision, follow-up, and resolution.",
-    "one_liner": "Real-time defensible oversight for clinical trials",
+    "one_liner": "The continuous oversight engine for clinical trials",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1753389326,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Biotech",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4698,15 +4691,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/372f70ec336f450e72151d3d9d0a4035f916b2a7.png",
     "website": "https://www.trymaximal.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Today, commercial trucking fleets plan and dispatch on gut feel and legacy tooling. Their margin is capped by their planner's cognitive capacity.\r\n\r\nMaximal is an AI planning system that sources loads, builds the plan, and re-optimizes automatically as conditions change. Carriers stop running at the limit of their planner's performance and start running at the limit of our simulation engine and agents. The result: carriers covering more loads, with fewer empty miles, at higher margin.\r\n\r\nLeeds (CEO) studied operations research + computer science at Cornell and Columbia and his family runs a 3PL. He worked on the algorithm's that power Amazon’s robotics in distribution centers and he was the 1st PM at Golden (acquired) and 7th PM at Alchemy (a16z, Coatue). Derek (CTO) studied computer science at USC, was founding engineer at Kits AI (acquired), and was the youngest tech lead in his department at Amazon.",
+    "long_description": "Today, commercial trucking fleets plan and dispatch on gut feel and legacy tooling. Their margin is capped by their planner's cognitive capacity.\r\n\r\nMaximal is an AI planning system that sources loads, builds the plan, and re-optimizes automatically as conditions change. Carriers stop running at the limit of their planner's performance and start running at the limit of our simulation engine and agents. The result: carriers cover more loads, with fewer empty miles, at higher margin.\r\n\r\nLeeds (CEO) studied operations research + computer science at Cornell and Columbia and his family runs a 3PL. He worked on the algorithm's that power Amazon’s robotics in distribution centers and he was the 1st PM at Golden (acquired) and 7th PM at Alchemy (a16z, Coatue). Derek (CTO) studied computer science at USC, was founding engineer at Kits AI (acquired), and was the youngest tech lead in his department at Amazon.",
     "one_liner": "Truckload Planning at Machine Precision",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1755096535,
     "tags": [
-      "Logistics",
-      "AI"
+      "Artificial Intelligence",
+      "Logistics"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4898,12 +4891,12 @@
     "all_locations": "Mexico City, CDMX, Mexico",
     "long_description": "Voice AI Agents for Debt Collection",
     "one_liner": "Voice AI Agents for Debt Collection",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1750622964,
     "tags": [
-      "AI"
+      "Artificial Intelligence"
     ],
     "tags_highlighted": [],
     "top_company": false,
