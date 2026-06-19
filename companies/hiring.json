@@ -7810,7 +7810,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5d4790f2b102f3fd696a88213e44f23e7083929b.png",
     "website": "http://klarity.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Klarity is a Company Brain used by OpenAI, DoorDash, ServiceNow, Salesforce, JLL, McKesson, etc.. Our product maps  how work actually gets done, structure it, and reallocate it between people and agents.\r\n\r\nDiscover: Employees log into our web app — nothing to install — share their screen, and work as usual. Klarity maps and anonymizes every task while sending Signals back to highlight what they do well.\r\n\r\nStructure: Klarity agents consolidate activity across the enterprise into a Company Brain: how work gets done, how decisions are made, how approvals flow, how controls are enforced, when work actually happens.\r\n\r\nImprove: Against your business objectives, Klarity finds the right opportunities for agents, builds those agents, and redesigns the people, process, and rituals around them.\r\n",
+    "long_description": "Klarity is a Company Brain used by OpenAI, DoorDash, ServiceNow, Salesforce, JLL, McKesson for AI Transformation. Our product maps  how work actually gets done, structure it, and reallocate it between people and agents.\r\n\r\nDiscover: Employees log into our web app — nothing to install — share their screen, and work as usual. Klarity maps and anonymizes every task while sending Signals back to highlight what they do well.\r\n\r\nStructure: Klarity agents consolidate activity across the enterprise into a Company Brain: how work gets done, how decisions are made, how approvals flow, how controls are enforced, when work actually happens.\r\n\r\nImprove: Against your business objectives, Klarity finds the right opportunities for agents, builds those agents, and redesigns the people, process, and rituals around them.\r\n",
     "one_liner": "Company Brain for people and agents to work in harmony. ",
     "team_size": 128,
     "industry": "B2B",
@@ -18536,6 +18536,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/enode",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/enode.json"
+  },
+  {
+    "id": 22958,
+    "name": "Text Blaze",
+    "slug": "text-blaze",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3155ba3b687741c19a97719f6f226e3e148c98f5.png",
+    "website": "https://blaze.today",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Text Blaze saves time and increases comms quality by automating repeated tasks. Users save smart templates and insert them anywhere on the web using keyboard shortcuts. Templates can include placeholders, logic, dynamic fields, integrations with other apps, and more. ",
+    "one_liner": "Slash commands anywhere",
+    "team_size": 9,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1615472232,
+    "tags": [
+      "Robotic Process Automation",
+      "SaaS",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2021",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/text-blaze",
+    "api": "https://yc-oss.github.io/api/batches/winter-2021/text-blaze.json"
   },
   {
     "id": 22983,
@@ -31804,7 +31847,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -39236,7 +39279,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dedc5ca68422aae62a4f58f3a0823d0903b71997.png",
     "website": "https://morphllm.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Fast Open-Source models: Deepseek v4 flash, qwen 397b, at 200+ tps\r\nFast Apply - Edit Files Faster - 10,500 tok/sec\r\nWarpGrep - Fast Context - 5x faster agentic code search subagent. eliminates context rot\r\nFlash Compact - 33k tps context compaction",
+    "long_description": "Specialized inference optimization for codegen\r\n\r\nFast Open-Source models: Deepseek v4 flash, qwen 397b, at 200+ tps\r\nSpecialized models for applying edits, code search, compaction, and model routing",
     "one_liner": "Fast Models Optimized for Coding Agents",
     "team_size": 3,
     "industry": "B2B",
@@ -44776,14 +44819,14 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Corgi is a full-stack insurance carrier building better, faster insurance products for startups. We’re not a broker, so we underwrite and issue policies directly, with fewer handoffs and less friction. Cutting out intermediaries lets us tailor coverage to how your company actually operates and price risk more efficiently.\r\n\r\n",
     "one_liner": "Corgi is building an AI financial infrastructure company",
-    "team_size": 100,
+    "team_size": 150,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1720644316,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
-      "Insurance",
-      "AI"
+      "Insurance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -44799,7 +44842,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -50303,7 +50346,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "SubImage builds maps of your infrastructure to give you visibility on what assets you have and how they relate to each other. This enables any security team to deeply understand their environments and reduce risk.\r\n\r\nSubImage is a managed offering built around the Cartography open-source project, and is founded by members of Cartography's original team.",
     "one_liner": "Software that maps your infrastructure. Open core alternative to Wiz",
-    "team_size": 5,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1736799545,
@@ -51447,7 +51490,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d7946ea974cf7a753814028e684ac774c9c4073.png",
     "website": "https://lucid.ai",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "We are building universe simulations powered by interactive video models.\r\n\r\nWe train video models that simulate hyper-realistic environments with immersive control, replacing hard-coded game or physics engines with dynamic neural networks.\r\n\r\nWe built the fastest action-conditioned diffusion video model (running at 20+fps on a 4090 gaming gpu) to simulate minecraft. It is 5x faster than other minecraft World Models and was trained with 100x less resources. Our unique insight was relying on aggressive compression in our tokenizer (128x versus the traditional 8x), and because attention scales quadratically with # of tokens our model can run blindingly faster.\r\n\r\nNow we’re training a hyper realistic world model!",
     "one_liner": "interactive video models",
     "team_size": 3,
@@ -51465,8 +51508,6 @@
       "Consumer"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -52813,7 +52854,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c1261383b7f5f7d5fcba63a49453bf6d9148fcfc.png",
     "website": "https://www.ambral.com/",
     "all_locations": "New York City, NY, USA",
-    "long_description": "AI for account management and customer success. Ambral has already been used to drive $XXm in expansion revenue at multi-billion dollar enterprises and top scale-ups.\r\n\r\nAmbral synthesizes signals from all customer activity and interactions into AI-powered models of every account. It pinpoints who needs attention and why, and autonomously takes the best next action to drive expansions, prevent churn, and ensure no customer slips through the cracks. \r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI at Everlywell and early PM at Wonder (now valued at $7bn). Lived the pain of losing customer intimacy at scale and is obsessed with solving it. \r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the most complex machines ever created. He’s now doing the same for the complexities of customer relationships. ",
+    "long_description": "AI for account management and customer success. Ambral has already been used to drive hundreds of millions of dollars in attributable expansion revenue at multi-billion dollar enterprises and top scale-ups.\r\n\r\nAmbral synthesizes signals from all customer activity and interactions into AI-powered models of every account. It pinpoints who needs attention and why, and autonomously takes the best next action to drive expansions, prevent churn, and ensure no customer slips through the cracks. \r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI at Everlywell and early PM at Wonder (now valued at $7bn). Lived the pain of losing customer intimacy at scale and is obsessed with solving it. \r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the most complex machines ever created. He’s now doing the same for the complexities of customer relationships. ",
     "one_liner": "AI for account management and customer success",
     "team_size": 3,
     "industry": "B2B",
@@ -53464,6 +53505,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/auctor",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/auctor.json"
+  },
+  {
+    "id": 30426,
+    "name": "Ralo",
+    "slug": "ralo",
+    "former_names": [
+      "Approval AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd1079ebae09b6f3c1cfa789bc4e9fa9c80c8537.png",
+    "website": "https://www.ralo.com/",
+    "all_locations": "",
+    "long_description": "Ralo is the first AI-native mortgage broker. We use AI to remove layers of overhead and pass the savings back to borrowers. Our customers get rates more than half a point below the national average, save tens of thousands of dollars over the life of their loan. ",
+    "one_liner": "AI-Native Mortgage Broker",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Consumer Finance",
+    "launched_at": 1744861920,
+    "tags": [
+      "Fintech",
+      "Consumer Finance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Consumer Finance"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ralo",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/ralo.json"
   },
   {
     "id": 30429,
@@ -54367,8 +54450,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/81ca0035244a123067c03e5df2d892bbd9cb7d00.png",
     "website": "https://www.klavis.ai/",
     "all_locations": "",
-    "long_description": "Powering frontier AI labs with real world MCP environments and complex, long-horizon agentic tool-use data.",
-    "one_liner": "Live Environments for Training AI Agents",
+    "long_description": "Powering frontier AI labs with complex, long-horizon agentic tool-use data.",
+    "one_liner": "High Quality Coding & Agentic Data for AI labs",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -57869,7 +57952,7 @@
     "all_locations": "Austin, TX, USA",
     "long_description": "Vulcan uses AI to map every law, regulation, and court case in America, allowing government agencies and businesses to replace massive consulting projects with instant automated analyses. We call this \"intelligent legal cartography.\"\r\n\r\nIn 3 months, we went from zero customers to Virginia's Executive Order 51, requiring all state agencies to use Vulcan.\r\n\r\nOur initial agency partners use legal cartography to draft lawful regulations, respond to public comments on regulations, and instantly generate mandatory cost-benefit analyses.\r\n\r\nWe have both public and private sector visions.\r\n\r\nIn the public sector: we automate the entire regulatory process end-to-end; replacing the consulting industrial complex with software.\r\n\r\nIn the private sector: we automate legal tracking and regulatory compliance, tackling the $4 trillion regulatory cost on the U.S. economy.",
     "one_liner": "AI for every law, regulation, and court case",
-    "team_size": 6,
+    "team_size": 14,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1750286926,
@@ -59441,45 +59524,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/scott-ai",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/scott-ai.json"
-  },
-  {
-    "id": 30944,
-    "name": "Prism",
-    "slug": "tryprism",
-    "former_names": [
-      "Grappl",
-      "HireGlide"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e52603aa2143dd9017a5e541c9233008c5afe63.png",
-    "website": "https://tryprism.com/",
-    "all_locations": "",
-    "long_description": "Prism is an AI-native recruiting agency. We use software and agents to find companies better people faster.\r\n\r\n",
-    "one_liner": "AI-native recruiting agency",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Recruiting and Talent",
-    "launched_at": 1762295048,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Recruiting and Talent"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tryprism",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/tryprism.json"
   },
   {
     "id": 30945,
@@ -62231,7 +62275,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/69e41f29f70735fdb2645501787e9a1ddf8d46dc.png",
     "website": "https://trybloom.ai",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Bloom is the brand layer for agents - it turns brand into infrastructure that any agent, app, or platform can call.\r\n\r\nIngest your brand from anywhere - decks, websites, social, Figma, and more.\r\nBloom systemises your brand, enabling the creation of on-brand outputs like images, video, video, copy, and more, through the web app, the API, or MCP.\r\n\r\nWe're building brand-as-infrastructure for the AI era.\r\n",
     "one_liner": "The brand layer for agents.",
     "team_size": 3,
@@ -62249,7 +62293,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -62635,41 +62680,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/andco",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/andco.json"
-  },
-  {
-    "id": 31413,
-    "name": "Arga Labs",
-    "slug": "arga-labs",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e3d9a7c1d8ec13bb1565520e7fc7a6ca3a8fa82.png",
-    "website": "https://www.argalabs.com/",
-    "all_locations": "",
-    "long_description": "We build environments to test your app and agents against the real world.\r\n\r\nDeploy your code/agent into a sandbox that runs against replicas of external services (Stripe, Slack, Google Drive, etc.). Twins support the same APIs, MCP tool calls & SDKs as the real software, and you can spin up thousands of instances in parallel and seed them using natural language. Run real workflows, surface edge cases, and observe how your code/agents actually behave before hitting production.",
-    "one_liner": "Real-world sandboxes to test agents and agent-facing software",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1771902214,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/arga-labs",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/arga-labs.json"
   },
   {
     "id": 31415,
