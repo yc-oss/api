@@ -28285,7 +28285,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -39457,7 +39457,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "&AI is a collaborative workspace that delivers trial-ready work product for patent litigators — fast enough for pitches, strong enough for court.",
     "one_liner": "Collaborative workspace for patent litigators",
-    "team_size": 13,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1719938647,
@@ -44701,7 +44701,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -45251,9 +45251,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9c3bc6a804835cf4e60592673af66342d45aa417.png",
     "website": "https://www.trylapis.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lapis gives businesses the ability to generate on-brand advertising creatives using AI, and run end-end ads on ChatGPT. It uses existing assets like logos, colors, fonts, and product images, and automatically creates image ads that match a company's visual identity and voice across ChatGPT, Meta, and Google.\r\n\r\nWith Lapis, businesses can rapidly iterate on creatives and A/B test at scale without being bottlenecked by design and creative capacity.\r\n\r\nLapis is used by 1,000+ marketing teams, from big businesses like Hyundai and Tata to small businesses around the world, and supports 15+ languages including English, Spanish, and Italian.",
+    "long_description": "Lapis gives businesses the ability to run end-end ads on AI platforms, starting with ChatGPT Ads. With Lapis, businesses can rapidly iterate on ad copies and A/B test at scale without being bottlenecked by design and creative capacity.\r\n\r\nLapis can also be used on traditional ad platforms like Google and Meta, where marketers can use Lapis to generate ad creatives, headlines, and get feedback on what ads actually work.\r\n\r\nLapis is used by 1,000+ marketing teams, from big businesses like Hyundai and Tata to small businesses around the world, and supports 15+ languages including English, Spanish, and Italian.",
     "one_liner": "AI that creates and runs ads, end-end",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1760555997,
@@ -47093,6 +47093,49 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/carrot-labs.json"
   },
   {
+    "id": 31346,
+    "name": "Rudus",
+    "slug": "rudus",
+    "former_names": [
+      "BuildFlux"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/407f4a93871730524968180bcf20dd23fc9ce7b2.png",
+    "website": "http://rudus.ai/",
+    "all_locations": "",
+    "long_description": "Rudus is an AI-powered takeoff and estimation platform enabling concrete contractors to win 3x more projects yearly. It automatically identifies every concrete structure like footings, walls, columns, and slabs on plans, eliminating the manual work and reducing estimation time by 70%. Concrete is the most-used material on earth after water, and demand is surging with the AI infrastructure boom.",
+    "one_liner": "AI Takeoffs for Concrete",
+    "team_size": 2,
+    "industry": "Real Estate and Construction",
+    "subindustry": "Real Estate and Construction -> Construction",
+    "launched_at": 1777879888,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Construction",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Real Estate and Construction",
+      "Construction"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rudus",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/rudus.json"
+  },
+  {
     "id": 31414,
     "name": "Drip",
     "slug": "drippay",
@@ -47217,6 +47260,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/infera",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/infera.json"
+  },
+  {
+    "id": 31516,
+    "name": "Expanse",
+    "slug": "expanse",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/26ca5cac6157441dd12d0352f7d3fd4a77c4c39a.png",
+    "website": "https://expanse.sh",
+    "all_locations": "",
+    "long_description": "Expanse unlocks wasted GPU capacity. We recover idle compute through three capabilities: resource prediction (right-sizing job submissions before they reach the scheduler), optimisation suggestions (code and config changes researchers can apply themselves), and failure prediction (catching jobs that will fail before they consume hours of GPU time).\r\n\r\nWe’re four engineers. We ran HPC and GPU training workloads at the largest quant funds and national supercomputing centres. We faced this problem first hand and the only fix was to over-provision and burn millions. Ismaeel built the first multimodal HPC resource predictor as research at EPCC (Edinburgh’s Parallel Computing Centre), which beat every published baseline. This is the tool we wish we had.",
+    "one_liner": "Unlock wasted GPU capacity.",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1777849866,
+    "tags": [
+      "Deep Learning",
+      "B2B",
+      "Infrastructure",
+      "ML"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/expanse",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/expanse.json"
   },
   {
     "id": 31527,

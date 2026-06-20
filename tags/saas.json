@@ -34692,7 +34692,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -43122,7 +43122,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "&AI is a collaborative workspace that delivers trial-ready work product for patent litigators — fast enough for pitches, strong enough for court.",
     "one_liner": "Collaborative workspace for patent litigators",
-    "team_size": 13,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1719938647,
@@ -46895,17 +46895,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4149c6afc651c9770fc182e08dde776e24f88554.png",
     "website": "https://hyperspell.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Hyperspell is the Memory & Context Layer for AI Agents.\r\n\r\nAI agents are clueless geniuses. They crush humans on any standardized test, but wouldn't last a day at a real job. What today's super-intelligent agents are missing is the real world context they are operating in. A context that humans stitch together from hundreds of data points across dozens of interactions and channels. A context that grows with their tasks.\r\n\r\nHyperspell gives AI agents this context by connecting to their user’s workspace data and building a personalized memory and context layer.",
-    "one_liner": "Memory for AI Agents",
-    "team_size": 6,
+    "long_description": "Hyperspell is your Company Brain. AI agents are brilliant and clueless. They ace any test and still have no idea how your company works. Hyperspell connects your tools and synthesizes documents and conversations into a live, permissioned context graph. Any agent can read from it and write back to it like a filesystem, with every fact traced to source.",
+    "one_liner": "Your Company Brain",
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1760534513,
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
       "SaaS",
-      "Data Engineering"
+      "Data Engineering",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46925,7 +46925,7 @@
     ],
     "stage": "Early",
     "app_video_public": false,
-    "demo_day_video_public": true,
+    "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hyperspell",
@@ -46943,14 +46943,14 @@
     "website": "https://www.sembleai.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Semble builds custom AI agents trained on how your business actually runs and plugged into the tools your team already lives in.\r\n\r\nJonathan and Ethan met studying computer science at Stanford. Jonathan worked at Convergint, one of the world's largest building system integrators.",
-    "one_liner": "AI workflow automation for operations",
+    "one_liner": "AI Agents for contractors, manufacturers, and logistics",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1758754473,
     "tags": [
-      "Artificial Intelligence",
-      "SaaS"
+      "SaaS",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47490,6 +47490,49 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/korso",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/korso.json"
+  },
+  {
+    "id": 31346,
+    "name": "Rudus",
+    "slug": "rudus",
+    "former_names": [
+      "BuildFlux"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/407f4a93871730524968180bcf20dd23fc9ce7b2.png",
+    "website": "http://rudus.ai/",
+    "all_locations": "",
+    "long_description": "Rudus is an AI-powered takeoff and estimation platform enabling concrete contractors to win 3x more projects yearly. It automatically identifies every concrete structure like footings, walls, columns, and slabs on plans, eliminating the manual work and reducing estimation time by 70%. Concrete is the most-used material on earth after water, and demand is surging with the AI infrastructure boom.",
+    "one_liner": "AI Takeoffs for Concrete",
+    "team_size": 2,
+    "industry": "Real Estate and Construction",
+    "subindustry": "Real Estate and Construction -> Construction",
+    "launched_at": 1777879888,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Construction",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Real Estate and Construction",
+      "Construction"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rudus",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/rudus.json"
   },
   {
     "id": 31363,
