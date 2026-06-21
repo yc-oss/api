@@ -64474,7 +64474,7 @@
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "RevenueCat is a mobile SDK and API for managing in-app subscriptions\r\n\r\nWe take the sting out of supporting the complicated subscription systems of the App Store and Google Play Store, and help you focus on running your business. ",
     "one_liner": "A simple API for managing in-app subscriptions",
-    "team_size": 70,
+    "team_size": 150,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1524629145,
@@ -90056,7 +90056,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -90959,7 +90959,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd37712a664bd3d0f09c27d1816b43518fb60775.png",
     "website": "https://buildbuddy.io",
-    "all_locations": "Palo Alto, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "",
     "one_liner": "BuildBuddy provides enterprise features for Bazel — the open source…",
     "team_size": 15,
@@ -138504,7 +138504,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -185433,7 +185433,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -205085,18 +205085,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0aaaece51f8461a1fcd555d3c78601c9adf54414.png",
     "website": "https://rescript.ai/",
     "all_locations": "Washington, DC, USA",
-    "long_description": "Rescript helps compliance and advocacy teams effortlessly research and monitor changing laws and public policy. F100 enterprises, AmLaw100 firms, and BGov Top-10 lobbying firms use Rescript to summarize the legal landscape for their issues, and then track how it changes over time. We're backed by seed funding from YC, General Catalyst, and Floodgate. ",
+    "long_description": "Rescript helps compliance and advocacy teams effortlessly research and monitor changing laws and public policy. F100 enterprises, AmLaw100 firms, and top lobbying firms use Rescript to summarize the legal landscape for their issues, and then track how it changes over time. We're backed by YC, General Catalyst, and Floodgate. ",
     "one_liner": "AI for Legal & Public Policy Teams",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1725406800,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Civic Tech",
       "B2B",
-      "LegalTech",
-      "AI"
+      "LegalTech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -205893,18 +205893,19 @@
   },
   {
     "id": 29826,
-    "name": "Orca Launcher",
-    "slug": "orca-launcher",
+    "name": "Orca Client",
+    "slug": "orca-client",
     "former_names": [
       "Titan",
       "Simplifine",
-      "Orca"
+      "Orca",
+      "Orca Launcher"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3264c421729b2bff6ef1ef17bf775cafd7c098a6.png",
-    "website": "https://orcalauncher.com",
+    "website": "https://orcaclient.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Orca is a game platform for Minecraft. Players browse games and experiences and join with one click, no mod installation, no setup. We handle hosting and mod delivery for server owners and game creators, who earn revenue from their games. Think Roblox, but built on top of Minecraft's 312M player base.",
-    "one_liner": "A launcher that turns Minecraft into a game platform like Roblox ",
+    "long_description": "Orca is a game launcher for Minecraft. Players browse games and experiences and join with one click, no mod installation, no setup. We handle hosting and mod delivery for server owners and game creators, who earn revenue from their games. Think Roblox, but built on top of Minecraft's 312M player base.",
+    "one_liner": "Orca lets you build, discover, and play Minecraft games with friends.",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -205934,8 +205935,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/orca-launcher",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/orca-launcher.json"
+    "url": "https://www.ycombinator.com/companies/orca-client",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/orca-client.json"
   },
   {
     "id": 29828,
@@ -210657,8 +210658,8 @@
     "subindustry": "B2B",
     "launched_at": 1729546253,
     "tags": [
-      "Artificial Intelligence",
-      "Machine Learning"
+      "Machine Learning",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -212142,7 +212143,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2024",
     "status": "Active",
@@ -217764,7 +217765,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -218705,8 +218706,8 @@
   },
   {
     "id": 30349,
-    "name": "Tally",
-    "slug": "tallyhq",
+    "name": "Hudson",
+    "slug": "hudson",
     "former_names": [
       "Trestle",
       "Tally",
@@ -218715,10 +218716,11 @@
       "Candid",
       "Argos",
       "Tally",
-      "Hudson"
+      "Hudson",
+      "Tally"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d1c15f32931daef43769bb2a1b0bbd50edfca65.png",
-    "website": "https://www.tallyhq.com",
+    "website": "https://www.meethudson.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
     "one_liner": "",
@@ -218745,8 +218747,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tallyhq",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/tallyhq.json"
+    "url": "https://www.ycombinator.com/companies/hudson",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/hudson.json"
   },
   {
     "id": 30350,
@@ -227595,8 +227597,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9292b62c58dc81055b437ce647dc7c3ea10ffc5c.png",
     "website": "https://magnitude.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Magnitude is a coding agent that runs on 90% open models, escalating to frontier models only when the work demands it.",
-    "one_liner": "Frontier coding at half the cost",
+    "long_description": "Magnitude is a coding agent and model provider in one, built to get maximum performance and efficiency from open models. It costs 60% less than Claude Code with no drop in performance.",
+    "one_liner": "The best way to code with open models",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -228806,9 +228808,9 @@
     "subindustry": "B2B -> Security",
     "launched_at": 1753230986,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Cybersecurity",
-      "AI"
+      "Cybersecurity"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -229584,15 +229586,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "ProcIndex is a full stack AI accounting firm, with a suite of agents to automate quote to cash, accounts payable and month end close processes end to end.\r\n\r\nProcIndex connects with your existing ERP, operates in the background while giving you full visibility into the agent actions and powers accounting teams to become 33% more efficient.",
     "one_liner": "AI Agents for Accounting Operations",
-    "team_size": 2,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1753405058,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "Finance",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -230659,7 +230661,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -242381,7 +242383,7 @@
     "name": "Proximitty",
     "slug": "proximitty",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/efa65b431815794902ea2af28480ef4f2990fd4c.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c673e059e5a8ca7754f20b8d30a076bfb5c81c5b.png",
     "website": "https://proximitty.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Proximitty is the AI operating system for commercial loans - we build regulator-grade AI agents that ingest and parse documents, spread financials, automate loan operations and track covenants.\r\n\r\nWe help FDIC-insured banks and fintechs underwrite faster and scale their loan books without scaling costs.",
@@ -246732,6 +246734,55 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/memoir.json"
   },
   {
+    "id": 31342,
+    "name": "Osmaura",
+    "slug": "osmaura",
+    "former_names": [
+      "Basis Labs",
+      "Basis",
+      "Osmaura",
+      "justreheat",
+      "JustReheat",
+      "vizlog",
+      "Halcyon"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/63934d43dcd74318180ec3c1c312807e4665bef0.png",
+    "website": "https://osmaura.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Osmaura is building the AI growth engine for law firms. We help partners find and win new matters by monitoring the web, news, socials, and internal firm CRM to surface highly targeted opportunities for each partner.\r\n\r\nAfter speaking with 100+ partners, we saw that every partner is under pressure to originate new work, but most do not get the level of dedicated support that \"rainmakers\" receive. That is because the work is still largely manual and expensive: tracking latent legal needs signals, qualifying the opportunity, and figuring out how to engage the potential client.\r\n\r\nAI makes it possible to give every partner rainmaker-level support.\r\n\r\nWe are starting with top-of-funnel business development, but we are expanding to support partners in all parts of winning and retaining clients:  scoping and pricing new matters, drafting marketing materials, and completing awards submissions.\r\n\r\nWe are already in the process of collaborating with a leading law firm to build this out for them.",
+    "one_liner": "We find new matter opportunities for law firms.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1770166210,
+    "tags": [
+      "Artificial Intelligence",
+      "Sales",
+      "Sales Enablement",
+      "LegalTech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/osmaura",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/osmaura.json"
+  },
+  {
     "id": 31343,
     "name": "WithAI",
     "slug": "withai",
@@ -249962,7 +250013,7 @@
       "markup.one",
       "tday"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8b739f197abeac8922bc33ac18f949aadf128c66.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8b4c9edfdc3f7f4ce053be2da7d9708250b264b9.png",
     "website": "https://tday.com",
     "all_locations": "",
     "long_description": "tday automatically turns a software company's product into on-brand marketing creative. Connect your product and git repo, and tday generates polished launch videos, social graphics, and ads, the content a team would normally spend hours making in a design tool or pay a freelancer for. tday then publishes the creative and measures how it performs across your social and ad channels, closing the loop from what you ship to what you post.",
