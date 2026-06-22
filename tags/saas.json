@@ -15062,7 +15062,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a2969762f324adcf3509c5854bebc199ecc587cb.png",
     "website": "https://www.volopay.com/",
-    "all_locations": "Singapore, Singapore; Remote",
+    "all_locations": "Bengaluru, India; Singapore, Singapore; Remote",
     "long_description": "Volopay is a modern spend management platform that saves companies time and money by giving visibility & control to every aspect of business spending. With Volopay, finance and accounting teams can control expense requests and approvals, make bill payments (domestic/cross-border), manage company cards, and reconcile all accounting on one platform.\r\n\r\nVolopay completely eliminates the need for expense reports and reimbursements while giving everyone in the company a card to use. We worked in an offshore dev centre in the past and it took 2 months to get our reimbursements and 4 weeks to make any purchase as there was just one corporate card for the entire company and clunky bill payments solutions offered by the banks. \r\n\r\nAmong our customers are Reddoorz (OYO of South East Asia), Dathena (biggest data security co in Singapore) and Beam (APAC’s leading micro-mobility player). ",
     "one_liner": "Brex for South East Asia - Corporate cards & automated payments.",
     "team_size": 11,
@@ -15085,7 +15085,9 @@
       "Payments"
     ],
     "regions": [
+      "India",
       "Singapore",
+      "South Asia",
       "Southeast Asia",
       "Remote",
       "Fully Remote"
@@ -21292,7 +21294,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/97a6c134a2281fc0b76fb07a0fe0c197e4948543.png",
     "website": "http://tryterra.co",
-    "all_locations": "London, England, United Kingdom",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Terra makes it easy to transfer health data.\r\n\r\nThe unified API makes it easy to access data from health apps, wearables, sensors, and medical equipment through one source",
     "one_liner": "API for developers to access health data ",
     "team_size": 25,
@@ -21315,8 +21317,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United Kingdom",
-      "Europe"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -45171,50 +45173,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/calltree.json"
   },
   {
-    "id": 30289,
-    "name": "Sherpa Labs",
-    "slug": "sherpa-labs",
-    "former_names": [
-      "DagHub.ai"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fc6e69fe5c9b9ed32dbb15b81f5057c0f2e4abd.png",
-    "website": "https://www.sherpalabs.ai",
-    "all_locations": "New York City, NY, USA",
-    "long_description": "Sherpa Labs is building an agentic data team that automates modeling, operations, and discovery via a swarm of agents. Their initial product is a data catalog that enables developers and AI agents to quickly locate the right data sources, effortlessly trace data lineage, and understand messy data lakes — similar to Glean but for enterprise data systems.",
-    "one_liner": "The AI Data Team",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1737526775,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Data Science",
-      "Data Engineering",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sherpa-labs",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/sherpa-labs.json"
-  },
-  {
     "id": 30294,
     "name": "Sennu AI",
     "slug": "sennu-ai",
@@ -47500,7 +47458,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/407f4a93871730524968180bcf20dd23fc9ce7b2.png",
     "website": "http://rudus.ai/",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Rudus is an AI-powered takeoff and estimation platform enabling concrete contractors to win 3x more projects yearly. It automatically identifies every concrete structure like footings, walls, columns, and slabs on plans, eliminating the manual work and reducing estimation time by 70%. Concrete is the most-used material on earth after water, and demand is surging with the AI infrastructure boom.",
     "one_liner": "AI Takeoffs for Concrete",
     "team_size": 2,
@@ -47524,7 +47482,8 @@
       "Construction"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -47660,6 +47619,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/infera",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/infera.json"
+  },
+  {
+    "id": 32223,
+    "name": "Truffle",
+    "slug": "truffle",
+    "former_names": [
+      "Remy"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2506c5899c2529c2d5cc182e3a242e11f99aa02.png",
+    "website": "https://usetruffle.ai/",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "Truffle is the first AI-native operating system for the hospitality back-of-house. Restaurants, cafes and bars still run on a patchwork of disconnected point solutions, spreadsheets, clipboards and tribal knowledge, which costs the industry billions each year in stockouts, food waste, and lost profit. Truffle replaces that entire stack with one system. Computer vision and voice AI capture real-time inventory 90% faster than manual counts, ML models forecast item-level demand at 97% accuracy, and AI agents run dozens of end-to-end workflows autonomously, from procurement and invoice reconciliation to scheduling, food prep, menu engineering, and more.",
+    "one_liner": "The autonomous back-of-house for restaurants.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1778796626,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Restaurant Tech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/truffle",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/truffle.json"
   },
   {
     "id": 33021,
