@@ -1612,8 +1612,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c4abd74b393a1e6689bfee5e6e18611677894c03.png",
     "website": "https://usesoren.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Soren develops specialized AI solutions for modern teams. We help institutions identify, deploy, and operate AI safely across high-impact workflows.\r\n\r\nWe partner with organizations at every stage, from early exploration to full-scale AI transformations.\r\n\r\nAs an AI-native company, we're able to deliver these services at a fraction of the time and cost as legacy firms.",
-    "one_liner": "Custom AI for Modern Businesses",
+    "long_description": "Soren is the AI transformation partner for legacy institutions. We help companies identify, deploy, and operate AI safely across high-impact workflows.\r\n\r\nAs an AI-native company, we deliver outcomes in a fraction of the time and cost of traditional consulting firms while providing a more efficient, streamlined client experience.\r\n\r\nWe partner with organizations at every stage, from early exploration to full-scale AI transformations.\r\n",
+    "one_liner": "AI Transformation for Legacy Institutions",
     "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -4434,7 +4434,7 @@
     "website": "https://absurd.com/",
     "all_locations": "Los Angeles, CA, USA",
     "long_description": "Absurd makes AI brand and performance ads at scale. Our last video for Kalshi (\"Election Day\") did 1M+ views, and our videos average 400K+ organic views.\r\n\r\nCompanies like Hims, Kalshi, Replit, and Brex use Absurd to create production-quality videos in 72 hours.\r\n\r\nTry it at absurd.com",
-    "one_liner": "AI Videos",
+    "one_liner": "The Creative OS for AI video",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
@@ -4745,21 +4745,25 @@
   },
   {
     "id": 30967,
-    "name": "Mantle",
-    "slug": "mantle",
+    "name": "Perseus",
+    "slug": "perseus",
     "former_names": [
-      "Starling"
+      "Starling",
+      "Mantle"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/29b0a2a5ad266c29913c6cd737b023935ee784ba.png",
-    "website": "https://www.mantle.work",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Mantle connects to all your tools: your CRM, Mail, Calendar, Payments, Product Analytics, and more. With just one prompt, you can create agents that handle back office work for you.\r\n\r\nThese agents can automate reports  and email them to you, drafts emails right in your email client, generates pre-meeting research directly in your calendar event, and much more. They run quietly in the background, react to changes in real time, follow a schedule or work when you chat with them. \r\n\r\nYou didn’t start up to stay stuck in admin. Turn your company AI-native with Mantle.",
-    "one_liner": "Build internal agents to automate back office work with one prompt",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9765cfac6d122dea71443fd13f227ed6e9c5257b.png",
+    "website": "https://perseus.computer",
+    "all_locations": "Bengaluru, KA, India",
+    "long_description": "Perseus takes an iterative branching approach to search in high dimensional spaces.\r\n\r\nOur first product helps coding agents find the right codebase context before they write. It searches files, symbols, and dependencies in parallel, so models can make better changes with less trial and error. Perseus Search gives Mythos-level programming ability to Opus-level coding agents.",
+    "one_liner": "Applied Lab focused on Search in Latent Spaces.",
     "team_size": 4,
     "industry": "B2B",
-    "subindustry": "B2B -> Operations",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1761343890,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Genetic Engineering"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -4768,19 +4772,21 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Operations"
+      "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "India",
+      "South Asia",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mantle",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/mantle.json"
+    "url": "https://www.ycombinator.com/companies/perseus",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/perseus.json"
   },
   {
     "id": 30969,
@@ -5326,7 +5332,7 @@
     "all_locations": "",
     "long_description": "Amera automates claims processing for health insurance payers. We turn messy claim inputs (PDFs, bills, receipts, EDI and non-standard submissions) into structured data that plugs into existing systems. This cuts manual entry and exception handling, speeding up operations and reducing cost.\r\n\r\nWe are already working with payers / plan administrators representing ~100k members, giving them access to more affordable care options.",
     "one_liner": "Automating claims processing workflows for health insurance payers.",
-    "team_size": 7,
+    "team_size": 8,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1762373612,

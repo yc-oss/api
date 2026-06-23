@@ -6039,7 +6039,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -7013,7 +7013,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -8232,51 +8232,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2018/apprentice-health.json"
   },
   {
-    "id": 1934,
-    "name": "Paladin",
-    "slug": "paladin",
-    "former_names": [
-      "Paladin Drones"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d5942ba09555d929f556c3c20d281485efbde5d.png",
-    "website": "http://paladindrones.io",
-    "all_locations": "Houston, TX, USA",
-    "long_description": "When a 911 call is received, our drone is autonomously dispatched from a fire station and flies to the scene. It streams a live video feed back to the first responders, providing them with key situational details, such as the size and exact location of a fire. ",
-    "one_liner": "We deploy autonomous drones to 911 calls. Our software gives first…",
-    "team_size": 12,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Drones",
-    "launched_at": 1525133083,
-    "tags": [
-      "SaaS",
-      "Drones",
-      "GovTech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2018",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Drones"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/paladin",
-    "api": "https://yc-oss.github.io/api/batches/summer-2018/paladin.json"
-  },
-  {
     "id": 1935,
     "name": "Meru Health",
     "slug": "meru-health",
@@ -9040,51 +8995,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/oxygen",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/oxygen.json"
-  },
-  {
-    "id": 2023,
-    "name": "SPATE",
-    "slug": "spate",
-    "former_names": [
-      "SPATE",
-      "Spate"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7577742d36a89182bb27d25c3ad944da530cabbf.png",
-    "website": "https://www.spate.nyc",
-    "all_locations": "New York, NY, USA; Remote",
-    "long_description": "Spate is your machine intelligence solution for finding the next big trend in Beauty and Food. For example, we spotted trends such as turmeric, face masks, and cold brew.",
-    "one_liner": "Trends prediction for marketers",
-    "team_size": 15,
-    "industry": "B2B",
-    "subindustry": "B2B -> Retail",
-    "launched_at": 1527062926,
-    "tags": [
-      "Machine Learning",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2018",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Retail"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/spate",
-    "api": "https://yc-oss.github.io/api/batches/summer-2018/spate.json"
   },
   {
     "id": 2030,
@@ -13037,6 +12947,51 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2020/benepass.json"
   },
   {
+    "id": 13179,
+    "name": "Signadot",
+    "slug": "signadot",
+    "former_names": [
+      "blipbox",
+      "signadot"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/768c0b0d1a92b7adab11c2cc4c95cefa19ffdf27.png",
+    "website": "https://www.signadot.com/",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Signadot is a Kubernetes-native platform that empowers AI coding agents to verify code at scale. Combining fast, scalable ephemeral environments with a validation framework built for complex distributed systems, Signadot ensures high-velocity code generation results in safely merged pull requests.",
+    "one_liner": "Scalable validation infrastructure for AI agents",
+    "team_size": 8,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1614132625,
+    "tags": [
+      "Developer Tools",
+      "Kubernetes"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2020",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/signadot",
+    "api": "https://yc-oss.github.io/api/batches/winter-2020/signadot.json"
+  },
+  {
     "id": 13208,
     "name": "Whatnot",
     "slug": "whatnot",
@@ -14665,9 +14620,9 @@
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1597935729,
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
-      "Finance",
-      "AI"
+      "Finance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -25157,57 +25112,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2022/nest-genomics.json"
   },
   {
-    "id": 25351,
-    "name": "Axross Pte Ltd",
-    "slug": "axross-pte-ltd",
-    "former_names": [
-      "Axross Pte Ltd",
-      "Axross",
-      "bipi",
-      "Axross",
-      "bipi (formerly Axross)",
-      "bipi"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a54413dcb3bda96eb7f8d5f729b2f2827a3dd276.png",
-    "website": "https://www.axross.co/",
-    "all_locations": "Singapore, Singapore; Jakarta, Jakarta, Indonesia",
-    "long_description": "At Axross, we specialize in delivering AI-driven HVAC control systems designed to enhance energy efficiency and reduce operational costs for manufacturers. Our solutions are tailored to meet the stringent requirements of industries, where maintaining precise environmental conditions is critical.\r\n\r\nWith a team of experts in AI, data science, and industrial systems, Axross is committed to providing reliable, scalable solutions that help manufacturers achieve their energy efficiency goals and support sustainable practices.",
-    "one_liner": "AI-driven HVAC control system for improved energy performance",
-    "team_size": 10,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1641380402,
-    "tags": [
-      "B2B",
-      "Manufacturing",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "Singapore",
-      "Indonesia",
-      "Southeast Asia",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/axross-pte-ltd",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/axross-pte-ltd.json"
-  },
-  {
     "id": 25363,
     "name": "Gym Class",
     "slug": "gym-class",
@@ -31218,7 +31122,7 @@
     "all_locations": "Delhi, DL, India",
     "long_description": "AlgoTest is an algorithmic options trading platform for Indian retail traders. For the first time ever, day traders will be able to trade using the same technology as the top hedge funds and high-frequency trading firms of the world.\r\n\r\nThe company is founded by Raghav Malik (Financial Engineering @ Columbia Univ), an HFT technologist and former options market-maker in the US.",
     "one_liner": "Ecosystem for options trading in India",
-    "team_size": 28,
+    "team_size": 40,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1658736780,
@@ -31953,8 +31857,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/61b78a6a5ac4fd9c4582af51db8cfe1bf6e05bc1.png",
     "website": "https://www.getfinvest.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Purchase, manage, and sell US Treasury Bills seamlessly. Get direct access to government-backed treasury bills along with the flexibility of selling anytime.",
-    "one_liner": "Easy way to buy US Treasury Bills",
+    "long_description": "Building Finn, an AI wealth manager for the mass affluent households. Finn understands a user’s full financial picture, monitors it continuously, and helps them take action across investing, cash, taxes, and debt.",
+    "one_liner": "AI Wealth Manager",
     "team_size": 5,
     "industry": "Fintech",
     "subindustry": "Fintech -> Consumer Finance",
@@ -35004,51 +34908,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/escape",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/escape.json"
-  },
-  {
-    "id": 28218,
-    "name": "Kyber",
-    "slug": "kyber",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3004c4a72b716a80763763b95bf3e212c448756e.png",
-    "website": "https://askkyber.com",
-    "all_locations": "New York, NY, USA",
-    "long_description": "With Kyber, companies operating in regulated industries can quickly draft, review, and send complex regulatory notices. For example, when Branch Insurance's claims team has to settle a claim, instead of spending hours piecing together evidence to draft a complex notice, they can simply upload the details of the claim to Kyber, auto-generate multiple best in-class drafts, easily assign reviewers, collaborate on notices in real-time, and then send the letter to the individual the notice is for. Kyber not only saves these teams time, but significantly improves consistency, compliance, and personalization. ",
-    "one_liner": "Instantly draft, review, and send complex regulatory notices.",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1677372539,
-    "tags": [
-      "Generative AI",
-      "SaaS",
-      "Insurance",
-      "Enterprise",
-      "Regtech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/kyber",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/kyber.json"
   },
   {
     "id": 28301,
@@ -38441,51 +38300,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/syntheticfi",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/syntheticfi.json"
-  },
-  {
-    "id": 29040,
-    "name": "Inventive AI",
-    "slug": "inventive-ai",
-    "former_names": [
-      "Inventiv AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ca8dbe5acb1f1a068aec484d7a9083db2e81f55.png",
-    "website": "https://www.inventive.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Inventive is an AI-powered RFP & questionnaire response management platform that drives 70%+ efficiency in sales response workflows.\r\n\r\n**Core benefits and features:**\r\n\r\n- **10X Faster Drafts With Highly Accurate Responses**: Using Inventive’s proprietary AI-system you can get first drafts 10 times faster, with accurate responses rooted in your knowledge sources, that you and your team can collaborate on to refine.\r\n- **Single Hub for All Your Knowledge Sources:** Inventive offers a centralized hub for all your knowledge sources. You can upload previous RFPs and relevant documents; integrate with your internal data systems such as gDrive. Sharepoint & more; upload Q&A from legacy tools or spreadsheets; and even add information from your websites.\r\n- **Fight Stale Content With AI Content Manager:** Inventive’s AI content manager proactively flags conflicting content by identifying issues within your sources, so you only use fresh and relevant content in your responses.\r\n- **Higher Productivity & Competitive Advantage With AI Agents:** Inventive offers a suite of AI agents designed to boost productivity and give you a competitive advantage. These agents can help with researching competitors, brainstorming ideas, and more.\r\n\r\nBuilt by a customer-obsessed team comprising an ex-exec from a Fortune 500 company and ex-AI team from Google & Stanford. Backed by top Silicon Valley investors including YCombinator.",
-    "one_liner": "AI Agents For RFP and Questionnaire Response Automation ",
-    "team_size": 12,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1687811406,
-    "tags": [
-      "Generative AI",
-      "SaaS",
-      "B2B",
-      "Sales",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/inventive-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/inventive-ai.json"
   },
   {
     "id": 29041,
@@ -48145,7 +47959,7 @@
     "all_locations": "Los Angeles, CA, USA",
     "long_description": "Merlin is an AI-powered ERP for construction companies. \r\n\r\nWe provide construction companies with a single, AI-powered platform to manage their entire business operations. Our platform unifies project management, materials management, finance, estimating, and CRM—traditionally scattered across multiple systems—into one cohesive solution. For the first time, construction firms can automate and oversee every aspect of their projects in a single, intuitive system. Today, construction companies pay for 8-17 different tools - that we eliminate the need for. \r\n\r\nWe reduce \r\n\r\n- Manual work by 60%\r\n- Cut software costs by $10,000 monthly\r\n- Complete projects 3x faster. \r\n\r\nWhy Now?\r\nWe're witnessing a perfect storm of factors: decades of stagnation in traditional ERP systems, a multi-billion-dollar industry built on misaligned incentives, and the transformative potential of AI. This confluence creates a rare cyclical opportunity for market upheaval. The last major shift in this space occurred in the 1990s with the advent of digital systems, and now, 30 years later, we're on the cusp of another seismic change. Customers are crying out for innovation and as AI reshapes the landscape, early customer signals indicate an eagerness for smarter, more efficient systems. It's a unique window of opportunity that opens perhaps once in a multi-decade chance to redefine an entire industry's operational backbone.\r\n\r\nTeam:\r\nKS, a BITS Pilani grad and successful startup co-founder, and Ayantika, an IIT alumni and tech expert, bring extensive coding and product development expertise together bringing about over a decade of technical expertise. Sneha ( that’s me), with over a decade of experience in supply chain management and lean manufacturing within the construction industry, has lived the pain of using ERPs in this industry.",
     "one_liner": "AI powered ERP for Construction",
-    "team_size": 28,
+    "team_size": 19,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1722038915,
@@ -48178,52 +47992,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/merlin-ai",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/merlin-ai.json"
-  },
-  {
-    "id": 29978,
-    "name": "SimCare",
-    "slug": "simcare",
-    "former_names": [
-      "simhealth.ai",
-      "Luna Sim (prev. simhealth.ai)",
-      "Soma Lab",
-      "SimCare AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1907f0562c3999072b46993e335043d8a2316f2d.png",
-    "website": "https://simcare.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "SimCare is an all in one solution for training clinical skills in healthcare and behavioral health. From AI avatars that you can speak with, feedback systems trusted by the top programs in the country, to site placements tools that help you show your skills and find a job. SimCare is used across the board to train counselors, social workers, doctors and nurses.",
-    "one_liner": "AI avatars to scale healthcare training.",
-    "team_size": 7,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1719547782,
-    "tags": [
-      "AI-Enhanced Learning",
-      "Education",
-      "Healthcare",
-      "Edtech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/simcare",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/simcare.json"
   },
   {
     "id": 29987,
@@ -53472,7 +53240,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd1079ebae09b6f3c1cfa789bc4e9fa9c80c8537.png",
     "website": "https://www.ralo.com/",
-    "all_locations": "",
+    "all_locations": "New York City, NY, USA",
     "long_description": "Ralo is the first AI-native mortgage broker. We use AI to remove layers of overhead and pass the savings back to borrowers. Our customers get rates more than half a point below the national average, save tens of thousands of dollars over the life of their loan. ",
     "one_liner": "AI-Native Mortgage Broker",
     "team_size": 2,
@@ -53495,7 +53263,8 @@
       "Consumer Finance"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -54646,15 +54415,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d9f36771516883d109fe1d640d056334a197d1d8.png",
     "website": "https://usenaive.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Naïve is an autonomous company builder. \r\n\r\nYou describe what your business does, and Naïve deploys AI employees that actually execute — building your app, closing deals, running campaigns, serving customers. \r\n\r\nIt works for creating new companies and automate existing companies by connecting Naive to their entire stack. ",
-    "one_liner": "Autonomous Company Infrastructure",
+    "long_description": "Naïve is the easiest way to give an AI agent everything it needs to act in the real world. Each agent gets its own isolated operator — a verified identity (KYC or EIN), spend-limited card, email inbox, phone number, and access to thousands of tools — one API, one credit balance. You declare an agent's identity, money, and permissions as code, then provision one agent or a million, each scoped and governed per end-user, with a control layer that audits and can revoke every action.\r\n\r\nWe are a fast-moving, small, remote-first team. ",
+    "one_liner": "Agent Infrastructure as Code",
     "team_size": 8,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
     "launched_at": 1747424808,
     "tags": [
-      "Artificial Intelligence",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -54663,7 +54432,8 @@
     "batch": "Spring 2025",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Infrastructure"
     ],
     "regions": [
       "United States of America",
@@ -56036,6 +55806,42 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/wafer.json"
   },
   {
+    "id": 30645,
+    "name": "Panels",
+    "slug": "panels",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6701ac45e2897f58f58412507e74dbdbfa60235.png",
+    "website": "https://www.usepanels.com/",
+    "all_locations": "",
+    "long_description": "Panels is an audio data platform that delivers high-quality speech datasets from vetted, diverse contributors to power training and evaluation of foundational voice models.",
+    "one_liner": "Audio Data for AI Labs",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1755625983,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/panels",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/panels.json"
+  },
+  {
     "id": 30646,
     "name": "Humwork",
     "slug": "humwork",
@@ -56969,14 +56775,14 @@
     "website": "https://relling.co",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "video research lab",
+    "one_liner": "deploying the first billion robots for manufacturing",
     "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1756070413,
     "tags": [
-      "Robotics",
-      "AI"
+      "Artificial Intelligence",
+      "Robotics"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -57482,48 +57288,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hera-video",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/hera-video.json"
-  },
-  {
-    "id": 30759,
-    "name": "Certus AI",
-    "slug": "certus-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4913536f9defe2e375acb9a499aa2ac443e9dc95.png",
-    "website": "https://www.certus-ai.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Certus AI is replacing the restaurant phone line with Voice AI.\r\n\r\nRestaurants lose up to $100,000 per year per location from missed calls, lost orders, and abandoned hold lines. Staff are overwhelmed. IVRs frustrate customers. Call centers are expensive and impersonal.\r\n\r\nIt’s 2025. Guests don’t leave voicemails or wait on hold. They just move on.\r\n\r\nCertus is an AI voice agent built for restaurants. It answers every call, 24/7 — taking orders, processing deliveries, booking reservations, upselling, and handling complaints in English, Spanish, French and more. Certus is built to manage the phone line end to end, from the customer call to the restaurant tech stack, with zero human intervention required. It currently integrates with industry-leading systems like Toast, Square, Clover, UberEats, DoorDash, and more.\r\n\r\nWe’re building the voice layer of the modern restaurant — the employee they’ll never fire.\r\n\r\nWe started Certus because we lived the pain. Gurveer (CEO) grew up answering phones in his family’s restaurant and helped operate them, growing from 1 to 11 locations in 7 years. Later, he and Adam (CRO) ran a restaurant growth startup to help others increase revenue, but kept watching clients bleed cash because no one picked up the phone. So we built the solution the industry always wished existed.\r\n\r\nUntil now, this problem was considered unsolvable. But Voice AI has finally crossed the conversational chasm and 72% of consumers now prefer AI over humans as long as it means faster and better service.\r\n\r\nMore importantly, the market is begging for this. The North American restaurant industry crossed $1 trillion in 2024, and it's projected to hit $1.5 trillion in 2025. Yet over $100 billion is still lost annually to missed calls, human error, and outdated tech. As the market continues to grow, so do the losses!\r\n\r\nOur customers say it best:\r\n\r\n- “Certus changed my life overnight.”\r\n- “We were losing the ability to give great in-house service — the phone was killing us.”\r\n-  “70% of my business comes through the phone. That’s mine and my 16 staffs livelihood.”\r\n- “Before Certus, I used to lose 40 - 60 calls a day…. now my printer just stays printing!”\r\n-  “I’ve been in the business 38 years. I’ve been waiting for this since then.”\r\n\r\nCertus is here to fix the $120B phone problem — one call at a time.\r\n\r\nAnd in doing so, we’re redefining how the restaurant industry communicates forever, starting with the phone line.",
-    "one_liner": "Replacing the restaurant phone line with Voice AI",
-    "team_size": 8,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1753135662,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Restaurant Tech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/certus-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/certus-ai.json"
   },
   {
     "id": 30761,
@@ -60229,12 +59993,12 @@
     "name": "CatchBack Cards",
     "slug": "catchback-cards",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0644b8171c881f538c641dd16d392e4a337d36f5.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8f942ca456108e32e9d31bad4a83c39521732358.png",
     "website": "https://catchbackcards.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "CatchBack Cards is a mobile app and website platform for maximizing the thrill of collecting Pokemon and Sports cards. We allow collectors to create custom mystery packs with personalized chases and customized odds with cryptographically trusted tooling. Users can rip open digital packs and get physical cards shipped to them, receive buyback offers on cards pulled from their mystery packs sent straight to Venmo and PayPal, and buy/sell cards in our $1 marketplace.\r\n",
     "one_liner": "The most thrilling way to create and rip digital collectible packs",
-    "team_size": 2,
+    "team_size": 7,
     "industry": "Consumer",
     "subindustry": "Consumer -> Gaming",
     "launched_at": 1769404688,
@@ -62118,8 +61882,8 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1769303203,
     "tags": [
-      "Artificial Intelligence",
-      "Culture"
+      "Culture",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -62763,6 +62527,42 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/gojiberry-ai.json"
   },
   {
+    "id": 31436,
+    "name": "Prototyping.io",
+    "slug": "prototypingio",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f7df040bbed273d21312d9b7e349583e363f5e4.png",
+    "website": "https://www.prototyping.io",
+    "all_locations": "",
+    "long_description": "Prototyping.io turns CAD designs into real mechanical parts through an AI-driven manufacturing system. We analyze designs for manufacturability and automate production workflows to deliver high-quality parts faster and at lower cost.\r\n",
+    "one_liner": "Autonomous manufacturing for mechanical parts",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1774425608,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/prototypingio",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/prototypingio.json"
+  },
+  {
     "id": 31440,
     "name": "Mount",
     "slug": "mount",
@@ -62850,7 +62650,7 @@
     "website": "https://minicor.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Minicor connects AI startups to legacy desktop apps that have no API. Reliably, quickly and at scale.\r\n\r\nDescribe a workflow and get an API endpoint. Each call triggers a self-healing desktop automation on a Windows VM. On-prem, cloud, or Citrix. Build through your coding agent via our MCP.\r\n\r\nComplete with the observability tools to manage your customer relationship: full video replay of every automation, granular logging, and slack enabled alerts.",
-    "one_liner": "RPA platform for deploying AI into legacy desktop systems",
+    "one_liner": "Scalable windows desktop automations",
     "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",

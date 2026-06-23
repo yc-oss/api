@@ -1281,7 +1281,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -2173,7 +2173,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2018",
     "status": "Active",
@@ -4420,52 +4420,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/datafold",
     "api": "https://yc-oss.github.io/api/batches/summer-2020/datafold.json"
-  },
-  {
-    "id": 21784,
-    "name": "Blue Onion",
-    "slug": "blue-onion",
-    "former_names": [
-      "Finance Weaver",
-      "Blue Onion Labs"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ade6715edaa57cf94e8649919bf33b3022c27458.png",
-    "website": "https://www.blueonion.ai/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Blue Onion is the data backbone for tomorrow’s AI-powered finance teams — a subledger platform that transforms messy, scattered transactions into clean, reconciled, and automation-ready data. ",
-    "one_liner": "Financial data layer for AI-powered finance and accounting",
-    "team_size": 27,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1597935729,
-    "tags": [
-      "Machine Learning",
-      "Finance",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2020",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/blue-onion",
-    "api": "https://yc-oss.github.io/api/batches/summer-2020/blue-onion.json"
   },
   {
     "id": 21857,
@@ -8131,7 +8085,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -17126,7 +17080,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -18473,7 +18427,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Safety from humans in the loop is a mirage. We evaluate, research, and apply AI control in our own real-world deployments of autonomous organizations.\r\n\r\nWe are building the Safe Autonomous Organization. We iteratively launch and scale autonomous organizations, while bridging AI control research with real-world testing.",
     "one_liner": "Autonomous organizations without humans in the loop",
-    "team_size": 10,
+    "team_size": 11,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1699380174,
@@ -25079,7 +25033,7 @@
     "all_locations": "Los Angeles, CA, USA",
     "long_description": "Merlin is an AI-powered ERP for construction companies. \r\n\r\nWe provide construction companies with a single, AI-powered platform to manage their entire business operations. Our platform unifies project management, materials management, finance, estimating, and CRM—traditionally scattered across multiple systems—into one cohesive solution. For the first time, construction firms can automate and oversee every aspect of their projects in a single, intuitive system. Today, construction companies pay for 8-17 different tools - that we eliminate the need for. \r\n\r\nWe reduce \r\n\r\n- Manual work by 60%\r\n- Cut software costs by $10,000 monthly\r\n- Complete projects 3x faster. \r\n\r\nWhy Now?\r\nWe're witnessing a perfect storm of factors: decades of stagnation in traditional ERP systems, a multi-billion-dollar industry built on misaligned incentives, and the transformative potential of AI. This confluence creates a rare cyclical opportunity for market upheaval. The last major shift in this space occurred in the 1990s with the advent of digital systems, and now, 30 years later, we're on the cusp of another seismic change. Customers are crying out for innovation and as AI reshapes the landscape, early customer signals indicate an eagerness for smarter, more efficient systems. It's a unique window of opportunity that opens perhaps once in a multi-decade chance to redefine an entire industry's operational backbone.\r\n\r\nTeam:\r\nKS, a BITS Pilani grad and successful startup co-founder, and Ayantika, an IIT alumni and tech expert, bring extensive coding and product development expertise together bringing about over a decade of technical expertise. Sneha ( that’s me), with over a decade of experience in supply chain management and lean manufacturing within the construction industry, has lived the pain of using ERPs in this industry.",
     "one_liner": "AI powered ERP for Construction",
-    "team_size": 28,
+    "team_size": 19,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1722038915,
@@ -25633,6 +25587,51 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/vortexifyai.json"
   },
   {
+    "id": 30043,
+    "name": "Vespper",
+    "slug": "vespper",
+    "former_names": [
+      "Merlinn"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8071a4dd821b17c48fe53b21be58c8dd37534c31.png",
+    "website": "https://vespper.com/?utm_source=ycombinator.com",
+    "all_locations": "Remote",
+    "long_description": "The first docx API for agents. \r\nread and edit docx without having you agents deal with XML. Save on cost, enjoy improved performance.\r\nPerfect for regulatory, compliance and legal agent builders dealing with documentation",
+    "one_liner": "The first docx API for agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1729555399,
+    "tags": [
+      "Documents",
+      "Developer Tools",
+      "B2B",
+      "API",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/vespper",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/vespper.json"
+  },
+  {
     "id": 30045,
     "name": "Archil",
     "slug": "archil",
@@ -25767,47 +25766,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/issen",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/issen.json"
-  },
-  {
-    "id": 30055,
-    "name": "RiskCube",
-    "slug": "riskcube",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/93b1b4fbe4b8807a5770f0fad5c76f3b8685dee9.png",
-    "website": "https://riskcube.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "When startups sell to enterprise, get regulated, or raise capital, they need to get insurance. \r\nRiskCube compares top-rated U.S. carriers to deliver coverage required to pass procurement, satisfy investors, and close enterprise deals quickly. \r\nFounders get D&O, Tech E&O, Cyber, General Liability, Product Liability, and COIs — built for AI/SaaS, Fintech, GovTech, Space, and Web3 startups creating the future. \r\n\r\nWe will soon also launch health & life insurance for startups. ",
-    "one_liner": "Top-rated insurance to help close enterprise & government contracts.",
-    "team_size": 3,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Insurance",
-    "launched_at": 1731782052,
-    "tags": [
-      "Fintech",
-      "Insurance",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Insurance"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/riskcube",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/riskcube.json"
   },
   {
     "id": 30056,
@@ -28708,7 +28666,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd1079ebae09b6f3c1cfa789bc4e9fa9c80c8537.png",
     "website": "https://www.ralo.com/",
-    "all_locations": "",
+    "all_locations": "New York City, NY, USA",
     "long_description": "Ralo is the first AI-native mortgage broker. We use AI to remove layers of overhead and pass the savings back to borrowers. Our customers get rates more than half a point below the national average, save tens of thousands of dollars over the life of their loan. ",
     "one_liner": "AI-Native Mortgage Broker",
     "team_size": 2,
@@ -28731,7 +28689,8 @@
       "Consumer Finance"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -29730,6 +29689,52 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/kairos.json"
   },
   {
+    "id": 30522,
+    "name": "Naïve",
+    "slug": "naive",
+    "former_names": [
+      "Relixir.ai",
+      "Relixir",
+      "Naive",
+      "Naïve",
+      "naïve"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d9f36771516883d109fe1d640d056334a197d1d8.png",
+    "website": "https://usenaive.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Naïve is the easiest way to give an AI agent everything it needs to act in the real world. Each agent gets its own isolated operator — a verified identity (KYC or EIN), spend-limited card, email inbox, phone number, and access to thousands of tools — one API, one credit balance. You declare an agent's identity, money, and permissions as code, then provision one agent or a million, each scoped and governed per end-user, with a control layer that audits and can revoke every action.\r\n\r\nWe are a fast-moving, small, remote-first team. ",
+    "one_liner": "Agent Infrastructure as Code",
+    "team_size": 8,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1747424808,
+    "tags": [
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/naive",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/naive.json"
+  },
+  {
     "id": 30523,
     "name": "Mesmer",
     "slug": "mesmer",
@@ -29995,6 +30000,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lumari",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/lumari.json"
+  },
+  {
+    "id": 30542,
+    "name": "Vision Lab",
+    "slug": "vision-lab",
+    "former_names": [
+      "Comply Genie",
+      "Vision Nexus",
+      "LineWise"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f9c8aab3bb47bc9402833acb64276f52de063681.png",
+    "website": "https://thevisionlab.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We capture and structure real factory workflows at scale by combining first-person industrial video with SOP-level process knowledge.\r\n\r\nThis enables robotics and AI labs to train on real production data, not just controlled lab environments.",
+    "one_liner": "Industrial data layer for robotics training",
+    "team_size": 11,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1743036496,
+    "tags": [
+      "Robotics",
+      "Manufacturing",
+      "Data Engineering",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/vision-lab",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/vision-lab.json"
   },
   {
     "id": 30545,
@@ -31205,46 +31256,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/char.json"
   },
   {
-    "id": 30712,
-    "name": "Relling",
-    "slug": "relling",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e003594279b3a4474845b643ff2ee16c26f34a1a.png",
-    "website": "https://relling.co",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "video research lab",
-    "team_size": null,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1756070413,
-    "tags": [
-      "Robotics",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/relling",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/relling.json"
-  },
-  {
     "id": 30716,
     "name": "Finto",
     "slug": "finto-de",
@@ -31658,7 +31669,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -32503,8 +32514,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c4abd74b393a1e6689bfee5e6e18611677894c03.png",
     "website": "https://usesoren.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Soren develops specialized AI solutions for modern teams. We help institutions identify, deploy, and operate AI safely across high-impact workflows.\r\n\r\nWe partner with organizations at every stage, from early exploration to full-scale AI transformations.\r\n\r\nAs an AI-native company, we're able to deliver these services at a fraction of the time and cost as legacy firms.",
-    "one_liner": "Custom AI for Modern Businesses",
+    "long_description": "Soren is the AI transformation partner for legacy institutions. We help companies identify, deploy, and operate AI safely across high-impact workflows.\r\n\r\nAs an AI-native company, we deliver outcomes in a fraction of the time and cost of traditional consulting firms while providing a more efficient, streamlined client experience.\r\n\r\nWe partner with organizations at every stage, from early exploration to full-scale AI transformations.\r\n",
+    "one_liner": "AI Transformation for Legacy Institutions",
     "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -34290,6 +34301,90 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/grade",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/grade.json"
+  },
+  {
+    "id": 31268,
+    "name": "Cova",
+    "slug": "cova",
+    "former_names": [
+      "Omnition"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a88cf729487706988d23e57fa307a54ba446b835.png",
+    "website": "https://michiganhomehelp.com/",
+    "all_locations": "Detroit, MI, USA",
+    "long_description": "Cova is an AI-native home care agency, licensed and starting in Michigan. We serve Medicaid, LTCI, and private pay patients, and help unpaid family caregivers access coverage most of them did not know existed. Our entire operation runs on agents, which means less overhead, faster operations, and more value passed directly to the people who do the actual work.",
+    "one_liner": "AI-Native Home Care Agency",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1782162197,
+    "tags": [
+      "Consumer Health Services",
+      "Healthcare",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cova",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/cova.json"
+  },
+  {
+    "id": 31283,
+    "name": "Librar Labs",
+    "slug": "librar-labs",
+    "former_names": [
+      "Librar"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cc71fc515d431ac2186349ba194efc3183ef3d19.png",
+    "website": "https://www.librarlabs.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We build intelligence for cultural institutions.\r\n\r\nOur first commercial product is for the literature industry with a focus on school and public libraries. It is a AI-native OS for libraries, that helps librarians save time on tedious tasks and lets them focus on their patrons.\r\n",
+    "one_liner": "Intelligence for cultural institutions",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1769303203,
+    "tags": [
+      "Culture",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/librar-labs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/librar-labs.json"
   },
   {
     "id": 31295,

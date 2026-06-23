@@ -3546,7 +3546,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2020",
     "status": "Active",
@@ -9900,6 +9900,52 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/kairos.json"
   },
   {
+    "id": 30522,
+    "name": "Naïve",
+    "slug": "naive",
+    "former_names": [
+      "Relixir.ai",
+      "Relixir",
+      "Naive",
+      "Naïve",
+      "naïve"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d9f36771516883d109fe1d640d056334a197d1d8.png",
+    "website": "https://usenaive.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Naïve is the easiest way to give an AI agent everything it needs to act in the real world. Each agent gets its own isolated operator — a verified identity (KYC or EIN), spend-limited card, email inbox, phone number, and access to thousands of tools — one API, one credit balance. You declare an agent's identity, money, and permissions as code, then provision one agent or a million, each scoped and governed per end-user, with a control layer that audits and can revoke every action.\r\n\r\nWe are a fast-moving, small, remote-first team. ",
+    "one_liner": "Agent Infrastructure as Code",
+    "team_size": 8,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1747424808,
+    "tags": [
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/naive",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/naive.json"
+  },
+  {
     "id": 30549,
     "name": "Airweave",
     "slug": "airweave",
@@ -10285,14 +10331,14 @@
     "website": "https://relling.co",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "video research lab",
+    "one_liner": "deploying the first billion robots for manufacturing",
     "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1756070413,
     "tags": [
-      "Robotics",
-      "AI"
+      "Artificial Intelligence",
+      "Robotics"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11787,8 +11833,8 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1769303203,
     "tags": [
-      "Artificial Intelligence",
-      "Culture"
+      "Culture",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -12187,7 +12233,7 @@
     "website": "https://minicor.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Minicor connects AI startups to legacy desktop apps that have no API. Reliably, quickly and at scale.\r\n\r\nDescribe a workflow and get an API endpoint. Each call triggers a self-healing desktop automation on a Windows VM. On-prem, cloud, or Citrix. Build through your coding agent via our MCP.\r\n\r\nComplete with the observability tools to manage your customer relationship: full video replay of every automation, granular logging, and slack enabled alerts.",
-    "one_liner": "RPA platform for deploying AI into legacy desktop systems",
+    "one_liner": "Scalable windows desktop automations",
     "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -12250,7 +12296,7 @@
     ],
     "stage": "Early",
     "app_video_public": false,
-    "demo_day_video_public": false,
+    "demo_day_video_public": true,
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/general-instinct",
