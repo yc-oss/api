@@ -3684,7 +3684,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -3971,15 +3971,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cd3ad2188e3e74544d890e84dd3ad94709976241.png",
     "website": "https://www.nuanced.dev/",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "We're building tools that combine static analysis with AI to obtain a deeper understanding of code behavior. By doing so, we help both humans and machines understand code behavior at a fundamental level.",
-    "one_liner": "Nuanced makes AI coding agents and tools smarter with static analysis.",
+    "long_description": "Nuanced is a desktop app for building software. \r\n\r\nAgents help developers turn rough ideas into clear specs, then stay connected to the work as agents build.",
+    "one_liner": "the AI coding app for thinking. ",
     "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
+    "industry": "Consumer",
+    "subindustry": "Consumer",
     "launched_at": 1705703098,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -3989,7 +3989,7 @@
     "batch": "Winter 2024",
     "status": "Active",
     "industries": [
-      "B2B"
+      "Consumer"
     ],
     "regions": [
       "United States of America",
@@ -6901,5 +6901,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/textsidekick",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/textsidekick.json"
+  },
+  {
+    "id": 31476,
+    "name": "Shepherd",
+    "slug": "shepherd-3",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/391f78e0202565767f4e07ba30c7abaf3cd19093.png",
+    "website": "https://askshepherd.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Shepherd automatically ingests every tool your team uses into one unified memory you can index, and your agents can act on.",
+    "one_liner": "Your company memory, one text away",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1782183998,
+    "tags": [
+      "Enterprise",
+      "Search",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/shepherd-3",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/shepherd-3.json"
   }
 ]

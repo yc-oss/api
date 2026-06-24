@@ -1287,7 +1287,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/815d0ff1058841ad5ec2314755cc2f91d92a6472.png",
     "website": "https://aspect.inc",
-    "all_locations": "",
+    "all_locations": "New York City, NY, USA",
     "long_description": "Aspect helps creative teams consolidate 5 media tools into one platform. We provide everything a media team needs: file ingest, local file streaming, review and approval, sharing, and archiving. \r\n\r\nAspect workspaces come with an agent that has complete understanding of your asset library including comments and revisions. Ask the agent to complete any task in the background: searching for files, setting up folder structures, labeling and organizing footage, and much more.\r\n\r\nCheck out aspect.inc/use-cases to see how different media teams use Aspect to deliver content faster.",
     "one_liner": "Intelligent media storage for creative teams.",
     "team_size": 3,
@@ -1306,7 +1306,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1819,6 +1820,55 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bron",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/bron.json"
+  },
+  {
+    "id": 30873,
+    "name": "Tell if AI",
+    "slug": "tell-if-ai",
+    "former_names": [
+      "Pando Technologies",
+      "Tellif",
+      "Tellif AI",
+      "Tell if AI",
+      "Land.dev"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/da77fda94e244c20522deac6fb0556be091b2804.png",
+    "website": "https://tellif.ai",
+    "all_locations": "Austin, TX, USA",
+    "long_description": "An AI-run performance marketing agency. We deploy autonomous agents on a fleet of real mobile phones that create, post, and grow content across YouTube, TikTok, Instagram, X, Reddit and more operating hundreds of accounts in parallel, indistinguishable from human creators. Brands hire us the way they'd hire a growth agency, but instead of a team of marketers we run the entire pipeline autonomously: ideation, video production, posting, engagement, and audience building. We get paid on revenue share, so our incentives are aligned with our partners' growth. Our first partnership is revenue sharing with a telehealth clinic, where we're driving patient acquisition across dozens of channels we built and operate end-to-end.",
+    "one_liner": "AI agents on real phones, growing brands across every platform.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1760060442,
+    "tags": [
+      "Artificial Intelligence",
+      "Telehealth",
+      "Social Media",
+      "Marketing",
+      "Advertising"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tell-if-ai",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/tell-if-ai.json"
   },
   {
     "id": 30874,
@@ -3982,16 +4032,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e9196c93cd4fc802b51eabcb6432760d1efd3fb.png",
     "website": "https://aside.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Aside is an AI browser that acts on your behalf. Give it your passwords, browsing history, and browser context. It gets real work done end to end in the apps you already use, with no integrations required.\r\n\r\n- 🌐 Browser-native automation: Works directly in Gmail, Notion, Slack, Figma, banking apps, and internal tools, without any integrations.\r\n- 🔑 Passwords into tools: Lets AI use logins, sessions, passkeys, and credentials to take action.\r\n- 📚 Browsing history into memory: Gives AI persistent context across sessions.\r\n- 🧡 Push notifications into a heartbeat: Lets agents react to events and resume work in real time.",
-    "one_liner": "Operating system for the AI era",
+    "long_description": "Aside is an AI browser that completes real work across the websites you already use. It can sign in through your browser, work inside email, dashboards, internal tools, docs, and spreadsheets, and keep going when a task takes minutes or hours.\r\n\r\nUnlike agents that depend on integrations, Aside uses the web the way you do. Browsing history becomes local memory, so it knows which tools and context matter. Its password manager lets agents autofill credentials without exposing secrets to the AI. Sensitive actions like payments, posts, and messages wait for your approval.\r\n\r\nAside is built as a fast daily browser plus a state-of-the-art browser agent. It ranks #1 on Online-Mind2Web, BU-Bench-V1, and Odysseys, and runs local-first with device-protected memory and data.",
+    "one_liner": "The browser built to do real work for you",
     "team_size": 3,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1760485553,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4304,7 +4354,7 @@
     "name": "Specific",
     "slug": "specific",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b78cfc7f96ec9c05be6c06823bccd27995a3125.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/32b20b00d4eefb0011495a24b9f27376787da0bc.png",
     "website": "https://specific.dev",
     "all_locations": "Stockholm, Stockholm County, Sweden",
     "long_description": "Specific lets your coding agent write code and build the infrastructure to deploy it. Connect your favorite coding agent and start building immediately. Run `specific dev` to get a full local environment running in seconds. Run `specific deploy` to go to production on our scalable cloud platform in minutes.",
@@ -4314,10 +4364,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1758776605,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "No-code",
-      "DevOps",
-      "AI"
+      "DevOps"
     ],
     "tags_highlighted": [],
     "top_company": false,

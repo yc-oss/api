@@ -3167,16 +3167,16 @@
     "all_locations": "Los Angeles, CA, USA",
     "long_description": "Juicebox is on a mission to help teams win the talent war.\r\n\r\nIn the age of AI, human ingenuity is the ultimate scarce resource. Recruiting is a zero-sum game where you either compete or lose.\r\n\r\nTeams at Ramp, Perplexity, and leading AI labs use Juicebox to power their hiring, alongside 3,000+ customers from early-stage startups to Fortune 500 companies.\r\n\r\nWe’ve crossed $10M in ARR with 20%+ monthly growth, powering thousands of searches every day and making Juicebox one of the fastest-growing AI SaaS companies in the world.\r\n\r\nJuicebox has raised $36M in funding, including a $30M Series A led by Sequoia Capital. Additional investors in Juicebox include Coatue, NFDG, Lux Capital, Y Combinator, and BOND Capital.",
     "one_liner": "AI-powered talent sourcing for recruiters",
-    "team_size": 50,
+    "team_size": 65,
     "industry": "B2B",
     "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1659905940,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "B2B",
       "Recruiting",
-      "HR Tech"
+      "HR Tech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3192,7 +3192,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -6244,7 +6244,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Sales"
@@ -10973,6 +10973,49 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/ritivel.json"
   },
   {
+    "id": 32089,
+    "name": "Blueprints",
+    "slug": "blueprints",
+    "former_names": [
+      "Carbon Copy",
+      "Carboncopy"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b5ae24985462d50b5267e6bca51332341df6d38.png",
+    "website": "https://useblueprints.ai",
+    "all_locations": "",
+    "long_description": "",
+    "one_liner": "Agentic harness for financial markets",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Consumer Finance",
+    "launched_at": 1782199103,
+    "tags": [
+      "Fintech",
+      "Generative AI",
+      "Consumer"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Consumer Finance"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/blueprints",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/blueprints.json"
+  },
+  {
     "id": 32226,
     "name": "Glen",
     "slug": "glen",
@@ -10980,8 +11023,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cc11fde647ded2f52bca6ff53c7ad045f290e1ee.png",
     "website": "https://www.tryglen.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "What your best people know, every agent in your org can use. Glen picks it up as the work happens, nothing to write down, nothing to maintain, and it never walks out the door. A day-one hire's agent runs on the same judgment as your most senior person's.",
-    "one_liner": "Shared learning for AI Agents",
+    "long_description": "Glen is unified context for every agent and human on your team. Most MCP tools hand an agent a slice, one Slack thread, a single diff, and leave it to stitch the rest together itself. Glen reads from where your work already lives, code and PRs, issues, docs, and meetings, reconciles it, and gives your agents the full picture instead.\r\n\r\nWith Glen a coding agent knows why a line was written, not just what it says. Ask a PR assistant anything about a change and the clarifying-question relay disappears. Bug bots read the intent behind the code before they comment, so they stop flagging deliberate choices as defects and stop repeating mistakes they already made. A sales agent can coach your head of sales off the full account history, how teammates handle similar calls, what was promised, where the deal stalled, etc. \r\n\r\nAs the work gets done, Glen also distills it into skills and offers them back to the next agent, or person, who hits the same task.",
+    "one_liner": "Unified organizational context for agents and humans",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
