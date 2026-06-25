@@ -15373,7 +15373,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -19462,7 +19462,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -26365,11 +26365,11 @@
     "subindustry": "Healthcare",
     "launched_at": 1744440110,
     "tags": [
+      "Artificial Intelligence",
       "Health Tech",
       "B2B",
       "Biotech",
-      "Healthcare",
-      "AI"
+      "Healthcare"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -27407,7 +27407,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2025",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "Healthcare"
     ],
@@ -28412,7 +28412,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a88cf729487706988d23e57fa307a54ba446b835.png",
     "website": "https://michiganhomehelp.com/",
     "all_locations": "Detroit, MI, USA",
-    "long_description": "Cova is an AI-native home care agency, licensed and starting in Michigan. We serve Medicaid, LTCI, and private pay patients, and help unpaid family caregivers access coverage most of them did not know existed. Our entire operation runs on agents, which means less overhead, faster operations, and more value passed directly to the people who do the actual work.",
+    "long_description": "Cova is an AI-native home care agency, licensed in Michigan. We serve Medicaid, LTCI, and private-pay patients; we pay caregivers the highest base rate in the state; and we help unpaid family caregivers get paid through programs they didn't know they qualified for. Our entire operation runs on AI agents, which means less overhead and more value passed directly to the people doing the real work.",
     "one_liner": "AI-Native Home Care Agency",
     "team_size": 2,
     "industry": "Healthcare",
@@ -29102,6 +29102,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/framewise-health",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/framewise-health.json"
+  },
+  {
+    "id": 32187,
+    "name": "Insurf",
+    "slug": "insurf",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/203aaca34875f8d2fd195e6c042414266aefc1ca.png",
+    "website": "https://www.insurf.io",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Insurf is the AI-native data and decision layer for health insurance. Our first product, Inveto, automatically turns denied healthcare claims into source-cited, physician-attested appeals, recovering revenue practices lose today. Every claim it resolves builds the coverage-decision graph, the proprietary dataset of real payer behavior that powers our next product, Surely, which prices the true cost of a health plan for employers and brokers.",
+    "one_liner": "The AI-Native Decision Infrastructure for Health Insurance",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1782286226,
+    "tags": [
+      "Artificial Intelligence",
+      "Health Tech",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/insurf",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/insurf.json"
   },
   {
     "id": 33021,
