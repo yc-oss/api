@@ -22917,24 +22917,25 @@
   },
   {
     "id": 29303,
-    "name": "TokenOwl",
-    "slug": "tokenowl",
+    "name": "Panelytic",
+    "slug": "panelytic",
     "former_names": [
       "Panelytic",
       "Nemea",
-      "Token Owl"
+      "Token Owl",
+      "TokenOwl"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2adfd60610f060b139d1e1752fe74ca86d3be846.png",
-    "website": "",
+    "website": "https://panelytic.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "\r\n\r\n",
+    "long_description": "Payments, identity, and financial controls for autonomous machines.\r\n\r\n",
     "one_liner": "Payment infrastructure for machines",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1711575762,
     "tags": [
-      "Artificial Intelligence"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -22956,8 +22957,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tokenowl",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/tokenowl.json"
+    "url": "https://www.ycombinator.com/companies/panelytic",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/panelytic.json"
   },
   {
     "id": 29307,
@@ -27032,13 +27033,19 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2393bf402ae2e425fc41cb7f78facb4b67fa9d5.png",
     "website": "https://myunowallet.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Uno is building the AI wallet that replaces Apple Pay. At checkout, Uno automatically picks the best credit card for every purchase based on rewards. Users earn more points, miles, and cashback without thinking about it.\r\n\r\nThat's the wedge. The vision is a financial agent that automates every money decision in your pocket.\r\n\r\nFounded by Saket Joshi (www.linkedin.com/in/saket-dattatray-joshi/) and \r\nMordi Shadpour (www.linkedin.com/in/mordi-shadpour/)",
+    "long_description": "Uno is the first third-party wallet granted access by Apple to become the default contactless wallet on iPhone. Uno is building a new payment rail, starting with a smarter wallet experience.\r\n\r\nThe wedge is credit card points optimization. \r\n\r\nFounded by Saket Joshi (www.linkedin.com/in/saket-dattatray-joshi/) and \r\nMordi Shadpour (www.linkedin.com/in/mordi-shadpour/)",
     "one_liner": "The AI mobile wallet that replaces Apple Pay",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Payments",
     "launched_at": 1779834493,
-    "tags": [],
+    "tags": [
+      "Fintech",
+      "Payments",
+      "Consumer",
+      "Infrastructure",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -27301,5 +27308,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/levocred-ai",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/levocred-ai.json"
+  },
+  {
+    "id": 33282,
+    "name": "Florin",
+    "slug": "florin",
+    "former_names": [
+      "Bolten AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/48074691217afbc59a4443c6ffa2379a823efda9.png",
+    "website": "https://florin.inc",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Florin brings banking, payments, cards, and treasury into one account built for startups - so founders can hold, move, and grow their capital without stitching together half a dozen tools. Unlike platforms that resell another bank's rails, we're building the infrastructure ourselves, end to end, so money moves in real time on a single ledger we own. We start with an invite-only membership for venture-backed companies and expand from there. Named after the florin, the coin that anchored global trade for three centuries, with infrastructure built for how money moves now.",
+    "one_liner": "The financial operating system for the companies building the future.",
+    "team_size": 3,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1782360987,
+    "tags": [
+      "Artificial Intelligence",
+      "Banking as a Service",
+      "Fintech",
+      "Finance",
+      "Neobank"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/florin",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/florin.json"
   }
 ]

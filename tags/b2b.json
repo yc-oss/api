@@ -19768,7 +19768,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We're building the financial ops platform for construction, a $12T global industry run by software built 20-40 years ago, much of it on-prem with no APIs and no documentation.\r\n\r\nWe spent 3 years building the rails to read and write across those systems, and we use them to deploy AI for invoicing, expenses, compliance, billing, and more.\r\n\r\nWe have 500+ customers and have been profitable & cashflow positive for over two years. We're backed by Accel and Y Combinator, with investors from Procore, Autodesk, and Plaid.\r\n\r\nOur three co-founders have worked together for 12+ years, across Graphiq (acquired by Amazon in 2017) and Amazon.",
     "one_liner": "AI Financial Operations for Construction",
-    "team_size": 33,
+    "team_size": 37,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1642541270,
@@ -28258,7 +28258,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e613a0916d0e99cf2fa52a3c8be726a00bd6c51a.png",
     "website": "https://infisical.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Infisical is the leading open-source platform to manage secrets, certificates, configs, and access across your team and infrastructure.\r\n\r\nInfisical stores your secrets and injects them back into your development workflow, CI/CD pipelines, and cloud infrastructure. It comes with secrets versioning, point-in-time recovery, audit logging, automatic secret rotation capabilities, and more.",
+    "long_description": "Infisical is the all-in-one security infrastructure platform for secrets, certificates, and privileged access management.\r\n\r\nInfisical stores your secrets and injects them back into your development workflow, CI/CD pipelines, and cloud infrastructure. It comes with secrets versioning, point-in-time recovery, audit logging, automatic secret rotation capabilities, and more.",
     "one_liner": "Unified platform for secrets, certs, and privileged access management",
     "team_size": 50,
     "industry": "B2B",
@@ -28361,7 +28361,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -32309,13 +32309,14 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b9b1d03584239acca9b7673ae88585f25fe796b0.png",
     "website": "https://www.warp.co/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Warp is a modern, AI-native employee management platform for high-growth companies.\r\n\r\nWe’ve raised $25M from Sound Ventures (Ashton Kutcher), A-Star, Abstract, Drew Houston & Arash Ferdowsi (Dropbox), Balaji Srinivasan, Amjad Masad (Replit), Kyle Vogt (Cruise), SV Angel & Homebrew Capital.",
+    "long_description": "Warp is a modern, AI-native employee management platform for high-growth companies.\r\n\r\nWe’ve raised $85M from Battery Ventures, Peak XV, Sapphire, Sound Ventures (Ashton Kutcher), A-Star, Abstract, SV Angel & Homebrew Capital. \r\n\r\nWe are humbled to have the backing from people who have built some of the most important companies of the last two decades: Shopify CEO Tobi Lütke, Stripe COO Claire Hughes Johnson, Dropbox co-founders Drew Houston and Arash Ferdowsi, Coinbase CTO Balaji Srinivasan, Eventbrite founder Kevin Hartz, Cruise founder Kyle Vogt, and Replit founder Amjad Masad.",
     "one_liner": "AI-native Employee Management Platform for High-Growth Companies",
     "team_size": 50,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1677261125,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "HR Tech",
       "Payroll",
@@ -33597,28 +33598,28 @@
   },
   {
     "id": 28884,
-    "name": "Rocketeer",
-    "slug": "rocketeer",
+    "name": "Dialtone",
+    "slug": "dialtone",
     "former_names": [
       "Samtana",
       "Anneal",
       "Dialtone",
       "Big Smart AI",
-      "Dialtone"
+      "Dialtone",
+      "Rocketeer"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e1c020e28a863a34018b960ce006440e0884dffd.png",
-    "website": "https://rocketeer.build",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb288b88bae803d541f0be9e263462de15c64e9a.png",
+    "website": "https://usedialtone.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Run a team of GTM agents from your laptop. Rails and interfaces on top of Claude Code and Codex for common GTM engineering flows - table views, company views, person views, enrichment, ranking, outbound campaigns, sync. Built-in skills for the top data and GTM APIs. All with the full flexibility of Claude Code or Codex still right there.",
-    "one_liner": "Claude Code for GTM",
-    "team_size": 4,
+    "long_description": "Connect agentic workflows to all your existing software and data. 100+ first party data, action, and event connectors for the tools and services you already use. Easily configurable custom connectors for your enterprise’s proprietary systems, enterprise grade security, and dedicated infrastructure.",
+    "one_liner": "AI Agents for Enterprises",
+    "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Sales",
+    "subindustry": "B2B",
     "launched_at": 1688669019,
     "tags": [
       "Artificial Intelligence",
       "B2B",
-      "Sales",
       "AI"
     ],
     "tags_highlighted": [],
@@ -33628,8 +33629,7 @@
     "batch": "Summer 2023",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Sales"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -33640,8 +33640,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/rocketeer",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/rocketeer.json"
+    "url": "https://www.ycombinator.com/companies/dialtone",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/dialtone.json"
   },
   {
     "id": 28885,
@@ -37660,7 +37660,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -45555,17 +45555,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c4abd74b393a1e6689bfee5e6e18611677894c03.png",
     "website": "https://usesoren.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Soren is the AI transformation partner for legacy institutions. We help companies identify, deploy, and operate AI safely across high-impact workflows.\r\n\r\nAs an AI-native company, we deliver outcomes in a fraction of the time and cost of traditional consulting firms while providing a more efficient, streamlined client experience.\r\n\r\nWe partner with organizations at every stage, from early exploration to full-scale AI transformations.\r\n",
-    "one_liner": "AI Transformation for Legacy Institutions",
+    "long_description": "Soren is the AI transformation partner for regulated institutions. We help companies identify, deploy, and operate AI safely across high-impact workflows.\r\n\r\nAs an AI-native company, we deliver outcomes in a fraction of the time and cost of traditional consulting firms while providing a more efficient, streamlined client experience.\r\n\r\nWe partner with organizations at every stage, from early exploration to full-scale AI transformations.",
+    "one_liner": "AI Transformation for Regulated Institutions",
     "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1759390917,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Enterprise",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47511,6 +47511,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/contextdev",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/contextdev.json"
+  },
+  {
+    "id": 32617,
+    "name": "Whitespace",
+    "slug": "whitespace",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d7ab9b902afa3fe0a37b3622022557a9cd82d082.png",
+    "website": "https://whitespacehq.ai/",
+    "all_locations": "London, United Kingdom",
+    "long_description": "Whitespace is the AI operating system for wholesale distributors. It connects to their systems and inboxes to build a living model of their business, then deploys self-improving AI agents to automate work like inventory planning, customer support, and order entry.",
+    "one_liner": "AI Operating System for Wholesale Distributors",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1782389037,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Supply Chain"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/whitespace",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/whitespace.json"
   },
   {
     "id": 32682,

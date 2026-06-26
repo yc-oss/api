@@ -2573,18 +2573,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2623539c5a9dddb54681db96f38cf2be0f9428d9.png",
     "website": "https://www.thundercompute.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "One-click GPU instances with persistent storage, snapshots, and hot-swappable hardware, with the lowest prices anywhere.",
-    "one_liner": "The world's cheapest GPU cloud",
-    "team_size": 4,
+    "long_description": "Thunder Compute is a systems research lab with commercial focus. We productionize GPU virtualization research to provide step-change improvements in utilization to our cloud offering and partner GPU fleets.",
+    "one_liner": "VMware for GPUs",
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1723245936,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Data Science",
       "Cloud Computing",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4125,8 +4125,8 @@
     "launched_at": 1761187283,
     "tags": [
       "AIOps",
-      "Kubernetes",
-      "Cloud Computing",
+      "Developer Tools",
+      "DevOps",
       "Infrastructure"
     ],
     "tags_highlighted": [],
@@ -4628,6 +4628,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/expanse",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/expanse.json"
+  },
+  {
+    "id": 31526,
+    "name": "Uno Wallet",
+    "slug": "uno-wallet",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2393bf402ae2e425fc41cb7f78facb4b67fa9d5.png",
+    "website": "https://myunowallet.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Uno is the first third-party wallet granted access by Apple to become the default contactless wallet on iPhone. Uno is building a new payment rail, starting with a smarter wallet experience.\r\n\r\nThe wedge is credit card points optimization. \r\n\r\nFounded by Saket Joshi (www.linkedin.com/in/saket-dattatray-joshi/) and \r\nMordi Shadpour (www.linkedin.com/in/mordi-shadpour/)",
+    "one_liner": "The AI mobile wallet that replaces Apple Pay",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Payments",
+    "launched_at": 1779834493,
+    "tags": [
+      "Fintech",
+      "Payments",
+      "Consumer",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Payments"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/uno-wallet",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/uno-wallet.json"
   },
   {
     "id": 32253,
