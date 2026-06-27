@@ -4298,49 +4298,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2019/unflow.json"
   },
   {
-    "id": 12974,
-    "name": "Flowglad",
-    "slug": "flowglad",
-    "former_names": [
-      "NUMI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a33924c9ef04561b7f186705a82e3da8b6e9251d.png",
-    "website": "https://flowglad.com",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Flowglad is payment infrastructure for agents, with built-in human controls and hard spend limits. Bring your own agent or use ours. Flowglad gives agents the virtual cards, banking, approval flows, and programmable controls they need to spend real money safely. Embed spend policy directly into agent workflows while keeping clear boundaries around who can spend, how much, and under what conditions.",
-    "one_liner": "Agent payment infra. Program spend + approvals. BYO or use our agents.",
-    "team_size": 7,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1583962983,
-    "tags": [
-      "Developer Tools",
-      "Fintech",
-      "Payments",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2020",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": true,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/flowglad",
-    "api": "https://yc-oss.github.io/api/batches/winter-2020/flowglad.json"
-  },
-  {
     "id": 13053,
     "name": "Datree",
     "slug": "datree",
@@ -14412,7 +14369,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -19159,9 +19116,10 @@
     "subindustry": "Consumer -> Consumer Electronics",
     "launched_at": 1730365227,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Robotics"
+      "Hard Tech",
+      "Robotics",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -19853,17 +19811,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e739bf439400b44a89bc15e023cbe6bca3f9e00.png",
     "website": "https://confident-ai.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Confident AI allows companies of all sizes to benchmark, safeguard, and improve LLM applications, with best-in-class metrics and guardrails powered by DeepEval. Built by the creators of DeepEval (12.6k stars, >3m monthly downloads), Confident AI is able to offer battle-tested, open-source evaluation algorithms while providing the infrastructure needed for teams to stay confident their LLM systems.",
+    "long_description": "Confident AI provides enterprises an all-in-one platform to evaluate, observe, red team, and govern AI applications. Built by the creators of DeepEval (16k stars, 8m monthly downloads), Confident AI is able to offer battle-tested, open-source evaluation algorithms while providing the infrastructure needed for teams to stay confident their AI systems.",
     "one_liner": "The LLM Eval and Observability Platform for AI Quality",
     "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1736794966,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
-      "Open Source"
+      "Open Source",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20716,15 +20674,15 @@
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "WhoDB is an open-source platform for modeling organizations and running decisions on top of their data.\r\n\r\nIt lets teams define their core entities (customers, accounts, assets, workflows), the relationships between them, and the rules and objectives that govern how decisions should be made. WhoDB continuously ingests operational data and keeps this model up to date in real time.\r\n\r\nInstead of building dashboards, writing ad-hoc queries, or maintaining scattered business logic, teams express decisions declaratively—what should happen, under what conditions, and with what constraints. WhoDB evaluates those decisions automatically as data changes and produces actions, recommendations, or state updates.\r\n\r\nEverything is transparent and inspectable: data models, decision logic, and outcomes are fully auditable and can be extended in code.",
     "one_liner": "Turn scattered data into one platform for decision-making",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1747802459,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21629,18 +21587,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3838f80b214ed1fcda53a2778860e8be11cfdb0d.png",
     "website": "https://manufact.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Manufact provides open-source dev tools and infrastructure for MCP to help dev teams quickly build and deploy MCP Servers for AI agents & MCP Apps for ChatGPT and Claude.\r\nWe developed the mcp-use SDK, which has over 7M downloads and 10,000 GitHub stars, and is used by 20% of the US 500.\r\nCreate MCP servers/apps in minutes, connect your GitHub repo, and make them immediately available to AI agents and ChatGPT.",
-    "one_liner": "Open source SDK & cloud infrastructure for MCP Servers & ChatGPT Apps ",
+    "long_description": "Manufact is the MCP cloud platform to get your product ready for Claude Connectors marketplace, ChatGPT App Store and any AI agent that supports MCP.\r\nWe're the team behind mcp-use SDK, the open-source framework for building MCP Apps with 10k github stars and 8M+ downloads across python and typescript.\r\n\r\nIt's the fastest and most complete solution for production-ready MCP servers.",
+    "one_liner": "Cloud infrastructure for MCP servers and Claude / ChatGPT apps.",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1752861544,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Open Source",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

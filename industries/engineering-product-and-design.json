@@ -14533,7 +14533,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -14898,7 +14898,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -18638,17 +18638,18 @@
   },
   {
     "id": 29642,
-    "name": "Stack Auth",
-    "slug": "stack-auth",
+    "name": "Hexclave",
+    "slug": "hexclave",
     "former_names": [
-      "Stack"
+      "Stack",
+      "Stack Auth"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c58aadee870eec1472167cb5194bd295f5285f8.png",
-    "website": "https://stack-auth.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dab78018b8eae1583fc81e6de630a117327f3fd.png",
+    "website": "https://hexclave.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Stack is the open-source authN, authZ, and user management platform.\r\n\r\nWe build for devs who want to iterate quickly, offering both managed auth and self-hosting. You can set it up in one minute and scale with the project as it grows.\r\n\r\nStack was built by repeat founders with strong technical backgrounds. Check out our GitHub: https://github.com/stack-auth/stack",
-    "one_liner": "The open-source Auth0 alternative",
-    "team_size": 6,
+    "long_description": "https://hexclave.com",
+    "one_liner": "The user infrastructure platform",
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1716295686,
@@ -18672,8 +18673,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/stack-auth",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/stack-auth.json"
+    "url": "https://www.ycombinator.com/companies/hexclave",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/hexclave.json"
   },
   {
     "id": 29647,
@@ -21077,8 +21078,8 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1740930546,
     "tags": [
-      "Artificial Intelligence",
-      "Reinforcement Learning"
+      "Reinforcement Learning",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21234,17 +21235,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e739bf439400b44a89bc15e023cbe6bca3f9e00.png",
     "website": "https://confident-ai.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Confident AI allows companies of all sizes to benchmark, safeguard, and improve LLM applications, with best-in-class metrics and guardrails powered by DeepEval. Built by the creators of DeepEval (12.6k stars, >3m monthly downloads), Confident AI is able to offer battle-tested, open-source evaluation algorithms while providing the infrastructure needed for teams to stay confident their LLM systems.",
+    "long_description": "Confident AI provides enterprises an all-in-one platform to evaluate, observe, red team, and govern AI applications. Built by the creators of DeepEval (16k stars, 8m monthly downloads), Confident AI is able to offer battle-tested, open-source evaluation algorithms while providing the infrastructure needed for teams to stay confident their AI systems.",
     "one_liner": "The LLM Eval and Observability Platform for AI Quality",
     "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1736794966,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
-      "Open Source"
+      "Open Source",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -23869,7 +23870,7 @@
     "name": "Caddy",
     "slug": "caddy",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b00ba607980bb58773b7bd6c760f042ebe9e31b6.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4a18ef62feeed4267cb16429f2de1d3e6abbb159.png",
     "website": "https://caddy.app/",
     "all_locations": "New York City, NY, USA",
     "long_description": "Caddy is the operating system that works proactively for you. It learns how you work and acts on your behalf, keeping work moving while your context and voice stay intact.\r\n\r\nInstead of producing generic AI output, Caddy creates real work artifacts that sound like you and fit how you actually work. Today, it operates across the tools you use every day, including email, calendar, Slack, Linear, and Notion.\r\n\r\nCaddy is built by the team behind Loom’s AI and core product. We believe the next era of computing is software that understands intent, handles ambiguous work, and quietly gets work done in the background.",
@@ -23879,7 +23880,7 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1761153567,
     "tags": [
-      "Artificial Intelligence",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -25090,7 +25091,13 @@
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1767637338,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Hard Tech",
+      "Enterprise",
+      "Enterprise Software",
+      "Semiconductors"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
