@@ -147,13 +147,13 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1599762607,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2020",
     "status": "Active",
@@ -3856,8 +3856,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9292b62c58dc81055b437ce647dc7c3ea10ffc5c.png",
     "website": "https://magnitude.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Magnitude is a coding agent and model provider in one, built to get maximum performance and efficiency from open models. It costs 60% less than Claude Code with no drop in performance.",
-    "one_liner": "The best way to code with open models",
+    "long_description": "The full Claude Code experience, except it runs anywhere. From our infra to fully air-gapped in your data center.",
+    "one_liner": "The best coding agent for open models",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -4755,5 +4755,87 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/touchmark",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/touchmark.json"
+  },
+  {
+    "id": 33013,
+    "name": "Operon",
+    "slug": "operon",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aaeb7f2ff7aa5b0b7e64888230be2a7e46342f66.png",
+    "website": "https://operonsolutions.com/en",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Operon is the data intelligence layer for heavy industry. We ingest the messy documents a plant runs on (P&IDs, schematics, datasheets, scans) and turn them into one structured, queryable model of the facility.\r\n\r\nOn top of it, engineers query their plant in natural language and build agentic workflows for safety, compliance, and design. \r\n\r\n",
+    "one_liner": "Agentic data layer for manufacturing & process industries. ",
+    "team_size": 0,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1782593141,
+    "tags": [
+      "Computer Vision",
+      "Manufacturing",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/operon",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/operon.json"
+  },
+  {
+    "id": 33806,
+    "name": "Experiential Labs",
+    "slug": "experiential-labs",
+    "former_names": [
+      "Resolute Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/716e828c9efd6efe6da64574ff67dd5bfa0c2a25.png",
+    "website": "https://experientiallabs.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "An applied AI research lab building world models for hypothesis testing. We simulate reality faster and more accurately based on the technology self-driving uses to get 99.7% reconstruction fidelity. Our first use-case is automating creation and execution of agent evals based on telemetry traces.",
+    "one_liner": "World models for AI agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1782607347,
+    "tags": [
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/experiential-labs",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/experiential-labs.json"
   }
 ]

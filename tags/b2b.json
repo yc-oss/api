@@ -32430,7 +32430,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -39807,10 +39807,10 @@
     "former_names": [
       "Ovation"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e5e8dd5c7448c58bdeb274d4e57e63ee206feb72.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/969e2ae0dfd7ddfac6d9c2979dffb8f5842af866.png",
     "website": "https://saldor.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
+    "long_description": "Saldor is the AI-native procurement and accounts payable platform that takes every purchase from request to paid.",
     "one_liner": "Making procurement easy",
     "team_size": 2,
     "industry": "B2B",
@@ -40159,10 +40159,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/637fd6f0b41173fce58a7cc13944c42be5d808ec.png",
     "website": "https://www.arva.ai",
-    "all_locations": "London, United Kingdom",
+    "all_locations": "New York, NY, USA",
     "long_description": "Banks and fintechs have large teams of human analysts who conduct manual checks and reviews. We replace those human compliance analysts with AI agents that automate 80% of the manual work for faster and more compliant financial crime (AML) reviews.\r\n\r\nOur first three products are: Screening AI (discount 91% of screening alerts), KYB/C AI (speed up onboarding), Transaction Monitoring AI (handle AML transaction monitoring alerts)\r\n\r\nOur end goal is to have a whole suite of AI workers that can handle manual compliance work for banks and fintechs. A $24B opportunity in the US alone.",
     "one_liner": "AI Agents to scale AML, KYB and KYC operations",
-    "team_size": 14,
+    "team_size": 20,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1721196993,
@@ -40183,8 +40183,8 @@
       "B2B"
     ],
     "regions": [
-      "United Kingdom",
-      "Europe"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -42871,7 +42871,7 @@
     "all_locations": "New York City, NY, USA",
     "long_description": "Photonium is building software to automate optical system design. We supercharge optics experts with intelligent tooling to reduce costs and deliver faster. We handle the full design stack — from optimization, verification, sourcing, to prototyping — for AR/VR, quantum, biotech, metrology/chip fab, LiDAR, and more. ",
     "one_liner": "AI-Powered Optical Consulting & Software",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1748388578,
@@ -45804,6 +45804,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/logosguard.json"
   },
   {
+    "id": 30906,
+    "name": "Agentic Fabriq",
+    "slug": "agentic-fabriq",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a5cc9740ffbab442e3f13d623875ee650093eac.png",
+    "website": "https://www.agenticfabriq.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Agentic Fabriq helps companies securely manage what AI agents can access and do across business tools, data, and teams. We give each agent an identity, scoped permissions, approval flows, and audit logs, so employees and customer-facing workflows can use agents without relying on shared API keys, overbroad service accounts, or one-off integrations.",
+    "one_liner": "The control plane for AI agents.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1762294029,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Identity",
+      "Cybersecurity"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/agentic-fabriq",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/agentic-fabriq.json"
+  },
+  {
     "id": 30907,
     "name": "Logical",
     "slug": "logical",
@@ -47366,9 +47408,9 @@
     "subindustry": "B2B",
     "launched_at": 1782500527,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47472,6 +47514,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rote",
     "api": "https://yc-oss.github.io/api/batches/winter-2027/rote.json"
+  },
+  {
+    "id": 32202,
+    "name": "Dialogus",
+    "slug": "dialogus",
+    "former_names": [
+      "Zyra",
+      "Dialogus",
+      "Dialogus Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7df204d91879e8e730b8993b754b3d35b87106e.png",
+    "website": "https://www.dialoguslabs.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Dialogus builds voice agent infrastructure for enterprises.\r\n\r\nMost companies can demo an AI voice agent, but getting one into production is hard. Enterprise agents need to connect to phone systems, internal tools, databases, CRMs, messaging channels, human escalation flows, monitoring, and compliance processes.\r\n\r\nDialogus provides the infrastructure to deploy production-grade voice agents that don’t just talk but complete real workflows. Our platform lets enterprises launch agents that collect information, validate it against internal systems, update records, send follow-up messages, and escalate edge cases to humans.",
+    "one_liner": "Infra for enterprise voice agents.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1782528923,
+    "tags": [
+      "B2B",
+      "Customer Support"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dialogus",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/dialogus.json"
   },
   {
     "id": 32226,

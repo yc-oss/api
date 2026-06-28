@@ -35615,13 +35615,13 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1599762607,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2020",
     "status": "Active",
@@ -80332,7 +80332,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -83334,18 +83334,19 @@
   },
   {
     "id": 28899,
-    "name": "maintouch",
+    "name": "Maintouch",
     "slug": "maintouch",
     "former_names": [
       "Hidden Hand",
-      "Camber"
+      "Camber",
+      "maintouch"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8503fa1fa8dc82e542107db7db1968d3e8c1d09b.png",
     "website": "https://maintouch.com/?utm_source=bookface&utm_medium=social&utm_campaign=profile",
     "all_locations": "New York, NY, USA",
-    "long_description": "We're the ONLY platform to help you rank on both SEO and AI Search. I grew up working at my family's 9 figure SEO agency and learned how to automate everything. That's what we do for people now.",
-    "one_liner": "Scale SEO and AI SEO from one platform.",
-    "team_size": 9,
+    "long_description": "We're the ONLY platform to help you rank on both SEO and AI Search (AEO/GEO). I grew up working at my family's 9-figure SEO agency and learned how to automate everything. That's what we do for people now.",
+    "one_liner": "Drive leads with SEO and AEO.",
+    "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1690571664,
@@ -99902,10 +99903,10 @@
     "former_names": [
       "Ovation"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e5e8dd5c7448c58bdeb274d4e57e63ee206feb72.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/969e2ae0dfd7ddfac6d9c2979dffb8f5842af866.png",
     "website": "https://saldor.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
+    "long_description": "Saldor is the AI-native procurement and accounts payable platform that takes every purchase from request to paid.",
     "one_liner": "Making procurement easy",
     "team_size": 2,
     "industry": "B2B",
@@ -100633,10 +100634,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/637fd6f0b41173fce58a7cc13944c42be5d808ec.png",
     "website": "https://www.arva.ai",
-    "all_locations": "London, United Kingdom",
+    "all_locations": "New York, NY, USA",
     "long_description": "Banks and fintechs have large teams of human analysts who conduct manual checks and reviews. We replace those human compliance analysts with AI agents that automate 80% of the manual work for faster and more compliant financial crime (AML) reviews.\r\n\r\nOur first three products are: Screening AI (discount 91% of screening alerts), KYB/C AI (speed up onboarding), Transaction Monitoring AI (handle AML transaction monitoring alerts)\r\n\r\nOur end goal is to have a whole suite of AI workers that can handle manual compliance work for banks and fintechs. A $24B opportunity in the US alone.",
     "one_liner": "AI Agents to scale AML, KYB and KYC operations",
-    "team_size": 14,
+    "team_size": 20,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1721196993,
@@ -100657,8 +100658,8 @@
       "B2B"
     ],
     "regions": [
-      "United Kingdom",
-      "Europe"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -109532,7 +109533,7 @@
     "all_locations": "New York City, NY, USA",
     "long_description": "Photonium is building software to automate optical system design. We supercharge optics experts with intelligent tooling to reduce costs and deliver faster. We handle the full design stack — from optimization, verification, sourcing, to prototyping — for AR/VR, quantum, biotech, metrology/chip fab, LiDAR, and more. ",
     "one_liner": "AI-Powered Optical Consulting & Software",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1748388578,
@@ -113594,8 +113595,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9292b62c58dc81055b437ce647dc7c3ea10ffc5c.png",
     "website": "https://magnitude.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Magnitude is a coding agent and model provider in one, built to get maximum performance and efficiency from open models. It costs 60% less than Claude Code with no drop in performance.",
-    "one_liner": "The best way to code with open models",
+    "long_description": "The full Claude Code experience, except it runs anywhere. From our infra to fully air-gapped in your data center.",
+    "one_liner": "The best coding agent for open models",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -118419,13 +118420,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a5cc9740ffbab442e3f13d623875ee650093eac.png",
     "website": "https://www.agenticfabriq.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Agentic Fabriq is the single control plane for data permissioning throughout your entire organization across your AI and employees. Through Fabriq, any employee can tap into AI/agents with exactly the data and tools they're cleared to use by an admin. Fabriq can be used internally with employees or externally for customers while handling the auth + integrations + permissions securely for you.",
-    "one_liner": "Okta for Agents.",
+    "long_description": "Agentic Fabriq helps companies securely manage what AI agents can access and do across business tools, data, and teams. We give each agent an identity, scoped permissions, approval flows, and audit logs, so employees and customer-facing workflows can use agents without relying on shared API keys, overbroad service accounts, or one-off integrations.",
+    "one_liner": "The control plane for AI agents.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1762294029,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Identity",
+      "Cybersecurity"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -120244,16 +120250,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c02ad81894db8e1b1d0e71c379c7cae04211613.png",
     "website": "https://velvetlab.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Bringing data realism to frontier models.",
-    "one_liner": "Bringing data realism to frontier models.",
+    "long_description": "The multimodal data lab.",
+    "one_liner": "The multimodal data lab.",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1761236237,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "Data Engineering",
-      "AI",
       "Conversational AI"
     ],
     "tags_highlighted": [],
@@ -122525,7 +122531,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2026",
     "status": "Active",
@@ -123643,14 +123649,17 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/083700d7d477f8653353926e2c024cda96cf803d.png",
     "website": "https://revion.inc",
-    "all_locations": "",
+    "all_locations": "New York, NY, USA",
     "long_description": "Revion is building the operating system for Automotive Retail. Our first product helps Technicians automate administrative work, which drains 30-40% of their day. With Revion, Auto Retailers can service more vehicles and drive more high-margin Revenue. ",
     "one_liner": "Intelligence for Automotive Operations",
-    "team_size": 4,
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1771887263,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Automotive"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -123661,7 +123670,10 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -128130,7 +128142,7 @@
       "markup.one",
       "tday"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d5d837a9522155fb78ecd320dc4ef54f3c129b6a.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1012df6bea018e8f6d8fbcdd4215014712efbdd5.png",
     "website": "https://tday.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "tday automatically turns a software company's product into on-brand marketing creative. Connect your product and git repo, and tday generates polished launch videos, social graphics, and ads, the content a team would normally spend hours making in a design tool or pay a freelancer for. tday then publishes the creative and measures how it performs across your social and ad channels, closing the loop from what you ship to what you post.",
@@ -130133,9 +130145,9 @@
     "subindustry": "B2B",
     "launched_at": 1782500527,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -130280,6 +130292,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rote",
     "api": "https://yc-oss.github.io/api/batches/winter-2027/rote.json"
+  },
+  {
+    "id": 32202,
+    "name": "Dialogus",
+    "slug": "dialogus",
+    "former_names": [
+      "Zyra",
+      "Dialogus",
+      "Dialogus Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7df204d91879e8e730b8993b754b3d35b87106e.png",
+    "website": "https://www.dialoguslabs.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Dialogus builds voice agent infrastructure for enterprises.\r\n\r\nMost companies can demo an AI voice agent, but getting one into production is hard. Enterprise agents need to connect to phone systems, internal tools, databases, CRMs, messaging channels, human escalation flows, monitoring, and compliance processes.\r\n\r\nDialogus provides the infrastructure to deploy production-grade voice agents that don’t just talk but complete real workflows. Our platform lets enterprises launch agents that collect information, validate it against internal systems, update records, send follow-up messages, and escalate edge cases to humans.",
+    "one_liner": "Infra for enterprise voice agents.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1782528923,
+    "tags": [
+      "B2B",
+      "Customer Support"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dialogus",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/dialogus.json"
   },
   {
     "id": 32223,
@@ -130805,6 +130861,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/coasty",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/coasty.json"
+  },
+  {
+    "id": 33806,
+    "name": "Experiential Labs",
+    "slug": "experiential-labs",
+    "former_names": [
+      "Resolute Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/716e828c9efd6efe6da64574ff67dd5bfa0c2a25.png",
+    "website": "https://experientiallabs.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "An applied AI research lab building world models for hypothesis testing. We simulate reality faster and more accurately based on the technology self-driving uses to get 99.7% reconstruction fidelity. Our first use-case is automating creation and execution of agent evals based on telemetry traces.",
+    "one_liner": "World models for AI agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1782607347,
+    "tags": [
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/experiential-labs",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/experiential-labs.json"
   },
   {
     "id": 33838,

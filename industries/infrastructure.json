@@ -3407,13 +3407,13 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1599762607,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2020",
     "status": "Active",
@@ -12640,6 +12640,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/parasma.json"
   },
   {
+    "id": 32202,
+    "name": "Dialogus",
+    "slug": "dialogus",
+    "former_names": [
+      "Zyra",
+      "Dialogus",
+      "Dialogus Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7df204d91879e8e730b8993b754b3d35b87106e.png",
+    "website": "https://www.dialoguslabs.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Dialogus builds voice agent infrastructure for enterprises.\r\n\r\nMost companies can demo an AI voice agent, but getting one into production is hard. Enterprise agents need to connect to phone systems, internal tools, databases, CRMs, messaging channels, human escalation flows, monitoring, and compliance processes.\r\n\r\nDialogus provides the infrastructure to deploy production-grade voice agents that don’t just talk but complete real workflows. Our platform lets enterprises launch agents that collect information, validate it against internal systems, update records, send follow-up messages, and escalate edge cases to humans.",
+    "one_liner": "Infra for enterprise voice agents.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1782528923,
+    "tags": [
+      "B2B",
+      "Customer Support"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dialogus",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/dialogus.json"
+  },
+  {
     "id": 32227,
     "name": "Context.dev",
     "slug": "contextdev",
@@ -12879,5 +12923,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mireye",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/mireye.json"
+  },
+  {
+    "id": 33806,
+    "name": "Experiential Labs",
+    "slug": "experiential-labs",
+    "former_names": [
+      "Resolute Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/716e828c9efd6efe6da64574ff67dd5bfa0c2a25.png",
+    "website": "https://experientiallabs.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "An applied AI research lab building world models for hypothesis testing. We simulate reality faster and more accurately based on the technology self-driving uses to get 99.7% reconstruction fidelity. Our first use-case is automating creation and execution of agent evals based on telemetry traces.",
+    "one_liner": "World models for AI agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1782607347,
+    "tags": [
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/experiential-labs",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/experiential-labs.json"
   }
 ]
