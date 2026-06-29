@@ -2770,7 +2770,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e5350e1545dde29c153c2bb23ad5d1fdb3f3bf68.png",
     "website": "https://www.dreamcraft.com/",
-    "all_locations": "Redwood City, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Redwood City, CA, USA",
     "long_description": "DreamCraft enables anyone to create, publish, and monetize video games. The company’s core product is a code-free game creation platform, bundled with high quality art assets. DreamCraft is backed by March Capital, Makers Fund, Tencent Corporation, Y Combinator, and other top investors in the gaming space. The company was founded in 2018 and now has a global team of 20+ people with half remote and half based in Silicon Valley.",
     "one_liner": "Platform that allows anyone to create and monetize video games.",
     "team_size": 23,
@@ -18791,18 +18791,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8071a4dd821b17c48fe53b21be58c8dd37534c31.png",
     "website": "https://vespper.com/?utm_source=ycombinator.com",
     "all_locations": "Remote",
-    "long_description": "The first docx API for agents. \r\nread and edit docx without having you agents deal with XML. Save on cost, enjoy improved performance.\r\nPerfect for regulatory, compliance and legal agent builders dealing with documentation",
-    "one_liner": "The first docx API for agents",
+    "long_description": "The best DOCX MCP for agents. \r\nread and edit docx without having you agents deal with XML. Save on cost, enjoy improved performance.\r\nPerfect for regulatory, compliance and legal agent builders dealing with documentation",
+    "one_liner": "The best DOCX MCP for agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1729555399,
     "tags": [
       "Documents",
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "API",
-      "AI"
+      "API"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21144,13 +21144,14 @@
   },
   {
     "id": 30616,
-    "name": "gitdot",
-    "slug": "gitdot",
+    "name": "args",
+    "slug": "args",
     "former_names": [
-      "Async"
+      "Async",
+      "gitdot"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2d07ddb576ac56313f5c987b3bb7c2ff770b583a.png",
-    "website": "https://www.gitdot.io/",
+    "website": "https://args.io/",
     "all_locations": "New York City, NY, USA",
     "long_description": "",
     "one_liner": "A better GItHub",
@@ -21181,8 +21182,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/gitdot",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/gitdot.json"
+    "url": "https://www.ycombinator.com/companies/args",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/args.json"
   },
   {
     "id": 30630,
@@ -22868,6 +22869,54 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/corelayer",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/corelayer.json"
+  },
+  {
+    "id": 31246,
+    "name": "Inth",
+    "slug": "inth",
+    "former_names": [
+      "Consent.io",
+      "Consent"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aca00ac880b2d3d17acae2b1679332dc8000c5f7.png",
+    "website": "https://inth.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Inth helps fast-moving software teams prevent privacy failures before they reach production.\r\n\r\nPrivacy risk no longer lives in policy docs, dashboards, and questionnaires. It lives in code: consent flows, data deletion, vendors, logs, AI systems, and agent-written changes that move user data every day.\r\n\r\nInth starts with c15t, an open-source consent and privacy SDK with 3M+ npm downloads, used by teams like Zed, Infisical, and Expo. From there, Inth expands into code-native workflows for consent management, data subject requests, policy enforcement, vendor oversight, and audit-ready evidence.\r\n\r\nWe make privacy governance programmable, observable, and compliant by default.",
+    "one_liner": "Enterprise privacy governance for companies that ship fast",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1776095941,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Compliance",
+      "Web Development",
+      "Trust & Safety"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/inth",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/inth.json"
   },
   {
     "id": 31368,

@@ -9867,8 +9867,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d9f36771516883d109fe1d640d056334a197d1d8.png",
     "website": "https://usenaive.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Naïve is the easiest way to give an AI agent everything it needs to act in the real world. Each agent gets its own isolated operator — a verified identity (KYC or EIN), spend-limited card, email inbox, phone number, and access to thousands of tools — one API, one credit balance. You declare an agent's identity, money, and permissions as code, then provision one agent or a million, each scoped and governed per end-user, with a control layer that audits and can revoke every action.\r\n\r\nWe are a fast-moving, small, remote-first team. ",
-    "one_liner": "Agent Infrastructure as Code",
+    "long_description": "Naïve is the easiest way to give an AI agent everything it needs to act in the real world. Each agent gets its own isolated operator — a verified identity (KYC or EIN), spend-limited card, email inbox, phone number, and access to thousands of tools — one API, one credit balance. \r\n\r\nDeclare an agent's identity, money, and permissions as code, then provision one agent or a million, each scoped and governed per end-user, with a control layer that audits and can revoke every action.\r\n\r\nWe are a fast-moving, small, remote-first team. ",
+    "one_liner": "Autonomous Company Infrastructure",
     "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -11622,13 +11622,19 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aca00ac880b2d3d17acae2b1679332dc8000c5f7.png",
     "website": "https://inth.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Inth is the AI-native compliance team for companies that ship fast.\r\n\r\nPrivacy compliance still lives in dashboards, questionnaires, and policy docs, but the real risk is in the codebase and runtime. Consent breaks in code. Data deletion breaks in code. Vendors, logs, AI systems, and agent-written changes all move user data in code.\r\n\r\nInth starts with c15t, an open-source consent and privacy SDK with 3M+ npm downloads, used by teams like Zed, Infisical, and Expo. From there, Inth expands into code-native workflows for consent management, data subject requests, policy enforcement, vendor oversight, and audit-ready evidence.\r\n\r\nWe make compliance programmable, observable, and compliant by default.",
-    "one_liner": "Your AI Native Compliance team ",
+    "long_description": "Inth helps fast-moving software teams prevent privacy failures before they reach production.\r\n\r\nPrivacy risk no longer lives in policy docs, dashboards, and questionnaires. It lives in code: consent flows, data deletion, vendors, logs, AI systems, and agent-written changes that move user data every day.\r\n\r\nInth starts with c15t, an open-source consent and privacy SDK with 3M+ npm downloads, used by teams like Zed, Infisical, and Expo. From there, Inth expands into code-native workflows for consent management, data subject requests, policy enforcement, vendor oversight, and audit-ready evidence.\r\n\r\nWe make privacy governance programmable, observable, and compliant by default.",
+    "one_liner": "Enterprise privacy governance for companies that ship fast",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1776095941,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Compliance",
+      "Web Development",
+      "Trust & Safety"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -12801,6 +12807,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/touchmark",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/touchmark.json"
+  },
+  {
+    "id": 32286,
+    "name": "Bylaw",
+    "slug": "bylaw",
+    "former_names": [
+      "Ledgix"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/553f76678219d35e34302add5de43fb39448c22c.png",
+    "website": "https://www.usebylaw.com",
+    "all_locations": "Waterloo, ON, Canada",
+    "long_description": "Bylaw is a check that runs before an AI agent writes to your systems. If the agent is about to act on evidence that is wrong, outdated, or don’t agree across sources, we block the action or send it to a human first. \r\n\r\nWe all met our first year at the University of Waterloo studying computer science. We have previously interned at Meta, Optiver, and BitGo, places where making decisions on unverified data could have lethal reprecussions. We kept running into the same failure deploying agents: the agent was allowed to call the tool, but nobody had verified the facts behind the call.\r\n\r\nGuardrails ask “can this agent use this tool?” Evals catch mistakes after the fact. Neither checks whether chat, docs, CRM, and tool results actually agree at the moment of the write. That’s why the same refund or CRM mistake keeps coming back even after you fix the prompt.\r\n\r\nThis is hard because evidence lives in five places at once, goes stale between lookup and action, and every write needs different proof. It hasn’t been productized because agent teams ship fast and patch with prompts; platforms build one-off checks instead of a reusable gate in front of every sensitive tool call.\r\n\r\nThe same way finance built approval gates before money moves, every company giving agents write access will need this layer.",
+    "one_liner": "Guarantee your agents use the right evidence before they act.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1782681224,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Compliance",
+      "Security"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "Canada",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bylaw",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/bylaw.json"
   },
   {
     "id": 32527,

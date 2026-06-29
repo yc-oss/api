@@ -51,10 +51,11 @@
   },
   {
     "id": 31086,
-    "name": "Prescience",
-    "slug": "prescience",
+    "name": "Prescience, Inc.",
+    "slug": "prescience-inc",
     "former_names": [
-      "HouseAI"
+      "HouseAI",
+      "Prescience"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9318ef0555c0ad2e5ce6049908b655658d073f1f.png",
     "website": "https://www.getprescience.com/",
@@ -87,8 +88,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/prescience",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/prescience.json"
+    "url": "https://www.ycombinator.com/companies/prescience-inc",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/prescience-inc.json"
   },
   {
     "id": 31216,
@@ -313,16 +314,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/63934d43dcd74318180ec3c1c312807e4665bef0.png",
     "website": "https://osmaura.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Osmaura is building the AI growth engine for law firms. We help partners find and win new matters by monitoring the web, news, socials, and internal firm CRM to surface highly targeted opportunities for each partner.\r\n\r\nAfter speaking with 100+ partners, we saw that every partner is under pressure to originate new work, but most do not get the level of dedicated support that \"rainmakers\" receive. That is because the work is still largely manual and expensive: tracking latent legal needs signals and figuring out how to engage the potential client.\r\n\r\nAI makes it possible to give every partner rainmaker-level support.",
+    "long_description": "Osmaura help partners find and win new matters by monitoring the web, news, socials, and internal firm CRM to surface highly targeted opportunities for each partner.\r\n\r\nAfter speaking with 100+ partners, we saw that every partner is under pressure to originate new work, but most do not get the level of dedicated support that \"rainmakers\" receive. That is because the work is still largely manual and expensive: tracking latent legal needs signals and figuring out how to engage the potential client.\r\n\r\nAI makes it possible to give every partner rainmaker-level support.",
     "one_liner": "We find new matter opportunities for law firms.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1781994700,
     "tags": [
-      "Artificial Intelligence",
       "Sales Enablement",
-      "LegalTech"
+      "LegalTech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1008,6 +1009,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/touchmark.json"
   },
   {
+    "id": 32286,
+    "name": "Bylaw",
+    "slug": "bylaw",
+    "former_names": [
+      "Ledgix"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/553f76678219d35e34302add5de43fb39448c22c.png",
+    "website": "https://www.usebylaw.com",
+    "all_locations": "Waterloo, ON, Canada",
+    "long_description": "Bylaw is a check that runs before an AI agent writes to your systems. If the agent is about to act on evidence that is wrong, outdated, or don’t agree across sources, we block the action or send it to a human first. \r\n\r\nWe all met our first year at the University of Waterloo studying computer science. We have previously interned at Meta, Optiver, and BitGo, places where making decisions on unverified data could have lethal reprecussions. We kept running into the same failure deploying agents: the agent was allowed to call the tool, but nobody had verified the facts behind the call.\r\n\r\nGuardrails ask “can this agent use this tool?” Evals catch mistakes after the fact. Neither checks whether chat, docs, CRM, and tool results actually agree at the moment of the write. That’s why the same refund or CRM mistake keeps coming back even after you fix the prompt.\r\n\r\nThis is hard because evidence lives in five places at once, goes stale between lookup and action, and every write needs different proof. It hasn’t been productized because agent teams ship fast and patch with prompts; platforms build one-off checks instead of a reusable gate in front of every sensitive tool call.\r\n\r\nThe same way finance built approval gates before money moves, every company giving agents write access will need this layer.",
+    "one_liner": "Guarantee your agents use the right evidence before they act.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1782681224,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Compliance",
+      "Security"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "Canada",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bylaw",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/bylaw.json"
+  },
+  {
     "id": 32520,
     "name": "Cerenovus",
     "slug": "cerenovus",
@@ -1384,16 +1429,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8126dcec05004e9a335df14d0116cf4774a61b06.png",
     "website": "https://trydenta.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Denta is the practice management platform that puts dental practices on autopilot. When a dentist starts a new practice, instead of finding an accounting firm, hiring two front desk workers, and then spending their nights posting insurance payments, they use Denta.\r\n\r\nI started Denta to help operate my Dad's 10 practices in Iowa. In supporting those, I realized the most painful part was both people and agents having messy access to fragmented data.\r\n\r\nI standardized that, launched two weeks ago, have $3,000 in monthly revenue, and am piloting 60 practices on Denta.",
+    "long_description": "Denta is the practice management platform that puts dental practices on autopilot. When a dentist starts a new practice, instead of finding an accounting firm, hiring two front desk workers, and then spending their nights posting insurance payments, they use Denta.\r\n\r\nI started Denta to help operate my Dad's 10 practices in Iowa. In supporting those, I realized the most painful part was both people and agents having messy access to fragmented data. So I solved for that and now spend my time automating work for dentists!",
     "one_liner": "The dental practice that runs itself",
     "team_size": 1,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1782407143,
     "tags": [
-      "Artificial Intelligence",
       "Dental",
-      "Healthcare IT"
+      "Healthcare IT",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
