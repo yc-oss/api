@@ -1,5 +1,11 @@
 import { ensureDir } from "@std/fs/ensure-dir";
 import { slugify } from "slugify";
+import {
+  buildCompanyChangeSet,
+  type CompanySnapshot,
+  hasCompanyChanges,
+  writeCompanyChangeFiles,
+} from "./changes.ts";
 
 const indexName = "YCCompany_By_Launch_Date_production";
 const applicationId = "45BWZJ1SGC";
@@ -57,7 +63,7 @@ interface LaunchedCompany {
   question_answers: boolean;
 }
 
-type CompanyResult = LaunchedCompany & {
+type CompanyResult = CompanySnapshot & LaunchedCompany & {
   url: string;
   api: string;
 };
@@ -148,6 +154,20 @@ const fetchAllCompanies = async (): Promise<LaunchedCompany[]> => {
   }
   return allCompanies.sort((a, b) => a.id - b.id);
 };
+
+const readPreviousCompanies = async (): Promise<CompanySnapshot[]> => {
+  try {
+    return JSON.parse(
+      await Deno.readTextFile("companies/all.json"),
+    ) as CompanySnapshot[];
+  } catch (error) {
+    if (error instanceof Deno.errors.NotFound) return [];
+    throw error;
+  }
+};
+
+const generatedAt = new Date();
+const previousCompanies = await readPreviousCompanies();
 
 await ensureDir("companies");
 await ensureDir("tags");
@@ -373,24 +393,41 @@ for (const company of results) {
   );
 }
 
+const changeSet = buildCompanyChangeSet({
+  previousCompanies,
+  currentCompanies: results,
+  generatedAt: generatedAt.toISOString(),
+});
+const { written: writtenChangeFiles } = await writeCompanyChangeFiles({
+  directory: "changes",
+  changeSet,
+});
+if (writtenChangeFiles.length > 0) {
+  console.log(`Wrote company change files: ${writtenChangeFiles.join(", ")}`);
+} else {
+  console.log("No company change files written");
+}
+
 const existingMeta = JSON.parse(await Deno.readTextFile("meta.json")) as Record<
   string,
   unknown
 >;
 const newMeta: Record<string, unknown> = {
-  last_updated: new Date().toISOString(),
+  last_updated: generatedAt.toISOString(),
   readme: "https://github.com/yc-oss/api",
   ...meta,
 };
 
-const hasChanges = Object.keys(newMeta).some((key) => {
+const hasMetaChanges = Object.keys(newMeta).some((key) => {
   return (
     key !== "last_updated" &&
     JSON.stringify(newMeta[key]) !== JSON.stringify(existingMeta[key])
   );
 });
-if (hasChanges) {
-  console.log("Meta has changed, updating meta.json");
+const shouldUpdateGeneratedMetadata = hasMetaChanges ||
+  hasCompanyChanges(changeSet);
+if (shouldUpdateGeneratedMetadata) {
+  console.log("API data has changed, updating meta.json");
   await Deno.writeTextFile(
     "meta.json",
     JSON.stringify(newMeta, null, 2) + "\n",
@@ -402,7 +439,7 @@ if (hasChanges) {
   text += `\n## ℹ️ Metadata\n\n`;
   text += `API endpoint: https://yc-oss.github.io/api/meta.json\n\n`;
   text += `- Last updated: ${
-    new Date().toLocaleString("en-US", {
+    generatedAt.toLocaleString("en-US", {
       dateStyle: "long",
       timeStyle: "short",
     })
@@ -421,6 +458,13 @@ if (hasChanges) {
       meta.companies[slug].name
     } | https://yc-oss.github.io/api/companies/${slug}.json |\n`;
   }
+
+  text +=
+    `\n### 🔄 Company changes\n\n| Change log | API endpoint |\n| ---------- | ------------ |\n`;
+  text +=
+    `| Latest company changes (JSON) | https://yc-oss.github.io/api/changes/latest.json |\n`;
+  text +=
+    `| Latest company changes (Markdown) | https://yc-oss.github.io/api/changes/latest.md |\n`;
 
   text +=
     `\n### 🎓 Batches\n\n<details>\n<summary>Companies per batch</summary>\n\n| Batch | Count | API endpoint |\n| ---- | ---- | ------------ |\n`;
@@ -456,6 +500,6 @@ if (hasChanges) {
     text,
   );
   await Deno.writeTextFile("README.md", newReadme);
-} else console.log("Meta has not changed");
+} else console.log("API data has not changed");
 
 export {};

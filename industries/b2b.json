@@ -13678,6 +13678,51 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2015/kickpay.json"
   },
   {
+    "id": 774,
+    "name": "Platzi",
+    "slug": "platzi",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b54bffd3bd06059fabfb2a7a0351e2e4c1e8e697.png",
+    "website": "https://platzi.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Platzi turns the scattered knowledge inside a company into training that builds expert teams, automatically. It captures how an organization's top performers sell, build, and operate, and shapes that into structured training that brings the rest of the workforce to their level. The courses are created instantly from each company's own knowledge, self-updating as it changes. It's training that never goes stale, and that no one has to maintain. And just as pilots learn to fly in a simulator, Platzi measures mastery in simulated work scenarios, like a sales rep handling a hard objection or a frontline worker holding the line on safety while a manager pushes to cut corners. The test is the work, not course completion.",
+    "one_liner": "Turning company knowledge into expert teams",
+    "team_size": 123,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1416220798,
+    "tags": [
+      "AI-Enhanced Learning",
+      "Education",
+      "eLearning",
+      "Sales Enablement",
+      "HR Tech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2015",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": true,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/platzi",
+    "api": "https://yc-oss.github.io/api/batches/winter-2015/platzi.json"
+  },
+  {
     "id": 775,
     "name": "Omniref",
     "slug": "omniref",
@@ -85681,14 +85726,14 @@
     "all_locations": "Berlin, Berlin, Germany",
     "long_description": "Tiptap is a suite of open source content editing and real-time collaboration tools for developers building apps like Notion or Google Docs. It’s used by thousands of businesses worldwide, including LinkedIn, GitLab, Axios, and Anthropic.",
     "one_liner": "The open-source document editor for humans and AI agents.",
-    "team_size": 18,
+    "team_size": 19,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1687103873,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -85706,7 +85751,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -112606,16 +112651,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Speech models trained on internet data still lack realistic results. We solve this by collecting targeted training data for model labs. We hope to create a world where AI feels more human.",
     "one_liner": "Audio & Video Data",
-    "team_size": 2,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1753401226,
     "tags": [
-      "Artificial Intelligence",
       "Marketplace",
       "B2B",
       "Data Labeling",
-      "Big Data"
+      "Big Data",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -130267,6 +130312,47 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/rex-inc.json"
   },
   {
+    "id": 32164,
+    "name": "Prized",
+    "slug": "prized",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7162dc10af43dc1c38075eec773f7958383384d2.png",
+    "website": "https://prized.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Prized lets non-engineers build, deploy, and share secure internal tools with AI, no engineering required. You don't need to know where the data lives, what APIs to use, or which connectors you need. Just describe what you want (a customer lookup, a dashboard, an approval flow), and Prized builds the tool on top of the right company data inside a governed boundary.\r\n\r\nThe people who feel the pain of missing internal tools most are non-engineers. They understand the workflow best but are blocked by the software layer, so they wait on engineering, duct-tape spreadsheets together, or increasingly rip company data into Claude Code and Cursor with no thought to permissions, sharing, or governance.\r\n\r\nPrized makes security the default, enforced in the infrastructure rather than left to whoever built the tool. Each tool gets access only to the tables and integrations it was explicitly granted, credentials are workspace-scoped so tools can't cross org boundaries, and outbound calls go through a controlled layer. \r\n\r\nAs an employee builds and shares, a teammate forks it and re-points it at their own data, and over time the company builds up a library of governed tools it actually owns.\r\n\r\nHudson was founding engineer at Gander (F24, acquired by Archer), then full-stack at Suno. Marinos studied CS and ME at Stanford and was on the same Gander team.",
+    "one_liner": "Internal tools, built by the people who use them.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1782800618,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "Productivity"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/prized",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/prized.json"
+  },
+  {
     "id": 32165,
     "name": "Rote",
     "slug": "rote",
@@ -130602,7 +130688,7 @@
     "name": "Cerenovus",
     "slug": "cerenovus",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c4165de8ba93afc0c1ee3db1680da0127cca7e08.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a13c4ae7edff5a24b83b854a2058c28537c3a533.png",
     "website": "https://www.cerenovus.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Cerenovus is a company brain. We aggregate every kind of file a company produces — documents, PDFs, emails, Slack messages, spreadsheets, meeting notes — and convert them into a single markdown knowledge graph with native AI-agent integration. A company's information becomes uniformly readable both by humans and by the AI agents working inside the graph.\r\n\r\nOn top of that foundation, Cerenovus maps the company as a system, drawing connections between the people, processes, and tools that make up real workflows. From that systems map, it infers where operations are inefficient and how to improve them.\r\n\r\nIn practice, this tool will help executives make better decisions. Whenever a leader has to act on a question — how to restructure a team, whether to keep a vendor, or where handoffs between teams are breaking down — Cerenovus will give them an evidence-backed answer in minutes rather than weeks.\r\n\r\nToday, that work is done by consultants, by internal analysts, or by the executive asking around informally. Each of those approaches is slow, partial, and goes stale the moment it is delivered. Cerenovus produces the same answers faster, at a fraction of the cost, and keeps them live as the company evolves.",
@@ -130612,7 +130698,7 @@
     "subindustry": "B2B",
     "launched_at": 1780900630,
     "tags": [
-      "AI"
+      "Artificial Intelligence"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -130919,6 +131005,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/coasty",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/coasty.json"
+  },
+  {
+    "id": 33805,
+    "name": "Edviro",
+    "slug": "edviro",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/98362e61e1649e1ea6df53e5da74fe5c0a88a97e.png",
+    "website": "https://edviroenergy.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Edviro helps facilities managers at large buildings save on their energy bills. Facilities managers are overwhelmed with dashboards, alarms, and analytics for hundreds of boilers, HVAC units, and heat pumps across their buildings. Edviro continuously monitors and optimizes buildings using energy world models to detect anomalies, simulate interventions, and suggest the best options to the facilities manager.  Once the changes occur, we create a comprehensive M&V report to ensure savings show up on the bill. \r\n\r\nOur tools also allow institutions to maintain detailed service history & equipment logs, and perform maintenance with AR.  ",
+    "one_liner": "Energy world models that fix energy waste before it becomes expensive.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1782807553,
+    "tags": [
+      "Deep Learning",
+      "B2B",
+      "Energy"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/edviro",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/edviro.json"
   },
   {
     "id": 33806,

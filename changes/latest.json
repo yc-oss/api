@@ -1,0 +1,314 @@
+{
+  "generated_at": "2026-06-30T08:35:34.099Z",
+  "summary": {
+    "previous_total": 5994,
+    "current_total": 5996,
+    "added": 2,
+    "removed": 0,
+    "updated": 5
+  },
+  "added": [
+    {
+      "id": 32164,
+      "name": "Prized",
+      "slug": "prized",
+      "former_names": [],
+      "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7162dc10af43dc1c38075eec773f7958383384d2.png",
+      "website": "https://prized.dev",
+      "all_locations": "San Francisco, CA, USA",
+      "long_description": "Prized lets non-engineers build, deploy, and share secure internal tools with AI, no engineering required. You don't need to know where the data lives, what APIs to use, or which connectors you need. Just describe what you want (a customer lookup, a dashboard, an approval flow), and Prized builds the tool on top of the right company data inside a governed boundary.\r\n\r\nThe people who feel the pain of missing internal tools most are non-engineers. They understand the workflow best but are blocked by the software layer, so they wait on engineering, duct-tape spreadsheets together, or increasingly rip company data into Claude Code and Cursor with no thought to permissions, sharing, or governance.\r\n\r\nPrized makes security the default, enforced in the infrastructure rather than left to whoever built the tool. Each tool gets access only to the tables and integrations it was explicitly granted, credentials are workspace-scoped so tools can't cross org boundaries, and outbound calls go through a controlled layer. \r\n\r\nAs an employee builds and shares, a teammate forks it and re-points it at their own data, and over time the company builds up a library of governed tools it actually owns.\r\n\r\nHudson was founding engineer at Gander (F24, acquired by Archer), then full-stack at Suno. Marinos studied CS and ME at Stanford and was on the same Gander team.",
+      "one_liner": "Internal tools, built by the people who use them.",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "launched_at": 1782800618,
+      "tags": [
+        "Developer Tools",
+        "SaaS",
+        "Productivity"
+      ],
+      "tags_highlighted": [],
+      "top_company": false,
+      "isHiring": false,
+      "nonprofit": false,
+      "batch": "Summer 2026",
+      "status": "Active",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "stage": "Early",
+      "app_video_public": false,
+      "demo_day_video_public": false,
+      "app_answers": null,
+      "question_answers": false,
+      "url": "https://www.ycombinator.com/companies/prized",
+      "api": "https://yc-oss.github.io/api/batches/summer-2026/prized.json"
+    },
+    {
+      "id": 33805,
+      "name": "Edviro",
+      "slug": "edviro",
+      "former_names": [],
+      "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/98362e61e1649e1ea6df53e5da74fe5c0a88a97e.png",
+      "website": "https://edviroenergy.com",
+      "all_locations": "San Francisco, CA, USA",
+      "long_description": "Edviro helps facilities managers at large buildings save on their energy bills. Facilities managers are overwhelmed with dashboards, alarms, and analytics for hundreds of boilers, HVAC units, and heat pumps across their buildings. Edviro continuously monitors and optimizes buildings using energy world models to detect anomalies, simulate interventions, and suggest the best options to the facilities manager.  Once the changes occur, we create a comprehensive M&V report to ensure savings show up on the bill. \r\n\r\nOur tools also allow institutions to maintain detailed service history & equipment logs, and perform maintenance with AR.  ",
+      "one_liner": "Energy world models that fix energy waste before it becomes expensive.",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "launched_at": 1782807553,
+      "tags": [
+        "Deep Learning",
+        "B2B",
+        "Energy"
+      ],
+      "tags_highlighted": [],
+      "top_company": false,
+      "isHiring": false,
+      "nonprofit": false,
+      "batch": "Summer 2026",
+      "status": "Active",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "stage": "Early",
+      "app_video_public": false,
+      "demo_day_video_public": false,
+      "app_answers": null,
+      "question_answers": false,
+      "url": "https://www.ycombinator.com/companies/edviro",
+      "api": "https://yc-oss.github.io/api/batches/summer-2026/edviro.json"
+    }
+  ],
+  "removed": [],
+  "updated": [
+    {
+      "id": 774,
+      "name": "Platzi",
+      "slug": "platzi",
+      "batch": "Winter 2015",
+      "url": "https://www.ycombinator.com/companies/platzi",
+      "changed_fields": [
+        "all_locations",
+        "industries",
+        "industry",
+        "long_description",
+        "one_liner",
+        "regions",
+        "stage",
+        "subindustry",
+        "tags",
+        "team_size"
+      ],
+      "changes": {
+        "all_locations": {
+          "before": "San Francisco, CA, USA; Santiago, Santiago Metropolitan Region, Chile; Mexico City, CDMX, Mexico; Madrid, Community of Madrid, Spain; Buenos Aires, CABA, Argentina; Bogotá, Bogota, Colombia; Lima, Callao Region, Peru; Remote",
+          "after": "San Francisco, CA, USA"
+        },
+        "industries": {
+          "before": [
+            "Education"
+          ],
+          "after": [
+            "B2B",
+            "Productivity"
+          ]
+        },
+        "industry": {
+          "before": "Education",
+          "after": "B2B"
+        },
+        "long_description": {
+          "before": "Platzi cracked online education. It teaches courses on design, marketing and programming with a 70% completion rate, to over one million students worldwide.\r\n\r\nThe classes include real-time collaboration among students and industry leaders as teachers. It aims to be the professional home for lifelong learning of advanced skills.",
+          "after": "Platzi turns the scattered knowledge inside a company into training that builds expert teams, automatically. It captures how an organization's top performers sell, build, and operate, and shapes that into structured training that brings the rest of the workforce to their level. The courses are created instantly from each company's own knowledge, self-updating as it changes. It's training that never goes stale, and that no one has to maintain. And just as pilots learn to fly in a simulator, Platzi measures mastery in simulated work scenarios, like a sales rep handling a hard objection or a frontline worker holding the line on safety while a manager pushes to cut corners. The test is the work, not course completion."
+        },
+        "one_liner": {
+          "before": "Latin America's School of Technology",
+          "after": "Turning company knowledge into expert teams"
+        },
+        "regions": {
+          "before": [
+            "United States of America",
+            "Chile",
+            "Mexico",
+            "Spain",
+            "Argentina",
+            "Colombia",
+            "Peru",
+            "America / Canada",
+            "Latin America",
+            "Europe",
+            "Remote",
+            "Fully Remote"
+          ],
+          "after": [
+            "United States of America",
+            "America / Canada",
+            "Remote",
+            "Partly Remote"
+          ]
+        },
+        "stage": {
+          "before": "Growth",
+          "after": "Early"
+        },
+        "subindustry": {
+          "before": "Education",
+          "after": "B2B -> Productivity"
+        },
+        "tags": {
+          "before": [
+            "Education",
+            "eLearning",
+            "Video",
+            "HR Tech",
+            "Subscriptions"
+          ],
+          "after": [
+            "AI-Enhanced Learning",
+            "Education",
+            "eLearning",
+            "Sales Enablement",
+            "HR Tech"
+          ]
+        },
+        "team_size": {
+          "before": 300,
+          "after": 123
+        }
+      }
+    },
+    {
+      "id": 29079,
+      "name": "Tiptap",
+      "slug": "tiptap",
+      "batch": "Summer 2023",
+      "url": "https://www.ycombinator.com/companies/tiptap",
+      "changed_fields": [
+        "stage",
+        "tags",
+        "team_size"
+      ],
+      "changes": {
+        "stage": {
+          "before": "Growth",
+          "after": "Early"
+        },
+        "tags": {
+          "before": [
+            "Developer Tools",
+            "Open Source",
+            "AI"
+          ],
+          "after": [
+            "Artificial Intelligence",
+            "Developer Tools",
+            "Open Source"
+          ]
+        },
+        "team_size": {
+          "before": 18,
+          "after": 19
+        }
+      }
+    },
+    {
+      "id": 29987,
+      "name": "Syntra",
+      "slug": "syntra",
+      "batch": "Summer 2024",
+      "url": "https://www.ycombinator.com/companies/syntra",
+      "changed_fields": [
+        "long_description",
+        "tags"
+      ],
+      "changes": {
+        "long_description": {
+          "before": "Syntra is a real-time AI audit platform for healthcare revenue, compliance, and care quality. Our customers start with Syntra’s chart and claim audit and build additional agents from there. Our agents learn each practice’s workflows, payer rules, and software stack on its own, enabling us to give every clinic in the country the operating efficiency they need to stay independent.\r\n\r\nSyntra has already processed over 1M patient encounters, supports hundreds of practice locations nationwide, and ensures $100Ms in medical claim collections annually.\r\n",
+          "after": "Syntra is a real-time medical AI audit platform for revenue, compliance, and care quality. \r\n\r\nIn our first year post launch, Syntra has already audited over 1M patient encounters and over $200M in insurance collections, supporting hundreds of practice locations nationwide.\r\n\r\nOur customers start with Syntra’s chart and claim audit and build additional agents from there. Our agents learn each practice’s workflows, payer rules, and software stack on its own, enabling us to give every clinic in the country the operating efficiency they need to stay independent."
+        },
+        "tags": {
+          "before": [
+            "Big Data",
+            "Healthcare IT",
+            "AI"
+          ],
+          "after": [
+            "Artificial Intelligence",
+            "Big Data",
+            "Healthcare IT"
+          ]
+        }
+      }
+    },
+    {
+      "id": 30622,
+      "name": "Liva AI",
+      "slug": "liva-ai",
+      "batch": "Summer 2025",
+      "url": "https://www.ycombinator.com/companies/liva-ai",
+      "changed_fields": [
+        "tags",
+        "team_size"
+      ],
+      "changes": {
+        "tags": {
+          "before": [
+            "Artificial Intelligence",
+            "Marketplace",
+            "B2B",
+            "Data Labeling",
+            "Big Data"
+          ],
+          "after": [
+            "Marketplace",
+            "B2B",
+            "Data Labeling",
+            "Big Data",
+            "AI"
+          ]
+        },
+        "team_size": {
+          "before": 2,
+          "after": 4
+        }
+      }
+    },
+    {
+      "id": 32520,
+      "name": "Cerenovus",
+      "slug": "cerenovus",
+      "batch": "Summer 2026",
+      "url": "https://www.ycombinator.com/companies/cerenovus",
+      "changed_fields": [
+        "small_logo_thumb_url",
+        "tags"
+      ],
+      "changes": {
+        "small_logo_thumb_url": {
+          "before": "https://bookface-images.s3.amazonaws.com/small_logos/c4165de8ba93afc0c1ee3db1680da0127cca7e08.png",
+          "after": "https://bookface-images.s3.amazonaws.com/small_logos/a13c4ae7edff5a24b83b854a2058c28537c3a533.png"
+        },
+        "tags": {
+          "before": [
+            "AI"
+          ],
+          "after": [
+            "Artificial Intelligence"
+          ]
+        }
+      }
+    }
+  ]
+}

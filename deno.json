@@ -1,9 +1,11 @@
 {
   "tasks": {
     "update": "deno run --allow-net --allow-read --allow-write fetcher.ts",
-    "check": "deno fmt --check fetcher.ts .github && deno lint fetcher.ts && deno check fetcher.ts"
+    "test": "deno test --allow-read --allow-write",
+    "check": "deno fmt --check fetcher.ts changes.ts changes_test.ts .github && deno lint fetcher.ts changes.ts changes_test.ts && deno check fetcher.ts changes.ts changes_test.ts && deno task test"
   },
   "imports": {
+    "@std/assert": "jsr:@std/assert@1.0.19",
     "@std/fs/ensure-dir": "jsr:@std/fs@1.0.23/ensure-dir",
     "slugify": "https://deno.land/x/slugify@0.3.0/mod.ts"
   }
