@@ -2790,6 +2790,52 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/cotool.json"
   },
   {
+    "id": 30702,
+    "name": "TwentyTwo",
+    "slug": "twentytwo",
+    "former_names": [
+      "Muon",
+      "Mohi"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5be6b2304553a4bca9bfa1f2953ae02638a8d430.png",
+    "website": "https://twentytwo.bio/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "AI is making biology easy to engineer. Life-saving drugs and therapies are accelerating, but so is the ability for bad actors to create a pandemic. TwentyTwo is working on the defensive stack to prevent the next pandemic.",
+    "one_liner": "AI infrastructure for biosecurity",
+    "team_size": 3,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Industrial Bio",
+    "launched_at": 1753262535,
+    "tags": [
+      "Artificial Intelligence",
+      "Synthetic Biology",
+      "Biotech",
+      "Compliance",
+      "Security"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Industrial Bio"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/twentytwo",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/twentytwo.json"
+  },
+  {
     "id": 30856,
     "name": "Scoop",
     "slug": "scoop",
@@ -3062,18 +3108,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/efd3ccc04f842f9a3a1235ba1ef66aa4447fc993.png",
     "website": "https://www.guildai.co",
     "all_locations": "New York, NY, USA",
-    "long_description": "GUILD is a Neoprime contractor automating defense supply chain end-to-end by vertically integrating with our supplier partners.\r\n\r\nWe integrate artificial intelligence, contracting operations, and capital to source, fund, produce, and deliver defense contracts end-to-end.\r\n\r\nOperating across the U.S. and NATO markets, we bridge global manufacturing capacity with defense demand and execute with the speed and precision of an AI-driven system.\r\n\r\nOur mission is to build a modern, new generation defense contracting institution where technology and production operate as one.",
+    "long_description": "GUILD is a Neoprime that automates the Defense Supply chain for the DoW. We predict government demand, then manufacture in-house cheaper and faster than the incumbents.\r\n\r\nWe've created an AI-native business model for contracting operations, manufacturing, and finance to deliver on defense contracts end-to-end.",
     "one_liner": "Neoprime Reshaping Defense Supply Chain",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Defense",
     "launched_at": 1778869862,
     "tags": [
-      "Artificial Intelligence",
       "GovTech",
       "Compliance",
       "Manufacturing",
-      "Supply Chain"
+      "Supply Chain",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3106,7 +3152,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/553f76678219d35e34302add5de43fb39448c22c.png",
     "website": "https://www.usebylaw.com",
-    "all_locations": "Waterloo, ON, Canada",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Bylaw is a check that runs before an AI agent writes to your systems. If the agent is about to act on evidence that is wrong, outdated, or don’t agree across sources, we block the action or send it to a human first. \r\n\r\nWe all met our first year at the University of Waterloo studying computer science. We have previously interned at Meta, Optiver, and BitGo, places where making decisions on unverified data could have lethal reprecussions. We kept running into the same failure deploying agents: the agent was allowed to call the tool, but nobody had verified the facts behind the call.\r\n\r\nGuardrails ask “can this agent use this tool?” Evals catch mistakes after the fact. Neither checks whether chat, docs, CRM, and tool results actually agree at the moment of the write. That’s why the same refund or CRM mistake keeps coming back even after you fix the prompt.\r\n\r\nThis is hard because evidence lives in five places at once, goes stale between lookup and action, and every write needs different proof. It hasn’t been productized because agent teams ship fast and patch with prompts; platforms build one-off checks instead of a reusable gate in front of every sensitive tool call.\r\n\r\nThe same way finance built approval gates before money moves, every company giving agents write access will need this layer.",
     "one_liner": "Guarantee your agents use the right evidence before they act.",
     "team_size": 3,
@@ -3114,10 +3160,10 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1782681224,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Compliance",
-      "Security"
+      "Security",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3130,7 +3176,7 @@
       "Infrastructure"
     ],
     "regions": [
-      "Canada",
+      "United States of America",
       "America / Canada"
     ],
     "stage": "Early",

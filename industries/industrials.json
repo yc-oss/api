@@ -5820,7 +5820,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2020",
     "status": "Active",
@@ -10138,7 +10138,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -10264,17 +10264,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ef89599f5919a67db2c626d5aa12b8e6f38bf8da.png",
     "website": "https://cognitioiq.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cognitio Labs is an applied AI research lab building real-time compliance infrastructure for regulated supply chains, serving as the first line of defense against recalls and regulatory failure.\r\n\r\nWhen a food contamination event happens, time is everything. Today, traceability relies on spreadsheets, PDFs, and manual logs, turning recalls into multi-day investigations. Entire product categories get destroyed, brands lose trust, and a single recall can cost $10M to $100M+.\r\n\r\nWhy now: The FDA’s FSMA 204 rule requires companies to produce standardized digital traceability records within 24 hours by 2028, impacting over 60,000 U.S. food facilities. The regulatory bar is rising, but the infrastructure to meet it does not exist.\r\n\r\nOur first product line uses sensors and AI to automatically capture key events such as temperature, handling, and lot-level movements across production, storage, and transit. We convert fragmented operational data into standardized, FSMA 204-compliant traceability records in real time.\r\n\r\nCompliance is generated as operations happen, not after.\r\n\r\nThis becomes the first line of defense by enabling faster recalls, reducing spoilage, eliminating manual compliance work, and protecting contracts, insurance, and brand equity.\r\n\r\nWe are starting with food and expanding into other regulated, high-risk supply chains.",
-    "one_liner": "Automating FDA-grade Traceability Requirements with Sensors and AI.",
-    "team_size": null,
+    "long_description": "CoAsync by Cognitio Labs is the AI back office for product quality teams.\r\n\r\nWe help mission-critical food supply chains stay aligned across documents like CoAs, lab results, and supplier communication to ensure the highest-grade product quality and accuracy.\r\n\r\nBacked by Y Combinator and leading investors. The organization is deeply aligned with the Sustainable Development Goals, having presented via the the World Economic Forum's SmartStart Initiative, and the International Telecommunication Union's AI for Good program in partnership with the United Nations.\r\n\r\nWe are starting with food and expanding into other regulated, high-risk supply chains.\r\n\r\nLearn more at https://cognitioiq.com",
+    "one_liner": "AI back office for food product quality teams",
+    "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials",
     "launched_at": 1690407835,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
       "B2B",
       "Data Science",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -16462,18 +16462,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/efd3ccc04f842f9a3a1235ba1ef66aa4447fc993.png",
     "website": "https://www.guildai.co",
     "all_locations": "New York, NY, USA",
-    "long_description": "GUILD is a Neoprime contractor automating defense supply chain end-to-end by vertically integrating with our supplier partners.\r\n\r\nWe integrate artificial intelligence, contracting operations, and capital to source, fund, produce, and deliver defense contracts end-to-end.\r\n\r\nOperating across the U.S. and NATO markets, we bridge global manufacturing capacity with defense demand and execute with the speed and precision of an AI-driven system.\r\n\r\nOur mission is to build a modern, new generation defense contracting institution where technology and production operate as one.",
+    "long_description": "GUILD is a Neoprime that automates the Defense Supply chain for the DoW. We predict government demand, then manufacture in-house cheaper and faster than the incumbents.\r\n\r\nWe've created an AI-native business model for contracting operations, manufacturing, and finance to deliver on defense contracts end-to-end.",
     "one_liner": "Neoprime Reshaping Defense Supply Chain",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Defense",
     "launched_at": 1778869862,
     "tags": [
-      "Artificial Intelligence",
       "GovTech",
       "Compliance",
       "Manufacturing",
-      "Supply Chain"
+      "Supply Chain",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -16498,6 +16498,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/guild.json"
   },
   {
+    "id": 32521,
+    "name": "Molagri",
+    "slug": "molagri",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/73c2cb671f399e3f094f4caf701a63e06155fc4f.png",
+    "website": "https://molagri.com",
+    "all_locations": "Toronto, ON, Canada",
+    "long_description": "Molagri develops safer, more effective pesticides for agriculture.\r\n\r\nWe design biopesticides that hit a precise molecular target unique to pest insects, knocking out pests while sparing pollinators, beneficial insects, and the wider ecosystem. By modeling how pests are likely to evolve, we stay a step ahead of resistance, keeping our products effective against the pests of today and tomorrow. The higher efficacy and biobased production will also contribute to emissions reductions in both manufacturing and field use.\r\n\r\nOur founders are PhD lab mates from the University of Toronto who have worked together for six years and published in Nature Communications and Nature Microbiology. \r\n",
+    "one_liner": "Biopesticides that are safe for humans and bees.",
+    "team_size": 4,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Agriculture",
+    "launched_at": 1782770010,
+    "tags": [
+      "Synthetic Biology",
+      "Biotech",
+      "Sustainability",
+      "Climate",
+      "Agriculture"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Agriculture"
+    ],
+    "regions": [
+      "Canada",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/molagri",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/molagri.json"
+  },
+  {
     "id": 32552,
     "name": "6thSense",
     "slug": "6thsense",
@@ -16512,9 +16555,9 @@
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1782449364,
     "tags": [
-      "Artificial Intelligence",
       "Robotics",
-      "Data Engineering"
+      "Big Data",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -16537,6 +16580,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/6thsense",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/6thsense.json"
+  },
+  {
+    "id": 32586,
+    "name": "Greypoint Industries",
+    "slug": "greypoint-industries",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0639d67fe49e5a542121b3abc6ee745141eeff4b.png",
+    "website": "https://greypointindustries.ca/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Greypoint Industries builds mass-produced autonomous interceptors that defeat drone saturation for a fraction of the cost of the targets. We are developing a soldier-deployable, fire-and-forget interceptor built to give Western and allied forces the ammunition to counter mass drone swarm attacks.",
+    "one_liner": "Manufacturing the future of autonomous swarm warfare.",
+    "team_size": 4,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Defense",
+    "launched_at": 1782765221,
+    "tags": [
+      "Hardware",
+      "Robotics",
+      "Drones",
+      "Manufacturing",
+      "Defense"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/greypoint-industries",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/greypoint-industries.json"
   },
   {
     "id": 32781,
