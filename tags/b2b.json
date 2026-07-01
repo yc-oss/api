@@ -32311,18 +32311,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b9b1d03584239acca9b7673ae88585f25fe796b0.png",
     "website": "https://www.warp.co/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Warp is a modern, AI-native employee management platform for high-growth companies.\r\n\r\nWe’ve raised $85M from Battery Ventures, Peak XV, Sapphire, Sound Ventures (Ashton Kutcher), A-Star, Abstract, SV Angel & Homebrew Capital. \r\n\r\nWe are humbled to have the backing from people who have built some of the most important companies of the last two decades: Shopify CEO Tobi Lütke, Stripe COO Claire Hughes Johnson, Dropbox co-founders Drew Houston and Arash Ferdowsi, Coinbase CTO Balaji Srinivasan, Eventbrite founder Kevin Hartz, Cruise founder Kyle Vogt, and Replit founder Amjad Masad.",
+    "long_description": "Warp is the AI-native employee management platform for high-growth companies. We run payroll, HR, compliance, benefits, and IT on a single platform for companies from 5 to 10,000 employees, using AI agents to complete the work that legacy systems leave to people.\r\n\r\nWe've raised $85M from Battery Ventures, Peak XV, Sound Ventures (Ashton Kutcher), Sapphire, A-Star, SV Angel, and Homebrew Capital.\r\n\r\nSome of the fastest growing companies of today trust Warp to reduce HR and admin overhead so they build faster. We're proud to serve top startups like Serval, Bland, Greptile, Reducto, Corgi, Campfire, alongside our mid-size and enterprise customers.\r\n\r\nWe're humbled to have the backing of people who have built some of the most important companies of the last two decades: Shopify CEO Tobi Lütke, former Stripe COO Claire Hughes Johnson, Dropbox co-founders Drew Houston and Arash Ferdowsi, former Coinbase CTO Balaji Srinivasan, Eventbrite founder Kevin Hartz, former Cruise founder Kyle Vogt, and Replit founder Amjad Masad.",
     "one_liner": "AI-native Employee Management Platform for High-Growth Companies",
-    "team_size": 50,
+    "team_size": 80,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1677261125,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "HR Tech",
       "Payroll",
-      "Operations"
+      "Operations",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -32341,7 +32341,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": true,
+    "question_answers": false,
     "url": "https://www.ycombinator.com/companies/warp",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/warp.json"
   },
@@ -33745,18 +33745,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a2e212679d6416b22e5a93c56292d0faf00edc5.png",
     "website": "https://www.bretton.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Bretton AI (formerly Greenlite) is the leading AI agent platform for compliance in financial services. Regulated banks and fintechs — including those overseen by the OCC, FDIC, and SEC — trust Bretton AI to automate mission-critical work like sanction reviews and anti-money laundering investigations with speed and accuracy. \r\n",
-    "one_liner": "AI agents for financial compliance (AML, KYC and Sanctions)",
+    "long_description": "Bretton runs AI-native operations for the financial back office. OCC, Fed and FDIC regulated banks use Bretton to run compliance, risk, fraud operations on one platform, on their own data and policies, with every output traced, cited, and audit-ready.\r\n\r\nBretton has pioneered AI use in financial services with its proprietary Trust Infrastructure — a system of model validation, governance and auditability guardrails that enables AI use in key regulated workflows.\r\n",
+    "one_liner": "AI-native operations for the banks",
     "team_size": 34,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1687929703,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "Payments",
       "B2B",
-      "Compliance",
-      "AI"
+      "Compliance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -42387,9 +42387,9 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/669230895e9a350309e4b696d01d846593838da1.png",
     "website": "https://www.corsair.dev",
-    "all_locations": "New York, NY, USA",
-    "long_description": "What Corsair is:\r\nCorsair gives you (or your agent) safe access to hundreds of integrations. It natively handles all integration plumbing. The only code you write is the code that's specific to your use case. Your data stays yours.\r\n\r\nWhy we wrote it:\r\nIntegrations make products capable. Integrations are also frustrating to write. If you look at any codebase with integrations, 95% of the code is identical. It's all just basic plumbing. The part of the integration that is unique to a codebase and actually adds value is probably just a few lines. We shouldn't waste time writing and maintaining the 95% for a few lines. The developer community has just accepted that we do. Corsair handles the 95% so you don't have to. It's really hard to get wrong. ",
-    "one_liner": "Integration Layer for AI Agents",
+    "all_locations": "New York, NY, USA; Remote",
+    "long_description": "Corsair connects your app to any other API. Use Corsair to build custom agents, dashboards, and workflows with hundreds of different integrations. ",
+    "one_liner": "Connect your users to their apps",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -42413,7 +42413,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -44817,6 +44819,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/autosana.json"
   },
   {
+    "id": 30728,
+    "name": "OS3",
+    "slug": "os3",
+    "former_names": [
+      "Observee"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd88161755dbb4d7513a2dc91e69b26930313524.png",
+    "website": "https://os3robotics.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Semi-humanoid robots that do real physical labor. Building hardware and training models, each driving the other. Already deploying in hospitality.",
+    "one_liner": "Intelligence and Machines for Physical Labor",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1753297896,
+    "tags": [
+      "Artificial Intelligence",
+      "Hardware",
+      "Robotics",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/os3",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/os3.json"
+  },
+  {
     "id": 30741,
     "name": "F4 Industries",
     "slug": "f4-industries",
@@ -46968,6 +47014,46 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/q2q.json"
   },
   {
+    "id": 31200,
+    "name": "Ressl AI",
+    "slug": "ressl-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/186bc6483be3828abcf998b9a4ffedbef27ecfed.png",
+    "website": "https://ressl.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Ressl AI helps teams bridge the gap from prototype to production by providing the platform needed to train, benchmark, and deploy autonomous agents that actually work in real-world business systems.",
+    "one_liner": "Train, eval and build autonomous agents",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1765975223,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Operations"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ressl-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/ressl-ai.json"
+  },
+  {
     "id": 31222,
     "name": "Superset",
     "slug": "superset",
@@ -47730,7 +47816,7 @@
     "name": "Edviro",
     "slug": "edviro",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/98362e61e1649e1ea6df53e5da74fe5c0a88a97e.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c179a28044a3d4a8c3ceaf2a5b8cecbf90f66aa7.png",
     "website": "https://edviroenergy.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Edviro helps facilities managers at large buildings save on their energy bills. Facilities managers are overwhelmed with dashboards, alarms, and analytics for hundreds of boilers, HVAC units, and heat pumps across their buildings. Edviro continuously monitors and optimizes buildings using energy world models to detect anomalies, simulate interventions, and suggest the best options to the facilities manager.  Once the changes occur, we create a comprehensive M&V report to ensure savings show up on the bill. \r\n\r\nOur tools also allow institutions to maintain detailed service history & equipment logs, and perform maintenance with AR.  ",

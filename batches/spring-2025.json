@@ -1421,22 +1421,25 @@
   },
   {
     "id": 30431,
-    "name": "Chonkie",
-    "slug": "chonkie",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ec7731d8a7139472d0383a52014ff67683cdac5c.png",
-    "website": "https://www.chonkie.ai",
+    "name": "Feyn",
+    "slug": "feyn",
+    "former_names": [
+      "Chonkie"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7711f83eeb988737aadd19d8943c753d2e4085f4.png",
+    "website": "https://www.usefeyn.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Chonkie builds deep research agents that surface non-obvious signals from scattered data. Our agents combine public and private sources to deliver detailed, continuously updated research that stays current as underlying facts change.\r\n\r\nWe open source most of the libraries and infrastructure we build. Our most popular library, Chonkie, handles chunking and embedding for AI applications with 100K downloads/day and adoption by OpenAI, Microsoft, and LlamaIndex.",
-    "one_liner": "Deep research on autopilot",
-    "team_size": 2,
+    "long_description": "Feyn is an end-to-end service for building custom models from your data. Our models learn how your product actually works, handle the rare cases that are costly to get wrong, and grow sharper the longer they run.\r\n\r\nOur engineers start by reviewing your current setup and agreeing on what quality means for your workflow. Then we train a model on your data. Once it ships, new cases feed back into training so the model keeps improving. \r\n\r\nThe result is a model that runs faster, improves with use, and is yours to own.",
+    "one_liner": "Custom models trained on your data",
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1741421145,
     "tags": [
       "Artificial Intelligence",
       "Developer Tools",
-      "AI"
+      "AI",
+      "ML"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1457,8 +1460,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/chonkie",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/chonkie.json"
+    "url": "https://www.ycombinator.com/companies/feyn",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/feyn.json"
   },
   {
     "id": 30432,

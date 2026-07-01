@@ -343,10 +343,10 @@
     "name": "Platzi",
     "slug": "platzi",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b54bffd3bd06059fabfb2a7a0351e2e4c1e8e697.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e10b69888a43c949c6837cf87eb4b924e904ef8a.png",
     "website": "https://platzi.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Platzi turns the scattered knowledge inside a company into training that builds expert teams, automatically. It captures how an organization's top performers sell, build, and operate, and shapes that into structured training that brings the rest of the workforce to their level. The courses are created instantly from each company's own knowledge, self-updating as it changes. It's training that never goes stale, and that no one has to maintain. And just as pilots learn to fly in a simulator, Platzi measures mastery in simulated work scenarios, like a sales rep handling a hard objection or a frontline worker holding the line on safety while a manager pushes to cut corners. The test is the work, not course completion.",
+    "long_description": "Platzi turns a company's scattered knowledge into training that automatically builds expert teams. It captures how an organization's top performers sell, build, and operate, then shapes that knowledge into structured training that brings the rest of the workforce to their level. The courses are created instantly from each company's own knowledge, self-updating as it changes. It's training that never goes stale, and no one has to maintain. And just as pilots learn to fly in a simulator, Platzi measures mastery in simulated work scenarios, like a sales rep handling a hard objection or a frontline worker holding the line on safety while a manager pushes to cut corners. The test is the work, not course completion.",
     "one_liner": "Turning company knowledge into expert teams",
     "team_size": 123,
     "industry": "B2B",
@@ -375,7 +375,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -5747,7 +5747,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Greptile reviews pull requests with full context of the codebase. \r\n\r\nTop YC companies like PostHog, Raycast, Vouch, Podium, and YC's own internal software team use Greptile to review millions of changes every week. \r\n\r\nWhen companies start using Greptile, they catch more bugs and merge PRs 4x faster, on average\r\n\r\nGreptile can be used via the cloud, or be hosted 100% on your cloud in an air-gapped VPC.",
     "one_liner": "AI code review agent with complete context of your codebase",
-    "team_size": 20,
+    "team_size": 35,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1695668492,
@@ -5770,7 +5770,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": true,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -6177,24 +6177,25 @@
   },
   {
     "id": 30116,
-    "name": "Friday",
-    "slug": "friday",
+    "name": "Freestyle",
+    "slug": "freestyle-ai",
     "former_names": [
-      "Jarvis Mail"
+      "Jarvis Mail",
+      "Friday"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f9e9b4d414566a4e2636d95776ad36cc0bd894c.png",
-    "website": "https://www.friday.so",
+    "website": "https://www.freestyle.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Email sucks. It takes forever to go through, and hiring an assistant is costly and invasive. Friday is building the assistant that learns how to predict the action that you will take on your emails, and does it for you.\r\n\r\nToday's email products try to help you go through your emails a little faster, but if you have to get through 1000 emails, those products doesn't do much for you. \r\n\r\nThe reality is, most of the emails you get don't require you to personally look at them. Friday completely eliminates the need to check those emails, and handles them all at once for you, immediately. \r\n\r\nFriday is here to file away spam, sift through newsletters for important tidbits, text you important notifications, and reply to mundane emails, so that no matter how many thousands of emails are in your inbox, you'll just be left with the few emails that actually require your personal touch.\r\n\r\nGetting this right is difficult, so everyone else settles with trying to help you go through your email twice as fast. If you want to go 100x as fast, you shouldn't spend even a second on useless emails. \r\n\r\nFriday gets this right, bringing the elite experience of having a professional assistant to the entire world.",
+    "long_description": "Email sucks. It takes forever to go through, and hiring an assistant is costly and invasive. Friday is building the assistant that learns how to predict the action that you will take on your emails, and does it for you.\r\n\r\nToday's email products try to help you go through your emails a little faster, but if you have to get through 1000 emails, those products doesn't do much for you. \r\n\r\nThe reality is, most of the emails you get don't require you to personally look at them. Freestyle completely eliminates the need to check those emails, and handles them all at once for you, immediately. \r\n\r\nFreestyle is here to file away spam, sift through newsletters for important tidbits, text you important notifications, and reply to mundane emails, so that no matter how many thousands of emails are in your inbox, you'll just be left with the few emails that actually require your personal touch.\r\n\r\nGetting this right is difficult, so everyone else settles with trying to help you go through your email twice as fast. If you want to go 100x as fast, you shouldn't spend even a second on useless emails. \r\n\r\nFreestyle gets this right, bringing the elite experience of having a professional assistant to the entire world.",
     "one_liner": "The AI Assistant for Gmail",
-    "team_size": 5,
+    "team_size": 3,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1731106672,
     "tags": [
+      "Artificial Intelligence",
       "Productivity",
       "Email",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -6215,8 +6216,8 @@
     "demo_day_video_public": true,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/friday",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/friday.json"
+    "url": "https://www.ycombinator.com/companies/freestyle-ai",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/freestyle-ai.json"
   },
   {
     "id": 30292,

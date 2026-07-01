@@ -3993,7 +3993,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -24070,49 +24070,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/emerge-career.json"
   },
   {
-    "id": 25060,
-    "name": "Wyvern",
-    "slug": "wyvern",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/81c65dc68a3dd43b57dbb23ae1bb4d8d7ae288ab.png",
-    "website": "http://www.wyvern.space",
-    "all_locations": "Edmonton, AB, Canada",
-    "long_description": "Wyvern is a space data company that will capture the highest resolution hyperspectral images from satellites that cost 100X less than satellites using traditional telescopes.",
-    "one_liner": "High-res hyperspectral pictures of Earth from space",
-    "team_size": 26,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Aviation and Space",
-    "launched_at": 1642438828,
-    "tags": [
-      "Hard Tech",
-      "Satellites",
-      "Climate"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Aviation and Space"
-    ],
-    "regions": [
-      "Canada",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/wyvern",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/wyvern.json"
-  },
-  {
     "id": 25075,
     "name": "Attack Capital",
     "slug": "attack-capital",
@@ -27970,7 +27927,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Medplum makes it easy to build healthcare webapps that are compliant and interoperability ready.  Our open source toolkit allows healthcare providers write apps that are HIPAA compliant, SOC2 certified and FHIR native - streamlining payor connections, health system integrations and more. ",
     "one_liner": "API first electronic health record (EHR) that is open source",
-    "team_size": 12,
+    "team_size": 20,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1659548315,
@@ -27991,7 +27948,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -32423,14 +32382,14 @@
       "JustPaid.ai",
       "JustPaid"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/82ec739461b339d9ec575319f0ea12411f9e30bd.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/16284384d06d6162a400238a8b4e998e471fe35b.png",
     "website": "https://www.loopfour.com",
     "all_locations": "Mountain View, CA, USA; Remote",
-    "long_description": "We make it easy for founders to do billing right out of demo day.\r\n\r\nEvery B2B startup faces the same billing nightmare: unique customer terms, custom pricing, usage tiers, and discount structures that make manual billing a costly mess. Hiring billing specialists adds overhead and introduces human error right when you need to move fast.\r\n\r\nJustPaid makes billing effortless by extracting billing logic directly from your contracts—whether they're PDFs or stored in your CRM—and automatically generating accurate, timely invoices.\r\n\r\nAlready using Stripe, DocuSign, CommonPaper, HubSpot, or Salesforce? We integrate seamlessly with your existing stack.\r\n\r\nMaintain control while automating the complexity. No more pricing disputes. Faster cash flow. Fewer headaches.\r\n\r\n- Move fast: Bill customers from day one without hiring specialists\r\n- Scale smart: Handle complex pricing models without operational overhead\r\n- Stay focused: Spend time building your product, not managing invoices\r\n- Reduce risk: Eliminate human error in billing calculations\r\n\r\nWe're always asking ourselves: How can we make a company's financial operations effortless so teams can focus on scaling?\r\n\r\n- We don't settle\r\n- We are passionate\r\n- We are serial entrepreneurs\r\n\r\nWe aim to make a dent in the universe.",
+    "long_description": "Workflow Automation in Finance",
     "one_liner": "AI for finance, without the black box.",
     "team_size": 20,
     "industry": "Fintech",
-    "subindustry": "Fintech -> Payments",
+    "subindustry": "Fintech",
     "launched_at": 1676918637,
     "tags": [
       "AI-Enhanced Learning",
@@ -32446,8 +32405,7 @@
     "batch": "Winter 2023",
     "status": "Active",
     "industries": [
-      "Fintech",
-      "Payments"
+      "Fintech"
     ],
     "regions": [
       "United States of America",
@@ -34518,18 +34476,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0bdcc8475801e999a95ad750970c80614d23f5c4.png",
     "website": "https://metal.ai/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Metal is building the world’s most powerful intelligence platform for private market investors. We support deal teams throughout the investment lifecycle - from market research and sourcing to diligence and post-close. Top-tier funds like Berkshire Partners and Clearlake Capital already rely on Metal to move faster and make smarter investment decisions - and we’re just getting started.\r\n\r\nIf you're excited to transform how private investors work, collaborate, and make decisions, we’d love to meet you.",
-    "one_liner": "Institutional Intelligence for Private Equity",
+    "long_description": "Firm proprietary data is only as sharp as the context around it. Metal is the context platform for private capital.\r\n\r\nIt structures everything a firm has touched, every deal, company, and figure, along with every decision the deal team has made, into one context graph. So the AI tools your deal teams already rely on, like Claude, ChatGPT, and Copilot, can reason with the firm's own knowledge. Every deal feeds back into the graph, so the firm's edge compounds: each decision sharpens the one that follows.\r\n\r\nMetal is purpose-built for private equity and private credit. We turn what a firm knows into how it wins.",
+    "one_liner": "The AI context platform for private capital. Everything your firm…",
     "team_size": 17,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1674209670,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "SaaS",
       "Finance",
-      "Investing"
+      "Investing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -36978,54 +36936,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/numen.json"
   },
   {
-    "id": 28893,
-    "name": "VetRec",
-    "slug": "vetrec",
-    "former_names": [
-      "Verba",
-      "Neum",
-      "Verba",
-      "Neum",
-      "Neum AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b431c0a63a44f00269d119fe4eabf718b56980ac.png",
-    "website": "https://vetrec.io",
-    "all_locations": "Seattle, WA, USA",
-    "long_description": "VetRec automates the process of taking clinical notes for veterinarians in a matter of seconds. Veterinarians should just review clinical notes, not spend time creating them. A visit with a pet is precious and 100% of the focus should be spent on the pet, not on notes. VetRec is the veterinarian's best friend.",
-    "one_liner": "AI Scribe for veterinarians. Saving time and improving patient care.",
-    "team_size": 25,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1689362011,
-    "tags": [
-      "Generative AI",
-      "Health Tech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/vetrec",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/vetrec.json"
-  },
-  {
     "id": 28896,
     "name": "GovernGPT",
     "slug": "governgpt",
@@ -37254,18 +37164,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a2e212679d6416b22e5a93c56292d0faf00edc5.png",
     "website": "https://www.bretton.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Bretton AI (formerly Greenlite) is the leading AI agent platform for compliance in financial services. Regulated banks and fintechs — including those overseen by the OCC, FDIC, and SEC — trust Bretton AI to automate mission-critical work like sanction reviews and anti-money laundering investigations with speed and accuracy. \r\n",
-    "one_liner": "AI agents for financial compliance (AML, KYC and Sanctions)",
+    "long_description": "Bretton runs AI-native operations for the financial back office. OCC, Fed and FDIC regulated banks use Bretton to run compliance, risk, fraud operations on one platform, on their own data and policies, with every output traced, cited, and audit-ready.\r\n\r\nBretton has pioneered AI use in financial services with its proprietary Trust Infrastructure — a system of model validation, governance and auditability guardrails that enables AI use in key regulated workflows.\r\n",
+    "one_liner": "AI-native operations for the banks",
     "team_size": 34,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1687929703,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "Payments",
       "B2B",
-      "Compliance",
-      "AI"
+      "Compliance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -37532,7 +37442,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -39046,49 +38956,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/coba.json"
   },
   {
-    "id": 29157,
-    "name": "Orbio Earth",
-    "slug": "orbio-earth",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c8b46bfc8422d4590d819ae4695c62834845a549.png",
-    "website": "https://www.orbio.earth/",
-    "all_locations": "Remote",
-    "long_description": "Orbio uses satellite imagery to track methane emissions from the oil & gas industry. We sell the data to financial companies that want to invest into the best performing energy companies.\r\n\r\nUntil today, oil & gas companies use excel-based emission factors to calculate and report their emissions. As these excel-based emission factors underestimate actual emissions by ~70%, the finance companies that invest into oil & gas can’t mitigate against incoming risks from new regulations, \r\n\r\nWe have built a technology that can for the first time use satellite images to track methane from every single oil & gas facility on the planet, replacing emission factors and allowing finance companies to make the best bets on oil & gas companies that will withstand a wide avalanche of incoming regulation. In the summer 2023 our satellite-based technology got ranked #1 both in terms of accuracy and sensitivity of methane emission events by Stanford University in a peer-reviewed study, beating a range of multi-bn dollar competitors like Maxar.\r\n\r\nLearn more at https://orbio.earth",
-    "one_liner": "Tracking methane emissions with satellites",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1687128394,
-    "tags": [
-      "Artificial Intelligence",
-      "Satellites",
-      "Analytics",
-      "Climate",
-      "Energy"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/orbio-earth",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/orbio-earth.json"
-  },
-  {
     "id": 29158,
     "name": "Feanix Biotechnologies",
     "slug": "feanix-biotechnologies",
@@ -39601,7 +39468,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Greptile reviews pull requests with full context of the codebase. \r\n\r\nTop YC companies like PostHog, Raycast, Vouch, Podium, and YC's own internal software team use Greptile to review millions of changes every week. \r\n\r\nWhen companies start using Greptile, they catch more bugs and merge PRs 4x faster, on average\r\n\r\nGreptile can be used via the cloud, or be hosted 100% on your cloud in an air-gapped VPC.",
     "one_liner": "AI code review agent with complete context of your codebase",
-    "team_size": 20,
+    "team_size": 35,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1695668492,
@@ -39624,7 +39491,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": true,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -49110,7 +48977,7 @@
     "all_locations": "London, United Kingdom",
     "long_description": "Autumn is open-source infrastructure over Stripe that allows AI startups to build their pricing plans quickly, and flexibly. We act as your app's DB and manage who's paying for what, track usage and manage customer feature access.\r\n\r\nYC companies use us because we make it easy to handle common pricing models like usage-based, credits, subscriptions, rollovers and more in 3 functions and no webhooks. \r\n\r\nAs you scale, you get reliable billing, that you can change however you want without wrangling code (we handle versioning, migrations etc), and manage custom pricing too. Everything you could down the line (credits, multiple subscription groups, rollovers, referral program, usage analytics, centralized team billing etc), you can drop in at any point. ",
     "one_liner": "Billing infrastructure for AI",
-    "team_size": 2,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1730430835,
@@ -52060,9 +51927,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f567bf243e624ac80b841cec50ec05ef7e87c1ac.png",
     "website": "https://www.reditus.space/",
     "all_locations": "Atlanta, GA, USA",
-    "long_description": "We are making reusable satellites for zero-g manufacturing. \r\nOur first full orbital recovery mission is set to launch in April 2026.",
-    "one_liner": "Reusable Satellites for zero-g manufacturing",
-    "team_size": 20,
+    "long_description": "We are making reusable satellites for zero-g manufacturing & Hypersonic Technology Development. \r\nOur first orbital recovery mission is set to launch in Q4 2026.",
+    "one_liner": "Reusable Satellites",
+    "team_size": 12,
     "industry": "Industrials",
     "subindustry": "Industrials -> Aviation and Space",
     "launched_at": 1739340612,
