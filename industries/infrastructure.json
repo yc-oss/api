@@ -5545,7 +5545,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -11778,13 +11778,14 @@
   },
   {
     "id": 31283,
-    "name": "Librar Labs",
-    "slug": "librar-labs",
+    "name": "Ossus",
+    "slug": "ossus",
     "former_names": [
-      "Librar"
+      "Librar",
+      "Librar Labs"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cc71fc515d431ac2186349ba194efc3183ef3d19.png",
-    "website": "https://www.librarlabs.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5d996045fb0f0538e45cf4f2a7445da3af339bb3.png",
+    "website": "https://www.ossus.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We build intelligence for cultural institutions.\r\n\r\nOur first commercial product is for the literature industry with a focus on school and public libraries. It is a AI-native OS for libraries, that helps librarians save time on tedious tasks and lets them focus on their patrons.\r\n",
     "one_liner": "Intelligence for cultural institutions",
@@ -11815,8 +11816,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/librar-labs",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/librar-labs.json"
+    "url": "https://www.ycombinator.com/companies/ossus",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/ossus.json"
   },
   {
     "id": 31299,
@@ -12107,7 +12108,7 @@
     "slug": "stablebrowse",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed9bc479aa95e772450f53b3ce34a581c2a1e4b7.png",
-    "website": "https://stablebrowse.com/",
+    "website": "https://stablebrowse.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We are making the browser layer for your AI agents. Agents don’t need to see UIs like us humans do. We give agents a semantic understanding of the web instead of brittle visual interfaces. Your agents can perform deep research, large-scale scraping, and complex automation—more efficiently with our knowledge graphs that turns the web into a native protocol for LLMs.",
     "one_liner": "Browser Layer for AI agents",
@@ -12116,10 +12117,10 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1774843315,
     "tags": [
+      "Artificial Intelligence",
       "API",
       "Automation",
-      "Web Development",
-      "AI"
+      "Web Development"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -12777,7 +12778,7 @@
     "website": "https://touchmark.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "Prices AI by the value it delivers",
+    "one_liner": "Solving AI pricing",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -12932,6 +12933,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/markov",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/markov.json"
+  },
+  {
+    "id": 33014,
+    "name": "Inkbox",
+    "slug": "inkbox",
+    "former_names": [
+      "Inkbox (Vectorly Inc)"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f2e10120a7184c6f7b716b22ea7167e079fcbd86.png",
+    "website": "https://inkbox.ai",
+    "all_locations": "Boston, MA, USA",
+    "long_description": "We are building the communication layer for AI agents: giving agents their own email, phone, iMessage, and internet address. Every interaction flows through Inkbox, so agents are enhanced with multi-channel context.",
+    "one_liner": "Give your AI agents email, phone, iMessage and an internet address",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1782881612,
+    "tags": [
+      "Developer Tools",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/inkbox",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/inkbox.json"
   },
   {
     "id": 33052,
