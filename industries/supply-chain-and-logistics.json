@@ -2316,7 +2316,7 @@
     "all_locations": "Singapore, Singapore; Remote",
     "long_description": "Greywing is a platform for ship operators to automate their business, through actionable intelligence, better data and communication.\r\n\r\nGreywing today serves three product lines to customers:\r\n\r\n*Flotilla* is a monitoring tool for vessels, enabling vessel managers to identify fleet-level patterns and optimizations and to identify risk and liability vectors in advance.\r\n\r\n*CRY4* is an operational tool for individual vessels that allows crew managers, security officers and masters to gather intelligence about a vessels current or proposed route, making decisions about the safest and the cheapest ports of call that a vessel can be directed to.\r\n\r\n*Landfall* is a crew management and analysis system to provide risk reporting and detailed editing capabilities about the crew on-board a vessel.\r\n\r\n*Semaphore* is a port-agent communications tool meant to simplify the process of interfacing with large numbers of port agents while planning a port call.",
     "one_liner": "The Operating System for Maritime",
-    "team_size": 3,
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1614501483,
@@ -2344,7 +2344,7 @@
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
-    "app_answers": true,
+    "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/greywing",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/greywing.json"
@@ -3097,16 +3097,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c79d80de8f1c859dfa1ed888601f47888bb8f4b.png",
     "website": "https://www.kaso.ai",
     "all_locations": "Dubai, United Arab Emirates",
-    "long_description": "Kaso (formerly Elkaso) is the largest B2B ordering platform for restaurants and suppliers in the Middle East. Kaso connects restaurants and suppliers, to manage and improve the order process end to end to save time, money, and food. ",
-    "one_liner": "B2B platform connecting restaurants with food suppliers",
-    "team_size": 50,
+    "long_description": "Independent restaurants pay ~12% more than chains for the exact same food supplies because they buy alone.\r\nKaso uses AI agents to aggregate purchasing demand from restaurants and negotiate chain-level pricing with suppliers.",
+    "one_liner": "AI group purchasing for restaurants",
+    "team_size": 20,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1647801567,
     "tags": [
+      "Artificial Intelligence",
       "Marketplace",
       "Supply Chain",
-      "Food Tech"
+      "Food Tech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3120,9 +3122,7 @@
     ],
     "regions": [
       "United Arab Emirates",
-      "Middle East and North Africa",
-      "Remote",
-      "Partly Remote"
+      "Middle East and North Africa"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4547,7 +4547,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -5139,7 +5139,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/642bff7a1b26de3309aed7fc5200498a8dca5180.png",
     "website": "https://www.getasap.us",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Fresh-produce supply chains are built around guesswork. Growers plant without clear demand signals, distributors overbuy to protect against shortages, and retailers end up eating the waste. GETASAP fixes this by rebuilding distribution around real demand and fast execution. We deliver wholesale fresh produce with 8-hour same-day delivery, using micro-fulfillment centers positioned close to demand so we can operate with far less safety stock.\r\n\r\nBehind the scenes, we look at live retail sales, purchasing, and waste patterns to decide what to source, where to place inventory, and when to replenish. That lets us buy closer to actual demand, turn inventory faster, and materially reduce spoilage. For retailers, GETASAP replaces procurement teams and fragmented supplier management—we handle sourcing, inventory decisions, and fulfillment end to end as a single, reliable partner. As more volume flows through the network, demand becomes clearer, sourcing gets smarter, and the operation becomes cheaper and more predictable over time.",
+    "long_description": "Founded in 2023, GETASAP is a San Francisco–based technology and supply chain infrastructure company transforming fresh produce distribution and freight.\r\n\r\nGETASAP provides same-day delivery to thousands of restaurants and retail locations across the USA, sourcing directly from farms internationally. It operates GETASAP Logistics, an AI-native freight carrier and brokerage, to deliver reliable reefer LTL and FTL services powered by VoiceAI dispatch, optimized scheduling, and real-time operational intelligence.\r\n\r\nMain Offices: \r\nMountain View, CA (HQ)\r\nFresno, CA\r\nAlpharetta, GA",
     "one_liner": "AI-Native Fresh Produce Logistics",
     "team_size": 30,
     "industry": "B2B",
@@ -5148,7 +5148,6 @@
     "tags": [
       "B2B",
       "Logistics",
-      "E-commerce",
       "Supply Chain"
     ],
     "tags_highlighted": [],

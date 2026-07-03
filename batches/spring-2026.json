@@ -1660,22 +1660,26 @@
   },
   {
     "id": 31362,
-    "name": "matforge",
-    "slug": "matforge",
+    "name": "Discovered Materials",
+    "slug": "discovered-materials",
     "former_names": [
       "MatForge",
-      "Matforge"
+      "Matforge",
+      "matforge"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/910cd5b0344664a22b57c59a7d459cabe1095bee.png",
-    "website": "https://matforge.ai/",
+    "website": "https://discoveredmaterials.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We build AI scientists that discover new materials for the semiconductor industry - specifically datacenters and fabs. Finding novel materials today takes 10+ years of lab work. We aim to compress that timeline to months, using a swarm of AI agents.\r\n\r\nAkash completed his PhD at Stanford on material discovery for semiconductors. The materials he discovered for nanoscale interconnects have been adopted into the roadmaps of Intel and TSMC. Advaith was the founding applied scientist at Persona AI (acquired by Luma Labs), where he built long horizon autonomous agents for major telecom and crypto companies.\r\n\r\nPower consumption and heat release from AI chips is doubling every year. The semiconductor industry needs new materials to keep this exponential going - Matforge will help find them. ",
     "one_liner": "AI scientists to discover materials for the semiconductor industry.",
     "team_size": 2,
     "industry": "Industrials",
-    "subindustry": "Industrials -> Energy",
+    "subindustry": "Industrials",
     "launched_at": 1773874719,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Semiconductors"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -1683,8 +1687,7 @@
     "batch": "Spring 2026",
     "status": "Active",
     "industries": [
-      "Industrials",
-      "Energy"
+      "Industrials"
     ],
     "regions": [
       "United States of America",
@@ -1695,8 +1698,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/matforge",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/matforge.json"
+    "url": "https://www.ycombinator.com/companies/discovered-materials",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/discovered-materials.json"
   },
   {
     "id": 31363,
@@ -5568,7 +5571,7 @@
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "TesterArmy is an AI agent that tests websites and mobile apps. It monitors production on a schedule and runs automatically on every GitHub Pull Request, delivering screenshots, recordings, and actionable bug reports.\r\n\r\nDescribe tests in plain English. The agent handles login flows, OAuth, and OTPs, no scripts to write or maintain. We catch the regressions and UX issues that code review misses.",
     "one_liner": "Test your app with AI, catch bugs before users do",
-    "team_size": 5,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1773767171,
@@ -6920,7 +6923,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/44c1f17a88c6716d09288318cb5f9de77b9bdbbb.png",
     "website": "https://kugelaudio.com/en",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Kugel is an enterprise-ready TTS model, available on-prem, with a focus on 25+ languages and low latency. ",
+    "long_description": "Kugel is an enterprise-ready TTS model, available on-prem, with a focus on 30+ languages and low latency. ",
     "one_liner": "Kugel is an on-prem Voice AI model supporting 30+ languages ",
     "team_size": 4,
     "industry": "B2B",
@@ -6929,7 +6932,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2026",
     "status": "Active",

@@ -6416,11 +6416,11 @@
     "name": "Flux Auto",
     "slug": "flux-auto",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3216297669f8a2cef1d4cb56c1dbc1ec4a127187.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1782782e9f339f3d5ae2b7213cb07b675c29d2f7.png",
     "website": "https://fluxauto.ai",
     "all_locations": "Bengaluru, India",
-    "long_description": "Flux Auto is building autonomous mobility technology to fully automate the movement and operation of vehicles in controlled spaces. Using Flux's solutions customers can reduce their dependency on human drivers, while also increasing productivity and reducing operating costs. \r\n\r\nFlux is currently deploying in warehouses, farms and mines.",
-    "one_liner": "General Autonomy for Controlled Spaces",
+    "long_description": "Flux is building physical AI to automate material movement in warehouses and factories on legacy vehicle fleets. Using Flux's solutions customers can reduce their dependency on human drivers, while also increasing productivity and reducing operating costs. \r\n\r\nFlux is currently deploying with customers like Walmart, Daimler, Bajaj, Cummins, Mahindra Logistics across warehouses, fulfillment centers and factories.",
+    "one_liner": "Physical AI for Warehouses and Factories",
     "team_size": 56,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -6430,7 +6430,7 @@
       "Autonomous Trucking",
       "Hard Tech",
       "Robotics",
-      "Logistics"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6960,7 +6960,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2021",
     "status": "Active",
@@ -10904,7 +10904,7 @@
     "all_locations": "Berkeley, CA, USA",
     "long_description": "Azalea Robotics automates airport baggage handling with intelligent robot operations. The global market for airport baggage handling systems is $20+ billion and growing, presenting a significant opportunity for innovation and market disruption in this sector.\r\n\r\n\r\nPassenger air traffic volume is increasing, driving demand for efficient and reliable baggage handling at airports and putting immense pressure on existing infrastructure. In 2023 alone, airports processed approximately 4.5 billion bags, highlighting the need for advanced solutions to manage this load effectively. Azalea Robotics provides state-of-the-art robotic systems that enhance efficiency, reduce mishandling, and improve passenger experience through more reliable operations.\r\n\r\n\r\nBaggage handling is a critical component of airline ground operations, yet it is fraught with challenges. The work is physically demanding, often leading to long-term injuries among workers. Traditional baggage handling involves repetitive lifting and maneuvering of heavy loads, which can result in long-term health issues. Azalea Robotics addresses these challenges by automating the most strenuous tasks, thereby reducing the risk of injury and enhancing operational efficiency.",
     "one_liner": "Automating airport baggage handling with robots.",
-    "team_size": 2,
+    "team_size": null,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1723668106,
@@ -12814,7 +12814,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -13404,7 +13404,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6077089b2820cf087e262d7c3ff9da8b9617d791.png",
     "website": "https://parametric.company/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Parametric builds autonomous physical businesses.\r\n\r\nWe're starting with a laundromat, designed from the ground up for autonomy. Dirty laundry in, folded clean laundry out.\r\n\r\nRather than retrofit human workflows with robots, we redesign processes with robots as first class citizens.",
+    "long_description": "Parametric builds autonomous physical businesses.",
     "one_liner": "Physical businesses that run themselves",
     "team_size": 7,
     "industry": "Industrials",
@@ -15768,22 +15768,26 @@
   },
   {
     "id": 31362,
-    "name": "matforge",
-    "slug": "matforge",
+    "name": "Discovered Materials",
+    "slug": "discovered-materials",
     "former_names": [
       "MatForge",
-      "Matforge"
+      "Matforge",
+      "matforge"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/910cd5b0344664a22b57c59a7d459cabe1095bee.png",
-    "website": "https://matforge.ai/",
+    "website": "https://discoveredmaterials.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We build AI scientists that discover new materials for the semiconductor industry - specifically datacenters and fabs. Finding novel materials today takes 10+ years of lab work. We aim to compress that timeline to months, using a swarm of AI agents.\r\n\r\nAkash completed his PhD at Stanford on material discovery for semiconductors. The materials he discovered for nanoscale interconnects have been adopted into the roadmaps of Intel and TSMC. Advaith was the founding applied scientist at Persona AI (acquired by Luma Labs), where he built long horizon autonomous agents for major telecom and crypto companies.\r\n\r\nPower consumption and heat release from AI chips is doubling every year. The semiconductor industry needs new materials to keep this exponential going - Matforge will help find them. ",
     "one_liner": "AI scientists to discover materials for the semiconductor industry.",
     "team_size": 2,
     "industry": "Industrials",
-    "subindustry": "Industrials -> Energy",
+    "subindustry": "Industrials",
     "launched_at": 1773874719,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Semiconductors"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -15791,8 +15795,7 @@
     "batch": "Spring 2026",
     "status": "Active",
     "industries": [
-      "Industrials",
-      "Energy"
+      "Industrials"
     ],
     "regions": [
       "United States of America",
@@ -15803,8 +15806,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/matforge",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/matforge.json"
+    "url": "https://www.ycombinator.com/companies/discovered-materials",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/discovered-materials.json"
   },
   {
     "id": 31366,

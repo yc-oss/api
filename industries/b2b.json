@@ -46900,7 +46900,7 @@
     "all_locations": "Singapore, Singapore; Remote",
     "long_description": "Greywing is a platform for ship operators to automate their business, through actionable intelligence, better data and communication.\r\n\r\nGreywing today serves three product lines to customers:\r\n\r\n*Flotilla* is a monitoring tool for vessels, enabling vessel managers to identify fleet-level patterns and optimizations and to identify risk and liability vectors in advance.\r\n\r\n*CRY4* is an operational tool for individual vessels that allows crew managers, security officers and masters to gather intelligence about a vessels current or proposed route, making decisions about the safest and the cheapest ports of call that a vessel can be directed to.\r\n\r\n*Landfall* is a crew management and analysis system to provide risk reporting and detailed editing capabilities about the crew on-board a vessel.\r\n\r\n*Semaphore* is a port-agent communications tool meant to simplify the process of interfacing with large numbers of port agents while planning a port call.",
     "one_liner": "The Operating System for Maritime",
-    "team_size": 3,
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1614501483,
@@ -46928,7 +46928,7 @@
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
-    "app_answers": true,
+    "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/greywing",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/greywing.json"
@@ -60545,16 +60545,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c79d80de8f1c859dfa1ed888601f47888bb8f4b.png",
     "website": "https://www.kaso.ai",
     "all_locations": "Dubai, United Arab Emirates",
-    "long_description": "Kaso (formerly Elkaso) is the largest B2B ordering platform for restaurants and suppliers in the Middle East. Kaso connects restaurants and suppliers, to manage and improve the order process end to end to save time, money, and food. ",
-    "one_liner": "B2B platform connecting restaurants with food suppliers",
-    "team_size": 50,
+    "long_description": "Independent restaurants pay ~12% more than chains for the exact same food supplies because they buy alone.\r\nKaso uses AI agents to aggregate purchasing demand from restaurants and negotiate chain-level pricing with suppliers.",
+    "one_liner": "AI group purchasing for restaurants",
+    "team_size": 20,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1647801567,
     "tags": [
+      "Artificial Intelligence",
       "Marketplace",
       "Supply Chain",
-      "Food Tech"
+      "Food Tech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -60568,9 +60570,7 @@
     ],
     "regions": [
       "United Arab Emirates",
-      "Middle East and North Africa",
-      "Remote",
-      "Partly Remote"
+      "Middle East and North Africa"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -68637,17 +68637,18 @@
   },
   {
     "id": 26756,
-    "name": "WithIda",
-    "slug": "withida",
+    "name": "Midplane",
+    "slug": "midplane",
     "former_names": [
       "Deekard",
-      "IvyCheck"
+      "IvyCheck",
+      "WithIda"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eb46e434372c35cadfdd2aa6b6979a11643c10a9.png",
-    "website": "https://withida.app/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5fda9dc0196ef666a5a460e8ffbc29dddfc27396.png",
+    "website": "https://midplane.ai/",
     "all_locations": "Berlin, Berlin, Germany; Remote",
-    "long_description": "WithIda is an AI teammate for founders and small teams. Tell Ida what to handle — outreach, follow-ups, competitor monitoring, morning briefings — and she executes across your connected tools. She starts supervised and earns autonomy over time. You’re delegating, not abdicating.",
-    "one_liner": "AI that works across your tools and earns the right to run solo",
+    "long_description": "Companies are connecting AI coding agents like Cursor and Claude directly to their databases — where one wrong command can delete data or leak customer records. Midplane sits in between and controls what each agent is allowed to do: it blocks dangerous queries, hides sensitive data, and keeps a record of everything the agent touches. It’s open source, and runs either as a hosted service or on your own servers.",
+    "one_liner": "The safety layer between AI agents and your database",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -68657,7 +68658,7 @@
       "Generative AI",
       "B2B",
       "Productivity",
-      "AI Assistant"
+      "Data Engineering"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -68680,8 +68681,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/withida",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/withida.json"
+    "url": "https://www.ycombinator.com/companies/midplane",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/midplane.json"
   },
   {
     "id": 26768,
@@ -84639,17 +84640,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/32ccd0a8e163e6c0cf404e4f9c6202d57317315c.png",
     "website": "https://rankai.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "SEO & GEO is confusing and massively overpriced. RankAI will handle everything autonomously to drive you millions of visitors from Google and AI search like ChatGPT. \r\n\r\nRankAI first identifies search queries your customers already search for, then it builds search-optimized pages to capture millions of these queries. Finally, like a real agency, RankAI will track its results, rethink its strategy, and rewrite pages again and again to improve performance. RankAI does not stop until traffic swarms in.",
-    "one_liner": "AI-Native Agency for Organic Growth (SEO & GEO) ",
-    "team_size": 4,
+    "long_description": "Websites used to be static billboards, passive and waiting to be found.  \r\n\r\nRankAI helps startups and agencies grow websites autonomously. It learns from your site, market, competitors, and performance data to identify which pages should exist, creates them in your brand, publishes them directly to your live website, and continuously improves them based on real traffic and conversion — so your website gets discovered, trusted, and converted on by both human and Agents. ",
+    "one_liner": "Make websites grow themselves. ",
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1731442233,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Marketing"
+      "Marketing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -88985,11 +88986,11 @@
       "Topo.io",
       "Topo AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/864115baccd18fe0bc2af9212e6eb4a771c3ba80.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c1394058ebc30cdfe83d068d31fdbfc49adc4558.png",
     "website": "https://www.topo.io/",
     "all_locations": "Paris, Île-de-France, France",
     "long_description": "We are helping B2B companies reach the right leads with an AI Outbound agent. \r\n\r\n\r\n\r\nThe goal is to reproduce the behavior of a sales top performers:\r\n\r\n- They know the product, the industry, the pain points, and the company's value proposition perfectly (trained on datas from your knowledge base, calls transcript, CRM...). \r\n\r\n- They will find the right leads, ready to buy, based on buying signals in the industry-specific channels (Linkedin, G2, Github...) or on the company's website visitors.\r\n\r\n\r\nThat's exactly what the agent can do!\r\n\r\nThink of it as an expert SDR in your industry, ramp up in minutes. ",
-    "one_liner": "AI Agents for outbound working by your side",
+    "one_liner": "All-in-one AI platform  for outbound sales",
     "team_size": 12,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
@@ -94199,7 +94200,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -101358,7 +101359,7 @@
       "Titan Ops",
       "Upshift"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8cf5624c71cdefc3ccbc9c1bb62f53ea784c3d69.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/49776f5bec547c5f4a2891fe129c0428f2f4dbba.png",
     "website": "https://usecrouton.com",
     "all_locations": "New York, NY, USA",
     "long_description": "Crouton is the living map of your organization.\r\n\r\nIt’s for founders and operators at growing companies who need to understand how people, teams, roles, and ownership actually fit together.\r\n\r\nToday they piece this together from org charts, Notion docs, spreadsheets, Slack, and memory and then redo it every time something changes.",
@@ -109485,17 +109486,18 @@
   },
   {
     "id": 30462,
-    "name": "Freesolo",
-    "slug": "freesolo",
+    "name": "Clado",
+    "slug": "clado",
     "former_names": [
       "Linkd",
-      "Clado"
+      "Clado",
+      "Freesolo"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/802c9c3c1c23b840027f581702b516674e8f4729.png",
-    "website": "https://freesolo.co",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ca45abeff29a0fe04be452f32d5fc05b53c26e70.png",
+    "website": "https://clado.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Freesolo works with companies to encode user-trajectory knowledge into specialized models that outperform the state of the art at much lower latency and cost.",
-    "one_liner": "Product Native Models",
+    "long_description": "Clado builds global people search to help discover the best leads, recruits, and POCs for your business",
+    "one_liner": "Global People Search",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -109524,8 +109526,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/freesolo",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/freesolo.json"
+    "url": "https://www.ycombinator.com/companies/clado",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/clado.json"
   },
   {
     "id": 30464,
@@ -112124,7 +112126,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/642bff7a1b26de3309aed7fc5200498a8dca5180.png",
     "website": "https://www.getasap.us",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Fresh-produce supply chains are built around guesswork. Growers plant without clear demand signals, distributors overbuy to protect against shortages, and retailers end up eating the waste. GETASAP fixes this by rebuilding distribution around real demand and fast execution. We deliver wholesale fresh produce with 8-hour same-day delivery, using micro-fulfillment centers positioned close to demand so we can operate with far less safety stock.\r\n\r\nBehind the scenes, we look at live retail sales, purchasing, and waste patterns to decide what to source, where to place inventory, and when to replenish. That lets us buy closer to actual demand, turn inventory faster, and materially reduce spoilage. For retailers, GETASAP replaces procurement teams and fragmented supplier management—we handle sourcing, inventory decisions, and fulfillment end to end as a single, reliable partner. As more volume flows through the network, demand becomes clearer, sourcing gets smarter, and the operation becomes cheaper and more predictable over time.",
+    "long_description": "Founded in 2023, GETASAP is a San Francisco–based technology and supply chain infrastructure company transforming fresh produce distribution and freight.\r\n\r\nGETASAP provides same-day delivery to thousands of restaurants and retail locations across the USA, sourcing directly from farms internationally. It operates GETASAP Logistics, an AI-native freight carrier and brokerage, to deliver reliable reefer LTL and FTL services powered by VoiceAI dispatch, optimized scheduling, and real-time operational intelligence.\r\n\r\nMain Offices: \r\nMountain View, CA (HQ)\r\nFresno, CA\r\nAlpharetta, GA",
     "one_liner": "AI-Native Fresh Produce Logistics",
     "team_size": 30,
     "industry": "B2B",
@@ -112133,7 +112135,6 @@
     "tags": [
       "B2B",
       "Logistics",
-      "E-commerce",
       "Supply Chain"
     ],
     "tags_highlighted": [],
@@ -114433,17 +114434,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5596537c1b7f7b2fdc729cd0da77e9c233f79180.png",
     "website": "https://vibeflow.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "VibeFlow generates full-stack web apps from prompts with n8n-style visual workflows for the backend. Users of tools like Lovable or v0 can easily iterate over frontends because they can see them, while backends remain closed black boxes that are hard to evolve through prompting. VibeFlow opens up backend logic, making it visual and editable, with powerful integrations built in.",
-    "one_liner": "Lovable, n8n and a database all in one platform ",
+    "long_description": "VibeFlow is the AI content manager for startups. Anyone can build a company in a weekend now, but nobody knows how to distribute it. Existing AI tools spit out generic, off-brand content you can't really use. VibeFlow learns your brand, voice, and goals, then autonomously creates on-brand, tailored posts (with visuals) ready to publish. VibeFlow is the AI growth engine that turns ideas into distribution.",
+    "one_liner": "AI content manager that grows your company's online presence",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1753078619,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Consumer",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -124146,7 +124147,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2026",
     "status": "Active",
@@ -128827,7 +128828,7 @@
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "TesterArmy is an AI agent that tests websites and mobile apps. It monitors production on a schedule and runs automatically on every GitHub Pull Request, delivering screenshots, recordings, and actionable bug reports.\r\n\r\nDescribe tests in plain English. The agent handles login flows, OAuth, and OTPs, no scripts to write or maintain. We catch the regressions and UX issues that code review misses.",
     "one_liner": "Test your app with AI, catch bugs before users do",
-    "team_size": 5,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1773767171,
@@ -129748,7 +129749,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/44c1f17a88c6716d09288318cb5f9de77b9bdbbb.png",
     "website": "https://kugelaudio.com/en",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Kugel is an enterprise-ready TTS model, available on-prem, with a focus on 25+ languages and low latency. ",
+    "long_description": "Kugel is an enterprise-ready TTS model, available on-prem, with a focus on 30+ languages and low latency. ",
     "one_liner": "Kugel is an on-prem Voice AI model supporting 30+ languages ",
     "team_size": 4,
     "industry": "B2B",
@@ -129757,7 +129758,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2026",
     "status": "Active",
@@ -130276,6 +130277,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/parasma",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/parasma.json"
+  },
+  {
+    "id": 32138,
+    "name": "Nebula Security",
+    "slug": "nebula-security",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/33d955b678b21d1907f01bee006dfaf515655e98.png",
+    "website": "https://nebusec.ai",
+    "all_locations": "Vancouver, WA, USA; Remote",
+    "long_description": "Nebula Security is an AI-native cybersecurity company founded by world-class hackers.\r\n\r\nWe were the first team to build an nginx RCE and the first to root Android 17 through a full browser-to-kernel exploit chain.\r\n\r\nNebula Security provides mythos-level code scanning and premium security auditing, covering everything from code-level vulnerabilities to architectural weak points.\r\n\r\n“Audited by Nebula Security” is a mark of serious security credibility: a signal to customers, investors, and partners that your product has been reviewed by the world's best hackers.",
+    "one_liner": "An AI-native cybersecurity company",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1783007241,
+    "tags": [
+      "Artificial Intelligence",
+      "Cybersecurity"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/nebula-security",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/nebula-security.json"
   },
   {
     "id": 32155,
@@ -131015,6 +131058,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mireye",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/mireye.json"
+  },
+  {
+    "id": 33310,
+    "name": "Petrarch",
+    "slug": "petrarch",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7b5debb8ea62766300bda39dac40230ec792801c.png",
+    "website": "https://petrarch.co/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Marketplace for specialized data assets",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1782965522,
+    "tags": [
+      "Marketplace",
+      "B2B",
+      "Data Engineering"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/petrarch",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/petrarch.json"
   },
   {
     "id": 33738,
