@@ -145,17 +145,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d5457b412312bd26ecc72ccead99d16248cd087a.png",
     "website": "https://www.archal.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Archal lets you test agents and code that touch third-party APIs without hitting the real services. We build working clones of popular SaaS platforms that hold state across requests and behave like the originals, so you catch bugs before your agent does something irreversible in production.",
-    "one_liner": "The eval platform for autonomous software",
+    "long_description": "Modern AI agents can send emails, change code repos, and talk with external APIs. Archal verifies your agent takes the right actions, and opens a fix PR when it doesn't.",
+    "one_liner": "The improvement loop for AI agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1776709029,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "API",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -178,6 +178,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/archal",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/archal.json"
+  },
+  {
+    "id": 31234,
+    "name": "Ekpa",
+    "slug": "ekpa",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e4cd183ffca48da0b8c0ac22b9a4a380bdecc65.png",
+    "website": "https://goekpa.com/",
+    "all_locations": "Boston, MA, USA",
+    "long_description": "",
+    "one_liner": "Building Autonomous Research Agents for Trading",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Asset Management",
+    "launched_at": 1764872371,
+    "tags": [
+      "Consumer Finance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Asset Management"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ekpa",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/ekpa.json"
   },
   {
     "id": 31259,
@@ -617,9 +656,9 @@
     "subindustry": "B2B",
     "launched_at": 1782500527,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -663,7 +702,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2026",
     "status": "Active",
@@ -691,15 +730,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/33d955b678b21d1907f01bee006dfaf515655e98.png",
     "website": "https://nebusec.ai",
     "all_locations": "Vancouver, WA, USA; Remote",
-    "long_description": "Nebula Security is an AI-native cybersecurity company founded by world-class hackers.\r\n\r\nWe were the first team to build an nginx RCE and the first to root Android 17 through a full browser-to-kernel exploit chain.\r\n\r\nNebula Security provides mythos-level code scanning and premium security auditing, covering everything from code-level vulnerabilities to architectural weak points.\r\n\r\n“Audited by Nebula Security” is a mark of serious security credibility: a signal to customers, investors, and partners that your product has been reviewed by the world's best hackers.",
+    "long_description": "Nebula Security is an AI-native cybersecurity company founded by world-class hackers.\r\n\r\nWe were the first team to build an nginx RCE and the first to root Android 17 through a full browser-to-kernel exploit chain.\r\n\r\nNebula Security provides mythos-level code scanning and product security auditing, covering everything from code-level vulnerabilities to architectural weak points.\r\n\r\n“Audited by Nebula Security” is a mark of serious security credibility: a signal to customers, investors, and partners that your product has been reviewed by the world's best hackers.",
     "one_liner": "An AI-native cybersecurity company",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1783007241,
     "tags": [
-      "Artificial Intelligence",
-      "Cybersecurity"
+      "Cybersecurity",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1546,6 +1585,47 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/6thsense.json"
   },
   {
+    "id": 32553,
+    "name": "Nori",
+    "slug": "noril1",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a12ebb52fea22eaa5a71b4c86fdf6f10ee6ccd5b.png",
+    "website": "http://norirobotics.com",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "We manufacture humanoid robots in San Francisco. ",
+    "one_liner": "Sub-1500$ robot anyone can program",
+    "team_size": 4,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1783099451,
+    "tags": [
+      "Hard Tech",
+      "Hardware",
+      "Robotics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/noril1",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/noril1.json"
+  },
+  {
     "id": 32586,
     "name": "Greypoint Industries",
     "slug": "greypoint-industries",
@@ -1629,6 +1709,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/whitespace",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/whitespace.json"
+  },
+  {
+    "id": 32650,
+    "name": "Risklytics",
+    "slug": "risklytics",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b0ad1653f775fb272b3481e8715c274f46c2c464.png",
+    "website": "https://www.risklytics.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We build AI-powered catastrophe risk models that help insurers, reinsurers, and financial institutions better understand and quantify natural disaster risk. Our platform combines continuously updated data, property-level analysis, and synthetic catastrophe simulations to deliver more accurate, transparent, and flexible risk assessments than traditional catastrophe models.",
+    "one_liner": "AI-powered catastrophe risk modeling",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1783123197,
+    "tags": [
+      "Machine Learning",
+      "B2B",
+      "Climate",
+      "Insurance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/risklytics",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/risklytics.json"
   },
   {
     "id": 32682,
@@ -1794,6 +1917,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/markov",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/markov.json"
+  },
+  {
+    "id": 33012,
+    "name": "Cosmic Robotics",
+    "slug": "cosmic-robotics",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/610b3f44c95c65ea346121a48c57b8c81a3788ce.png",
+    "website": "https://www.cosmicrobotics.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Our mission is to build a city on Mars. \r\n\r\nCosmic-1, the first equipment in our fleet, is an autonomous robot capable of heavy-lift manipulation. Its been deployed on some of the largest solar farms in the US, more than doubling labor productivity across tens of thousands of panel installs. \r\n\r\nWe're scaling in solar, expanding in data centers, and building lunar construction robotics under contract with NASA.",
+    "one_liner": "Autonomous construction on Earth and beyond",
+    "team_size": 8,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1783106253,
+    "tags": [
+      "Hard Tech",
+      "Robotics",
+      "Construction",
+      "Aerospace"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cosmic-robotics",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/cosmic-robotics.json"
   },
   {
     "id": 33013,
@@ -2198,6 +2362,47 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/petrarch.json"
   },
   {
+    "id": 33408,
+    "name": "Salem Robotics Inc",
+    "slug": "salem-robotics-inc",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e1ebb1f65dc65dbec9a58c2d2d505adc9e79d36.png",
+    "website": "https://salemroboticsinc.com",
+    "all_locations": "Austin, TX, USA",
+    "long_description": "Our software turns any robot we deploy into an everyday independent worker at your facility. They are able to walk sites, handle instruments, overcome obstacles, collect measurements, and generate auditable compliance records, replacing hours of manual surveys and inspections. Built by Los Alamos robotics veterans and deterministic-manipulation researchers, we're starting in nuclear and expanding to other hazardous industries.",
+    "one_liner": "We deploy robots for inspections in hazardous spaces, like nuclear.",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1783052221,
+    "tags": [
+      "Hard Tech",
+      "Robotics",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/salem-robotics-inc",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/salem-robotics-inc.json"
+  },
+  {
     "id": 33738,
     "name": "Coasty",
     "slug": "coasty",
@@ -2288,8 +2493,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/716e828c9efd6efe6da64574ff67dd5bfa0c2a25.png",
     "website": "https://experientiallabs.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "An applied AI research lab building world models for hypothesis testing. We simulate reality faster and more accurately based on the technology self-driving uses to get 99.7% reconstruction fidelity. Our first use-case is automating creation and execution of agent evals based on telemetry traces.",
-    "one_liner": "World models for hypothesis testing",
+    "long_description": "An applied AI research lab building world models for agents. We simulate reality faster and more accurately based on the technology self-driving uses to get 99.7% reconstruction fidelity.",
+    "one_liner": "World models for agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
