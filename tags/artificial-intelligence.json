@@ -32716,6 +32716,46 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/clarm.json"
   },
   {
+    "id": 30442,
+    "name": "YouLearn",
+    "slug": "youlearn",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6853a397a8c949c1f81a95e63684f2b530461ce0.png",
+    "website": "https://www.youlearn.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "YouLearn is an AI tutor for college students. It turns your learning materials into concise notes, an AI tutor you can talk to, and personalized tests.",
+    "one_liner": "AI tutor for each student. ",
+    "team_size": 3,
+    "industry": "Education",
+    "subindustry": "Education",
+    "launched_at": 1745603860,
+    "tags": [
+      "AI-Enhanced Learning",
+      "Artificial Intelligence",
+      "Education"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "Education"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/youlearn",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/youlearn.json"
+  },
+  {
     "id": 30443,
     "name": "Units",
     "slug": "units",
@@ -38928,7 +38968,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c9d56ba5bab1fb6c9a7734a1a8aab7b6fbc48ed.png",
     "website": "https://superpenguin.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "The problem: \r\nAI spend is scattered across multiple provider billing consoles that don't talk to each other. Teams can't answer simple questions like \"which customer is driving our Anthropic bill?\" or \"is this feature profitable after AI costs?\" without manually pulling data from each provider and stitching it together in a spreadsheet.\r\n\r\nWhat SuperPenguin does: \r\nSuperPenguin tracks AI spend across 14 providers (OpenAI, Anthropic, Deepgram, ElevenLabs, Modal, Cursor and more).\r\n\r\nZero-code setup: connect an API key and costs sync automatically with model-level breakdowns, trends, and forecasts.\r\nPer-request attribution: add two lines of Python SDK to tag every AI call by customer, feature, or team.\r\nSlack alerts on budget thresholds and spend anomalies.\r\n\r\nMost teams are set up in under five minutes. We help companies see where their AI money goes and whether it's worth it.\r\n",
+    "long_description": "The problem: \r\nAI has quietly become one of the largest and fastest-growing line items for companies. Spend is scattered across a dozen provider consoles that each show one number at the end of the month and nothing about why it moved. There's no unified view, and no way to trace a dollar back to the customer, feature, team, or even the pull request that caused it.\r\n\r\nWhich customers are unprofitable once you subtract their AI costs? Which feature is quietly burning your Anthropic budget? Is this week's spike a runaway loop or real growth? How much did that AI-written PR actually cost to ship?\r\nToday teams reverse-engineer answers by exporting CSVs from each provider and stitching them together in a spreadsheet, and by the time they do, the money is already spent.\r\n\r\nWhat SuperPenguin does: SuperPenguin tracks AI spend across 14 providers (OpenAI, Anthropic, Google Gemini, Deepgram, ElevenLabs, AWS Bedrock, Azure, Modal, Cursor, OpenRouter, and more).\r\n\r\n* Zero-code setup: connect an API key and costs sync automatically with model-level breakdowns, trends, and forecasts\r\n* Per-request attribution: add two lines with our Python or TypeScript SDK to tag every AI call by customer, feature, team, or environment (or any other metadata).\r\n* AI coding cost per PR: connect Cursor to see engineering spend attributed to each pull request, repo, and developer, so you know what it actually costs to ship.\r\n* Alerts on budget thresholds and spend anomalies, delivered to Slack, email, or Discord.\r\n\r\nMost teams are set up in under five minutes. We help companies see where their AI money goes and whether it's worth it.",
     "one_liner": "AI Cost Management: Track and attribute AI spend across every provider",
     "team_size": 2,
     "industry": "B2B",
@@ -39499,6 +39539,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/glen",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/glen.json"
+  },
+  {
+    "id": 32227,
+    "name": "Context.dev",
+    "slug": "contextdev",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe20b06c889ed9f1a1b7d9b0ecf522c8e057d68b.png",
+    "website": "https://context.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Context.dev gives AI agents structured data from any website through a single API.\r\n\r\nWe help developers build smarter agents & products that depend on accurate, fresh web data.\r\n\r\nIf you need structured data from the internet, you need Context.dev\r\n\r\nProud to power agentic products at Mintlify, Super, Vizzy, Klarna, and 280 other companies. ",
+    "one_liner": "We give AI agents realtime web context.",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1780323126,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "APIs"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/contextdev",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/contextdev.json"
   },
   {
     "id": 32253,
