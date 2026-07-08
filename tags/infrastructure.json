@@ -2712,8 +2712,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a3e196a71b4a93ad7200cf278186954bda68e7e3.png",
     "website": "https://www.shipoway.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Oway is an AI-driven OS that turns America’s empty truck space into a new category of freight shipping. Every year 50% of U.S. truck space goes unused, a $100B+ inefficiency. Oway uses AI to automatically price, match, and sell that space in real time, giving businesses freight shipping that is dramatically faster and cheaper than traditional options. \r\n\r\nWe're building the largest decentralized network of America’s empty truck space - a transparent infrastructure layer any shipper, broker, or carrier can plug into. For shippers, this means freight costs that are up to 50% lower than traditional LTL (shipments from 1 to 12 pallets), along with faster delivery windows because freight moves directly from dock to dock without the slow handoffs, warehouses, or cross-docking infrastructure that LTL depends on. For carriers, Oway’s integration can increase annual revenues by up to 30% with minimal impact on existing schedules. They simply earn more by monetizing space that would have gone unused.\r\n\r\nOur mission is to transform empty truck space into an asset that strengthens U.S. competitiveness. By lowering the cost of goods sold, we help businesses grow. By improving carrier margins, we make trucking more sustainable. And by digitizing and decentralizing freight, we are laying the foundation for a resilient, transparent logistics layer that can support America’s reindustrialization in the decades ahead. Oway makes freight shipping as simple as ridesharing - click a button, book a truck, and move goods at the true cost of available capacity.",
-    "one_liner": "AI Infrastructure for America’s Empty Truck Space",
+    "long_description": "Oway is building the AI-driven OS for physical commerce. America's industrial base runs on trillions of dollars of idle capacity, empty space, wasted miles, and stranded inventory, sitting invisible inside a system with no live index of itself. Oway autonomously creates liquidity in that empty space, turning it into margin for businesses, income for carriers, and a measurable lift to the productivity of the American economy.\r\n\r\nWe're building the largest decentralized network of America’s industrial inefficiency via tracking empty truck space and make it usable - a transparent infrastructure layer that simply by existing boosts the productivity and market caps of the businesses that plug into it. For the broad economy, this means freight costs that are up to 50% lower than what was previously possible, touchpoints are reduced, damage rates are significantly lowered, and inventory float is minimized via new JIT capabilities. For carriers, Oway’s integration can increase annual revenues by up to 30% with minimal impact to their existing business. They simply earn more by monetizing space that would have gone unused.\r\n\r\nOur mission is to transform empty truck space into an asset that strengthens U.S. competitiveness. By lowering the cost of goods sold, we help businesses grow. By improving carrier margins, we make trucking more sustainable. And creating a live index of the supply chain, we are laying the foundation for a resilient, transparent industrial layer that can support America’s reindustrialization in the decades ahead. ",
+    "one_liner": "The OS for physical commerce. Indexing America's industrial…",
     "team_size": 16,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -4419,6 +4419,51 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/amika.json"
   },
   {
+    "id": 31114,
+    "name": "Piris Labs",
+    "slug": "pirislabs",
+    "former_names": [
+      "Piris Inc.",
+      "Pirislabs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cfbd3640d376f89f668901f7449636b7f882fdb6.png",
+    "website": "https://pirislabs.io/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Up to 80% of the most advance AI compute chips sits idle because of slow networking. Piris Labs builds photonic based networking solutions to enable fast, scalable, and low cost AI workload execution infrastructure.",
+    "one_liner": "The Networking Layer of AI",
+    "team_size": 8,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1770857008,
+    "tags": [
+      "Artificial Intelligence",
+      "Hard Tech",
+      "Hardware",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pirislabs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/pirislabs.json"
+  },
+  {
     "id": 31147,
     "name": "Salus",
     "slug": "salus",
@@ -4765,6 +4810,45 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/uno-wallet",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/uno-wallet.json"
+  },
+  {
+    "id": 31570,
+    "name": "Rindler",
+    "slug": "rindler",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ba85eb3919f954ce9bf661f9b9ee195327c93ceb.png",
+    "website": "https://rindler.ai",
+    "all_locations": "Boston, MA, USA",
+    "long_description": "Rindler turns any website, including sites without APIs, into a deterministic API that AI agents can reliably use. It handles logins, 2FA, and bot detection, giving agents clean structured data and dependable actions instead of raw HTML, with robust maintenance when sites change.\r\n\r\nRindler is agent-agnostic and built on the open MCP standard, so it works with any agent.\r\n\r\nFor operators: get your team out of portals and back to the work that matters.\r\n\r\nFor agent builders: let your agents act on the real web quickly, cheaply, and reliably on every run.",
+    "one_liner": "Middleware making websites readable for AI agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1783408799,
+    "tags": [
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rindler",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/rindler.json"
   },
   {
     "id": 32253,

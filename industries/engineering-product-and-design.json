@@ -8616,7 +8616,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cbc38c395f4f32191dcaac60013ed038a0a40611.png",
     "website": "https://greatquestion.co",
-    "all_locations": "Oakland, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Great Question puts customer research on autopilot - from recruiting participants, scheduling interviews, sending surveys or prototype tests - and sharing what you learn with your team.\r\n\r\nCompanies like Adidas Runtastic, O'Reilly Media & MainStreet use us to put their customers at the center of their product, design & marketing decisions.",
     "one_liner": "User research on autopilot. ",
     "team_size": 41,
@@ -9622,14 +9622,15 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e4505819ade5550ec16c605c15c7ccf142d096de.png",
     "website": "https://superwall.com",
-    "all_locations": "New York, NY, USA",
-    "long_description": "",
-    "one_liner": "Remotely configure every aspect of your mobile app's paywall",
-    "team_size": 15,
+    "all_locations": "New York City, NY, USA",
+    "long_description": "Superwall is a complete, standalone subscription platform for consumer mobile and web apps — backend infrastructure (entitlements, purchase APIs with server-side receipt validation, standardized webhooks, real-time revenue analytics, direct SQL access to subscription data) together with a no-code paywall and experimentation engine, and first-class tooling for AI coding agents. Superwall manages $1.6B+ in annual subscription revenue across 10,000+ apps. The infrastructure layer is free at any scale; the only meter on the platform is revenue that converts through a Superwall-rendered paywall — subscriptions sold anywhere else are never billed.\r\n\r\n**Standalone backend:** The highest-revenue apps on Superwall — Quizlet, VSCO, Citizen, Ground News, and Cal AI — run their **entire subscription stack on Superwall alone: no second backend, no other subscription platform underneath**. Entitlement state is computed server-side from App Store Server Notifications V2 and Google Play Real-Time Developer Notifications, delivered by Apple and Google directly to Superwall. The largest single app runs **$43.7M ARR entirely on Superwall**; the top 10 together represent $134M+ in annual subscription revenue. Apps that previously ran a different subscription backend complete an automated migration — subscription history, entitlement state, webhook configuration — and run on Superwall alone from then on; imported subscribers are never billed.\r\n\r\n**Pricing:** The subscription infrastructure — entitlements, receipt validation, webhooks, analytics, SQL access — is free at any scale, with no revenue threshold and no per-event fees. The paywall product is free up to $10k/month in paywall-attributed revenue, then 1% of paywall-attributed revenue, and only that revenue: an app with $50k/month in subscriptions and no Superwall paywalls in use pays $0/month for the entire platform, and revenue the platform didn't help earn is never billed. Compared with charging a percentage of all subscription revenue, the difference is the base, not the rate.\r\n\r\n**Coverage:** Apple App Store, Google Play, and Stripe — including web checkout, external browser checkout from iOS paywalls (App2Web), and products from any external billing system via Custom Store Products. Monetization models: auto-renewing subscriptions, free trials and intro offers, one-time purchases, lifetime unlocks, and consumables. SDKs: iOS & Apple platforms, Android, React Native, Flutter, Expo, Unity, and Web — all open source on [GitHub](https://github.com/superwall). Not just for engineers: growth, product, support, and data teams run monetization from the dashboard, analytics, and SQL access day to day.\r\n\r\n**What Superwall does not do:** It does not process payments — Apple, Google, and Stripe do. It does not run virtual-currency or coin-ledger systems, does not track ad revenue, and does not support Amazon or Roku storefronts. For consumer subscription apps on iOS, Android, and the web, it covers the monetization surface end to end.\r\n\r\n**Experimentation:** Superwall's published research spans 100M+ analyzed paywall views and 4,500+ paywall A/B tests: multi-page onboarding paywalls convert 37% better than single-page (40M+ opens measured), Cal AI ran 123 experiments and grew monthly revenue 3x+ in 10 months, Planner 5D lifted revenue per user 83% through price testing. Build, target, test, and ship paywalls from the dashboard with no app release.\r\n\r\n**Retention:** Free trial reminders, cancellation and decline surveys, transaction-abandon recovery offers, win-back paywalls targeted by subscription state, Apple Retention Messaging on the iOS cancel screen, automated refund protection, and a per-customer timeline for support.\r\n\r\n**Agent tooling:** Open-source agent skills for Claude Code, Codex, and other coding agents; an editor MCP server for building live paywalls from the terminal; an embedded dashboard CLI; and direct SQL access to subscription data via the Query API.",
+    "one_liner": "Subscription infrastructure & paywall experimentation for mobile apps",
+    "team_size": 25,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1628553410,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Payments"
     ],
@@ -13672,7 +13673,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc5c128914787f1ad09c34983b9c40c1200da598.png",
     "website": "https://dream3d.com",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "long_description": "Dream3D builds generative models to simulate and emulate worlds, real and imagined.",
     "one_liner": "Generative AI Worlds",
     "team_size": 3,
@@ -21165,8 +21166,8 @@
     "launched_at": 1740421634,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
-      "Electronics"
+      "Electronics",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -22144,7 +22145,7 @@
     "regions": [
       "Unspecified"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -23240,7 +23241,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -26060,6 +26061,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/prized",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/prized.json"
+  },
+  {
+    "id": 33177,
+    "name": "HyperProbe",
+    "slug": "hyperprobe",
+    "former_names": [
+      "HyperTest inc"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e5b4807040a02ba35de45355e3c51fd115e82199.png",
+    "website": "http://hyperprobe.co",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "If your team uses Cursor, Claude Code, or Codex to ship, you've felt it: the AI is great at writing code, mediocre at debugging it. \r\n\r\nWhen something breaks in prod, you're back to grepping logs, adding console.logs, redeploying, and hoping the AI's guess is right.\r\n\r\nHyperProbe fixes this. Your coding agent dynamically drops non-breaking probes into your running services, straight from your IDE. \r\n\r\nWhen a probe fires, HyperProbe captures and sanitises the exact variable state, feeding your agent real evidence instead of flat logs. \r\n\r\nThis fixes prod incidents in minutes from the exact same window where agents write code, without ever redeploying to add a print statement.\r\n\r\nUnder 1% CPU overhead. Automatic PII redaction. \r\n\r\nBuilt for backend teams shipping AI-written code today. Install in 60 seconds, see your first investigation in 10 minutes.\r\n\r\nThat's why we call HyperProbe the runtime data layer for AI-native software.\r\n\r\n",
+    "one_liner": "Your coding agent writes code. Now let it fix prod too.",
+    "team_size": 8,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1780335624,
+    "tags": [
+      "Developer Tools",
+      "DevSecOps",
+      "SaaS"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hyperprobe",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/hyperprobe.json"
   },
   {
     "id": 33838,
