@@ -470,6 +470,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/poth-labs.json"
   },
   {
+    "id": 31304,
+    "name": "Litmus",
+    "slug": "litmus-build",
+    "former_names": [
+      "Avert",
+      "Litmus",
+      "Avert"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e62b680ea89cfd7e8d3a4f0cf83c2934f57a0f3a.png",
+    "website": "https://litmushiring.com/",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "Litmus is the most accurate read on how an engineer actually builds. We evaluate candidates through async technical assessments built from your own tech context (repos, tickets, and job descriptions), generated from scratch and scoped as real end-to-end features. Candidates work in their own setup with all their tools including AI, while we track and evaluate their process and output. Every submission runs in a sandbox, and grading is tuned to your company across tool fluency, process, and outcome. You get a real read on how someone actually builds, not just how they interview.",
+    "one_liner": "Run an async work trial on every engineer you interview.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Recruiting and Talent",
+    "launched_at": 1766506294,
+    "tags": [
+      "Recruiting",
+      "Talent Acquisition"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Recruiting and Talent"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/litmus-build",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/litmus-build.json"
+  },
+  {
     "id": 31341,
     "name": "Instance",
     "slug": "instance",
@@ -650,13 +694,16 @@
     "website": "https://rindler.ai",
     "all_locations": "Boston, MA, USA",
     "long_description": "Rindler turns any website, including sites without APIs, into a deterministic API that AI agents can reliably use. It handles logins, 2FA, and bot detection, giving agents clean structured data and dependable actions instead of raw HTML, with robust maintenance when sites change.\r\n\r\nRindler is agent-agnostic and built on the open MCP standard, so it works with any agent.\r\n\r\nFor operators: get your team out of portals and back to the work that matters.\r\n\r\nFor agent builders: let your agents act on the real web quickly, cheaply, and reliably on every run.",
-    "one_liner": "Middleware making websites readable for AI agents",
+    "one_liner": "The translation layer between AI agents and the web",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1783408799,
     "tags": [
-      "Infrastructure"
+      "B2B",
+      "Workflow Automation",
+      "Infrastructure",
+      "APIs"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -679,6 +726,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rindler",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/rindler.json"
+  },
+  {
+    "id": 31858,
+    "name": "Torus",
+    "slug": "torus",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/79a2f7b5a083998db3fcc9309c0435a2ccb05016.png",
+    "website": "https://www.usetorus.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Torus lets engineering firms and project owners build infrastructure 10x faster to reindustrialize America and the West. \r\n\r\nWe're working with multiple Fortune 500 companies to build critical infrastructure including data centers and critical energy installations. ",
+    "one_liner": "Legora for physical engineering firms",
+    "team_size": 5,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1783552199,
+    "tags": [
+      "Artificial Intelligence",
+      "Construction",
+      "Energy",
+      "Enterprise Software",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/torus",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/torus.json"
   },
   {
     "id": 31989,
@@ -1184,8 +1273,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b908857ac82ef0d2a3b793f89fa198298587f8a.png",
     "website": "https://rise-reforming.com/home",
     "all_locations": "Chicago, IL, USA",
-    "long_description": "Geopolitical conflicts (US-Iran war) and natural disasters (Winter Storm Uri) consistently expose the vulnerability of the US chemical industry. The reason? Production is centralized and fossil fuel-dependent. The solution? Domestic biogas: The US produces enough biogas to make $35 bn/y worth of chemicals, but 60% is wasted in low-margin applications or flared altogether. \r\n\r\nRise Reforming is commercializing a modular process to transform this underutilized biogas on-site into cheap, supply-secure chemicals. Our beachhead market is dimethyl ether (DME), used as an aerosol propellant and a low-carbon fuel additive in propane. Our target market is methanol: an established billion $ chemical and the future of low carbon shipping.\r\n\r\nIn the last four months, we have:\r\n\r\n- Signed an exclusive biogas supply agreement and executed agreements with 7 additional commercial entities – combined, they produce enough biogas to make $92 mn ARR worth of chemicals.\r\n- Completed our proof-of-concept and are moving into our pilot site at a Chicagoland wastewater plant that produces biogas.\r\n- Negotiated a $5 mn offtake agreement for the DME from our first commercial unit. \r\n- Signed an MOU with a large propane distributor to blend our DME and 2 LOIs with global marine companies for methanol.",
-    "one_liner": "We turn waste gases into valuable, supply-secure liquid chemicals ",
+    "long_description": "Geopolitical conflicts (US-Iran war) and natural disasters (Winter Storm Uri) consistently expose the vulnerability of the US chemical industry. The reason? Production is centralized and fossil fuel-dependent. The solution? Domestic biogas: The US produces enough biogas to make over $20 bn/y worth of chemicals, but 60% is wasted in low-margin applications or flared altogether. \r\n\r\nRise Reforming is commercializing a modular process to transform this underutilized biogas on-site into cheap, supply-secure chemicals. Our beachhead market is dimethyl ether (DME), used as an aerosol propellant and a low-carbon fuel additive in propane. Our target market is methanol: an established billion $ chemical and the future of low-carbon shipping.",
+    "one_liner": "We turn waste gases into valuable supply-secure chemicals ",
     "team_size": 4,
     "industry": "Industrials",
     "subindustry": "Industrials -> Climate",
@@ -1270,7 +1359,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/efd3ccc04f842f9a3a1235ba1ef66aa4447fc993.png",
     "website": "https://www.guildai.co",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "long_description": "GUILD is an AI-native defense contractor that automates the Defense Supply chain for the DoW. We predict government demand, then manufacture in-house cheaper and faster than the incumbents.\r\n\r\nWe've created an AI-native business model for contracting operations, manufacturing, and finance to deliver on defense contracts end-to-end.",
     "one_liner": "AI-Native Defense Contractor Reshaping the Defense Supply Chain",
     "team_size": 2,
@@ -1602,18 +1691,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/144e7207ec725036f43cc9a6b577a8320151e103.png",
     "website": "https://screenpipe.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "screenpipe learns your team work processes and turns it into a searchable memory, SOPs, and AI agents",
-    "one_liner": "Help your team find the work worth automating",
+    "long_description": "screenpipe record and learns how you work and turns it into a searchable memory, SOPs, and AI agents. Open source, local.",
+    "one_liner": "Capture how you work and turn that into agents",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1783386650,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Enterprise",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2513,6 +2602,47 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/agentcard.json"
   },
   {
+    "id": 33019,
+    "name": "Agnost AI",
+    "slug": "agnost-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8bf16355f4f9b0a78a4a26f6f533377d295877d5.png",
+    "website": "https://agnost.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Agnost AI helps teams building chat and voice AI agents understand what users want, where they get stuck, and why they drop off.\r\n\r\nWe read production AI conversations, cluster recurring intents, feature requests, frustration, and failure patterns, then open PRs against prompts, tools, and harnesses to improve the agent.",
+    "one_liner": "Product analytics for teams building conversational agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1780021672,
+    "tags": [
+      "Developer Tools",
+      "Analytics",
+      "Monitoring"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/agnost-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/agnost-ai.json"
+  },
+  {
     "id": 33021,
     "name": "Care GP",
     "slug": "care-gp",
@@ -2729,7 +2859,7 @@
     "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1780335624,
+    "launched_at": 1783455456,
     "tags": [
       "Developer Tools",
       "DevSecOps",
@@ -2886,7 +3016,7 @@
     "name": "Petrarch",
     "slug": "petrarch",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7b5debb8ea62766300bda39dac40230ec792801c.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/091a0f9893d5a0f66b65399660fc8041716acd4e.png",
     "website": "https://petrarch.co/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
@@ -3061,7 +3191,7 @@
     "website": "http://coasty.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Coasty is a computer use agent that does real work inside softwares, companies already run. New web apps, old desktop tools, the legacy systems nobody wants to touch. You hand it a workflow and it owns the outcome.\r\nMost agents demo well and break the moment they hit real software. They get 18 steps out of 20 right, misclick once, and everything after is garbage. Coasty catches when it goes off track and fixes itself mid-task instead of starting over. It handles the messy parts, benchmarks never show. Permission dialogs, surprise pop-ups, a modal that steals focus, a page that loads slow. When a vendor pushes an overnight update and moves half the menus, brittle scripts break by morning. Coasty reads the screen instead of recording clicks, so it adapts and keeps going.\r\nIt also checks its own output and leaves a time-stamped trail you can replay. We won't pretend it gets every task right. Nothing automating this work does. What matters is what happens when something breaks. It catches the mistake, fixes what it can, and flags what it can't so a person can step in. Nothing fails quietly. That's what lets a team trust it on the work where a silent error gets someone fired.\r\nWe scored 82% on OSWorld, which puts us among the most reliable agents out there. Reliability is the whole product, not a feature.",
-    "one_liner": "Building the future of knowledge work, RPA and SOPs using computer use",
+    "one_liner": "The best computer use. We will kill RPA.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -3174,5 +3304,44 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/experiential-labs",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/experiential-labs.json"
+  },
+  {
+    "id": 33936,
+    "name": "Conifer",
+    "slug": "conifer",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1cd2adb8270db80170ab62b4140817892372538a.png",
+    "website": "https://www.conifer.build",
+    "all_locations": "",
+    "long_description": "Conifer is one app that connects you to every AI model (local and cloud) and automatically routes each request to the cheapest model that accomplishes your goal. Most requests run free on your own hardware, so teams cut their AI bill by ~80% while replacing a dozen provider contracts with one interface and one invoice. For sensitive material like financials or user data, a secure mode pins everything on-device with no external API calls.",
+    "one_liner": "Local-first least cost routing system to reduce token spend",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1783524440,
+    "tags": [
+      "B2B",
+      "Security",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/conifer",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/conifer.json"
   }
 ]

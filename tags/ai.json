@@ -266,7 +266,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/71d8fe724bf62445db1e2f76ff63e411c7f74f2c.png",
     "website": "https://www.paperspace.com",
-    "all_locations": "Brooklyn, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "long_description": "Paperspace is a cloud computing company creating simple and scalable accelerated computing applications. Our goal is to allow individuals and professional teams to seamlessly build and deploy computationally complex products and services.\r\n\r\nPaperspace is backed by leading investors including Y Combinator and Initialized Capital.\r\n\r\nMission:\r\nOur mission is to make cloud computing more accessible through radical simplicity, community-driven technical resources, and straightforward pricing.\r\n\r\n--\r\nTo learn more about Paperspace, please visit https://www.paperspace.com/ or follow us on Twitter at: @hellopaperspace.",
     "one_liner": "Paperspace is a cloud platform for building and scaling AI…",
     "team_size": 50,
@@ -1298,7 +1298,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8031cd143c9dda792086f541cf539cc6d2126cb5.png",
     "website": "http://www.getspect.com",
-    "all_locations": "Palo Alto, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA; Remote",
     "long_description": "Vision Disease cause innumerable cases of preventable blindness globally - 415 million diabetic patients worldwide are susceptible to Diabetic Retinopathy (DR), Glaucoma, and more. Current screening protocols for vision disease require ophthalmologists to manually diagnose patients through visual assessment of the fundus. Given the large number of diabetes patients in various communities, this process is expensive, inefficient, and an undue burden on eye clinics.",
     "one_liner": "Value-based retinal screening in primary care to prevent blindness. ",
     "team_size": 7,
@@ -4660,7 +4660,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9c1084ef28edc951f15115194ba8b7bc7c1889eb.png",
     "website": "https://dataland.io",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "long_description": "Dataland is the applied AI lab for complex operations and customer support. In 8 months, we've grown to multi-million dollar ARR as just two founders and are highly profitable. We’re partnering with some of the fastest growing startups and public companies in the world.",
     "one_liner": "AI agents for customer support.",
     "team_size": 4,
@@ -5195,7 +5195,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -5348,7 +5348,7 @@
     "website": "https://popl.co/",
     "all_locations": "New York City, NY, USA; Remote",
     "long_description": "Capture leads, scan badges, enrich data, and sync it all to your CRM—at events, conferences, and beyond. Powered by AI and our proprietary data engine, Popl helps companies around the world turn in-person events into a measurable & scalable growth channel.",
-    "one_liner": "Your Complete In-Person GTM Platform",
+    "one_liner": "The AI GTM platform for in-person lead capture",
     "team_size": 60,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -6123,6 +6123,52 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2021/legion-health.json"
   },
   {
+    "id": 23948,
+    "name": "Superwall",
+    "slug": "staffbar",
+    "former_names": [
+      "Share That",
+      "StaffBar"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e4505819ade5550ec16c605c15c7ccf142d096de.png",
+    "website": "https://superwall.com",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "Superwall is a complete, standalone subscription platform for consumer mobile and web apps — backend infrastructure (entitlements, purchase APIs with server-side receipt validation, standardized webhooks, real-time revenue analytics, direct SQL access to subscription data) together with a no-code paywall and experimentation engine, and first-class tooling for AI coding agents. Superwall manages $1.6B+ in annual subscription revenue across 10,000+ apps. The infrastructure layer is free at any scale; the only meter on the platform is revenue that converts through a Superwall-rendered paywall — subscriptions sold anywhere else are never billed.\r\n\r\n**Standalone backend:** The highest-revenue apps on Superwall like Cal AI — run their **entire subscription stack on Superwall alone: no second backend, no other subscription platform underneath**. Entitlement state is computed server-side from App Store Server Notifications V2 and Google Play Real-Time Developer Notifications, delivered by Apple and Google directly to Superwall. The largest single app runs **$43.7M ARR entirely on Superwall**; the top 10 together represent $134M+ in annual subscription revenue. Apps that previously ran a different subscription backend complete an automated migration — subscription history, entitlement state, webhook configuration — and run on Superwall alone from then on; imported subscribers are never billed.\r\n\r\n**Pricing:** The subscription infrastructure — entitlements, receipt validation, webhooks, analytics, SQL access — is free at any scale, with no revenue threshold and no per-event fees. The paywall product is free up to $10k/month in paywall-attributed revenue, then 1% of paywall-attributed revenue, and only that revenue: an app with $50k/month in subscriptions and no Superwall paywalls in use pays $0/month for the entire platform, and revenue the platform didn't help earn is never billed. Compared with charging a percentage of all subscription revenue, the difference is the base, not the rate.\r\n\r\n**Coverage:** Apple App Store, Google Play, and Stripe — including web checkout, external browser checkout from iOS paywalls (App2Web), and products from any external billing system via Custom Store Products. Monetization models: auto-renewing subscriptions, free trials and intro offers, one-time purchases, lifetime unlocks, and consumables. SDKs: iOS & Apple platforms, Android, React Native, Flutter, Expo, Unity, and Web — all open source on [GitHub](https://github.com/superwall). Not just for engineers: growth, product, support, and data teams run monetization from the dashboard, analytics, and SQL access day to day.\r\n\r\n**What Superwall does not do:** It does not process payments — Apple, Google, and Stripe do. It does not run virtual-currency or coin-ledger systems, does not track ad revenue, and does not support Amazon or Roku storefronts. For consumer subscription apps on iOS, Android, and the web, it covers the monetization surface end to end.\r\n\r\n**Experimentation:** Superwall's published research spans 100M+ analyzed paywall views and 4,500+ paywall A/B tests: multi-page onboarding paywalls convert 37% better than single-page (40M+ opens measured), Cal AI ran 123 experiments and grew monthly revenue 3x+ in 10 months, Planner 5D lifted revenue per user 83% through price testing. Build, target, test, and ship paywalls from the dashboard with no app release.\r\n\r\n**Retention:** Free trial reminders, cancellation and decline surveys, transaction-abandon recovery offers, win-back paywalls targeted by subscription state, Apple Retention Messaging on the iOS cancel screen, automated refund protection, and a per-customer timeline for support.\r\n\r\n**Agent tooling:** Open-source agent skills for Claude Code, Codex, and other coding agents; an editor MCP server for building live paywalls from the terminal; an embedded dashboard CLI; and direct SQL access to subscription data via the Query API.",
+    "one_liner": "Subscription infrastructure & paywall experimentation for mobile apps",
+    "team_size": 25,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1628553410,
+    "tags": [
+      "Developer Tools",
+      "Payments",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/staffbar",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/staffbar.json"
+  },
+  {
     "id": 23951,
     "name": "Mindstate Design Labs",
     "slug": "mindstate-design-labs",
@@ -6867,7 +6913,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4366b660d2b8d6626f4b66eb436af4dbe2bac7a0.png",
     "website": "https://onestopkitchen.com/",
-    "all_locations": "Sunnyvale, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "OneStopKitchen (OSK) offers advanced technology and an innovative model which allows any restaurant to scale to multiple locations at zero cost. OSK offers an entire suite of AI powered advanced restaurant inventory, ops and logistics tech to scale quickly with limited risk. OSK operationalizes underperforming restaurant space and staff to run OSK kitchens which are located in prime downtowns and high walk-in areas. Think of AirBnB for restaurants. OSK is a preferred restaurant partner due to its innovative hyper scalable model. Consumers can mix & match multiple cuisines in a single order for dine in, pick up or delivery.",
     "one_liner": "AI-Driven Tech & Space Optimization to Scale Restaurants",
     "team_size": 10,
@@ -7821,53 +7867,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2022/strac.json"
   },
   {
-    "id": 25279,
-    "name": "Moots",
-    "slug": "moots",
-    "former_names": [
-      "Take1 Financial",
-      "Muse Card",
-      "OnScale",
-      "Muse - OnScale",
-      "Moots AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fde6c91673da136f18472357605fb80d656f17b9.png",
-    "website": "https://www.moots.ai/",
-    "all_locations": "New York City, NY, USA",
-    "long_description": "Moots is the Guest Intelligence platform. We engineer the room so every guest walks away with the conversation they came for, and with a relationship that lasts beyond it. Built for the events where the room matters: brand activations, advisory retreats, investor gatherings, members clubs, donor cultivation, political fundraisers, and recurring tech communities on Luma.",
-    "one_liner": "The guest intelligence platform for high-value corporate events",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1644842544,
-    "tags": [
-      "Collaboration",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/moots",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/moots.json"
-  },
-  {
     "id": 25307,
     "name": "Sieve",
     "slug": "sieve",
@@ -7955,60 +7954,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/policyfly",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/policyfly.json"
-  },
-  {
-    "id": 25318,
-    "name": "Scope3D",
-    "slug": "scope3d",
-    "former_names": [
-      "WeReno",
-      "Inc.",
-      "VIDCALL",
-      "Inc",
-      "WeReno",
-      "WeReno (Vidcall",
-      "Inc.)",
-      "WeReno",
-      "Scope3D (fka WeReno)"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9829f1724ebbe405bb8d2b742deed7a21e5388c0.png",
-    "website": "https://scope3d.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Scope3D, formerly WeReno, is building the AI-powered 3D operating system for buildings.\r\n\r\nWe convert BIM and construction files into fast, web-native 3D twins that owners, builders, architects, contractors, and operators can use to scope, price, renovate, furnish, maintain, and forecast CapEx. Instead of running buildings from 2D PDFs, spreadsheets, and email threads, Scope3D makes the building itself the interface.\r\n\r\nWe started as WeReno, working across hotels, commercial buildings, restaurants, and homes. That work revealed the bigger opportunity: buildings are designed in 3D, but the industry still operates them in 2D. Scope3D brings those buildings back to life as living, AI-readable assets.",
-    "one_liner": "AI-powered 3D building twins for design, renovation, and CapEx.",
-    "team_size": 12,
-    "industry": "Real Estate and Construction",
-    "subindustry": "Real Estate and Construction -> Construction",
-    "launched_at": 1647622736,
-    "tags": [
-      "Real Estate",
-      "Construction",
-      "Proptech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "Real Estate and Construction",
-      "Construction"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/scope3d",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/scope3d.json"
   },
   {
     "id": 25338,
@@ -8288,53 +8233,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/industrial-next",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/industrial-next.json"
-  },
-  {
-    "id": 25402,
-    "name": "Rownd",
-    "slug": "rownd",
-    "former_names": [
-      "Rownd",
-      "LlamaFarm"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c9dcd6e10984a18f91f153e7efc538957c387fd.png",
-    "website": "https://rownd.ai",
-    "all_locations": "Raleigh, NC, USA",
-    "long_description": "Rownd AI builds fully autonomous drones that use local edge intelligence and global LTE/5G/SatCom failover to eliminate the 1:1 pilot bottleneck anywhere on earth or space. We are currently field-deployed with active customers across U.S. Special Operations Command (SOCOM) via our defense business line, ArcEdge AI. Operating out of Raleigh, NC and Wisconsin, we leveraged our team's background in mobile hardware optimization and zero-trust architectures to build true cognitive autonomy directly onto physical aircraft. While we are heavily focused on defense technology today, our ultimate mission is scaling this physical autonomous infrastructure across commercial enterprise edge applications.",
-    "one_liner": "Fully autonomous defense solutions for the global edge.",
-    "team_size": 7,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Drones",
-    "launched_at": 1643295526,
-    "tags": [
-      "Drones",
-      "Open Source",
-      "AI",
-      "ML"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Drones"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/rownd",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/rownd.json"
   },
   {
     "id": 25419,
@@ -12961,17 +12859,18 @@
     "former_names": [
       "Byterat"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b3e2558be3a398339579a5be68b4d4a636ca905.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/55b1c275e0ba176abf2805a822f08b78ecea7eba.png",
     "website": "https://www.ohm.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ohm is transforming how physical products are developed, using AI. We support major tech enterprises across batteries, automotive and consumer electronics to reimagine how they develop, test and validate their products. Ohm is used by leading engineering teams to launch new hardware products faster, optimize engineer productivity and reduce the cost of engineering test programs.",
-    "one_liner": "Ohm helps engineering labs develop better products faster, with AI.",
+    "long_description": "Ohm’s AI platform helps Fortune 100 engineering teams accelerate the engineering and testing of complex hardware, including wearables, electric vehicles, and batteries. Launched in 2025, Ohm's platform is used by leading teams to compress development cycles, optimize test programs, and launch better products, faster.",
+    "one_liner": "Ohm helps engineering teams accelerate hardware development & testing.",
     "team_size": 6,
     "industry": "Industrials",
     "subindustry": "Industrials",
     "launched_at": 1676603508,
     "tags": [
       "Artificial Intelligence",
+      "Hardware",
       "Data Engineering",
       "AI"
     ],
@@ -13050,7 +12949,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/744f46d0d325c233ded71498a19cdf197a21cade.png",
     "website": "https://dataglade.com",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "long_description": "Dataglade is the smart way to research stocks. Our AI generates clear analyses and financial models for any public company, and our fundamental data fulfills almost every research need. We save investors hours every day by eliminating the need to manually dig through financial filings. Customers trust our reports because every number is backed by citations to our proprietary financial data warehouse. We inform $1+ billion of trades every day, and we’re just getting started. Check us out at dataglade.com.",
     "one_liner": "The smart way to research stocks.",
     "team_size": 2,
@@ -14229,7 +14128,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/baeea0b99bf74c18e8e63d396a18ee00083f0359.png",
     "website": "https://www.hadrius.com",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "long_description": "Hadrius allows regulated financial firms of all sizes to consolidate and automate their compliance processes using AI in one platform. Today, we're securing compliance for $3T+ AUM across our clients.\r\n\r\nWe're building the AI that will regulate the US financial system and the trillions that flows through it.",
     "one_liner": "Automating Securities Compliance",
     "team_size": 80,
@@ -15664,6 +15563,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cedana",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/cedana.json"
+  },
+  {
+    "id": 28814,
+    "name": "OpenTools",
+    "slug": "opentools",
+    "former_names": [
+      "Odyssey AI",
+      "Humanlike"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3927ff309d52d222fc423bc00c5c7f463f090703.png",
+    "website": "https://opentools.com",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "",
+    "one_liner": "The API for LLM tool use",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1688659817,
+    "tags": [
+      "Marketplace",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/opentools",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/opentools.json"
   },
   {
     "id": 28815,
@@ -17104,6 +17048,57 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/studdy",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/studdy.json"
+  },
+  {
+    "id": 28976,
+    "name": "Bolto",
+    "slug": "bolto",
+    "former_names": [
+      "Social Inc.",
+      "Pampas Inc.",
+      "Pampas",
+      "Onnix",
+      "Crew",
+      "Crew AI",
+      "Crew"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd164a122dacc9defa9cfe1e3478f126b401b963.png",
+    "website": "https://www.bolto.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "AI-powered payroll, hr, and recruiting platform. Hire and scale teams easily in the US and globally.",
+    "one_liner": "AI Powered All-In-One Payroll, HR + Recruiting ",
+    "team_size": 20,
+    "industry": "B2B",
+    "subindustry": "B2B -> Human Resources",
+    "launched_at": 1691417670,
+    "tags": [
+      "Recruiting",
+      "HR Tech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Human Resources"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bolto",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/bolto.json"
   },
   {
     "id": 28982,
@@ -19494,6 +19489,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/promptarmor",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/promptarmor.json"
+  },
+  {
+    "id": 29326,
+    "name": "Monumint",
+    "slug": "monumint",
+    "former_names": [
+      "OmniAI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b083afd8b8c08b3bb39c078c8afa1ed5ccfc6f91.png",
+    "website": "https://monumint.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Monumint is conversational AI for financial services. We help banks, credit unions, and lenders build lasting customer relationships across the entire customer journey from account opening and loan origination to servicing and collections. Our AI agents are omni-channel, take action inside the systems financial institutions already use, and are built with compliance at their core.",
+    "one_liner": "Conversational AI purpose-built for financial services",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1699651931,
+    "tags": [
+      "Fintech",
+      "Finance",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/monumint",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/monumint.json"
   },
   {
     "id": 29327,
@@ -22726,7 +22764,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -26094,47 +26132,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/ctgt.json"
   },
   {
-    "id": 30055,
-    "name": "RiskCube",
-    "slug": "riskcube",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/93b1b4fbe4b8807a5770f0fad5c76f3b8685dee9.png",
-    "website": "https://riskcube.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "When startups sell to enterprise, get regulated, or raise capital, they need to get insurance. \r\nRiskCube compares top-rated U.S. carriers to deliver coverage required to pass procurement, satisfy investors, and close enterprise deals quickly. \r\nFounders get D&O, Tech E&O, Cyber, General Liability, Product Liability, Key Person Life and COIs — built for AI, GovTech, Space and Defense startups creating the future. \r\n",
-    "one_liner": "Top-rated insurance to help close enterprise & government contracts.",
-    "team_size": 3,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Insurance",
-    "launched_at": 1731782052,
-    "tags": [
-      "Fintech",
-      "Insurance",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Insurance"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/riskcube",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/riskcube.json"
-  },
-  {
     "id": 30056,
     "name": "Keye",
     "slug": "keye",
@@ -28419,7 +28416,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -31635,6 +31632,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/trace-so.json"
   },
   {
+    "id": 30691,
+    "name": "Embedder",
+    "slug": "embedder",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be01ab7ec03dfffcf2a6f87ab306a19bf22fe64b.png",
+    "website": "https://www.embedder.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Embedder is an AI agent for embedded software. It reads your datasheets and schematics, writes the code, flashes the board, runs the tests, and fixes its own mistakes. Testing is hardware-in-the-loop: Embedder drives the equipment your team already owns (debug probes, logic analyzers, power profilers, oscilloscopes) and validates firmware on real silicon, not just against a compiler. Embedder works with some of the top semiconductor ecosystems in the world, supporting 500+ MCUs and 3,000+ peripherals.",
+    "one_liner": "Hardware-Aware AI for Embedded Software Development",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1752258104,
+    "tags": [
+      "Developer Tools",
+      "Hardware",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/embedder",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/embedder.json"
+  },
+  {
     "id": 30696,
     "name": "GhostEye",
     "slug": "ghosteye",
@@ -33104,6 +33143,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/the-context-company",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/the-context-company.json"
+  },
+  {
+    "id": 30867,
+    "name": "Soren",
+    "slug": "soren",
+    "former_names": [
+      "Remediate"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c4abd74b393a1e6689bfee5e6e18611677894c03.png",
+    "website": "https://usesoren.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Soren is the AI transformation partner for regulated institutions. We help companies identify, deploy, and operate AI safely across high-impact workflows.\r\n\r\nAs an AI-native company, we deliver outcomes in a fraction of the time and cost of traditional consulting firms while providing a more efficient, streamlined client experience.\r\n\r\nWe partner with organizations at every stage, from early exploration to full-scale AI transformations.",
+    "one_liner": "AI Transformation for Regulated Institutions",
+    "team_size": null,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1759390917,
+    "tags": [
+      "B2B",
+      "Enterprise",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/soren",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/soren.json"
   },
   {
     "id": 30875,
@@ -35636,51 +35718,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/truffle.json"
   },
   {
-    "id": 32259,
-    "name": "screenpipe",
-    "slug": "screenpipe",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/144e7207ec725036f43cc9a6b577a8320151e103.png",
-    "website": "https://screenpipe.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "screenpipe learns your team work processes and turns it into a searchable memory, SOPs, and AI agents",
-    "one_liner": "Help your team find the work worth automating",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1783386650,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Enterprise",
-      "Enterprise Software",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/screenpipe",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/screenpipe.json"
-  },
-  {
     "id": 32286,
     "name": "Bylaw",
     "slug": "bylaw",
@@ -36184,5 +36221,44 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/robocurve",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/robocurve.json"
+  },
+  {
+    "id": 33936,
+    "name": "Conifer",
+    "slug": "conifer",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1cd2adb8270db80170ab62b4140817892372538a.png",
+    "website": "https://www.conifer.build",
+    "all_locations": "",
+    "long_description": "Conifer is one app that connects you to every AI model (local and cloud) and automatically routes each request to the cheapest model that accomplishes your goal. Most requests run free on your own hardware, so teams cut their AI bill by ~80% while replacing a dozen provider contracts with one interface and one invoice. For sensitive material like financials or user data, a secure mode pins everything on-device with no external API calls.",
+    "one_liner": "Local-first least cost routing system to reduce token spend",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1783524440,
+    "tags": [
+      "B2B",
+      "Security",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/conifer",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/conifer.json"
   }
 ]

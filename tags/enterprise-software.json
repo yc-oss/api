@@ -1297,24 +1297,26 @@
   },
   {
     "id": 25394,
-    "name": "Harmoney",
-    "slug": "harmoney",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ca23fbe179b9d869adbd001cf7a397b7153bf4d.png",
-    "website": "https://www.harmoney.in/",
+    "name": "InferEdge",
+    "slug": "inferedge",
+    "former_names": [
+      "Harmoney"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ca294ba99345dad1e7a7357621f3373230c00cf.png",
+    "website": "https://www.inferedge.com",
     "all_locations": "MH, India",
-    "long_description": "Harmoney is an agentic AI solution for fixed income research, portfolio optimization, and credit analysis for buy-side and wealth managers. We not only make financial analysis faster and cost-effective but also unlock things that could not be done manually before.",
-    "one_liner": "Agentic AI solution for fixed income, credit and portfolio analysis",
-    "team_size": 30,
+    "long_description": "InferEdge builds agentic AI for the buy-side - systems that run autonomously across research, portfolio management, and risk, for equity and fixed income. The point isn't generating a generic note - anyone can do that now. For example, when earnings season hits, our agents produce the quarter's coverage in your analysts' own tone and format, matching how your desk already writes, so it doesn't need a rewrite before it's usable. We build on top of LLMs, turning raw model capability into consistent and auditable workflows, not another stalled prototype.",
+    "one_liner": "Agentic AI for buy-side firms",
+    "team_size": 20,
     "industry": "Fintech",
-    "subindustry": "Fintech -> Asset Management",
+    "subindustry": "Fintech",
     "launched_at": 1645537602,
     "tags": [
       "Artificial Intelligence",
       "Fintech",
       "B2B",
       "Enterprise Software",
-      "AI Assistant"
+      "Investments"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1323,8 +1325,7 @@
     "batch": "Winter 2022",
     "status": "Active",
     "industries": [
-      "Fintech",
-      "Asset Management"
+      "Fintech"
     ],
     "regions": [
       "India",
@@ -1335,8 +1336,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/harmoney",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/harmoney.json"
+    "url": "https://www.ycombinator.com/companies/inferedge",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/inferedge.json"
   },
   {
     "id": 25712,
@@ -3139,7 +3140,7 @@
       "Belgium",
       "Europe"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -4614,14 +4615,14 @@
     "subindustry": "B2B",
     "launched_at": 1759390917,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Enterprise",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -4949,6 +4950,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/ritivel.json"
   },
   {
+    "id": 31858,
+    "name": "Torus",
+    "slug": "torus",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/79a2f7b5a083998db3fcc9309c0435a2ccb05016.png",
+    "website": "https://www.usetorus.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Torus lets engineering firms and project owners build infrastructure 10x faster to reindustrialize America and the West. \r\n\r\nWe're working with multiple Fortune 500 companies to build critical infrastructure including data centers and critical energy installations. ",
+    "one_liner": "Legora for physical engineering firms",
+    "team_size": 5,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1783552199,
+    "tags": [
+      "Artificial Intelligence",
+      "Construction",
+      "Energy",
+      "Enterprise Software",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/torus",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/torus.json"
+  },
+  {
     "id": 32155,
     "name": "Rex",
     "slug": "rex-inc",
@@ -5038,18 +5081,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/144e7207ec725036f43cc9a6b577a8320151e103.png",
     "website": "https://screenpipe.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "screenpipe learns your team work processes and turns it into a searchable memory, SOPs, and AI agents",
-    "one_liner": "Help your team find the work worth automating",
+    "long_description": "screenpipe record and learns how you work and turns it into a searchable memory, SOPs, and AI agents. Open source, local.",
+    "one_liner": "Capture how you work and turn that into agents",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1783386650,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Enterprise",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,

@@ -8331,7 +8331,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -8529,14 +8529,14 @@
     "subindustry": "Industrials -> Drones",
     "launched_at": 1643295526,
     "tags": [
+      "Artificial Intelligence",
       "Drones",
       "Open Source",
-      "AI",
       "ML"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -9822,17 +9822,18 @@
     "former_names": [
       "Byterat"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b3e2558be3a398339579a5be68b4d4a636ca905.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/55b1c275e0ba176abf2805a822f08b78ecea7eba.png",
     "website": "https://www.ohm.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ohm is transforming how physical products are developed, using AI. We support major tech enterprises across batteries, automotive and consumer electronics to reimagine how they develop, test and validate their products. Ohm is used by leading engineering teams to launch new hardware products faster, optimize engineer productivity and reduce the cost of engineering test programs.",
-    "one_liner": "Ohm helps engineering labs develop better products faster, with AI.",
+    "long_description": "Ohm’s AI platform helps Fortune 100 engineering teams accelerate the engineering and testing of complex hardware, including wearables, electric vehicles, and batteries. Launched in 2025, Ohm's platform is used by leading teams to compress development cycles, optimize test programs, and launch better products, faster.",
+    "one_liner": "Ohm helps engineering teams accelerate hardware development & testing.",
     "team_size": 6,
     "industry": "Industrials",
     "subindustry": "Industrials",
     "launched_at": 1676603508,
     "tags": [
       "Artificial Intelligence",
+      "Hardware",
       "Data Engineering",
       "AI"
     ],
@@ -16504,6 +16505,48 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/maquoketa-research.json"
   },
   {
+    "id": 31858,
+    "name": "Torus",
+    "slug": "torus",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/79a2f7b5a083998db3fcc9309c0435a2ccb05016.png",
+    "website": "https://www.usetorus.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Torus lets engineering firms and project owners build infrastructure 10x faster to reindustrialize America and the West. \r\n\r\nWe're working with multiple Fortune 500 companies to build critical infrastructure including data centers and critical energy installations. ",
+    "one_liner": "Legora for physical engineering firms",
+    "team_size": 5,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1783552199,
+    "tags": [
+      "Artificial Intelligence",
+      "Construction",
+      "Energy",
+      "Enterprise Software",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/torus",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/torus.json"
+  },
+  {
     "id": 32192,
     "name": "Rise Reforming",
     "slug": "rise-reforming",
@@ -16511,8 +16554,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b908857ac82ef0d2a3b793f89fa198298587f8a.png",
     "website": "https://rise-reforming.com/home",
     "all_locations": "Chicago, IL, USA",
-    "long_description": "Geopolitical conflicts (US-Iran war) and natural disasters (Winter Storm Uri) consistently expose the vulnerability of the US chemical industry. The reason? Production is centralized and fossil fuel-dependent. The solution? Domestic biogas: The US produces enough biogas to make $35 bn/y worth of chemicals, but 60% is wasted in low-margin applications or flared altogether. \r\n\r\nRise Reforming is commercializing a modular process to transform this underutilized biogas on-site into cheap, supply-secure chemicals. Our beachhead market is dimethyl ether (DME), used as an aerosol propellant and a low-carbon fuel additive in propane. Our target market is methanol: an established billion $ chemical and the future of low carbon shipping.\r\n\r\nIn the last four months, we have:\r\n\r\n- Signed an exclusive biogas supply agreement and executed agreements with 7 additional commercial entities – combined, they produce enough biogas to make $92 mn ARR worth of chemicals.\r\n- Completed our proof-of-concept and are moving into our pilot site at a Chicagoland wastewater plant that produces biogas.\r\n- Negotiated a $5 mn offtake agreement for the DME from our first commercial unit. \r\n- Signed an MOU with a large propane distributor to blend our DME and 2 LOIs with global marine companies for methanol.",
-    "one_liner": "We turn waste gases into valuable, supply-secure liquid chemicals ",
+    "long_description": "Geopolitical conflicts (US-Iran war) and natural disasters (Winter Storm Uri) consistently expose the vulnerability of the US chemical industry. The reason? Production is centralized and fossil fuel-dependent. The solution? Domestic biogas: The US produces enough biogas to make over $20 bn/y worth of chemicals, but 60% is wasted in low-margin applications or flared altogether. \r\n\r\nRise Reforming is commercializing a modular process to transform this underutilized biogas on-site into cheap, supply-secure chemicals. Our beachhead market is dimethyl ether (DME), used as an aerosol propellant and a low-carbon fuel additive in propane. Our target market is methanol: an established billion $ chemical and the future of low-carbon shipping.",
+    "one_liner": "We turn waste gases into valuable supply-secure chemicals ",
     "team_size": 4,
     "industry": "Industrials",
     "subindustry": "Industrials -> Climate",
@@ -16553,7 +16596,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/efd3ccc04f842f9a3a1235ba1ef66aa4447fc993.png",
     "website": "https://www.guildai.co",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "long_description": "GUILD is an AI-native defense contractor that automates the Defense Supply chain for the DoW. We predict government demand, then manufacture in-house cheaper and faster than the incumbents.\r\n\r\nWe've created an AI-native business model for contracting operations, manufacturing, and finance to deliver on defense contracts end-to-end.",
     "one_liner": "AI-Native Defense Contractor Reshaping the Defense Supply Chain",
     "team_size": 2,

@@ -422,13 +422,15 @@
   },
   {
     "id": 30582,
-    "name": "Pingo AI",
-    "slug": "pingo-ai",
-    "former_names": [],
+    "name": "Pingo",
+    "slug": "pingo",
+    "former_names": [
+      "Pingo AI"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/df5e302ee1aa2a614f8eb92d274a19d030ff6c3f.png",
     "website": "https://pingo.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pingo AI is an AI language learning app that helps users build fluency through speaking. It immerses learners in realistic dialogues and personalized lessons with an AI tutor who sounds like a native speaker. Our goal is to make learning languages as simple as daily conversations with Pingo — a companion who understands your goals, remembers your progress, and keeps you motivated.",
+    "long_description": "Pingo is an AI language learning app that helps users build fluency through speaking. It immerses learners in realistic conversations and personalized lessons with an AI tutor who sounds like a native speaker. Our goal is to make learning a language as simple as talking with Pingo — a companion who understands your goals, remembers your progress, and keeps you motivated.",
     "one_liner": "AI companion that helps you learn languages",
     "team_size": 4,
     "industry": "Consumer",
@@ -446,17 +448,15 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pingo-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/pingo-ai.json"
+    "url": "https://www.ycombinator.com/companies/pingo",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/pingo.json"
   },
   {
     "id": 30596,
@@ -3329,17 +3329,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be01ab7ec03dfffcf2a6f87ab306a19bf22fe64b.png",
     "website": "https://www.embedder.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Embedder is building an AI coding agent that can write, test, and debug firmware on real hardware.",
-    "one_liner": "AI Agents for Firmware",
+    "long_description": "Embedder is an AI agent for embedded software. It reads your datasheets and schematics, writes the code, flashes the board, runs the tests, and fixes its own mistakes. Testing is hardware-in-the-loop: Embedder drives the equipment your team already owns (debug probes, logic analyzers, power profilers, oscilloscopes) and validates firmware on real silicon, not just against a compiler. Embedder works with some of the top semiconductor ecosystems in the world, supporting 500+ MCUs and 3,000+ peripherals.",
+    "one_liner": "Hardware-Aware AI for Embedded Software Development",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1752258104,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Hardware",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3576,7 +3576,7 @@
     "all_locations": "",
     "long_description": "We build AI agents that automate order processing for industrial distributors and manufacturers. Say goodbye to inside sales and customer service teams spending hours on manual data entry. Comena streamlines order and quote entry, from inbox to ERP, freeing up sales teams to focus on high-value activities and proactive selling.",
     "one_liner": "AI agents for distributors and manufacturers to automate order entry.",
-    "team_size": 2,
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1753000104,
@@ -6059,7 +6059,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4556b19fb6feb8d4b68cc26dd6a04f18622c3c33.png",
     "website": "https://rowflow.ai",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "long_description": "RowFlow replaces clunky web forms with natural conversations that run over text, slack, or wherever your users are. Our platform increases your form’s response rates while cutting your internal overhead in half. \r\n\r\nWith RowFlow, you can take any existing form and instantly convert it into an AI-powered conversation. New flows launch in minutes and reach respondents over your preferred channel or embedded chat. We guide the exchange, follow up automatically, and return clean structured data without extra work from your team.\r\n\r\nForms power billions of business interactions yearly. Whether it’s forms for client intake, registrations, compliance, feedback, or surveys, they all follow the same painful pattern: low conversion, messy data, and frustrated users. Teams have long tolerated forms only because there's been no scalable alternative for collecting structured information from people - until now. Our goal is for RowFlow to become the new default way for how organizations collect user data in an AI-first world.",
     "one_liner": "Replacing forms with AI conversations",
     "team_size": 2,
