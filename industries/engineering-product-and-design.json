@@ -1607,7 +1607,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c463a769b2f58faee6f5bc842ce70bb66f0acc66.png",
     "website": "https://www.circuitlab.com/",
-    "all_locations": "Redwood City, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Redwood City, CA, USA; Remote",
     "long_description": "CircuitLab makes it easier for electrical engineers, students, and electronics hobbyists to design, analyze, build, and share electronic circuits.",
     "one_liner": "Online circuit simulator and electronic schematic editor.",
     "team_size": 2,
@@ -6431,7 +6431,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/65122a2cf93b0728efdffcc0603d35f8f2c17dbe.png",
     "website": "https://www.unflow.com",
-    "all_locations": "New York, NY, USA; London, England, United Kingdom; Remote",
+    "all_locations": "New York City, NY, USA; London, England, United Kingdom; Remote",
     "long_description": "We enable product and marketing teams to create and publish native in-app experiences, without engineering help",
     "one_liner": "The next generation CMS built for mobile apps",
     "team_size": 5,
@@ -17835,7 +17835,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/01e853c98eeaa75f49024ede178b38c98d3e9a26.png",
     "website": "https://silogy.io",
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "long_description": "Silogy is building an AI-powered platform for chip developers to simulate and debug their designs.",
     "one_liner": "An AI-powered test and debug platform for chip developers",
     "team_size": 3,
@@ -19347,7 +19347,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/336383ad58869871ce591b4e1b31dd374319435c.png",
     "website": "https://www.cerulion.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cerulion is an open source operating system for robots built by 2 MIT robotics PhDs. Companies like Amazon Robotics and Boston Dynamics AI Institute are using us to develop faster and ship more reliable robots than with ROS. With up to 1000x improvements in communications performance over state of the art, Cerulion is enabling the next generation of embodied AI.",
+    "long_description": "Cerulion is an open source operating system for robots built by 2 MIT robotics PhDs. Engineers at Amazon Robotics and Boston Dynamics AI Institute are using us to develop faster and ship more reliable robots than with ROS. With up to 1000x improvements in communications performance over state of the art, Cerulion is enabling the next generation of embodied AI.",
     "one_liner": "Open source operating system for robots",
     "team_size": 2,
     "industry": "B2B",
@@ -22162,26 +22162,27 @@
   },
   {
     "id": 30462,
-    "name": "Clado",
-    "slug": "clado",
+    "name": "Freesolo",
+    "slug": "freesolo",
     "former_names": [
       "Linkd",
       "Clado",
-      "Freesolo"
+      "Freesolo",
+      "Clado"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ca45abeff29a0fe04be452f32d5fc05b53c26e70.png",
-    "website": "https://clado.ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/45d118ce06f810c00f7b1f3105cf4f7906bd0d55.png",
+    "website": "https://freesolo.co",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Clado builds global people search to help discover the best leads, recruits, and POCs for your business",
-    "one_liner": "Global People Search",
+    "long_description": "Freesolo works with companies to encode user-trajectory knowledge into specialized models that outperform the state of the art at much lower latency and cost.",
+    "one_liner": "Product Native Models",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1742722403,
     "tags": [
-      "Artificial Intelligence",
       "Reinforcement Learning",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -22202,8 +22203,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/clado",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/clado.json"
+    "url": "https://www.ycombinator.com/companies/freesolo",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/freesolo.json"
   },
   {
     "id": 30465,
@@ -24356,55 +24357,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/specific.json"
   },
   {
-    "id": 30961,
-    "name": "Arcten",
-    "slug": "arcten",
-    "former_names": [
-      "Cortex",
-      "ArcTen",
-      "Arc Ten",
-      "ArcTen",
-      "ArcTen, Inc.",
-      "Arcten, Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8b85a37c57824f6296369d2840bc02a481f8bf6.png",
-    "website": "https://arcten.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "Lab working on long-horizon autonomous research and coding agents",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1761245566,
-    "tags": [
-      "Deep Learning",
-      "Generative AI",
-      "Machine Learning",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/arcten",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/arcten.json"
-  },
-  {
     "id": 30967,
     "name": "Perseus",
     "slug": "perseus",
@@ -24981,6 +24933,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/zatanna",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/zatanna.json"
+  },
+  {
+    "id": 31133,
+    "name": "Skillsync",
+    "slug": "skillsync",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9cbaacf18216a2c670dfe6e49d4332b592214780.png",
+    "website": "https://skillsync.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Skillsync is a real-time multiplayer coding agent with shared memory. Teams build with coding agents together, live, in the terminal or a Discord-like app, then every session becomes searchable memory the whole team and its agents can reuse.\r\n\r\nToday, all the thinking behind your code lives inside individual agent sessions and evaporates the moment they close. The reasoning, what was tried, what was rejected, the taste that sets your best engineers apart, just becomes tribal knowledge stuck in a few heads. Skillsync captures it. We're formalizing engineering culture, so how your team uniquely builds becomes explicit, shared, and reusable.",
+    "one_liner": "Discord for building with agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1765356952,
+    "tags": [
+      "Developer Tools"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/skillsync",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/skillsync.json"
   },
   {
     "id": 31139,
@@ -26113,6 +26104,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hyperprobe",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/hyperprobe.json"
+  },
+  {
+    "id": 33249,
+    "name": "OpenRelay",
+    "slug": "openrelay",
+    "former_names": [
+      "VectorLay"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dfebad0e89c8e36ca28819a3b651bee8a4326b76.png",
+    "website": "https://www.openrelay.inc",
+    "all_locations": "Seattle, WA, USA",
+    "long_description": "",
+    "one_liner": "Distributed, hardware-agnostic AI inference",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1783565051,
+    "tags": [
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/openrelay",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/openrelay.json"
   },
   {
     "id": 33838,
