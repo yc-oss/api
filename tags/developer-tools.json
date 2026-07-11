@@ -7058,8 +7058,8 @@
   },
   {
     "id": 22986,
-    "name": "SST",
-    "slug": "sst",
+    "name": "OpenCode",
+    "slug": "opencode",
     "former_names": [
       "Anomaly Innovations",
       "SST",
@@ -7099,8 +7099,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sst",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/sst.json"
+    "url": "https://www.ycombinator.com/companies/opencode",
+    "api": "https://yc-oss.github.io/api/batches/winter-2021/opencode.json"
   },
   {
     "id": 22995,
@@ -7918,8 +7918,8 @@
   },
   {
     "id": 23629,
-    "name": "AXAR AI",
-    "slug": "axar-ai",
+    "name": "Glop.dev",
+    "slug": "glopdev",
     "former_names": [
       "TimeTackle",
       "Tackle",
@@ -7931,21 +7931,22 @@
       "AXAR AI",
       "Tackle",
       "AXAR AI",
-      "Tackle"
+      "Tackle",
+      "AXAR AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b95d154cb83a4708f9f0e1442a68b33e236a14bf.png",
-    "website": "https://www.axar.ai/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/52cb3520d9bab156b57aed7f3c76a564ce21c4cb.png",
+    "website": "https://www.glop.dev/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "Multi-agent orchestration platform",
-    "team_size": 41,
+    "one_liner": "How great teams ship with AI",
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1616475313,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7967,8 +7968,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/axar-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/axar-ai.json"
+    "url": "https://www.ycombinator.com/companies/glopdev",
+    "api": "https://yc-oss.github.io/api/batches/winter-2021/glopdev.json"
   },
   {
     "id": 23634,
@@ -19912,7 +19913,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -23101,7 +23102,7 @@
     "website": "https://codag.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "Systems log compression for agents.",
+    "one_liner": "Log compression for agents.",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -23130,6 +23131,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/codag",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/codag.json"
+  },
+  {
+    "id": 32262,
+    "name": "Alkera AI",
+    "slug": "alkera-ai",
+    "former_names": [
+      "Alkera AI, Inc.",
+      "Alkera AI",
+      "Alkera AI, Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eecc1a49c35b3a26973c35ce53d1c3f862a058cb.png",
+    "website": "https://alkera.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Alkera is a data engineering and data science agent that works in your IDE or CLI. If you’re tired of agents taking forever just to produce false, or even dangerous, reports about your data, then Alkera is for you. Our agent is equipped with your data’s history and lineage, your team’s knowledge, and tailored plugins for data apps such as Snowflake and dbt. Simply install and connect your services to begin doing trusted agentic data work. We also offer VPC & on-prem deployment options for when data can't leave your boundary.",
+    "one_liner": "Data engineering and data science agents that are reliable and safe",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1783697969,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Data Science",
+      "Data Engineering",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/alkera-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/alkera-ai.json"
   },
   {
     "id": 32527,
@@ -23309,7 +23357,7 @@
     "website": "http://coasty.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Coasty is a computer use agent that does real work inside softwares, companies already run. New web apps, old desktop tools, the legacy systems nobody wants to touch. You hand it a workflow and it owns the outcome.\r\nMost agents demo well and break the moment they hit real software. They get 18 steps out of 20 right, misclick once, and everything after is garbage. Coasty catches when it goes off track and fixes itself mid-task instead of starting over. It handles the messy parts, benchmarks never show. Permission dialogs, surprise pop-ups, a modal that steals focus, a page that loads slow. When a vendor pushes an overnight update and moves half the menus, brittle scripts break by morning. Coasty reads the screen instead of recording clicks, so it adapts and keeps going.\r\nIt also checks its own output and leaves a time-stamped trail you can replay. We won't pretend it gets every task right. Nothing automating this work does. What matters is what happens when something breaks. It catches the mistake, fixes what it can, and flags what it can't so a person can step in. Nothing fails quietly. That's what lets a team trust it on the work where a silent error gets someone fired.\r\nWe scored 82% on OSWorld, which puts us among the most reliable agents out there. Reliability is the whole product, not a feature.",
-    "one_liner": "The best computer use. We will kill RPA.",
+    "one_liner": "The computer-use agent that doesn't break on real software. We will…",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",

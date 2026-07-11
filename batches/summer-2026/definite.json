@@ -1,0 +1,45 @@
+{
+  "id": 32286,
+  "name": "Definite",
+  "slug": "definite",
+  "former_names": [
+    "Ledgix",
+    "Bylaw"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/553f76678219d35e34302add5de43fb39448c22c.png",
+  "website": "https://www.usebylaw.com",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Bylaw builds AI agents for the financial back office. Before any output touches your systems, our verification engine checks it against the source documents. Numbers get recomputed from contracts, rate tables, and ledger records, and wrong outputs go back to the agent with the reason, like compiler errors. They don't ship.\r\n\r\nWe met our first year studying computer science at the University of Waterloo, and interned at Meta, Optiver, and BitGo, places where one unverified number moving through a system has real consequences. Talking to teams deploying agents, we kept seeing the same failure: back-office pilots that demo well but never graduate, because nobody trusts the outputs enough to stop re-checking them.\r\n\r\nToday teams check agent work with deterministic rules, an LLM judge, and human sampling. The middle is the gap. Judge models miss what the agent missed, rules only cover what someone wrote down, so a human reviews everything and the economics never improve.\r\n\r\nThis is hard because verification has to be independent of the model doing the work. Recomputing the output has to be done from source documents instead of asking a model to grade its own answer. \r\n\r\nEvery back office is getting agents. Whoever makes agent output trustworthy enough to run without a human behind it owns the layer everything else depends on. The same way finance built approval controls before money moves, verified execution becomes mandatory infrastructure. We build it, and the agents that run on it.",
+  "one_liner": "The most accurate financial agents",
+  "team_size": 3,
+  "industry": "B2B",
+  "subindustry": "B2B -> Infrastructure",
+  "launched_at": 1782681224,
+  "tags": [
+    "Artificial Intelligence",
+    "Fintech",
+    "SaaS",
+    "Finance"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Summer 2026",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Infrastructure"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/definite",
+  "api": "https://yc-oss.github.io/api/batches/summer-2026/definite.json"
+}

@@ -2312,7 +2312,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/637fd6f0b41173fce58a7cc13944c42be5d808ec.png",
     "website": "https://www.arva.ai",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "long_description": "Banks and fintechs have large teams of human analysts who conduct manual checks and reviews. We replace those human compliance analysts with AI agents that automate 80% of the manual work for faster and more compliant financial crime (AML) reviews.\r\n\r\nOur first three products are: Screening AI (discount 91% of screening alerts), KYB/C AI (speed up onboarding), Transaction Monitoring AI (handle AML transaction monitoring alerts)\r\n\r\nOur end goal is to have a whole suite of AI workers that can handle manual compliance work for banks and fintechs. A $24B opportunity in the US alone.",
     "one_liner": "AI Agents to scale AML, KYB and KYC operations",
     "team_size": 20,
@@ -3142,49 +3142,5 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/guild",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/guild.json"
-  },
-  {
-    "id": 32286,
-    "name": "Bylaw",
-    "slug": "bylaw",
-    "former_names": [
-      "Ledgix"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/553f76678219d35e34302add5de43fb39448c22c.png",
-    "website": "https://www.usebylaw.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Bylaw is a check that runs before an AI agent writes to your systems. If the agent is about to act on evidence that is wrong, outdated, or don’t agree across sources, we block the action or send it to a human first. \r\n\r\nWe all met our first year at the University of Waterloo studying computer science. We have previously interned at Meta, Optiver, and BitGo, places where making decisions on unverified data could have lethal reprecussions. We kept running into the same failure deploying agents: the agent was allowed to call the tool, but nobody had verified the facts behind the call.\r\n\r\nGuardrails ask “can this agent use this tool?” Evals catch mistakes after the fact. Neither checks whether chat, docs, CRM, and tool results actually agree at the moment of the write. That’s why the same refund or CRM mistake keeps coming back even after you fix the prompt.\r\n\r\nThis is hard because evidence lives in five places at once, goes stale between lookup and action, and every write needs different proof. It hasn’t been productized because agent teams ship fast and patch with prompts; platforms build one-off checks instead of a reusable gate in front of every sensitive tool call.\r\n\r\nThe same way finance built approval gates before money moves, every company giving agents write access will need this layer.",
-    "one_liner": "Guarantee your agents use the right evidence before they act.",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1782681224,
-    "tags": [
-      "SaaS",
-      "Compliance",
-      "Security",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/bylaw",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/bylaw.json"
   }
 ]

@@ -560,19 +560,19 @@
     "slug": "instance",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e5281f5a701ec428f24536eeba2e70aac2838721.png",
-    "website": "https://tryinstance.app/",
+    "website": "https://www.instancelabs.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Instance is a physics-aware quality layer for AI-generated video, built to improve world models — scanning synthetic video for physics violations and layering in human judgment at scale to benchmark what reads as real versus fake. Built for teams betting on synthetic data who need a reliable quality gate.\r\n\r\nWe're a team of technical cofounders from MIT who met in middle school!",
-    "one_liner": "A benchmark for synthetic video",
+    "long_description": "Instance is ground truth for robot learning. Labs generate thousands of robot episodes a week — far more than anyone can watch — and the mislabels nobody catches poison training data, evals, and RL rewards. \r\n\r\nGive us a task description and video rollouts, and we return a success verdict with evidence. Teams use Instance to clean training data, run evals they can trust, and get reward signals for reinforcement learning without hand-labeling. We benchmark our verifier against human-labeled episodes across 8 benchmarks and 7 robot platforms, where it outperforms frontier VLMs in accuracy and latency.\r\n\r\nWe're MIT computer scientists & friends since middle school, with backgrounds at NASA JPL, SpaceX, and AWS.",
+    "one_liner": "Success detection for robot learning",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1782761102,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "Robotics",
-      "Data Labeling",
-      "AI"
+      "Data Labeling"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -642,6 +642,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/osmaura",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/osmaura.json"
+  },
+  {
+    "id": 31349,
+    "name": "Palette",
+    "slug": "palette-2",
+    "former_names": [
+      "Iris Prism"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c4b357efedd6b75b24594234b97cea3bade805e0.png",
+    "website": "https://palettetechnology.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "An AI-native media infrastructure company that provides natural language video editing systems and vision-driven clip orchestration engines. Our platform allows enterprise teams to drop in raw footage or corporate documents and execute precise timeline modifications, clip stitching, and pixel-perfect graphic overlays entirely through conversational interfaces.",
+    "one_liner": "An interactive AI video generation and editing platform",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1783722381,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Video"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/palette-2",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/palette-2.json"
   },
   {
     "id": 31476,
@@ -1068,14 +1111,14 @@
     "website": "https://nebusec.ai",
     "all_locations": "Vancouver, WA, USA; Remote",
     "long_description": "Nebula Security is an AI-native cybersecurity company founded by world-class hackers.\r\n\r\nWe were the first team to build an nginx RCE and the first to root Android 17 through a full browser-to-kernel exploit chain.\r\n\r\nNebula Security provides mythos-level code scanning and product security auditing, covering everything from code-level vulnerabilities to architectural weak points.\r\n\r\n“Audited by Nebula Security” is a mark of serious security credibility: a signal to customers, investors, and partners that your product has been reviewed by the world's best hackers.",
-    "one_liner": "An AI-native cybersecurity company",
+    "one_liner": "Building Mythos-level cybersecurity review for everyone",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1783007241,
     "tags": [
-      "Cybersecurity",
-      "AI"
+      "Artificial Intelligence",
+      "Cybersecurity"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1396,7 +1439,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b908857ac82ef0d2a3b793f89fa198298587f8a.png",
     "website": "https://rise-reforming.com/home",
     "all_locations": "Chicago, IL, USA",
-    "long_description": "Geopolitical conflicts (US-Iran war) and natural disasters (Winter Storm Uri) consistently expose the vulnerability of the US chemical industry. The reason? Production is centralized and fossil fuel-dependent. The solution? Domestic biogas: The US produces enough biogas to make over $20 bn/y worth of chemicals, but 60% is wasted in low-margin applications or flared altogether. \r\n\r\nRise Reforming is commercializing a modular process to transform this underutilized biogas on-site into cheap, supply-secure chemicals. Our beachhead market is dimethyl ether (DME), used as an aerosol propellant and a low-carbon fuel additive in propane. Our target market is methanol: an established billion $ chemical and the future of low-carbon shipping.\r\n\r\nWe're doing our pilot project at a Chicagoland wastewater plant. This will be the first wastewater biogas-to-methanol demo in the Americas.",
+    "long_description": "Geopolitical conflicts and natural disasters frequently expose the vulnerability of the American chemical industry. The reason? Production is centralized and fossil fuel-dependent. The solution? Localized production using an undervalued resource: biogas. The US produces enough biogas to make over $20 bn/y worth of chemicals, but 60% is wasted in low-margin applications or flared altogether.\r\n\r\nRise Reforming is commercializing a modular process to transform this underutilized biogas on-site into cheap, supply-secure chemicals. Our beachhead market is dimethyl ether (DME), used as an aerosol propellant and a low-carbon fuel additive in propane. Our target market is methanol: an established billion $ chemical and the future of low-carbon shipping.\r\n\r\nWe're doing our pilot project at a Chicagoland wastewater plant. This will be the first wastewater biogas-to-methanol demo in the Americas.\r\n\r\nWe're hiring for a senior chemical process engineer. Apply here: https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer",
     "one_liner": "We turn waste gases into valuable supply-secure chemicals ",
     "team_size": 4,
     "industry": "Industrials",
@@ -1616,7 +1659,7 @@
     "team_size": 5,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction -> Construction",
-    "launched_at": 1778734650,
+    "launched_at": 1783581007,
     "tags": [
       "Artificial Intelligence",
       "Construction"
@@ -1776,7 +1819,7 @@
     "website": "https://codag.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "Systems log compression for agents.",
+    "one_liner": "Log compression for agents.",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -1892,26 +1935,74 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/screenpipe.json"
   },
   {
-    "id": 32286,
-    "name": "Bylaw",
-    "slug": "bylaw",
+    "id": 32262,
+    "name": "Alkera AI",
+    "slug": "alkera-ai",
     "former_names": [
-      "Ledgix"
+      "Alkera AI, Inc.",
+      "Alkera AI",
+      "Alkera AI, Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eecc1a49c35b3a26973c35ce53d1c3f862a058cb.png",
+    "website": "https://alkera.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Alkera is a data engineering and data science agent that works in your IDE or CLI. If you’re tired of agents taking forever just to produce false, or even dangerous, reports about your data, then Alkera is for you. Our agent is equipped with your data’s history and lineage, your team’s knowledge, and tailored plugins for data apps such as Snowflake and dbt. Simply install and connect your services to begin doing trusted agentic data work. We also offer VPC & on-prem deployment options for when data can't leave your boundary.",
+    "one_liner": "Data engineering and data science agents that are reliable and safe",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1783697969,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Data Science",
+      "Data Engineering",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/alkera-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/alkera-ai.json"
+  },
+  {
+    "id": 32286,
+    "name": "Definite",
+    "slug": "definite",
+    "former_names": [
+      "Ledgix",
+      "Bylaw"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/553f76678219d35e34302add5de43fb39448c22c.png",
     "website": "https://www.usebylaw.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Bylaw is a check that runs before an AI agent writes to your systems. If the agent is about to act on evidence that is wrong, outdated, or don’t agree across sources, we block the action or send it to a human first. \r\n\r\nWe all met our first year at the University of Waterloo studying computer science. We have previously interned at Meta, Optiver, and BitGo, places where making decisions on unverified data could have lethal reprecussions. We kept running into the same failure deploying agents: the agent was allowed to call the tool, but nobody had verified the facts behind the call.\r\n\r\nGuardrails ask “can this agent use this tool?” Evals catch mistakes after the fact. Neither checks whether chat, docs, CRM, and tool results actually agree at the moment of the write. That’s why the same refund or CRM mistake keeps coming back even after you fix the prompt.\r\n\r\nThis is hard because evidence lives in five places at once, goes stale between lookup and action, and every write needs different proof. It hasn’t been productized because agent teams ship fast and patch with prompts; platforms build one-off checks instead of a reusable gate in front of every sensitive tool call.\r\n\r\nThe same way finance built approval gates before money moves, every company giving agents write access will need this layer.",
-    "one_liner": "Guarantee your agents use the right evidence before they act.",
+    "long_description": "Bylaw builds AI agents for the financial back office. Before any output touches your systems, our verification engine checks it against the source documents. Numbers get recomputed from contracts, rate tables, and ledger records, and wrong outputs go back to the agent with the reason, like compiler errors. They don't ship.\r\n\r\nWe met our first year studying computer science at the University of Waterloo, and interned at Meta, Optiver, and BitGo, places where one unverified number moving through a system has real consequences. Talking to teams deploying agents, we kept seeing the same failure: back-office pilots that demo well but never graduate, because nobody trusts the outputs enough to stop re-checking them.\r\n\r\nToday teams check agent work with deterministic rules, an LLM judge, and human sampling. The middle is the gap. Judge models miss what the agent missed, rules only cover what someone wrote down, so a human reviews everything and the economics never improve.\r\n\r\nThis is hard because verification has to be independent of the model doing the work. Recomputing the output has to be done from source documents instead of asking a model to grade its own answer. \r\n\r\nEvery back office is getting agents. Whoever makes agent output trustworthy enough to run without a human behind it owns the layer everything else depends on. The same way finance built approval controls before money moves, verified execution becomes mandatory infrastructure. We build it, and the agents that run on it.",
+    "one_liner": "The most accurate financial agents",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1782681224,
     "tags": [
+      "Artificial Intelligence",
+      "Fintech",
       "SaaS",
-      "Compliance",
-      "Security",
-      "AI"
+      "Finance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1932,8 +2023,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/bylaw",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/bylaw.json"
+    "url": "https://www.ycombinator.com/companies/definite",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/definite.json"
   },
   {
     "id": 32520,
@@ -2030,7 +2121,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f6665f1300dc258526280c5fbb72df3fbac9eb1.png",
     "website": "https://flowmanual.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "FlowManual is the all-in-one AI platform for construction's back office.\r\n\r\nBuilt by two engineers and Harvard dropouts, FlowManual streamlines workflow by cutting down on manual and repetitive tasks, allowing contractors to win more work and deliver at a higher standard.",
+    "long_description": "FlowManual is the all-in-one AI bidding and purchasing platform for both general and specialty construction contractors.\r\n\r\nBuilt by two engineers and Harvard dropouts, FlowManual automates the buying process during pre-construction. With FlowManual, specialty contractors win more work while general contractors deliver at higher standards.",
     "one_liner": "AI for Construction's Back Office.",
     "team_size": 2,
     "industry": "Real Estate and Construction",
@@ -2071,8 +2162,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5ed12c5974a12759a4a83154066015d6c91fc4df.png",
     "website": "https://talentpluto.com",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Resumes turned people into documents. Online profiles turned people into searchable pages. AI creates the next shift. As agents become the primary way companies search and evaluate talent, people will need agents that understand their career context, make them discoverable, and represent them professionally.\r\n\r\nTalentpluto is building that agent. Pluto has real voice conversations with people about their work, goals, strengths, and preferences, then turns that understanding into a living professional representation.\r\n\r\nFor companies, Pluto automates the recruiting work of sourcing, screening, qualifying, and selling candidates. Hiring teams get warm introductions to candidates who have already been vetted, matched to the role, and confirmed as interested.\r\n\r\nMore than 15,000 people have completed conversations with Pluto, and we are growing 30% month over month. Talentpluto has worked with 100+ companies, from fast-growing startups to unicorns and decacorns.",
-    "one_liner": "Voice agents that represent people's careers",
+    "long_description": "Resumes made careers readable. LinkedIn made them searchable. Pluto makes them understood.\r\n\r\nProfessionals talk to Pluto for 10 minutes about what they’ve done, what they’re great at, and what they want next. Pluto makes that context discoverable to the right people and AI agents, giving them a fuller picture of the professional beyond the resume.\r\n\r\nFor hiring, companies tell Pluto who they want to meet. Pluto searches its network and the broader market, evaluates fit on both sides, privately confirms interest, and makes warm introductions when both sides want to connect.\r\n\r\n17K+ professionals have shared their career context with Pluto. More than 100 companies, from fast-growing startups to decacorns, have used Talentpluto to meet people with deeper context and confirmed interest.",
+    "one_liner": "AI voice agent that helps professionals get discovered",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Recruiting and Talent",
@@ -3365,7 +3456,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2026",
     "status": "Active",
@@ -3524,7 +3615,7 @@
     "website": "http://coasty.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Coasty is a computer use agent that does real work inside softwares, companies already run. New web apps, old desktop tools, the legacy systems nobody wants to touch. You hand it a workflow and it owns the outcome.\r\nMost agents demo well and break the moment they hit real software. They get 18 steps out of 20 right, misclick once, and everything after is garbage. Coasty catches when it goes off track and fixes itself mid-task instead of starting over. It handles the messy parts, benchmarks never show. Permission dialogs, surprise pop-ups, a modal that steals focus, a page that loads slow. When a vendor pushes an overnight update and moves half the menus, brittle scripts break by morning. Coasty reads the screen instead of recording clicks, so it adapts and keeps going.\r\nIt also checks its own output and leaves a time-stamped trail you can replay. We won't pretend it gets every task right. Nothing automating this work does. What matters is what happens when something breaks. It catches the mistake, fixes what it can, and flags what it can't so a person can step in. Nothing fails quietly. That's what lets a team trust it on the work where a silent error gets someone fired.\r\nWe scored 82% on OSWorld, which puts us among the most reliable agents out there. Reliability is the whole product, not a feature.",
-    "one_liner": "The best computer use. We will kill RPA.",
+    "one_liner": "The computer-use agent that doesn't break on real software. We will…",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",

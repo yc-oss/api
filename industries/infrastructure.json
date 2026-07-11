@@ -4516,8 +4516,8 @@
   },
   {
     "id": 22986,
-    "name": "SST",
-    "slug": "sst",
+    "name": "OpenCode",
+    "slug": "opencode",
     "former_names": [
       "Anomaly Innovations",
       "SST",
@@ -4557,8 +4557,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sst",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/sst.json"
+    "url": "https://www.ycombinator.com/companies/opencode",
+    "api": "https://yc-oss.github.io/api/batches/winter-2021/opencode.json"
   },
   {
     "id": 22995,
@@ -7175,15 +7175,16 @@
   },
   {
     "id": 27928,
-    "name": "David",
-    "slug": "david",
+    "name": "Portalform",
+    "slug": "portalform",
     "former_names": [
       "Portalform",
       "Fiber",
-      "Looooooops"
+      "Looooooops",
+      "David"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/df19488d409acccc7a99e6da6694b65535c281c5.png",
-    "website": "https://shipdavid.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f5af53645d0c8a5e381e823c37447e8c67bdbba2.png",
+    "website": "https://portalform.com/",
     "all_locations": "New York City, NY, USA",
     "long_description": "Coming soon",
     "one_liner": "Build and host internal tools",
@@ -7211,8 +7212,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/david",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/david.json"
+    "url": "https://www.ycombinator.com/companies/portalform",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/portalform.json"
   },
   {
     "id": 27965,
@@ -8834,17 +8835,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a3e196a71b4a93ad7200cf278186954bda68e7e3.png",
     "website": "https://www.shipoway.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Oway is building the AI-driven OS for physical commerce. America's industrial base runs on trillions of dollars of idle capacity, empty space, wasted miles, and stranded inventory, sitting invisible inside a system with no live index of itself. Oway autonomously creates liquidity in that empty space, turning it into margin for businesses, income for carriers, and a measurable lift to the productivity of the American economy.\r\n\r\nWe're building the largest decentralized network of America’s industrial inefficiency via tracking empty truck space and make it usable - a transparent infrastructure layer that simply by existing boosts the productivity and market caps of the businesses that plug into it. For the broad economy, this means freight costs that are up to 50% lower than what was previously possible, touchpoints are reduced, damage rates are significantly lowered, and inventory float is minimized via new JIT capabilities. For carriers, Oway’s integration can increase annual revenues by up to 30% with minimal impact to their existing business. They simply earn more by monetizing space that would have gone unused.\r\n\r\nOur mission is to transform empty truck space into an asset that strengthens U.S. competitiveness. By lowering the cost of goods sold, we help businesses grow. By improving carrier margins, we make trucking more sustainable. And creating a live index of the supply chain, we are laying the foundation for a resilient, transparent industrial layer that can support America’s reindustrialization in the decades ahead. ",
-    "one_liner": "The OS for physical commerce. Indexing America's industrial…",
+    "long_description": "Every year, up to 50% of truck space goes empty - a $100B inefficiency. Oway is building the largest decentralized network of America’s industrial inefficiency via tracking empty truck space and make it usable - a transparent infrastructure layer that simply by existing boosts the productivity and market caps of the businesses that plug into it. For the broad economy, this means freight costs that are up to 50% lower than what was previously possible, touchpoints are reduced, damage rates are significantly lowered, and inventory float is minimized via new JIT capabilities. For carriers, Oway’s integration can increase annual revenues by up to 30% with minimal impact to their existing business. They simply earn more by monetizing space that would have gone unused.\r\n\r\nOur mission is to transform empty truck space into an asset that strengthens U.S. competitiveness. By lowering the cost of goods sold, we help businesses grow. By improving carrier margins, we make trucking more sustainable. And creating a live index of the supply chain, we are laying the foundation for a resilient, transparent industrial layer that can support America’s reindustrialization in the decades ahead. ",
+    "one_liner": "AI Infrastructure for America’s Empty Truck Space",
     "team_size": 16,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1717601253,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Logistics",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -10364,7 +10365,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8dd28df9a99151aedfe26a296d8e112af2bf4edb.png",
     "website": "https://misolabs.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Miso Labs is building the world’s most emotive foundation models for voice. We believe that the next generation of AI interactions shouldn't just be functional—they should be human. By bringing warmth and lightning-fast speed to the voice layer, we empower developers to build voice agents that users truly love.",
+    "long_description": "Miso Labs is building the world’s most emotive foundation models for voice. Our goal is to pass the voice Turing test.",
     "one_liner": "Emotive foundation voice models",
     "team_size": 2,
     "industry": "B2B",
@@ -10373,7 +10374,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2026",
     "status": "Active",
@@ -12875,7 +12876,7 @@
     "website": "https://codag.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "Systems log compression for agents.",
+    "one_liner": "Log compression for agents.",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -12947,25 +12948,26 @@
   },
   {
     "id": 32286,
-    "name": "Bylaw",
-    "slug": "bylaw",
+    "name": "Definite",
+    "slug": "definite",
     "former_names": [
-      "Ledgix"
+      "Ledgix",
+      "Bylaw"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/553f76678219d35e34302add5de43fb39448c22c.png",
     "website": "https://www.usebylaw.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Bylaw is a check that runs before an AI agent writes to your systems. If the agent is about to act on evidence that is wrong, outdated, or don’t agree across sources, we block the action or send it to a human first. \r\n\r\nWe all met our first year at the University of Waterloo studying computer science. We have previously interned at Meta, Optiver, and BitGo, places where making decisions on unverified data could have lethal reprecussions. We kept running into the same failure deploying agents: the agent was allowed to call the tool, but nobody had verified the facts behind the call.\r\n\r\nGuardrails ask “can this agent use this tool?” Evals catch mistakes after the fact. Neither checks whether chat, docs, CRM, and tool results actually agree at the moment of the write. That’s why the same refund or CRM mistake keeps coming back even after you fix the prompt.\r\n\r\nThis is hard because evidence lives in five places at once, goes stale between lookup and action, and every write needs different proof. It hasn’t been productized because agent teams ship fast and patch with prompts; platforms build one-off checks instead of a reusable gate in front of every sensitive tool call.\r\n\r\nThe same way finance built approval gates before money moves, every company giving agents write access will need this layer.",
-    "one_liner": "Guarantee your agents use the right evidence before they act.",
+    "long_description": "Bylaw builds AI agents for the financial back office. Before any output touches your systems, our verification engine checks it against the source documents. Numbers get recomputed from contracts, rate tables, and ledger records, and wrong outputs go back to the agent with the reason, like compiler errors. They don't ship.\r\n\r\nWe met our first year studying computer science at the University of Waterloo, and interned at Meta, Optiver, and BitGo, places where one unverified number moving through a system has real consequences. Talking to teams deploying agents, we kept seeing the same failure: back-office pilots that demo well but never graduate, because nobody trusts the outputs enough to stop re-checking them.\r\n\r\nToday teams check agent work with deterministic rules, an LLM judge, and human sampling. The middle is the gap. Judge models miss what the agent missed, rules only cover what someone wrote down, so a human reviews everything and the economics never improve.\r\n\r\nThis is hard because verification has to be independent of the model doing the work. Recomputing the output has to be done from source documents instead of asking a model to grade its own answer. \r\n\r\nEvery back office is getting agents. Whoever makes agent output trustworthy enough to run without a human behind it owns the layer everything else depends on. The same way finance built approval controls before money moves, verified execution becomes mandatory infrastructure. We build it, and the agents that run on it.",
+    "one_liner": "The most accurate financial agents",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1782681224,
     "tags": [
+      "Artificial Intelligence",
+      "Fintech",
       "SaaS",
-      "Compliance",
-      "Security",
-      "AI"
+      "Finance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -12986,8 +12988,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/bylaw",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/bylaw.json"
+    "url": "https://www.ycombinator.com/companies/definite",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/definite.json"
   },
   {
     "id": 32527,
