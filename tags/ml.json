@@ -538,16 +538,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f47cbbc26af6f2d783af0166e54e51212101bcc.png",
     "website": "https://runlocal.ai",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "RunLocal is the first AI-native platform for optimizing ML model inference on edge hardware (like Nvidia Orin and Qualcomm)\r\n\r\nOur AI agent automates on-device model performance debugging and optimization. Our web platform replaces brittle validation scripts and manual experiment tracking.\r\n\r\nWith RunLocal, you deploy more capable/efficient models on your target hardware with a fraction of the engineering effort.\r\n\r\nWe’re working with market-leaders in autonomous vehicles, robotics, drones and smart cameras. We're backed by investors like Y Combinator and 468 Capital.",
-    "one_liner": "The first AI agent for optimizing ML model inference on edge hardware",
+    "long_description": "RunLocal’s AI agent is specialized in inference optimization and hardware acceleration for platforms like Nvidia Orin/Thor and Qualcomm.\r\n\r\nUnder the hood, our agentic environment facilitates reliable hardware-in-the-loop experimentation and continuous learning. \r\n\r\nIt tracks every experiment and continuously refines experimentation data into an understanding of what drives performance on your target hardware.\r\n\r\nThis environment means that a generic coding agent (e.g. Codex or Claude Code) can experiment and iterate better, faster and cheaper. \r\n\r\nWith RunLocal, you hit performance targets faster and ship more optimized models – without hiring inference optimization specialists. \r\n\r\nWe’re working with leaders in autonomous vehicles and robotics. We're backed by investors like Y Combinator and 468 Capital.",
+    "one_liner": "The AI agent for model deployment, inference optimization and…",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1722617907,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Computer Vision",
-      "AI",
       "ML"
     ],
     "tags_highlighted": [],
@@ -834,5 +834,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/expanse",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/expanse.json"
+  },
+  {
+    "id": 32167,
+    "name": "Understudy Labs",
+    "slug": "understudy-labs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/034b1bab6d92bd99439aee47bf2312630046798c.png",
+    "website": "https://understudylabs.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "An open-source toolkit to capture traces, evaluate cheaper models against benchmarks, and ship specialist routes you own.\r\n\r\nCapture traces from LLM production workflows with a single install that deploys within coding agents you already use. Hosted infrastructure is optional.\r\n\r\nEvaluate the captured traces and set a benchmark for success. Every future model switch meets or exceeds it in A/B testing.\r\n\r\nTrain and fine-tune a new model on prompts and weights you always own. Start locally and scale into cloud-hosted processes as you see success.\r\n\r\nDeploy a new model only when the held-out eval is beaten. Serve it wherever you want. Production data feeds back into training and compounds performance over time.\r\n\r\nTest. Learn. Deploy. Repeat.",
+    "one_liner": "Effortlessly move to open weight models",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1783740567,
+    "tags": [
+      "Artificial Intelligence",
+      "Open Source",
+      "AI",
+      "ML"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/understudy-labs",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/understudy-labs.json"
   }
 ]

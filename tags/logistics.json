@@ -3353,7 +3353,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/39a586314e7bd62c08d22961d04f803a003c805f.png",
     "website": "https://www.cofactr.com/",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "long_description": "Innovative hardware teams use Cofactr to scale their electronic hardware from BOM through production, replacing spreadsheets and shelves with insights and on-demand infrastructure.\r\n\r\nWe're a Y Combinator W22 company with growing revenue and backed with significant venture funding from VCs like Bain Capital Ventures.",
     "one_liner": "Cloud pre-factory logistics and procurement for electronics",
     "team_size": 15,
@@ -5146,6 +5146,51 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/hemut.json"
   },
   {
+    "id": 30526,
+    "name": "chrt",
+    "slug": "chrt",
+    "former_names": [
+      "CHRT, Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e0bd87983ace16e9a440ec6fe901ff569c1bb997.png",
+    "website": "https://chrt.com",
+    "all_locations": "Los Angeles, CA, USA",
+    "long_description": "chrt is a logistics platform for time-critical shipping. We enable businesses to deliver their most critical items same-day.\r\n\r\nTime-Critical Logistics is a $30B market growing at a 20% CAGR driven by growth in American healthcare and manufacturing.\r\n\r\nBusinesses that place time-critical orders are enterprises who have urgent items they need to deliver ASAP. These orders are critical in nature and often require white glove service -- think therapeutic treatments for healthcare providers or specialized equipment for manufacturers. \r\n\r\nchrt builds the software for forwarders and professional couriers who pick up and deliver these orders. Couriers use chrt to coordinate and track their shipments, including a driver app and fleet management tools. Forwarders use chrt to dispatch couriers, book flights, and track time-critical orders from start to finish. Shippers use chrt to place these orders with their providers and to monitor everything. \r\n\r\nIn addition, we also sell physical tracking devices that can be used to track valuable cargo or assets.\r\n\r\nThis gives us full control of the shipment and allows us to provide shippers with end-to-end tracking. It also allows us to intervene early if we notice something is going wrong.\r\n\r\nWe’re software engineers that became friends years ago at McKinsey. Kyle is an expert in Time-Critical Logistics, having led strategy at a leader in the space. Aaron is an expert at designing and implementing AI systems to handle complex coordination. We were shipping code together on nights and weekends for years before chrt; now we’re also shipping freight.",
+    "one_liner": "chrt is a logistics platform for time-critical shipping",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1747152745,
+    "tags": [
+      "Autonomous Shipping",
+      "Logistics",
+      "Healthcare",
+      "Manufacturing",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/chrt",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/chrt.json"
+  },
+  {
     "id": 30598,
     "name": "GETASAP",
     "slug": "getasap",
@@ -5155,7 +5200,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/642bff7a1b26de3309aed7fc5200498a8dca5180.png",
     "website": "https://www.getasap.us",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Founded in 2023, GETASAP is a San Francisco–based technology and supply chain infrastructure company transforming fresh produce distribution and freight.\r\n\r\nGETASAP provides same-day delivery to thousands of restaurants and retail locations across the USA, sourcing directly from farms internationally. It operates GETASAP Logistics, an AI-native freight carrier and brokerage, to deliver reliable reefer LTL and FTL services powered by VoiceAI dispatch, optimized scheduling, and real-time operational intelligence.\r\n\r\nMain Offices: \r\nMountain View, CA (HQ)\r\nFresno, CA\r\nAlpharetta, GA",
+    "long_description": "Founded in 2023, GETASAP is a San Francisco–based technology and supply chain infrastructure company transforming fresh produce distribution and freight.\r\n\r\nGETASAP provides same-day delivery to thousands of restaurants and retail locations across the USA, sourcing directly from farms internationally. It operates GETASAP Logistics, an AI-native freight carrier and brokerage, to deliver reliable reefer LTL and FTL services powered by VoiceAI dispatch, optimized scheduling, and real-time operational intelligence.",
     "one_liner": "AI-Native Fresh Produce Logistics",
     "team_size": 30,
     "industry": "B2B",
@@ -5283,7 +5328,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8008d7d50f1ead47eae177bcede0c9d614312ad4.png",
     "website": "https://fleetline.ai",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "long_description": "Fleetline is building the first complete-context algorithmic load planner for mid to large-sized trucking fleets. Today’s dispatchers face an overwhelming task: balancing regulations, customer demands, live fleet data, and individual driver needs, all while coordinating across siloed tools and teams. Mistakes run rampant, and each mistake is thousands of dollars. Even the select fleets using algorithms that have fleet-wide context struggle: the outputs are rigid, hard to interpret, and are blind to real-world nuances like driver preferences and schedule exceptions. Fleetline solves this by combining advanced optimization with LLMs that can easily adapt algorithms to each fleet’s needs and capture driver-specific information. The result is smarter planning truly optimized for every fleet and its drivers.",
     "one_liner": "Optimizing fleet planning with data driven algorithms",
     "team_size": 11,
