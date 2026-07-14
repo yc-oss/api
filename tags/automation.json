@@ -1117,16 +1117,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f0b69f56464fb22aa0805117c2f93c2b32f1c717.png",
     "website": "https://www.stackai.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "With StackAI, any organization can deploy custom AI agents to automate its back-office operations. Our low-code interface allows teams of all levels of expertise to build internal tools.\r\n\r\nHundreds of companies use StackAI to build knowledge-based AI assistants, fill out RFPs and questionnaires, automate content QA, conduct due diligence research, and extract data from documents.",
+    "long_description": "StackAI partners with enterprises to deploy custom AI agents to automate their most complex back-office workflows. Teams at BAE Systems, Monzo, Morgan & Morgan, and Goodwill work with StackAI to bring AI Agents to their operations.\r\n\r\nEnterprises use StackAI no-code to automate large compliance audits, knowledge work, legal intake, due diligence research, and insurance claim underwriting.\r\n\r\nAcquired by Asana (NYSE:ASAN) in May 2026.",
     "one_liner": "The Enterprise AI Transformation Platform",
-    "team_size": 55,
+    "team_size": 62,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1673634480,
     "tags": [
+      "Artificial Intelligence",
       "Enterprise",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1141,9 +1141,9 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
-    "demo_day_video_public": false,
+    "demo_day_video_public": true,
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/stackai",
@@ -3329,7 +3329,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f454d5ba03bb70a84b22fc085d9687287771440b.png",
     "website": "https://www.bravi.app/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Paris, Île-de-France, France",
     "long_description": "Bravi is building the AI operating system for home-services businesses, using AI-powered customer communication as the wedge.\r\n\r\nWe replace the front office (calls, chats, follow-ups) with AI agents that never miss a lead, then layer an internal AI copilot that understands products, pricing, and technical documentation.\r\n\r\nWe started with fenestration (shutters, windows, garage doors), a large, complex vertical with no modern software, before expanding to adjacent trades.\r\n\r\nBravi is already live with leading installers and manufacturers across Europe and the US, turning missed demand into revenue.",
     "one_liner": "The AI operating system powering home services businesses",
     "team_size": 2,
@@ -3353,8 +3353,8 @@
       "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "France",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3616,48 +3616,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/servo7.json"
   },
   {
-    "id": 31419,
-    "name": "StableBrowse",
-    "slug": "stablebrowse",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed9bc479aa95e772450f53b3ce34a581c2a1e4b7.png",
-    "website": "https://stablebrowse.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We are making the browser layer for your AI agents. Agents don’t need to see UIs like us humans do. We give agents a semantic understanding of the web instead of brittle visual interfaces. Your agents can perform deep research, large-scale scraping, and complex automation—more efficiently with our knowledge graphs that turns the web into a native protocol for LLMs.",
-    "one_liner": "Browser Layer for AI agents",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1774843315,
-    "tags": [
-      "Artificial Intelligence",
-      "API",
-      "Automation",
-      "Web Development"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/stablebrowse",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/stablebrowse.json"
-  },
-  {
     "id": 31441,
     "name": "Infera",
     "slug": "infera",
@@ -3747,22 +3705,24 @@
   },
   {
     "id": 32127,
-    "name": "Perceptron ML",
-    "slug": "perceptron-ml",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/78fd0973779baafd178a4b5e1230878b341cb14b.png",
-    "website": "https://perceptronml.com",
+    "name": "Notyfi",
+    "slug": "notyfi",
+    "former_names": [
+      "Perceptron ML"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/39ef9d285402475a966cd1a646ae8e3b72115c89.png",
+    "website": "https://notyfi.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Perceptron ML tracks anything you want, anywhere it happens. Tell us in plain English what matters, new lawsuits, layoffs, price drops, listings, RFPs, breaking news, and we watch the news, filings, databases, and the open web for it. You get notified instantly, hourly, daily, or weekly, by email, on a live dashboard, or directly into your agents and workflows through our API and MCP.",
+    "long_description": "Notyfi tracks anything you want, anywhere it happens. Tell us in plain English what matters, new lawsuits, layoffs, price drops, listings, RFPs, breaking news, and we watch the news, filings, databases, and the open web for it. You get notified instantly, hourly, daily, or weekly, by email, on a live dashboard, or directly into your agents and workflows through our API and MCP.",
     "one_liner": "Live alerts for anything happening in the world.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1782500527,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3782,8 +3742,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/perceptron-ml",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/perceptron-ml.json"
+    "url": "https://www.ycombinator.com/companies/notyfi",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/notyfi.json"
   },
   {
     "id": 32187,

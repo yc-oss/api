@@ -12004,7 +12004,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -12546,49 +12546,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/middleware",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/middleware.json"
-  },
-  {
-    "id": 27667,
-    "name": "StackAI",
-    "slug": "stackai",
-    "former_names": [
-      "Stack",
-      "Stack AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f0b69f56464fb22aa0805117c2f93c2b32f1c717.png",
-    "website": "https://www.stackai.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "With StackAI, any organization can deploy custom AI agents to automate its back-office operations. Our low-code interface allows teams of all levels of expertise to build internal tools.\r\n\r\nHundreds of companies use StackAI to build knowledge-based AI assistants, fill out RFPs and questionnaires, automate content QA, conduct due diligence research, and extract data from documents.",
-    "one_liner": "The Enterprise AI Transformation Platform",
-    "team_size": 55,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1673634480,
-    "tags": [
-      "Enterprise",
-      "Automation",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Acquired",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/stackai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/stackai.json"
   },
   {
     "id": 27668,
@@ -17542,6 +17499,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/fiber-ai.json"
   },
   {
+    "id": 29082,
+    "name": "Strada",
+    "slug": "strada",
+    "former_names": [
+      "Strada",
+      "Finbox"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1ed3e2a5a9fdba541eb63fd5da473fcbac4b34f.png",
+    "website": "https://www.getstrada.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Strada automates insurance operations with AI agents. We deploy agents that handle policy servicing and claims operations end-to-end for some of the largest insurance carriers and brokers in the US. With native integrations into core policy, claims and agency management systems, we automate complex workflows with the domain expertise and compliance guardrails the industry demands.",
+    "one_liner": "AI agents that run insurance operations",
+    "team_size": 21,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1690570692,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Insurance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/strada",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/strada.json"
+  },
+  {
     "id": 29091,
     "name": "Webhound",
     "slug": "webhound",
@@ -21334,17 +21335,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7e8293b8909fbc0452663290a630f3f5f9d0e7e1.png",
     "website": "https://www.rohanmehta.com/",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Arcane is building an AI powered game platform. We allow anyone to create and play games, without writing code.",
-    "one_liner": "AI powered games",
+    "long_description": "",
+    "one_liner": "AI",
     "team_size": 2,
     "industry": "Consumer",
-    "subindustry": "Consumer -> Gaming",
+    "subindustry": "Consumer",
     "launched_at": 1706241109,
     "tags": [
       "Artificial Intelligence",
       "Generative AI",
-      "Consumer",
-      "Gaming",
       "AI"
     ],
     "tags_highlighted": [],
@@ -21354,8 +21353,7 @@
     "batch": "Winter 2024",
     "status": "Acquired",
     "industries": [
-      "Consumer",
-      "Gaming"
+      "Consumer"
     ],
     "regions": [
       "United States of America",
@@ -21543,48 +21541,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/integuru",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/integuru.json"
-  },
-  {
-    "id": 29499,
-    "name": "Forge",
-    "slug": "forge",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a8698407a8cb5928c428073e83afe6e5668d63c.png",
-    "website": "https://www.forgehq.com/",
-    "all_locations": "New York City, NY, USA",
-    "long_description": "Forge helps companies recover tariffs and duties paid on imported goods that are later exported or scrapped by automating a process called duty drawback.\r\n\r\nBillions of dollars of eligible refunds go unclaimed every year. We take full ownership of the process from organizing data to filing claims so businesses can unlock this extra revenue with minimal effort. ",
-    "one_liner": "Getting companies refunds on tariffs & duties",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
-    "launched_at": 1705516248,
-    "tags": [
-      "B2B",
-      "Logistics",
-      "Supply Chain",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/forge",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/forge.json"
   },
   {
     "id": 29501,
@@ -26135,47 +26091,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/ctgt.json"
   },
   {
-    "id": 30055,
-    "name": "RiskCube",
-    "slug": "riskcube",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/93b1b4fbe4b8807a5770f0fad5c76f3b8685dee9.png",
-    "website": "https://riskcube.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "RiskCube is an independent commercial insurance brokerage for startups and high-growth companies (F24). When you're days from closing an enterprise customer and procurement asks for a Certificate of Insurance (COI), a traditional broker can take weeks — and the deal stalls. RiskCube fixes that: we compare 40+ AM Best-rated U.S. carriers, pair that with licensed human broker review, and bind the right coverage and issue your COI within a day, not weeks. Founders get D&O, Tech E&O, Cyber, General Liability, Product Liability, Key Person Life, and COIs — to pass procurement, satisfy investors, and close deals. RiskCube is an independent broker, not an insurance carrier, built for AI, SaaS, Fintech, GovTech, Web3, Space, Defense, and government-contractor startups. Licensed in CA, TX, and DE (expanding nationwide). ",
-    "one_liner": "Independent insurance brokerage for startups.",
-    "team_size": 3,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Insurance",
-    "launched_at": 1731782052,
-    "tags": [
-      "Fintech",
-      "Insurance",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Insurance"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/riskcube",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/riskcube.json"
-  },
-  {
     "id": 30056,
     "name": "Keye",
     "slug": "keye",
@@ -29631,46 +29546,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/bluejay.json"
   },
   {
-    "id": 30455,
-    "name": "The LLM Data Company",
-    "slug": "the-llm-data-company",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/005788a0c189061ca9f07ab8f45073430685851b.png",
-    "website": "https://www.llmdata.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "The LLM Data Company is training models in data scarce verticals",
-    "one_liner": "Frontier models for critical domains",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1747787326,
-    "tags": [
-      "AIOps",
-      "Generative AI",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/the-llm-data-company",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/the-llm-data-company.json"
-  },
-  {
     "id": 30462,
     "name": "Freesolo",
     "slug": "freesolo",
@@ -31291,9 +31166,9 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1c746a958222a919c90dfff3a0cd3a949fa81bcc.png",
     "website": "https://withasync.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Async partners with service businesses across law, healthcare and real estate to build and deploy custom agents. We audit existing processes, rework them to become agent-first, deploy custom agents to automate the process and up-skill employees on AI. ",
-    "one_liner": "AI Agents for Service Businesses",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "Async partners with small businesses across law, healthcare and real estate to build and deploy custom agents. We audit existing processes, rework them to become agent-first, deploy custom agents to automate the process and up-skill employees on AI. ",
+    "one_liner": "AI Agents for Small Businesses",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -32152,48 +32027,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/procindex",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/procindex.json"
-  },
-  {
-    "id": 30720,
-    "name": "Autosana",
-    "slug": "autosana",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5c7dda83aa113d5017c2cb187435ccccb356bd6a.png",
-    "website": "https://autosana.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Autosana is the end-to-end testing layer for your coding agents, across iOS, Android, and Web apps.\r\n\r\nStep away from your laptop. Come back to full-stack features built and tested end-to-end, production ready.\r\n\r\nAutosana creates, updates, and runs tests automatically from your code diffs. Locally, it loops with your coding agent until every test passes. In PRs, it loops with cloud agents and shows video proof of your new feature or bug fix working end-to-end.\r\n\r\nNo setup, no maintenance, just tests evolving with your codebase. Ship with confidence.",
-    "one_liner": "AI agents for E2E testing across mobile & web",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1751416575,
-    "tags": [
-      "Developer Tools",
-      "B2B",
-      "Enterprise Software",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/autosana",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/autosana.json"
   },
   {
     "id": 30729,
@@ -34220,7 +34053,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ba947944afd3b1dfe85a7f3891e69a0b39e5fe9.png",
     "website": "https://goclicks.ai/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "ZH, Switzerland",
     "long_description": "Clicks is the AI-native BPO backed by Y Combinator. We replace traditional BPOs and shared service centers by automating back-office work with AI agents that operate your existing tools and follow your existing processes. We achieve higher accuracy and faster turn-around times at a fraction of the cost, with SOC 2 Type 2 and HIPAA compliance built in.",
     "one_liner": "AI agents for your back-office operations.",
     "team_size": 8,
@@ -34241,8 +34074,8 @@
       "Productivity"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Switzerland",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -35639,6 +35472,48 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/revnu.json"
   },
   {
+    "id": 31858,
+    "name": "Torus",
+    "slug": "torus",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/79a2f7b5a083998db3fcc9309c0435a2ccb05016.png",
+    "website": "https://www.usetorus.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Torus lets engineering firms and project owners build infrastructure 10x faster to reindustrialize America and the West. \r\n\r\nWe're working with multiple Fortune 500 companies to build critical infrastructure including data centers and critical energy installations. ",
+    "one_liner": "Legora for physical engineering firms",
+    "team_size": 5,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1783552199,
+    "tags": [
+      "Construction",
+      "Energy",
+      "Enterprise Software",
+      "AI",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/torus",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/torus.json"
+  },
+  {
     "id": 31989,
     "name": "Pango",
     "slug": "pango",
@@ -35683,91 +35558,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/pango.json"
   },
   {
-    "id": 32089,
-    "name": "Hoplite",
-    "slug": "hoplite",
-    "former_names": [
-      "Carbon Copy",
-      "Carboncopy",
-      "Blueprints"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/84001380aee4b56dced372e0c8332cb0c9adf699.png",
-    "website": "https://hoplite.sh",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "Effortlessly deploy cloud software factories.",
-    "team_size": 2,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Consumer Finance",
-    "launched_at": 1782199103,
-    "tags": [
-      "Developer Tools",
-      "Cloud Computing",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Consumer Finance"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/hoplite",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/hoplite.json"
-  },
-  {
-    "id": 32127,
-    "name": "Perceptron ML",
-    "slug": "perceptron-ml",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/78fd0973779baafd178a4b5e1230878b341cb14b.png",
-    "website": "https://perceptronml.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Perceptron ML tracks anything you want, anywhere it happens. Tell us in plain English what matters, new lawsuits, layoffs, price drops, listings, RFPs, breaking news, and we watch the news, filings, databases, and the open web for it. You get notified instantly, hourly, daily, or weekly, by email, on a live dashboard, or directly into your agents and workflows through our API and MCP.",
-    "one_liner": "Live alerts for anything happening in the world.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1782500527,
-    "tags": [
-      "B2B",
-      "Automation",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/perceptron-ml",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/perceptron-ml.json"
-  },
-  {
     "id": 32134,
     "name": "Parasma",
     "slug": "parasma",
@@ -35807,47 +35597,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/parasma",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/parasma.json"
-  },
-  {
-    "id": 32155,
-    "name": "Rex",
-    "slug": "rex-inc",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b14c16514ac7654483b96e54e1bf49a45714e8f6.png",
-    "website": "https://www.rex.inc",
-    "all_locations": "London, England, United Kingdom",
-    "long_description": "Rex is an AI-native service for order to cash. We replace people-heavy operations with AI agents that continuously manage invoices, customers and exceptions.\r\n\r\nOrder to cash is a $60B outsourced function because the work is too messy for traditional automation. Every customer has different context, exceptions do not follow clean rules, and the next step is often buried in emails, portals, handoffs, or someone’s memory. Rex agents run continuously in the background and resolve work to SLA standards so cash keeps moving. We're live with pre-IPO tech companies, managing  >$500m in receivables from F100 companies, cutting manual follow-up cycles from weeks to hours.\r\n\r\nWe founded Rex after spending four years building Sequence, an a16z-backed finance ops platform, from zero to Series A — where we saw firsthand that at-scale, O2C still runs on manual labour.\r\n\r\nRex is the #1 winner of the Vercel AI Accelerator out of 2,500 teams, selected by Guillermo Rauch and leaders from OpenAI, Anthropic, Browserbase and more.",
-    "one_liner": "AI Operations Partner for Enterprise Order to Cash",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1779903831,
-    "tags": [
-      "B2B",
-      "Enterprise Software",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United Kingdom",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/rex-inc",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/rex-inc.json"
   },
   {
     "id": 32167,
@@ -36019,6 +35768,98 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/truffle.json"
   },
   {
+    "id": 32259,
+    "name": "screenpipe",
+    "slug": "screenpipe",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/144e7207ec725036f43cc9a6b577a8320151e103.png",
+    "website": "https://screenpipe.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "screenpipe record and learns how you work and turns it into a searchable memory, SOPs, and AI agents. Data is stored on your device or where your team choose, open source.",
+    "one_liner": "Record how you work and turn that into agents",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1783386650,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Enterprise",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/screenpipe",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/screenpipe.json"
+  },
+  {
+    "id": 32262,
+    "name": "Alkera AI",
+    "slug": "alkera-ai",
+    "former_names": [
+      "Alkera AI, Inc.",
+      "Alkera AI",
+      "Alkera AI, Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eecc1a49c35b3a26973c35ce53d1c3f862a058cb.png",
+    "website": "https://alkera.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Alkera is a data engineering and data science agent that works in your IDE or CLI. If you’re tired of agents taking forever just to produce false, or even dangerous, reports about your data, then Alkera is for you. Our agent is equipped with your data’s history and lineage, your team’s knowledge, and tailored plugins for data apps such as Snowflake and dbt. Simply install and connect your services to begin doing trusted agentic data work. We also offer VPC & on-prem deployment options for when data can't leave your boundary.",
+    "one_liner": "Data engineering and data science agents that are reliable and safe",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1783697969,
+    "tags": [
+      "Developer Tools",
+      "Data Science",
+      "Data Engineering",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/alkera-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/alkera-ai.json"
+  },
+  {
     "id": 32520,
     "name": "Cerenovus",
     "slug": "cerenovus",
@@ -36061,6 +35902,47 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/cerenovus.json"
   },
   {
+    "id": 32526,
+    "name": "Talentpluto",
+    "slug": "talentpluto",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5ed12c5974a12759a4a83154066015d6c91fc4df.png",
+    "website": "https://talentpluto.com",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "Resumes made careers readable. LinkedIn made them searchable. Pluto makes them understood.\r\n\r\nProfessionals talk to Pluto for 10 minutes about what they’ve done, what they’re great at, and what they want next. Pluto makes that context discoverable to the right people and AI agents, helping them understand the professional more fully.\r\n\r\nFor hiring, companies tell Pluto who they want to meet. Pluto searches its network and the broader market, evaluates fit on both sides, privately confirms interest, and makes warm introductions when both sides want to connect.\r\n\r\n18K+ professionals have shared their career context with Pluto. 100+ companies, from fast-growing startups to decacorns, use Talentpluto to meet people with deeper context and confirmed interest.",
+    "one_liner": "AI voice agent that helps professionals get discovered",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Recruiting and Talent",
+    "launched_at": 1782230867,
+    "tags": [
+      "AI",
+      "Careers",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Recruiting and Talent"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/talentpluto",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/talentpluto.json"
+  },
+  {
     "id": 32552,
     "name": "6thSense",
     "slug": "6thsense",
@@ -36100,6 +35982,88 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/6thsense",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/6thsense.json"
+  },
+  {
+    "id": 32554,
+    "name": "Ooak Data",
+    "slug": "ooak-data",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ad1b7cce12014a7746a7f8b912560717f6e2f037.png",
+    "website": "https://ooakdata.com/",
+    "all_locations": "Paris, Île-de-France, France",
+    "long_description": "The promise of AI agents is still unmet in complex, real-world business environments. Our mission is to make it possible for agents to reliably accomplish concrete and useful tasks.\r\n\r\nThat’s why we're building **Alexandria,** the world's largest library of real-world business workflow datasets.",
+    "one_liner": "We build the world's largest library of real-world business workflow…",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1783922301,
+    "tags": [
+      "Reinforcement Learning",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "France",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ooak-data",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/ooak-data.json"
+  },
+  {
+    "id": 32624,
+    "name": "Fabraix",
+    "slug": "fabraix",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d3d83aa2013bbe6b22b37f316b294d0c717eea35.png",
+    "website": "https://fabraix.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Fabraix builds state-of-the-art AI red-teaming agents that continuously detect security vulnerabilities in customer-facing AI. Our product, Nyx, has already found vulnerabilities in agents at dozens of Fortune 500 companies. On AgentHarm, the leading benchmark for offensive AI security, Nyx achieved a 78% attack success rate, compared with 67% for GPT-5.6 Sol.\r\n\r\nCompanies usually pay for penetration tests one project at a time. They select which systems to include, give a team a few weeks to find vulnerabilities, and receive a report when the project ends. Testing everything this way is very expensive. Globally, penetration tests cover only 26% of the software attack surface.\r\n\r\nAI agents can change more often than teams can test them. A new model, prompt, tool, permission, or data source can change what an agent does, even when the application code stays the same. The report describes only the version that was tested. AI is also increasing how much software companies produce and how often it changes.\r\n\r\nWe built Nyx to automate this work. It does three things:\r\n1. Nyx connects through the same interfaces customers use. It tests chat, voice, browser, and coding agents without source code or a special integration.\r\n2. It draws on more than 10,000 jailbreaks that we have collected and classified, the largest such library we know of.\r\n3. It uses each response to decide what to try next and can pursue a promising approach for hundreds of turns. In our tests, these adaptive attacks succeeded 20 times as often as attacks that were replayed unchanged or stopped after a fixed number of turns.\r\n\r\nNyx often finds its first vulnerability within minutes or hours rather than days or weeks. Because the work is automated, companies can repeat the test with every change and at much lower cost.\r\n\r\nWe're also the team behind ACE (Adversarial Cost to Exploit), a benchmark that measures AI security in terms of how much it costs attackers to break an AI system; providing a game-theoretic framework to understand how motivated a rational attacker would be in exploiting the system.",
+    "one_liner": "The world's frontier hacker for AI agents.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1783913331,
+    "tags": [
+      "Reinforcement Learning",
+      "Cybersecurity",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/fabraix",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/fabraix.json"
   },
   {
     "id": 32650,
@@ -36184,6 +36148,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lato",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/lato.json"
+  },
+  {
+    "id": 32781,
+    "name": "Isengard Industries Inc",
+    "slug": "isengard-industries-inc",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/61edd7196dfa0843151f208bc6c91a2bd788bc94.png",
+    "website": "http://isengardindustries.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Isengard Industries is not another drone company.\r\n\r\nWe build sovereign production: the means for allied nations to make precision-strike and counter-drone systems by the thousand, on their own soil, at a fraction of what the primes charge.\r\n\r\nWe call it Weapons of Mass Production. The Arsenal of Democracy, rebuilt for the drone age.\r\n\r\nMore to come, and only where it helps. You know how to reach us.",
+    "one_liner": "Mass-produced AI strike systems and Counter-UAS",
+    "team_size": 30,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Defense",
+    "launched_at": 1782404945,
+    "tags": [
+      "Swarm Robotics",
+      "Unmanned Vehicle",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/isengard-industries-inc",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/isengard-industries-inc.json"
   },
   {
     "id": 32782,
@@ -36351,6 +36358,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/83-sciences",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/83-sciences.json"
+  },
+  {
+    "id": 33111,
+    "name": "Skymerse",
+    "slug": "skymerse",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dcac201e21fa70f9b3a8a1b827c8fd7759c25920.png",
+    "website": "https://skymerse.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Skymerse is building one AI system for airline flight operations: from planning and monitoring in the operations center to real-time support in the cockpit. It is developing specialized aeronautical models that understand the data, constraints, and procedures behind each flight, replacing fragmented tools and manual interpretation. Notamify, its first product, already serves airline customers and thousands pilots and aviation professionals.",
+    "one_liner": "Autopilot for Flight Operations",
+    "team_size": null,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Aviation and Space",
+    "launched_at": 1783640155,
+    "tags": [
+      "Airlines",
+      "Aerospace",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Aviation and Space"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/skymerse",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/skymerse.json"
   },
   {
     "id": 33249,

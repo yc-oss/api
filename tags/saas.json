@@ -21661,7 +21661,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -29634,7 +29634,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -34544,7 +34544,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7abc96adeb32772a65759b3c7fb44df00a0e11db.png",
     "website": "https://integrated-reasoning.com",
-    "all_locations": "San Francisco, CA, USA; Kilauea, HI, USA; Remote",
+    "all_locations": "San Diego, CA, USA; Kilauea, HI, USA; Remote",
     "long_description": "Integrated Reasoning builds efficient computer processors that are tailored to the memory access patterns of Karp's 21 NP-complete problems. We’re making it 100x - 10,000x faster to perform computations like scheduling airline pilots or optimizing packing layouts for shipping containers.",
     "one_liner": "Faster processors for solving NP-complete problems",
     "team_size": 1,
@@ -39924,15 +39924,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Strada automates insurance operations with AI agents. We deploy agents that handle policy servicing and claims operations end-to-end for some of the largest insurance carriers and brokers in the US. With native integrations into core policy, claims and agency management systems, we automate complex workflows with the domain expertise and compliance guardrails the industry demands.",
     "one_liner": "AI agents that run insurance operations",
-    "team_size": 18,
+    "team_size": 21,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1690570692,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Insurance"
+      "Insurance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47572,7 +47572,7 @@
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
-    "batch": "Spring 2026",
+    "batch": "Summer 2026",
     "status": "Active",
     "industries": [
       "B2B",
@@ -47588,7 +47588,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/textsidekick",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/textsidekick.json"
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/textsidekick.json"
   },
   {
     "id": 31441,
@@ -47849,18 +47849,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/144e7207ec725036f43cc9a6b577a8320151e103.png",
     "website": "https://screenpipe.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "screenpipe record and learns how you work and turns it into a searchable memory, SOPs, and AI agents. Open source, local.",
-    "one_liner": "Capture how you work and turn that into agents",
+    "long_description": "screenpipe record and learns how you work and turns it into a searchable memory, SOPs, and AI agents. Data is stored on your device or where your team choose, open source.",
+    "one_liner": "Record how you work and turn that into agents",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1783386650,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Enterprise",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47897,8 +47897,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea163685b0ad74eaec6a19637a061cdb5e63acae.png",
     "website": "https://www.usedefinite.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Definite builds AI agents for the financial back office. Before any output touches your systems, our verification engine checks it against the source documents. Numbers get recomputed from contracts, rate tables, and ledger records, and wrong outputs go back to the agent with the reason, like compiler errors. They don't ship.\r\n\r\nWe met our first year studying computer science at the University of Waterloo, and interned at Meta, Optiver, and BitGo, places where one unverified number moving through a system has real consequences. Talking to teams deploying agents, we kept seeing the same failure: back-office pilots that demo well but never graduate, because nobody trusts the outputs enough to stop re-checking them.\r\n\r\nToday teams check agent work with deterministic rules, an LLM judge, and human sampling. The middle is the gap. Judge models miss what the agent missed, rules only cover what someone wrote down, so a human reviews everything and the economics never improve.\r\n\r\nThis is hard because verification has to be independent of the model doing the work. Recomputing the output has to be done from source documents instead of asking a model to grade its own answer. \r\n\r\nEvery back office is getting agents. Whoever makes agent output trustworthy enough to run without a human behind it owns the layer everything else depends on. The same way finance built approval controls before money moves, verified execution becomes mandatory infrastructure. We build it, and the agents that run on it.",
-    "one_liner": "The most accurate financial agents",
+    "long_description": "Definite builds AI agents that generate the reports banks and financial institutions file with their regulators. Before any number lands in a filing, our verification engine checks it independently. Every line gets recomputed from ledger records and checked against a versioned rulebook, and wrong outputs go back to the agent with the reason, like compiler errors. They don't ship.\r\n\r\nWe met our first year studying computer science at the University of Waterloo, and interned at Meta, Optiver, and BitGo, places where one unverified number in a filing has real consequences. At BitGo, attestations proving customer assets matched the ledger were assembled by hand every period. At Optiver, daily regulatory numbers were rebuilt manually because nothing downstream took them on faith.\r\n\r\nToday a controller pulls data from the core system into Excel and maps it to the report line by line. By the regulators' own estimate, one quarterly filing takes weeks. The software banks buy for this validates formatting, not truth: a loan mapped to the wrong schedule line passes every check it runs, and an executive personally signs the result.\r\n\r\nThis is hard because verification has to be independent of the model doing the work. Recomputing every number from source records is the only check a regulator or auditor will accept, and it's why DeepSeek v3 with our engine beats GPT-5 on public reporting benchmarks.\r\n\r\nEvery regulated institution files these reports, forever. Whoever proves the numbers owns the layer the filings, the audits, and eventually the books themselves depend on. We build it, and the agents that run on it.",
+    "one_liner": "The most accurate financial agents for reporting",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",

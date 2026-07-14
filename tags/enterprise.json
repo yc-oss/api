@@ -2640,16 +2640,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f0b69f56464fb22aa0805117c2f93c2b32f1c717.png",
     "website": "https://www.stackai.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "With StackAI, any organization can deploy custom AI agents to automate its back-office operations. Our low-code interface allows teams of all levels of expertise to build internal tools.\r\n\r\nHundreds of companies use StackAI to build knowledge-based AI assistants, fill out RFPs and questionnaires, automate content QA, conduct due diligence research, and extract data from documents.",
+    "long_description": "StackAI partners with enterprises to deploy custom AI agents to automate their most complex back-office workflows. Teams at BAE Systems, Monzo, Morgan & Morgan, and Goodwill work with StackAI to bring AI Agents to their operations.\r\n\r\nEnterprises use StackAI no-code to automate large compliance audits, knowledge work, legal intake, due diligence research, and insurance claim underwriting.\r\n\r\nAcquired by Asana (NYSE:ASAN) in May 2026.",
     "one_liner": "The Enterprise AI Transformation Platform",
-    "team_size": 55,
+    "team_size": 62,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1673634480,
     "tags": [
+      "Artificial Intelligence",
       "Enterprise",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2664,9 +2664,9 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
-    "demo_day_video_public": false,
+    "demo_day_video_public": true,
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/stackai",
@@ -4842,6 +4842,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/shepherd-3.json"
   },
   {
+    "id": 32155,
+    "name": "Rex",
+    "slug": "rex-inc",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b14c16514ac7654483b96e54e1bf49a45714e8f6.png",
+    "website": "https://www.rex.inc",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "Rex is an AI-native service for order to cash. We replace people-heavy operations with AI agents that continuously manage invoices, customers and exceptions.\r\n\r\nOrder to cash is a $60B outsourced function because the work is too messy for traditional automation. Every customer has different context, exceptions do not follow clean rules, and the next step is often buried in emails, portals, handoffs, or someone’s memory. Rex agents run continuously in the background and resolve work to SLA standards so cash keeps moving. We're live with pre-IPO tech companies, managing  >$500m in receivables from F100 companies, cutting manual follow-up cycles from weeks to hours.\r\n\r\nWe founded Rex after spending four years building Sequence, an a16z-backed finance ops platform, from zero to Series A — where we saw firsthand that at-scale, O2C still runs on manual labour.\r\n\r\nRex is the #1 winner of the Vercel AI Accelerator out of 2,500 teams, selected by Guillermo Rauch and leaders from OpenAI, Anthropic, Browserbase and more.",
+    "one_liner": "AI Operations Partner for Enterprise Order to Cash",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1779903831,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Enterprise",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rex-inc",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/rex-inc.json"
+  },
+  {
     "id": 32259,
     "name": "screenpipe",
     "slug": "screenpipe",
@@ -4849,18 +4891,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/144e7207ec725036f43cc9a6b577a8320151e103.png",
     "website": "https://screenpipe.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "screenpipe record and learns how you work and turns it into a searchable memory, SOPs, and AI agents. Open source, local.",
-    "one_liner": "Capture how you work and turn that into agents",
+    "long_description": "screenpipe record and learns how you work and turns it into a searchable memory, SOPs, and AI agents. Data is stored on your device or where your team choose, open source.",
+    "one_liner": "Record how you work and turn that into agents",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1783386650,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Enterprise",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

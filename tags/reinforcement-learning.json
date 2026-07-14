@@ -1217,6 +1217,88 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/grazemate.json"
   },
   {
+    "id": 32554,
+    "name": "Ooak Data",
+    "slug": "ooak-data",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ad1b7cce12014a7746a7f8b912560717f6e2f037.png",
+    "website": "https://ooakdata.com/",
+    "all_locations": "Paris, Île-de-France, France",
+    "long_description": "The promise of AI agents is still unmet in complex, real-world business environments. Our mission is to make it possible for agents to reliably accomplish concrete and useful tasks.\r\n\r\nThat’s why we're building **Alexandria,** the world's largest library of real-world business workflow datasets.",
+    "one_liner": "We build the world's largest library of real-world business workflow…",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1783922301,
+    "tags": [
+      "Reinforcement Learning",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "France",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ooak-data",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/ooak-data.json"
+  },
+  {
+    "id": 32624,
+    "name": "Fabraix",
+    "slug": "fabraix",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d3d83aa2013bbe6b22b37f316b294d0c717eea35.png",
+    "website": "https://fabraix.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Fabraix builds state-of-the-art AI red-teaming agents that continuously detect security vulnerabilities in customer-facing AI. Our product, Nyx, has already found vulnerabilities in agents at dozens of Fortune 500 companies. On AgentHarm, the leading benchmark for offensive AI security, Nyx achieved a 78% attack success rate, compared with 67% for GPT-5.6 Sol.\r\n\r\nCompanies usually pay for penetration tests one project at a time. They select which systems to include, give a team a few weeks to find vulnerabilities, and receive a report when the project ends. Testing everything this way is very expensive. Globally, penetration tests cover only 26% of the software attack surface.\r\n\r\nAI agents can change more often than teams can test them. A new model, prompt, tool, permission, or data source can change what an agent does, even when the application code stays the same. The report describes only the version that was tested. AI is also increasing how much software companies produce and how often it changes.\r\n\r\nWe built Nyx to automate this work. It does three things:\r\n1. Nyx connects through the same interfaces customers use. It tests chat, voice, browser, and coding agents without source code or a special integration.\r\n2. It draws on more than 10,000 jailbreaks that we have collected and classified, the largest such library we know of.\r\n3. It uses each response to decide what to try next and can pursue a promising approach for hundreds of turns. In our tests, these adaptive attacks succeeded 20 times as often as attacks that were replayed unchanged or stopped after a fixed number of turns.\r\n\r\nNyx often finds its first vulnerability within minutes or hours rather than days or weeks. Because the work is automated, companies can repeat the test with every change and at much lower cost.\r\n\r\nWe're also the team behind ACE (Adversarial Cost to Exploit), a benchmark that measures AI security in terms of how much it costs attackers to break an AI system; providing a game-theoretic framework to understand how motivated a rational attacker would be in exploiting the system.",
+    "one_liner": "The world's frontier hacker for AI agents.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1783913331,
+    "tags": [
+      "Reinforcement Learning",
+      "Cybersecurity",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/fabraix",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/fabraix.json"
+  },
+  {
     "id": 32988,
     "name": "Markov",
     "slug": "markov",
