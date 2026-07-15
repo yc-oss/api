@@ -15404,7 +15404,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2015",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Marketing"
@@ -15415,7 +15415,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -26511,7 +26511,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2018",
     "status": "Active",
@@ -49119,7 +49119,7 @@
     "all_locations": "Remote",
     "long_description": "Infracost shifts cloud costs left and makes FinOps proactive. It sits in the engineering workflow (CI/CD), and shows the cost impact of code changes (IaC) before the code is shipped to production. This catches costly mistakes before any money has been spent. It also checks to make sure all resources are tagged with your set tagging policy, and runs checks on the code against our FinOps policy packs, ensuring best practices are followed (e.g. using Graviton processors and storage lifecycle rules).\r\n\r\nThis creates a cost-aware engineering culture.",
     "one_liner": "Shift FinOps Left: Proactively Find & Fix Cloud Cost Issues",
-    "team_size": 20,
+    "team_size": 25,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1613727779,
@@ -51742,7 +51742,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -58282,7 +58282,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -61739,7 +61739,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -70727,7 +70727,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -72665,7 +72665,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -81153,7 +81153,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -85555,7 +85555,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -87743,7 +87743,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -88535,6 +88535,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/leaping",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/leaping.json"
+  },
+  {
+    "id": 29281,
+    "name": "Breez Labs",
+    "slug": "breez-labs",
+    "former_names": [
+      "Bree",
+      "Breez",
+      "MathDash"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ec49a1c12b0b025bec7371a71c990514b23fe37.png",
+    "website": "https://www.breezlabs.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Helping Companies Deploy Email Agents in High Trust Domains",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1710118531,
+    "tags": [
+      "Artificial Intelligence"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/breez-labs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/breez-labs.json"
   },
   {
     "id": 29283,
@@ -101656,11 +101699,11 @@
     "name": "Rulebase",
     "slug": "rulebase",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9bbe1673896b690961165f8406e0d96d1d646c62.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7bd0ab199d3e881821eeccd658d4f0847f9d9345.png",
     "website": "https://rulebase.co",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Rulebase builds AI coworkers that help banks and fintechs review 100% of customer interactions in real time. Our agents flag compliance breaches, high-risk issues, and quality gaps across calls, chats, and emails — then route them to the right teammates. The result: up to 30% fewer escalations and QA cycles reduced from hours to minutes.\r\n",
-    "one_liner": "AI agents for financial services.",
+    "long_description": "We build AI agents for fintechs that own accounts from approved to transacting, chasing over WhatsApp, email, and SMS, and run customer ops: reviewing 100% of interactions, routing issues, coaching agents. Rho, Qonto, and Lesaka see 120% more recovered accounts and 99% less manual QA.",
+    "one_liner": "Revenue workforce for financial services",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
@@ -104224,10 +104267,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d8702327beeb6c4e9700c883d54481531ce4f3b.png",
     "website": "https://superglue.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "superglue replaces brittle SQL scripts, cron jobs, and one-off connectors that power enterprise operations with clean, versioned syncs you can actually understand and trust. It rebuilds the logic behind integrations, so migrating systems, adding tools, or scaling processes no longer breaks everything. Companies running on superglue roll out AI projects faster, spend less on maintenance, and future-proof their business for continuous optimization.",
-    "one_liner": "AI that fixes enterprise glue",
-    "team_size": 4,
+    "all_locations": "BY, Germany",
+    "long_description": "superglue learns how your systems work from your company's knowledge and performs the implementation that normally requires human coordination and engineering work.\r\n\r\nImplement NetSuite, Sage Intacct, SAP, Business Central or Acumatica in days. Agents map and migrate legacy data, configure the system, and keep data in sync post go-live.\r\nConnect ERP, CRM, databases, and internal systems to AI platforms like Claude. Create governed data access for AI agents and track data usage across your org.\r\nConnect customer systems, import historical data and get new integrations live in hours. Let agents manage the entire implementation process end-to-end.\r\n",
+    "one_liner": "connect, migrate and implement enterprise systems",
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1737761136,
@@ -104249,8 +104292,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Germany",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -110237,51 +110280,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/anana.json"
   },
   {
-    "id": 30487,
-    "name": "IRBC",
-    "slug": "irbc",
-    "former_names": [
-      "Lyra"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e7d307e10d74fa01d4fd34d5f8ea0755540c4046.png",
-    "website": "https://irbc.com/",
-    "all_locations": "New York City, NY, USA",
-    "long_description": "AI notetakers clutter meetings. Multiple tabs separate knowledge.\r\nLyra brings meetings and work together in one clean workspace.\r\nYou can work on docs with AI and your team live, no screenshare required. Create follow-ups and action items as you talk. Ask your meeting questions after the call. Access auto-transcribed calls and instant summaries. Everything stays in one place with full context across every meeting.",
-    "one_liner": "AI native meeting platform",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1746417759,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Customer Success",
-      "Sales",
-      "Telecommunications"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/irbc",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/irbc.json"
-  },
-  {
     "id": 30488,
     "name": "Theta",
     "slug": "theta",
@@ -113835,16 +113833,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2793bc4802e1c1cddfc383aed3ac255ec33a0465.png",
     "website": "https://tesora.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tesora builds agents for actuaries at P&C carriers, reinsurers, and MGAs. The agentic workbench ingests loss runs, SOVs, broker submissions, and SERFF filings, then builds, audits, and deploys raters and pricing analyses with a SOX-grade audit trail and ASOP-aligned reviews. Chief actuaries and heads of pricing use Tesora to replace the spreadsheet-and-email assembly between an actuarial idea and a deployed rate. ",
+    "long_description": "Tesora builds frontier AI agents for actuaries at P&C carriers, reinsurers, and MGAs. The agents handle the assembly, pulling the data, running the method, and deploying the rater, while you review the work and make every call. We deploy inside the stack you already run, on your infra and under your IT team's control, with no shared servers and nothing to rip out. Your data never trains our models, or anyone else's. We treat this as a partnership so we stay hands-on until the work is live and holding up in production. That standard runs through our security posture too: SOC 2 Type II certified, with a full audit trail behind every change.\r\n\r\nThe part of the job that matters is actuarial judgment, and we automate everything around it so you get back to the work only you can do. Built by AI technologists and actuaries who want to see this exist and backed by Y Combinator & other top investors.",
     "one_liner": "Frontier AI for Actuaries",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1755571936,
     "tags": [
-      "Artificial Intelligence",
       "API",
-      "Insurance"
+      "Insurance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -115051,8 +115049,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd794dace414f8acdb113022db360874e7706519.png",
     "website": "https://omnara.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Omnara brings Claude Code and Codex to your phone. Start a coding session on your desktop, then seamlessly hand off to mobile and keep building whether you're commuting, traveling, or away from your desk. Code in local or remote environments with full context preservation across devices. Plus, use voice to code hands-free by having natural conversations with Omnara to build, debug, and ship from anywhere.\r\n",
-    "one_liner": "Mobile & Web Interface for Claude Code & Codex",
+    "long_description": "Omnara is an open-source, model-agnostic control plane for managed agents. One API to deploy, run, and control them. Self-host it, or use our managed cloud.\r\n",
+    "one_liner": "The Control Plane for Agents",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -118845,7 +118843,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -119864,7 +119862,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1543e40091902a20ba3f9f49ea46c17e0b60e86a.png",
     "website": "https://denki.ai",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "London, England, United Kingdom",
     "long_description": "Automate internal auditing (planning, testing, documenting) to comply better with financial regulations.\r\n\r\nDenki performs audit work with 99% software, 1% services:\r\n\r\n✔️ Works on existing systems (e.g. Auditboard, Workiva, ERPs)\r\n✔️ Automates Control processes (e.g. collects evidence, runs walkthrough interviews, tests)\r\n✔️ Records every step for traceability (workpapers w/ full audit trace)\r\n\r\nFocused on SOX programs and financial regulations (SEC Rules etc.)",
     "one_liner": "The full-stack AI financial audit firm",
     "team_size": 3,
@@ -119888,8 +119886,8 @@
       "Finance and Accounting"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "United Kingdom",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -120398,7 +120396,7 @@
       "zag.dev",
       "Zag"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cc431c735ff0142390b1e4f1f14cce038390f6cc.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/714f71e97009698c591e79370e41cb52734e724e.png",
     "website": "https://antigen.sh/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Antigen is an AI adversary for the enterprise. It maps, exploits, and secures your attack surface through nightly automated offensive testing and monthly human red team assessments. Every finding is delivered with traces, reproduction steps, and remediation directly in GitHub, Linear, or the Antigen Platform.\r\n\r\nWe work with companies in financial services, healthcare, retail, and government where security is trust.\r\n\r\nWe're backed by Lightspeed, DST Global, and Susa Ventures.",
@@ -120408,8 +120406,8 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1759979466,
     "tags": [
-      "Artificial Intelligence",
-      "Cybersecurity"
+      "Cybersecurity",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -122963,8 +122961,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/937df36cb9a1992b6e2ab4f4415451f1ad6f7174.png",
     "website": "https://fern.bot",
     "all_locations": "",
-    "long_description": "Enabling physical AI at scale.",
-    "one_liner": "Enabling physical AI at scale.",
+    "long_description": "Fern provides RL environments for robotics companies powered by a foundational world model. Companies can plug and play their robot policies completely in software with varying starting scenes of their production environment, and we'll produce RL heads on top of your existing policies to improve speed and success rate. Our customers get a continual learning flywheel where their production robots improve every week.",
+    "one_liner": "RL environments for robotics companies",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -122990,7 +122988,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": true,
+    "question_answers": false,
     "url": "https://www.ycombinator.com/companies/fern-bot",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/fern-bot.json"
   },
@@ -126029,7 +126027,7 @@
     "all_locations": "New York City, NY, USA",
     "long_description": "Litmus is the most accurate read on how an engineer actually builds. We evaluate candidates through async technical assessments built from your own tech context (repos, tickets, and job descriptions), generated from scratch and scoped as real end-to-end features. Candidates work in their own setup with all their tools including AI, while we track and evaluate their process and output. Every submission runs in a sandbox, and grading is tuned to your company across tool fluency, process, and outcome. You get a real read on how someone actually builds, not just how they interview.",
     "one_liner": "Run an async work trial on every engineer you interview.",
-    "team_size": 2,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1783537104,
@@ -130749,7 +130747,7 @@
     "website": "https://prized.dev",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Prized lets non-engineers build, deploy, and share secure internal tools with AI, no engineering required. You don't need to know where the data lives, what APIs to use, or which connectors you need. Just describe what you want (a customer lookup, a dashboard, an approval flow), and Prized builds the tool on top of the right company data inside a governed boundary.\r\n\r\nThe people who feel the pain of missing internal tools most are non-engineers. They understand the workflow best but are blocked by the software layer, so they wait on engineering, duct-tape spreadsheets together, or increasingly rip company data into Claude Code and Cursor with no thought to permissions, sharing, or governance.\r\n\r\nPrized makes security the default, enforced in the infrastructure rather than left to whoever built the tool. Each tool gets access only to the tables and integrations it was explicitly granted, credentials are workspace-scoped so tools can't cross org boundaries, and outbound calls go through a controlled layer. \r\n\r\nAs an employee builds and shares, a teammate forks it and re-points it at their own data, and over time the company builds up a library of governed tools it actually owns.\r\n\r\nHudson was founding engineer at Gander (F24, acquired by Archer), then full-stack at Suno. Marinos studied CS and ME at Stanford and was on the same Gander team.",
-    "one_liner": "Internal tools, built by the people who use them.",
+    "one_liner": "Lovable for internal tools",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -131376,47 +131374,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/cerenovus.json"
   },
   {
-    "id": 32526,
-    "name": "Talentpluto",
-    "slug": "talentpluto",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5ed12c5974a12759a4a83154066015d6c91fc4df.png",
-    "website": "https://talentpluto.com",
-    "all_locations": "New York City, NY, USA",
-    "long_description": "Resumes made careers readable. LinkedIn made them searchable. Pluto makes them understood.\r\n\r\nProfessionals talk to Pluto for 10 minutes about what they’ve done, what they’re great at, and what they want next. Pluto makes that context discoverable to the right people and AI agents, helping them understand the professional more fully.\r\n\r\nFor hiring, companies tell Pluto who they want to meet. Pluto searches its network and the broader market, evaluates fit on both sides, privately confirms interest, and makes warm introductions when both sides want to connect.\r\n\r\n18K+ professionals have shared their career context with Pluto. 100+ companies, from fast-growing startups to decacorns, use Talentpluto to meet people with deeper context and confirmed interest.",
-    "one_liner": "AI voice agent that helps professionals get discovered",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Recruiting and Talent",
-    "launched_at": 1782230867,
-    "tags": [
-      "AI",
-      "Careers",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Recruiting and Talent"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/talentpluto",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/talentpluto.json"
-  },
-  {
     "id": 32527,
     "name": "machine0",
     "slug": "machine0",
@@ -131471,8 +131428,8 @@
     "subindustry": "B2B",
     "launched_at": 1783922301,
     "tags": [
-      "Reinforcement Learning",
-      "AI"
+      "Artificial Intelligence",
+      "Reinforcement Learning"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -131797,7 +131754,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e5b4807040a02ba35de45355e3c51fd115e82199.png",
     "website": "http://hyperprobe.co",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "If your team uses Cursor, Claude Code, or Codex to ship, you've felt it: the AI is great at writing code, mediocre at debugging it. \r\n\r\nWhen something breaks in prod, you're back to grepping logs, adding console.logs, redeploying, and hoping the AI's guess is right.\r\n\r\nHyperProbe fixes this. Your coding agent dynamically drops non-breaking probes into your running services, straight from your IDE. \r\n\r\nWhen a probe fires, HyperProbe captures and sanitises the exact variable state, feeding your agent real evidence instead of flat logs. \r\n\r\nThis fixes prod incidents in minutes from the exact same window where agents write code, without ever redeploying to add a print statement.\r\n\r\nUnder 1% CPU overhead. Automatic PII redaction. \r\n\r\nBuilt for backend teams shipping AI-written code today. Install in 60 seconds, see your first investigation in 10 minutes.\r\n\r\nThat's why we call HyperProbe the runtime data layer for AI-native software.\r\n\r\n",
+    "long_description": "If your team uses Cursor, Claude Code, or Codex to ship, you've felt it: the AI is great at writing code, mediocre at debugging it. When something breaks in prod, you're back to grepping logs, adding console.logs, redeploying, and hoping the AI's guess is right.\r\n\r\nHyperProbe fixes this. Your coding agent dynamically drops non-breaking probes into your running services, straight from your IDE. When a probe fires, HyperProbe captures and sanitises the exact variable state, feeding your agent real evidence instead of flat logs. \r\n\r\nThis fixes prod incidents in minutes from the exact same window where agents write code, without ever redeploying to add a print statement. Under 1% CPU overhead. Automatic PII redaction. \r\n\r\nBuilt for backend teams shipping AI-written code today. Install in 60 seconds, see your first investigation in 10 minutes. That's why we call HyperProbe the runtime data layer for AI-native software.\r\n\r\n",
     "one_liner": "Your coding agent writes code. Now let it fix prod too.",
     "team_size": 8,
     "industry": "B2B",
@@ -132082,6 +132039,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/osseus",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/osseus.json"
+  },
+  {
+    "id": 33573,
+    "name": "hardware intelligence",
+    "slug": "hardware-intelligence",
+    "former_names": [
+      "Viki",
+      "hi",
+      "Hardware Intelligence"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c2193e7412febe2e812491e1a73617bb09eb897.png",
+    "website": "https://hardwareintelligence.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Agentic chip design with ultrafast feedback loops",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1781119605,
+    "tags": [
+      "Developer Tools",
+      "Hardware",
+      "Enterprise Software",
+      "Semiconductors",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hardware-intelligence",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/hardware-intelligence.json"
   },
   {
     "id": 33738,

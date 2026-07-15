@@ -3224,7 +3224,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -14891,7 +14891,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -15588,7 +15588,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -22043,7 +22043,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -22369,6 +22369,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/agentic-labs-2",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/agentic-labs-2.json"
+  },
+  {
+    "id": 29281,
+    "name": "Breez Labs",
+    "slug": "breez-labs",
+    "former_names": [
+      "Bree",
+      "Breez",
+      "MathDash"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ec49a1c12b0b025bec7371a71c990514b23fe37.png",
+    "website": "https://www.breezlabs.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Helping Companies Deploy Email Agents in High Trust Domains",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1710118531,
+    "tags": [
+      "Artificial Intelligence"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/breez-labs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/breez-labs.json"
   },
   {
     "id": 29288,
@@ -33038,18 +33081,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e7d307e10d74fa01d4fd34d5f8ea0755540c4046.png",
     "website": "https://irbc.com/",
     "all_locations": "New York City, NY, USA",
-    "long_description": "AI notetakers clutter meetings. Multiple tabs separate knowledge.\r\nLyra brings meetings and work together in one clean workspace.\r\nYou can work on docs with AI and your team live, no screenshare required. Create follow-ups and action items as you talk. Ask your meeting questions after the call. Access auto-transcribed calls and instant summaries. Everything stays in one place with full context across every meeting.",
-    "one_liner": "AI native meeting platform",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
+    "long_description": "IRBC is a financial technology company building an AI-native financial institution for global businesses and their AI agents. We believe stablecoins are to finance what AI is to software. IRBC enables businesses across 160 countries to bank, earn yield, spend with Visa credit cards, make instant global payments, and process payments like a local. All powered by programmable money and accessible through chat interfaces and a CLI.",
+    "one_liner": "AI-native financial institution for global businesses + agents.",
+    "team_size": 3,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Banking and Exchange",
     "launched_at": 1746417759,
     "tags": [
       "Artificial Intelligence",
+      "Fintech",
       "B2B",
-      "Customer Success",
-      "Sales",
-      "Telecommunications"
+      "Neobank"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -33058,8 +33100,8 @@
     "batch": "Spring 2025",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Sales"
+      "Fintech",
+      "Banking and Exchange"
     ],
     "regions": [
       "United States of America",
@@ -34853,49 +34895,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/deepaware-ai-robotics-center-of-silicon-valley.json"
   },
   {
-    "id": 30663,
-    "name": "Tesora",
-    "slug": "tesora",
-    "former_names": [
-      "Tesora AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2793bc4802e1c1cddfc383aed3ac255ec33a0465.png",
-    "website": "https://tesora.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tesora builds agents for actuaries at P&C carriers, reinsurers, and MGAs. The agentic workbench ingests loss runs, SOVs, broker submissions, and SERFF filings, then builds, audits, and deploys raters and pricing analyses with a SOX-grade audit trail and ASOP-aligned reviews. Chief actuaries and heads of pricing use Tesora to replace the spreadsheet-and-email assembly between an actuarial idea and a deployed rate. ",
-    "one_liner": "Frontier AI for Actuaries",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1755571936,
-    "tags": [
-      "Artificial Intelligence",
-      "API",
-      "Insurance"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tesora",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/tesora.json"
-  },
-  {
     "id": 30664,
     "name": "Kestroll",
     "slug": "kestroll",
@@ -35146,51 +35145,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/twentytwo.json"
   },
   {
-    "id": 30703,
-    "name": "Physical Turing",
-    "slug": "physical-turing",
-    "former_names": [
-      "Riff",
-      "GoRiff"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c87367cd52d809c0b9a6f05ef79f3c162b4dd082.png",
-    "website": "https://physicalturing.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Physical Turing tests humanoids in the real world and returns actionable failure data before deployment.\r\n\r\nWe procure, staff, and operate a wide range of target environments for real-world rollouts, helping robot makers, model companies, and enterprises continuously evaluate where humanoids succeed, where they fail, and what needs to improve before each deployment.",
-    "one_liner": "Pre-deployment lab for humanoid robots",
-    "team_size": 2,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1752283172,
-    "tags": [
-      "Artificial Intelligence",
-      "Robotics",
-      "B2B",
-      "Retail"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/physical-turing",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/physical-turing.json"
-  },
-  {
     "id": 30712,
     "name": "Relling",
     "slug": "relling",
@@ -35412,8 +35366,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd794dace414f8acdb113022db360874e7706519.png",
     "website": "https://omnara.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Omnara brings Claude Code and Codex to your phone. Start a coding session on your desktop, then seamlessly hand off to mobile and keep building whether you're commuting, traveling, or away from your desk. Code in local or remote environments with full context preservation across devices. Plus, use voice to code hands-free by having natural conversations with Omnara to build, debug, and ship from anywhere.\r\n",
-    "one_liner": "Mobile & Web Interface for Claude Code & Codex",
+    "long_description": "Omnara is an open-source, model-agnostic control plane for managed agents. One API to deploy, run, and control them. Self-host it, or use our managed cloud.\r\n",
+    "one_liner": "The Control Plane for Agents",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -37978,50 +37932,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/lunabill.json"
   },
   {
-    "id": 30999,
-    "name": "Antigen",
-    "slug": "antigen",
-    "former_names": [
-      "Claybird",
-      "zag.dev",
-      "Zag"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cc431c735ff0142390b1e4f1f14cce038390f6cc.png",
-    "website": "https://antigen.sh/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Antigen is an AI adversary for the enterprise. It maps, exploits, and secures your attack surface through nightly automated offensive testing and monthly human red team assessments. Every finding is delivered with traces, reproduction steps, and remediation directly in GitHub, Linear, or the Antigen Platform.\r\n\r\nWe work with companies in financial services, healthcare, retail, and government where security is trust.\r\n\r\nWe're backed by Lightspeed, DST Global, and Susa Ventures.",
-    "one_liner": "Continuous offensive security for the enterprise.",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1759979466,
-    "tags": [
-      "Artificial Intelligence",
-      "Cybersecurity"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/antigen",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/antigen.json"
-  },
-  {
     "id": 31008,
     "name": "Moss",
     "slug": "moss",
@@ -40285,6 +40195,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/cerenovus.json"
   },
   {
+    "id": 32526,
+    "name": "Pluto",
+    "slug": "talentpluto",
+    "former_names": [
+      "Talentpluto"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5ed12c5974a12759a4a83154066015d6c91fc4df.png",
+    "website": "https://talentpluto.com",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "Resumes made careers readable. LinkedIn made them searchable. Pluto makes them understood.\r\n\r\nProfessionals talk to Pluto for 10 minutes about what they’ve done, what they’re great at, and what they want next. Pluto makes that context discoverable to the right people and AI agents, helping them understand the professional more fully.\r\n\r\nFor hiring, companies tell Pluto who they want to meet. Pluto searches its network and the broader market, evaluates fit on both sides, privately confirms interest, and makes warm introductions when both sides want to connect.\r\n\r\n18K+ professionals have shared their career context with Pluto. 100+ companies, from fast-growing startups to decacorns, use Pluto to meet people with deeper context and confirmed interest.",
+    "one_liner": "AI voice agent that helps professionals get discovered",
+    "team_size": 5,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Job and Career Services",
+    "launched_at": 1782230867,
+    "tags": [
+      "Artificial Intelligence",
+      "Careers",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Job and Career Services"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/talentpluto",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/talentpluto.json"
+  },
+  {
     "id": 32551,
     "name": "Bloomy",
     "slug": "bloomy",
@@ -40325,6 +40278,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bloomy",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/bloomy.json"
+  },
+  {
+    "id": 32554,
+    "name": "Ooak Data",
+    "slug": "ooak-data",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ad1b7cce12014a7746a7f8b912560717f6e2f037.png",
+    "website": "https://ooakdata.com/",
+    "all_locations": "Paris, Île-de-France, France",
+    "long_description": "The promise of AI agents is still unmet in complex, real-world business environments. Our mission is to make it possible for agents to reliably accomplish concrete and useful tasks.\r\n\r\nThat’s why we're building **Alexandria,** the world's largest library of real-world business workflow datasets.",
+    "one_liner": "We build the world's largest library of real-world business workflow…",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1783922301,
+    "tags": [
+      "Artificial Intelligence",
+      "Reinforcement Learning"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "France",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ooak-data",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/ooak-data.json"
   },
   {
     "id": 32617,

@@ -9018,7 +9018,7 @@
     "all_locations": "Remote",
     "long_description": "Infracost shifts cloud costs left and makes FinOps proactive. It sits in the engineering workflow (CI/CD), and shows the cost impact of code changes (IaC) before the code is shipped to production. This catches costly mistakes before any money has been spent. It also checks to make sure all resources are tagged with your set tagging policy, and runs checks on the code against our FinOps policy packs, ensuring best practices are followed (e.g. using Graviton processors and storage lifecycle rules).\r\n\r\nThis creates a cost-aware engineering culture.",
     "one_liner": "Shift FinOps Left: Proactively Find & Fix Cloud Cost Issues",
-    "team_size": 20,
+    "team_size": 25,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1613727779,
@@ -9771,7 +9771,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -20740,10 +20740,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d8702327beeb6c4e9700c883d54481531ce4f3b.png",
     "website": "https://superglue.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "superglue replaces brittle SQL scripts, cron jobs, and one-off connectors that power enterprise operations with clean, versioned syncs you can actually understand and trust. It rebuilds the logic behind integrations, so migrating systems, adding tools, or scaling processes no longer breaks everything. Companies running on superglue roll out AI projects faster, spend less on maintenance, and future-proof their business for continuous optimization.",
-    "one_liner": "AI that fixes enterprise glue",
-    "team_size": 4,
+    "all_locations": "BY, Germany",
+    "long_description": "superglue learns how your systems work from your company's knowledge and performs the implementation that normally requires human coordination and engineering work.\r\n\r\nImplement NetSuite, Sage Intacct, SAP, Business Central or Acumatica in days. Agents map and migrate legacy data, configure the system, and keep data in sync post go-live.\r\nConnect ERP, CRM, databases, and internal systems to AI platforms like Claude. Create governed data access for AI agents and track data usage across your org.\r\nConnect customer systems, import historical data and get new integrations live in hours. Let agents manage the entire implementation process end-to-end.\r\n",
+    "one_liner": "connect, migrate and implement enterprise systems",
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1737761136,
@@ -20765,8 +20765,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Germany",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -23331,8 +23331,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd794dace414f8acdb113022db360874e7706519.png",
     "website": "https://omnara.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Omnara brings Claude Code and Codex to your phone. Start a coding session on your desktop, then seamlessly hand off to mobile and keep building whether you're commuting, traveling, or away from your desk. Code in local or remote environments with full context preservation across devices. Plus, use voice to code hands-free by having natural conversations with Omnara to build, debug, and ship from anywhere.\r\n",
-    "one_liner": "Mobile & Web Interface for Claude Code & Codex",
+    "long_description": "Omnara is an open-source, model-agnostic control plane for managed agents. One API to deploy, run, and control them. Self-host it, or use our managed cloud.\r\n",
+    "one_liner": "The Control Plane for Agents",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -24418,7 +24418,7 @@
       "zag.dev",
       "Zag"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cc431c735ff0142390b1e4f1f14cce038390f6cc.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/714f71e97009698c591e79370e41cb52734e724e.png",
     "website": "https://antigen.sh/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Antigen is an AI adversary for the enterprise. It maps, exploits, and secures your attack surface through nightly automated offensive testing and monthly human red team assessments. Every finding is delivered with traces, reproduction steps, and remediation directly in GitHub, Linear, or the Antigen Platform.\r\n\r\nWe work with companies in financial services, healthcare, retail, and government where security is trust.\r\n\r\nWe're backed by Lightspeed, DST Global, and Susa Ventures.",
@@ -24428,8 +24428,8 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1759979466,
     "tags": [
-      "Artificial Intelligence",
-      "Cybersecurity"
+      "Cybersecurity",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -25993,7 +25993,7 @@
     "website": "https://prized.dev",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Prized lets non-engineers build, deploy, and share secure internal tools with AI, no engineering required. You don't need to know where the data lives, what APIs to use, or which connectors you need. Just describe what you want (a customer lookup, a dashboard, an approval flow), and Prized builds the tool on top of the right company data inside a governed boundary.\r\n\r\nThe people who feel the pain of missing internal tools most are non-engineers. They understand the workflow best but are blocked by the software layer, so they wait on engineering, duct-tape spreadsheets together, or increasingly rip company data into Claude Code and Cursor with no thought to permissions, sharing, or governance.\r\n\r\nPrized makes security the default, enforced in the infrastructure rather than left to whoever built the tool. Each tool gets access only to the tables and integrations it was explicitly granted, credentials are workspace-scoped so tools can't cross org boundaries, and outbound calls go through a controlled layer. \r\n\r\nAs an employee builds and shares, a teammate forks it and re-points it at their own data, and over time the company builds up a library of governed tools it actually owns.\r\n\r\nHudson was founding engineer at Gander (F24, acquired by Archer), then full-stack at Suno. Marinos studied CS and ME at Stanford and was on the same Gander team.",
-    "one_liner": "Internal tools, built by the people who use them.",
+    "one_liner": "Lovable for internal tools",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -26082,7 +26082,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e5b4807040a02ba35de45355e3c51fd115e82199.png",
     "website": "http://hyperprobe.co",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "If your team uses Cursor, Claude Code, or Codex to ship, you've felt it: the AI is great at writing code, mediocre at debugging it. \r\n\r\nWhen something breaks in prod, you're back to grepping logs, adding console.logs, redeploying, and hoping the AI's guess is right.\r\n\r\nHyperProbe fixes this. Your coding agent dynamically drops non-breaking probes into your running services, straight from your IDE. \r\n\r\nWhen a probe fires, HyperProbe captures and sanitises the exact variable state, feeding your agent real evidence instead of flat logs. \r\n\r\nThis fixes prod incidents in minutes from the exact same window where agents write code, without ever redeploying to add a print statement.\r\n\r\nUnder 1% CPU overhead. Automatic PII redaction. \r\n\r\nBuilt for backend teams shipping AI-written code today. Install in 60 seconds, see your first investigation in 10 minutes.\r\n\r\nThat's why we call HyperProbe the runtime data layer for AI-native software.\r\n\r\n",
+    "long_description": "If your team uses Cursor, Claude Code, or Codex to ship, you've felt it: the AI is great at writing code, mediocre at debugging it. When something breaks in prod, you're back to grepping logs, adding console.logs, redeploying, and hoping the AI's guess is right.\r\n\r\nHyperProbe fixes this. Your coding agent dynamically drops non-breaking probes into your running services, straight from your IDE. When a probe fires, HyperProbe captures and sanitises the exact variable state, feeding your agent real evidence instead of flat logs. \r\n\r\nThis fixes prod incidents in minutes from the exact same window where agents write code, without ever redeploying to add a print statement. Under 1% CPU overhead. Automatic PII redaction. \r\n\r\nBuilt for backend teams shipping AI-written code today. Install in 60 seconds, see your first investigation in 10 minutes. That's why we call HyperProbe the runtime data layer for AI-native software.\r\n\r\n",
     "one_liner": "Your coding agent writes code. Now let it fix prod too.",
     "team_size": 8,
     "industry": "B2B",
@@ -26157,6 +26157,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/openrelay",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/openrelay.json"
+  },
+  {
+    "id": 33573,
+    "name": "hardware intelligence",
+    "slug": "hardware-intelligence",
+    "former_names": [
+      "Viki",
+      "hi",
+      "Hardware Intelligence"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c2193e7412febe2e812491e1a73617bb09eb897.png",
+    "website": "https://hardwareintelligence.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Agentic chip design with ultrafast feedback loops",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1781119605,
+    "tags": [
+      "Developer Tools",
+      "Hardware",
+      "Enterprise Software",
+      "Semiconductors",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hardware-intelligence",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/hardware-intelligence.json"
   },
   {
     "id": 33838,

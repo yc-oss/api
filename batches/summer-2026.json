@@ -567,7 +567,7 @@
     "all_locations": "New York City, NY, USA",
     "long_description": "Litmus is the most accurate read on how an engineer actually builds. We evaluate candidates through async technical assessments built from your own tech context (repos, tickets, and job descriptions), generated from scratch and scoped as real end-to-end features. Candidates work in their own setup with all their tools including AI, while we track and evaluate their process and output. Every submission runs in a sandbox, and grading is tuned to your company across tool fluency, process, and outcome. You get a real read on how someone actually builds, not just how they interview.",
     "one_liner": "Run an async work trial on every engineer you interview.",
-    "team_size": 2,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1783537104,
@@ -1322,7 +1322,7 @@
     "website": "https://prized.dev",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Prized lets non-engineers build, deploy, and share secure internal tools with AI, no engineering required. You don't need to know where the data lives, what APIs to use, or which connectors you need. Just describe what you want (a customer lookup, a dashboard, an approval flow), and Prized builds the tool on top of the right company data inside a governed boundary.\r\n\r\nThe people who feel the pain of missing internal tools most are non-engineers. They understand the workflow best but are blocked by the software layer, so they wait on engineering, duct-tape spreadsheets together, or increasingly rip company data into Claude Code and Cursor with no thought to permissions, sharing, or governance.\r\n\r\nPrized makes security the default, enforced in the infrastructure rather than left to whoever built the tool. Each tool gets access only to the tables and integrations it was explicitly granted, credentials are workspace-scoped so tools can't cross org boundaries, and outbound calls go through a controlled layer. \r\n\r\nAs an employee builds and shares, a teammate forks it and re-points it at their own data, and over time the company builds up a library of governed tools it actually owns.\r\n\r\nHudson was founding engineer at Gander (F24, acquired by Archer), then full-stack at Suno. Marinos studied CS and ME at Stanford and was on the same Gander team.",
-    "one_liner": "Internal tools, built by the people who use them.",
+    "one_liner": "Lovable for internal tools",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -2201,7 +2201,7 @@
     "name": "Molagri",
     "slug": "molagri",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/73c2cb671f399e3f094f4caf701a63e06155fc4f.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/71eba8e2b8b0a262e4c76ef41e5ab46b59552e6d.png",
     "website": "https://molagri.com",
     "all_locations": "Toronto, ON, Canada",
     "long_description": "Molagri develops safer, more effective pesticides for agriculture.\r\n\r\nWe design biopesticides that hit a precise molecular target unique to pest insects, knocking out pests while sparing pollinators, beneficial insects, and the wider ecosystem. By modeling how pests are likely to evolve, we stay a step ahead of resistance, keeping our products effective against the pests of today and tomorrow. The higher efficacy and biobased production will also contribute to emissions reductions in both manufacturing and field use.\r\n\r\nOur founders are PhD lab mates from the University of Toronto who have worked together for six years and published in Nature Communications and Nature Microbiology. \r\n",
@@ -2284,20 +2284,22 @@
   },
   {
     "id": 32526,
-    "name": "Talentpluto",
+    "name": "Pluto",
     "slug": "talentpluto",
-    "former_names": [],
+    "former_names": [
+      "Talentpluto"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5ed12c5974a12759a4a83154066015d6c91fc4df.png",
     "website": "https://talentpluto.com",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Resumes made careers readable. LinkedIn made them searchable. Pluto makes them understood.\r\n\r\nProfessionals talk to Pluto for 10 minutes about what they’ve done, what they’re great at, and what they want next. Pluto makes that context discoverable to the right people and AI agents, helping them understand the professional more fully.\r\n\r\nFor hiring, companies tell Pluto who they want to meet. Pluto searches its network and the broader market, evaluates fit on both sides, privately confirms interest, and makes warm introductions when both sides want to connect.\r\n\r\n18K+ professionals have shared their career context with Pluto. 100+ companies, from fast-growing startups to decacorns, use Talentpluto to meet people with deeper context and confirmed interest.",
+    "long_description": "Resumes made careers readable. LinkedIn made them searchable. Pluto makes them understood.\r\n\r\nProfessionals talk to Pluto for 10 minutes about what they’ve done, what they’re great at, and what they want next. Pluto makes that context discoverable to the right people and AI agents, helping them understand the professional more fully.\r\n\r\nFor hiring, companies tell Pluto who they want to meet. Pluto searches its network and the broader market, evaluates fit on both sides, privately confirms interest, and makes warm introductions when both sides want to connect.\r\n\r\n18K+ professionals have shared their career context with Pluto. 100+ companies, from fast-growing startups to decacorns, use Pluto to meet people with deeper context and confirmed interest.",
     "one_liner": "AI voice agent that helps professionals get discovered",
     "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Recruiting and Talent",
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Job and Career Services",
     "launched_at": 1782230867,
     "tags": [
-      "AI",
+      "Artificial Intelligence",
       "Careers",
       "Conversational AI"
     ],
@@ -2308,8 +2310,8 @@
     "batch": "Summer 2026",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Recruiting and Talent"
+      "Consumer",
+      "Job and Career Services"
     ],
     "regions": [
       "United States of America",
@@ -2502,8 +2504,8 @@
     "subindustry": "B2B",
     "launched_at": 1783922301,
     "tags": [
-      "Reinforcement Learning",
-      "AI"
+      "Artificial Intelligence",
+      "Reinforcement Learning"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3403,7 +3405,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e5b4807040a02ba35de45355e3c51fd115e82199.png",
     "website": "http://hyperprobe.co",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "If your team uses Cursor, Claude Code, or Codex to ship, you've felt it: the AI is great at writing code, mediocre at debugging it. \r\n\r\nWhen something breaks in prod, you're back to grepping logs, adding console.logs, redeploying, and hoping the AI's guess is right.\r\n\r\nHyperProbe fixes this. Your coding agent dynamically drops non-breaking probes into your running services, straight from your IDE. \r\n\r\nWhen a probe fires, HyperProbe captures and sanitises the exact variable state, feeding your agent real evidence instead of flat logs. \r\n\r\nThis fixes prod incidents in minutes from the exact same window where agents write code, without ever redeploying to add a print statement.\r\n\r\nUnder 1% CPU overhead. Automatic PII redaction. \r\n\r\nBuilt for backend teams shipping AI-written code today. Install in 60 seconds, see your first investigation in 10 minutes.\r\n\r\nThat's why we call HyperProbe the runtime data layer for AI-native software.\r\n\r\n",
+    "long_description": "If your team uses Cursor, Claude Code, or Codex to ship, you've felt it: the AI is great at writing code, mediocre at debugging it. When something breaks in prod, you're back to grepping logs, adding console.logs, redeploying, and hoping the AI's guess is right.\r\n\r\nHyperProbe fixes this. Your coding agent dynamically drops non-breaking probes into your running services, straight from your IDE. When a probe fires, HyperProbe captures and sanitises the exact variable state, feeding your agent real evidence instead of flat logs. \r\n\r\nThis fixes prod incidents in minutes from the exact same window where agents write code, without ever redeploying to add a print statement. Under 1% CPU overhead. Automatic PII redaction. \r\n\r\nBuilt for backend teams shipping AI-written code today. Install in 60 seconds, see your first investigation in 10 minutes. That's why we call HyperProbe the runtime data layer for AI-native software.\r\n\r\n",
     "one_liner": "Your coding agent writes code. Now let it fix prod too.",
     "team_size": 8,
     "industry": "B2B",
@@ -3943,6 +3945,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/osseus",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/osseus.json"
+  },
+  {
+    "id": 33573,
+    "name": "hardware intelligence",
+    "slug": "hardware-intelligence",
+    "former_names": [
+      "Viki",
+      "hi",
+      "Hardware Intelligence"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c2193e7412febe2e812491e1a73617bb09eb897.png",
+    "website": "https://hardwareintelligence.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Agentic chip design with ultrafast feedback loops",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1781119605,
+    "tags": [
+      "Developer Tools",
+      "Hardware",
+      "Enterprise Software",
+      "Semiconductors",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hardware-intelligence",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/hardware-intelligence.json"
   },
   {
     "id": 33738,
