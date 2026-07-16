@@ -5467,10 +5467,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2019",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "Fintech",
       "Banking and Exchange"
@@ -5481,7 +5481,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -12300,7 +12300,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -21469,7 +21469,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": true,
     "demo_day_video_public": false,
     "app_answers": true,
@@ -24737,8 +24737,8 @@
   },
   {
     "id": 30349,
-    "name": "Hudson",
-    "slug": "hudson",
+    "name": "Tally",
+    "slug": "tallyhq",
     "former_names": [
       "Trestle",
       "Tally",
@@ -24748,10 +24748,11 @@
       "Argos",
       "Tally",
       "Hudson",
-      "Tally"
+      "Tally",
+      "Hudson"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/74005bf76a399816ee9bedbaa19c79324388a3fc.png",
-    "website": "https://www.meethudson.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/95f191208289dd979eacb9e65505248ad70ba4f8.png",
+    "website": "https://www.tallyhq.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
     "one_liner": "",
@@ -24778,8 +24779,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/hudson",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/hudson.json"
+    "url": "https://www.ycombinator.com/companies/tallyhq",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/tallyhq.json"
   },
   {
     "id": 30357,
@@ -26906,7 +26907,7 @@
     "name": "Allowance",
     "slug": "allowance",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fefdb05a7320e2952ac117dd8b969cf5bab55d0a.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c21d6adefff883f7581e72ca876529eba262eb64.png",
     "website": "https://useallowance.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Allowance lets AI agents make purchases on a user’s behalf without ever exposing your real card number.\r\n\r\nUsers approve purchases directly from their iPhone with customizable controls like spending limits, merchant restrictions, and expiration windows. Once approved, Allowance generates scoped, one-time payment credentials designed specifically for that transaction.\r\n\r\nThis enables AI agents to safely complete tasks like shopping, ordering food, booking reservations, or purchasing tickets while keeping humans in control of every payment.",
@@ -27350,15 +27351,15 @@
     "website": "https://www.risklytics.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Risklytics builds AI risk models that score natural disaster risk property by property, so insurers can write the good risks hiding inside 'high-risk' zones instead of declining entire ZIP codes. One API call returns the risk score, the drivers behind it, and the cheapest retrofit path to insurability.",
-    "one_liner": "Property-level natural disaster risk scoring for insurers",
+    "one_liner": "Property-Level Natural Disaster Risk Modeling",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1783123197,
     "tags": [
       "Machine Learning",
+      "Real Estate",
       "B2B",
-      "Climate",
       "Insurance",
       "AI"
     ],

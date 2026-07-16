@@ -2167,19 +2167,21 @@
     "former_names": [
       "Basalt Tech"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/05acac6bcc5d9a03dbabb03c39fa62276a5ef6ea.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bdc6db574181bc5f564f9fcdee3e3a8f66a68b75.png",
     "website": "https://basalt.space/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Basalt is building self-flying satellite constellations for enterprise customers, no prior aerospace experience or expertise needed!  Powered by our spacecraft OS, Basalt provides a seamless experience, enabling users to fly and stream data from their own tailored satellite constellation from an app on their phones or laptops.  \r\n\r\nThe company is founded by Max Bhatti and Alex Choi, lead engineers at the MIT CubeSat program. Previously, the duo worked as systems engineers at SpaceX, and the UK Ministry of Defense. Basalt Tech recently received its seed investment as part of the Y Combinator W24 batch, and is currently in technical development.",
+    "long_description": "Basalt is building self-flying satellite constellations tailored for private enterprise and government, with no prior aerospace experience required! Powered by our Diamond AI, Basalt provides a seamless experience, enabling users to fly and stream flight data and imagery from their own dedicated satellite constellation to their phones or laptops.  \r\n\r\nBasalt received its seed investment as part of the Y Combinator W24 batch, and has launched Spirit-EEL, the wo",
     "one_liner": "Constellations as a Service",
-    "team_size": 5,
+    "team_size": 6,
     "industry": "Industrials",
     "subindustry": "Industrials -> Aviation and Space",
     "launched_at": 1706583323,
     "tags": [
+      "Artificial Intelligence",
+      "Satellites",
       "Aerospace",
-      "Enterprise Software",
-      "Automation"
+      "Automation",
+      "Defense"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2193,7 +2195,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3956,13 +3960,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0fe96eb46b8e36c878f7362b2ef9b57395fe8a11.png",
     "website": "https://www.guidelabs.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "At Guide labs, we build Interpretable foundation models and AI systems that can reliably explain their reasoning, and are easy to audit, steer and understand. We provide access to these models via our API. ",
-    "one_liner": "Interpretable AI models and agents",
+    "long_description": "Guide Labs builds frontier AI models and agents that you can learn from, audit, and steer. \r\nOur first model, Steerling-8B, is the first and largest inherently interpretable model: it can trace any output to training data, concepts inside the model, and the input, all without sacrificing performance.",
+    "one_liner": "Frontier models and agents you can learn from, audit, and steer.",
     "team_size": 9,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
     "launched_at": 1709806941,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -3970,7 +3976,8 @@
     "batch": "Winter 2024",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Infrastructure"
     ],
     "regions": [
       "United States of America",
@@ -4385,18 +4392,18 @@
       "Markprompt"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bf27e2b5fff1afcb51538ca47d0ce384847305c2.png",
-    "website": "https://14.ai",
+    "website": "https://gloglo.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "14.ai operates brands autonomously. Our software runs the core machinery of a modern company, from demand generation to fulfillment to customer relationships.\r\n\r\nThe next iconic brands will run with far fewer people, tighter software loops, and much more operational intelligence. Our system connects acquisition, operations, support, and decision-making across the brands we build into one intelligent layer.\r\n\r\nWe use 14.ai to launch and run our own brands, improve the system in production, and make brand creation faster, measurable, and more programmable with every cycle.",
-    "one_liner": "AI engine powering autonomous brands starting with gloglo.com",
+    "long_description": "We are building GloGlo, an AI companion for people with diabetes. GloGlo connects to CGMs and health data to explain what is driving highs, lows, and time in range, then turns those patterns into personalized insights, reminders, and daily guidance.\r\n\r\nWe are starting with people with Type 1 diabetes, a community we know firsthand through our cofounder Michael, who has lived with T1D for 17 years. Alongside the app, we make fast-acting glucose gummies for treating lows, giving us a trusted consumer entry point into the diabetes market.\r\n\r\nOur long-term goal is to become the everyday operating system for diabetes: understanding each person’s glucose, insulin, food, exercise, sleep, and habits so they can make better decisions and spend more time in range.",
+    "one_liner": "AI companion helping people with diabetes stay in range",
     "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
+    "industry": "Consumer",
+    "subindustry": "Consumer",
     "launched_at": 1700867535,
     "tags": [
+      "Consumer Health Services",
+      "Consumer",
       "E-commerce",
-      "Customer Service",
-      "Infrastructure",
       "AI",
       "AI Assistant"
     ],
@@ -4407,8 +4414,7 @@
     "batch": "Winter 2024",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Infrastructure"
+      "Consumer"
     ],
     "regions": [
       "United States of America",
@@ -8131,15 +8137,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
     "one_liner": "Applied AI Data Research Lab Encoding Human Expertise into Machines…",
-    "team_size": 6,
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1706216304,
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
       "Speech Recognition",
-      "Data Engineering",
-      "AI"
+      "Data Engineering"
     ],
     "tags_highlighted": [],
     "top_company": false,

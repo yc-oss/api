@@ -6714,16 +6714,16 @@
     "website": "https://fondo.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Fondo is the easy way for startups to get their bookkeeping done, taxes filed, and cash back from the IRS (average startup gets $21k). We’ll optimize and file your taxes, and you’ll get cash back — up to $500k per year. Need more help? We’ll also do your bookkeeping, so you don’t have to worry about a thing.",
-    "one_liner": "Bookkeeping, tax, & tax credits on autopilot for 1,000+ startups",
+    "one_liner": "Bookkeeping, tax, & tax credits on autopilot for 2,000+ startups",
     "team_size": 80,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1580421990,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6920,7 +6920,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -7138,7 +7138,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -9079,51 +9079,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/intelline",
     "api": "https://yc-oss.github.io/api/batches/winter-2019/intelline.json"
-  },
-  {
-    "id": 11926,
-    "name": "Parker",
-    "slug": "parker",
-    "former_names": [
-      "Woke",
-      "Jamabla"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d9461ed7e5093ac18bab6ae2cb43de29136be3a7.png",
-    "website": "https://www.getparker.com",
-    "all_locations": "New York City, NY, USA; San Francisco, CA, USA",
-    "long_description": "Parker is a digital bank.",
-    "one_liner": "Parker is a digital bank.",
-    "team_size": 10,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Banking and Exchange",
-    "launched_at": 1622755385,
-    "tags": [
-      "Banking as a Service",
-      "Fintech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2019",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Banking and Exchange"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/parker",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/parker.json"
   },
   {
     "id": 11932,
@@ -15839,52 +15794,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2020/afriex.json"
   },
   {
-    "id": 22184,
-    "name": "Dumps",
-    "slug": "dumps",
-    "former_names": [
-      "Here"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1ee8fa4e8cdd13c8d6bae87e084b05e8ca82a9be.png",
-    "website": "https://dumps.app",
-    "all_locations": "New York City, NY, USA; New York, NY, USA",
-    "long_description": "Dumps is where friends connect through photos and chaotic messaging.  Our users crave an expressive, low-stakes place to share their lives and interact.\r\n",
-    "one_liner": "Where friends connect through photos and chaotic messaging",
-    "team_size": 9,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Social",
-    "launched_at": 1598328674,
-    "tags": [
-      "Consumer",
-      "Messaging",
-      "Social",
-      "Social Network"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2020",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Social"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dumps",
-    "api": "https://yc-oss.github.io/api/batches/summer-2020/dumps.json"
-  },
-  {
     "id": 22206,
     "name": "Vena Vitals",
     "slug": "vena-vitals",
@@ -18230,16 +18139,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d173e80b5b8cf1006b5c3b5baa37e052acecc8c5.png",
     "website": "http://www.enode.com",
     "all_locations": "Oslo, Oslo, Norway; Remote",
-    "long_description": "Enode’s APIs enable you to instantly connect users’ energy devices — including EVs, solar inverters, home batteries and thermostats — to your app. ",
-    "one_liner": "An API for electric vehicles and other energy hardware (DERs)",
-    "team_size": 40,
+    "long_description": "Device connectivity, home energy coordination, and grid orchestration in a single platform.",
+    "one_liner": "Energy Orchestration Platform",
+    "team_size": 70,
     "industry": "Industrials",
     "subindustry": "Industrials -> Energy",
     "launched_at": 1616508622,
     "tags": [
       "Climate",
       "API",
-      "Electric Vehicles"
+      "Energy",
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -19931,6 +19841,43 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/terra-api",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/terra-api.json"
+  },
+  {
+    "id": 23776,
+    "name": "Palla",
+    "slug": "palla",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f1d92ba064533486991db02e1726ce77eae0eba.png",
+    "website": "https://www.palla.com",
+    "all_locations": "Remote",
+    "long_description": "Palla enables instant P2P payments from the US to other countries, a $65BN a year market. Sending and receiving remittances today is slow, time consuming and inconvenient for all parties, as it's a mostly cash based process. With Palla, senders in the US can do it in a few taps of their phone and receivers get their money in seconds. ",
+    "one_liner": "P2P Cross border payments",
+    "team_size": 22,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Payments",
+    "launched_at": 1626880377,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Payments"
+    ],
+    "regions": [
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/palla",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/palla.json"
   },
   {
     "id": 23780,
@@ -22375,7 +22322,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Stardex is an AI native ATS and CRM executive firms and professional recruiting firms. We are AI first designed specifically for modern recruiting firms. It has a powerful client collaboration feature that helps you execute searches faster with clients. It also streamlines your searches by automating repetitive tasks, allowing you to dedicate more time to building meaningful relationships.﻿",
     "one_liner": "AI native ATS + CRM for executive search firms",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1627928818,
@@ -30434,7 +30381,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -33737,9 +33684,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/412a6b3ef532664df77532bc5d7ae3c1233de965.png",
     "website": "https://usepylon.com/?utm_source=bookface&utm_medium=referral&utm_campaign=pylon-profile",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pylon is the modern alternative to Zendesk, Intercom, Freshdesk, and Salesforce Service Cloud. We help B2B companies track customer support issues across common B2B channels including shared Slack channels (Slack Connect), Microsoft Teams, email, in-app chat, ticket forms, Slack community, and more.\r\n\r\nHundreds of fast-growing YC companies of all sizes like Vellum, Hightouch, and Deel are customers.\r\n\r\nLearn more at usepylon.com",
-    "one_liner": "The only customer support platform built for B2B.",
-    "team_size": 90,
+    "long_description": "Pylon is the only agentic support platform, purpose-built for B2B companies. For leaders scaling AI-native support teams, Pylon lets humans and agents collaborate on customer work – investigating, resolving, and acting on every signal across every channel that matters.\r\n\r\nUnlike platforms built before the AI era, Pylon enriches every interaction with deep account-level context, automates the low impact customer work, and surfaces answers before your team even has to ask. The result: faster responses, happier customers, and a system that continuously improves itself.\r\n\r\nHundreds of fast-growing YC companies of all sizes like Retool, Hightouch, and Deel use Pylon to manage their customers.\r\n\r\nLearn more at usepylon.com",
+    "one_liner": "The Agentic Support Platform purpose-built for B2B.",
+    "team_size": 120,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1676268747,
@@ -33763,7 +33710,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -38604,12 +38551,12 @@
     "former_names": [
       "Singularity Space"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/25eb003278f7a4ef82c20d24087957581b4b51e7.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/992f82455265202b720c9d34ee95f7a7b0ffbcc9.png",
     "website": "https://www.singularityus.com/",
     "all_locations": "Los Angeles, CA, USA",
     "long_description": "Singularity is answering humanity’s call to engineer counter-weapon systems at scale.  We build to protect people on the battlefield and at home.",
-    "one_liner": "Building and Protecting an Exciting Future",
-    "team_size": 1,
+    "one_liner": "",
+    "team_size": 83,
     "industry": "Industrials",
     "subindustry": "Industrials -> Aviation and Space",
     "launched_at": 1784043755,
@@ -40700,18 +40647,18 @@
       "Markprompt"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bf27e2b5fff1afcb51538ca47d0ce384847305c2.png",
-    "website": "https://14.ai",
+    "website": "https://gloglo.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "14.ai operates brands autonomously. Our software runs the core machinery of a modern company, from demand generation to fulfillment to customer relationships.\r\n\r\nThe next iconic brands will run with far fewer people, tighter software loops, and much more operational intelligence. Our system connects acquisition, operations, support, and decision-making across the brands we build into one intelligent layer.\r\n\r\nWe use 14.ai to launch and run our own brands, improve the system in production, and make brand creation faster, measurable, and more programmable with every cycle.",
-    "one_liner": "AI engine powering autonomous brands starting with gloglo.com",
+    "long_description": "We are building GloGlo, an AI companion for people with diabetes. GloGlo connects to CGMs and health data to explain what is driving highs, lows, and time in range, then turns those patterns into personalized insights, reminders, and daily guidance.\r\n\r\nWe are starting with people with Type 1 diabetes, a community we know firsthand through our cofounder Michael, who has lived with T1D for 17 years. Alongside the app, we make fast-acting glucose gummies for treating lows, giving us a trusted consumer entry point into the diabetes market.\r\n\r\nOur long-term goal is to become the everyday operating system for diabetes: understanding each person’s glucose, insulin, food, exercise, sleep, and habits so they can make better decisions and spend more time in range.",
+    "one_liner": "AI companion helping people with diabetes stay in range",
     "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
+    "industry": "Consumer",
+    "subindustry": "Consumer",
     "launched_at": 1700867535,
     "tags": [
+      "Consumer Health Services",
+      "Consumer",
       "E-commerce",
-      "Customer Service",
-      "Infrastructure",
       "AI",
       "AI Assistant"
     ],
@@ -40722,8 +40669,7 @@
     "batch": "Winter 2024",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Infrastructure"
+      "Consumer"
     ],
     "regions": [
       "United States of America",
@@ -42304,15 +42250,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
     "one_liner": "Applied AI Data Research Lab Encoding Human Expertise into Machines…",
-    "team_size": 6,
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1706216304,
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
       "Speech Recognition",
-      "Data Engineering",
-      "AI"
+      "Data Engineering"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49373,7 +49319,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c47809acef827e8266fe22b15646d39f5911391.png",
     "website": "https://www.edexia.com/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Brisbane, QLD, Australia",
     "long_description": "Edexia is an AI Teacher Assistant for grading essays. It can be trained and controlled by the teacher and can grade assignments from any curriculum, year level, subject, or format. \r\n\r\nLearning like a teacher, Edexia visually breaks down its understanding of the rubric, and updates this as a teacher corrects it.\r\n\r\nOur vision is to transform education by facilitating AI’s safe and effective integration across all institutions and applications. Not using AI to replace teachers but rather to empower them—providing them with all the time and resources they need to develop their students.",
     "one_liner": "AI Teacher Assistant for Grading Essays",
     "team_size": 4,
@@ -49397,8 +49343,8 @@
       "Education"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Australia",
+      "Oceania"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -52590,7 +52536,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9572a4af92fd7a09438369c8555334bcd54574f8.png",
     "website": "https://getnao.io/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Paris, Île-de-France, France",
     "long_description": "nao is an open source framework to build and deploy analytics agent.\r\nCreate the context of your analytics agent with nao-core cli: data, metadata, modeling, rules, etc. Deploy a UI for anyone to chat with your agent and run analytics on your data.",
     "one_liner": "Open Source Analytics Agent",
     "team_size": 2,
@@ -52613,8 +52559,8 @@
       "Analytics"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "France",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -57772,7 +57718,7 @@
     "all_locations": "Detroit, MI, USA",
     "long_description": "Nox Metals is an AI-powered metals supplier powering modern American manufacturing at scale. We are building automated factories that turn raw metal into production-ready material faster, cheaper, and more reliably than legacy service centers.",
     "one_liner": "Supplying America's Industrial Base",
-    "team_size": 22,
+    "team_size": 27,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1751751667,
@@ -59037,16 +58983,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37ac409b36b40159c5b6860f03b4e792466ac32c.png",
     "website": "https://leadbay.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Leadbay qualifies millions of Data-Signal-Scarce leads that couldn't be found before.\r\n\r\nTeams at L'Oréal, Saint-Gobain, Gerflor USA, Corgi, and Nespresso B2B have 3x'd their addressable market and 10x'd what they defined as \"qualified leads\". Talking to our customers, we used to hear, \"10 minutes on Leadbay beats 6 months with Clay and a GTM agency.\"\r\n\r\nCo-founders are Milan Stankovic (CTO) - PhD to make AI work with limited data, and Ludovic Granger (CEO). \r\n\r\nCreate an account.\r\nA new market is yours.\r\nleadbay.ai.",
-    "one_liner": "Qualify millions of Data-Signal-Scarce leads that couldn't be found…",
+    "long_description": "Leadbay qualifies leads for agentic workflows. \r\n\r\nWe're especially good at qualifying - low-data, low-signal - small and medium-sized businesses. Teams at L'Oréal, Saint-Gobain, Gerflor USA, Corgi, and Nespresso B2B have 3x'd their addressable market and 10x'd what they defined as \"qualified leads.\" Talking to our customers, we used to hear, \"10 minutes on Leadbay beats 6 months with Clay and a GTM agency.\"\r\n\r\nCo-founders are Milan Stankovic (CTO) - PhD to make AI work with limited data, and Ludovic Granger (CEO). \r\n\r\nCreate an account. \r\nA new market is yours.\r\nleadbay.ai",
+    "one_liner": "Qualified leads for agentic workflows.",
     "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1760047494,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Sales",
-      "AI"
+      "Sales"
     ],
     "tags_highlighted": [],
     "top_company": false,

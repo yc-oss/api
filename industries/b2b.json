@@ -15415,7 +15415,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -23650,16 +23650,16 @@
     "website": "https://fondo.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Fondo is the easy way for startups to get their bookkeeping done, taxes filed, and cash back from the IRS (average startup gets $21k). We’ll optimize and file your taxes, and you’ll get cash back — up to $500k per year. Need more help? We’ll also do your bookkeeping, so you don’t have to worry about a thing.",
-    "one_liner": "Bookkeeping, tax, & tax credits on autopilot for 1,000+ startups",
+    "one_liner": "Bookkeeping, tax, & tax credits on autopilot for 2,000+ startups",
     "team_size": 80,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1580421990,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -24148,7 +24148,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -43064,11 +43064,11 @@
     "subindustry": "B2B -> Sales",
     "launched_at": 1594773565,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Productivity",
       "Sales",
-      "Sales Enablement"
+      "Sales Enablement",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -55574,7 +55574,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Stardex is an AI native ATS and CRM executive firms and professional recruiting firms. We are AI first designed specifically for modern recruiting firms. It has a powerful client collaboration feature that helps you execute searches faster with clients. It also streamlines your searches by automating repetitive tasks, allowing you to dedicate more time to building meaningful relationships.﻿",
     "one_liner": "AI native ATS + CRM for executive search firms",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1627928818,
@@ -59384,22 +59384,25 @@
   },
   {
     "id": 25306,
-    "name": "WorldQL",
-    "slug": "worldql",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/77812b9a6c46bc50c4a0b0326c080c241d029714.png",
-    "website": "https://www.worldql.com/",
+    "name": "Capuchin",
+    "slug": "capuchin",
+    "former_names": [
+      "WorldQL"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/63839deb3c78a77497bdc13f9bb954aa6d5f06ef.png",
+    "website": "https://capuchin.ai/",
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "",
-    "one_liner": "Custom AI harnesses for enterprises",
+    "one_liner": "Search and automation for engineer-to-order companies",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1648654841,
     "tags": [
       "Artificial Intelligence",
-      "Reinforcement Learning",
-      "Security"
+      "Manufacturing",
+      "Defense",
+      "Search"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -59421,8 +59424,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/worldql",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/worldql.json"
+    "url": "https://www.ycombinator.com/companies/capuchin",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/capuchin.json"
   },
   {
     "id": 25307,
@@ -65402,7 +65405,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Marketing"
@@ -71284,7 +71287,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -72972,7 +72975,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Sales"
@@ -78121,9 +78124,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/412a6b3ef532664df77532bc5d7ae3c1233de965.png",
     "website": "https://usepylon.com/?utm_source=bookface&utm_medium=referral&utm_campaign=pylon-profile",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pylon is the modern alternative to Zendesk, Intercom, Freshdesk, and Salesforce Service Cloud. We help B2B companies track customer support issues across common B2B channels including shared Slack channels (Slack Connect), Microsoft Teams, email, in-app chat, ticket forms, Slack community, and more.\r\n\r\nHundreds of fast-growing YC companies of all sizes like Vellum, Hightouch, and Deel are customers.\r\n\r\nLearn more at usepylon.com",
-    "one_liner": "The only customer support platform built for B2B.",
-    "team_size": 90,
+    "long_description": "Pylon is the only agentic support platform, purpose-built for B2B companies. For leaders scaling AI-native support teams, Pylon lets humans and agents collaborate on customer work – investigating, resolving, and acting on every signal across every channel that matters.\r\n\r\nUnlike platforms built before the AI era, Pylon enriches every interaction with deep account-level context, automates the low impact customer work, and surfaces answers before your team even has to ask. The result: faster responses, happier customers, and a system that continuously improves itself.\r\n\r\nHundreds of fast-growing YC companies of all sizes like Retool, Hightouch, and Deel use Pylon to manage their customers.\r\n\r\nLearn more at usepylon.com",
+    "one_liner": "The Agentic Support Platform purpose-built for B2B.",
+    "team_size": 120,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1676268747,
@@ -78147,7 +78150,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -89805,13 +89808,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0fe96eb46b8e36c878f7362b2ef9b57395fe8a11.png",
     "website": "https://www.guidelabs.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "At Guide labs, we build Interpretable foundation models and AI systems that can reliably explain their reasoning, and are easy to audit, steer and understand. We provide access to these models via our API. ",
-    "one_liner": "Interpretable AI models and agents",
+    "long_description": "Guide Labs builds frontier AI models and agents that you can learn from, audit, and steer. \r\nOur first model, Steerling-8B, is the first and largest inherently interpretable model: it can trace any output to training data, concepts inside the model, and the input, all without sacrificing performance.",
+    "one_liner": "Frontier models and agents you can learn from, audit, and steer.",
     "team_size": 9,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
     "launched_at": 1709806941,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -89819,7 +89824,8 @@
     "batch": "Winter 2024",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Infrastructure"
     ],
     "regions": [
       "United States of America",
@@ -90139,51 +90145,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tamarind-bio",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/tamarind-bio.json"
-  },
-  {
-    "id": 29341,
-    "name": "14.ai",
-    "slug": "14-ai",
-    "former_names": [
-      "Markprompt"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bf27e2b5fff1afcb51538ca47d0ce384847305c2.png",
-    "website": "https://14.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "14.ai operates brands autonomously. Our software runs the core machinery of a modern company, from demand generation to fulfillment to customer relationships.\r\n\r\nThe next iconic brands will run with far fewer people, tighter software loops, and much more operational intelligence. Our system connects acquisition, operations, support, and decision-making across the brands we build into one intelligent layer.\r\n\r\nWe use 14.ai to launch and run our own brands, improve the system in production, and make brand creation faster, measurable, and more programmable with every cycle.",
-    "one_liner": "AI engine powering autonomous brands starting with gloglo.com",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1700867535,
-    "tags": [
-      "E-commerce",
-      "Customer Service",
-      "Infrastructure",
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/14-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/14-ai.json"
   },
   {
     "id": 29345,
@@ -92797,15 +92758,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
     "one_liner": "Applied AI Data Research Lab Encoding Human Expertise into Machines…",
-    "team_size": 6,
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1706216304,
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
       "Speech Recognition",
-      "Data Engineering",
-      "AI"
+      "Data Engineering"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -104626,7 +104587,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2025",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Productivity"
@@ -105739,6 +105700,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/stillwind",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/stillwind.json"
+  },
+  {
+    "id": 30266,
+    "name": "Cenote",
+    "slug": "cenote",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d2619da2ac1f4d3cedc1e2215d24e39f697bc681.png",
+    "website": "https://www.joincenote.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Cenote helps online D2C brands convert more shoppers through AI sales reps that can call and text.\r\n\r\nOnline stores rely on static websites, one-way email and SMS campaigns, and inside sales teams with limited availability. But many purchases are better suited to a conversation: shoppers have questions, need guidance, or simply are not excited to buy based on what's on the site alone.\r\n\r\nToday, those shoppers are poorly served. Abandoned-checkout campaigns are generic, call centers close, and slow human follow-up allows high-intent leads to go cold. Our customers often see conversion rates below 1% from traditional abandoned-checkout outreach.\r\n\r\nCenote's AI reps reach shoppers immediately, remember their context, and continue the conversation across channels and over time. This gives every interested shopper access to a personalized sales rep and helps brands recover revenue from leads they have already paid to acquire.",
+    "one_liner": "AI agents for conversational commerce",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1737428048,
+    "tags": [
+      "B2B",
+      "Digital Health",
+      "E-commerce",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cenote",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/cenote.json"
   },
   {
     "id": 30267,
@@ -108197,7 +108200,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9572a4af92fd7a09438369c8555334bcd54574f8.png",
     "website": "https://getnao.io/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Paris, Île-de-France, France",
     "long_description": "nao is an open source framework to build and deploy analytics agent.\r\nCreate the context of your analytics agent with nao-core cli: data, metadata, modeling, rules, etc. Deploy a UI for anyone to chat with your agent and run analytics on your data.",
     "one_liner": "Open Source Analytics Agent",
     "team_size": 2,
@@ -108220,8 +108223,8 @@
       "Analytics"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "France",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -109056,8 +109059,8 @@
     "launched_at": 1745603860,
     "tags": [
       "Documents",
-      "Artificial Intelligence",
-      "Developer Tools"
+      "Developer Tools",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -110493,7 +110496,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/798007bb526034d4bd7924c8d0ab920635b5e47c.png",
     "website": "https://alkali.engineering",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Houston, TX, USA",
     "long_description": "Alkali is building the next generation of estimation tools for construction.",
     "one_liner": "The smarter way to estimate steel.",
     "team_size": 2,
@@ -117606,7 +117609,7 @@
     "slug": "the-context-company",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/897cd2d31bc7dc869e170422ebc8e24a66f3e2bc.png",
-    "website": "https://thecontextcompany.com",
+    "website": "https://www.thecontextcompany.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Understand user patterns and find silent failures in your AI agents.\r\n\r\nThe Context Company helps teams analyze AI agent conversations to surface user behavior patterns, performance trends, and moments where agents struggle - so teams know what’s working, what’s not, and what to improve next.\r\n\r\nWe turn raw conversations into structured signals: topic clustering, user feedback analysis, custom pattern tracking, and alerts. All alongside traditional observability like traces, tool calls, latency, and costs.\r\n\r\nGet started in less than 10 lines of code.",
     "one_liner": "Monitor AI agents and understand user behavior",
@@ -117615,11 +117618,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1759953898,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Analytics",
-      "Monitoring",
-      "AI"
+      "Monitoring"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -119123,16 +119126,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37ac409b36b40159c5b6860f03b4e792466ac32c.png",
     "website": "https://leadbay.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Leadbay qualifies millions of Data-Signal-Scarce leads that couldn't be found before.\r\n\r\nTeams at L'Oréal, Saint-Gobain, Gerflor USA, Corgi, and Nespresso B2B have 3x'd their addressable market and 10x'd what they defined as \"qualified leads\". Talking to our customers, we used to hear, \"10 minutes on Leadbay beats 6 months with Clay and a GTM agency.\"\r\n\r\nCo-founders are Milan Stankovic (CTO) - PhD to make AI work with limited data, and Ludovic Granger (CEO). \r\n\r\nCreate an account.\r\nA new market is yours.\r\nleadbay.ai.",
-    "one_liner": "Qualify millions of Data-Signal-Scarce leads that couldn't be found…",
+    "long_description": "Leadbay qualifies leads for agentic workflows. \r\n\r\nWe're especially good at qualifying - low-data, low-signal - small and medium-sized businesses. Teams at L'Oréal, Saint-Gobain, Gerflor USA, Corgi, and Nespresso B2B have 3x'd their addressable market and 10x'd what they defined as \"qualified leads.\" Talking to our customers, we used to hear, \"10 minutes on Leadbay beats 6 months with Clay and a GTM agency.\"\r\n\r\nCo-founders are Milan Stankovic (CTO) - PhD to make AI work with limited data, and Ludovic Granger (CEO). \r\n\r\nCreate an account. \r\nA new market is yours.\r\nleadbay.ai",
+    "one_liner": "Qualified leads for agentic workflows.",
     "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1760047494,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Sales",
-      "AI"
+      "Sales"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -122278,17 +122281,18 @@
   },
   {
     "id": 31118,
-    "name": "Carson",
-    "slug": "carson",
+    "name": "/dev/fast",
+    "slug": "devfast",
     "former_names": [
       "Workable Solutions Inc.",
-      "Fix.Fast"
+      "Fix.Fast",
+      "Carson"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/92a11d3a3ee3272d1d97560705cf903b54ea3437.png",
-    "website": "https://usecarson.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f469eb5ba6a411e5af0eabbb334d7879cbe6f9e5.png",
+    "website": "https://dev.fast",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Carson is a desktop AI app that replaces the chat box by generating a custom, sharable workspace in seconds. Teams use Carson to collaborate with AI on their most important tasks, whether it’s processing insurance claims or emailing their biggest clients.\r\n",
-    "one_liner": "Carson is a desktop AI app that generates custom, sharable workspaces",
+    "long_description": "/dev/fast is the AI-native code forge. Developers use it to drive token cost savings and cut mean time-in-review by 2x.\r\n\r\nLearn more at https://dev.fast",
+    "one_liner": "/dev/fast is the AI-native code forge",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -122312,8 +122316,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/carson",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/carson.json"
+    "url": "https://www.ycombinator.com/companies/devfast",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/devfast.json"
   },
   {
     "id": 31121,
@@ -127700,7 +127704,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a200f7dd92eb8502bc67be24771887da99cbcfb.png",
     "website": "https://usedrip.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Drip sends first messages, finds leads, handles replies, follows up, syncs your CRM, and books calls across iMessage, LinkedIn, X, WhatsApp, Telegram, Gmail, Google Messages, Slack, and group chats. You choose who it can message and when it can act.",
+    "long_description": "drip finds the leads, sends first messages, follows up, and books meetings autonomously. Every conversation syncs for your team.",
     "one_liner": "Never miss a lead",
     "team_size": 2,
     "industry": "B2B",
