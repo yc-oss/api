@@ -2969,25 +2969,26 @@
   },
   {
     "id": 30042,
-    "name": "VortexifyAI",
-    "slug": "vortexifyai",
+    "name": "Vortexify",
+    "slug": "vortexify",
     "former_names": [
       "Praxis AI",
-      "Vortexify AI"
+      "Vortexify AI",
+      "VortexifyAI"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cb3be511411bbaed481f911d10c8dcbfcfbc8735.png",
     "website": "https://www.vortexify.ai",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Vortexify AI is a platform for building fully operational AI workflows tailored to supply chain operations. Deploy specialized, task-specific AI bots in days — not weeks. Our platform streamlines the creation of AI bots that can analyze millions of data rows, manage complex, long-horizon processes, and collaborate seamlessly with humans in the loop.\r\n\r\nEach AI bot comes equipped with custom tools maintained through AI-powered code editors directly within the Vortexify platform. Development teams can instantly generate dashboards, data pipelines, machine learning models, and custom functions — all contextualized to business goals and data requirements.\r\n\r\nBots can operate in Co-pilot or Agent (autonomous) mode. They can be scheduled or triggered by real-time alerts and are governed by robust, natural language-generated guardrail templates that ensure safety, compliance, and reliability.",
-    "one_liner": "Build AI applications and automations for supply chain operations",
-    "team_size": 3,
+    "long_description": "Vortexify is an AI application platform that enables developers and domain experts to build production-ready software with AI agents. Instead of writing thousands of lines of code, users can connect enterprise data, describe the problem they want to solve, and collaborate with AI agents to generate secure applications for data-intensive business processes.\r\n\r\nThe platform contextualizes millions of rows of data, and provides the runtime, execution engine, and UI framework agents need to generate and deploy custom applications through two integrated products: the Agent Data Warehouse, a data foundation for enterprise data, and the App Playground, where AI agents build and deploy applications using that data.\r\n\r\nThe Agent Data Warehouse connects to enterprise systems, continuously ingests and contextualizes operational data, and provides a unified understanding of your business. By transforming raw enterprise data into AI-ready context, the ADW enables agents to reason across systems and build intelligent applications.\r\n\r\nThe App Playground is a development environment built on top of the Agent Data Warehouse where developers, engineers, and domain experts collaborate with AI agents throughout the entire application lifecycle. Agents help users discover and define business problems, explore and understand enterprise data, plan and design solutions, and ultimately generate production-ready applications, including business logic, data pipelines, workflows, automations, analytics, and custom user interfaces.",
+    "one_liner": "Build full-stack applications for business operations with AI",
+    "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
+    "subindustry": "B2B -> Operations",
     "launched_at": 1732148257,
     "tags": [
-      "IoT",
       "Supply Chain",
-      "Data Science",
+      "Big Data",
+      "Operations",
       "AI",
       "AI Assistant"
     ],
@@ -2999,19 +3000,21 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Supply Chain and Logistics"
+      "Operations"
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/vortexifyai",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/vortexifyai.json"
+    "url": "https://www.ycombinator.com/companies/vortexify",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/vortexify.json"
   },
   {
     "id": 30225,
@@ -3549,18 +3552,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/efd3ccc04f842f9a3a1235ba1ef66aa4447fc993.png",
     "website": "https://www.guildai.co",
     "all_locations": "New York City, NY, USA",
-    "long_description": "GUILD is an AI-native defense contractor making aerospace parts faster and cheaper than today’s supply chain. We win government contracts, turn technical requirements into production-ready workflows, and execute through factory integrations from RFQ to delivery.\r\n\r\nWe’ve built an AI-native operating model for defense contracting: a company brain that connects requirements, pricing, supplier capability, compliance, manufacturing, finance, and delivery so each contract makes the next one faster and cheaper.",
-    "one_liner": "AI-Native Defense Contractor Reshaping the Defense Supply Chain",
+    "long_description": "GUILD is making aerospace parts faster and cheaper than today’s defense supply chain. We win defense contracts, automate manufacturing, and deliver to the government's door.\r\n\r\nWe’ve built an AI-native operating model for defense contracting: a company brain that connects requirements, pricing, supplier capability, compliance, manufacturing, finance, and delivery so each contract makes the next one faster and cheaper.",
+    "one_liner": "Making aerospace parts faster and cheaper for defense",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Defense",
     "launched_at": 1778869862,
     "tags": [
-      "Artificial Intelligence",
       "Compliance",
       "Manufacturing",
       "Supply Chain",
-      "Defense"
+      "Defense",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
