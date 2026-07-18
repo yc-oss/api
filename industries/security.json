@@ -2857,7 +2857,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -3405,14 +3405,17 @@
   },
   {
     "id": 29005,
-    "name": "Roundtable",
-    "slug": "roundtable",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e75b3701367f92118dfb24055cc3333d139fe333.png",
-    "website": "https://roundtable.ai",
+    "name": "Proof of Human",
+    "slug": "proof-of-human",
+    "former_names": [
+      "Roundtable",
+      "Proof of Human, PBC"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3e5845bbb5f4bf270b3e5d25d9624f69e1bd986.png",
+    "website": "http://poh.org",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Roundtable Proof of Human is an API that invisibly detects bots and verifies human identity.\r\n\r\nFounded by 2 Princeton cognitive scientists, Roundtable leverages world-class research with enterprise-grade accuracy and latency so websites can verify their human users friction-free.",
-    "one_liner": "Proof of Human - invisible human verification",
+    "long_description": "The Proof of Human is an API that invisibly detects bots and verifies human identity.\r\n\r\nFounded by 2 Princeton cognitive scientists, Proof of Human leverages world-class research with enterprise-grade accuracy and latency so websites can verify their human users friction-free.",
+    "one_liner": "continuous human verification without CAPTCHAs or user friction",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
@@ -3437,8 +3440,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/roundtable",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/roundtable.json"
+    "url": "https://www.ycombinator.com/companies/proof-of-human",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/proof-of-human.json"
   },
   {
     "id": 29246,

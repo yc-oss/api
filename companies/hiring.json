@@ -4030,7 +4030,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -6122,7 +6122,7 @@
       "Malaysia",
       "Southeast Asia"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -7138,7 +7138,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -20092,7 +20092,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -25447,7 +25447,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -30302,6 +30302,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/oneleet.json"
   },
   {
+    "id": 27172,
+    "name": "Clearline",
+    "slug": "clearline",
+    "former_names": [
+      "Lancey"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/53a34147e63b67c7a9270226ba55f80c0701d86e.png",
+    "website": "https://useclearline.com",
+    "all_locations": "Kitchener, ON, Canada",
+    "long_description": "Clearline is the AI operating system that captures, routes, and converts every revenue opportunity across your dealership without adding headcount.",
+    "one_liner": "AI operating system for car dealerships to capture missed revenue",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1655587130,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "AI",
+      "Automotive"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Canada",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/clearline",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/clearline.json"
+  },
+  {
     "id": 27178,
     "name": "Pump.co",
     "slug": "pump-co",
@@ -31034,7 +31078,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -35683,7 +35727,7 @@
     "all_locations": "London, England, United Kingdom",
     "long_description": "Solve Intelligence is the AI platform for helping legal professionals with every part of the patent process.\r\n\r\nWith $55M backing from Y Combinator, Microsoft, Thomson Reuters, 20VC, Operator Collective, Visionaries, and others, they have assembled a world-leading team of patent attorneys, AI PhDs, and software developers to build products for patent application drafting, office action responses, invention harvesting, claim charting, infringement analysis, FTO, validity challenges, patent litigation, and more.\r\n\r\nThey are now selling their 100% secure and confidential software to 700+ IP firms and in-house teams across the US, Europe, and Asia (e.g. DLA Piper, Siemens, Perkins Coie, Amgen - see customers https://www.solveintelligence.com/#customers).\r\n\r\nSolve customers are reporting 60-90% efficiency and quality improvements (see testimonials https://www.solveintelligence.com/#testimonials).\r\n\r\nSee a demo today: https://www.solveintelligence.com/contact-us",
     "one_liner": "AI patent drafting, prosecution, litigation and more for legal teams.",
-    "team_size": 43,
+    "team_size": 50,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1686701574,
@@ -35702,7 +35746,7 @@
       "United Kingdom",
       "Europe"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -37386,14 +37430,17 @@
   },
   {
     "id": 29005,
-    "name": "Roundtable",
-    "slug": "roundtable",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e75b3701367f92118dfb24055cc3333d139fe333.png",
-    "website": "https://roundtable.ai",
+    "name": "Proof of Human",
+    "slug": "proof-of-human",
+    "former_names": [
+      "Roundtable",
+      "Proof of Human, PBC"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3e5845bbb5f4bf270b3e5d25d9624f69e1bd986.png",
+    "website": "http://poh.org",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Roundtable Proof of Human is an API that invisibly detects bots and verifies human identity.\r\n\r\nFounded by 2 Princeton cognitive scientists, Roundtable leverages world-class research with enterprise-grade accuracy and latency so websites can verify their human users friction-free.",
-    "one_liner": "Proof of Human - invisible human verification",
+    "long_description": "The Proof of Human is an API that invisibly detects bots and verifies human identity.\r\n\r\nFounded by 2 Princeton cognitive scientists, Proof of Human leverages world-class research with enterprise-grade accuracy and latency so websites can verify their human users friction-free.",
+    "one_liner": "continuous human verification without CAPTCHAs or user friction",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
@@ -37418,8 +37465,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/roundtable",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/roundtable.json"
+    "url": "https://www.ycombinator.com/companies/proof-of-human",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/proof-of-human.json"
   },
   {
     "id": 29008,
@@ -43291,6 +43338,47 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/saphira-ai.json"
   },
   {
+    "id": 29589,
+    "name": "Theseus",
+    "slug": "theseus",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/05b004a38c0a5df5a4e151b258151cd9a38f08c8.png",
+    "website": "https://theseus.us",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Theseus builds visual navigation software for GPS-denied drone operations. Using onboard cameras, inertial sensors, and satellite reference imagery, our system computes position fixes entirely passively. The system is entirely self contained, can't be jammed and has no RF signature.",
+    "one_liner": "GPS Denied Navigation for Drones",
+    "team_size": 7,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Drones",
+    "launched_at": 1725406335,
+    "tags": [
+      "Robotics",
+      "Drones",
+      "Defense"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Drones"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/theseus",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/theseus.json"
+  },
+  {
     "id": 29597,
     "name": "Spaceium Inc",
     "slug": "spaceium-inc",
@@ -45950,7 +46038,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": true,
+    "question_answers": false,
     "url": "https://www.ycombinator.com/companies/brighterway",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/brighterway.json"
   },
@@ -46762,54 +46850,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/draft-the-record",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/draft-the-record.json"
-  },
-  {
-    "id": 29837,
-    "name": "RentFlow",
-    "slug": "rentflow",
-    "former_names": [
-      "Pastelle.",
-      "Mindley",
-      "Mindely"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/83db64301a123c8f20195581b448254e59c1a24f.png",
-    "website": "https://www.therentflow.com",
-    "all_locations": "New York City, NY, USA",
-    "long_description": "RentFlow is tackling a hair-on-fire problem for small and medium businesses across the U.S.: the way their rent is paid each month is fundamentally misaligned with how cash actually comes in.\r\n\r\nWe’re building the infrastructure layer to fix that.\r\n\r\nToday, ~50% of U.S. businesses are late on rent in any given month. The rest face invisible struggles to pay on time, undermining their stability month after month.\r\n\r\nRentFlow is the first platform to turn fixed business rent into an AI-driven, cash-flow-synced product, underwritten in real time from transaction-level data to prevent financial issues before they even surface.",
-    "one_liner": "The AI infrastructure for cash-flow-aligned business rent",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1722719636,
-    "tags": [
-      "Fintech",
-      "Generative AI",
-      "SaaS",
-      "Payments",
-      "Proptech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/rentflow",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/rentflow.json"
   },
   {
     "id": 29840,
@@ -48241,6 +48281,49 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/luthor.json"
   },
   {
+    "id": 30063,
+    "name": "Freebuff",
+    "slug": "freebuff",
+    "former_names": [
+      "Manicode",
+      "Codebuff"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7e79d88ee27d8bcba8981ffbb6cfd8dfaee476e3.png",
+    "website": "https://freebuff.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We're making consumer agent products completely free, using the best open source models, and funded by ads.\r\n\r\nOur first product is a coding agent CLI called Freebuff. Install it with \"npm i -g freebuff\". We're also working on a free Lovable competitor.",
+    "one_liner": "The 100% free coding agent",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1728685475,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/freebuff",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/freebuff.json"
+  },
+  {
     "id": 30066,
     "name": "Unusual",
     "slug": "unusual",
@@ -48321,47 +48404,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/beglaubigtde",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/beglaubigtde.json"
-  },
-  {
-    "id": 30074,
-    "name": "vly.ai",
-    "slug": "vly-ai-2",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2602da90f75dc454b2d32c332486071cb6b2be1b.png",
-    "website": "https://vly.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "The world's best AI web app builder, implementing a radically unique architecture that lets us completely outperform the competition in complexity, reliability, scalability, and more. We are 7x cheaper and are positioned to take down Lovable, Replit, Base44, Bolt, Emergent, and more.",
-    "one_liner": "The Lovable & Replit killers",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1730684290,
-    "tags": [
-      "Artificial Intelligence",
-      "No-code",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/vly-ai-2",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/vly-ai-2.json"
   },
   {
     "id": 30076,
@@ -50305,7 +50347,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Mosaic's canvas enables anyone to create and run their own multimodal video editing agents. Our mission is to accelerate hours of video editing work to seconds.",
     "one_liner": "Agentic video editing",
-    "team_size": 3,
+    "team_size": 5,
     "industry": "Consumer",
     "subindustry": "Consumer -> Content",
     "launched_at": 1740665933,
@@ -53308,7 +53350,7 @@
     "all_locations": "New York City, NY, USA",
     "long_description": "Photonium is building software to automate optical system design. We supercharge optics experts with intelligent tooling to reduce costs and deliver faster. We handle the full design stack — from optimization, verification, sourcing, to prototyping — for AR/VR, quantum, biotech, metrology/chip fab, LiDAR, and more. ",
     "one_liner": "AI-Powered Optical Consulting & Software",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1748388578,
@@ -55996,6 +56038,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/kalinda.json"
   },
   {
+    "id": 30681,
+    "name": "Parachute",
+    "slug": "parachute",
+    "former_names": [
+      "Parachute",
+      "Parachute AI",
+      "Parachute",
+      "Parachute AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ffdb102f014e8ce8401417ee051d9fbec55550e0.png",
+    "website": "https://parachute-ai.com",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "",
+    "one_liner": "",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1752533752,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/parachute",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/parachute.json"
+  },
+  {
     "id": 30685,
     "name": "IronLedger.ai",
     "slug": "ironledger-ai",
@@ -56399,18 +56483,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3838f80b214ed1fcda53a2778860e8be11cfdb0d.png",
     "website": "https://manufact.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Manufact is the MCP cloud platform to get your product ready for Claude Connectors marketplace, ChatGPT App Store and any AI agent that supports MCP.\r\nWe're the team behind mcp-use SDK, the open-source framework for building MCP Apps with 10k github stars and 8M+ downloads across python and typescript.\r\n\r\nIt's the fastest and most complete solution for production-ready MCP servers.",
+    "long_description": "Manufact is the MCP cloud platform to get your product ready for Claude Connectors marketplace, ChatGPT / Codex plugins store and any AI agent that supports MCP.\r\nWe're the team behind mcp-use SDK, the open-source framework for building MCP Apps with 10k github stars and 8M+ downloads across python and typescript.\r\n\r\nIt's the fastest and most complete solution for production-ready MCP servers.",
     "one_liner": "Cloud infrastructure for MCP servers and Claude / ChatGPT apps.",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1752861544,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Open Source",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -57956,7 +58040,7 @@
     "former_names": [
       "Parrot takes down Duolingo"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a9603ad6a62ae3ee9c8723521f8f2d852d664a89.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/456a29d2b6a9ad58f25000ceded3f47b7968c4e6.png",
     "website": "https://parrotapp.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Parrot is the TikTok for language learning. We turn doomscrolling into fluency with personalized short-form videos. Power users scroll for 6 hours/week on Parrot. Our team of engineers have lived the frustration of ineffective apps and learning methods - we’re building the first language platform that actually works.",
@@ -58534,7 +58618,7 @@
     "website": "https://www.sembleai.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Semble builds custom AI agents trained on how your business actually runs and plugged into the tools your team already lives in.\r\n\r\nJonathan and Ethan met studying computer science at Stanford. Jonathan worked at Convergint, one of the world's largest building system integrators.",
-    "one_liner": "AI Agents for contractors, manufacturers, and logistics",
+    "one_liner": "The AI operating system for the trades",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -64027,16 +64111,16 @@
     "all_locations": "Waterloo, ON, Canada",
     "long_description": "Simantic is modernizing the embedded firmware industry with hardware simulation developed for the adoption of AI in hardware engineering. Simantic gives both humans and AI the visibility into hardware previously limited by the physical world.",
     "one_liner": "Firmware simulation for AI agents",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1782327485,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Hardware",
       "Semiconductors",
-      "Electronics"
+      "Electronics",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

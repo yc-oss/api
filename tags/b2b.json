@@ -2305,7 +2305,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -3635,7 +3635,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2018",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Recruiting and Talent"
@@ -3646,7 +3646,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -13944,9 +13944,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5dbb79988f18a52e0b199ca7f510d224c687729f.png",
     "website": "https://www.getontop.com/",
     "all_locations": "Miami, FL, USA; Remote",
-    "long_description": "Ontop allows companies to hire international workers and gives those workers access to USD accounts.",
+    "long_description": "Ontop allows companies to hire global workers and gives those workers access to a Global Financial Account.",
     "one_liner": "Simplifying hiring and payments for the global workforce",
-    "team_size": 192,
+    "team_size": 186,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1614618716,
@@ -13971,7 +13971,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -27465,7 +27465,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/53a34147e63b67c7a9270226ba55f80c0701d86e.png",
     "website": "https://useclearline.com",
-    "all_locations": "Toronto, ON, Canada",
+    "all_locations": "Kitchener, ON, Canada",
     "long_description": "Clearline is the AI operating system that captures, routes, and converts every revenue opportunity across your dealership without adding headcount.",
     "one_liner": "AI operating system for car dealerships to capture missed revenue",
     "team_size": 5,
@@ -27480,7 +27480,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -28353,7 +28353,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -42986,7 +42986,7 @@
     "all_locations": "New York City, NY, USA",
     "long_description": "Photonium is building software to automate optical system design. We supercharge optics experts with intelligent tooling to reduce costs and deliver faster. We handle the full design stack — from optimization, verification, sourcing, to prototyping — for AR/VR, quantum, biotech, metrology/chip fab, LiDAR, and more. ",
     "one_liner": "AI-Powered Optical Consulting & Software",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1748388578,
@@ -44493,54 +44493,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/panoptive.json"
   },
   {
-    "id": 30681,
-    "name": "Parachute",
-    "slug": "parachute",
-    "former_names": [
-      "Parachute",
-      "Parachute AI",
-      "Parachute",
-      "Parachute AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ffdb102f014e8ce8401417ee051d9fbec55550e0.png",
-    "website": "https://parachute-ai.com",
-    "all_locations": "New York City, NY, USA",
-    "long_description": "Parachute helps hospitals adopt AI safely and at scale. We vet AI tools that fill clinical gaps, run state-of-the-art evaluations, monitor every model for drift and compliance, and lock every decision in an immutable audit trail.",
-    "one_liner": "Infrastructure for hospitals to monitor and deploy clinical AI ",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1752533752,
-    "tags": [
-      "SaaS",
-      "Health Tech",
-      "B2B",
-      "Healthcare IT",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/parachute",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/parachute.json"
-  },
-  {
     "id": 30687,
     "name": "Trace",
     "slug": "trace-so",
@@ -44764,18 +44716,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3838f80b214ed1fcda53a2778860e8be11cfdb0d.png",
     "website": "https://manufact.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Manufact is the MCP cloud platform to get your product ready for Claude Connectors marketplace, ChatGPT App Store and any AI agent that supports MCP.\r\nWe're the team behind mcp-use SDK, the open-source framework for building MCP Apps with 10k github stars and 8M+ downloads across python and typescript.\r\n\r\nIt's the fastest and most complete solution for production-ready MCP servers.",
+    "long_description": "Manufact is the MCP cloud platform to get your product ready for Claude Connectors marketplace, ChatGPT / Codex plugins store and any AI agent that supports MCP.\r\nWe're the team behind mcp-use SDK, the open-source framework for building MCP Apps with 10k github stars and 8M+ downloads across python and typescript.\r\n\r\nIt's the fastest and most complete solution for production-ready MCP servers.",
     "one_liner": "Cloud infrastructure for MCP servers and Claude / ChatGPT apps.",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1752861544,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Open Source",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48524,6 +48476,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/osseus",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/osseus.json"
+  },
+  {
+    "id": 33606,
+    "name": "Billow AI Labs",
+    "slug": "billow-ai-labs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2c42b391e7d2cf9beb71d20f5ce1ed2b4e77e77d.png",
+    "website": "https://thebillow.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Billow handles the work of Accounting and FP&A FTEs for regulated companies while keeping teams compliant and audit-ready. We work within existing stacks (NetSuite, Coupa, and 80+ other systems) and complex spreadsheets, chasing down information and coordinating approvals across stakeholders. \r\n\r\nBuilt by repeat founders; Joan built and exited an accounting/ERP platform (45,000 businesses in 4 years) and Phil built Bloomberg's financial “brain” data infrastructure, and as CTO of a trading platform ($1B in volume). Advisors include CFOs, controllers, auditors from publicly-traded biopharma, and a Big-4 Accounting firm. ",
+    "one_liner": "AI-native Accounting & Finance Firm for Regulated Industries",
+    "team_size": 0,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1784327267,
+    "tags": [
+      "Artificial Intelligence",
+      "Finance",
+      "B2B",
+      "Workflow Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/billow-ai-labs",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/billow-ai-labs.json"
   },
   {
     "id": 33805,
