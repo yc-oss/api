@@ -1640,7 +1640,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2026",
     "status": "Active",
@@ -4496,19 +4496,25 @@
   },
   {
     "id": 31454,
-    "name": "Datost",
-    "slug": "datost",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd7847f34ece1088e5a00b8771f63e4d68d53fb8.png",
-    "website": "https://www.datost.com",
+    "name": "ED1TH",
+    "slug": "ed1th",
+    "former_names": [
+      "Datost"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9320ae60dfd7f05401e99f8ca644e1ab6704289e.png",
+    "website": "https://www.ed1th.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Datost watches your docs, Slack, databases, data lakes, and codebase, surfacing issues, answering questions, and flagging anomalies before anyone asks. Query, debug, and analyze right where your team works",
-    "one_liner": "The proactive AI data analyst",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
+    "long_description": "A personal AI HUD that lives in a pair of glasses. Think Jarvis. It reads your email, runs your calendar and puts directions in your eye. 25 grams, no cameras, all day. ",
+    "one_liner": "Jarvis IRL",
+    "team_size": 1,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Consumer Electronics",
     "launched_at": 1772488469,
-    "tags": [],
+    "tags": [
+      "Hardware",
+      "Consumer",
+      "AI Assistant"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -4516,8 +4522,8 @@
     "batch": "Spring 2026",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Analytics"
+      "Consumer",
+      "Consumer Electronics"
     ],
     "regions": [
       "United States of America",
@@ -4528,8 +4534,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/datost",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/datost.json"
+    "url": "https://www.ycombinator.com/companies/ed1th",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/ed1th.json"
   },
   {
     "id": 31455,
@@ -4654,7 +4660,7 @@
     "former_names": [
       "EasyClaw"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/69f29402130f971bebc14fd5eb1718b6d60c375b.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b5ee0827d5ffecc1db23e6d64592d549b5e1e1ab.png",
     "website": "https://ara.so",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Ara is the cloud coding agent — an autonomous software engineer for software teams. It watches work in progress, plans the next step, and executes tasks with its own computer, background agents, persistent memory, and reusable skills. Unite your team that uses Claude and Codex and other  coding subscriptions to code together in the browser. Ara turns coding into a closed loop: suggest, act, learn, improve.\r\n\r\n",
