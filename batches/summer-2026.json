@@ -603,7 +603,7 @@
       "Litmus",
       "Avert"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/516ca1f368566ec2f95995b8719badb42677caec.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/39a17e0191e960065ada172370fa314ccb65fc28.png",
     "website": "https://litmushiring.com/",
     "all_locations": "New York City, NY, USA",
     "long_description": "Litmus is the most accurate read on how an engineer actually builds. We evaluate candidates through async technical assessments built from your own tech context (repos, tickets, and job descriptions), generated from scratch and scoped as real end-to-end features. Candidates work in their own setup with all their tools including AI, while we track and evaluate their process and output. Every submission runs in a sandbox, and grading is tuned to your company across tool fluency, process, and outcome. You get a real read on how someone actually builds, not just how they interview.",
@@ -645,7 +645,7 @@
     "former_names": [
       "Illume"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd1ef3f79f970a8952409fdf5f74ab223d1c47c4.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/72dfae7e6f3aa505626a7c902f014e294cc6ab91.png",
     "website": "https://www.illumelabs.ai",
     "all_locations": "Boston, MA, USA",
     "long_description": "Illume is a 24/7 AI personal health & longevity companion that connects your wearables, blood panels, and genomic data to text you personalized and actionable insights. We pull in your health data and fuse it into one secure model. You get daily text updates on what changed, what it means, and what to do next; conversational health Q&A like \"What should I do to improve my bloodwork?\"; cross-data trend detection that catches patterns individual platforms miss; and a full platform to dig deeper, explore your health data, and text your Illume agent anytime. We're 3 MIT grads & friends, with experience at Windsurf, MIT CSAIL, Eli Lilly, & the Broad Institute. ",
@@ -1369,6 +1369,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/notyfi.json"
   },
   {
+    "id": 32130,
+    "name": "Olam Labs",
+    "slug": "olam-labs",
+    "former_names": [
+      "Gud Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6d9543a0527b0b5ac428e043f211c75ac5d1d59.png",
+    "website": "https://olamlabs.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Evaluating models for social behavior, safety, and performance through multi-agent simulated games. We use popular games like Catan, Risk, or Poker, and make humans come play them against talking AI opponents, but on the backend we're actually running a multi-agent environment used to evaluate the models for skill and behavior over large sample sizes.\r\n\r\nYou can play in Social Arena and view our preliminary benchmarks today at https://olamlabs.ai/",
+    "one_liner": "Evaluating models for behavior and performance through simulated games",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1784577901,
+    "tags": [
+      "Artificial Intelligence",
+      "Reinforcement Learning",
+      "Gaming",
+      "Data Engineering"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/olam-labs",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/olam-labs.json"
+  },
+  {
     "id": 32133,
     "name": "Belvedir",
     "slug": "belvedir",
@@ -1509,8 +1552,11 @@
     "subindustry": "B2B -> Security",
     "launched_at": 1783007241,
     "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Security",
       "Cybersecurity",
-      "AI"
+      "Enterprise"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2455,6 +2501,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/screenpipe.json"
   },
   {
+    "id": 32260,
+    "name": "Manifold",
+    "slug": "manifold-2",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/98f03122e41743439cec57f8152eac9cd506d714.png",
+    "website": "https://www.manifoldindustries.ai/",
+    "all_locations": "Los Angeles, CA, USA",
+    "long_description": "The US Warehouse industry spends $75bn on labor each year. Yet, only 10% of US warehouses have any form of automation, because existing robotics are too expensive and hard to integrate. \r\n\r\nManifold deploys autonomous robots that handle picking, loading / unloading, and palletizing — priced by pick. Integration in hours. No upfront costs. No retrofitting. No need to rebuild the operation around the robot. \r\n\r\nOur mission is to make it easy for any warehouse to adopt robotics.",
+    "one_liner": "Low-cost, deployment-ready robotic labor for warehouses",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1784541343,
+    "tags": [
+      "Hardware",
+      "Warehouse Management Tech",
+      "Robotics",
+      "Logistics",
+      "Supply Chain"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/manifold-2",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/manifold-2.json"
+  },
+  {
     "id": 32262,
     "name": "Alkera AI",
     "slug": "alkera-ai",
@@ -2597,7 +2686,7 @@
     "website": "https://molagri.com",
     "all_locations": "Toronto, ON, Canada",
     "long_description": "Molagri develops safer, more effective pesticides for agriculture.\r\n\r\nWe design biopesticides that hit a precise molecular target unique to pest insects, knocking out pests while sparing pollinators, beneficial insects, and the wider ecosystem. By modeling how pests are likely to evolve, we stay a step ahead of resistance, keeping our products effective against the pests of today and tomorrow. The higher efficacy and biobased production will also contribute to emissions reductions in both manufacturing and field use.\r\n\r\nOur founders are PhD lab mates from the University of Toronto who have worked together for six years and published in Nature Communications and Nature Microbiology. \r\n",
-    "one_liner": "Biopesticides that are safe for humans and bees.",
+    "one_liner": "Resistance free pesticides.",
     "team_size": 4,
     "industry": "Industrials",
     "subindustry": "Industrials -> Agriculture",
@@ -3004,6 +3093,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/almanac.json"
   },
   {
+    "id": 32616,
+    "name": "Orvixo",
+    "slug": "orvixo",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ddba7253c3011655d54f0092475cf8b1618333c9.png",
+    "website": "https://www.orvixo.ai/",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "Orvixo uses AI to build reactive end-to-end planning and optimisation models for manufacturers. ",
+    "one_liner": "AI advanced planning and optimisation for manufacturers.",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1784586834,
+    "tags": [
+      "Artificial Intelligence",
+      "Robotics",
+      "Manufacturing",
+      "Operations"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/orvixo",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/orvixo.json"
+  },
+  {
     "id": 32617,
     "name": "Whitespace",
     "slug": "whitespace",
@@ -3256,8 +3387,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b0ad1653f775fb272b3481e8715c274f46c2c464.png",
     "website": "https://www.risklytics.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Risklytics builds AI risk models that score natural disaster risk property by property, so insurers can write the good risks hiding inside 'high-risk' zones instead of declining entire ZIP codes. One API call returns the risk score, the drivers behind it, and the cheapest retrofit path to insurability.",
-    "one_liner": "Property-Level Natural Disaster Risk Modeling",
+    "long_description": "Risklytics is an AI-native brokerage for hard-to-place commercial insurance. We route each risk to the carriers that actually want it, collect the right information upfront, and send a complete package to the right underwriters the first time, so more risks bind with less back-and-forth.",
+    "one_liner": "AI-Native Brokerage for Hard-to-Place Commercial Insurance",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
@@ -3455,6 +3586,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/denta",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/denta.json"
+  },
+  {
+    "id": 32914,
+    "name": "Last Accounting Company",
+    "slug": "last-accounting-company",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cf21d2add4951b9271177840cd785b32579fdb0f.png",
+    "website": "https://lastaccountingcompany.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Last Accounting Company (LAC) is a full-stack AI accounting firm. We sell the same service (bookkeeping, tax filings, etc.) as a traditional accounting firm, but underneath agents handle everything and a certified accountant signs off. Our service is faster, cheaper, and fully integrated, allowing our clients to focus on what matters, not accounting admin.\r\n\r\nLAC replaces both outsourced accountants and legacy accounting software for startups and SMBs. Our system is fully proprietary, from the general ledger to the accounting agents. This allows us to create powerful self-reinforcing loops and ultimately provide a state-of-the-art accounting service.",
+    "one_liner": "Agent-native accounting firm.",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1784575015,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Finance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/last-accounting-company",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/last-accounting-company.json"
   },
   {
     "id": 32988,

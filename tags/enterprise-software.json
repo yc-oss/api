@@ -160,7 +160,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -1850,17 +1850,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dcbaa3bb5c44063d7f8556a66262b6a2852f72aa.png",
     "website": "https://www.backdropagent.com",
     "all_locations": "Seattle, WA, USA",
-    "long_description": "Operating system for autonomous AI agents. Agents come pre-configured and run in the cloud with their own identity. Teams can assign tasks, communicate with agents directly on Slack, and see a full audit trail of everything they did.",
-    "one_liner": "Hire your first AI Product team. ",
+    "long_description": "AI made execution faster. The bottleneck has shifted to deciding what to build while the knowledge behind those decisions is scattered across people, tools, and AI chats. Backdrop provides AI coworkers for projects and operations that understand your company, work with your team,and build shared company context. Across Slack, GitHub, Linear, Notion, Asana, Google Workspace and more, they synthesize customer feedback, create plans and specs, manage tickets, draft documents, and keep work moving.",
+    "one_liner": "AI coworkers for running projects and operations",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1677171652,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "B2B",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2998,7 +2998,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -3759,46 +3759,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rebolt",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/rebolt.json"
-  },
-  {
-    "id": 30353,
-    "name": "Axal",
-    "slug": "axal",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/82e9354c307a1bd5e3bca2ede62b3b0bdfbdba15.png",
-    "website": "https://www.axal.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Helping manufacturers and distributors eliminate manual work by automating operational processes with AI.\r\n",
-    "one_liner": "AI Workers for Manufacturing and Distribution ",
-    "team_size": 13,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1736891737,
-    "tags": [
-      "Manufacturing",
-      "Enterprise Software",
-      "Automation"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/axal",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/axal.json"
   },
   {
     "id": 30403,
@@ -4826,8 +4786,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7fc77bd9760310dfdeb4b8ba962b09280b614937.png",
     "website": "https://www.corelayer.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Corelayer is the AI-native platform for production software support, built for data-heavy, regulated industries like finance and healthcare. It continuously monitors alerts, logs, infrastructure, and underlying data for issues and uses agents to debug and suggest fixes.\r\n\r\nWe're helping teams at companies ranging from growth-stage fintechs to S&P 500 financial institutions spend less time on support and more on high-leverage work.",
-    "one_liner": "AI on-call engineer for data-heavy, regulated industries",
+    "long_description": "Corelayer is the AI-native platform for production software support, built for regulated industries like finance and healthcare. It continuously monitors alerts, logs, infrastructure, and underlying data for issues and uses agents to debug and suggest fixes.\r\n\r\nWe're helping SRE, production services, and on-call engineers at companies ranging from growth-stage fintechs to S&P 500 financial institutions spend less time on support and more on high-leverage work.",
+    "one_liner": "AI production engineer for regulated industries",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -4914,7 +4874,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/20339e5cb76cdfb65db692fb1ab38e8c6f710609.png",
     "website": "https://www.ritivel.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Bengaluru, KA, India",
     "long_description": "Ritivel is an AI-native workspace for regulatory and medical writing teams at life sciences companies. Our AI agents draft CTDs, CSRs, INDs, and BLAs in minutes instead of weeks, helping drugs reach patients faster.\r\n\r\nEvery month a drug is delayed from reaching the market costs pharma companies ~$45M in lost revenue and more importantly, delays treatment for thousands of patients who need it. Yet regulatory teams are stuck in a painful, months-long process: synthesizing thousands of pages of clinical data, hunting through SharePoint folders for the right documents, chasing colleagues for missing inputs, and manually drafting submissions.\r\n\r\nRitivel deploys AI agents that transform how regulatory teams work. Our agents generate comprehensive first drafts directly in Microsoft Word, following FDA formatting requirements and pulling from your existing clinical data and prior submissions. Every data point includes citations linked back to the original source, so reviewers can verify with one click. Connected to SharePoint and Veeva, our agents automatically source the right documents. Integrated with Outlook, they handle reminder emails and follow-ups automatically.\r\n\r\nWe're engineers who previously built AI copilots at Microsoft Research. After 50+ conversations with pharma professionals, we discovered the critical bottleneck in regulatory submissions and built Ritivel to solve it. ",
     "one_liner": "AI-native platform for Life-Sciences Documentation ",
     "team_size": 3,
@@ -4939,8 +4899,8 @@
       "Healthcare IT"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "India",
+      "South Asia"
     ],
     "stage": "Early",
     "app_video_public": false,

@@ -16344,7 +16344,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -19071,8 +19071,8 @@
     "subindustry": "Consumer -> Food and Beverage",
     "launched_at": 1541124185,
     "tags": [
+      "Robotics",
       "Consumer",
-      "Health & Wellness",
       "Food Tech"
     ],
     "tags_highlighted": [],
@@ -29323,7 +29323,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -32532,6 +32532,47 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/k-scale-labs.json"
   },
   {
+    "id": 29649,
+    "name": "Wordware",
+    "slug": "wordware",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ff410def03c8c58c3adc7db9615becc8164804e3.png",
+    "website": "https://wordware.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Most AI products hand you a coworker on day one and hope you trust it. Sauna is the coworker you raise: it starts by learning how you work, earns autonomy task by task, and ends up running hours of work on its own while you keep taste, review, and the final say. Wordware is the ~20-person team behind it, backed by Spark Capital, Felicis, and Y Combinator with a $30M seed, the largest in YC history. We build from a San Francisco office in the shadow of the Golden Gate Bridge, and we work absurdly hard because we can see and feel the outcome every day.",
+    "one_liner": "AI agents you can rely on",
+    "team_size": 15,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1715713232,
+    "tags": [
+      "AIOps",
+      "Developer Tools",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/wordware",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/wordware.json"
+  },
+  {
     "id": 29654,
     "name": "Stardrift",
     "slug": "stardrift",
@@ -33361,16 +33402,16 @@
     "website": "https://streamable.run",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "https://streamable.run\r\n",
-    "one_liner": "Enabling IRL streamers to do what they love.",
+    "one_liner": "Powering the biggest IRL streamers today.",
     "team_size": 4,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1727484339,
     "tags": [
-      "Artificial Intelligence",
       "Consumer",
       "Social Media",
-      "Live"
+      "Live",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -34611,9 +34652,9 @@
     "subindustry": "Consumer",
     "launched_at": 1753857560,
     "tags": [
+      "Artificial Intelligence",
       "Design",
-      "Crowdsourcing",
-      "AI"
+      "Crowdsourcing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -36327,7 +36368,11 @@
     "industry": "Consumer",
     "subindustry": "Consumer -> Gaming",
     "launched_at": 1773783180,
-    "tags": [],
+    "tags": [
+      "Consumer",
+      "Gaming",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
