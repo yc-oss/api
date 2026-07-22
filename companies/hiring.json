@@ -1690,7 +1690,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -14139,7 +14139,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -21025,7 +21025,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/23991b3eac1d06368b01c2f9ce5b893ba315f039.png",
     "website": "http://www.joinforage.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "San Diego, CA, USA",
     "long_description": "Forage is a mission-driven payments company that helps businesses accept government benefits through a single, unified API. Today, over 42 million Americans receive government assistance (ex: Supplemental Nutrition Assistance Program, or SNAP) to buy groceries. Starting with enabling EBT SNAP online, Forage builds the financial infrastructure empowering businesses to serve these shoppers online.",
     "one_liner": "Payments infrastructure for government benefits",
     "team_size": 66,
@@ -24412,6 +24412,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cozmo-ai",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/cozmo-ai.json"
+  },
+  {
+    "id": 25340,
+    "name": "Loops",
+    "slug": "loops",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ef8d8c9b30ba22bdd91401d412f32c73551f5439.png",
+    "website": "https://loops.so",
+    "all_locations": "Washington, DC, USA; New York, NY, USA; Remote",
+    "long_description": "Loops is a simple and beautiful email sending platform for SaaS companies. We have a Notion-style block editor for email creation, excellent deliverability for transactional mail and pre-built loops for SaaS companies to snap-in to increase their revenue and user engagement.",
+    "one_liner": "Email sending for startups",
+    "team_size": 9,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1643293654,
+    "tags": [
+      "Email"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/loops",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/loops.json"
   },
   {
     "id": 25350,
@@ -28553,7 +28594,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -29757,7 +29798,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -39105,49 +39146,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/ego.json"
   },
   {
-    "id": 29226,
-    "name": "Greptile",
-    "slug": "greptile",
-    "former_names": [
-      "Onboard AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/16a991d8af835ae196b30e656796c7aa6805c9d1.png",
-    "website": "https://www.greptile.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Greptile reviews pull requests with full context of the codebase. \r\n\r\nTop YC companies like PostHog, Raycast, Vouch, Podium, and YC's own internal software team use Greptile to review millions of changes every week. \r\n\r\nWhen companies start using Greptile, they catch more bugs and merge PRs 4x faster, on average\r\n\r\nGreptile can be used via the cloud, or be hosted 100% on your cloud in an air-gapped VPC.",
-    "one_liner": "AI code review agent with complete context of your codebase",
-    "team_size": 35,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1695668492,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Growth",
-    "app_video_public": true,
-    "demo_day_video_public": true,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/greptile",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/greptile.json"
-  },
-  {
     "id": 29231,
     "name": "Ubicloud",
     "slug": "ubicloud",
@@ -42088,7 +42086,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "The leading platform for building and managing AI voice agents that revolutionize contact center operations.",
     "one_liner": "Supercharge Your Contact Center Operations with AI Phone Agents",
-    "team_size": 40,
+    "team_size": 50,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1700513197,
@@ -42904,6 +42902,49 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/getcrux.json"
   },
   {
+    "id": 29517,
+    "name": "RetailReady",
+    "slug": "retailready",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/199d48c929434ddb64281cd83b9621eb37c3ed62.png",
+    "website": "https://www.retailreadyai.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Every time workers in a warehouse box an order, they reference a 100 page manual with instructions like where to put the shipping label. RetailReady replaces the instruction manual with a tablet application.",
+    "one_liner": "An AI-powered supply chain compliance engine",
+    "team_size": 12,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1705423924,
+    "tags": [
+      "B2B",
+      "Compliance",
+      "Logistics",
+      "Supply Chain",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/retailready",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/retailready.json"
+  },
+  {
     "id": 29524,
     "name": "Coval",
     "slug": "coval",
@@ -43156,7 +43197,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -48865,6 +48906,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/capy.json"
   },
   {
+    "id": 30097,
+    "name": "Innate",
+    "slug": "innate",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/374e6b2cd282f5fe31c64fcc82aaebb3105153c9.png",
+    "website": "https://innate.bot",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We make personal AI robots - general-purpose physical machines that anyone can program with code, language and demonstrations.\r\n\r\nWe believe building open platforms like the first PCs this is the only way to bring the robotics future that we all want, where everyone can participate in the robotics revolution.",
+    "one_liner": "Personal AI Robots",
+    "team_size": 7,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Consumer Electronics",
+    "launched_at": 1730365227,
+    "tags": [
+      "Developer Tools",
+      "Hard Tech",
+      "Robotics",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Consumer Electronics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/innate",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/innate.json"
+  },
+  {
     "id": 30100,
     "name": "Alex",
     "slug": "alex",
@@ -49610,7 +49693,7 @@
     "website": "https://subimage.io",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "SubImage builds maps of your infrastructure to give you visibility on what assets you have and how they relate to each other. This enables any security team to deeply understand their environments and reduce risk.\r\n\r\nSubImage is a managed offering built around the Cartography open-source project, and is founded by members of Cartography's original team.",
-    "one_liner": "The Open-Core Security Graph.",
+    "one_liner": "The Open-Core Security Graph",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
@@ -50106,10 +50189,10 @@
       "WorkWeave"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/983cb16d6906fc1a691557bf84b21313870ce3d0.png",
-    "website": "https://workweave.dev",
+    "website": "https://weaveos.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Weave uses AI to understand engineering.",
-    "one_liner": "AI to understand engineering work",
+    "long_description": "Weave builds AI to understand engineering work from prompt to production. We show how much faster AI is making your team, how that impacts quality, and what it's costing. \r\n\r\nWeave then takes that data to route all of your tasks to the most cost efficient model without compromising speed or quality.\r\n\r\nWeave is used by over 500+ orgs from startups to public companies like Robinhood, Posthog and Telnyx.",
+    "one_liner": "AI to understand and then route engineering work",
     "team_size": 14,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -51418,6 +51501,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/peppr-ai",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/peppr-ai.json"
+  },
+  {
+    "id": 30298,
+    "name": "Artificial Societies",
+    "slug": "artificial-societies",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f1ebd1806463e3909d4a1f7b197b6c3788ebf4c.png",
+    "website": "https://societies.io",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "Artificial Societies simulates how large groups of people respond to opinion surveys and react to information. We help global F100 enterprises anticipate how their most important stakeholders react to their most important decisions: from how investors and opinion-leaders react to comms messaging, to how high-value customers react to marketing strategies.\r\n\r\nWe are experts in human behaviour. James, our Founder and CEO, is a Cambridge psychologist and data scientist who led the seminal paper that studied how 33,000 AI chatbots interact. Patrick, our Founder and Chief Product Officer, is an Applied Behavioural Scientist with years of experience helping F500 enterprises conduct market research. They are joined by a team of behavioural scientists, social scientists, and political scientists, all with a passion for uniting technology and an understanding of humanity.\r\n\r\nWe know that every public-facing enterprise decision has million-dollar consequences. From how to position towards opinion-leaders, industry peers, and policymakers, to which marketing content to invest in, knowing how stakeholders would react matters. But traditional market research methods are too slow, too expensive, and often just fail to\r\nreach the stakeholders that truly matter.\r\n\r\nWe spend our lives solving this problem. Our offering is that we build bespoke AI\r\nsimulations of high-value audiences, for insights on questions no one else can answer. We’ve built up over 2.5 million AI personas that are all grounded in real human behaviour – not just what people say, but also what they do. \r\n\r\nBut our enterprise partners choose us not just because we have achieved 95% accuracy in simulating human opinions compared to human self-replication - more importantly, they choose us because of our ability to deliver impossible research projects. Such as having insights in under 24 hours, such as being able to test sensitive strategies on high-value audiences with 100% security, without human risk.\r\n\r\nAs a result, we’ve delivered over 18 million responses to global Fortune 100 enterprises, that helped shape over 100 million dollars’ worth of decisions ranging from global expansion strategies, product positioning, advertising, and strategic communications.\r\n\r\nOur vision of Artificial Societies is a Societal World Model that enables infinite experimentation, so that every organisation can have awareness of outcomes, before making a decision. No planes fly without a wind-tunnel; no medicines are approved without clinical trials; and yet, the biggest decision societies face today are taken as bets. We see Artificial Societies as a historically inevitable technology, and see it as our lives' mission to bring it to life.",
+    "one_liner": "We build networks of AI personas that simulate stakeholder opinions",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1739843143,
+    "tags": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "SaaS",
+      "B2B",
+      "Market Research"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/artificial-societies",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/artificial-societies.json"
   },
   {
     "id": 30301,
@@ -55249,48 +55375,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/lanesurf.json"
   },
   {
-    "id": 30619,
-    "name": "Shor",
-    "slug": "shor",
-    "former_names": [
-      "Kesher Link",
-      "ShorPay"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9323f5fe8a247ae355ff7d76dd80f82fd6b8e192.png",
-    "website": "https://www.shorpay.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Shor is international payroll, built for founders. Hire your first international employee or contractor at startup speed. Set up on one call, run payroll the same week.\r\n\r\nPay contractors and employ full-time team members through Shor's EOR across the world. Localized contracts, automatic compliance, and same-day local-currency payouts at a flat FX margin. No setup fees, no lock-ins.\r\n\r\nBacked by Polychain Capital, Founders Capital, and Goodwater, among others.",
-    "one_liner": "International payroll, built for founders",
-    "team_size": 4,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Payments",
-    "launched_at": 1753916245,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Payments"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/shor",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/shor.json"
-  },
-  {
     "id": 30622,
     "name": "Liva AI",
     "slug": "liva-ai",
@@ -56709,48 +56793,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/procindex",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/procindex.json"
-  },
-  {
-    "id": 30720,
-    "name": "Autosana",
-    "slug": "autosana",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5c7dda83aa113d5017c2cb187435ccccb356bd6a.png",
-    "website": "https://autosana.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Autosana is the end-to-end testing layer for your coding agents, across iOS, Android, and Web apps.\r\n\r\nStep away from your laptop. Come back to full-stack features built and tested end-to-end, production ready.\r\n\r\nAutosana creates, updates, and runs tests automatically from your code diffs. Locally, it loops with your coding agent until every test passes. In PRs, it loops with cloud agents and shows video proof of your new feature or bug fix working end-to-end.\r\n\r\nNo setup, no maintenance, just tests evolving with your codebase. Ship with confidence.",
-    "one_liner": "AI agents for E2E testing across mobile & web",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1751416575,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "B2B",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/autosana",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/autosana.json"
   },
   {
     "id": 30723,
@@ -58310,7 +58352,7 @@
     "former_names": [
       "Remediate"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c4abd74b393a1e6689bfee5e6e18611677894c03.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/490097dc2bb667a63917b9fa0c6e2003442ad353.png",
     "website": "https://usesoren.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Soren is the AI transformation partner for regulated institutions. We help companies identify, deploy, and operate AI safely across high-impact workflows.\r\n\r\nAs an AI-native company, we deliver outcomes in a fraction of the time and cost of traditional consulting firms while providing a more efficient, streamlined client experience.\r\n\r\nWe partner with organizations at every stage, from early exploration to full-scale AI transformations.",
@@ -59282,44 +59324,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/sourcebot.json"
   },
   {
-    "id": 30948,
-    "name": "Lua Global Inc",
-    "slug": "lua-global-inc",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/40655594dbcd381c6c79a9439597f94109447459.png",
-    "website": "https://heylua.ai/",
-    "all_locations": "London, England, United Kingdom",
-    "long_description": "Lua is the mid-market agent platform.\r\n\r\nWe deliver enterprise reliability with the speed, flexibility, and economics that mid-market companies demand - helping them deploy AI agents that drive sales, support, and operations across everyday channels and tools.\r\n\r\nWe scale through developer agencies and channel partners, enabling rapid distribution without a large enterprise sales motion or scaled forward deployed teams. We think of Lua as an agentOS that abstracts all of the complexity required to launch enterprise grade agents and combine it with the tools needed for these agents to succeed in the real world.\r\n\r\nLua was founded by Lorcan O Cathain (CEO) and Stefan Kruger (CTO)- experienced founders who have spent 15 - 20 years each scaling technology companies across emerging markets.\r\n\r\nWe sell to mid-market enterprises and developer agencies in the US and internationally. Developers are increasingly our primary ICP but we run SMB & enterprise sales motions to accelerate our learnings and further develop our product:\r\n- SMB ($25- 1k per month): fully automated self-serve agents that handle sales and support for eCommerce companies, hotels, restaurants and general service businesses. If you’ve been on our website you’ve likely seen this.\r\n- Enterprise: We directly sell to mid-market (~ $50M- $1BN) businesses across the US and internationally to eat our own dog food and strengthen our platform.\r\n",
-    "one_liner": "The mid-market agent platform",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1758009464,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United Kingdom",
-      "Europe",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lua-global-inc",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/lua-global-inc.json"
-  },
-  {
     "id": 30959,
     "name": "Kalpa Labs",
     "slug": "kalpa-labs",
@@ -60045,6 +60049,7 @@
     "launched_at": 1762209746,
     "tags": [
       "B2B",
+      "CRM",
       "Automation",
       "AI Assistant"
     ],
@@ -62997,45 +63002,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/prototypingio.json"
   },
   {
-    "id": 31440,
-    "name": "Mount",
-    "slug": "mount",
-    "former_names": [
-      "Cybe"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa5208859312a795f7e72dfb9eb2a5149785a216.png",
-    "website": "https://mount.insure",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "TLDR: Mount is building the AI insurance carrier, starting with liability coverage for deployed AI agents. As everyone moves AI Agents into production and gives them more responsibility, we help businesses insure and secure them.\r\n\r\nWhenever responsibility shifts from human operators to autonomous systems, so too does the liability that accompanies it. The systems also introduce new risks: agentic software failures, prompt injection attacks, autonomous workflow errors, data leaks, and more.\r\n\r\nLegacy insurance was not built for this. Existing policies are often silent, ambiguous, or exclude autonomous software, and traditional insurers lack the data and technical capability to assess deployed AI Systems.\r\n\r\nOur first product, the Mount AI Liability Policy, is built for mid-market and enterprise companies deploying autonomous AI agents in real business processes. We scan and red-team AI deployments, quantify operational risk, help fix vulnerabilities, and insure the residual risk with purpose-built AI liability coverage.\r\n\r\nMount is best thought of as a highly automated version of today's commercial insurance carriers, which run on manual workflows, layers of intermediaries, and tens of thousands of employees. AI enables automation of underwriting, pricing, policy issuance, claims, fraud detection, customer support, and distribution. We believe that the best way to use this opportunity is to rebuild those processes from the ground up. ",
-    "one_liner": "The AI Agent Insurance Carrier",
-    "team_size": 2,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Insurance",
-    "launched_at": 1775605248,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Insurance"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mount",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/mount.json"
-  },
-  {
     "id": 31443,
     "name": "Complir",
     "slug": "complir",
@@ -63491,6 +63457,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/arzana",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/arzana.json"
+  },
+  {
+    "id": 31513,
+    "name": "CharacterQuilt",
+    "slug": "characterquilt",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/35883346a2e401f4b3b0ca990dda1b700900858b.png",
+    "website": "https://characterquilt.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "CharacterQuilt builds computer use agents to deploy enterprise marketing campaigns. \r\n\r\nMarketers today don’t actually do much marketing at all.\r\n\r\nToday, over 80% of time spent on launching a marketing campaign is actually ops work: tweaking automation flows in Pardot, configuring audiences in LinkedIn, or wiring HTML emails in Marketo. \r\n\r\nWhat’s crazy about enterprise marketing is companies pay agencies millions of dollars just to deploy campaigns in their systems — and they still have to wait weeks for each one.\r\n\r\nCharacterQuilt is AI infrastructure for marketing teams: a brain that learns your brand, and agents that operate your existing tools. Marketing campaigns that used to take 3 agencies, 10 tools, and 6 weeks are now being built, designed, and deployed from CQ in an hour.\r\n\r\nCustomers submit a brief like they would send to a human teammate or marketing agency, and they get back fully designed and deployed campaigns.\r\n\r\nTeams like 1upHealth, ABC Fitness, and Emplifi use us to:\r\n\r\n1-) Build segments/audiences faster\r\n2-) Create on-brand creative (AI is terrible at staying on-brand)\r\n3-) Deploy campaigns automatically into HubSpot, WordPress, LinkedIn etc. \r\n\r\nWe replicate your brand guidelines, deeply understand past campaigns, and work inside your systems.\r\n\r\nIf you run demand gen or lifecycle at a B2B/B2C company and want to ship campaigns faster, send us a brief and we’ll build it in 15 minutes.\r\n",
+    "one_liner": "Computer use agents to deploy enterprise marketing campaigns",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1778455015,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/characterquilt",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/characterquilt.json"
   },
   {
     "id": 31518,

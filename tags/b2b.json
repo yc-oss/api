@@ -34727,7 +34727,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Infrastructure"
@@ -37679,7 +37679,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -41628,10 +41628,10 @@
       "WorkWeave"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/983cb16d6906fc1a691557bf84b21313870ce3d0.png",
-    "website": "https://workweave.dev",
+    "website": "https://weaveos.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Weave uses AI to understand engineering.",
-    "one_liner": "AI to understand engineering work",
+    "long_description": "Weave builds AI to understand engineering work from prompt to production. We show how much faster AI is making your team, how that impacts quality, and what it's costing. \r\n\r\nWeave then takes that data to route all of your tasks to the most cost efficient model without compromising speed or quality.\r\n\r\nWeave is used by over 500+ orgs from startups to public companies like Robinhood, Posthog and Telnyx.",
+    "one_liner": "AI to understand and then route engineering work",
     "team_size": 14,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -42425,7 +42425,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -44907,7 +44907,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -45713,7 +45713,7 @@
     "former_names": [
       "Remediate"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c4abd74b393a1e6689bfee5e6e18611677894c03.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/490097dc2bb667a63917b9fa0c6e2003442ad353.png",
     "website": "https://usesoren.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Soren is the AI transformation partner for regulated institutions. We help companies identify, deploy, and operate AI safely across high-impact workflows.\r\n\r\nAs an AI-native company, we deliver outcomes in a fraction of the time and cost of traditional consulting firms while providing a more efficient, streamlined client experience.\r\n\r\nWe partner with organizations at every stage, from early exploration to full-scale AI transformations.",
@@ -46881,6 +46881,7 @@
     "launched_at": 1762209746,
     "tags": [
       "B2B",
+      "CRM",
       "Automation",
       "AI Assistant"
     ],
@@ -47005,19 +47006,19 @@
       "TrustAI Labs"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/882660c8a18b052eaabe5a10460a291038b111a7.png",
-    "website": "https://auto.trytrust.ai/",
+    "website": "https://trytrust.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "TrustAI understands your context across the browser (CRMs, internal tools, Slack, GitHub) and suggests personalized automations you can run in one click. Accept, tweak, or ignore, then keep working while we handle the busywork in the background. ",
-    "one_liner": "Suggested cross-tool automations that run in one-click in background",
+    "long_description": "TrustAI provides governance for agents that interact with critical systems. We run evals across six domains: Data Privacy, Hallucinations, Permission Compliance, Robustness at Scale, Accountability, and Security. Through comprehensive pentests, we identify key vulnerabilities, suggest solutions, and analyze cost vs time efficiency. ",
+    "one_liner": "Continuous compliance and governance for agents on sensitive systems",
     "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
+    "subindustry": "B2B -> Security",
     "launched_at": 1783378352,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Workflow Automation",
-      "Productivity"
+      "Compliance",
+      "Security",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47027,7 +47028,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Infrastructure"
+      "Security"
     ],
     "regions": [
       "United States of America",
@@ -47853,16 +47854,17 @@
   },
   {
     "id": 32127,
-    "name": "Notyfi",
-    "slug": "notyfi",
+    "name": "Perceptron ML",
+    "slug": "perceptron-ml",
     "former_names": [
-      "Perceptron ML"
+      "Perceptron ML",
+      "Notyfi"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/39ef9d285402475a966cd1a646ae8e3b72115c89.png",
-    "website": "https://notyfi.com",
+    "website": "https://perceptronml.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Notyfi tracks anything you want, anywhere it happens. Tell us in plain English what matters, new lawsuits, layoffs, price drops, listings, RFPs, breaking news, and we watch the news, filings, databases, and the open web for it. You get notified instantly, hourly, daily, or weekly, by email, on a live dashboard, or directly into your agents and workflows through our API and MCP.",
-    "one_liner": "Live alerts for anything happening in the world.",
+    "long_description": "We are building a new way for AI to ground itself: a living database of real-time world facts. Our engine watches news, filings, databases, and the open web and compiles what it finds into structured facts. Each fact must compile, checked the way a mathematical proof is, so an agent citing it is citing something formally verified, not something plausible. Agents query it through our API and MCP to answer with what is true right now.",
+    "one_liner": "The ground-truth layer for AI agents.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -47890,8 +47892,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/notyfi",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/notyfi.json"
+    "url": "https://www.ycombinator.com/companies/perceptron-ml",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/perceptron-ml.json"
   },
   {
     "id": 32135,
@@ -48373,9 +48375,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1784444284,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Customer Success",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48582,11 +48585,11 @@
     "subindustry": "B2B -> Security",
     "launched_at": 1783888956,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Security",
       "Open Source",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48660,8 +48663,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2c42b391e7d2cf9beb71d20f5ce1ed2b4e77e77d.png",
     "website": "https://thebillow.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Billow handles the work of Accounting and FP&A FTEs for regulated companies while keeping teams compliant and audit-ready. We work within existing stacks (NetSuite, Coupa, and 80+ other systems) and complex spreadsheets, chasing down information and coordinating approvals across stakeholders. \r\n\r\nBuilt by repeat founders; Joan built and exited an accounting/ERP platform (45,000 businesses in 4 years) and Phil built Bloomberg's financial “brain” data infrastructure, and as CTO of a trading platform ($1B in volume). Advisors include CFOs, controllers, auditors from publicly-traded biopharma, and a Big-4 Accounting firm. ",
-    "one_liner": "AI-native Accounting & Finance Firm for Regulated Industries",
+    "long_description": "Billow handles the work of Accounting and FP&A FTEs while keeping teams compliant and audit-ready. We work within existing stacks (NetSuite, Coupa, and 80+ other systems) and complex spreadsheets, chasing down information and coordinating approvals across stakeholders. \r\n\r\nBuilt by repeat founders; Joan built and exited an accounting/ERP platform (45,000 businesses in 4 years) and Phil built Bloomberg's financial “brain” data infrastructure, and as CTO of a trading platform ($1B in volume). Advisors include CFOs, controllers, auditors from publicly-traded biopharma, and a Big-4 Accounting firm. ",
+    "one_liner": "AI-native Accounting & Finance Firm to Replace the Big-4",
     "team_size": 0,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",

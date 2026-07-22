@@ -3896,7 +3896,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -4363,7 +4363,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -15344,7 +15344,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "Consumer",
       "Apparel and Cosmetics"
@@ -18481,7 +18481,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -18494,7 +18494,7 @@
       "America / Canada"
     ],
     "stage": "Growth",
-    "app_video_public": true,
+    "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
     "question_answers": false,
@@ -21235,7 +21235,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "The leading platform for building and managing AI voice agents that revolutionize contact center operations.",
     "one_liner": "Supercharge Your Contact Center Operations with AI Phone Agents",
-    "team_size": 40,
+    "team_size": 50,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1700513197,
@@ -21983,7 +21983,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -26834,7 +26834,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2024",
     "status": "Active",
@@ -27603,10 +27603,10 @@
       "WorkWeave"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/983cb16d6906fc1a691557bf84b21313870ce3d0.png",
-    "website": "https://workweave.dev",
+    "website": "https://weaveos.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Weave uses AI to understand engineering.",
-    "one_liner": "AI to understand engineering work",
+    "long_description": "Weave builds AI to understand engineering work from prompt to production. We show how much faster AI is making your team, how that impacts quality, and what it's costing. \r\n\r\nWeave then takes that data to route all of your tasks to the most cost efficient model without compromising speed or quality.\r\n\r\nWeave is used by over 500+ orgs from startups to public companies like Robinhood, Posthog and Telnyx.",
+    "one_liner": "AI to understand and then route engineering work",
     "team_size": 14,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -28890,9 +28890,9 @@
     "former_names": [
       "Roark AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7eeed88cf20d9f39f503ec2708b6bf85e2e7e652.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6f767546eea69824b40dd475b83ae01dafa05b12.png",
     "website": "https://roark.ai",
-    "all_locations": "Mosta, Malta",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Roark helps teams test, monitor, and improve their voice agents.\r\n\r\nVoice AI is exploding, but reliability is still the #1 challenge. Teams spend hours manually testing agents and still miss failures. In the last 6 months, Roark has processed over 10M minutes of calls, powering monitoring and simulation for teams across the Voice AI ecosystem (including YC companies).\r\n\r\nWe close that gap by combining:\r\n\r\n 📊 Monitoring & Evaluation - 40+ built-in metrics (latency, instruction-follow, sentiment, etc.), custom dashboards, alerts, and the ability to define your own. Up to 15 speakers with automatic speaker identification.\r\n 🎭 Simulations & Personas - end-to-end phone/WebSocket simulations for inbound and outbound agents, with configurable personas (accents, languages, speech & behavior profiles). Define tests as conversations with a graph-based approach, so you can easily branch into edge cases and variants.\r\n 🔁 Full lifecycle loop - failed calls automatically become repeatable tests, so every failure makes your agent stronger.\r\n\r\nRoark is the missing QA layer for Voice AI - helping teams ship agents they can trust.",
     "one_liner": "Test, monitor, and improve your voice agents",
     "team_size": 3,
@@ -28915,8 +28915,8 @@
       "Analytics"
     ],
     "regions": [
-      "Malta",
-      "Europe"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -32832,46 +32832,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/geo-ai.json"
   },
   {
-    "id": 30796,
-    "name": "Sapien",
-    "slug": "outrove",
-    "former_names": [
-      "Outrove"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/62e9c70a8a12f0b75b6d48d832ab38d6df702d0e.png",
-    "website": "https://www.outrove.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Surveys ask people what they think they’ll do. Focus groups ask a handful of people to explain behavior they often don’t understand themselves.\r\n\r\nOutrove simulates entire populations instead. We create AI agents that model how real audiences behave, letting companies, governments, and investors test decisions in minutes: what product to launch, what price to set, what campaign to run, what policy will work, or how a market will move.\r\n\r\nThe output is not another dashboard. It’s a prediction of what will happen, which segments will drive it, and what decision is most likely to win.",
-    "one_liner": "Synthetic populations for decisions",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1753159084,
-    "tags": [
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/outrove",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/outrove.json"
-  },
-  {
     "id": 30797,
     "name": "Veritus",
     "slug": "veritus",
@@ -33477,7 +33437,7 @@
     "former_names": [
       "Remediate"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c4abd74b393a1e6689bfee5e6e18611677894c03.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/490097dc2bb667a63917b9fa0c6e2003442ad353.png",
     "website": "https://usesoren.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Soren is the AI transformation partner for regulated institutions. We help companies identify, deploy, and operate AI safely across high-impact workflows.\r\n\r\nAs an AI-native company, we deliver outcomes in a fraction of the time and cost of traditional consulting firms while providing a more efficient, streamlined client experience.\r\n\r\nWe partner with organizations at every stage, from early exploration to full-scale AI transformations.",
@@ -33981,46 +33941,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/leadbay",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/leadbay.json"
-  },
-  {
-    "id": 30943,
-    "name": "Aside",
-    "slug": "aside",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e9196c93cd4fc802b51eabcb6432760d1efd3fb.png",
-    "website": "https://aside.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Aside is an AI browser that completes real work across the websites you already use. It can sign in through your browser, work inside email, dashboards, internal tools, docs, and spreadsheets, and keep going when a task takes minutes or hours.\r\n\r\nUnlike agents that depend on integrations, Aside uses the web the way you do. Browsing history becomes local memory, so it knows which tools and context matter. Its password manager lets agents autofill credentials without exposing secrets to the AI. Sensitive actions like payments, posts, and messages wait for your approval.\r\n\r\nAside is built as a fast daily browser plus a state-of-the-art browser agent. It ranks #1 on Online-Mind2Web, BU-Bench-V1, and Odysseys, and runs local-first with device-protected memory and data.",
-    "one_liner": "The browser built to do real work for you",
-    "team_size": 3,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1760485553,
-    "tags": [
-      "SaaS",
-      "Automation",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/aside",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/aside.json"
   },
   {
     "id": 30947,
@@ -34753,6 +34673,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/corvera",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/corvera.json"
+  },
+  {
+    "id": 31074,
+    "name": "TrustAI",
+    "slug": "trustai",
+    "former_names": [
+      "EvalAI",
+      "TrustAI Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/882660c8a18b052eaabe5a10460a291038b111a7.png",
+    "website": "https://trytrust.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "TrustAI provides governance for agents that interact with critical systems. We run evals across six domains: Data Privacy, Hallucinations, Permission Compliance, Robustness at Scale, Accountability, and Security. Through comprehensive pentests, we identify key vulnerabilities, suggest solutions, and analyze cost vs time efficiency. ",
+    "one_liner": "Continuous compliance and governance for agents on sensitive systems",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1783378352,
+    "tags": [
+      "B2B",
+      "Compliance",
+      "Security",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/trustai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/trustai.json"
   },
   {
     "id": 31076,
@@ -36535,8 +36500,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4791de2dabb8bec7ed5148dd8de1f8400f029cbd.png",
     "website": "https://bizmark.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Bizmark is the bespoke operating system for manufacturers and distributors. It connects the systems, spreadsheets, and knowledge a company already has, and turns them into optimized decisions and automated workflows: quotes priced in minutes, schedules that reflow when a machine goes down, inventory balanced between service levels and cash. Working product in weeks, not years. Building it with our first customers now.",
-    "one_liner": "The bespoke operating system for manufacturers and distributors.",
+    "long_description": "Bizmark is the bespoke operating system for manufacturers. It connects the systems, spreadsheets, and knowledge a company already has, and turns them into optimized decisions and automated workflows: quotes priced in minutes, schedules that reflow when a machine goes down, inventory balanced between service levels and cash. Working product in weeks, not years. Building it with our first customers now.",
+    "one_liner": "The bespoke operating system for manufacturers.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -36782,47 +36747,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/6thsense.json"
   },
   {
-    "id": 32620,
-    "name": "Vendo",
-    "slug": "vendo",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/78a3b3436ef4b4e09e82a4c3fcc2733004348735.png",
-    "website": "https://vendo.run/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Vendo is the customization layer that lets your users build their own features and micro-apps directly on top of your product. Rather than waiting on an ever-growing feature backlog, your users can personalize the product to exactly how they work, create their own automations, and integrate hundreds of external tools, all without your team writing a line of code.\r\n\r\nEverything runs on your existing API, renders natively in your own theme and components, and executes inside secure sandboxes within your existing security guardrails, so your source code is never touched. Companies can plug Vendo into an agent they already have, or deploy a production-ready agent complete with the ability to take actions in the product, generate UI, and draw on a built-in knowledge base. Vendo is open source and installs with a single command, and we work closely with teams to get it running for their product.",
-    "one_liner": "Let your users build their own features on top of your product",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1784444284,
-    "tags": [
-      "B2B",
-      "Customer Success",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/vendo",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/vendo.json"
-  },
-  {
     "id": 32622,
     "name": "Rational",
     "slug": "rational",
@@ -37066,6 +36990,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/denta",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/denta.json"
+  },
+  {
+    "id": 32814,
+    "name": "Computable",
+    "slug": "computable",
+    "former_names": [
+      "Hobby.Trade"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4778fcb121d43a885f6b39a13d66a2fe2364fb1a.png",
+    "website": "https://getcomputable.com",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "",
+    "one_liner": "Buy, sell, and redeem GPU hours for any week with instant liquidity",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1784612730,
+    "tags": [
+      "Marketplace",
+      "Finance",
+      "Cloud Computing",
+      "Trading",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/computable",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/computable.json"
   },
   {
     "id": 33014,
@@ -37315,49 +37283,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/justinian",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/justinian.json"
-  },
-  {
-    "id": 33320,
-    "name": "OneCLI",
-    "slug": "onecli",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0405005492b7122ac5f4784e260fc64d7bd99053.png",
-    "website": "https://onecli.sh",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "OneCLI is a credential isolation gateway for AI agents. Agents see placeholder tokens instead of real API keys and OAuth credentials, the real secrets are injected at the network layer, so a compromised or misbehaving agent can never leak them. \r\n\r\nTeams get per-agent access control, full audit logs, and one-click integrations with Gmail, GitHub, Jira, Slack, and 50+ other apps. OneCLI is open source (2.5K+ GitHub stars, 300K+ downloads), Already the default credential layer for products like NanoClaw.",
-    "one_liner": "The Identity Gateway for AI Agents",
-    "team_size": 0,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1783888956,
-    "tags": [
-      "B2B",
-      "Security",
-      "Open Source",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/onecli",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/onecli.json"
   },
   {
     "id": 33349,

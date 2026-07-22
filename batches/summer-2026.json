@@ -143,19 +143,19 @@
       "TrustAI Labs"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/882660c8a18b052eaabe5a10460a291038b111a7.png",
-    "website": "https://auto.trytrust.ai/",
+    "website": "https://trytrust.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "TrustAI understands your context across the browser (CRMs, internal tools, Slack, GitHub) and suggests personalized automations you can run in one click. Accept, tweak, or ignore, then keep working while we handle the busywork in the background. ",
-    "one_liner": "Suggested cross-tool automations that run in one-click in background",
+    "long_description": "TrustAI provides governance for agents that interact with critical systems. We run evals across six domains: Data Privacy, Hallucinations, Permission Compliance, Robustness at Scale, Accountability, and Security. Through comprehensive pentests, we identify key vulnerabilities, suggest solutions, and analyze cost vs time efficiency. ",
+    "one_liner": "Continuous compliance and governance for agents on sensitive systems",
     "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
+    "subindustry": "B2B -> Security",
     "launched_at": 1783378352,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Workflow Automation",
-      "Productivity"
+      "Compliance",
+      "Security",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -165,7 +165,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Infrastructure"
+      "Security"
     ],
     "regions": [
       "United States of America",
@@ -603,7 +603,7 @@
       "Litmus",
       "Avert"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/39a17e0191e960065ada172370fa314ccb65fc28.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4a56ea18c8e5d64454459c33f797c9c803995b44.png",
     "website": "https://litmushiring.com/",
     "all_locations": "New York City, NY, USA",
     "long_description": "Litmus is the most accurate read on how an engineer actually builds. We evaluate candidates through async technical assessments built from your own tech context (repos, tickets, and job descriptions), generated from scratch and scoped as real end-to-end features. Candidates work in their own setup with all their tools including AI, while we track and evaluate their process and output. Every submission runs in a sandbox, and grading is tuned to your company across tool fluency, process, and outcome. You get a real read on how someone actually builds, not just how they interview.",
@@ -983,6 +983,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/rekursivai.json"
   },
   {
+    "id": 31569,
+    "name": "Proprio Robotics",
+    "slug": "proprio-robotics",
+    "former_names": [
+      "Proprio"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3aeac99898de10d679342b3768b7bc6047f56469.png",
+    "website": "https://www.propriorobotics.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Building autonomous data centers",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1784630562,
+    "tags": [
+      "Artificial Intelligence",
+      "Robotics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/proprio-robotics",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/proprio-robotics.json"
+  },
+  {
     "id": 31570,
     "name": "Rindler",
     "slug": "rindler",
@@ -1328,16 +1370,17 @@
   },
   {
     "id": 32127,
-    "name": "Notyfi",
-    "slug": "notyfi",
+    "name": "Perceptron ML",
+    "slug": "perceptron-ml",
     "former_names": [
-      "Perceptron ML"
+      "Perceptron ML",
+      "Notyfi"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/39ef9d285402475a966cd1a646ae8e3b72115c89.png",
-    "website": "https://notyfi.com",
+    "website": "https://perceptronml.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Notyfi tracks anything you want, anywhere it happens. Tell us in plain English what matters, new lawsuits, layoffs, price drops, listings, RFPs, breaking news, and we watch the news, filings, databases, and the open web for it. You get notified instantly, hourly, daily, or weekly, by email, on a live dashboard, or directly into your agents and workflows through our API and MCP.",
-    "one_liner": "Live alerts for anything happening in the world.",
+    "long_description": "We are building a new way for AI to ground itself: a living database of real-time world facts. Our engine watches news, filings, databases, and the open web and compiles what it finds into structured facts. Each fact must compile, checked the way a mathematical proof is, so an agent citing it is citing something formally verified, not something plausible. Agents query it through our API and MCP to answer with what is true right now.",
+    "one_liner": "The ground-truth layer for AI agents.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -1365,8 +1408,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/notyfi",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/notyfi.json"
+    "url": "https://www.ycombinator.com/companies/perceptron-ml",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/perceptron-ml.json"
   },
   {
     "id": 32130,
@@ -1410,6 +1453,49 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/olam-labs",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/olam-labs.json"
+  },
+  {
+    "id": 32131,
+    "name": "Shielded",
+    "slug": "shielded",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eec883dcf84a87963c1d7874cef470c16c9dad19.png",
+    "website": "https://www.shieldedglobal.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Shielded is like wearing a Fitbit for your company's financial and supply chain health. \r\n\r\nWe unify your internal ERP and data systems with external information sources, map how external prices and events flow through to your margins, and continuously track it all. \r\n\r\nThat means opportunities and risks are flagged to you proactively, without the need to dig through and manually aggregate data. ",
+    "one_liner": "We automate supply chain and financial risk management ",
+    "team_size": 0,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1784606823,
+    "tags": [
+      "Fintech",
+      "Supply Chain",
+      "Agriculture",
+      "Energy",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/shielded",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/shielded.json"
   },
   {
     "id": 32133,
@@ -2135,8 +2221,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4791de2dabb8bec7ed5148dd8de1f8400f029cbd.png",
     "website": "https://bizmark.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Bizmark is the bespoke operating system for manufacturers and distributors. It connects the systems, spreadsheets, and knowledge a company already has, and turns them into optimized decisions and automated workflows: quotes priced in minutes, schedules that reflow when a machine goes down, inventory balanced between service levels and cash. Working product in weeks, not years. Building it with our first customers now.",
-    "one_liner": "The bespoke operating system for manufacturers and distributors.",
+    "long_description": "Bizmark is the bespoke operating system for manufacturers. It connects the systems, spreadsheets, and knowledge a company already has, and turns them into optimized decisions and automated workflows: quotes priced in minutes, schedules that reflow when a machine goes down, inventory balanced between service levels and cash. Working product in weeks, not years. Building it with our first customers now.",
+    "one_liner": "The bespoke operating system for manufacturers.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -3191,9 +3277,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1784444284,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Customer Success",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3586,6 +3673,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/denta",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/denta.json"
+  },
+  {
+    "id": 32814,
+    "name": "Computable",
+    "slug": "computable",
+    "former_names": [
+      "Hobby.Trade"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4778fcb121d43a885f6b39a13d66a2fe2364fb1a.png",
+    "website": "https://getcomputable.com",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "",
+    "one_liner": "Buy, sell, and redeem GPU hours for any week with instant liquidity",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1784612730,
+    "tags": [
+      "Marketplace",
+      "Finance",
+      "Cloud Computing",
+      "Trading",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/computable",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/computable.json"
   },
   {
     "id": 32914,
@@ -4595,11 +4726,11 @@
     "subindustry": "B2B -> Security",
     "launched_at": 1783888956,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Security",
       "Open Source",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4636,7 +4767,7 @@
     "website": "https://nex.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Nex automates the messy business and GTM workflows that no tool could handle before, taking real actions across 1000+ integrations. Instead of just chatting, the agent writes code as it works to make workflows deterministic, fast, and cheap to re-run, and delivers real output: a Slack message, an opened PR, or a live structured data table. Built for teams.",
-    "one_liner": "Turn manual workflows into AI agents",
+    "one_liner": "Claude Cowork with your model of choice",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -4853,8 +4984,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2c42b391e7d2cf9beb71d20f5ce1ed2b4e77e77d.png",
     "website": "https://thebillow.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Billow handles the work of Accounting and FP&A FTEs for regulated companies while keeping teams compliant and audit-ready. We work within existing stacks (NetSuite, Coupa, and 80+ other systems) and complex spreadsheets, chasing down information and coordinating approvals across stakeholders. \r\n\r\nBuilt by repeat founders; Joan built and exited an accounting/ERP platform (45,000 businesses in 4 years) and Phil built Bloomberg's financial “brain” data infrastructure, and as CTO of a trading platform ($1B in volume). Advisors include CFOs, controllers, auditors from publicly-traded biopharma, and a Big-4 Accounting firm. ",
-    "one_liner": "AI-native Accounting & Finance Firm for Regulated Industries",
+    "long_description": "Billow handles the work of Accounting and FP&A FTEs while keeping teams compliant and audit-ready. We work within existing stacks (NetSuite, Coupa, and 80+ other systems) and complex spreadsheets, chasing down information and coordinating approvals across stakeholders. \r\n\r\nBuilt by repeat founders; Joan built and exited an accounting/ERP platform (45,000 businesses in 4 years) and Phil built Bloomberg's financial “brain” data infrastructure, and as CTO of a trading platform ($1B in volume). Advisors include CFOs, controllers, auditors from publicly-traded biopharma, and a Big-4 Accounting firm. ",
+    "one_liner": "AI-native Accounting & Finance Firm to Replace the Big-4",
     "team_size": 0,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
@@ -4978,7 +5109,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/716e828c9efd6efe6da64574ff67dd5bfa0c2a25.png",
     "website": "https://experientiallabs.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "An applied AI research lab building world models for agents. We simulate reality faster and more accurately based on the technology self-driving uses to get 99.7% reconstruction fidelity.",
+    "long_description": "An applied research lab building AI that is 90% cheaper while matching the performance of frontier models. We do this by simulating reality faster and more accurately based on the technology self-driving uses to get near perfect reconstruction fidelity.",
     "one_liner": "World models for agents",
     "team_size": 2,
     "industry": "B2B",

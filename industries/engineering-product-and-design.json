@@ -7576,7 +7576,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -16368,7 +16368,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -16381,7 +16381,7 @@
       "America / Canada"
     ],
     "stage": "Growth",
-    "app_video_public": true,
+    "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
     "question_answers": false,
@@ -18261,7 +18261,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -20918,10 +20918,10 @@
       "WorkWeave"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/983cb16d6906fc1a691557bf84b21313870ce3d0.png",
-    "website": "https://workweave.dev",
+    "website": "https://weaveos.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Weave uses AI to understand engineering.",
-    "one_liner": "AI to understand engineering work",
+    "long_description": "Weave builds AI to understand engineering work from prompt to production. We show how much faster AI is making your team, how that impacts quality, and what it's costing. \r\n\r\nWeave then takes that data to route all of your tasks to the most cost efficient model without compromising speed or quality.\r\n\r\nWeave is used by over 500+ orgs from startups to public companies like Robinhood, Posthog and Telnyx.",
+    "one_liner": "AI to understand and then route engineering work",
     "team_size": 14,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -23304,7 +23304,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -25229,48 +25229,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/superset.json"
   },
   {
-    "id": 31231,
-    "name": "Glue",
-    "slug": "glue",
-    "former_names": [
-      "Willow"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/94793bf221bc6ce91588050e2c5778b8af1a1941.png",
-    "website": "https://buildwithglue.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Glue is an open source design editor for AI agents. It gives coding agents an infinite canvas to create new interfaces, iterate on existing ones, and turn those changes into production-ready code all in real time.\r\n\r\nThe rise of coding agents is collapsing EPD into one role: builders. This new paradigm means design and engineering can now converge to a single workflow. Builders no longer want static mockups in one tool, and implementation in another.\r\n\r\nGlue is a collaborative workspace where builders and agents can create new components, iterate on existing interfaces, and implement as code. The same tight feedback loop that once made Figma powerful for designers is now built for builders and their armies of agents. Being open source allows us to penetrate workflows at zero cost and build trust quickly.\r\n\r\nRight now there are no design tools with AI as the primary user. Existing tools bolt on copilots as an afterthought. Soon, every company will have AI agents building their interfaces. We are building the surface for this workflow.",
-    "one_liner": "The Interface Design Canvas for AI agents",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1772831162,
-    "tags": [
-      "Developer Tools",
-      "Design Tools"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/glue",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/glue.json"
-  },
-  {
     "id": 31241,
     "name": "Corelayer",
     "slug": "corelayer",
@@ -26137,9 +26095,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1784444284,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Customer Success",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,

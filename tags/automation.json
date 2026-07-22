@@ -3379,16 +3379,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e9196c93cd4fc802b51eabcb6432760d1efd3fb.png",
     "website": "https://aside.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Aside is an AI browser that completes real work across the websites you already use. It can sign in through your browser, work inside email, dashboards, internal tools, docs, and spreadsheets, and keep going when a task takes minutes or hours.\r\n\r\nUnlike agents that depend on integrations, Aside uses the web the way you do. Browsing history becomes local memory, so it knows which tools and context matter. Its password manager lets agents autofill credentials without exposing secrets to the AI. Sensitive actions like payments, posts, and messages wait for your approval.\r\n\r\nAside is built as a fast daily browser plus a state-of-the-art browser agent. It ranks #1 on Online-Mind2Web, BU-Bench-V1, and Odysseys, and runs local-first with device-protected memory and data.",
+    "long_description": "Aside is an AI browser that completes real work across the websites you already use. It can sign in through your browser, work inside email, dashboards, internal tools, docs, and spreadsheets, and keep going when a task takes minutes or hours.\r\n\r\nUnlike agents that depend on integrations, Aside uses the web the way you do. Browsing history becomes local memory, so it knows which tools and context matter. Its password manager lets agents autofill credentials without exposing secrets to the AI. Sensitive actions like payments, posts, and messages wait for your approval.\r\n\r\nAside achieved a state-of-the-art on agentic browsing tasks. Aside is ranked #1 across Mind2Web, Odyssey, bu-bench-v1, outperforming Claude Cowork and ChatGPT Atlas's result.",
     "one_liner": "The browser built to do real work for you",
     "team_size": 3,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1760485553,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3401,7 +3401,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3427,6 +3429,7 @@
     "launched_at": 1762209746,
     "tags": [
       "B2B",
+      "CRM",
       "Automation",
       "AI Assistant"
     ],
@@ -3710,16 +3713,17 @@
   },
   {
     "id": 32127,
-    "name": "Notyfi",
-    "slug": "notyfi",
+    "name": "Perceptron ML",
+    "slug": "perceptron-ml",
     "former_names": [
-      "Perceptron ML"
+      "Perceptron ML",
+      "Notyfi"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/39ef9d285402475a966cd1a646ae8e3b72115c89.png",
-    "website": "https://notyfi.com",
+    "website": "https://perceptronml.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Notyfi tracks anything you want, anywhere it happens. Tell us in plain English what matters, new lawsuits, layoffs, price drops, listings, RFPs, breaking news, and we watch the news, filings, databases, and the open web for it. You get notified instantly, hourly, daily, or weekly, by email, on a live dashboard, or directly into your agents and workflows through our API and MCP.",
-    "one_liner": "Live alerts for anything happening in the world.",
+    "long_description": "We are building a new way for AI to ground itself: a living database of real-time world facts. Our engine watches news, filings, databases, and the open web and compiles what it finds into structured facts. Each fact must compile, checked the way a mathematical proof is, so an agent citing it is citing something formally verified, not something plausible. Agents query it through our API and MCP to answer with what is true right now.",
+    "one_liner": "The ground-truth layer for AI agents.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -3747,8 +3751,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/notyfi",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/notyfi.json"
+    "url": "https://www.ycombinator.com/companies/perceptron-ml",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/perceptron-ml.json"
   },
   {
     "id": 32187,
@@ -3800,8 +3804,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4791de2dabb8bec7ed5148dd8de1f8400f029cbd.png",
     "website": "https://bizmark.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Bizmark is the bespoke operating system for manufacturers and distributors. It connects the systems, spreadsheets, and knowledge a company already has, and turns them into optimized decisions and automated workflows: quotes priced in minutes, schedules that reflow when a machine goes down, inventory balanced between service levels and cash. Working product in weeks, not years. Building it with our first customers now.",
-    "one_liner": "The bespoke operating system for manufacturers and distributors.",
+    "long_description": "Bizmark is the bespoke operating system for manufacturers. It connects the systems, spreadsheets, and knowledge a company already has, and turns them into optimized decisions and automated workflows: quotes priced in minutes, schedules that reflow when a machine goes down, inventory balanced between service levels and cash. Working product in weeks, not years. Building it with our first customers now.",
+    "one_liner": "The bespoke operating system for manufacturers.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
