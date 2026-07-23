@@ -8976,7 +8976,7 @@
     "all_locations": "Paris, Île-de-France, France",
     "long_description": "Formance Platform is building open-source infrastructure for the next wave of financial services. It enables fintech engineers to build and operate complex flow of funds, weaving together multiple payment rails with internal ledger accounts.\r\n\r\ngithub.com/formancehq/stack",
     "one_liner": "Open Source Infrastructure for the Financial Internet",
-    "team_size": 30,
+    "team_size": 33,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1626469942,
@@ -9002,7 +9002,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -15473,9 +15473,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6668d68dbb65664dcc7f40eff60e4ee586f09132.png",
     "website": "https://paradedb.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "You want better search, not the burden of Elasticsearch. ParadeDB is the modern Elastic alternative built as a Postgres extension.",
-    "one_liner": "Simple, Elastic-quality search for Postgres",
-    "team_size": 10,
+    "long_description": "Search without a second system. One Postgres for your application data, full-text search, vector retrieval, and aggregations.",
+    "one_liner": "Unify application data, vectors, and full-text search in one Postgres",
+    "team_size": 11,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1689280457,
@@ -18495,46 +18495,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/voker.json"
   },
   {
-    "id": 29854,
-    "name": "Keet",
-    "slug": "keet",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e0caa2cad35d6f34cdbfbf4ac96d85d2f1a09ca.png",
-    "website": "https://trykeet.com",
-    "all_locations": "New York City, NY, USA",
-    "long_description": "Keet provides authentication for AI agents. Developers use us to connect their customers accounts and perform actions on their behalf. \r\n\r\nWhether it be legacy software or consumer sites, Keet manages your users authenticated sessions and provides stable integrations on any web platform. Now your AI Agent can access healthcare data or send automated messages on LinkedIn via Keet’s API or SDK.",
-    "one_liner": "Authentication for AI Agents",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1724878024,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/keet",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/keet.json"
-  },
-  {
     "id": 29960,
     "name": "Void",
     "slug": "void",
@@ -19253,9 +19213,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f292fd64c9e2943d040e390cd2700e19b243bb8c.png",
     "website": "https://struct.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Struct cross-references logs, metrics, traces, and your codebase to accurately root-cause eng alerts and bugs. \r\n\r\nIntegrate your entire stack in minutes, auto-investigate every issue, dive deeper at will, and hand-off context to fix in one click.\r\n",
-    "one_liner": "Automate your on-call runbook",
-    "team_size": 2,
+    "long_description": "Struct autonomously investigates alerts and incidents using telemetry, code, and databases. It centralizes tribal knowledge for oncall teams by learning the system and generating oncall runbooks.\r\n\r\nOnboarding takes 5 minutes.\r\n",
+    "one_liner": "Agents that keep prod running",
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1727386579,
@@ -21524,7 +21484,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -23236,9 +23196,9 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c00ce2cbd95a0e0d81ff55b96ce241fb3462c28b.png",
     "website": "https://machine0.io",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "machine0 is a CLI that lets you create, provision, and snapshot cloud VMs. `machine0 new my-vm` spins up a VM with dedicated CPU, RAM, and optional GPUs, plus a static IP and HTTPS endpoint. The tools agents need (e.g. Node, Python, Docker) and the agents themselves (e.g. Claude Code, Codex, OpenClaw, Hermes) come pre-installed. 99.99% VM uptime SLA across four regions.\r\n\r\nAgent workloads are moving from ephemeral to always-on. A coding agent debugging a complex issue runs 4-8 hours. OpenClaw runs 24/7. machine0 is the environment in which these agents run.",
-    "one_liner": "Persistent & powerful cloud VMs from your CLI",
+    "all_locations": "Paris, Île-de-France, France",
+    "long_description": "machine0 is a CLI for agent compute: `machine0 new mybox` gives your agent a full cloud VM, billed by the minute, from small up to 60 vCPU / 240 GB and 8×H100s. Agents drive it themselves via CLI or MCP.\r\n\r\nAgent workloads are moving from ephemeral to always-on. A coding agent working on a hard feature runs 6-8 hours. Auto-research agents run for days. machine0 is the environment in which these agents run.",
+    "one_liner": "One command gives your agent its own cloud computer",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -23258,8 +23218,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "France",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -23327,6 +23287,7 @@
     "subindustry": "B2B -> Analytics",
     "launched_at": 1783481375,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Analytics",
       "Monitoring"

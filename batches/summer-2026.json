@@ -91,6 +91,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/withasync.json"
   },
   {
+    "id": 30672,
+    "name": "Induction Labs",
+    "slug": "induction-labs",
+    "former_names": [
+      "Next Action"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c2f926be6434de6b8c75a3a873f2b79fe0bdf59.png",
+    "website": "https://inductionlabs.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We are scaling foundation models that are curious about the world.\r\n\r\nWe’ve seen general intelligence appear exactly once, and its hallmark has been curiosity: a dissatisfaction with what we already know about the world, an ability to learn from world experience, and a disposition to share knowledge with other individuals. Across generations, these human traits have built modern science, technology, and culture.\r\n\r\nWe think superintelligence will come from models that work the same way: learning from their own observation, updating as they go, growing what they know. These models will start from what humanity knows and discover past us.\r\n\r\nWe believe that scaling curious intelligence is a defining problem of our time. If solved, we will live to see a new era of technological advances, scientific understanding, and human flourishing.",
+    "one_liner": "Building intellectually curious AI",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1755632182,
+    "tags": [
+      "Deep Learning",
+      "Hard Tech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/induction-labs",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/induction-labs.json"
+  },
+  {
     "id": 30728,
     "name": "OS3",
     "slug": "os3",
@@ -348,6 +391,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/archal",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/archal.json"
+  },
+  {
+    "id": 31223,
+    "name": "Datoric",
+    "slug": "datoric",
+    "former_names": [
+      "Flow AI",
+      "Arzule"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa894803120df3a3a9250c66e4232e33e2a223d0.png",
+    "website": "https://www.datoric.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Datoric provides custom training data for voice models, robotics, and world models. We manage the full process from contributor recruitment and task design to secure collection, quality control, rights management, and delivery.\r\n\r\nOur collection infrastructure is private by design. Voice, robotics, and world-model projects run through separate applications and sites, so contributor pools, task requirements, incentives, and data flows do not mix across modalities. Within each system, customer projects are isolated in private workspaces. Only approved contributors can access assigned tasks, with no public task listings, upload links, or contributor APIs.\r\n\r\nWe also build quality into the collection process instead of relying only on review after the data arrives. Contributors are qualified and matched before they participate, collection requirements are enforced inside each workflow, and early submissions are tested before a project scales. Every sample is then linked to its contributor, consent, usage rights, collection history, and review record.\r\n\r\nDatoric’s mission is to make human-generated training data more secure, reliable, and responsibly sourced from the moment it is created.",
+    "one_liner": "Security-first training data",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1767154035,
+    "tags": [
+      "Artificial Intelligence",
+      "Data Labeling",
+      "ML"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/datoric",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/datoric.json"
   },
   {
     "id": 31226,
@@ -1379,8 +1465,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/39ef9d285402475a966cd1a646ae8e3b72115c89.png",
     "website": "https://perceptronml.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We are building a new way for AI to ground itself: a living database of real-time world facts. Our engine watches news, filings, databases, and the open web and compiles what it finds into structured facts. Each fact must compile, checked the way a mathematical proof is, so an agent citing it is citing something formally verified, not something plausible. Agents query it through our API and MCP to answer with what is true right now.",
-    "one_liner": "The ground-truth layer for AI agents.",
+    "long_description": "We build custom AI systems for law firms, trained on each firm's own matters and deployed privately in their environment: timekeeping, intake and matter monitoring, research, discovery, and drafting. Our grounding engine verifies every fact against a primary source before a model can cite it, which is why firms trust us with work that off-the-shelf legal AI keeps getting wrong.",
+    "one_liner": "We make law firms AI-native.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -1388,6 +1474,7 @@
     "tags": [
       "Artificial Intelligence",
       "B2B",
+      "Legal",
       "Automation"
     ],
     "tags_highlighted": [],
@@ -1412,6 +1499,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/perceptron-ml.json"
   },
   {
+    "id": 32129,
+    "name": "Egoist Machines",
+    "slug": "egoist-machines",
+    "former_names": [
+      "studysesh"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cfd986a9205506ed6e96b2903d048ce2aa98626d.png",
+    "website": "https://ego.ist/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We're building AI Passport, a personal memory layer that works across AI apps. Every AI product you use today keeps its own memory of you: ChatGPT has one, Claude has one, and every AI-powered app is starting to build one too. None of them talk to each other, you can't see most of what they've stored, and you re-explain yourself to each new tool.\r\n\r\nAI Passport replaces those scattered profiles with one card you own. Your preferences, history, and goals live in one place, and new information lands in an inbox where you approve or reject it before it's saved. Apps that want to use your context request a pass, which grants them access to only the categories you allow and can be revoked at any time. Receipts show you exactly which app read what, and when.\r\n\r\nFor a user, this means any AI app can know you from the first message. \r\nFor a business, personalization works in both directions: a storefront can retrieve a customer's taste, sizes, and budget and personalize instantly instead of running an onboarding quiz, and a support organization can keep one memory of each customer across tickets, teams, and agents, so every new case starts with what the company already knows about the person.",
+    "one_liner": "User-owned memory and preferences that work across every AI app",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1784701469,
+    "tags": [
+      "Consumer Products",
+      "AI Assistant",
+      "Databases"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/egoist-machines",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/egoist-machines.json"
+  },
+  {
     "id": 32130,
     "name": "Olam Labs",
     "slug": "olam-labs",
@@ -1428,10 +1557,10 @@
     "subindustry": "B2B",
     "launched_at": 1784577901,
     "tags": [
-      "Artificial Intelligence",
       "Reinforcement Learning",
       "Gaming",
-      "Data Engineering"
+      "Data Engineering",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1751,6 +1880,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rex-inc",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/rex-inc.json"
+  },
+  {
+    "id": 32157,
+    "name": "Maingen",
+    "slug": "maingen",
+    "former_names": [
+      "Maingen AI",
+      "Maingen",
+      "Maingen AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2eb59fa1eb6f59fafb938607c641276931a20aef.png",
+    "website": "https://www.maingen.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Maingen builds RL environments for industrial operations ($5 trillion slice of the US economy) so frontier labs can train models that actually run factories.",
+    "one_liner": "RL environments for industrial operations",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Energy",
+    "launched_at": 1784688239,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Energy",
+      "Big Data",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Energy"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/maingen",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/maingen.json"
   },
   {
     "id": 32164,
@@ -2813,7 +2989,7 @@
     "former_names": [
       "ProManual"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f6665f1300dc258526280c5fbb72df3fbac9eb1.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7ea500c797163e99dad11a205953572d46a0034.png",
     "website": "https://flowmanual.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "FlowManual is the all-in-one AI bidding and purchasing platform for both general and specialty construction contractors.\r\n\r\nBuilt by two engineers and Harvard dropouts, FlowManual automates the buying process during pre-construction. With FlowManual, specialty contractors win more work while general contractors deliver at higher standards.",
@@ -2899,9 +3075,9 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c00ce2cbd95a0e0d81ff55b96ce241fb3462c28b.png",
     "website": "https://machine0.io",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "machine0 is a CLI that lets you create, provision, and snapshot cloud VMs. `machine0 new my-vm` spins up a VM with dedicated CPU, RAM, and optional GPUs, plus a static IP and HTTPS endpoint. The tools agents need (e.g. Node, Python, Docker) and the agents themselves (e.g. Claude Code, Codex, OpenClaw, Hermes) come pre-installed. 99.99% VM uptime SLA across four regions.\r\n\r\nAgent workloads are moving from ephemeral to always-on. A coding agent debugging a complex issue runs 4-8 hours. OpenClaw runs 24/7. machine0 is the environment in which these agents run.",
-    "one_liner": "Persistent & powerful cloud VMs from your CLI",
+    "all_locations": "Paris, Île-de-France, France",
+    "long_description": "machine0 is a CLI for agent compute: `machine0 new mybox` gives your agent a full cloud VM, billed by the minute, from small up to 60 vCPU / 240 GB and 8×H100s. Agents drive it themselves via CLI or MCP.\r\n\r\nAgent workloads are moving from ephemeral to always-on. A coding agent working on a hard feature runs 6-8 hours. Auto-research agents run for days. machine0 is the environment in which these agents run.",
+    "one_liner": "One command gives your agent its own cloud computer",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -2921,8 +3097,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "France",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3925,6 +4101,52 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/inkbox.json"
   },
   {
+    "id": 33016,
+    "name": "Gamgee",
+    "slug": "gamgee",
+    "former_names": [
+      "Gamgee Technologies"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6f6bf83f60f82f47f1a3b961153608810edebb3b.png",
+    "website": "https://gamgee.io/",
+    "all_locations": "Tampa, FL, USA; Remote",
+    "long_description": "Gamgee is building an end to end platform for personalised mRNA cancer vaccines for dogs. We sequence a dog’s tumour and healthy DNA, identify mutations unique to its cancer, and design a vaccine that teaches the immune system what to attack. We manage the entire process- from vet intake and tissue collection through genomic analysis, vaccine production, treatment and response monitoring\r\n\r\n​Gamgee began with Rosie, founder Paul Conyngham’s dog. After surgery, chemotherapy and immunotherapy failed, Rosie was given months to live. Paul used AI and genomic analysis to identify targets in her tumour, then worked with scientists at UNSW to produce what is believed to be the first fully computationally designed mRNA cancer vaccine delivered to a dog. Following treatment, several tumours shrank significantly and her quality of life improved\r\n\r\n​We are now turning that one off effort into a repeatable clinical system. Gamgee is running clinical trials in Australia, working with vets, oncologists and specialised laboratories, and accepting cases globally. Our goal is to make personalised cancer treatment accessible to every dog that needs it- and use each case to improve the treatment for the next",
+    "one_liner": "Scalable Personalised Cancer Treatment",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Drug Discovery and Delivery",
+    "launched_at": 1784748212,
+    "tags": [
+      "Artificial Intelligence",
+      "Biotech",
+      "Genomics",
+      "Oncology"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Drug Discovery and Delivery"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/gamgee",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/gamgee.json"
+  },
+  {
     "id": 33017,
     "name": "ProvenMetal",
     "slug": "provenmetal",
@@ -4020,6 +4242,7 @@
     "subindustry": "B2B -> Analytics",
     "launched_at": 1783481375,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Analytics",
       "Monitoring"
@@ -4290,6 +4513,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/83-sciences",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/83-sciences.json"
+  },
+  {
+    "id": 33059,
+    "name": "Palisade",
+    "slug": "palisade-2",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/15205df0821b37ecf5cd82136bd682c2cb65c1b2.png",
+    "website": "",
+    "all_locations": "Los Angeles, CA, USA",
+    "long_description": "",
+    "one_liner": "AI that finds and fixes OS-level vulnerabilities across device fleets",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1780103657,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Cybersecurity"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/palisade-2",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/palisade-2.json"
   },
   {
     "id": 33111,
@@ -4766,11 +5031,11 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8f563ce5c802b34a01e9ad0f5641eb4bb092c6c.png",
     "website": "https://nex.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Nex automates the messy business and GTM workflows that no tool could handle before, taking real actions across 1000+ integrations. Instead of just chatting, the agent writes code as it works to make workflows deterministic, fast, and cheap to re-run, and delivers real output: a Slack message, an opened PR, or a live structured data table. Built for teams.",
-    "one_liner": "Claude Cowork with your model of choice",
+    "long_description": "Nex turns your GTM goals into complex GTM automations only the world's best GTM engineers know to build, across 1000+ integrations. Instead of just chatting, the agent writes code as it works to make workflows deterministic, fast, and cheap to re-run, and delivers real output: a Slack message, an opened PR, or a live structured data table. Built for teams.",
+    "one_liner": "Claude Cowork for GTM Engineering",
     "team_size": 5,
     "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
+    "subindustry": "B2B -> Sales",
     "launched_at": 1784187262,
     "tags": [
       "AIOps",
@@ -4784,7 +5049,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Productivity"
+      "Sales"
     ],
     "regions": [
       "United States of America",
@@ -4984,8 +5249,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2c42b391e7d2cf9beb71d20f5ce1ed2b4e77e77d.png",
     "website": "https://thebillow.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Billow handles the work of Accounting and FP&A FTEs while keeping teams compliant and audit-ready. We work within existing stacks (NetSuite, Coupa, and 80+ other systems) and complex spreadsheets, chasing down information and coordinating approvals across stakeholders. \r\n\r\nBuilt by repeat founders; Joan built and exited an accounting/ERP platform (45,000 businesses in 4 years) and Phil built Bloomberg's financial “brain” data infrastructure, and as CTO of a trading platform ($1B in volume). Advisors include CFOs, controllers, auditors from publicly-traded biopharma, and a Big-4 Accounting firm. ",
-    "one_liner": "AI-native Accounting & Finance Firm to Replace the Big-4",
+    "long_description": "Billow handles the work of Accounting and FP&A FTEs keeping teams compliant and audit-ready. We work within existing stacks (NetSuite, Coupa, and 80+ other systems) and complex spreadsheets, chasing down information and coordinating approvals across stakeholders. \r\n\r\nBuilt by repeat founders; Joan built and exited an accounting/ERP platform (45,000 businesses in 4 years) and Phil built Bloomberg's financial “brain” data infrastructure, and as CTO of a trading platform ($1B in volume). Advisors include CFOs, controllers, auditors from publicly-traded biopharma, and a Big-4 Accounting firm. ",
+    "one_liner": "AI-native Accounting Firm to Replace the Big-4",
     "team_size": 0,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",

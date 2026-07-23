@@ -634,9 +634,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6668d68dbb65664dcc7f40eff60e4ee586f09132.png",
     "website": "https://paradedb.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "You want better search, not the burden of Elasticsearch. ParadeDB is the modern Elastic alternative built as a Postgres extension.",
-    "one_liner": "Simple, Elastic-quality search for Postgres",
-    "team_size": 10,
+    "long_description": "Search without a second system. One Postgres for your application data, full-text search, vector retrieval, and aggregations.",
+    "one_liner": "Unify application data, vectors, and full-text search in one Postgres",
+    "team_size": 11,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1689280457,
@@ -1016,5 +1016,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/s2-dev",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/s2-dev.json"
+  },
+  {
+    "id": 32129,
+    "name": "Egoist Machines",
+    "slug": "egoist-machines",
+    "former_names": [
+      "studysesh"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cfd986a9205506ed6e96b2903d048ce2aa98626d.png",
+    "website": "https://ego.ist/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We're building AI Passport, a personal memory layer that works across AI apps. Every AI product you use today keeps its own memory of you: ChatGPT has one, Claude has one, and every AI-powered app is starting to build one too. None of them talk to each other, you can't see most of what they've stored, and you re-explain yourself to each new tool.\r\n\r\nAI Passport replaces those scattered profiles with one card you own. Your preferences, history, and goals live in one place, and new information lands in an inbox where you approve or reject it before it's saved. Apps that want to use your context request a pass, which grants them access to only the categories you allow and can be revoked at any time. Receipts show you exactly which app read what, and when.\r\n\r\nFor a user, this means any AI app can know you from the first message. \r\nFor a business, personalization works in both directions: a storefront can retrieve a customer's taste, sizes, and budget and personalize instantly instead of running an onboarding quiz, and a support organization can keep one memory of each customer across tickets, teams, and agents, so every new case starts with what the company already knows about the person.",
+    "one_liner": "User-owned memory and preferences that work across every AI app",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1784701469,
+    "tags": [
+      "Consumer Products",
+      "AI Assistant",
+      "Databases"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/egoist-machines",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/egoist-machines.json"
   }
 ]
