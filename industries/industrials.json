@@ -7874,11 +7874,11 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5df9957e26e62bd0ce5370986cca3a22a7822646.png",
     "website": "http://www.ferveret.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ferveret develops liquid cooling solutions inspired by nuclear power plant cooling. We save data centers 96% in cooling costs, 68% on capital costs, and reduce their carbon footprint by 40% while increasing chip performance by 2X. Today, about 40% of the electricity used in these facilities is wasted on cooling. \r\n\r\nOur technology eliminates this wasted energy.",
-    "one_liner": "Liquid cooling solutions inspired by nuclear reactor cooling",
-    "team_size": 13,
+    "long_description": "Ferveret is developing Adaptive Phase Cooling, a next-generation thermal solution for AI data centers inspired by heat transfer principles used in nuclear reactor systems. Our rack-integrated design delivers 35% more usable compute from the same power envelope, with a PUE of 1.03 (vs. the 1.2 industry standard), zero water consumption, and 45°C inlet temperatures that eliminate the need for chillers. Compatible with NVIDIA MGX and HGX architectures, Ferveret's solution uses a proprietary dielectric fluid that is not part of any regulated PFAS category, giving AI infrastructure operators a scalable, water-free path to higher compute density without redesigning their facilities.",
+    "one_liner": "Nuclear-inspired cooling that turns wasted power into more AI compute",
+    "team_size": 16,
     "industry": "Industrials",
-    "subindustry": "Industrials -> Climate",
+    "subindustry": "Industrials -> Energy",
     "launched_at": 1628701179,
     "tags": [
       "Hardware",
@@ -7893,7 +7893,7 @@
     "status": "Active",
     "industries": [
       "Industrials",
-      "Climate"
+      "Energy"
     ],
     "regions": [
       "United States of America",
@@ -9247,7 +9247,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -14129,7 +14129,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "China and Russia control the world’s critical minerals. We can produce Titanium, Magnesium, Aluminum, Zirconium & Hafnium in the U.S. more profitably than any existing process, and carbon neutrally via co-production.\r\n\r\nCarbochlorination is the primary process for producing critical metals like titanium, hafnium, and zirconium, and was once the standard for magnesium. The problem: conventional carbochlorination relies on purchasing carbon feedstocks, wastes valuable byproducts, and is highly CO₂-intensive.\r\n\r\nDuranium changes this with a novel reactor that recycles CO₂ emissions back into feedstock (CO) while generating a valuable co-product (bleaching agents). This closed loop slashes emissions and delivers Chinese-level metal pricing without subsidies — unlocking the full potential of carbochlorination for U.S. critical mineral production.",
     "one_liner": "Reshoring critical metal production",
-    "team_size": 10,
+    "team_size": 12,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1757191317,
@@ -15494,16 +15494,16 @@
     "website": "https://servo7.com",
     "all_locations": "Amsterdam, NH, Netherlands",
     "long_description": "We deploy robots in warehouses to automate the most demanding job in logistics: unloading loose-loaded containers.\r\n\r\nOur customers include 3PLs (CEVA, Stord), distributors (DHL, PostNL) and many more logistics companies.",
-    "one_liner": "Robots that unload containers in warehouses",
+    "one_liner": "Container unloading robots for warehouses",
     "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1769385653,
     "tags": [
+      "Artificial Intelligence",
       "Robotics",
       "Logistics",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -17293,6 +17293,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/aktoria-robotics",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/aktoria-robotics.json"
+  },
+  {
+    "id": 32717,
+    "name": "Neuron Industries",
+    "slug": "neuron-industries",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12fc3438894b5a05c8d3d1997a329d2c5053c9b8.png",
+    "website": "https://neuronindustries.com",
+    "all_locations": "Los Angeles, CA, USA",
+    "long_description": "Neuron is crafting the world’s first purpose-built industrial controller for AI, replacing the antiquated PLCs running every machine and factory. We help customers from chemical processing to nuclear reactors compress controls projects from weeks to hours. ",
+    "one_liner": "Industrial Controllers built for AI",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1784835700,
+    "tags": [
+      "Robotic Process Automation",
+      "Manufacturing",
+      "Automation",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/neuron-industries",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/neuron-industries.json"
   },
   {
     "id": 32781,

@@ -5440,8 +5440,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/38d405f6de14f8d3d7f5c8feb80ff7911ac69ec2.png",
     "website": "https://popl.co/",
     "all_locations": "New York City, NY, USA; Remote",
-    "long_description": "Capture leads, scan badges, enrich data, and sync it all to your CRM—at events, conferences, and beyond. Powered by AI and our proprietary data engine, Popl helps companies around the world turn in-person events into a measurable & scalable growth channel.",
-    "one_liner": "Your AI GTM platform for event lead capture",
+    "long_description": "Popl is the AI GTM platform for in-person events — the data layer for everything that happens face-to-face. Powered by AI and its proprietary data engine, Popl helps companies worldwide turn events into a measurable, scalable growth channel: universal badge scanning, AI-powered conversation recording, real-time data enrichment, and automatic CRM sync.",
+    "one_liner": "Your AI GTM platform for In-Person Events",
     "team_size": 60,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -10520,7 +10520,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -10914,7 +10914,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -14490,7 +14490,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -15392,7 +15392,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -23148,6 +23148,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dodo",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/dodo.json"
+  },
+  {
+    "id": 29684,
+    "name": "Parahelp",
+    "slug": "parahelp",
+    "former_names": [
+      "Sam"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d8bd41bea120a97058cce60e2d04af90f42a4c8.png",
+    "website": "https://parahelp.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Build an AI support agent in hours that resolves even your most complex tickets end-to-end. If a tool has an API, you can connect it to your agent - just by chatting with Parahelp.\r\n\r\nFor example, you can connect Stripe so your agent can resolve billing questions and refund requests.",
+    "one_liner": "Build an AI support agent that can use all your tools",
+    "team_size": 11,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1720219864,
+    "tags": [
+      "Customer Success",
+      "Customer Service",
+      "Customer Support",
+      "AI",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/parahelp",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/parahelp.json"
   },
   {
     "id": 29688,
@@ -31364,8 +31409,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1c746a958222a919c90dfff3a0cd3a949fa81bcc.png",
     "website": "https://withasync.com",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Async partners with small businesses across law, healthcare and real estate to build and deploy custom agents. We audit existing processes, rework them to become agent-first, deploy custom agents to automate the process and up-skill employees on AI. ",
-    "one_liner": "AI Agents for Small Businesses",
+    "long_description": "Async builds skilled digital labor that changes how small businesses run. Law firms, healthcare clinics and real estate companies hire our AI agents to automate work that's never been economical to staff with humans, letting us capture labor spend that didn't previously exist.",
+    "one_liner": "Skilled Digital Labor for Small Businesses",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -33044,49 +33089,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/brickanta.json"
   },
   {
-    "id": 30844,
-    "name": "Uplane",
-    "slug": "uplane",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f28d39fea2309ac2fc4d42b7be088ee964dccf6a.png",
-    "website": "https://uplane.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Uplane replaces marketing agencies with AI. We generate hundreds of ads with matching landing pages and steer the ad spend across channels like Meta, Google, LinkedIn and others. By connecting to CRM and ERP data, Uplane learns what drives profits and continuously improves campaigns.\r\n\r\nCompanies waste billions on bad ads, mismatched landing pages, and poor budget allocation. Uplane fixes this by replacing a patchwork of agencies, spreadsheets, and siloed tools with one self-improving system. The result: Higher ROAS for enterprises and effortless, expert-level marketing for SMBs.",
-    "one_liner": "Replace marketing agencies with AI",
-    "team_size": 19,
-    "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1759250646,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Analytics",
-      "Advertising",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/uplane",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/uplane.json"
-  },
-  {
     "id": 30845,
     "name": "Structured AI",
     "slug": "structured-ai",
@@ -34286,45 +34288,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/fastshot.json"
   },
   {
-    "id": 31002,
-    "name": "Clicks",
-    "slug": "clicks",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ba947944afd3b1dfe85a7f3891e69a0b39e5fe9.png",
-    "website": "https://goclicks.ai/",
-    "all_locations": "ZH, Switzerland",
-    "long_description": "Clicks is the AI-native BPO backed by Y Combinator. We replace traditional BPOs and shared service centers by automating back-office work with AI agents that operate your existing tools and follow your existing processes. We achieve higher accuracy and faster turn-around times at a fraction of the cost, with SOC 2 Type 2 and HIPAA compliance built in.",
-    "one_liner": "AI agents for your back-office operations.",
-    "team_size": 8,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1759173987,
-    "tags": [
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "Switzerland",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/clicks",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/clicks.json"
-  },
-  {
     "id": 31005,
     "name": "MarkIt",
     "slug": "markit",
@@ -35057,48 +35020,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/superset.json"
   },
   {
-    "id": 31224,
-    "name": "Servo7",
-    "slug": "servo7",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f0947dcd80dc342c9f938f52c6f4959bc0b1b157.png",
-    "website": "https://servo7.com",
-    "all_locations": "Amsterdam, NH, Netherlands",
-    "long_description": "We deploy robots in warehouses to automate the most demanding job in logistics: unloading loose-loaded containers.\r\n\r\nOur customers include 3PLs (CEVA, Stord), distributors (DHL, PostNL) and many more logistics companies.",
-    "one_liner": "Robots that unload containers in warehouses",
-    "team_size": 3,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1769385653,
-    "tags": [
-      "Robotics",
-      "Logistics",
-      "Automation",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "regions": [
-      "Netherlands",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/servo7",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/servo7.json"
-  },
-  {
     "id": 31255,
     "name": "Grade",
     "slug": "grade",
@@ -35140,6 +35061,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/grade",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/grade.json"
+  },
+  {
+    "id": 31268,
+    "name": "Cova",
+    "slug": "cova",
+    "former_names": [
+      "Omnition"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a88cf729487706988d23e57fa307a54ba446b835.png",
+    "website": "https://cova.care/",
+    "all_locations": "Detroit, MI, USA",
+    "long_description": "Cova is an AI-native home care agency, licensed in Michigan. We serve Medicaid, LTCI, and private-pay patients; we pay caregivers the highest base rate in the state; and we help unpaid family caregivers get paid through programs they didn't know they qualified for. Our entire operation runs on AI agents, which means less overhead and more value passed directly to the people doing the real work.",
+    "one_liner": "AI-Native Home Care Agency",
+    "team_size": 19,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1782162197,
+    "tags": [
+      "Consumer Health Services",
+      "Healthcare",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cova",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/cova.json"
   },
   {
     "id": 31283,
@@ -36533,6 +36496,46 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/truffle.json"
   },
   {
+    "id": 32256,
+    "name": "Zaplar",
+    "slug": "zaplar",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c3ccfe3188152229b75f7e38241a91f40b4c9edd.png",
+    "website": "https://zaplar.com",
+    "all_locations": "Stockholm, Stockholm County, Sweden",
+    "long_description": "Zaplar is the AI-native operating system for hotels.\r\n\r\nWe consolidate the 5-15 separate tools the average hotel runs on into one software that can handle hotel operations autonomously.\r\n\r\nLearn more at https://zaplar.com",
+    "one_liner": "Agentic Hotel Operating System",
+    "team_size": 8,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1784823049,
+    "tags": [
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "Sweden",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zaplar",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/zaplar.json"
+  },
+  {
     "id": 32259,
     "name": "screenpipe",
     "slug": "screenpipe",
@@ -37036,6 +37039,52 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/inkbox.json"
   },
   {
+    "id": 33016,
+    "name": "Gamgee",
+    "slug": "gamgee",
+    "former_names": [
+      "Gamgee Technologies"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6f6bf83f60f82f47f1a3b961153608810edebb3b.png",
+    "website": "https://gamgee.io/",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Gamgee is building an end to end platform for personalised mRNA cancer vaccines for dogs. We sequence a dog’s tumour and healthy DNA, identify mutations unique to its cancer, and design a vaccine that teaches the immune system what to attack. We manage the entire process- from vet intake and tissue collection through genomic analysis, vaccine production, treatment and response monitoring\r\n\r\n​Gamgee began with Rosie, founder Paul Conyngham’s dog. After surgery, chemotherapy and immunotherapy failed, Rosie was given months to live. Paul used AI and genomic analysis to identify targets in her tumour, then worked with scientists at UNSW to produce what is believed to be the first fully computationally designed mRNA cancer vaccine delivered to a dog. Following treatment, several tumours shrank significantly and her quality of life improved\r\n\r\n​We are now turning that one off effort into a repeatable clinical system. Gamgee is running clinical trials in Australia, working with vets, oncologists and specialised laboratories, and accepting cases globally. Our goal is to make personalised cancer treatment accessible to every dog that needs it- and use each case to improve the treatment for the next",
+    "one_liner": "Scalable Personalised Cancer Treatment",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Drug Discovery and Delivery",
+    "launched_at": 1784748212,
+    "tags": [
+      "Biotech",
+      "Genomics",
+      "Oncology",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Drug Discovery and Delivery"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/gamgee",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/gamgee.json"
+  },
+  {
     "id": 33021,
     "name": "Care GP",
     "slug": "care-gp",
@@ -37202,15 +37251,16 @@
   },
   {
     "id": 33283,
-    "name": "Justinian",
-    "slug": "justinian",
+    "name": "Locke",
+    "slug": "locke",
     "former_names": [
-      "Overton"
+      "Overton",
+      "Justinian"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/05d00b332191d31f20aa45f1bbec7b3fd866e683.png",
-    "website": "https://justinianai.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ef45315b5a753af3ca5decc639d785a08eb897be.png",
+    "website": "https://locke.inc",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Justinian is an applied AI company changing the way companies and governments work together. \r\n\r\nOur first focus is building Justinian Government Affairs, an AI-native government affairs firm helping early-stage companies monitor regulations, lobby policymakers, and win government contracts.",
+    "long_description": "Locke is an applied AI company changing the way companies and governments work together. \r\n\r\nOur first focus is building Locke Government Affairs, an AI-native government affairs firm helping early-stage companies monitor regulations, lobby policymakers, and win government contracts.",
     "one_liner": "Builders of the first AI-native government affairs firm.",
     "team_size": 2,
     "industry": "B2B",
@@ -37238,8 +37288,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/justinian",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/justinian.json"
+    "url": "https://www.ycombinator.com/companies/locke",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/locke.json"
   },
   {
     "id": 33349,

@@ -59,8 +59,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1c746a958222a919c90dfff3a0cd3a949fa81bcc.png",
     "website": "https://withasync.com",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Async partners with small businesses across law, healthcare and real estate to build and deploy custom agents. We audit existing processes, rework them to become agent-first, deploy custom agents to automate the process and up-skill employees on AI. ",
-    "one_liner": "AI Agents for Small Businesses",
+    "long_description": "Async builds skilled digital labor that changes how small businesses run. Law firms, healthcare clinics and real estate companies hire our AI agents to automate work that's never been economical to staff with humans, letting us capture labor spend that didn't previously exist.",
+    "one_liner": "Skilled Digital Labor for Small Businesses",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -606,14 +606,14 @@
     "all_locations": "Detroit, MI, USA",
     "long_description": "Cova is an AI-native home care agency, licensed in Michigan. We serve Medicaid, LTCI, and private-pay patients; we pay caregivers the highest base rate in the state; and we help unpaid family caregivers get paid through programs they didn't know they qualified for. Our entire operation runs on AI agents, which means less overhead and more value passed directly to the people doing the real work.",
     "one_liner": "AI-Native Home Care Agency",
-    "team_size": 5,
+    "team_size": 19,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1782162197,
     "tags": [
-      "Artificial Intelligence",
       "Consumer Health Services",
-      "Healthcare"
+      "Healthcare",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2718,6 +2718,46 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/touchmark.json"
   },
   {
+    "id": 32256,
+    "name": "Zaplar",
+    "slug": "zaplar",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c3ccfe3188152229b75f7e38241a91f40b4c9edd.png",
+    "website": "https://zaplar.com",
+    "all_locations": "Stockholm, Stockholm County, Sweden",
+    "long_description": "Zaplar is the AI-native operating system for hotels.\r\n\r\nWe consolidate the 5-15 separate tools the average hotel runs on into one software that can handle hotel operations autonomously.\r\n\r\nLearn more at https://zaplar.com",
+    "one_liner": "Agentic Hotel Operating System",
+    "team_size": 8,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1784823049,
+    "tags": [
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "Sweden",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zaplar",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/zaplar.json"
+  },
+  {
     "id": 32259,
     "name": "screenpipe",
     "slug": "screenpipe",
@@ -3131,7 +3171,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2026",
     "status": "Active",
@@ -3727,6 +3767,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/lato.json"
   },
   {
+    "id": 32717,
+    "name": "Neuron Industries",
+    "slug": "neuron-industries",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12fc3438894b5a05c8d3d1997a329d2c5053c9b8.png",
+    "website": "https://neuronindustries.com",
+    "all_locations": "Los Angeles, CA, USA",
+    "long_description": "Neuron is crafting the world’s first purpose-built industrial controller for AI, replacing the antiquated PLCs running every machine and factory. We help customers from chemical processing to nuclear reactors compress controls projects from weeks to hours. ",
+    "one_liner": "Industrial Controllers built for AI",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1784835700,
+    "tags": [
+      "Robotic Process Automation",
+      "Manufacturing",
+      "Automation",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/neuron-industries",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/neuron-industries.json"
+  },
+  {
     "id": 32751,
     "name": "Vestris",
     "slug": "vestris",
@@ -3735,8 +3817,8 @@
     "website": "https://vestris.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "Replaces title searchers and closes property deals",
-    "team_size": 0,
+    "one_liner": "AI agents for the full real estate closing stack",
+    "team_size": 2,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction -> Housing and Real Estate",
     "launched_at": 1783395705,
@@ -4109,7 +4191,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6f6bf83f60f82f47f1a3b961153608810edebb3b.png",
     "website": "https://gamgee.io/",
-    "all_locations": "Tampa, FL, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Gamgee is building an end to end platform for personalised mRNA cancer vaccines for dogs. We sequence a dog’s tumour and healthy DNA, identify mutations unique to its cancer, and design a vaccine that teaches the immune system what to attack. We manage the entire process- from vet intake and tissue collection through genomic analysis, vaccine production, treatment and response monitoring\r\n\r\n​Gamgee began with Rosie, founder Paul Conyngham’s dog. After surgery, chemotherapy and immunotherapy failed, Rosie was given months to live. Paul used AI and genomic analysis to identify targets in her tumour, then worked with scientists at UNSW to produce what is believed to be the first fully computationally designed mRNA cancer vaccine delivered to a dog. Following treatment, several tumours shrank significantly and her quality of life improved\r\n\r\n​We are now turning that one off effort into a repeatable clinical system. Gamgee is running clinical trials in Australia, working with vets, oncologists and specialised laboratories, and accepting cases globally. Our goal is to make personalised cancer treatment accessible to every dog that needs it- and use each case to improve the treatment for the next",
     "one_liner": "Scalable Personalised Cancer Treatment",
     "team_size": 2,
@@ -4117,10 +4199,10 @@
     "subindustry": "Healthcare -> Drug Discovery and Delivery",
     "launched_at": 1784748212,
     "tags": [
-      "Artificial Intelligence",
       "Biotech",
       "Genomics",
-      "Oncology"
+      "Oncology",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4429,6 +4511,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/axelrod",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/axelrod.json"
+  },
+  {
+    "id": 33050,
+    "name": "Derya",
+    "slug": "derya",
+    "former_names": [
+      "Derya Maritime / Meridian Forwarding (forwarding office)"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e0512b453e994207fdf56052eb221e687d29dc51.png",
+    "website": "http://usederya.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Derya is the AI-native logistics office: the one-stop shop that startups, SMEs, and enterprises outsource their entire logistics function to, from booking and coordination through to financing the freight itself. \r\n\r\nOur mission is to rebuild the supply chain from the ground up, turning one of the world’s hardest coordination problems into an AI native system that moves global trade faster, more reliably, and with working capital that no longer sits trapped in transit.",
+    "one_liner": "AI-Native Logistics Office",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1784839627,
+    "tags": [
+      "AIOps",
+      "Digital Freight Brokerage",
+      "Finance",
+      "Logistics",
+      "Supply Chain"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/derya",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/derya.json"
   },
   {
     "id": 33052,
@@ -4811,15 +4938,16 @@
   },
   {
     "id": 33283,
-    "name": "Justinian",
-    "slug": "justinian",
+    "name": "Locke",
+    "slug": "locke",
     "former_names": [
-      "Overton"
+      "Overton",
+      "Justinian"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/05d00b332191d31f20aa45f1bbec7b3fd866e683.png",
-    "website": "https://justinianai.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ef45315b5a753af3ca5decc639d785a08eb897be.png",
+    "website": "https://locke.inc",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Justinian is an applied AI company changing the way companies and governments work together. \r\n\r\nOur first focus is building Justinian Government Affairs, an AI-native government affairs firm helping early-stage companies monitor regulations, lobby policymakers, and win government contracts.",
+    "long_description": "Locke is an applied AI company changing the way companies and governments work together. \r\n\r\nOur first focus is building Locke Government Affairs, an AI-native government affairs firm helping early-stage companies monitor regulations, lobby policymakers, and win government contracts.",
     "one_liner": "Builders of the first AI-native government affairs firm.",
     "team_size": 2,
     "industry": "B2B",
@@ -4847,8 +4975,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/justinian",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/justinian.json"
+    "url": "https://www.ycombinator.com/companies/locke",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/locke.json"
   },
   {
     "id": 33310,
@@ -4931,6 +5059,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/subvysion",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/subvysion.json"
+  },
+  {
+    "id": 33314,
+    "name": "Avoca Systems",
+    "slug": "avoca-systems",
+    "former_names": [
+      "Avoca"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/555346995ae2b6c3163f5ec605c10e5d27db2e8d.png",
+    "website": "https://avocasystems.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Avoca is the AI patient access platform built for radiology. It integrates with a network’s existing systems and operational knowledge to automate calls, online scheduling, faxes, e-referrals and patient communications, from referral through to results and follow-up. Unlike generic scheduling tools, Avoca understands the clinical, operational and resource constraints behind every radiology booking, helping providers capture more demand, reduce administrative work and fill more scan capacity.",
+    "one_liner": "The AI-powered operating system for radiology networks",
+    "team_size": 8,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1784843716,
+    "tags": [
+      "Healthcare",
+      "Enterprise Software",
+      "Healthcare IT"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/avoca-systems",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/avoca-systems.json"
   },
   {
     "id": 33315,
@@ -5032,7 +5202,7 @@
     "website": "https://nex.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Nex turns your GTM goals into complex GTM automations only the world's best GTM engineers know to build, across 1000+ integrations. Instead of just chatting, the agent writes code as it works to make workflows deterministic, fast, and cheap to re-run, and delivers real output: a Slack message, an opened PR, or a live structured data table. Built for teams.",
-    "one_liner": "Claude Cowork for GTM Engineering",
+    "one_liner": "Claude Cowork for GTM Automations",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
@@ -5322,6 +5492,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/coasty",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/coasty.json"
+  },
+  {
+    "id": 33771,
+    "name": "Blaise",
+    "slug": "blaise",
+    "former_names": [
+      "Blue"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2bff3fcdc434c99cf544f6ebe967ec66cea3af59.png",
+    "website": "https://blaise.new/",
+    "all_locations": "Stockholm, Stockholm County, Sweden",
+    "long_description": "Blaise is an AI system that scopes, builds and deploys enterprise software, end to end.\r\n\r\nLearn more at www.blaise.new",
+    "one_liner": "AI native software factory",
+    "team_size": null,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1784805283,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Sweden",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/blaise",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/blaise.json"
   },
   {
     "id": 33805,

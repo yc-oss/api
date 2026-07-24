@@ -2298,7 +2298,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -2381,7 +2381,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -8767,6 +8767,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/lunabill.json"
   },
   {
+    "id": 31002,
+    "name": "Clicks",
+    "slug": "clicks",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ba947944afd3b1dfe85a7f3891e69a0b39e5fe9.png",
+    "website": "https://goclicks.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Clicks builds AI agents that automate back-office operations for RCM companies and healthcare providers. Our agents work across EHRs, payer portals, desktop applications, and legacy systems, following existing processes, handling exceptions, and escalating when human judgment is needed. Backed by Y Combinator, Clicks helps teams improve accuracy, shorten turnaround times, and reduce operating costs, with SOC 2 Type II and HIPAA compliance built in.",
+    "one_liner": "AI agents for your back-office operations.",
+    "team_size": 8,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1759173987,
+    "tags": [
+      "Artificial Intelligence",
+      "Health Tech",
+      "Healthcare",
+      "Health Insurance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/clicks",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/clicks.json"
+  },
+  {
     "id": 31025,
     "name": "ClaimGlide",
     "slug": "claimglide",
@@ -8822,14 +8864,14 @@
     "all_locations": "Detroit, MI, USA",
     "long_description": "Cova is an AI-native home care agency, licensed in Michigan. We serve Medicaid, LTCI, and private-pay patients; we pay caregivers the highest base rate in the state; and we help unpaid family caregivers get paid through programs they didn't know they qualified for. Our entire operation runs on AI agents, which means less overhead and more value passed directly to the people doing the real work.",
     "one_liner": "AI-Native Home Care Agency",
-    "team_size": 5,
+    "team_size": 19,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1782162197,
     "tags": [
-      "Artificial Intelligence",
       "Consumer Health Services",
-      "Healthcare"
+      "Healthcare",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -8932,5 +8974,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/care-gp",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/care-gp.json"
+  },
+  {
+    "id": 33314,
+    "name": "Avoca Systems",
+    "slug": "avoca-systems",
+    "former_names": [
+      "Avoca"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/555346995ae2b6c3163f5ec605c10e5d27db2e8d.png",
+    "website": "https://avocasystems.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Avoca is the AI patient access platform built for radiology. It integrates with a network’s existing systems and operational knowledge to automate calls, online scheduling, faxes, e-referrals and patient communications, from referral through to results and follow-up. Unlike generic scheduling tools, Avoca understands the clinical, operational and resource constraints behind every radiology booking, helping providers capture more demand, reduce administrative work and fill more scan capacity.",
+    "one_liner": "The AI-powered operating system for radiology networks",
+    "team_size": 8,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1784843716,
+    "tags": [
+      "Healthcare",
+      "Enterprise Software",
+      "Healthcare IT"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/avoca-systems",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/avoca-systems.json"
   }
 ]
