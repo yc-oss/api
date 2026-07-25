@@ -178,6 +178,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/os3.json"
   },
   {
+    "id": 31047,
+    "name": "Waddle Labs",
+    "slug": "waddle-labs",
+    "former_names": [
+      "Waddle"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f525546cff510b464f7877004fcc10c8f0b97843.png",
+    "website": "https://www.waddlelabs.ai/",
+    "all_locations": "Boston, MA, USA",
+    "long_description": "",
+    "one_liner": "Agents for robotics control. ",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1784890498,
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "Robotics",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/waddle-labs",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/waddle-labs.json"
+  },
+  {
     "id": 31074,
     "name": "TrustAI",
     "slug": "trustai",
@@ -1424,7 +1468,7 @@
     "website": "https://www.manufacturingintelligence.org",
     "all_locations": "Seattle, WA, USA",
     "long_description": "Every custom part starts as a 2D drawing, and every drawing has to be reviewed before manufacturing begins. Today that means senior engineers checking dimensions, tolerances, and GD&T callouts by hand against ASME and ISO standards. It takes days, it bottlenecks release, and errors still slip through to the shop floor, where they become scrap and rework. Hera automates design review. Upload a drawing, get back every violation with the standard it breaks and where. Engineer-to-order manufacturers in aerospace, medical devices, and pressure vessels use Hera to release drawings faster and catch mistakes before they cost real money.",
-    "one_liner": "Hera automates mechanical design reviews to catch thousand dollar…",
+    "one_liner": "Hera catches thousand dollar errors before they hit the shop floor.",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials",
@@ -1640,7 +1684,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f563d562770577c32b95513d2c40e79d38c42745.png",
     "website": "https://belvedir.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "The everyday person should own their intelligence. Our platform trains custom AI models and memory systems, hosts them privately, and continually improves them as they are used.",
+    "long_description": "The everyday person should own their intelligence. Belvedir is the platform for training custom AI models and memory systems, hosting them privately, and continually improving them as they are used.",
     "one_liner": "The autonomous private AI platform.",
     "team_size": 1,
     "industry": "B2B",
@@ -2765,18 +2809,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/144e7207ec725036f43cc9a6b577a8320151e103.png",
     "website": "https://screenpipe.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "screenpipe record and learns how you work and turns it into a searchable memory, SOPs, and AI agents. Data is stored on your device or where your team choose, open source.",
-    "one_liner": "Record how you work and turn that into agents",
+    "long_description": "screenpipe record and learns how you work and turns it into a searchable memory, documents, and AI agents. Data is stored on your device or where your team choose, open source.",
+    "one_liner": "AI powered by everything you've seen, said or heard",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1783386650,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Enterprise",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2936,6 +2980,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/definite",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/definite.json"
+  },
+  {
+    "id": 32518,
+    "name": "Agency Tool Company",
+    "slug": "agency-tool-company",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/244ddf9b0965c4c601170d71dd660ad1a89f8792.png",
+    "website": "https://agencytool.company",
+    "all_locations": "Denver, CO, USA",
+    "long_description": "Agency Tool Company ships software to robots in the field 20x faster than a Docker pull with ATC Deploy, sending only the bytes that changed and resuming when the network drops. Deployment tooling is the connection between the lab & the field that continually bottlenecks robotics scaling and lacks a strong robotics-native solution. Deploy is live today with 3 launch partners across ag, construction, and logistics robotics.\r\n\r\nOur second product, ATC Build, offers embedded-compute as a CI service so devs can run tests and validate their software on the actual target hardware. Build supports the Nvidia Jetson lineup, Raspberry Pi, and a number of other embedded platform targets.\r\n\r\nJack Morrison and Davis Foster founded and sold Scythe Robotics after deploying hundreds of autonomous mowers across the country; Agency Tool Company is building the robotics deployment platform across hardware and software they wish they had.",
+    "one_liner": "Reliable infrastructure to build, deploy and manage real-world robots.",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1784914207,
+    "tags": [
+      "Developer Tools",
+      "Robotics",
+      "Automation",
+      "Infrastructure",
+      "Self-Driving Vehicles"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/agency-tool-company",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/agency-tool-company.json"
   },
   {
     "id": 32520,
@@ -4016,6 +4105,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/last-accounting-company",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/last-accounting-company.json"
+  },
+  {
+    "id": 32979,
+    "name": "RonanRx Inc.",
+    "slug": "ronanrx-inc",
+    "former_names": [
+      "Ronan Rx Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ce1dcec626f9c7fdc1ea66f4d7850c7a32015773.png",
+    "website": "https://ronanrx.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "RonanRX helps you personalize GLP-1s like Ozempic, peptides, and other treatments using your labs, wearables, medical history, treatment response, and the latest medical research. Instead of treating the average patient, we continuously personalize your treatment as your body changes.\r\n\r\nWe've built the complete feedback loop for personalized medicine: your health data automatically syncs into one place, AI helps personalize treatment, licensed doctors make prescribing decisions, medications are delivered to your door, and every outcome continuously improves your protocol.\r\n\r\nConnect your health data once. RonanRX automatically syncs your labs, wearables, and medical records into a single AI-powered health profile that helps personalize GLP-1s like Ozempic, peptides, supplements, and other treatments around your biology. If prescribed, your medication is delivered to your door.\r\n\r\nOur founders have built and exited multiple companies, raised over $100M, and previously built a $50M U.S. medical manufacturing business.\r\n\r\nStart with a text at RonanRX.com and become the maximum version of yourself, \r\n\r\n",
+    "one_liner": "We use AI to personalize peptides to your biology",
+    "team_size": 5,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1779899469,
+    "tags": [
+      "Health Tech",
+      "Telehealth",
+      "Therapeutics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ronanrx-inc",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/ronanrx-inc.json"
   },
   {
     "id": 32988,
@@ -5587,15 +5718,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/716e828c9efd6efe6da64574ff67dd5bfa0c2a25.png",
     "website": "https://experientiallabs.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "An applied research lab building AI that is 90% cheaper while matching the performance of frontier models. We do this by simulating reality faster and more accurately based on the technology self-driving uses to get near perfect reconstruction fidelity.",
-    "one_liner": "World models for agents",
+    "long_description": "We build model endpoints for your agent that will always be frontier quality and 50%+ cheaper than any frontier model. This is done by continuously improving smaller models on simulations built from production agent traces. ",
+    "one_liner": "Continual Learning for Agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1782607347,
     "tags": [
-      "Artificial Intelligence",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

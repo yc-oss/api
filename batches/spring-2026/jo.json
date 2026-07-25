@@ -6,13 +6,16 @@
   "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c9c7f687c3a57d8f3b931f1e760657237991cb95.png",
   "website": "https://askjo.ai",
   "all_locations": "San Francisco, CA, USA; Remote",
-  "long_description": "jo is a personal AI that runs on your Mac and a private cloud machine we host for you. It knows your life, improves itself autonomously, chats via Telegram and WhatsApp, and never shares your data. Less \"chatbot\" and more \"a second brain that does things proactively\".",
-  "one_liner": "The private AI that runs your life before you ask.",
+  "long_description": "jo is a personal AI agent that keeps up with your work and life, surfaces what matters, and helps you follow through. It remembers relevant context, works proactively, and supports recurring workflows through autopilot while keeping you in control.",
+  "one_liner": "The personal AI agent that keeps up with your work and life.",
   "team_size": 2,
   "industry": "Consumer",
   "subindustry": "Consumer",
   "launched_at": 1734654585,
-  "tags": [],
+  "tags": [
+    "Consumer",
+    "AI Assistant"
+  ],
   "tags_highlighted": [],
   "top_company": false,
   "isHiring": false,
@@ -32,7 +35,7 @@
   "app_video_public": false,
   "demo_day_video_public": false,
   "app_answers": null,
-  "question_answers": false,
+  "question_answers": true,
   "url": "https://www.ycombinator.com/companies/jo",
   "api": "https://yc-oss.github.io/api/batches/spring-2026/jo.json"
 }

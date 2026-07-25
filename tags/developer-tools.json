@@ -19972,7 +19972,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2025",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Infrastructure"
@@ -21821,16 +21821,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c788f853f55de9b0ed57c42d5dd9b8c7388fc49f.png",
     "website": "https://interfere.com",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Interfere is the experience layer for modern product teams. Detect, triage, and fix bugs automatically – no human required. Interfere finds issues in your app, understands what's happening, and owns resolution from first signal to production.\r\n",
-    "one_liner": "Production visibility for teams that ship fast",
+    "long_description": "Interfere empowers engineers, product managers and designers with real-time understanding of previously unseen bugs and issues.",
+    "one_liner": "Give engineering, product, and design teams insight into unseen issues",
     "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1752094986,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Design"
+      "Design",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -22583,6 +22583,50 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/linzumi.json"
   },
   {
+    "id": 31047,
+    "name": "Waddle Labs",
+    "slug": "waddle-labs",
+    "former_names": [
+      "Waddle"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f525546cff510b464f7877004fcc10c8f0b97843.png",
+    "website": "https://www.waddlelabs.ai/",
+    "all_locations": "Boston, MA, USA",
+    "long_description": "",
+    "one_liner": "Agents for robotics control. ",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1784890498,
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "Robotics",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/waddle-labs",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/waddle-labs.json"
+  },
+  {
     "id": 31133,
     "name": "Skillsync",
     "slug": "skillsync",
@@ -22930,6 +22974,49 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/zenbu-2.json"
   },
   {
+    "id": 31378,
+    "name": "GodHands",
+    "slug": "godhands",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5ec540989c0e572731406bc02714d7608e407cc3.png",
+    "website": "https://godhands.dev",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "GodHands is building a living knowledge base for engineering teams, turning the code, docs, and decisions across your stack into a single source of truth that stays accurate as you grow.",
+    "one_liner": "The company knowledge base that updates itself",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1777151399,
+    "tags": [
+      "Documents",
+      "Artificial Intelligence",
+      "Developer Tools",
+      "DevOps"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/godhands",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/godhands.json"
+  },
+  {
     "id": 31458,
     "name": "Ara",
     "slug": "ara",
@@ -23188,6 +23275,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/alkera-ai",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/alkera-ai.json"
+  },
+  {
+    "id": 32518,
+    "name": "Agency Tool Company",
+    "slug": "agency-tool-company",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/244ddf9b0965c4c601170d71dd660ad1a89f8792.png",
+    "website": "https://agencytool.company",
+    "all_locations": "Denver, CO, USA",
+    "long_description": "Agency Tool Company ships software to robots in the field 20x faster than a Docker pull with ATC Deploy, sending only the bytes that changed and resuming when the network drops. Deployment tooling is the connection between the lab & the field that continually bottlenecks robotics scaling and lacks a strong robotics-native solution. Deploy is live today with 3 launch partners across ag, construction, and logistics robotics.\r\n\r\nOur second product, ATC Build, offers embedded-compute as a CI service so devs can run tests and validate their software on the actual target hardware. Build supports the Nvidia Jetson lineup, Raspberry Pi, and a number of other embedded platform targets.\r\n\r\nJack Morrison and Davis Foster founded and sold Scythe Robotics after deploying hundreds of autonomous mowers across the country; Agency Tool Company is building the robotics deployment platform across hardware and software they wish they had.",
+    "one_liner": "Reliable infrastructure to build, deploy and manage real-world robots.",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1784914207,
+    "tags": [
+      "Developer Tools",
+      "Robotics",
+      "Automation",
+      "Infrastructure",
+      "Self-Driving Vehicles"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/agency-tool-company",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/agency-tool-company.json"
   },
   {
     "id": 32527,
