@@ -6112,7 +6112,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -62680,19 +62680,22 @@
   },
   {
     "id": 1861,
-    "name": "Tarjimly",
-    "slug": "tarjimly",
-    "former_names": [],
+    "name": "Tarjimly (acquired)",
+    "slug": "tarjimly-acquired",
+    "former_names": [
+      "Tarjimly"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/afd0f94fe908901e234dd94e1cf271709a78f826.png",
     "website": "https://tarjimly.org",
-    "all_locations": "San Francisco, CA, USA; Mountain View, CA, USA; Remote",
-    "long_description": "Tarjimly is a YC-backed nonprofit (YC W18) that allows anyone to volunteer their language skills to help refugees and immigrants in need.  We connect the world's bilingual speakers with the 23 million refugees struggling to communicate with doctors, lawyers, and NGOs using chat, phone, and video calling.  We're building a new way for the world to help refugees by bridging language gaps.",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Tarjimly is a YC-backed nonprofit (YC W18) building language-access infrastructure for navigating critical life moments across healthcare, legal, and social services. The company was acquired by CLEAR Global in late 2025.",
     "one_liner": "Translating for Humanity",
-    "team_size": 4,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Social",
+    "team_size": 20,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
     "launched_at": 1512543744,
     "tags": [
+      "Marketplace",
       "Nonprofit"
     ],
     "tags_highlighted": [],
@@ -62702,8 +62705,7 @@
     "batch": "Winter 2018",
     "status": "Active",
     "industries": [
-      "Consumer",
-      "Social"
+      "Healthcare"
     ],
     "regions": [
       "United States of America",
@@ -62716,8 +62718,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tarjimly",
-    "api": "https://yc-oss.github.io/api/batches/winter-2018/tarjimly.json"
+    "url": "https://www.ycombinator.com/companies/tarjimly-acquired",
+    "api": "https://yc-oss.github.io/api/batches/winter-2018/tarjimly-acquired.json"
   },
   {
     "id": 1863,
@@ -85702,7 +85704,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -98007,7 +98009,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b038a5e905f1f6cf97ad14baa85b93658ffe2791.png",
     "website": "https://explorex.co",
     "all_locations": "Bengaluru, KA, India",
-    "long_description": "Explorex is building the operating system for dining — powering both restaurants and the end consumer experience through a tightly integrated ecosystem.\r\n\r\nWhile most companies in the space focus on software for restaurants or discovery for diners, Explorex connects both sides of the equation. Our platform combines a full-stack restaurant OS (Bridge) with a consumer layer (Elite), enabling seamless, real-time dining experiences — from discovering a place, to ordering, to paying, all without friction.\r\n\r\nAt the core of this is Elite — our consumer app that is redefining how people dine out. Diners can see live table availability, access dynamic menus, place orders, and self-checkout instantly without waiting for staff. This removes the biggest friction in dining — interruptions — and turns going out into a smooth, uninterrupted experience.\r\n\r\nWhat makes Explorex fundamentally different is the data layer. Unlike delivery platforms that only see orders, we capture real-world, in-venue behavior — what people order, how long they stay, how groups behave, how menus perform, and how experiences impact spending.\r\n\r\nWe are now building Elara, an AI-powered dining concierge that uses this data to guide users to the best possible experience in real time — factoring in intent, context, weather, vibe, availability, and historical behavior. This allows us to move beyond discovery into decision-making, becoming the intelligence layer for offline commerce.\r\n\r\nFor restaurants, this translates into higher revenue through better table utilization, increased average order value, and direct access to high-intent consumers. For diners, it means a faster, more personalized, and significantly better dining experience.\r\n\r\nExplorex is not a SaaS tool — it is the infrastructure layer for offline dining, with AI and consumer experience at its core.",
+    "long_description": "Explorex — The Memory Layer for Physical Commerce\r\n\r\n~90% of Indian retail happens in person, yet offline venues have no memory of their customers. Restaurants run on disconnected tools, and every visit ends with zero data captured. Explorex fixes this by owning both sides of the dining transaction.\r\n\r\nAt the center is Elite, our consumer app that is redefining how people dine out. Diners see live table availability, browse dynamic menus, order, and self-checkout instantly — no waiting, no interruptions. Behind it sits our infrastructure stack: Bridge OS (the full-stack restaurant operating system), Clyro (WhatsApp-native CRM), and ReserveX — all feeding a single behavioral data layer.\r\n\r\nThat data layer is what makes Explorex fundamentally different. Delivery platforms only see orders. We capture real-world, in-venue behavior — what people order, how long they stay, how groups behave, how menus perform, how experiences shape spending. Because we operate the restaurant OS and the consumer touchpoint, this data is irreplicable.\r\n\r\nWe're now building Elara, an AI dining concierge that turns this data into real-time decision-making — factoring intent, context, availability, and historical behavior. This moves us beyond discovery into becoming the intelligence layer for offline commerce.\r\n\r\nToday, Explorex powers 250+ partner restaurants and 3M+ diners across Bangalore and Hyderabad, processing 8M+ transactions annually (18M+ lifetime), and operates at breakeven.\r\n\r\nExplorex is not a SaaS tool — it is the infrastructure layer for offline dining, with AI and consumer experience at its core. Think Shopify for restaurants, on its way to becoming the UPI of restaurant operations.",
     "one_liner": "Ecosystem Platform for Restaurants in India",
     "team_size": 25,
     "industry": "Consumer",
@@ -98036,7 +98038,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": false,
+    "question_answers": true,
     "url": "https://www.ycombinator.com/companies/explorex",
     "api": "https://yc-oss.github.io/api/batches/summer-2020/explorex.json"
   },
@@ -101950,7 +101952,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -169336,7 +169338,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -189392,17 +189394,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3aa68965eefe42dc96e16073740dae2087ad188f.png",
     "website": "https://artisan.co/?utm_source=ycombinator",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "At Artisan, we’re building real AI employees - not copilots, not assistants, but autonomous teammates.\r\n\r\nOur first, Ava, is an AI BDR. She finds and researches leads, writes emails in customers’ tone of voice, runs outbound sequences, self-optimizes, and manages email deliverability infrastructure. She learns, adapts, and improves over time - just like a human would.\r\n\r\nHuman team members use Artisan as their primary working platform, replacing a sprawling stack of sales tools, and have Artisans working alongside them.\r\n\r\nWe went through Y Combinator (W24) and have raised $35M+ from top investors. We’re at $6M+ ARR, with hundreds of customers including Remote, Quora, and SumUp.\r\n\r\nWe’re currently working on Ava 2.0, pushing the boundaries of what an AI employee can do. And we're hiring.",
-    "one_liner": "AI employees called Artisans, starting with an AI BDR",
-    "team_size": 37,
+    "long_description": "Artisan builds AI employees for revenue teams. Our first, Ava, is the leading AI BDR: she finds and researches leads across a database of 400M+ contacts, writes and sends personalized email in your tone of voice, runs dialer call steps, handles every reply, and books meetings on the right rep's calendar. Over 90% of our customers run her fully autonomously.\r\n\r\nArtisan is a complete GTM ecosystem, not a point tool. One platform consolidates the 5-8 tool stack most teams stitch together at $100K+/year: prospecting data and waterfall enrichment (ZoomInfo, Apollo), list building and signals (Clay), sequencing (Outreach, Salesloft), parallel dialing (Nooks, Orum), website visitor identification, and buyer intent. It runs on top of Salesforce and HubSpot with owner mapping, do-not-contact enforcement, and field-level sync controls.\r\n\r\nWe're built for enterprise. SOC 2 Type II, GDPR and CCPA compliant, SSO/SAML, role-based access, workspace isolation per brand, and a full audit trail on everything Ava does. The common enterprise pattern: sales ops runs Ava centrally for a thousand-plus AEs who never log in.\r\n\r\nBeyond the BDR job, Ava Inbound qualifies and books website visitors from the same knowledge base, and our AI AE runs live product demos and progresses deals. Prospecting, inbound, and the demo on one platform, one knowledge base, one AI sales team.\r\n\r\nYC W24. $35M+ raised from investors including Y Combinator and HubSpot Ventures. Thousands of customers including DoorDash, Quora, SumUp, CookUnity and SaaStr. Raise sourced over $700K in ARR in six months with Ava. SumUp runs leads at $52 each. Teams in San Francisco and New York. And we're hiring.",
+    "one_liner": "The AI BDR for enterprise revenue teams, plus a full AI sales team",
+    "team_size": 50,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1698323535,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Sales",
       "Automation",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -189420,7 +189422,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -189921,15 +189923,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/15ea369712455e4db27cb24aae44230d83a5b836.png",
     "website": "https://www.blumebenefits.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Blume is a web app that streamlines insurance quoting, renewal, and revenue ops processes for health insurance brokers. We are working with our first cohort of health insurance brokers to help them save the, on average, 6 hours of manual data entry they do every week.",
+    "long_description": "Blume is a web-based care navigation platform that helps patients understand their health benefits, find the right care, and confidently navigate the healthcare system. Offered through insurance brokers, Blume gives patients easy, free access to personalized support while helping brokers deliver more value to their clients and improve the member experience.",
     "one_liner": "The AI copilot for health insurance brokers.",
     "team_size": 3,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1706634406,
     "tags": [
+      "Artificial Intelligence",
       "Health Insurance",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -192063,11 +192065,11 @@
       "Ellipsis",
       "ellipsis"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/825caa6d8502745ed1854595552f4f7f1091bb3e.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1fa4719de38384c762164e3dcd13cfaa014c5ba3.png",
     "website": "https://ellipsis.dev",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Ellipsis will help your team merge code 13% faster.\r\n\r\nEllipsis is an AI developer tool that automatically reviews code and fixes bugs on pull requests. It uses LLM agents to catch logical errors, security issues, and can even enforce a team's style guide.\r\n\r\nThe coolest part is that after Ellipsis identifies an issue, developers can tag @ellipsis-dev to have Ellipsis implement the fix. Internally, Ellipsis actually executes the code it generates, just like a human does.\r\n\r\nAs a result, we allow developers to generate working, tested code directly from GitHub/GitLab. ",
-    "one_liner": "AI code reviews & bug fixes",
+    "long_description": "Ellipsis is a cloud platform that allows engineering teams to deploy fleets of coding agents. Each agent gets an isolated sandbox, scoped permissions, and hard budget caps. Full observability included. Get started with a $100 credit at www.ellipsis.dev.\r\n\r\nYou can deploy agents for feature development, code review, and workflow automation. Creating an agent is simple: simply commit a YAML file to Github. Spawn agents from Github/Linear/Slack/etc., or via a REST API or our CLI. \r\n\r\nOrganizations get full observability and governance of their cloud coding agents.  Agent session logs are downloadable so companies own their own data.\r\n\r\nFull documentation: https://www.ellipsis.dev/docs",
+    "one_liner": "Cloud platform for coding agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -218538,7 +218540,7 @@
     "former_names": [
       "Platter"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3785aeb576199608d424a1f1a22cefc23e51e52e.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e53b0a2f0edf2d0fa1b2684e2752773cf3f0afba.png",
     "website": "https://runcopycat.com",
     "all_locations": "Seattle, WA, USA",
     "long_description": "CopyCat builds AI specifically for the commercial insurance industry. We save brokers 5-10hrs hours a week by automating repetitive CSR and Sales tasks.",
@@ -218548,11 +218550,11 @@
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1734580429,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Logistics",
       "Healthcare",
-      "Operations"
+      "Operations",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -221712,15 +221714,15 @@
     "website": "https://www.paperinstruments.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Paper Instruments post-trains LLMs to accelerate knowledge work.",
-    "one_liner": "Frontier models and software for knowledge work",
+    "one_liner": "Open-source frontier models for knowledge work",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1747787326,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
-      "Generative AI"
+      "Generative AI",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -230290,7 +230292,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2026",
     "status": "Active",
@@ -242119,8 +242121,8 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ba9cb936197827cdb07b7561ff78521aed096ae7.png",
     "website": "http://moritzlegal.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Moritz is a global AI-native law firm that will handle your legal work the same day, at a fraction of the market price.\r\n\r\nOur AI does 80% of the work, so you pay our elite lawyers for the final 20%.\r\n\r\nOur lawyers have closed $2bn in deals with an average turnaround of 4-hours. No other law firm offers this kind of speed for complex deals.",
+    "all_locations": "Oslo, Oslo, Norway",
+    "long_description": "Moritz is a global AI-native law firm that will handles legal work with same day turnaround.\r\n\r\nOur lawyers have closed $ 3bn in deals with an average turnaround of 4-hours. No other law firm offers this kind of speed for complex deals.\r\n\r\nWe're backed by YC, 20VC and the founders of Dropbox, Gusto, Instacart, Reddit, Superhuman, Producthunt, HuggingFace and 15 other unicorn founders.",
     "one_liner": "Global AI-native law firm handling legal work with same-day turnaround",
     "team_size": 10,
     "industry": "B2B",
@@ -242138,8 +242140,8 @@
       "Legal"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "Norway",
+      "Europe",
       "Remote",
       "Partly Remote"
     ],
@@ -248669,11 +248671,11 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1773429014,
     "tags": [
+      "Artificial Intelligence",
       "Robotics",
       "Crowdsourcing",
       "Big Data",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -252695,10 +252697,10 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4785fcf24308f1fcad59fe3eda9fea668524c25f.png",
     "website": "https://www.arzana.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Arzana trains custom models on a factory's historical data and use them to deploy agents that automate their quoting, order entry, invoicing, and other repetitive office work. We've saved our customers over $1M in avoided staff costs.\r\n\r\nIn the future, we'll expand into shop-floor automation, sending instructions to machinery and robots to produce the orders that our office agents processed. By 2035, we aim to fully automate 10,000 American factories.",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "Arzana trains custom models on manufacturers' operational data to automate their quoting, order entry, invoicing, and other repetitive office work. We've saved our customers over $1.5M in avoided staff costs.\r\n\r\nIn the future, we'll expand into shop-floor automation, sending instructions to machinery and robots to produce the orders that our office agents processed. By 2035, we aim to fully automate 10,000 American factories.",
     "one_liner": "The autonomous ERP for every manufacturer",
-    "team_size": 5,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1773098013,
@@ -256102,8 +256104,8 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c3ccfe3188152229b75f7e38241a91f40b4c9edd.png",
     "website": "https://zaplar.com",
-    "all_locations": "Stockholm, Stockholm County, Sweden",
-    "long_description": "Zaplar is the AI-native operating system for hotels.\r\n\r\nWe consolidate the 5-15 separate tools the average hotel runs on into one software that can handle hotel operations autonomously.\r\n\r\nLearn more at https://zaplar.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Zaplar is the AI-native operating system for hotels.\r\n\r\nWe replace the entire hotel tech stack (PMS, POS, booking engine, etc) into one software that can handle hotel operations autonomously.\r\n\r\nLearn more at https://zaplar.com",
     "one_liner": "Agentic Hotel Operating System",
     "team_size": 8,
     "industry": "B2B",
@@ -256124,8 +256126,8 @@
       "Operations"
     ],
     "regions": [
-      "Sweden",
-      "Europe"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -256285,13 +256287,13 @@
     "one_liner": "The most accurate financial agents for reporting",
     "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
+    "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1782681224,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "SaaS",
-      "Finance"
+      "Finance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -256301,7 +256303,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Infrastructure"
+      "Finance and Accounting"
     ],
     "regions": [
       "United States of America",
@@ -256314,6 +256316,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/definite",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/definite.json"
+  },
+  {
+    "id": 32418,
+    "name": "Traceforce",
+    "slug": "traceforce",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8a31e3b43130c5974d52608c066ff45cc746112f.png",
+    "website": "https://www.traceforce.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "AI apps such as ChatGPT and Claude have become part of everyone's daily workflow, but they introduce new security risks that traditional security tools weren't built to handle. Security teams at companies from startups to Fortune 500s, are struggling to keep up.\r\n\r\nTraceforce gives a company’s security team visibility of how AI apps are being used across company’s devices, and the ability to detect and prevent security breaches and unsafe actions as early as possible.",
+    "one_liner": "Securing AI native apps directly on devices",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1785015608,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Security",
+      "Cybersecurity",
+      "Enterprise"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/traceforce",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/traceforce.json"
   },
   {
     "id": 32518,
@@ -257033,7 +257080,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d3d83aa2013bbe6b22b37f316b294d0c717eea35.png",
     "website": "https://fabraix.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Fabraix builds state-of-the-art AI red-teaming agents that continuously detect security vulnerabilities in customer-facing AI. Our product, Nyx, has already found vulnerabilities in agents at dozens of Fortune 500 companies. On AgentHarm, the leading benchmark for offensive AI security, Nyx achieved a 78% attack success rate, compared with 67% for GPT-5.6 Sol.\r\n\r\nCompanies usually pay for penetration tests one project at a time. They select which systems to include, give a team a few weeks to find vulnerabilities, and receive a report when the project ends. Testing everything this way is very expensive. Globally, penetration tests cover only 26% of the software attack surface.\r\n\r\nAI agents can change more often than teams can test them. A new model, prompt, tool, permission, or data source can change what an agent does, even when the application code stays the same. The report describes only the version that was tested. AI is also increasing how much software companies produce and how often it changes.\r\n\r\nWe built Nyx to automate this work. It does three things:\r\n1. Nyx connects through the same interfaces customers use. It tests chat, voice, browser, and coding agents without source code or a special integration.\r\n2. It draws on more than 10,000 jailbreaks that we have collected and classified, the largest such library we know of.\r\n3. It uses each response to decide what to try next and can pursue a promising approach for hundreds of turns. In our tests, these adaptive attacks succeeded 20 times as often as attacks that were replayed unchanged or stopped after a fixed number of turns.\r\n\r\nNyx often finds its first vulnerability within minutes or hours rather than days or weeks. Because the work is automated, companies can repeat the test with every change and at much lower cost.\r\n\r\nWe're also the team behind ACE (Adversarial Cost to Exploit), a benchmark that measures AI security in terms of how much it costs attackers to break an AI system; providing a game-theoretic framework to understand how motivated a rational attacker would be in exploiting the system.",
+    "long_description": "Fabraix builds state-of-the-art AI red-teaming agents that continuously detect security vulnerabilities in customer-facing AI. Our product, Nyx, has already found vulnerabilities in agents at dozens of Fortune 500 companies. On AgentHarm, the leading benchmark for offensive AI security, Nyx achieved a 78% attack success rate, compared with 67% for GPT-5.6 Sol.\r\n\r\nAI agents can change more often than teams can test them. A new model, prompt, tool, permission, or data source can change what an agent does, even when the application code stays the same. And AI is also increasing how much software companies produce and how often it changes.\r\n\r\nWe built Nyx to automate the work required to red-team AI agents. It is built around three capabilities:\r\n- Nyx draws on more than 10,000 jailbreaks that we have collected and continuously update from public records (the largest such library we know of) as starting points for attacks across a wide range of failure modes.\r\n- Nyx attacks itself through adversarial self-play, retaining successful jailbreaks and using them to generate stronger variants. This creates a continuous search for novel attacks rather than replaying a fixed set of payloads which compounds over time; thus massively improving its capabilities.\r\n- It can interact directly with chat, voice, browser, and coding agents without source code or a special integration. It can also attack indirectly through controlled replicas of SaaS products and websites that we maintain, placing malicious payloads in webpages, documents, files, messages, and tool outputs to test how an agent behaves under different conditions.\r\n\r\nNyx often finds its first vulnerability within minutes or hours rather than days or weeks. Because the work is fully automated, companies can repeat the test with every change and at a much lower cost than what a 7-figure red-teaming (and point-in-time) engagement would require.\r\n\r\nWe're also the team behind ACE (Adversarial Cost to Exploit), a benchmark that measures AI security in terms of how much it costs attackers to break an AI system; providing a game-theoretic framework to understand how motivated a rational attacker would be in exploiting the system.",
     "one_liner": "The world's frontier hacker for AI agents.",
     "team_size": 2,
     "industry": "B2B",
@@ -257230,6 +257277,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/neuron-industries",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/neuron-industries.json"
+  },
+  {
+    "id": 32748,
+    "name": "PokerClubHub",
+    "slug": "pokerclubhub",
+    "former_names": [
+      "Rounder"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bdce623e4f66c5199feb962395591af2b0973e32.png",
+    "website": "https://www.pokerclubhub.com",
+    "all_locations": "Jaco, Puntarenas Province, Costa Rica",
+    "long_description": "TL;DR: PokerClubHub is the first licensed poker club platform. We protect players’ deposits and allow anyone to open their own poker club and make money.\r\n\r\nRegulated online poker sites like PokerStars have open player pools and thus are full of pros and bots, driving players to unregulated private clubs.\r\n\r\nExisting poker club platforms like ClubGG have no payments processing. Players deposit with a club owner by sending them crypto for play-money chips. In theory, these chips can be exchanged back for money. However, players can get scammed and withdrawing takes ages.\r\n\r\nThis model is also broken for honest club owners who have to manually process hundreds of deposits a day. They lose out on rake when they sleep and struggle to get players to trust them.\r\n\r\nOn PokerClubhub, players deposit with PokerClubHub, not the club owner. We handle all deposits and withdrawals for the club owner, saving them time and increasing their earnings. We pay the rake (if any) to club owners as affiliate fees.\r\n\r\nWe hold the same gaming license as BetHog (built by founders of FanDuel) and Nexa Poker (part of World Poker Tour). Player deposits are secured using Fireblocks.\r\n\r\nYou can also play rake-free games with your friends and acquaintances on our platform. We ensure that everyone pays up.",
+    "one_liner": "Host a Poker Club and Make Money",
+    "team_size": 0,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Gaming",
+    "launched_at": 1785028791,
+    "tags": [
+      "SaaS",
+      "Crypto / Web3",
+      "Gaming",
+      "eSports"
+    ],
+    "tags_highlighted": [
+      "Crypto / Web3"
+    ],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Gaming"
+    ],
+    "regions": [
+      "Costa Rica",
+      "Latin America"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pokerclubhub",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/pokerclubhub.json"
   },
   {
     "id": 32751,
@@ -257455,7 +257548,7 @@
     "team_size": 5,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
-    "launched_at": 1779899469,
+    "launched_at": 1784908687,
     "tags": [
       "Health Tech",
       "Telehealth",
@@ -257481,6 +257574,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ronanrx-inc",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/ronanrx-inc.json"
+  },
+  {
+    "id": 32985,
+    "name": "Lumeria",
+    "slug": "lumeria",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3248066794d2775ccfb10dc3c2b88563b19d2b91.png",
+    "website": "https://lumeria.skin",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Your skin is yours, but understanding it has never felt that way. Getting answers has meant an appointment, a price, and a long trial-and-error process. We're changing that. Lumeria puts your skin in your own hands: the power to see it, know it, and own its story yourself, at home and on your terms.",
+    "one_liner": "Oura Ring for Skin.",
+    "team_size": 3,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Consumer Health and Wellness",
+    "launched_at": 1785008787,
+    "tags": [
+      "Consumer Health Services",
+      "Health Tech",
+      "Health & Wellness",
+      "Skincare",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Consumer Health and Wellness"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lumeria",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/lumeria.json"
   },
   {
     "id": 32988,
@@ -258119,7 +258255,7 @@
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
-    "launched_at": 1780103657,
+    "launched_at": 1784742432,
     "tags": [
       "Artificial Intelligence",
       "SaaS",
@@ -258919,6 +259055,46 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/billow-ai-labs.json"
   },
   {
+    "id": 33607,
+    "name": "Atomarine",
+    "slug": "atomarine",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/68f45c0c6632da6b496042e949e7594d02236fdd.png",
+    "website": "https://atomarine.co",
+    "all_locations": "Boston, MA, USA",
+    "long_description": "We are building nuclear power delivery ships to power our floating compute barges at sea. Our systems are fully standalone, have better cooling, and avoid all the resource competition that leads to local community opposition. Our centralized manufacturing allows us to deploy anywhere on Earth, four times faster than on land.",
+    "one_liner": "Off shore nuclear powered data centers at sea.",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Energy",
+    "launched_at": 1781223109,
+    "tags": [
+      "Hard Tech",
+      "Energy"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Energy"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/atomarine",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/atomarine.json"
+  },
+  {
     "id": 33738,
     "name": "Coasty",
     "slug": "coasty",
@@ -258957,49 +259133,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/coasty",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/coasty.json"
-  },
-  {
-    "id": 33771,
-    "name": "Blaise",
-    "slug": "blaise",
-    "former_names": [
-      "Blue"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2bff3fcdc434c99cf544f6ebe967ec66cea3af59.png",
-    "website": "https://blaise.new/",
-    "all_locations": "Stockholm, Stockholm County, Sweden",
-    "long_description": "Blaise is an AI system that scopes, builds and deploys enterprise software, end to end.\r\n\r\nLearn more at www.blaise.new",
-    "one_liner": "AI native software factory",
-    "team_size": null,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1784805283,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Sweden",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/blaise",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/blaise.json"
   },
   {
     "id": 33805,

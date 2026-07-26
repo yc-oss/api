@@ -14473,7 +14473,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b038a5e905f1f6cf97ad14baa85b93658ffe2791.png",
     "website": "https://explorex.co",
     "all_locations": "Bengaluru, KA, India",
-    "long_description": "Explorex is building the operating system for dining — powering both restaurants and the end consumer experience through a tightly integrated ecosystem.\r\n\r\nWhile most companies in the space focus on software for restaurants or discovery for diners, Explorex connects both sides of the equation. Our platform combines a full-stack restaurant OS (Bridge) with a consumer layer (Elite), enabling seamless, real-time dining experiences — from discovering a place, to ordering, to paying, all without friction.\r\n\r\nAt the core of this is Elite — our consumer app that is redefining how people dine out. Diners can see live table availability, access dynamic menus, place orders, and self-checkout instantly without waiting for staff. This removes the biggest friction in dining — interruptions — and turns going out into a smooth, uninterrupted experience.\r\n\r\nWhat makes Explorex fundamentally different is the data layer. Unlike delivery platforms that only see orders, we capture real-world, in-venue behavior — what people order, how long they stay, how groups behave, how menus perform, and how experiences impact spending.\r\n\r\nWe are now building Elara, an AI-powered dining concierge that uses this data to guide users to the best possible experience in real time — factoring in intent, context, weather, vibe, availability, and historical behavior. This allows us to move beyond discovery into decision-making, becoming the intelligence layer for offline commerce.\r\n\r\nFor restaurants, this translates into higher revenue through better table utilization, increased average order value, and direct access to high-intent consumers. For diners, it means a faster, more personalized, and significantly better dining experience.\r\n\r\nExplorex is not a SaaS tool — it is the infrastructure layer for offline dining, with AI and consumer experience at its core.",
+    "long_description": "Explorex — The Memory Layer for Physical Commerce\r\n\r\n~90% of Indian retail happens in person, yet offline venues have no memory of their customers. Restaurants run on disconnected tools, and every visit ends with zero data captured. Explorex fixes this by owning both sides of the dining transaction.\r\n\r\nAt the center is Elite, our consumer app that is redefining how people dine out. Diners see live table availability, browse dynamic menus, order, and self-checkout instantly — no waiting, no interruptions. Behind it sits our infrastructure stack: Bridge OS (the full-stack restaurant operating system), Clyro (WhatsApp-native CRM), and ReserveX — all feeding a single behavioral data layer.\r\n\r\nThat data layer is what makes Explorex fundamentally different. Delivery platforms only see orders. We capture real-world, in-venue behavior — what people order, how long they stay, how groups behave, how menus perform, how experiences shape spending. Because we operate the restaurant OS and the consumer touchpoint, this data is irreplicable.\r\n\r\nWe're now building Elara, an AI dining concierge that turns this data into real-time decision-making — factoring intent, context, availability, and historical behavior. This moves us beyond discovery into becoming the intelligence layer for offline commerce.\r\n\r\nToday, Explorex powers 250+ partner restaurants and 3M+ diners across Bangalore and Hyderabad, processing 8M+ transactions annually (18M+ lifetime), and operates at breakeven.\r\n\r\nExplorex is not a SaaS tool — it is the infrastructure layer for offline dining, with AI and consumer experience at its core. Think Shopify for restaurants, on its way to becoming the UPI of restaurant operations.",
     "one_liner": "Ecosystem Platform for Restaurants in India",
     "team_size": 25,
     "industry": "Consumer",
@@ -14502,7 +14502,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": false,
+    "question_answers": true,
     "url": "https://www.ycombinator.com/companies/explorex",
     "api": "https://yc-oss.github.io/api/batches/summer-2020/explorex.json"
   },
@@ -32279,6 +32279,53 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/haven-2.json"
   },
   {
+    "id": 27858,
+    "name": "Kivo Health",
+    "slug": "kivo-health",
+    "former_names": [
+      "Kivo Health",
+      "Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ee15c21c618dfd0aa1cbb6bb3be671ac26a2be94.png",
+    "website": "https://kivohealth.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Kivo Health provides AI-powered virtual care for seniors with chronic disease, starting with lung disease. Kivo's AI powered virtual care programs help health plans reduce costs by keeping members healthy and out of the hospital.",
+    "one_liner": "AI-powered care for seniors with chronic disease",
+    "team_size": 35,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare Services",
+    "launched_at": 1675703099,
+    "tags": [
+      "Consumer Health Services",
+      "Telehealth",
+      "Digital Health",
+      "Healthcare"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare Services"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/kivo-health",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/kivo-health.json"
+  },
+  {
     "id": 27860,
     "name": "Dream3D",
     "slug": "dream3d",
@@ -39662,17 +39709,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3aa68965eefe42dc96e16073740dae2087ad188f.png",
     "website": "https://artisan.co/?utm_source=ycombinator",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "At Artisan, we’re building real AI employees - not copilots, not assistants, but autonomous teammates.\r\n\r\nOur first, Ava, is an AI BDR. She finds and researches leads, writes emails in customers’ tone of voice, runs outbound sequences, self-optimizes, and manages email deliverability infrastructure. She learns, adapts, and improves over time - just like a human would.\r\n\r\nHuman team members use Artisan as their primary working platform, replacing a sprawling stack of sales tools, and have Artisans working alongside them.\r\n\r\nWe went through Y Combinator (W24) and have raised $35M+ from top investors. We’re at $6M+ ARR, with hundreds of customers including Remote, Quora, and SumUp.\r\n\r\nWe’re currently working on Ava 2.0, pushing the boundaries of what an AI employee can do. And we're hiring.",
-    "one_liner": "AI employees called Artisans, starting with an AI BDR",
-    "team_size": 37,
+    "long_description": "Artisan builds AI employees for revenue teams. Our first, Ava, is the leading AI BDR: she finds and researches leads across a database of 400M+ contacts, writes and sends personalized email in your tone of voice, runs dialer call steps, handles every reply, and books meetings on the right rep's calendar. Over 90% of our customers run her fully autonomously.\r\n\r\nArtisan is a complete GTM ecosystem, not a point tool. One platform consolidates the 5-8 tool stack most teams stitch together at $100K+/year: prospecting data and waterfall enrichment (ZoomInfo, Apollo), list building and signals (Clay), sequencing (Outreach, Salesloft), parallel dialing (Nooks, Orum), website visitor identification, and buyer intent. It runs on top of Salesforce and HubSpot with owner mapping, do-not-contact enforcement, and field-level sync controls.\r\n\r\nWe're built for enterprise. SOC 2 Type II, GDPR and CCPA compliant, SSO/SAML, role-based access, workspace isolation per brand, and a full audit trail on everything Ava does. The common enterprise pattern: sales ops runs Ava centrally for a thousand-plus AEs who never log in.\r\n\r\nBeyond the BDR job, Ava Inbound qualifies and books website visitors from the same knowledge base, and our AI AE runs live product demos and progresses deals. Prospecting, inbound, and the demo on one platform, one knowledge base, one AI sales team.\r\n\r\nYC W24. $35M+ raised from investors including Y Combinator and HubSpot Ventures. Thousands of customers including DoorDash, Quora, SumUp, CookUnity and SaaStr. Raise sourced over $700K in ARR in six months with Ava. SumUp runs leads at $52 each. Teams in San Francisco and New York. And we're hiring.",
+    "one_liner": "The AI BDR for enterprise revenue teams, plus a full AI sales team",
+    "team_size": 50,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1698323535,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Sales",
       "Automation",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -39690,7 +39737,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -40479,11 +40526,11 @@
       "Ellipsis",
       "ellipsis"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/825caa6d8502745ed1854595552f4f7f1091bb3e.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1fa4719de38384c762164e3dcd13cfaa014c5ba3.png",
     "website": "https://ellipsis.dev",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Ellipsis will help your team merge code 13% faster.\r\n\r\nEllipsis is an AI developer tool that automatically reviews code and fixes bugs on pull requests. It uses LLM agents to catch logical errors, security issues, and can even enforce a team's style guide.\r\n\r\nThe coolest part is that after Ellipsis identifies an issue, developers can tag @ellipsis-dev to have Ellipsis implement the fix. Internally, Ellipsis actually executes the code it generates, just like a human does.\r\n\r\nAs a result, we allow developers to generate working, tested code directly from GitHub/GitLab. ",
-    "one_liner": "AI code reviews & bug fixes",
+    "long_description": "Ellipsis is a cloud platform that allows engineering teams to deploy fleets of coding agents. Each agent gets an isolated sandbox, scoped permissions, and hard budget caps. Full observability included. Get started with a $100 credit at www.ellipsis.dev.\r\n\r\nYou can deploy agents for feature development, code review, and workflow automation. Creating an agent is simple: simply commit a YAML file to Github. Spawn agents from Github/Linear/Slack/etc., or via a REST API or our CLI. \r\n\r\nOrganizations get full observability and governance of their cloud coding agents.  Agent session logs are downloadable so companies own their own data.\r\n\r\nFull documentation: https://www.ellipsis.dev/docs",
+    "one_liner": "Cloud platform for coding agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -56439,6 +56486,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/socratix-ai.json"
   },
   {
+    "id": 30728,
+    "name": "OS3",
+    "slug": "os3",
+    "former_names": [
+      "Observee"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd88161755dbb4d7513a2dc91e69b26930313524.png",
+    "website": "https://os3robotics.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Semi-humanoid robots that do real physical labor. Building hardware and training models, each driving the other. Already deploying in hospitality.",
+    "one_liner": "Intelligence and Machines for Physical Labor",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1753297896,
+    "tags": [
+      "Artificial Intelligence",
+      "Hardware",
+      "Robotics",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/os3",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/os3.json"
+  },
+  {
     "id": 30729,
     "name": "Floot",
     "slug": "floot",
@@ -60394,8 +60485,8 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ba9cb936197827cdb07b7561ff78521aed096ae7.png",
     "website": "http://moritzlegal.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Moritz is a global AI-native law firm that will handle your legal work the same day, at a fraction of the market price.\r\n\r\nOur AI does 80% of the work, so you pay our elite lawyers for the final 20%.\r\n\r\nOur lawyers have closed $2bn in deals with an average turnaround of 4-hours. No other law firm offers this kind of speed for complex deals.",
+    "all_locations": "Oslo, Oslo, Norway",
+    "long_description": "Moritz is a global AI-native law firm that will handles legal work with same day turnaround.\r\n\r\nOur lawyers have closed $ 3bn in deals with an average turnaround of 4-hours. No other law firm offers this kind of speed for complex deals.\r\n\r\nWe're backed by YC, 20VC and the founders of Dropbox, Gusto, Instacart, Reddit, Superhuman, Producthunt, HuggingFace and 15 other unicorn founders.",
     "one_liner": "Global AI-native law firm handling legal work with same-day turnaround",
     "team_size": 10,
     "industry": "B2B",
@@ -60413,8 +60504,8 @@
       "Legal"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "Norway",
+      "Europe",
       "Remote",
       "Partly Remote"
     ],
@@ -62114,11 +62205,11 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1773429014,
     "tags": [
+      "Artificial Intelligence",
       "Robotics",
       "Crowdsourcing",
       "Big Data",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -62959,10 +63050,10 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4785fcf24308f1fcad59fe3eda9fea668524c25f.png",
     "website": "https://www.arzana.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Arzana trains custom models on a factory's historical data and use them to deploy agents that automate their quoting, order entry, invoicing, and other repetitive office work. We've saved our customers over $1M in avoided staff costs.\r\n\r\nIn the future, we'll expand into shop-floor automation, sending instructions to machinery and robots to produce the orders that our office agents processed. By 2035, we aim to fully automate 10,000 American factories.",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "Arzana trains custom models on manufacturers' operational data to automate their quoting, order entry, invoicing, and other repetitive office work. We've saved our customers over $1.5M in avoided staff costs.\r\n\r\nIn the future, we'll expand into shop-floor automation, sending instructions to machinery and robots to produce the orders that our office agents processed. By 2035, we aim to fully automate 10,000 American factories.",
     "one_liner": "The autonomous ERP for every manufacturer",
-    "team_size": 5,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1773098013,
@@ -63543,6 +63634,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/screenpipe",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/screenpipe.json"
+  },
+  {
+    "id": 32418,
+    "name": "Traceforce",
+    "slug": "traceforce",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8a31e3b43130c5974d52608c066ff45cc746112f.png",
+    "website": "https://www.traceforce.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "AI apps such as ChatGPT and Claude have become part of everyone's daily workflow, but they introduce new security risks that traditional security tools weren't built to handle. Security teams at companies from startups to Fortune 500s, are struggling to keep up.\r\n\r\nTraceforce gives a company’s security team visibility of how AI apps are being used across company’s devices, and the ability to detect and prevent security breaches and unsafe actions as early as possible.",
+    "one_liner": "Securing AI native apps directly on devices",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1785015608,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Security",
+      "Cybersecurity",
+      "Enterprise"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/traceforce",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/traceforce.json"
   },
   {
     "id": 32551,

@@ -157,7 +157,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2026",
     "status": "Active",
@@ -2768,8 +2768,8 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c3ccfe3188152229b75f7e38241a91f40b4c9edd.png",
     "website": "https://zaplar.com",
-    "all_locations": "Stockholm, Stockholm County, Sweden",
-    "long_description": "Zaplar is the AI-native operating system for hotels.\r\n\r\nWe consolidate the 5-15 separate tools the average hotel runs on into one software that can handle hotel operations autonomously.\r\n\r\nLearn more at https://zaplar.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Zaplar is the AI-native operating system for hotels.\r\n\r\nWe replace the entire hotel tech stack (PMS, POS, booking engine, etc) into one software that can handle hotel operations autonomously.\r\n\r\nLearn more at https://zaplar.com",
     "one_liner": "Agentic Hotel Operating System",
     "team_size": 8,
     "industry": "B2B",
@@ -2790,8 +2790,8 @@
       "Operations"
     ],
     "regions": [
-      "Sweden",
-      "Europe"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2951,13 +2951,13 @@
     "one_liner": "The most accurate financial agents for reporting",
     "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
+    "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1782681224,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "SaaS",
-      "Finance"
+      "Finance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2967,7 +2967,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Infrastructure"
+      "Finance and Accounting"
     ],
     "regions": [
       "United States of America",
@@ -2980,6 +2980,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/definite",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/definite.json"
+  },
+  {
+    "id": 32418,
+    "name": "Traceforce",
+    "slug": "traceforce",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8a31e3b43130c5974d52608c066ff45cc746112f.png",
+    "website": "https://www.traceforce.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "AI apps such as ChatGPT and Claude have become part of everyone's daily workflow, but they introduce new security risks that traditional security tools weren't built to handle. Security teams at companies from startups to Fortune 500s, are struggling to keep up.\r\n\r\nTraceforce gives a company’s security team visibility of how AI apps are being used across company’s devices, and the ability to detect and prevent security breaches and unsafe actions as early as possible.",
+    "one_liner": "Securing AI native apps directly on devices",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1785015608,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Security",
+      "Cybersecurity",
+      "Enterprise"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/traceforce",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/traceforce.json"
   },
   {
     "id": 32518,
@@ -3699,7 +3744,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d3d83aa2013bbe6b22b37f316b294d0c717eea35.png",
     "website": "https://fabraix.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Fabraix builds state-of-the-art AI red-teaming agents that continuously detect security vulnerabilities in customer-facing AI. Our product, Nyx, has already found vulnerabilities in agents at dozens of Fortune 500 companies. On AgentHarm, the leading benchmark for offensive AI security, Nyx achieved a 78% attack success rate, compared with 67% for GPT-5.6 Sol.\r\n\r\nCompanies usually pay for penetration tests one project at a time. They select which systems to include, give a team a few weeks to find vulnerabilities, and receive a report when the project ends. Testing everything this way is very expensive. Globally, penetration tests cover only 26% of the software attack surface.\r\n\r\nAI agents can change more often than teams can test them. A new model, prompt, tool, permission, or data source can change what an agent does, even when the application code stays the same. The report describes only the version that was tested. AI is also increasing how much software companies produce and how often it changes.\r\n\r\nWe built Nyx to automate this work. It does three things:\r\n1. Nyx connects through the same interfaces customers use. It tests chat, voice, browser, and coding agents without source code or a special integration.\r\n2. It draws on more than 10,000 jailbreaks that we have collected and classified, the largest such library we know of.\r\n3. It uses each response to decide what to try next and can pursue a promising approach for hundreds of turns. In our tests, these adaptive attacks succeeded 20 times as often as attacks that were replayed unchanged or stopped after a fixed number of turns.\r\n\r\nNyx often finds its first vulnerability within minutes or hours rather than days or weeks. Because the work is automated, companies can repeat the test with every change and at much lower cost.\r\n\r\nWe're also the team behind ACE (Adversarial Cost to Exploit), a benchmark that measures AI security in terms of how much it costs attackers to break an AI system; providing a game-theoretic framework to understand how motivated a rational attacker would be in exploiting the system.",
+    "long_description": "Fabraix builds state-of-the-art AI red-teaming agents that continuously detect security vulnerabilities in customer-facing AI. Our product, Nyx, has already found vulnerabilities in agents at dozens of Fortune 500 companies. On AgentHarm, the leading benchmark for offensive AI security, Nyx achieved a 78% attack success rate, compared with 67% for GPT-5.6 Sol.\r\n\r\nAI agents can change more often than teams can test them. A new model, prompt, tool, permission, or data source can change what an agent does, even when the application code stays the same. And AI is also increasing how much software companies produce and how often it changes.\r\n\r\nWe built Nyx to automate the work required to red-team AI agents. It is built around three capabilities:\r\n- Nyx draws on more than 10,000 jailbreaks that we have collected and continuously update from public records (the largest such library we know of) as starting points for attacks across a wide range of failure modes.\r\n- Nyx attacks itself through adversarial self-play, retaining successful jailbreaks and using them to generate stronger variants. This creates a continuous search for novel attacks rather than replaying a fixed set of payloads which compounds over time; thus massively improving its capabilities.\r\n- It can interact directly with chat, voice, browser, and coding agents without source code or a special integration. It can also attack indirectly through controlled replicas of SaaS products and websites that we maintain, placing malicious payloads in webpages, documents, files, messages, and tool outputs to test how an agent behaves under different conditions.\r\n\r\nNyx often finds its first vulnerability within minutes or hours rather than days or weeks. Because the work is fully automated, companies can repeat the test with every change and at a much lower cost than what a 7-figure red-teaming (and point-in-time) engagement would require.\r\n\r\nWe're also the team behind ACE (Adversarial Cost to Exploit), a benchmark that measures AI security in terms of how much it costs attackers to break an AI system; providing a game-theoretic framework to understand how motivated a rational attacker would be in exploiting the system.",
     "one_liner": "The world's frontier hacker for AI agents.",
     "team_size": 2,
     "industry": "B2B",
@@ -3896,6 +3941,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/neuron-industries",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/neuron-industries.json"
+  },
+  {
+    "id": 32748,
+    "name": "PokerClubHub",
+    "slug": "pokerclubhub",
+    "former_names": [
+      "Rounder"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bdce623e4f66c5199feb962395591af2b0973e32.png",
+    "website": "https://www.pokerclubhub.com",
+    "all_locations": "Jaco, Puntarenas Province, Costa Rica",
+    "long_description": "TL;DR: PokerClubHub is the first licensed poker club platform. We protect players’ deposits and allow anyone to open their own poker club and make money.\r\n\r\nRegulated online poker sites like PokerStars have open player pools and thus are full of pros and bots, driving players to unregulated private clubs.\r\n\r\nExisting poker club platforms like ClubGG have no payments processing. Players deposit with a club owner by sending them crypto for play-money chips. In theory, these chips can be exchanged back for money. However, players can get scammed and withdrawing takes ages.\r\n\r\nThis model is also broken for honest club owners who have to manually process hundreds of deposits a day. They lose out on rake when they sleep and struggle to get players to trust them.\r\n\r\nOn PokerClubhub, players deposit with PokerClubHub, not the club owner. We handle all deposits and withdrawals for the club owner, saving them time and increasing their earnings. We pay the rake (if any) to club owners as affiliate fees.\r\n\r\nWe hold the same gaming license as BetHog (built by founders of FanDuel) and Nexa Poker (part of World Poker Tour). Player deposits are secured using Fireblocks.\r\n\r\nYou can also play rake-free games with your friends and acquaintances on our platform. We ensure that everyone pays up.",
+    "one_liner": "Host a Poker Club and Make Money",
+    "team_size": 0,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Gaming",
+    "launched_at": 1785028791,
+    "tags": [
+      "SaaS",
+      "Crypto / Web3",
+      "Gaming",
+      "eSports"
+    ],
+    "tags_highlighted": [
+      "Crypto / Web3"
+    ],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Gaming"
+    ],
+    "regions": [
+      "Costa Rica",
+      "Latin America"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pokerclubhub",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/pokerclubhub.json"
   },
   {
     "id": 32751,
@@ -4121,7 +4212,7 @@
     "team_size": 5,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
-    "launched_at": 1779899469,
+    "launched_at": 1784908687,
     "tags": [
       "Health Tech",
       "Telehealth",
@@ -4147,6 +4238,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ronanrx-inc",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/ronanrx-inc.json"
+  },
+  {
+    "id": 32985,
+    "name": "Lumeria",
+    "slug": "lumeria",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3248066794d2775ccfb10dc3c2b88563b19d2b91.png",
+    "website": "https://lumeria.skin",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Your skin is yours, but understanding it has never felt that way. Getting answers has meant an appointment, a price, and a long trial-and-error process. We're changing that. Lumeria puts your skin in your own hands: the power to see it, know it, and own its story yourself, at home and on your terms.",
+    "one_liner": "Oura Ring for Skin.",
+    "team_size": 3,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Consumer Health and Wellness",
+    "launched_at": 1785008787,
+    "tags": [
+      "Consumer Health Services",
+      "Health Tech",
+      "Health & Wellness",
+      "Skincare",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Consumer Health and Wellness"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lumeria",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/lumeria.json"
   },
   {
     "id": 32988,
@@ -4785,7 +4919,7 @@
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
-    "launched_at": 1780103657,
+    "launched_at": 1784742432,
     "tags": [
       "Artificial Intelligence",
       "SaaS",
@@ -5585,6 +5719,46 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/billow-ai-labs.json"
   },
   {
+    "id": 33607,
+    "name": "Atomarine",
+    "slug": "atomarine",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/68f45c0c6632da6b496042e949e7594d02236fdd.png",
+    "website": "https://atomarine.co",
+    "all_locations": "Boston, MA, USA",
+    "long_description": "We are building nuclear power delivery ships to power our floating compute barges at sea. Our systems are fully standalone, have better cooling, and avoid all the resource competition that leads to local community opposition. Our centralized manufacturing allows us to deploy anywhere on Earth, four times faster than on land.",
+    "one_liner": "Off shore nuclear powered data centers at sea.",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Energy",
+    "launched_at": 1781223109,
+    "tags": [
+      "Hard Tech",
+      "Energy"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Energy"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/atomarine",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/atomarine.json"
+  },
+  {
     "id": 33738,
     "name": "Coasty",
     "slug": "coasty",
@@ -5623,49 +5797,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/coasty",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/coasty.json"
-  },
-  {
-    "id": 33771,
-    "name": "Blaise",
-    "slug": "blaise",
-    "former_names": [
-      "Blue"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2bff3fcdc434c99cf544f6ebe967ec66cea3af59.png",
-    "website": "https://blaise.new/",
-    "all_locations": "Stockholm, Stockholm County, Sweden",
-    "long_description": "Blaise is an AI system that scopes, builds and deploys enterprise software, end to end.\r\n\r\nLearn more at www.blaise.new",
-    "one_liner": "AI native software factory",
-    "team_size": null,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1784805283,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Sweden",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/blaise",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/blaise.json"
   },
   {
     "id": 33805,

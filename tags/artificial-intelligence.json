@@ -22419,6 +22419,52 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/arini.json"
   },
   {
+    "id": 29295,
+    "name": "Artisan",
+    "slug": "artisan",
+    "former_names": [
+      "Artisan AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3aa68965eefe42dc96e16073740dae2087ad188f.png",
+    "website": "https://artisan.co/?utm_source=ycombinator",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Artisan builds AI employees for revenue teams. Our first, Ava, is the leading AI BDR: she finds and researches leads across a database of 400M+ contacts, writes and sends personalized email in your tone of voice, runs dialer call steps, handles every reply, and books meetings on the right rep's calendar. Over 90% of our customers run her fully autonomously.\r\n\r\nArtisan is a complete GTM ecosystem, not a point tool. One platform consolidates the 5-8 tool stack most teams stitch together at $100K+/year: prospecting data and waterfall enrichment (ZoomInfo, Apollo), list building and signals (Clay), sequencing (Outreach, Salesloft), parallel dialing (Nooks, Orum), website visitor identification, and buyer intent. It runs on top of Salesforce and HubSpot with owner mapping, do-not-contact enforcement, and field-level sync controls.\r\n\r\nWe're built for enterprise. SOC 2 Type II, GDPR and CCPA compliant, SSO/SAML, role-based access, workspace isolation per brand, and a full audit trail on everything Ava does. The common enterprise pattern: sales ops runs Ava centrally for a thousand-plus AEs who never log in.\r\n\r\nBeyond the BDR job, Ava Inbound qualifies and books website visitors from the same knowledge base, and our AI AE runs live product demos and progresses deals. Prospecting, inbound, and the demo on one platform, one knowledge base, one AI sales team.\r\n\r\nYC W24. $35M+ raised from investors including Y Combinator and HubSpot Ventures. Thousands of customers including DoorDash, Quora, SumUp, CookUnity and SaaStr. Raise sourced over $700K in ARR in six months with Ava. SumUp runs leads at $52 each. Teams in San Francisco and New York. And we're hiring.",
+    "one_liner": "The AI BDR for enterprise revenue teams, plus a full AI sales team",
+    "team_size": 50,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1698323535,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Sales",
+      "Automation",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": true,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/artisan",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/artisan.json"
+  },
+  {
     "id": 29297,
     "name": "Eggnog",
     "slug": "eggnog",
@@ -22545,6 +22591,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ecliptor",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/ecliptor.json"
+  },
+  {
+    "id": 29307,
+    "name": "Blume Benefits",
+    "slug": "blume-benefits",
+    "former_names": [
+      "Blitz AI",
+      "Blume"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/15ea369712455e4db27cb24aae44230d83a5b836.png",
+    "website": "https://www.blumebenefits.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Blume is a web-based care navigation platform that helps patients understand their health benefits, find the right care, and confidently navigate the healthcare system. Offered through insurance brokers, Blume gives patients easy, free access to personalized support while helping brokers deliver more value to their clients and improve the member experience.",
+    "one_liner": "The AI copilot for health insurance brokers.",
+    "team_size": 3,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1706634406,
+    "tags": [
+      "Artificial Intelligence",
+      "Health Insurance",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Inactive",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/blume-benefits",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/blume-benefits.json"
   },
   {
     "id": 29310,
@@ -23470,11 +23560,11 @@
       "Ellipsis",
       "ellipsis"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/825caa6d8502745ed1854595552f4f7f1091bb3e.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1fa4719de38384c762164e3dcd13cfaa014c5ba3.png",
     "website": "https://ellipsis.dev",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Ellipsis will help your team merge code 13% faster.\r\n\r\nEllipsis is an AI developer tool that automatically reviews code and fixes bugs on pull requests. It uses LLM agents to catch logical errors, security issues, and can even enforce a team's style guide.\r\n\r\nThe coolest part is that after Ellipsis identifies an issue, developers can tag @ellipsis-dev to have Ellipsis implement the fix. Internally, Ellipsis actually executes the code it generates, just like a human does.\r\n\r\nAs a result, we allow developers to generate working, tested code directly from GitHub/GitLab. ",
-    "one_liner": "AI code reviews & bug fixes",
+    "long_description": "Ellipsis is a cloud platform that allows engineering teams to deploy fleets of coding agents. Each agent gets an isolated sandbox, scoped permissions, and hard budget caps. Full observability included. Get started with a $100 credit at www.ellipsis.dev.\r\n\r\nYou can deploy agents for feature development, code review, and workflow automation. Creating an agent is simple: simply commit a YAML file to Github. Spawn agents from Github/Linear/Slack/etc., or via a REST API or our CLI. \r\n\r\nOrganizations get full observability and governance of their cloud coding agents.  Agent session logs are downloadable so companies own their own data.\r\n\r\nFull documentation: https://www.ellipsis.dev/docs",
+    "one_liner": "Cloud platform for coding agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -31989,51 +32079,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/woz.json"
   },
   {
-    "id": 30338,
-    "name": "CopyCat",
-    "slug": "copycat",
-    "former_names": [
-      "Platter"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3785aeb576199608d424a1f1a22cefc23e51e52e.png",
-    "website": "https://runcopycat.com",
-    "all_locations": "Seattle, WA, USA",
-    "long_description": "CopyCat builds AI specifically for the commercial insurance industry. We save brokers 5-10hrs hours a week by automating repetitive CSR and Sales tasks.",
-    "one_liner": "AI agents built for insurance. ",
-    "team_size": 2,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Insurance",
-    "launched_at": 1734580429,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Logistics",
-      "Healthcare",
-      "Operations"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Insurance"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/copycat",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/copycat.json"
-  },
-  {
     "id": 30340,
     "name": "TamLabs",
     "slug": "tamlabs",
@@ -32827,48 +32872,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/parsewise",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/parsewise.json"
-  },
-  {
-    "id": 30455,
-    "name": "Paper Instruments",
-    "slug": "paper-instruments",
-    "former_names": [
-      "The LLM Data Company"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b0612dcacbdc26af352611e30ccd5d9b8e4dfc31.png",
-    "website": "https://www.paperinstruments.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Paper Instruments post-trains LLMs to accelerate knowledge work.",
-    "one_liner": "Frontier models and software for knowledge work",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1747787326,
-    "tags": [
-      "AIOps",
-      "Artificial Intelligence",
-      "Generative AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/paper-instruments",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/paper-instruments.json"
   },
   {
     "id": 30456,
@@ -35564,7 +35567,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2026",
     "status": "Active",
@@ -39461,6 +39464,54 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/zenbu-2.json"
   },
   {
+    "id": 31375,
+    "name": "Hub",
+    "slug": "hub",
+    "former_names": [
+      "Hub",
+      "Hub.xyz"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4807c17f08dbbfbdd8f51297746a838ba6db58c1.png",
+    "website": "https://hub.xyz",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Hub is a distributed real-world data infrastructure company that captures the lived richness of human experience, including voice, nuance, and perspective to train the next generation of AI models. \r\n\r\nThrough HubApp, our global network spanning 150+ countries sources high-fidelity, original data that cannot be found on the public web or generated synthetically. \r\n\r\nWe provide a completely automated pipeline coupled with human-in-the-loop validation to deliver production-ready multimodal data to frontier AI labs and Fortune 500 companies.",
+    "one_liner": "Real-world training data for frontier AI labs and robotics.",
+    "team_size": 10,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1773429014,
+    "tags": [
+      "Artificial Intelligence",
+      "Robotics",
+      "Crowdsourcing",
+      "Big Data",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hub",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/hub.json"
+  },
+  {
     "id": 31376,
     "name": "Light Anchor",
     "slug": "light-anchor",
@@ -40523,49 +40574,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/alkera-ai.json"
   },
   {
-    "id": 32286,
-    "name": "Definite",
-    "slug": "definite",
-    "former_names": [
-      "Ledgix",
-      "Bylaw"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea163685b0ad74eaec6a19637a061cdb5e63acae.png",
-    "website": "https://www.usedefinite.com",
+    "id": 32418,
+    "name": "Traceforce",
+    "slug": "traceforce",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8a31e3b43130c5974d52608c066ff45cc746112f.png",
+    "website": "https://www.traceforce.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Definite builds AI agents that generate the reports banks and financial institutions file with their regulators. Before any number lands in a filing, our verification engine checks it independently. Every line gets recomputed from ledger records and checked against a versioned rulebook, and wrong outputs go back to the agent with the reason, like compiler errors. They don't ship.\r\n\r\nWe met our first year studying computer science at the University of Waterloo, and interned at Meta, Optiver, and BitGo, places where one unverified number in a filing has real consequences. At BitGo, attestations proving customer assets matched the ledger were assembled by hand every period. At Optiver, daily regulatory numbers were rebuilt manually because nothing downstream took them on faith.\r\n\r\nToday a controller pulls data from the core system into Excel and maps it to the report line by line. By the regulators' own estimate, one quarterly filing takes weeks. The software banks buy for this validates formatting, not truth: a loan mapped to the wrong schedule line passes every check it runs, and an executive personally signs the result.\r\n\r\nThis is hard because verification has to be independent of the model doing the work. Recomputing every number from source records is the only check a regulator or auditor will accept, and it's why DeepSeek v3 with our engine beats GPT-5 on public reporting benchmarks.\r\n\r\nEvery regulated institution files these reports, forever. Whoever proves the numbers owns the layer the filings, the audits, and eventually the books themselves depend on. We build it, and the agents that run on it.",
-    "one_liner": "The most accurate financial agents for reporting",
-    "team_size": 3,
+    "long_description": "AI apps such as ChatGPT and Claude have become part of everyone's daily workflow, but they introduce new security risks that traditional security tools weren't built to handle. Security teams at companies from startups to Fortune 500s, are struggling to keep up.\r\n\r\nTraceforce gives a company’s security team visibility of how AI apps are being used across company’s devices, and the ability to detect and prevent security breaches and unsafe actions as early as possible.",
+    "one_liner": "Securing AI native apps directly on devices",
+    "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1782681224,
+    "subindustry": "B2B -> Security",
+    "launched_at": 1785015608,
     "tags": [
       "Artificial Intelligence",
-      "Fintech",
       "SaaS",
-      "Finance"
+      "Security",
+      "Cybersecurity",
+      "Enterprise"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2026",
     "status": "Active",
     "industries": [
       "B2B",
-      "Infrastructure"
+      "Security"
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/definite",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/definite.json"
+    "url": "https://www.ycombinator.com/companies/traceforce",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/traceforce.json"
   },
   {
     "id": 32520,
@@ -41040,7 +41091,7 @@
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
-    "launched_at": 1780103657,
+    "launched_at": 1784742432,
     "tags": [
       "Artificial Intelligence",
       "SaaS",
@@ -41197,49 +41248,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/billow-ai-labs",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/billow-ai-labs.json"
-  },
-  {
-    "id": 33771,
-    "name": "Blaise",
-    "slug": "blaise",
-    "former_names": [
-      "Blue"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2bff3fcdc434c99cf544f6ebe967ec66cea3af59.png",
-    "website": "https://blaise.new/",
-    "all_locations": "Stockholm, Stockholm County, Sweden",
-    "long_description": "Blaise is an AI system that scopes, builds and deploys enterprise software, end to end.\r\n\r\nLearn more at www.blaise.new",
-    "one_liner": "AI native software factory",
-    "team_size": null,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1784805283,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Sweden",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/blaise",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/blaise.json"
   },
   {
     "id": 33936,
