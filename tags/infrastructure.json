@@ -2267,47 +2267,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/crowdvolt.json"
   },
   {
-    "id": 29515,
-    "name": "NowHouse",
-    "slug": "nowhouse",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a46937fb560137c8e2a3bbcfcaf475423a4d2fc.png",
-    "website": "",
-    "all_locations": "New York City, NY, USA",
-    "long_description": "NowHouse helps stock brokerages settle trades instantly.",
-    "one_liner": "NowHouse helps stock brokerages settle trades instantly.",
-    "team_size": 0,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
-    "launched_at": 1709826722,
-    "tags": [
-      "Fintech",
-      "Enterprise",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/nowhouse",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/nowhouse.json"
-  },
-  {
     "id": 29575,
     "name": "Doublezero",
     "slug": "doublezero",
@@ -4817,18 +4776,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2393bf402ae2e425fc41cb7f78facb4b67fa9d5.png",
     "website": "https://myunowallet.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Uno is the first third-party wallet granted access by Apple to become the default contactless wallet on iPhone. Uno is building a new payment rail, starting with a smarter wallet experience.\r\n\r\nThe wedge is credit card points optimization. \r\n\r\nFounded by Saket Joshi (www.linkedin.com/in/saket-dattatray-joshi/) and \r\nMordi Shadpour (www.linkedin.com/in/mordi-shadpour/)",
+    "long_description": "We are changing the way that people pay...",
     "one_liner": "The AI mobile wallet that replaces Apple Pay",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Payments",
     "launched_at": 1779834493,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "Payments",
       "Consumer",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4983,7 +4942,7 @@
     "slug": "agency-tool-company",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/244ddf9b0965c4c601170d71dd660ad1a89f8792.png",
-    "website": "https://agencytool.company",
+    "website": "https://agencytool.com",
     "all_locations": "Denver, CO, USA",
     "long_description": "Agency Tool Company ships software to robots in the field 20x faster than a Docker pull with ATC Deploy, sending only the bytes that changed and resuming when the network drops. Deployment tooling is the connection between the lab & the field that continually bottlenecks robotics scaling and lacks a strong robotics-native solution. Deploy is live today with 3 launch partners across ag, construction, and logistics robotics.\r\n\r\nOur second product, ATC Build, offers embedded-compute as a CI service so devs can run tests and validate their software on the actual target hardware. Build supports the Nvidia Jetson lineup, Raspberry Pi, and a number of other embedded platform targets.\r\n\r\nJack Morrison and Davis Foster founded and sold Scythe Robotics after deploying hundreds of autonomous mowers across the country; Agency Tool Company is building the robotics deployment platform across hardware and software they wish they had.",
     "one_liner": "Reliable infrastructure to build, deploy and manage real-world robots.",
@@ -5104,6 +5063,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/inkbox",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/inkbox.json"
+  },
+  {
+    "id": 33315,
+    "name": "Amulet",
+    "slug": "amulet",
+    "former_names": [
+      "Quokka"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a701d932d1defe46eb3a0feed27a1cd9efe8e13c.png",
+    "website": "https://amulet.so/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Amulet is a high-performance filesystem that gives agent workloads fast access to petabytes of data stored in the cloud. \r\n\r\nWe provide isolated, writable workspaces that mount in under 100 ms and fork without copying data. Work persists across disposable compute, and every workspace can be snapshotted, reproduced, merged, or rolled back. We’re working with agentic automated-research labs, cloud agent providers, and other to bring this infrastructure to data-intensive AI teams.",
+    "one_liner": "High performance file system for agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1783403722,
+    "tags": [
+      "Developer Tools",
+      "Machine Learning",
+      "Big Data",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/amulet",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/amulet.json"
   },
   {
     "id": 33320,

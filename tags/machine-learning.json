@@ -4333,7 +4333,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f860b32ddb9b39b9b1ae8c22f0c17f140dc5e9d4.png",
     "website": "https://www.mystic.ai/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Austin, TX, USA",
     "long_description": "Mystic’s platform allows companies to easily and reliably deploy ML models on our serverless cloud or on their own infrastructure without requiring a team of MLOps engineers. With our Python SDK, data-scientists immediately get an endpoint from their own model, or any open-source models.\r\nOnce uploaded, our platform handles routing, multi-cloud scaling, caching, GPU optimization and other features to provide the ultimate ML inference platform.",
     "one_liner": "Low latency API to run and deploy ML models",
     "team_size": 11,
@@ -7861,16 +7861,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We're building autonomous robots to make surgery safe, easier and more efficient. Robots currently perform about 1/4 of surgeries but only help with the physical aspects. We use AI to make surgery cognitively easier. This has far greater potential to improve outcomes and reduce costs. Founded by 3x founders from medtech and autonomous vehicles, we're on track to be the fastest surgical robot to market of all time. First indication is prostate enucleation.",
     "one_liner": "Autonomous surgical robots",
-    "team_size": 10,
+    "team_size": 12,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Medical Devices",
     "launched_at": 1684515035,
     "tags": [
-      "Artificial Intelligence",
       "Hard Tech",
       "Machine Learning",
       "Medical Robotics",
-      "Medical Devices"
+      "Medical Devices",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -9257,7 +9257,7 @@
     "website": "https://www.robot-learning.co/",
     "all_locations": "BY, Germany",
     "long_description": "",
-    "one_liner": "The infrastructure that robot intelligence is built and deployed on.",
+    "one_liner": "Tools for the next era of physical automation.",
     "team_size": 1,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -10078,7 +10078,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f563d562770577c32b95513d2c40e79d38c42745.png",
     "website": "https://belvedir.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "The everyday person should own their intelligence. Belvedir is the platform for training custom AI models and memory systems, hosting them privately, and continually improving them as they are used.",
+    "long_description": "Belvedir is the platform for training custom AI models and memory systems, hosting them privately, and continually improving them from production data.",
     "one_liner": "The autonomous private AI platform.",
     "team_size": 1,
     "industry": "B2B",
@@ -10192,5 +10192,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/risklytics",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/risklytics.json"
+  },
+  {
+    "id": 33315,
+    "name": "Amulet",
+    "slug": "amulet",
+    "former_names": [
+      "Quokka"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a701d932d1defe46eb3a0feed27a1cd9efe8e13c.png",
+    "website": "https://amulet.so/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Amulet is a high-performance filesystem that gives agent workloads fast access to petabytes of data stored in the cloud. \r\n\r\nWe provide isolated, writable workspaces that mount in under 100 ms and fork without copying data. Work persists across disposable compute, and every workspace can be snapshotted, reproduced, merged, or rolled back. We’re working with agentic automated-research labs, cloud agent providers, and other to bring this infrastructure to data-intensive AI teams.",
+    "one_liner": "High performance file system for agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1783403722,
+    "tags": [
+      "Developer Tools",
+      "Machine Learning",
+      "Big Data",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/amulet",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/amulet.json"
   }
 ]

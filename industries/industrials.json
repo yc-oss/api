@@ -3505,7 +3505,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8f27e765f9d63d4654849ec852c4f841e0eadcf.png",
     "website": "https://www.srtxlabs.com/",
-    "all_locations": "Montreal, QC, Canada",
+    "all_locations": "Toronto, ON, Canada; Montreal, QC, Canada",
     "long_description": "SRTX builds new materials and software to enable better textiles. SRTX is best known for its first technology, Sheertex, a knit made from one of the world's strongest polymers which has disrupted hosiery through impossibly strong pantyhose. ",
     "one_liner": "Powering a better future for textiles.",
     "team_size": 150,
@@ -10273,15 +10273,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "CoAsync by Cognitio Labs is the AI back office for product quality compliance teams.\r\n\r\nWe help mission-critical food manufacturers automate repetitive, document-intensive workflows.\r\n\r\nWe started with Certificates of Analysis (COAs), one of the many workflows quality teams manage before products can ship. Today, this work is still performed manually across PDFs, emails, spreadsheets, and disconnected ERP systems. \r\n\r\nOther documents we help quality teams respond to 24x7 include supplier audit questionnaires, production schedules, lab reports & changes in product specifications and quality records.\r\n\r\nCoAsync automates the workflow by:\r\n\r\nReading supplier documents\r\nExtracting laboratory data\r\nValidating product specifications\r\nApplying compliance requirements\r\nDrafting compliant COAs\r\nOrganizing audit-ready documentation\r\n\r\nResults from one of our initial deployments with a mid-market food processor:\r\n\r\n85% less QA administrative work\r\n4× more COAs processed per shift\r\n1-2 hours saved per document\r\nNew product onboarding in under one day\r\n\r\nCOAs are just the beginning. Our vision is to build the AI back office for product quality and compliance across regulated industries by automating the many document-intensive workflows manufacturers manage every day.\r\n\r\nBacked by Y Combinator and leading investors. Founder Diva Avaya Sharma has presented example AI workflows for product quality and compliance through the World Economic Forum Centre for Advanced Manufacturing and Supply Chains' SmartStart initiative and at the International Telecommunication Union's AI for Good Global Summit, organized in partnership with the United Nations.\r\n\r\nKnow a company shipping food & product urgently? Help them get started with their own document workflows at https://cognitioiq.com",
     "one_liner": "AI back office for food product quality teams",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials",
     "launched_at": 1690407835,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
       "B2B",
       "Data Science",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -12993,7 +12993,7 @@
     "website": "https://www.robot-learning.co/",
     "all_locations": "BY, Germany",
     "long_description": "",
-    "one_liner": "The infrastructure that robot intelligence is built and deployed on.",
+    "one_liner": "Tools for the next era of physical automation.",
     "team_size": 1,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -16958,6 +16958,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/maingen.json"
   },
   {
+    "id": 32168,
+    "name": "Synapse Semiconductor",
+    "slug": "synapse-semiconductor",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37650fbbc73ea1ea0b895fd819e93836825d1520.png",
+    "website": "https://synapsesemi.org",
+    "all_locations": "Durham, NC, USA",
+    "long_description": "We want to push machines to where humans cant go. To do that machines need to sense and understand their environment. \r\n\r\nSynapse Semiconductor is the first company to integrate all components of the computer vision stack into one substrate.\r\n\r\nModern computer vision requires the complex orchestration of storage, compute, processing, and sensors, inherently limiting the flexibility of its applications. These must be consolidated. ",
+    "one_liner": "Collapsing the edge AI vision hardware stack into one wafer",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1785109099,
+    "tags": [
+      "Artificial Intelligence",
+      "Edge Computing Semiconductors",
+      "Hard Tech",
+      "Robotics",
+      "Defense"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/synapse-semiconductor",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/synapse-semiconductor.json"
+  },
+  {
     "id": 32192,
     "name": "Rise Reforming",
     "slug": "rise-reforming",
@@ -17092,7 +17134,7 @@
     "slug": "agency-tool-company",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/244ddf9b0965c4c601170d71dd660ad1a89f8792.png",
-    "website": "https://agencytool.company",
+    "website": "https://agencytool.com",
     "all_locations": "Denver, CO, USA",
     "long_description": "Agency Tool Company ships software to robots in the field 20x faster than a Docker pull with ATC Deploy, sending only the bytes that changed and resuming when the network drops. Deployment tooling is the connection between the lab & the field that continually bottlenecks robotics scaling and lacks a strong robotics-native solution. Deploy is live today with 3 launch partners across ag, construction, and logistics robotics.\r\n\r\nOur second product, ATC Build, offers embedded-compute as a CI service so devs can run tests and validate their software on the actual target hardware. Build supports the Nvidia Jetson lineup, Raspberry Pi, and a number of other embedded platform targets.\r\n\r\nJack Morrison and Davis Foster founded and sold Scythe Robotics after deploying hundreds of autonomous mowers across the country; Agency Tool Company is building the robotics deployment platform across hardware and software they wish they had.",
     "one_liner": "Reliable infrastructure to build, deploy and manage real-world robots.",
@@ -17898,7 +17940,7 @@
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Energy",
-    "launched_at": 1781223109,
+    "launched_at": 1784997775,
     "tags": [
       "Hard Tech",
       "Energy"

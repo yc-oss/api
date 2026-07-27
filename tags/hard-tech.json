@@ -531,7 +531,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8f27e765f9d63d4654849ec852c4f841e0eadcf.png",
     "website": "https://www.srtxlabs.com/",
-    "all_locations": "Montreal, QC, Canada",
+    "all_locations": "Toronto, ON, Canada; Montreal, QC, Canada",
     "long_description": "SRTX builds new materials and software to enable better textiles. SRTX is best known for its first technology, Sheertex, a knit made from one of the world's strongest polymers which has disrupted hosiery through impossibly strong pantyhose. ",
     "one_liner": "Powering a better future for textiles.",
     "team_size": 150,
@@ -2767,16 +2767,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We're building autonomous robots to make surgery safe, easier and more efficient. Robots currently perform about 1/4 of surgeries but only help with the physical aspects. We use AI to make surgery cognitively easier. This has far greater potential to improve outcomes and reduce costs. Founded by 3x founders from medtech and autonomous vehicles, we're on track to be the fastest surgical robot to market of all time. First indication is prostate enucleation.",
     "one_liner": "Autonomous surgical robots",
-    "team_size": 10,
+    "team_size": 12,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Medical Devices",
     "launched_at": 1684515035,
     "tags": [
-      "Artificial Intelligence",
       "Hard Tech",
       "Machine Learning",
       "Medical Robotics",
-      "Medical Devices"
+      "Medical Devices",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3203,7 +3203,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/91093b7c8dbe1ed84a73aa4907b878fc5b0f52bf.png",
     "website": "https://www.biocartesian.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Philadelphia, PA, USA",
     "long_description": "Finding new cures requires seeing what and where the abnormal molecules are in a diseased tissue, but current tools see less than 1% of those molecules. Biocartesian combines microscopy and new chemistries to see 50X more, offering unprecedented insights into disease biology and new therapies.",
     "one_liner": "Converting biology into digital molecular maps",
     "team_size": 2,
@@ -4527,6 +4527,48 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/arlo-industries.json"
   },
   {
+    "id": 32168,
+    "name": "Synapse Semiconductor",
+    "slug": "synapse-semiconductor",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37650fbbc73ea1ea0b895fd819e93836825d1520.png",
+    "website": "https://synapsesemi.org",
+    "all_locations": "Durham, NC, USA",
+    "long_description": "We want to push machines to where humans cant go. To do that machines need to sense and understand their environment. \r\n\r\nSynapse Semiconductor is the first company to integrate all components of the computer vision stack into one substrate.\r\n\r\nModern computer vision requires the complex orchestration of storage, compute, processing, and sensors, inherently limiting the flexibility of its applications. These must be consolidated. ",
+    "one_liner": "Collapsing the edge AI vision hardware stack into one wafer",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1785109099,
+    "tags": [
+      "Artificial Intelligence",
+      "Edge Computing Semiconductors",
+      "Hard Tech",
+      "Robotics",
+      "Defense"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/synapse-semiconductor",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/synapse-semiconductor.json"
+  },
+  {
     "id": 32192,
     "name": "Rise Reforming",
     "slug": "rise-reforming",
@@ -4873,7 +4915,7 @@
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Energy",
-    "launched_at": 1781223109,
+    "launched_at": 1784997775,
     "tags": [
       "Hard Tech",
       "Energy"
