@@ -1623,8 +1623,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d97c7b6a062bbf024d979f3e67fe169d6f103b8b.png",
     "website": "http://tilt.io",
     "all_locations": "Toronto, ON, Canada; Remote",
-    "long_description": "Tilt lets anyone build evidence-backed, point-in-time, and deterministic rules-based investment strategies... in minutes. All you need is a prompt — whether a theme, trend, or detailed thesis — we'll take care of the rest. Advisors also use Tilt to customize their client portfolios with tax considerations and investment preferences. \r\n\r\nIf you're thinking about working here, we're on a mission to price the world's information.",
-    "one_liner": "Tilt lets anyone build an index out of any content on the web.",
+    "long_description": "Tilt is building the audited methodology layer agents call before touching portfolios. As agents begin managing real portfolios, they need a neutral trusted source of verified investment logic before they can act.\r\n\r\nWe operate across two connected surfaces: InvestOS, an open standard that lets any brokerage or platform plug verified methodology into its own AI experience; and Tilt, the reference implementation of InvestOS. Tilt is an agentic harness where investors, portfolio managers, and creators can author, remix, and publish strategies. \r\n\r\nIf you're thinking about working here, our mission is to price the world's information.",
+    "one_liner": "GitHub for Investment Methodology",
     "team_size": 25,
     "industry": "Fintech",
     "subindustry": "Fintech -> Consumer Finance",
@@ -1636,7 +1636,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2018",
     "status": "Active",
@@ -3528,6 +3528,50 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2020/nextmv.json"
   },
   {
+    "id": 13144,
+    "name": "Datasaur",
+    "slug": "datasaur",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e4e6a7e39b57894f41f9fad6905d92d82b57caa.png",
+    "website": "https://datasaur.ai",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Datasaur builds and integrates private AI and agents for enterprise organizations. We prioritize rigorous security and compliance, ensuring your most sensitive data never leaves your infrastructure. Datasaur keeps your workflows internal, so your proprietary intelligence remains a dedicated competitive advantage, and is never used to train the next generation of third-party models.",
+    "one_liner": "Datasaur builds private AI/agents for enterprise/government",
+    "team_size": 60,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1583202722,
+    "tags": [
+      "Finance",
+      "Compliance",
+      "Healthcare",
+      "LegalTech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2020",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/datasaur",
+    "api": "https://yc-oss.github.io/api/batches/winter-2020/datasaur.json"
+  },
+  {
     "id": 13145,
     "name": "Dashworks",
     "slug": "dashworks",
@@ -4121,6 +4165,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/urbankisaan",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/urbankisaan.json"
+  },
+  {
+    "id": 13519,
+    "name": "Recall.ai",
+    "slug": "recall-ai",
+    "former_names": [
+      "Hyperdoc",
+      "Perfect Recall"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/59d10237794442de721976fafb390beb322715ed.png",
+    "website": "https://www.recall.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Recall.ai is the API to get recordings, transcripts, and metadata from meetings. We offer several form factors to capture this data: \r\n1. Meetings bots\r\n2. A desktop recording SDK\r\n3. A mobile recording SDK\r\n\r\nWe integrate with meeting platforms like Zoom, Google Meet, Microsoft Teams, and more, as well as in-person meetings.\r\n\r\nOver 3000 companies rely on our API today to process millions of hours of meeting data. We provide stable infrastructure that typically takes engineering teams 6+ months of time to build, and help our customers get up and running in days instead of months.",
+    "one_liner": "The API to get recordings, transcripts, and metadata from meetings",
+    "team_size": 30,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1616094217,
+    "tags": [
+      "API",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2020",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/recall-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2020/recall-ai.json"
   },
   {
     "id": 13522,
@@ -6664,7 +6753,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -9476,12 +9565,12 @@
       "Broccoli",
       "Telematica"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4af19eaef182970dcf0225cba17bed637d7b49f.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/257dfea6305c042123e7a308656b24d1f742d6c1.png",
     "website": "https://www.broccoli.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Broccoli is building the AI-native operating system for home service businesses. Running a plumbing or HVAC company is chaotic: calls, scheduling, dispatch, follow-ups, marketing. We automate all of it so contractors can focus on what they do best: serving customers.\r\n\r\nOur AI agents handle both revenue and ops; answering phones 24/7, booking jobs in real time, following up on leads, and alerting techs when emergencies hit.\r\n\r\nWe’ve grown from 0 to 800+ contractors in under 2 years, raised Series A round led by Khosla Ventures to take on one of the biggest labor automation opportunities in the country.\r\n\r\nAJ and Adi have worked together for the past nine years, building multiple startups. AJ, a Computer Science graduate, started his career at Adobe before moving into entrepreneurship. Adi, also a Computer Science graduate, conducted research at the renowned CVC lab at UAB Barcelona before joining Microsoft. Together, they founded Telematica and later Broccoli.",
     "one_liner": "AI-native operating system for home service businesses",
-    "team_size": 21,
+    "team_size": 60,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1646292663,
@@ -9503,9 +9592,11 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -14279,53 +14370,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/boundary.json"
   },
   {
-    "id": 27939,
-    "name": "FactIQ",
-    "slug": "factiq",
-    "former_names": [
-      "Data Narratives",
-      "Defog.ai"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4eea8e74dd560d5b945e787263172d6a883e4e0a.png",
-    "website": "https://factiq.com/",
-    "all_locations": "Singapore, Singapore",
-    "long_description": "FactIQ gives AI agents access to clean and trustworthy data for investment research.\r\n\r\nWe source, clean and standardize data from company financials, market prices, economic series and satellite imagery. We make it absurdly obviously for any AI agent to accurately query this data. We currently have 25M+ data series covering US and Asia, and are adding new data every day. ",
-    "one_liner": "Investment research data for AI agents",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1672890387,
-    "tags": [
-      "Investing",
-      "Data Visualization",
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "Singapore",
-      "Southeast Asia",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/factiq",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/factiq.json"
-  },
-  {
     "id": 27942,
     "name": "SensorSurf",
     "slug": "sensorsurf",
@@ -15145,47 +15189,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/persana-ai",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/persana-ai.json"
-  },
-  {
-    "id": 28329,
-    "name": "Type",
-    "slug": "type",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7055cc5668e741c817315243c78d24ed1bcdd9fd.png",
-    "website": "https://type.ai",
-    "all_locations": "New York City, NY, USA",
-    "long_description": "Type.ai is the AI-native storytelling studio for independent authors and creators. We help people craft books, novels, screenplays, and other types of long-form, creative fiction.",
-    "one_liner": "AI-native storytelling studio.",
-    "team_size": 4,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1675912711,
-    "tags": [
-      "SaaS",
-      "Consumer",
-      "Productivity",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/type",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/type.json"
   },
   {
     "id": 28367,
@@ -17527,51 +17530,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/sudocode.json"
   },
   {
-    "id": 29040,
-    "name": "Inventive AI",
-    "slug": "inventive-ai",
-    "former_names": [
-      "Inventiv AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ca8dbe5acb1f1a068aec484d7a9083db2e81f55.png",
-    "website": "https://www.inventive.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Inventive is an AI-powered RFP & questionnaire response management platform that drives 70%+ efficiency in sales response workflows.\r\n\r\n**Core benefits and features:**\r\n\r\n- **10X Faster Drafts With Highly Accurate Responses**: Using Inventive’s proprietary AI-system you can get first drafts 10 times faster, with accurate responses rooted in your knowledge sources, that you and your team can collaborate on to refine.\r\n- **Single Hub for All Your Knowledge Sources:** Inventive offers a centralized hub for all your knowledge sources. You can upload previous RFPs and relevant documents; integrate with your internal data systems such as gDrive. Sharepoint & more; upload Q&A from legacy tools or spreadsheets; and even add information from your websites.\r\n- **Fight Stale Content With AI Content Manager:** Inventive’s AI content manager proactively flags conflicting content by identifying issues within your sources, so you only use fresh and relevant content in your responses.\r\n- **Higher Productivity & Competitive Advantage With AI Agents:** Inventive offers a suite of AI agents designed to boost productivity and give you a competitive advantage. These agents can help with researching competitors, brainstorming ideas, and more.\r\n\r\nBuilt by a customer-obsessed team comprising an ex-exec from a Fortune 500 company and ex-AI team from Google & Stanford. Backed by top Silicon Valley investors including YCombinator.",
-    "one_liner": "AI Agents For RFP and Questionnaire Response Automation ",
-    "team_size": 12,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1687811406,
-    "tags": [
-      "Generative AI",
-      "SaaS",
-      "B2B",
-      "Sales",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/inventive-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/inventive-ai.json"
-  },
-  {
     "id": 29041,
     "name": "Langdock",
     "slug": "langdock",
@@ -19145,7 +19103,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -19302,48 +19260,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/patchwork",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/patchwork.json"
-  },
-  {
-    "id": 29286,
-    "name": "PointOne",
-    "slug": "pointone",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f848e072de817e8a37aeb1ad8a912f9e2f5d9c52.png",
-    "website": "https://pointone.com/",
-    "all_locations": "New York City, NY, USA",
-    "long_description": "PointOne is the leading AI Time platform. With automated time entry, compliance, and analytics, PointOne offers AI-native",
-    "one_liner": "AI Time Platform for Law Firms",
-    "team_size": 15,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1705177845,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Legal",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pointone",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/pointone.json"
   },
   {
     "id": 29288,
@@ -23730,6 +23646,54 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/planbase.json"
   },
   {
+    "id": 29745,
+    "name": "Sharpe",
+    "slug": "sharpe",
+    "former_names": [
+      "January",
+      "Lumenary",
+      "Lumenary, Inc.",
+      "Lumenary"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed377f5e3e709abc9139475076cec71316b01c06.png",
+    "website": "https://sharpe.sh",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sharpe helps traders go from idea to profit in minutes with AI, bundling petabytes of market data with high-performance infrastructure.",
+    "one_liner": "Agents for quantitative research and financial data science.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1722638950,
+    "tags": [
+      "Finance",
+      "Analytics",
+      "Big Data",
+      "Data Engineering",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sharpe",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/sharpe.json"
+  },
+  {
     "id": 29747,
     "name": "deepsilicon",
     "slug": "deepsilicon",
@@ -27858,52 +27822,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/cifrato.json"
   },
   {
-    "id": 30254,
-    "name": "hud",
-    "slug": "hud",
-    "former_names": [
-      "Human Union Data",
-      "hud",
-      "HUD"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/53fffc4904f866d9d44ba9a47862b594f1d45667.png",
-    "website": "https://www.hud.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "HUD (YC W25) is developing agentic evals and RL environments for Computer Use Agents (CUAs) that browse the web for frontier AI labs. Our CUA Evals framework is the first comprehensive evaluation tool for CUAs.\r\n\r\nPeople don't actually know if AI agents are working reliably. To make AI agents work in the real world, we need detailed evals for a huge range of tasks.\r\n\r\nWe're backed by Y Combinator, and work closely with frontier AI labs to provide agent evaluation and training infrastructure at scale.",
-    "one_liner": "Platform for building RL environments and evals ",
-    "team_size": 15,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1740930546,
-    "tags": [
-      "Reinforcement Learning",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/hud",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/hud.json"
-  },
-  {
     "id": 30255,
     "name": "Olive",
     "slug": "olive",
@@ -29762,49 +29680,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/stratify.json"
   },
   {
-    "id": 30442,
-    "name": "Hanji",
-    "slug": "hanji",
-    "former_names": [
-      "YouLearn"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9438999e1f2681be7ed1a32e6e245f0d3885b798.png",
-    "website": "https://hanji.dev/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Hanji turns complex documents into structured, AI-ready data for healthcare, insurance, and government teams.\r\nWe previously built YouLearn, an AI tutor used by millions of students.",
-    "one_liner": "Turn complex documents into AI-ready data",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1745603860,
-    "tags": [
-      "Documents",
-      "Developer Tools",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/hanji",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/hanji.json"
-  },
-  {
     "id": 30445,
     "name": "Mbodi AI",
     "slug": "mbodi-ai",
@@ -30324,48 +30199,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lucis",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/lucis.json"
-  },
-  {
-    "id": 30484,
-    "name": "throxy",
-    "slug": "throxy",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5384c6c535d7bcbaf2c4cee7af212ec06f70e79d.png",
-    "website": "https://throxy.com/",
-    "all_locations": "London, England, United Kingdom",
-    "long_description": "throxy builds custom vertical AI agents and pairs them with human SDRs and ultra personalised email sequences to book meetings for B2B software companies selling into traditional industries (e.g. manufacturing, logistics, construction, supply chain)\r\n\r\nOutbound is broken. Generic automation gets ignored and decision-makers in legacy sectors are hard to reach. Most of your TAM isn't even on LinkedIn, and tools like Clay, Apollo, and ZoomInfo only cover about 65% of the market. throxy fixes this by running bespoke, fully managed outbound systems for software sales teams trying to crack these industries. We use proprietary scraping tools to map your entire addressable market, then combine AI agents with human experts to deliver hyper-personalised email campaigns and human cold calling that is consistently generating six-figure qualified pipelines.\r\n\r\nSince 2023, throxy has powered outbound for B2B software companies, from industrial SaaS to fintech providers, replacing the need for internal SDR teams or stacks of tools with a solution that outperforms on both speed and quality. Today, we have a team of 55 across London and Cape Town, booking on average 8 to 12 qualified meetings per month per client, with some clients seeing 20+ in their first weeks after we doubled down on human-led cold calling.\r\n\r\nAI handles the data: building custom databases, scoring leads against your ICP, and personalising outreach at scale. Humans handle the conversations: real cold calls, real emails, real relationships. That's the difference between us and every AI SDR on the market.\r\n\r\nOur founding team has built AI at JP Morgan, scaled businesses from age 14, and led enterprise sales from Seed to Series D. We're not just automating outbound, we're redefining what sales execution looks like for software companies selling into traditional industries.\r\n\r\nthroxy is the \"AI SDR\" purpose-built for the sectors software forgot.",
-    "one_liner": "Vertical AI agents running B2B outbound on autopilot, with human SDRs",
-    "team_size": 55,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1745521572,
-    "tags": [
-      "B2B",
-      "Sales",
-      "Automation",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "United Kingdom",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/throxy",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/throxy.json"
   },
   {
     "id": 30496,
@@ -35380,54 +35213,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/illume-labs.json"
   },
   {
-    "id": 31342,
-    "name": "Osmaura",
-    "slug": "osmaura",
-    "former_names": [
-      "Basis Labs",
-      "Basis",
-      "Osmaura",
-      "justreheat",
-      "JustReheat",
-      "vizlog",
-      "Halcyon"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f8f5bfc033ae31d6282044fe4ce792725cc090a1.png",
-    "website": "https://osmaura.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "As soon as a lawyer is made partner, they’re expected to bring in new business.\r\n\r\nHowever, it’s often not clear when a company is going to need legal counsel. So partners are encouraged to do business development with every person in their network in hopes that at least one of them generates new work.\r\n\r\nOsmaura gives partners a deeper understanding of prospective clients and legal support they might need at the right time.\r\n\r\nOur agents do this by monitoring the web, news, socials, and internal firm context to surface targeted matter opportunities for each partner.",
-    "one_liner": "We find new matter opportunities for corporate law firms.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1781994700,
-    "tags": [
-      "Sales Enablement",
-      "LegalTech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/osmaura",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/osmaura.json"
-  },
-  {
     "id": 31349,
     "name": "Palette",
     "slug": "palette-2",
@@ -35511,6 +35296,54 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/discovered-materials",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/discovered-materials.json"
+  },
+  {
+    "id": 31375,
+    "name": "Hub",
+    "slug": "hub",
+    "former_names": [
+      "Hub",
+      "Hub.xyz"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4807c17f08dbbfbdd8f51297746a838ba6db58c1.png",
+    "website": "https://hub.xyz",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Hub is a multimodal lab providing real world data to frontier labs and robotic companies.",
+    "one_liner": "Real-world training data for frontier AI labs and robotics.",
+    "team_size": 10,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1773429014,
+    "tags": [
+      "Robotics",
+      "Crowdsourcing",
+      "Big Data",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hub",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/hub.json"
   },
   {
     "id": 31428,
@@ -36427,8 +36260,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4791de2dabb8bec7ed5148dd8de1f8400f029cbd.png",
     "website": "https://bizmark.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Bizmark is the bespoke operating system for manufacturers. It connects the systems, spreadsheets, and knowledge a company already has, and turns them into optimized decisions and automated workflows: quotes priced in minutes, schedules that reflow when a machine goes down, inventory balanced between service levels and cash. Working product in weeks, not years. Building it with our first customers now.",
-    "one_liner": "The bespoke operating system for manufacturers.",
+    "long_description": "Bizmark is the operating system for companies that make, move, or sell physical goods.\r\n\r\nLegacy ERPs force operators into templates that don’t reflect how the business runs. As a result, decisions that directly affect revenue, margins, and service levels are made from spreadsheets, with less information than the company has, often by whoever is closest, not whoever knows best.\r\n\r\nBizmark solves this by connecting to the systems, inboxes, spreadsheets, documents, and the knowledge that lives in people’s heads, then turning that context into optimized decisions and automated workflows. Bizmark adapts to how each company operates, not the other way around. And customers get a working product in weeks, not years.\r\n\r\nSome of the most innovative American companies use Bizmark to transform their operations.",
+    "one_liner": "The OS for companies that make, move, or sell physical goods",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -36461,26 +36294,21 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/bizmark.json"
   },
   {
-    "id": 32286,
-    "name": "Definite",
-    "slug": "definite",
-    "former_names": [
-      "Ledgix",
-      "Bylaw"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea163685b0ad74eaec6a19637a061cdb5e63acae.png",
-    "website": "https://www.usedefinite.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Definite builds AI agents that generate the reports banks and financial institutions file with their regulators. Before any number lands in a filing, our verification engine checks it independently. Every line gets recomputed from ledger records and checked against a versioned rulebook, and wrong outputs go back to the agent with the reason, like compiler errors. They don't ship.\r\n\r\nWe met our first year studying computer science at the University of Waterloo, and interned at Meta, Optiver, and BitGo, places where one unverified number in a filing has real consequences. At BitGo, attestations proving customer assets matched the ledger were assembled by hand every period. At Optiver, daily regulatory numbers were rebuilt manually because nothing downstream took them on faith.\r\n\r\nToday a controller pulls data from the core system into Excel and maps it to the report line by line. By the regulators' own estimate, one quarterly filing takes weeks. The software banks buy for this validates formatting, not truth: a loan mapped to the wrong schedule line passes every check it runs, and an executive personally signs the result.\r\n\r\nThis is hard because verification has to be independent of the model doing the work. Recomputing every number from source records is the only check a regulator or auditor will accept, and it's why DeepSeek v3 with our engine beats GPT-5 on public reporting benchmarks.\r\n\r\nEvery regulated institution files these reports, forever. Whoever proves the numbers owns the layer the filings, the audits, and eventually the books themselves depend on. We build it, and the agents that run on it.",
-    "one_liner": "The most accurate financial agents for reporting",
-    "team_size": 3,
+    "id": 32256,
+    "name": "Zaplar",
+    "slug": "zaplar",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c3ccfe3188152229b75f7e38241a91f40b4c9edd.png",
+    "website": "https://zaplar.com",
+    "all_locations": "Stockholm, Stockholm County, Sweden",
+    "long_description": "Zaplar is the AI-native operating system for hotels.\r\n\r\nWe replace the entire hotel tech stack (PMS, POS, booking engine, etc) into one software that can handle hotel operations autonomously.\r\n\r\nLearn more at https://zaplar.com",
+    "one_liner": "Agentic Hotel Operating System",
+    "team_size": 8,
     "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1782681224,
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1784823049,
     "tags": [
-      "Fintech",
-      "SaaS",
-      "Finance",
+      "B2B",
       "AI"
     ],
     "tags_highlighted": [],
@@ -36491,19 +36319,19 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Finance and Accounting"
+      "Operations"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Sweden",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/definite",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/definite.json"
+    "url": "https://www.ycombinator.com/companies/zaplar",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/zaplar.json"
   },
   {
     "id": 32520,

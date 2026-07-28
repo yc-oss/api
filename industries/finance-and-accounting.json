@@ -2231,7 +2231,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -5700,17 +5700,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea163685b0ad74eaec6a19637a061cdb5e63acae.png",
     "website": "https://www.usedefinite.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Definite builds AI agents that generate the reports banks and financial institutions file with their regulators. Before any number lands in a filing, our verification engine checks it independently. Every line gets recomputed from ledger records and checked against a versioned rulebook, and wrong outputs go back to the agent with the reason, like compiler errors. They don't ship.\r\n\r\nWe met our first year studying computer science at the University of Waterloo, and interned at Meta, Optiver, and BitGo, places where one unverified number in a filing has real consequences. At BitGo, attestations proving customer assets matched the ledger were assembled by hand every period. At Optiver, daily regulatory numbers were rebuilt manually because nothing downstream took them on faith.\r\n\r\nToday a controller pulls data from the core system into Excel and maps it to the report line by line. By the regulators' own estimate, one quarterly filing takes weeks. The software banks buy for this validates formatting, not truth: a loan mapped to the wrong schedule line passes every check it runs, and an executive personally signs the result.\r\n\r\nThis is hard because verification has to be independent of the model doing the work. Recomputing every number from source records is the only check a regulator or auditor will accept, and it's why DeepSeek v3 with our engine beats GPT-5 on public reporting benchmarks.\r\n\r\nEvery regulated institution files these reports, forever. Whoever proves the numbers owns the layer the filings, the audits, and eventually the books themselves depend on. We build it, and the agents that run on it.",
-    "one_liner": "The most accurate financial agents for reporting",
+    "long_description": "Definite is where finance teams build everyday back-office agents on one live model of their books. We plug into your ERP, ledger, payroll, and payments read-only and compile everything into one clean model that stays current as money moves. Your back-office team then builds agents on top in plain English. We never write back and we never move money. The agents are yours, the plumbing is ours.\r\n\r\nWe met in first year computer science at Waterloo and interned at Meta, Optiver, and BitGo. At Optiver they ran an n8n hackathon and the interns automated basically nothing. It couldn't talk to the systems that mattered. When we pitched banks and fintechs on agents, they kept telling us the same thing. The agent isn't the hard part, getting clean data out of their systems is.\r\n\r\nRight now, automating anything in a back office means engineers hand-stitching data from a dozen sources in different formats on different schedules. Tools like n8n and Workato assume your data is already clean and joined. In finance it never is. So the teams with the most repetitive work and smallest budgets get nothing.\r\n\r\nThe hard part is the compiler. Every source gets cleaned, matched, and joined into one live model of transactions, invoices, vendors, and payments, and it has to stay right as money lands every day. \r\n\r\nEveryone throws engineers at this. We're doing it once so nobody has to again. Every back office is getting agents eventually. Whoever owns the data they read from owns the thing all of them depend on, and eventually the books themselves. That's what we're building.\r\n",
+    "one_liner": "Build everyday back-office agents on one live model of your books",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1782681224,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "SaaS",
-      "Finance",
-      "AI"
+      "Finance"
     ],
     "tags_highlighted": [],
     "top_company": false,

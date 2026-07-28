@@ -869,16 +869,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f8f5bfc033ae31d6282044fe4ce792725cc090a1.png",
     "website": "https://osmaura.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "As soon as a lawyer is made partner, they’re expected to bring in new business.\r\n\r\nHowever, it’s often not clear when a company is going to need legal counsel. So partners are encouraged to do business development with every person in their network in hopes that at least one of them generates new work.\r\n\r\nOsmaura gives partners a deeper understanding of prospective clients and legal support they might need at the right time.\r\n\r\nOur agents do this by monitoring the web, news, socials, and internal firm context to surface targeted matter opportunities for each partner.",
-    "one_liner": "We find new matter opportunities for corporate law firms.",
+    "long_description": "Our agents scan the web to deliver new client & cross-selling opportunities for law firm partners.\r\n\r\nEvery day, our customers log onto our platform to see who to contact, why now, and what to say.\r\n\r\nPartners are trained to practice law - not to prospect, sell, and manage pipelines. We're here to help them grow while they focus on what they do best.",
+    "one_liner": "AI growth engine for law firms.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1781994700,
     "tags": [
+      "Artificial Intelligence",
       "Sales Enablement",
-      "LegalTech",
-      "AI"
+      "LegalTech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2143,6 +2143,46 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/speko.json"
   },
   {
+    "id": 32170,
+    "name": "Gutgutgoose",
+    "slug": "gutgutgoose",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b10bdb631232584efc1a8c09e67b74f8b953437.png",
+    "website": "https://gutgutgoose.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Most data companies pay for their data. Ours pays for itself.\r\nCustomers send us a stool sample. We sequence it, build a metabolic model of that gut, and simulate whether each probiotic strain has an open niche it can colonize. We formulate the best candidates, then re-sequence 90 days later to see what actually took hold and what changed. Each cycle gives us the baseline gut, the intervention, and the outcome. At scale, the endgame is models that predict chronic disease years before symptoms.",
+    "one_liner": "AI training infrastructure via custom probiotics",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1785190964,
+    "tags": [
+      "Biotech",
+      "Personalization",
+      "Health & Wellness"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/gutgutgoose",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/gutgutgoose.json"
+  },
+  {
     "id": 32171,
     "name": "LemonLime",
     "slug": "lemonlime",
@@ -2483,8 +2523,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4791de2dabb8bec7ed5148dd8de1f8400f029cbd.png",
     "website": "https://bizmark.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Bizmark is the bespoke operating system for manufacturers. It connects the systems, spreadsheets, and knowledge a company already has, and turns them into optimized decisions and automated workflows: quotes priced in minutes, schedules that reflow when a machine goes down, inventory balanced between service levels and cash. Working product in weeks, not years. Building it with our first customers now.",
-    "one_liner": "The bespoke operating system for manufacturers.",
+    "long_description": "Bizmark is the operating system for companies that make, move, or sell physical goods.\r\n\r\nLegacy ERPs force operators into templates that don’t reflect how the business runs. As a result, decisions that directly affect revenue, margins, and service levels are made from spreadsheets, with less information than the company has, often by whoever is closest, not whoever knows best.\r\n\r\nBizmark solves this by connecting to the systems, inboxes, spreadsheets, documents, and the knowledge that lives in people’s heads, then turning that context into optimized decisions and automated workflows. Bizmark adapts to how each company operates, not the other way around. And customers get a working product in weeks, not years.\r\n\r\nSome of the most innovative American companies use Bizmark to transform their operations.",
+    "one_liner": "The OS for companies that make, move, or sell physical goods",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -2818,8 +2858,8 @@
     "subindustry": "B2B -> Operations",
     "launched_at": 1784823049,
     "tags": [
-      "Artificial Intelligence",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2989,17 +3029,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea163685b0ad74eaec6a19637a061cdb5e63acae.png",
     "website": "https://www.usedefinite.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Definite builds AI agents that generate the reports banks and financial institutions file with their regulators. Before any number lands in a filing, our verification engine checks it independently. Every line gets recomputed from ledger records and checked against a versioned rulebook, and wrong outputs go back to the agent with the reason, like compiler errors. They don't ship.\r\n\r\nWe met our first year studying computer science at the University of Waterloo, and interned at Meta, Optiver, and BitGo, places where one unverified number in a filing has real consequences. At BitGo, attestations proving customer assets matched the ledger were assembled by hand every period. At Optiver, daily regulatory numbers were rebuilt manually because nothing downstream took them on faith.\r\n\r\nToday a controller pulls data from the core system into Excel and maps it to the report line by line. By the regulators' own estimate, one quarterly filing takes weeks. The software banks buy for this validates formatting, not truth: a loan mapped to the wrong schedule line passes every check it runs, and an executive personally signs the result.\r\n\r\nThis is hard because verification has to be independent of the model doing the work. Recomputing every number from source records is the only check a regulator or auditor will accept, and it's why DeepSeek v3 with our engine beats GPT-5 on public reporting benchmarks.\r\n\r\nEvery regulated institution files these reports, forever. Whoever proves the numbers owns the layer the filings, the audits, and eventually the books themselves depend on. We build it, and the agents that run on it.",
-    "one_liner": "The most accurate financial agents for reporting",
+    "long_description": "Definite is where finance teams build everyday back-office agents on one live model of their books. We plug into your ERP, ledger, payroll, and payments read-only and compile everything into one clean model that stays current as money moves. Your back-office team then builds agents on top in plain English. We never write back and we never move money. The agents are yours, the plumbing is ours.\r\n\r\nWe met in first year computer science at Waterloo and interned at Meta, Optiver, and BitGo. At Optiver they ran an n8n hackathon and the interns automated basically nothing. It couldn't talk to the systems that mattered. When we pitched banks and fintechs on agents, they kept telling us the same thing. The agent isn't the hard part, getting clean data out of their systems is.\r\n\r\nRight now, automating anything in a back office means engineers hand-stitching data from a dozen sources in different formats on different schedules. Tools like n8n and Workato assume your data is already clean and joined. In finance it never is. So the teams with the most repetitive work and smallest budgets get nothing.\r\n\r\nThe hard part is the compiler. Every source gets cleaned, matched, and joined into one live model of transactions, invoices, vendors, and payments, and it has to stay right as money lands every day. \r\n\r\nEveryone throws engineers at this. We're doing it once so nobody has to again. Every back office is getting agents eventually. Whoever owns the data they read from owns the thing all of them depend on, and eventually the books themselves. That's what we're building.\r\n",
+    "one_liner": "Build everyday back-office agents on one live model of your books",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1782681224,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "SaaS",
-      "Finance",
-      "AI"
+      "Finance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3208,7 +3248,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7ea500c797163e99dad11a205953572d46a0034.png",
     "website": "https://flowmanual.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "FlowManual is the all-in-one AI bidding and purchasing platform for both general and specialty construction contractors.\r\n\r\nBuilt by two engineers and Harvard dropouts, FlowManual automates the buying process during pre-construction. With FlowManual, specialty contractors win more work while general contractors deliver at higher standards.",
+    "long_description": "FlowManual is the all-in-one AI bidding and purchasing platform for both general and MEP construction contractors.\r\n\r\nBuilt by two engineers and Harvard dropouts, FlowManual automates the buying process during pre-construction. With FlowManual, specialty contractors win more work while general contractors deliver at higher standards.",
     "one_liner": "AI for Construction's Back Office.",
     "team_size": 2,
     "industry": "Real Estate and Construction",
@@ -3538,7 +3578,7 @@
     "slug": "greypoint-industries",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b0d5898f7b8fc2ee6fc19f6de3dae045123c7608.png",
-    "website": "https://greypointindustries.ca/",
+    "website": "https://greypointindustries.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Greypoint Industries builds mass-produced autonomous interceptors that defeat drone saturation for a fraction of the cost of the targets. We are developing a soldier-deployable, fire-and-forget interceptor built to give Western and allied forces the ammunition to counter mass drone swarm attacks.",
     "one_liner": "Manufacturing the future of autonomous swarm warfare.",
@@ -5496,6 +5536,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/amulet",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/amulet.json"
+  },
+  {
+    "id": 33317,
+    "name": "Wondering",
+    "slug": "wondering",
+    "former_names": [
+      "Mouseover AI",
+      "Mouseover"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/188e05122015c2a6e85c91c5145eeef637482a9b.png",
+    "website": "https://wondering.app",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Wondering turns anything you want to learn, from LLMs to quantum mechanics to product design, into a path of three-minute lessons with visuals, podcasts, and interactive exercises. \r\n\r\nEach learning path and its content are personalized to your background, how you learn best, and how deep you want to go.\r\n\r\nIt’s the most delightful way to understand complex topics and turn information into knowledge you can remember and apply. You don’t just passively read. You practice, make connections, and form your own insights.\r\n\r\nStart learning anything for free at https://wondering.app/download",
+    "one_liner": "Duolingo for Learning Anything",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1785135586,
+    "tags": [
+      "AI-Enhanced Learning",
+      "Artificial Intelligence",
+      "Education",
+      "Consumer",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/wondering",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/wondering.json"
   },
   {
     "id": 33320,

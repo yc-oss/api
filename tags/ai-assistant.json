@@ -1735,12 +1735,12 @@
       "Broccoli",
       "Telematica"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4af19eaef182970dcf0225cba17bed637d7b49f.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/257dfea6305c042123e7a308656b24d1f742d6c1.png",
     "website": "https://www.broccoli.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Broccoli is building the AI-native operating system for home service businesses. Running a plumbing or HVAC company is chaotic: calls, scheduling, dispatch, follow-ups, marketing. We automate all of it so contractors can focus on what they do best: serving customers.\r\n\r\nOur AI agents handle both revenue and ops; answering phones 24/7, booking jobs in real time, following up on leads, and alerting techs when emergencies hit.\r\n\r\nWe’ve grown from 0 to 800+ contractors in under 2 years, raised Series A round led by Khosla Ventures to take on one of the biggest labor automation opportunities in the country.\r\n\r\nAJ and Adi have worked together for the past nine years, building multiple startups. AJ, a Computer Science graduate, started his career at Adobe before moving into entrepreneurship. Adi, also a Computer Science graduate, conducted research at the renowned CVC lab at UAB Barcelona before joining Microsoft. Together, they founded Telematica and later Broccoli.",
     "one_liner": "AI-native operating system for home service businesses",
-    "team_size": 21,
+    "team_size": 60,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1646292663,
@@ -1762,9 +1762,11 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -2895,16 +2897,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4eea8e74dd560d5b945e787263172d6a883e4e0a.png",
     "website": "https://factiq.com/",
     "all_locations": "Singapore, Singapore",
-    "long_description": "FactIQ gives AI agents access to clean and trustworthy data for investment research.\r\n\r\nWe source, clean and standardize data from company financials, market prices, economic series and satellite imagery. We make it absurdly obviously for any AI agent to accurately query this data. We currently have 25M+ data series covering US and Asia, and are adding new data every day. ",
+    "long_description": "FactIQ gives AI agents access to clean and trustworthy data for investment research.\r\n\r\nWe source, clean and standardize data from company financials, market prices, economic series and satellite imagery. We make it absurdly obvious for any AI agent to accurately query this data. We currently have 100M+ data series covering US and Asia, and are adding new data every day. ",
     "one_liner": "Investment research data for AI agents",
     "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Asset Management",
     "launched_at": 1672890387,
     "tags": [
+      "Artificial Intelligence",
       "Investing",
       "Data Visualization",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -2914,8 +2916,8 @@
     "batch": "Winter 2023",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Analytics"
+      "Fintech",
+      "Asset Management"
     ],
     "regions": [
       "Singapore",
@@ -6788,7 +6790,7 @@
     "website": "https://imperfect.co",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "An adaptive training coach to help runners, cyclists, and triathletes set and achieve goals. It adapts your training, recovery, and nutrition to how your body is actually responding.",
-    "one_liner": "Adaptive training coach for athletes with real lives and epic goals",
+    "one_liner": "Adaptive training coach for runners, cyclists, and triathletes ",
     "team_size": 4,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -7032,5 +7034,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/egoist-machines",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/egoist-machines.json"
+  },
+  {
+    "id": 33317,
+    "name": "Wondering",
+    "slug": "wondering",
+    "former_names": [
+      "Mouseover AI",
+      "Mouseover"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/188e05122015c2a6e85c91c5145eeef637482a9b.png",
+    "website": "https://wondering.app",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Wondering turns anything you want to learn, from LLMs to quantum mechanics to product design, into a path of three-minute lessons with visuals, podcasts, and interactive exercises. \r\n\r\nEach learning path and its content are personalized to your background, how you learn best, and how deep you want to go.\r\n\r\nIt’s the most delightful way to understand complex topics and turn information into knowledge you can remember and apply. You don’t just passively read. You practice, make connections, and form your own insights.\r\n\r\nStart learning anything for free at https://wondering.app/download",
+    "one_liner": "Duolingo for Learning Anything",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1785135586,
+    "tags": [
+      "AI-Enhanced Learning",
+      "Artificial Intelligence",
+      "Education",
+      "Consumer",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/wondering",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/wondering.json"
   }
 ]

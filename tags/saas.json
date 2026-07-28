@@ -13337,7 +13337,7 @@
     "all_locations": "Paris, Île-de-France, France",
     "long_description": "Riot is a SaaS platform to easily set up a cybersecurity awareness program for teams. We're making tools to protect your employees, and therefore protecting your company.",
     "one_liner": "Cybersecurity awareness for fast growing companies",
-    "team_size": 150,
+    "team_size": 160,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1584494110,
@@ -13361,7 +13361,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -22558,7 +22558,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -38148,15 +38148,15 @@
     "all_locations": "New York City, NY, USA",
     "long_description": "Type.ai is the AI-native storytelling studio for independent authors and creators. We help people craft books, novels, screenplays, and other types of long-form, creative fiction.",
     "one_liner": "AI-native storytelling studio.",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1675912711,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Consumer",
-      "Productivity",
-      "AI"
+      "Productivity"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -39804,16 +39804,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Inventive is an AI-powered RFP & questionnaire response management platform that drives 70%+ efficiency in sales response workflows.\r\n\r\n**Core benefits and features:**\r\n\r\n- **10X Faster Drafts With Highly Accurate Responses**: Using Inventive’s proprietary AI-system you can get first drafts 10 times faster, with accurate responses rooted in your knowledge sources, that you and your team can collaborate on to refine.\r\n- **Single Hub for All Your Knowledge Sources:** Inventive offers a centralized hub for all your knowledge sources. You can upload previous RFPs and relevant documents; integrate with your internal data systems such as gDrive. Sharepoint & more; upload Q&A from legacy tools or spreadsheets; and even add information from your websites.\r\n- **Fight Stale Content With AI Content Manager:** Inventive’s AI content manager proactively flags conflicting content by identifying issues within your sources, so you only use fresh and relevant content in your responses.\r\n- **Higher Productivity & Competitive Advantage With AI Agents:** Inventive offers a suite of AI agents designed to boost productivity and give you a competitive advantage. These agents can help with researching competitors, brainstorming ideas, and more.\r\n\r\nBuilt by a customer-obsessed team comprising an ex-exec from a Fortune 500 company and ex-AI team from Google & Stanford. Backed by top Silicon Valley investors including YCombinator.",
     "one_liner": "AI Agents For RFP and Questionnaire Response Automation ",
-    "team_size": 12,
+    "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1687811406,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "SaaS",
       "B2B",
-      "Sales",
-      "AI"
+      "Sales"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -39827,7 +39827,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -40572,7 +40574,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -40647,15 +40649,15 @@
     "all_locations": "New York City, NY, USA",
     "long_description": "PointOne is the leading AI Time platform. With automated time entry, compliance, and analytics, PointOne offers AI-native",
     "one_liner": "AI Time Platform for Law Firms",
-    "team_size": 15,
+    "team_size": 35,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1705177845,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Legal",
-      "AI"
+      "Legal"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47862,17 +47864,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea163685b0ad74eaec6a19637a061cdb5e63acae.png",
     "website": "https://www.usedefinite.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Definite builds AI agents that generate the reports banks and financial institutions file with their regulators. Before any number lands in a filing, our verification engine checks it independently. Every line gets recomputed from ledger records and checked against a versioned rulebook, and wrong outputs go back to the agent with the reason, like compiler errors. They don't ship.\r\n\r\nWe met our first year studying computer science at the University of Waterloo, and interned at Meta, Optiver, and BitGo, places where one unverified number in a filing has real consequences. At BitGo, attestations proving customer assets matched the ledger were assembled by hand every period. At Optiver, daily regulatory numbers were rebuilt manually because nothing downstream took them on faith.\r\n\r\nToday a controller pulls data from the core system into Excel and maps it to the report line by line. By the regulators' own estimate, one quarterly filing takes weeks. The software banks buy for this validates formatting, not truth: a loan mapped to the wrong schedule line passes every check it runs, and an executive personally signs the result.\r\n\r\nThis is hard because verification has to be independent of the model doing the work. Recomputing every number from source records is the only check a regulator or auditor will accept, and it's why DeepSeek v3 with our engine beats GPT-5 on public reporting benchmarks.\r\n\r\nEvery regulated institution files these reports, forever. Whoever proves the numbers owns the layer the filings, the audits, and eventually the books themselves depend on. We build it, and the agents that run on it.",
-    "one_liner": "The most accurate financial agents for reporting",
+    "long_description": "Definite is where finance teams build everyday back-office agents on one live model of their books. We plug into your ERP, ledger, payroll, and payments read-only and compile everything into one clean model that stays current as money moves. Your back-office team then builds agents on top in plain English. We never write back and we never move money. The agents are yours, the plumbing is ours.\r\n\r\nWe met in first year computer science at Waterloo and interned at Meta, Optiver, and BitGo. At Optiver they ran an n8n hackathon and the interns automated basically nothing. It couldn't talk to the systems that mattered. When we pitched banks and fintechs on agents, they kept telling us the same thing. The agent isn't the hard part, getting clean data out of their systems is.\r\n\r\nRight now, automating anything in a back office means engineers hand-stitching data from a dozen sources in different formats on different schedules. Tools like n8n and Workato assume your data is already clean and joined. In finance it never is. So the teams with the most repetitive work and smallest budgets get nothing.\r\n\r\nThe hard part is the compiler. Every source gets cleaned, matched, and joined into one live model of transactions, invoices, vendors, and payments, and it has to stay right as money lands every day. \r\n\r\nEveryone throws engineers at this. We're doing it once so nobody has to again. Every back office is getting agents eventually. Whoever owns the data they read from owns the thing all of them depend on, and eventually the books themselves. That's what we're building.\r\n",
+    "one_liner": "Build everyday back-office agents on one live model of your books",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1782681224,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "SaaS",
-      "Finance",
-      "AI"
+      "Finance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47951,7 +47953,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7ea500c797163e99dad11a205953572d46a0034.png",
     "website": "https://flowmanual.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "FlowManual is the all-in-one AI bidding and purchasing platform for both general and specialty construction contractors.\r\n\r\nBuilt by two engineers and Harvard dropouts, FlowManual automates the buying process during pre-construction. With FlowManual, specialty contractors win more work while general contractors deliver at higher standards.",
+    "long_description": "FlowManual is the all-in-one AI bidding and purchasing platform for both general and MEP construction contractors.\r\n\r\nBuilt by two engineers and Harvard dropouts, FlowManual automates the buying process during pre-construction. With FlowManual, specialty contractors win more work while general contractors deliver at higher standards.",
     "one_liner": "AI for Construction's Back Office.",
     "team_size": 2,
     "industry": "Real Estate and Construction",

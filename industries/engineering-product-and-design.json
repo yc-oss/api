@@ -6834,49 +6834,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2020/nextmv.json"
   },
   {
-    "id": 13144,
-    "name": "Datasaur",
-    "slug": "datasaur",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b034ae95d0987f25f5a158decefc230711671261.png",
-    "website": "https://datasaur.ai",
-    "all_locations": "San Francisco, CA, USA; Sunnyvale, CA, USA; Remote",
-    "long_description": "Datasaur builds intelligent, optimized, human-centric LLM/NLP tools. If you're still using Excel or maintaining your own in-house tools, Datasaur can offer you significant cost-savings and improve the quality of your training data. We provide tools custom-built for power users. Our built-in intelligence helps augment your human labelers and avoid costly mistakes; our workforce management tool allows you to assign projects to and cross-validate the results from multiple labelers to ensure you can train your models with the utmost confidence.\r\n\r\nI have 10 years of consumer product experience. I'd be happy to help discuss product strategy and gamification.\r\nI'd love to get any advice you have to offer on SaaS and enterprise sales.",
-    "one_liner": "Datasaur builds a data labeling workforce management platform for NLP.",
-    "team_size": 55,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1583202722,
-    "tags": [
-      "Artificial Intelligence",
-      "Deep Learning",
-      "Developer Tools"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2020",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": true,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/datasaur",
-    "api": "https://yc-oss.github.io/api/batches/winter-2020/datasaur.json"
-  },
-  {
     "id": 13157,
     "name": "Weav",
     "slug": "weav",
@@ -7376,8 +7333,8 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1616094217,
     "tags": [
-      "Artificial Intelligence",
-      "API"
+      "API",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11328,12 +11285,12 @@
       "Broccoli",
       "Telematica"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4af19eaef182970dcf0225cba17bed637d7b49f.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/257dfea6305c042123e7a308656b24d1f742d6c1.png",
     "website": "https://www.broccoli.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Broccoli is building the AI-native operating system for home service businesses. Running a plumbing or HVAC company is chaotic: calls, scheduling, dispatch, follow-ups, marketing. We automate all of it so contractors can focus on what they do best: serving customers.\r\n\r\nOur AI agents handle both revenue and ops; answering phones 24/7, booking jobs in real time, following up on leads, and alerting techs when emergencies hit.\r\n\r\nWe’ve grown from 0 to 800+ contractors in under 2 years, raised Series A round led by Khosla Ventures to take on one of the biggest labor automation opportunities in the country.\r\n\r\nAJ and Adi have worked together for the past nine years, building multiple startups. AJ, a Computer Science graduate, started his career at Adobe before moving into entrepreneurship. Adi, also a Computer Science graduate, conducted research at the renowned CVC lab at UAB Barcelona before joining Microsoft. Together, they founded Telematica and later Broccoli.",
     "one_liner": "AI-native operating system for home service businesses",
-    "team_size": 21,
+    "team_size": 60,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1646292663,
@@ -11355,9 +11312,11 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -19024,7 +18983,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -21082,25 +21041,26 @@
   },
   {
     "id": 30254,
-    "name": "hud",
+    "name": "HUD",
     "slug": "hud",
     "former_names": [
       "Human Union Data",
       "hud",
-      "HUD"
+      "HUD",
+      "hud"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/53fffc4904f866d9d44ba9a47862b594f1d45667.png",
     "website": "https://www.hud.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "HUD (YC W25) is developing agentic evals and RL environments for Computer Use Agents (CUAs) that browse the web for frontier AI labs. Our CUA Evals framework is the first comprehensive evaluation tool for CUAs.\r\n\r\nPeople don't actually know if AI agents are working reliably. To make AI agents work in the real world, we need detailed evals for a huge range of tasks.\r\n\r\nWe're backed by Y Combinator, and work closely with frontier AI labs to provide agent evaluation and training infrastructure at scale.",
+    "long_description": "HUD is the platform for building high quality post training datasets. Over 50 businesses use HUD to build RL environments, sell them to AI labs, or train their own models from them.\r\n\r\nOur mission is to enable a generation of data entrepreneurs. The previous generation built apps to impact the world. We believe people will build infrastructure around data, both digital and physical, that align AIs to their specific goals.",
     "one_liner": "Platform for building RL environments and evals ",
     "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1740930546,
     "tags": [
-      "Reinforcement Learning",
-      "AI"
+      "Artificial Intelligence",
+      "Reinforcement Learning"
     ],
     "tags_highlighted": [],
     "top_company": false,

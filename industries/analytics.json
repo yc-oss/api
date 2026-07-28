@@ -3536,53 +3536,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/helicone.json"
   },
   {
-    "id": 27939,
-    "name": "FactIQ",
-    "slug": "factiq",
-    "former_names": [
-      "Data Narratives",
-      "Defog.ai"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4eea8e74dd560d5b945e787263172d6a883e4e0a.png",
-    "website": "https://factiq.com/",
-    "all_locations": "Singapore, Singapore",
-    "long_description": "FactIQ gives AI agents access to clean and trustworthy data for investment research.\r\n\r\nWe source, clean and standardize data from company financials, market prices, economic series and satellite imagery. We make it absurdly obviously for any AI agent to accurately query this data. We currently have 25M+ data series covering US and Asia, and are adding new data every day. ",
-    "one_liner": "Investment research data for AI agents",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1672890387,
-    "tags": [
-      "Investing",
-      "Data Visualization",
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "Singapore",
-      "Southeast Asia",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/factiq",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/factiq.json"
-  },
-  {
     "id": 27950,
     "name": "Sherloq",
     "slug": "sherloq",
@@ -4593,18 +4546,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed377f5e3e709abc9139475076cec71316b01c06.png",
     "website": "https://sharpe.sh",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sharpe helps traders go from idea to profit in minutes with AI, bundling petabytes of market data with high-performance infrastructure. Sharpe helped a top 5 quant firm find $10m+ of profit within a few hours of deployment.",
+    "long_description": "Sharpe helps traders go from idea to profit in minutes with AI, bundling petabytes of market data with high-performance infrastructure.",
     "one_liner": "Agents for quantitative research and financial data science.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1722638950,
     "tags": [
-      "Artificial Intelligence",
       "Finance",
       "Analytics",
       "Big Data",
-      "Data Engineering"
+      "Data Engineering",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

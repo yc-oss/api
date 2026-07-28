@@ -4496,8 +4496,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d97c7b6a062bbf024d979f3e67fe169d6f103b8b.png",
     "website": "http://tilt.io",
     "all_locations": "Toronto, ON, Canada; Remote",
-    "long_description": "Tilt lets anyone build evidence-backed, point-in-time, and deterministic rules-based investment strategies... in minutes. All you need is a prompt — whether a theme, trend, or detailed thesis — we'll take care of the rest. Advisors also use Tilt to customize their client portfolios with tax considerations and investment preferences. \r\n\r\nIf you're thinking about working here, we're on a mission to price the world's information.",
-    "one_liner": "Tilt lets anyone build an index out of any content on the web.",
+    "long_description": "Tilt is building the audited methodology layer agents call before touching portfolios. As agents begin managing real portfolios, they need a neutral trusted source of verified investment logic before they can act.\r\n\r\nWe operate across two connected surfaces: InvestOS, an open standard that lets any brokerage or platform plug verified methodology into its own AI experience; and Tilt, the reference implementation of InvestOS. Tilt is an agentic harness where investors, portfolio managers, and creators can author, remix, and publish strategies. \r\n\r\nIf you're thinking about working here, our mission is to price the world's information.",
+    "one_liner": "GitHub for Investment Methodology",
     "team_size": 25,
     "industry": "Fintech",
     "subindustry": "Fintech -> Consumer Finance",
@@ -4509,7 +4509,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2018",
     "status": "Active",
@@ -21383,6 +21383,53 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/clickpe.json"
   },
   {
+    "id": 27939,
+    "name": "FactIQ",
+    "slug": "factiq",
+    "former_names": [
+      "Data Narratives",
+      "Defog.ai"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4eea8e74dd560d5b945e787263172d6a883e4e0a.png",
+    "website": "https://factiq.com/",
+    "all_locations": "Singapore, Singapore",
+    "long_description": "FactIQ gives AI agents access to clean and trustworthy data for investment research.\r\n\r\nWe source, clean and standardize data from company financials, market prices, economic series and satellite imagery. We make it absurdly obvious for any AI agent to accurately query this data. We currently have 100M+ data series covering US and Asia, and are adding new data every day. ",
+    "one_liner": "Investment research data for AI agents",
+    "team_size": 3,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Asset Management",
+    "launched_at": 1672890387,
+    "tags": [
+      "Artificial Intelligence",
+      "Investing",
+      "Data Visualization",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Asset Management"
+    ],
+    "regions": [
+      "Singapore",
+      "Southeast Asia",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/factiq",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/factiq.json"
+  },
+  {
     "id": 27943,
     "name": "Hadrius",
     "slug": "hadrius",
@@ -25873,7 +25920,7 @@
     "slug": "kita",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e2c404c5bbc49c9c8e25d9c60779b50f507ba65.png",
-    "website": "https://www.usekita.com/",
+    "website": "https://www.kita.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "In emerging markets, open finance is still nascent. Most of the population is traditionally unbanked, banking APIs don’t exist, and a borrower’s financial history lives in documents: e-wallet records, bank statements, utility bills, and more. Because this data is unstructured, credit and risk teams are forced into manual review. This slows decisioning, increases costs, and caps lending volume. \r\n\r\nKita is the AI platform for global lending operations. We help lenders in emerging markets automate application completion, document verification, and underwriting from messy financial documents — using AI to extract fraud-checked data and localized risk signals that power faster, better credit decisions.\r\n\r\nUnder the hood, Kita is a learning engine. We link document-level signals to repayment outcomes, allowing our models to continuously improve fraud detection and risk assessment over time. This creates a compounding advantage for lenders as their distinct underwriting decisions feed back into the system.\r\n\r\nWe’re Carmel and Rhea. We met before Stanford and have been building together ever since. Carmel is from Manila, is a repeat founder, and spent three years in product at Apple. Rhea has a research background in computer vision and received the highest honor in Stanford Computer Science. Together, we combine deep local context with strong technical execution to build the infrastructure that expands access to credit in emerging markets.",
     "one_liner": "Automate credit assessment for lenders in emerging markets",
