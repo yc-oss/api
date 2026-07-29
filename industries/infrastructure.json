@@ -3859,7 +3859,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2020",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Infrastructure"
@@ -8258,51 +8258,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/guide-labs.json"
   },
   {
-    "id": 29341,
-    "name": "14.ai",
-    "slug": "14-ai",
-    "former_names": [
-      "Markprompt"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bf27e2b5fff1afcb51538ca47d0ce384847305c2.png",
-    "website": "https://14.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "14.ai operates brands autonomously. Our software runs the core machinery of a modern company, from demand generation to fulfillment to customer relationships.\r\n\r\nThe next iconic brands will run with far fewer people, tighter software loops, and much more operational intelligence. Our system connects acquisition, operations, support, and decision-making across the brands we build into one intelligent layer.\r\n\r\nWe use 14.ai to launch and run our own brands, improve the system in production, and make brand creation faster, measurable, and more programmable with every cycle.",
-    "one_liner": "AI engine powering autonomous brands starting with gloglo.com",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1700867535,
-    "tags": [
-      "Consumer Health Services",
-      "Consumer",
-      "E-commerce",
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/14-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/14-ai.json"
-  },
-  {
     "id": 29347,
     "name": "Vibrant Labs",
     "slug": "vibrant-labs",
@@ -9902,15 +9857,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Kairos closes the last-mile reliability gap in AI deployments. \r\n\r\nWe bring frontier techniques to companies in critical industries, deploying specialized agents that encode operator expertise and reliably automate their most manual workflows.",
     "one_liner": "Specialized AI for Critical Industries",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1748466933,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "Machine Learning",
-      "Reinforcement Learning",
-      "AI"
+      "Reinforcement Learning"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11547,43 +11502,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/brownie.json"
   },
   {
-    "id": 31172,
-    "name": "Terminal Use",
-    "slug": "terminal-use",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c1f9c6555570a59695390a5a40a26ba79862a09.png",
-    "website": "https://www.terminaluse.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Terminal Use is an orchestration platform for background agents. Purpose-built for agents that use filesystems. Our platform is CLI-first, making it easy for your coding agents to experiment and continuously improve your deployed agents.",
-    "one_liner": "Vercel for background agents",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1770866075,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/terminal-use",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/terminal-use.json"
-  },
-  {
     "id": 31185,
     "name": "Chamber",
     "slug": "chamber",
@@ -13153,6 +13071,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/inkbox",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/inkbox.json"
+  },
+  {
+    "id": 33047,
+    "name": "Decawork",
+    "slug": "decawork",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/44fee5cae005d704af84e7ed5ed7418d4ca0580c.png",
+    "website": "https://decawork.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Decawork gives IT teams one place to deploy, govern and maintain the AI agents running across their company.\r\n\r\nEvery company is building AI agents internally now - it started with experiments, and now every team wants their own. What follows is agent sprawl: deployment gets messy, agents go live with access to real systems and real data, and maintenance falls in the gap. IT can't see any of it, so it does the only two things it can: first ignore, then block. Ignoring piles up risk; blocking kills the productivity people just found. \r\n\r\nWith Decawork, every agent ships one standard way: its own identity and scoped credentials, with IT's sign-off before it goes live. After that, every run is watched - IT is alerted the moment something fails, agents nobody uses get retired. And the whole time, IT sees every agent, controls what it can touch, and audits every action, with approvals gating anything sensitive.\r\n\r\nEvery big shift - cloud, SaaS, the digital workspace - ended with IT running it. AI agents are the next one. Decawork is what IT will run them with.",
+    "one_liner": "The Agent Control Plane for IT teams",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1785265630,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/decawork",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/decawork.json"
   },
   {
     "id": 33052,

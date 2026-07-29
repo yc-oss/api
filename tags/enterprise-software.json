@@ -2758,7 +2758,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -4964,6 +4964,62 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/ritivel.json"
   },
   {
+    "id": 31380,
+    "name": "Superlog",
+    "slug": "superlog",
+    "former_names": [
+      "Swish",
+      "Pulsend",
+      "Pulsent",
+      "Deep Engage",
+      "Deepengage",
+      "Openengage",
+      "Deepengage",
+      "Pulsending",
+      "deep engage",
+      "Singlevox",
+      "deep engage",
+      "Pulsent"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/96347d910b359b8008029da5fa69b30000efd6d0.png",
+    "website": "https://superlog.sh/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sentry and Datadog dump a stream of alerts. Most are duplicates, most lack context, and you still have to solve the issue yourself.\r\n\r\nSuperlog is AI-native observability that's meant not to be opened. A wizard scans your repo and installs proper OpenTelemetry instrumentation, then runs daily to keep up as you ship new code. When something breaks, Superlog groups the errors into a single incident, investigates with full context (logs, traces, recent deploys, past Slack threads), and posts one mergeable PR in Slack. You merge it, ignore it, or open it as a Claude Code session and modify it.\r\n\r\nTelemetry is vendor-neutral, so you keep every log, trace, and metric we install, even if you leave.",
+    "one_liner": "Make software self-healing",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1775225049,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Open Source",
+      "Kubernetes",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/superlog",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/superlog.json"
+  },
+  {
     "id": 31458,
     "name": "Ara",
     "slug": "ara",
@@ -5130,6 +5186,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/realpact",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/realpact.json"
+  },
+  {
+    "id": 32197,
+    "name": "Buildbox",
+    "slug": "buildbox",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/989f93098b0f9d50006d1cc3890e9da739799a9e.png",
+    "website": "https://heybuildbox.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Buildbox helps product teams improve the human-agent experience. We analyze user intent, agent behavior, and outcomes to find where users get stuck or lose trust, then turn those findings into ranked, reproducible issues. ",
+    "one_liner": "Understand how users experience your AI agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1785235599,
+    "tags": [
+      "Artificial Intelligence",
+      "Analytics",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/buildbox",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/buildbox.json"
   },
   {
     "id": 32259,
@@ -5315,18 +5412,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd39ca163a2a8ea396a6ec66701926317f9f416c.png",
     "website": "https://osseus.ai/",
     "all_locations": "",
-    "long_description": "Osseus is the secure research brain for R&D teams. Today, research knowledge is fragmented across specialist tools, decisions, conversations, and people's heads. Osseus crafts this into a permissioned memory that grows with every experiment, decision, failure, and lesson learned. Rather than only retrieving the current state of connected tools, Osseus preserves how work evolved: what was tried, what failed, why decisions were made, and who holds the relevant context.\r\n\r\nEach person gets a personal AI agent that uses this growing history to proactively surface relevant evidence, help prevent duplicated work and repeated mistakes, and identify the exact expert who can unblock the next decision. By preserving both technical history and the organizational know-how behind team processes and decision making, Osseus helps R&D teams move faster before time and money are wasted.",
-    "one_liner": "The secure research brain for accelerating R&D",
+    "long_description": "Osseus is the intelligent design platform for robotics. Today, it gives robotics teams a collaborative web app for reviewing mechanical and electrical designs against the full context around them. Engineers and suppliers comment on the exact part, net, connector, or dimension, while AI AutoReview compares proposed changes with prior revisions and source evidence.\r\n\r\nUnderneath is a secure research brain that connects physical designs, robot descriptions and models, firmware and robot software, simulation and test results, supplier feedback, decisions, and owners in one permissioned, version-aware record. Because Osseus understands those relationships, it can carry supplier constraints into future reviews, trace a hardware change into the exact configurations, code, and validation work it affects, and turn approved findings into owned work without losing the evidence or rationale.\r\n\r\nOur long-term goal is for any professional team or hobbyist to import, fork, or create a robot in Osseus. Builders will be able to explore compatible components and supplier intelligence, edit the physical design, and receive proposed updates to the robot description, firmware, control software, simulation, and tests. We ultimately want to develop physical-AI models that reason jointly over the robot's geometry, electronics, kinematics, components, software, and real-world performance so people can optimize and iterate on robots much faster.",
+    "one_liner": "The intelligent design platform for robotics",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1783740069,
     "tags": [
+      "Artificial Intelligence",
+      "Robotics",
       "B2B",
       "Enterprise Software",
-      "Infrastructure",
-      "Operations",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5362,17 +5459,17 @@
     "website": "https://hardwareintelligence.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "Agentic chip design with ultrafast feedback loops",
+    "one_liner": "AI tools for the chips your AI runs on",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1784052551,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Hardware",
       "Enterprise Software",
-      "Semiconductors",
-      "AI"
+      "Semiconductors"
     ],
     "tags_highlighted": [],
     "top_company": false,

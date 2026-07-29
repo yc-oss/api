@@ -5739,7 +5739,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2020",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Infrastructure"
@@ -14032,7 +14032,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0210bbcb75b7ba7c4519705bd24c324666b9538b.png",
     "website": "https://escape.tech",
-    "all_locations": "New York City, NY, USA",
+    "all_locations": "Paris, Île-de-France, France",
     "long_description": "Replace legacy scanners and manual offensive security processes with AI agents that discover, test, and remediate directly in your engineering workflows.",
     "one_liner": "Offensive security for the teams that are 100x outnumbered",
     "team_size": 29,
@@ -14056,8 +14056,8 @@
       "Security"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "France",
+      "Europe",
       "Remote",
       "Partly Remote"
     ],
@@ -14668,9 +14668,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/acdabd0c7f626bea58520be4df19e9d87e878e06.png",
     "website": "https://www.withterminal.com/",
     "all_locations": "Toronto, ON, Canada",
-    "long_description": "Terminal is Plaid for telematics data in commercial trucking. Companies building next generation insurance products, financial services and fleet software for trucking use our Universal API to access GPS data, speeding data and vehicle stats.\r\n\r\n\r\nRaghav (CEO) and Connor (CTO) led product and engineering at a series b-funded neobank where they spent 2.5 years integrating middleware APIs like Plaid & Stripe. Before that, Connor spent 3 years building software for his family-owned logistics company which was acquired by a private equity firm. Raghav’s family is in fleet operations and owns an HVAC company in San Francisco where they operate a fleet of 13 commercial vehicles.",
+    "long_description": "Terminal builds telematics data infrastructure for the commercial fleet industry. Commercial auto insurers and fleet software companies, including industry leaders like Intact Insurance, depend on our platform to access GPS, speeding, and vehicle data from 330+ telematics providers. We recently raised our Series A led by Battery Ventures and are backed by Y Combinator, Golden Ventures, Penske Transportation Solutions, and Intact Private Capital. Our team works together in person in Toronto, combining early-stage speed with late-stage maturity while processing many terabytes of vehicle data every day.",
     "one_liner": "Plaid for Telematics Data in Commercial Trucking",
-    "team_size": 13,
+    "team_size": 17,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1686875365,
@@ -14695,7 +14695,7 @@
       "Canada",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -22423,9 +22423,9 @@
     "subindustry": "B2B",
     "launched_at": 1761590258,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "SaaS"
+      "SaaS",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -22974,6 +22974,62 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/godhands.json"
   },
   {
+    "id": 31380,
+    "name": "Superlog",
+    "slug": "superlog",
+    "former_names": [
+      "Swish",
+      "Pulsend",
+      "Pulsent",
+      "Deep Engage",
+      "Deepengage",
+      "Openengage",
+      "Deepengage",
+      "Pulsending",
+      "deep engage",
+      "Singlevox",
+      "deep engage",
+      "Pulsent"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/96347d910b359b8008029da5fa69b30000efd6d0.png",
+    "website": "https://superlog.sh/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sentry and Datadog dump a stream of alerts. Most are duplicates, most lack context, and you still have to solve the issue yourself.\r\n\r\nSuperlog is AI-native observability that's meant not to be opened. A wizard scans your repo and installs proper OpenTelemetry instrumentation, then runs daily to keep up as you ship new code. When something breaks, Superlog groups the errors into a single incident, investigates with full context (logs, traces, recent deploys, past Slack threads), and posts one mergeable PR in Slack. You merge it, ignore it, or open it as a Claude Code session and modify it.\r\n\r\nTelemetry is vendor-neutral, so you keep every log, trace, and metric we install, even if you leave.",
+    "one_liner": "Make software self-healing",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1775225049,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Open Source",
+      "Kubernetes",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/superlog",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/superlog.json"
+  },
+  {
     "id": 31458,
     "name": "Ara",
     "slug": "ara",
@@ -23453,7 +23509,7 @@
     "former_names": [
       "HyperTest inc"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e5b4807040a02ba35de45355e3c51fd115e82199.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b4b91e0b78bbed1c83add57d22b06ab632567450.png",
     "website": "http://hyperprobe.co",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "If your team uses Cursor, Claude Code, or Codex to ship, you've felt it: the AI is great at writing code, mediocre at debugging it. When something breaks in prod, you're back to grepping logs, adding console.logs, redeploying, and hoping the AI's guess is right.\r\n\r\nHyperProbe fixes this. Your coding agent dynamically drops non-breaking probes into your running services, straight from your IDE. When a probe fires, HyperProbe captures and sanitises the exact variable state, feeding your agent real evidence instead of flat logs. \r\n\r\nThis fixes prod incidents in minutes from the exact same window where agents write code, without ever redeploying to add a print statement. Under 1% CPU overhead. Automatic PII redaction. \r\n\r\nBuilt for backend teams shipping AI-written code today. Install in 60 seconds, see your first investigation in 10 minutes. That's why we call HyperProbe the runtime data layer for AI-native software.\r\n\r\n",
@@ -23549,17 +23605,17 @@
     "website": "https://hardwareintelligence.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "Agentic chip design with ultrafast feedback loops",
+    "one_liner": "AI tools for the chips your AI runs on",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1784052551,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Hardware",
       "Enterprise Software",
-      "Semiconductors",
-      "AI"
+      "Semiconductors"
     ],
     "tags_highlighted": [],
     "top_company": false,

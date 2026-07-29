@@ -1673,17 +1673,19 @@
   },
   {
     "id": 31091,
-    "name": "Sonarly",
-    "slug": "sonarly",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/07e7fd61200416376d06e84b0c02917c8e9379f3.png",
-    "website": "https://sonarly.com",
+    "name": "Mirabelle",
+    "slug": "mirabelle",
+    "former_names": [
+      "Sonarly"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9c87d0326f43aedaf5e755c291f9191473eb838d.png",
+    "website": "https://meetmirabelle.com",
     "all_locations": "Paris, Île-de-France, France",
-    "long_description": "We want software to improve itself.\r\n\r\nSonarly connects to your monitoring stack - tools like Sentry, Datadog, and Grafana - and triages every alert to remove noise and duplicates. It then investigates logs, traces, metrics, and code to build a living map of your production system and find root cause. The result is either a ready-to-merge fix PR or a recommendation to update your alerting rules so the noise never comes back.",
-    "one_liner": "Makes software self-healing",
+    "long_description": "We build the personal cooking robot.\r\n\r\nMirabelle chops, cooks, and serves fresh meals on demand, so you can eat well every day without spending a minute in the kitchen.\r\n\r\nWhy now: vision AI is finally good enough to give a machine the eyes of a private chef. And humans gathering around a good meal will always be one of life's best moments.\r\n\r\nBacked by Y Combinator (W26)",
+    "one_liner": "The personal cooking robot",
     "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Consumer Electronics",
     "launched_at": 1765492562,
     "tags": [],
     "tags_highlighted": [],
@@ -1693,8 +1695,8 @@
     "batch": "Winter 2026",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Engineering, Product and Design"
+      "Consumer",
+      "Consumer Electronics"
     ],
     "regions": [
       "France",
@@ -1705,8 +1707,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sonarly",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/sonarly.json"
+    "url": "https://www.ycombinator.com/companies/mirabelle",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/mirabelle.json"
   },
   {
     "id": 31092,
@@ -4205,11 +4207,11 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c1f9c6555570a59695390a5a40a26ba79862a09.png",
     "website": "https://www.terminaluse.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Terminal Use is an orchestration platform for background agents. Purpose-built for agents that use filesystems. Our platform is CLI-first, making it easy for your coding agents to experiment and continuously improve your deployed agents.",
-    "one_liner": "Vercel for background agents",
+    "long_description": "Create a living digital twin for your data center construction to deliver on time",
+    "one_liner": "Digital twins for data center construction",
     "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
+    "industry": "Real Estate and Construction",
+    "subindustry": "Real Estate and Construction -> Construction",
     "launched_at": 1770866075,
     "tags": [],
     "tags_highlighted": [],
@@ -4219,8 +4221,8 @@
     "batch": "Winter 2026",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Infrastructure"
+      "Real Estate and Construction",
+      "Construction"
     ],
     "regions": [
       "United States of America",

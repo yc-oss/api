@@ -3295,10 +3295,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1753994250,
     "tags": [
-      "Artificial Intelligence",
       "Reinforcement Learning",
       "B2B",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5065,6 +5065,47 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/inkbox.json"
   },
   {
+    "id": 33047,
+    "name": "Decawork",
+    "slug": "decawork",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/44fee5cae005d704af84e7ed5ed7418d4ca0580c.png",
+    "website": "https://decawork.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Decawork gives IT teams one place to deploy, govern and maintain the AI agents running across their company.\r\n\r\nEvery company is building AI agents internally now - it started with experiments, and now every team wants their own. What follows is agent sprawl: deployment gets messy, agents go live with access to real systems and real data, and maintenance falls in the gap. IT can't see any of it, so it does the only two things it can: first ignore, then block. Ignoring piles up risk; blocking kills the productivity people just found. \r\n\r\nWith Decawork, every agent ships one standard way: its own identity and scoped credentials, with IT's sign-off before it goes live. After that, every run is watched - IT is alerted the moment something fails, agents nobody uses get retired. And the whole time, IT sees every agent, controls what it can touch, and audits every action, with approvals gating anything sensitive.\r\n\r\nEvery big shift - cloud, SaaS, the digital workspace - ended with IT running it. AI agents are the next one. Decawork is what IT will run them with.",
+    "one_liner": "The Agent Control Plane for IT teams",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1785265630,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/decawork",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/decawork.json"
+  },
+  {
     "id": 33315,
     "name": "Amulet",
     "slug": "amulet",
@@ -5160,18 +5201,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd39ca163a2a8ea396a6ec66701926317f9f416c.png",
     "website": "https://osseus.ai/",
     "all_locations": "",
-    "long_description": "Osseus is the secure research brain for R&D teams. Today, research knowledge is fragmented across specialist tools, decisions, conversations, and people's heads. Osseus crafts this into a permissioned memory that grows with every experiment, decision, failure, and lesson learned. Rather than only retrieving the current state of connected tools, Osseus preserves how work evolved: what was tried, what failed, why decisions were made, and who holds the relevant context.\r\n\r\nEach person gets a personal AI agent that uses this growing history to proactively surface relevant evidence, help prevent duplicated work and repeated mistakes, and identify the exact expert who can unblock the next decision. By preserving both technical history and the organizational know-how behind team processes and decision making, Osseus helps R&D teams move faster before time and money are wasted.",
-    "one_liner": "The secure research brain for accelerating R&D",
+    "long_description": "Osseus is the intelligent design platform for robotics. Today, it gives robotics teams a collaborative web app for reviewing mechanical and electrical designs against the full context around them. Engineers and suppliers comment on the exact part, net, connector, or dimension, while AI AutoReview compares proposed changes with prior revisions and source evidence.\r\n\r\nUnderneath is a secure research brain that connects physical designs, robot descriptions and models, firmware and robot software, simulation and test results, supplier feedback, decisions, and owners in one permissioned, version-aware record. Because Osseus understands those relationships, it can carry supplier constraints into future reviews, trace a hardware change into the exact configurations, code, and validation work it affects, and turn approved findings into owned work without losing the evidence or rationale.\r\n\r\nOur long-term goal is for any professional team or hobbyist to import, fork, or create a robot in Osseus. Builders will be able to explore compatible components and supplier intelligence, edit the physical design, and receive proposed updates to the robot description, firmware, control software, simulation, and tests. We ultimately want to develop physical-AI models that reason jointly over the robot's geometry, electronics, kinematics, components, software, and real-world performance so people can optimize and iterate on robots much faster.",
+    "one_liner": "The intelligent design platform for robotics",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1783740069,
     "tags": [
+      "Artificial Intelligence",
+      "Robotics",
       "B2B",
       "Enterprise Software",
-      "Infrastructure",
-      "Operations",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
