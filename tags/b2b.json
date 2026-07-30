@@ -1683,7 +1683,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -19562,7 +19562,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "Fintech"
     ],
@@ -19572,7 +19572,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -23257,7 +23257,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -38675,7 +38675,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -39890,11 +39890,11 @@
     "subindustry": "Fintech",
     "launched_at": 1718839098,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "B2B",
       "Legal",
-      "Consumer Finance",
-      "AI"
+      "Consumer Finance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -39927,17 +39927,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a3e196a71b4a93ad7200cf278186954bda68e7e3.png",
     "website": "https://www.shipoway.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "America is operating at half of its potential industrial supply chain efficiency, with 50% of all the truck space being left empty due to foundational issues with how the logistics industry historically works. This issue directly makes everything made and sold in America more expensive and less competitive against global competitors. \r\n\r\nOway is building a new vertical in the industrial supply chain by indexing live unused truck space and make it usable via API - a transparent infrastructure layer that simply by existing boosts the productivity and market caps of the businesses that plug into it. For the broad economy, this means freight costs that are up to 50% lower than what was previously possible, touchpoints are reduced, damage rates are significantly lowered, and inventory float is minimized via new JIT capabilities. For carriers, Oway’s integration can increase annual revenues by up to 30% with minimal impact to their existing business. They simply earn more by monetizing space that would have gone unused.\r\n\r\nOur mission is to transform empty truck space into an asset that strengthens U.S. competitiveness. By lowering the cost of goods sold, we help businesses grow. By improving carrier margins, we make trucking more sustainable. And creating a live index of the supply chain, we are laying the foundation for a resilient, transparent industrial layer that can support America’s reindustrialization in the decades ahead. ",
+    "long_description": "The physical economy still operates without a shared intelligence layer. Every day, millions of trucks move goods while carrying unused capacity, yet no system has a real-time understanding of where capacity exists, how freight should move, or how efficiently the supply chain is operating.\r\n\r\nOway is building that layer by indexing live unused truck capacity and exposing it through APIs and AI agents, transforming fragmented transportation into programmable infrastructure that shippers, brokers, carriers, and software platforms can build on.\r\n\r\nToday, Oway replaces traditional LTL by moving freight directly on trucks already traveling in the right direction. This reduces costs, damage, and transit times while increasing utilization across the supply chain.\r\n\r\nEvery shipment strengthens a live model of freight capacity, pricing, routes, facilities, and industrial efficiency. As the network grows, Oway becomes the intelligence and execution layer for the physical economy, enabling the next generation of enterprise software, autonomous supply chains, robotics, and physical AI.",
     "one_liner": "Turning America’s supply chain inefficiency into infrastructure.",
     "team_size": 16,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1717601253,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Logistics",
-      "Infrastructure"
+      "API",
+      "Supply Chain",
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -41141,7 +41142,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2024",
     "status": "Active",
@@ -44262,9 +44263,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fb6ad4cbd4cdfac49ff1b40404d7053d5789883.png",
     "website": "https://www.ondeckai.com",
     "all_locations": "Vancouver, BC, Canada",
-    "long_description": "OnDeck is the infrastructure layer that makes Vision Language Models accessible and scalable for enterprise. We let organizations instantly find any object, behavior or event, in any footage, without needing to train a model or collect any training data.\r\n\r\nThe Pain: Creating vision models usually takes months: collecting training data, training, then deployment.  Worse yet: \r\n+ it’s often impossible to get enough data for a specific task, and \r\n+ even the best cv models struggle to generalize across diverse camera setups, workflows and environments. \r\n\r\nTo overcome these blockers, we bet early on the power of VLMs and built a vision engine that can generalize across any task and doesn’t need any training data. We published a NeurIPS workshop paper showing our new methods with VLMs beat traditional CV even at niche tasks.\r\n\r\nOur current customers include:\r\n- National Defense Organizations\r\n- Robotics Research\r\n- Security cameras\r\n- Behaviour analysis for port monitoring\r\n- Off-shore oil & gas monitoring",
+    "long_description": "OnDeck is the infrastructure layer that makes Vision Language Models accessible and scalable for enterprise. Our model, Perception-0, let organizations instantly find any object, behavior or event, in any footage, without needing to train a model or collect any training data.\r\n\r\nThe Pain: Creating vision models usually takes months: collecting training data, training, then deployment.  Worse yet: \r\n+ it’s often impossible to get enough data for a specific task, and \r\n+ even the best cv models struggle to generalize across diverse camera setups, workflows and environments. \r\n\r\nTo overcome these blockers, we bet early on the power of VLMs and built a vision engine that can generalize across any task and doesn’t need any training data. We published a NeurIPS workshop paper showing our new methods with VLMs beat traditional CV even at niche tasks. Now, our model Perception-0 beats the best VLMs including Gemini at long video understanding.\r\n\r\nOur current customers include:\r\n- National Defense Organizations\r\n- Robotics Research\r\n- Security cameras\r\n- Behaviour analysis for port monitoring\r\n- Off-shore oil & gas monitoring",
     "one_liner": "Analyze any footage, without training a model",
-    "team_size": 5,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1755488960,
@@ -44616,7 +44617,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -47491,10 +47492,10 @@
     "name": "Drip",
     "slug": "drippay",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a200f7dd92eb8502bc67be24771887da99cbcfb.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8eec4067ada1ceb62324834a6da7831196618472.png",
     "website": "https://usedrip.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "drip finds the leads, sends first messages, follows up, and books meetings autonomously. Every conversation syncs for your team.",
+    "long_description": "drip autonomously finds leads, sends first messages, follows up, and books meetings. Every conversation syncs for your team.",
     "one_liner": "Never miss a lead",
     "team_size": 2,
     "industry": "B2B",
@@ -47916,16 +47917,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1241956aa50c817e1c2feee9934ea253b0d12c38.png",
     "website": "https://trope.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Trope is the AI-native ERP implementation platform that helps partners deliver successful projects faster.\r\n\r\nTrope understands the entire project lifecycle from pre-sales to go-live and beyond. Agents take action across documents, configurations, and code.\r\n\r\nFor implementation partners, it’s like having a project manager, consultant, and developer working 24/7.",
-    "one_liner": "Modernize ERP Implementations with AI",
+    "long_description": "Trope is the AI-native systems integrator for ERPs. Today, that means the Microsoft ecosystem: we implement Dynamics 365 Business Central, move companies off retiring systems like Dynamics GP and NAV, and run custom AI agents inside the ERP as a managed service.\r\n\r\nAgents carry the mechanical work: configuration, data migration, test cycles, and documentation. It is like having a consultant, project manager, and developer working 24/7. Principal consultants who have delivered 200+ implementations across 20+ years in ERP systems scope the work and sign every gate, so customers get a fixed price quoted at scoping and a go-live measured in weeks, in an industry that runs six to eighteen months on hourly billing.\r\n\r\nAfter go-live, the agents stay. Reconciliations, exception monitoring, reporting, and collections run as a managed service, reviewed against KPIs agreed at scoping. The delivery engine is built in-house.",
+    "one_liner": "The AI-native ERP systems integrator",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1783447220,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47947,6 +47948,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/trope",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/trope.json"
+  },
+  {
+    "id": 32137,
+    "name": "Kara",
+    "slug": "kara",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1db7948d6861e68f3fa79c81509a04c4aea01614.png",
+    "website": "https://karalabs.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We grow high-purity diamond wafers for advanced hardware. Used in data centers, aircraft, spacecraft, RF electronics, power devices, and lasers, our diamond moves heat up to 5× better than copper, helping critical systems run cooler, faster, and more reliably. Diamond has spent centuries as a symbol. We are turning it into infrastructure.",
+    "one_liner": "Making diamond an engineering material",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1785349021,
+    "tags": [
+      "Hardware",
+      "B2B",
+      "Manufacturing",
+      "Advanced Materials"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/kara",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/kara.json"
   },
   {
     "id": 32138,
@@ -48208,6 +48250,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dialogus",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/dialogus.json"
+  },
+  {
+    "id": 32220,
+    "name": "COACH",
+    "slug": "ai-coach",
+    "former_names": [
+      "COΛCH"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/78b58d361b887533d84ef36e56f833ff7fd87c5c.png",
+    "website": "https://www.getcoach.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Coach is the AI sales coach for in-person sales teams.\r\n\r\nReps record every meeting, and our AI figures out what your best closers do differently, then coaches everyone else to do the same, with precise, personalized feedback after every meeting. \r\n\r\nManagers finally see 100% of what happens in the field: Coach flags who's stuck and why, so they only step in when it matters, and can coach 5× more reps.\r\n\r\nAnd every meeting feeds one sales brain, so leadership finally gets answers to the questions that used to be guesswork. They finally see the game of their team not just the scoreboard.\r\n\r\nOur bet: in the AI era, in-person sales will only matter more. It may end up being one of the last truly human jobs.\r\n\r\nOur conviction: any motivated rep can become a great one, meeting after meeting.\r\n\r\nThe results so far: +32% average lift in conversion rate.\r\n\r\nCOΛCH, post-game video analysis for field sales reps. YC S26\r\n",
+    "one_liner": "The AI Coach for in person sales reps.",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1785353697,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Sales",
+      "Sales Enablement"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ai-coach",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/ai-coach.json"
   },
   {
     "id": 32226,
@@ -48587,6 +48674,45 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/lato.json"
   },
   {
+    "id": 32848,
+    "name": "Luca IQ",
+    "slug": "luca-iq",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/05718bc482e46fde4208c29e7eef28f2f4b686e7.png",
+    "website": "https://lucaiq.com/",
+    "all_locations": "Boston, MA, USA",
+    "long_description": "Luca IQ is an API for deterministic tax calculation and an IRS Authorized e-filing engine - the foundation for accounting firms and fintechs building on tax.",
+    "one_liner": "API First Tax Calculator for CPAs",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1785364349,
+    "tags": [
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/luca-iq",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/luca-iq.json"
+  },
+  {
     "id": 33047,
     "name": "Decawork",
     "slug": "decawork",
@@ -48642,7 +48768,7 @@
     "team_size": 0,
     "industry": "B2B",
     "subindustry": "B2B",
-    "launched_at": 1780087000,
+    "launched_at": 1785288921,
     "tags": [
       "Artificial Intelligence",
       "Hardware",
@@ -48712,6 +48838,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/palisade-2",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/palisade-2.json"
+  },
+  {
+    "id": 33062,
+    "name": "Hubble",
+    "slug": "hubble-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d58ef930283a4163ee9544b3936abd1327a463a.png",
+    "website": "https://hubble.ai/",
+    "all_locations": "Seattle, WA, USA",
+    "long_description": "Hubble retrieves complete medical records on behalf of patients using patient-mediated access. Under a patient's HIPAA right of access, they authorize us once and we pull their full history from every provider they've seen (hospitals, clinics, labs, imaging centers), no per-provider integration or IT project required.\r\n\r\nGetting records today still runs on faxes, patient portals, and release-of-information queues, so teams that need medical data wait weeks and get back a pile of unstructured PDFs. Hubble handles the retrieval end to end and returns clean, structured records, turning what used to take weeks into days.\r\n\r\nWe work with teams that live or die on getting patient records fast: legal (personal injury, mass tort, disability), life sciences and research, and anyone building products that need a patient's real medical history to work. Instead of standing up records infrastructure themselves, they use Hubble as the retrieval layer.\r\n\r\nWe're the team behind the AI agents at Grow Therapy and Amazon's One Medical used by millions of patients (Prabha was Grow's first PM building their AI agents, Aaron built the AI infra serving 1M+ clients).",
+    "one_liner": "The intelligence layer for patient information",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1784648214,
+    "tags": [
+      "B2B",
+      "Healthcare"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hubble-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/hubble-ai.json"
   },
   {
     "id": 33248,

@@ -547,7 +547,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -18795,7 +18795,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "SID is an AI research lab based in San Francisco. We train models that can retrieve and reason over any data source.",
     "one_liner": "AI research lab for retrieval",
-    "team_size": 4,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1689093789,
@@ -25812,6 +25812,51 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/invaria.json"
   },
   {
+    "id": 29646,
+    "name": "Corgi Insurance",
+    "slug": "corgi-insurance",
+    "former_names": [
+      "Corgi",
+      "Corgi Insurance",
+      "Corgi"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8f66899a62764756d799d5abc511dc4b46f8c151.png",
+    "website": "https://corgi.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Corgi is a full-stack insurance carrier building better, faster insurance products for startups. We’re not a broker, so we underwrite and issue policies directly, with fewer handoffs and less friction. Cutting out intermediaries lets us tailor coverage to how your company actually operates and price risk more efficiently.\r\n\r\n",
+    "one_liner": "Corgi is building an AI financial infrastructure company",
+    "team_size": 250,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1720644316,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Insurance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/corgi-insurance",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/corgi-insurance.json"
+  },
+  {
     "id": 29647,
     "name": "Maitai",
     "slug": "maitai",
@@ -28565,26 +28610,27 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/blaze-2.json"
   },
   {
-    "id": 29844,
-    "name": "Oway",
-    "slug": "oway",
+    "id": 29841,
+    "name": "Elayne",
+    "slug": "elayne",
     "former_names": [
-      "Oway Inc."
+      "Elayne AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a3e196a71b4a93ad7200cf278186954bda68e7e3.png",
-    "website": "https://www.shipoway.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "America is operating at half of its potential industrial supply chain efficiency, with 50% of all the truck space being left empty due to foundational issues with how the logistics industry historically works. This issue directly makes everything made and sold in America more expensive and less competitive against global competitors. \r\n\r\nOway is building a new vertical in the industrial supply chain by indexing live unused truck space and make it usable via API - a transparent infrastructure layer that simply by existing boosts the productivity and market caps of the businesses that plug into it. For the broad economy, this means freight costs that are up to 50% lower than what was previously possible, touchpoints are reduced, damage rates are significantly lowered, and inventory float is minimized via new JIT capabilities. For carriers, Oway’s integration can increase annual revenues by up to 30% with minimal impact to their existing business. They simply earn more by monetizing space that would have gone unused.\r\n\r\nOur mission is to transform empty truck space into an asset that strengthens U.S. competitiveness. By lowering the cost of goods sold, we help businesses grow. By improving carrier margins, we make trucking more sustainable. And creating a live index of the supply chain, we are laying the foundation for a resilient, transparent industrial layer that can support America’s reindustrialization in the decades ahead. ",
-    "one_liner": "Turning America’s supply chain inefficiency into infrastructure.",
-    "team_size": 16,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1717601253,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a39c5ab69e2cfbf8fdd2de5562516b23e3a5d91.png",
+    "website": "https://www.elayne.com/",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "Elayne is building the modern estate settlement platform. \r\n\r\nEstate settlement is a $250B+ annual market, with $80T+ in assets expected to transfer over the next 25 years. But after a death, families and executors have to spend 400+ hours manually identifying, organize, and distribute everything that was left behind like: financial accounts, debts, property, insurance, legal documents, incorporating juristidi ation requirements and family context. \r\n\r\nElayne is the first platform to surface verified assets and debts for precisely this moment, then turing our discovery into a clear inheritance map. We work directly with families and executors, and with the partners who support them: funeral homes, hospice and aftercare providers, attorneys, and financial institutions.\r\n\r\nThe company was founded by Adria, a former large-cap investor who experienced the problem firsthand, and Rebecca, a repeat fintech and mental health founder who left her master’s program in psychology at Harvard to launch Elayne. Together, they bring financial rigor, technical execution, and lived empathy to a massive but deeply human category.\r\n\r\nBacked by Y Combinator and Accel, we are now an 8-person team based in NYC.",
+    "one_liner": "Estate settlement, from verified discovery to distribution",
+    "team_size": 8,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1718839098,
     "tags": [
       "Artificial Intelligence",
+      "Fintech",
       "B2B",
-      "Logistics",
-      "Infrastructure"
+      "Legal",
+      "Consumer Finance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -28593,22 +28639,19 @@
     "batch": "Summer 2024",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Infrastructure"
+      "Fintech"
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/oway",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/oway.json"
+    "url": "https://www.ycombinator.com/companies/elayne",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/elayne.json"
   },
   {
     "id": 29849,
@@ -33335,6 +33378,51 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/cactus.json"
   },
   {
+    "id": 30516,
+    "name": "Bramante",
+    "slug": "bramante",
+    "former_names": [
+      "LabKick Corporation",
+      "LabKick",
+      "Bramante Biologics"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d13627b06670d3337bda071d8e7bccb8d6728ffd.png",
+    "website": "https://www.bramantebio.com",
+    "all_locations": "Boston, MA, USA",
+    "long_description": "We make reagents and software that are purpose built for AI, automated labs, and personalized medicines.",
+    "one_liner": "Life sciences reagents and software",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1747846039,
+    "tags": [
+      "Artificial Intelligence",
+      "Biotech",
+      "Manufacturing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bramante",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/bramante.json"
+  },
+  {
     "id": 30518,
     "name": "Orchid",
     "slug": "orchid-ai",
@@ -34509,48 +34597,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/design-arena.json"
   },
   {
-    "id": 30638,
-    "name": "Lotas",
-    "slug": "lotas",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b64e79cf442071bbe251c8f19acacccc3dbf1fea.png",
-    "website": "https://www.lotas.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "For our first product, we built Rao: an AI coding assistant into RStudio — an IDE used by up to 5 million data scientists and statisticians who use the R programming language to analyze data. Rao could read, write, and edit code while understanding the user's context (codebase and environmental variables).",
-    "one_liner": "AI for Data Science and 3D",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1754374450,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Data Science",
-      "Data Visualization"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": true,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lotas",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/lotas.json"
-  },
-  {
     "id": 30640,
     "name": "Monarcha",
     "slug": "monarcha",
@@ -35126,7 +35172,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -36991,51 +37037,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/unsiloed-ai",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/unsiloed-ai.json"
-  },
-  {
-    "id": 30895,
-    "name": "Allus AI",
-    "slug": "allus-ai",
-    "former_names": [
-      "Allus AI Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e556d72ba8162e6d77731f52ccea802c98b54fa3.png",
-    "website": "https://allus.ai",
-    "all_locations": "Atlanta, GA, USA",
-    "long_description": "Allus builds next-gen vision foundation models that bring real intelligence to manufacturing. Enabling factories to see, understand, and improve production in real time. ",
-    "one_liner": "Transforming manufacturing with our next-gen Vision Foundation Model",
-    "team_size": 3,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1761108820,
-    "tags": [
-      "Artificial Intelligence",
-      "Machine Learning",
-      "SaaS",
-      "Computer Vision",
-      "Manufacturing"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/allus-ai",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/allus-ai.json"
   },
   {
     "id": 30900,
@@ -40063,46 +40064,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/perceptron-ml.json"
   },
   {
-    "id": 32135,
-    "name": "Trope",
-    "slug": "trope",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1241956aa50c817e1c2feee9934ea253b0d12c38.png",
-    "website": "https://trope.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Trope is the AI-native ERP implementation platform that helps partners deliver successful projects faster.\r\n\r\nTrope understands the entire project lifecycle from pre-sales to go-live and beyond. Agents take action across documents, configurations, and code.\r\n\r\nFor implementation partners, it’s like having a project manager, consultant, and developer working 24/7.",
-    "one_liner": "Modernize ERP Implementations with AI",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1783447220,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/trope",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/trope.json"
-  },
-  {
     "id": 32138,
     "name": "Nebula Security",
     "slug": "nebula-security",
@@ -40568,35 +40529,37 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/alloovium.json"
   },
   {
-    "id": 32223,
-    "name": "Marble",
-    "slug": "joinmarble",
+    "id": 32220,
+    "name": "COACH",
+    "slug": "ai-coach",
     "former_names": [
-      "Remy",
-      "Truffle"
+      "COΛCH"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd8594643506090563d23eac2d8bee3b9c1e526f.png",
-    "website": "https://joinmarble.ai/",
-    "all_locations": "New York City, NY, USA",
-    "long_description": "Marble is the first AI-native operating system for the restaurant back-of-house. \r\n\r\nRestaurants, cafes and bars still run on a patchwork of disconnected point solutions, spreadsheets, clipboards and tribal knowledge, which costs the industry billions each year in stockouts, food waste, and lost profit. \r\n\r\nMarble replaces that entire stack with one system. Computer vision and voice AI capture real-time inventory levels 90% faster than manual counts, ML models forecast item-level demand at 97% accuracy, and AI agents run dozens of end-to-end workflows autonomously, from procurement and invoice reconciliation to scheduling, food prep, menu engineering, and more.",
-    "one_liner": "The autonomous back-of-house for restaurants.",
-    "team_size": 2,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/78b58d361b887533d84ef36e56f833ff7fd87c5c.png",
+    "website": "https://www.getcoach.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Coach is the AI sales coach for in-person sales teams.\r\n\r\nReps record every meeting, and our AI figures out what your best closers do differently, then coaches everyone else to do the same, with precise, personalized feedback after every meeting. \r\n\r\nManagers finally see 100% of what happens in the field: Coach flags who's stuck and why, so they only step in when it matters, and can coach 5× more reps.\r\n\r\nAnd every meeting feeds one sales brain, so leadership finally gets answers to the questions that used to be guesswork. They finally see the game of their team not just the scoreboard.\r\n\r\nOur bet: in the AI era, in-person sales will only matter more. It may end up being one of the last truly human jobs.\r\n\r\nOur conviction: any motivated rep can become a great one, meeting after meeting.\r\n\r\nThe results so far: +32% average lift in conversion rate.\r\n\r\nCOΛCH, post-game video analysis for field sales reps. YC S26\r\n",
+    "one_liner": "The AI Coach for in person sales reps.",
+    "team_size": 4,
     "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1782079217,
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1785353697,
     "tags": [
       "Artificial Intelligence",
       "SaaS",
-      "Restaurant Tech"
+      "B2B",
+      "Sales",
+      "Sales Enablement"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2026",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Sales"
     ],
     "regions": [
       "United States of America",
@@ -40607,8 +40570,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/joinmarble",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/joinmarble.json"
+    "url": "https://www.ycombinator.com/companies/ai-coach",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/ai-coach.json"
   },
   {
     "id": 32226,
@@ -41293,6 +41256,47 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/last-accounting-company.json"
   },
   {
+    "id": 32947,
+    "name": "Executor",
+    "slug": "executor",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/948ce8964e024f509e8d2c3db33ab94f3acb5b17.png",
+    "website": "https://executor.sh",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Executor.sh is an MCP gateway that allows you to sign in once to all of your integrations and use them with any client.\r\n\r\nWe enable you to connect your agents to anything (MCP, GraphQL, OpenAPI) so regardless of what you're trying to connect agents to you're able to.\r\n\r\nIf you're trying to scale agents to access all of your production services, data, etc, you need Executor as a unified management layer.",
+    "one_liner": "The open source integration management layer for AI.",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1785345907,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "SaaS"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/executor",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/executor.json"
+  },
+  {
     "id": 33019,
     "name": "Agnost AI",
     "slug": "agnost-ai",
@@ -41473,7 +41477,7 @@
     "team_size": 0,
     "industry": "B2B",
     "subindustry": "B2B",
-    "launched_at": 1780087000,
+    "launched_at": 1785288921,
     "tags": [
       "Artificial Intelligence",
       "Hardware",
@@ -41714,6 +41718,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/onecli",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/onecli.json"
+  },
+  {
+    "id": 33348,
+    "name": "hiloop",
+    "slug": "hiloop",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3757083c195e320f3b98de96aa489419197b9463.png",
+    "website": "https://hiloop.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "hiloop helps teams train agents for tasks where general models are not good enough. Give us a task, your current agent or model, and an evaluation. hiloop runs an autoresearch campaign across data, SFT and other post-training methods, continual learning, prompts, tools, harnesses, and systems, then returns the best verified improvement. It runs hosted or in your cloud.\r\n\r\nWe provide the research system around models: persistent memory, full experiment lineage, compute orchestration, and statistical verification. We’re starting with agent and model training, continual learning, and optimization.\r\n\r\nReach out to us for early access at founders@hiloop.ai.",
+    "one_liner": "Infrastructure for recursive self-improvement",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1780699091,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Machine Learning",
+      "Reinforcement Learning",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hiloop",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/hiloop.json"
   },
   {
     "id": 33540,

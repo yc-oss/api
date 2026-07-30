@@ -30434,7 +30434,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -32862,7 +32862,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -40005,7 +40005,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -46060,9 +46060,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fb6ad4cbd4cdfac49ff1b40404d7053d5789883.png",
     "website": "https://www.ondeckai.com",
     "all_locations": "Vancouver, BC, Canada",
-    "long_description": "OnDeck is the infrastructure layer that makes Vision Language Models accessible and scalable for enterprise. We let organizations instantly find any object, behavior or event, in any footage, without needing to train a model or collect any training data.\r\n\r\nThe Pain: Creating vision models usually takes months: collecting training data, training, then deployment.  Worse yet: \r\n+ it’s often impossible to get enough data for a specific task, and \r\n+ even the best cv models struggle to generalize across diverse camera setups, workflows and environments. \r\n\r\nTo overcome these blockers, we bet early on the power of VLMs and built a vision engine that can generalize across any task and doesn’t need any training data. We published a NeurIPS workshop paper showing our new methods with VLMs beat traditional CV even at niche tasks.\r\n\r\nOur current customers include:\r\n- National Defense Organizations\r\n- Robotics Research\r\n- Security cameras\r\n- Behaviour analysis for port monitoring\r\n- Off-shore oil & gas monitoring",
+    "long_description": "OnDeck is the infrastructure layer that makes Vision Language Models accessible and scalable for enterprise. Our model, Perception-0, let organizations instantly find any object, behavior or event, in any footage, without needing to train a model or collect any training data.\r\n\r\nThe Pain: Creating vision models usually takes months: collecting training data, training, then deployment.  Worse yet: \r\n+ it’s often impossible to get enough data for a specific task, and \r\n+ even the best cv models struggle to generalize across diverse camera setups, workflows and environments. \r\n\r\nTo overcome these blockers, we bet early on the power of VLMs and built a vision engine that can generalize across any task and doesn’t need any training data. We published a NeurIPS workshop paper showing our new methods with VLMs beat traditional CV even at niche tasks. Now, our model Perception-0 beats the best VLMs including Gemini at long video understanding.\r\n\r\nOur current customers include:\r\n- National Defense Organizations\r\n- Robotics Research\r\n- Security cameras\r\n- Behaviour analysis for port monitoring\r\n- Off-shore oil & gas monitoring",
     "one_liner": "Analyze any footage, without training a model",
-    "team_size": 5,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1755488960,
@@ -46751,16 +46751,16 @@
     "all_locations": "Atlanta, GA, USA",
     "long_description": "Allus builds next-gen vision foundation models that bring real intelligence to manufacturing. Enabling factories to see, understand, and improve production in real time. ",
     "one_liner": "Transforming manufacturing with our next-gen Vision Foundation Model",
-    "team_size": 3,
+    "team_size": 6,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1761108820,
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
       "SaaS",
       "Computer Vision",
-      "Manufacturing"
+      "Manufacturing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46774,7 +46774,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -47610,16 +47612,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1241956aa50c817e1c2feee9934ea253b0d12c38.png",
     "website": "https://trope.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Trope is the AI-native ERP implementation platform that helps partners deliver successful projects faster.\r\n\r\nTrope understands the entire project lifecycle from pre-sales to go-live and beyond. Agents take action across documents, configurations, and code.\r\n\r\nFor implementation partners, it’s like having a project manager, consultant, and developer working 24/7.",
-    "one_liner": "Modernize ERP Implementations with AI",
+    "long_description": "Trope is the AI-native systems integrator for ERPs. Today, that means the Microsoft ecosystem: we implement Dynamics 365 Business Central, move companies off retiring systems like Dynamics GP and NAV, and run custom AI agents inside the ERP as a managed service.\r\n\r\nAgents carry the mechanical work: configuration, data migration, test cycles, and documentation. It is like having a consultant, project manager, and developer working 24/7. Principal consultants who have delivered 200+ implementations across 20+ years in ERP systems scope the work and sign every gate, so customers get a fixed price quoted at scoping and a go-live measured in weeks, in an industry that runs six to eighteen months on hourly billing.\r\n\r\nAfter go-live, the agents stay. Reconciliations, exception monitoring, reporting, and collections run as a managed service, reviewed against KPIs agreed at scoping. The delivery engine is built in-house.",
+    "one_liner": "The AI-native ERP systems integrator",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1783447220,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47724,6 +47726,51 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/lemonlime.json"
   },
   {
+    "id": 32220,
+    "name": "COACH",
+    "slug": "ai-coach",
+    "former_names": [
+      "COΛCH"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/78b58d361b887533d84ef36e56f833ff7fd87c5c.png",
+    "website": "https://www.getcoach.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Coach is the AI sales coach for in-person sales teams.\r\n\r\nReps record every meeting, and our AI figures out what your best closers do differently, then coaches everyone else to do the same, with precise, personalized feedback after every meeting. \r\n\r\nManagers finally see 100% of what happens in the field: Coach flags who's stuck and why, so they only step in when it matters, and can coach 5× more reps.\r\n\r\nAnd every meeting feeds one sales brain, so leadership finally gets answers to the questions that used to be guesswork. They finally see the game of their team not just the scoreboard.\r\n\r\nOur bet: in the AI era, in-person sales will only matter more. It may end up being one of the last truly human jobs.\r\n\r\nOur conviction: any motivated rep can become a great one, meeting after meeting.\r\n\r\nThe results so far: +32% average lift in conversion rate.\r\n\r\nCOΛCH, post-game video analysis for field sales reps. YC S26\r\n",
+    "one_liner": "The AI Coach for in person sales reps.",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1785353697,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Sales",
+      "Sales Enablement"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ai-coach",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/ai-coach.json"
+  },
+  {
     "id": 32223,
     "name": "Marble",
     "slug": "joinmarble",
@@ -47741,9 +47788,9 @@
     "subindustry": "B2B",
     "launched_at": 1782079217,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
-      "Restaurant Tech"
+      "Restaurant Tech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48031,6 +48078,88 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pokerclubhub",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/pokerclubhub.json"
+  },
+  {
+    "id": 32753,
+    "name": "Ekho Labs",
+    "slug": "ekho-labs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8de6c5bf64155f5dfde0293d76560b38b3e3b46f.png",
+    "website": "https://ekholabs.com/",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "When global shipping breaks, companies pay three times: the emergency freight bill, the commitments they miss, and the weeks their teams lose to firefighting. Ekho customers skip all of it - they get days to weeks of warning and the cheapest/fastest move on each shipment and PO. Everyone else reacts to the same news at the same time; Ekho customers act before it.",
+    "one_liner": "Decisions for disrupted freight",
+    "team_size": 0,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1785301746,
+    "tags": [
+      "SaaS"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ekho-labs",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/ekho-labs.json"
+  },
+  {
+    "id": 32947,
+    "name": "Executor",
+    "slug": "executor",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/948ce8964e024f509e8d2c3db33ab94f3acb5b17.png",
+    "website": "https://executor.sh",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Executor.sh is an MCP gateway that allows you to sign in once to all of your integrations and use them with any client.\r\n\r\nWe enable you to connect your agents to anything (MCP, GraphQL, OpenAPI) so regardless of what you're trying to connect agents to you're able to.\r\n\r\nIf you're trying to scale agents to access all of your production services, data, etc, you need Executor as a unified management layer.",
+    "one_liner": "The open source integration management layer for AI.",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1785345907,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "SaaS"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/executor",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/executor.json"
   },
   {
     "id": 33021,

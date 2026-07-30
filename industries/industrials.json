@@ -836,7 +836,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -12787,7 +12787,7 @@
     "all_locations": "London, England, United Kingdom",
     "long_description": "Instinct is making the Moon the new LEO. Our small lunar lander is designed to be launched as a regular LEO rideshare, enabling higher mission cadence at a lower cost.",
     "one_liner": "Building lunar landers",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "Industrials",
     "subindustry": "Industrials -> Aviation and Space",
     "launched_at": 1739754908,
@@ -13288,16 +13288,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d13627b06670d3337bda071d8e7bccb8d6728ffd.png",
     "website": "https://www.bramantebio.com",
     "all_locations": "Boston, MA, USA",
-    "long_description": "We manufacturing instruments and reagents that are purpose built for AI, automated labs, and personalized medicines.",
-    "one_liner": "Life sciences instrument and reagent manufacturing",
+    "long_description": "We make reagents and software that are purpose built for AI, automated labs, and personalized medicines.",
+    "one_liner": "Life sciences reagents and software",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1747846039,
     "tags": [
+      "Artificial Intelligence",
       "Biotech",
-      "Manufacturing",
-      "AI"
+      "Manufacturing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -14343,16 +14343,16 @@
     "all_locations": "Atlanta, GA, USA",
     "long_description": "Allus builds next-gen vision foundation models that bring real intelligence to manufacturing. Enabling factories to see, understand, and improve production in real time. ",
     "one_liner": "Transforming manufacturing with our next-gen Vision Foundation Model",
-    "team_size": 3,
+    "team_size": 6,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1761108820,
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
       "SaaS",
       "Computer Vision",
-      "Manufacturing"
+      "Manufacturing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -14366,7 +14366,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -15942,10 +15944,10 @@
     "former_names": [
       "Applied Electrodynamics"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8739177832b17ba59368a218faa7fcbfcdcbc74b.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/11648bf43e6f51e66e8e798d40073877c53c2f20.png",
     "website": "https://www.ae-dyn.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Applied Electrodynamics builds imaging systems that see through solid matter. Our team previously co-invented the iPhone touchscreen and Nest learning thermostat. We’re starting in construction, helping teams map structural elements and utilities inside walls and ceilings. The same platform extends to security screening and cargo inspection. Our mission: make the hidden physical world machine-readable across the entire electromagnetic spectrum.\r\n",
+    "long_description": "Applied Electrodynamics builds imaging systems that see through solid matter. Our team previously co-invented the iPhone touchscreen and Nest learning thermostat. We’re starting in construction, helping teams map structural elements and utilities inside walls and ceilings. The same platform extends to security screening and cargo inspection. Our mission is to make the hidden physical world machine-readable across the entire electromagnetic spectrum.\r\n",
     "one_liner": "A new kind of camera that can see through walls.",
     "team_size": 5,
     "industry": "Industrials",
@@ -16999,6 +17001,47 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/manufacturingintelligence.json"
   },
   {
+    "id": 32137,
+    "name": "Kara",
+    "slug": "kara",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1db7948d6861e68f3fa79c81509a04c4aea01614.png",
+    "website": "https://karalabs.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We grow high-purity diamond wafers for advanced hardware. Used in data centers, aircraft, spacecraft, RF electronics, power devices, and lasers, our diamond moves heat up to 5× better than copper, helping critical systems run cooler, faster, and more reliably. Diamond has spent centuries as a symbol. We are turning it into infrastructure.",
+    "one_liner": "Making diamond an engineering material",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1785349021,
+    "tags": [
+      "Hardware",
+      "B2B",
+      "Manufacturing",
+      "Advanced Materials"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/kara",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/kara.json"
+  },
+  {
     "id": 32157,
     "name": "Maingen",
     "slug": "maingen",
@@ -17224,7 +17267,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/244ddf9b0965c4c601170d71dd660ad1a89f8792.png",
     "website": "https://agencytool.com",
     "all_locations": "Denver, CO, USA",
-    "long_description": "Agency Tool Company ships software to robots in the field 20x faster than a Docker pull with ATC Deploy, sending only the bytes that changed and resuming when the network drops. Deployment tooling is the connection between the lab & the field that continually bottlenecks robotics scaling and lacks a strong robotics-native solution. Deploy is live today with 3 launch partners across ag, construction, and logistics robotics.\r\n\r\nOur second product, ATC Build, offers embedded-compute as a CI service so devs can run tests and validate their software on the actual target hardware. Build supports the Nvidia Jetson lineup, Raspberry Pi, and a number of other embedded platform targets.\r\n\r\nJack Morrison and Davis Foster founded and sold Scythe Robotics after deploying hundreds of autonomous mowers across the country; Agency Tool Company is building the robotics deployment platform across hardware and software they wish they had.",
+    "long_description": "Agency Tool Company ships software to robots in the field 20x faster than a Docker pull with ATC Deploy, sending only the bytes that changed and resuming when the network drops. Deployment tooling is the connection between the lab & the field that continually bottlenecks robotics scaling and lacks a strong robotics-native solution. Deploy is live today with 3 launch partners across ag, construction, and logistics robotics.\r\n\r\nOur second product, ATC Build, offers embedded-compute as a CI service so devs can run tests and validate their software on the actual target hardware. Build supports the Nvidia Jetson lineup, Raspberry Pi, and a number of other embedded platform targets.\r\n\r\nJack Morrison and Davis Foster founded and sold Scythe Robotics after deploying hundreds of autonomous mowers across the country; Agency Tool Company is building the robotics deployment platform across hardware and software they wish they had.\r\n\r\nLearn more at https://agencytool.com",
     "one_liner": "Reliable infrastructure to build, deploy and manage real-world robots.",
     "team_size": 3,
     "industry": "Industrials",

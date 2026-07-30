@@ -8832,17 +8832,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a3e196a71b4a93ad7200cf278186954bda68e7e3.png",
     "website": "https://www.shipoway.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "America is operating at half of its potential industrial supply chain efficiency, with 50% of all the truck space being left empty due to foundational issues with how the logistics industry historically works. This issue directly makes everything made and sold in America more expensive and less competitive against global competitors. \r\n\r\nOway is building a new vertical in the industrial supply chain by indexing live unused truck space and make it usable via API - a transparent infrastructure layer that simply by existing boosts the productivity and market caps of the businesses that plug into it. For the broad economy, this means freight costs that are up to 50% lower than what was previously possible, touchpoints are reduced, damage rates are significantly lowered, and inventory float is minimized via new JIT capabilities. For carriers, Oway’s integration can increase annual revenues by up to 30% with minimal impact to their existing business. They simply earn more by monetizing space that would have gone unused.\r\n\r\nOur mission is to transform empty truck space into an asset that strengthens U.S. competitiveness. By lowering the cost of goods sold, we help businesses grow. By improving carrier margins, we make trucking more sustainable. And creating a live index of the supply chain, we are laying the foundation for a resilient, transparent industrial layer that can support America’s reindustrialization in the decades ahead. ",
+    "long_description": "The physical economy still operates without a shared intelligence layer. Every day, millions of trucks move goods while carrying unused capacity, yet no system has a real-time understanding of where capacity exists, how freight should move, or how efficiently the supply chain is operating.\r\n\r\nOway is building that layer by indexing live unused truck capacity and exposing it through APIs and AI agents, transforming fragmented transportation into programmable infrastructure that shippers, brokers, carriers, and software platforms can build on.\r\n\r\nToday, Oway replaces traditional LTL by moving freight directly on trucks already traveling in the right direction. This reduces costs, damage, and transit times while increasing utilization across the supply chain.\r\n\r\nEvery shipment strengthens a live model of freight capacity, pricing, routes, facilities, and industrial efficiency. As the network grows, Oway becomes the intelligence and execution layer for the physical economy, enabling the next generation of enterprise software, autonomous supply chains, robotics, and physical AI.",
     "one_liner": "Turning America’s supply chain inefficiency into infrastructure.",
     "team_size": 16,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1717601253,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Logistics",
-      "Infrastructure"
+      "API",
+      "Supply Chain",
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11947,6 +11948,52 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/shofo.json"
   },
   {
+    "id": 31301,
+    "name": "OpenVector",
+    "slug": "openvector",
+    "former_names": [
+      "TeleOps",
+      "BotZero",
+      "Foveal"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/54df715903ce304e2b9e3b2fe1f375caf7811ea6.png",
+    "website": "https://openvector.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "OpenVector transforms existing security cameras into an automated 24/7 workforce without requiring any new hardware. Users simply describe a task in plain English, and OpenVector automatically builds a custom AI vision model to monitor the feed. When it detects an important physical event—like a stalled production cycle, a safety violation, or a waiting customer—it operates a computer just like a human to take immediate action. It integrates with legacy systems to make calls, send emails, update a POS/CRM, or trigger webhooks in real time. OpenVector enables any camera to do real work.",
+    "one_liner": "AI that turns any camera into an active operator with real-time vision",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1785369468,
+    "tags": [
+      "Robotics",
+      "Computer Vision",
+      "Infrastructure",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/openvector",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/openvector.json"
+  },
+  {
     "id": 31329,
     "name": "primitive",
     "slug": "primitive",
@@ -12114,10 +12161,10 @@
     "name": "Drip",
     "slug": "drippay",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a200f7dd92eb8502bc67be24771887da99cbcfb.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8eec4067ada1ceb62324834a6da7831196618472.png",
     "website": "https://usedrip.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "drip finds the leads, sends first messages, follows up, and books meetings autonomously. Every conversation syncs for your team.",
+    "long_description": "drip autonomously finds leads, sends first messages, follows up, and books meetings. Every conversation syncs for your team.",
     "one_liner": "Never miss a lead",
     "team_size": 2,
     "industry": "B2B",
@@ -12557,7 +12604,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2026",
     "status": "Active",
@@ -12655,6 +12702,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rightnow",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/rightnow.json"
+  },
+  {
+    "id": 31592,
+    "name": "GitCafe",
+    "slug": "gitcafe",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/14fb9e028c09cd154bde4e2f89f26fde539ca415.png",
+    "website": "https://gitcafe.dev/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "GitCafe is a modern replacement for GitHub.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1775928017,
+    "tags": [
+      "Developer Tools",
+      "DevOps"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/gitcafe",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/gitcafe.json"
   },
   {
     "id": 32134,
@@ -12957,7 +13046,7 @@
     "website": "https://machine0.io",
     "all_locations": "Paris, Île-de-France, France",
     "long_description": "machine0 is a CLI for agent compute: `machine0 new mybox` gives your agent a full cloud VM, billed by the minute, from small up to 60 vCPU / 240 GB and 8×H100s. Agents drive it themselves via CLI or MCP.\r\n\r\nAgent workloads are moving from ephemeral to always-on. A coding agent working on a hard feature runs 6-8 hours. Auto-research agents run for days. machine0 is the environment in which these agents run.",
-    "one_liner": "One command gives your agent its own cloud computer",
+    "one_liner": "Cloud computers for AI agents",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -12987,6 +13076,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/machine0",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/machine0.json"
+  },
+  {
+    "id": 32947,
+    "name": "Executor",
+    "slug": "executor",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/948ce8964e024f509e8d2c3db33ab94f3acb5b17.png",
+    "website": "https://executor.sh",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Executor.sh is an MCP gateway that allows you to sign in once to all of your integrations and use them with any client.\r\n\r\nWe enable you to connect your agents to anything (MCP, GraphQL, OpenAPI) so regardless of what you're trying to connect agents to you're able to.\r\n\r\nIf you're trying to scale agents to access all of your production services, data, etc, you need Executor as a unified management layer.",
+    "one_liner": "The open source integration management layer for AI.",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1785345907,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "SaaS"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/executor",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/executor.json"
   },
   {
     "id": 32988,
@@ -13198,6 +13328,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/amulet",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/amulet.json"
+  },
+  {
+    "id": 33348,
+    "name": "hiloop",
+    "slug": "hiloop",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3757083c195e320f3b98de96aa489419197b9463.png",
+    "website": "https://hiloop.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "hiloop helps teams train agents for tasks where general models are not good enough. Give us a task, your current agent or model, and an evaluation. hiloop runs an autoresearch campaign across data, SFT and other post-training methods, continual learning, prompts, tools, harnesses, and systems, then returns the best verified improvement. It runs hosted or in your cloud.\r\n\r\nWe provide the research system around models: persistent memory, full experiment lineage, compute orchestration, and statistical verification. We’re starting with agent and model training, continual learning, and optimization.\r\n\r\nReach out to us for early access at founders@hiloop.ai.",
+    "one_liner": "Infrastructure for recursive self-improvement",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1780699091,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Machine Learning",
+      "Reinforcement Learning",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hiloop",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/hiloop.json"
   },
   {
     "id": 33805,
