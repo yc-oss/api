@@ -4121,7 +4121,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2018",
     "status": "Active",
@@ -7836,10 +7836,10 @@
     "slug": "response",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/70722089a9cfbd2571c6ecc973da437d12dfc6e1.png",
-    "website": "https://inbox.tryresponse.com/",
+    "website": "https://www.tryresponse.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Over 70% of B2B trade still happens through emails, PDFs, texts, and phone calls — not because companies prefer it, but because their customers do.\r\n\r\nThis is the default ordering workflow across industries, and despite decades of ERP software, it remains largely manual.\r\n\r\nResponse provides the infrastructure for this reality.\r\nWe turn unstructured customer messages into ERP-ready draft orders, so teams can review, approve, and move faster without changing how they work.\r\n\r\nBy automating the space between customer intent and systems of record, Response lets operators scale order volume without hiring more people, outsourcing labor, or retraining customers.\r\n\r\nWe’re building the missing action layer for how B2B trade actually works.",
-    "one_liner": "Turn customer emails into ERP-ready orders.",
+    "long_description": "",
+    "one_liner": "Shop millions of products across your top vendors – all in one place.",
     "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
@@ -12411,24 +12411,26 @@
   },
   {
     "id": 22790,
-    "name": "Version Story",
-    "slug": "version-story",
-    "former_names": [],
+    "name": "Version Story Compare",
+    "slug": "version-story-compare",
+    "former_names": [
+      "Version Story"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c8427a4df46d5bdea47426e5463c809db03232f1.png",
     "website": "https://versionstory.com/",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Version Story tackles the inefficient and risky process of managing legal document versions that plagues legal teams. Inspired by powerful software development tools like GitHub, Version Story's visual platform provides intuitive version control and redlining, freeing lawyers to focus on high-value work instead of file management.",
-    "one_liner": "GitHub for lawyers",
+    "long_description": "Redline in Claude with perfect precision. Version Story is the redlining infrastructure partner for your legal business in the age of AI. Claude searches, summarizes, and creates. Version Story validates. We handcrafted our redline engine in partnership with law firms, including Dentons and Addleshaw Goddard. It is an algorithm, which means the result is the same every time. This is the perfect complement to the generative properties of AI. Wherever you work - whether in Claude, in ChatGPT, or in our standalone app - Version Story provides review and verification you can trust. And for those building out custom tools, we support embedding our redlining in your stack.",
+    "one_liner": "Claude Redlining Plugin",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1616475139,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Legal",
-      "LegalTech"
+      "LegalTech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -12449,8 +12451,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/version-story",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/version-story.json"
+    "url": "https://www.ycombinator.com/companies/version-story-compare",
+    "api": "https://yc-oss.github.io/api/batches/winter-2021/version-story-compare.json"
   },
   {
     "id": 22796,
@@ -19572,7 +19574,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -44308,15 +44310,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1c746a958222a919c90dfff3a0cd3a949fa81bcc.png",
     "website": "https://withasync.com",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Async builds skilled digital labor that changes how small businesses run. Law firms, healthcare clinics and real estate companies hire our AI agents to automate work that's never been economical to staff with humans, letting us capture labor spend that didn't previously exist.",
-    "one_liner": "Skilled Digital Labor for Small Businesses",
+    "long_description": "Async builds agents that change how businesses can run. Law firms, healthcare clinics and real estate companies hire our AI agents to automate complex work that's never been economical to staff with humans, letting us capture labor spend that didn't previously exist.",
+    "one_liner": "We Transform Small Businesses with AI Agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1750879126,
     "tags": [
-      "B2B",
-      "AI"
+      "Artificial Intelligence",
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45078,12 +45080,12 @@
     "name": "Pally",
     "slug": "pally",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8122df650e86be44e74129b9b3b90d553a670985.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/849f2561c7a883d8d5d6523f27f8404ee02820ed.png",
     "website": "https://pally.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We spend our lives in messaging apps. Slack. iMessage. WhatsApp. We face a constant stream of information, introductions, and things we need to do.\r\n\r\nWhat if you could bring together every message, from every platform, in a Superhuman-like experience, with AI agents that automatically complete your action items?\r\n\r\nThat’s exactly what we’re building at Pally; a future where you never need to check another inbox again. ",
-    "one_liner": "Intelligent Unified Inbox + Personal CRM",
-    "team_size": 3,
+    "long_description": "You text Pally like you’d text a friend, and it connects to everything else: your inboxes, calendar, files, tasks and the web",
+    "one_liner": "Your personal AI Assistant",
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1750346506,
@@ -47276,17 +47278,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7fc77bd9760310dfdeb4b8ba962b09280b614937.png",
     "website": "https://www.corelayer.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Corelayer is the AI-native platform for production software support, built for regulated industries like finance and healthcare. It continuously monitors alerts, logs, infrastructure, and underlying data for issues and uses agents to debug and suggest fixes.\r\n\r\nWe're helping SRE, production services, and on-call engineers at companies ranging from growth-stage fintechs to S&P 500 financial institutions spend less time on support and more on high-leverage work.",
+    "long_description": "Corelayer is the AI-native platform for production software support, built for regulated industries like finance and healthcare. It continuously monitors alerts, logs, infrastructure, and underlying data for issues and uses agents to debug and suggest fixes.\r\n\r\nWe're helping SRE, production services, and on-call engineers at companies ranging from growth-stage fintechs to Fortune 500 financial institutions spend less time on support and more on high-leverage work.",
     "one_liner": "AI production engineer for regulated industries",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1767713346,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47825,6 +47827,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rindler",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/rindler.json"
+  },
+  {
+    "id": 31825,
+    "name": "Kebra",
+    "slug": "kebra",
+    "former_names": [
+      "Third Eye"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e21f70e5b9032365254edae847e8dcbc9ffddb3.png",
+    "website": "https://kebra.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Field technicians are bad at documenting their jobs, which paralyzes the back office. Kebra ends that.\r\n\r\nWe capture what happens in the field and collect the exact job details the back office needs. Before the truck leaves the driveway, Kebra turns every job into complete notes, filed warranty claims, parts orders, and follow-up sales opportunities.\r\n\r\nOver time, every job feeds your Company Brain, so your best technicians’ expertise never leaves the company.",
+    "one_liner": "Make your field service company AI-native",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1784399832,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Home Services",
+      "Operations"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/kebra",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/kebra.json"
   },
   {
     "id": 32123,
@@ -48598,17 +48644,17 @@
     "website": "https://www.risklytics.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Risklytics is a commercial insurance brokerage for frontier tech: robotics, autonomy, data centers, and energy infrastructure. Insurers are writing AI exclusions into standard liability forms, so companies whose products act in the physical world end up holding risk they thought they had transferred. We specialize in that gap, and we know which carriers in the admitted and surplus lines markets will still underwrite it. If you're building anything that moves, lifts, drives, or powers something, we'd like to talk.",
-    "one_liner": "Commercial Brokerage for Frontier Tech",
+    "one_liner": "Commercial Insurance Brokerage for Frontier Tech",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1783123197,
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
       "Real Estate",
       "B2B",
-      "Insurance"
+      "Insurance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48683,12 +48729,15 @@
     "all_locations": "Boston, MA, USA",
     "long_description": "Luca IQ is an API for deterministic tax calculation and an IRS Authorized e-filing engine - the foundation for accounting firms and fintechs building on tax.",
     "one_liner": "API First Tax Calculator for CPAs",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1785364349,
     "tags": [
-      "B2B"
+      "Artificial Intelligence",
+      "B2B",
+      "API",
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48888,11 +48937,11 @@
     "website": "https://trydock.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Dock is a multiplayer agent workspace where you spin up teams of specialized, proactive agents that can do the work of entire departments. They communicate, unblock each other, and manage each other to get work done, so you're not the bottleneck babysitting a dozen chat windows.",
-    "one_liner": "Multiplayer agent workspace that grows your company without growing…",
+    "one_liner": "Multiplayer agent workspace to run your company ",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
-    "launched_at": 1780463729,
+    "launched_at": 1785286566,
     "tags": [
       "Artificial Intelligence",
       "B2B"

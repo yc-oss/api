@@ -59,15 +59,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1c746a958222a919c90dfff3a0cd3a949fa81bcc.png",
     "website": "https://withasync.com",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Async builds skilled digital labor that changes how small businesses run. Law firms, healthcare clinics and real estate companies hire our AI agents to automate work that's never been economical to staff with humans, letting us capture labor spend that didn't previously exist.",
-    "one_liner": "Skilled Digital Labor for Small Businesses",
+    "long_description": "Async builds agents that change how businesses can run. Law firms, healthcare clinics and real estate companies hire our AI agents to automate complex work that's never been economical to staff with humans, letting us capture labor spend that didn't previously exist.",
+    "one_liner": "We Transform Small Businesses with AI Agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1750879126,
     "tags": [
-      "B2B",
-      "AI"
+      "Artificial Intelligence",
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -823,7 +823,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/54df715903ce304e2b9e3b2fe1f375caf7811ea6.png",
     "website": "https://openvector.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "OpenVector transforms existing security cameras into an automated 24/7 workforce without requiring any new hardware. Users simply describe a task in plain English, and OpenVector automatically builds a custom AI vision model to monitor the feed. When it detects an important physical event—like a stalled production cycle, a safety violation, or a waiting customer—it operates a computer just like a human to take immediate action. It integrates with legacy systems to make calls, send emails, update a POS/CRM, or trigger webhooks in real time. OpenVector enables any camera to do real work.",
+    "long_description": "OpenVector transforms any existing camera into an automated 24/7 workforce without requiring new hardware. Users simply describe a task in plain English, and OpenVector automatically builds a custom AI vision model to monitor the feed. When it detects an important physical event—like a stalled production cycle, a safety violation, or a waiting customer—it operates a computer just like a human to take immediate action. It integrates with legacy systems to make calls, send emails, update a POS/CRM, or trigger webhooks in real time. OpenVector enables any camera to do real work.",
     "one_liner": "AI that turns any camera into an active operator with real-time vision",
     "team_size": 4,
     "industry": "B2B",
@@ -1042,10 +1042,10 @@
       "Iris Prism"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c4b357efedd6b75b24594234b97cea3bade805e0.png",
-    "website": "https://palettetechnology.com/",
+    "website": "https://palettelabs.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Palette is an interactive multimodal generation platform that helps people create, personalize, and maintain multimedia content at scale. Instead of relying on fragmented creative tools or manual production workflows, Palette enables them to generate, edit, and transform text, images, and video using natural language. Whether creating customer experiences, product content, educational materials, or internal communications, Palette makes professional-quality media generation accessible through a single interface.",
-    "one_liner": "An interactive AI video generation and editing platform",
+    "long_description": "Palette is an AI-native media platform built by MIT computer scientists and multimodal researchers that unifies the creative workflow into a single generation engine. We eliminate tool and context fragmentation for creative teams in enterprises and allow content creators to transform static assets into controllable, repeatable workflows in one conversation.",
+    "one_liner": "An AI-Native Media Platform",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -1381,15 +1381,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e21f70e5b9032365254edae847e8dcbc9ffddb3.png",
     "website": "https://kebra.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Field technicians are bad at documenting their jobs, which paralyzes the back office. Kebra ends that.\r\n\r\nWe guide technicians in the field and capture the exact job details the back office needs. Before the truck leaves the driveway, Kebra turns every job into complete notes, warranty claims, parts ordered, and follow-up sales opportunities.\r\n\r\nOver time, every job feeds your Company Brain, so your best technicians’ expertise never leaves the company.\r\n\r\nKebra will power the first $100M-a-year field service company with no back office.",
+    "long_description": "Field technicians are bad at documenting their jobs, which paralyzes the back office. Kebra ends that.\r\n\r\nWe capture what happens in the field and collect the exact job details the back office needs. Before the truck leaves the driveway, Kebra turns every job into complete notes, filed warranty claims, parts orders, and follow-up sales opportunities.\r\n\r\nOver time, every job feeds your Company Brain, so your best technicians’ expertise never leaves the company.",
     "one_liner": "Make your field service company AI-native",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1784399832,
     "tags": [
-      "AIOps",
-      "AI"
+      "Artificial Intelligence",
+      "B2B",
+      "Home Services",
+      "Operations"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4003,6 +4005,47 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/greypoint-industries.json"
   },
   {
+    "id": 32587,
+    "name": "TareBio",
+    "slug": "tarebio",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9e770bbea41518001119968d389d0d3e35ce7abe.png",
+    "website": "https://tarebio.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Our platform develops personalized or population-level vaccines for any disease in weeks by changing only one input: the immune imprint. Instead of trying to predict which antigens might work, we read out immune cells already fighting the disease in the body and reverse-engineer antigens that activate them. We've already run our platform end-to-end and created a vaccine that cured cancer in mice.",
+    "one_liner": "Vaccines for any cancer or infection in weeks",
+    "team_size": 1,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Drug Discovery and Delivery",
+    "launched_at": 1779340505,
+    "tags": [
+      "Vaccines",
+      "Synthetic Biology",
+      "Biotechnology"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Drug Discovery and Delivery"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tarebio",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/tarebio.json"
+  },
+  {
     "id": 32588,
     "name": "Almanac",
     "slug": "almanac",
@@ -4337,17 +4380,17 @@
     "website": "https://www.risklytics.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Risklytics is a commercial insurance brokerage for frontier tech: robotics, autonomy, data centers, and energy infrastructure. Insurers are writing AI exclusions into standard liability forms, so companies whose products act in the physical world end up holding risk they thought they had transferred. We specialize in that gap, and we know which carriers in the admitted and surplus lines markets will still underwrite it. If you're building anything that moves, lifts, drives, or powers something, we'd like to talk.",
-    "one_liner": "Commercial Brokerage for Frontier Tech",
+    "one_liner": "Commercial Insurance Brokerage for Frontier Tech",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1783123197,
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
       "Real Estate",
       "B2B",
-      "Insurance"
+      "Insurance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4719,12 +4762,15 @@
     "all_locations": "Boston, MA, USA",
     "long_description": "Luca IQ is an API for deterministic tax calculation and an IRS Authorized e-filing engine - the foundation for accounting firms and fintechs building on tax.",
     "one_liner": "API First Tax Calculator for CPAs",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1785364349,
     "tags": [
-      "B2B"
+      "Artificial Intelligence",
+      "B2B",
+      "API",
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5841,11 +5887,11 @@
     "website": "https://trydock.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Dock is a multiplayer agent workspace where you spin up teams of specialized, proactive agents that can do the work of entire departments. They communicate, unblock each other, and manage each other to get work done, so you're not the bottleneck babysitting a dozen chat windows.",
-    "one_liner": "Multiplayer agent workspace that grows your company without growing…",
+    "one_liner": "Multiplayer agent workspace to run your company ",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
-    "launched_at": 1780463729,
+    "launched_at": 1785286566,
     "tags": [
       "Artificial Intelligence",
       "B2B"
@@ -6002,20 +6048,18 @@
       "Bolten AI"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/48074691217afbc59a4443c6ffa2379a823efda9.png",
-    "website": "https://florin.inc",
+    "website": "",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Florin brings banking, payments, cards, and treasury into one account built for startups - so founders can hold, move, and grow their capital without stitching together half a dozen tools. Unlike platforms that resell another bank's rails, we're building the infrastructure ourselves, end to end, so money moves in real time on a single ledger we own. We start with an invite-only membership for venture-backed companies and expand from there. Named after the florin, the coin that anchored global trade for three centuries, with infrastructure built for how money moves now.",
-    "one_liner": "The financial operating system for the companies building the future.",
+    "long_description": "Florin is a full-stack insurance carrier where a world model does the underwriting. When a submission comes in, Florin reads the ACORD forms, then investigates the risk on its own: satellite imagery, permits, public records, even the insured's Instagram, and catches exposures that never make it onto the application. It then simulates tens of thousands of ways the policy year could go, prices the risk, and returns a bindable quote in under a minute instead of weeks. The team is ex-Google, Tesla, Amazon, and Terra Firma, and the bet is that a carrier built this way wins on loss ratio, speed, and cost at the same time.",
+    "one_liner": "Florin is the insurance carrier with zero underwriters",
     "team_size": 3,
     "industry": "Fintech",
-    "subindustry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
     "launched_at": 1782360987,
     "tags": [
-      "Artificial Intelligence",
-      "Banking as a Service",
       "Fintech",
-      "Finance",
-      "Neobank"
+      "Insurance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6024,7 +6068,8 @@
     "batch": "Summer 2026",
     "status": "Active",
     "industries": [
-      "Fintech"
+      "Fintech",
+      "Insurance"
     ],
     "regions": [
       "United States of America",
@@ -6301,16 +6346,16 @@
     "website": "https://wondering.app",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Wondering turns anything you want to learn, from LLMs to quantum mechanics to product design, into a path of three-minute lessons with visuals, podcasts, and interactive exercises. \r\n\r\nEach learning path and its content are personalized to your background, how you learn best, and how deep you want to go.\r\n\r\nIt’s the most delightful way to understand complex topics and turn information into knowledge you can remember and apply. You don’t just passively read. You practice, make connections, and form your own insights.\r\n\r\nStart learning anything for free at https://wondering.app/download",
-    "one_liner": "Duolingo for Learning Anything",
+    "one_liner": "Duolingo for learning anything, but 10x better",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1785135586,
     "tags": [
       "AI-Enhanced Learning",
-      "Artificial Intelligence",
       "Education",
       "Consumer",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -6436,7 +6481,7 @@
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1780699091,
+    "launched_at": 1785348094,
     "tags": [
       "Artificial Intelligence",
       "Developer Tools",
