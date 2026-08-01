@@ -6081,7 +6081,7 @@
       "Malaysia",
       "Southeast Asia"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -12762,7 +12762,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -18821,7 +18821,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b515e27253a5c01c3ecd7e702852c67956b341d.png",
     "website": "https://compose.ai",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "Carlsbad, CA, USA; San Francisco, CA, USA; Remote",
     "long_description": "Compose AI is a free Chrome extension that helps automate your writing using AI. You know how Gmail autocompletes your emails? Compose.ai is like that but everywhere, like how Grammarly works.",
     "one_liner": "Cut your writing time by 40% with AI-powered autocomplete",
     "team_size": 7,
@@ -28222,6 +28222,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/tailor.json"
   },
   {
+    "id": 26712,
+    "name": "CodeCanary",
+    "slug": "codecanary",
+    "former_names": [
+      "Bunting Labs",
+      "Atonomo"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/936fc756bb90a52a74ebf1328770458b263316df.png",
+    "website": "https://www.codecanary.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "CodeCanary explores your product like a user, looking for bugs, mistakes, and UX issues. When it finds something, it creates a PR with a fix.",
+    "one_liner": "Find and fix bugs with AI",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1659469853,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Web Development",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/codecanary",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/codecanary.json"
+  },
+  {
     "id": 26713,
     "name": "Pasito",
     "slug": "pasito",
@@ -32862,48 +32906,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hadrius",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/hadrius.json"
-  },
-  {
-    "id": 27949,
-    "name": "Onshore",
-    "slug": "onshore",
-    "former_names": [
-      "SPRX Technologies",
-      "SPRX"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/05c5d6fcfdd95bdf07f580b5df18a19dab5e5843.png",
-    "website": "https://onshore.com",
-    "all_locations": "New York City, NY, USA",
-    "long_description": "Onshore uses AI to prepare corporate R&D tax credits.\r\n\r\nWith our technology, anyone can prepare an R&D Tax Credit accurately and fast. To provide some background, the R&D Credit is often cited as the most complex and audited tax credit in the United States. With that in mind, we set out to create software to achieve two primary objectives:\r\n\r\n1. Ensure that any credit computed with our software is exactly what the IRS is asking for in terms of quality.\r\n\r\n2. Democratize the ability to perform high quality R&D Credit studies extremely fast.",
-    "one_liner": "AI for corporate tax",
-    "team_size": 60,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1669758881,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/onshore",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/onshore.json"
   },
   {
     "id": 27957,
@@ -43331,13 +43333,19 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67133b6c1025c9a5557fc657b87ed61ad2b540c5.png",
     "website": "https://videogen.io",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "VideoGen makes it easy for anyone to create professional, copyright-free videos in seconds. Today, we serve thousands of customers, from individuals and small businesses to teams at Google and ByteDance.\r\n\r\nMaking videos is hard, time-consuming, and expensive if you hire someone to do it for you. With VideoGen, it only takes a few clicks!",
-    "one_liner": "AI that can create and edit professional videos",
-    "team_size": 5,
+    "long_description": "VideoGen makes it easy for anyone to create professional, copyright-free videos in seconds. Our AI video generator turns a prompt, script, or article into a finished video, complete with AI voiceover, subtitles, and b-roll, powered by the latest models like Sora, Veo, and Kling. Today, over 5 million users trust VideoGen, from individuals and small businesses to teams at Google and ByteDance.\r\n\r\nMaking videos is hard, time-consuming, and expensive if you hire someone to do it for you. With VideoGen, it only takes a few clicks! Try it at https://videogen.io/, or build video into your own product with our API: https://videogen.io/videogen-api",
+    "one_liner": "Create professional videos in minutes with AI, online or via API",
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1725431613,
-    "tags": [],
+    "tags": [
+      "eLearning",
+      "Video",
+      "API",
+      "Marketing",
+      "AI Assistant"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -44049,17 +44057,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d8bd41bea120a97058cce60e2d04af90f42a4c8.png",
     "website": "https://parahelp.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Build an AI support agent in hours that resolves even your most complex tickets end-to-end. If a tool has an API, you can connect it to your agent - just by chatting with Parahelp.\r\n\r\nFor example, you can connect Stripe so your agent can resolve billing questions and refund requests.",
+    "long_description": "Build and run an AI support agent that resolves even your most complex tickets end-to-end.\r\n\r\nIf a tool has an API, you can connect it to your agent - just by chatting with Parahelp. For example, you can connect Stripe so your agent can resolve billing questions and refund requests.",
     "one_liner": "Build an AI support agent that can use all your tools",
     "team_size": 11,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1720219864,
     "tags": [
+      "Artificial Intelligence",
       "Customer Success",
       "Customer Service",
       "Customer Support",
-      "AI",
       "Conversational AI"
     ],
     "tags_highlighted": [],
@@ -54353,17 +54361,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7090c5a2d73a4c3057030995d02dc87abae964a5.png",
     "website": "https://www.dedaluslabs.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "The fastest persistent computer for agents. Host long-running, stateful agents that never sleep in <250ms. ",
+    "long_description": "The fastest persistent computer for agents. Host long-running, stateful agents that never sleep in <50ms. ",
     "one_liner": "Compute substrate for AI agents",
     "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1756399069,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Workflow Automation",
-      "DevOps"
+      "DevOps",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -58328,49 +58336,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/bravi.json"
   },
   {
-    "id": 30918,
-    "name": "ComplyDo",
-    "slug": "complydo",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1138acf799ce629450bf7f2fb3d38a36aabb6d93.png",
-    "website": "https://www.complydo.io/",
-    "all_locations": "Berlin, Berlin, Germany",
-    "long_description": "The most flexible enterprise compliance engine that makes GRC teams 10x more efficient. Already trusted by global leaders and the largest EU enterprises.\r\n\r\nWhat it does:\r\n- Extracts requirements from any file\r\n- Maps them to controls and policies\r\n- Shows gaps and monitors changes\r\n- Advises on maturity and next steps",
-    "one_liner": "Global Compliance for Enterprises",
-    "team_size": 10,
-    "industry": "B2B",
-    "subindustry": "B2B -> Legal",
-    "launched_at": 1759460278,
-    "tags": [
-      "B2B",
-      "Compliance",
-      "LegalTech",
-      "Cybersecurity",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Legal"
-    ],
-    "regions": [
-      "Germany",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/complydo",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/complydo.json"
-  },
-  {
     "id": 30928,
     "name": "Thesis",
     "slug": "thesis",
@@ -59035,42 +59000,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/rovi-health.json"
   },
   {
-    "id": 30983,
-    "name": "Telemetron",
-    "slug": "telemetron-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/db4f19af21f2acf6ffe0cf95e59e6961ae9e1f89.png",
-    "website": "https://www.telemetron.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Telemetron is an AI-powered support platform tailored for hardware products (medical devices, consumer electronics, industrial hardware, robotics, and more). \r\n\r\nOur platform unifies ticketing, device diagnostics, order tracking, and product documentation into one intelligent system. Our AI agents connect directly to devices, APIs, and backend systems to deliver faster resolutions, smarter routing, and better support experiences.",
-    "one_liner": "Support and Operations Platform for Hardware Companies",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1759807426,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/telemetron-ai",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/telemetron-ai.json"
-  },
-  {
     "id": 30986,
     "name": "The Hog",
     "slug": "the-hog",
@@ -59325,23 +59254,25 @@
   },
   {
     "id": 31002,
-    "name": "Clicks",
-    "slug": "clicks",
-    "former_names": [],
+    "name": "Clicks Health",
+    "slug": "clicks-health",
+    "former_names": [
+      "Clicks"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ba947944afd3b1dfe85a7f3891e69a0b39e5fe9.png",
-    "website": "https://goclicks.ai/",
+    "website": "https://clickshealth.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Clicks builds AI agents that automate back-office operations for RCM companies and healthcare providers. Our agents work across EHRs, payer portals, desktop applications, and legacy systems, following existing processes, handling exceptions, and escalating when human judgment is needed. Backed by Y Combinator, Clicks helps teams improve accuracy, shorten turnaround times, and reduce operating costs, with SOC 2 Type II and HIPAA compliance built in.",
-    "one_liner": "AI agents for your back-office operations.",
+    "long_description": "Clicks Health builds AI agents that automate back-office operations for RCM companies and healthcare providers. Our agents work across EHRs, payer portals, desktop applications, and legacy systems, following existing processes, handling exceptions, and escalating when human judgment is needed. Backed by Y Combinator, Clicks helps teams improve accuracy, shorten turnaround times, and reduce operating costs, with SOC 2 Type II and HIPAA compliance built in.",
+    "one_liner": "AI agents for your healthcare back-office operations.",
     "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1759173987,
     "tags": [
-      "Artificial Intelligence",
       "Health Tech",
       "Healthcare",
-      "Health Insurance"
+      "Health Insurance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -59362,8 +59293,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/clicks",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/clicks.json"
+    "url": "https://www.ycombinator.com/companies/clicks-health",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/clicks-health.json"
   },
   {
     "id": 31008,

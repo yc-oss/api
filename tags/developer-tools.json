@@ -17791,11 +17791,11 @@
       "Neuralize",
       "RunLocal"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f47cbbc26af6f2d783af0166e54e51212101bcc.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c096a99a018da47706cb093bff201df7e6cbd6d.png",
     "website": "https://runlocal.ai",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "RunLocal’s AI agent is specialized in inference optimization and hardware acceleration for platforms like Nvidia Orin/Thor and Qualcomm.\r\n\r\nUnder the hood, our agentic environment facilitates reliable hardware-in-the-loop experimentation and continuous learning. \r\n\r\nIt tracks every experiment and continuously refines experimentation data into an understanding of what drives performance on your target hardware.\r\n\r\nThis environment means that a generic coding agent (e.g. Codex or Claude Code) can experiment and iterate better, faster and cheaper. \r\n\r\nWith RunLocal, you hit performance targets faster and ship more optimized models – without hiring inference optimization specialists. \r\n\r\nWe’re working with leaders in autonomous vehicles and robotics. We're backed by investors like Y Combinator and 468 Capital.",
-    "one_liner": "The AI agent for model deployment, inference optimization and…",
+    "long_description": "RunLocal is an environment that specializes AI agents to optimize model for onboard compute platforms like NVIDIA Orin/Thor and Qualcomm → www.runlocal.ai\r\n\r\nRunLocal is built for Physical AI engineering teams across autonomous vehicles, robotics, smart cameras and more.\r\n\r\nIt tracks every experiment and continuously refines experimentation data into an understanding of what drives performance on your target hardware.\r\n\r\nThis environment means that a generic coding agent (e.g. Codex or Claude Code) can experiment and iterate better, faster and cheaper. \r\n\r\nWith RunLocal, you hit performance targets faster and ship more optimized models – without hiring inference optimization specialists. \r\n\r\nWe’re working with leaders in autonomous vehicles and robotics. We're backed by investors like Y Combinator and 468 Capital.",
+    "one_liner": "AI agent that optimizes inference for embedded compute like Jetson",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -20995,17 +20995,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7090c5a2d73a4c3057030995d02dc87abae964a5.png",
     "website": "https://www.dedaluslabs.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "The fastest persistent computer for agents. Host long-running, stateful agents that never sleep in <250ms. ",
+    "long_description": "The fastest persistent computer for agents. Host long-running, stateful agents that never sleep in <50ms. ",
     "one_liner": "Compute substrate for AI agents",
     "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1756399069,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Workflow Automation",
-      "DevOps"
+      "DevOps",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21724,6 +21724,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/kernel",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/kernel.json"
+  },
+  {
+    "id": 30768,
+    "name": "Okibi",
+    "slug": "okibi",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2add42dcef83667e3ac21f0eabb0f202583f5d0c.png",
+    "website": "https://okibi.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Okibi generates a CLI from any product's codebase, so AI agents can use it the way people do.\r\n\r\nAgents are becoming software's next customers. When one comes to a product to make a purchase and finds no doorway in, it buys from the competitor whose CLI lets it through. Okibi turns products into CLIs and agents into customers.\r\n\r\nDoorDash, Mercury, Gusto, Ramp, and 30+ other companies have already launched first-party agent CLIs. Okibi is how every product gets one.",
+    "one_liner": "Turns products into CLIs and agents into customers",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1752707566,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "SaaS"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/okibi",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/okibi.json"
   },
   {
     "id": 30777,
