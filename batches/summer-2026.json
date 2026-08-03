@@ -1426,7 +1426,7 @@
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1775928017,
+    "launched_at": 1785301269,
     "tags": [
       "Developer Tools",
       "DevOps"
@@ -1985,7 +1985,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be265ae30f41df1ddeea6236499327a010c83192.png",
     "website": "https://belvedir.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Belvedir is the platform for training custom AI models and memory systems, hosting them privately, and continually improving them from production data.",
+    "long_description": "Belvedir is the autonomous platform for training custom AI models and memory systems, hosting them privately, and continually improving them from production data.",
     "one_liner": "The autonomous private AI platform.",
     "team_size": 1,
     "industry": "B2B",
@@ -2505,7 +2505,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2026",
     "status": "Active",
@@ -2603,6 +2603,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/insurf",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/insurf.json"
+  },
+  {
+    "id": 32188,
+    "name": "IMPACT Drones",
+    "slug": "impact-drones",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51e28a022e68117f55cef18f71defaef380f1766.png",
+    "website": "https://www.impact-drones.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "IMPACT builds autonomous interceptor drones that ship in a sealed box. The box sits at the site it protects (data centers, power grid, airports, bases) with no crew on the pad. When sensors cue a hostile drone, an interceptor pierces its own frangible lid, launches, and rams the target, guided by onboard visual navigation that keeps working when GPS is jammed. Legacy effectors cost $1M+ per shot against $50k threats; our interceptors cost like the threat and launches scale with the swarm. Sites subscribe to protection instead of buying missiles: hardware, reloads, and monitoring included. Air defense as a Service.",
+    "one_liner": "Air defense as a Service.",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Defense",
+    "launched_at": 1785702345,
+    "tags": [
+      "Hardware",
+      "Drones",
+      "Swarm Robotics",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/impact-drones",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/impact-drones.json"
   },
   {
     "id": 32189,
@@ -3763,7 +3805,7 @@
     "team_size": 2,
     "industry": "Government",
     "subindustry": "Government",
-    "launched_at": 1779249983,
+    "launched_at": 1785365250,
     "tags": [
       "GovTech",
       "Automation",
@@ -4004,11 +4046,11 @@
     "name": "Nori",
     "slug": "noril1",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a12ebb52fea22eaa5a71b4c86fdf6f10ee6ccd5b.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b7cc06bfd9d08d6eae3bc20eca8c056f893bf8b.png",
     "website": "http://norirobotics.com",
     "all_locations": "New York City, NY, USA",
     "long_description": "We manufacture humanoid robots in San Francisco. ",
-    "one_liner": "Sub-1500$ robot anyone can program",
+    "one_liner": "Sub-2000$ robotic humanoid assembled in the US",
     "team_size": 4,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -4089,7 +4131,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0f86336cad3f47d72897d04916a12380f1f0094b.png",
     "website": "https://www.graphify.com/",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "Graphify builds queryable knowledge graphs from local codebases and documents, 96K GitHub stars, 3.8M downloads, used in production by engineers at Rootly, Geotab, and Tweddle Group.The enterprise layer on top, a self-learning brain that continuously syncs an organisation's knowledge, evolves its own graph over time without forgetting, and enables formal verification of code and architecture decisions. Runs fully on-premise. No data leaves the building.",
+    "long_description": "Graphify builds queryable knowledge graphs from local codebases, docs, and Jira (100K+ GitHub stars, ~4.2M downloads, used in production by engineers at Rootly, Geotab, Tweddle Group, and Superagent). \r\n\r\nOn that graph, its enterprise layer reviews every pull request and formally verifies each code change, proving the new behavior matches the old or handing back the exact input that breaks it. The graph updates itself as the code changes and keeps context instead of forgetting it, so your whole team and their coding agents work from one shared, always-current graph of the codebase instead of a thousand private threads. \r\n\r\nRuns fully on-premise, so no data leaves the building.",
     "one_liner": "On-device knowledge graph engine for enterprises",
     "team_size": 2,
     "industry": "B2B",
@@ -4176,7 +4218,7 @@
     "website": "https://tarebio.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Our platform develops personalized or population-level vaccines for any disease in weeks by changing only one input: the immune imprint. Instead of trying to predict which antigens might work, we read out immune cells already fighting the disease in the body and reverse-engineer antigens that activate them. We've already run our platform end-to-end and created a vaccine that cured cancer in mice.",
-    "one_liner": "Vaccines for any cancer or infection in weeks",
+    "one_liner": "Vaccines for any cancer or infection in weeks.",
     "team_size": 1,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Drug Discovery and Delivery",
@@ -5620,6 +5662,46 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/axelrod.json"
   },
   {
+    "id": 33046,
+    "name": "CarSignal",
+    "slug": "carsignal",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/adebdc425b676af3d7f53e7ba2ba70bd7359f2f7.png",
+    "website": "https://www.trycarsignal.com",
+    "all_locations": "Los Angeles, CA, USA",
+    "long_description": "CarSignal is a shop management platform for independent auto repair shops. We replace the fragmented stack shops juggle today. Booking, intake, quoting, parts ordering, invoicing, payments, and customer communication all within one smart system.\r\nInstead of charging SaaS fees, we monetize through a 1% fee on the payments rail, so shops switch off $500+/month tools like Shopmonkey and Tekmetric without adding a line item. Every invoice paid through CarSignal is revenue; every shop that switches saves money on day one.",
+    "one_liner": "The Smart Operating System for Auto Shops.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1785653742,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Automotive"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/carsignal",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/carsignal.json"
+  },
+  {
     "id": 33047,
     "name": "Decawork",
     "slug": "decawork",
@@ -5766,7 +5848,7 @@
       "Artificial Intelligence",
       "Hardware",
       "B2B",
-      "Electronics",
+      "Semiconductors",
       "AI"
     ],
     "tags_highlighted": [],
@@ -6327,6 +6409,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/petrarch",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/petrarch.json"
+  },
+  {
+    "id": 33311,
+    "name": "SpaceFlow Technologies, Inc.",
+    "slug": "spaceflow-technologies-inc",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/161339dc99cea591f4bd07fbb627aaa0b7771a88.png",
+    "website": "https://spaceflow.tech",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "SpaceFlow is the managed runtime for AI agents that execute supply chain work across ERPs, email, spreadsheets, documents, and supplier portals. It turns fragmented operational data and SOPs into a governed context layer, then gives agents reusable skills and controlled access to enterprise tools.\r\n\r\nSpaceFlow agents normalize multi-round quotations, chase suppliers and delivery confirmations, repair incomplete requests, classify materials, reconcile phantom inventory, surface market signals, and help sales and operations planning teams continuously align demand, supply, inventory, purchasing deadlines, and freight decisions.\r\n\r\nSpaceFlow deploys in the customer’s cloud or on-prem environment with permissions, human approvals, observability, and audit trails, allowing industrial and regulated enterprises to automate high-stakes operations without replacing existing systems or moving sensitive data.",
+    "one_liner": "The managed runtime for enterprise AI agents",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1785644557,
+    "tags": [
+      "Workflow Automation",
+      "Logistics",
+      "Manufacturing",
+      "Supply Chain"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/spaceflow-technologies-inc",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/spaceflow-technologies-inc.json"
   },
   {
     "id": 33313,
@@ -6931,6 +7055,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/atomarine",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/atomarine.json"
+  },
+  {
+    "id": 33673,
+    "name": "Caution",
+    "slug": "caution",
+    "former_names": [
+      "Caution SEZC"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a0571039e7dc6cc20c7a181c0b7ffa967bc5c6d3.png",
+    "website": "https://caution.co",
+    "all_locations": "George Town, George Town, Cayman Islands",
+    "long_description": "Caution is a hosting platform for software you can't afford to get hacked. It simplifies and extends confidential compute, and lets developers deploy workloads to secure enclaves in minutes and give customers, auditors, and counterparties cryptographic proof that production is running the exact reviewed source code, build, configuration, and runtime - not an opaque binary controlled by a cloud operator or internal admin.\r\n\r\nConfidential computing hardware exists, but the tooling is too fragmented and incomplete for most teams to use well. Today, attestation often proves only that a binary has a certain hash; it does not prove what source code produced that binary. Building the missing deployment, reproducibility, and verification layer requires specialized security engineering and often locks teams into one cloud or hardware stack. Caution turns that into a simple git-based workflow that builds reproducible enclave images, provisions infrastructure, and lets anyone independently verify what is running.\r\n\r\nWe built Caution after years securing high-risk systems through Distrust, where we worked with hedge funds, custodians, blockchain teams, cloud platforms, and critical grid operators on systems responsible for more than $600B in assets. Again and again, the same problem showed up: teams running mission-critical infrastructure could not reliably prove what was executing in production.\r\n\r\nAs AI, fintech, healthcare, and regulated data collaboration move into the cloud, \"trust us\" is no longer enough. Caution is a general-purpose platform: if it runs on a server, it can run verifiably on Caution. We're starting where trust failures cost the most, but we believe verifiable compute will become the default way software runs, the same way HTTPS became the default way it's served. Infrastructure you can verify, not trust.",
+    "one_liner": "Hosting platform for software you don't want to get hacked",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1785719703,
+    "tags": [
+      "Cybersecurity",
+      "Cloud Computing",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "Cayman Islands",
+      "Latin America",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/caution",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/caution.json"
   },
   {
     "id": 33738,

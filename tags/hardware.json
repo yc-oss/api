@@ -2334,7 +2334,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2019",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "Healthcare",
       "Medical Devices"
@@ -5474,7 +5474,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e02b3e396920957fb568e6c31817205cde3dbd2a.png",
     "website": "https://www.norra.io",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "New York City, NY, USA",
     "long_description": "Norra helps nursing facilities manage equipment operations. Every year, ~$80 billion are spent on medical equipment like beds, concentrators, and wheelchairs. Nursing facilities continue to operate with zero visibility which leads to $15 billion in equipment waste annually. We use physical trackers and AI agents to eliminate this.",
     "one_liner": "Automating equipment operations for nursing facilities",
     "team_size": 2,
@@ -6031,6 +6031,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/kara.json"
   },
   {
+    "id": 32188,
+    "name": "IMPACT Drones",
+    "slug": "impact-drones",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51e28a022e68117f55cef18f71defaef380f1766.png",
+    "website": "https://www.impact-drones.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "IMPACT builds autonomous interceptor drones that ship in a sealed box. The box sits at the site it protects (data centers, power grid, airports, bases) with no crew on the pad. When sensors cue a hostile drone, an interceptor pierces its own frangible lid, launches, and rams the target, guided by onboard visual navigation that keeps working when GPS is jammed. Legacy effectors cost $1M+ per shot against $50k threats; our interceptors cost like the threat and launches scale with the swarm. Sites subscribe to protection instead of buying missiles: hardware, reloads, and monitoring included. Air defense as a Service.",
+    "one_liner": "Air defense as a Service.",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Defense",
+    "launched_at": 1785702345,
+    "tags": [
+      "Hardware",
+      "Drones",
+      "Swarm Robotics",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/impact-drones",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/impact-drones.json"
+  },
+  {
     "id": 32225,
     "name": "Stoa",
     "slug": "stoa",
@@ -6120,11 +6162,11 @@
     "name": "Nori",
     "slug": "noril1",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a12ebb52fea22eaa5a71b4c86fdf6f10ee6ccd5b.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b7cc06bfd9d08d6eae3bc20eca8c056f893bf8b.png",
     "website": "http://norirobotics.com",
     "all_locations": "New York City, NY, USA",
     "long_description": "We manufacture humanoid robots in San Francisco. ",
-    "one_liner": "Sub-1500$ robot anyone can program",
+    "one_liner": "Sub-2000$ robotic humanoid assembled in the US",
     "team_size": 4,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -6262,7 +6304,7 @@
       "Artificial Intelligence",
       "Hardware",
       "B2B",
-      "Electronics",
+      "Semiconductors",
       "AI"
     ],
     "tags_highlighted": [],
