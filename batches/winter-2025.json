@@ -1324,23 +1324,26 @@
   },
   {
     "id": 30201,
-    "name": "Dartboard Energy",
-    "slug": "dartboard-energy",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/da8574389e1b618977a4c248ea7c02e6d8d5dc9b.png",
-    "website": "https://dartboardenergy.com",
+    "name": "Dartboard",
+    "slug": "dartboard",
+    "former_names": [
+      "Dartboard Energy"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e6b5a6279db8d201fef41a88a35c1d4c0828744e.png",
+    "website": "https://dartboard.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Dartboard is an AI Analyst for Electricity Markets, starting with the owners of grid-scale battery projects.",
-    "one_liner": "AI Analyst for Electricity Markets",
+    "long_description": "Dartboard is the modern remote operations center for hardware fleets. We pair expert operators with AI agents to identify, diagnose, and fix issues faster.",
+    "one_liner": "AI-native remote operations center for hardware fleets",
     "team_size": 2,
     "industry": "Industrials",
-    "subindustry": "Industrials -> Energy",
+    "subindustry": "Industrials",
     "launched_at": 1739492408,
     "tags": [
-      "Energy Storage",
-      "B2B",
-      "Analytics",
-      "AI"
+      "Artificial Intelligence",
+      "Hardware",
+      "Robotics",
+      "Energy",
+      "Industrial"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1349,8 +1352,7 @@
     "batch": "Winter 2025",
     "status": "Active",
     "industries": [
-      "Industrials",
-      "Energy"
+      "Industrials"
     ],
     "regions": [
       "United States of America",
@@ -1361,8 +1363,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dartboard-energy",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/dartboard-energy.json"
+    "url": "https://www.ycombinator.com/companies/dartboard",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/dartboard.json"
   },
   {
     "id": 30202,
@@ -1792,14 +1794,14 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Contrario is an AI recruiting and hiring platform on a mission to help companies build generational teams.\r\n\r\nIn the age of AI, the best teams are still built by the best people. Recruiting has become a zero-sum game where speed and quality decide who wins.\r\n\r\nContrario is a network of expert recruiters supercharged by vertical AI agents purpose-built for hiring. Teams at Wispr Flow, Listen Labs, Slash, and 200+ of the fastest-growing companies use Contrario to power their hiring.\r\n\r\nIn under six months, Contrario has crossed $6M in annualized revenue, paid out $1M+ to recruiters, and placed 150+ candidates — making it one of the fastest-growing AI recruiting platforms on the market.\r\n\r\nBacked by Y Combinator, Nexus Venture Partners, Goodwater Capital, and Inventum Ventures, alongside angels including David Chen (ex-HRT), Abhijeet Dwivedi (OpenAI), Hank Couture (DoorDash), and Jerry Cain (Stanford CS). Built by Stanford dropouts. Headquartered in San Francisco.",
     "one_liner": "AI hiring platform powered by expert recruiters",
-    "team_size": 15,
+    "team_size": 20,
     "industry": "B2B",
     "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1740035301,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
-      "Recruiting"
+      "Recruiting",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4102,7 +4104,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f666d84f3ea0fbb63226b5b84cd46c97e83f4414.png",
     "website": "https://lucidic.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lucidic emulates model training without changing model weights. The last decade made models intelligent, but intelligence is not the same as experience. Humans do not get better by memorizing thousands of examples; we build learning systems around ourselves: skills, memories, critique, practice, tools, and guidance. And every person learns differently because every task is different. Lucidic brings that idea to AI agents by training a custom learning system for each agent, so it learns what to remember, what skills to build, when to ask for help, and how to improve from experience. The model provides the intelligence, Lucidic gives it a way to learn.",
+    "long_description": "Lucidic is trying to find a new paradigm to teach models. The last decade made models intelligent, but intelligence is not the same as experience. Humans do not get better by memorizing thousands of examples; we build learning systems around ourselves: skills, memories, critique, practice, tools, and guidance. And every person learns differently because every task is different. Lucidic brings that idea to AI agents by training a custom learning system for each agent, so it learns what to remember, what skills to build, when to ask for help, and how to improve from experience. The model provides the intelligence, Lucidic gives it a way to learn.",
     "one_liner": "Reimagining how Machines Learn ",
     "team_size": null,
     "industry": "B2B",
@@ -4110,10 +4112,10 @@
     "launched_at": 1736904770,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,

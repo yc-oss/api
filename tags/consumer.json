@@ -2231,7 +2231,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2020",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "Consumer",
       "Social"
@@ -2242,7 +2242,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -7321,6 +7321,61 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/browser-buddy.json"
   },
   {
+    "id": 29372,
+    "name": "Sagaland",
+    "slug": "sagaland",
+    "former_names": [
+      "Sevn.ai",
+      "SevnAI",
+      "Sevn",
+      "sevn",
+      "AdRizz.com",
+      "PySpur.com",
+      "PySpur",
+      "PySpur.dev",
+      "Rehearsal.so",
+      "Ramble.gg",
+      "Sagaland",
+      "SevnAI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7bcc2515e31439799c6c2e2a9ca3667ca7af9de8.png",
+    "website": "https://sagaland.ai/",
+    "all_locations": "New York City, NY, USA; Remote",
+    "long_description": "",
+    "one_liner": "AI entertainment platform",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1703955205,
+    "tags": [
+      "Consumer",
+      "Entertainment",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sagaland",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/sagaland.json"
+  },
+  {
     "id": 29403,
     "name": "HeartByte",
     "slug": "heartbyte",
@@ -10159,19 +10214,19 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Tinder for Jobs. Swipe right, AI applies on your behalf.",
     "one_liner": "Tinder for jobs",
-    "team_size": 5,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Human Resources",
     "launched_at": 1759034914,
     "tags": [
-      "Artificial Intelligence",
       "Marketplace",
       "Consumer",
-      "Recruiting"
+      "Recruiting",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -10545,7 +10600,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2393bf402ae2e425fc41cb7f78facb4b67fa9d5.png",
     "website": "https://myunowallet.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We are changing the way that people pay...",
+    "long_description": "We are changing the way that people pay...\r\n\r\nFounded by:\r\nSaket Joshi: www.linkedin.com/in/saket-dattatray-joshi/\r\nMordi Shadpour: www.linkedin.com/in/mordi-shadpour/",
     "one_liner": "The AI mobile wallet that replaces Apple Pay",
     "team_size": 2,
     "industry": "Fintech",

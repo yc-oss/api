@@ -1065,7 +1065,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -3478,24 +3478,26 @@
   },
   {
     "id": 28981,
-    "name": "CambioML",
-    "slug": "cambioml",
+    "name": "Energent AI",
+    "slug": "energent-ai",
     "former_names": [
       "WAN",
-      "WAN.ai"
+      "WAN.ai",
+      "CambioML"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c2936168c1d24afabd8456dc03d4a2255c01c1f.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bae38d9d5867168b2fe49799661efe7a7f64d1d1.png",
     "website": "https://energent.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Energent.ai turns every knowledge worker into a top performer by pairing them with an AI teammate. We streamline manual workflows without integrations, democratize automation with zero code, and move beyond passive chatbots to deliver real, visible output — all securely within the enterprise environment.",
-    "one_liner": "AI Teammate to Enable Every Knowledge Worker to Be a Top Performer",
-    "team_size": 3,
+    "long_description": "Every AI tool will confidently hand you a wrong number — and in\r\nengineering and finance, a wrong number is expensive.\r\n\r\nEnergent.ai is an AI teammate that does your data work on a secure\r\ndesktop: reading documents and engineering drawings, cleaning messy data,\r\nwriting code, building charts. Then a second, independent agent audits\r\nthat output against your original source files and flags every claim that\r\ndoesn't hold up — catching roughly 3x more hallucinations than the model\r\nalone in our internal evals.\r\n\r\nEngineering teams check drawing sets before issue. Finance teams tie\r\nnumbers back to source. The best teams encode their own checking\r\nstandards as reusable rules, so it checks the way their firm checks.",
+    "one_liner": "AI that audits AI — catching hallucinations before you ship them.",
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1690762424,
     "tags": [
       "Productivity",
       "Big Data",
+      "Enterprise Software",
       "Automation",
       "AI Assistant"
     ],
@@ -3510,15 +3512,17 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cambioml",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/cambioml.json"
+    "url": "https://www.ycombinator.com/companies/energent-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/energent-ai.json"
   },
   {
     "id": 29013,
@@ -6965,8 +6969,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/70f52c907fab24ab4f95aa200a11907c5bc3896f.png",
     "website": "https://www.textsidekick.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sidekick is an AI-powered SMS assistant for frontline workers in manufacturing, auto dealerships, and retail. The idea came from Justin's father, who owns a manufacturing facility and asked him to build a tool to help with worker onboarding, training, and organizing company knowledge. Workers text questions in any language and get instant answers from their company's documents — no app, no login, works on any phone. They can send photos of equipment for instant identification or voice memos when their hands are dirty or they're wearing gloves. Managers upload documents and record video walkthroughs; Sidekick automatically generates step-by-step tutorials and a searchable knowledge base. When Sidekick can't answer, it escalates to the manager via SMS and learns from the response, getting smarter with every interaction.",
-    "one_liner": "AI-powered SMS assistant for deskless workers.",
+    "long_description": "Sidekick lets workers text problems, photos, or voice memos in any language; it answers from the company's own documents, creates and routes the work order, and syncs with the software a company already runs. Sidekick captures the tribal knowledge in veterans' heads - the know-how that usually walks out the door when they retire - into a searchable knowledge base the company owns. No app, no login, works on any phone.\r\n\r\nSidekick started as a tool Justin built for his dad's manufacturing facility - it turned out every plant has the same gap.",
+    "one_liner": "The text layer for frontline operations",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
@@ -6974,7 +6978,9 @@
     "tags": [
       "SaaS",
       "B2B",
-      "AI Assistant"
+      "Manufacturing",
+      "AI Assistant",
+      "Industrial"
     ],
     "tags_highlighted": [],
     "top_company": false,

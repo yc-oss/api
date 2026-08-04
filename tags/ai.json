@@ -6155,7 +6155,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -7185,14 +7185,16 @@
   },
   {
     "id": 24271,
-    "name": "TrackChain",
-    "slug": "trackchain",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/342433dcc9840812ba21edf14f03992ff4d9704f.png",
-    "website": "https://trackchain.io",
+    "name": "Tiriel AI",
+    "slug": "tiriel-ai",
+    "former_names": [
+      "TrackChain"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/02c979d7bd320de3e4df49874d735e12bbfa9cdc.png",
+    "website": "https://tiriel.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "An autonomous logistics OS where AI agents handle transportation end-to-end, from procurement and planning to dispatch, tracking, and delivery, across any mode of transport. Continuously improving with every shipment.",
-    "one_liner": "AI-native logistics OS for autonomous freight execution",
+    "long_description": "Formerly TrackChain, Tiriel is the AI workforce for freight dispatch.\r\n\r\nNot dispatch software. A workforce: specialized AI agents, each with one job, one standard, and one boss, the dispatcher. Scout finds freight across 14+ load boards. Closer negotiates rates with brokers by phone, in parallel, within the rate floors you set. Coordinator manages your drivers in English, Spanish, or whatever language your fleet speaks. Auditor closes the paperwork, files detention and TONU claims, and processes PODs. Analyst learns your operation and makes the team better every week.\r\n\r\nEvery call is recorded, transcribed, and attached to the load. You direct. They execute.\r\n\r\nBuilt by a family that has operated trucking companies for over 20 years. Live across the United States.\r\n\r\nStart with $99 at https://tiriel.ai",
+    "one_liner": "The AI workforce for freight dispatch",
     "team_size": 20,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
@@ -7200,6 +7202,7 @@
     "tags": [
       "Logistics",
       "Supply Chain",
+      "Transportation",
       "AI"
     ],
     "tags_highlighted": [],
@@ -7223,8 +7226,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/trackchain",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/trackchain.json"
+    "url": "https://www.ycombinator.com/companies/tiriel-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/tiriel-ai.json"
   },
   {
     "id": 24291,
@@ -18830,9 +18833,9 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/559be3dbe8db39ee44373d9f21cfd1f1f146092e.png",
     "website": "https://www.kabilah.com",
-    "all_locations": "New York City, NY, USA",
+    "all_locations": "",
     "long_description": "Kabilah is the most trusted enterprise-grade AI platform designed specifically for nursing workflows. We reduce burnout, enhance system efficiency, and enable high quality care.",
-    "one_liner": "Pioneering Generative AI for Nursing",
+    "one_liner": "Agentic AI for Nursing Workflows",
     "team_size": null,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
@@ -18853,8 +18856,7 @@
       "Healthcare"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -20122,7 +20124,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7175120ae6ae4f3d25e96905fcb4e3ce5d125052.png",
     "website": "https://www.feldy.ai",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Feldy is field-first AI for home service businesses helping teams capture jobsites, create take-offs & estimates, and documentation.\r\n\r\nFeldy helps teams capture the physical world using photos, videos, AI jobsite walkthroughs, voice notes, and 3D scans using your mobile phone. It turns that field information into takeoffs & estimates, visual designs, and project documentation.\r\n\r\nFeldy is built for roofing, exteriors, remodeling, painting, cleaning, landscaping, tree care, and other home services.\r\n\r\nWe’re building a new way for more than 2 million U.S. home service businesses operating in an $800B+ market to capture, understand, and complete work in the field.\r\n\r\nFeldy is available on iOS, Android, and the web.",
+    "long_description": "Feldy is field-first AI for home service businesses helping teams capture jobsites, create take-offs & estimates, and documentation.\r\n\r\nWith Feldy, teams capture the physical world using photos, videos, AI jobsite walkthroughs, and 3D scans using your mobile phone. It turns field information into takeoffs & estimates, visual designs, and project documentation. Feldy works across home services such as roofing, exteriors, remodeling, painting, cleaning, landscaping, handymen, and other home services.\r\n\r\nWe’re building a new way for more than 2 million U.S. home service businesses operating in an $800B+ market to capture, understand, and complete work in the field.\r\n\r\nFeldy is available on iOS, Android, and the web.",
     "one_liner": "Field-First AI for home services",
     "team_size": 4,
     "industry": "B2B",
@@ -20520,6 +20522,61 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/browser-buddy",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/browser-buddy.json"
+  },
+  {
+    "id": 29372,
+    "name": "Sagaland",
+    "slug": "sagaland",
+    "former_names": [
+      "Sevn.ai",
+      "SevnAI",
+      "Sevn",
+      "sevn",
+      "AdRizz.com",
+      "PySpur.com",
+      "PySpur",
+      "PySpur.dev",
+      "Rehearsal.so",
+      "Ramble.gg",
+      "Sagaland",
+      "SevnAI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7bcc2515e31439799c6c2e2a9ca3667ca7af9de8.png",
+    "website": "https://sagaland.ai/",
+    "all_locations": "New York City, NY, USA; Remote",
+    "long_description": "",
+    "one_liner": "AI entertainment platform",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1703955205,
+    "tags": [
+      "Consumer",
+      "Entertainment",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sagaland",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/sagaland.json"
   },
   {
     "id": 29374,
@@ -27105,53 +27162,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/forerunner-ai.json"
   },
   {
-    "id": 30115,
-    "name": "Laminar",
-    "slug": "laminar-com",
-    "former_names": [
-      "SRE.ai",
-      "sre.ai",
-      "SRE.ai"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd1f2b79da0bdbfdd0ca1eda2e6a7f66a6dd2ae7.png",
-    "website": "https://laminar.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Laminar analyzes, builds, and governs the systems that run your business, from SMBs to Fortune 10 Enterprise orgs. Powered by Implementation Intelligence™.",
-    "one_liner": "Enterprise systems delivery without the turbulence.",
-    "team_size": 15,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1731196685,
-    "tags": [
-      "Developer Tools",
-      "B2B",
-      "Enterprise Software",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/laminar-com",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/laminar-com.json"
-  },
-  {
     "id": 30117,
     "name": "Relvy AI",
     "slug": "relvy-ai",
@@ -27410,48 +27420,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/tweeksio.json"
   },
   {
-    "id": 30201,
-    "name": "Dartboard Energy",
-    "slug": "dartboard-energy",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/da8574389e1b618977a4c248ea7c02e6d8d5dc9b.png",
-    "website": "https://dartboardenergy.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Dartboard is an AI Analyst for Electricity Markets, starting with the owners of grid-scale battery projects.",
-    "one_liner": "AI Analyst for Electricity Markets",
-    "team_size": 2,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Energy",
-    "launched_at": 1739492408,
-    "tags": [
-      "Energy Storage",
-      "B2B",
-      "Analytics",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Energy"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dartboard-energy",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/dartboard-energy.json"
-  },
-  {
     "id": 30202,
     "name": "Astro",
     "slug": "astro",
@@ -27539,6 +27507,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/superglue",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/superglue.json"
+  },
+  {
+    "id": 30215,
+    "name": "Contrario",
+    "slug": "contrario",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d87aacd192132e2914478f159180c7f82caa8ec.png",
+    "website": "https://contrario.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Contrario is an AI recruiting and hiring platform on a mission to help companies build generational teams.\r\n\r\nIn the age of AI, the best teams are still built by the best people. Recruiting has become a zero-sum game where speed and quality decide who wins.\r\n\r\nContrario is a network of expert recruiters supercharged by vertical AI agents purpose-built for hiring. Teams at Wispr Flow, Listen Labs, Slash, and 200+ of the fastest-growing companies use Contrario to power their hiring.\r\n\r\nIn under six months, Contrario has crossed $6M in annualized revenue, paid out $1M+ to recruiters, and placed 150+ candidates — making it one of the fastest-growing AI recruiting platforms on the market.\r\n\r\nBacked by Y Combinator, Nexus Venture Partners, Goodwater Capital, and Inventum Ventures, alongside angels including David Chen (ex-HRT), Abhijeet Dwivedi (OpenAI), Hank Couture (DoorDash), and Jerry Cain (Stanford CS). Built by Stanford dropouts. Headquartered in San Francisco.",
+    "one_liner": "AI hiring platform powered by expert recruiters",
+    "team_size": 20,
+    "industry": "B2B",
+    "subindustry": "B2B -> Recruiting and Talent",
+    "launched_at": 1740035301,
+    "tags": [
+      "SaaS",
+      "Recruiting",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Recruiting and Talent"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/contrario",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/contrario.json"
   },
   {
     "id": 30216,
@@ -28136,48 +28147,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mundo-ai",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/mundo-ai.json"
-  },
-  {
-    "id": 30272,
-    "name": "Lucidic AI",
-    "slug": "lucidic-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f666d84f3ea0fbb63226b5b84cd46c97e83f4414.png",
-    "website": "https://lucidic.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lucidic emulates model training without changing model weights. The last decade made models intelligent, but intelligence is not the same as experience. Humans do not get better by memorizing thousands of examples; we build learning systems around ourselves: skills, memories, critique, practice, tools, and guidance. And every person learns differently because every task is different. Lucidic brings that idea to AI agents by training a custom learning system for each agent, so it learns what to remember, what skills to build, when to ask for help, and how to improve from experience. The model provides the intelligence, Lucidic gives it a way to learn.",
-    "one_liner": "Reimagining how Machines Learn ",
-    "team_size": null,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1736904770,
-    "tags": [
-      "AIOps",
-      "Developer Tools",
-      "SaaS",
-      "Automation",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lucidic-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/lucidic-ai.json"
   },
   {
     "id": 30276,
@@ -33242,6 +33211,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/locus.json"
   },
   {
+    "id": 30862,
+    "name": "Sorce",
+    "slug": "sorce",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8b7d8d3ea28624898e277427bd19760e45bd0535.png",
+    "website": "https://sorce.jobs",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Tinder for Jobs. Swipe right, AI applies on your behalf.",
+    "one_liner": "Tinder for jobs",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Human Resources",
+    "launched_at": 1759034914,
+    "tags": [
+      "Marketplace",
+      "Consumer",
+      "Recruiting",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Human Resources"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sorce",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/sorce.json"
+  },
+  {
     "id": 30871,
     "name": "Bron",
     "slug": "bron",
@@ -35803,49 +35814,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/tolmo.json"
   },
   {
-    "id": 31537,
-    "name": "Trident",
-    "slug": "trident",
-    "former_names": [
-      "Esprit"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/537de46d97dcdac9c07b330a6a1a4b2ab0583b7b.png",
-    "website": "https://tridentsecurity.io/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Traditional security tools drown teams in useless alerts and logs. Trident chains vulnerabilities together like a real attacker, mapping verified attack paths across AWS, Azure, GCP, web apps, and APIs to show the exploits that actually cause business impact",
-    "one_liner": "Secure your cloud and webapps by finding real attack paths ",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1785361922,
-    "tags": [
-      "Security",
-      "Cybersecurity",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/trident",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/trident.json"
-  },
-  {
     "id": 31550,
     "name": "Playabl.ai",
     "slug": "playablai",
@@ -36108,6 +36076,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/donkey.json"
   },
   {
+    "id": 32130,
+    "name": "Olam Labs",
+    "slug": "olam-labs",
+    "former_names": [
+      "Gud Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6d9543a0527b0b5ac428e043f211c75ac5d1d59.png",
+    "website": "https://olamlabs.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Evaluating models for social behavior, safety, and performance through multi-agent simulated games. We use popular games like Catan, Risk, or Poker, and make humans come play them against talking AI opponents, but on the backend we're actually running a multi-agent environment used to evaluate the models for skill and behavior over large sample sizes.\r\n\r\nYou can play in Social Arena and view our preliminary benchmarks today at https://olamlabs.ai/",
+    "one_liner": "Evaluating models for behavior and performance through simulated games",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1784577901,
+    "tags": [
+      "Reinforcement Learning",
+      "Gaming",
+      "Crowdsourcing",
+      "Data Engineering",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/olam-labs",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/olam-labs.json"
+  },
+  {
     "id": 32134,
     "name": "Parasma",
     "slug": "parasma",
@@ -36278,51 +36290,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/understudy-labs",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/understudy-labs.json"
-  },
-  {
-    "id": 32169,
-    "name": "Speko",
-    "slug": "speko",
-    "former_names": [
-      "Speko Group, Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/55b8df2a769dbcfc902b7c071a8bc334a7eb10dd.png",
-    "website": "https://speko.ai/?utm_source=ycombinator&utm_medium=profile",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "OpenRouter for voice AI",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1783393099,
-    "tags": [
-      "Developer Tools",
-      "AI",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/speko",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/speko.json"
   },
   {
     "id": 32171,
@@ -36863,6 +36830,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rational",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/rational.json"
+  },
+  {
+    "id": 32623,
+    "name": "Omanta",
+    "slug": "omanta",
+    "former_names": [
+      "ClinSIGHT AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae1812a6e6a806880355a25e542d3970bd58deb5.png",
+    "website": "https://omanta.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Omanta is a personalized research lab for patients who have exhausted standard options, want to prepare proactively for recurrence, or are living with an unresolved diagnosis.\r\n\r\nWe direct the full operational infrastructure, personnel, expertise, and technology of a large research program toward understanding and addressing the challenges of individual patients across oncology, rare disease, and undiagnosed conditions.\r\n\r\nFor clinicians, we act as a collaborative partner, providing a living roadmap for ongoing patient care built on a rigorous and evolving scientific evidence base.\r\n\r\nWe fully operationalize patient-specific research programs, covering tissue logistics, diagnostic follow-up, data integration, multiomic analysis, therapeutic strategy development, and more.\r\n\r\nOmanta brings context and clarity to complex cases, helping clinicians see more of the scientific picture as they decide how best to care for their patients.",
+    "one_liner": "A research lab for one",
+    "team_size": 4,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1785793252,
+    "tags": [
+      "Digital Health",
+      "Healthcare",
+      "Health & Wellness",
+      "Oncology",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/omanta",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/omanta.json"
   },
   {
     "id": 32624,
@@ -37792,5 +37803,44 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lambda-robotics",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/lambda-robotics.json"
+  },
+  {
+    "id": 34794,
+    "name": "Qokedas",
+    "slug": "qokedas",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/31c1e7e41e8bdce6fdb8b0dbca8bc555e944bc47.png",
+    "website": "https://qokedas.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Most of what happens on Earth is never written down. It passes through instruments as signal and disappears. Qokedas turns that signal into training data, so labs can build models that read the physical world and operate the machines that measure it",
+    "one_liner": "Teaching models to decode the physical world",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1785795073,
+    "tags": [
+      "Deep Learning",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/qokedas",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/qokedas.json"
   }
 ]

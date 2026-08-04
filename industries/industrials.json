@@ -6978,7 +6978,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -9619,7 +9619,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -12297,23 +12297,26 @@
   },
   {
     "id": 30201,
-    "name": "Dartboard Energy",
-    "slug": "dartboard-energy",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/da8574389e1b618977a4c248ea7c02e6d8d5dc9b.png",
-    "website": "https://dartboardenergy.com",
+    "name": "Dartboard",
+    "slug": "dartboard",
+    "former_names": [
+      "Dartboard Energy"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e6b5a6279db8d201fef41a88a35c1d4c0828744e.png",
+    "website": "https://dartboard.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Dartboard is an AI Analyst for Electricity Markets, starting with the owners of grid-scale battery projects.",
-    "one_liner": "AI Analyst for Electricity Markets",
+    "long_description": "Dartboard is the modern remote operations center for hardware fleets. We pair expert operators with AI agents to identify, diagnose, and fix issues faster.",
+    "one_liner": "AI-native remote operations center for hardware fleets",
     "team_size": 2,
     "industry": "Industrials",
-    "subindustry": "Industrials -> Energy",
+    "subindustry": "Industrials",
     "launched_at": 1739492408,
     "tags": [
-      "Energy Storage",
-      "B2B",
-      "Analytics",
-      "AI"
+      "Artificial Intelligence",
+      "Hardware",
+      "Robotics",
+      "Energy",
+      "Industrial"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -12322,8 +12325,7 @@
     "batch": "Winter 2025",
     "status": "Active",
     "industries": [
-      "Industrials",
-      "Energy"
+      "Industrials"
     ],
     "regions": [
       "United States of America",
@@ -12334,8 +12336,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dartboard-energy",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/dartboard-energy.json"
+    "url": "https://www.ycombinator.com/companies/dartboard",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/dartboard.json"
   },
   {
     "id": 30202,
@@ -14553,11 +14555,11 @@
     "name": "Lightberry",
     "slug": "lightberry",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d547e87dd8a95aef15364dc6867d855165863209.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e293e7e459ca366271fd5317cd8af37ed2cd6625.png",
     "website": "https://lightberry.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We build brains for robots.\r\n\r\nWe work with manufacturers like Unitree to make robots listen, speak, and act. You can program your robot out of the box by literally talking to it, no coding involved.\r\n\r\nRobots running Lightberry are emotionally intelligent, always on, and fully autonomous. Just like in Star Wars!",
-    "one_liner": "The social brain for robots.",
+    "one_liner": "Robots with soul",
     "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",

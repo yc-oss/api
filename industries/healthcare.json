@@ -2584,7 +2584,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Fully-automated Quantitative MR Image Analysis.\r\n\r\nOur software converts a user’s full body magnetic resonance scan (MRI) into a 3D virtual model of their body in the cloud. The model is annotated with explanatory information so they can easily explore and learn about different parts of their body.\r\n\r\nKlarismo is the only provider of MR analytics that can offer truly scalable analysis for large data collections. Cloud-based processing allows 1000s of acquisitions to be analyzed simultaneously. Machine learning techniques utilize Klarismo’s proprietary collection of labelled MRI data and eliminate the need for manual processing to produce precise volumetric measurements.\r\n\r\nKlarismo specializes in the detailed analysis of body composition, including volumetric measurements of different muscle and fat tissues, from whole-body acquisitions.",
     "one_liner": "Klarismo turns your body into an interactive experience. We built a…",
-    "team_size": 1,
+    "team_size": 10,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Diagnostics",
     "launched_at": 1430435618,
@@ -12768,7 +12768,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -18696,7 +18696,8 @@
     "launched_at": 1646050857,
     "tags": [
       "Neurotechnology",
-      "Health Tech"
+      "Health Tech",
+      "Digital Health"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -23450,9 +23451,9 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/559be3dbe8db39ee44373d9f21cfd1f1f146092e.png",
     "website": "https://www.kabilah.com",
-    "all_locations": "New York City, NY, USA",
+    "all_locations": "",
     "long_description": "Kabilah is the most trusted enterprise-grade AI platform designed specifically for nursing workflows. We reduce burnout, enhance system efficiency, and enable high quality care.",
-    "one_liner": "Pioneering Generative AI for Nursing",
+    "one_liner": "Agentic AI for Nursing Workflows",
     "team_size": null,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
@@ -23473,8 +23474,7 @@
       "Healthcare"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -28089,7 +28089,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9318ef0555c0ad2e5ce6049908b655658d073f1f.png",
     "website": "https://www.getprescience.com/",
     "all_locations": "Boston, MA, USA",
-    "long_description": "Prescience is the preeminent health benefits platform for the world's most ambitious companies. We save employers 20-50% on healthcare while offering best-in-industry health benefits: www.getprescience.com\r\n\r\nAbout us:\r\nPrescience is building a new healthcare system for America. We train AI systems to: create, operate, insure, and deliver healthcare for employer health plans. Prescience Time Machine – an AlphaGo-like system – steers patients towards “Move 37 health trajectories” that deliver dramatic cost savings for employers. Rishab Jain and Aditya Jain, M.D. are serial entrepreneurs and brothers from Harvard & Harvard Medical School with backgrounds in machine learning and medicine. We believe abundant intelligence will bring an opportunity to fundamentally rebuild the $4.5T healthcare industry around proactive (prescient) health and wellness.",
+    "long_description": "Prescience is the preeminent health benefits platform for the world's most ambitious companies. We save employers 20-50% on health insurance while offering best-in-industry health benefits: www.getprescience.com\r\n\r\nAbout us:\r\nPrescience is building a new healthcare system for America. We train AI systems to: create, operate, insure, and deliver healthcare for employer health plans. Prescience Time Machine – an AlphaGo-like system – steers patients towards “Move 37 health trajectories” that deliver dramatic cost savings for employers. Rishab Jain and Aditya Jain, M.D. are serial entrepreneurs and brothers from Harvard & Harvard Medical School with backgrounds in machine learning and medicine. We believe abundant intelligence will bring an opportunity to fundamentally rebuild the $4.5T healthcare industry around proactive (prescient) health and wellness.",
     "one_liner": "Healthcare for the age of abundant intelligence.",
     "team_size": 2,
     "industry": "Healthcare",
@@ -29264,7 +29264,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2026",
     "status": "Active",
@@ -29368,6 +29368,47 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/floracene.json"
   },
   {
+    "id": 32261,
+    "name": "Rasyn",
+    "slug": "rasyn",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/076afb6659e399c99ca25bb457a92d8183d0aba2.png",
+    "website": "https://www.rasyn.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Towards a General Intelligence for Chemistry",
+    "team_size": 0,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Drug Discovery and Delivery",
+    "launched_at": 1785736030,
+    "tags": [
+      "AI-powered Drug Discovery",
+      "Deep Learning",
+      "Biotech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Drug Discovery and Delivery"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rasyn",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/rasyn.json"
+  },
+  {
     "id": 32587,
     "name": "TareBio",
     "slug": "tarebio",
@@ -29407,6 +29448,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tarebio",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/tarebio.json"
+  },
+  {
+    "id": 32623,
+    "name": "Omanta",
+    "slug": "omanta",
+    "former_names": [
+      "ClinSIGHT AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae1812a6e6a806880355a25e542d3970bd58deb5.png",
+    "website": "https://omanta.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Omanta is a personalized research lab for patients who have exhausted standard options, want to prepare proactively for recurrence, or are living with an unresolved diagnosis.\r\n\r\nWe direct the full operational infrastructure, personnel, expertise, and technology of a large research program toward understanding and addressing the challenges of individual patients across oncology, rare disease, and undiagnosed conditions.\r\n\r\nFor clinicians, we act as a collaborative partner, providing a living roadmap for ongoing patient care built on a rigorous and evolving scientific evidence base.\r\n\r\nWe fully operationalize patient-specific research programs, covering tissue logistics, diagnostic follow-up, data integration, multiomic analysis, therapeutic strategy development, and more.\r\n\r\nOmanta brings context and clarity to complex cases, helping clinicians see more of the scientific picture as they decide how best to care for their patients.",
+    "one_liner": "A research lab for one",
+    "team_size": 4,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1785793252,
+    "tags": [
+      "Digital Health",
+      "Healthcare",
+      "Health & Wellness",
+      "Oncology",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/omanta",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/omanta.json"
   },
   {
     "id": 32782,
