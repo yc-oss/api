@@ -5795,8 +5795,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a5fb7dd012389ddf81869040550578bb786988ed.png",
     "website": "https://superagent.sh/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Superagent helps developers make their AI apps safe.\r\n\r\nWe offer:\r\n- Red team testing — specialized attack agents probe your production AI for data leaks, harmful outputs, and unwanted actions\r\n- Structured reports with findings, evidence, and remediation guidance\r\n- A Safety Page to prove it to your customers — use it in sales, procurement reviews, and security questionnaires\r\n\r\nBuilt for companies selling AI into enterprises and regulated industries.",
-    "one_liner": "Red teaming for AI agents",
+    "long_description": "Superagent helps AI-native developers trust what they merge, control what their agents do, and show users it's safe.\r\n\r\nWe work in your coding agent and on GitHub:\r\n\r\n- Trust the change: checks on every pull request, before merge\r\n- Control it where it runs: boundaries around what your agents can see, say, and do\r\n- Break it before it ships: red teaming against what you actually run\r\n\r\nFree for open source.",
+    "one_liner": "Security for AI-native developers",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
@@ -6111,17 +6111,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ef306ea6f1d72c351b58047f5bd3c1644904cbd2.png",
     "website": "https://dench.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "An OpenClaw Framwork that builds an AI Workforce paired with an in-built CRM, that lives in your communication channels, is online forever, knows your everything about your business. and does the tasks on your behalf only so you can click \"Approve\" every morning.\r\n\r\nBuild you own AI employees today...\r\n- Lead intake via Voice / SMS / Email and then updating the Contact / Matter / Case in the CRM.\r\n- Connects with Gmail / Outlook for AI to write replies (in draft for you to review) all ready to send, for every email that deserves your reply, so you don't spend time writing emails anymore.\r\n- Handles outbound sales completely, scrapes all the leads there possibly are on the internet, phone books, data brokers, and contacts customers, chats back and forth with them at scale, infinitely, parallely all at once.\r\n- Writes daily/weekly/monthly briefings and reports based on all the new context there is on the CRM every day/week/month. It finds out insights you possibly couldn't have found by looking at it all manually.\r\n- Customer Research AI agents: find powerful POCs of a company, check through your LinkedIn connection tree to find out how far apart in mutual connections you are from them, research their background, and send out intro texts / emails / call agents to connect you with the POC.\r\n\r\nand so much more. Contact us for enterprise needs.",
-    "one_liner": "Open Source AI CRM built on top of OpenClaw",
+    "long_description": "Dench: AI CRM + Full-Service Deployment\r\n\r\nMost CRMs sell you software and hand you a 200-page setup guide. Dench is different. We're the only CRM that ships with an embedded team: we migrate your data, build your object schema, configure your integrations, train your people, and deploy AI agents that keep your pipeline clean without a Salesforce developer, a RevOps contractor, or a six-month implementation project.\r\n\r\nFrom day one, our team works inside your stack. We pull your existing data out of HubSpot, Salesforce, or whatever spreadsheet graveyard you're currently using, and rebuild it properly in Dench. Custom objects, custom fields, automation rules, integration config across Gmail, Slack, Notion, GitHub, LinkedIn, and 50+ other tools. Everything set up the way your business actually works, not the way a generic CRM template assumes it does.\r\n\r\nThen we train your team. Not a one-hour Zoom and a PDF. Real sessions that build CRM discipline: how to log activity consistently, how to keep data clean, how to use AI agents to do the repetitive work so your reps spend time selling instead of updating fields. Quarterly business reviews keep the system evolving as your pipeline grows.\r\n\r\nThe AI layer is what makes it permanent. Dench agents enrich leads automatically, move deals through stages based on real signals, draft outreach, log interactions, and flag hygiene issues before they compound. Your CRM stays accurate without someone babysitting it.\r\n\r\nNo implementation consultant invoice. No dedicated Salesforce admin headcount. No duct-taped automation stack. One engagement, everything included, starting at $1,500/month.",
+    "one_liner": "Workspace for your AI Agents, Build any Workflow.",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1720334032,
     "tags": [
-      "Artificial Intelligence",
       "Workflow Automation",
       "Open Source",
       "CRM",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -6284,7 +6284,7 @@
     "name": "Freestyle",
     "slug": "freestyle",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3193d2e6673d05b7a76cddaa0bc355c6a2fd7e04.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c4c248db416a898fa7c553e48dd6ec3f458817e5.png",
     "website": "https://www.freestyle.sh",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Ben and Jacob met in Calculus class in 10th grade, and tried founding a startup in high school — it didn’t go anywhere.\r\n\r\nDuring high school, Ben lead the frontend team for the World Health Organization’s COVID-19 App Team.\r\n\r\nAfter high school, Jacob went to Apple and Ben went to college. When there was an opening on his team, Jacob had Ben apply, and Ben left UChicago to go work at Apple.\r\n\r\nThey spent about 2 years at Apple as Senior Engineers in the Conversational Engineering Department, before leaving to found Freestyle.\r\n\r\nFreestyle is directly inspired by what they saw as their failures of the tech they worked with at Apple.",
@@ -6884,6 +6884,53 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/cactus.json"
   },
   {
+    "id": 30660,
+    "name": "Magnitude",
+    "slug": "magnitude",
+    "former_names": [
+      "Magnitude",
+      "Sidekick",
+      "Sagekit"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9292b62c58dc81055b437ce647dc7c3ea10ffc5c.png",
+    "website": "https://magnitude.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Today, coding with local models means finding a model, choosing a quant, installing and tuning a runtime, connecting it to an agent, and keeping the stack working. Magnitude handles it all for you so you can focus on coding. npm install -g @magnitudedev/cli",
+    "one_liner": "Code with local models, zero setup",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1751905744,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Open Source",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/magnitude",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/magnitude.json"
+  },
+  {
     "id": 30665,
     "name": "Pangolin",
     "slug": "pangolin",
@@ -7333,6 +7380,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/understudy-labs",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/understudy-labs.json"
+  },
+  {
+    "id": 32198,
+    "name": "Riften",
+    "slug": "riften",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4422075ddefbe2da912fc68b24148bca53aaa5b6.png",
+    "website": "https://riften.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Riften builds earned intelligence: models that come out of a company’s own work instead of out of a lab.\r\n\r\nOne environment variable points an existing application at Riften instead of OpenAI or Anthropic. Riften routes each request to the least expensive model likely to handle it, using open-weight models we host whenever they are sufficient. Customers lower inference costs before any training begins.\r\n\r\nBecause Riften sits in the request path, real tasks and their outcomes create training evidence the company controls. Riften uses that evidence to improve routing and train private models on open weights around recurring work. Those models earn production traffic by meeting the same bar as the APIs they replace.\r\n\r\nOver time, frontier APIs handle only the tasks that still require them. The rest runs on models the company owns, on infrastructure it controls, inside the applications where the work happens.",
+    "one_liner": "Earned Intelligence for every company. ",
+    "team_size": 0,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1785872995,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Reinforcement Learning",
+      "Open Source",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/riften",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/riften.json"
   },
   {
     "id": 32583,

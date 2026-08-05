@@ -569,16 +569,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "At Tavus, we're building the human layer of AI. Our mission is to make human-AI interaction as natural as face-to-face interaction, enabling the human touch where it has been previously unscalable. We achieve this through pioneering research in multi-modal AI models for human perception and understanding, combined with state-of-the-art human avatar rendering and conversation models that we make accessible to developers worldwide. Our models and APIs power everything from text-to-video AI avatars to real-time conversational video experiences across industries like healthcare, recruiting, sales, education, and more. By enabling AI to see, hear, and communicate with human-like authenticity, we're creating the foundation for developers to create the next generation of AI employees, assistants, and companions.",
     "one_liner": "Building the human layer of AI",
-    "team_size": 40,
+    "team_size": 75,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1625678589,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "B2B",
       "Video",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -595,7 +595,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -2111,7 +2111,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -3907,8 +3907,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9292b62c58dc81055b437ce647dc7c3ea10ffc5c.png",
     "website": "https://magnitude.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "The full Claude Code experience, except it runs anywhere. From our infra to fully air-gapped in your data center.",
-    "one_liner": "The best coding agent for open models",
+    "long_description": "Today, coding with local models means finding a model, choosing a quant, installing and tuning a runtime, connecting it to an agent, and keeping the stack working. Magnitude handles it all for you so you can focus on coding. npm install -g @magnitudedev/cli",
+    "one_liner": "Code with local models, zero setup",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -3916,7 +3916,7 @@
     "tags": [
       "Artificial Intelligence",
       "Developer Tools",
-      "Enterprise Software",
+      "Open Source",
       "Infrastructure",
       "AI"
     ],
@@ -4867,7 +4867,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ba85eb3919f954ce9bf661f9b9ee195327c93ceb.png",
     "website": "https://rindler.ai",
     "all_locations": "Boston, MA, USA",
-    "long_description": "Rindler turns any website, including sites without APIs, into a deterministic API that AI agents can reliably use. It handles logins, 2FA, and bot detection, giving agents clean structured data and dependable actions instead of raw HTML, with robust maintenance when sites change.\r\n\r\nRindler is agent-agnostic and built on the open MCP standard, so it works with any agent.\r\n\r\nFor operators: get your team out of portals and back to the work that matters.\r\n\r\nFor agent builders: let your agents act on the real web quickly, cheaply, and reliably on every run.",
+    "long_description": "Rindler turns any website into deterministic abstractions that AI agents can operate on with speed, efficiency, and reliability.\r\n\r\nRindler drives a real browser to execute tasks on websites. It signs in, handles one-time verification codes, navigates to the right screen, retrieves records or completes forms, and returns structured output in a caller-defined schema.\r\n\r\nMost browser agents re-process and re-compute the same website every time they visit it. Rindler remembers. Our infrastructure gets faster and cheaper the more it is used, and when a site changes underneath it, Rindler detects the break and heals itself.\r\n\r\nFor operations leaders, Rindler takes on the repetitive website work your team does by hand, giving them their time back for the work that matters.\r\n\r\nFor agent builders, Rindler is a single endpoint that carries out tasks on the web, so you do not have to build or run browser infrastructure of your own.",
     "one_liner": "The translation layer between AI agents and the web",
     "team_size": 2,
     "industry": "B2B",
@@ -4876,8 +4876,8 @@
     "tags": [
       "B2B",
       "Workflow Automation",
-      "Infrastructure",
-      "APIs"
+      "Automation",
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4894,7 +4894,7 @@
       "America / Canada"
     ],
     "stage": "Early",
-    "app_video_public": false,
+    "app_video_public": true,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
@@ -4943,6 +4943,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/shielded",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/shielded.json"
+  },
+  {
+    "id": 32198,
+    "name": "Riften",
+    "slug": "riften",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4422075ddefbe2da912fc68b24148bca53aaa5b6.png",
+    "website": "https://riften.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Riften builds earned intelligence: models that come out of a company’s own work instead of out of a lab.\r\n\r\nOne environment variable points an existing application at Riften instead of OpenAI or Anthropic. Riften routes each request to the least expensive model likely to handle it, using open-weight models we host whenever they are sufficient. Customers lower inference costs before any training begins.\r\n\r\nBecause Riften sits in the request path, real tasks and their outcomes create training evidence the company controls. Riften uses that evidence to improve routing and train private models on open weights around recurring work. Those models earn production traffic by meeting the same bar as the APIs they replace.\r\n\r\nOver time, frontier APIs handle only the tasks that still require them. The rest runs on models the company owns, on infrastructure it controls, inside the applications where the work happens.",
+    "one_liner": "Earned Intelligence for every company. ",
+    "team_size": 0,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1785872995,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Reinforcement Learning",
+      "Open Source",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/riften",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/riften.json"
   },
   {
     "id": 32225,

@@ -23883,7 +23883,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -30678,17 +30678,18 @@
   },
   {
     "id": 25984,
-    "name": "Rally UXR",
-    "slug": "rally-uxr",
+    "name": "Rally",
+    "slug": "rallyuxr",
     "former_names": [
-      "Rally"
+      "Rally",
+      "Rally UXR"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d1bec746269f46935a108658fb17cddc54ed760.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/86f4764834a702e043cc7dc0faf2375ffa49f308.png",
     "website": "https://www.rallyuxr.com/",
     "all_locations": "New York City, NY, USA; Remote",
-    "long_description": "Rally is a User Research CRM that makes it easy for teams to do research with their users. By automating outreach, scheduling, incentives, and participant management, Rally replaces messy spreadsheets and disjointed tooling, saving teams hours each week.",
-    "one_liner": "User Research CRM",
-    "team_size": 30,
+    "long_description": "Rally is agentic user research infrastructure. Our agent runs recruitment end to end, from finding participants through scheduling and sending incentives. Underneath, our infrastructure enforces the guardrails enterprises require: consent, permissions, templates, data governance, and more. Trusted by teams building the future of product research: Google, Meta, Ramp, Figma, and Perplexity.\r\n\r\nTalk to your users today with Rally.",
+    "one_liner": "Agentic User Research Infrastructure",
+    "team_size": 35,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1645632239,
@@ -30718,8 +30719,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/rally-uxr",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/rally-uxr.json"
+    "url": "https://www.ycombinator.com/companies/rallyuxr",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/rallyuxr.json"
   },
   {
     "id": 25986,
@@ -44727,21 +44728,21 @@
     "former_names": [
       "Vertex Health"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b9958107dbb0957f151ac1f60d74995db0f2314.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2236b25dd12c87c047e1fa71435b329c187e2c47.png",
     "website": "https://tryamby.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Amby Health automates billing and quality reviews for ambulance agencies (EMS), replacing large back-office teams with AI. We analyze patient reports in seconds—not months—accurately coding claims and identifying liability and care risks while eliminating costly, error-prone manual processes.\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-    "one_liner": "AI Copilot for Ambulance Agencies (EMS)",
+    "long_description": "Your wearable tells you what happened. Amby texts you what to do next, checks in, and adjusts when life gets in the way.",
+    "one_liner": "The health coach that texts you first",
     "team_size": 2,
     "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
+    "subindustry": "Healthcare -> Consumer Health and Wellness",
     "launched_at": 1738458555,
     "tags": [
       "SaaS",
       "Health Tech",
       "Digital Health",
       "Healthcare",
-      "Healthcare IT"
+      "Health & Wellness"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -44751,7 +44752,7 @@
     "status": "Active",
     "industries": [
       "Healthcare",
-      "Healthcare IT"
+      "Consumer Health and Wellness"
     ],
     "regions": [
       "United States of America",
@@ -47491,14 +47492,14 @@
     "subindustry": "B2B",
     "launched_at": 1775188246,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Enterprise"
+      "Enterprise",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2026",
     "status": "Active",
@@ -47527,8 +47528,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/70f52c907fab24ab4f95aa200a11907c5bc3896f.png",
     "website": "https://www.textsidekick.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sidekick lets workers text problems, photos, or voice memos in any language; it answers from the company's own documents, creates and routes the work order, and syncs with the software a company already runs. Sidekick captures the tribal knowledge in veterans' heads - the know-how that usually walks out the door when they retire - into a searchable knowledge base the company owns. No app, no login, works on any phone.\r\n\r\nSidekick started as a tool Justin built for his dad's manufacturing facility - it turned out every plant has the same gap.",
-    "one_liner": "The text layer for frontline operations",
+    "long_description": "Sidekick is an AI assistant for frontline manufacturing workers. Sidekick lets workers text problems, photos, or voice memos in any language; it answers from the company's own documents, creates and routes the work order, and syncs with software the company already runs. Sidekick captures the tribal knowledge in veterans' heads - the know-how that usually walks out the door when they retire - into a searchable knowledge base the company owns. No app, no login, works on any phone.",
+    "one_liner": "AI agent that handles frontline operations over text",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
@@ -48255,15 +48256,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/adebdc425b676af3d7f53e7ba2ba70bd7359f2f7.png",
     "website": "https://www.trycarsignal.com",
     "all_locations": "Los Angeles, CA, USA",
-    "long_description": "CarSignal is a shop management platform for independent auto repair shops. We replace the fragmented stack shops juggle today. Booking, intake, quoting, parts ordering, invoicing, payments, and customer communication all within one smart system.\r\nInstead of charging SaaS fees, we monetize through a 1% fee on the payments rail, so shops switch off $500+/month tools like Shopmonkey and Tekmetric without adding a line item. Every invoice paid through CarSignal is revenue; every shop that switches saves money on day one.",
+    "long_description": "",
     "one_liner": "The Smart Operating System for Auto Shops.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1785653742,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
+      "AI",
       "Automotive"
     ],
     "tags_highlighted": [],

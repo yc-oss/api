@@ -3121,7 +3121,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f2ba51393107c60fc73e0c01a4165e444e0e8755.png",
     "website": "https://termius.com",
-    "all_locations": "",
+    "all_locations": "Auckland, New Zealand",
     "long_description": "Termius is an SSH client that works on desktop and mobile. It syncs and shares data via a secure vault in the cloud, like a password manager. With Termius, engineering and DevOps teams can share the list of servers that can be organized in groups and tagged for faster search. Termius also has built-in Terminal and Snippet Sharing. Terminal Sharing enables getting instant help from colleagues via providing a unique link instantly, and snippets are frequently-used shell commands that allow teammates to learn from each other easily.",
     "one_liner": "Termius is an SSH client with team collaboration features",
     "team_size": 35,
@@ -3144,6 +3144,8 @@
       "Security"
     ],
     "regions": [
+      "New Zealand",
+      "Oceania",
       "Remote",
       "Partly Remote"
     ],
@@ -8713,7 +8715,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -15162,8 +15164,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/61f4bbb4f45487fb9514316eae7b6e1b1c316a4a.png",
     "website": "https://www.silimate.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're building AI-native core tools & agent-driven workflows for frontend chip design. \r\n\r\nToday, Silimate is helping Fortune 500s and chip unicorns create & iterate to correct, optimized designs 40x faster. Our goal is to enable autonomous spec-to-design for silicon.",
-    "one_liner": "The copilot for chip designers",
+    "long_description": "We're building AI-native tools & agent-driven workflows for frontend chip design. \r\n\r\nToday, Fortune enterprises and chip unicorns license Silimate to hit their PPA targets and functional closure in days instead of months. With Silimate, chip companies tape out better, more market-competitive chips much more quickly.",
+    "one_liner": "Fast, efficient agents for chip design and debug",
     "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -16744,7 +16746,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -18498,7 +18500,7 @@
     "name": "Freestyle",
     "slug": "freestyle",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3193d2e6673d05b7a76cddaa0bc355c6a2fd7e04.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c4c248db416a898fa7c553e48dd6ec3f458817e5.png",
     "website": "https://www.freestyle.sh",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Ben and Jacob met in Calculus class in 10th grade, and tried founding a startup in high school — it didn’t go anywhere.\r\n\r\nDuring high school, Ben lead the frontend team for the World Health Organization’s COVID-19 App Team.\r\n\r\nAfter high school, Jacob went to Apple and Ben went to college. When there was an opening on his team, Jacob had Ben apply, and Ben left UChicago to go work at Apple.\r\n\r\nThey spent about 2 years at Apple as Senior Engineers in the Conversational Engineering Department, before leaving to found Freestyle.\r\n\r\nFreestyle is directly inspired by what they saw as their failures of the tech they worked with at Apple.",
@@ -21342,8 +21344,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9292b62c58dc81055b437ce647dc7c3ea10ffc5c.png",
     "website": "https://magnitude.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "The full Claude Code experience, except it runs anywhere. From our infra to fully air-gapped in your data center.",
-    "one_liner": "The best coding agent for open models",
+    "long_description": "Today, coding with local models means finding a model, choosing a quant, installing and tuning a runtime, connecting it to an agent, and keeping the stack working. Magnitude handles it all for you so you can focus on coding. npm install -g @magnitudedev/cli",
+    "one_liner": "Code with local models, zero setup",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -21351,7 +21353,7 @@
     "tags": [
       "Artificial Intelligence",
       "Developer Tools",
-      "Enterprise Software",
+      "Open Source",
       "Infrastructure",
       "AI"
     ],
@@ -23287,6 +23289,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/speko.json"
   },
   {
+    "id": 32198,
+    "name": "Riften",
+    "slug": "riften",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4422075ddefbe2da912fc68b24148bca53aaa5b6.png",
+    "website": "https://riften.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Riften builds earned intelligence: models that come out of a company’s own work instead of out of a lab.\r\n\r\nOne environment variable points an existing application at Riften instead of OpenAI or Anthropic. Riften routes each request to the least expensive model likely to handle it, using open-weight models we host whenever they are sufficient. Customers lower inference costs before any training begins.\r\n\r\nBecause Riften sits in the request path, real tasks and their outcomes create training evidence the company controls. Riften uses that evidence to improve routing and train private models on open weights around recurring work. Those models earn production traffic by meeting the same bar as the APIs they replace.\r\n\r\nOver time, frontier APIs handle only the tasks that still require them. The rest runs on models the company owns, on infrastructure it controls, inside the applications where the work happens.",
+    "one_liner": "Earned Intelligence for every company. ",
+    "team_size": 0,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1785872995,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Reinforcement Learning",
+      "Open Source",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/riften",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/riften.json"
+  },
+  {
     "id": 32230,
     "name": "Codag",
     "slug": "codag",
@@ -23629,6 +23674,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hyperprobe",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/hyperprobe.json"
+  },
+  {
+    "id": 33250,
+    "name": "Agent FM",
+    "slug": "agent-fm",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1cc0ea423493737ae6717d834b6bdb19aaf41f58.png",
+    "website": "https://www.agentfm.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Agent FM is a desktop app that gives engineers one group chat to hear and steer their coding agents. Instead of manually bouncing between different claude code and codex sessions, and combing through walls of text to monitor agents, engineers just tune in to Agent FM. Agents share important progress updates, blockers, assumptions, and decisions in the group chat. Engineers get live text and audio updates and respond right from the chat.",
+    "one_liner": "One group chat to hear and steer your coding agents.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1785890886,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Productivity"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/agent-fm",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/agent-fm.json"
   },
   {
     "id": 33315,

@@ -10082,7 +10082,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -11687,17 +11687,18 @@
   },
   {
     "id": 25984,
-    "name": "Rally UXR",
-    "slug": "rally-uxr",
+    "name": "Rally",
+    "slug": "rallyuxr",
     "former_names": [
-      "Rally"
+      "Rally",
+      "Rally UXR"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d1bec746269f46935a108658fb17cddc54ed760.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/86f4764834a702e043cc7dc0faf2375ffa49f308.png",
     "website": "https://www.rallyuxr.com/",
     "all_locations": "New York City, NY, USA; Remote",
-    "long_description": "Rally is a User Research CRM that makes it easy for teams to do research with their users. By automating outreach, scheduling, incentives, and participant management, Rally replaces messy spreadsheets and disjointed tooling, saving teams hours each week.",
-    "one_liner": "User Research CRM",
-    "team_size": 30,
+    "long_description": "Rally is agentic user research infrastructure. Our agent runs recruitment end to end, from finding participants through scheduling and sending incentives. Underneath, our infrastructure enforces the guardrails enterprises require: consent, permissions, templates, data governance, and more. Trusted by teams building the future of product research: Google, Meta, Ramp, Figma, and Perplexity.\r\n\r\nTalk to your users today with Rally.",
+    "one_liner": "Agentic User Research Infrastructure",
+    "team_size": 35,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1645632239,
@@ -11727,8 +11728,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/rally-uxr",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/rally-uxr.json"
+    "url": "https://www.ycombinator.com/companies/rallyuxr",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/rallyuxr.json"
   },
   {
     "id": 25989,
@@ -15663,8 +15664,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/61f4bbb4f45487fb9514316eae7b6e1b1c316a4a.png",
     "website": "https://www.silimate.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're building AI-native core tools & agent-driven workflows for frontend chip design. \r\n\r\nToday, Silimate is helping Fortune 500s and chip unicorns create & iterate to correct, optimized designs 40x faster. Our goal is to enable autonomous spec-to-design for silicon.",
-    "one_liner": "The copilot for chip designers",
+    "long_description": "We're building AI-native tools & agent-driven workflows for frontend chip design. \r\n\r\nToday, Fortune enterprises and chip unicorns license Silimate to hit their PPA targets and functional closure in days instead of months. With Silimate, chip companies tape out better, more market-competitive chips much more quickly.",
+    "one_liner": "Fast, efficient agents for chip design and debug",
     "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -22997,8 +22998,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9292b62c58dc81055b437ce647dc7c3ea10ffc5c.png",
     "website": "https://magnitude.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "The full Claude Code experience, except it runs anywhere. From our infra to fully air-gapped in your data center.",
-    "one_liner": "The best coding agent for open models",
+    "long_description": "Today, coding with local models means finding a model, choosing a quant, installing and tuning a runtime, connecting it to an agent, and keeping the stack working. Magnitude handles it all for you so you can focus on coding. npm install -g @magnitudedev/cli",
+    "one_liner": "Code with local models, zero setup",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -23006,7 +23007,7 @@
     "tags": [
       "Artificial Intelligence",
       "Developer Tools",
-      "Enterprise Software",
+      "Open Source",
       "Infrastructure",
       "AI"
     ],
@@ -26136,6 +26137,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/openrelay",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/openrelay.json"
+  },
+  {
+    "id": 33250,
+    "name": "Agent FM",
+    "slug": "agent-fm",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1cc0ea423493737ae6717d834b6bdb19aaf41f58.png",
+    "website": "https://www.agentfm.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Agent FM is a desktop app that gives engineers one group chat to hear and steer their coding agents. Instead of manually bouncing between different claude code and codex sessions, and combing through walls of text to monitor agents, engineers just tune in to Agent FM. Agents share important progress updates, blockers, assumptions, and decisions in the group chat. Engineers get live text and audio updates and respond right from the chat.",
+    "one_liner": "One group chat to hear and steer your coding agents.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1785890886,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Productivity"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/agent-fm",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/agent-fm.json"
   },
   {
     "id": 33573,
