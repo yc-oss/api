@@ -595,7 +595,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -3998,16 +3998,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Manufact is the MCP cloud platform to get your product ready for Claude Connectors marketplace, ChatGPT / Codex plugins store and any AI agent that supports MCP.\r\nWe're the team behind mcp-use SDK, the open-source framework for building MCP Apps with 10k github stars and 8M+ downloads across python and typescript.\r\n\r\nIt's the fastest and most complete solution for production-ready MCP servers.",
     "one_liner": "Cloud infrastructure for MCP servers and Claude / ChatGPT apps.",
-    "team_size": 5,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1752861544,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Open Source",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4255,7 +4255,7 @@
     "website": "https://runcaptain.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Captain delivers the most accurate file search engine built for AI agents. We’ll index data from the sources folks already use like S3, SharePoint, and Google Drive, and easily scale multimodal, petabyte-level content search. We’re the Snowflake for Unstructured Data.\r\n\r\nCaptain tops the Open-RAG-Benchmark with over 20% higher accuracy than standard RAG pipelines. We achieve this through robust data processing techniques like embedding normalization across modalities, ensuring that representations cluster by semantic content rather than data type.",
-    "one_liner": "Give AI agents accurate knowledge search that scales",
+    "one_liner": "Accurate, high-performance retrieval for AI agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -5115,6 +5115,47 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/agency-tool-company.json"
   },
   {
+    "id": 32618,
+    "name": "Click",
+    "slug": "click",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3eb675c91f3464d134cd3d9c18712ad08bea23bb.png",
+    "website": "https://www.useclick.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Click lets you do more within Codex & Claude. It's an MCP that provides external context that the in-built web search misses - LinkedIn activity, YouTube transcripts, live flight fares, and more. \r\nWith Click, users do sales & GTM research, competitor ad analysis, travel planning, and financial analysis - all within their favorite agent surface.",
+    "one_liner": "Web search & connectors for agents",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1785963586,
+    "tags": [
+      "Artificial Intelligence",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/click",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/click.json"
+  },
+  {
     "id": 32848,
     "name": "Luca IQ",
     "slug": "luca-iq",
@@ -5419,11 +5460,11 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd39ca163a2a8ea396a6ec66701926317f9f416c.png",
     "website": "https://osseus.ai/",
     "all_locations": "",
-    "long_description": "Osseus is the intelligent design platform for robotics. Today, it gives robotics teams a collaborative web app for reviewing mechanical and electrical designs against the full context around them. Engineers and suppliers comment on the exact part, net, connector, or dimension, while AI AutoReview compares proposed changes with prior revisions and source evidence.\r\n\r\nUnderneath is a secure research brain that connects physical designs, robot descriptions and models, firmware and robot software, simulation and test results, supplier feedback, decisions, and owners in one permissioned, version-aware record. Because Osseus understands those relationships, it can carry supplier constraints into future reviews, trace a hardware change into the exact configurations, code, and validation work it affects, and turn approved findings into owned work without losing the evidence or rationale.\r\n\r\nOur long-term goal is for any professional team or hobbyist to import, fork, or create a robot in Osseus. Builders will be able to explore compatible components and supplier intelligence, edit the physical design, and receive proposed updates to the robot description, firmware, control software, simulation, and tests. We ultimately want to develop physical-AI models that reason jointly over the robot's geometry, electronics, kinematics, components, software, and real-world performance so people can optimize and iterate on robots much faster.",
-    "one_liner": "The intelligent design platform for robotics",
+    "long_description": "Osseus is the intelligent development platform for robotics. Today, it gives robotics teams a collaborative web app for reviewing mechanical and electrical designs against the full context around them. Engineers and suppliers comment on the exact part, net, connector, or dimension, while AI AutoReview compares proposed changes with prior revisions and source evidence.\r\n\r\nUnderneath is a secure research brain that connects physical designs, robot descriptions and models, firmware and robot software, simulation and test results, supplier feedback, decisions, and owners in one permissioned, version-aware record. Because Osseus understands those relationships, it can carry supplier constraints into future reviews, trace a hardware change into the exact configurations, code, and validation work it affects, and turn approved findings into owned work without losing the evidence or rationale.\r\n\r\nOur long-term goal is for any professional team or hobbyist to import, fork, or create a robot in Osseus. Builders will be able to explore compatible components and supplier intelligence, edit the physical design, and receive proposed updates to the robot description, firmware, control software, simulation, and tests. We ultimately want to develop physical-AI models that reason jointly over the robot's geometry, electronics, kinematics, components, software, and real-world performance so people can optimize and iterate on robots much faster.",
+    "one_liner": "The intelligent development platform for robotics",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1783740069,
     "tags": [
       "Artificial Intelligence",
@@ -5440,7 +5481,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Productivity"
+      "Engineering, Product and Design"
     ],
     "regions": [
       "Unspecified"
@@ -5509,14 +5550,14 @@
     "website": "https://experientiallabs.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We build model endpoints for your agent that will always be frontier quality and 50%+ cheaper than any frontier model. This is done by continuously improving smaller models on simulations built from production agent traces. ",
-    "one_liner": "Continual Learning for Agents",
+    "one_liner": "Turn your AI spend into a cheaper + better model you own",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1782607347,
     "tags": [
-      "Infrastructure",
-      "AI"
+      "Artificial Intelligence",
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
