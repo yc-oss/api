@@ -1133,22 +1133,24 @@
   },
   {
     "id": 31327,
-    "name": "Korso",
-    "slug": "korso",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bff684184cec0196e94661d371f2a25d85fea831.png",
-    "website": "https://korsoai.com/",
-    "all_locations": "Los Angeles, CA, USA",
-    "long_description": "Check out our first product at https://www.korsoai.com/shepherd (agent collaboration tool for coding, so you never face merge conflicts or agents rewriting each other again)",
-    "one_liner": "Tooling for the next generation of software.",
+    "name": "afterfive",
+    "slug": "afterfive",
+    "former_names": [
+      "Korso"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ffe4f023354ca9c8b2f9a3ebb3669cf29726f1d.png",
+    "website": "https://afterfive.club/",
+    "all_locations": "Irvine, CA, USA",
+    "long_description": "As the nature of work and society continually make it harder for the younger generation to make lasting connections, afterfive is building offline events, and eventually spaces, for irl human interaction.",
+    "one_liner": "Life starts after five.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1773339255,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
-      "Market Research"
+      "Consumer",
+      "Social"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1167,9 +1169,9 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/korso",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/korso.json"
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/afterfive",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/afterfive.json"
   },
   {
     "id": 31329,
@@ -3076,13 +3078,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1efbbb9a75fe89206f180f9f9d1afb75dba57ca0.png",
     "website": "https://instaagent.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "InstaAgent helps consumer brands scale a single campaign across hundreds of specific audiences on Meta and TikTok, each with its own content, voice, and targeting. Traction: $1M Ann. Run Rate in 10 months, and doubled to $2M in 4 months during YC.\r\n\r\nFrom one brief, we create personalized creatives, distribute them through paid channels and niche social accounts, and use performance data to learn what works, scale winners, and improve every campaign.",
+    "long_description": "InstaAgent helps B2C companies scale a single campaign across hundreds of specific audiences on Meta and TikTok, each with its own content, voice, and targeting. Traction: $1M Ann. Run Rate in 10 months.\r\n\r\nFrom one brief, we create personalized creatives, distribute them through paid channels and niche social accounts, and use performance data to learn what works, scale winners, and improve every campaign.",
     "one_liner": "Scale marketing campaigns across hundreds of personas",
-    "team_size": 9,
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1778187883,
-    "tags": [],
+    "tags": [
+      "Marketing",
+      "Advertising"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -5068,7 +5073,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Clone any postgres DB regardless of size in 6s so agents can test their work",
     "one_liner": "Database sandboxes for Agents",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1775685642,
@@ -5139,8 +5144,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/86b9dc2025d8d9aaca7a7d152afe3f067bb14268.png",
     "website": "https://silmaril.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Silmaril is the first runtime security for AI that self-improves. It understands application context to block 2x as many threats as current SOTA defenses with 10x lower latency. Customers plug us into agentic frameworks like LangGraph with 5 lines of code. Silmaril has stopped $28M of damages for customers.",
-    "one_liner": "Runtime security for AI that self-improves",
+    "long_description": "Silmaril is the first security for agents that self-improves. It understands application context to block 2x as many threats as current SOTA defenses with 10x lower latency. Customers plug us into agentic frameworks like LangGraph with 5 lines of code. Silmaril has stopped $28M of damages for customers.",
+    "one_liner": "Security for agents that self-improves",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -6422,7 +6427,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2026",
     "status": "Active",
@@ -6449,7 +6454,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37b7a4d126859b0a7edce4eaee5984ecd6f85757.png",
     "website": "https://revnu.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Manchester, England, United Kingdom",
     "long_description": "Revnu is your AI growth team. Built to run your whole GTM while you focus on building, Revnu is the best way to grow with AI. \r\n\r\nOur agents run every growth channel: outbound, ads, SEO, social, etc all on one shared intelligence, so learnings from one channel automatically improve all the others.\r\n\r\nYou keep shipping. We run the business.\r\n",
     "one_liner": "The growth infrastructure for the autonomous business",
     "team_size": 2,
@@ -6457,13 +6462,13 @@
     "subindustry": "B2B -> Marketing",
     "launched_at": 1776869663,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Advertising"
+      "Advertising",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2026",
     "status": "Active",
@@ -6472,8 +6477,8 @@
       "Marketing"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "United Kingdom",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,

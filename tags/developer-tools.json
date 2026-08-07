@@ -10152,18 +10152,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/36bc77538c7b2b901965b5e1ff49fe05b84cc1f1.png",
     "website": "https://velt.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Add features like contextual Comments, Notifications, Recordings, Multiplayer editing, Huddles, Activity Logs to your product.",
-    "one_liner": "The Complete Collaboration Toolkit",
+    "long_description": "For most of software's history the hard part was making things. Writing the code, drafting the document, putting the report together. That is the part that is getting cheap. An agent can now produce in an afternoon what used to take a team a month.\r\n\r\nWhat doesn't get cheaper is verifying it. Someone still has to look at what the machine did, decide whether it's right, and answer for that decision later. Output goes up, review capacity doesn't, and that is where the work now piles up.\r\n\r\nVelt is the infrastructure for that step, and it treats agents and people as the same kind of reviewer. A review agent takes the first pass and catches what a machine can catch. A person makes the call on what actually matters. Both work on the same object, in the same thread, under the same rules. Only after approval is the change applied, through your own webhook, and every decision is recorded, so you can always show who allowed what and when.\r\n\r\nTeams build this themselves and it takes about two quarters. Comments, approvals, review agents, notifications, audit trails: the boring parts nobody thinks about until they're three months in. With Velt it's a few components you drop into a React, Next, Vue, or Angular app.",
+    "one_liner": "SDK for adding an agent and human governance layer to your product",
     "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1646206414,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "Collaboration",
-      "Compliance"
+      "Compliance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11871,7 +11871,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -14170,8 +14170,8 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/34f2cd4e65f065f81d234d6cfb21f911860e50cc.png",
     "website": "https://www.litellm.ai/",
-    "all_locations": "Albany, NY, USA",
-    "long_description": "LiteLLM is an open-source LLM Gateway with 18K+ stars on GitHub and trusted by companies like Rocket Money, Samsara, Lemonade, and Adobe. LiteLLM provides an open source Python SDK and Python FastAPI Server that allows calling 100+ LLM APIs (Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic) in the OpenAI format\r\n\r\nWe have raised a $1.6M seed round from Y Combinator, Gravity Fund and Pioneer Fund",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "LiteLLM is an open-source LLM Gateway with 50K+ stars on GitHub and trusted by companies like Rocket Money, Samsara, Lemonade, and Adobe. LiteLLM provides an open source Python SDK and Python FastAPI Server that allows calling 100+ LLM APIs (Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic) in the OpenAI format\r\n\r\nWe have raised a $1.6M seed round from Y Combinator, Gravity Fund and Pioneer Fund",
     "one_liner": "Call every LLM API like it's OpenAI [100+ LLMs]",
     "team_size": 10,
     "industry": "B2B",
@@ -14179,10 +14179,10 @@
     "launched_at": 1675814900,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -16746,7 +16746,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -19036,17 +19036,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/374e6b2cd282f5fe31c64fcc82aaebb3105153c9.png",
     "website": "https://innate.bot",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We make personal AI robots - general-purpose physical machines that anyone can program with code, language and demonstrations.\r\n\r\nWe believe building open platforms like the first PCs this is the only way to bring the robotics future that we all want, where everyone can participate in the robotics revolution.",
+    "long_description": "We make personal AI robots - general-purpose physical machines that anyone can teach with code, language and demonstrations.\r\n\r\nWe believe building open platforms like the first PCs this is the only way to bring the robotics future that we all want, where everyone can participate in the robotics revolution.",
     "one_liner": "Personal AI Robots",
     "team_size": 7,
     "industry": "Consumer",
     "subindustry": "Consumer -> Consumer Electronics",
     "launched_at": 1730365227,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Hard Tech",
-      "Robotics",
-      "AI"
+      "Robotics"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21394,14 +21394,14 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1752258104,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Hardware",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -21988,8 +21988,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/db1cb9787e09629b6ccb1639f659a5f8d0bb21b1.png",
     "website": "https://dari.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We let developers deploy AI agents as API endpoints with built-in tools, sandboxes, and durable execution.\r\n\r\nAgents maintain state, run long-lived workflows, and handle retries automatically.",
-    "one_liner": "The Production Layer for AI Agents",
+    "long_description": "We let developers run more agents while keeping your token bill low. We train custom models to determine how we can maintain performance while reducing your token bill. \r\n\r\nIntegrate into your own apps, or use our router with Claude Code, Codex, or any agent of your choice. ",
+    "one_liner": "The Routing Layer for AI Agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -23289,6 +23289,45 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/speko.json"
   },
   {
+    "id": 32172,
+    "name": "Solo Labs",
+    "slug": "solo-labs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d863d3cf6091c132bb3f8d22d57b3597bc971de.png",
+    "website": "https://jcode.sh/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We make an open source low ram coding agent that enables extreme parallelization for coding tasks. Our coding agent produces SOTA results on coding benchmarks. ",
+    "one_liner": "Coding Agents",
+    "team_size": 1,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1786012852,
+    "tags": [
+      "Developer Tools",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/solo-labs",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/solo-labs.json"
+  },
+  {
     "id": 32198,
     "name": "Riften",
     "slug": "riften",
@@ -23933,5 +23972,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/simantic",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/simantic.json"
+  },
+  {
+    "id": 34464,
+    "name": "herdr",
+    "slug": "herdr",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/16f63118d9ed1edf6a055497860b53107c37b334.png",
+    "website": "https://herdr.dev/",
+    "all_locations": "Ankara, Ankara, Turkey",
+    "long_description": "Developers don't run one coding agent anymore. They run fleets of them — for hours, sometimes days — across laptops, servers, and sandboxes. Keeping track of that work is the new bottleneck: which agent is blocked, which one finished, which terminal is it in, and why did everything die when the laptop closed.\r\n\r\nHerdr is the open-source home for that work. A background server owns the agents' terminal sessions on each machine, so the work survives disconnects, closed lids, and dropped SSH. Herdr detects each agent and turns the chaos into an attention queue — working, blocked, done, across every project — so you look only when an agent needs you. Every client is just a view: the bundled terminal UI, SSH from another machine, your phone. Close one, open another; the work never stops.\r\n\r\nSoftware can drive it too: a CLI, a socket API, and a plugin marketplace that passed 500 community plugins in its first month. The runtime is Apache-2.0 and stays open. Four months after launch: 25k GitHub stars, 340k downloads.",
+    "one_liner": "building the open agent runtime",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1786038738,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Turkey",
+      "Middle East and North Africa"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/herdr",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/herdr.json"
   }
 ]

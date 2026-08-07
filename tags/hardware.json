@@ -4529,7 +4529,7 @@
     "website": "https://outerport.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Building out new LNG plants, HVAC systems, or semiconductor processes rely on hundreds of iterations of feasibility testing (through simulation or real-world lab tests) where different designs (combinations of equipment) and parameters are validated. The parameters are often locked in PDFs (datasheets, wiring diagrams, PFDs/P&IDs) which take thousands of hours to convert into CSVs / JSONs, and the simulators don't have an easy API to work with. Outerport bridges the gap by finding documents from PLMs, extracting structured data from drawings, building a knowledge graph over them, and building autonomous AI agents that can fully automate this R&D process by running simulations and performing design checks.",
-    "one_liner": "AI Electromechanical Process Engineers for Heavy Industries",
+    "one_liner": "Agents that design machines and factories",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -5180,14 +5180,14 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1752258104,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Hardware",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -5565,7 +5565,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f3743327b1fc85ded6caddbd532e0c600eb2cb0.png",
     "website": "https://tensr.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tensr is building fully autonomous robotic factories that make scaling hardware as effortless as scaling on AWS. We’re a group of Berkeley graduate robotics researchers who previously won a full scale autonomous IndyCar competition at 160mph.",
+    "long_description": "Robotic factories that build robotics in the US.\r\n\r\nWe’re a group of Berkeley graduate robotics researchers who previously won a full scale autonomous IndyCar competition at 160mph.",
     "one_liner": "Fully autonomous robotic factories",
     "team_size": 3,
     "industry": "Industrials",
@@ -6284,6 +6284,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/greypoint-industries",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/greypoint-industries.json"
+  },
+  {
+    "id": 32650,
+    "name": "Risklytics",
+    "slug": "risklytics",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9bea08668ad223dfeb2f0c2d3799c02476bc4493.png",
+    "website": "https://www.risklytics.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Risklytics is a commercial insurance brokerage for frontier tech: robotics, autonomy, data centers, and energy infrastructure. Insurers are writing AI exclusions into standard liability forms, so companies whose products act in the physical world end up holding risk they thought they had transferred. We specialize in that gap, and we know which carriers in the admitted and surplus lines markets will still underwrite it. If you're building anything that moves, lifts, drives, or powers something, we'd like to talk.",
+    "one_liner": "Commercial Insurance Brokerage for Frontier Tech",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1783123197,
+    "tags": [
+      "Hardware",
+      "Machine Learning",
+      "B2B",
+      "Insurance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/risklytics",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/risklytics.json"
   },
   {
     "id": 32750,

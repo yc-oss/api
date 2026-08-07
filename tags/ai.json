@@ -1793,13 +1793,15 @@
   },
   {
     "id": 1891,
-    "name": "Klarity",
-    "slug": "klarity",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5d4790f2b102f3fd696a88213e44f23e7083929b.png",
-    "website": "http://klarity.ai",
+    "name": "Within",
+    "slug": "within",
+    "former_names": [
+      "Klarity"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2042332b2acb87efa7d99dd0d67b29d1b1a0c882.png",
+    "website": "http://within.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Klarity is a Company Brain used by OpenAI, DoorDash, ServiceNow, Salesforce, JLL, McKesson for AI Transformation. Our product maps  how work actually gets done, structure it, and reallocate it between people and agents.\r\n\r\nDiscover: Employees log into our web app — nothing to install — share their screen, and work as usual. Klarity maps and anonymizes every task while sending Signals back to highlight what they do well.\r\n\r\nStructure: Klarity agents consolidate activity across the enterprise into a Company Brain: how work gets done, how decisions are made, how approvals flow, how controls are enforced, when work actually happens.\r\n\r\nImprove: Against your business objectives, Klarity finds the right opportunities for agents, builds those agents, and redesigns the people, process, and rituals around them.\r\n",
+    "long_description": "Within (formerly Klarity) is a Company Brain used by OpenAI, DoorDash, ServiceNow, Salesforce, JLL, McKesson for AI Transformation. Our product maps  how work actually gets done, structure it, and reallocate it between people and agents.\r\n\r\nDiscover: Employees log into our web app — nothing to install — share their screen, and work as usual. Within maps and anonymizes every task while sending Signals back to highlight what they do well.\r\n\r\nStructure: Within agents consolidate activity across the enterprise into a Company Brain: how work gets done, how decisions are made, how approvals flow, how controls are enforced, when work actually happens.\r\n\r\nImprove: Against your business objectives, Within finds the right opportunities for agents, builds those agents, and redesigns the people, process, and rituals around them.\r\n",
     "one_liner": "Company Brain for people and agents to work in harmony. ",
     "team_size": 128,
     "industry": "B2B",
@@ -1825,13 +1827,13 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/klarity",
-    "api": "https://yc-oss.github.io/api/batches/summer-2018/klarity.json"
+    "url": "https://www.ycombinator.com/companies/within",
+    "api": "https://yc-oss.github.io/api/batches/summer-2018/within.json"
   },
   {
     "id": 1898,
@@ -4637,6 +4639,54 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/humanloop",
     "api": "https://yc-oss.github.io/api/batches/summer-2020/humanloop.json"
+  },
+  {
+    "id": 21969,
+    "name": "Nextera Robotics | DIDGE.ai",
+    "slug": "nextera-robotics-didgeai",
+    "former_names": [
+      "RCML",
+      "NeXtera Robotics",
+      "NextEra Robotics",
+      "Nextera Robotics"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/98038d3f6de4865c9f869822e2af32391f49256e.png",
+    "website": "https://nexterarobotics.com",
+    "all_locations": "Boston, MA, USA",
+    "long_description": "AI-native Robotics and Industrial Automation.",
+    "one_liner": "AI-native Robotics",
+    "team_size": 20,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1599762606,
+    "tags": [
+      "Autonomous Delivery",
+      "Deep Learning",
+      "Robotics",
+      "Construction",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2020",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/nextera-robotics-didgeai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2020/nextera-robotics-didgeai.json"
   },
   {
     "id": 22002,
@@ -9348,6 +9398,56 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2022/siftly.json"
   },
   {
+    "id": 25663,
+    "name": "Velt",
+    "slug": "velt",
+    "former_names": [
+      "Snippyly Inc.",
+      "Snippyly",
+      "Velt",
+      "Velt: Collaboration SDK"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/36bc77538c7b2b901965b5e1ff49fe05b84cc1f1.png",
+    "website": "https://velt.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "For most of software's history the hard part was making things. Writing the code, drafting the document, putting the report together. That is the part that is getting cheap. An agent can now produce in an afternoon what used to take a team a month.\r\n\r\nWhat doesn't get cheaper is verifying it. Someone still has to look at what the machine did, decide whether it's right, and answer for that decision later. Output goes up, review capacity doesn't, and that is where the work now piles up.\r\n\r\nVelt is the infrastructure for that step, and it treats agents and people as the same kind of reviewer. A review agent takes the first pass and catches what a machine can catch. A person makes the call on what actually matters. Both work on the same object, in the same thread, under the same rules. Only after approval is the change applied, through your own webhook, and every decision is recorded, so you can always show who allowed what and when.\r\n\r\nTeams build this themselves and it takes about two quarters. Comments, approvals, review agents, notifications, audit trails: the boring parts nobody thinks about until they're three months in. With Velt it's a few components you drop into a React, Next, Vue, or Angular app.",
+    "one_liner": "SDK for adding an agent and human governance layer to your product",
+    "team_size": 15,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1646206414,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "Collaboration",
+      "Compliance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/velt",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/velt.json"
+  },
+  {
     "id": 25684,
     "name": "Curacel",
     "slug": "curacel",
@@ -12044,6 +12144,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/fini.json"
   },
   {
+    "id": 27046,
+    "name": "Atlas",
+    "slug": "atlaswork",
+    "former_names": [
+      "Hostfi",
+      "Accountable"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/98f68049bfdd41edf9f9b38ee72e792b28ec89a9.png",
+    "website": "https://atlaswork.ai",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "Atlas is an AI contract agent. It fills your agreement template, gets every signature, then runs next actions: files the signed copy to your CRM, pings your team, and watches the renewal. \r\n\r\nTeams use Atlas from chat (Claude, ChatGPT, Cursor), from the dashboard, or through our API and MCP.",
+    "one_liner": "AI contract agent: Fill a template, get signed, and run next actions.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1659966857,
+    "tags": [
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/atlaswork",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/atlaswork.json"
+  },
+  {
     "id": 27108,
     "name": "Sanifu",
     "slug": "sanifu",
@@ -12348,7 +12490,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -15376,53 +15518,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/fetchr.json"
   },
   {
-    "id": 28409,
-    "name": "LiteLLM",
-    "slug": "litellm",
-    "former_names": [
-      "Clerkie",
-      "BerriAI",
-      "LiteLLM",
-      "BerriAI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/34f2cd4e65f065f81d234d6cfb21f911860e50cc.png",
-    "website": "https://www.litellm.ai/",
-    "all_locations": "Albany, NY, USA",
-    "long_description": "LiteLLM is an open-source LLM Gateway with 18K+ stars on GitHub and trusted by companies like Rocket Money, Samsara, Lemonade, and Adobe. LiteLLM provides an open source Python SDK and Python FastAPI Server that allows calling 100+ LLM APIs (Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic) in the OpenAI format\r\n\r\nWe have raised a $1.6M seed round from Y Combinator, Gravity Fund and Pioneer Fund",
-    "one_liner": "Call every LLM API like it's OpenAI [100+ LLMs]",
-    "team_size": 10,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1675814900,
-    "tags": [
-      "AIOps",
-      "Developer Tools",
-      "Generative AI",
-      "Open Source",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/litellm",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/litellm.json"
-  },
-  {
     "id": 28417,
     "name": "Yuma AI",
     "slug": "yuma-ai",
@@ -18389,6 +18484,50 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/onyx.json"
   },
   {
+    "id": 29181,
+    "name": "Event Horizon Labs",
+    "slug": "event-horizon-labs",
+    "former_names": [
+      "EmergentAGI",
+      "SciPhi"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/952b6381b227fe13913d082e7f9bdec4731e8adb.png",
+    "website": "https://www.ehl.markets/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We are scaling autonomous research, Markets are our verification loop: agents turn hypotheses into strategies, test them, and compound what survives. \r\n",
+    "one_liner": "AI research lab automating all of investing",
+    "team_size": 10,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Asset Management",
+    "launched_at": 1710132587,
+    "tags": [
+      "Finance",
+      "Investing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Asset Management"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/event-horizon-labs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/event-horizon-labs.json"
+  },
+  {
     "id": 29182,
     "name": "Upsolve AI",
     "slug": "upsolve-ai",
@@ -21098,7 +21237,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B"
     ],
@@ -26809,48 +26948,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/capy.json"
   },
   {
-    "id": 30097,
-    "name": "Innate",
-    "slug": "innate",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/374e6b2cd282f5fe31c64fcc82aaebb3105153c9.png",
-    "website": "https://innate.bot",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We make personal AI robots - general-purpose physical machines that anyone can program with code, language and demonstrations.\r\n\r\nWe believe building open platforms like the first PCs this is the only way to bring the robotics future that we all want, where everyone can participate in the robotics revolution.",
-    "one_liner": "Personal AI Robots",
-    "team_size": 7,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Consumer Electronics",
-    "launched_at": 1730365227,
-    "tags": [
-      "Developer Tools",
-      "Hard Tech",
-      "Robotics",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Consumer Electronics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/innate",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/innate.json"
-  },
-  {
     "id": 30101,
     "name": "Kilvin",
     "slug": "kilvin",
@@ -27242,48 +27339,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/vetnio",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/vetnio.json"
-  },
-  {
-    "id": 30181,
-    "name": "Leaping AI",
-    "slug": "leaping-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2cf89546e97aa00342fd94e13a639b43add977d5.png",
-    "website": "https://www.leapingai.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Leaping AI is the best platform to deploy voice and texting AI agents for customer service, lead qualification and appointment scheduling. We target mid-market and Enterprise companies and industries are: home remodeling, roofing, pay per call, travel, retail, health insurance, Medicare, health and real estate.\r\n\r\nWe automated contact centers employing >100 human agents and now handle their incoming customer support and appointment scheduling calls, end-to-end. All while maintaining 90% customer satisfaction score.\r\n\r\nPain points that we solve: missed calls, insufficient speed to lead, not enough call center resources, call center inefficiencies, agents not sticking to the script, etc.\r\n\r\nAt its core, we have a multi-channel outreach campaign feature, whereby our customers can call and text potential leads over an arbitrary time period. If end customers call or text back, the Leaping voice or text AI agent can autonomously schedule appointments and resolve service requests.\r\n\r\nSome of our differentiating features: most-human like voice in the market, CRM integrations in place (Salesforce, Hubspot, MarketSharp, AccuLynx, JobNimbus, LeadPerfection, Google, etc.) and white-glove onboarding (in-person for larger accounts). Our AI agents can hold 100+ conversations at once, speak multiple languages and be equipped with company specific FAQ. Lastly, we have our own number health monitoring and DNC software.",
-    "one_liner": "AI voice and texting agents",
-    "team_size": 12,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1736780951,
-    "tags": [
-      "B2B",
-      "AI",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/leaping-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/leaping-ai.json"
   },
   {
     "id": 30183,
@@ -27862,7 +27917,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -28480,7 +28535,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -28650,7 +28705,7 @@
       "Belgium",
       "Europe"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -31738,48 +31793,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/trace-so.json"
   },
   {
-    "id": 30691,
-    "name": "Embedder",
-    "slug": "embedder",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be01ab7ec03dfffcf2a6f87ab306a19bf22fe64b.png",
-    "website": "https://www.embedder.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Embedder is an AI agent for embedded software. It reads your datasheets and schematics, writes the code, flashes the board, runs the tests, and fixes its own mistakes. Testing is hardware-in-the-loop: Embedder drives the equipment your team already owns (debug probes, logic analyzers, power profilers, oscilloscopes) and validates firmware on real silicon, not just against a compiler. Embedder works with some of the top semiconductor ecosystems in the world, supporting 500+ MCUs and 3,000+ peripherals.",
-    "one_liner": "Hardware-Aware AI for Embedded Software Development",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1752258104,
-    "tags": [
-      "Developer Tools",
-      "Hardware",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/embedder",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/embedder.json"
-  },
-  {
     "id": 30700,
     "name": "Nozomio",
     "slug": "nozomio",
@@ -33383,48 +33396,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/trelium.json"
   },
   {
-    "id": 30885,
-    "name": "Semble AI",
-    "slug": "semble-ai",
-    "former_names": [
-      "Cadence",
-      "Cadlit"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3be22ea19fa3ff9792176dc916455712e0e9ecda.png",
-    "website": "https://www.sembleai.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Semble builds custom AI agents trained on how your business actually runs and plugged into the tools your team already lives in.\r\n\r\nJonathan and Ethan met studying computer science at Stanford. Jonathan worked at Convergint, one of the world's largest building system integrators.",
-    "one_liner": "The AI operating system for the trades",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1758754473,
-    "tags": [
-      "SaaS",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/semble-ai",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/semble-ai.json"
-  },
-  {
     "id": 30889,
     "name": "Terrain",
     "slug": "terrain",
@@ -33602,6 +33573,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/logical",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/logical.json"
+  },
+  {
+    "id": 30911,
+    "name": "Helonic",
+    "slug": "helonic",
+    "former_names": [
+      "Articulate"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b26a35750dbae152a692ea82c2b00bb8f78d4d9b.png",
+    "website": "https://helonic.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We help construction teams eliminate rework, delays, and drawing confusion before construction starts. We analyze PDF plans, detect clashes and inconsistencies across disciplines, and create draft RFIs so teams can resolve issues early.\r\n\r\nThis saves construction companies hundreds of hours and millions of dollars.\r\n\r\nWhat we do:\r\n- Automatically detect clashes, missing information, and drawing mismatches\r\n- Align architectural, structural, and MEP plans so everything matches across sheets\r\n- Generate draft RFIs from issues we find\r\n- Replace long page-turn meetings with instant drawing analysis\r\n- Reduce rework and prevent schedule delays before boots hit the ground\r\n\r\nWe integrate with: Procore, Autodesk, email, and the tools teams already use\r\n\r\nTeams use us to:\r\n- Save hundreds of thousands to millions of dollars per project\r\n- Catch design and coordination issues early\r\n- Reduce RFIs and prevent field fixes\r\n- Keep projects on schedule with fewer surprises\r\n\r\nContact us at founders@helonic.com",
+    "one_liner": "Automatic Construction Drawing Clash Detection ",
+    "team_size": 2,
+    "industry": "Real Estate and Construction",
+    "subindustry": "Real Estate and Construction -> Construction",
+    "launched_at": 1760131149,
+    "tags": [
+      "Construction",
+      "B2B",
+      "Workflow Automation",
+      "Architecture",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Real Estate and Construction",
+      "Construction"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/helonic",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/helonic.json"
   },
   {
     "id": 30918,
@@ -34158,51 +34174,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/boom-ai",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/boom-ai.json"
-  },
-  {
-    "id": 30983,
-    "name": "Layers",
-    "slug": "layers",
-    "former_names": [
-      "Telemetron"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f8e38f7ff1a982099e585e1be50508d13d821286.png",
-    "website": "https://www.layers.bio/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Our mission is to quantify and improve how people look and feel using data from blood panels, DEXA scans, skin analysis, hair analysis, and many other tests. We evaluate a baseline, give clear steps on how to improve, and measure progress over time.",
-    "one_liner": "A 30 min appointment to measure everything in your body",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Consumer Health and Wellness",
-    "launched_at": 1759807426,
-    "tags": [
-      "Consumer Health Services",
-      "Health Tech",
-      "Beauty",
-      "Health & Wellness",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Consumer Health and Wellness"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/layers",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/layers.json"
   },
   {
     "id": 30999,
@@ -35856,6 +35827,90 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/tolmo.json"
   },
   {
+    "id": 31527,
+    "name": "Revnu",
+    "slug": "revnu",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37b7a4d126859b0a7edce4eaee5984ecd6f85757.png",
+    "website": "https://revnu.com",
+    "all_locations": "Manchester, England, United Kingdom",
+    "long_description": "Revnu is your AI growth team. Built to run your whole GTM while you focus on building, Revnu is the best way to grow with AI. \r\n\r\nOur agents run every growth channel: outbound, ads, SEO, social, etc all on one shared intelligence, so learnings from one channel automatically improve all the others.\r\n\r\nYou keep shipping. We run the business.\r\n",
+    "one_liner": "The growth infrastructure for the autonomous business",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1776869663,
+    "tags": [
+      "B2B",
+      "Advertising",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/revnu",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/revnu.json"
+  },
+  {
+    "id": 31537,
+    "name": "Trident",
+    "slug": "trident",
+    "former_names": [
+      "Esprit"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/537de46d97dcdac9c07b330a6a1a4b2ab0583b7b.png",
+    "website": "https://tridentsecurity.io/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Traditional security tools drown teams in useless alerts and logs. Trident chains vulnerabilities together like a real attacker, mapping verified attack paths across AWS, Azure, GCP, web apps, and APIs to show the exploits that actually cause business impact",
+    "one_liner": "Your AI Security Team ",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1785361922,
+    "tags": [
+      "Security",
+      "Cybersecurity",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/trident",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/trident.json"
+  },
+  {
     "id": 31550,
     "name": "Playabl.ai",
     "slug": "playablai",
@@ -36118,49 +36173,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/donkey.json"
   },
   {
-    "id": 32130,
-    "name": "Olam Labs",
-    "slug": "olam-labs",
-    "former_names": [
-      "Gud Labs"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6d9543a0527b0b5ac428e043f211c75ac5d1d59.png",
-    "website": "https://olamlabs.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Evaluating models for social behavior, safety, and performance through multi-agent simulated games. We use popular games like Catan, Risk, or Poker, and make humans come play them against talking AI opponents, but on the backend we're actually running a multi-agent environment used to evaluate the models for skill and behavior over large sample sizes.\r\n\r\nYou can play in Multi-Agent Arena and view our preliminary benchmarks today at https://olamlabs.ai/",
-    "one_liner": "Building multi-agent simulations for model evals and training.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1784577901,
-    "tags": [
-      "Reinforcement Learning",
-      "Gaming",
-      "Data Engineering",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/olam-labs",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/olam-labs.json"
-  },
-  {
     "id": 32134,
     "name": "Parasma",
     "slug": "parasma",
@@ -36200,6 +36212,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/parasma",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/parasma.json"
+  },
+  {
+    "id": 32138,
+    "name": "Nebula Security",
+    "slug": "nebula-security",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/33d955b678b21d1907f01bee006dfaf515655e98.png",
+    "website": "https://nebusec.ai",
+    "all_locations": "Vancouver, WA, USA; Remote",
+    "long_description": "Nebula Security is an AI-native cybersecurity company founded by world-class hackers.\r\n\r\nNebula Security provides Mythos-level cybersecurity reviews and product security auditing, conducted by our state-of-the-art AI agent and world-class hackers themselves, covering everything from code-level vulnerabilities to architectural weak points.\r\n\r\nWe were the first team to build an nginx RCE and the first to root Android 17. Our co-founders include members of the world’s No. 1 CTF team, DEF CON winners, Black Hat speakers, and PhD in cybersecurity. We have won $400K in bug bounties by exploiting the Linux kernel and Chrome browser.\r\n\r\n“Audited by Nebula Security” is a mark of serious security credibility: a signal to customers, investors, and partners that your product has been reviewed by the world’s best hackers.",
+    "one_liner": "Building Mythos for everyone",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1783007241,
+    "tags": [
+      "B2B",
+      "Security",
+      "Cybersecurity",
+      "Enterprise",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/nebula-security",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/nebula-security.json"
   },
   {
     "id": 32155,
@@ -36373,13 +36430,52 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/lemonlime.json"
   },
   {
+    "id": 32172,
+    "name": "Solo Labs",
+    "slug": "solo-labs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d863d3cf6091c132bb3f8d22d57b3597bc971de.png",
+    "website": "https://jcode.sh/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We make an open source low ram coding agent that enables extreme parallelization for coding tasks. Our coding agent produces SOTA results on coding benchmarks. ",
+    "one_liner": "Coding Agents",
+    "team_size": 1,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1786012852,
+    "tags": [
+      "Developer Tools",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/solo-labs",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/solo-labs.json"
+  },
+  {
     "id": 32190,
     "name": "Instaplay",
     "slug": "instaplay",
     "former_names": [
       "General Context Labs"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/875f7fd9fc3411ba9d4566f0b45d4b27576a4c83.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ca6a12b7633d4f00fe3906d5a5037f17c2e991d2.png",
     "website": "https://instaplay.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
@@ -37083,7 +37179,7 @@
     "name": "Risklytics",
     "slug": "risklytics",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b0ad1653f775fb272b3481e8715c274f46c2c464.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9bea08668ad223dfeb2f0c2d3799c02476bc4493.png",
     "website": "https://www.risklytics.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Risklytics is a commercial insurance brokerage for frontier tech: robotics, autonomy, data centers, and energy infrastructure. Insurers are writing AI exclusions into standard liability forms, so companies whose products act in the physical world end up holding risk they thought they had transferred. We specialize in that gap, and we know which carriers in the admitted and surplus lines markets will still underwrite it. If you're building anything that moves, lifts, drives, or powers something, we'd like to talk.",
@@ -37093,8 +37189,8 @@
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1783123197,
     "tags": [
+      "Hardware",
       "Machine Learning",
-      "Real Estate",
       "B2B",
       "Insurance",
       "AI"
@@ -37246,49 +37342,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/computable",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/computable.json"
-  },
-  {
-    "id": 32985,
-    "name": "Lumeria",
-    "slug": "lumeria",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3248066794d2775ccfb10dc3c2b88563b19d2b91.png",
-    "website": "https://lumeria.skin",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Your skin is yours, but understanding it has never felt that way. Getting answers has meant an appointment, a price, and a long trial-and-error process. We're changing that. Lumeria puts your skin in your own hands: the power to see it, know it, and own its story yourself, at home and on your terms.",
-    "one_liner": "Oura Ring for Skin.",
-    "team_size": 3,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Consumer Health and Wellness",
-    "launched_at": 1785008787,
-    "tags": [
-      "Consumer Health Services",
-      "Health Tech",
-      "Health & Wellness",
-      "Skincare",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Consumer Health and Wellness"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lumeria",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/lumeria.json"
   },
   {
     "id": 33014,
@@ -37666,6 +37719,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/openrelay.json"
   },
   {
+    "id": 33282,
+    "name": "Florin",
+    "slug": "florin",
+    "former_names": [
+      "Bolten AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/48074691217afbc59a4443c6ffa2379a823efda9.png",
+    "website": "https://florin.inc",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Florin is a full-stack insurance carrier where a model does the underwriting. When a submission comes in, Florin reads the ACORD forms, then investigates the risk on its own: satellite imagery, permits, public records, even the insured's Instagram, and catches exposures that never make it onto the application. It then simulates tens of thousands of ways the policy year could go, prices the risk, and returns a bindable quote in under a minute instead of weeks. The team is ex-Google, Tesla, Amazon, and Terra Firma, and the bet is that a carrier built this way wins on loss ratio, speed, and cost at the same time.",
+    "one_liner": "Florin is the insurance carrier with zero underwriters",
+    "team_size": 3,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1782360987,
+    "tags": [
+      "Fintech",
+      "Insurance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/florin",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/florin.json"
+  },
+  {
     "id": 33315,
     "name": "Amulet",
     "slug": "amulet",
@@ -37842,6 +37938,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/robocurve.json"
   },
   {
+    "id": 33540,
+    "name": "Osseus",
+    "slug": "osseus",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd39ca163a2a8ea396a6ec66701926317f9f416c.png",
+    "website": "https://osseus.ai/",
+    "all_locations": "",
+    "long_description": "Osseus is the intelligent development platform for robotics. It plugs into the tools a team already uses - CAD, ECAD, GitHub, Jira, docs, messaging, and test runs to build a live map of their robot stack: every part, board, requirement, test, and decision, and how they all depend on each other.\r\n\r\nWhen a hardware change is made, the map traces the downstream impact across mechanical, electrical, and software. Osseus's agents find which requirements may be compromised, run the attached tests and sims, create fixes of the affected hardware/software on branches, and re-run the tests to confirm the design still conforms.\r\n\r\nOsseus includes a robotics component marketplace. Teams can list spare parts and hardware for others to rent during prototyping, and designs can be evaluated against real component availability. If a part has a long lead time or is unavailable, engineers can quickly find compatible alternatives from the marketplace instead of waiting weeks or asking around their network.\r\n\r\nDesign review also happens in Osseus. Engineers see why a design might not work, what's been tried before, and why something was built the way it was, pulled from prior conversations between engineers and with suppliers. Suppliers comment directly on a part through a secure link instead of back and forth over email, and what they say is remembered. If a supplier flags that a design isn't machinable, or that changing a feature would cut cost, that insight automatically appears the next time someone designs something similar, saving time and money.\r\n\r\nOur long-term goal is for any professional team or hobbyist to import, fork, or create a robot in Osseus. Builders will be able to explore compatible components and supplier intelligence, edit the physical design, and receive proposed updates to the robot description, firmware, control software, simulation, and tests. We ultimately want to develop physical-AI models that reason jointly over the robot's geometry, electronics, kinematics, components, software, and real-world performance so people can optimize and iterate on robots much faster.",
+    "one_liner": "The intelligent development platform for robotics",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1783740069,
+    "tags": [
+      "Robotics",
+      "B2B",
+      "Enterprise Software",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/osseus",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/osseus.json"
+  },
+  {
     "id": 33838,
     "name": "Simantic",
     "slug": "simantic",
@@ -37924,5 +38062,44 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lambda-robotics",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/lambda-robotics.json"
+  },
+  {
+    "id": 34794,
+    "name": "Qokedas",
+    "slug": "qokedas",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/db2b316be3ecf24cfbcfc09074b3e2b8a1f3bb05.png",
+    "website": "https://qokedas.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Most of what happens on Earth is never written down. It passes through instruments as signal and disappears. Qokedas turns that signal into training data in the form of RL Environments, so labs can build models that read the physical world and operate the machines that measure it",
+    "one_liner": "Teaching models to decode the physical world",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1785795073,
+    "tags": [
+      "Deep Learning",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/qokedas",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/qokedas.json"
   }
 ]

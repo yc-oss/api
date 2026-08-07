@@ -7722,13 +7722,15 @@
   },
   {
     "id": 1891,
-    "name": "Klarity",
-    "slug": "klarity",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5d4790f2b102f3fd696a88213e44f23e7083929b.png",
-    "website": "http://klarity.ai",
+    "name": "Within",
+    "slug": "within",
+    "former_names": [
+      "Klarity"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2042332b2acb87efa7d99dd0d67b29d1b1a0c882.png",
+    "website": "http://within.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Klarity is a Company Brain used by OpenAI, DoorDash, ServiceNow, Salesforce, JLL, McKesson for AI Transformation. Our product maps  how work actually gets done, structure it, and reallocate it between people and agents.\r\n\r\nDiscover: Employees log into our web app — nothing to install — share their screen, and work as usual. Klarity maps and anonymizes every task while sending Signals back to highlight what they do well.\r\n\r\nStructure: Klarity agents consolidate activity across the enterprise into a Company Brain: how work gets done, how decisions are made, how approvals flow, how controls are enforced, when work actually happens.\r\n\r\nImprove: Against your business objectives, Klarity finds the right opportunities for agents, builds those agents, and redesigns the people, process, and rituals around them.\r\n",
+    "long_description": "Within (formerly Klarity) is a Company Brain used by OpenAI, DoorDash, ServiceNow, Salesforce, JLL, McKesson for AI Transformation. Our product maps  how work actually gets done, structure it, and reallocate it between people and agents.\r\n\r\nDiscover: Employees log into our web app — nothing to install — share their screen, and work as usual. Within maps and anonymizes every task while sending Signals back to highlight what they do well.\r\n\r\nStructure: Within agents consolidate activity across the enterprise into a Company Brain: how work gets done, how decisions are made, how approvals flow, how controls are enforced, when work actually happens.\r\n\r\nImprove: Against your business objectives, Within finds the right opportunities for agents, builds those agents, and redesigns the people, process, and rituals around them.\r\n",
     "one_liner": "Company Brain for people and agents to work in harmony. ",
     "team_size": 128,
     "industry": "B2B",
@@ -7754,13 +7756,13 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/klarity",
-    "api": "https://yc-oss.github.io/api/batches/summer-2018/klarity.json"
+    "url": "https://www.ycombinator.com/companies/within",
+    "api": "https://yc-oss.github.io/api/batches/summer-2018/within.json"
   },
   {
     "id": 1893,
@@ -12762,7 +12764,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -14920,53 +14922,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hellometer",
     "api": "https://yc-oss.github.io/api/batches/summer-2020/hellometer.json"
-  },
-  {
-    "id": 21969,
-    "name": "Nextera Robotics",
-    "slug": "nextera-robotics",
-    "former_names": [
-      "RCML",
-      "NeXtera Robotics",
-      "NextEra Robotics"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/98038d3f6de4865c9f869822e2af32391f49256e.png",
-    "website": "https://nexterarobotics.com",
-    "all_locations": "Boston, MA, USA",
-    "long_description": "Nextera Robotics is an AI-native Robotics and Industrial Automation company founded at MIT.",
-    "one_liner": "AI-native Robotics",
-    "team_size": 20,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1599762606,
-    "tags": [
-      "Artificial Intelligence",
-      "Autonomous Delivery",
-      "Deep Learning",
-      "Robotics",
-      "Construction"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2020",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/nextera-robotics",
-    "api": "https://yc-oss.github.io/api/batches/summer-2020/nextera-robotics.json"
   },
   {
     "id": 21986,
@@ -21090,6 +21045,7 @@
     "tags": [
       "AI-Enhanced Learning",
       "Medical Devices",
+      "Digital Health",
       "Therapeutics"
     ],
     "tags_highlighted": [],
@@ -24384,6 +24340,50 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2022/craniometrix.json"
   },
   {
+    "id": 25338,
+    "name": "Cozmo AI",
+    "slug": "cozmo-ai",
+    "former_names": [
+      "Zywa",
+      "CozmoX AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9b22096b578ff14b789d9b1882b55f7dc73e26f3.png",
+    "website": "https://www.hellocozmo.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Cozmo AI helps restoration franchisors, TPAs and adjusters put agents to work on US property insurance claims. Agents are autonomous AI workers that answer intake across all channels, coordinate crews and write up losses. Putting them to work means deploying across the full claim, from first notice of loss to crew dispatch and damage estimate to supplement approval. Work that took human teams days to weeks closes in minutes.\r\n\r\nCozmo is an operating system for the whole claim, end to end, and it runs on top of the estimating software, CRM and phone system already in place. Nothing gets ripped out and nothing gets migrated.\r\n\r\nThis allows operators to run more jobs per adjuster and send estimates that clear review the first time. On the carrier side, the same work cuts cycle time to hours and leaves a line-item record of every loss, so risk can be priced by property instead of by ZIP code.\r\n\r\nCozmo's platform captures context from every claim it touches and gets sharper with each one.\r\n\r\nGo to hellocozmo.ai and book a demo to see the Cozmo AI agents in action.",
+    "one_liner": "End-to-end AI agents for property claims, from loss report to estimate",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1644299294,
+    "tags": [
+      "Artificial Intelligence",
+      "Insurance",
+      "Enterprise",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cozmo-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/cozmo-ai.json"
+  },
+  {
     "id": 25340,
     "name": "Loops",
     "slug": "loops",
@@ -25651,18 +25651,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/36bc77538c7b2b901965b5e1ff49fe05b84cc1f1.png",
     "website": "https://velt.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Add features like contextual Comments, Notifications, Recordings, Multiplayer editing, Huddles, Activity Logs to your product.",
-    "one_liner": "The Complete Collaboration Toolkit",
+    "long_description": "For most of software's history the hard part was making things. Writing the code, drafting the document, putting the report together. That is the part that is getting cheap. An agent can now produce in an afternoon what used to take a team a month.\r\n\r\nWhat doesn't get cheaper is verifying it. Someone still has to look at what the machine did, decide whether it's right, and answer for that decision later. Output goes up, review capacity doesn't, and that is where the work now piles up.\r\n\r\nVelt is the infrastructure for that step, and it treats agents and people as the same kind of reviewer. A review agent takes the first pass and catches what a machine can catch. A person makes the call on what actually matters. Both work on the same object, in the same thread, under the same rules. Only after approval is the change applied, through your own webhook, and every decision is recorded, so you can always show who allowed what and when.\r\n\r\nTeams build this themselves and it takes about two quarters. Comments, approvals, review agents, notifications, audit trails: the boring parts nobody thinks about until they're three months in. With Velt it's a few components you drop into a React, Next, Vue, or Angular app.",
+    "one_liner": "SDK for adding an agent and human governance layer to your product",
     "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1646206414,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "Collaboration",
-      "Compliance"
+      "Compliance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -29999,7 +29999,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -31323,12 +31323,12 @@
     "name": "Numeral",
     "slug": "numeral",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0f30c988fde8ec60cc14e8c5cf656b62cd6d35d.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7a499f6b96256283dc99bacb914267102619b349.png",
     "website": "https://www.numeral.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Numeral is the fastest, easiest way to stay compliant with US sales tax and global VAT. \r\n\r\nTrusted by 3,000+ businesses, including Eight Sleep, Ridge, and Manus, our end-to-end platform keeps our customers compliant wherever they sell, with registrations, filings, calculations, and ongoing compliance support.\r\n\r\nNumeral’s AI-native solution covers more than 70 countries and tens of thousands of jurisdictions and is built for accuracy and scale.",
+    "long_description": "Numeral is the trusted solution for U.S. sales tax, VAT, and GST compliance, used by 3,000+ global businesses, including Eight Sleep, Supabase, and Brex.\r\n\r\nOur end-to-end platform keeps our customers compliant wherever they sell, with registrations, filings, calculations, and ongoing compliance support.\r\n\r\nNumeral’s AI-native solution covers more than 70 countries and tens of thousands of jurisdictions and is built for accuracy and scale.",
     "one_liner": "The AI-native sales tax solution.",
-    "team_size": 100,
+    "team_size": 110,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1672355505,
@@ -31355,7 +31355,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -32196,7 +32196,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -34087,8 +34087,8 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/34f2cd4e65f065f81d234d6cfb21f911860e50cc.png",
     "website": "https://www.litellm.ai/",
-    "all_locations": "Albany, NY, USA",
-    "long_description": "LiteLLM is an open-source LLM Gateway with 18K+ stars on GitHub and trusted by companies like Rocket Money, Samsara, Lemonade, and Adobe. LiteLLM provides an open source Python SDK and Python FastAPI Server that allows calling 100+ LLM APIs (Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic) in the OpenAI format\r\n\r\nWe have raised a $1.6M seed round from Y Combinator, Gravity Fund and Pioneer Fund",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "LiteLLM is an open-source LLM Gateway with 50K+ stars on GitHub and trusted by companies like Rocket Money, Samsara, Lemonade, and Adobe. LiteLLM provides an open source Python SDK and Python FastAPI Server that allows calling 100+ LLM APIs (Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic) in the OpenAI format\r\n\r\nWe have raised a $1.6M seed round from Y Combinator, Gravity Fund and Pioneer Fund",
     "one_liner": "Call every LLM API like it's OpenAI [100+ LLMs]",
     "team_size": 10,
     "industry": "B2B",
@@ -34096,10 +34096,10 @@
     "launched_at": 1675814900,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -36457,7 +36457,7 @@
     "all_locations": "New York City, NY, USA",
     "long_description": "Fortuna is a one-stop solution that helps consumers navigate Medicaid end-to-end from eligibility and enrollment to renewing coverage. \r\n\r\nOur platform creates value as the middleware layer for the $800B Medicaid ecosystem.",
     "one_liner": "TurboTax for Medicaid",
-    "team_size": 15,
+    "team_size": 16,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1691019691,
@@ -36480,7 +36480,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -38295,14 +38295,14 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We are scaling autonomous research, Markets are our verification loop: agents turn hypotheses into strategies, test them, and compound what survives. \r\n",
     "one_liner": "AI research lab automating all of investing",
-    "team_size": 4,
+    "team_size": 10,
     "industry": "Fintech",
     "subindustry": "Fintech -> Asset Management",
     "launched_at": 1710132587,
     "tags": [
-      "Artificial Intelligence",
       "Finance",
-      "Investing"
+      "Investing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -41171,6 +41171,53 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/openmart.json"
   },
   {
+    "id": 29425,
+    "name": "Zep AI",
+    "slug": "zep-ai",
+    "former_names": [
+      "Zep Software",
+      "Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/834036f2803ad1fb4cf8305e1be757592a8588a1.png",
+    "website": "https://www.getzep.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Zep assembles the right context from chat history, business data, and user behavior so agents are personalized, accurate, and fast. Our open source project Graphiti hit 20k GitHub stars in under 12 months. Sub-200ms retrieval, SOC 2 Type 2/HIPAA certified, used by teams from startups to Fortune 500s.",
+    "one_liner": "Agent Context Is Hard. We Fixed It.",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1709681560,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Infrastructure",
+      "Conversational AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zep-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/zep-ai.json"
+  },
+  {
     "id": 29431,
     "name": "Sonauto",
     "slug": "sonauto",
@@ -43171,7 +43218,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -46670,7 +46717,7 @@
     "website": "https://outerport.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Building out new LNG plants, HVAC systems, or semiconductor processes rely on hundreds of iterations of feasibility testing (through simulation or real-world lab tests) where different designs (combinations of equipment) and parameters are validated. The parameters are often locked in PDFs (datasheets, wiring diagrams, PFDs/P&IDs) which take thousands of hours to convert into CSVs / JSONs, and the simulators don't have an easy API to work with. Outerport bridges the gap by finding documents from PLMs, extracting structured data from drawings, building a knowledge graph over them, and building autonomous AI agents that can fully automate this R&D process by running simulations and performing design checks.",
-    "one_liner": "AI Electromechanical Process Engineers for Heavy Industries",
+    "one_liner": "Agents that design machines and factories",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -47919,17 +47966,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/374e6b2cd282f5fe31c64fcc82aaebb3105153c9.png",
     "website": "https://innate.bot",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We make personal AI robots - general-purpose physical machines that anyone can program with code, language and demonstrations.\r\n\r\nWe believe building open platforms like the first PCs this is the only way to bring the robotics future that we all want, where everyone can participate in the robotics revolution.",
+    "long_description": "We make personal AI robots - general-purpose physical machines that anyone can teach with code, language and demonstrations.\r\n\r\nWe believe building open platforms like the first PCs this is the only way to bring the robotics future that we all want, where everyone can participate in the robotics revolution.",
     "one_liner": "Personal AI Robots",
     "team_size": 7,
     "industry": "Consumer",
     "subindustry": "Consumer -> Consumer Electronics",
     "launched_at": 1730365227,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Hard Tech",
-      "Robotics",
-      "AI"
+      "Robotics"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48627,13 +48674,13 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Leaping AI is the best platform to deploy voice and texting AI agents for customer service, lead qualification and appointment scheduling. We target mid-market and Enterprise companies and industries are: home remodeling, roofing, pay per call, travel, retail, health insurance, Medicare, health and real estate.\r\n\r\nWe automated contact centers employing >100 human agents and now handle their incoming customer support and appointment scheduling calls, end-to-end. All while maintaining 90% customer satisfaction score.\r\n\r\nPain points that we solve: missed calls, insufficient speed to lead, not enough call center resources, call center inefficiencies, agents not sticking to the script, etc.\r\n\r\nAt its core, we have a multi-channel outreach campaign feature, whereby our customers can call and text potential leads over an arbitrary time period. If end customers call or text back, the Leaping voice or text AI agent can autonomously schedule appointments and resolve service requests.\r\n\r\nSome of our differentiating features: most-human like voice in the market, CRM integrations in place (Salesforce, Hubspot, MarketSharp, AccuLynx, JobNimbus, LeadPerfection, Google, etc.) and white-glove onboarding (in-person for larger accounts). Our AI agents can hold 100+ conversations at once, speak multiple languages and be equipped with company specific FAQ. Lastly, we have our own number health monitoring and DNC software.",
     "one_liner": "AI voice and texting agents",
-    "team_size": 12,
+    "team_size": 13,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1736780951,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "AI",
       "Conversational AI"
     ],
     "tags_highlighted": [],
@@ -49404,43 +49451,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/adam.json"
   },
   {
-    "id": 30241,
-    "name": "ZeroEntropy",
-    "slug": "zeroentropy",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b2774c0442b4c923fff05f20dbced23d34ad02f.png",
-    "website": "https://www.zeroentropy.dev",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We are on a mission to build the world’s most accurate, fastest, and cheapest task-specific models for every production AI system.\r\n\r\nMost AI products, whether copilots, agents, or search systems, depend on frontier LLMs to handle every step of their pipeline. \r\n\r\nYet, the vast majority of these steps are narrow, repeatable workloads: reranking, embedding, classification, routing, query rewriting, context compression, where frontier intelligence is overkill. \r\n\r\nRunning them on general-purpose models is slow and expensive, capping what production AI can achieve. \r\n\r\nThat is why we're building ZeroEntropy: to train small, task-specific models that replace frontier LLMs on these workloads, and empower developers to ship AI products that are more accurate, faster, and cheaper.",
-    "one_liner": "Artificial Specialized Intelligence",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1734458813,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/zeroentropy",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/zeroentropy.json"
-  },
-  {
     "id": 30243,
     "name": "Cifrato",
     "slug": "cifrato",
@@ -49654,47 +49664,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hud",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/hud.json"
-  },
-  {
-    "id": 30255,
-    "name": "Olive",
-    "slug": "olive",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/544faf85c3fb3b0e5acf3a985a6a1ce535df4377.png",
-    "website": "https://fromolive.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "Curated stories, every day",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Recruiting and Talent",
-    "launched_at": 1740018718,
-    "tags": [
-      "Productivity",
-      "Team Collaboration",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Recruiting and Talent"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/olive",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/olive.json"
   },
   {
     "id": 30256,
@@ -50645,7 +50614,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -50935,7 +50904,7 @@
       "Belgium",
       "Europe"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -52802,8 +52771,8 @@
     "website": "https://withnixo.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "​Nixo is the platform FDE teams use to unlock SaaS-level margins from services work. Connect customer conversations, engineering todos, and project delivery in one place to turn your custom work into repeatable leverage.",
-    "one_liner": "The first ops platform for forward deployed engineers",
-    "team_size": 4,
+    "one_liner": "Deployment intelligence for forward deployed engineers",
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1752219403,
@@ -53746,6 +53715,49 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/godela",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/godela.json"
+  },
+  {
+    "id": 30560,
+    "name": "Foundation Industries",
+    "slug": "foundation-industries",
+    "former_names": [
+      "Sava Robotics",
+      "SAVA Robotics",
+      "SAVA"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c9c4d6c7b4eeb36609b87bd95a70ffca51164330.png",
+    "website": "https://www.foundation-industries.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "For the first time in decades, fast, flexible domestic production can be economically superior. We’re rebuilding America’s productive edge through low-volume, high-mix manufacturing, helping hard-tech teams prototype faster, launch sooner, and build more here.\r\n\r\nIf you want to restore American productive power and ship real hardware, reach out.\r\n\r\njakob@foundation-industries.com",
+    "one_liner": "We supply hard tech companies with critical components.",
+    "team_size": 5,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1746512449,
+    "tags": [
+      "Manufacturing",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/foundation-industries",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/foundation-industries.json"
   },
   {
     "id": 30569,
@@ -55295,6 +55307,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/flai.json"
   },
   {
+    "id": 30691,
+    "name": "Embedder",
+    "slug": "embedder",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be01ab7ec03dfffcf2a6f87ab306a19bf22fe64b.png",
+    "website": "https://www.embedder.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Embedder is an AI agent for embedded software. It reads your datasheets and schematics, writes the code, flashes the board, runs the tests, and fixes its own mistakes. Testing is hardware-in-the-loop: Embedder drives the equipment your team already owns (debug probes, logic analyzers, power profilers, oscilloscopes) and validates firmware on real silicon, not just against a compiler. Embedder works with some of the top semiconductor ecosystems in the world, supporting 500+ MCUs and 3,000+ peripherals.",
+    "one_liner": "Hardware-Aware AI for Embedded Software Development",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1752258104,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Hardware",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/embedder",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/embedder.json"
+  },
+  {
     "id": 30696,
     "name": "GhostEye",
     "slug": "ghosteye",
@@ -55751,11 +55805,11 @@
       "Tarkana AI",
       "Socratix AI, Inc"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e2ca9bf4442a297067557ded4df426f78a01f37.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7af6f081383852b635f76937405cee3d3d50907d.png",
     "website": "https://getsocratix.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Socratix builds AI coworkers for fraud and risk teams so that humans don't have to spend their days drowning in alerts and spreadsheets.\r\n\r\nToday, fraud and risk teams at fintechs and banks are overwhelmed. Analysts jump between tools, manually stitch together context, and make judgment calls under pressure, often for hundreds of alerts a week. Too much of their work is slow, repetitive, and error-prone. We're here to change that. \r\n\r\nSocratix gives fraud and risk teams AI coworkers that investigate alerts in real time, replacing manual reviews with fast, explainable decisions. Socratix agents plug into existing workflows and reason across signals just like human analysts to help teams reduce fraud losses, minimize false positives, and scale operations without scaling headcount.\r\n\r\nWe've seen this problem firsthand. At DoorDash, Riya helped save $30M+ a year by building smarter fraud detection and investigation tooling, and at Unit21, she built products for analysts that made them 3X faster. We're able to build and sell enterprise-grade software. At Cruise, Satya built scalable AI systems powering petabyte-scale data, and at LinkedIn, he built enterprise products from 0 to 1 generating $50M+ in incremental revenue. Now, the two of us are teaming up to eliminate the manual toil in fraud and risk.\r\n\r\nWe're obsessed with fraud, LLMs, real-world automation, and the messy edge cases traditional ML has trouble handling. We believe that every fraud analyst should have an AI coworker - and the future of fraud will involve combining human-level reasoning with machine-speed execution. ",
-    "one_liner": "AI coworkers for fraud and risk teams.",
+    "long_description": "Socratix builds AI coworkers for fraud and compliance teams so that humans don't have to spend their days drowning in alerts and spreadsheets.\r\n\r\nToday, fraud and risk teams at fintechs and banks are overwhelmed. Analysts jump between tools, manually stitch together context, and make judgment calls under pressure, often for hundreds of alerts a week. Too much of their work is slow, repetitive, and error-prone. We're here to change that. \r\n\r\nSocratix gives fraud and risk teams AI coworkers that investigate alerts in real time, replacing manual reviews with fast, explainable decisions. Socratix agents plug into existing workflows and reason across signals just like human analysts to help teams reduce fraud losses, minimize false positives, and scale operations without scaling headcount.\r\n\r\nWe've seen this problem firsthand. At DoorDash, Riya helped save $30M+ a year by building smarter fraud detection and investigation tooling, and at Unit21, she built products for analysts that made them 3X faster. We're able to build and sell enterprise-grade software. At Cruise, Satya built scalable AI systems powering petabyte-scale data, and at LinkedIn, he built enterprise products from 0 to 1 generating $50M+ in incremental revenue. Now, the two of us are teaming up to eliminate the manual toil in fraud and compliance.\r\n\r\nWe're obsessed with fraud, LLMs, real-world automation, and the messy edge cases traditional ML has trouble handling. We believe that every fraud analyst should have an AI coworker - and the future of fraud will involve combining human-level reasoning with machine-speed execution. ",
+    "one_liner": "AI coworkers for fraud and compliance teams.",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
@@ -57265,8 +57319,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/490097dc2bb667a63917b9fa0c6e2003442ad353.png",
     "website": "https://usesoren.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Soren is the AI deployment company for small and midsize businesses.\r\n\r\nWe partner closely with clients to design, build, deploy, and continuously improve AI systems that solve their most important business problems and create a lasting operational advantage.\r\n\r\nLearn more at https://www.usesoren.com",
-    "one_liner": "The AI deployment company for small and midsize businesses. ",
+    "long_description": "Soren helps organizations turn frontier AI into specialized systems built for real-world deployment. We train, deploy, and continuously improve models around the data, workflows, and decisions that matter most.\r\n\r\nLearn more at https://www.usesoren.com",
+    "one_liner": "Specialized AI for Real-World Deployment",
     "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -57679,15 +57733,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3be22ea19fa3ff9792176dc916455712e0e9ecda.png",
     "website": "https://www.sembleai.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Semble builds custom AI agents trained on how your business actually runs and plugged into the tools your team already lives in.\r\n\r\nJonathan and Ethan met studying computer science at Stanford. Jonathan worked at Convergint, one of the world's largest building system integrators.",
-    "one_liner": "The AI operating system for the trades",
+    "long_description": "Semble is the operating system for your construction business. It's a live platform that keeps the office and the field in sync on every project and provides AI agents to run the workflows your business depends on.\r\n\r\nJonathan and Ethan met studying computer science at Stanford. Jonathan worked at Convergint, one of the world's largest building system integrators.",
+    "one_liner": "Operating system for your construction business.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1758754473,
     "tags": [
-      "SaaS",
-      "AI"
+      "Artificial Intelligence",
+      "SaaS"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -58655,6 +58709,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rovi-health",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/rovi-health.json"
+  },
+  {
+    "id": 30983,
+    "name": "Layers",
+    "slug": "layers",
+    "former_names": [
+      "Telemetron"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f8e38f7ff1a982099e585e1be50508d13d821286.png",
+    "website": "https://www.layers.bio/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Our mission is to quantify and improve how people look and feel using data from blood panels, DEXA scans, skin analysis, hair analysis, and many other tests. We evaluate a baseline, give clear steps on how to improve, and measure progress over time.",
+    "one_liner": "A 30 min appointment to measure everything in your body",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Consumer Health and Wellness",
+    "launched_at": 1759807426,
+    "tags": [
+      "Artificial Intelligence",
+      "Consumer Health Services",
+      "Health Tech",
+      "Beauty",
+      "Health & Wellness"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Consumer Health and Wellness"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/layers",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/layers.json"
   },
   {
     "id": 30986,
@@ -62469,7 +62568,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Clone any postgres DB regardless of size in 6s so agents can test their work",
     "one_liner": "Database sandboxes for Agents",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1775685642,
@@ -62795,6 +62894,90 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/agentphone",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/agentphone.json"
+  },
+  {
+    "id": 31526,
+    "name": "Uno Wallet",
+    "slug": "uno-wallet",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2393bf402ae2e425fc41cb7f78facb4b67fa9d5.png",
+    "website": "https://myunowallet.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We are changing the way that people pay...\r\n\r\nFounded by:\r\nSaket Joshi: www.linkedin.com/in/saket-dattatray-joshi/\r\nMordi Shadpour: www.linkedin.com/in/mordi-shadpour/",
+    "one_liner": "The AI mobile wallet that replaces Apple Pay",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Payments",
+    "launched_at": 1779834493,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Payments",
+      "Consumer",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Payments"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/uno-wallet",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/uno-wallet.json"
+  },
+  {
+    "id": 31527,
+    "name": "Revnu",
+    "slug": "revnu",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37b7a4d126859b0a7edce4eaee5984ecd6f85757.png",
+    "website": "https://revnu.com",
+    "all_locations": "Manchester, England, United Kingdom",
+    "long_description": "Revnu is your AI growth team. Built to run your whole GTM while you focus on building, Revnu is the best way to grow with AI. \r\n\r\nOur agents run every growth channel: outbound, ads, SEO, social, etc all on one shared intelligence, so learnings from one channel automatically improve all the others.\r\n\r\nYou keep shipping. We run the business.\r\n",
+    "one_liner": "The growth infrastructure for the autonomous business",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1776869663,
+    "tags": [
+      "B2B",
+      "Advertising",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/revnu",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/revnu.json"
   },
   {
     "id": 31528,
