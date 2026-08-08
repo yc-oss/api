@@ -12419,18 +12419,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c8427a4df46d5bdea47426e5463c809db03232f1.png",
     "website": "https://versionstory.com/",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Redline in Claude with perfect precision. Version Story is the redlining infrastructure partner for your legal business in the age of AI. Claude searches, summarizes, and creates. Version Story validates. We handcrafted our redline engine in partnership with law firms, including Dentons and Addleshaw Goddard. It is an algorithm, which means the result is the same every time. This is the perfect complement to the generative properties of AI. Wherever you work - whether in Claude, in ChatGPT, or in our standalone app - Version Story provides review and verification you can trust. And for those building out custom tools, we support embedding our redlining in your stack.",
-    "one_liner": "Claude Redlining Plugin",
-    "team_size": 6,
+    "long_description": "Version Story is the primary utility layer interface for agentic legal workflows. As tokens flow like water, Version Story provides deterministic redlining infrastructure that gives the trust layer shape. Claude searches, summarizes, and creates. Version Story validates.",
+    "one_liner": "Deterministic redlining at scale — now within Claude",
+    "team_size": 30,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1616475139,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Legal",
-      "LegalTech",
-      "AI"
+      "LegalTech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -42545,7 +42545,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -46045,11 +46045,11 @@
     "subindustry": "Real Estate and Construction -> Construction",
     "launched_at": 1760131149,
     "tags": [
+      "Artificial Intelligence",
       "Construction",
       "B2B",
       "Workflow Automation",
-      "Architecture",
-      "AI"
+      "Architecture"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46069,7 +46069,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": true,
+    "question_answers": false,
     "url": "https://www.ycombinator.com/companies/helonic",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/helonic.json"
   },
@@ -47540,6 +47540,48 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/lab0.json"
   },
   {
+    "id": 31432,
+    "name": "Keyframe Labs",
+    "slug": "keyframe-labs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ca6ef21e7c765ce2b9f612cc2ec833a2654c6bd4.png",
+    "website": "https://keyframelabs.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We build human foundation models. Our first family of models powers lifelike avatars that interact with users in real time, enabling AI agents and applications to go beyond text and voice with just a few lines of code. State-of-the-art realism with ultra-low latency at scale.",
+    "one_liner": "Bring AI to life with the world's best interactive avatars",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1774290085,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "SaaS",
+      "B2B",
+      "API"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/keyframe-labs",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/keyframe-labs.json"
+  },
+  {
     "id": 31437,
     "name": "Sidekick",
     "slug": "textsidekick",
@@ -48482,7 +48524,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "screenpipe record and learns how you work and turns it into a searchable memory, documents, and AI agents. Data is stored on your device or where your team choose, open source.",
     "one_liner": "AI powered by everything you've seen, said or heard",
-    "team_size": 6,
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1783386650,
@@ -48740,7 +48782,7 @@
     "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1779493772,
+    "launched_at": 1786056544,
     "tags": [
       "Artificial Intelligence",
       "Hard Tech",
@@ -48827,7 +48869,7 @@
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
-    "launched_at": 1780029412,
+    "launched_at": 1786061168,
     "tags": [
       "B2B",
       "Healthcare"
@@ -49152,7 +49194,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd39ca163a2a8ea396a6ec66701926317f9f416c.png",
     "website": "https://osseus.ai/",
     "all_locations": "",
-    "long_description": "Osseus is the intelligent development platform for robotics. It plugs into the tools a team already uses - CAD, ECAD, GitHub, Jira, docs, messaging, and test runs to build a live map of their robot stack: every part, board, requirement, test, and decision, and how they all depend on each other.\r\n\r\nWhen a hardware change is made, the map traces the downstream impact across mechanical, electrical, and software. Osseus's agents find which requirements may be compromised, run the attached tests and sims, create fixes of the affected hardware/software on branches, and re-run the tests to confirm the design still conforms.\r\n\r\nOsseus includes a robotics component marketplace. Teams can list spare parts and hardware for others to rent during prototyping, and designs can be evaluated against real component availability. If a part has a long lead time or is unavailable, engineers can quickly find compatible alternatives from the marketplace instead of waiting weeks or asking around their network.\r\n\r\nDesign review also happens in Osseus. Engineers see why a design might not work, what's been tried before, and why something was built the way it was, pulled from prior conversations between engineers and with suppliers. Suppliers comment directly on a part through a secure link instead of back and forth over email, and what they say is remembered. If a supplier flags that a design isn't machinable, or that changing a feature would cut cost, that insight automatically appears the next time someone designs something similar, saving time and money.\r\n\r\nOur long-term goal is for any professional team or hobbyist to import, fork, or create a robot in Osseus. Builders will be able to explore compatible components and supplier intelligence, edit the physical design, and receive proposed updates to the robot description, firmware, control software, simulation, and tests. We ultimately want to develop physical-AI models that reason jointly over the robot's geometry, electronics, kinematics, components, software, and real-world performance so people can optimize and iterate on robots much faster.",
+    "long_description": "Osseus is the intelligent development platform for robotics. It plugs into the tools a team already uses - CAD, ECAD, GitHub, Jira, docs, messaging, and test runs - creating a live dependency graph of their entire robot stack. It automatically builds and maintains the relationships between every part, board, requirement, test, and decision.\r\n\r\nWhen a hardware change is made, the map traces the downstream impact across mechanical, electrical, and software. Osseus's agents find which requirements may be compromised, run the attached tests and sims, create fixes for the affected hardware/software on branches, and re-run the tests to confirm the new design doesn’t break downstream.\r\n\r\nOsseus includes a robotics component marketplace. Teams can list spare parts and hardware for others to buy/rent during prototyping, and designs can be evaluated against real component availability. If a part has a long lead time or is unavailable, engineers can quickly find compatible alternatives in their area instead of waiting weeks or asking around their network.\r\n\r\nDesign review also happens in Osseus. Engineers see why a design might not work, what's been tried before, and why something was built the way it was, pulled from prior conversations between engineers and with suppliers. Suppliers comment directly on a part through a secure link instead of back and forth over email, and what they say is remembered. If a supplier flags that a design isn't machinable, or that changing a feature would cut cost, that insight automatically appears the next time someone designs something similar, saving time and money.\r\n\r\nWe ultimately will use the platform's deep engineering understanding to develop physical-AI models that reason jointly over the robot's geometry, electronics, kinematics, components, software, and real-world performance so people can optimize and iterate on robots much faster. Get in touch to learn more!",
     "one_liner": "The intelligent development platform for robotics",
     "team_size": 2,
     "industry": "B2B",

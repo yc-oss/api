@@ -800,7 +800,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -2640,16 +2640,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f0b69f56464fb22aa0805117c2f93c2b32f1c717.png",
     "website": "https://www.stackai.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "StackAI partners with enterprises to deploy custom AI agents to automate their most complex back-office workflows. Teams at BAE Systems, Monzo, Morgan & Morgan, and Goodwill work with StackAI to bring AI Agents to their operations.\r\n\r\nEnterprises use StackAI no-code to automate large compliance audits, knowledge work, legal intake, due diligence research, and insurance claim underwriting.\r\n\r\nAcquired by Asana (NYSE:ASAN) in May 2026.",
+    "long_description": "Acquired by Asana (NYSE:ASAN) in May 2026.\r\n\r\nStackAI partners with enterprises to deploy custom AI agents to automate their most complex back-office workflows. Teams at BAE Systems, Monzo, Morgan & Morgan, and Goodwill work with StackAI to bring AI Agents to their operations.\r\n\r\nEnterprises use StackAI no-code to automate large compliance audits, knowledge work, legal intake, due diligence research, and insurance claim underwriting.",
     "one_liner": "The Enterprise AI Transformation Platform",
     "team_size": 62,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1673634480,
     "tags": [
-      "Artificial Intelligence",
       "Enterprise",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4856,7 +4856,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "screenpipe record and learns how you work and turns it into a searchable memory, documents, and AI agents. Data is stored on your device or where your team choose, open source.",
     "one_liner": "AI powered by everything you've seen, said or heard",
-    "team_size": 6,
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1783386650,
@@ -4975,5 +4975,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rational",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/rational.json"
+  },
+  {
+    "id": 32625,
+    "name": "Qlo",
+    "slug": "qlo",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6bdf97a8fbe4a8a51a745ce366d9c6c2bfc6d75c.png",
+    "website": "https://www.getqlo.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Qlo uses AI to automate commercial underwriting end to end, from submission through renewal, for MGAs and program administrators.",
+    "one_liner": "AI that automates underwriting for commercial insurance carriers",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1786080312,
+    "tags": [
+      "SaaS",
+      "Insurance",
+      "Enterprise"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/qlo",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/qlo.json"
   }
 ]

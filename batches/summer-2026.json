@@ -525,7 +525,7 @@
     "name": "Ekpa",
     "slug": "ekpa",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e4cd183ffca48da0b8c0ac22b9a4a380bdecc65.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/06c4988b8eff9db30a66dc2c4f5f513eba67b606.png",
     "website": "https://goekpa.com/",
     "all_locations": "Boston, MA, USA",
     "long_description": "",
@@ -1172,16 +1172,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/537de46d97dcdac9c07b330a6a1a4b2ab0583b7b.png",
     "website": "https://tridentsecurity.io/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Traditional security tools drown teams in useless alerts and logs. Trident chains vulnerabilities together like a real attacker, mapping verified attack paths across AWS, Azure, GCP, web apps, and APIs to show the exploits that actually cause business impact",
-    "one_liner": "Your AI Security Team ",
+    "long_description": "Trident is the modern-day pentester. Instead of a slow, expensive report once a year, it's a continuous, agentic pentester that chains vulnerabilities together like a real attacker mapping verified attack paths across AWS, Azure, GCP, web apps, and APIs. Run AI attacks and get fixes.\r\n\r\nGet started today: tridentsecurity.io",
+    "one_liner": "Agents that find real exploitable vulnerabilities in your company ",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1785361922,
     "tags": [
+      "Artificial Intelligence",
       "Security",
-      "Cybersecurity",
-      "AI"
+      "Cybersecurity"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1950,7 +1950,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Private AI models are going to win. Belvedir is the infrastructure needed to make billions of them.\r\n\r\nBelvedir is making it cheap and easy for anyone to make private AI. Just connect us to your agent traces through our SDK and we can autonomously train custom models + harnesses + routers, privately host them, and recursively improve them as they are used. ",
     "one_liner": "The easiest way to make private AI models.",
-    "team_size": 2,
+    "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1784319754,
@@ -2692,7 +2692,7 @@
     "former_names": [
       "General Context Labs"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ca6a12b7633d4f00fe3906d5a5037f17c2e991d2.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f33f486af4ab2bd216ae15d9ac94f4d38738b34a.png",
     "website": "https://instaplay.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
@@ -2702,8 +2702,8 @@
     "subindustry": "Consumer -> Gaming",
     "launched_at": 1784188651,
     "tags": [
-      "Gaming",
-      "AI"
+      "Artificial Intelligence",
+      "Gaming"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3155,6 +3155,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/ai-coach.json"
   },
   {
+    "id": 32222,
+    "name": "Audun",
+    "slug": "audun",
+    "former_names": [
+      "Solvva"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d28813053904611d6b5fc0391c683bdbe842a4ad.png",
+    "website": "https://www.getaudun.com/",
+    "all_locations": "Oslo, Oslo, Norway",
+    "long_description": "Audun automates debt collection.",
+    "one_liner": "AI-native debt collection",
+    "team_size": 4,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1786093910,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Finance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "Norway",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/audun",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/audun.json"
+  },
+  {
     "id": 32223,
     "name": "Marble",
     "slug": "joinmarble",
@@ -3365,15 +3408,15 @@
     "name": "Exosat",
     "slug": "exosat",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4ada0c6c689e415dd6275bd653f7e5171ef2d584.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c71c0447005f2a40e7e7610af283842dbce65e39.png",
     "website": "https://www.exosat.com",
     "all_locations": "Singapore, Singapore",
-    "long_description": "Exosat is building a sovereign alternative to Starlink by mass manufacturing thousands of satellites that work as cell towers in space. By designing our architecture with zero U.S-origin parts and manufacturing with overseas partners, our satellites can be built at under a tenth of the usual cost and launched from any nation to bypass bottlenecks in launch capacity.\r\n\r\nWe're starting off by selling connectivity to OEMs and network operators, but will eventually use the distributed compute across our satellite constellation to support sovereign AI use cases as well.\r\n\r\nWe've already signed $400M+ in LOIs to work with operators across Central Asia, Southeast Asia, and the Middle East, booked our first satellite launch next year, and hold an 11,000 satellite filing with the ITU to build the largest comms network outside of the U.S. and China.",
+    "long_description": "Exosat is building thousands of low-cost communication satellites to provide a neutral, sovereign alternative to Starlink. By building our satellites with zero ITAR/EAR-controlled content, we can leverage manufacturers anywhere in the world to produce our satellites at under a tenth of the cost and launch them from any nation to bypass launch capacity bottlenecks.\r\n\r\nWe're starting off by selling connectivity to device OEMs and network operators, but will eventually use the distributed compute across our constellation to run low-latency inference for robots and autonomous vehicles in remote and rural areas anywhere on the planet.\r\n\r\nWe've already signed $400M+ in LOIs to work with operators across Central Asia, Southeast Asia, and the Middle East, booked our first satellite launch next year, and hold an 11,000 satellite filing with the ITU to build the largest comms network outside of the U.S. and China.",
     "one_liner": "Building a sovereign Starlink",
     "team_size": 1,
     "industry": "Industrials",
     "subindustry": "Industrials -> Aviation and Space",
-    "launched_at": 1778823803,
+    "launched_at": 1786056981,
     "tags": [
       "IoT",
       "Space Exploration",
@@ -3493,7 +3536,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "screenpipe record and learns how you work and turns it into a searchable memory, documents, and AI agents. Data is stored on your device or where your team choose, open source.",
     "one_liner": "AI powered by everything you've seen, said or heard",
-    "team_size": 6,
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1783386650,
@@ -4383,17 +4426,19 @@
     "name": "Almanac",
     "slug": "almanac",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12b18390ac9aff0968a7a1c2e09e151efc7a0913.png",
-    "website": "https://codealmanac.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/04034530613a233afe0d28a52bcfd6e9943b7ea7.png",
+    "website": "https://usealmanac.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Almanac is a self-updating wiki for your coding agents. It turns your team’s AI coding conversations into connected Markdown docs that live inside your repo. Your agents automatically search the wiki before making changes, so every agent working on the codebase starts with the same context, decisions, and implementation history. ",
-    "one_liner": "Self updating wiki for your coding agents",
+    "long_description": "Almanac is Hermes with a company brain. You message it in Slack or iMessage; it knows what is happening across your company and can use your accounts to get real tasks done for you. It has a full computer, browser and terminal. It takes your Gmail, Calendar, Attio, GitHub, AI convos, docs and meeting notes and compiles them into a Wiki that keeps itself up to date. It keeps a current understanding of what you’re building, who your customers are, what was decided, and what still needs to happen. It can use websites, run code, create files and take actions across your accounts. If it reaches a login, payment or decision it shouldn’t make alone, it pings you or hands you the live browser. \r\n",
+    "one_liner": "The AI that knows your company",
     "team_size": 0,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1784235632,
     "tags": [
-      "Generative AI"
+      "Generative AI",
+      "AI",
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4751,6 +4796,47 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/fabraix.json"
   },
   {
+    "id": 32625,
+    "name": "Qlo",
+    "slug": "qlo",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6bdf97a8fbe4a8a51a745ce366d9c6c2bfc6d75c.png",
+    "website": "https://www.getqlo.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Qlo uses AI to automate commercial underwriting end to end, from submission through renewal, for MGAs and program administrators.",
+    "one_liner": "AI that automates underwriting for commercial insurance carriers",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1786080312,
+    "tags": [
+      "SaaS",
+      "Insurance",
+      "Enterprise"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/qlo",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/qlo.json"
+  },
+  {
     "id": 32649,
     "name": "Daqstra",
     "slug": "daqstra",
@@ -4886,7 +4972,7 @@
     "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1779493772,
+    "launched_at": 1786056544,
     "tags": [
       "Artificial Intelligence",
       "Hard Tech",
@@ -5856,7 +5942,7 @@
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
-    "launched_at": 1780029412,
+    "launched_at": 1786061168,
     "tags": [
       "B2B",
       "Healthcare"
@@ -6707,6 +6793,51 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/hop-aero.json"
   },
   {
+    "id": 33279,
+    "name": "Hebbian Robotics",
+    "slug": "hebbian-robotics",
+    "former_names": [
+      "Vanda Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4e7272f21860060f8aa33bb297af6d18fab5ffdc.png",
+    "website": "https://hebbianrobotics.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We build APIs for searching and analyzing Physical AI data at scale, so providers have insight into the quality of their data, to sell more at higher prices.\r\n\r\nWe enable data providers to get on-demand signals and metrics on the quality of their data, without managing infrastructure.\r\n\r\nToday, we help our customers evaluate data quality without training a robotics model.",
+    "one_liner": "APIs for searching and analyzing Physical AI data at scale",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1786123276,
+    "tags": [
+      "Artificial Intelligence",
+      "Robotics",
+      "Data Science",
+      "Data Engineering",
+      "Databases"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hebbian-robotics",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/hebbian-robotics.json"
+  },
+  {
     "id": 33281,
     "name": "Earendil Robotics",
     "slug": "earendil-robotics",
@@ -7361,7 +7492,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd39ca163a2a8ea396a6ec66701926317f9f416c.png",
     "website": "https://osseus.ai/",
     "all_locations": "",
-    "long_description": "Osseus is the intelligent development platform for robotics. It plugs into the tools a team already uses - CAD, ECAD, GitHub, Jira, docs, messaging, and test runs to build a live map of their robot stack: every part, board, requirement, test, and decision, and how they all depend on each other.\r\n\r\nWhen a hardware change is made, the map traces the downstream impact across mechanical, electrical, and software. Osseus's agents find which requirements may be compromised, run the attached tests and sims, create fixes of the affected hardware/software on branches, and re-run the tests to confirm the design still conforms.\r\n\r\nOsseus includes a robotics component marketplace. Teams can list spare parts and hardware for others to rent during prototyping, and designs can be evaluated against real component availability. If a part has a long lead time or is unavailable, engineers can quickly find compatible alternatives from the marketplace instead of waiting weeks or asking around their network.\r\n\r\nDesign review also happens in Osseus. Engineers see why a design might not work, what's been tried before, and why something was built the way it was, pulled from prior conversations between engineers and with suppliers. Suppliers comment directly on a part through a secure link instead of back and forth over email, and what they say is remembered. If a supplier flags that a design isn't machinable, or that changing a feature would cut cost, that insight automatically appears the next time someone designs something similar, saving time and money.\r\n\r\nOur long-term goal is for any professional team or hobbyist to import, fork, or create a robot in Osseus. Builders will be able to explore compatible components and supplier intelligence, edit the physical design, and receive proposed updates to the robot description, firmware, control software, simulation, and tests. We ultimately want to develop physical-AI models that reason jointly over the robot's geometry, electronics, kinematics, components, software, and real-world performance so people can optimize and iterate on robots much faster.",
+    "long_description": "Osseus is the intelligent development platform for robotics. It plugs into the tools a team already uses - CAD, ECAD, GitHub, Jira, docs, messaging, and test runs - creating a live dependency graph of their entire robot stack. It automatically builds and maintains the relationships between every part, board, requirement, test, and decision.\r\n\r\nWhen a hardware change is made, the map traces the downstream impact across mechanical, electrical, and software. Osseus's agents find which requirements may be compromised, run the attached tests and sims, create fixes for the affected hardware/software on branches, and re-run the tests to confirm the new design doesn’t break downstream.\r\n\r\nOsseus includes a robotics component marketplace. Teams can list spare parts and hardware for others to buy/rent during prototyping, and designs can be evaluated against real component availability. If a part has a long lead time or is unavailable, engineers can quickly find compatible alternatives in their area instead of waiting weeks or asking around their network.\r\n\r\nDesign review also happens in Osseus. Engineers see why a design might not work, what's been tried before, and why something was built the way it was, pulled from prior conversations between engineers and with suppliers. Suppliers comment directly on a part through a secure link instead of back and forth over email, and what they say is remembered. If a supplier flags that a design isn't machinable, or that changing a feature would cut cost, that insight automatically appears the next time someone designs something similar, saving time and money.\r\n\r\nWe ultimately will use the platform's deep engineering understanding to develop physical-AI models that reason jointly over the robot's geometry, electronics, kinematics, components, software, and real-world performance so people can optimize and iterate on robots much faster. Get in touch to learn more!",
     "one_liner": "The intelligent development platform for robotics",
     "team_size": 2,
     "industry": "B2B",

@@ -1827,7 +1827,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -4309,62 +4309,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2020/airbyte.json"
   },
   {
-    "id": 13620,
-    "name": "Legionfarm",
-    "slug": "legionfarm",
-    "former_names": [
-      "Rocket Games Entertainment LLC",
-      "Rocket Games Entertainment Inc",
-      "Legionfarm",
-      "Legionfarm Group",
-      "LegionFarm",
-      "LegionFarm",
-      "LegionFarm Group",
-      "LegionFarm",
-      "LegionFarm Group",
-      "LegionFarm",
-      "LegionFarm Group",
-      "LegionFarm",
-      "Legionfarm",
-      "Legionfarm Group"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d52139d69bb434e6d76a4140915a34125b981220.png",
-    "website": "https://legionfarm.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "LegionFarm is the world's top AI-powered marketplace for gamers to hire elite pros (top 1%) for coaching, carry and companionship services in AAA games like WoW, Destiny 2, CoD, and Apex Legends. Founded in 2016, YC-backed (W20) with $17.8M from Twitch founders and investors, we've served 250k+ customers via two web platforms and five bots, creating 10k+ jobs for Pros worldwide.\r\n\r\nWe turn gaming hobbies into careers, delivering global entertainment and esports impact. Since 2023, our LLM-driven automation replaced 100+ ops roles, with an AI workspace featuring smart agents, real-time feedback, evals, and community fine-tuning for peak pro efficiency.",
-    "one_liner": "AI workspace for professional gamers",
-    "team_size": 7,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Gaming",
-    "launched_at": 1584077204,
-    "tags": [
-      "Gaming",
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2020",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Gaming"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/legionfarm",
-    "api": "https://yc-oss.github.io/api/batches/winter-2020/legionfarm.json"
-  },
-  {
     "id": 21769,
     "name": "Roboflow",
     "slug": "roboflow",
@@ -5429,51 +5373,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/expent-inc",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/expent-inc.json"
-  },
-  {
-    "id": 22790,
-    "name": "Version Story Compare",
-    "slug": "version-story-compare",
-    "former_names": [
-      "Version Story"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c8427a4df46d5bdea47426e5463c809db03232f1.png",
-    "website": "https://versionstory.com/",
-    "all_locations": "New York City, NY, USA",
-    "long_description": "Redline in Claude with perfect precision. Version Story is the redlining infrastructure partner for your legal business in the age of AI. Claude searches, summarizes, and creates. Version Story validates. We handcrafted our redline engine in partnership with law firms, including Dentons and Addleshaw Goddard. It is an algorithm, which means the result is the same every time. This is the perfect complement to the generative properties of AI. Wherever you work - whether in Claude, in ChatGPT, or in our standalone app - Version Story provides review and verification you can trust. And for those building out custom tools, we support embedding our redlining in your stack.",
-    "one_liner": "Claude Redlining Plugin",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B -> Legal",
-    "launched_at": 1616475139,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Legal",
-      "LegalTech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2021",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Legal"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/version-story-compare",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/version-story-compare.json"
   },
   {
     "id": 22832,
@@ -12944,6 +12843,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/middleware",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/middleware.json"
+  },
+  {
+    "id": 27667,
+    "name": "StackAI",
+    "slug": "stackai",
+    "former_names": [
+      "Stack",
+      "Stack AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f0b69f56464fb22aa0805117c2f93c2b32f1c717.png",
+    "website": "https://www.stackai.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Acquired by Asana (NYSE:ASAN) in May 2026.\r\n\r\nStackAI partners with enterprises to deploy custom AI agents to automate their most complex back-office workflows. Teams at BAE Systems, Monzo, Morgan & Morgan, and Goodwill work with StackAI to bring AI Agents to their operations.\r\n\r\nEnterprises use StackAI no-code to automate large compliance audits, knowledge work, legal intake, due diligence research, and insurance claim underwriting.",
+    "one_liner": "The Enterprise AI Transformation Platform",
+    "team_size": 62,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1673634480,
+    "tags": [
+      "Enterprise",
+      "Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Acquired",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": true,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/stackai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/stackai.json"
   },
   {
     "id": 27668,
@@ -28535,7 +28477,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -31490,49 +31432,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/stockline.json"
   },
   {
-    "id": 30663,
-    "name": "Tesora",
-    "slug": "tesora",
-    "former_names": [
-      "Tesora AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2793bc4802e1c1cddfc383aed3ac255ec33a0465.png",
-    "website": "https://tesora.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tesora builds frontier AI agents for actuaries at P&C carriers, reinsurers, and MGAs. The agents handle the assembly, pulling the data, running the method, and deploying the rater, while you review the work and make every call. We deploy inside the stack you already run, on your infra and under your IT team's control, with no shared servers and nothing to rip out. Your data never trains our models, or anyone else's. We treat this as a partnership so we stay hands-on until the work is live and holding up in production. That standard runs through our security posture too: SOC 2 Type II certified, with a full audit trail behind every change.\r\n\r\nThe part of the job that matters is actuarial judgment, and we automate everything around it so you get back to the work only you can do. Built by AI technologists and actuaries who want to see this exist and backed by Y Combinator & other top investors.",
-    "one_liner": "Frontier AI for Actuaries",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1755571936,
-    "tags": [
-      "API",
-      "Insurance",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tesora",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/tesora.json"
-  },
-  {
     "id": 30671,
     "name": "Panoptive",
     "slug": "panoptive",
@@ -33575,51 +33474,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/logical.json"
   },
   {
-    "id": 30911,
-    "name": "Helonic",
-    "slug": "helonic",
-    "former_names": [
-      "Articulate"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b26a35750dbae152a692ea82c2b00bb8f78d4d9b.png",
-    "website": "https://helonic.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We help construction teams eliminate rework, delays, and drawing confusion before construction starts. We analyze PDF plans, detect clashes and inconsistencies across disciplines, and create draft RFIs so teams can resolve issues early.\r\n\r\nThis saves construction companies hundreds of hours and millions of dollars.\r\n\r\nWhat we do:\r\n- Automatically detect clashes, missing information, and drawing mismatches\r\n- Align architectural, structural, and MEP plans so everything matches across sheets\r\n- Generate draft RFIs from issues we find\r\n- Replace long page-turn meetings with instant drawing analysis\r\n- Reduce rework and prevent schedule delays before boots hit the ground\r\n\r\nWe integrate with: Procore, Autodesk, email, and the tools teams already use\r\n\r\nTeams use us to:\r\n- Save hundreds of thousands to millions of dollars per project\r\n- Catch design and coordination issues early\r\n- Reduce RFIs and prevent field fixes\r\n- Keep projects on schedule with fewer surprises\r\n\r\nContact us at founders@helonic.com",
-    "one_liner": "Automatic Construction Drawing Clash Detection ",
-    "team_size": 2,
-    "industry": "Real Estate and Construction",
-    "subindustry": "Real Estate and Construction -> Construction",
-    "launched_at": 1760131149,
-    "tags": [
-      "Construction",
-      "B2B",
-      "Workflow Automation",
-      "Architecture",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "Real Estate and Construction",
-      "Construction"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/helonic",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/helonic.json"
-  },
-  {
     "id": 30918,
     "name": "ComplyDo",
     "slug": "complydo",
@@ -35458,7 +35312,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2026",
     "status": "Active",
@@ -35866,49 +35720,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/revnu",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/revnu.json"
-  },
-  {
-    "id": 31537,
-    "name": "Trident",
-    "slug": "trident",
-    "former_names": [
-      "Esprit"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/537de46d97dcdac9c07b330a6a1a4b2ab0583b7b.png",
-    "website": "https://tridentsecurity.io/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Traditional security tools drown teams in useless alerts and logs. Trident chains vulnerabilities together like a real attacker, mapping verified attack paths across AWS, Azure, GCP, web apps, and APIs to show the exploits that actually cause business impact",
-    "one_liner": "Your AI Security Team ",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1785361922,
-    "tags": [
-      "Security",
-      "Cybersecurity",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/trident",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/trident.json"
   },
   {
     "id": 31550,
@@ -36469,48 +36280,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/solo-labs.json"
   },
   {
-    "id": 32190,
-    "name": "Instaplay",
-    "slug": "instaplay",
-    "former_names": [
-      "General Context Labs"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ca6a12b7633d4f00fe3906d5a5037f17c2e991d2.png",
-    "website": "https://instaplay.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "AI-Native Social Platform, Starting with Games",
-    "team_size": 3,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Gaming",
-    "launched_at": 1784188651,
-    "tags": [
-      "Gaming",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Gaming"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/instaplay",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/instaplay.json"
-  },
-  {
     "id": 32194,
     "name": "GUILD",
     "slug": "guild",
@@ -36595,6 +36364,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bizmark",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/bizmark.json"
+  },
+  {
+    "id": 32222,
+    "name": "Audun",
+    "slug": "audun",
+    "former_names": [
+      "Solvva"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d28813053904611d6b5fc0391c683bdbe842a4ad.png",
+    "website": "https://www.getaudun.com/",
+    "all_locations": "Oslo, Oslo, Norway",
+    "long_description": "Audun automates debt collection.",
+    "one_liner": "AI-native debt collection",
+    "team_size": 4,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1786093910,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Finance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "Norway",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/audun",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/audun.json"
   },
   {
     "id": 32223,
@@ -36968,6 +36780,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/6thsense",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/6thsense.json"
+  },
+  {
+    "id": 32588,
+    "name": "Almanac",
+    "slug": "almanac",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/04034530613a233afe0d28a52bcfd6e9943b7ea7.png",
+    "website": "https://usealmanac.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Almanac is Hermes with a company brain. You message it in Slack or iMessage; it knows what is happening across your company and can use your accounts to get real tasks done for you. It has a full computer, browser and terminal. It takes your Gmail, Calendar, Attio, GitHub, AI convos, docs and meeting notes and compiles them into a Wiki that keeps itself up to date. It keeps a current understanding of what you’re building, who your customers are, what was decided, and what still needs to happen. It can use websites, run code, create files and take actions across your accounts. If it reaches a login, payment or decision it shouldn’t make alone, it pings you or hands you the live browser. \r\n",
+    "one_liner": "The AI that knows your company",
+    "team_size": 0,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1784235632,
+    "tags": [
+      "Generative AI",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/almanac",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/almanac.json"
   },
   {
     "id": 32618,
@@ -37945,7 +37797,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd39ca163a2a8ea396a6ec66701926317f9f416c.png",
     "website": "https://osseus.ai/",
     "all_locations": "",
-    "long_description": "Osseus is the intelligent development platform for robotics. It plugs into the tools a team already uses - CAD, ECAD, GitHub, Jira, docs, messaging, and test runs to build a live map of their robot stack: every part, board, requirement, test, and decision, and how they all depend on each other.\r\n\r\nWhen a hardware change is made, the map traces the downstream impact across mechanical, electrical, and software. Osseus's agents find which requirements may be compromised, run the attached tests and sims, create fixes of the affected hardware/software on branches, and re-run the tests to confirm the design still conforms.\r\n\r\nOsseus includes a robotics component marketplace. Teams can list spare parts and hardware for others to rent during prototyping, and designs can be evaluated against real component availability. If a part has a long lead time or is unavailable, engineers can quickly find compatible alternatives from the marketplace instead of waiting weeks or asking around their network.\r\n\r\nDesign review also happens in Osseus. Engineers see why a design might not work, what's been tried before, and why something was built the way it was, pulled from prior conversations between engineers and with suppliers. Suppliers comment directly on a part through a secure link instead of back and forth over email, and what they say is remembered. If a supplier flags that a design isn't machinable, or that changing a feature would cut cost, that insight automatically appears the next time someone designs something similar, saving time and money.\r\n\r\nOur long-term goal is for any professional team or hobbyist to import, fork, or create a robot in Osseus. Builders will be able to explore compatible components and supplier intelligence, edit the physical design, and receive proposed updates to the robot description, firmware, control software, simulation, and tests. We ultimately want to develop physical-AI models that reason jointly over the robot's geometry, electronics, kinematics, components, software, and real-world performance so people can optimize and iterate on robots much faster.",
+    "long_description": "Osseus is the intelligent development platform for robotics. It plugs into the tools a team already uses - CAD, ECAD, GitHub, Jira, docs, messaging, and test runs - creating a live dependency graph of their entire robot stack. It automatically builds and maintains the relationships between every part, board, requirement, test, and decision.\r\n\r\nWhen a hardware change is made, the map traces the downstream impact across mechanical, electrical, and software. Osseus's agents find which requirements may be compromised, run the attached tests and sims, create fixes for the affected hardware/software on branches, and re-run the tests to confirm the new design doesn’t break downstream.\r\n\r\nOsseus includes a robotics component marketplace. Teams can list spare parts and hardware for others to buy/rent during prototyping, and designs can be evaluated against real component availability. If a part has a long lead time or is unavailable, engineers can quickly find compatible alternatives in their area instead of waiting weeks or asking around their network.\r\n\r\nDesign review also happens in Osseus. Engineers see why a design might not work, what's been tried before, and why something was built the way it was, pulled from prior conversations between engineers and with suppliers. Suppliers comment directly on a part through a secure link instead of back and forth over email, and what they say is remembered. If a supplier flags that a design isn't machinable, or that changing a feature would cut cost, that insight automatically appears the next time someone designs something similar, saving time and money.\r\n\r\nWe ultimately will use the platform's deep engineering understanding to develop physical-AI models that reason jointly over the robot's geometry, electronics, kinematics, components, software, and real-world performance so people can optimize and iterate on robots much faster. Get in touch to learn more!",
     "one_liner": "The intelligent development platform for robotics",
     "team_size": 2,
     "industry": "B2B",

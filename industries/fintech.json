@@ -771,7 +771,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d79adb13b4acb20f9e08e876a7ad54319a3e7a10.png",
     "website": "http://smartasset.com",
-    "all_locations": "New York City, NY, USA; New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "long_description": "SmartAsset is an online destination for consumer-focused financial information and advice. Reaching approximately 59 million people each month (as of January 2024) through its educational content and personalized calculators and tools, SmartAsset's mission is to help people make smart financial decisions. \r\n\r\nAdditionally, SmartAsset powers SmartAsset AMP, a national marketplace connecting consumers to financial advisors. Building on SmartAsset’s relationship with millions of investors, SmartAsset AMP connects financial advisors directly with prospects who meet their target client profile. Our algorithm matches consumers with up to three fiduciary financial advisors. In 2023, SmartAsset helped advisors close an estimated $34 billion.",
     "one_liner": "Marketplace connecting consumers to financial advisors",
     "team_size": 210,
@@ -784,7 +784,7 @@
     ],
     "tags_highlighted": [],
     "top_company": true,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2012",
     "status": "Active",
@@ -798,7 +798,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -1901,7 +1901,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd4b6f473c25066fa0c35c5798c0454e3791144f.png",
     "website": "http://www.vestfin.com",
     "all_locations": "McLean, VA, USA; Remote",
-    "long_description": "Vest, on a mission to bring wider access to financial derivatives and other institutional investment strategies, manages investment products worth $50+ billion (as of 9/30/25). Backed by private equity, the firm has a strategic partnership with Cboe Global Markets, Inc. (NASDAQ: CBOE), and First Trust, a global asset manager. \r\n\r\nVest created Target Outcome Investments in 2013, which target a defined return profile, with an allowance for a specific level of risk, at a particular point in time. Today, Target Outcome Investments are available as mutual funds, exchange-traded funds (ETFs), unit investment trusts (UITs), collective investment trusts (CITs), and customizable managed accounts / sub-advisory services. \r\n\r\nThe firm was launched and backed by preeminent venture firms such as Y-Combinator (Airbnb, Reddit, Dropbox), Payment Ventures (MicroVentures, CardFlight) and First Round Capital (Uber, Mint, Square).\r\n\r\nSee more at https://www.vestfin.com.",
+    "long_description": "Vest, on a mission to bring wider access to financial derivatives and other institutional investment strategies, manages investment products worth $70+ billion (as of 6/30/26). Backed by private equity, the firm has a strategic partnership with Cboe Global Markets, Inc. (NASDAQ: CBOE), and First Trust, a global asset manager. \r\n\r\nVest created Target Outcome Investments in 2013, which target a defined return profile, with an allowance for a specific level of risk, at a particular point in time. Today, Target Outcome Investments are available as mutual funds, exchange-traded funds (ETFs), unit investment trusts (UITs), collective investment trusts (CITs), and customizable managed accounts / sub-advisory services. \r\n\r\nThe firm was launched and backed by preeminent venture firms such as Y-Combinator (Airbnb, Reddit, Dropbox), First Round Capital (Uber, Mint, Square) and Payment Ventures (MicroVentures, CardFlight).\r\n\r\nSee more at https://www.vestfin.com.",
     "one_liner": "Bringing wider access to financial derivatives. ",
     "team_size": 50,
     "industry": "Fintech",
@@ -1930,7 +1930,7 @@
     "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
-    "app_answers": true,
+    "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/vest",
     "api": "https://yc-oss.github.io/api/batches/winter-2015/vest.json"
@@ -2268,7 +2268,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -26422,7 +26422,7 @@
     "name": "Ekpa",
     "slug": "ekpa",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e4cd183ffca48da0b8c0ac22b9a4a380bdecc65.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/06c4988b8eff9db30a66dc2c4f5f513eba67b606.png",
     "website": "https://goekpa.com/",
     "all_locations": "Boston, MA, USA",
     "long_description": "",
@@ -27399,6 +27399,49 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/huscarl.json"
   },
   {
+    "id": 32222,
+    "name": "Audun",
+    "slug": "audun",
+    "former_names": [
+      "Solvva"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d28813053904611d6b5fc0391c683bdbe842a4ad.png",
+    "website": "https://www.getaudun.com/",
+    "all_locations": "Oslo, Oslo, Norway",
+    "long_description": "Audun automates debt collection.",
+    "one_liner": "AI-native debt collection",
+    "team_size": 4,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1786093910,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Finance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "Norway",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/audun",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/audun.json"
+  },
+  {
     "id": 32225,
     "name": "Stoa",
     "slug": "stoa",
@@ -27439,6 +27482,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/stoa",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/stoa.json"
+  },
+  {
+    "id": 32625,
+    "name": "Qlo",
+    "slug": "qlo",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6bdf97a8fbe4a8a51a745ce366d9c6c2bfc6d75c.png",
+    "website": "https://www.getqlo.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Qlo uses AI to automate commercial underwriting end to end, from submission through renewal, for MGAs and program administrators.",
+    "one_liner": "AI that automates underwriting for commercial insurance carriers",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1786080312,
+    "tags": [
+      "SaaS",
+      "Insurance",
+      "Enterprise"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/qlo",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/qlo.json"
   },
   {
     "id": 32650,
