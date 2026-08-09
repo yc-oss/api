@@ -362,14 +362,14 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Assemble accelerates IT teams by performing development work inside core enterprise systems like ERP, CRM, and HRIS. Our agents help IT teams scope dependencies, build logic, and validate changes across your systems.",
     "one_liner": "Agents for Enterprise IT",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1783894724,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -910,7 +910,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/72dfae7e6f3aa505626a7c902f014e294cc6ab91.png",
     "website": "https://www.illumelabs.ai",
-    "all_locations": "Boston, MA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Illume is a 24/7 AI personal health & longevity companion that connects your wearables, blood panels, and genomic data to text you personalized and actionable insights. We pull in your health data and fuse it into one secure model. You get daily text updates on what changed, what it means, and what to do next; conversational health Q&A like \"What should I do to improve my bloodwork?\"; cross-data trend detection that catches patterns individual platforms miss; and a full platform to dig deeper, explore your health data, and text your Illume agent anytime. We're 3 MIT grads & friends, with experience at Windsurf, MIT CSAIL, Eli Lilly, & the Broad Institute. ",
     "one_liner": "24/7 Personal Health & Longevity Companion",
     "team_size": 3,
@@ -918,11 +918,11 @@
     "subindustry": "Healthcare -> Consumer Health and Wellness",
     "launched_at": 1784104321,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "Health Tech",
       "Biotech",
-      "Health & Wellness",
-      "AI"
+      "Health & Wellness"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1773,17 +1773,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/39ef9d285402475a966cd1a646ae8e3b72115c89.png",
     "website": "https://perceptronml.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We build custom AI systems for law firms, trained on each firm's own matters and deployed privately in their environment: timekeeping, intake and matter monitoring, research, discovery, and drafting. Our grounding engine verifies every fact against a primary source before a model can cite it, which is why firms trust us with work that off-the-shelf legal AI keeps getting wrong.",
+    "long_description": "We build AI systems for law firms, trained on each firm's own matters and deployed privately in their environment: timekeeping, intake and matter monitoring, research, discovery, and drafting. Our grounding engine verifies every fact against a primary source before a model can cite it, which is why firms trust us with work that off-the-shelf legal AI keeps getting wrong.",
     "one_liner": "We make law firms AI-native.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1782500527,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Legal",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1948,14 +1948,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c87fe6e15005349864c9553a731d786c39f38f18.png",
     "website": "https://belvedir.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Private AI models are going to win. Belvedir is the infrastructure needed to make billions of them.\r\n\r\nBelvedir is making it cheap and easy for anyone to make private AI. Just connect us to your agent traces through our SDK and we can autonomously train custom models + harnesses + routers, privately host them, and recursively improve them as they are used. ",
+    "long_description": "Private AI models are going to win. Belvedir is the infrastructure needed to make billions of them.\r\n\r\nBelvedir makes it cheap and easy for anyone to make private AI. Just connect us to your agent traces through our SDK and we can autonomously train custom models + harnesses + routers, privately host them, and recursively improve them as they are used. Our customers have seen up to 10x reductions in inference costs and 2x increases on benchmark scores.",
     "one_liner": "The easiest way to make private AI models.",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1784319754,
     "tags": [
-      "Machine Learning"
+      "Machine Learning",
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3487,6 +3488,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/touchmark.json"
   },
   {
+    "id": 32254,
+    "name": "Prodigy Research",
+    "slug": "prodigy-research",
+    "former_names": [
+      "Prodigy AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a2db1ee59cf597cd664444e784ae76e1f753d775.png",
+    "website": "https://prodigy.markets",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Prodigy is the frontier AI trading research lab. We've trained the world's best foundation model for quantitative finance. We've already achieved more than 100% returns in live trading over the course of our YC batch, doubling our capital while major indices were flat. Our founders previously built strategies that generated billions in trading profits at Jane Street, trained frontier AI models at Google DeepMind and shipped cutting-edge AI at Apple to billions of customers. Join us as we use AI to solve the market.",
+    "one_liner": "Training the world's best foundation model for quantitative finance.",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1786153448,
+    "tags": [
+      "Reinforcement Learning",
+      "Finance",
+      "Investing",
+      "Trading",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/prodigy-research",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/prodigy-research.json"
+  },
+  {
     "id": 32256,
     "name": "Zaplar",
     "slug": "zaplar",
@@ -3968,7 +4013,7 @@
     "former_names": [
       "Stratum"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0cc8b5375c42033d862e128777c8909550381c8d.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cbb396809ed692f744f764e5cd86703142288a07.png",
     "website": "https://stratumindustries.co/",
     "all_locations": "New York City, NY, USA",
     "long_description": "Stratum builds AI agents that clear the U.S. government backlog. Every permit, license, patent, drug approval, and benefits claim in America has to be reviewed by a government adjudicator and the software they rely on was built decades before AI. The result is millions of applications stuck in queues: veterans waiting on disability ratings, families waiting on pensions, builders waiting years to break ground.\r\n\r\nStratum replaces that workflow. A reviewer drops in an application, selects the rubric it needs to be checked against, and an agent plans, executes, and reviews the file end to end routing each step to the right model for the most accurate and cost-efficient decision. Hundreds of agents run in parallel in the cloud, with a human kept in the loop to approve and full auditability at every step, so an entire backlog can be cleared in the time it used to take to review a single file.\r\n\r\nWe're rebuilding the entire infrastructure the government runs on both the reviewer side and the applicant side - so filing and adjudication become instant instead of taking weeks.\r\n\r\nWe're Vihaan and Raj, brothers. Vihaan was founding engineer #3 at Cadastral (acquired by Legora) and dropped out of Waterloo to build Stratum. Raj led GTM at Deel, averaging 220% of quota over two years and ranking top 5 of 1,000+ reps globally, and dropped out of grad school at the University of Bath to build Stratum.",
@@ -3978,9 +4023,9 @@
     "subindustry": "Government",
     "launched_at": 1785365250,
     "tags": [
+      "Artificial Intelligence",
       "GovTech",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4553,7 +4598,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3eb675c91f3464d134cd3d9c18712ad08bea23bb.png",
     "website": "https://www.useclick.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Click lets you do more within Codex & Claude. It's an MCP that provides external context that the in-built web search misses - LinkedIn activity, YouTube transcripts, live flight fares, and more. \r\nWith Click, users do sales & GTM research, competitor ad analysis, travel planning, and financial analysis - all within their favorite agent surface.",
+    "long_description": "Click builds chat-native work services for ChatGPT and Claude. \r\nWe’re starting with a research service that brings live external context from professional & social platforms, financial markets, maps, travel sources - and a lot more - into the conversation. \r\nIt makes research on people & companies even deeper with specialized, source-backed context beyond built-in web search, while enabling new tasks like comparing live flight fares right inside the chat.",
     "one_liner": "Web search & connectors for agents",
     "team_size": 1,
     "industry": "B2B",
@@ -5551,6 +5596,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/ronanrx-inc.json"
   },
   {
+    "id": 32981,
+    "name": "Marengo",
+    "slug": "marengo",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/60eafb41e958f2dbb87a17e5996bba09e7731f2f.png",
+    "website": "https://marengox.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Marengo designs data centers at double the speed and half the cost with AI. We’re working with some of the largest data center builders in the world to improve how design is done today.\r\n\r\nWe're backed by Y Combinator, a16z & Index Venture Scout Funds, as well as investors/angels in OpenAI, Anthropic, SpaceX, and more.\r\n\r\nOur advisors include the former President & CEO of Saipem America ($3B+ P&L), former President of Exyte's Advanced Technology Facilities GBU ($6B+ P&L) and more.",
+    "one_liner": "Automating engineering design, starting with data centers.",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Energy",
+    "launched_at": 1786181708,
+    "tags": [
+      "Artificial Intelligence",
+      "Design",
+      "Energy",
+      "Architecture"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Energy"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/marengo",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/marengo.json"
+  },
+  {
     "id": 32985,
     "name": "Lumeria",
     "slug": "lumeria",
@@ -6353,7 +6440,7 @@
     "website": "https://chromie.dev",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "The all-in-one platform to tackle government contracts with intelligence.",
-    "one_liner": "find, qualify, & win contracts with AI",
+    "one_liner": "find, qualify, & win gov contracts with AI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -7351,6 +7438,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/nex",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/nex.json"
+  },
+  {
+    "id": 33344,
+    "name": "Dawn Industries",
+    "slug": "dawn-industries",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be237324cf82c0125a34763f99ffb0cf35ca384d.png",
+    "website": "https://www.dawnxr.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "VIM connects to the entire cell: PLCs, robots, CNC machines, sensors. When a cell faults, VIM finds the cause, stages the fix, and the operator approves with one click. When a part drifts, VIM catches it seconds after the cut, inside the machine, and recommends the correction. Recovery drops from 30 minutes to under two, saving more than $15,000 per fault in large factories.",
+    "one_liner": "Automatic Diagnosis & Fix for Industrial Automation Cells",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1786150873,
+    "tags": [
+      "Artificial Intelligence"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dawn-industries",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/dawn-industries.json"
   },
   {
     "id": 33348,
