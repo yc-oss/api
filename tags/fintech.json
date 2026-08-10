@@ -595,7 +595,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d79adb13b4acb20f9e08e876a7ad54319a3e7a10.png",
     "website": "http://smartasset.com",
-    "all_locations": "New York City, NY, USA; Remote",
+    "all_locations": "Austin, TX, USA; Remote",
     "long_description": "SmartAsset is an online destination for consumer-focused financial information and advice. Reaching approximately 59 million people each month (as of January 2024) through its educational content and personalized calculators and tools, SmartAsset's mission is to help people make smart financial decisions. \r\n\r\nAdditionally, SmartAsset powers SmartAsset AMP, a national marketplace connecting consumers to financial advisors. Building on SmartAsset’s relationship with millions of investors, SmartAsset AMP connects financial advisors directly with prospects who meet their target client profile. Our algorithm matches consumers with up to three fiduciary financial advisors. In 2023, SmartAsset helped advisors close an estimated $34 billion.",
     "one_liner": "Marketplace connecting consumers to financial advisors",
     "team_size": 210,
@@ -3566,7 +3566,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b4a53cf77d3fc365eb87181638c1077043a6722.png",
     "website": "http://www.bulkmro.com",
-    "all_locations": "New York City, NY, USA; New York, NY, USA",
+    "all_locations": "Mumbai, MH, India; New York, NY, USA",
     "long_description": "Bulk MRO is a Full Stack Fintech and Supply Chain Platform for Global Trade. \r\n\r\nWe provide our customers and suppliers turnkey solutions for procurement, sales and financing of long-tail industrial products (MRO items) as well as high value bulk commodities like agriculture, petroleum, and chemical products. \r\n\r\nWe work with hundreds of Large Corporations and Government customers across North America, Europe, India, Middle East, and Africa as a one-stop shop for millions of products from thousands of manufacturers.\r\n\r\nWe are backed by the world’s best investors like Y Combinator, Bain Capital Ventures, Ace & Co., Rebright Partners, Dream Incubator, Refactor Capital, AAF, and FJ Labs.\r\n",
     "one_liner": "Full Stack Fintech and Supply Chain Platform for Global Trade",
     "team_size": 170,
@@ -3588,7 +3588,9 @@
       "Supply Chain and Logistics"
     ],
     "regions": [
+      "India",
       "United States of America",
+      "South Asia",
       "America / Canada",
       "Remote",
       "Partly Remote"
@@ -19218,7 +19220,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/521906247661c9b6885a472a838b9b9002c0f8c4.png",
     "website": "https://getlenk.com/",
-    "all_locations": "Santiago, Santiago Metropolitan Region, Chile; Remote",
+    "all_locations": "Buenos Aires, Buenos Aires, Argentina; Remote",
     "long_description": "Lenk empowers financial institutions in Latin America with advanced loan origination solutions.\r\n\r\nOur platform optimizes the entire loan lifecycle, from lead acquisition to disbursement, leveraging automation and AI to enhance efficiency and improve digital experiences.\r\n\r\nLenk enables institutions to streamline complex tasks, ensuring compliance and agility while boosting productivity and customer satisfaction.",
     "one_liner": "The next-gen lending platform for the banking system in LATAM.",
     "team_size": 18,
@@ -19240,7 +19242,7 @@
       "Credit and Lending"
     ],
     "regions": [
-      "Chile",
+      "Argentina",
       "Latin America",
       "Remote",
       "Fully Remote"
@@ -28316,17 +28318,17 @@
     "website": "https://blaze.money",
     "all_locations": "Remote",
     "long_description": "Blaze (YC S24) is the agentic finance platform. For businesses it's an AI CFO that pays bills, invoices clients, and forecasts cash. For people it's an agent that sends money, converts currencies, and manages your finances globally: you set the rules, it handles the rest. \r\n\r\nOther AI finance tools just report. Blaze moves the money, on your approval, in stablecoins or straight through the banking system. The founders scaled their last startup to $1M in ARR, studied at Duke, NYU, and Cornell, and led teams at Spotify and Artsy. npx @blaze-money/cli · https://blaze.money",
-    "one_liner": "Global Venmo for cross border payments",
+    "one_liner": "Agentic Finance for your Life and Business",
     "team_size": 5,
     "industry": "Fintech",
     "subindustry": "Fintech -> Payments",
     "launched_at": 1724981206,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "Crypto / Web3",
       "Payments",
-      "Finance"
+      "Finance",
+      "AI"
     ],
     "tags_highlighted": [
       "Crypto / Web3"
@@ -30219,13 +30221,55 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/definite.json"
   },
   {
+    "id": 32913,
+    "name": "Pacific",
+    "slug": "pacific",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/196624bfab919b6dd989cb601af1771954cb562e.png",
+    "website": "https://gopacific.ai/",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "We mass-produce modular data centers that deploy on stalled infrastructure projects losing billions per week.\r\n\r\nDelayed infrastructure projects hemorrhage $1B a week in the US alone - Pacific mass-produces modular data centers that deploy on those sites in days and turn their unused power into revenue.\r\n\r\nData centers are stuck for years waiting for power, while delayed construction sites across the world sit on unused interconnects, losing billions of dollars per week in interest on trillions of dollars of debt. Our pods deploy on those sites and generate revenue for them in days. They use diamond wafers in the cooling system so pods run anywhere on earth, even a desert. \r\n\r\nWe'll use the same mechanisms we're building today to deploy compute across the galaxy.\r\n",
+    "one_liner": "Micro data centers for the harshest places on Earth and in space.",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1786300632,
+    "tags": [
+      "Fintech",
+      "Robotics",
+      "Space Exploration",
+      "Manufacturing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pacific",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/pacific.json"
+  },
+  {
     "id": 32914,
     "name": "Last Accounting Company",
     "slug": "last-accounting-company",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cf21d2add4951b9271177840cd785b32579fdb0f.png",
     "website": "https://lastaccountingcompany.com/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Helsinki, Finland",
     "long_description": "Last Accounting Company (LAC) is a full-stack AI accounting firm. We sell the same service (bookkeeping, tax filings, etc.) as a traditional accounting firm, but underneath agents handle everything and a certified accountant signs off. Our service is faster, cheaper, and fully integrated, allowing our clients to focus on what matters, not accounting admin.\r\n\r\nLAC replaces both outsourced accountants and legacy accounting software for startups and SMBs. Our system is fully proprietary, from the general ledger to the accounting agents. This allows us to create powerful self-reinforcing loops and ultimately provide a state-of-the-art accounting service.",
     "one_liner": "Agent-native accounting firm.",
     "team_size": 4,
@@ -30248,8 +30292,8 @@
       "Finance and Accounting"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Finland",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,

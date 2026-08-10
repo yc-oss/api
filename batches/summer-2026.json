@@ -1551,7 +1551,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6fb7711e26bf57516e7dcfa35cfadeb5d98b5b2.png",
     "website": "https://pango.ai/",
-    "all_locations": "Stockholm, Stockholm County, Sweden",
+    "all_locations": "New York City, NY, USA",
     "long_description": "Autonomous digital employee that runs back-office operations for e-commerce companies: deliveries, tracking, returns, transport and CS.",
     "one_liner": "Agentic OS for e-commerce operations",
     "team_size": 5,
@@ -1575,8 +1575,8 @@
       "Retail"
     ],
     "regions": [
-      "Sweden",
-      "Europe",
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -1761,6 +1761,47 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/manufacturingintelligence",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/manufacturingintelligence.json"
+  },
+  {
+    "id": 32124,
+    "name": "Erinys",
+    "slug": "erinys",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ecec9425d412cfc7fa1460b155883f078a7f023.png",
+    "website": "https://erinys.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Erinys is building the first AI-native plaintiff-side litigation law firm network. We use sophisticated technology to deliver high-quality legal representation faster, more affordably, and to more people.\r\n",
+    "one_liner": "Building the first network of AI-native law firms",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1786258271,
+    "tags": [
+      "Artificial Intelligence",
+      "Legal",
+      "LegalTech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/erinys",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/erinys.json"
   },
   {
     "id": 32127,
@@ -2106,7 +2147,7 @@
     "name": "Nebula Security",
     "slug": "nebula-security",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/33d955b678b21d1907f01bee006dfaf515655e98.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c60d9cd12e8c1b315e07ee45555c24b5f74d5654.png",
     "website": "https://nebusec.ai",
     "all_locations": "Vancouver, WA, USA; Remote",
     "long_description": "Nebula Security is an AI-native cybersecurity company founded by world-class hackers.\r\n\r\nNebula Security provides Mythos-level cybersecurity reviews and product security auditing, conducted by our state-of-the-art AI agent and world-class hackers themselves, covering everything from code-level vulnerabilities to architectural weak points.\r\n\r\nWe were the first team to build an nginx RCE and the first to root Android 17. Our co-founders include members of the world’s No. 1 CTF team, DEF CON winners, Black Hat speakers, and PhD in cybersecurity. We have won $400K in bug bounties by exploiting the Linux kernel and Chrome browser.\r\n\r\n“Audited by Nebula Security” is a mark of serious security credibility: a signal to customers, investors, and partners that your product has been reviewed by the world’s best hackers.",
@@ -2229,6 +2270,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rex-inc",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/rex-inc.json"
+  },
+  {
+    "id": 32156,
+    "name": "Enact",
+    "slug": "enact",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6f79f9bbc22f20d6e3465ca66081c4a646834064.png",
+    "website": "https://enact.company",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Enact generates the data that makes robotics models reliable in the real world. We run the full improvement loop: roll out, find failures, collect targeted data, train, evaluate, and repeat.",
+    "one_liner": "The post-training layer for robotics.",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1786311090,
+    "tags": [
+      "Artificial Intelligence",
+      "Reinforcement Learning",
+      "Robotics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/enact",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/enact.json"
   },
   {
     "id": 32157,
@@ -2529,21 +2611,23 @@
   },
   {
     "id": 32172,
-    "name": "Solo Labs",
-    "slug": "solo-labs",
-    "former_names": [],
+    "name": "Jcode",
+    "slug": "jcode",
+    "former_names": [
+      "Solo Labs"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d863d3cf6091c132bb3f8d22d57b3597bc971de.png",
     "website": "https://jcode.sh/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We make an open source low ram coding agent that enables extreme parallelization for coding tasks. Our coding agent produces SOTA results on coding benchmarks. ",
-    "one_liner": "Coding Agents",
+    "one_liner": "20x more coding agents, 20x more productivity",
     "team_size": 1,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1786012852,
     "tags": [
-      "Developer Tools",
-      "AI"
+      "Artificial Intelligence",
+      "Developer Tools"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2563,8 +2647,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/solo-labs",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/solo-labs.json"
+    "url": "https://www.ycombinator.com/companies/jcode",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/jcode.json"
   },
   {
     "id": 32187,
@@ -3025,6 +3109,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bizmark",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/bizmark.json"
+  },
+  {
+    "id": 32201,
+    "name": "Mosaic",
+    "slug": "mosaic-inc",
+    "former_names": [
+      "Synq Labs",
+      "Emergent Computing"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ccea1a14d9a796c8e8670b1aa85ebb489e030d7e.png",
+    "website": "https://mosaic.inc",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Mosaic's main product, Ocean, gives people and their coding agents shared memory across every session, so everyone can understand what happened, why decisions were made, and pick up where someone else left off.\r\n\r\nWe also built Mosaic, a real-time coding environment where multiple people and their agents can work together live. It went viral, defined the multiplayer AI category, and inspired frontier labs like Anthropic.\r\n\r\nTogether, we’re building the infrastructure for people and agents to share context and work together.",
+    "one_liner": "Defining the frontier of multiplayer AI.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1786309056,
+    "tags": [
+      "Service Mesh",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mosaic-inc",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/mosaic-inc.json"
   },
   {
     "id": 32202,
@@ -4023,9 +4149,9 @@
     "subindustry": "Government",
     "launched_at": 1785365250,
     "tags": [
-      "Artificial Intelligence",
       "GovTech",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4347,7 +4473,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0f86336cad3f47d72897d04916a12380f1f0094b.png",
     "website": "https://www.graphify.com/",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "Graphify builds queryable knowledge graphs from local codebases, docs, and Jira (100K+ GitHub stars, ~4.2M downloads, used in production by engineers at Rootly, Geotab, Tweddle Group, and Superagent). \r\n\r\nOn that graph, its enterprise layer reviews every pull request and formally verifies each code change, proving the new behavior matches the old or handing back the exact input that breaks it. The graph updates itself as the code changes and keeps context instead of forgetting it, so your whole team and their coding agents work from one shared, always-current graph of the codebase instead of a thousand private threads. \r\n\r\nRuns fully on-premise, so no data leaves the building.",
+    "long_description": "Graphify builds queryable knowledge graphs from local codebases, docs, and Jira (105K+ GitHub stars, ~4.2M downloads, used in production by engineers at Rootly, Geotab, Tweddle Group, and Superagent). \r\n\r\nOn that graph, its enterprise layer reviews every pull request and formally verifies each code change, proving the new behavior matches the old or handing back the exact input that breaks it. The graph updates itself as the code changes and keeps context instead of forgetting it, so your whole team and their coding agents work from one shared, always-current graph of the codebase instead of a thousand private threads. \r\n\r\nRuns fully on-premise, so no data leaves the building.",
     "one_liner": "On-device knowledge graph engine for enterprises",
     "team_size": 2,
     "industry": "B2B",
@@ -4807,16 +4933,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d3d83aa2013bbe6b22b37f316b294d0c717eea35.png",
     "website": "https://fabraix.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Fabraix builds state-of-the-art AI red-teaming agents that continuously detect security vulnerabilities in customer-facing AI. Our product, Nyx, has already found vulnerabilities in agents at dozens of Fortune 500 companies. On AgentHarm, the leading benchmark for offensive AI security, Nyx achieved a 78% attack success rate, compared with 67% for GPT-5.6 Sol.\r\n\r\nAI agents can change more often than teams can test them. A new model, prompt, tool, permission, or data source can change what an agent does, even when the application code stays the same. And AI is also increasing how much software companies produce and how often it changes.\r\n\r\nWe built Nyx to automate the work required to red-team AI agents. It is built around three capabilities:\r\n- Nyx draws on more than 10,000 jailbreaks that we have collected and continuously update from public records (the largest such library we know of) as starting points for attacks across a wide range of failure modes.\r\n- Nyx attacks itself through adversarial self-play, retaining successful jailbreaks and using them to generate stronger variants. This creates a continuous search for novel attacks rather than replaying a fixed set of payloads which compounds over time; thus massively improving its capabilities.\r\n- It can interact directly with chat, voice, browser, and coding agents without source code or a special integration. It can also attack indirectly through controlled replicas of SaaS products and websites that we maintain, placing malicious payloads in webpages, documents, files, messages, and tool outputs to test how an agent behaves under different conditions.\r\n\r\nNyx often finds its first vulnerability within minutes or hours rather than days or weeks. Because the work is fully automated, companies can repeat the test with every change and at a much lower cost than what a 7-figure red-teaming (and point-in-time) engagement would require.\r\n\r\nWe're also the team behind ACE (Adversarial Cost to Exploit), a benchmark that measures AI security in terms of how much it costs attackers to break an AI system; providing a game-theoretic framework to understand how motivated a rational attacker would be in exploiting the system.",
+    "long_description": "Fabraix builds state-of-the-art AI red-teaming agents that continuously detect security vulnerabilities in customer-facing AI. Our product, Nyx, has already found vulnerabilities in agents at dozens of Fortune 500 companies. On AgentHarm, the leading benchmark for offensive AI security, Nyx achieved a 78% attack success rate, compared with 67% for GPT-5.6 Sol.\r\n\r\nAI agents can change more often than teams can test them. A new model, prompt, tool, permission, or data source can change what an agent does, even when the application code stays the same. And AI is also increasing how much software companies produce and how often it changes. We built Nyx to automate the work required to red-team AI agents. It is multi modal by design and interacts with the target indirectly through controlled replicas of SaaS products and websites that we maintain, placing malicious payloads in webpages, documents, files, messages, and tool outputs to test how an agent behaves under different conditions.\r\n\r\nNyx often finds its first vulnerability within minutes or hours rather than days or weeks. Because the work is fully automated, companies can repeat the test with every change and at a much lower cost than what a 7-figure red-teaming (and point-in-time) engagement would require.\r\n\r\nWe're also the team behind ACE (Adversarial Cost to Exploit), a benchmark that measures AI security in terms of how much it costs attackers to break an AI system; providing a game-theoretic framework to understand how motivated a rational attacker would be in exploiting the system.",
     "one_liner": "The world's frontier hacker for AI agents.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1783913331,
     "tags": [
+      "Artificial Intelligence",
       "Reinforcement Learning",
-      "Cybersecurity",
-      "AI"
+      "Cybersecurity"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5472,13 +5598,55 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/luca-iq.json"
   },
   {
+    "id": 32913,
+    "name": "Pacific",
+    "slug": "pacific",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/196624bfab919b6dd989cb601af1771954cb562e.png",
+    "website": "https://gopacific.ai/",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "We mass-produce modular data centers that deploy on stalled infrastructure projects losing billions per week.\r\n\r\nDelayed infrastructure projects hemorrhage $1B a week in the US alone - Pacific mass-produces modular data centers that deploy on those sites in days and turn their unused power into revenue.\r\n\r\nData centers are stuck for years waiting for power, while delayed construction sites across the world sit on unused interconnects, losing billions of dollars per week in interest on trillions of dollars of debt. Our pods deploy on those sites and generate revenue for them in days. They use diamond wafers in the cooling system so pods run anywhere on earth, even a desert. \r\n\r\nWe'll use the same mechanisms we're building today to deploy compute across the galaxy.\r\n",
+    "one_liner": "Micro data centers for the harshest places on Earth and in space.",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1786300632,
+    "tags": [
+      "Fintech",
+      "Robotics",
+      "Space Exploration",
+      "Manufacturing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pacific",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/pacific.json"
+  },
+  {
     "id": 32914,
     "name": "Last Accounting Company",
     "slug": "last-accounting-company",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cf21d2add4951b9271177840cd785b32579fdb0f.png",
     "website": "https://lastaccountingcompany.com/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Helsinki, Finland",
     "long_description": "Last Accounting Company (LAC) is a full-stack AI accounting firm. We sell the same service (bookkeeping, tax filings, etc.) as a traditional accounting firm, but underneath agents handle everything and a certified accountant signs off. Our service is faster, cheaper, and fully integrated, allowing our clients to focus on what matters, not accounting admin.\r\n\r\nLAC replaces both outsourced accountants and legacy accounting software for startups and SMBs. Our system is fully proprietary, from the general ledger to the accounting agents. This allows us to create powerful self-reinforcing loops and ultimately provide a state-of-the-art accounting service.",
     "one_liner": "Agent-native accounting firm.",
     "team_size": 4,
@@ -5501,8 +5669,8 @@
       "Finance and Accounting"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Finland",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -5981,7 +6149,7 @@
     "website": "https://agnost.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Agnost AI helps teams building chat and voice AI agents understand what users want, where they get stuck, and why they drop off.\r\n\r\nWe read production AI conversations, cluster recurring intents, feature requests, frustration, and failure patterns, then open PRs against prompts, tools, and harnesses to improve the agent.",
-    "one_liner": "Product analytics for teams building conversational agents",
+    "one_liner": "Product analytics for AI Agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
@@ -6142,11 +6310,11 @@
     "name": "Levocred AI",
     "slug": "levocred-ai",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0bbbf3d7f7c1c77264bdea3c5e95a8c6d460cd1f.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4211252c17df7b0a89dc9c36ce49996bef59474d.png",
     "website": "https://levocred.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Levocred AI is the Company Brain for credit teams — an AI employee that plugs into the fund's loan tape, credit agreements, servicer reports, and bank feeds, and runs the workflows analysts would otherwise grind on.",
-    "one_liner": "AI for every workflow inside a credit team",
+    "long_description": "Levocred AI is an AI-native platform for credit funds, fintechs and banks to automate workflows like back-office tasks, portfolio monitoring, compliance and underwriting. Live across multiple credit teams, running ~$1Bn in receivables through the platform.",
+    "one_liner": "AI for credit funds, fintechs and banks",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech",
@@ -6436,11 +6604,11 @@
     "former_names": [
       "chromie.dev"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a2ef01980100f9fd5b3d0aa3fa9559b4b8ae93e.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9e9ad437e503d6309ddcdb7e3b79f52406e3f03e.png",
     "website": "https://chromie.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "The all-in-one platform to tackle government contracts with intelligence.",
-    "one_liner": "find, qualify, & win gov contracts with AI",
+    "long_description": "The intelligent operating system for government contracting. Built by former AI engineers and government officials.",
+    "one_liner": "find, qualify, & win contracts with AI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -7577,8 +7745,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e1ebb1f65dc65dbec9a58c2d2d505adc9e79d36.png",
     "website": "https://salemroboticsinc.com",
     "all_locations": "Austin, TX, USA",
-    "long_description": "Our software turns any robot we deploy into an everyday independent worker at your facility. They are able to walk sites, handle instruments, overcome obstacles, collect measurements, and generate auditable compliance records, replacing hours of manual surveys and inspections. Built by Los Alamos robotics veterans and deterministic-manipulation researchers, we're starting in nuclear and expanding to other hazardous industries.",
-    "one_liner": "We deploy robots for inspections in hazardous spaces, like nuclear.",
+    "long_description": "Our software turns any robot we deploy into an everyday independent worker at your facility. They are able to walk sites, handle instruments, overcome obstacles, collect measurements, and generate auditable compliance records, replacing hours of mandatory manual surveys and inspections. Built by Los Alamos robotics veterans and deterministic-manipulation researchers, we're starting in nuclear and expanding to other hazardous industries.",
+    "one_liner": "Deploying robots for inspections in hazardous spaces, like nuclear.",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",

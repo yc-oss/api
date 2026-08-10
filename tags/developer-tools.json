@@ -21032,6 +21032,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/dedalus-labs.json"
   },
   {
+    "id": 30610,
+    "name": "TraceRoot.AI",
+    "slug": "traceroot-ai",
+    "former_names": [
+      "TraceRoot.ai"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc86727a443ac448343eba0a5ce27b88d63b2f8f.png",
+    "website": "https://traceroot.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "TraceRoot is the open-source self-improving layer for AI agents — observability that detects failures in production, root-causes them against your source code and GitHub history, opens verified fix PRs, and evals every fix — so your agent gets better with every release.",
+    "one_liner": "Open source self-healing layer for AI agents",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1753318246,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/traceroot-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/traceroot-ai.json"
+  },
+  {
     "id": 30611,
     "name": "AgentMail",
     "slug": "agentmail",
@@ -23121,7 +23164,7 @@
     "former_names": [
       "EasyClaw"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b5ee0827d5ffecc1db23e6d64592d549b5e1e1ab.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f536d08b73147eb71c0665fe5c2d6c6ffed0663.png",
     "website": "https://ara.so",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Ara is the cloud coding agent — an autonomous software engineer for software teams. It watches work in progress, plans the next step, and executes tasks with its own computer, background agents, persistent memory, and reusable skills. Unite your team that uses Claude and Codex and other  coding subscriptions to code together in the browser. Ara turns coding into a closed loop: suggest, act, learn, improve.\r\n\r\n",
@@ -23332,21 +23375,23 @@
   },
   {
     "id": 32172,
-    "name": "Solo Labs",
-    "slug": "solo-labs",
-    "former_names": [],
+    "name": "Jcode",
+    "slug": "jcode",
+    "former_names": [
+      "Solo Labs"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d863d3cf6091c132bb3f8d22d57b3597bc971de.png",
     "website": "https://jcode.sh/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We make an open source low ram coding agent that enables extreme parallelization for coding tasks. Our coding agent produces SOTA results on coding benchmarks. ",
-    "one_liner": "Coding Agents",
+    "one_liner": "20x more coding agents, 20x more productivity",
     "team_size": 1,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1786012852,
     "tags": [
-      "Developer Tools",
-      "AI"
+      "Artificial Intelligence",
+      "Developer Tools"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -23366,8 +23411,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/solo-labs",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/solo-labs.json"
+    "url": "https://www.ycombinator.com/companies/jcode",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/jcode.json"
   },
   {
     "id": 32198,
@@ -23591,7 +23636,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0f86336cad3f47d72897d04916a12380f1f0094b.png",
     "website": "https://www.graphify.com/",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "Graphify builds queryable knowledge graphs from local codebases, docs, and Jira (100K+ GitHub stars, ~4.2M downloads, used in production by engineers at Rootly, Geotab, Tweddle Group, and Superagent). \r\n\r\nOn that graph, its enterprise layer reviews every pull request and formally verifies each code change, proving the new behavior matches the old or handing back the exact input that breaks it. The graph updates itself as the code changes and keeps context instead of forgetting it, so your whole team and their coding agents work from one shared, always-current graph of the codebase instead of a thousand private threads. \r\n\r\nRuns fully on-premise, so no data leaves the building.",
+    "long_description": "Graphify builds queryable knowledge graphs from local codebases, docs, and Jira (105K+ GitHub stars, ~4.2M downloads, used in production by engineers at Rootly, Geotab, Tweddle Group, and Superagent). \r\n\r\nOn that graph, its enterprise layer reviews every pull request and formally verifies each code change, proving the new behavior matches the old or handing back the exact input that breaks it. The graph updates itself as the code changes and keeps context instead of forgetting it, so your whole team and their coding agents work from one shared, always-current graph of the codebase instead of a thousand private threads. \r\n\r\nRuns fully on-premise, so no data leaves the building.",
     "one_liner": "On-device knowledge graph engine for enterprises",
     "team_size": 2,
     "industry": "B2B",
@@ -23678,7 +23723,7 @@
     "website": "https://agnost.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Agnost AI helps teams building chat and voice AI agents understand what users want, where they get stuck, and why they drop off.\r\n\r\nWe read production AI conversations, cluster recurring intents, feature requests, frustration, and failure patterns, then open PRs against prompts, tools, and harnesses to improve the agent.",
-    "one_liner": "Product analytics for teams building conversational agents",
+    "one_liner": "Product analytics for AI Agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
