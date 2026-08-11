@@ -8134,7 +8134,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -16721,6 +16721,46 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/trieve.json"
   },
   {
+    "id": 29399,
+    "name": "Centauri AI",
+    "slug": "centauri-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2909e97f1b5b60712aa5c9853c288e7c547ac289.png",
+    "website": "https://centauri-ai.tech",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We build coSlash, a management layer for AI coding agents. Our platform enables teams to orchestrate parallel Claude Code and Codex sessions, track project progress, team knowledge, and seamlessly transfer context between developers.\r\n\r\nhttps://coslash.io/\r\n",
+    "one_liner": "Helps teams work effectively with AI coding agents.",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1711328630,
+    "tags": [
+      "Developer Tools",
+      "Workflow Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/centauri-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/centauri-ai.json"
+  },
+  {
     "id": 29425,
     "name": "Zep AI",
     "slug": "zep-ai",
@@ -21042,15 +21082,15 @@
     "website": "https://traceroot.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "TraceRoot is the open-source self-improving layer for AI agents — observability that detects failures in production, root-causes them against your source code and GitHub history, opens verified fix PRs, and evals every fix — so your agent gets better with every release.",
-    "one_liner": "Open source self-healing layer for AI agents",
+    "one_liner": "Open source self-improving layer for AI agents",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1753318246,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

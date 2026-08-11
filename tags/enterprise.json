@@ -1178,8 +1178,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f00f6931229f64701cd737b9839f92f72e20005.png",
     "website": "https://www.swif.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Swif.ai is the Security & Compliance UEM.\r\n\r\nEvery other MDM is great if you have basic requirements, but if you have security concerns and real compliance requirements, you need something more sophisticated that can handle that.\r\n\r\nSwif UEM for when you have real security and compliance concerns.",
-    "one_liner": "The guardrail for AI on every device",
+    "long_description": "Swif.ai is the Unified Agent & Endpoint Management (UAEM)\r\n\r\nManage every device. Govern every AI agent.\r\n\r\nOne control plane for device management, AI-agent governance, continuous enforcement, and autonomous remediation.",
+    "one_liner": "Manage every device. Govern every AI agent.",
     "team_size": 20,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
@@ -4593,23 +4593,25 @@
   },
   {
     "id": 30886,
-    "name": "Mod AI",
-    "slug": "mod-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/942d0cc053faa8bcd3d973b7c4ce50fda2e6defa.png",
-    "website": "https://usemod.ai",
+    "name": "Clerked",
+    "slug": "clerked",
+    "former_names": [
+      "Mod AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/84eedde0d0f019eaafca3d59004098b0b94f6ffb.png",
+    "website": "https://clerked.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're building the first fully autonomous accounts payable platform.\r\n\r\nOur AI clerks handle your entire AP workflow: invoice processing, GL coding, PO matching, approvals, responding to vendors, fraud detection and reporting. From the moment an invoice hits your inbox to the moment it's paid, no manual steps required.\r\n\r\nWe integrate with 16+ ERPs including QuickBooks, NetSuite, SAP, Dynamics 365, and Workday.\r\n\r\nFind out why enterprise teams choose Mod AI at usemod.ai.",
-    "one_liner": "Touchless AP Automation",
-    "team_size": 4,
+    "long_description": "Fully automate your accounts payable with the most advanced AI clerks in the world.\r\n\r\nThen ask them anything about your spend. They build custom reports, find savings, and tell you exactly when to pay to protect cash flow and capture discounts.\r\n\r\nClerked is the only AP platform that lets you manage your payables entirely from your phone, in Teams, Slack or iMessage.\r\n\r\nSee it work at clerked.ai",
+    "one_liner": "AI clerks that automate your payables",
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1759171972,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "Finance",
-      "Enterprise"
+      "Enterprise",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4629,8 +4631,50 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mod-ai",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/mod-ai.json"
+    "url": "https://www.ycombinator.com/companies/clerked",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/clerked.json"
+  },
+  {
+    "id": 31161,
+    "name": "Rapidfolio",
+    "slug": "rapidfolio",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/03c9e049e23bc7dcc8df7c9c46fd48f3e74846af.png",
+    "website": "https://rapidfolio.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Rapidfolio helps banks and fintechs fully automate back-office workflows like fraud investigations, KYB/KYC and loan underwriting, with accuracy and auditability.\r\n\r\nBuilt by fintech founders and operators, Rapidfolio is on a mission to ensure banks and fintechs scale their customer base without adding another back-office head count.",
+    "one_liner": "AI for fintechs & banks",
+    "team_size": null,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1784234137,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "SaaS",
+      "Enterprise",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rapidfolio",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/rapidfolio.json"
   },
   {
     "id": 31182,

@@ -10653,51 +10653,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2019/shef.json"
   },
   {
-    "id": 12504,
-    "name": "Vouch",
-    "slug": "vouch",
-    "former_names": [
-      "Vouch (SV Instech",
-      "Inc. = legal name)"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d1d486d4edef6bd293253ef438f3cf9c1880507.png",
-    "website": "http://vouch.us",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Insurance... sounds slow, old-fashioned, and unexciting. Exactly. Insurance is broken, and it's failing fast-moving, innovative startups.\r\n\r\nVouch is a new, technology-first insurance company backed with $185M in funding from world-class investors. Like Stripe for payments or Brex for credit cards, Vouch is creating the go-to business insurance for high-growth companies.\r\n\r\nWe're doing this by making insurance fast, responsive, and focused on our high-growth and innovative customers. Instead of printed PDF applications and week-long waits, Vouch is building new technology to solve real problems, writing policies that actually cover relevant startup scenarios, and designing simple experiences in an otherwise frustrating industry.",
-    "one_liner": "Insurance and risk management tools for startups and growth-stage…",
-    "team_size": 190,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Insurance",
-    "launched_at": 1553635905,
-    "tags": [
-      "Fintech",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2019",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Insurance"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": true,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/vouch",
-    "api": "https://yc-oss.github.io/api/batches/summer-2019/vouch.json"
-  },
-  {
     "id": 12525,
     "name": "Dex",
     "slug": "dex",
@@ -14666,8 +14621,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f00f6931229f64701cd737b9839f92f72e20005.png",
     "website": "https://www.swif.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Swif.ai is the Security & Compliance UEM.\r\n\r\nEvery other MDM is great if you have basic requirements, but if you have security concerns and real compliance requirements, you need something more sophisticated that can handle that.\r\n\r\nSwif UEM for when you have real security and compliance concerns.",
-    "one_liner": "The guardrail for AI on every device",
+    "long_description": "Swif.ai is the Unified Agent & Endpoint Management (UAEM)\r\n\r\nManage every device. Govern every AI agent.\r\n\r\nOne control plane for device management, AI-agent governance, continuous enforcement, and autonomous remediation.",
+    "one_liner": "Manage every device. Govern every AI agent.",
     "team_size": 20,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
@@ -15904,15 +15859,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "‍Fieldguide is a vertical AI platform for modern assurance and advisory firms that digitizes the end-to-end engagement workflow on a single platform. Built by former Big Four practitioners and experienced technology leaders, Fieldguide is trusted by top CPA firms to improve margins, win new business, and build stronger client relationships. We’re based in San Francisco, CA, but built as a remote-first company that enables you to do your best work from anywhere. We're backed by top investors including Goldman Sachs, Bessemer Venture Partners, 8VC, Y Combinator, Floodgate, Elad Gil, Justin Kan, Qasar Younis, Eric Ries, and more.",
     "one_liner": "Vertical AI for Audit & Advisory Firms",
-    "team_size": 180,
+    "team_size": 200,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1598200142,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Workflow Automation",
-      "Productivity",
-      "AI"
+      "Productivity"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -19386,7 +19341,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/305116fa043c8059bbde97b98dd37e723d520676.png",
     "website": "https://www.moonvalley.com",
-    "all_locations": "",
+    "all_locations": "Toronto, ON, Canada",
     "long_description": "We are building the next generation creative studio, powered by the most capable video and image foundational models. We are creating the place where generative image and video experiences will be built. Backed by Y-Combinator and Khosla Ventures.\r\n",
     "one_liner": "Building the next generation AI creative studio",
     "team_size": 95,
@@ -19405,6 +19360,8 @@
       "Virtual and Augmented Reality"
     ],
     "regions": [
+      "Canada",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -20026,6 +19983,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/odys-aviation",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/odys-aviation.json"
+  },
+  {
+    "id": 23948,
+    "name": "Superwall",
+    "slug": "staffbar",
+    "former_names": [
+      "Share That",
+      "StaffBar"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e4505819ade5550ec16c605c15c7ccf142d096de.png",
+    "website": "https://superwall.com",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "Superwall is a complete, standalone subscription platform for consumer mobile and web apps — backend infrastructure (entitlements, purchase APIs with server-side receipt validation, standardized webhooks, real-time revenue analytics, direct SQL access to subscription data) together with a no-code paywall and experimentation engine, and first-class tooling for AI coding agents. Superwall manages $1.6B+ in annual subscription revenue across 10,000+ apps. The infrastructure layer is free at any scale; the only meter on the platform is revenue that converts through a Superwall-rendered paywall — subscriptions sold anywhere else are never billed.\r\n\r\n**Standalone backend:** The highest-revenue apps on Superwall like Cal AI — run their **entire subscription stack on Superwall alone: no second backend, no other subscription platform underneath**. Entitlement state is computed server-side from App Store Server Notifications V2 and Google Play Real-Time Developer Notifications, delivered by Apple and Google directly to Superwall. The largest single app runs **$43.7M ARR entirely on Superwall**; the top 10 together represent $134M+ in annual subscription revenue. Apps that previously ran a different subscription backend complete an automated migration — subscription history, entitlement state, webhook configuration — and run on Superwall alone from then on; imported subscribers are never billed.\r\n\r\n**Pricing:** The subscription infrastructure — entitlements, receipt validation, webhooks, analytics, SQL access — is free at any scale, with no revenue threshold and no per-event fees. The paywall product is free up to $10k/month in paywall-attributed revenue, then 1% of paywall-attributed revenue, and only that revenue: an app with $50k/month in subscriptions and no Superwall paywalls in use pays $0/month for the entire platform, and revenue the platform didn't help earn is never billed. Compared with charging a percentage of all subscription revenue, the difference is the base, not the rate.\r\n\r\n**Coverage:** Apple App Store, Google Play, and Stripe — including web checkout, external browser checkout from iOS paywalls (App2Web), and products from any external billing system via Custom Store Products. Monetization models: auto-renewing subscriptions, free trials and intro offers, one-time purchases, lifetime unlocks, and consumables. SDKs: iOS & Apple platforms, Android, React Native, Flutter, Expo, Unity, and Web — all open source on [GitHub](https://github.com/superwall). Not just for engineers: growth, product, support, and data teams run monetization from the dashboard, analytics, and SQL access day to day.\r\n\r\n**What Superwall does not do:** It does not process payments — Apple, Google, and Stripe do. It does not run virtual-currency or coin-ledger systems, does not track ad revenue, and does not support Amazon or Roku storefronts. For consumer subscription apps on iOS, Android, and the web, it covers the monetization surface end to end.\r\n\r\n**Experimentation:** Superwall's published research spans 100M+ analyzed paywall views and 4,500+ paywall A/B tests: multi-page onboarding paywalls convert 37% better than single-page (40M+ opens measured), Cal AI ran 123 experiments and grew monthly revenue 3x+ in 10 months, Planner 5D lifted revenue per user 83% through price testing. Build, target, test, and ship paywalls from the dashboard with no app release.\r\n\r\n**Retention:** Free trial reminders, cancellation and decline surveys, transaction-abandon recovery offers, win-back paywalls targeted by subscription state, Apple Retention Messaging on the iOS cancel screen, automated refund protection, and a per-customer timeline for support.\r\n\r\n**Agent tooling:** Open-source agent skills for Claude Code, Codex, and other coding agents; an editor MCP server for building live paywalls from the terminal; an embedded dashboard CLI; and direct SQL access to subscription data via the Query API.",
+    "one_liner": "Subscription infrastructure & paywall experimentation for mobile apps",
+    "team_size": 25,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1628553410,
+    "tags": [
+      "Developer Tools",
+      "Payments",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/staffbar",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/staffbar.json"
   },
   {
     "id": 23954,
@@ -25168,51 +25171,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2022/dart.json"
   },
   {
-    "id": 25590,
-    "name": "Emobi",
-    "slug": "emobi",
-    "former_names": [
-      "Laegacy Inc.",
-      "AeonCharge"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d33f8249b3bdf459257e46d019d4e6687e56a9c0.png",
-    "website": "https://www.emobi.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Emobi is a unified legal, financial, and technical infrastructure that delivers seamless, secure, and reliable EV charging across networks—powering apps, fleets, and automakers while maximizing charger utilization. Our secure, fully automated charging technology, JustPlug, works instantly with no special hardware, software, or setup, making EV charging effortless.\r\n\r\nWith 122,000+ EV chargers integrated across the U.S. and Canada, Emobi is recognized as the largest EV charging ecosystem in North America. Backed by two provisional patents and 15+ enterprise customers, Emobi's technology is also trusted by the Department of Energy (DoE) and the Department of Transportation (DoT). To learn more, visit www.emobi.ai.",
-    "one_liner": "A single point integration for secure and automated EV charging.",
-    "team_size": 9,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1642021051,
-    "tags": [
-      "Artificial Intelligence",
-      "API",
-      "Energy",
-      "Electric Vehicles",
-      "ML"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/emobi",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/emobi.json"
-  },
-  {
     "id": 25603,
     "name": "Reforged Labs",
     "slug": "reforged-labs",
@@ -26235,9 +26193,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/257dfea6305c042123e7a308656b24d1f742d6c1.png",
     "website": "https://www.broccoli.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Broccoli is building the AI-native operating system for home service businesses. Running a plumbing or HVAC company is chaotic: calls, scheduling, dispatch, follow-ups, marketing. We automate all of it so contractors can focus on what they do best: serving customers.\r\n\r\nOur AI agents handle both revenue and ops; answering phones 24/7, booking jobs in real time, following up on leads, and alerting techs when emergencies hit.\r\n\r\nWe’ve grown from 0 to 800+ contractors in under 2 years, raised Series A round led by Khosla Ventures to take on one of the biggest labor automation opportunities in the country.\r\n\r\nAJ and Adi have worked together for the past nine years, building multiple startups. AJ, a Computer Science graduate, started his career at Adobe before moving into entrepreneurship. Adi, also a Computer Science graduate, conducted research at the renowned CVC lab at UAB Barcelona before joining Microsoft. Together, they founded Telematica and later Broccoli.",
+    "long_description": "Broccoli is building the AI-native operating system for home service businesses. Running a plumbing or HVAC company is chaotic: calls, scheduling, dispatch, follow-ups, marketing. We automate all of it so contractors can focus on what they do best: serving customers.\r\n\r\nOur AI agents handle both revenue and ops; answering phones 24/7, booking jobs in real time, following up on leads, and alerting techs when emergencies hit.\r\n\r\nWe’ve grown from 0 to 800+ contractors in under 2 years, raised Series A round led by Khosla Ventures to take on one of the biggest labor automation opportunities in the country.\r\n\r\nAJ is a Computer Science graduate from BITS Pilani. He started his career at Adobe and has built companies with Adi for nine years.  \r\nAdi is a Computer Science graduate from BITS Pilani. He did research at the CVC lab at UAB Barcelona and worked at Microsoft before he built companies with AJ.  \r\nTogether, they founded Telematica, where they built energy-management systems for large European utilities and charging-point operators. They raised $1.5M for Telematica and $25M for Broccoli.",
     "one_liner": "AI-native operating system for home service businesses",
-    "team_size": 60,
+    "team_size": 85,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1646292663,
@@ -26263,7 +26221,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -30054,50 +30012,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/oneleet",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/oneleet.json"
-  },
-  {
-    "id": 27172,
-    "name": "Clearline",
-    "slug": "clearline",
-    "former_names": [
-      "Lancey"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/53a34147e63b67c7a9270226ba55f80c0701d86e.png",
-    "website": "https://useclearline.com",
-    "all_locations": "Kitchener, ON, Canada",
-    "long_description": "Clearline is the AI operating system that captures, routes, and converts every revenue opportunity across your dealership without adding headcount.",
-    "one_liner": "AI operating system for car dealerships to capture missed revenue",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1655587130,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "AI",
-      "Automotive"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "Canada",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/clearline",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/clearline.json"
   },
   {
     "id": 27178,
@@ -46528,52 +46442,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/merlin-ai.json"
   },
   {
-    "id": 29978,
-    "name": "SimCare",
-    "slug": "simcare",
-    "former_names": [
-      "simhealth.ai",
-      "Luna Sim (prev. simhealth.ai)",
-      "Soma Lab",
-      "SimCare AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1907f0562c3999072b46993e335043d8a2316f2d.png",
-    "website": "https://simcare.ai",
-    "all_locations": "New York City, NY, USA",
-    "long_description": "SimCare is an all in one solution for training clinical skills in healthcare and behavioral health. From AI avatars that you can speak with, feedback systems trusted by the top programs in the country, to site placements tools that help you show your skills and find a job. SimCare is used across the board to train counselors, social workers, doctors and nurses.",
-    "one_liner": "AI avatars to scale healthcare training.",
-    "team_size": 7,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1719547782,
-    "tags": [
-      "AI-Enhanced Learning",
-      "Education",
-      "Healthcare",
-      "Edtech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/simcare",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/simcare.json"
-  },
-  {
     "id": 29987,
     "name": "Syntra",
     "slug": "syntra",
@@ -52521,46 +52389,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/labric.json"
   },
   {
-    "id": 30467,
-    "name": "Opusense AI",
-    "slug": "opusense-ai",
-    "former_names": [
-      "Opusense AI",
-      "Opusense"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d1118b422f2be63b5d6c5b12b721a468712deb7d.png",
-    "website": "https://www.opusense.com/",
-    "all_locations": "Toronto, ON, Canada",
-    "long_description": "Opusense AI automates field report writing for construction field inspectors. Instead of typing up notes at the end of the day, inspectors can now walk a site, speak observations aloud, snap photos, and let our AI assistant generate a detailed, organized report on-site and in real time.\r\n\r\nCombined, the founding team has over 15 years in the construction industry. Writing up these field reports used to take up at least 20% of the week. With Opusense, we cut that time by 5x. Our team combines deep construction experience with technical expertise, Roya has a PhD in civil engineering, and Michael has worked at multiple construction tech startups.\r\n\r\nWhy hasn’t this been done before? Construction is slow to adopt new tech, and reporting is messy, photos, voice notes, and field notes all live in silos. Turning that into a clear, structured report requires real insight into how inspectors work and what clients need. Only now, with advances in AI, can we process unstructured data adequately to generate high-quality reports in real time.\r\n\r\nThe opportunity is massive. Every inspection firm and contractor is struggling with documentation. Manual reports slow them down, create inconsistencies, and delay handoffs. We believe AI can do this better, and Opusense is proving it.",
-    "one_liner": "AI for Field Inspection Reports",
-    "team_size": 2,
-    "industry": "Real Estate and Construction",
-    "subindustry": "Real Estate and Construction -> Construction",
-    "launched_at": 1746456872,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "Real Estate and Construction",
-      "Construction"
-    ],
-    "regions": [
-      "Canada",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/opusense-ai",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/opusense-ai.json"
-  },
-  {
     "id": 30477,
     "name": "Casco",
     "slug": "casco",
@@ -53208,51 +53036,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/naive",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/naive.json"
-  },
-  {
-    "id": 30526,
-    "name": "chrt",
-    "slug": "chrt",
-    "former_names": [
-      "CHRT, Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e0bd87983ace16e9a440ec6fe901ff569c1bb997.png",
-    "website": "https://chrt.com",
-    "all_locations": "Los Angeles, CA, USA",
-    "long_description": "chrt is a logistics platform for time-critical shipping. We enable businesses to deliver their most critical items same-day.\r\n\r\nTime-Critical Logistics is a $30B market growing at a 20% CAGR driven by growth in American healthcare and manufacturing.\r\n\r\nBusinesses that place time-critical orders are enterprises who have urgent items they need to deliver ASAP. These orders are critical in nature and often require white glove service -- think therapeutic treatments for healthcare providers or specialized equipment for manufacturers. \r\n\r\nchrt builds the software for forwarders and professional couriers who pick up and deliver these orders. Couriers use chrt to coordinate and track their shipments, including a driver app and fleet management tools. Forwarders use chrt to dispatch couriers, book flights, and track time-critical orders from start to finish. Shippers use chrt to place these orders with their providers and to monitor everything. \r\n\r\nIn addition, we also sell physical tracking devices that can be used to track valuable cargo or assets.\r\n\r\nThis gives us full control of the shipment and allows us to provide shippers with end-to-end tracking. It also allows us to intervene early if we notice something is going wrong.\r\n\r\nWe’re software engineers that became friends years ago at McKinsey. Kyle is an expert in Time-Critical Logistics, having led strategy at a leader in the space. Aaron is an expert at designing and implementing AI systems to handle complex coordination. We were shipping code together on nights and weekends for years before chrt; now we’re also shipping freight.",
-    "one_liner": "chrt is a logistics platform for time-critical shipping",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
-    "launched_at": 1747152745,
-    "tags": [
-      "Autonomous Shipping",
-      "Logistics",
-      "Healthcare",
-      "Manufacturing",
-      "Industrial"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/chrt",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/chrt.json"
   },
   {
     "id": 30527,
@@ -54143,15 +53926,15 @@
     "website": "https://traceroot.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "TraceRoot is the open-source self-improving layer for AI agents — observability that detects failures in production, root-causes them against your source code and GitHub history, opens verified fix PRs, and evals every fix — so your agent gets better with every release.",
-    "one_liner": "Open source self-healing layer for AI agents",
+    "one_liner": "Open source self-improving layer for AI agents",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1753318246,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -58858,16 +58641,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c02ad81894db8e1b1d0e71c379c7cae04211613.png",
     "website": "https://velvetlab.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "The multimodal data lab.",
-    "one_liner": "The multimodal data lab.",
+    "long_description": "Infra and data for interactive AI.",
+    "one_liner": "Infra and data for interactive AI.",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1761236237,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "Data Engineering",
+      "AI",
       "Conversational AI"
     ],
     "tags_highlighted": [],
@@ -59382,45 +59165,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/imperfect",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/imperfect.json"
-  },
-  {
-    "id": 31080,
-    "name": "Didit",
-    "slug": "didit",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/202e6cd94d0ec2c8de835c56ce6b880f99f033d5.png",
-    "website": "https://didit.me/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "One API for KYC, KYB, AML, biometrics, and fraud — powered by 1,000+ data sources, 200+ signals, and in-house AI models. Global coverage. Integrate in minutes, pay as you go, 500 free checks/month. Start free at business.didit.me.",
-    "one_liner": "Infrastructure for identity and fraud.",
-    "team_size": 16,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1764601102,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/didit",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/didit.json"
   },
   {
     "id": 31081,
@@ -61624,7 +61368,7 @@
       "Matforge",
       "matforge"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/910cd5b0344664a22b57c59a7d459cabe1095bee.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8369f21b7293d92e30b956a07f47bda16f550d10.png",
     "website": "https://discoveredmaterials.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We use AI to discover new materials for the semiconductor industry - specifically datacenters and fabs. Finding novel materials today takes 10+ years of lab work. We aim to compress that timeline to months, using a swarm of AI agents.\r\n\r\nAkash completed his PhD at Stanford on material discovery for semiconductors. The materials he discovered for nanoscale interconnects have been adopted into the roadmaps of Intel and TSMC. Advaith was the founding applied scientist at Persona AI (acquired by Luma Labs), where he built long horizon autonomous agents for major telecom and crypto companies.\r\n\r\nPower consumption and heat release from AI chips is doubling every year. The semiconductor industry needs new materials to keep this exponential going -  Discovered Materials will help find them. ",

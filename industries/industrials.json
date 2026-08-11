@@ -14416,7 +14416,7 @@
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
-    "batch": "Fall 2025",
+    "batch": "Summer 2026",
     "status": "Active",
     "industries": [
       "Industrials",
@@ -14432,7 +14432,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tensr",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/tensr.json"
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/tensr.json"
   },
   {
     "id": 30930,
@@ -16117,7 +16117,7 @@
       "Matforge",
       "matforge"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/910cd5b0344664a22b57c59a7d459cabe1095bee.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8369f21b7293d92e30b956a07f47bda16f550d10.png",
     "website": "https://discoveredmaterials.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We use AI to discover new materials for the semiconductor industry - specifically datacenters and fabs. Finding novel materials today takes 10+ years of lab work. We aim to compress that timeline to months, using a swarm of AI agents.\r\n\r\nAkash completed his PhD at Stanford on material discovery for semiconductors. The materials he discovered for nanoscale interconnects have been adopted into the roadmaps of Intel and TSMC. Advaith was the founding applied scientist at Persona AI (acquired by Luma Labs), where he built long horizon autonomous agents for major telecom and crypto companies.\r\n\r\nPower consumption and heat release from AI chips is doubling every year. The semiconductor industry needs new materials to keep this exponential going -  Discovered Materials will help find them. ",
@@ -17317,7 +17317,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c71c0447005f2a40e7e7610af283842dbce65e39.png",
     "website": "https://www.exosat.com",
     "all_locations": "Singapore, Singapore",
-    "long_description": "Exosat is building thousands of low-cost communication satellites to provide a neutral, sovereign alternative to Starlink. By building our satellites with zero ITAR/EAR-controlled content, we can leverage manufacturers anywhere in the world to produce our satellites at under a tenth of the cost and launch them from any nation to bypass launch capacity bottlenecks.\r\n\r\nWe're starting off by selling connectivity to device OEMs and network operators, but will eventually use the distributed compute across our constellation to run low-latency inference for robots and autonomous vehicles in remote and rural areas anywhere on the planet.\r\n\r\nWe've already signed $400M+ in LOIs to work with operators across Central Asia, Southeast Asia, and the Middle East, booked our first satellite launch next year, and hold an 11,000 satellite filing with the ITU to build the largest comms network outside of the U.S. and China.",
+    "long_description": "Exosat is building thousands of low-cost communication satellites to provide a neutral, sovereign alternative to Starlink. By designing our satellites with zero ITAR/EAR-controlled content, we can leverage manufacturers anywhere in the world to produce our satellites at under a tenth of the cost and launch them from other nations to bypass capacity bottlenecks and access equatorial orbits. \r\n\r\nWe're starting off by selling connectivity to device OEMs and network operators, but will eventually use the distributed compute across our constellation to run low-latency inference for robots and autonomous vehicles in remote and rural areas anywhere on the planet.\r\n\r\nWe've already signed hundreds of millions in LOIs to work with operators across Central Asia, Southeast Asia, and the Middle East, booked our first satellite launch next year, and hold an 11,000 satellite filing with the ITU to build the largest comms network outside of the U.S. and China.",
     "one_liner": "Building a sovereign Starlink",
     "team_size": 1,
     "industry": "Industrials",
@@ -17700,18 +17700,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/470f3b57cd018aad9c127e64e5b952d32a64d435.png",
     "website": "https://www.neuromorphic.vision/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Neuromorphic is building an embodiment-agnostic “brain” that makes robots fast to deploy, adaptable across different bodies, and easy to manage through natural interfaces like Slack, email, and phone.  Our goal is to make deploying robots in wet labs and other physical industries as easy as onboarding a new employee.",
+    "long_description": "Neuromorphic is building an embodiment-agnostic “brain” that makes robots fast to deploy and easy to manage through natural interfaces like Slack, email, and phone. Our goal is to make deploying robots in wet labs and other physical industries as easy as onboarding a new employee.",
     "one_liner": "Building embodiment agnostic robot brains.",
     "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1786056544,
     "tags": [
-      "Artificial Intelligence",
       "Hard Tech",
       "Robotics",
       "B2B",
-      "Biotech"
+      "Biotech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -18571,5 +18571,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lambda-robotics",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/lambda-robotics.json"
+  },
+  {
+    "id": 35290,
+    "name": "Antropi Robotics",
+    "slug": "antropi-robotics",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8c101f20a3b29a6ae368d81297168e49391e75a.png",
+    "website": "https://www.antropi.world/",
+    "all_locations": "Bengaluru, KA, India",
+    "long_description": "",
+    "one_liner": "Autonomous CNC factories for faster hardware",
+    "team_size": 0,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1786284917,
+    "tags": [
+      "Robotics",
+      "Manufacturing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "India",
+      "South Asia"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/antropi-robotics",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/antropi-robotics.json"
   }
 ]
