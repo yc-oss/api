@@ -2594,9 +2594,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f8dc20fcc951e007754d6896f9f4c42ee9502a51.png",
     "website": "https://www.revenuecat.com/",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "RevenueCat is a mobile SDK and API for managing in-app subscriptions\r\n\r\nWe take the sting out of supporting the complicated subscription systems of the App Store and Google Play Store, and help you focus on running your business. ",
-    "one_liner": "A simple API for managing in-app subscriptions",
-    "team_size": 150,
+    "long_description": "RevenueCat removes the headaches of building and scaling in‑app subscriptions. Since graduating from YC’s S18 batch we’ve grown into the default monetization platform for mobile: we’re in >40% of newly shipped subscription apps, we process $12B+ in annual purchase volume, and we help everyone from a solo dev in Brazil to the OpenAI mobile team understand and grow their revenue.",
+    "one_liner": "Build and grow your app business",
+    "team_size": 160,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1524629145,
@@ -2620,7 +2620,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -4069,7 +4069,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -7878,8 +7878,8 @@
   },
   {
     "id": 23629,
-    "name": "Glop.dev",
-    "slug": "glopdev",
+    "name": "AXAR AI",
+    "slug": "axar-ai",
     "former_names": [
       "TimeTackle",
       "Tackle",
@@ -7895,7 +7895,7 @@
       "AXAR AI"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/52cb3520d9bab156b57aed7f3c76a564ce21c4cb.png",
-    "website": "https://www.glop.dev/",
+    "website": "",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
     "one_liner": "How great teams ship with AI",
@@ -7913,7 +7913,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2021",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B"
     ],
@@ -7928,8 +7928,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/glopdev",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/glopdev.json"
+    "url": "https://www.ycombinator.com/companies/axar-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2021/axar-ai.json"
   },
   {
     "id": 23634,
@@ -18755,7 +18755,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8071a4dd821b17c48fe53b21be58c8dd37534c31.png",
     "website": "https://vespper.com/?utm_source=ycombinator.com",
-    "all_locations": "Tel Aviv-Yafo, Tel Aviv District, Israel; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "The best DOCX MCP for agents. \r\nread and edit docx without having you agents deal with XML. Save on cost, enjoy improved performance.\r\nPerfect for regulatory, compliance and legal agent builders dealing with documentation",
     "one_liner": "The best DOCX MCP for agents to edit microsoft word documents",
     "team_size": 2,
@@ -18764,10 +18764,10 @@
     "launched_at": 1729555399,
     "tags": [
       "Documents",
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "API",
-      "AI"
+      "API"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -18780,8 +18780,8 @@
       "Productivity"
     ],
     "regions": [
-      "Israel",
-      "Middle East and North Africa",
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -19273,7 +19273,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2024",
     "status": "Active",
@@ -21689,7 +21689,7 @@
     "website": "https://omnara.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Omnara is an open-source, model-agnostic control plane for managed agents. One API to deploy, run, and control them. Self-host it, or use our managed cloud.\r\n",
-    "one_liner": "The Control Plane for Agents",
+    "one_liner": "The Open-Source Alternative to Claude Managed Agents",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -22756,18 +22756,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ab475a73fae950cedb2c238eb5a23d6a709d5cb2.png",
     "website": "https://www.usesalus.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Your agent processed a refund without looking up the order ID, costing you thousands. You only found out three hours later from a support ticket. Evals, output scoring, and observability can reduce the likelihood of mistakes like these occurring - but there's no solution that inspects and prevents an action as it’s about to execute. Salus does that.\r\n\r\nWe’ve built an API that wraps around your agent and checks its actions at run time, blocking incorrect ones and providing immediate feedback to guide retries. Kevin and Vedant were roommates at Stanford, where they both studied computer science. ",
+    "long_description": "Your agent processed a refund without looking up the order ID, costing you thousands. You only found out three hours later from a support ticket. Evals, output scoring, and observability can reduce the likelihood of mistakes like these occurring - but there's no solution that inspects and prevents an action as it’s about to execute. Salus does that.\r\n\r\nWe’ve built an API that wraps around your agent and checks its actions at run time, blocking incorrect ones and providing immediate feedback to guide retries. ",
     "one_liner": "Guardrails to validate your agent's actions before they execute",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1770354850,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "API",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -23196,6 +23196,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/keyframe-labs",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/keyframe-labs.json"
+  },
+  {
+    "id": 31444,
+    "name": "Alchemize",
+    "slug": "alchemize",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f82ae07ea418af65738a5555df328a4907b4da13.png",
+    "website": "https://tryalchemize.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Alchemize is a code review platform that helps teams understand PRs and ship faster.\r\n\r\nAgentic coding has 10x’d code output. Teams are opening larger PRs more frequently, but the current tools don’t support this new coding paradigm. \r\n\r\nAlchemize automatically breaks down PRs into guided, understandable reviews. It breaks each PR into manageable, smaller PRs that reveals the original author’s (human or agent) intent. We show where changes begin, how data flows, and which decisions require human judgment.",
+    "one_liner": "Code Review Platform that Simplifies PRs to Ship Faster",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1778526600,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "Productivity",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/alchemize",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/alchemize.json"
   },
   {
     "id": 31458,
@@ -23718,11 +23760,11 @@
     "former_names": [
       "Inkbox (Vectorly Inc)"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f2e10120a7184c6f7b716b22ea7167e079fcbd86.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/59d6214df81a05c739db52287017ae33c8c45f0d.png",
     "website": "https://inkbox.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We are building the identity and communication layer for AI agents: giving agents their own email, phone, iMessage, and internet address. Every interaction flows through Inkbox, so agents are enhanced with multi-channel context.",
-    "one_liner": "Give your AI agents email, phone, iMessage and an internet address",
+    "long_description": "For your AI agents to behave like teammates, we give them persistent identities with their own email, phone, and iMessage. We also provide them an agent-to-agent channel, so they can communicate for task delegation.",
+    "one_liner": "Let your agents communicate via email, phone, iMessage, & Agent2Agent",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",

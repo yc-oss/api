@@ -4618,9 +4618,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f8dc20fcc951e007754d6896f9f4c42ee9502a51.png",
     "website": "https://www.revenuecat.com/",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "RevenueCat is a mobile SDK and API for managing in-app subscriptions\r\n\r\nWe take the sting out of supporting the complicated subscription systems of the App Store and Google Play Store, and help you focus on running your business. ",
-    "one_liner": "A simple API for managing in-app subscriptions",
-    "team_size": 150,
+    "long_description": "RevenueCat removes the headaches of building and scaling in‑app subscriptions. Since graduating from YC’s S18 batch we’ve grown into the default monetization platform for mobile: we’re in >40% of newly shipped subscription apps, we process $12B+ in annual purchase volume, and we help everyone from a solo dev in Brazil to the OpenAI mobile team understand and grow their revenue.",
+    "one_liner": "Build and grow your app business",
+    "team_size": 160,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1524629145,
@@ -4644,7 +4644,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -11269,7 +11269,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -12152,17 +12152,18 @@
   },
   {
     "id": 26722,
-    "name": "Boundo",
-    "slug": "boundo",
+    "name": "Impractical",
+    "slug": "impractical",
     "former_names": [
       "Openpod",
-      "Sail"
+      "Sail",
+      "Boundo"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/89dea1f7b9b523f2d5faa5e446dc7f5bb813a850.png",
-    "website": "https://boundo.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/496a25e4233f08a9c98a89b4cb57a9e0a977427e.png",
+    "website": "https://impractical.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Boundo uses generative AI to replace SDRs. Tell our platform who you're looking for, and it will find and contact high quality sales leads in a fully automated way! We’ve tuned our models to write near-human outbound sales emails with proven conversion. Best of all, we're using our own tool to do all of our sales. ",
-    "one_liner": "Using generative AI to 10x outbound sales, all on autopilot!",
+    "long_description": "Impractical is your team's autonomous motion designer - trained off of hours of motion design courses, examples - built to ship stunning videos while your team ships features. \r\n\r\nInstead of hiring an agency, getting a freelancer, or getting subpar results with claude code, Impractical can make superior videos faster, and for much less. \r\n\r\nSignup at motion.impractical.ai for free! \r\n\r\n",
+    "one_liner": "Your autonomous motion designer that turns every feature into a…",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -12192,8 +12193,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/boundo",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/boundo.json"
+    "url": "https://www.ycombinator.com/companies/impractical",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/impractical.json"
   },
   {
     "id": 26750,
@@ -17004,7 +17005,7 @@
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Feldy is field-first AI for home service businesses helping teams capture jobsites, create take-offs & estimates, and documentation.\r\n\r\nWith Feldy, teams capture the physical world using photos, videos, AI jobsite walkthroughs, and 3D scans using your mobile phone. It turns field information into takeoffs & estimates, visual designs, and project documentation. Feldy works across home services such as roofing, exteriors, remodeling, painting, cleaning, landscaping, handymen, and other home services.\r\n\r\nWe’re building a new way for more than 2 million U.S. home service businesses operating in an $800B+ market to capture, understand, and complete work in the field.\r\n\r\nFeldy is available on iOS, Android, and the web.",
     "one_liner": "Field-First AI for home services",
-    "team_size": 4,
+    "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1709429693,
@@ -23296,7 +23297,7 @@
     "website": "https://omnara.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Omnara is an open-source, model-agnostic control plane for managed agents. One API to deploy, run, and control them. Self-host it, or use our managed cloud.\r\n",
-    "one_liner": "The Control Plane for Agents",
+    "one_liner": "The Open-Source Alternative to Claude Managed Agents",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -23374,14 +23375,16 @@
   },
   {
     "id": 30730,
-    "name": "Idler",
+    "name": "idler",
     "slug": "idler",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be10a2d11184480de4bc819bb87298c7d2766cce.png",
+    "former_names": [
+      "Idler"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ab3b751ff1a6569beaba5e0f91c3c4dbcda3e55.png",
     "website": "https://idler.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Idler builds reinforcement learning environments that teach AI models to code at expert human levels. We create training environments based on real-world coding scenarios that prepare models for the complex challenges they'll face in production.",
-    "one_liner": "Reinforcement learning environments. ",
+    "long_description": "idler builds reinforcement learning environments that teach AI models how to do expert-level work",
+    "one_liner": "reinforcement learning environments",
     "team_size": 13,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -25643,6 +25646,48 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/oddpool.json"
   },
   {
+    "id": 31444,
+    "name": "Alchemize",
+    "slug": "alchemize",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f82ae07ea418af65738a5555df328a4907b4da13.png",
+    "website": "https://tryalchemize.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Alchemize is a code review platform that helps teams understand PRs and ship faster.\r\n\r\nAgentic coding has 10x’d code output. Teams are opening larger PRs more frequently, but the current tools don’t support this new coding paradigm. \r\n\r\nAlchemize automatically breaks down PRs into guided, understandable reviews. It breaks each PR into manageable, smaller PRs that reveals the original author’s (human or agent) intent. We show where changes begin, how data flows, and which decisions require human judgment.",
+    "one_liner": "Code Review Platform that Simplifies PRs to Ship Faster",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1778526600,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "Productivity",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/alchemize",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/alchemize.json"
+  },
+  {
     "id": 31463,
     "name": "Armature",
     "slug": "armature",
@@ -26394,5 +26439,44 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/herdr",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/herdr.json"
+  },
+  {
+    "id": 34629,
+    "name": "Simulithic",
+    "slug": "simulithic",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/57304390a5b5c762c389b95f1b769b4ac71ed64e.png",
+    "website": "https://simulithic.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We build simulations of your real users, grounded in your session data, so you can predict how any product change will perform before you ship it.",
+    "one_liner": "Simulate how any product change will perform before shipping.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1786468833,
+    "tags": [
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/simulithic",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/simulithic.json"
   }
 ]

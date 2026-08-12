@@ -4667,6 +4667,49 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/servo7.json"
   },
   {
+    "id": 31226,
+    "name": "Libra Robotics",
+    "slug": "libra-robotics",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e588f98ac537da3d55ea3c2b43b0bd505524c7f8.png",
+    "website": "https://www.librabots.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We build collaborative robot squads for solar farm construction.\r\n\r\nHigh labor costs, labor shortages, and unpredictable productivity make infrastructure difficult to build in places that are remote, harsh, or empty. We are building robots to unlock places once considered too difficult to develop. Solar is our first proving ground, spanning utility-scale, commercial and industrial, community solar, agrivoltaic, and other projects.\r\n\r\nUnlike solutions that automate only one task, or even part of one, we cover the workflow after PV module pallets arrive on-site: transportation, installation, alignment, and fastening. Each robot has a specific role, and fleets can be configured based on each project’s cost and schedule requirements.\r\n\r\nOur robots operate autonomously with remote supervision. One person can supervise 4+ robots through a screen and an e-stop button, without being physically present or teleoperating them. Our robotic fleet has also been tested at night, paving the way for 24/7 operation.\r\n\r\nWe work directly with EPCs through a Robotics-as-a-Service model, requiring no robot purchase or large upfront capital investment. We also work with racking and PV module manufacturers to certify compatibility and give customers confidence in deployment.\r\n\r\nPurpose-built hardware, multimodal sensing, and physical AI software help our robots handle real-world construction uncertainty.",
+    "one_liner": "Multi-robot collaboration for harsh environments on Earth.",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1783647531,
+    "tags": [
+      "Artificial Intelligence",
+      "Robotics",
+      "Construction",
+      "Sustainability",
+      "Energy"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/libra-robotics",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/libra-robotics.json"
+  },
+  {
     "id": 31301,
     "name": "OpenVector",
     "slug": "openvector",
@@ -5391,6 +5434,54 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/ultrasonium.json"
   },
   {
+    "id": 32752,
+    "name": "Moving Atoms",
+    "slug": "moving-atoms",
+    "former_names": [
+      "Run Lobster",
+      "RunLobster",
+      "Demon AI",
+      "RunDemon",
+      "Avicenna Care",
+      "Agent Insurance"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ef35741f33adf69268f7b972bd18d2a9b60f0fc8.png",
+    "website": "https://movingatoms.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We use World Models to evaluate  and train robots. This enables you to test your policy checkpoints easily, as well as augmenting your training dataset. Scaling GPUs is much cheaper than scaling robot arms and humans needed to moniter them.",
+    "one_liner": "Virtual Reality for Robots (World Models)",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1786481200,
+    "tags": [
+      "Artificial Intelligence",
+      "Robotics",
+      "Virtual Reality"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/moving-atoms",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/moving-atoms.json"
+  },
+  {
     "id": 32913,
     "name": "Pacific",
     "slug": "pacific",
@@ -5399,17 +5490,17 @@
     "website": "https://gopacific.ai/",
     "all_locations": "London, England, United Kingdom",
     "long_description": "We mass-produce modular data centers that deploy on stalled infrastructure projects losing billions per week.\r\n\r\nDelayed infrastructure projects hemorrhage $1B a week in the US alone - Pacific mass-produces modular data centers that deploy on those sites in days and turn their unused power into revenue.\r\n\r\nData centers are stuck for years waiting for power, while delayed construction sites across the world sit on unused interconnects, losing billions of dollars per week in interest on trillions of dollars of debt. Our pods deploy on those sites and generate revenue for them in days. They use diamond wafers in the cooling system so pods run anywhere on earth, even a desert. \r\n\r\nWe'll use the same mechanisms we're building today to deploy compute across the galaxy.\r\n",
-    "one_liner": "Micro data centers for the harshest places on Earth and in space.",
+    "one_liner": "Mass-producing and deploying micro data centers for Earth and Space",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials",
     "launched_at": 1786300632,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "Robotics",
       "Space Exploration",
-      "Manufacturing",
-      "AI"
+      "Manufacturing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5691,22 +5782,23 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/lambda-robotics.json"
   },
   {
-    "id": 35290,
-    "name": "Antropi Robotics",
-    "slug": "antropi-robotics",
+    "id": 35523,
+    "name": "twentyfour26",
+    "slug": "twentyfour26",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8c101f20a3b29a6ae368d81297168e49391e75a.png",
-    "website": "https://www.antropi.world/",
-    "all_locations": "Bengaluru, KA, India",
-    "long_description": "",
-    "one_liner": "Autonomous CNC factories for faster hardware",
-    "team_size": 0,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ceb91f5325b460f109e85bc25abd1618a24863cb.png",
+    "website": "https://twentyfour26.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "twentyfour26 builds autonomous CNC machining cells that turn CAD files into same-day custom metal parts.",
+    "one_liner": "On Demand CNC Prototyping ",
+    "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1786284917,
+    "launched_at": 1786424480,
     "tags": [
       "Robotics",
-      "Manufacturing"
+      "Manufacturing",
+      "Industrial"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5719,15 +5811,15 @@
       "Manufacturing and Robotics"
     ],
     "regions": [
-      "India",
-      "South Asia"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/antropi-robotics",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/antropi-robotics.json"
+    "url": "https://www.ycombinator.com/companies/twentyfour26",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/twentyfour26.json"
   }
 ]

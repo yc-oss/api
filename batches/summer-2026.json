@@ -225,6 +225,44 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/tensr.json"
   },
   {
+    "id": 30914,
+    "name": "Sunflower",
+    "slug": "sunflower",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0205358bcacb803d2d20a6f091abad1460fc2bde.png",
+    "website": "https://sunflowersober.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sunflower is on a mission to create one trillion days sober. Our product is both a consumer app (think a \"Duolingo for addiction\") but also with a tele-therapy clinic inside. \r\n\r\nConsumer App: \r\n- We built the #1 AI Sponsor for any kind of addiction\r\n- Beautiful visual progression tracking to power the core \"task to be done\" of addiction\r\n- A twitter style social media for addicts \r\n- DIY learn content (think Masterclass for addiction) for all major addiction types \r\n- CBT based journaling exercises \r\n\r\nTele-Therapy: \r\n- Think a \"Early Medical Peter Attia\" quality of clinic, but completely focused on addiction \r\n- Starting with talk therapy in CA & TX we're rolling out to all 50 states + MAT \r\n- Bringing together the worlds best doctors to create the most effective protocol for addiction \r\n\r\nSunflower went from 0 - 100k MAU in less than 6 months, and now we're continuing the traction to create the #1 product for addiction for the 1.2B humans on this planet that struggle with this fundamental human problem. ",
+    "one_liner": "Building the Sobriety Platform for the future of Superintelligence. 🌻",
+    "team_size": 15,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1757558729,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sunflower",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/sunflower.json"
+  },
+  {
     "id": 31047,
     "name": "Waddle Labs",
     "slug": "waddle-labs",
@@ -331,6 +369,7 @@
     "subindustry": "Healthcare",
     "launched_at": 1780947683,
     "tags": [
+      "B2B",
       "Health Insurance",
       "Insurance"
     ],
@@ -532,19 +571,21 @@
     "name": "Libra Robotics",
     "slug": "libra-robotics",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/38569e8c7f99407654cda03fc6daff633822e414.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e588f98ac537da3d55ea3c2b43b0bd505524c7f8.png",
     "website": "https://www.librabots.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "Autonomous robots for solar farm construction",
-    "team_size": 0,
+    "long_description": "We build collaborative robot squads for solar farm construction.\r\n\r\nHigh labor costs, labor shortages, and unpredictable productivity make infrastructure difficult to build in places that are remote, harsh, or empty. We are building robots to unlock places once considered too difficult to develop. Solar is our first proving ground, spanning utility-scale, commercial and industrial, community solar, agrivoltaic, and other projects.\r\n\r\nUnlike solutions that automate only one task, or even part of one, we cover the workflow after PV module pallets arrive on-site: transportation, installation, alignment, and fastening. Each robot has a specific role, and fleets can be configured based on each project’s cost and schedule requirements.\r\n\r\nOur robots operate autonomously with remote supervision. One person can supervise 4+ robots through a screen and an e-stop button, without being physically present or teleoperating them. Our robotic fleet has also been tested at night, paving the way for 24/7 operation.\r\n\r\nWe work directly with EPCs through a Robotics-as-a-Service model, requiring no robot purchase or large upfront capital investment. We also work with racking and PV module manufacturers to certify compatibility and give customers confidence in deployment.\r\n\r\nPurpose-built hardware, multimodal sensing, and physical AI software help our robots handle real-world construction uncertainty.",
+    "one_liner": "Multi-robot collaboration for harsh environments on Earth.",
+    "team_size": 2,
     "industry": "Industrials",
-    "subindustry": "Industrials -> Energy",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1783647531,
     "tags": [
-      "Robotic Process Automation",
-      "Solar Power",
-      "Sustainability"
+      "Artificial Intelligence",
+      "Robotics",
+      "Construction",
+      "Sustainability",
+      "Energy"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -554,7 +595,7 @@
     "status": "Active",
     "industries": [
       "Industrials",
-      "Energy"
+      "Manufacturing and Robotics"
     ],
     "regions": [
       "United States of America",
@@ -2117,16 +2158,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1241956aa50c817e1c2feee9934ea253b0d12c38.png",
     "website": "https://trope.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Trope is the AI-native system integrator for ERPs. Today, that means the Microsoft ecosystem: we implement Dynamics 365 Business Central, move companies off retiring systems like Dynamics GP and NAV, and run custom AI agents inside the ERP as a managed service.\r\n\r\nAgents carry the mechanical work: configuration, data migration, test cycles, and documentation. It is like having a consultant, project manager, and developer working 24/7. Principal consultants who have delivered 200+ implementations across 20+ years in ERP systems scope the work and sign every gate, so customers get a fixed price quoted at scoping and a go-live measured in weeks, in an industry that runs six to eighteen months on hourly billing.\r\n\r\nAfter go-live, the agents stay. Reconciliations, exception monitoring, reporting, and collections run as a managed service, reviewed against KPIs agreed at scoping. The delivery engine is built in-house.",
+    "long_description": "Trope is the AI-native ERP system integrator.\r\n\r\nWe accelerate months of hourly implementation work with agent-driven, fixed-fee delivery. Instead of leaving customers with a static system, we deploy AI agents that continue running and improving core business operations after go-live.\r\n\r\nTrope combines AI trained on ERP systems with principal consultants who have delivered 200+ implementations over 20 years. Together, they turn consulting services into software, shifting systems integration from one-time implementations to continuous AI-driven operations.",
     "one_liner": "The AI-native ERP system integrator",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1783447220,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4812,16 +4853,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3eb675c91f3464d134cd3d9c18712ad08bea23bb.png",
     "website": "https://www.useclick.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Click builds chat-native work services for ChatGPT and Claude. \r\nWe’re starting with a research service that brings live external context from professional & social platforms, financial markets, maps, travel sources - and a lot more - into the conversation. \r\nIt makes research on people & companies even deeper with specialized, source-backed context beyond built-in web search, while enabling new tasks like comparing live flight fares right inside the chat.",
-    "one_liner": "Web search & connectors for agents",
+    "long_description": "Click builds useful services that meet users right inside ChatGPT and Claude.\r\nWe're starting with a research service that provides external context that the built-in web search misses - like data from professional & social platforms, marketplaces, financials, and more. \r\nIt makes research on people & companies even deeper with specialized, source-backed context beyond built-in web search, while enabling new tasks like comparing live flight fares right inside the chat.",
+    "one_liner": "Research services for ChatGPT and Claude",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1785963586,
     "tags": [
       "Artificial Intelligence",
-      "Infrastructure",
-      "AI"
+      "API",
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5094,6 +5135,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/qlo",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/qlo.json"
+  },
+  {
+    "id": 32627,
+    "name": "Tenor",
+    "slug": "tenor",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/28b2676e2b5c4bb6bce97d4ce827f594e9743ce2.png",
+    "website": "https://heytenor.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Your AI spend becomes accountable labor: every AI worker gets a job, persistent context, a budget, guardrails, and outcomes you can measure.\r\n\r\nCopilots made individuals faster. Agent builders made automations easier to create. Both leave the organization unchanged: same roles, same capacity, same org chart, and leadership still sees AI as a software expense, not labor. \r\n\r\nTenor makes AI enter the company as labor instead: every employee manages a team of AI workers built around the recurring work of their role, each with a defined job, boundaries, a budget, and a record of what it delivered. Employees provide the judgment. AI workers provide the execution. Leadership finally sees what AI spend returns.",
+    "one_liner": "Turn every employee into a manager of AI workers",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1786480856,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tenor",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/tenor.json"
   },
   {
     "id": 32649,
@@ -5477,6 +5558,54 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/vestris.json"
   },
   {
+    "id": 32752,
+    "name": "Moving Atoms",
+    "slug": "moving-atoms",
+    "former_names": [
+      "Run Lobster",
+      "RunLobster",
+      "Demon AI",
+      "RunDemon",
+      "Avicenna Care",
+      "Agent Insurance"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ef35741f33adf69268f7b972bd18d2a9b60f0fc8.png",
+    "website": "https://movingatoms.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We use World Models to evaluate  and train robots. This enables you to test your policy checkpoints easily, as well as augmenting your training dataset. Scaling GPUs is much cheaper than scaling robot arms and humans needed to moniter them.",
+    "one_liner": "Virtual Reality for Robots (World Models)",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1786481200,
+    "tags": [
+      "Artificial Intelligence",
+      "Robotics",
+      "Virtual Reality"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/moving-atoms",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/moving-atoms.json"
+  },
+  {
     "id": 32753,
     "name": "Ekho Labs",
     "slug": "ekho-labs",
@@ -5646,6 +5775,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/computable.json"
   },
   {
+    "id": 32815,
+    "name": "TryNearby",
+    "slug": "trynearby",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/043d0df2ce658d03b7ad1d70bb0deaa3f2282ea5.png",
+    "website": "https://trynearby.com",
+    "all_locations": "Los Angeles, CA, USA",
+    "long_description": "TryNearby connects local businesses with creators who live nearby. Restaurants subscribe monthly and automatically get booked visits from local creators who film, edit, and post a review to the local algorithm. This creates a steady stream of content that compounds into discovery on TikTok, Instagram, and increasingly AI search. Over 100 restaurants and thousands of creators are on the platform across Southern California, with AI agents handling matching, booking, and every creator conversation.",
+    "one_liner": "Local creators for local businesses",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1786488480,
+    "tags": [
+      "Restaurant Tech",
+      "Marketing",
+      "Creator Economy",
+      "SMB"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/trynearby",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/trynearby.json"
+  },
+  {
     "id": 32816,
     "name": "Financial Datasets",
     "slug": "financial-datasets",
@@ -5738,17 +5911,17 @@
     "website": "https://gopacific.ai/",
     "all_locations": "London, England, United Kingdom",
     "long_description": "We mass-produce modular data centers that deploy on stalled infrastructure projects losing billions per week.\r\n\r\nDelayed infrastructure projects hemorrhage $1B a week in the US alone - Pacific mass-produces modular data centers that deploy on those sites in days and turn their unused power into revenue.\r\n\r\nData centers are stuck for years waiting for power, while delayed construction sites across the world sit on unused interconnects, losing billions of dollars per week in interest on trillions of dollars of debt. Our pods deploy on those sites and generate revenue for them in days. They use diamond wafers in the cooling system so pods run anywhere on earth, even a desert. \r\n\r\nWe'll use the same mechanisms we're building today to deploy compute across the galaxy.\r\n",
-    "one_liner": "Micro data centers for the harshest places on Earth and in space.",
+    "one_liner": "Mass-producing and deploying micro data centers for Earth and Space",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials",
     "launched_at": 1786300632,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "Robotics",
       "Space Exploration",
-      "Manufacturing",
-      "AI"
+      "Manufacturing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6109,11 +6282,11 @@
     "former_names": [
       "Inkbox (Vectorly Inc)"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f2e10120a7184c6f7b716b22ea7167e079fcbd86.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/59d6214df81a05c739db52287017ae33c8c45f0d.png",
     "website": "https://inkbox.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We are building the identity and communication layer for AI agents: giving agents their own email, phone, iMessage, and internet address. Every interaction flows through Inkbox, so agents are enhanced with multi-channel context.",
-    "one_liner": "Give your AI agents email, phone, iMessage and an internet address",
+    "long_description": "For your AI agents to behave like teammates, we give them persistent identities with their own email, phone, and iMessage. We also provide them an agent-to-agent channel, so they can communicate for task delegation.",
+    "one_liner": "Let your agents communicate via email, phone, iMessage, & Agent2Agent",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -6162,10 +6335,10 @@
     "subindustry": "Healthcare -> Drug Discovery and Delivery",
     "launched_at": 1784748212,
     "tags": [
-      "Artificial Intelligence",
       "Biotech",
       "Genomics",
-      "Oncology"
+      "Oncology",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6902,7 +7075,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dcac201e21fa70f9b3a8a1b827c8fd7759c25920.png",
     "website": "https://skymerse.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Warsaw, Masovian Voivodeship, Poland",
     "long_description": "Skymerse is building one AI system for airline flight operations: from planning and monitoring in the operations center to real-time support in the cockpit. It is developing specialized aeronautical models that understand the data, constraints, and procedures behind each flight, replacing fragmented tools and manual interpretation. Notamify, its first product, already serves airline customers and thousands pilots and aviation professionals.",
     "one_liner": "Autopilot for Flight Operations",
     "team_size": null,
@@ -6925,8 +7098,8 @@
       "Aviation and Space"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Poland",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -7193,7 +7366,7 @@
     "slug": "hop-aero",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a5cab9ede70e23b0ea3f8e3b64b7a19735939c17.png",
-    "website": "https://hop-aero.com",
+    "website": "https://hopaero.com",
     "all_locations": "Los Angeles, CA, USA",
     "long_description": "Hop Aero is building rocket cargo vehicles that deliver to contested environments hundreds of miles away in minutes. Our rockets fly point-to-point into the most austere locations at hypersonic speeds. Hop Aero's goal is to provide the U.S. and allies the asymmetric advantage that deters a future major conflict.",
     "one_liner": "Rocket cargo delivery to contested environments",
@@ -7803,7 +7976,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2026",
     "status": "Active",

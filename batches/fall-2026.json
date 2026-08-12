@@ -289,6 +289,45 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/herdr.json"
   },
   {
+    "id": 34629,
+    "name": "Simulithic",
+    "slug": "simulithic",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/57304390a5b5c762c389b95f1b769b4ac71ed64e.png",
+    "website": "https://simulithic.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We build simulations of your real users, grounded in your session data, so you can predict how any product change will perform before you ship it.",
+    "one_liner": "Simulate how any product change will perform before shipping.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1786468833,
+    "tags": [
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/simulithic",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/simulithic.json"
+  },
+  {
     "id": 34794,
     "name": "Qokedas",
     "slug": "qokedas",
@@ -368,22 +407,63 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/useforward.json"
   },
   {
-    "id": 35290,
-    "name": "Antropi Robotics",
-    "slug": "antropi-robotics",
+    "id": 35522,
+    "name": "Hemlock",
+    "slug": "hemlock",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8c101f20a3b29a6ae368d81297168e49391e75a.png",
-    "website": "https://www.antropi.world/",
-    "all_locations": "Bengaluru, KA, India",
-    "long_description": "",
-    "one_liner": "Autonomous CNC factories for faster hardware",
-    "team_size": 0,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bbacf68d8da77e7a11ad346712dd48cf4d50347d.png",
+    "website": "https://hemlock.info",
+    "all_locations": "Los Angeles, CA, USA",
+    "long_description": "Every serious robotics lab is bottlenecked on the same thing: demonstration data. The field has converged on egocentric video and hand pose as the substrate, and both are now cheap to collect at scale. What neither of them contains is force. A video of someone picking up an egg and a video of someone picking up a rock are nearly identical in pixel space and nearly identical in joint angles. They differ almost entirely in a quantity nobody is recording. Policies trained without it learn geometry and inherit no sense of touch.\r\n\r\nHemlock closes that gap at the source. Our device, the Bracelet, is a wrist-worn surface EMG band that reads the electrical activity of the forearm muscles that actually drive the hand, which means it recovers contraction force directly rather than inferring it from motion. This distinction is the whole thesis: force cannot be reconstructed downstream of kinematics, because a hand squeezing hard isometrically and a hand resting can occupy the identical pose. Muscle signal is the only non-invasive channel that separates them.",
+    "one_liner": "Force-sensing wristband for training robotic AI",
+    "team_size": 1,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1786284917,
+    "launched_at": 1786491305,
+    "tags": [
+      "Hard Tech",
+      "Hardware"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hemlock",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/hemlock.json"
+  },
+  {
+    "id": 35523,
+    "name": "twentyfour26",
+    "slug": "twentyfour26",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ceb91f5325b460f109e85bc25abd1618a24863cb.png",
+    "website": "https://twentyfour26.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "twentyfour26 builds autonomous CNC machining cells that turn CAD files into same-day custom metal parts.",
+    "one_liner": "On Demand CNC Prototyping ",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1786424480,
     "tags": [
       "Robotics",
-      "Manufacturing"
+      "Manufacturing",
+      "Industrial"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -396,15 +476,55 @@
       "Manufacturing and Robotics"
     ],
     "regions": [
-      "India",
-      "South Asia"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/antropi-robotics",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/antropi-robotics.json"
+    "url": "https://www.ycombinator.com/companies/twentyfour26",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/twentyfour26.json"
+  },
+  {
+    "id": 35784,
+    "name": "Vorelios",
+    "slug": "vorelios",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b4f39044267f59b55cfe15cd369dcd61b7e645f5.png",
+    "website": "https://vorelios.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Engineering is bottlenecked by slow, costly simulations. We're fixing that by building foundation models that learn physics end-to-end and deliver the same results in seconds, at a fraction of the cost.",
+    "one_liner": "AI that simulates physics 1000x faster",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1786417769,
+    "tags": [
+      "Artificial Intelligence",
+      "Hard Tech",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/vorelios",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/vorelios.json"
   }
 ]
