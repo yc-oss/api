@@ -857,6 +857,46 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/poth-labs.json"
   },
   {
+    "id": 31277,
+    "name": "Dipole Labs",
+    "slug": "dipole-labs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b476fcfad147bfb48b55b119e09431103b41f4d8.png",
+    "website": "https://dipolelabs.com/",
+    "all_locations": "Boston, MA, USA",
+    "long_description": "",
+    "one_liner": "AI-controlled optical switching for AI clusters",
+    "team_size": 0,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1786560399,
+    "tags": [
+      "Hard Tech",
+      "Semiconductors",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dipole-labs",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/dipole-labs.json"
+  },
+  {
     "id": 31298,
     "name": "Applied Electrodynamics, Inc.",
     "slug": "applied-electrodynamics-inc",
@@ -1988,17 +2028,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6d9543a0527b0b5ac428e043f211c75ac5d1d59.png",
     "website": "https://olamlabs.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "There is a massive shortage of genuinely good AI evaluations. Multi-agent environments are an underdeveloped way of evaluating models that we think will help address our increasingly worse shortage of evals. We're starting with Multi-Agent Arena, where anyone can come compete against frontier AI models in social multiplayer games, as we build towards the full stack for multi-agent environments. \r\n\r\nTry Multi-Agent Arena at https://olamlabs.ai/ :)",
+    "long_description": "Multi-agent simulations let us evaluate for models and humans in competition with each other. We work with researchers on both evaluations and training for character and agentic performance typically difficult to assess for using current popular datasets. \r\n\r\nPlay one of our first releases, Multi-Agent Arena (https://olamlabs.ai/arena), where humans come play social strategy games against multiple AI agents. It's currently top 50 on OpenRouter and has thousands of matches played each day. We use Multi-Agent Arena to build datasets on agentic performance and real-world socialization.",
     "one_liner": "Building multi-agent simulations for model evals and training.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1784577901,
     "tags": [
-      "Artificial Intelligence",
       "Reinforcement Learning",
       "Gaming",
-      "Data Engineering"
+      "Data Engineering",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2497,7 +2537,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/034b1bab6d92bd99439aee47bf2312630046798c.png",
     "website": "https://understudylabs.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "An open-source toolkit to capture traces, evaluate cheaper models against benchmarks, and ship specialist routes you own.\r\n\r\nCapture traces from LLM production workflows with a single install that deploys within coding agents you already use. Hosted infrastructure is optional.\r\n\r\nEvaluate the captured traces and set a benchmark for success. Every future model switch meets or exceeds it in A/B testing.\r\n\r\nTrain and fine-tune a new model on prompts and weights you always own. Start locally and scale into cloud-hosted processes as you see success.\r\n\r\nDeploy a new model only when the held-out eval is beaten. Serve it wherever you want. Production data feeds back into training and compounds performance over time.\r\n\r\nTest. Learn. Deploy. Repeat.",
+    "long_description": "Understudy is an inference cloud. We capture your AI work traces, train smaller models, and automatically deploy them (only when they outperform the expensive model you are currently paying for).\r\n\r\nInstead of renting the same frontier model forever, your AI infrastructure gets faster, smarter, and cheaper every time it runs.\r\n\r\nSuppose your product uses Claude for a repetitive legal workflow.\r\n\r\nUnderstudy observes successful production runs, learns the specific tools and judgment required for that workflow, and trains a specialized open-weight model.\r\n\r\nOnce that model matches or beats Claude on a held-out evaluation, Understudy starts routing production traffic to it.\r\n\r\nAs more work is completed, the model keeps improving.\r\n\r\nWe started Understudy because we believe every company using AI should be accumulating intelligence, not accumulating API bills.",
     "one_liner": "Effortlessly move to open weight models",
     "team_size": 2,
     "industry": "B2B",
@@ -2666,16 +2706,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8ffbde2e695962be35fad4bb6260c320a8d18271.png",
     "website": "https://www.lemonlime.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "LemonLime enables any business to deploy custom AI automations in minutes.  \r\n\r\nIt connects to your existing tools to pull information across sources, studies your business, and instantly creates specialized agents designed to support your team across departments.\r\n\r\nDon't know where to start? LemonLime automatically surfaces suggested automations that can be implemented with a single click.",
-    "one_liner": "No-code AI that learns your business and self-creates automations.",
+    "long_description": "LemonLime runs fully automated sales and marketing for small businesses.\r\n\r\nEvery morning, LemonLime finds you new leads and drafts personalized outreach, prepares branded content, and identifies untapped sales & marketing opportunities.\r\n\r\nAll you have to do is click send.",
+    "one_liner": "Fully automated GTM for small business",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1783367890,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
-      "Workflow Automation",
-      "AI"
+      "Sales",
+      "Marketing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3324,6 +3365,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/alloovium",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/alloovium.json"
+  },
+  {
+    "id": 32206,
+    "name": "DeepReach Inc.",
+    "slug": "deepreach-inc",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/165caaebecbd3f0b9470bb5817a0a1817520c935.png",
+    "website": "http://www.deepreach.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Physical AI — robots and world models — is bottlenecked on one thing: diverse,\r\nreal-world data at massive scale showing how humans actually do work in the\r\nphysical world. It was never written down, and you can't buy it, because no one\r\nhas ever captured it. Only real local experts, the people who do this work every\r\nday, can produce data this authentic and valuable.\r\n\r\nDeepReach builds the network that reaches them. We design and manufacture\r\nwearable stereo capture devices, then place them with local data partners who\r\nrun collection as their own business — in warehouses, workshops, farms, kitchens\r\nand repair shops. They own the local relationships; we supply the hardware, the\r\nsoftware platform, the quality pipeline and the payments. Anyone can run a data\r\nbusiness.\r\n\r\nThat structure is what produces diversity. Instead of thousands of hours inside\r\none environment, we deliver hours spread across thousands of environments —\r\nwhich is what actually makes robot policies generalize.\r\n\r\n475 devices in the field and 100+ data partners are live across 7 countries, adding new\r\npartners every week. They've collected nearly 150,000 clips in the past three\r\nmonths, with volume roughly doubling month over month. Our data is in production\r\nwith multiple frontier model and robotics companies, and we're scaling to\r\n10,000+ devices across 50 countries.",
+    "one_liner": "Real-world data network for robots & world models",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1786563914,
+    "tags": [
+      "Artificial Intelligence",
+      "Hardware",
+      "Machine Learning",
+      "Robotics",
+      "Computer Vision"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/deepreach-inc",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/deepreach-inc.json"
   },
   {
     "id": 32220,
@@ -4053,6 +4136,45 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/traceforce.json"
   },
   {
+    "id": 32484,
+    "name": "EdotEnv",
+    "slug": "edotenv",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a53586c9aacc3d5c0003f5bde0beb3535a3613f6.png",
+    "website": "https://edotenv.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "A Quant Neolab building toward RSI by leveraging markets as self-improving research environments.\r\n\r\nThey work with frontier AI labs and academic groups building research harnesses, evaluation benchmarks, and post-training environments.\r\n",
+    "one_liner": "A Quant Neolab building toward RSI via quant trading",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1786503507,
+    "tags": [
+      "Reinforcement Learning",
+      "Time Series"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/edotenv",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/edotenv.json"
+  },
+  {
     "id": 32517,
     "name": "Standard Machines",
     "slug": "standard-machines",
@@ -4519,7 +4641,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b7cc06bfd9d08d6eae3bc20eca8c056f893bf8b.png",
     "website": "http://norirobotics.com",
-    "all_locations": "New York City, NY, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Nori builds home robots that cost less than $2,000 and that anyone can teach. Out of the box, the NORI L3 does household chores: loading the dishwasher, folding laundry, tidying up. But because anyone can train it, it also learns your specific tasks, like washing paintbrushes if you're an artist or flipping sheet music while you play guitar. It's a general-purpose robot, not an appliance.\r\n\r\nWe launched pre-orders 6 weeks ago and have already booked $100K in revenue.\r\n\r\nHumanoid robots exist, but they cost $20,000 or more and are demoed, not shipped. We got to $1,688 without sacrificing capability. Instead of expensive actuators, we use low-cost servos and get more out of them through smarter control and design. A wheeled base with a lift gives full floor-to-counter reach without the cost and fragility of legs, and we streamlined manufacturing from day one, assembling in the US.\r\n\r\nThe teachability is the moat. Every skill a user trains can be shared, so each customer makes every robot more capable. Hardware is the entry point; the skill ecosystem is the recurring revenue.\r\n\r\nWe're robotics researchers from Columbia labs like RoboPIL (robot learning) and CGUI. Working with $100K research robots that struggled with everyday tasks convinced us the problem isn't capability, it's cost. Good robots don't need to be expensive.\r\n\r\nHouseholds already spend $2,000+ on single-task machines: a dishwasher, a washing machine, a vacuum. We sell one robot at $1,688 that does the work of all of them and learns more. At 5% of US households and $25 a month for skills, that's $2B a year in recurring revenue, on top of hardware.",
     "one_liner": "Affordable robot you can teach to do anything",
     "team_size": 5,
@@ -4561,15 +4683,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ad1b7cce12014a7746a7f8b912560717f6e2f037.png",
     "website": "https://ooakdata.com/",
     "all_locations": "Paris, Île-de-France, France",
-    "long_description": "The promise of AI agents is still unmet in complex, real-world business environments. Our mission is to make it possible for agents to reliably accomplish concrete and useful tasks.\r\n\r\nThat’s why we're building **Alexandria,** the world's largest library of real-world business workflow datasets.",
-    "one_liner": "We build the world's largest library of real-world business workflow…",
+    "long_description": "Ooak Data turns internal company data into a training ground where AI agents can be tested on real work.\r\n",
+    "one_liner": "We turn company data into RL environnements.",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1783922301,
     "tags": [
-      "Artificial Intelligence",
-      "Reinforcement Learning"
+      "Reinforcement Learning",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4602,7 +4724,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0f86336cad3f47d72897d04916a12380f1f0094b.png",
     "website": "https://www.graphify.com/",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "Graphify builds queryable knowledge graphs from local codebases, docs, and Jira (105K+ GitHub stars, ~4.2M downloads, used in production by engineers at Rootly, Geotab, Tweddle Group, and Superagent). \r\n\r\nOn that graph, its enterprise layer reviews every pull request and formally verifies each code change, proving the new behavior matches the old or handing back the exact input that breaks it. The graph updates itself as the code changes and keeps context instead of forgetting it, so your whole team and their coding agents work from one shared, always-current graph of the codebase instead of a thousand private threads. \r\n\r\nRuns fully on-premise, so no data leaves the building.",
+    "long_description": "Graphify builds queryable knowledge graphs from local codebases, docs, and Jira (105K+ GitHub stars, ~5M+ downloads, used in production by engineers at Rootly, Geotab, Tweddle Group, and Superagent). \r\n\r\nOn that graph, its enterprise layer reviews every pull request and formally verifies each code change, proving the new behavior matches the old or handing back the exact input that breaks it. The graph updates itself as the code changes and keeps context instead of forgetting it, so your whole team and their coding agents work from one shared, always-current graph of the codebase instead of a thousand private threads. \r\n\r\nRuns fully on-premise, so no data leaves the building.",
     "one_liner": "On-device knowledge graph engine for enterprises",
     "team_size": 2,
     "industry": "B2B",
@@ -5145,15 +5267,15 @@
     "website": "https://heytenor.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Your AI spend becomes accountable labor: every AI worker gets a job, persistent context, a budget, guardrails, and outcomes you can measure.\r\n\r\nCopilots made individuals faster. Agent builders made automations easier to create. Both leave the organization unchanged: same roles, same capacity, same org chart, and leadership still sees AI as a software expense, not labor. \r\n\r\nTenor makes AI enter the company as labor instead: every employee manages a team of AI workers built around the recurring work of their role, each with a defined job, boundaries, a budget, and a record of what it delivered. Employees provide the judgment. AI workers provide the execution. Leadership finally sees what AI spend returns.",
-    "one_liner": "Turn every employee into a manager of AI workers",
+    "one_liner": "AI workers that attribute the outcome back to the token spend",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1786480856,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5224,17 +5346,17 @@
     "website": "https://www.risklytics.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Risklytics is a commercial insurance brokerage for frontier tech: robotics, autonomy, data centers, and energy infrastructure. Insurers are writing AI exclusions into standard liability forms, so companies whose products act in the physical world end up holding risk they thought they had transferred. We specialize in that gap, and we know which carriers in the admitted and surplus lines markets will still underwrite it. If you're building anything that moves, lifts, drives, or powers something, we'd like to talk.",
-    "one_liner": "Commercial Insurance Brokerage for Frontier Tech",
+    "one_liner": "Insurance for the Frontier",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1783123197,
     "tags": [
+      "Artificial Intelligence",
       "Hardware",
       "Machine Learning",
       "B2B",
-      "Insurance",
-      "AI"
+      "Insurance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5573,15 +5695,15 @@
     "website": "https://movingatoms.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We use World Models to evaluate  and train robots. This enables you to test your policy checkpoints easily, as well as augmenting your training dataset. Scaling GPUs is much cheaper than scaling robot arms and humans needed to moniter them.",
-    "one_liner": "Virtual Reality for Robots (World Models)",
+    "one_liner": "Virtual Reality for Evaluating Robots (World Models)",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1786481200,
     "tags": [
-      "Artificial Intelligence",
       "Robotics",
-      "Virtual Reality"
+      "Virtual Reality",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5869,16 +5991,16 @@
     "website": "https://lucaiq.com/",
     "all_locations": "Boston, MA, USA",
     "long_description": "Luca IQ is an API for deterministic tax calculation and an IRS Authorized e-filing engine - the foundation for accounting firms and fintechs building on tax.",
-    "one_liner": "API First Tax Calculator for CPAs",
+    "one_liner": "API First Tax Engine for CPAs",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1785364349,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "API",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6152,6 +6274,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lumeria",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/lumeria.json"
+  },
+  {
+    "id": 32987,
+    "name": "Familiar",
+    "slug": "familiar",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c65a4389d81076a7a08b8c3d3c22a2bf1c54e49b.png",
+    "website": "https://thefamiliarlab.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Dubbing is finally good. And real-time. Lipsync + voice translation. For ads and catalogs, networks and platforms, even broadcasts and live shopping.\r\n\r\nWe exist to break every barrier to understanding. Familiar is a team from Stanford, Yonsei's Visual Intelligence Lab, and HKUST: PhDs, professors, and researchers who started the field of joint audio-visual human models and co-authored the current state-of-the-art in real-time human animation. We build world models for accurate humans -- editing, predicting, understanding -- and teaching machines to do the same",
+    "one_liner": "World Models for Accurate Humans.",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1786578571,
+    "tags": [
+      "Generative AI",
+      "Media",
+      "Advertising",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/familiar",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/familiar.json"
   },
   {
     "id": 32988,
@@ -6497,7 +6660,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eaa9729cc14d1a256b46037b05b50ac5b7f7c291.png",
     "website": "https://radley.health/",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Radley is the first AI-native radiology practice. We're acquiring a radiology practice bringing Radley to $4.3M in annualized revenue and rebuilding it with agents from the ground up.\r\n\r\nRadiology is already in crisis: there aren't enough radiologists to interpret 1 in 6 medical scans. In 10 years, that gap is growing to 1 in 3 - 246M scans a year.\r\n\r\nWe started as an AI software company, signed $2.2M in contracts, and went live, but learned the real bottleneck isn't software, it's outdated systems and slow, inefficient operations. That's why we own the full stack, clinical and operational, end to end.\r\n\r\nWe met at Carbon Health as we scaled operations 31x and expanded to 100+ clinics. Now we're rebuilding radiology.",
+    "long_description": "Radley is the first AI-native radiology practice. We're acquiring a radiology practice bringing Radley to $4.3M in annualized revenue and rebuilding it with agents from the ground up.\r\n\r\nRadiology is already in crisis: there aren't enough radiologists to interpret 1 in 6 medical scans. In 10 years, that gap is growing to 1 in 3 - 246M scans a year.\r\n\r\nFrom past experience, we know that point solutions won’t cut it. While there is demand (we have $2.2M in contracts to prove it), bottleneck isn't just software, it's outdated systems and slow, inefficient operations. That's why we own the full stack, clinical and operational, end to end.\r\n\r\nWe met at Carbon Health as we scaled operations 31x and expanded to 100+ clinics. Now we're rebuilding radiology.",
     "one_liner": "AI-native, full-stack radiology practice",
     "team_size": 2,
     "industry": "Healthcare",
@@ -6739,16 +6902,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/44fee5cae005d704af84e7ed5ed7418d4ca0580c.png",
     "website": "https://decawork.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Decawork gives IT teams one place to deploy, govern and maintain the AI agents running across their company.\r\n\r\nEvery company is building AI agents internally now - it started with experiments, and now every team wants their own. What follows is agent sprawl: deployment gets messy, agents go live with access to real systems and real data, and maintenance falls in the gap. IT can't see any of it, so it does the only two things it can: first ignore, then block. Ignoring piles up risk; blocking kills the productivity people just found. \r\n\r\nWith Decawork, every agent ships one standard way: its own identity and scoped credentials, with IT's sign-off before it goes live. After that, every run is watched - IT is alerted the moment something fails, agents nobody uses get retired. And the whole time, IT sees every agent, controls what it can touch, and audits every action, with approvals gating anything sensitive.\r\n\r\nEvery big shift - cloud, SaaS, the digital workspace - ended with IT running it. AI agents are the next one. Decawork is what IT will run them with.",
+    "long_description": "Decawork gives IT teams one place to deploy, govern and maintain the AI agents running across their company.\r\n\r\nBuilding internal AI tools and agents is getting easier. Turning them into company-owned systems is still hard. What follows is agent sprawl: deployment gets messy, agents go live with access to real systems and real data, and maintenance falls in the gap. IT can't see any of it, so it does the only two things it can: first ignore, then block. Ignoring piles up risk; blocking kills the productivity people just found. \r\n\r\nWith Decawork, every agent ships one standard way: its own identity and scoped credentials, with IT's sign-off before it goes live. After that, every run is watched - IT is alerted the moment something fails, agents nobody uses get retired. And the whole time, IT sees every agent, controls what it can touch, and audits every action, with approvals gating anything sensitive.\r\n\r\nEvery big shift - cloud, SaaS, the digital workspace - ended with IT running it. Agents aren't just the next shift, they're the next workforce, bigger than the human one. Decawork is what IT will run them with.",
     "one_liner": "The Agent Control Plane for IT teams",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1785265630,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6857,6 +7020,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mireye",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/mireye.json"
+  },
+  {
+    "id": 33053,
+    "name": "Shiraz AI",
+    "slug": "shiraz-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/93d2ffb0a884b8a3781f59266189d89f4b30d975.png",
+    "website": "https://shiraz.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We deploy robots that learn new tasks from a single human demonstration in the factory. We're starting in contract manufacturing, where lines change every week and both traditional automation and today's VLAs fall over.\r\n\r\nOur founding team has 20+ years of experience in robotics. Navid was part of the core team that productized Spot at Boston Dynamics and led manipulation projects there. Before that, he was at Rethink Robotics. Mojtaba led whole-body control and manipulation efforts at Amazon Robotics and was a Research Assistant Professor at Northwestern University.",
+    "one_liner": "Robots that learn on the job",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1786517990,
+    "tags": [
+      "Generative AI",
+      "Robotics",
+      "Manufacturing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/shiraz-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/shiraz-ai.json"
   },
   {
     "id": 33054,
@@ -7193,6 +7397,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hyperprobe",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/hyperprobe.json"
+  },
+  {
+    "id": 33178,
+    "name": "TovenAI",
+    "slug": "tovenai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2b832a1e965bc59dfbc18a9817802870d7264332.png",
+    "website": "https://toven.ai",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "TovenAI builds a platform of AI agents that handle manual, data-intensive work for compliance teams at institutional trading firms, with six agents currently live. Our customers range from specialist firms to large global institutions, with our agents supporting multiple compliance workflows at a top-10 institutional brokerage.\r\n\r\nWith prebuilt connectors to more than 30 systems—including Bloomberg, Cloud9, and NICE Actimize—firms can onboard to our platform and evaluate results using their own data in less than a week.",
+    "one_liner": "AI agents for compliance at institutional trading firms",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Banking and Exchange",
+    "launched_at": 1786560317,
+    "tags": [
+      "Fintech",
+      "Regtech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Banking and Exchange"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tovenai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/tovenai.json"
   },
   {
     "id": 33179,

@@ -2900,20 +2900,20 @@
       "qaml",
       "camelQA"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/827e037c0aea7dec71df3f417e720db6c4d41d15.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/db5295154418cf383d1fd6006f379854b772ebda.png",
     "website": "https://camelai.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "For decades, companies have settled for software built for everyone, which means it's perfect for no one. They stitch together five SaaS tools to approximate one workflow, pay for seats they don't use, and file tickets with a data team just to answer a simple question.\r\n\r\nCamelAI is a different bet: your own AI software engineer, living on its own computer, building exactly what your business needs.\r\n\r\nYou describe what you want. CamelAI builds it, deploys it to a live URL, and keeps it running. No developers required, no infrastructure to manage. Next week when your process changes, you ask again. The software changes with you.\r\n\r\nThis is personal software: tools made for your team, your data, your workflows.",
-    "one_liner": "AI software engineer that lives on its own computer",
+    "long_description": "",
+    "one_liner": "Unlimited inference at $5 per stream",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1701468865,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Data Science",
-      "Data Visualization",
-      "AI"
+      "Data Visualization"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3351,14 +3351,14 @@
     "website": "https://freebuff.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We're making consumer agent products completely free, using the best open source models, and funded by ads.\r\n\r\nOur first product is a coding agent CLI called Freebuff. Install it with \"npm i -g freebuff\". We're also working on a free Lovable competitor.",
-    "one_liner": "The 100% free coding agent",
+    "one_liner": "The free coding agent",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1728685475,
     "tags": [
-      "Artificial Intelligence",
-      "Developer Tools"
+      "Developer Tools",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4163,7 +4163,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/034b1bab6d92bd99439aee47bf2312630046798c.png",
     "website": "https://understudylabs.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "An open-source toolkit to capture traces, evaluate cheaper models against benchmarks, and ship specialist routes you own.\r\n\r\nCapture traces from LLM production workflows with a single install that deploys within coding agents you already use. Hosted infrastructure is optional.\r\n\r\nEvaluate the captured traces and set a benchmark for success. Every future model switch meets or exceeds it in A/B testing.\r\n\r\nTrain and fine-tune a new model on prompts and weights you always own. Start locally and scale into cloud-hosted processes as you see success.\r\n\r\nDeploy a new model only when the held-out eval is beaten. Serve it wherever you want. Production data feeds back into training and compounds performance over time.\r\n\r\nTest. Learn. Deploy. Repeat.",
+    "long_description": "Understudy is an inference cloud. We capture your AI work traces, train smaller models, and automatically deploy them (only when they outperform the expensive model you are currently paying for).\r\n\r\nInstead of renting the same frontier model forever, your AI infrastructure gets faster, smarter, and cheaper every time it runs.\r\n\r\nSuppose your product uses Claude for a repetitive legal workflow.\r\n\r\nUnderstudy observes successful production runs, learns the specific tools and judgment required for that workflow, and trains a specialized open-weight model.\r\n\r\nOnce that model matches or beats Claude on a held-out evaluation, Understudy starts routing production traffic to it.\r\n\r\nAs more work is completed, the model keeps improving.\r\n\r\nWe started Understudy because we believe every company using AI should be accumulating intelligence, not accumulating API bills.",
     "one_liner": "Effortlessly move to open weight models",
     "team_size": 2,
     "industry": "B2B",

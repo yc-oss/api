@@ -5304,7 +5304,7 @@
       "Argentina",
       "Latin America"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -15136,7 +15136,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2026",
     "status": "Active",
@@ -15792,6 +15792,46 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/control-seat.json"
   },
   {
+    "id": 31277,
+    "name": "Dipole Labs",
+    "slug": "dipole-labs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b476fcfad147bfb48b55b119e09431103b41f4d8.png",
+    "website": "https://dipolelabs.com/",
+    "all_locations": "Boston, MA, USA",
+    "long_description": "",
+    "one_liner": "AI-controlled optical switching for AI clusters",
+    "team_size": 0,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1786560399,
+    "tags": [
+      "Hard Tech",
+      "Semiconductors",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dipole-labs",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/dipole-labs.json"
+  },
+  {
     "id": 31284,
     "name": "Origami Robotics",
     "slug": "origami-robotics",
@@ -16193,6 +16233,42 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/nine-fives",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/nine-fives.json"
+  },
+  {
+    "id": 31367,
+    "name": "Andustry",
+    "slug": "andustry",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2189a7097412cbf54bc66b9495393ddfceb6282a.png",
+    "website": "http://andustry.com/",
+    "all_locations": "Munich, BY, Germany",
+    "long_description": "Andustry is an AI-native hardware lab.",
+    "one_liner": "",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1773916364,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "Germany",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/andustry",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/andustry.json"
   },
   {
     "id": 31369,
@@ -17533,7 +17609,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b7cc06bfd9d08d6eae3bc20eca8c056f893bf8b.png",
     "website": "http://norirobotics.com",
-    "all_locations": "New York City, NY, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Nori builds home robots that cost less than $2,000 and that anyone can teach. Out of the box, the NORI L3 does household chores: loading the dishwasher, folding laundry, tidying up. But because anyone can train it, it also learns your specific tasks, like washing paintbrushes if you're an artist or flipping sheet music while you play guitar. It's a general-purpose robot, not an appliance.\r\n\r\nWe launched pre-orders 6 weeks ago and have already booked $100K in revenue.\r\n\r\nHumanoid robots exist, but they cost $20,000 or more and are demoed, not shipped. We got to $1,688 without sacrificing capability. Instead of expensive actuators, we use low-cost servos and get more out of them through smarter control and design. A wheeled base with a lift gives full floor-to-counter reach without the cost and fragility of legs, and we streamlined manufacturing from day one, assembling in the US.\r\n\r\nThe teachability is the moat. Every skill a user trains can be shared, so each customer makes every robot more capable. Hardware is the entry point; the skill ecosystem is the recurring revenue.\r\n\r\nWe're robotics researchers from Columbia labs like RoboPIL (robot learning) and CGUI. Working with $100K research robots that struggled with everyday tasks convinced us the problem isn't capability, it's cost. Good robots don't need to be expensive.\r\n\r\nHouseholds already spend $2,000+ on single-task machines: a dishwasher, a washing machine, a vacuum. We sell one robot at $1,688 that does the work of all of them and learns more. At 5% of US households and $25 a month for skills, that's $2B a year in recurring revenue, on top of hardware.",
     "one_liner": "Affordable robot you can teach to do anything",
     "team_size": 5,
@@ -17837,15 +17913,15 @@
     "website": "https://movingatoms.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We use World Models to evaluate  and train robots. This enables you to test your policy checkpoints easily, as well as augmenting your training dataset. Scaling GPUs is much cheaper than scaling robot arms and humans needed to moniter them.",
-    "one_liner": "Virtual Reality for Robots (World Models)",
+    "one_liner": "Virtual Reality for Evaluating Robots (World Models)",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1786481200,
     "tags": [
-      "Artificial Intelligence",
       "Robotics",
-      "Virtual Reality"
+      "Virtual Reality",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -18159,6 +18235,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/praxis-ai-2",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/praxis-ai-2.json"
+  },
+  {
+    "id": 33053,
+    "name": "Shiraz AI",
+    "slug": "shiraz-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/93d2ffb0a884b8a3781f59266189d89f4b30d975.png",
+    "website": "https://shiraz.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We deploy robots that learn new tasks from a single human demonstration in the factory. We're starting in contract manufacturing, where lines change every week and both traditional automation and today's VLAs fall over.\r\n\r\nOur founding team has 20+ years of experience in robotics. Navid was part of the core team that productized Spot at Boston Dynamics and led manipulation projects there. Before that, he was at Rethink Robotics. Mojtaba led whole-body control and manipulation efforts at Amazon Robotics and was a Research Assistant Professor at Northwestern University.",
+    "one_liner": "Robots that learn on the job",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1786517990,
+    "tags": [
+      "Generative AI",
+      "Robotics",
+      "Manufacturing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/shiraz-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/shiraz-ai.json"
   },
   {
     "id": 33056,

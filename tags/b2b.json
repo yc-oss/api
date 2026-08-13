@@ -4874,50 +4874,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2019/spire-law.json"
   },
   {
-    "id": 11960,
-    "name": "Convictional",
-    "slug": "convictional",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d89913eef21655f3b6aca9e9962a1f6323dc2479.png",
-    "website": "https://convictional.com",
-    "all_locations": "Toronto, ON, Canada; Remote",
-    "long_description": "Convictional (convictional.com) is the company brain that replaces Slack, to keep teams mission aligned by design. Your goals, email, meetings, chat and knowledge search in one place, where your team's effectiveness compounds.",
-    "one_liner": "Convictional replaces Slack to keep teams mission aligned by design.",
-    "team_size": 15,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1541124183,
-    "tags": [
-      "B2B",
-      "Team Collaboration",
-      "Collaboration",
-      "Operations"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2019",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "Canada",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/convictional",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/convictional.json"
-  },
-  {
     "id": 11965,
     "name": "Preflight",
     "slug": "preflight",
@@ -5273,7 +5229,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -6681,7 +6637,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -11285,8 +11241,8 @@
     "name": "Fieldguide",
     "slug": "fieldguide",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/44c799568df44fb4f129df3ebec9417b8d588116.png",
-    "website": "http://fieldguide.io",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/03ab0a46259f7ce1ac30cf1d9aff41e90bcaad5e.png",
+    "website": "http://fieldguide.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "‍Fieldguide is a vertical AI platform for modern assurance and advisory firms that digitizes the end-to-end engagement workflow on a single platform. Built by former Big Four practitioners and experienced technology leaders, Fieldguide is trusted by top CPA firms to improve margins, win new business, and build stronger client relationships. We’re based in San Francisco, CA, but built as a remote-first company that enables you to do your best work from anywhere. We're backed by top investors including Goldman Sachs, Bessemer Venture Partners, 8VC, Y Combinator, Floodgate, Elad Gil, Justin Kan, Qasar Younis, Eric Ries, and more.",
     "one_liner": "Vertical AI for Audit & Advisory Firms",
@@ -22426,7 +22382,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -42178,15 +42134,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Nitrode is a research company focused on improving game development with AI. To advance game development, we believe AI models firstly need to be judged against robust evaluation frameworks that reflect the actual complexity of the field.\r\n",
     "one_liner": "Frontier AI research to advance game development",
-    "team_size": 6,
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1738144366,
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
       "B2B",
-      "Data Engineering",
-      "AI"
+      "Data Engineering"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -42259,20 +42215,19 @@
     "name": "Outlit",
     "slug": "outlit",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/955d29f6fe86baf7c724d6dcd2933cef074c1171.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/16a8c8e06204be0874b7eb6c471380893195adbb.png",
     "website": "https://outlit.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Outlit turns every customer-facing tool in your stack, like Stripe, Granola, PostHog, Slack, Gmail, Pylon, and more, into one complete, queryable customer profile.\r\n\r\nWe resolve fragmented identity across mismatched records, extract structured facts and signals from unstructured interactions, and expose the result through CLI, MCP, and API. \r\n\r\nSo every person and agent in your company has the full context on every customer to work from.",
-    "one_liner": "Customer Context for Agents",
-    "team_size": 2,
+    "long_description": "Outlit helps B2B SaaS companies improve GRR and NRR by keeping more customers and finding more expansion revenue.\r\n\r\nOutlit creates a real-time view of every customer using product usage, support, calls, email, Slack, billing, CRM, and external signals. It assesses whether each account is likely to renew, expand, contract, or churn, then provides the evidence and next action.\r\n\r\nThe result: stronger adoption, higher retention, and more expansion revenue from signals your team would never catch in a health score or any single tool.",
+    "one_liner": "Retain and Grow Every Customer",
+    "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
+    "subindustry": "B2B",
     "launched_at": 1736658447,
     "tags": [
       "Artificial Intelligence",
       "B2B",
-      "API",
-      "Infrastructure"
+      "Customer Success"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -42281,8 +42236,7 @@
     "batch": "Winter 2025",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Infrastructure"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -42740,7 +42694,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e885d9503dffbb01e24f5bd3a78965979764099.png",
     "website": "https://www.frekil.com",
-    "all_locations": "Bengaluru, KA, India",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Today, it takes months to understand how drugs perform in the real world, delaying safety insights and leaving patients exposed to unknown risks and benefits for far too long. Frekil turns that months-long process into minutes, with full auditability and scientific rigor.\r\n\r\nFrekil accelerates real world evidence (RWE) generation for life sciences companies on their own clinical data from months to minutes. It connects to fragmented clinical data (EHR, Claims, etc.) and lets teams run end-to-end studies from study design, cohort extraction to SAP, statistical analysis, and final reports.",
     "one_liner": "RWE Generation in minutes",
     "team_size": 2,
@@ -42748,11 +42702,11 @@
     "subindustry": "Healthcare",
     "launched_at": 1744440110,
     "tags": [
-      "Artificial Intelligence",
       "Health Tech",
       "B2B",
       "Biotech",
-      "Healthcare"
+      "Healthcare",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -42764,8 +42718,8 @@
       "Healthcare"
     ],
     "regions": [
-      "India",
-      "South Asia"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -44570,14 +44524,14 @@
     "all_locations": "New York City, NY, USA",
     "long_description": "We emulate the attacks real adversaries run today: help-desk vishing, deepfaked executives, MFA fatigue, and the payloads that follow. We run them against your people and the controls around them to reveal what is actually exploitable, not what looks compliant. Then we close the gap, retest until the fix holds, and give your leadership the evidence that risk actually went down. From initial access to remediation.",
     "one_liner": "Your always-on red team.",
-    "team_size": 10,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1753230986,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Cybersecurity"
+      "Cybersecurity",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48738,15 +48692,15 @@
     "website": "https://heytenor.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Your AI spend becomes accountable labor: every AI worker gets a job, persistent context, a budget, guardrails, and outcomes you can measure.\r\n\r\nCopilots made individuals faster. Agent builders made automations easier to create. Both leave the organization unchanged: same roles, same capacity, same org chart, and leadership still sees AI as a software expense, not labor. \r\n\r\nTenor makes AI enter the company as labor instead: every employee manages a team of AI workers built around the recurring work of their role, each with a defined job, boundaries, a budget, and a record of what it delivered. Employees provide the judgment. AI workers provide the execution. Leadership finally sees what AI spend returns.",
-    "one_liner": "Turn every employee into a manager of AI workers",
+    "one_liner": "AI workers that attribute the outcome back to the token spend",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1786480856,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48778,17 +48732,17 @@
     "website": "https://www.risklytics.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Risklytics is a commercial insurance brokerage for frontier tech: robotics, autonomy, data centers, and energy infrastructure. Insurers are writing AI exclusions into standard liability forms, so companies whose products act in the physical world end up holding risk they thought they had transferred. We specialize in that gap, and we know which carriers in the admitted and surplus lines markets will still underwrite it. If you're building anything that moves, lifts, drives, or powers something, we'd like to talk.",
-    "one_liner": "Commercial Insurance Brokerage for Frontier Tech",
+    "one_liner": "Insurance for the Frontier",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1783123197,
     "tags": [
+      "Artificial Intelligence",
       "Hardware",
       "Machine Learning",
       "B2B",
-      "Insurance",
-      "AI"
+      "Insurance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48905,16 +48859,16 @@
     "website": "https://lucaiq.com/",
     "all_locations": "Boston, MA, USA",
     "long_description": "Luca IQ is an API for deterministic tax calculation and an IRS Authorized e-filing engine - the foundation for accounting firms and fintechs building on tax.",
-    "one_liner": "API First Tax Calculator for CPAs",
+    "one_liner": "API First Tax Engine for CPAs",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1785364349,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "API",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48948,7 +48902,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eaa9729cc14d1a256b46037b05b50ac5b7f7c291.png",
     "website": "https://radley.health/",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Radley is the first AI-native radiology practice. We're acquiring a radiology practice bringing Radley to $4.3M in annualized revenue and rebuilding it with agents from the ground up.\r\n\r\nRadiology is already in crisis: there aren't enough radiologists to interpret 1 in 6 medical scans. In 10 years, that gap is growing to 1 in 3 - 246M scans a year.\r\n\r\nWe started as an AI software company, signed $2.2M in contracts, and went live, but learned the real bottleneck isn't software, it's outdated systems and slow, inefficient operations. That's why we own the full stack, clinical and operational, end to end.\r\n\r\nWe met at Carbon Health as we scaled operations 31x and expanded to 100+ clinics. Now we're rebuilding radiology.",
+    "long_description": "Radley is the first AI-native radiology practice. We're acquiring a radiology practice bringing Radley to $4.3M in annualized revenue and rebuilding it with agents from the ground up.\r\n\r\nRadiology is already in crisis: there aren't enough radiologists to interpret 1 in 6 medical scans. In 10 years, that gap is growing to 1 in 3 - 246M scans a year.\r\n\r\nFrom past experience, we know that point solutions won’t cut it. While there is demand (we have $2.2M in contracts to prove it), bottleneck isn't just software, it's outdated systems and slow, inefficient operations. That's why we own the full stack, clinical and operational, end to end.\r\n\r\nWe met at Carbon Health as we scaled operations 31x and expanded to 100+ clinics. Now we're rebuilding radiology.",
     "one_liner": "AI-native, full-stack radiology practice",
     "team_size": 2,
     "industry": "Healthcare",
@@ -48989,16 +48943,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/44fee5cae005d704af84e7ed5ed7418d4ca0580c.png",
     "website": "https://decawork.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Decawork gives IT teams one place to deploy, govern and maintain the AI agents running across their company.\r\n\r\nEvery company is building AI agents internally now - it started with experiments, and now every team wants their own. What follows is agent sprawl: deployment gets messy, agents go live with access to real systems and real data, and maintenance falls in the gap. IT can't see any of it, so it does the only two things it can: first ignore, then block. Ignoring piles up risk; blocking kills the productivity people just found. \r\n\r\nWith Decawork, every agent ships one standard way: its own identity and scoped credentials, with IT's sign-off before it goes live. After that, every run is watched - IT is alerted the moment something fails, agents nobody uses get retired. And the whole time, IT sees every agent, controls what it can touch, and audits every action, with approvals gating anything sensitive.\r\n\r\nEvery big shift - cloud, SaaS, the digital workspace - ended with IT running it. AI agents are the next one. Decawork is what IT will run them with.",
+    "long_description": "Decawork gives IT teams one place to deploy, govern and maintain the AI agents running across their company.\r\n\r\nBuilding internal AI tools and agents is getting easier. Turning them into company-owned systems is still hard. What follows is agent sprawl: deployment gets messy, agents go live with access to real systems and real data, and maintenance falls in the gap. IT can't see any of it, so it does the only two things it can: first ignore, then block. Ignoring piles up risk; blocking kills the productivity people just found. \r\n\r\nWith Decawork, every agent ships one standard way: its own identity and scoped credentials, with IT's sign-off before it goes live. After that, every run is watched - IT is alerted the moment something fails, agents nobody uses get retired. And the whole time, IT sees every agent, controls what it can touch, and audits every action, with approvals gating anything sensitive.\r\n\r\nEvery big shift - cloud, SaaS, the digital workspace - ended with IT running it. Agents aren't just the next shift, they're the next workforce, bigger than the human one. Decawork is what IT will run them with.",
     "one_liner": "The Agent Control Plane for IT teams",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1785265630,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
