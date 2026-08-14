@@ -8230,7 +8230,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Guide Labs builds frontier AI models and agents that you can learn from, audit, and steer. \r\nOur first model, Steerling-8B, is the first and largest inherently interpretable model: it can trace any output to training data, concepts inside the model, and the input, all without sacrificing performance.",
     "one_liner": "Frontier models and agents you can learn from, audit, and steer.",
-    "team_size": 9,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1709806941,
@@ -9308,7 +9308,7 @@
     "all_locations": "Vancouver, BC, Canada",
     "long_description": "AI models are terrible in non-English languages because it's nearly impossible to find training data in other languages. So, we're building the world's largest and highest-quality multilingual data library.",
     "one_liner": "High Quality Multilingual Training Data for AI Models",
-    "team_size": 4,
+    "team_size": 30,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1739847539,
@@ -9333,7 +9333,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -10270,6 +10270,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/induction-labs",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/induction-labs.json"
+  },
+  {
+    "id": 30680,
+    "name": "Riverbank",
+    "slug": "riverbank",
+    "former_names": [
+      "Riverbank Labs",
+      "Riverbank",
+      "Riverbank Security"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/907a43235986d6f57ceffcf97d5210b7d662533b.png",
+    "website": "https://www.riverbank.sh/",
+    "all_locations": "Boston, MA, USA",
+    "long_description": "Riverbank is an infrastructure cartography company. We map system topology, dependencies, interfaces, and reachable pathways across heterogeneous environments.",
+    "one_liner": "Infrastructure Cartography",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1754465108,
+    "tags": [
+      "IoT Security",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/riverbank",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/riverbank.json"
   },
   {
     "id": 30710,
@@ -12570,7 +12615,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2026",
     "status": "Active",
@@ -12847,18 +12892,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4422075ddefbe2da912fc68b24148bca53aaa5b6.png",
     "website": "https://riften.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Riften builds earned intelligence: models that come out of a company’s own work instead of out of a lab.\r\n\r\nOne environment variable points an existing application at Riften instead of OpenAI or Anthropic. Riften routes each request to the least expensive model likely to handle it, using open-weight models we host whenever they are sufficient. Customers lower inference costs before any training begins.\r\n\r\nBecause Riften sits in the request path, real tasks and their outcomes create training evidence the company controls. Riften uses that evidence to improve routing and train private models on open weights around recurring work. Those models earn production traffic by meeting the same bar as the APIs they replace.\r\n\r\nOver time, frontier APIs handle only the tasks that still require them. The rest runs on models the company owns, on infrastructure it controls, inside the applications where the work happens.",
-    "one_liner": "Earned Intelligence for every company. ",
+    "long_description": "Riften is a drop-in replacement for OpenAI and Anthropic APIs. Change one env var. We route each request to the cheapest model that can handle it, including open-weight models we host. Customers cut inference cost before any training begins.\r\n\r\nBecause Riften sits in the request path, real tasks and their outcomes become training data the company controls. We use that to post-train private models on open weights around recurring work. Those models earn production traffic by matching the APIs they replace.\r\n\r\nOver time, frontier APIs handle only the tasks that still require them. The rest runs on models the company owns, on infrastructure it controls.",
+    "one_liner": "Cut LLM spend, then post-train owned models from production traffic.",
     "team_size": 0,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1785872995,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Reinforcement Learning",
       "Open Source",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -13380,6 +13425,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hiloop",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/hiloop.json"
+  },
+  {
+    "id": 33639,
+    "name": "Magma",
+    "slug": "magma",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9b261522e21a27147c25d66eb0b126f8b62e5295.png",
+    "website": "https://magmahq.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We enable companies monetize their agents' traces.",
+    "one_liner": "Monetize your agent's traces.",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1786606834,
+    "tags": [
+      "Reinforcement Learning",
+      "Data Engineering",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/magma",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/magma.json"
   },
   {
     "id": 33673,

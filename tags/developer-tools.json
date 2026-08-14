@@ -11847,7 +11847,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Firecrawl is the easiest way to turn the web into data AI agents can use. One API call converts any URL into clean, LLM-ready markdown or structured data - the boring-hard problem everyone building with LLMs eventually hits, solved.\r\n\r\nWe hit 8 figures in ARR in year one and more than doubled it in year two. We have 150k+ GitHub stars, and developers, agents, and category-defining AI companies build on us every day. Growth like this is rare, and we're just getting started.\r\n\r\nWe're a small team punching far above our weight. Everyone here owns a real piece of the product and company, end to end, and runs it themselves - no hiding behind process or headcount.\r\n\r\nThis is a place for people who want to work at the frontier: an AI company building the infrastructure other AI companies run on, not one bolting AI onto an existing product. We move fast, go deep, and are building the tools superintelligence will rely on to gather data from the web.",
     "one_liner": "The API to search, scrape, and interact with the web at scale. 🔥",
-    "team_size": 35,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1661283698,
@@ -11871,7 +11871,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -14442,7 +14442,7 @@
     "all_locations": "London, England, United Kingdom",
     "long_description": "Metoro is an AI SRE for teams running on Kubernetes. Run one command to get autonomous root causing and automatic fix PRs. Batteries included, telemetry is set up automatically. Go from nothing to production ready in < 5 minutes.",
     "one_liner": "AI SRE For Teams on Kubernetes",
-    "team_size": null,
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1689872648,
@@ -18412,7 +18412,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "ZeroPath is a developer tool that autonomously detects, verifies, and submits fixes for vulnerabilities in your code. Engineers can use ZeroPath to find security problems that they might only otherwise catch in pentests or from bug bounty researchers.",
     "one_liner": "Automatically find and fix your software vulnerabilities",
-    "team_size": 4,
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1718222641,
@@ -22470,7 +22470,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -23283,6 +23283,48 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/ara.json"
   },
   {
+    "id": 31495,
+    "name": "Mentlio",
+    "slug": "mentlio",
+    "former_names": [
+      "Adjoint"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7a733c432ee3fbe8a11ed5dec1520431b7f8d09.png",
+    "website": "https://mentlio.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Mentlio an applied research lab focused on optimizing AI ROI for the modern enterprise. We help engineering teams draw a line between their AI spend and delivery, per engineer. We then cut ~30% of AI spend via Mentlio's custom ML-based intelligent routing, context optimization, and prompt compression.",
+    "one_liner": "Engineering Intelligence and Token Optimization for the AI-Coding Era",
+    "team_size": 0,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1786589390,
+    "tags": [
+      "Developer Tools",
+      "Machine Learning",
+      "Productivity"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mentlio",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/mentlio.json"
+  },
+  {
     "id": 31592,
     "name": "GitCafe",
     "slug": "gitcafe",
@@ -23504,18 +23546,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4422075ddefbe2da912fc68b24148bca53aaa5b6.png",
     "website": "https://riften.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Riften builds earned intelligence: models that come out of a company’s own work instead of out of a lab.\r\n\r\nOne environment variable points an existing application at Riften instead of OpenAI or Anthropic. Riften routes each request to the least expensive model likely to handle it, using open-weight models we host whenever they are sufficient. Customers lower inference costs before any training begins.\r\n\r\nBecause Riften sits in the request path, real tasks and their outcomes create training evidence the company controls. Riften uses that evidence to improve routing and train private models on open weights around recurring work. Those models earn production traffic by meeting the same bar as the APIs they replace.\r\n\r\nOver time, frontier APIs handle only the tasks that still require them. The rest runs on models the company owns, on infrastructure it controls, inside the applications where the work happens.",
-    "one_liner": "Earned Intelligence for every company. ",
+    "long_description": "Riften is a drop-in replacement for OpenAI and Anthropic APIs. Change one env var. We route each request to the cheapest model that can handle it, including open-weight models we host. Customers cut inference cost before any training begins.\r\n\r\nBecause Riften sits in the request path, real tasks and their outcomes become training data the company controls. We use that to post-train private models on open weights around recurring work. Those models earn production traffic by matching the APIs they replace.\r\n\r\nOver time, frontier APIs handle only the tasks that still require them. The rest runs on models the company owns, on infrastructure it controls.",
+    "one_liner": "Cut LLM spend, then post-train owned models from production traffic.",
     "team_size": 0,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1785872995,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Reinforcement Learning",
       "Open Source",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

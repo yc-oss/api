@@ -1433,7 +1433,7 @@
     "all_locations": "Seoul, Seoul, South Korea",
     "long_description": "Miso makes booking services as easy as buying products online. We offer over 1,000 different services ranging from cleaning to moving to interior remodeling, lessons and more. We have fulfilled more than $1.5 billion in transactions serving over 1.5 million households.",
     "one_liner": "We make booking services as easy as buying products online.",
-    "team_size": 100,
+    "team_size": 300,
     "industry": "Consumer",
     "subindustry": "Consumer -> Home and Personal",
     "launched_at": 1461732014,
@@ -1457,7 +1457,7 @@
       "South Korea",
       "East Asia"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": true,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -7448,51 +7448,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2021/supadock.json"
   },
   {
-    "id": 22790,
-    "name": "Version Story Compare",
-    "slug": "version-story-compare",
-    "former_names": [
-      "Version Story"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c8427a4df46d5bdea47426e5463c809db03232f1.png",
-    "website": "https://versionstory.com/",
-    "all_locations": "New York City, NY, USA",
-    "long_description": "Version Story is the primary utility layer interface for agentic legal workflows. As tokens flow like water, Version Story provides deterministic redlining infrastructure that gives the trust layer shape. Claude searches, summarizes, and creates. Version Story validates.",
-    "one_liner": "Deterministic redlining at scale — now within Claude",
-    "team_size": 30,
-    "industry": "B2B",
-    "subindustry": "B2B -> Legal",
-    "launched_at": 1616475139,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Legal",
-      "LegalTech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2021",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Legal"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/version-story-compare",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/version-story-compare.json"
-  },
-  {
     "id": 22831,
     "name": "Emerge Tools",
     "slug": "emerge-tools",
@@ -13462,18 +13417,19 @@
   },
   {
     "id": 26725,
-    "name": "ECSA",
-    "slug": "ecsa",
+    "name": "CODEXA",
+    "slug": "codexa",
     "former_names": [
       "Kapstar",
       "ECSA",
       "E C S A",
-      "KAPSTAR TECHNOLOGIES"
+      "KAPSTAR TECHNOLOGIES",
+      "ECSA"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7fc115c250b2dbc077b89ce7c920be25aab67b1a.png",
-    "website": "http://ecsa.finance/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/315e211ddda1814fa9db4077702d9dd3f91a8723.png",
+    "website": "https://codexa.com.br/desembaraco-aduaneiro",
     "all_locations": "Manaus, AM, Brazil",
-    "long_description": "Our AI Agent runs the entire international trade operation: handles customs processes with government agencies and regulators, orchestrates cross-border payments, and provides credit solutions for trade finance.\r\n\r\n Built by ECSA, a Central Bank–licensed FX bank, the agent allows exporters and importers to move goods and money seamlessly across borders. \r\n\r\nToday it powers +USD 1b in annual volume across +17.000 transactions, cutting costs and eliminating regulatory friction.",
+    "long_description": "Our AI Agent runs the entire international trade operation: handles customs processes with government agencies and regulators, orchestrates cross-border payments, and provides credit solutions for trade finance.\r\n\r\n Built by Codexa, a Central Bank–licensed FX bank, the agent allows exporters and importers to move goods and money seamlessly across borders. \r\n\r\nToday it powers +USD 2b in annual volume across +17.000 transactions, cutting costs and eliminating regulatory friction.",
     "one_liner": "AI Agent runs the entire international trade operation",
     "team_size": null,
     "industry": "Fintech",
@@ -13509,8 +13465,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ecsa",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/ecsa.json"
+    "url": "https://www.ycombinator.com/companies/codexa",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/codexa.json"
   },
   {
     "id": 26730,
@@ -20827,7 +20783,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Nowadays is the AI-native platform for corporate meetings and events. Our AI doesn't just assist planners – it does the work. It emails and calls venues, negotiates rates in 22 languages, parses 50-page hotel proposals into clean apples-to-apples comparisons, and surfaces unmanaged meeting spend across your entire org.\r\n\r\nWe work with companies ranging from ones planning one epic company kickoff a year to ones running thousands of meetings through the platform annually. Clients include Google, Airbnb, BlackRock, Anthropic, Pylon, and Mintlify.\r\n\r\nUnlike legacy platforms like Cvent that bolted AI onto decades-old infrastructure, Nowadays was built from the ground up for the AI era.",
     "one_liner": "AI-native platform for corporate meetings and events",
-    "team_size": 9,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1687830204,
@@ -22583,7 +22539,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Guide Labs builds frontier AI models and agents that you can learn from, audit, and steer. \r\nOur first model, Steerling-8B, is the first and largest inherently interpretable model: it can trace any output to training data, concepts inside the model, and the input, all without sacrificing performance.",
     "one_liner": "Frontier models and agents you can learn from, audit, and steer.",
-    "team_size": 9,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1709806941,
@@ -23060,7 +23016,7 @@
       "Aether"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7175120ae6ae4f3d25e96905fcb4e3ce5d125052.png",
-    "website": "https://www.feldy.ai",
+    "website": "https://feldy.ai",
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Feldy is field-first AI for home service businesses helping teams capture jobsites, create take-offs & estimates, and documentation.\r\n\r\nWith Feldy, teams capture the physical world using photos, videos, AI jobsite walkthroughs, and 3D scans using your mobile phone. It turns field information into takeoffs & estimates, visual designs, and project documentation. Feldy works across home services such as roofing, exteriors, remodeling, painting, cleaning, landscaping, handymen, and other home services.\r\n\r\nWe’re building a new way for more than 2 million U.S. home service businesses operating in an $800B+ market to capture, understand, and complete work in the field.\r\n\r\nFeldy is available on iOS, Android, and the web.",
     "one_liner": "Field-First AI for home services",
@@ -25231,6 +25187,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/kater-ai.json"
   },
   {
+    "id": 29510,
+    "name": "Yarn",
+    "slug": "yarn-2",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ecaa1199b6d124b85c33c51f6a249e1fff1b0f96.png",
+    "website": "https://www.yarn.so",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "Yarn is a new kind of video product that lets anyone on your team ship videos: feature launches, custom demos, walkthroughs and explainers, ABM.\r\n\r\nYarn is the first agentic video system that doesn't compromise on quality or ease of use.",
+    "one_liner": "Yarn is the video product for agentic GTM teams.",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1708454742,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Sales",
+      "Video",
+      "Marketing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/yarn-2",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/yarn-2.json"
+  },
+  {
     "id": 29511,
     "name": "InspectMind AI",
     "slug": "inspectmind-ai",
@@ -26607,6 +26605,54 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/gauge.json"
   },
   {
+    "id": 29697,
+    "name": "Stormy",
+    "slug": "stormy",
+    "former_names": [
+      "1nterface.ai",
+      "stormy.ai",
+      "Stormy AI – Autonomous marketing agent",
+      "Stormy AI – Vibe marketing agent",
+      "Stormy AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c443169b74492fcaea01517438d00bb486fea6b7.png",
+    "website": "https://stormy.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Stormy runs the office so your crew can run the work. Every call answered, day or night. Every quote followed up until it is a yes or a no. Jobs booked, crews scheduled, parts tracked, invoices sent and collected. Marketing that brings the work in, and an AI agent for every person on your team — all working from the same job record. Built for the shops that keep physical things running: forklift and heavy equipment service, HVAC, electrical, plumbing, roofing, logistics and yards.",
+    "one_liner": " Stormy runs the office so your crew can run the work.",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1723238839,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Customer Service"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/stormy",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/stormy.json"
+  },
+  {
     "id": 29701,
     "name": "Plume",
     "slug": "plume",
@@ -27052,7 +27098,7 @@
     "all_locations": "Seattle, WA, USA",
     "long_description": "Clearly AI automates security and privacy reviews with AI. We performed hundreds of reviews at Amazon and Moveworks and now we're building the product we wish we had. Our users complete reviews in minutes instead of days.\r\n\r\nEmily and Joe are technical co-founders and senior engineers. We met in 2019 while working on an Alexa security review.",
     "one_liner": "Automate security and privacy reviews",
-    "team_size": 12,
+    "team_size": 17,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1722269171,
@@ -28072,7 +28118,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "ZeroPath is a developer tool that autonomously detects, verifies, and submits fixes for vulnerabilities in your code. Engineers can use ZeroPath to find security problems that they might only otherwise catch in pentests or from bug bounty researchers.",
     "one_liner": "Automatically find and fix your software vulnerabilities",
-    "team_size": 4,
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1718222641,
@@ -29916,8 +29962,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6afcff2711f9441590b0357af0a3115ddece5ad.png",
     "website": "https://diffusion.studio/",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Diffusion Studio Pro is a browser based non-linear editor (NLE) that uses WebCodecs and WebGPU to deliver smooth, pro level performance. It brings the modern UX of tools like Figma and Framer to video editing, making it easy for anyone to create professional content.",
-    "one_liner": "The professional video editor built for agents",
+    "long_description": "Diffusion Studio lets your agents make videos. The agent writes a composition in TSX and mounts it into the editor. Every element stays editable. Think of it as FFmpeg for agents, with generative AI and multimodal understanding built in.",
+    "one_liner": "Turn your agent into a professional video editor",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer -> Content",
@@ -31036,48 +31082,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/cardamon.json"
   },
   {
-    "id": 30242,
-    "name": "Oki",
-    "slug": "oki",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2739d81dbffcc2b373478801ae236fbf5c3b86d0.png",
-    "website": "https://okihome.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Oki Home is your digital home for all your personal memories and experiences. Using fully private local AI, it grows with you to understand and help you in your life.",
-    "one_liner": "The digital home for your personal memories that grows with you",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1739303977,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Enterprise"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/oki",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/oki.json"
-  },
-  {
     "id": 30246,
     "name": "Swerve",
     "slug": "swerve",
@@ -31569,7 +31573,7 @@
     "all_locations": "Vancouver, BC, Canada",
     "long_description": "AI models are terrible in non-English languages because it's nearly impossible to find training data in other languages. So, we're building the world's largest and highest-quality multilingual data library.",
     "one_liner": "High Quality Multilingual Training Data for AI Models",
-    "team_size": 4,
+    "team_size": 30,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1739847539,
@@ -31594,7 +31598,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -35256,7 +35260,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -35787,6 +35791,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/maximal",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/maximal.json"
+  },
+  {
+    "id": 30735,
+    "name": "Evergrove",
+    "slug": "evergrove",
+    "former_names": [
+      "No official name yet",
+      "Nony AI",
+      "Evergrove Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bbb31241cfe39c763acf55ec7b3027f6e806380c.png",
+    "website": "https://www.evergrovelabs.com/",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "We've built voice agents for the largest work comp managed care orgs and specialist PT networks in the country, making >500K calls annually and accelerating the speed at which they coordinate care. On average, our customers see a 40% increase in workflow completion, 10x decrease in cycle times, and >60% reduction in cost.\r\n\r\nWe think voice agents are the starting point for solving slow and fragmented care coordination in this market. Companies that manage an injured worker's care rely on short-staffed contact centres and archaic methods of info exchange: phone, fax, and email. Every delay along the path of care leads to slower rehab of the injured worker, lower throughput for providers, and higher expense for the insurer/employer.",
+    "one_liner": "Voice agents that accelerate care coordination in workers' comp",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1786637393,
+    "tags": [
+      "Artificial Intelligence",
+      "Healthcare"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/evergrove",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/evergrove.json"
   },
   {
     "id": 30736,
@@ -37867,7 +37914,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -39279,6 +39326,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/inth",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/inth.json"
+  },
+  {
+    "id": 31258,
+    "name": "Dream",
+    "slug": "dream",
+    "former_names": [
+      "Dream Browser"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/479d7e4f9e6b74b1df9f87c67fe614babba0a9b5.png",
+    "website": "https://www.pingdream.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Dream makes pocket-sized, battery-powered AI cameras that catch damage teams miss. Car dealerships, equipment rental companies, fleets, and more move expensive assets in and out all day, and undocumented damage is a costly leak.\r\n\r\nDream cameras are simple to set up and work automatically. Each vehicle or machine that passes is photographed from every angle, identified, and reconstructed into a 3D condition record. On return or intake, Dream instantly flags new dents, scrapes, and changes your team might miss, giving one source of truth for every asset's condition over time.\r\n\r\nRyland worked at X/xAI and built aerial damage-detection vision at Vexcel Imaging. Alexander worked at AWS and trained edge-camera models deployed in the wild across Africa and India to detect poachers.",
+    "one_liner": "Pocket-sized AI cameras that catch asset damage.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1765334321,
+    "tags": [
+      "Artificial Intelligence",
+      "Hardware",
+      "Machine Learning",
+      "Computer Vision",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dream",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/dream.json"
   },
   {
     "id": 31268,
@@ -40775,49 +40866,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/buildbox.json"
   },
   {
-    "id": 32198,
-    "name": "Riften",
-    "slug": "riften",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4422075ddefbe2da912fc68b24148bca53aaa5b6.png",
-    "website": "https://riften.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Riften builds earned intelligence: models that come out of a company’s own work instead of out of a lab.\r\n\r\nOne environment variable points an existing application at Riften instead of OpenAI or Anthropic. Riften routes each request to the least expensive model likely to handle it, using open-weight models we host whenever they are sufficient. Customers lower inference costs before any training begins.\r\n\r\nBecause Riften sits in the request path, real tasks and their outcomes create training evidence the company controls. Riften uses that evidence to improve routing and train private models on open weights around recurring work. Those models earn production traffic by meeting the same bar as the APIs they replace.\r\n\r\nOver time, frontier APIs handle only the tasks that still require them. The rest runs on models the company owns, on infrastructure it controls, inside the applications where the work happens.",
-    "one_liner": "Earned Intelligence for every company. ",
-    "team_size": 0,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1785872995,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Reinforcement Learning",
-      "Open Source",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/riften",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/riften.json"
-  },
-  {
     "id": 32200,
     "name": "Bizmark",
     "slug": "bizmark",
@@ -40899,6 +40947,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/alloovium",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/alloovium.json"
+  },
+  {
+    "id": 32205,
+    "name": "MOCHI.TV",
+    "slug": "mochitv",
+    "former_names": [
+      "Mochi"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f190f58f8300e2403a89619d8522badbb222ad8f.png",
+    "website": "https://www.mochi.tv/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Mochi is a mobile-first entertainment platform for vertical anime shorts. Users can scroll to discover shows and binge bite-sized episodes, unlocking them with either coins or a subscription. We produce new shows daily with AI, and they've hit 300M+ views organically.",
+    "one_liner": "1 Minute Anime",
+    "team_size": 3,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Content",
+    "launched_at": 1786602622,
+    "tags": [
+      "Artificial Intelligence",
+      "Consumer"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Content"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mochitv",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/mochitv.json"
   },
   {
     "id": 32206,
@@ -41629,6 +41719,47 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/risklytics.json"
   },
   {
+    "id": 32682,
+    "name": "LATO",
+    "slug": "lato",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/78429e3a8867e93ea2df52fc422fdbd447685774.png",
+    "website": "https://www.latolabs.io/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "The best investments come from conviction, and conviction comes from understanding a market deeply: its customers, its competitors, and where it's heading.\r\n\r\nToday that understanding is slow and expensive to build. Reaching the right people takes weeks, a commercial study costs $300k+, and each one starts from scratch.\r\n\r\nLATO does this research end-to-end, combining public data and the fund's own knowledge with first-hand interviews of a market's consumers, experts, and operators. \r\n\r\nThis research grounds a simulation of the market to predict how market participants behave.",
+    "one_liner": "Agent-native research and simulation platform for investors",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1782190140,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Investing",
+      "Market Research"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lato",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/lato.json"
+  },
+  {
     "id": 32781,
     "name": "Isengard Industries Inc",
     "slug": "isengard-industries-inc",
@@ -41847,7 +41978,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Marengo designs data centers at double the speed and half the cost with AI. We’re working with some of the largest data center builders in the world to improve how design is done today.\r\n\r\nWe're backed by Y Combinator, a16z & Index Venture Scout Funds, as well as investors/angels in OpenAI, Anthropic, SpaceX, and more.\r\n\r\nOur advisors include the former President & CEO of Saipem America ($3B+ P&L), former President of Exyte's Advanced Technology Facilities GBU ($6B+ P&L) and more.",
     "one_liner": "Automating engineering design, starting with data centers.",
-    "team_size": 3,
+    "team_size": 10,
     "industry": "Industrials",
     "subindustry": "Industrials -> Energy",
     "launched_at": 1786181708,

@@ -12865,7 +12865,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -19311,18 +19311,19 @@
   },
   {
     "id": 26725,
-    "name": "ECSA",
-    "slug": "ecsa",
+    "name": "CODEXA",
+    "slug": "codexa",
     "former_names": [
       "Kapstar",
       "ECSA",
       "E C S A",
-      "KAPSTAR TECHNOLOGIES"
+      "KAPSTAR TECHNOLOGIES",
+      "ECSA"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7fc115c250b2dbc077b89ce7c920be25aab67b1a.png",
-    "website": "http://ecsa.finance/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/315e211ddda1814fa9db4077702d9dd3f91a8723.png",
+    "website": "https://codexa.com.br/desembaraco-aduaneiro",
     "all_locations": "Manaus, AM, Brazil",
-    "long_description": "Our AI Agent runs the entire international trade operation: handles customs processes with government agencies and regulators, orchestrates cross-border payments, and provides credit solutions for trade finance.\r\n\r\n Built by ECSA, a Central Bank–licensed FX bank, the agent allows exporters and importers to move goods and money seamlessly across borders. \r\n\r\nToday it powers +USD 1b in annual volume across +17.000 transactions, cutting costs and eliminating regulatory friction.",
+    "long_description": "Our AI Agent runs the entire international trade operation: handles customs processes with government agencies and regulators, orchestrates cross-border payments, and provides credit solutions for trade finance.\r\n\r\n Built by Codexa, a Central Bank–licensed FX bank, the agent allows exporters and importers to move goods and money seamlessly across borders. \r\n\r\nToday it powers +USD 2b in annual volume across +17.000 transactions, cutting costs and eliminating regulatory friction.",
     "one_liner": "AI Agent runs the entire international trade operation",
     "team_size": null,
     "industry": "Fintech",
@@ -19358,8 +19359,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ecsa",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/ecsa.json"
+    "url": "https://www.ycombinator.com/companies/codexa",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/codexa.json"
   },
   {
     "id": 26727,
@@ -24810,7 +24811,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
     "one_liner": "",
-    "team_size": 2,
+    "team_size": 1,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1739308183,
@@ -25728,7 +25729,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa8267b34eb44ac708090ff04ca6eeef01fa75d3.png",
     "website": "https://caseyinsure.com/",
-    "all_locations": "ZH, Switzerland",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Casey is an AI-native commercial insurance brokerage. Our insurance brokers focus on client relationships and closing business, whilst our AI handles all the operational work behind the scenes.\r\n\r\n",
     "one_liner": "Casey is an AI-native commercial insurance brokerage",
     "team_size": 5,
@@ -25747,8 +25748,8 @@
       "Insurance"
     ],
     "regions": [
-      "Switzerland",
-      "Europe"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -27492,6 +27493,46 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/prodigy-research.json"
   },
   {
+    "id": 32352,
+    "name": "Veltha",
+    "slug": "veltha",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/086027e8af9fab6d08a460f136457d84dbf6f354.png",
+    "website": "https://veltha.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Veltha is an AI claims adjuster. It helps the human decide on a claim faster, so insurance companies save time and reduce their litigation rate.\r\n\r\nLearn more at https://veltha.ai",
+    "one_liner": "AI claims adjuster for regulated insurance",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1786650265,
+    "tags": [
+      "Fintech",
+      "Insurance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/veltha",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/veltha.json"
+  },
+  {
     "id": 32625,
     "name": "Qlo",
     "slug": "qlo",
@@ -27742,6 +27783,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/levocred-ai.json"
   },
   {
+    "id": 33048,
+    "name": "Pennant",
+    "slug": "pennant",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7fbb4be6497bcd38a1210a0561cf3eb84422ab32.png",
+    "website": "https://www.getpennant.ai",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "Led by former institutional proxy voters and technologists with 10+ years of experience, Pennant gives institutional investors, public companies, and corporate advisors voting and governance intelligence to act on their own principles at scale.",
+    "one_liner": "The Corporate Governance OS for Public Markets",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Asset Management",
+    "launched_at": 1786584832,
+    "tags": [
+      "Fintech",
+      "Investing",
+      "Investments",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Asset Management"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pennant",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/pennant.json"
+  },
+  {
     "id": 33178,
     "name": "TovenAI",
     "slug": "tovenai",
@@ -27781,6 +27864,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tovenai",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/tovenai.json"
+  },
+  {
+    "id": 33278,
+    "name": "PRINCEPS",
+    "slug": "princeps",
+    "former_names": [
+      "Princeps Dev"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8face6fd127a729a79aa67ef1d9e4669f91060ab.png",
+    "website": "https://princeps.dev",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "",
+    "one_liner": "AI-native insurance company for the compute economy",
+    "team_size": 3,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1786600478,
+    "tags": [
+      "Machine Learning",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/princeps",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/princeps.json"
   },
   {
     "id": 33282,
