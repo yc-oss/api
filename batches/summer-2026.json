@@ -624,11 +624,11 @@
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1783647531,
     "tags": [
-      "Artificial Intelligence",
       "Robotics",
       "Construction",
       "Sustainability",
-      "Energy"
+      "Energy",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1523,9 +1523,9 @@
     "subindustry": "B2B -> Security",
     "launched_at": 1785361922,
     "tags": [
-      "Artificial Intelligence",
       "Security",
-      "Cybersecurity"
+      "Cybersecurity",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2192,6 +2192,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/perceptron-ml.json"
   },
   {
+    "id": 32128,
+    "name": "Mass Magnetics",
+    "slug": "mass-magnetics",
+    "former_names": [
+      "Mass Energy Company"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/26161cef0e683292e39a5da2d6258b38702473a0.png",
+    "website": "https://massmagnetics.com/",
+    "all_locations": "Boston, MA, USA",
+    "long_description": "Mass Magnetics turns recycled rare-earth scrap into high-performance permanent magnets, made in America. The materials we supply are the backbone of electric motors, sensors, speakers, hard drives, and electronics.\r\nOur process enables DFARS-compliant magnets for defense, aerospace, and industrial manufacturers who demand domestic supply without compromising on quality.\r\nOperations in Greater Boston, MA (Greentown Labs) and Columbus, IN.",
+    "one_liner": "USA-made magnetics for aerospace, robotics and defense. ",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Defense",
+    "launched_at": 1786735839,
+    "tags": [
+      "Hard Tech",
+      "Drones",
+      "Manufacturing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mass-magnetics",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/mass-magnetics.json"
+  },
+  {
     "id": 32129,
     "name": "Egoist Machines",
     "slug": "egoist-machines",
@@ -2460,10 +2503,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1786633082,
     "tags": [
+      "Artificial Intelligence",
       "Marketplace",
       "Sales",
-      "E-commerce",
-      "AI"
+      "E-commerce"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2624,16 +2667,16 @@
     "website": "https://www.rex.inc",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Rex is an AI-native service for order to cash. We replace people-heavy operations with AI agents that continuously manage invoices, customers and exceptions.\r\n\r\nOrder to cash is a $60B outsourced function because the work is too messy for traditional automation. Every customer has different context, exceptions do not follow clean rules, and the next step is often buried in emails, portals, handoffs, or someone’s memory. Rex agents run continuously in the background and resolve work to SLA standards so cash keeps moving. We're live with pre-IPO tech companies, managing  >$500m in receivables from F100 companies, cutting manual follow-up cycles from weeks to hours.\r\n\r\nWe founded Rex after spending four years building Sequence, an a16z-backed finance ops platform, from zero to Series A — where we saw firsthand that at-scale, O2C still runs on manual labour.\r\n\r\nRex is the #1 winner of the Vercel AI Accelerator out of 2,500 teams, selected by Guillermo Rauch and leaders from OpenAI, Anthropic, Browserbase and more.",
-    "one_liner": "AI Operations Partner for Enterprise Order to Cash",
+    "one_liner": "AI Native BPO for Enterprise Order to Cash",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1779903831,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Enterprise",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2710,8 +2753,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2eb59fa1eb6f59fafb938607c641276931a20aef.png",
     "website": "https://www.maingen.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Maingen builds RL environments for industrial operations ($5 trillion slice of the US economy) so frontier labs can train models that actually run factories.",
-    "one_liner": "RL environments for industrial operations",
+    "long_description": "Maingen builds simulations for industrial operations ($5 trillion slice of the US economy) so frontier labs can train models that actually run factories.",
+    "one_liner": "Simulating Agents Running Industrial Companies",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Energy",
@@ -2744,6 +2787,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/maingen",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/maingen.json"
+  },
+  {
+    "id": 32161,
+    "name": "Bernard",
+    "slug": "bernard",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/86e6151a4772f82f25d8581efbda66f538ce4bed.png",
+    "website": "https://bernardhq.com/",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "Bernard builds AI employees for home and commercial appliance servicers. They work across phone, text, email, warranty feeds, and existing systems to manage customer communication, scheduling, and dispatch, carrying each job through diagnosis, parts preparation, technician handoff, and follow-up. At the center is Pre-ID, which combines the exact appliance and its symptoms with repair history, similar completed visits, manufacturer guidance, and parts data to produce a diagnosis, ranked parts, and follow-up questions. Technicians arrive prepared with the right parts, helping servicers complete more repairs on the first visit.\r\n\r\nWe’re building the world’s most efficient appliance servicers, creating happier customers and a more connected appliance ecosystem.\r\n\r\nLearn more at https://bernardhq.com/",
+    "one_liner": "AI employees that run home appliance repair companies",
+    "team_size": 9,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1786664902,
+    "tags": [
+      "Home Services",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bernard",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/bernard.json"
   },
   {
     "id": 32164,
@@ -2930,6 +3015,7 @@
     "subindustry": "Healthcare",
     "launched_at": 1785190964,
     "tags": [
+      "Consumer",
       "Biotech",
       "Personalization",
       "Health & Wellness"
@@ -3200,6 +3286,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/instaplay.json"
   },
   {
+    "id": 32191,
+    "name": "Lyon",
+    "slug": "lyon",
+    "former_names": [
+      "Lyon (Branding TBD)"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/27ce3fff3af03da64bc8cfefeb3efef7b6d080b7.png",
+    "website": "https://lyon.so",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Foundation models on enterprise transaction data.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1786694987,
+    "tags": [
+      "Machine Learning",
+      "Finance",
+      "Data Science",
+      "Big Data"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lyon",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/lyon.json"
+  },
+  {
     "id": 32192,
     "name": "Rise Reforming",
     "slug": "rise-reforming",
@@ -3419,8 +3549,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4422075ddefbe2da912fc68b24148bca53aaa5b6.png",
     "website": "https://riften.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Riften is a drop-in replacement for OpenAI and Anthropic APIs. Change one env var. We route each request to the cheapest model that can handle it, including open-weight models we host. Customers cut inference cost before any training begins.\r\n\r\nBecause Riften sits in the request path, real tasks and their outcomes become training data the company controls. We use that to post-train private models on open weights around recurring work. Those models earn production traffic by matching the APIs they replace.\r\n\r\nOver time, frontier APIs handle only the tasks that still require them. The rest runs on models the company owns, on infrastructure it controls.",
-    "one_liner": "Cut LLM spend, then post-train owned models from production traffic.",
+    "long_description": "Intelligence will be the most valuable asset a company owns. Today, almost every company rents it.\r\n\r\nCompanies pay a handful of labs one token at a time. Each dollar buys an answer, not an asset. They spend more, but own nothing more.\r\n\r\nRiften reverses that.\r\n\r\nChange one environment variable and Riften becomes the gateway for a company's AI traffic. We route each request to the lowest-cost model that can do the job, serving most work on open-weight models we host. Customers save money immediately without rebuilding their products.\r\n\r\nThe gateway is the entry point. Over time, Riften turns the company's work into private models built on open weights and shaped around the business. What begins as cheaper inference becomes an intelligence stack the company owns, runs on infrastructure it controls, and uses to power its most important applications.\r\n\r\nWe call this earned intelligence. It is created by the company's own work, controlled by the company, and accumulated over time.\r\n\r\nThe next generation of companies will not rent their intelligence. They will earn it, own it, and compound it. Riften is how they get there.",
+    "one_liner": "Earned intelligence for every company",
     "team_size": 0,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -3889,15 +4019,15 @@
     "website": "https://www.tryglen.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Glen is unified context for every agent and human on your team. Most MCP tools hand an agent a slice, one Slack thread, a single diff, and leave it to stitch the rest together itself. Glen reads from where your work already lives, code and PRs, issues, docs, and meetings, reconciles it, and gives your agents the full picture instead.\r\n\r\nWith Glen a coding agent knows why a line was written, not just what it says. Ask a PR assistant anything about a change and the clarifying-question relay disappears. Bug bots read the intent behind the code before they comment, so they stop flagging deliberate choices as defects and stop repeating mistakes they already made. A sales agent can coach your head of sales off the full account history, how teammates handle similar calls, what was promised, where the deal stalled, etc. \r\n\r\nAs the work gets done, Glen also distills it into skills and offers them back to the next agent, or person, who hits the same task.",
-    "one_liner": "Unified organizational context for agents and humans",
+    "one_liner": "Shared learning layer for agents",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1781114514,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4094,18 +4224,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a2db1ee59cf597cd664444e784ae76e1f753d775.png",
     "website": "https://prodigy.markets",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Prodigy is the frontier AI trading research lab. We've trained the world's best foundation model for quantitative finance. We've already achieved more than 100% returns in live trading over the course of our YC batch, doubling our capital while major indices were flat. Our founders previously built strategies that generated billions in trading profits at Jane Street, trained frontier AI models at Google DeepMind and shipped cutting-edge AI at Apple to billions of customers. Join us as we use AI to solve the market.",
+    "long_description": "Prodigy is the frontier AI trading research lab. We've trained the world's best foundation model for quantitative finance. We've already achieved more than 100% returns in live trading over the course of our YC batch, doubling our capital while major indices were flat. Our founders previously worked at Jane Street, trained frontier AI models at Google DeepMind and shipped cutting-edge AI at Apple to billions of customers. Join us as we use AI to solve the market.",
     "one_liner": "Training the world's best foundation model for quantitative finance.",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1786153448,
     "tags": [
+      "Artificial Intelligence",
       "Reinforcement Learning",
       "Finance",
       "Investing",
-      "Trading",
-      "AI"
+      "Trading"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4390,6 +4520,47 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/definite.json"
   },
   {
+    "id": 32319,
+    "name": "Tarifflo Inc.",
+    "slug": "tarifflo-inc",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/baaf31859f77b68dff4e403722868aa21a91a23d.png",
+    "website": "https://www.tarifflo.com",
+    "all_locations": "Salt Lake City, UT, USA",
+    "long_description": "",
+    "one_liner": "Supply chain compliance and cost savings",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1779036182,
+    "tags": [
+      "B2B",
+      "LegalTech",
+      "Supply Chain"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tarifflo-inc",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/tarifflo-inc.json"
+  },
+  {
     "id": 32352,
     "name": "Veltha",
     "slug": "veltha",
@@ -4521,15 +4692,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/20aa62fc0a930e7bfdba7047f185bab421afd2b2.png",
     "website": "https://standardmachines.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We build RL environments to teach AI to design chips.",
+    "long_description": "We build environments and evaluations to train and evaluate models on advanced chip design.",
     "one_liner": "RL Environments For Chip Design",
     "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1785623138,
     "tags": [
-      "Semiconductors",
-      "AI"
+      "Artificial Intelligence",
+      "Semiconductors"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4732,16 +4903,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cbb396809ed692f744f764e5cd86703142288a07.png",
     "website": "https://stratumindustries.co/",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Stratum builds AI agents that clear the U.S. government backlog. Every permit, license, patent, drug approval, and benefits claim in America has to be reviewed by a government adjudicator and the software they rely on was built decades before AI. The result is millions of applications stuck in queues: veterans waiting on disability ratings, families waiting on pensions, builders waiting years to break ground.\r\n\r\nStratum replaces that workflow. A reviewer drops in an application, selects the rubric it needs to be checked against, and an agent plans, executes, and reviews the file end to end routing each step to the right model for the most accurate and cost-efficient decision. Hundreds of agents run in parallel in the cloud, with a human kept in the loop to approve and full auditability at every step, so an entire backlog can be cleared in the time it used to take to review a single file.\r\n\r\nWe're rebuilding the entire infrastructure the government runs on both the reviewer side and the applicant side - so filing and adjudication become instant instead of taking weeks.\r\n\r\nWe're Vihaan and Raj, brothers. Vihaan was founding engineer #3 at Cadastral (acquired by Legora) and dropped out of Waterloo to build Stratum. Raj led GTM at Deel, averaging 220% of quota over two years and ranking top 5 of 1,000+ reps globally, and dropped out of grad school at the University of Bath to build Stratum.",
-    "one_liner": "AI agents that clear the U.S. government backlog.",
+    "long_description": "Stratum Industries is the applied AI company for governments. We build AI agents that automate the slow, complex manual workflows governments run on, starting with application review, where files are still reviewed by hand, one at a time, leaving millions stuck in queues. \r\n\r\nStratum's agents review applications end to end with a human in the loop and full auditability, clearing entire backlogs in a fraction of the time. Our mission is to deploy AI across every vertical inside the government, saving agencies tens of billions in administrative cost and making the government one of the most efficient institutions in the world.",
+    "one_liner": "Applied AI for Governments.",
     "team_size": 2,
     "industry": "Government",
     "subindustry": "Government",
     "launched_at": 1785365250,
     "tags": [
+      "Artificial Intelligence",
       "GovTech",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4760,7 +4931,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": true,
+    "question_answers": false,
     "url": "https://www.ycombinator.com/companies/stratum-industries",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/stratum-industries.json"
   },
@@ -5939,18 +6110,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41b5fd38dcf7826f6043c80c1a7e50338b8b5cb1.png",
     "website": "https://www.arbital.xyz",
     "all_locations": "Singapore, Singapore",
-    "long_description": "Arbital lets you trade perps, memes, stocks, and run market-making strategies from one place. In our first 7 months, 2,600 traders have traded $1.3B in volume through Arbital, and we're now doing $377M/month. \r\n\r\nWe're building towards a social, mobile-first trading app that brings tokenized equities, crypto, and perps to everyone.",
+    "long_description": "Arbital lets you trade perps, memes, stocks, and run market-making strategies from one place. In our first 7 months, 2,700 traders have traded $1.35B in volume through Arbital, and we're now doing $435M/month. \r\n\r\nWe're building towards a social, mobile-first trading app that brings tokenized equities, crypto, and perps to everyone.",
     "one_liner": "The trading terminal for perps, memes, and stocks.",
     "team_size": 3,
     "industry": "Fintech",
     "subindustry": "Fintech -> Consumer Finance",
     "launched_at": 1785892617,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "Crypto / Web3",
       "Investing",
-      "Trading",
-      "AI"
+      "Trading"
     ],
     "tags_highlighted": [
       "Crypto / Web3"
@@ -6198,16 +6369,14 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8126dcec05004e9a335df14d0116cf4774a61b06.png",
     "website": "https://trydenta.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Denta is the practice management platform that puts dental practices on autopilot. When a dentist starts a new practice, instead of finding an accounting firm, hiring two front desk workers, and then spending their nights posting insurance payments, they use Denta.\r\n\r\nI started Denta to help operate my Dad's 10 practices in Iowa. In supporting those, I realized the most painful part was both people and agents having messy access to fragmented data. So I solved for that and now spend my time automating work for dentists!",
-    "one_liner": "The dental practice that runs itself",
+    "long_description": "Denta saves you money on dental insurance.\r\n\r\nWhen you go to buy dental insurance, instead of picking the plan where 25% of your money goes to Brokers, CEOs, and Administrators, you pick the plan where 100% of your money goes to the dentist.\r\n\r\nI started Denta by building software for my dad's 10 dental practices in Iowa. In scaling that product to 13k MRR in 10 weeks, I realized I was working on a small problem in dentistry. Existing software sucks, no doubt, but what dentists complain about even more: insurance.\r\n\r\nInsurance is a massive burden on the industry. Dental Software companies make $6B/year. Dental Insurance Companies make $100B/year. 25% of that is wasted on administrators, brokers, and c-suite salaries. As the son of a dentist, I will not let these companies continue to burn $25B/year. That money should go to dentists via reimbursements, patients via more coverage, and employers via reduced costs.",
+    "one_liner": "Save Money on Dental Insurance",
     "team_size": 1,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
     "launched_at": 1782407143,
     "tags": [
-      "Dental",
-      "Healthcare IT",
-      "AI"
+      "Health Insurance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6216,8 +6385,8 @@
     "batch": "Summer 2026",
     "status": "Active",
     "industries": [
-      "Healthcare",
-      "Healthcare IT"
+      "Fintech",
+      "Insurance"
     ],
     "regions": [
       "United States of America",
@@ -6526,6 +6695,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/executor",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/executor.json"
+  },
+  {
+    "id": 32948,
+    "name": "Waybill",
+    "slug": "waybill",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b91adedb53afabc881281324143485f1dc3c6674.png",
+    "website": "https://www.waybill.to/",
+    "all_locations": "Gurugram, HR, India",
+    "long_description": "Hardware teams burn weeks on procurement. An engineer needs a part. Someone emails five distributors, chases quotes, gets an approval, wires the money, tracks a shipment across three carriers, clears customs, and then nobody knows where the box is or what's actually on the shelf.\r\n\r\nWaybill runs that entire loop. Send us a part, a spec, or a BOM. We source it, pull quotes, route approvals, pay the supplier, handle freight and customs, track it to your dock, and keep your stock count updated. \r\n\r\nTake your supply chain for granted.\r\n\r\nBuilt by a team that's seen it at LAT Aerospace and WareIQ (YC S20).",
+    "one_liner": "Managed procurement & inventory for hardware teams.",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1786690936,
+    "tags": [
+      "Logistics",
+      "Procurement",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "India",
+      "South Asia"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/waybill",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/waybill.json"
   },
   {
     "id": 32979,
@@ -7400,6 +7610,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/derya",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/derya.json"
+  },
+  {
+    "id": 33051,
+    "name": "Touchy",
+    "slug": "touchy",
+    "former_names": [
+      "Tokenless"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e78313a9189e19195e360aee1598ec70854ce59b.png",
+    "website": "https://touchyapp.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Touchy is your personal AI assistant that lives on your iPhone. It sees what you see and talks to your other apps to take care of work so you can get back to living in the moment.",
+    "one_liner": "The AI assistant that doesn't fight for your attention",
+    "team_size": 3,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1780080714,
+    "tags": [
+      "Artificial Intelligence",
+      "Consumer",
+      "Productivity",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/touchy",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/touchy.json"
   },
   {
     "id": 33052,
@@ -8705,6 +8958,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dawn-industries",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/dawn-industries.json"
+  },
+  {
+    "id": 33345,
+    "name": "CueBench",
+    "slug": "cuebench",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e7132e84c8b27f087db6e6d8e58db3f856fb87d6.png",
+    "website": "",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "RL Environments for Scientific Reasoning & Performance Engineering",
+    "team_size": 0,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1786744876,
+    "tags": [
+      "Reinforcement Learning",
+      "B2B",
+      "Data Labeling"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cuebench",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/cuebench.json"
   },
   {
     "id": 33348,

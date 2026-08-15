@@ -3713,23 +3713,25 @@
   },
   {
     "id": 30502,
-    "name": "PowerMatrix",
-    "slug": "powermatrix",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3151e6fee623bc4e7d2fd788b61365adf887f421.png",
-    "website": "https://pwrmatrix.com",
+    "name": "NODI Energy",
+    "slug": "nodi-energy",
+    "former_names": [
+      "PowerMatrix"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4a4e15d9d456412939a83c9d998aaeedade968a.png",
+    "website": "https://www.nodienergy.com",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "PowerMatrix provides the MOST efficient and compact next-generation high-performance power supplies for emerging technologies, such as GPUs, xPUs, AI server, datacenters, drones, EV, aerospace, etc. \r\n\r\nBased on patented circuit topology, embedded packaging, and novel magnetics, our power supply systems can reduce energy loss by up to 50%. \r\n\r\nWe have developed several prototypes and are collaborating with world-leading customers.",
-    "one_liner": "Efficient and compact power supply for AI hardware",
+    "long_description": "NODI is building distributed energy infrastructure to rewire the grid. \r\n\r\nWe deploy and aggregate batteries at the edge and orchestrate them as distributed nodes, providing locational flexibility to the rigid grid — relieving congestion and unlocking capacity at constrained locations, so data centers can connect in weeks instead of waiting decades for reinforcement.",
+    "one_liner": "Distributed energy infrastructure unlocking grid power to data centers",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Energy",
     "launched_at": 1748546232,
     "tags": [
+      "Energy Storage",
       "Hard Tech",
       "Hardware",
       "Energy",
-      "Semiconductors",
       "Electronics"
     ],
     "tags_highlighted": [],
@@ -3751,8 +3753,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/powermatrix",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/powermatrix.json"
+    "url": "https://www.ycombinator.com/companies/nodi-energy",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/nodi-energy.json"
   },
   {
     "id": 30509,
@@ -3799,14 +3801,16 @@
   },
   {
     "id": 30510,
-    "name": "Cactus",
-    "slug": "cactus",
-    "former_names": [],
+    "name": "Cactus Compute",
+    "slug": "cactus-compute",
+    "former_names": [
+      "Cactus"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/38edcfba2831cce5f05a5da045992ae4f758e655.png",
     "website": "https://www.cactuscompute.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Check out the project: https://github.com/cactus-compute/cactus",
-    "one_liner": "Low-latency AI engine for mobile devices & wearables",
+    "long_description": "On-device AI for phones, wearables, smart home, robots and small robots:\r\n- Cactus Needle: 14MB agentic LLM for tiny devices\r\n- Cactus Engine: fastest runtime for tiny devices\r\n- Cactus Hybrid: post-trained models fall back to cloud",
+    "one_liner": "Tiny Edge AI For Tiny Devices",
     "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -3839,8 +3843,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/cactus",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/cactus.json"
+    "url": "https://www.ycombinator.com/companies/cactus-compute",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/cactus-compute.json"
   },
   {
     "id": 30556,
@@ -4652,6 +4656,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/arlo-industries",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/arlo-industries.json"
+  },
+  {
+    "id": 32128,
+    "name": "Mass Magnetics",
+    "slug": "mass-magnetics",
+    "former_names": [
+      "Mass Energy Company"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/26161cef0e683292e39a5da2d6258b38702473a0.png",
+    "website": "https://massmagnetics.com/",
+    "all_locations": "Boston, MA, USA",
+    "long_description": "Mass Magnetics turns recycled rare-earth scrap into high-performance permanent magnets, made in America. The materials we supply are the backbone of electric motors, sensors, speakers, hard drives, and electronics.\r\nOur process enables DFARS-compliant magnets for defense, aerospace, and industrial manufacturers who demand domestic supply without compromising on quality.\r\nOperations in Greater Boston, MA (Greentown Labs) and Columbus, IN.",
+    "one_liner": "USA-made magnetics for aerospace, robotics and defense. ",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Defense",
+    "launched_at": 1786735839,
+    "tags": [
+      "Hard Tech",
+      "Drones",
+      "Manufacturing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mass-magnetics",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/mass-magnetics.json"
   },
   {
     "id": 32168,

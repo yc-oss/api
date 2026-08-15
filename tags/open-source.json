@@ -3968,7 +3968,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -6840,14 +6840,16 @@
   },
   {
     "id": 30510,
-    "name": "Cactus",
-    "slug": "cactus",
-    "former_names": [],
+    "name": "Cactus Compute",
+    "slug": "cactus-compute",
+    "former_names": [
+      "Cactus"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/38edcfba2831cce5f05a5da045992ae4f758e655.png",
     "website": "https://www.cactuscompute.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Check out the project: https://github.com/cactus-compute/cactus",
-    "one_liner": "Low-latency AI engine for mobile devices & wearables",
+    "long_description": "On-device AI for phones, wearables, smart home, robots and small robots:\r\n- Cactus Needle: 14MB agentic LLM for tiny devices\r\n- Cactus Engine: fastest runtime for tiny devices\r\n- Cactus Hybrid: post-trained models fall back to cloud",
+    "one_liner": "Tiny Edge AI For Tiny Devices",
     "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -6880,8 +6882,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/cactus",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/cactus.json"
+    "url": "https://www.ycombinator.com/companies/cactus-compute",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/cactus-compute.json"
   },
   {
     "id": 30660,
@@ -7389,8 +7391,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4422075ddefbe2da912fc68b24148bca53aaa5b6.png",
     "website": "https://riften.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Riften is a drop-in replacement for OpenAI and Anthropic APIs. Change one env var. We route each request to the cheapest model that can handle it, including open-weight models we host. Customers cut inference cost before any training begins.\r\n\r\nBecause Riften sits in the request path, real tasks and their outcomes become training data the company controls. We use that to post-train private models on open weights around recurring work. Those models earn production traffic by matching the APIs they replace.\r\n\r\nOver time, frontier APIs handle only the tasks that still require them. The rest runs on models the company owns, on infrastructure it controls.",
-    "one_liner": "Cut LLM spend, then post-train owned models from production traffic.",
+    "long_description": "Intelligence will be the most valuable asset a company owns. Today, almost every company rents it.\r\n\r\nCompanies pay a handful of labs one token at a time. Each dollar buys an answer, not an asset. They spend more, but own nothing more.\r\n\r\nRiften reverses that.\r\n\r\nChange one environment variable and Riften becomes the gateway for a company's AI traffic. We route each request to the lowest-cost model that can do the job, serving most work on open-weight models we host. Customers save money immediately without rebuilding their products.\r\n\r\nThe gateway is the entry point. Over time, Riften turns the company's work into private models built on open weights and shaped around the business. What begins as cheaper inference becomes an intelligence stack the company owns, runs on infrastructure it controls, and uses to power its most important applications.\r\n\r\nWe call this earned intelligence. It is created by the company's own work, controlled by the company, and accumulated over time.\r\n\r\nThe next generation of companies will not rent their intelligence. They will earn it, own it, and compound it. Riften is how they get there.",
+    "one_liner": "Earned intelligence for every company",
     "team_size": 0,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",

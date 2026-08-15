@@ -41281,7 +41281,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -62647,13 +62647,13 @@
     "all_locations": "New York City, NY, USA",
     "long_description": "SkyLink is transforming corporate travel into a hassle-free, efficient experience. By integrating advanced route optimization and reducing the need for traditional travel agents, we're not only saving companies millions but also simplifying the travel process. \r\n\r\nWith SkyLink, employees can effortlessly book their travel, just like sending a Slack message. Trusted by leading global corporations, our platform acts as a pocket-sized travel agent, ensuring smart, cost-effective travel decisions and a smoother journey for everyone involved. \r\n\r\nSkyLink is where simplicity meets innovation in corporate travel.",
     "one_liner": "Travel Management Meets AI",
-    "team_size": 22,
+    "team_size": 53,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1646778535,
     "tags": [
-      "Travel",
-      "AI"
+      "Artificial Intelligence",
+      "Travel"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -70751,7 +70751,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -71251,7 +71251,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -84985,9 +84985,9 @@
       "Proof of Human, PBC"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3e5845bbb5f4bf270b3e5d25d9624f69e1bd986.png",
-    "website": "http://poh.org",
+    "website": "https://poh.org",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "The Proof of Human is an API that invisibly detects bots and verifies human identity.\r\n\r\nFounded by 2 Princeton cognitive scientists, Proof of Human leverages world-class research with enterprise-grade accuracy and latency so websites can verify their human users friction-free.",
+    "long_description": "Proof of Human is an API that invisibly detects bots and verifies human identity.\r\n\r\nFounded by Princeton cognitive scientists, Proof of Human leverages world-class research with industry-beating benchmarks so platforms can verify their human users friction-free.",
     "one_liner": "continuous human verification without CAPTCHAs or user friction",
     "team_size": 4,
     "industry": "B2B",
@@ -87505,7 +87505,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -101817,17 +101817,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1eca61dd3b32e7b0f7174161cd567ec823504e49.png",
     "website": "https://www.revyl.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Revyl is a vertically integrated development platform for mobile teams",
-    "one_liner": "The mobile source of truth",
-    "team_size": 7,
+    "long_description": "Revyl is a development platform that lets agents, product, design, and engineering ask questions, collaborate, and code on a single source of truth; starting with mobile",
+    "one_liner": "The mobile development platform",
+    "team_size": 16,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1729643205,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -104955,16 +104955,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cfc860ae54b7e3a7f3fdaf19550aa06087041ede.png",
     "website": "https://adam.new/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Adam is building AI CAD. It transforms text into parametric designs so engineering teams can ship 10x faster. Our mission is to eliminate the gap between engineering and reality so more great ideas come into existence.",
+    "long_description": "Applied AI lab building end-to-end agents for mechanical design.",
     "one_liner": "AI Powered CAD",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1737056992,
     "tags": [
+      "Artificial Intelligence",
       "Hardware",
-      "Design",
-      "AI"
+      "Design"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -105862,7 +105862,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -110703,14 +110703,16 @@
   },
   {
     "id": 30510,
-    "name": "Cactus",
-    "slug": "cactus",
-    "former_names": [],
+    "name": "Cactus Compute",
+    "slug": "cactus-compute",
+    "former_names": [
+      "Cactus"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/38edcfba2831cce5f05a5da045992ae4f758e655.png",
     "website": "https://www.cactuscompute.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Check out the project: https://github.com/cactus-compute/cactus",
-    "one_liner": "Low-latency AI engine for mobile devices & wearables",
+    "long_description": "On-device AI for phones, wearables, smart home, robots and small robots:\r\n- Cactus Needle: 14MB agentic LLM for tiny devices\r\n- Cactus Engine: fastest runtime for tiny devices\r\n- Cactus Hybrid: post-trained models fall back to cloud",
+    "one_liner": "Tiny Edge AI For Tiny Devices",
     "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -110743,8 +110745,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/cactus",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/cactus.json"
+    "url": "https://www.ycombinator.com/companies/cactus-compute",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/cactus-compute.json"
   },
   {
     "id": 30513,
@@ -112695,7 +112697,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -113378,17 +113380,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/18234851431f8da18d1f087abc867a57412f1a97.png",
     "website": "https://getlilac.com",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Lilac taps idle GPUs from cloud providers and enterprises, giving startups and researchers cheaper inference while letting companies monetize unused capacity. Fully automated with Kubernetes integration.",
-    "one_liner": "We automatically monetize idle GPUs",
+    "long_description": "Lilac sells flexible GPU contracts and runs the software layer on top: monitoring, bare-metal provisioning, and managed Kubernetes and Slurm. We also run this layer for GPU cloud providers as their named operations and support partner.",
+    "one_liner": "We sell GPUs.",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1754345371,
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
       "Cloud Computing",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -115276,7 +115278,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ab3b751ff1a6569beaba5e0f91c3c4dbcda3e55.png",
     "website": "https://idler.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "idler builds reinforcement learning environments that teach AI models how to do expert-level work",
+    "long_description": "idler builds reinforcement learning environments that teach AI models how to do expert-level work.",
     "one_liner": "reinforcement learning environments",
     "team_size": 13,
     "industry": "B2B",
@@ -121648,15 +121650,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "10x Science develops frontier AI models with deep memory to redefine how scientists understand and engineer biology across the life sciences, starting with drug development.\r\n\r\nAI-powered drug discovery is flooding the pipeline with new candidates faster than ever. But before any of them can advance to the clinic, scientists must deeply characterize the protein therapeutic to understand whether it will work. Today, that process takes months of manual, error-prone analysis that cannot keep pace with discovery. Our AI-native platform automates it, giving drug developers the confidence to advance the right candidates and stop the wrong ones early.\r\n\r\nWe have strong commercial traction with enterprise pharma customers. Our founding team built the field of next-generation protein characterization out of Carolyn Bertozzi's Nobel laureate lab at Stanford. Collectively, we have 18+ years of collective domain expertise, 47+ scientific publications, and a 2x YC Founder. We move at the highest velocity and are positioned to lead the next generation of modern AI development in the life sciences. ",
     "one_liner": "The AI-native platform for next-generation protein characterization.",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1768312668,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Biotech"
+      "Biotech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -125569,8 +125571,8 @@
     "website": "https://www.zymbly.com",
     "all_locations": "London, England, United Kingdom",
     "long_description": "",
-    "one_liner": "Automates admin for aircraft mechanics",
-    "team_size": 3,
+    "one_liner": "The decision-support layer for aviation ops teams to know what to do…",
+    "team_size": 0,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1768869245,
@@ -127665,8 +127667,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8eec4067ada1ceb62324834a6da7831196618472.png",
     "website": "https://dreach.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "drip autonomously finds leads, sends first messages, follows up, and books meetings. Every conversation syncs for your team.",
-    "one_liner": "Never miss a lead",
+    "long_description": "AI agents watch hiring demand, leadership changes, and company events, then queue who to contact, why now, and what to say.",
+    "one_liner": "stop building lists. start booking clients.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -129809,7 +129811,7 @@
     ],
     "stage": "Early",
     "app_video_public": false,
-    "demo_day_video_public": false,
+    "demo_day_video_public": true,
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/manicule",
@@ -129910,9 +129912,9 @@
     "subindustry": "B2B -> Security",
     "launched_at": 1785361922,
     "tags": [
-      "Artificial Intelligence",
       "Security",
-      "Cybersecurity"
+      "Cybersecurity",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -131054,10 +131056,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1786633082,
     "tags": [
+      "Artificial Intelligence",
       "Marketplace",
       "Sales",
-      "E-commerce",
-      "AI"
+      "E-commerce"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -131177,16 +131179,16 @@
     "website": "https://www.rex.inc",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Rex is an AI-native service for order to cash. We replace people-heavy operations with AI agents that continuously manage invoices, customers and exceptions.\r\n\r\nOrder to cash is a $60B outsourced function because the work is too messy for traditional automation. Every customer has different context, exceptions do not follow clean rules, and the next step is often buried in emails, portals, handoffs, or someone’s memory. Rex agents run continuously in the background and resolve work to SLA standards so cash keeps moving. We're live with pre-IPO tech companies, managing  >$500m in receivables from F100 companies, cutting manual follow-up cycles from weeks to hours.\r\n\r\nWe founded Rex after spending four years building Sequence, an a16z-backed finance ops platform, from zero to Series A — where we saw firsthand that at-scale, O2C still runs on manual labour.\r\n\r\nRex is the #1 winner of the Vercel AI Accelerator out of 2,500 teams, selected by Guillermo Rauch and leaders from OpenAI, Anthropic, Browserbase and more.",
-    "one_liner": "AI Operations Partner for Enterprise Order to Cash",
+    "one_liner": "AI Native BPO for Enterprise Order to Cash",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1779903831,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Enterprise",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -131209,6 +131211,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rex-inc",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/rex-inc.json"
+  },
+  {
+    "id": 32161,
+    "name": "Bernard",
+    "slug": "bernard",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/86e6151a4772f82f25d8581efbda66f538ce4bed.png",
+    "website": "https://bernardhq.com/",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "Bernard builds AI employees for home and commercial appliance servicers. They work across phone, text, email, warranty feeds, and existing systems to manage customer communication, scheduling, and dispatch, carrying each job through diagnosis, parts preparation, technician handoff, and follow-up. At the center is Pre-ID, which combines the exact appliance and its symptoms with repair history, similar completed visits, manufacturer guidance, and parts data to produce a diagnosis, ranked parts, and follow-up questions. Technicians arrive prepared with the right parts, helping servicers complete more repairs on the first visit.\r\n\r\nWe’re building the world’s most efficient appliance servicers, creating happier customers and a more connected appliance ecosystem.\r\n\r\nLearn more at https://bernardhq.com/",
+    "one_liner": "AI employees that run home appliance repair companies",
+    "team_size": 9,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1786664902,
+    "tags": [
+      "Home Services",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bernard",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/bernard.json"
   },
   {
     "id": 32164,
@@ -131421,6 +131465,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/lemonlime.json"
   },
   {
+    "id": 32191,
+    "name": "Lyon",
+    "slug": "lyon",
+    "former_names": [
+      "Lyon (Branding TBD)"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/27ce3fff3af03da64bc8cfefeb3efef7b6d080b7.png",
+    "website": "https://lyon.so",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Foundation models on enterprise transaction data.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1786694987,
+    "tags": [
+      "Machine Learning",
+      "Finance",
+      "Data Science",
+      "Big Data"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lyon",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/lyon.json"
+  },
+  {
     "id": 32197,
     "name": "Buildbox",
     "slug": "buildbox",
@@ -131469,8 +131557,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4422075ddefbe2da912fc68b24148bca53aaa5b6.png",
     "website": "https://riften.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Riften is a drop-in replacement for OpenAI and Anthropic APIs. Change one env var. We route each request to the cheapest model that can handle it, including open-weight models we host. Customers cut inference cost before any training begins.\r\n\r\nBecause Riften sits in the request path, real tasks and their outcomes become training data the company controls. We use that to post-train private models on open weights around recurring work. Those models earn production traffic by matching the APIs they replace.\r\n\r\nOver time, frontier APIs handle only the tasks that still require them. The rest runs on models the company owns, on infrastructure it controls.",
-    "one_liner": "Cut LLM spend, then post-train owned models from production traffic.",
+    "long_description": "Intelligence will be the most valuable asset a company owns. Today, almost every company rents it.\r\n\r\nCompanies pay a handful of labs one token at a time. Each dollar buys an answer, not an asset. They spend more, but own nothing more.\r\n\r\nRiften reverses that.\r\n\r\nChange one environment variable and Riften becomes the gateway for a company's AI traffic. We route each request to the lowest-cost model that can do the job, serving most work on open-weight models we host. Customers save money immediately without rebuilding their products.\r\n\r\nThe gateway is the entry point. Over time, Riften turns the company's work into private models built on open weights and shaped around the business. What begins as cheaper inference becomes an intelligence stack the company owns, runs on infrastructure it controls, and uses to power its most important applications.\r\n\r\nWe call this earned intelligence. It is created by the company's own work, controlled by the company, and accumulated over time.\r\n\r\nThe next generation of companies will not rent their intelligence. They will earn it, own it, and compound it. Riften is how they get there.",
+    "one_liner": "Earned intelligence for every company",
     "team_size": 0,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -131772,15 +131860,15 @@
     "website": "https://www.tryglen.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Glen is unified context for every agent and human on your team. Most MCP tools hand an agent a slice, one Slack thread, a single diff, and leave it to stitch the rest together itself. Glen reads from where your work already lives, code and PRs, issues, docs, and meetings, reconciles it, and gives your agents the full picture instead.\r\n\r\nWith Glen a coding agent knows why a line was written, not just what it says. Ask a PR assistant anything about a change and the clarifying-question relay disappears. Bug bots read the intent behind the code before they comment, so they stop flagging deliberate choices as defects and stop repeating mistakes they already made. A sales agent can coach your head of sales off the full account history, how teammates handle similar calls, what was promised, where the deal stalled, etc. \r\n\r\nAs the work gets done, Glen also distills it into skills and offers them back to the next agent, or person, who hits the same task.",
-    "one_liner": "Unified organizational context for agents and humans",
+    "one_liner": "Shared learning layer for agents",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1781114514,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -132102,6 +132190,47 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/definite.json"
   },
   {
+    "id": 32319,
+    "name": "Tarifflo Inc.",
+    "slug": "tarifflo-inc",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/baaf31859f77b68dff4e403722868aa21a91a23d.png",
+    "website": "https://www.tarifflo.com",
+    "all_locations": "Salt Lake City, UT, USA",
+    "long_description": "",
+    "one_liner": "Supply chain compliance and cost savings",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1779036182,
+    "tags": [
+      "B2B",
+      "LegalTech",
+      "Supply Chain"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tarifflo-inc",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/tarifflo-inc.json"
+  },
+  {
     "id": 32418,
     "name": "Traceforce",
     "slug": "traceforce",
@@ -132193,15 +132322,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/20aa62fc0a930e7bfdba7047f185bab421afd2b2.png",
     "website": "https://standardmachines.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We build RL environments to teach AI to design chips.",
+    "long_description": "We build environments and evaluations to train and evaluate models on advanced chip design.",
     "one_liner": "RL Environments For Chip Design",
     "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1785623138,
     "tags": [
-      "Semiconductors",
-      "AI"
+      "Artificial Intelligence",
+      "Semiconductors"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -133086,6 +133215,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/executor",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/executor.json"
+  },
+  {
+    "id": 32948,
+    "name": "Waybill",
+    "slug": "waybill",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b91adedb53afabc881281324143485f1dc3c6674.png",
+    "website": "https://www.waybill.to/",
+    "all_locations": "Gurugram, HR, India",
+    "long_description": "Hardware teams burn weeks on procurement. An engineer needs a part. Someone emails five distributors, chases quotes, gets an approval, wires the money, tracks a shipment across three carriers, clears customs, and then nobody knows where the box is or what's actually on the shelf.\r\n\r\nWaybill runs that entire loop. Send us a part, a spec, or a BOM. We source it, pull quotes, route approvals, pay the supplier, handle freight and customs, track it to your dock, and keep your stock count updated. \r\n\r\nTake your supply chain for granted.\r\n\r\nBuilt by a team that's seen it at LAT Aerospace and WareIQ (YC S20).",
+    "one_liner": "Managed procurement & inventory for hardware teams.",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1786690936,
+    "tags": [
+      "Logistics",
+      "Procurement",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "India",
+      "South Asia"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/waybill",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/waybill.json"
   },
   {
     "id": 32987,
@@ -134098,6 +134268,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/nex",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/nex.json"
+  },
+  {
+    "id": 33345,
+    "name": "CueBench",
+    "slug": "cuebench",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e7132e84c8b27f087db6e6d8e58db3f856fb87d6.png",
+    "website": "",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "RL Environments for Scientific Reasoning & Performance Engineering",
+    "team_size": 0,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1786744876,
+    "tags": [
+      "Reinforcement Learning",
+      "B2B",
+      "Data Labeling"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cuebench",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/cuebench.json"
   },
   {
     "id": 33348,

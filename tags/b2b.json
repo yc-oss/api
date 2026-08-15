@@ -10156,7 +10156,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -22382,7 +22382,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -40595,17 +40595,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1eca61dd3b32e7b0f7174161cd567ec823504e49.png",
     "website": "https://www.revyl.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Revyl is a vertically integrated development platform for mobile teams",
-    "one_liner": "The mobile source of truth",
-    "team_size": 7,
+    "long_description": "Revyl is a development platform that lets agents, product, design, and engineering ask questions, collaborate, and code on a single source of truth; starting with mobile",
+    "one_liner": "The mobile development platform",
+    "team_size": 16,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1729643205,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -44069,7 +44069,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -46986,15 +46986,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "10x Science develops frontier AI models with deep memory to redefine how scientists understand and engineer biology across the life sciences, starting with drug development.\r\n\r\nAI-powered drug discovery is flooding the pipeline with new candidates faster than ever. But before any of them can advance to the clinic, scientists must deeply characterize the protein therapeutic to understand whether it will work. Today, that process takes months of manual, error-prone analysis that cannot keep pace with discovery. Our AI-native platform automates it, giving drug developers the confidence to advance the right candidates and stop the wrong ones early.\r\n\r\nWe have strong commercial traction with enterprise pharma customers. Our founding team built the field of next-generation protein characterization out of Carolyn Bertozzi's Nobel laureate lab at Stanford. Collectively, we have 18+ years of collective domain expertise, 47+ scientific publications, and a 2x YC Founder. We move at the highest velocity and are positioned to lead the next generation of modern AI development in the life sciences. ",
     "one_liner": "The AI-native platform for next-generation protein characterization.",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1768312668,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Biotech"
+      "Biotech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47504,8 +47504,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8eec4067ada1ceb62324834a6da7831196618472.png",
     "website": "https://dreach.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "drip autonomously finds leads, sends first messages, follows up, and books meetings. Every conversation syncs for your team.",
-    "one_liner": "Never miss a lead",
+    "long_description": "AI agents watch hiring demand, leadership changes, and company events, then queue who to contact, why now, and what to say.",
+    "one_liner": "stop building lists. start booking clients.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -48266,16 +48266,16 @@
     "website": "https://www.rex.inc",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Rex is an AI-native service for order to cash. We replace people-heavy operations with AI agents that continuously manage invoices, customers and exceptions.\r\n\r\nOrder to cash is a $60B outsourced function because the work is too messy for traditional automation. Every customer has different context, exceptions do not follow clean rules, and the next step is often buried in emails, portals, handoffs, or someone’s memory. Rex agents run continuously in the background and resolve work to SLA standards so cash keeps moving. We're live with pre-IPO tech companies, managing  >$500m in receivables from F100 companies, cutting manual follow-up cycles from weeks to hours.\r\n\r\nWe founded Rex after spending four years building Sequence, an a16z-backed finance ops platform, from zero to Series A — where we saw firsthand that at-scale, O2C still runs on manual labour.\r\n\r\nRex is the #1 winner of the Vercel AI Accelerator out of 2,500 teams, selected by Guillermo Rauch and leaders from OpenAI, Anthropic, Browserbase and more.",
-    "one_liner": "AI Operations Partner for Enterprise Order to Cash",
+    "one_liner": "AI Native BPO for Enterprise Order to Cash",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1779903831,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Enterprise",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48311,8 +48311,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2eb59fa1eb6f59fafb938607c641276931a20aef.png",
     "website": "https://www.maingen.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Maingen builds RL environments for industrial operations ($5 trillion slice of the US economy) so frontier labs can train models that actually run factories.",
-    "one_liner": "RL environments for industrial operations",
+    "long_description": "Maingen builds simulations for industrial operations ($5 trillion slice of the US economy) so frontier labs can train models that actually run factories.",
+    "one_liner": "Simulating Agents Running Industrial Companies",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Energy",
@@ -48485,15 +48485,15 @@
     "website": "https://www.tryglen.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Glen is unified context for every agent and human on your team. Most MCP tools hand an agent a slice, one Slack thread, a single diff, and leave it to stitch the rest together itself. Glen reads from where your work already lives, code and PRs, issues, docs, and meetings, reconciles it, and gives your agents the full picture instead.\r\n\r\nWith Glen a coding agent knows why a line was written, not just what it says. Ask a PR assistant anything about a change and the clarifying-question relay disappears. Bug bots read the intent behind the code before they comment, so they stop flagging deliberate choices as defects and stop repeating mistakes they already made. A sales agent can coach your head of sales off the full account history, how teammates handle similar calls, what was promised, where the deal stalled, etc. \r\n\r\nAs the work gets done, Glen also distills it into skills and offers them back to the next agent, or person, who hits the same task.",
-    "one_liner": "Unified organizational context for agents and humans",
+    "one_liner": "Shared learning layer for agents",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1781114514,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48642,6 +48642,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/screenpipe",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/screenpipe.json"
+  },
+  {
+    "id": 32319,
+    "name": "Tarifflo Inc.",
+    "slug": "tarifflo-inc",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/baaf31859f77b68dff4e403722868aa21a91a23d.png",
+    "website": "https://www.tarifflo.com",
+    "all_locations": "Salt Lake City, UT, USA",
+    "long_description": "",
+    "one_liner": "Supply chain compliance and cost savings",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1779036182,
+    "tags": [
+      "B2B",
+      "LegalTech",
+      "Supply Chain"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tarifflo-inc",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/tarifflo-inc.json"
   },
   {
     "id": 32520,
@@ -49350,6 +49391,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/onecli",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/onecli.json"
+  },
+  {
+    "id": 33345,
+    "name": "CueBench",
+    "slug": "cuebench",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e7132e84c8b27f087db6e6d8e58db3f856fb87d6.png",
+    "website": "",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "RL Environments for Scientific Reasoning & Performance Engineering",
+    "team_size": 0,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1786744876,
+    "tags": [
+      "Reinforcement Learning",
+      "B2B",
+      "Data Labeling"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cuebench",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/cuebench.json"
   },
   {
     "id": 33540,
