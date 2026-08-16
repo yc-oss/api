@@ -4216,51 +4216,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2020/urbankisaan.json"
   },
   {
-    "id": 13519,
-    "name": "Recall.ai",
-    "slug": "recall-ai",
-    "former_names": [
-      "Hyperdoc",
-      "Perfect Recall"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/59d10237794442de721976fafb390beb322715ed.png",
-    "website": "https://www.recall.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Recall.ai is the API to get recordings, transcripts, and metadata from meetings. We offer several form factors to capture this data: \r\n1. Meetings bots\r\n2. A desktop recording SDK\r\n3. A mobile recording SDK\r\n\r\nWe integrate with meeting platforms like Zoom, Google Meet, Microsoft Teams, and more, as well as in-person meetings.\r\n\r\nOver 3000 companies rely on our API today to process millions of hours of meeting data. We provide stable infrastructure that typically takes engineering teams 6+ months of time to build, and help our customers get up and running in days instead of months.",
-    "one_liner": "The API to get recordings, transcripts, and metadata from meetings",
-    "team_size": 30,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1616094217,
-    "tags": [
-      "API",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2020",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/recall-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2020/recall-ai.json"
-  },
-  {
     "id": 13522,
     "name": "Atmo",
     "slug": "atmo",
@@ -6462,17 +6417,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3509dac4b76d442f8f0aa79c2bda0b827e78798.png",
     "website": "http://mindstate.design",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're making every therapeutically valuable emotion available on demand in pharmaceutical form.\r\n\r\nOur Osmanthus platform is an ensemble of AI models that synthesize the world’s largest datasets of psychoactive pharmacology and phenomenology, quantitatively pinpointing the combination of neurotransmitter receptor activity that underlies various emotional as well as cognitive and perceptual states.\r\n\r\nOur lead program MSD-001 is designed to be rapid-acting and produce heightened emotional and cognitive flexibility without hallucinations. MSD-001 is currently in human trials, and will be the base ingredient for multiple drug combination \"emotions in a bottle\" such as empathy, awe, clarity, or beauty.",
-    "one_liner": "Clinical-stage AI neuroengineering platform",
+    "long_description": "Mindstate Design Labs is building the closed-loop science & engineering stack for rational psychoactive effect design.\r\n\r\nOur molecular-experience interface links molecular biology to the human psychopharmacodynamic profile to convert informal constructs like clarity, presence, or motivation into high-dimensional design targets.\r\n\r\nOur clinical program is a sequence of human demonstrations that psychoactive effects can be decomposed, recombined, and synthesized. The first controlled study decomposed hallucinations from the broader hallucinogen profile; the next is designed to selectively upregulate aesthetic salience to treat anhedonia in major depressive disorder.\r\n\r\nWe’re progressively digitizing the molecular interface through which biology shapes what intelligence wants.",
+    "one_liner": "Programmable biology platform for psychoactive effect design",
     "team_size": 7,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Drug Discovery and Delivery",
     "launched_at": 1629815779,
     "tags": [
-      "Machine Learning",
-      "Mental Health Tech",
+      "Artificial Intelligence",
+      "Hard Tech",
+      "Neurotechnology",
       "Biotech",
-      "Therapeutics",
       "AI"
     ],
     "tags_highlighted": [],
@@ -8680,9 +8635,9 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f77b3fae4e9032c53ab1dabf92d2dde1c13be9a0.png",
     "website": "https://www.industrialnext.ai",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "We bring Tesla autonomous manufacturing to every automaker and other producers. At Tesla, we were the core autonomous factory team and we’re now building the smart cameras and robotic guidance tools that provided the main advantages at Tesla",
-    "one_liner": "Tesla autonomous manufacturing for everyone",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We're building the brain for the factory floor, developing AI-driven robotic systems powered by a proprietary foundation model for the difficult, contact-rich manufacturing tasks where conventional automation falls short.\r\n\r\nFounded by veterans of Tesla, Waymo, Ford, and GM who built the systems that brought modern autonomy into manufacturing, IndustrialNext is bringing that same intelligence to the factory floor: autonomous factories that are cost-competitive at any scale, anywhere.\r\n\r\nBacked by Y Combinator, Khosla Ventures, Lenovo, AlphaX Partners, and Plug and Play.",
+    "one_liner": "IndustrialNext builds the AI brain for manufacturing –…",
     "team_size": 9,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -8705,9 +8660,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
+      "America / Canada"
     ],
     "stage": "Growth",
     "app_video_public": false,
@@ -18739,7 +18692,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -23267,6 +23220,51 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/dodo.json"
   },
   {
+    "id": 29684,
+    "name": "Parahelp",
+    "slug": "parahelp",
+    "former_names": [
+      "Sam"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d8bd41bea120a97058cce60e2d04af90f42a4c8.png",
+    "website": "https://parahelp.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Build and run an AI support agent that resolves even your most complex tickets end-to-end.\r\n\r\nIf a tool has an API, you can securely connect it to your agent - just by chatting with Parahelp. For example, you can connect Stripe so your agent can resolve billing questions and refund requests.",
+    "one_liner": "Build an AI support agent that securely uses all your tools",
+    "team_size": 11,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1720219864,
+    "tags": [
+      "Customer Success",
+      "Customer Service",
+      "Customer Support",
+      "AI",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/parahelp",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/parahelp.json"
+  },
+  {
     "id": 29688,
     "name": "camfer",
     "slug": "camfer",
@@ -23840,6 +23838,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/deepsilicon",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/deepsilicon.json"
+  },
+  {
+    "id": 29748,
+    "name": "Seals AI",
+    "slug": "seals-ai",
+    "former_names": [
+      "Talk To Users AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cfde4ebc7296b1d61f754907f5cf5a9a1f8fe26d.png",
+    "website": "https://www.titanio.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Seals is a suite of AI Employees for Wholesalers & Distributors. Instead of relying on humans to quote, take orders, collect payments, place purchase orders and enter data into ERPs. We build AI Employees that do these manual repetitive tasks for the 700k wholesalers in the US.\r\n\r\nWe’re a team of three Computer Science majors, and Fernando launched and grew AT&T in Mexico to $120M ARR. Previously, we all worked together at our last YC-backed startup, building it to over $6M in revenue. It was there that we placed thousands of purchase orders with wholesalers.\r\n\r\nWe realized that almost every physical product comes from B2B sales in the supply chain. However, it turns out that most of these operations are still done manually through phone and email, involving tasks like quoting, taking orders, collecting payments, entering data into ERPs, and providing support. By automating these tasks with AI agents in a human-like manner, we are creating a massive opportunity to convert $100B of payroll expenses into software spending.\r\n",
+    "one_liner": "AI Employees for Wholesalers & Distributors",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1725683549,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/seals-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/seals-ai.json"
   },
   {
     "id": 29750,
@@ -30477,6 +30519,52 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/hemut.json"
   },
   {
+    "id": 30522,
+    "name": "Naïve",
+    "slug": "naive",
+    "former_names": [
+      "Relixir.ai",
+      "Relixir",
+      "Naive",
+      "Naïve",
+      "naïve"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d9f36771516883d109fe1d640d056334a197d1d8.png",
+    "website": "https://usenaive.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "The full stack your agent needs to run a business — compute, payments, identity, incorporation, 10,000+ tools — in one config file. \r\n\r\nPaste a prompt into your coding agent, it writes naive.config.ts, and provisions all infrastructure for your apps, agents, businesses. One API, one balance, every action governed.\r\n\r\nWe're a small, fast-moving, remote-first team.",
+    "one_liner": "Autonomous Company Infrastructure",
+    "team_size": 8,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1747424808,
+    "tags": [
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/naive",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/naive.json"
+  },
+  {
     "id": 30523,
     "name": "Mesmer",
     "slug": "mesmer",
@@ -30797,8 +30885,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fae29a98d132c4b435b336dbb5d6cf4a1aaf5de7.png",
     "website": "https://starsling.dev/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Fast GitHub Actions runners with AI agents that continuously improve your CI to make it up to 6x faster and 13x cheaper.",
-    "one_liner": "Self-Driving CI",
+    "long_description": "Drop-in Ubuntu runners plus AI agents that open optimization PRs for your workflows. StarSling Runners continuously improve your CI to make it up to 6x faster and 13x cheaper.",
+    "one_liner": "Self-Driving CI: fast AI-native GitHub Actions runners",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -36628,6 +36716,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/nebula-security.json"
   },
   {
+    "id": 32155,
+    "name": "Rex",
+    "slug": "rex-inc",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b14c16514ac7654483b96e54e1bf49a45714e8f6.png",
+    "website": "https://www.rex.inc",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Rex is an AI-native service for order to cash. We replace people-heavy operations with AI agents that continuously manage invoices, customers and exceptions.\r\n\r\nOrder to cash is a $60B outsourced function because the work is too messy for traditional automation. Every customer has different context, exceptions do not follow clean rules, and the next step is often buried in emails, portals, handoffs, or someone’s memory. Rex agents run continuously in the background and resolve work to SLA standards so cash keeps moving. We're live with pre-IPO tech companies, managing  >$500m in receivables from F100 companies, cutting manual follow-up cycles from weeks to hours.\r\n\r\nWe founded Rex after spending four years building Sequence, an a16z-backed finance ops platform, from zero to Series A — where we saw firsthand that at-scale, O2C still runs on manual labour.\r\n\r\nRex is the #1 winner of the Vercel AI Accelerator out of 2,500 teams, selected by Guillermo Rauch and leaders from OpenAI, Anthropic, Browserbase and more.",
+    "one_liner": "AI-native BPO for enterprise order-to-cash",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1779903831,
+    "tags": [
+      "B2B",
+      "Enterprise",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rex-inc",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/rex-inc.json"
+  },
+  {
     "id": 32157,
     "name": "Maingen",
     "slug": "maingen",
@@ -36757,6 +36887,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/understudy-labs",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/understudy-labs.json"
+  },
+  {
+    "id": 32168,
+    "name": "Synapse Semiconductor",
+    "slug": "synapse-semiconductor",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37650fbbc73ea1ea0b895fd819e93836825d1520.png",
+    "website": "https://synapsesemi.org",
+    "all_locations": "Durham, NC, USA",
+    "long_description": "We want to push machines to where humans cant go. To do that machines need to sense and understand their environment. \r\n\r\nSynapse Semiconductor is the first company to integrate all components of the computer vision stack into one substrate.\r\n\r\nModern computer vision requires the complex orchestration of storage, compute, processing, and sensors, inherently limiting the flexibility of its applications. These must be consolidated. ",
+    "one_liner": "Frontier semiconductor research lab reimagining compute and vision…",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1785109099,
+    "tags": [
+      "Edge Computing Semiconductors",
+      "Hard Tech",
+      "Robotics",
+      "Defense",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/synapse-semiconductor",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/synapse-semiconductor.json"
   },
   {
     "id": 32194,
@@ -37593,54 +37765,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/neuromorphic.json"
   },
   {
-    "id": 32752,
-    "name": "Moving Atoms",
-    "slug": "moving-atoms",
-    "former_names": [
-      "Run Lobster",
-      "RunLobster",
-      "Demon AI",
-      "RunDemon",
-      "Avicenna Care",
-      "Agent Insurance"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ef35741f33adf69268f7b972bd18d2a9b60f0fc8.png",
-    "website": "https://movingatoms.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We use World Models to evaluate  and train robots. This enables you to test your policy checkpoints easily, as well as augmenting your training dataset. Scaling GPUs is much cheaper than scaling robot arms and humans needed to moniter them.",
-    "one_liner": "Virtual Reality for Evaluating Robots (World Models)",
-    "team_size": 2,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1786481200,
-    "tags": [
-      "Robotics",
-      "Virtual Reality",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/moving-atoms",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/moving-atoms.json"
-  },
-  {
     "id": 32814,
     "name": "Computable",
     "slug": "computable",
@@ -38111,7 +38235,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7fbb4be6497bcd38a1210a0561cf3eb84422ab32.png",
     "website": "https://www.getpennant.ai",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Led by former institutional proxy voters and technologists with 10+ years of experience, Pennant gives institutional investors, public companies, and corporate advisors voting and governance intelligence to act on their own principles at scale.",
+    "long_description": "Led by former institutional proxy voters and technologists with a collective 20+ years of experience, Pennant gives institutional investors, public companies, and corporate advisors voting and governance intelligence to act on their own principles at scale.",
     "one_liner": "The Corporate Governance OS for Public Markets",
     "team_size": 2,
     "industry": "Fintech",

@@ -1727,8 +1727,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0368e97446261f618b077e5a2549ed76b47bbb0f.png",
     "website": "https://git.cafe",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "GitCafe is a modern replacement for GitHub.",
+    "long_description": "We are GitCafe and we build GitHub for agents. We're rebuilding the infrastructure for the next hundred billion commits and CI jobs with hundreds of engineers already making the move.",
+    "one_liner": "The Git forge for the next hundred billion commits",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -2667,16 +2667,16 @@
     "website": "https://www.rex.inc",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Rex is an AI-native service for order to cash. We replace people-heavy operations with AI agents that continuously manage invoices, customers and exceptions.\r\n\r\nOrder to cash is a $60B outsourced function because the work is too messy for traditional automation. Every customer has different context, exceptions do not follow clean rules, and the next step is often buried in emails, portals, handoffs, or someone’s memory. Rex agents run continuously in the background and resolve work to SLA standards so cash keeps moving. We're live with pre-IPO tech companies, managing  >$500m in receivables from F100 companies, cutting manual follow-up cycles from weeks to hours.\r\n\r\nWe founded Rex after spending four years building Sequence, an a16z-backed finance ops platform, from zero to Series A — where we saw firsthand that at-scale, O2C still runs on manual labour.\r\n\r\nRex is the #1 winner of the Vercel AI Accelerator out of 2,500 teams, selected by Guillermo Rauch and leaders from OpenAI, Anthropic, Browserbase and more.",
-    "one_liner": "AI Native BPO for Enterprise Order to Cash",
+    "one_liner": "AI-native BPO for enterprise order-to-cash",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1779903831,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Enterprise",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2787,6 +2787,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/maingen",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/maingen.json"
+  },
+  {
+    "id": 32159,
+    "name": "Kandor",
+    "slug": "kandor",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e3c84e687ef66f3a25dabe4c8ed464f0c19e8040.png",
+    "website": "https://kandorlabs.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Kandor gets private practices paid right after performing a procedure, eliminating the 30-90 day A/R lag from insurance payers. ",
+    "one_liner": "Making health insurance invisible",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1786770807,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Healthcare"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/kandor",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/kandor.json"
   },
   {
     "id": 32161,
@@ -2922,17 +2962,17 @@
     "website": "https://synapsesemi.org",
     "all_locations": "Durham, NC, USA",
     "long_description": "We want to push machines to where humans cant go. To do that machines need to sense and understand their environment. \r\n\r\nSynapse Semiconductor is the first company to integrate all components of the computer vision stack into one substrate.\r\n\r\nModern computer vision requires the complex orchestration of storage, compute, processing, and sensors, inherently limiting the flexibility of its applications. These must be consolidated. ",
-    "one_liner": "Collapsing the edge AI vision hardware stack into one wafer",
+    "one_liner": "Frontier semiconductor research lab reimagining compute and vision…",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials",
     "launched_at": 1785109099,
     "tags": [
-      "Artificial Intelligence",
       "Edge Computing Semiconductors",
       "Hard Tech",
       "Robotics",
-      "Defense"
+      "Defense",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4093,6 +4133,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/contextdev.json"
   },
   {
+    "id": 32228,
+    "name": "Standard Medical",
+    "slug": "standard-medical",
+    "former_names": [
+      "Ion Health"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/390777dec2649a1274798e8d8b3900081aeaadad.png",
+    "website": "https://standardmedical.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Standard Medical is building a primary care clinic where AI earns clinical autonomy. Physician attention is the scarcest resource in medicine, and nearly everything wrong with healthcare follows from that scarcity: the waitlists, the prices, the counties with no doctor at all. We are building the way out.\r\n\r\nThe clinic is designed for AI to do more than draft notes or recommend next steps. For defined clinical workflows, the AI progresses on the same principle used in medical training: supervised first, then progressively entrusted as it demonstrates competence, clearing safety and performance gates for each capability. We'll begin with prescription renewals and routine lab ordering and review, then expand into the rest of longitudinal primary care and common, low-acuity urgent care. Physicians set its scope, supervise its work, and take every complex or unusual case. Any authority the AI earns can be revoked if performance slips.\r\n\r\nWe're pursuing participation in Utah's first-in-nation AI regulatory sandbox to test this model and seek authorization under state oversight, as Washington moves to take clinical AI national. First patients: Utah, 2026. The model is built to repeat state by state. Long term, we want routine care to be increasingly autonomous, nearly free to deliver, and available whenever a patient needs it. The goal is one physician safely caring for a hundred times more patients, with the marginal cost of routine care driven toward zero.",
+    "one_liner": "A primary care clinic where AI earns clinical autonomy",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1786820862,
+    "tags": [
+      "Health Tech",
+      "Telehealth",
+      "Digital Health",
+      "Healthcare",
+      "Primary Care"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/standard-medical",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/standard-medical.json"
+  },
+  {
     "id": 32230,
     "name": "Codag",
     "slug": "codag",
@@ -5234,7 +5318,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0f86336cad3f47d72897d04916a12380f1f0094b.png",
     "website": "https://www.graphify.com/",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "Graphify builds queryable knowledge graphs from local codebases, docs, and Jira (105K+ GitHub stars, ~5M+ downloads, used in production by engineers at Rootly, Geotab, Tweddle Group, and Superagent). \r\n\r\nOn that graph, its enterprise layer reviews every pull request and formally verifies each code change, proving the new behavior matches the old or handing back the exact input that breaks it. The graph updates itself as the code changes and keeps context instead of forgetting it, so your whole team and their coding agents work from one shared, always-current graph of the codebase instead of a thousand private threads. \r\n\r\nRuns fully on-premise, so no data leaves the building.",
+    "long_description": "Graphify builds a queryable knowledge graph from your codebase, docs, and Jira. The open-source engine has 105K+ GitHub stars and ~5M downloads, and is used in production by engineers at Rootly, Geotab, Tweddle Group, and Superagent.\r\n\r\nOn top of that graph, our enterprise layer reviews every pull request and formally verifies each code change: it proves the new behavior matches the old, or hands back the exact input that breaks it. That makes it built for the changes teams fear most, like refactors, framework upgrades, and large-scale code migrations, where you need proof that nothing broke, not a guess.\r\n\r\nThe graph updates itself as the code changes and keeps context instead of forgetting it, so your whole team and their coding agents work from one shared, always-current view of the codebase instead of a thousand private threads.\r\n\r\nIt runs entirely inside your perimeter, fully air-gapped on-premise or self-hosted in your own cloud, so no code or data ever leaves your environment.",
     "one_liner": "On-device knowledge graph engine for enterprises",
     "team_size": 2,
     "industry": "B2B",
@@ -6241,19 +6325,20 @@
       "Avicenna Care",
       "Agent Insurance"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ef35741f33adf69268f7b972bd18d2a9b60f0fc8.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ee4bd602221f77fc05dda940b7202523dd2b9d10.png",
     "website": "https://movingatoms.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We use World Models to evaluate  and train robots. This enables you to test your policy checkpoints easily, as well as augmenting your training dataset. Scaling GPUs is much cheaper than scaling robot arms and humans needed to moniter them.",
-    "one_liner": "Virtual Reality for Evaluating Robots (World Models)",
+    "long_description": "Moving Atoms is building world models trained on internet scale video: models that accurately predict physical interactions and are conditioned on robot actions. Our first model, Atom 1, already tops the Physics IQ benchmark. \r\n\r\nAn exceptional world model is what makes an exceptional robot model possible, and that's phase two.\r\nLLMs were unlocked by the trillions of text tokens sitting free on the internet. We believe robotics gets unlocked a similar way, by the latent physics information in online video content.",
+    "one_liner": "Solving Robotics with World Models trained on Internet-Scale Video",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1786481200,
     "tags": [
+      "Artificial Intelligence",
+      "Hard Tech",
       "Robotics",
-      "Virtual Reality",
-      "AI"
+      "Virtual Reality"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6369,8 +6454,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8126dcec05004e9a335df14d0116cf4774a61b06.png",
     "website": "https://trydenta.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Denta saves you money on dental insurance.\r\n\r\nWhen you go to buy dental insurance, instead of picking the plan where 25% of your money goes to Brokers, CEOs, and Administrators, you pick the plan where 100% of your money goes to the dentist.\r\n\r\nI started Denta by building software for my dad's 10 dental practices in Iowa. In scaling that product to 13k MRR in 10 weeks, I realized I was working on a small problem in dentistry. Existing software sucks, no doubt, but what dentists complain about even more: insurance.\r\n\r\nInsurance is a massive burden on the industry. Dental Software companies make $6B/year. Dental Insurance Companies make $100B/year. 25% of that is wasted on administrators, brokers, and c-suite salaries. As the son of a dentist, I will not let these companies continue to burn $25B/year. That money should go to dentists via reimbursements, patients via more coverage, and employers via reduced costs.",
-    "one_liner": "Save Money on Dental Insurance",
+    "long_description": "Denta is a full stack dental insurance carrier.\r\n\r\nCompanies need dental insurance. When they go to buy it, instead of picking the plan where their money goes to brokers, administrators, and c-suite execs, they pick the plan where their money goes straight to the dentist.\r\n\r\nI started Denta after building software for my dad's 10 dental practices. In scaling that software business to 16k MRR in 10 weeks, I realized I was working on a small problem in dentistry. Existing software sucks, no doubt, but what dentists complain about even more: insurance.\r\n\r\nDental Insurance Companies collect $100B/year in premiums. 25% of that is wasted on administrators, brokers, and c-suite salaries. As the son of a dentist, I will not let these companies burn $25B/year anymore. That money should go to dentists via reimbursements, patients via more coverage, and employers via reduced costs.",
+    "one_liner": "Full Stack Dental Insurance",
     "team_size": 1,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
@@ -7532,7 +7617,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7fbb4be6497bcd38a1210a0561cf3eb84422ab32.png",
     "website": "https://www.getpennant.ai",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Led by former institutional proxy voters and technologists with 10+ years of experience, Pennant gives institutional investors, public companies, and corporate advisors voting and governance intelligence to act on their own principles at scale.",
+    "long_description": "Led by former institutional proxy voters and technologists with a collective 20+ years of experience, Pennant gives institutional investors, public companies, and corporate advisors voting and governance intelligence to act on their own principles at scale.",
     "one_liner": "The Corporate Governance OS for Public Markets",
     "team_size": 2,
     "industry": "Fintech",
@@ -8830,6 +8915,51 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/wondering.json"
   },
   {
+    "id": 33319,
+    "name": "Vernius Systems, Inc.",
+    "slug": "vernius-systems-inc",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b6b4e6b2f945df4b3400a22fc1d287a788bc4215.png",
+    "website": "https://www.vernius.systems",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We make radar seekers for interceptors. The seeker — the sensor that finds and locks onto targets — is the most critical and costly component in every interceptor. Developing a radar seeker takes a 200+ person team at Raytheon and hundreds of millions of dollars. We’ve built a pipeline which automates their entire engineering pipeline, and can produce working seekers in weeks, not years.",
+    "one_liner": "Autonomous radar guidance for interceptors",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Defense",
+    "launched_at": 1780639543,
+    "tags": [
+      "Hard Tech",
+      "Drones",
+      "Radar",
+      "Aerospace",
+      "Defense"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/vernius-systems-inc",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/vernius-systems-inc.json"
+  },
+  {
     "id": 33320,
     "name": "OneCLI",
     "slug": "onecli",
@@ -9436,8 +9566,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c179a28044a3d4a8c3ceaf2a5b8cecbf90f66aa7.png",
     "website": "https://edviroenergy.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Edviro helps facilities managers at large buildings save on their energy bills. Facilities managers are overwhelmed with dashboards, alarms, and analytics for hundreds of boilers, HVAC units, and heat pumps across their buildings. Edviro continuously monitors and optimizes buildings using energy world models to detect anomalies, simulate interventions, and suggest the best options to the facilities manager.  Once the changes occur, we create a comprehensive M&V report to ensure savings show up on the bill. \r\n\r\nOur tools also allow institutions to maintain detailed service history & equipment logs, and perform maintenance with AR.  ",
-    "one_liner": "Energy world models that fix energy waste before it becomes expensive.",
+    "long_description": "Edviro builds AI that operates energy infrastructure. We connect to meters, HVAC systems, batteries, solar, and other energy equipment and continuously handle the work required to keep them efficient: detecting and diagnosing problems to forecasting demand, simulating fixes, creating work orders, coordinating maintenance, and controlling equipment where authorized. Our energy world models learn how each site behaves, choose the highest-value actions, and verify the results against real operational, meter, and billing data.",
+    "one_liner": "AI That Operates Energy Infrastructure",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",

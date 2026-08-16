@@ -7316,51 +7316,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2020/zumo-labs.json"
   },
   {
-    "id": 13519,
-    "name": "Recall.ai",
-    "slug": "recall-ai",
-    "former_names": [
-      "Hyperdoc",
-      "Perfect Recall"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/59d10237794442de721976fafb390beb322715ed.png",
-    "website": "https://www.recall.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Recall.ai is the API to get recordings, transcripts, and metadata from meetings. We offer several form factors to capture this data: \r\n1. Meetings bots\r\n2. A desktop recording SDK\r\n3. A mobile recording SDK\r\n\r\nWe integrate with meeting platforms like Zoom, Google Meet, Microsoft Teams, and more, as well as in-person meetings.\r\n\r\nOver 3000 companies rely on our API today to process millions of hours of meeting data. We provide stable infrastructure that typically takes engineering teams 6+ months of time to build, and help our customers get up and running in days instead of months.",
-    "one_liner": "The API to get recordings, transcripts, and metadata from meetings",
-    "team_size": 30,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1616094217,
-    "tags": [
-      "API",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2020",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/recall-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2020/recall-ai.json"
-  },
-  {
     "id": 13673,
     "name": "Jet Admin",
     "slug": "jet-admin",
@@ -16294,7 +16249,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -19683,7 +19638,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -22483,8 +22438,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fae29a98d132c4b435b336dbb5d6cf4a1aaf5de7.png",
     "website": "https://starsling.dev/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Fast GitHub Actions runners with AI agents that continuously improve your CI to make it up to 6x faster and 13x cheaper.",
-    "one_liner": "Self-Driving CI",
+    "long_description": "Drop-in Ubuntu runners plus AI agents that open optimization PRs for your workflows. StarSling Runners continuously improve your CI to make it up to 6x faster and 13x cheaper.",
+    "one_liner": "Self-Driving CI: fast AI-native GitHub Actions runners",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -26107,7 +26062,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0f86336cad3f47d72897d04916a12380f1f0094b.png",
     "website": "https://www.graphify.com/",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "Graphify builds queryable knowledge graphs from local codebases, docs, and Jira (105K+ GitHub stars, ~5M+ downloads, used in production by engineers at Rootly, Geotab, Tweddle Group, and Superagent). \r\n\r\nOn that graph, its enterprise layer reviews every pull request and formally verifies each code change, proving the new behavior matches the old or handing back the exact input that breaks it. The graph updates itself as the code changes and keeps context instead of forgetting it, so your whole team and their coding agents work from one shared, always-current graph of the codebase instead of a thousand private threads. \r\n\r\nRuns fully on-premise, so no data leaves the building.",
+    "long_description": "Graphify builds a queryable knowledge graph from your codebase, docs, and Jira. The open-source engine has 105K+ GitHub stars and ~5M downloads, and is used in production by engineers at Rootly, Geotab, Tweddle Group, and Superagent.\r\n\r\nOn top of that graph, our enterprise layer reviews every pull request and formally verifies each code change: it proves the new behavior matches the old, or hands back the exact input that breaks it. That makes it built for the changes teams fear most, like refactors, framework upgrades, and large-scale code migrations, where you need proof that nothing broke, not a guess.\r\n\r\nThe graph updates itself as the code changes and keeps context instead of forgetting it, so your whole team and their coding agents work from one shared, always-current view of the codebase instead of a thousand private threads.\r\n\r\nIt runs entirely inside your perimeter, fully air-gapped on-premise or self-hosted in your own cloud, so no code or data ever leaves your environment.",
     "one_liner": "On-device knowledge graph engine for enterprises",
     "team_size": 2,
     "industry": "B2B",
