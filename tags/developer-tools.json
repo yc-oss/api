@@ -2721,18 +2721,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5ac294c5898028a9f3fcb798baa22860c935493f.png",
     "website": "https://www.animaapp.com",
     "all_locations": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-    "long_description": "In the space of AI coding agents, Anima bridges the LLM design gap.\r\nWith over 1.5 million installs, Anima is the first option for professional design, product, and R&D teams going from design to code.\r\n\r\nThanks to On-brand Vibe-coding, anyone in the team can build fast without breaking your look and feel. No Figma skills required. Anima generates clean and developer-friendly code. So your prototypes could also be used for handoff.\r\n\r\nThree ways to start\r\n- Figma to Code → Instantly generate clean React, HTML, or Vue code from Figma designs.\r\n- Website to Code (Cloning / Remixing) → Import any live website and turn it into editable code.\r\n- Prompt to Design (coming soon) → Generate high-end UI directly from natural language prompts, automatically styled to your brand.\r\n\r\nKey features\r\n- Start at AnimaApp.com to bring your design or your website to Anima\r\n- Chat in Anima playground to iterate on your project's code while staying on-brand\r\n- Handoff playground link to engineering\r\n- Or, download code to continue with Clause code ot Cursor\r\n- Or, publish a public link to share with clients or stakeholders",
-    "one_liner": "Design to Code & On-brand Vibe-coding",
+    "long_description": "For professional design, product, and R&D teams, Anima offers professional vibe coding.\r\nFor agents, AgentGrid.io is a shared workspace for humans and agents to share files and collaborate.\r\n\r\nAt AnimaApp.com - We offer on-brand Vibe-coding, anyone in the team can build fast without breaking your look and feel. No Figma skills required. Anima generates clean and developer-friendly code. So your prototypes could also be used for handoff.\r\n\r\nThree ways to start\r\n- Figma to Code → Instantly generate clean React, HTML, or Vue code from Figma designs.\r\n- Website to Code (Cloning / Remixing) → Import any live website and turn it into editable code.\r\n- Prompt to Design (coming soon) → Generate high-end UI directly from natural language prompts, automatically styled to your brand.\r\n\r\nKey features\r\n- Start at AnimaApp.com to bring your design or your website to Anima\r\n- Chat in Anima playground to iterate on your project's code while staying on-brand\r\n- Handoff playground link to engineering\r\n- Or, download code to continue with Clause code ot Cursor\r\n- Or, publish a public link to share with clients or stakeholders",
+    "one_liner": "Anima - Design Agent | AgentGrid.io - Shared drive for humans & agents",
     "team_size": 20,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1525143908,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "B2B",
-      "Design Tools"
+      "Design Tools",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2754,7 +2754,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": false,
+    "question_answers": true,
     "url": "https://www.ycombinator.com/companies/anima-app",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/anima-app.json"
   },
@@ -24111,8 +24111,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/49c533e34b6c887207ac5683dd8dfab22709a458.png",
     "website": "http://coasty.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Coasty is a computer use agent that does real work inside softwares, companies already run. New web apps, old desktop tools, the legacy systems nobody wants to touch. You hand it a workflow and it owns the outcome.\r\nMost agents demo well and break the moment they hit real software. They get 18 steps out of 20 right, misclick once, and everything after is garbage. Coasty catches when it goes off track and fixes itself mid-task instead of starting over. It handles the messy parts, benchmarks never show. Permission dialogs, surprise pop-ups, a modal that steals focus, a page that loads slow. When a vendor pushes an overnight update and moves half the menus, brittle scripts break by morning. Coasty reads the screen instead of recording clicks, so it adapts and keeps going.\r\nIt also checks its own output and leaves a time-stamped trail you can replay. We won't pretend it gets every task right. Nothing automating this work does. What matters is what happens when something breaks. It catches the mistake, fixes what it can, and flags what it can't so a person can step in. Nothing fails quietly. That's what lets a team trust it on the work where a silent error gets someone fired.\r\nWe scored 82% on OSWorld, which puts us among the most reliable agents out there. Reliability is the whole product, not a feature.",
-    "one_liner": "The computer-use agent that doesn't break on real software. We will…",
+    "long_description": "Coasty is a computer use agent that officially reached 82.8% on OSWorld, which puts us among the most reliable agents out there. Going through the evaluation process, we realized a better crowdsourced benchmark was needed. So we created Coarena, real-world evals and RL environments for computer-use agents. We run a live arena where people post the computer-use tasks they actually need done, two frontier models race them head-to-head, and humans judge the outcome blind. Every battle produces something labs can't get from a static benchmark, an eval built on real demand instead of a memorized test set.\r\n\r\nMost benchmarks demo well and break the moment a model trains on them. They're fixed, they grade only the final screen, and they miss everything that matters, the run that spent $240 on an \"under $200\" task, the agent that subscribed to three newsletters on the way to checkout, the one that looped for 40 steps and quit. OSWorld and WebArena saturate in months. Ours are parameterized and demand-sourced, so the scores stay honest.\r\n\r\nOn top of the arena we build deterministic RL environments - flights, commerce, CRM, forms that reset bit-for-bit and grade outcome, trajectory, side-effects, and constraints, with per-step failure attribution and a dense reward you can train on. We also grade what nobody else does: whether an agent can be hijacked by instructions hidden in a page, and whether it knows when to stop and ask instead of spending someone's money.",
+    "one_liner": "Real World Evals and RL Environments for Computer-Use",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -24120,7 +24120,9 @@
     "tags": [
       "AIOps",
       "Developer Tools",
-      "Workflow Automation"
+      "Reinforcement Learning",
+      "Workflow Automation",
+      "Data Labeling"
     ],
     "tags_highlighted": [],
     "top_company": false,

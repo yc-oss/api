@@ -1679,7 +1679,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ad99a50e946cb78af9f253ab66655f1d1e1b158c.png",
     "website": "http://atomic.industries",
-    "all_locations": "Detroit, MI, USA",
+    "all_locations": "Cleveland, OH, USA",
     "long_description": "Atomic is a vertically integrated plastics supplier. To offer parts better, cheaper, and faster than anyone on Earth, we became the best mold makers using AI. Our software helps us design and build the best possible mold for each unique geometry, with the goal of moving into production more rapidly than existing supply chains.",
     "one_liner": "Software orchestrated mass production of plastics",
     "team_size": 60,
@@ -2037,10 +2037,10 @@
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1648273643,
     "tags": [
+      "Artificial Intelligence",
       "Hard Tech",
       "Robotics",
-      "Manufacturing",
-      "AI"
+      "Manufacturing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3028,7 +3028,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -5165,7 +5165,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b7cc06bfd9d08d6eae3bc20eca8c056f893bf8b.png",
     "website": "http://norirobotics.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Nori is a sub-$2000 bimanual mobile manipulator that can clean rooms, restock shelves, and fold clothes. Nori can handle basic tasks out of the box, and its software lets anyone teach Nori to automate work specific to their home or business. \r\n\r\nNori aims to solve the robotics data bottleneck. By deploying affordable robots to customers around the world, we can gather the diverse data required to train the next generation of generalist robotic policies. Every user of Nori makes Nori smarter.\r\n\r\nSince launching 6 weeks ago we have already deployed our first robot and have 100k in sales.\r\n\r\nWe can bring general-purpose robotics to homes and businesses that could never afford it before. There are 132.7 million households and 8.4 million employer business locations in the U.S. At $1,688 per robot, selling just one Nori to 0.5% of them represents a $1.2B market opportunity in the U.S. alone. ",
+    "long_description": "Nori builds sub-$2000 bimanual mobile manipulator that can clean rooms, restock shelves, and fold clothes. Nori can handle basic tasks out of the box, and its software lets anyone teach Nori to automate work specific to their home or business. \r\n\r\nNori aims to solve the robotics data bottleneck. By deploying affordable robots to customers around the world, we can gather the diverse data required to train the next generation of generalist robotic policies. Every user of Nori makes Nori smarter.\r\n\r\nSince launching 6 weeks ago we have already deployed our first robot and have 100k in sales.\r\n\r\nWe can bring general-purpose robotics to homes and businesses that could never afford it before. There are 132.7 million households and 8.4 million employer business locations in the U.S. At $1,688 per robot, selling just one Nori to 0.5% of them represents a $1.2B market opportunity in the U.S. alone. ",
     "one_liner": "sub-$2000 humanoid robot you can teach to do anything",
     "team_size": 5,
     "industry": "Industrials",
@@ -5425,16 +5425,16 @@
     "website": "https://movingatoms.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Moving Atoms is building world models trained on internet scale video: models that accurately predict physical interactions and are conditioned on robot actions. Our first model, Atom 1, already tops the Physics IQ benchmark. \r\n\r\nAn exceptional world model is what makes an exceptional robot model possible, and that's phase two.\r\nLLMs were unlocked by the trillions of text tokens sitting free on the internet. We believe robotics gets unlocked a similar way, by the latent physics information in online video content.",
-    "one_liner": "Solving Robotics with World Models trained on Internet-Scale Video",
+    "one_liner": "World Model Lab for Evaluating and Training Robots.",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1786481200,
     "tags": [
-      "Artificial Intelligence",
       "Hard Tech",
       "Robotics",
-      "Virtual Reality"
+      "Virtual Reality",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5837,46 +5837,5 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hemlock",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/hemlock.json"
-  },
-  {
-    "id": 35523,
-    "name": "twentyfour26",
-    "slug": "twentyfour26",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ceb91f5325b460f109e85bc25abd1618a24863cb.png",
-    "website": "https://twentyfour26.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "twentyfour26 builds autonomous CNC machining cells that turn CAD files into same-day custom metal parts.",
-    "one_liner": "On Demand CNC Prototyping ",
-    "team_size": 2,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1786424480,
-    "tags": [
-      "Robotics",
-      "Manufacturing",
-      "Industrial"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2026",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/twentyfour26",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/twentyfour26.json"
   }
 ]

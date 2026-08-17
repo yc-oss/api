@@ -1187,17 +1187,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6d9543a0527b0b5ac428e043f211c75ac5d1d59.png",
     "website": "https://olamlabs.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Multi-agent simulations let us evaluate for models and humans in competition with each other. We work with researchers on both evaluations and training for character and agentic performance typically difficult to assess for using current popular datasets. \r\n\r\nPlay one of our first releases, Multi-Agent Arena (https://olamlabs.ai/arena), where humans come play social strategy games against multiple AI agents. It's currently top 50 on OpenRouter and has thousands of matches played each day. We use Multi-Agent Arena to build datasets on agentic performance and real-world socialization.",
+    "long_description": "Multi-agent environments let us evaluate and train models in complex, simulated worlds. We work with researchers on both evaluations and training for character and agentic performance typically difficult to assess for using current popular datasets. \r\n\r\nPlay one of our first releases, Multi-Agent Arena (https://olamlabs.ai/arena), where humans come play social strategy games against multiple AI agents. It's currently top 50 on OpenRouter and has thousands of matches played each day. We use Multi-Agent Arena to build datasets on agentic performance and real-world socialization.",
     "one_liner": "Building multi-agent simulations for model evals and training.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1784577901,
     "tags": [
+      "Artificial Intelligence",
       "Reinforcement Learning",
       "Gaming",
-      "Data Engineering",
-      "AI"
+      "Data Engineering"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1716,5 +1716,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/magma",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/magma.json"
+  },
+  {
+    "id": 33738,
+    "name": "Coasty",
+    "slug": "coasty",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/49c533e34b6c887207ac5683dd8dfab22709a458.png",
+    "website": "http://coasty.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Coasty is a computer use agent that officially reached 82.8% on OSWorld, which puts us among the most reliable agents out there. Going through the evaluation process, we realized a better crowdsourced benchmark was needed. So we created Coarena, real-world evals and RL environments for computer-use agents. We run a live arena where people post the computer-use tasks they actually need done, two frontier models race them head-to-head, and humans judge the outcome blind. Every battle produces something labs can't get from a static benchmark, an eval built on real demand instead of a memorized test set.\r\n\r\nMost benchmarks demo well and break the moment a model trains on them. They're fixed, they grade only the final screen, and they miss everything that matters, the run that spent $240 on an \"under $200\" task, the agent that subscribed to three newsletters on the way to checkout, the one that looped for 40 steps and quit. OSWorld and WebArena saturate in months. Ours are parameterized and demand-sourced, so the scores stay honest.\r\n\r\nOn top of the arena we build deterministic RL environments - flights, commerce, CRM, forms that reset bit-for-bit and grade outcome, trajectory, side-effects, and constraints, with per-step failure attribution and a dense reward you can train on. We also grade what nobody else does: whether an agent can be hijacked by instructions hidden in a page, and whether it knows when to stop and ask instead of spending someone's money.",
+    "one_liner": "Real World Evals and RL Environments for Computer-Use",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1782294083,
+    "tags": [
+      "AIOps",
+      "Developer Tools",
+      "Reinforcement Learning",
+      "Workflow Automation",
+      "Data Labeling"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/coasty",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/coasty.json"
   }
 ]

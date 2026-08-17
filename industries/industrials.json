@@ -6292,7 +6292,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ad99a50e946cb78af9f253ab66655f1d1e1b158c.png",
     "website": "http://atomic.industries",
-    "all_locations": "Detroit, MI, USA",
+    "all_locations": "Cleveland, OH, USA",
     "long_description": "Atomic is a vertically integrated plastics supplier. To offer parts better, cheaper, and faster than anyone on Earth, we became the best mold makers using AI. Our software helps us design and build the best possible mold for each unique geometry, with the goal of moving into production more rapidly than existing supply chains.",
     "one_liner": "Software orchestrated mass production of plastics",
     "team_size": 60,
@@ -8489,10 +8489,10 @@
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1648273643,
     "tags": [
+      "Artificial Intelligence",
       "Hard Tech",
       "Robotics",
-      "Manufacturing",
-      "AI"
+      "Manufacturing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -12681,7 +12681,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -17097,7 +17097,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/caa902826145e78311e27007937976e8663a9265.png",
     "website": "https://www.manufacturingintelligence.org",
-    "all_locations": "Seattle, WA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Every custom part starts as a 2D drawing, and every drawing has to be reviewed before manufacturing begins. Today that means senior engineers checking dimensions, tolerances, and GD&T callouts by hand against ASME and ISO standards. It takes days, it bottlenecks release, and errors still slip through to the shop floor, where they become scrap and rework. Hera automates design review. Upload a drawing, get back every violation with the standard it breaks and where. Engineer-to-order manufacturers in aerospace, medical devices, and pressure vessels use Hera to release drawings faster and catch mistakes before they cost real money.",
     "one_liner": "Hera catches thousand dollar errors before they hit the shop floor.",
     "team_size": 2,
@@ -17694,7 +17694,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b7cc06bfd9d08d6eae3bc20eca8c056f893bf8b.png",
     "website": "http://norirobotics.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Nori is a sub-$2000 bimanual mobile manipulator that can clean rooms, restock shelves, and fold clothes. Nori can handle basic tasks out of the box, and its software lets anyone teach Nori to automate work specific to their home or business. \r\n\r\nNori aims to solve the robotics data bottleneck. By deploying affordable robots to customers around the world, we can gather the diverse data required to train the next generation of generalist robotic policies. Every user of Nori makes Nori smarter.\r\n\r\nSince launching 6 weeks ago we have already deployed our first robot and have 100k in sales.\r\n\r\nWe can bring general-purpose robotics to homes and businesses that could never afford it before. There are 132.7 million households and 8.4 million employer business locations in the U.S. At $1,688 per robot, selling just one Nori to 0.5% of them represents a $1.2B market opportunity in the U.S. alone. ",
+    "long_description": "Nori builds sub-$2000 bimanual mobile manipulator that can clean rooms, restock shelves, and fold clothes. Nori can handle basic tasks out of the box, and its software lets anyone teach Nori to automate work specific to their home or business. \r\n\r\nNori aims to solve the robotics data bottleneck. By deploying affordable robots to customers around the world, we can gather the diverse data required to train the next generation of generalist robotic policies. Every user of Nori makes Nori smarter.\r\n\r\nSince launching 6 weeks ago we have already deployed our first robot and have 100k in sales.\r\n\r\nWe can bring general-purpose robotics to homes and businesses that could never afford it before. There are 132.7 million households and 8.4 million employer business locations in the U.S. At $1,688 per robot, selling just one Nori to 0.5% of them represents a $1.2B market opportunity in the U.S. alone. ",
     "one_liner": "sub-$2000 humanoid robot you can teach to do anything",
     "team_size": 5,
     "industry": "Industrials",
@@ -17726,6 +17726,47 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/noril1",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/noril1.json"
+  },
+  {
+    "id": 32584,
+    "name": "Aerogen Systems",
+    "slug": "aerogen-systems",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/235b4dc8ef4a94e38d79ce892c9d55184a2b0224.png",
+    "website": "https://www.aerogensystems.com/",
+    "all_locations": "Ann Arbor, MI, USA",
+    "long_description": "We are building the future of chip manufacturing.\r\n\r\nChips are more advanced than ever, and the features inside them keep getting smaller. But the cleanroom infrastructure supporting their manufacture has not scaled at the same pace. Intel, TSMC, Samsung, and others spend billions building and operating massive cleanrooms, only to isolate their most advanced wafers from the surrounding facility as much as possible.\r\n\r\nWe think that architecture is backwards. Instead of making the entire building cleaner, why not make the machinery itself as clean as possible?\r\n\r\nTalos is our proprietary tool-integrated purification system. It sits directly inside semiconductor equipment and continuously destroys airborne molecular contaminants before they reach the wafer. Instead of fighting contamination by constantly flooding tools with ultra-high-purity nitrogen, Talos keeps the environment inside the machine 10–100x cleaner, without the massive purge-gas bill.\r\n\r\nTalos is powerful on its own, but it is also the foundation for a much bigger vision: the Cleanpipe.\r\n\r\nThe Aerogen Systems Cleanpipe is an ultra-clean interconnect infrastructure that protects wafers as they move from machine to machine across the fab. Rather than relying on a billion-dollar cleanroom to protect every cubic foot of factory space, Cleanpipe creates a controlled environment only where cleanliness actually matters: around the wafer.\r\n\r\nTalos cleans the tools. Cleanpipe connects them. Eventually, we delete the cleanroom and build more advanced chips, at greater scale, with radically less infrastructure. With cleanpipes connecting tools, chip fabs can exist anywhere.",
+    "one_liner": "Building the future of advanced chip manufacturing.",
+    "team_size": 4,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1786900126,
+    "tags": [
+      "Hard Tech",
+      "B2B",
+      "Manufacturing",
+      "Semiconductors"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/aerogen-systems",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/aerogen-systems.json"
   },
   {
     "id": 32586,
@@ -17997,16 +18038,16 @@
     "website": "https://movingatoms.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Moving Atoms is building world models trained on internet scale video: models that accurately predict physical interactions and are conditioned on robot actions. Our first model, Atom 1, already tops the Physics IQ benchmark. \r\n\r\nAn exceptional world model is what makes an exceptional robot model possible, and that's phase two.\r\nLLMs were unlocked by the trillions of text tokens sitting free on the internet. We believe robotics gets unlocked a similar way, by the latent physics information in online video content.",
-    "one_liner": "Solving Robotics with World Models trained on Internet-Scale Video",
+    "one_liner": "World Model Lab for Evaluating and Training Robots.",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1786481200,
     "tags": [
-      "Artificial Intelligence",
       "Hard Tech",
       "Robotics",
-      "Virtual Reality"
+      "Virtual Reality",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -18626,7 +18667,7 @@
     "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials -> Defense",
-    "launched_at": 1780639543,
+    "launched_at": 1786812946,
     "tags": [
       "Hard Tech",
       "Drones",
@@ -18908,46 +18949,5 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hemlock",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/hemlock.json"
-  },
-  {
-    "id": 35523,
-    "name": "twentyfour26",
-    "slug": "twentyfour26",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ceb91f5325b460f109e85bc25abd1618a24863cb.png",
-    "website": "https://twentyfour26.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "twentyfour26 builds autonomous CNC machining cells that turn CAD files into same-day custom metal parts.",
-    "one_liner": "On Demand CNC Prototyping ",
-    "team_size": 2,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1786424480,
-    "tags": [
-      "Robotics",
-      "Manufacturing",
-      "Industrial"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2026",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/twentyfour26",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/twentyfour26.json"
   }
 ]
