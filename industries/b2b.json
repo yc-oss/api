@@ -30174,7 +30174,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2019",
     "status": "Active",
@@ -67894,26 +67894,28 @@
   },
   {
     "id": 26712,
-    "name": "CodeCanary",
-    "slug": "codecanary",
+    "name": "Bunting Labs",
+    "slug": "bunting-labs",
     "former_names": [
       "Bunting Labs",
-      "Atonomo"
+      "Atonomo",
+      "CodeCanary"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/936fc756bb90a52a74ebf1328770458b263316df.png",
-    "website": "https://www.codecanary.ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/56779177435211428fc3b60658c5b05d7288f710.png",
+    "website": "https://buntinglabs.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "CodeCanary explores your product like a user, looking for bugs, mistakes, and UX issues. When it finds something, it creates a PR with a fix.",
-    "one_liner": "Find and fix bugs with AI",
+    "long_description": "Bunting Labs researches and develops custom AI models for surveying and GIS.",
+    "one_liner": "AI Models for GIS",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1659469853,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
+      "Geographic Information System",
       "B2B",
-      "Web Development",
-      "AI"
+      "Web Development"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -67933,8 +67935,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/codecanary",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/codecanary.json"
+    "url": "https://www.ycombinator.com/companies/bunting-labs",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/bunting-labs.json"
   },
   {
     "id": 26715,
@@ -68639,11 +68641,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1658837091,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "B2B",
       "Productivity",
-      "Data Engineering"
+      "Data Engineering",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -74707,7 +74709,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Marketing"
@@ -75010,7 +75012,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Vooma is the AI agent for logistics. We help our customers automate manual tasks and focus on work that drives business value.\r\n\r\nMike built self driving trucks as a founding engineer at Kodiak Robotics (prev. Uber, Otto) and led their motion planning and safety teams. Jesse grew a private equity backed logistics software company from $2M to $20M+ as CEO.",
     "one_liner": "Automation platform for logistics",
-    "team_size": 30,
+    "team_size": 40,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1677551717,
@@ -75029,7 +75031,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -89161,7 +89163,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -90133,7 +90135,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -94871,15 +94873,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Entangl uses AI to detect and automatically resolve issues in data center engineering and operations, ensuring efficiency and uptime. ",
     "one_liner": "Find & resolve issues in data center engineering & operations using AI",
-    "team_size": 11,
+    "team_size": 13,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1716219164,
     "tags": [
-      "Artificial Intelligence",
       "Aerospace",
       "Enterprise Software",
       "Automation",
+      "AI",
       "Automotive"
     ],
     "tags_highlighted": [],
@@ -96467,18 +96469,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8a1b74adcd6bfd4193d3eb1b786fb19988505e78.png",
     "website": "https://withgauge.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Gauge helps your company show up in more AI answers.\r\n\r\nThere’s a wealth of data distributed across GA4, GSC, keywords, prompts, ads, and more. This data is incredibly rich, but fragmented and complicated to understand.\r\n\r\nGauge unifies all of these data sources into a single agent that can do the work of an entire marketing team.\r\n",
-    "one_liner": "Your marketing agent for organic, paid, and AI search.",
-    "team_size": 6,
+    "long_description": "Agents are leading the next wave of growth for companies like Supabase, Openrouter, Resend, PostHog, Braintrust, and more.\r\n\r\nUnlike chat experiences, Claude Code, Codex, and Cursor are now implementing products autonomously. They are doing so without ever talking to a sales rep or taking a demo.\r\n\r\nGauge runs real coding sessions across the top harnesses to identify actions to improve the agent’s preference for your tool, and the agent experience once you’re selected.",
+    "one_liner": "Gauge helps you get recommended and implemented by agents.",
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1717523721,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Analytics",
-      "Marketing"
+      "Marketing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -99947,7 +99949,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -100023,11 +100025,16 @@
     "all_locations": "New Delhi, DL, India",
     "long_description": "SureBright lets e-commerce merchants embed \"Apple Care” like product warranties into their checkout flows in less than 10 minutes. Our AI-powered warranty platform generates incremental revenue and boosts customer loyalty at zero cost to the merchant.\r\n\r\nSanket led engineering at PolicyBazar, an insurance tech company that IPOed and is valued at over $8B. Manish worked at Amazon and has built $100M ARR products, handling over 180B requests per day.\r\n\r\nUntil now, finding the right policy for any product and pricing it at the right price wasn’t possible at scale. We automated this process using LLM and have unlocked a $50B+ opportunity. Each month, over 5 million consumers view SureBright warranty offers.",
     "one_liner": "Apple Care-like warranty program for every retailer ",
-    "team_size": 30,
+    "team_size": 35,
     "industry": "B2B",
     "subindustry": "B2B -> Retail",
     "launched_at": 1720298517,
-    "tags": [],
+    "tags": [
+      "E-commerce",
+      "Insurance",
+      "Retail",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -105557,7 +105564,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -112427,14 +112434,14 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "TraceRoot is the open-source self-improving layer for AI agents — observability that detects failures in production, root-causes them against your source code and GitHub history, opens verified fix PRs, and evals every fix — so your agent gets better with every release.",
     "one_liner": "Open source self-improving layer for AI agents",
-    "team_size": 1,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1753318246,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -114544,51 +114551,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/vibeflow",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/vibeflow.json"
-  },
-  {
-    "id": 30700,
-    "name": "Nozomio",
-    "slug": "nozomio",
-    "former_names": [
-      "Nozomio Inc.",
-      "Nozomio",
-      "Nozomio (Nia AI)"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d85c6a1195667680f7ed4c90a6bda101d0cc579.png",
-    "website": "https://www.nozomio.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We are a product lab solving context in AI.",
-    "one_liner": "product lab solving context in ai",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1751302971,
-    "tags": [
-      "Developer Tools",
-      "Consumer",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": true,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/nozomio",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/nozomio.json"
   },
   {
     "id": 30701,
@@ -116764,15 +116726,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Luminal builds an ML framework and compiler that generates GPU code.\r\nOur stack 10x's model speed while simplifying deployment and cutting idle GPU costs\r\n\r\nGithub: https://github.com/luminal-ai/luminal\r\nDiscord: https://discord.gg/APjuwHAbGy",
     "one_liner": "Making AI run fast on any hardware.",
-    "team_size": 5,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1752295982,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "Developer Tools",
-      "Cloud Computing",
-      "AI"
+      "Cloud Computing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -117724,17 +117686,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/490097dc2bb667a63917b9fa0c6e2003442ad353.png",
     "website": "https://usesoren.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Soren helps organizations turn frontier AI into specialized systems built for real-world deployment. We train, deploy, and continuously improve models around the data, workflows, and decisions that matter most.\r\n\r\nLearn more at https://www.usesoren.com",
-    "one_liner": "Specialized AI for Real-World Deployment",
+    "long_description": "Soren builds the AI workforce for business operations. We power companies around the world across a range of traditional industries, including legal, financial services, healthcare, and more.\r\n\r\nOur specialized AI agents combine frontier intelligence with deep operational expertise to execute critical work behind the scenes, becoming an engine businesses rely on to run faster, leaner, and more effectively.\r\n\r\nOur goal is to build the AI operating layer that the world’s businesses will run on.\r\n",
+    "one_liner": "The AI workforce for business operations.",
     "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1759390917,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Enterprise",
-      "Enterprise Software"
+      "Enterprise Software",
+      "Operations",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -120948,14 +120911,14 @@
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1766374394,
     "tags": [
+      "Artificial Intelligence",
       "Logistics",
       "Supply Chain",
-      "Operations",
-      "AI"
+      "Operations"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2026",
     "status": "Active",
@@ -122444,13 +122407,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/71e74a47767755403f90f1778ab3ab410649c82e.png",
     "website": "https://www.mousecat.ai",
     "all_locations": "New York City, NY, USA",
-    "long_description": "MouseCat enables companies to automatically detect, investigate, and mitigate emerging fraud trends",
-    "one_liner": "AI-powered fraud investigations",
+    "long_description": "MouseCat enables companies to detect suspicious activity, automate investigations, and act before the money leaves.\r\n\r\nWe work with Fortune 500 companies and startups to deploy real-time models and AI agents that reduce fraud, compliance incidents, and friction for good customeres. ",
+    "one_liner": "AI to fight financial crime",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1769108383,
-    "tags": [],
+    "tags": [
+      "Compliance",
+      "Fraud Detection"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -124531,17 +124497,17 @@
     "website": "https://www.superset.sh/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Superset is an open-source IDE that helps engineers run 100s of coding agents in parallel.\r\n\r\nOur desktop app is loved by tens of thousands of engineers, and we're scaling out our effort to build a collaborative, cross-platform tool to allow users to code anywhere.",
-    "one_liner": "Building the platform for software factories",
+    "one_liner": "Building self-improving software",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1772696752,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Consumer",
       "B2B",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -125532,7 +125498,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Team has extensive startup, AI, and math backgrounds: \r\n- founding engineer at a unicorn\r\n- ML infrastructure @ Scale AI (inference), AWS Bedrock (fine-tuning)\r\n- ads engineering @ Meta & Twitch\r\n- IMO & IOI medalists",
     "one_liner": "Building secure polymorphic apps",
-    "team_size": 5,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1771290879,
@@ -126450,19 +126416,27 @@
   },
   {
     "id": 31343,
-    "name": "WithAI",
-    "slug": "withai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/50c65da10294fd5bf94572379e6cd2c7b0a8302f.png",
-    "website": "https://withai.co",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "WithAI helps institutional investors research stocks and manage their portfolios. We're live with four hedge funds, and our users spend 4+ hours a day in the platform.\r\n\r\nInvestors who try \"nearly every tool on the market,\" to quote a client of ours, \"wind up with an unwieldy collection of fragmented point solutions.\" Those who focus on building a great setup with general agents are instead \"signing up for a full-time job.\" So we deploy a platform called Multiplier that unifies structured data, unstructured data, AI work, human work, and tacit firm knowledge in one secure, governed, customized application.\r\n\r\nOur first vertical: independent equity funds with $250M-$5B of assets. They know AI is essential for staying relevant, but they don't have the time or talent to figure out what to do about it. But once we deploy Multiplier––\"We used to spend 80% of our time gathering information and 20% of our time acting on it,\" said one customer. \"WithAI has flipped those percentages.\"",
+    "name": "Multiplier",
+    "slug": "multiplier",
+    "former_names": [
+      "WithAI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7c1a5b7f1d0f6a85da016ccad1a5a0cec81c513.png",
+    "website": "https://multiplier.ai",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "Multiplier helps institutional investors research stocks and manage their portfolios. We're live with six hedge funds, and our users spend 4+ hours a day in the platform.\r\n\r\nInvestors who try \"nearly every tool on the market,\" to quote a client of ours, \"wind up with an unwieldy collection of fragmented point solutions.\" Those who focus on building a great setup with general agents are instead \"signing up for a full-time job.\" So we deploy a platform called Multiplier that unifies structured data, unstructured data, AI work, human work, and tacit firm knowledge in one secure, governed, customized application.\r\n\r\nOur first vertical: independent equity funds with $250M-$5B of assets. They know AI is essential for staying relevant, but they don't have the time or talent to figure out what to do about it. But once we deploy Multiplier––\"We used to spend 80% of our time gathering information and 20% of our time acting on it,\" said one customer. \"Multiplier has flipped those percentages.\"",
     "one_liner": "Agent harnesses for asset managers",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1778527074,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Productivity",
+      "Investing",
+      "Stocks"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -126474,17 +126448,15 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/withai",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/withai.json"
+    "url": "https://www.ycombinator.com/companies/multiplier",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/multiplier.json"
   },
   {
     "id": 31345,
@@ -131388,8 +131360,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a79212fefd832b4ac7d28da1ad3a7bc206dffaa1.png",
     "website": "https://speko.ai/?utm_source=ycombinator&utm_medium=profile",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "OpenRouter for voice AI",
+    "long_description": "Speko is a router for voice models: one API key, and your voice agent runs on the speech-to-text, LLM, and text-to-speech models we measured as best for your language and use case. The measurements are public at benchmarks.speko.ai: we test new models the day they ship and re-route when the numbers change, so you rewrite nothing. We ran this bake-off by hand for four years at Hupo, shipping production voice for Morgan Stanley, Prudential, HSBC, and Grab.",
+    "one_liner": "A router for voice models. One key, every model.",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -131474,7 +131446,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/27ce3fff3af03da64bc8cfefeb3efef7b6d080b7.png",
     "website": "https://lyon.so",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
+    "long_description": "Lyon builds private foundation models for banks, insurance companies, and fintechs. Each model learns from the company’s proprietary transactions, payments, clicks, and customer interactions to predict credit, fraud, collections, income, churn, and lifetime value; and runs inside the company’s cloud, so its data and intelligence remain under its control. Lyon is already working with a major insurer and trained a model on 28B transactions for a fintech serving tens of millions of active users, identifying premium-card converters 4x more precisely than its existing rules; the model is now being deployed for credit.",
     "one_liner": "Foundation models on enterprise transaction data.",
     "team_size": 2,
     "industry": "B2B",
@@ -132323,14 +132295,14 @@
     "website": "https://standardmachines.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We build environments and evaluations to train and evaluate models on advanced chip design.",
-    "one_liner": "RL Environments For Chip Design",
+    "one_liner": "Teaching AI to Design Chips",
     "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1785623138,
     "tags": [
-      "Artificial Intelligence",
-      "Semiconductors"
+      "Semiconductors",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -132434,6 +132406,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/peer",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/peer.json"
+  },
+  {
+    "id": 32526,
+    "name": "Pluto",
+    "slug": "talentpluto",
+    "former_names": [
+      "Talentpluto"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5ed12c5974a12759a4a83154066015d6c91fc4df.png",
+    "website": "https://talentpluto.com",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "Resumes made careers readable. LinkedIn made them searchable. Pluto makes them understood.\r\n\r\nProfessionals talk to Pluto for 10 minutes about what they’ve done, what they’re great at, and what they want next. Pluto makes that context discoverable to the right people and AI agents, helping them understand the professional more fully.\r\n\r\nFor hiring, companies tell Pluto who they want to meet. Pluto searches its network and the broader market, evaluates fit on both sides, privately confirms interest, and makes warm introductions when both sides want to connect.\r\n\r\n18K+ professionals have shared their career context with Pluto. 50+ companies, from fast-growing startups to decacorns, use Pluto to meet people with deeper context and confirmed interest.",
+    "one_liner": "AI voice agent that helps professionals get discovered",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Recruiting and Talent",
+    "launched_at": 1782230867,
+    "tags": [
+      "AI",
+      "Careers",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Recruiting and Talent"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/talentpluto",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/talentpluto.json"
   },
   {
     "id": 32527,
@@ -133982,15 +133997,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ef45315b5a753af3ca5decc639d785a08eb897be.png",
     "website": "https://locke.inc",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Locke is an applied AI company changing the way companies and governments work together. \r\n\r\nOur first focus is building Locke Government Affairs, an AI-native government affairs firm helping early-stage companies monitor regulations, lobby policymakers, and win government contracts.",
-    "one_liner": "Builders of the first AI-native government affairs firm.",
+    "long_description": "Locke builds AI agents that help companies and governments work together.\r\n\r\nOur agents also power Locke Government Affairs, the first AI-native government affairs firm.",
+    "one_liner": "Locke is changing the way companies and governments work together.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1783293519,
     "tags": [
-      "Artificial Intelligence",
-      "GovTech"
+      "GovTech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -134235,15 +134250,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8f563ce5c802b34a01e9ad0f5641eb4bb092c6c.png",
     "website": "https://nex.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Nex turns your GTM goals into complex GTM agents only the world's best GTM engineers know to build, across 1000+ integrations. Instead of just chatting, the agent writes code as it works to make workflows deterministic, fast, and cheap to re-run, and delivers real output: a lead list, a Slack message, or a live structured data table. Built for teams.",
-    "one_liner": "Claude Cowork using any AI model, starting with GTM agents",
+    "long_description": "Nex is the AI GTM engineer that builds and runs the complex, high-volume workflows only the world's best GTM engineers know how to build, across 1000+ integrations. Built by ex-HubSpotters who ran its three largest customer platforms and backed by HubSpot founder Dharmesh Shah.",
+    "one_liner": "Claude Cowork for high-volume workflows, starting with GTM",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1784187262,
     "tags": [
       "AIOps",
-      "Workflow Automation"
+      "Workflow Automation",
+      "Sales"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -134865,8 +134881,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/db2b316be3ecf24cfbcfc09074b3e2b8a1f3bb05.png",
     "website": "https://qokedas.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Most of what happens on Earth is never written down. It passes through instruments as signal and disappears. Our goal is to turn that signal into training data in the form of RL Environments, so labs can build models that read the physical world and operate the machines that measure it",
-    "one_liner": "Teaching models to decode the physical world",
+    "long_description": "Models are trained on the entire internet, but most of what happens on Earth is never written down. We turn those signals into training data so labs can make models better at science",
+    "one_liner": "Data for AI Science",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",

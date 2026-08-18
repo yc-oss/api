@@ -1436,6 +1436,51 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2022/finnt.json"
   },
   {
+    "id": 25717,
+    "name": "Glep",
+    "slug": "glep",
+    "former_names": [
+      "Lenco"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/43385de74ef544ad440b821a7f4f5e3436bdc1a2.png",
+    "website": "https://glep.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Glep is America's AI-native financial operating system built for real estate businesses.\r\nOur AI-native platform combines virtual and physical cards, banking, bill pay, expense management, and accounting automation into a single operating system designed specifically for how real estate businesses operate.\r\n\r\nGlep puts more time in the hands of operators to grow their portfolio.",
+    "one_liner": "AI-Native Spend platform built for Real Estate businesses",
+    "team_size": 30,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Banking and Exchange",
+    "launched_at": 1646228155,
+    "tags": [
+      "Fintech",
+      "Enterprise Software",
+      "Neobank"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Banking and Exchange"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/glep",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/glep.json"
+  },
+  {
     "id": 25733,
     "name": "SmartHelio",
     "slug": "smarthelio",
@@ -3129,15 +3174,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Entangl uses AI to detect and automatically resolve issues in data center engineering and operations, ensuring efficiency and uptime. ",
     "one_liner": "Find & resolve issues in data center engineering & operations using AI",
-    "team_size": 11,
+    "team_size": 13,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1716219164,
     "tags": [
-      "Artificial Intelligence",
       "Aerospace",
       "Enterprise Software",
       "Automation",
+      "AI",
       "Automotive"
     ],
     "tags_highlighted": [],
@@ -4625,17 +4670,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/490097dc2bb667a63917b9fa0c6e2003442ad353.png",
     "website": "https://usesoren.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Soren helps organizations turn frontier AI into specialized systems built for real-world deployment. We train, deploy, and continuously improve models around the data, workflows, and decisions that matter most.\r\n\r\nLearn more at https://www.usesoren.com",
-    "one_liner": "Specialized AI for Real-World Deployment",
+    "long_description": "Soren builds the AI workforce for business operations. We power companies around the world across a range of traditional industries, including legal, financial services, healthcare, and more.\r\n\r\nOur specialized AI agents combine frontier intelligence with deep operational expertise to execute critical work behind the scenes, becoming an engine businesses rely on to run faster, leaner, and more effectively.\r\n\r\nOur goal is to build the AI operating layer that the world’s businesses will run on.\r\n",
+    "one_liner": "The AI workforce for business operations.",
     "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1759390917,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Enterprise",
-      "Enterprise Software"
+      "Enterprise Software",
+      "Operations",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4841,17 +4887,17 @@
     "website": "https://www.superset.sh/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Superset is an open-source IDE that helps engineers run 100s of coding agents in parallel.\r\n\r\nOur desktop app is loved by tens of thousands of engineers, and we're scaling out our effort to build a collaborative, cross-platform tool to allow users to code anywhere.",
-    "one_liner": "Building the platform for software factories",
+    "one_liner": "Building self-improving software",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1772696752,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Consumer",
       "B2B",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5244,7 +5290,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c309f42cb161ba287e4c1f2d4a89dc2a2ab1e03b.png",
     "website": "https://www.floracene.com/",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Floracene lets anyone at a medical practice describe the internal tool they need and deploy it in one click - connected to production data, with read and write access scoped by the user. Think Lovable or Retool, except purpose-built for the needs of a medical practice that has no engineering team.\r\n\r\nThe bottleneck in healthcare isn't building anymore. Anyone can vibecode an 80% solution in an afternoon, custom to their own workflow, with people already on staff. The tool then dies locally on the builder’s computer, because IT (correctly) won't let anyone deploy a tool touching PHI without first-class authentication and permissioning. Our first design partner had multiple employees who had each built useful tools and dashboards locally, but couldn’t actually share these with coworkers or connect to their core practice data. Within weeks of implementing Floracene, they were able to cut a $12K / month contract for a crappy dashboarding tool and had 4 home-built tools shipped to production.\r\n\r\n~$200B is spent on administrative software in healthcare every year in the US. Tens of thousands of those companies still run core operations on spreadsheets, and we're at the top of the first inning of AI adoption.\r\n\r\nAsaph and Jonah met on the hospitals team at Palantir two years ago, and have each spent the last four years in the plumbing of US healthcare: claims, eligibility, and payor contracting. Asaph was an early PM at Garner. Jonah was a founding engineer at Metriport (YC S22) after starting his own fax-automation startup for fertility clinics.",
+    "long_description": "Floracene lets any healthcare operator describe the internal tool they need and deploy it in one click - connected to production data, with read and write access scoped by the user. Think Lovable or Retool, except purpose-built for the needs of healthcare business that has no engineering team.\r\n\r\nThe bottleneck in healthcare isn't building anymore. Anyone can vibecode an 80% solution in an afternoon, custom to their own workflow, with people already on staff. The tool then dies locally on the builder’s computer, because IT (correctly) won't let anyone deploy a tool touching PHI without first-class authentication and permissioning. Our first design partner had multiple employees who had each built useful tools and dashboards locally, but couldn’t actually share these with coworkers or connect to their core practice data. Within weeks of implementing Floracene, they were able to cut a $12K / month contract for a crappy dashboarding tool and had 4 home-built tools shipped to production.\r\n\r\n~$200B is spent on administrative software in healthcare every year in the US. Tens of thousands of those companies still run core operations on spreadsheets, and we're at the top of the first inning of AI adoption.\r\n\r\nAsaph and Jonah met on the hospitals team at Palantir two years ago, and have each spent the last four years in the plumbing of US healthcare: claims, eligibility, and payor contracting. Asaph was an early PM at Garner. Jonah was a founding engineer at Metriport (YC S22) after starting his own fax-automation startup for fertility clinics.",
     "one_liner": "Vibecode + deploy HIPAA-compliant internal tools, no eng team needed",
     "team_size": 2,
     "industry": "Healthcare",

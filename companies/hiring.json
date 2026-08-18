@@ -10089,6 +10089,50 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2019/doppler.json"
   },
   {
+    "id": 12074,
+    "name": "Caribou",
+    "slug": "caribou",
+    "former_names": [
+      "Rebank"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6babda5ff95102983cef278d4efd8b7a1d06c10b.png",
+    "website": "https://usecaribou.com",
+    "all_locations": "Lisbon, Lisbon, Portugal",
+    "long_description": "Going global is now the norm. But the moment you set up an entity in another country, you inherit a tax and legal mess that compounds with every hire and every invoice. \r\n\r\nFor example, one jurisdiction has to be profitable, cash has to move between entities compliantly, and every cross-border decision has to be audit-ready, which today means a different law firm in each country, a tax advisor on top of that, and you coordinating the chaos.\r\n\r\nThe real expertise is locked up inside the Big Four. The world's largest companies pay millions a year for access. Everyone else gets selective coverage and hefty legal bills to half-solve the problem.\r\n\r\nCaribou is the first autonomous tax firm. No lengthy workshops, no months of back-and-fort; connect your finance and HR systems and we graph your business — every entity, process, and employee — into a model we call the Atlas. \r\n\r\nFrom there we check transfer pricing, surface legal risks you didn't know you had, maximise your R&D credits, and monitor for accidental taxes as your shape changes.\r\n\r\nAnd we don't just hand you a report. We speak to your accountants, draft the legal agreements, and implement the fix ourselves. We've turned an \r\neight-week engagement into three hours.\r\n\r\nWhy work with three firms when one does the job?\r\n\r\nWe're already working with fast-growing companies like Butternut Box, OpenFX, Encord, Vertice, Omnea, and Hadrian - we've saved them hundreds of thousands on legal fees and surprise tax bills.",
+    "one_liner": "The autonomous tax firm",
+    "team_size": 10,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1541646249,
+    "tags": [
+      "Fintech",
+      "SaaS",
+      "B2B",
+      "LegalTech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2019",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "Portugal",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/caribou",
+    "api": "https://yc-oss.github.io/api/batches/winter-2019/caribou.json"
+  },
+  {
     "id": 12085,
     "name": "Volta Labs, Inc.",
     "slug": "volta-labs-inc",
@@ -18365,7 +18409,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -28142,26 +28186,28 @@
   },
   {
     "id": 26712,
-    "name": "CodeCanary",
-    "slug": "codecanary",
+    "name": "Bunting Labs",
+    "slug": "bunting-labs",
     "former_names": [
       "Bunting Labs",
-      "Atonomo"
+      "Atonomo",
+      "CodeCanary"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/936fc756bb90a52a74ebf1328770458b263316df.png",
-    "website": "https://www.codecanary.ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/56779177435211428fc3b60658c5b05d7288f710.png",
+    "website": "https://buntinglabs.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "CodeCanary explores your product like a user, looking for bugs, mistakes, and UX issues. When it finds something, it creates a PR with a fix.",
-    "one_liner": "Find and fix bugs with AI",
+    "long_description": "Bunting Labs researches and develops custom AI models for surveying and GIS.",
+    "one_liner": "AI Models for GIS",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1659469853,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
+      "Geographic Information System",
       "B2B",
-      "Web Development",
-      "AI"
+      "Web Development"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -28181,8 +28227,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/codecanary",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/codecanary.json"
+    "url": "https://www.ycombinator.com/companies/bunting-labs",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/bunting-labs.json"
   },
   {
     "id": 26713,
@@ -29666,7 +29712,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Verify your customers globally with a single platform. Get 800+ data points on each business and 100+ data points on each individual and onboard with confidence.",
     "one_liner": "AI-powered Global Compliance Platform",
-    "team_size": 42,
+    "team_size": 65,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1656614505,
@@ -31777,7 +31823,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Vooma is the AI agent for logistics. We help our customers automate manual tasks and focus on work that drives business value.\r\n\r\nMike built self driving trucks as a founding engineer at Kodiak Robotics (prev. Uber, Otto) and led their motion planning and safety teams. Jesse grew a private equity backed logistics software company from $2M to $20M+ as CEO.",
     "one_liner": "Automation platform for logistics",
-    "team_size": 30,
+    "team_size": 40,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1677551717,
@@ -31796,7 +31842,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -32513,48 +32559,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/icepanel",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/icepanel.json"
-  },
-  {
-    "id": 27925,
-    "name": "222",
-    "slug": "222",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e693471ebf0087cdb9edcdba2657ef0066b1a88.png",
-    "website": "https://222.place",
-    "all_locations": "New York City, NY, USA",
-    "long_description": "an IRL marketplace facilitating social experiences at local venues/events through AI recommendations.",
-    "one_liner": "the AI social facilitator for offline human to human interactions",
-    "team_size": 16,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1668648558,
-    "tags": [
-      "Artificial Intelligence",
-      "Machine Learning",
-      "Marketplace",
-      "Consumer",
-      "Social"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/222",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/222.json"
   },
   {
     "id": 27926,
@@ -39866,6 +39870,46 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/infinity.json"
   },
   {
+    "id": 29346,
+    "name": "sync.",
+    "slug": "sync-2",
+    "former_names": [
+      "sync labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c534b008e7ff085ee7e32e819767b1f82d6d2396.png",
+    "website": "https://sync.so/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "at sync. we're making video as fluid and editable as a word document\r\n\r\nhow much time would you save if you could *record every video in a single take?*\r\n\r\nno more re-recording yourself because you didn't like what you said, or how you said it.\r\n\r\njust shoot once, revise yourself to do exactly what you want, and post. that's all.\r\n\r\nthis is the future of video: *AI modified >> AI generated*\r\n\r\nwe're playing at the edge of science + fiction.\r\n\r\nour team is young, hungry, uniquely experienced, and advised by some of the greatest research minds + startup operators in the world. we're driven to solve impossible problems, impossibly fast.\r\n\r\nour founders are the original team behind the open sourced wav2lip — the most prolific lip-sync model to date w/ over 10k+ GitHub stars.\r\n\r\nwe \r\n[1] train state-of-the-art generative models, \r\n[2] productize + host them for scale\r\n[3] grow virally through content\r\n[4] upsell into enterprise",
+    "one_liner": "AI lipsync tool for video content creators",
+    "team_size": 13,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1709858204,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": true,
+    "app_answers": true,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/sync-2",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/sync-2.json"
+  },
+  {
     "id": 29352,
     "name": "Firebender",
     "slug": "firebender",
@@ -42724,15 +42768,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Entangl uses AI to detect and automatically resolve issues in data center engineering and operations, ensuring efficiency and uptime. ",
     "one_liner": "Find & resolve issues in data center engineering & operations using AI",
-    "team_size": 11,
+    "team_size": 13,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1716219164,
     "tags": [
-      "Artificial Intelligence",
       "Aerospace",
       "Enterprise Software",
       "Automation",
+      "AI",
       "Automotive"
     ],
     "tags_highlighted": [],
@@ -43784,18 +43828,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8a1b74adcd6bfd4193d3eb1b786fb19988505e78.png",
     "website": "https://withgauge.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Gauge helps your company show up in more AI answers.\r\n\r\nThere’s a wealth of data distributed across GA4, GSC, keywords, prompts, ads, and more. This data is incredibly rich, but fragmented and complicated to understand.\r\n\r\nGauge unifies all of these data sources into a single agent that can do the work of an entire marketing team.\r\n",
-    "one_liner": "Your marketing agent for organic, paid, and AI search.",
-    "team_size": 6,
+    "long_description": "Agents are leading the next wave of growth for companies like Supabase, Openrouter, Resend, PostHog, Braintrust, and more.\r\n\r\nUnlike chat experiences, Claude Code, Codex, and Cursor are now implementing products autonomously. They are doing so without ever talking to a sales rep or taking a demo.\r\n\r\nGauge runs real coding sessions across the top harnesses to identify actions to improve the agent’s preference for your tool, and the agent experience once you’re selected.",
+    "one_liner": "Gauge helps you get recommended and implemented by agents.",
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1717523721,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Analytics",
-      "Marketing"
+      "Marketing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45911,53 +45955,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/elayne.json"
   },
   {
-    "id": 29844,
-    "name": "Oway",
-    "slug": "oway",
-    "former_names": [
-      "Oway Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a3e196a71b4a93ad7200cf278186954bda68e7e3.png",
-    "website": "https://www.shipoway.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "The physical economy still operates without a shared intelligence layer. Every day, millions of trucks move goods while carrying unused capacity, yet no system has a real-time understanding of where capacity exists, how freight should move, or how efficiently the supply chain is operating.\r\n\r\nOway is building that layer by indexing live unused truck capacity and exposing it through APIs and AI agents, transforming fragmented transportation into programmable infrastructure that shippers, brokers, carriers, and software platforms can build on.\r\n\r\nToday, Oway replaces traditional LTL by moving freight directly on trucks already traveling in the right direction. This reduces costs, damage, and transit times while increasing utilization across the supply chain.\r\n\r\nEvery shipment strengthens a live model of freight capacity, pricing, routes, facilities, and industrial efficiency. As the network grows, Oway becomes the intelligence and execution layer for the physical economy, enabling the next generation of enterprise software, autonomous supply chains, robotics, and physical AI.",
-    "one_liner": "Turning America’s supply chain inefficiency into infrastructure.",
-    "team_size": 16,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1717601253,
-    "tags": [
-      "B2B",
-      "API",
-      "Supply Chain",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/oway",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/oway.json"
-  },
-  {
     "id": 29847,
     "name": "Bucket Robotics",
     "slug": "bucket-robotics",
@@ -46051,11 +46048,16 @@
     "all_locations": "New Delhi, DL, India",
     "long_description": "SureBright lets e-commerce merchants embed \"Apple Care” like product warranties into their checkout flows in less than 10 minutes. Our AI-powered warranty platform generates incremental revenue and boosts customer loyalty at zero cost to the merchant.\r\n\r\nSanket led engineering at PolicyBazar, an insurance tech company that IPOed and is valued at over $8B. Manish worked at Amazon and has built $100M ARR products, handling over 180B requests per day.\r\n\r\nUntil now, finding the right policy for any product and pricing it at the right price wasn’t possible at scale. We automated this process using LLM and have unlocked a $50B+ opportunity. Each month, over 5 million consumers view SureBright warranty offers.",
     "one_liner": "Apple Care-like warranty program for every retailer ",
-    "team_size": 30,
+    "team_size": 35,
     "industry": "B2B",
     "subindustry": "B2B -> Retail",
     "launched_at": 1720298517,
-    "tags": [],
+    "tags": [
+      "E-commerce",
+      "Insurance",
+      "Retail",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -49533,50 +49535,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pave-robotics",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/pave-robotics.json"
-  },
-  {
-    "id": 30259,
-    "name": "Asteroid",
-    "slug": "asteroid",
-    "former_names": [
-      "Entropy Labs"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4598dd293d773fa0a9a1c72940f2f2e3153dda35.png",
-    "website": "https://asteroid.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Asteroid is the AI-powered integration layer for healthcare. One connector for EHRs, payer portals, and legacy desktop systems, with 100+ pre-built integrations that go live in days, not months. Built for developers and operations teams, with integrations that maintain themselves.",
-    "one_liner": "The integration layer for healthcare: EHRs, payer portals & more ",
-    "team_size": 8,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1734639467,
-    "tags": [
-      "Artificial Intelligence",
-      "Robotic Process Automation",
-      "Health Tech",
-      "B2B",
-      "Automation"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/asteroid",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/asteroid.json"
   },
   {
     "id": 30260,
@@ -53853,14 +53811,14 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "TraceRoot is the open-source self-improving layer for AI agents — observability that detects failures in production, root-causes them against your source code and GitHub history, opens verified fix PRs, and evals every fix — so your agent gets better with every release.",
     "one_liner": "Open source self-improving layer for AI agents",
-    "team_size": 1,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1753318246,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -54062,7 +54020,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We build AI models for controlling robot arms, enabling them to learn new skills in just hours. Our robots help businesses cut costs by automating back-of-house tasks with an innovative  pay-by-the-hour business model. Our customers include a biotech unicorn, a leading biotech non-profit, and a direct to consumer apparel brand.",
     "one_liner": "AI models that teach robots new skills in hours",
-    "team_size": 6,
+    "team_size": 7,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1753480338,
@@ -55147,15 +55105,15 @@
     "website": "https://www.nozomio.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We are a product lab solving context in AI.",
-    "one_liner": "product lab solving context in ai",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "one_liner": "product lab. focused on personal ai and context.",
+    "team_size": 3,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
     "launched_at": 1751302971,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Consumer",
-      "AI"
+      "Consumer"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -55164,8 +55122,7 @@
     "batch": "Summer 2025",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Engineering, Product and Design"
+      "Consumer"
     ],
     "regions": [
       "United States of America",
@@ -56405,15 +56362,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Luminal builds an ML framework and compiler that generates GPU code.\r\nOur stack 10x's model speed while simplifying deployment and cutting idle GPU costs\r\n\r\nGithub: https://github.com/luminal-ai/luminal\r\nDiscord: https://discord.gg/APjuwHAbGy",
     "one_liner": "Making AI run fast on any hardware.",
-    "team_size": 5,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1752295982,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "Developer Tools",
-      "Cloud Computing",
-      "AI"
+      "Cloud Computing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -57068,17 +57025,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/490097dc2bb667a63917b9fa0c6e2003442ad353.png",
     "website": "https://usesoren.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Soren helps organizations turn frontier AI into specialized systems built for real-world deployment. We train, deploy, and continuously improve models around the data, workflows, and decisions that matter most.\r\n\r\nLearn more at https://www.usesoren.com",
-    "one_liner": "Specialized AI for Real-World Deployment",
+    "long_description": "Soren builds the AI workforce for business operations. We power companies around the world across a range of traditional industries, including legal, financial services, healthcare, and more.\r\n\r\nOur specialized AI agents combine frontier intelligence with deep operational expertise to execute critical work behind the scenes, becoming an engine businesses rely on to run faster, leaner, and more effectively.\r\n\r\nOur goal is to build the AI operating layer that the world’s businesses will run on.\r\n",
+    "one_liner": "The AI workforce for business operations.",
     "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1759390917,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Enterprise",
-      "Enterprise Software"
+      "Enterprise Software",
+      "Operations",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -58970,6 +58928,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/item.json"
   },
   {
+    "id": 31030,
+    "name": "Haladir",
+    "slug": "haladir",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b1a47bf16f93d71a3d1f3af6d10a6c736e170b2.png",
+    "website": "https://www.haladir.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Haladir is the decisional AI layer for logistics. We sit on top of your WMS, TMS, OMS, etc., unify their data into one operational graph, and embed solver-grade optimization, ML models, and process intelligence into the decisions that power supply chains. Today's AI brought intelligence. The next frontier is judgement.",
+    "one_liner": "Operational Superintelligence for Global Logistics",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1766374394,
+    "tags": [
+      "Artificial Intelligence",
+      "Logistics",
+      "Supply Chain",
+      "Operations"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/haladir",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/haladir.json"
+  },
+  {
     "id": 31036,
     "name": "Mantis",
     "slug": "mantis",
@@ -60595,17 +60595,17 @@
     "website": "https://www.superset.sh/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Superset is an open-source IDE that helps engineers run 100s of coding agents in parallel.\r\n\r\nOur desktop app is loved by tens of thousands of engineers, and we're scaling out our effort to build a collaborative, cross-platform tool to allow users to code anywhere.",
-    "one_liner": "Building the platform for software factories",
+    "one_liner": "Building self-improving software",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1772696752,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Consumer",
       "B2B",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -63556,15 +63556,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ef45315b5a753af3ca5decc639d785a08eb897be.png",
     "website": "https://locke.inc",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Locke is an applied AI company changing the way companies and governments work together. \r\n\r\nOur first focus is building Locke Government Affairs, an AI-native government affairs firm helping early-stage companies monitor regulations, lobby policymakers, and win government contracts.",
-    "one_liner": "Builders of the first AI-native government affairs firm.",
+    "long_description": "Locke builds AI agents that help companies and governments work together.\r\n\r\nOur agents also power Locke Government Affairs, the first AI-native government affairs firm.",
+    "one_liner": "Locke is changing the way companies and governments work together.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1783293519,
     "tags": [
-      "Artificial Intelligence",
-      "GovTech"
+      "GovTech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
