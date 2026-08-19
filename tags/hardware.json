@@ -3579,7 +3579,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -4572,7 +4572,7 @@
     "website": "https://outerport.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Building out new LNG plants, HVAC systems, or semiconductor processes rely on hundreds of iterations of feasibility testing (through simulation or real-world lab tests) where different designs (combinations of equipment) and parameters are validated. The parameters are often locked in PDFs (datasheets, wiring diagrams, PFDs/P&IDs) which take thousands of hours to convert into CSVs / JSONs, and the simulators don't have an easy API to work with. Outerport bridges the gap by finding documents from PLMs, extracting structured data from drawings, building a knowledge graph over them, and building autonomous AI agents that can fully automate this R&D process by running simulations and performing design checks.",
-    "one_liner": "Agents that design machines and factories",
+    "one_liner": "EDA for Industrial Control Systems",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -6372,6 +6372,49 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/noril1",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/noril1.json"
+  },
+  {
+    "id": 32585,
+    "name": "Hilstart",
+    "slug": "hilstart",
+    "former_names": [
+      "HILStart",
+      "HILstart"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51bcabfa16bc955e9ce96986bcffa07d33aea4b7.png",
+    "website": "https://hilstart.io/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We build physical agent harnesses to enable AI to debug, validate, and ship functional hardware and software.",
+    "one_liner": "Autonomous Hardware Testing",
+    "team_size": 0,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1787080990,
+    "tags": [
+      "Developer Tools",
+      "Hardware"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hilstart",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/hilstart.json"
   },
   {
     "id": 32586,

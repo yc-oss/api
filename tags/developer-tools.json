@@ -8797,9 +8797,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc34887fced4f954a1a9fd60de7afd828c9a1d74.png",
     "website": "https://www.warpbuild.com",
     "all_locations": "Sydney, NSW, Australia; Remote",
-    "long_description": "Accelerate software development with WarpBuild.\r\nGet 30% faster, 90% cheaper CI builds in 30 seconds using WarpBuild cloud runners for Github Actions.",
+    "long_description": "Accelerate software development with WarpBuild.\r\nGet 2x faster, up to 90% cheaper CI in 30 seconds using WarpBuild for Github Actions.",
     "one_liner": "Accelerate software development with WarpBuild's 10x faster CI infra.",
-    "team_size": 5,
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1626365093,
@@ -9592,7 +9592,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -11750,11 +11750,11 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/65bf3f581eea5d1a5b7640c508e3fc0e7c8930f9.png",
     "website": "https://lamin.ai",
     "all_locations": "",
-    "long_description": "Query, trace, and validate datasets and models at scale. Automate context for agents and humans.\r\n\r\nOne API: lakehouse, lineage, feature store, ontologies, bio-registries & formats.",
-    "one_liner": "Open data lakehouse for biology",
+    "long_description": "Improve your workflows with open-source context and data access.\r\n\r\nQuery, trace, and govern with a lineage-native, format-agnostic lakehouse for agents and teams.\r\n\r\nWith support for biological formats and registries — by the creators of Scanpy",
+    "one_liner": "Open data platform for traceable, multimodal AI",
     "team_size": 10,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
     "launched_at": 1655969538,
     "tags": [
       "Developer Tools",
@@ -11770,8 +11770,8 @@
     "batch": "Summer 2022",
     "status": "Active",
     "industries": [
-      "Healthcare",
-      "Healthcare IT"
+      "B2B",
+      "Infrastructure"
     ],
     "regions": [
       "Remote",
@@ -21819,16 +21819,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2add42dcef83667e3ac21f0eabb0f202583f5d0c.png",
     "website": "https://okibi.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Okibi generates a CLI from any product's codebase, so AI agents can use it the way people do.\r\n\r\nAgents are becoming software's next customers. When one comes to a product to make a purchase and finds no doorway in, it buys from the competitor whose CLI lets it through. Okibi turns products into CLIs and agents into customers.\r\n\r\nDoorDash, Mercury, Gusto, Ramp, and 30+ other companies have already launched first-party agent CLIs. Okibi is how every product gets one.",
+    "long_description": "Okibi generates a CLI from any product's codebase, so AI agents can use it the way people do.\r\n\r\nAgents are becoming software's next customers. When one comes to a product to do a task or purchase and finds no doorway in, it moves on to the competitor whose CLI lets it through. Okibi turns products into CLIs and agents into customers.\r\n\r\nDoorDash, Mercury, Gusto, Ramp, and 30+ other companies have already launched first-party agent CLIs. Okibi is how every product gets one.",
     "one_liner": "Turns products into CLIs and agents into customers",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1752707566,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "SaaS"
+      "SaaS",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -22235,18 +22235,19 @@
   },
   {
     "id": 30929,
-    "name": "Sol",
-    "slug": "solbrowser",
+    "name": "Radius",
+    "slug": "radiusbrowser",
     "former_names": [
       "sandbox.ai",
       "Cheepr.ai",
       "FunForge.ai",
-      "Inspector"
+      "Inspector",
+      "Sol"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dbe7084af8a106e89b75c980e855e0e9ac2aaedf.png",
-    "website": "https://www.solbrowser.com",
+    "website": "https://www.radiusbrowser.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sol is a browser where developers can orchestrate agents from their tabs. Ship 100x from a single place where agents can see, navigate, and act on your workspace.",
+    "long_description": "Radius is a browser where developers can orchestrate agents from their tabs. Ship 100x from a single place where agents can see, navigate, and act on your workspace.",
     "one_liner": "Code and browse in the same place",
     "team_size": 2,
     "industry": "B2B",
@@ -22277,8 +22278,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/solbrowser",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/solbrowser.json"
+    "url": "https://www.ycombinator.com/companies/radiusbrowser",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/radiusbrowser.json"
   },
   {
     "id": 30935,
@@ -23769,7 +23770,6 @@
     "launched_at": 1785106297,
     "tags": [
       "Developer Tools",
-      "Reinforcement Learning",
       "Open Source"
     ],
     "tags_highlighted": [],
@@ -23795,6 +23795,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/graphify-labs",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/graphify-labs.json"
+  },
+  {
+    "id": 32585,
+    "name": "Hilstart",
+    "slug": "hilstart",
+    "former_names": [
+      "HILStart",
+      "HILstart"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51bcabfa16bc955e9ce96986bcffa07d33aea4b7.png",
+    "website": "https://hilstart.io/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We build physical agent harnesses to enable AI to debug, validate, and ship functional hardware and software.",
+    "one_liner": "Autonomous Hardware Testing",
+    "team_size": 0,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1787080990,
+    "tags": [
+      "Developer Tools",
+      "Hardware"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hilstart",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/hilstart.json"
   },
   {
     "id": 33014,

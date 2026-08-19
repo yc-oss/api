@@ -6979,7 +6979,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -8338,7 +8338,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -12631,7 +12631,7 @@
     "all_locations": "Los Angeles, CA, USA",
     "long_description": "Orbital Operations is developing a high thrust, reusable space vehicle for satellite defense. We protect critical satellites, like GPS and Military communication satellites, from adversarial threats, like China and Russia.\r\n\r\nOur vehicle will use the exact same propulsion systems that launch vehicles have used for decades by implementing a cryogenic management system. This will give us over 100x the thrust or current in-space propulsion.\r\n\r\nRoss and I have over 15 years of combined aerospace experience across NASA, Aerojet Rocketdyne, SpaceX, Blue Origin, and Relativity Space. We’ve worked side by side for more than 3.5 years developing propulsion systems, turbomachinery, and building our own respective engineering teams.\r\n\r\nWe are currently working on the first demo of our unique cryo management system and intend to launch an operational vehicle by 2027. ",
     "one_liner": "High Thrust Space Vehicles for Satellite Defense",
-    "team_size": 2,
+    "team_size": 10,
     "industry": "Industrials",
     "subindustry": "Industrials -> Aviation and Space",
     "launched_at": 1736353830,
@@ -15203,7 +15203,7 @@
     "all_locations": "New York City, NY, USA",
     "long_description": "At Beyond Reach Labs we are building solar panels for Space that grow from the size of a dining table to a football field in orbit.\r\n\r\nMitch and Pele met 13 years ago as freshmen at UPenn studying mechanical engineering. Mitch recently got his PhD at Carnegie Mellon working with NASA on kilometer-scale deployable structures, and Pele spent seven years at SpaceX leading Dragon parachute engineering, safely returning astronauts from space.\r\n\r\nThe collective satellites today use around 20MW, roughly the output of a datacenter on earth, but by 2030 there is a demand for over 10GW, a 500x increase, largely driven by orbital datacenters, space stations, and lunar outposts.\r\n\r\nIf you want more power, your only option is to launch larger solar panels, which quickly become fragile or impractically expensive. As a result, power constraints already determine whether missions or industries can exist at all.\r\n\r\nBut at Beyond Reach Labs we have introduced a new class of deployable solar panels giving satellites 10x more usable power without increasing launch mass or volume. This works because our patented deployable design changes geometry in space, allowing for us to reach 10x longer while remaining rigid.\r\n",
     "one_liner": "Space solar arrays that grow to the size of a football field in orbit",
-    "team_size": 5,
+    "team_size": 8,
     "industry": "Industrials",
     "subindustry": "Industrials -> Aviation and Space",
     "launched_at": 1770079967,
@@ -17182,7 +17182,7 @@
     "website": "https://massmagnetics.com/",
     "all_locations": "Boston, MA, USA",
     "long_description": "Mass Magnetics turns recycled rare-earth scrap into high-performance permanent magnets, made in America. The materials we supply are the backbone of electric motors, sensors, speakers, hard drives, and electronics.\r\nOur process enables DFARS-compliant magnets for defense, aerospace, and industrial manufacturers who demand domestic supply without compromising on quality.\r\nOperations in Greater Boston, MA (Greentown Labs) and Columbus, IN.",
-    "one_liner": "USA-made magnetics for aerospace, robotics and defense. ",
+    "one_liner": "USA-made magnetics for aerospace, robotics, and defense. ",
     "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials -> Defense",
@@ -17811,6 +17811,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/aerogen-systems.json"
   },
   {
+    "id": 32585,
+    "name": "Hilstart",
+    "slug": "hilstart",
+    "former_names": [
+      "HILStart",
+      "HILstart"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51bcabfa16bc955e9ce96986bcffa07d33aea4b7.png",
+    "website": "https://hilstart.io/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We build physical agent harnesses to enable AI to debug, validate, and ship functional hardware and software.",
+    "one_liner": "Autonomous Hardware Testing",
+    "team_size": 0,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1787080990,
+    "tags": [
+      "Developer Tools",
+      "Hardware"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hilstart",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/hilstart.json"
+  },
+  {
     "id": 32586,
     "name": "Greypoint Industries",
     "slug": "greypoint-industries",
@@ -18365,9 +18408,11 @@
   },
   {
     "id": 33022,
-    "name": "Praxis AI",
-    "slug": "praxis-ai-2",
-    "former_names": [],
+    "name": "Praxis Robotics",
+    "slug": "praxis-robotics",
+    "former_names": [
+      "Praxis AI"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9bc18b804ad9a5d92ef1db88e90491f98e0204a7.png",
     "website": "https://www.praxisrobotics.io",
     "all_locations": "San Francisco, CA, USA",
@@ -18400,8 +18445,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/praxis-ai-2",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/praxis-ai-2.json"
+    "url": "https://www.ycombinator.com/companies/praxis-robotics",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/praxis-robotics.json"
   },
   {
     "id": 33053,
@@ -18536,8 +18581,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6be2671c5d4e3adfe916a4a59aad4680c7cc9d3.png",
     "website": "https://www.griprobotics.ai",
     "all_locations": "Zürich, ZH, Switzerland",
-    "long_description": "Grip is a physical AI company building intelligent robotic systems for waste and recycling. Its technology combines learning-based manipulation and custom hardware to identify and pick objects from messy, constantly changing waste streams. By learning from real-world operating data, including every successful and failed grasp, Grip’s systems become more reliable and adaptable over time. The goal is to help waste operators reduce difficult manual sorting, recover more valuable material, lower contamination, and deploy automation more flexibly across different facilities and waste streams. Ultimately, Grip is building the intelligent manipulation layer for waste infrastructure, making recycling and the circular economy more efficient and scalable.",
-    "one_liner": "Physical AI for waste management",
+    "long_description": "Grip is a robotics company building intelligent robotic systems for waste and recycling. Its technology combines learning-based manipulation and custom hardware to identify and pick objects from messy, constantly changing waste streams. By learning from real-world operating data, including every successful and failed grasp, Grip’s systems become more reliable and adaptable over time. The goal is to help waste operators reduce difficult manual sorting, recover more valuable material, lower contamination, and deploy automation more flexibly across different facilities and waste streams. Ultimately, Grip is building the intelligent manipulation layer for waste infrastructure, making recycling and the circular economy more efficient and scalable.",
+    "one_liner": "Robotics for waste management",
     "team_size": 4,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -18875,7 +18920,7 @@
     "name": "Atomarine",
     "slug": "atomarine",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/68f45c0c6632da6b496042e949e7594d02236fdd.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6485491a38d727a14e926be75b62003c9f8fccff.png",
     "website": "https://atomarine.co",
     "all_locations": "Boston, MA, USA",
     "long_description": "We are building nuclear power delivery ships to power our floating compute barges at sea. Our systems are fully standalone, have better cooling, and avoid all the resource competition that leads to local community opposition. Our centralized manufacturing allows us to deploy anywhere on Earth, four times faster than on land.",

@@ -1799,7 +1799,7 @@
     "website": "http://mindstate.design",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Mindstate Design Labs is building the closed-loop science & engineering stack for rational psychoactive effect design.\r\n\r\nOur molecular-experience interface links molecular biology to the human psychopharmacodynamic profile to convert informal constructs like clarity, presence, or motivation into high-dimensional design targets.\r\n\r\nOur clinical program is a sequence of human demonstrations that psychoactive effects can be decomposed, recombined, and synthesized. The first controlled study decomposed hallucinations from the broader hallucinogen profile; the next is designed to selectively upregulate aesthetic salience to treat anhedonia in major depressive disorder.\r\n\r\nWe’re progressively digitizing the molecular interface through which biology shapes what intelligence wants.",
-    "one_liner": "Programmable biology platform for psychoactive effect design",
+    "one_liner": "Programmable biology company for psychoactive effect design",
     "team_size": 7,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Drug Discovery and Delivery",
@@ -2218,7 +2218,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -4800,7 +4800,7 @@
     "website": "https://massmagnetics.com/",
     "all_locations": "Boston, MA, USA",
     "long_description": "Mass Magnetics turns recycled rare-earth scrap into high-performance permanent magnets, made in America. The materials we supply are the backbone of electric motors, sensors, speakers, hard drives, and electronics.\r\nOur process enables DFARS-compliant magnets for defense, aerospace, and industrial manufacturers who demand domestic supply without compromising on quality.\r\nOperations in Greater Boston, MA (Greentown Labs) and Columbus, IN.",
-    "one_liner": "USA-made magnetics for aerospace, robotics and defense. ",
+    "one_liner": "USA-made magnetics for aerospace, robotics, and defense. ",
     "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials -> Defense",
@@ -5215,9 +5215,11 @@
   },
   {
     "id": 33022,
-    "name": "Praxis AI",
-    "slug": "praxis-ai-2",
-    "former_names": [],
+    "name": "Praxis Robotics",
+    "slug": "praxis-robotics",
+    "former_names": [
+      "Praxis AI"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9bc18b804ad9a5d92ef1db88e90491f98e0204a7.png",
     "website": "https://www.praxisrobotics.io",
     "all_locations": "San Francisco, CA, USA",
@@ -5250,8 +5252,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/praxis-ai-2",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/praxis-ai-2.json"
+    "url": "https://www.ycombinator.com/companies/praxis-robotics",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/praxis-robotics.json"
   },
   {
     "id": 33056,
@@ -5295,6 +5297,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/83-sciences",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/83-sciences.json"
+  },
+  {
+    "id": 33313,
+    "name": "SubVysion",
+    "slug": "subvysion",
+    "former_names": [
+      "SubVysion, Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0df819d609df4c8e15ebdc21bbc1f518d56e52d8.png",
+    "website": "https://subvysion.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We build centimeter-accurate 3D maps of underground utilities to help construction contractors dig safer and faster. With underground intelligence, contractors can avoid dangerous utility strikes and costly project delays.",
+    "one_liner": "Autonomous rovers to make the ‘Google Maps’ of underground utilities",
+    "team_size": 2,
+    "industry": "Real Estate and Construction",
+    "subindustry": "Real Estate and Construction -> Construction",
+    "launched_at": 1783960374,
+    "tags": [
+      "Hard Tech",
+      "Computer Vision",
+      "Real Estate",
+      "Construction",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Real Estate and Construction",
+      "Construction"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/subvysion",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/subvysion.json"
   },
   {
     "id": 33319,
@@ -5435,7 +5482,7 @@
     "name": "Atomarine",
     "slug": "atomarine",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/68f45c0c6632da6b496042e949e7594d02236fdd.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6485491a38d727a14e926be75b62003c9f8fccff.png",
     "website": "https://atomarine.co",
     "all_locations": "Boston, MA, USA",
     "long_description": "We are building nuclear power delivery ships to power our floating compute barges at sea. Our systems are fully standalone, have better cooling, and avoid all the resource competition that leads to local community opposition. Our centralized manufacturing allows us to deploy anywhere on Earth, four times faster than on land.",

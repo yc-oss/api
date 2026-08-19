@@ -932,9 +932,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ab3b751ff1a6569beaba5e0f91c3c4dbcda3e55.png",
     "website": "https://idler.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "idler builds reinforcement learning environments that teach AI models how to do expert-level work.",
-    "one_liner": "reinforcement learning environments",
-    "team_size": 13,
+    "long_description": "Idler is a frontier data research lab. We build the evals and environments that the world's leading frontier labs use to measure and train their models.",
+    "one_liner": "Hill-climb any benchmark, for any model, in any domain.",
+    "team_size": 12,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1749750449,
@@ -1429,49 +1429,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/ooak-data.json"
   },
   {
-    "id": 32583,
-    "name": "Graphify Labs",
-    "slug": "graphify-labs",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0f86336cad3f47d72897d04916a12380f1f0094b.png",
-    "website": "https://www.graphify.com/",
-    "all_locations": "London, England, United Kingdom",
-    "long_description": "Graphify builds a queryable knowledge graph from your codebase, docs, and Jira. The open-source engine has 105K+ GitHub stars and ~5M downloads, and is used in production by engineers at Rootly, Geotab, Tweddle Group, and Superagent.\r\n\r\nOn top of that graph, our enterprise layer reviews every pull request and formally verifies each code change: it proves the new behavior matches the old, or hands back the exact input that breaks it. That makes it built for the changes teams fear most, like refactors, framework upgrades, and large-scale code migrations, where you need proof that nothing broke, not a guess.\r\n\r\nThe graph updates itself as the code changes and keeps context instead of forgetting it, so your whole team and their coding agents work from one shared, always-current view of the codebase instead of a thousand private threads.\r\n\r\nIt runs entirely inside your perimeter, fully air-gapped on-premise or self-hosted in your own cloud, so no code or data ever leaves your environment.",
-    "one_liner": "On-device knowledge graph engine for enterprises",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1785106297,
-    "tags": [
-      "Developer Tools",
-      "Reinforcement Learning",
-      "Open Source"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United Kingdom",
-      "Europe",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/graphify-labs",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/graphify-labs.json"
-  },
-  {
     "id": 32624,
     "name": "Fabraix",
     "slug": "fabraix",
@@ -1555,9 +1512,11 @@
   },
   {
     "id": 33022,
-    "name": "Praxis AI",
-    "slug": "praxis-ai-2",
-    "former_names": [],
+    "name": "Praxis Robotics",
+    "slug": "praxis-robotics",
+    "former_names": [
+      "Praxis AI"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9bc18b804ad9a5d92ef1db88e90491f98e0204a7.png",
     "website": "https://www.praxisrobotics.io",
     "all_locations": "San Francisco, CA, USA",
@@ -1590,48 +1549,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/praxis-ai-2",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/praxis-ai-2.json"
-  },
-  {
-    "id": 33345,
-    "name": "CueBench",
-    "slug": "cuebench",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e7132e84c8b27f087db6e6d8e58db3f856fb87d6.png",
-    "website": "",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "RL Environments for Scientific Reasoning & Performance Engineering",
-    "team_size": 0,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1786744876,
-    "tags": [
-      "Reinforcement Learning",
-      "B2B",
-      "Data Labeling"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cuebench",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/cuebench.json"
+    "url": "https://www.ycombinator.com/companies/praxis-robotics",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/praxis-robotics.json"
   },
   {
     "id": 33348,
