@@ -2571,7 +2571,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -23216,7 +23216,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -39130,6 +39130,53 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/distro.json"
   },
   {
+    "id": 29764,
+    "name": "Zeit AI",
+    "slug": "zeit-ai",
+    "former_names": [
+      "Cascada AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a8b12b6d63b7ef88542a88cfd73009aa6a48073f.png",
+    "website": "https://zeit-ai.com/",
+    "all_locations": "Munich, BY, Germany",
+    "long_description": "Ask a question in plain English and ZeitMind connects SAP, your ERP, CRM, HR systems and 600+ other sources, prepares the messy data, and turns it into the live applications your teams actually make decisions with.\r\n\r\nIt is built for the finance, controlling, procurement, supply chain and sales teams at companies that run enterprise systems without an enterprise data team.",
+    "one_liner": "The autonomous data engineer for the mid-market",
+    "team_size": 12,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1722311835,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Analytics",
+      "Data Engineering",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "Germany",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zeit-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/zeit-ai.json"
+  },
+  {
     "id": 29768,
     "name": "Ember Robotics",
     "slug": "ember-robotics",
@@ -39269,7 +39316,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/133daa5976316fea8822213f5f71c6bc57c7cc88.png",
     "website": "https://praxos.ai",
-    "all_locations": "Miami, FL, USA; Remote",
+    "all_locations": "São Paulo, SP, Brazil; Remote",
     "long_description": "Messaging workspace for people and AI agents.",
     "one_liner": "Messaging workspace for people and AI agents",
     "team_size": 3,
@@ -39292,8 +39339,8 @@
       "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "Brazil",
+      "Latin America",
       "Remote",
       "Fully Remote"
     ],
@@ -40597,17 +40644,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1eca61dd3b32e7b0f7174161cd567ec823504e49.png",
     "website": "https://www.revyl.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Revyl is a development platform that lets agents, product, design, and engineering ask questions, collaborate, and code on a single source of truth; starting with mobile",
-    "one_liner": "The mobile development platform",
+    "long_description": "Revyl is the mobile development platform for agents, developers, product, and design. It brings development, build infrastructure, verification, and application intelligence together in one platform, giving teams and agents a shared source of truth for every mobile application.\r\n\r\nTeams can build and run mobile applications in the cloud, understand how their applications work, collaborate across functions, and verify changes against the running app. AI agents gain the context and runtime they need to move beyond simply generating code and understand whether their work actually works.\r\n\r\nBy connecting the people and agents building software to the application itself, Revyl helps teams move faster, collaborate more effectively, and build mobile with confidence.",
+    "one_liner": "The Mobile Development Platform",
     "team_size": 16,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1729643205,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -42460,7 +42507,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -43491,7 +43538,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/01b4aaee846929d39e6331c0fdbf8fdf6ea08da6.png",
     "website": "https://www.pelica.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pelica is the AI-native operating system for value-based care organizations. We unify claims, EHR, pharmacy, lab, and ADT data into one live record and put an AI copilot next to every team that depends on it: quality/Stars, pharmacy, care management, provider network, and risk adjustment. The copilots don't just surface insights. They do the work, from engaging members for preventative care using multi-channel communications to preparing provider field reps with everything they need before they walk in the door. So teams spend time on relationships, not admin.",
+    "long_description": "Pelica is the AI-native operating system for modern care teams. We unify claims, EHR, pharmacy, lab, and ADT data into one live record and put an AI copilot next to every team that depends on it: quality, pharmacy, care management, provider network, and risk adjustment. The copilots don't just surface insights. They do the work, from engaging members for preventative care using multi-channel communications to preparing provider field reps with everything they need before they walk in the door. So teams spend time on relationships, not admin.",
     "one_liner": "Transforming healthcare operations with AI agents",
     "team_size": 5,
     "industry": "Healthcare",
@@ -44311,17 +44358,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9eb3892f113b924e1c5b9bdf6d120ba559a45ff.png",
     "website": "https://proliferate.com?utm_source=yc&utm_medium=referral&utm_campaign=profile",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Manage a fleet of agents locally or in the cloud. 100% open source and free to use. Built to help you do your life's work.",
-    "one_liner": "Manage a team of agents from your desktop",
+    "long_description": "We're a dense, small team in SF building the open source platform for working with agents.",
+    "one_liner": "Do your life's work with agents",
     "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1749673205,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46639,8 +46686,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f65a9129ea781a8d18fe1dc455b98be2430643a6.png",
     "website": "https://withspecific.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Specific builds enterprise datasets representative of work inside real-world businesses. The next frontier of AGI is bottlenecked by data that is hard to access, and we make that easier.",
-    "one_liner": "Enterprise Coding Data for AI",
+    "long_description": "Specific builds enterprise environments and datasets representative of work inside real-world businesses. The next frontier of AGI is bottlenecked by data that is hard to access, and we make that easier.",
+    "one_liner": "Real World Environments and Data for AI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -48023,8 +48070,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e21f70e5b9032365254edae847e8dcbc9ffddb3.png",
     "website": "https://kebra.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Field technicians are bad at documenting their jobs, which paralyzes the back office. Kebra ends that.\r\n\r\nWe capture what happens in the field and collect the exact job details the back office needs. Before the truck leaves the driveway, Kebra turns every job into complete notes, filed warranty claims, parts orders, and follow-up sales opportunities.\r\n\r\nOver time, every job feeds your Company Brain, so your best technicians’ expertise never leaves the company.",
-    "one_liner": "Field Service Companies that run themselves",
+    "long_description": "Kebra captures what happens in the field and turns it into a live operating memory that AI can query and act on.\r\n\r\nWe deploy AI agents on top of that context to automate the operational and back office work that follows across the systems companies already use.\r\n\r\nEvery job makes the memory richer. We are building the context layer for the physical enterprise, giving software agents the information they need today and physical agents the company specific context they will need tomorrow.",
+    "one_liner": "Making the field queryable.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
@@ -48396,6 +48443,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/maingen",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/maingen.json"
+  },
+  {
+    "id": 32162,
+    "name": "Studio",
+    "slug": "studio",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be382958698206c30f9e2a1996b85d6729c8ed0b.png",
+    "website": "https://trystudio.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Studio is a simulation lab studying how humans and societies respond to new ideas, and is building the first software models that can accurately predict that response. Instead of creating digital twins of survey respondents, Studio builds live market models of interconnected audience segments from real, traceable consumer-behavior evidence. Our predictions match live KPI outcomes like revenue and sentiment with over 95% accuracy for large consumer-facing brands.",
+    "one_liner": "Engineer the future",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1787114400,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Analytics",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/studio",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/studio.json"
   },
   {
     "id": 32165,
@@ -49084,9 +49173,10 @@
     "subindustry": "B2B",
     "launched_at": 1786578571,
     "tags": [
+      "Education",
       "B2B",
-      "Media",
-      "Advertising",
+      "Entertainment",
+      "Marketing",
       "AI"
     ],
     "tags_highlighted": [],
@@ -49625,10 +49715,10 @@
     "launched_at": 1787093671,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "B2B",
       "Workflow Automation",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,

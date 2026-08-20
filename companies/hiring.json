@@ -4034,7 +4034,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -7317,7 +7317,7 @@
       "India",
       "South Asia"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -19642,43 +19642,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2021/terra-api.json"
   },
   {
-    "id": 23776,
-    "name": "Palla",
-    "slug": "palla",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f1d92ba064533486991db02e1726ce77eae0eba.png",
-    "website": "https://www.palla.com",
-    "all_locations": "Remote",
-    "long_description": "Palla enables instant P2P payments from the US to other countries, a $65BN a year market. Sending and receiving remittances today is slow, time consuming and inconvenient for all parties, as it's a mostly cash based process. With Palla, senders in the US can do it in a few taps of their phone and receivers get their money in seconds. ",
-    "one_liner": "P2P Cross border payments",
-    "team_size": 22,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Payments",
-    "launched_at": 1626880377,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2021",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Payments"
-    ],
-    "regions": [
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/palla",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/palla.json"
-  },
-  {
     "id": 23780,
     "name": "PaletteHQ",
     "slug": "palettehq",
@@ -22168,7 +22131,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Stardex is an AI native ATS and CRM executive firms and professional recruiting firms. We are AI first designed specifically for modern recruiting firms. It has a powerful client collaboration feature that helps you execute searches faster with clients. It also streamlines your searches by automating repetitive tasks, allowing you to dedicate more time to building meaningful relationships.﻿",
     "one_liner": "AI native ATS + CRM for executive search firms",
-    "team_size": 5,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1627928818,
@@ -26151,7 +26114,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/257dfea6305c042123e7a308656b24d1f742d6c1.png",
     "website": "https://www.broccoli.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Broccoli is building the AI-native operating system for home service businesses. Running a plumbing or HVAC company is chaotic: calls, scheduling, dispatch, follow-ups, marketing. We automate all of it so contractors can focus on what they do best: serving customers.\r\n\r\nOur AI agents handle both revenue and ops; answering phones 24/7, booking jobs in real time, following up on leads, and alerting techs when emergencies hit.\r\n\r\nWe’ve grown from 0 to 800+ contractors in under 2 years, raised Series A round led by Khosla Ventures to take on one of the biggest labor automation opportunities in the country.\r\n\r\nAJ is a Computer Science graduate from BITS Pilani. He started his career at Adobe and has built companies with Adi for nine years.  \r\nAdi is a Computer Science graduate from BITS Pilani. He did research at the CVC lab at UAB Barcelona and worked at Microsoft before he built companies with AJ.  \r\nTogether, they founded Telematica, where they built energy-management systems for large European utilities and charging-point operators. They raised $1.5M for Telematica and $25M for Broccoli.",
+    "long_description": "Broccoli is building the AI-native operating system for home service businesses. Running a plumbing or HVAC company is chaotic: calls, scheduling, dispatch, follow-ups, marketing. We automate all of it so contractors can focus on what they do best: serving customers.\r\n\r\nOur AI agents handle both revenue and ops; answering phones 24/7, booking jobs in real time, following up on leads, and alerting techs when emergencies hit.\r\n\r\nWe’ve grown from 0 to 800+ contractors in under 2 years, raised Series A round led by Khosla Ventures to take on one of the biggest labor automation opportunities in the country.\r\n\r\nTogether, Adi and AJ co-founded Telematica, where they built energy-management systems for large European utilities and charging-point operators. They have raised $1.5M for Telematica and $25M for Broccoli.",
     "one_liner": "AI-native operating system for home service businesses",
     "team_size": 85,
     "industry": "B2B",
@@ -26445,6 +26408,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/topship",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/topship.json"
+  },
+  {
+    "id": 25946,
+    "name": "PropelAuth",
+    "slug": "propelauth",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/72dfbc62d781eba9b77e867d8e40fdab0d7efbf8.png",
+    "website": "https://www.propelauth.com",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "PropelAuth provides the right level of authentication for all stages of a company. New startups can use our hosted pre-built UIs which provide the simplest possible integration. Out of the box, our customers immediately have the same auth experience as large tech companies like Slack. As those startups grow, they can use our APIs and component libraries to pull aspects of the experience into their product.\r\n\r\nMore than just authentication, we will also provide useful functions tied to a \"user\" or \"organization\", like analytics, billing/subscriptions, referral programs, etc.",
+    "one_liner": "Team-based authentication for B2B SaaS",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1642107038,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "B2B",
+      "Identity"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/propelauth",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/propelauth.json"
   },
   {
     "id": 25948,
@@ -36312,7 +36319,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -43090,7 +43097,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -44723,14 +44730,20 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a8b12b6d63b7ef88542a88cfd73009aa6a48073f.png",
     "website": "https://zeit-ai.com/",
-    "all_locations": "",
-    "long_description": "Zeit AI transforms your data bases and systems so that they can be queried using natural language. For example, the financial consultancy RISE, which depends heavily on Excel, uses Zeit AI to access and analyze expenses across their organization.",
-    "one_liner": "From data to enterprise insights in just a few words.",
-    "team_size": 9,
+    "all_locations": "Munich, BY, Germany",
+    "long_description": "Ask a question in plain English and ZeitMind connects SAP, your ERP, CRM, HR systems and 600+ other sources, prepares the messy data, and turns it into the live applications your teams actually make decisions with.\r\n\r\nIt is built for the finance, controlling, procurement, supply chain and sales teams at companies that run enterprise systems without an enterprise data team.",
+    "one_liner": "The autonomous data engineer for the mid-market",
+    "team_size": 12,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1722311835,
-    "tags": [],
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Analytics",
+      "Data Engineering",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -44742,6 +44755,8 @@
       "Analytics"
     ],
     "regions": [
+      "Germany",
+      "Europe",
       "Remote",
       "Partly Remote"
     ],
@@ -44749,7 +44764,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": true,
+    "question_answers": false,
     "url": "https://www.ycombinator.com/companies/zeit-ai",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/zeit-ai.json"
   },
@@ -44808,7 +44823,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Thunder Compute is a systems research lab with commercial focus. We productionize GPU virtualization research to provide step-change improvements in utilization to our cloud offering and partner GPU fleets.",
     "one_liner": "VMware for GPUs",
-    "team_size": 7,
+    "team_size": 9,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1723245936,
@@ -46958,17 +46973,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1eca61dd3b32e7b0f7174161cd567ec823504e49.png",
     "website": "https://www.revyl.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Revyl is a development platform that lets agents, product, design, and engineering ask questions, collaborate, and code on a single source of truth; starting with mobile",
-    "one_liner": "The mobile development platform",
+    "long_description": "Revyl is the mobile development platform for agents, developers, product, and design. It brings development, build infrastructure, verification, and application intelligence together in one platform, giving teams and agents a shared source of truth for every mobile application.\r\n\r\nTeams can build and run mobile applications in the cloud, understand how their applications work, collaborate across functions, and verify changes against the running app. AI agents gain the context and runtime they need to move beyond simply generating code and understand whether their work actually works.\r\n\r\nBy connecting the people and agents building software to the application itself, Revyl helps teams move faster, collaborate more effectively, and build mobile with confidence.",
+    "one_liner": "The Mobile Development Platform",
     "team_size": 16,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1729643205,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47207,49 +47222,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/luthor",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/luthor.json"
-  },
-  {
-    "id": 30063,
-    "name": "Freebuff",
-    "slug": "freebuff",
-    "former_names": [
-      "Manicode",
-      "Codebuff"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7e79d88ee27d8bcba8981ffbb6cfd8dfaee476e3.png",
-    "website": "https://freebuff.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're making consumer agent products completely free, using the best open source models, and funded by ads.\r\n\r\nOur first product is a coding agent CLI called Freebuff. Install it with \"npm i -g freebuff\". We're also working on a free Lovable competitor.",
-    "one_liner": "The free coding agent",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1728685475,
-    "tags": [
-      "Developer Tools",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": true,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/freebuff",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/freebuff.json"
   },
   {
     "id": 30066,
@@ -50325,7 +50297,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -52447,8 +52419,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3442ddefa8f2ffb38f683757efc6de9a1e78890b.png",
     "website": "https://withnixo.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "​Nixo is the platform FDE teams use to unlock SaaS-level margins from services work. Connect customer conversations, engineering todos, and project delivery in one place to turn your custom work into repeatable leverage.",
-    "one_liner": "Deployment intelligence for forward deployed engineers",
+    "long_description": "Scale deployed revenue with the only data layer and agent platform built for how FDEs actually work.\r\n\r\nYour deployment capacity boils down to how many accounts your team can stay on top of. We figured out how you can create more of it with the FDE motion you already have.\r\n\r\nNixo is built on what the best FDE teams already know: when everyone has a clear view of what was promised, where every account stands, what needs attention next, and what can be reused from past work, the whole team can carry more deployments. Nixo automatically captures the full history and live health of every account from pre-sales through post-go-live, no matter who worked on it last or where the information lives. Our agents use that context to find, scope, and prioritize work across the portfolio, so anyone can move any account forward.\r\n\r\nJoin the hundreds of FDE teams scaling deployment capacity with Nixo and finally unlock SaaS-level margins from your services.",
+    "one_liner": "Make every FDE on your team capable of moving any account forward.",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -52972,7 +52944,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/01b4aaee846929d39e6331c0fdbf8fdf6ea08da6.png",
     "website": "https://www.pelica.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pelica is the AI-native operating system for value-based care organizations. We unify claims, EHR, pharmacy, lab, and ADT data into one live record and put an AI copilot next to every team that depends on it: quality/Stars, pharmacy, care management, provider network, and risk adjustment. The copilots don't just surface insights. They do the work, from engaging members for preventative care using multi-channel communications to preparing provider field reps with everything they need before they walk in the door. So teams spend time on relationships, not admin.",
+    "long_description": "Pelica is the AI-native operating system for modern care teams. We unify claims, EHR, pharmacy, lab, and ADT data into one live record and put an AI copilot next to every team that depends on it: quality, pharmacy, care management, provider network, and risk adjustment. The copilots don't just surface insights. They do the work, from engaging members for preventative care using multi-channel communications to preparing provider field reps with everything they need before they walk in the door. So teams spend time on relationships, not admin.",
     "one_liner": "Transforming healthcare operations with AI agents",
     "team_size": 5,
     "industry": "Healthcare",
@@ -54369,17 +54341,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9eb3892f113b924e1c5b9bdf6d120ba559a45ff.png",
     "website": "https://proliferate.com?utm_source=yc&utm_medium=referral&utm_campaign=profile",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Manage a fleet of agents locally or in the cloud. 100% open source and free to use. Built to help you do your life's work.",
-    "one_liner": "Manage a team of agents from your desktop",
+    "long_description": "We're a dense, small team in SF building the open source platform for working with agents.",
+    "one_liner": "Do your life's work with agents",
     "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1749673205,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -58729,7 +58701,7 @@
       "Clicks"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ba947944afd3b1dfe85a7f3891e69a0b39e5fe9.png",
-    "website": "https://clickshealth.com/",
+    "website": "https://www.goclicks.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Clicks Health builds AI agents that automate back-office operations for RCM companies and healthcare providers. Our agents work across EHRs, payer portals, desktop applications, and legacy systems, following existing processes, handling exceptions, and escalating when human judgment is needed. Backed by Y Combinator, Clicks helps teams improve accuracy, shorten turnaround times, and reduce operating costs, with SOC 2 Type II and HIPAA compliance built in.",
     "one_liner": "AI agents for your healthcare back-office operations.",
@@ -58738,10 +58710,10 @@
     "subindustry": "B2B -> Productivity",
     "launched_at": 1759173987,
     "tags": [
+      "Artificial Intelligence",
       "Health Tech",
       "Healthcare",
-      "Health Insurance",
-      "AI"
+      "Health Insurance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -59257,7 +59229,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Ruma Care automates all admin work for infusion clinics - starting with prior authorizations & copay assistance enrollment.\r\n\r\nBiologics are expensive medications that cost $80-$150K+ per year per patient, and often need to be administered in specific settings called infusion clinics. Medical providers buy these drugs up front to secure pricing deals and safer inventory - they are reimbursed for the cost of the medications through the patients’ insurance. \r\n\r\nCurrent medical workflows aren't built for infusion clinics. Inventory, storage, transport, and billing is still managed through paper and excel spreadsheets. And because they’re so expensive, these specialty medications are denied by insurers at a rate of 37% each year. When they are denied, when workflows fail, or patients are infused before paperwork is cleared, providers don’t get reimbursed for the medication and are left covering the costs. Ruma Care solves this so clinics get paid, patients get treated faster, and care teams spend less time fighting forms. \r\n\r\nWe do this in three ways: \r\n1. For each medication, diagnosis, and insurance combination, Ruma extracts the submission criteria required to get the drug approved by insurers. \r\n2. We pull out the correct forms, then automate the form-filling for prior authorizations. \r\n3. Lastly, we enroll patients in copay assistance programs, all in one workflow and platform. \r\n\r\nWe turn a process that traditionally spans 70+ online portals, disparate paper forms, and manual phone calling into a single, streamlined platform. As we process prior authorizations, our models learn from denial patterns to understand exactly what insurers need to see to get a prior authorization approved. ",
     "one_liner": "The operations stack for biologic infusion clinics",
-    "team_size": 2,
+    "team_size": 5,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1769561054,
@@ -59996,12 +59968,13 @@
   },
   {
     "id": 31174,
-    "name": "Parameter (fka Hex Security)",
-    "slug": "parameter-fka-hex-security",
+    "name": "Parameter",
+    "slug": "parameter",
     "former_names": [
       "Anytool",
       "Hex Security",
-      "Parameter"
+      "Parameter",
+      "Parameter (fka Hex Security)"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/10c4b553697048031ea44635278f71a342e7f4dc.png",
     "website": "https://parameter.ai?utm_source=ycombinator&utm_medium=referral&utm_campaign=parameter-profile",
@@ -60032,8 +60005,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/parameter-fka-hex-security",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/parameter-fka-hex-security.json"
+    "url": "https://www.ycombinator.com/companies/parameter",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/parameter.json"
   },
   {
     "id": 31176,
@@ -63630,6 +63603,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/locke",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/locke.json"
+  },
+  {
+    "id": 33344,
+    "name": "Dawn Industries",
+    "slug": "dawn-industries",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be237324cf82c0125a34763f99ffb0cf35ca384d.png",
+    "website": "https://www.dawnxr.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "VIM connects to the entire cell: PLCs, robots, CNC machines, sensors. When a cell faults, VIM finds the cause, stages the fix, and the operator approves with one click. When a part drifts, VIM catches it seconds after the cut, inside the machine, and recommends the correction. Recovery drops from 30 minutes to under two, saving more than $15,000 per fault in large factories.",
+    "one_liner": "Automatic Diagnosis & Fix for Industrial Automation Cells",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1786150873,
+    "tags": [
+      "Artificial Intelligence"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dawn-industries",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/dawn-industries.json"
   },
   {
     "id": 33838,

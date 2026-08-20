@@ -1500,7 +1500,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Ruma Care automates all admin work for infusion clinics - starting with prior authorizations & copay assistance enrollment.\r\n\r\nBiologics are expensive medications that cost $80-$150K+ per year per patient, and often need to be administered in specific settings called infusion clinics. Medical providers buy these drugs up front to secure pricing deals and safer inventory - they are reimbursed for the cost of the medications through the patients’ insurance. \r\n\r\nCurrent medical workflows aren't built for infusion clinics. Inventory, storage, transport, and billing is still managed through paper and excel spreadsheets. And because they’re so expensive, these specialty medications are denied by insurers at a rate of 37% each year. When they are denied, when workflows fail, or patients are infused before paperwork is cleared, providers don’t get reimbursed for the medication and are left covering the costs. Ruma Care solves this so clinics get paid, patients get treated faster, and care teams spend less time fighting forms. \r\n\r\nWe do this in three ways: \r\n1. For each medication, diagnosis, and insurance combination, Ruma extracts the submission criteria required to get the drug approved by insurers. \r\n2. We pull out the correct forms, then automate the form-filling for prior authorizations. \r\n3. Lastly, we enroll patients in copay assistance programs, all in one workflow and platform. \r\n\r\nWe turn a process that traditionally spans 70+ online portals, disparate paper forms, and manual phone calling into a single, streamlined platform. As we process prior authorizations, our models learn from denial patterns to understand exactly what insurers need to see to get a prior authorization approved. ",
     "one_liner": "The operations stack for biologic infusion clinics",
-    "team_size": 2,
+    "team_size": 5,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1769561054,
@@ -4279,12 +4279,13 @@
   },
   {
     "id": 31174,
-    "name": "Parameter (fka Hex Security)",
-    "slug": "parameter-fka-hex-security",
+    "name": "Parameter",
+    "slug": "parameter",
     "former_names": [
       "Anytool",
       "Hex Security",
-      "Parameter"
+      "Parameter",
+      "Parameter (fka Hex Security)"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/10c4b553697048031ea44635278f71a342e7f4dc.png",
     "website": "https://parameter.ai?utm_source=ycombinator&utm_medium=referral&utm_campaign=parameter-profile",
@@ -4315,8 +4316,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/parameter-fka-hex-security",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/parameter-fka-hex-security.json"
+    "url": "https://www.ycombinator.com/companies/parameter",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/parameter.json"
   },
   {
     "id": 31175,
@@ -6993,7 +6994,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b23ce152528185e61986e56941165e5686edcb24.png",
     "website": "https://www.khotan.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Khotan is the platform for embedded forward-deployed engineers to rebuild critical operations as software and maintain them. It combines business context with the infrastructure agent harnesses need to deploy, share, and maintain each application.\r\n\r\nAcross procurement, supply chain, finance, and operations, we’ve rebuilt the workflows businesses cannot afford to get wrong, from procurement to back office operations.\r\n\r\nLearn more at khotan.com",
+    "long_description": "Khotan is the platform for forward-deployed engineers to rebuild operations as software and maintain them. It combines your context with the infrastructure harnesses need to deploy, share, and maintain each application.\r\n\r\nAcross procurement, supply chain, finance, and operations, we’ve rebuilt the systems businesses cannot afford to get wrong.\r\n\r\nLearn more at khotan.com",
     "one_liner": "FDE as a platform for rebuilding critical operations in software.",
     "team_size": 2,
     "industry": "B2B",

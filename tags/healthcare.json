@@ -670,7 +670,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -6440,7 +6440,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -8521,7 +8521,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/01b4aaee846929d39e6331c0fdbf8fdf6ea08da6.png",
     "website": "https://www.pelica.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pelica is the AI-native operating system for value-based care organizations. We unify claims, EHR, pharmacy, lab, and ADT data into one live record and put an AI copilot next to every team that depends on it: quality/Stars, pharmacy, care management, provider network, and risk adjustment. The copilots don't just surface insights. They do the work, from engaging members for preventative care using multi-channel communications to preparing provider field reps with everything they need before they walk in the door. So teams spend time on relationships, not admin.",
+    "long_description": "Pelica is the AI-native operating system for modern care teams. We unify claims, EHR, pharmacy, lab, and ADT data into one live record and put an AI copilot next to every team that depends on it: quality, pharmacy, care management, provider network, and risk adjustment. The copilots don't just surface insights. They do the work, from engaging members for preventative care using multi-channel communications to preparing provider field reps with everything they need before they walk in the door. So teams spend time on relationships, not admin.",
     "one_liner": "Transforming healthcare operations with AI agents",
     "team_size": 5,
     "industry": "Healthcare",
@@ -8815,7 +8815,7 @@
       "Clicks"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ba947944afd3b1dfe85a7f3891e69a0b39e5fe9.png",
-    "website": "https://clickshealth.com/",
+    "website": "https://www.goclicks.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Clicks Health builds AI agents that automate back-office operations for RCM companies and healthcare providers. Our agents work across EHRs, payer portals, desktop applications, and legacy systems, following existing processes, handling exceptions, and escalating when human judgment is needed. Backed by Y Combinator, Clicks helps teams improve accuracy, shorten turnaround times, and reduce operating costs, with SOC 2 Type II and HIPAA compliance built in.",
     "one_liner": "AI agents for your healthcare back-office operations.",
@@ -8824,10 +8824,10 @@
     "subindustry": "B2B -> Productivity",
     "launched_at": 1759173987,
     "tags": [
+      "Artificial Intelligence",
       "Health Tech",
       "Healthcare",
-      "Health Insurance",
-      "AI"
+      "Health Insurance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -9272,5 +9272,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/avoca-systems",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/avoca-systems.json"
+  },
+  {
+    "id": 33441,
+    "name": "Allia Health",
+    "slug": "allia-health",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d6f40f216c0da6b1f8b4caa594f59a5b194dd82.png",
+    "website": "https://allia.health/",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "Allia is the first AI-native clinical group for behavioral health. We bring hundreds of independent practices across all 50 states into one national group that can deliver, measure, and improve care at scale.\r\n\r\nNearly 1,000 therapy and psychiatry practices already run on our free platform, supporting >300,000 patients and nearly 1 million monthly visits. That's our wedge. We activate high-performing practices into our medical group, which now spans ~600 providers and ~70 sites, in-person in 32 states and telehealth in all 50 — with signed contracts with the country's largest health insurance payers.\r\n\r\nBehavioral health is the largest part of healthcare no one has organized: unmeasured, buried in admin, and fragmented across tiny practices. Being one clinically integrated group, powered by a single-instance OS (EHR, CRM, and RCM in one), is what makes care measurable, accountable, and coordinated — efficiently and at scale.",
+    "one_liner": "Clinically Integrated Group for Mental Health ",
+    "team_size": 3,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare Services",
+    "launched_at": 1787168275,
+    "tags": [
+      "Healthcare",
+      "Mental Health",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare Services"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/allia-health",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/allia-health.json"
   }
 ]

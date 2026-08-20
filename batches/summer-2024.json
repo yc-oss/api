@@ -2170,7 +2170,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -4614,22 +4614,24 @@
   },
   {
     "id": 29719,
-    "name": "Manaflow",
-    "slug": "manaflow",
-    "former_names": [],
+    "name": "cmux",
+    "slug": "cmux",
+    "former_names": [
+      "Manaflow"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f240894ee1866a817f8d66f9ed82314520294cbf.png",
     "website": "https://www.cmux.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Manaflow is an open-source applied AI lab building AI dev tools. We're the creators of cmux, the open source terminal for coding agents.",
+    "long_description": "An open source native macOS terminal built on Ghostty. Vertical tabs, notification rings when agents need attention, split panes, and a CLI for programmability.",
     "one_liner": "Open source applied AI lab building next-gen devtools",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1715992295,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Open Source"
+      "Open Source",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4649,8 +4651,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/manaflow",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/manaflow.json"
+    "url": "https://www.ycombinator.com/companies/cmux",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/cmux.json"
   },
   {
     "id": 29721,
@@ -6120,14 +6122,20 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a8b12b6d63b7ef88542a88cfd73009aa6a48073f.png",
     "website": "https://zeit-ai.com/",
-    "all_locations": "",
-    "long_description": "Zeit AI transforms your data bases and systems so that they can be queried using natural language. For example, the financial consultancy RISE, which depends heavily on Excel, uses Zeit AI to access and analyze expenses across their organization.",
-    "one_liner": "From data to enterprise insights in just a few words.",
-    "team_size": 9,
+    "all_locations": "Munich, BY, Germany",
+    "long_description": "Ask a question in plain English and ZeitMind connects SAP, your ERP, CRM, HR systems and 600+ other sources, prepares the messy data, and turns it into the live applications your teams actually make decisions with.\r\n\r\nIt is built for the finance, controlling, procurement, supply chain and sales teams at companies that run enterprise systems without an enterprise data team.",
+    "one_liner": "The autonomous data engineer for the mid-market",
+    "team_size": 12,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1722311835,
-    "tags": [],
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Analytics",
+      "Data Engineering",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -6139,6 +6147,8 @@
       "Analytics"
     ],
     "regions": [
+      "Germany",
+      "Europe",
       "Remote",
       "Partly Remote"
     ],
@@ -6146,7 +6156,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": true,
+    "question_answers": false,
     "url": "https://www.ycombinator.com/companies/zeit-ai",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/zeit-ai.json"
   },
@@ -6247,7 +6257,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Thunder Compute is a systems research lab with commercial focus. We productionize GPU virtualization research to provide step-change improvements in utilization to our cloud offering and partner GPU fleets.",
     "one_liner": "VMware for GPUs",
-    "team_size": 7,
+    "team_size": 9,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1723245936,
@@ -6668,7 +6678,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/133daa5976316fea8822213f5f71c6bc57c7cc88.png",
     "website": "https://praxos.ai",
-    "all_locations": "Miami, FL, USA; Remote",
+    "all_locations": "São Paulo, SP, Brazil; Remote",
     "long_description": "Messaging workspace for people and AI agents.",
     "one_liner": "Messaging workspace for people and AI agents",
     "team_size": 3,
@@ -6691,8 +6701,8 @@
       "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "Brazil",
+      "Latin America",
       "Remote",
       "Fully Remote"
     ],

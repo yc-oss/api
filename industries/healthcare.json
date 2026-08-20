@@ -19807,9 +19807,9 @@
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1643107083,
     "tags": [
+      "Artificial Intelligence",
       "Data Science",
-      "Healthcare IT",
-      "AI"
+      "Healthcare IT"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -22616,7 +22616,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -26705,7 +26705,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/01b4aaee846929d39e6331c0fdbf8fdf6ea08da6.png",
     "website": "https://www.pelica.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pelica is the AI-native operating system for value-based care organizations. We unify claims, EHR, pharmacy, lab, and ADT data into one live record and put an AI copilot next to every team that depends on it: quality/Stars, pharmacy, care management, provider network, and risk adjustment. The copilots don't just surface insights. They do the work, from engaging members for preventative care using multi-channel communications to preparing provider field reps with everything they need before they walk in the door. So teams spend time on relationships, not admin.",
+    "long_description": "Pelica is the AI-native operating system for modern care teams. We unify claims, EHR, pharmacy, lab, and ADT data into one live record and put an AI copilot next to every team that depends on it: quality, pharmacy, care management, provider network, and risk adjustment. The copilots don't just surface insights. They do the work, from engaging members for preventative care using multi-channel communications to preparing provider field reps with everything they need before they walk in the door. So teams spend time on relationships, not admin.",
     "one_liner": "Transforming healthcare operations with AI agents",
     "team_size": 5,
     "industry": "Healthcare",
@@ -28056,7 +28056,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Ruma Care automates all admin work for infusion clinics - starting with prior authorizations & copay assistance enrollment.\r\n\r\nBiologics are expensive medications that cost $80-$150K+ per year per patient, and often need to be administered in specific settings called infusion clinics. Medical providers buy these drugs up front to secure pricing deals and safer inventory - they are reimbursed for the cost of the medications through the patients’ insurance. \r\n\r\nCurrent medical workflows aren't built for infusion clinics. Inventory, storage, transport, and billing is still managed through paper and excel spreadsheets. And because they’re so expensive, these specialty medications are denied by insurers at a rate of 37% each year. When they are denied, when workflows fail, or patients are infused before paperwork is cleared, providers don’t get reimbursed for the medication and are left covering the costs. Ruma Care solves this so clinics get paid, patients get treated faster, and care teams spend less time fighting forms. \r\n\r\nWe do this in three ways: \r\n1. For each medication, diagnosis, and insurance combination, Ruma extracts the submission criteria required to get the drug approved by insurers. \r\n2. We pull out the correct forms, then automate the form-filling for prior authorizations. \r\n3. Lastly, we enroll patients in copay assistance programs, all in one workflow and platform. \r\n\r\nWe turn a process that traditionally spans 70+ online portals, disparate paper forms, and manual phone calling into a single, streamlined platform. As we process prior authorizations, our models learn from denial patterns to understand exactly what insurers need to see to get a prior authorization approved. ",
     "one_liner": "The operations stack for biologic infusion clinics",
-    "team_size": 2,
+    "team_size": 5,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1769561054,
@@ -29885,5 +29885,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/avoca-systems",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/avoca-systems.json"
+  },
+  {
+    "id": 33441,
+    "name": "Allia Health",
+    "slug": "allia-health",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d6f40f216c0da6b1f8b4caa594f59a5b194dd82.png",
+    "website": "https://allia.health/",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "Allia is the first AI-native clinical group for behavioral health. We bring hundreds of independent practices across all 50 states into one national group that can deliver, measure, and improve care at scale.\r\n\r\nNearly 1,000 therapy and psychiatry practices already run on our free platform, supporting >300,000 patients and nearly 1 million monthly visits. That's our wedge. We activate high-performing practices into our medical group, which now spans ~600 providers and ~70 sites, in-person in 32 states and telehealth in all 50 — with signed contracts with the country's largest health insurance payers.\r\n\r\nBehavioral health is the largest part of healthcare no one has organized: unmeasured, buried in admin, and fragmented across tiny practices. Being one clinically integrated group, powered by a single-instance OS (EHR, CRM, and RCM in one), is what makes care measurable, accountable, and coordinated — efficiently and at scale.",
+    "one_liner": "Clinically Integrated Group for Mental Health ",
+    "team_size": 3,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare Services",
+    "launched_at": 1787168275,
+    "tags": [
+      "Healthcare",
+      "Mental Health",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare Services"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/allia-health",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/allia-health.json"
   }
 ]

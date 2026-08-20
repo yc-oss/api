@@ -6150,22 +6150,24 @@
   },
   {
     "id": 29719,
-    "name": "Manaflow",
-    "slug": "manaflow",
-    "former_names": [],
+    "name": "cmux",
+    "slug": "cmux",
+    "former_names": [
+      "Manaflow"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f240894ee1866a817f8d66f9ed82314520294cbf.png",
     "website": "https://www.cmux.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Manaflow is an open-source applied AI lab building AI dev tools. We're the creators of cmux, the open source terminal for coding agents.",
+    "long_description": "An open source native macOS terminal built on Ghostty. Vertical tabs, notification rings when agents need attention, split panes, and a CLI for programmability.",
     "one_liner": "Open source applied AI lab building next-gen devtools",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1715992295,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Open Source"
+      "Open Source",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6185,8 +6187,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/manaflow",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/manaflow.json"
+    "url": "https://www.ycombinator.com/companies/cmux",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/cmux.json"
   },
   {
     "id": 29751,
@@ -7350,7 +7352,7 @@
     "website": "https://understudylabs.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Understudy is an inference cloud. We capture your AI work traces, train smaller models, and automatically deploy them (only when they outperform the expensive model you are currently paying for).\r\n\r\nInstead of renting the same frontier model forever, your AI infrastructure gets faster, smarter, and cheaper every time it runs.\r\n\r\nSuppose your product uses Claude for a repetitive legal workflow.\r\n\r\nUnderstudy observes successful production runs, learns the specific tools and judgment required for that workflow, and trains a specialized open-weight model.\r\n\r\nOnce that model matches or beats Claude on a held-out evaluation, Understudy starts routing production traffic to it.\r\n\r\nAs more work is completed, the model keeps improving.\r\n\r\nWe started Understudy because we believe every company using AI should be accumulating intelligence, not accumulating API bills.",
-    "one_liner": "Effortlessly move to open weight models",
+    "one_liner": "Self-optimizing neocloud that cuts LLM bills by 80%",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",

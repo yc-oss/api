@@ -24645,7 +24645,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Stardex is an AI native ATS and CRM executive firms and professional recruiting firms. We are AI first designed specifically for modern recruiting firms. It has a powerful client collaboration feature that helps you execute searches faster with clients. It also streamlines your searches by automating repetitive tasks, allowing you to dedicate more time to building meaningful relationships.﻿",
     "one_liner": "AI native ATS + CRM for executive search firms",
-    "team_size": 5,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1627928818,
@@ -30437,7 +30437,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -42742,6 +42742,53 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/remade.json"
   },
   {
+    "id": 29764,
+    "name": "Zeit AI",
+    "slug": "zeit-ai",
+    "former_names": [
+      "Cascada AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a8b12b6d63b7ef88542a88cfd73009aa6a48073f.png",
+    "website": "https://zeit-ai.com/",
+    "all_locations": "Munich, BY, Germany",
+    "long_description": "Ask a question in plain English and ZeitMind connects SAP, your ERP, CRM, HR systems and 600+ other sources, prepares the messy data, and turns it into the live applications your teams actually make decisions with.\r\n\r\nIt is built for the finance, controlling, procurement, supply chain and sales teams at companies that run enterprise systems without an enterprise data team.",
+    "one_liner": "The autonomous data engineer for the mid-market",
+    "team_size": 12,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1722311835,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Analytics",
+      "Data Engineering",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "Germany",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zeit-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/zeit-ai.json"
+  },
+  {
     "id": 29772,
     "name": "Parley",
     "slug": "parley",
@@ -46153,17 +46200,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9eb3892f113b924e1c5b9bdf6d120ba559a45ff.png",
     "website": "https://proliferate.com?utm_source=yc&utm_medium=referral&utm_campaign=profile",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Manage a fleet of agents locally or in the cloud. 100% open source and free to use. Built to help you do your life's work.",
-    "one_liner": "Manage a team of agents from your desktop",
+    "long_description": "We're a dense, small team in SF building the open source platform for working with agents.",
+    "one_liner": "Do your life's work with agents",
     "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1749673205,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47104,8 +47151,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f65a9129ea781a8d18fe1dc455b98be2430643a6.png",
     "website": "https://withspecific.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Specific builds enterprise datasets representative of work inside real-world businesses. The next frontier of AGI is bottlenecked by data that is hard to access, and we make that easier.",
-    "one_liner": "Enterprise Coding Data for AI",
+    "long_description": "Specific builds enterprise environments and datasets representative of work inside real-world businesses. The next frontier of AGI is bottlenecked by data that is hard to access, and we make that easier.",
+    "one_liner": "Real World Environments and Data for AI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -47321,15 +47368,15 @@
     "website": "https://www.assemble.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Assemble accelerates IT teams by performing development work inside core enterprise systems like ERP, CRM, and HRIS. Our agents help IT teams scope dependencies, build logic, and validate changes across your systems.",
-    "one_liner": "Agents for Enterprise IT",
+    "one_liner": "AI Coworkers for IT teams",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1783894724,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47440,16 +47487,17 @@
   },
   {
     "id": 31327,
-    "name": "afterfive",
-    "slug": "afterfive",
+    "name": "Korso",
+    "slug": "korso",
     "former_names": [
-      "Korso"
+      "Korso",
+      "afterfive"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ffe4f023354ca9c8b2f9a3ebb3669cf29726f1d.png",
-    "website": "https://afterfive.club/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd03c9be7cf358b8834377c00d3855af56d7f064.png",
+    "website": "https://korsoai.com/",
     "all_locations": "Irvine, CA, USA",
     "long_description": "As the nature of work and society continually make it harder for the younger generation to make lasting connections, afterfive is building offline events, and eventually spaces, for irl human interaction.",
-    "one_liner": "Life starts after five.",
+    "one_liner": "The AI-native agency",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -47477,8 +47525,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/afterfive",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/afterfive.json"
+    "url": "https://www.ycombinator.com/companies/korso",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/korso.json"
   },
   {
     "id": 31352,
