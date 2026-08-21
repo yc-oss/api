@@ -4639,51 +4639,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/crosslayer-labs.json"
   },
   {
-    "id": 31074,
-    "name": "TrustAI",
-    "slug": "trustai",
-    "former_names": [
-      "EvalAI",
-      "TrustAI Labs"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/882660c8a18b052eaabe5a10460a291038b111a7.png",
-    "website": "https://trytrust.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "TrustAI provides governance for agents that interact with critical systems. We run evals across six domains: Data Privacy, Hallucinations, Permission Compliance, Robustness at Scale, Accountability, and Security. Through comprehensive pentests, we identify key vulnerabilities, suggest solutions, and analyze cost vs time efficiency. ",
-    "one_liner": "Continuous compliance and governance for agents on sensitive systems",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1783378352,
-    "tags": [
-      "B2B",
-      "Compliance",
-      "Security",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/trustai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/trustai.json"
-  },
-  {
     "id": 31094,
     "name": "Lexius",
     "slug": "lexius",
@@ -5005,7 +4960,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c60d9cd12e8c1b315e07ee45555c24b5f74d5654.png",
     "website": "https://nebusec.ai",
-    "all_locations": "Vancouver, WA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Nebula Security is founded by the world’s #1 hacking team.\r\n\r\nWe were the first team to build an nginx RCE and the first to root Android 17. Our co-founders include members of the world’s No. 1 CTF team, DEF CON winners, Black Hat speakers, and PhD in cybersecurity. We have won $400K in bug bounties by exploiting the Linux kernel and Chrome browser.\r\n\r\n“Audited by Nebula Security” is a mark of serious security credibility: a signal to customers, investors, and partners that your product has been reviewed by the world’s best hackers.",
     "one_liner": "Building Mythos for everyone",
     "team_size": 4,
@@ -5013,11 +4968,11 @@
     "subindustry": "B2B -> Security",
     "launched_at": 1783007241,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Security",
       "Cybersecurity",
-      "Enterprise"
+      "Enterprise",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5224,18 +5179,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0405005492b7122ac5f4784e260fc64d7bd99053.png",
     "website": "https://onecli.sh",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "OneCLI is a credential isolation gateway for AI agents. Agents see placeholder tokens instead of real API keys and OAuth credentials, the real secrets are injected at the network layer, so a compromised or misbehaving agent can never leak them. \r\n\r\nTeams get per-agent access control, full audit logs, and one-click integrations with Gmail, GitHub, Jira, Slack, and 50+ other apps. OneCLI is open source (2.5K+ GitHub stars, 300K+ downloads), Already the default credential layer for products like NanoClaw.",
-    "one_liner": "The Identity Gateway for AI Agents",
+    "long_description": "OneCLI is an open source agent harness for teams. Each employee gets their own sandboxed pro assistant agent, connected to their GitHub, Gmail, Notion, Dropbox, or CRM right from the chat/Slack, while the whole workspace runs under one policy your admins control.\r\n\r\nAgents never hold real secrets: the credential is injected at the network layer, per request, after the call is authorized. You can't steal what isn't there.",
+    "one_liner": "Give every employee a secured, sandboxed pro assistant agent",
     "team_size": 0,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1783888956,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Security",
       "Open Source",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

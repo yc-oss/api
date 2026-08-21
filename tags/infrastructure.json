@@ -4423,6 +4423,51 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/amika.json"
   },
   {
+    "id": 31074,
+    "name": "TrustAI",
+    "slug": "trustai",
+    "former_names": [
+      "EvalAI",
+      "TrustAI Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/882660c8a18b052eaabe5a10460a291038b111a7.png",
+    "website": "https://trytrust.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Inference has surpassed training as AI’s largest compute cost, accelerated by increasing demand for AI and agents. By using proprietary KV cache transfer tech, TrustAI has cut inference costs by 20% and time by 40% compared to present standards.",
+    "one_liner": "The cheapest, fastest lightweight inference. ",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1783378352,
+    "tags": [
+      "Artificial Intelligence",
+      "Smart Packaging",
+      "Open Source",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/trustai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/trustai.json"
+  },
+  {
     "id": 31114,
     "name": "Piris Labs",
     "slug": "pirislabs",
@@ -4607,17 +4652,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d5457b412312bd26ecc72ccead99d16248cd087a.png",
     "website": "https://www.archal.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Modern AI agents can send emails, change code repos, and talk with external APIs. Archal verifies your agent takes the right actions, and opens a fix PR when it doesn't.",
-    "one_liner": "The improvement loop for AI agents",
+    "long_description": "Test API integrations without test accounts, rate limits, or dirty state.",
+    "one_liner": "API sandboxes, built for AI agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1776709029,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "API",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4911,8 +4956,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eec883dcf84a87963c1d7874cef470c16c9dad19.png",
     "website": "https://www.shieldedglobal.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Shielded is like wearing a Fitbit for your company's financial and supply chain health. \r\n\r\nWe unify your internal ERP and data systems with external information sources, map how external prices and events flow through to your margins, and continuously track it all. \r\n\r\nThat means opportunities and risks are flagged to you proactively, without the need to dig through and manually aggregate data. ",
-    "one_liner": "We automate supply chain and financial risk management ",
+    "long_description": "Shielded connects companies’ internal and external data to map market shifts, tariffs, and disruptions directly to suppliers, products, and margins. We turn those impacts into real-time decisions that grow and protect the business. ",
+    "one_liner": "Decision intelligence for the world’s largest supply chains",
     "team_size": 0,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
@@ -5466,18 +5511,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0405005492b7122ac5f4784e260fc64d7bd99053.png",
     "website": "https://onecli.sh",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "OneCLI is a credential isolation gateway for AI agents. Agents see placeholder tokens instead of real API keys and OAuth credentials, the real secrets are injected at the network layer, so a compromised or misbehaving agent can never leak them. \r\n\r\nTeams get per-agent access control, full audit logs, and one-click integrations with Gmail, GitHub, Jira, Slack, and 50+ other apps. OneCLI is open source (2.5K+ GitHub stars, 300K+ downloads), Already the default credential layer for products like NanoClaw.",
-    "one_liner": "The Identity Gateway for AI Agents",
+    "long_description": "OneCLI is an open source agent harness for teams. Each employee gets their own sandboxed pro assistant agent, connected to their GitHub, Gmail, Notion, Dropbox, or CRM right from the chat/Slack, while the whole workspace runs under one policy your admins control.\r\n\r\nAgents never hold real secrets: the credential is injected at the network layer, per request, after the call is authorized. You can't steal what isn't there.",
+    "one_liner": "Give every employee a secured, sandboxed pro assistant agent",
     "team_size": 0,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1783888956,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Security",
       "Open Source",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

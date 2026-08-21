@@ -6,18 +6,18 @@
   "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0405005492b7122ac5f4784e260fc64d7bd99053.png",
   "website": "https://onecli.sh",
   "all_locations": "San Francisco, CA, USA",
-  "long_description": "OneCLI is a credential isolation gateway for AI agents. Agents see placeholder tokens instead of real API keys and OAuth credentials, the real secrets are injected at the network layer, so a compromised or misbehaving agent can never leak them. \r\n\r\nTeams get per-agent access control, full audit logs, and one-click integrations with Gmail, GitHub, Jira, Slack, and 50+ other apps. OneCLI is open source (2.5K+ GitHub stars, 300K+ downloads), Already the default credential layer for products like NanoClaw.",
-  "one_liner": "The Identity Gateway for AI Agents",
+  "long_description": "OneCLI is an open source agent harness for teams. Each employee gets their own sandboxed pro assistant agent, connected to their GitHub, Gmail, Notion, Dropbox, or CRM right from the chat/Slack, while the whole workspace runs under one policy your admins control.\r\n\r\nAgents never hold real secrets: the credential is injected at the network layer, per request, after the call is authorized. You can't steal what isn't there.",
+  "one_liner": "Give every employee a secured, sandboxed pro assistant agent",
   "team_size": 0,
   "industry": "B2B",
   "subindustry": "B2B -> Security",
   "launched_at": 1783888956,
   "tags": [
-    "Artificial Intelligence",
     "B2B",
     "Security",
     "Open Source",
-    "Infrastructure"
+    "Infrastructure",
+    "AI"
   ],
   "tags_highlighted": [],
   "top_company": false,

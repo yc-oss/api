@@ -11118,6 +11118,51 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/mantis.json"
   },
   {
+    "id": 31074,
+    "name": "TrustAI",
+    "slug": "trustai",
+    "former_names": [
+      "EvalAI",
+      "TrustAI Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/882660c8a18b052eaabe5a10460a291038b111a7.png",
+    "website": "https://trytrust.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Inference has surpassed training as AI’s largest compute cost, accelerated by increasing demand for AI and agents. By using proprietary KV cache transfer tech, TrustAI has cut inference costs by 20% and time by 40% compared to present standards.",
+    "one_liner": "The cheapest, fastest lightweight inference. ",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1783378352,
+    "tags": [
+      "Artificial Intelligence",
+      "Smart Packaging",
+      "Open Source",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/trustai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/trustai.json"
+  },
+  {
     "id": 31080,
     "name": "Didit",
     "slug": "didit",
@@ -11725,17 +11770,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d5457b412312bd26ecc72ccead99d16248cd087a.png",
     "website": "https://www.archal.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Modern AI agents can send emails, change code repos, and talk with external APIs. Archal verifies your agent takes the right actions, and opens a fix PR when it doesn't.",
-    "one_liner": "The improvement loop for AI agents",
+    "long_description": "Test API integrations without test accounts, rate limits, or dirty state.",
+    "one_liner": "API sandboxes, built for AI agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1776709029,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "API",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

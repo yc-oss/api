@@ -1960,7 +1960,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/00eb0a0f3a1d2e114523331a618501c6336a1b3f.png",
     "website": "https://janet.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Janet AI lets anyone on your team spin up 24/7 agents that reliably handle workflows across your existing tool stack around the clock. No migrations, no code, no API keys, no technical lift.\r\n\r\nFew clicks to authenticate your tools (Slack, Granola, Google Drive, Notion, X, Salesforce, Linear, etc.) → describe the workflow in plain English → done in under 5 minutes. Get started for free today at janet.ai!\r\n\r\nUnder the hood, Janet runs on custom orchestration and memory infrastructure we built for 24/7 agent operation. It does the job the same way every run, and it continuously builds a map of your company from everything it sees and your feedback, so it gets better every week.\r\n\r\nJanet AI is backed by Y Combinator, Formosa Capital, Paul Graham, Charles Ferguson, and others.",
+    "long_description": "Janet AI lets anyone on your team spin up 24/7 agents that reliably handle workflows across your existing tool stack around the clock. No migrations, no code, no API keys, no technical lift.\r\n\r\nUnder the hood, Janet runs on custom orchestration and memory infrastructure we built for 24/7 agent operation. It does the job the same way every run, and continuously learns a map of your company from everything it sees happening in your tools plus your feedback.\r\n\r\nJanet AI is backed by Y Combinator, Formosa Capital, Paul Graham, Charles Ferguson, and others.\r\n\r\nGet started for free today at janet.ai!",
     "one_liner": "Agents that handle work 24/7 across the tools you already use",
     "team_size": 5,
     "industry": "B2B",
@@ -2958,22 +2958,23 @@
   },
   {
     "id": 30681,
-    "name": "Parachute",
-    "slug": "parachute",
+    "name": "Conviction",
+    "slug": "conviction",
     "former_names": [
       "Parachute",
       "Parachute AI",
       "Parachute",
-      "Parachute AI"
+      "Parachute AI",
+      "Parachute"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ffdb102f014e8ce8401417ee051d9fbec55550e0.png",
-    "website": "https://parachute-ai.com",
-    "all_locations": "New York City, NY, USA",
-    "long_description": "",
-    "one_liner": "",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d77bd0a212f97907bcda7fd8ba18232fbfdb55b.png",
+    "website": "https://convictiontrade.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Conviction lets you create and discover trading ideas, then monitors the market and acts on them for you.\r\n\r\nStart with any idea you have - or discover one from traders you follow on X or Reddit - and turn it into a strategy in natural language. Backtest it, paper trade it, deploy it and share what you learn.",
+    "one_liner": "Anyone Can Trade",
     "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Consumer Finance",
     "launched_at": 1752533752,
     "tags": [],
     "tags_highlighted": [],
@@ -2983,8 +2984,8 @@
     "batch": "Summer 2025",
     "status": "Active",
     "industries": [
-      "Healthcare",
-      "Healthcare IT"
+      "Fintech",
+      "Consumer Finance"
     ],
     "regions": [
       "United States of America",
@@ -2995,8 +2996,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/parachute",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/parachute.json"
+    "url": "https://www.ycombinator.com/companies/conviction",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/conviction.json"
   },
   {
     "id": 30683,
@@ -4082,15 +4083,15 @@
     "all_locations": "Seoul, Seoul, South Korea",
     "long_description": "Char is a daily notepad that finishes your todos for you. Type a checkbox, and an agent picks it up — researching, drafting, or scheduling on your behalf. Stay in command. Char does the work.",
     "one_liner": "The AI notepad that knows and works for you",
-    "team_size": 4,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1755302445,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Productivity",
       "Open Source",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
