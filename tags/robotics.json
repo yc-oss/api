@@ -4672,18 +4672,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e588f98ac537da3d55ea3c2b43b0bd505524c7f8.png",
     "website": "https://www.librabots.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We build collaborative robot squads for solar farm construction.\r\n\r\nHigh labor costs, labor shortages, and unpredictable productivity make infrastructure difficult to build in places that are remote, harsh, or empty. We are building robots to unlock places once considered too difficult to develop. Solar farm is our first proving ground.\r\n\r\nUnlike solutions that automate only one task, or even part of one, we cover the workflow after PV module pallets arrive on-site: transportation, installation, alignment, and fastening. Each robot has a specific role, and fleets can be configured based on each project’s cost and schedule requirements.\r\n\r\nOur robots operate autonomously with remote supervision. One person can supervise 4+ robots through a screen and an e-stop button, without being physically present or teleoperating them. Our robotic fleet has also been tested at night, paving the way for 24/7 operation.\r\n\r\nWe work directly with EPCs through a Robotics-as-a-Service model, requiring no robot purchase or large upfront capital investment. We also work with racking and PV module manufacturers to certify compatibility and give customers confidence in deployment.\r\n\r\nPurpose-built hardware, multimodal sensing, and physical AI software help our robots handle real-world construction uncertainty.",
-    "one_liner": "Robot squads for solar farm construction",
+    "long_description": "We’re building collaborative robotic crews for large-scale infrastructure projects, including solar farms and data centers.\r\n\r\n002C: “002A, 5.3 mm left.”\r\n002B: “002A, you’re running low. Next pallet is on the way.”\r\n002C: “Am I clear to come in?”\r\n002A: “Aligned. Panel released. You’re clear.”\r\n002C: “Fastening.”\r\n002B: “Next load arriving now.”\r\n\r\nThis isn’t a human crew talking. It’s three robots building a utility-scale solar farm together. \r\n\r\nOur AI control system enables specialized robots to collaborate, learn reusable construction skills, like alignment, fastening, and manipulation, and transfer them across workflows, from solar farms to data centers. 🚧 🦺 ",
+    "one_liner": "Robotic crews for large-scale infrastructure construction",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1783647531,
     "tags": [
-      "Artificial Intelligence",
       "Hard Tech",
       "Robotics",
       "Construction",
-      "Energy"
+      "Energy",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5007,6 +5007,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/proprio-robotics",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/proprio-robotics.json"
+  },
+  {
+    "id": 31582,
+    "name": "Edgerun",
+    "slug": "edgerun",
+    "former_names": [
+      "Edgerun Industries"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8fb84bc8b7f8d02b776dec7685bbaf102fdadf1c.png",
+    "website": "https://edgerun.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Edgerun Industries builds military exoskeletons. Our hip-mounted system assists with every step a soldier takes under combat load, so they can travel farther, carry more, and arrive with more energy to fight.",
+    "one_liner": "Military exoskeletons",
+    "team_size": 8,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Defense",
+    "launched_at": 1787343759,
+    "tags": [
+      "Robotics",
+      "Defense"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/edgerun",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/edgerun.json"
   },
   {
     "id": 32156,
@@ -5393,8 +5435,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/470f3b57cd018aad9c127e64e5b952d32a64d435.png",
     "website": "https://www.neuromorphic.vision/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Neuromorphic is building an embodiment-agnostic “brain” that makes robots fast to deploy and easy to manage through natural interfaces like Slack, email, and phone. Our goal is to make deploying robots in wet labs and other physical industries as easy as onboarding a new employee.",
-    "one_liner": "Building embodiment agnostic robot brains.",
+    "long_description": "We are building robots that can work autonomously in existing wet labs. Unlike traditional lab automation, which requires dedicated equipment and fixed workflows, our robot moves between workstations, manipulates existing scientific equipment, transports lab materials, and executes experiments using the same lab infrastructure as a human technician. We make the robots easy to manage through natural interfaces like Slack, email, and phone. Our goal is to make deploying robots in wet labs as easy as onboarding a new employee.",
+    "one_liner": "Building robots to automate wetlabs",
     "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -5529,16 +5571,16 @@
     "all_locations": "London, England, United Kingdom",
     "long_description": "We mass-produce modular data centers that deploy on stalled infrastructure projects losing billions per week.\r\n\r\nDelayed infrastructure projects hemorrhage $1B a week in the US alone - Pacific mass-produces modular data centers that deploy on those sites in days and turn their unused power into revenue.\r\n\r\nData centers are stuck for years waiting for power, while delayed construction sites across the world sit on unused interconnects, losing billions of dollars per week in interest on trillions of dollars of debt. Our pods deploy on those sites and generate revenue for them in days. They use diamond wafers in the cooling system so pods run anywhere on earth, even a desert. \r\n\r\nWe'll use the same mechanisms we're building today to deploy compute across the galaxy.\r\n",
     "one_liner": "Mass-producing and financing micro data center incredibly quickly.",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials",
     "launched_at": 1786300632,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "Robotics",
       "Space Exploration",
-      "Manufacturing"
+      "Manufacturing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

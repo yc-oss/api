@@ -5609,7 +5609,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -7589,7 +7589,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -24898,7 +24898,7 @@
     "all_locations": "London, England, United Kingdom",
     "long_description": "QFEX is the 24/7 exchange for traditional financial markets.\r\n\r\nWe let you trade US equities, commodities and FX pairs with (or without) leverages of up to 100x. On QFEX, UX comes first: brokerless market access, seamless integration with traditional payment rails, and ultra-efficient Perpetual Futures offered over all asset classes. Trading has never been simpler, cheaper or fairer than with QFEX.\r\n\r\nFounded by Quants and Engineers from Citadel & Tower Research who saw an opportunity to make markets how they always should have been, QFEX will eventually replace the entire $100 billion exchange and clearing industry.",
     "one_liner": "24/7 Global Stock Exchange",
-    "team_size": 10,
+    "team_size": 14,
     "industry": "Fintech",
     "subindustry": "Fintech -> Banking and Exchange",
     "launched_at": 1747069734,
@@ -27370,12 +27370,12 @@
     "former_names": [
       "Solvva"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d28813053904611d6b5fc0391c683bdbe842a4ad.png",
-    "website": "https://www.getaudun.com/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e7da249d05c3b78e6493d6546cc70a78c450280f.png",
+    "website": "https://audun.co",
     "all_locations": "Oslo, Oslo, Norway",
     "long_description": "Audun automates debt collection.",
     "one_liner": "AI-native debt collection",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1786093910,
@@ -27540,16 +27540,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6bdf97a8fbe4a8a51a745ce366d9c6c2bfc6d75c.png",
     "website": "https://www.getqlo.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Qlo uses AI agents to run commercial underwriting operations from submission to renewal. Specialized agents handle each operational step, while supervisor agents coordinate the work and communicate with the underwriter.",
+    "long_description": "Qlo uses AI agents to run commercial underwriting operations from submission to renewal. Specialized agents handle each operational step, while supervisor agents coordinate the work and communicate with the underwriter.\r\n\r\nEvery commercial insurance program will be built and operated end to end by AI agents on Qlo.",
     "one_liner": "AI agents that run commercial underwriting",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1786080312,
     "tags": [
+      "Artificial Intelligence",
       "Insurance",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -27669,7 +27669,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8126dcec05004e9a335df14d0116cf4774a61b06.png",
     "website": "https://denta.insure",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Denta is dental insurance. As a full stack carrier, Denta makes insurance 25% cheaper by selling plans directly to employers and processing claims instantly with AI.\r\n\r\nDentistry is my dad's life's work. Over the past 20 years, he went from being a normal dentist to fully owning ten practices. During that time, he put me to work, first answering phones, then building software.\r\n\r\nWhile at Dartmouth, I sold the software to over 210 practices, but the problem felt small. The best software in the world couldn't protect the dentists I sold to or the patients whose calls I answered from the mounting pressure of insurance companies. Everyone knows how bad health insurance is, dental insurance is sadly the same.\r\n\r\nIn the US, dental insurers collect $100B per year in premiums, 25% of which goes to brokers, administrators, and outdated IT systems. Despite the $25B in spend, it still takes insurers three weeks to pay claims with paper checks that Denta can pay electronically in seconds.\r\n\r\nDenta will insure every American, sparing patients and dentists the $25B burden of dealing with legacy carriers.",
+    "long_description": "Denta is dental insurance. As a full stack carrier, Denta makes insurance 25% cheaper by selling plans directly to employers and processing claims instantly with AI.\r\n\r\nEveryone knows how bad health insurance is, dental insurance is worse. In healthcare, there is a law that insurance companies must spend 80% of premiums on patient care. In dental, where no such law exists, insurance companies spend as low as 60%.\r\n\r\nThe American dental insurance market is $100B/year. It is inevitable that Denta will insure every American and give that $40B back to employers, patients, and dentists.",
     "one_liner": "Dental Insurance",
     "team_size": 1,
     "industry": "Fintech",
@@ -27794,14 +27794,13 @@
     "website": "https://levocred.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Levocred builds and deploys AI agents inside credit funds, fintechs and banks to automate workflows like back-office tasks, portfolio monitoring, compliance and underwriting. Live across multiple lending teams, running ~$1Bn in receivables through the platform.",
-    "one_liner": "The AI analysts for lenders",
+    "one_liner": "The AI analyst for lenders",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1782022398,
     "tags": [
-      "Lending",
-      "Investments"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -27990,5 +27989,44 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/florin",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/florin.json"
+  },
+  {
+    "id": 36084,
+    "name": "Covera",
+    "slug": "covera",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e711e58f600a9ea3c53a45d934c825989e9b5b57.png",
+    "website": "https://www.covera-agents.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Covera builds AI agents for insurance brokers. Our ready-to-use agents take over the day-to-day servicing work: submission intake, carrier quoting, quote comparison, claims handling, past-due collections, and account rounding. That means brokers can spend their time advising and selling clients instead of doing data entry. We work with agencies of every size and connect natively to the tools they already use.",
+    "one_liner": "AI-native OS for insurance brokers",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1787324338,
+    "tags": [
+      "AIOps"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/covera",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/covera.json"
   }
 ]
