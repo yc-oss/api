@@ -8,7 +8,7 @@
   "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c5ba47505a760393e85b91acdb4b3933cf8df0a7.png",
   "website": "http://lamb-labs.com",
   "all_locations": "London, England, United Kingdom",
-  "long_description": "Lamb Labs is building custom chips for AI inference and the world's fastest LLM model at the lowest power. We've developed a new post-training technique that converts existing models to a diffusion-based architecture that delivers 2× faster inference on existing GPUs. We then build the hardware, custom silicon chips targeting up to 20,000+ tok/s and a 63× higher intelligence per watt.",
+  "long_description": "Lamb Labs is building MPUs (Model Processing Units), custom chips that hardcode LLM weights directly into the chip. Unlike GPUs, which move weights between memory and compute, MPUs keep the model on-chip, targeting up to 20,000+ tok/s and a 63× higher intelligence per watt.\r\n\r\n",
   "one_liner": "Lightning fast chips with hardcoded AI models",
   "team_size": 0,
   "industry": "B2B",
