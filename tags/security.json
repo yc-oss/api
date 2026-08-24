@@ -4024,16 +4024,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1cd2adb8270db80170ab62b4140817892372538a.png",
     "website": "https://www.conifer.build",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Conifer is one app that connects you to every AI model (local and cloud) and automatically routes each request to the cheapest model that accomplishes your goal. Most requests run free on your own hardware, so teams cut their AI bill by ~80% while replacing a dozen provider contracts with one interface and one invoice. For sensitive material like financials or user data, a secure mode pins everything on-device with no external API calls.",
-    "one_liner": "Local-first least cost routing system to reduce 80%+ token spend",
-    "team_size": 3,
+    "long_description": "There are thousands of models, providers, and harnesses, each with its own pricing and strengths, leaving an overwhelming number of choices when it comes to managing token spend and intelligence. Conifer uses intelligent routing and orchestration logic to handle the full path of each query: model selection, provider choice, and cache management. It all runs inside your existing harness, so tools like Claude Code and Codex work without changing your setup. By centralizing where inference occurs, Conifer lets companies save on their inference bill while leaving teams free to focus on what they are building.",
+    "one_liner": "Least cost routing system to reduce 80%+ token spend",
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1783524440,
     "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
       "B2B",
-      "Security",
-      "AI"
+      "Security"
     ],
     "tags_highlighted": [],
     "top_company": false,

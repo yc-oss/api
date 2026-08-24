@@ -18871,7 +18871,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -32158,7 +32158,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c87367cd52d809c0b9a6f05ef79f3c162b4dd082.png",
     "website": "https://physicalturing.ai/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "New York City, NY, USA",
     "long_description": "Physical Turing rolls out humanoids in the real world and captures failures for benchmarking and post-training.\r\n\r\nWe procure, staff, and operate a wide range of target environments for real-world rollouts, helping robot makers, model companies, and enterprises continuously evaluate where humanoids succeed, where they fail, and what needs to improve before each deployment.",
     "one_liner": "Evaluating humanoids in the real world",
     "team_size": 2,
@@ -32282,6 +32282,53 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/manufact.json"
   },
   {
+    "id": 30711,
+    "name": "Char",
+    "slug": "char",
+    "former_names": [
+      "Hyprnote"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aca02a57c5f38896120f1fe6767d1975b6a6b522.png",
+    "website": "https://char.com",
+    "all_locations": "Seoul, Seoul, South Korea",
+    "long_description": "Char is a daily notepad that finishes your todos for you. Type a checkbox, and an agent picks it up — researching, drafting, or scheduling on your behalf. Stay in command. Char does the work.",
+    "one_liner": "The AI notepad that knows and works for you",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1755302445,
+    "tags": [
+      "SaaS",
+      "Productivity",
+      "Open Source",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "South Korea",
+      "East Asia",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/char",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/char.json"
+  },
+  {
     "id": 30716,
     "name": "Finto",
     "slug": "finto-de",
@@ -32370,6 +32417,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/procindex",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/procindex.json"
+  },
+  {
+    "id": 30728,
+    "name": "OS3",
+    "slug": "os3",
+    "former_names": [
+      "Observee"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd88161755dbb4d7513a2dc91e69b26930313524.png",
+    "website": "https://os3robotics.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We are building robots, including custom actuators. Our first model is trained for the robot with 150k hours of video data. \r\n\r\nThe robot, a mobile semi-humanoid priced, is already signed for deployments in hospitality and biotech. Our developer version lets anyone deploy robots in their own verticals, and we already have preorders.\r\n\r\nWe are scaling American robotics while making it accessible to more businesses.",
+    "one_liner": "Full Stack Robotics: Deploying US-Built Robots & Video Action Models",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1753297896,
+    "tags": [
+      "Hardware",
+      "Robotics",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/os3",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/os3.json"
   },
   {
     "id": 30729,
@@ -35433,6 +35524,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/grade.json"
   },
   {
+    "id": 31268,
+    "name": "Cova",
+    "slug": "cova",
+    "former_names": [
+      "Omnition"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a88cf729487706988d23e57fa307a54ba446b835.png",
+    "website": "https://cova.care/",
+    "all_locations": "Detroit, MI, USA",
+    "long_description": "Cova is an AI-native home care agency, licensed in Michigan. We serve Medicaid, LTCI, and private-pay patients; we pay caregivers the highest base rate in the state; and we help unpaid family caregivers get paid through programs they didn't know they qualified for. Our entire operation runs on AI agents, which means less overhead and more value passed directly to the people doing the real work.",
+    "one_liner": "Financial infrastructure for family caregiving",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1782162197,
+    "tags": [
+      "Consumer Health Services",
+      "Healthcare",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cova",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/cova.json"
+  },
+  {
     "id": 31277,
     "name": "Dipole Labs",
     "slug": "dipole-labs",
@@ -37201,47 +37334,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/stoa.json"
   },
   {
-    "id": 32226,
-    "name": "Glen",
-    "slug": "glen",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cc11fde647ded2f52bca6ff53c7ad045f290e1ee.png",
-    "website": "https://www.tryglen.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Glen is unified context for every agent and human on your team. Most MCP tools hand an agent a slice, one Slack thread, a single diff, and leave it to stitch the rest together itself. Glen reads from where your work already lives, code and PRs, issues, docs, and meetings, reconciles it, and gives your agents the full picture instead.\r\n\r\nWith Glen a coding agent knows why a line was written, not just what it says. Ask a PR assistant anything about a change and the clarifying-question relay disappears. Bug bots read the intent behind the code before they comment, so they stop flagging deliberate choices as defects and stop repeating mistakes they already made. A sales agent can coach your head of sales off the full account history, how teammates handle similar calls, what was promised, where the deal stalled, etc. \r\n\r\nAs the work gets done, Glen also distills it into skills and offers them back to the next agent, or person, who hits the same task.",
-    "one_liner": "Shared learning layer for agents",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1781114514,
-    "tags": [
-      "Generative AI",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/glen",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/glen.json"
-  },
-  {
     "id": 32227,
     "name": "Context.dev",
     "slug": "contextdev",
@@ -37416,7 +37508,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5ed12c5974a12759a4a83154066015d6c91fc4df.png",
     "website": "https://talentpluto.com",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Resumes made careers readable. LinkedIn made them searchable. Pluto makes them understood.\r\n\r\nProfessionals talk to Pluto for 10 minutes about what they’ve done, what they’re great at, and what they want next. Pluto makes that context discoverable to the right people and AI agents, helping them understand the professional more fully.\r\n\r\nFor hiring, companies tell Pluto who they want to meet. Pluto searches its network and the broader market, evaluates fit on both sides, privately confirms interest, and makes warm introductions when both sides want to connect.\r\n\r\n18K+ professionals have shared their career context with Pluto. 50+ companies, from fast-growing startups to decacorns, use Pluto to meet people with deeper context and confirmed interest.",
+    "long_description": "Resumes made careers readable. LinkedIn made them searchable. Pluto makes them understood.\n\nProfessionals spend 10 minutes talking to Pluto's voice agent about what they've done, what they're great at, and what they want next. Pluto turns that into a structured picture of who someone actually is, capturing the competency and intent that resumes and LinkedIn don't.\n\nWhen companies and AI agents go looking to hire, Pluto makes the right people discoverable.\n\n25K+ professionals have shared their career context with Pluto, and 50+ companies, including Mercor, Warp, and Rho, use it to find and reach the right people. Long term, we're building the professional data layer AI agents will use to understand and find people.",
     "one_liner": "AI voice agent that helps professionals get discovered",
     "team_size": 5,
     "industry": "B2B",
@@ -37488,6 +37580,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/almanac",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/almanac.json"
+  },
+  {
+    "id": 32617,
+    "name": "Whitespace",
+    "slug": "whitespace",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d7ab9b902afa3fe0a37b3622022557a9cd82d082.png",
+    "website": "https://whitespacehq.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Whitespace is the AI operating system for wholesale distributors. It connects to their systems and inboxes to build a living model of their business, then deploys self-improving AI agents to automate work like inventory planning, customer support, and order entry.",
+    "one_liner": "AI Operating System for Wholesale Distributors",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1782389037,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Supply Chain",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/whitespace",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/whitespace.json"
   },
   {
     "id": 32622,
@@ -37572,6 +37706,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/omanta",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/omanta.json"
+  },
+  {
+    "id": 32625,
+    "name": "Qlo",
+    "slug": "qlo",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6bdf97a8fbe4a8a51a745ce366d9c6c2bfc6d75c.png",
+    "website": "https://www.getqlo.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Qlo uses AI agents to run commercial underwriting operations from submission to renewal. Specialized agents handle each operational step, while supervisor agents coordinate the work and communicate with the underwriter.\r\n\r\nEvery commercial insurance program will be built and operated end to end by AI agents on Qlo.",
+    "one_liner": "Legora for commercial insurance carriers",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1786080312,
+    "tags": [
+      "Insurance",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/qlo",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/qlo.json"
   },
   {
     "id": 32627,
@@ -37965,8 +38140,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c65a4389d81076a7a08b8c3d3c22a2bf1c54e49b.png",
     "website": "https://thefamiliarlab.com",
     "all_locations": "Toronto, ON, Canada",
-    "long_description": "🦋 Content in every language. The speakers' performances, preserved. Movies & TV, Broadcasts, Education, Ads, Platforms, Live Shopping.\r\n\r\nFounders An Zhu Liu, Mingi Kwon, and Xu Zheng lead a team of PhDs, professors, and researchers from the world's top universities who started the field of joint audio-visual human models and co-authored the current state of the art in real-time human animation.\r\n\r\nThey started with video language translation, and they've already built one of the most accurate translators available today, the only one that works in real time. Everyone else scaffolds separate models and pre-processing; a world model just understands -- what the speaker means, from voice, person, and scene together. That's why the dub keeps the speaker's own voice, face, and delivery.\r\n\r\nVs ElevenLabs: they lose the laughter, the music, the ambiance -- 270% more background-sound error -- and ours sounds 27.8% more like you. Vs human translators: 100.3% of their quality -- scalable, real time. Published benchmarks: https://thefamiliarlab.com/benchmark\r\n\r\nThe $14B spent on dubbing every year flips to AI once it's good enough -- most of it movies and TV, the traditional dubbing heartland. Live multiplies it.",
-    "one_liner": "World Models for Accurate Humans. Real-Time Dubbing First.",
+    "long_description": "World models for accurate humans.\r\n🦋 Content in every language. The speakers' performances, preserved. Movies & TV, Broadcasts, Education, Ads, Platforms, Live Shopping.\r\n\r\nFounders An Zhu Liu, Mingi Kwon, and Xu Zheng lead a team of PhDs, professors, and researchers from the world's top universities who started the field of joint audio-visual human models and co-authored the current state of the art in real-time human animation.\r\n\r\nThey started with video language translation, and they've already built one of the most accurate translators available today, the only one that works in real time. Everyone else scaffolds separate models and pre-processing; a world model just understands -- what the speaker means, from voice, person, and scene together. That's why the dub keeps the speaker's own voice, face, and delivery.\r\n\r\nVs ElevenLabs: they lose the laughter, the music, the ambiance -- 270% more background-sound error -- and ours sounds 27.8% more like you. Vs human translators: 100.3% of their quality -- scalable, real time. Published benchmarks: https://thefamiliarlab.com/benchmark\r\n\r\nThe $14B spent on dubbing every year flips to AI once it's good enough -- most of it movies and TV, the traditional dubbing heartland. Live multiplies it.",
+    "one_liner": "Dubbing is finally good. Audio-Visual Translation.",
     "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -37998,49 +38173,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/familiar",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/familiar.json"
-  },
-  {
-    "id": 33014,
-    "name": "Inkbox",
-    "slug": "inkbox",
-    "former_names": [
-      "Inkbox (Vectorly Inc)"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/59d6214df81a05c739db52287017ae33c8c45f0d.png",
-    "website": "https://inkbox.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "For your AI agents to behave like teammates, we give them persistent identities with their own email, phone, and iMessage. We also provide them an agent-to-agent channel, so they can communicate for task delegation.",
-    "one_liner": "Let your agents communicate via email, phone, iMessage, & Agent2Agent",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1782881612,
-    "tags": [
-      "Developer Tools",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/inkbox",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/inkbox.json"
   },
   {
     "id": 33016,
@@ -38980,46 +39112,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/simantic",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/simantic.json"
-  },
-  {
-    "id": 33936,
-    "name": "Conifer",
-    "slug": "conifer",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1cd2adb8270db80170ab62b4140817892372538a.png",
-    "website": "https://www.conifer.build",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Conifer is one app that connects you to every AI model (local and cloud) and automatically routes each request to the cheapest model that accomplishes your goal. Most requests run free on your own hardware, so teams cut their AI bill by ~80% while replacing a dozen provider contracts with one interface and one invoice. For sensitive material like financials or user data, a secure mode pins everything on-device with no external API calls.",
-    "one_liner": "Local-first least cost routing system to reduce 80%+ token spend",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1783524440,
-    "tags": [
-      "B2B",
-      "Security",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/conifer",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/conifer.json"
   },
   {
     "id": 34365,

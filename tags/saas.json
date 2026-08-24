@@ -46456,15 +46456,15 @@
     "all_locations": "Seoul, Seoul, South Korea",
     "long_description": "Char is a daily notepad that finishes your todos for you. Type a checkbox, and an agent picks it up — researching, drafting, or scheduling on your behalf. Stay in command. Char does the work.",
     "one_liner": "The AI notepad that knows and works for you",
-    "team_size": 3,
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1755302445,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Productivity",
       "Open Source",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -48230,7 +48230,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d7ab9b902afa3fe0a37b3622022557a9cd82d082.png",
     "website": "https://whitespacehq.ai/",
-    "all_locations": "London, England, United Kingdom",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Whitespace is the AI operating system for wholesale distributors. It connects to their systems and inboxes to build a living model of their business, then deploys self-improving AI agents to automate work like inventory planning, customer support, and order entry.",
     "one_liner": "AI Operating System for Wholesale Distributors",
     "team_size": 2,
@@ -48238,10 +48238,10 @@
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1782389037,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Supply Chain"
+      "Supply Chain",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48254,8 +48254,8 @@
       "Supply Chain and Logistics"
     ],
     "regions": [
-      "United Kingdom",
-      "Europe"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -48563,18 +48563,20 @@
       "HyperTest inc"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b4b91e0b78bbed1c83add57d22b06ab632567450.png",
-    "website": "http://hyperprobe.co",
+    "website": "https://hyperprobe.co",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "If your team uses Cursor, Claude Code, or Codex to ship, you've felt it: the AI is great at writing code, mediocre at debugging it. When something breaks in prod, you're back to grepping logs, adding console.logs, redeploying, and hoping the AI's guess is right.\r\n\r\nHyperProbe fixes this. Your coding agent dynamically drops non-breaking probes into your running services, straight from your IDE. When a probe fires, HyperProbe captures and sanitises the exact variable state, feeding your agent real evidence instead of flat logs. \r\n\r\nThis fixes prod incidents in minutes from the exact same window where agents write code, without ever redeploying to add a print statement. Under 1% CPU overhead. Automatic PII redaction. \r\n\r\nBuilt for backend teams shipping AI-written code today. Install in 60 seconds, see your first investigation in 10 minutes. That's why we call HyperProbe the runtime data layer for AI-native software.\r\n\r\n",
-    "one_liner": "Your coding agent writes code. Now let it fix prod too.",
+    "long_description": "With tools like Cursor and Claude Code, writing software is no longer the bottleneck. Debugging is. Agents cannot fix production crashes using logs and traces that were sized for human eyeballs. The gap is missing data.\r\n\r\nHyperProbe allows agents to debug live software autonomously. Our SDK drops non-breaking probes straight into running services to read exact variable states from memory at the moment of failure, instead of reasoning backwards from flat logs.\r\n\r\nZero redeploys. Under 1% CPU overhead. Automatic PII redaction.\r\n\r\nWe turn 4-hour production war rooms into 10-minute automated resolutions. As agents write and operate more of the world's software, HyperProbe is the runtime observability layer that lets them understand what they built.\r\n\r\n",
+    "one_liner": "The runtime data layer for agents to monitor and debug apps",
     "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1783455456,
     "tags": [
+      "AIOps",
+      "Artificial Intelligence",
       "Developer Tools",
-      "DevSecOps",
-      "SaaS"
+      "SaaS",
+      "DevOps"
     ],
     "tags_highlighted": [],
     "top_company": false,
