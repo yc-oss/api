@@ -316,8 +316,8 @@
   },
   {
     "id": 22880,
-    "name": "Outpaint.com",
-    "slug": "outpaintcom",
+    "name": "True3D",
+    "slug": "true3d",
     "former_names": [
       "True3D",
       "Hyperplane",
@@ -328,22 +328,23 @@
       "QuickVid.ai",
       "QuickVid",
       "True3D",
-      "True3D Labs"
+      "True3D Labs",
+      "Outpaint.com"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/76c9f51f32ec78b0012799fa749d0661d0d18633.png",
-    "website": "https://outpaint.com/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a242a0c2ce6b1ca1518d1744187f98a3bf8eade9.png",
+    "website": "https://www.true3d.com/",
     "all_locations": "New York City, NY, USA",
-    "long_description": "We build AI models that convert any video to fit any screen without reshoots.",
-    "one_liner": "AI that expands any video to fit any screen.",
-    "team_size": 4,
+    "long_description": "We're a research lab building foundation models and products for what comes after flat video.",
+    "one_liner": "Building the next generation of visual media",
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1614739771,
     "tags": [
+      "Artificial Intelligence",
       "Video",
       "Media",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -364,8 +365,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/outpaintcom",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/outpaintcom.json"
+    "url": "https://www.ycombinator.com/companies/true3d",
+    "api": "https://yc-oss.github.io/api/batches/winter-2021/true3d.json"
   },
   {
     "id": 22953,
@@ -4424,26 +4425,27 @@
   },
   {
     "id": 31074,
-    "name": "TrustAI",
-    "slug": "trustai",
+    "name": "OneTriangle",
+    "slug": "onetriangle",
     "former_names": [
       "EvalAI",
-      "TrustAI Labs"
+      "TrustAI Labs",
+      "TrustAI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/882660c8a18b052eaabe5a10460a291038b111a7.png",
-    "website": "https://trytrust.ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/107ba922031da90f3c856fadf8e7d472f94bfa62.png",
+    "website": "https://onetriangle.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Inference has surpassed training as AI’s largest compute cost, accelerated by increasing demand for AI and agents. By using proprietary KV cache transfer tech, TrustAI has cut inference costs by 20% and time by 40% compared to present standards.",
+    "long_description": "Inference has surpassed training as AI’s largest compute cost, accelerated by increasing demand for AI and agents. By using proprietary KV cache transfer tech, OneTriangle has cut inference costs by 20% and time by 40% compared to present standards.",
     "one_liner": "The cheapest, fastest lightweight inference. ",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1783378352,
     "tags": [
-      "Artificial Intelligence",
       "Smart Packaging",
       "Open Source",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4464,8 +4466,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/trustai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/trustai.json"
+    "url": "https://www.ycombinator.com/companies/onetriangle",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/onetriangle.json"
   },
   {
     "id": 31114,
@@ -5288,46 +5290,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/luca-iq",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/luca-iq.json"
-  },
-  {
-    "id": 33013,
-    "name": "Operon",
-    "slug": "operon",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aaeb7f2ff7aa5b0b7e64888230be2a7e46342f66.png",
-    "website": "https://operonsolutions.com/en",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Operon is the data intelligence layer for heavy industry. We ingest the messy documents a plant runs on (P&IDs, schematics, datasheets, scans) and turn them into one structured, queryable model of the facility.\r\n\r\nOn top of it, engineers query their plant in natural language and build agentic workflows for safety, compliance, and design. \r\n\r\n",
-    "one_liner": "Agentic data layer for manufacturing & process industries. ",
-    "team_size": 0,
-    "industry": "Industrials",
-    "subindustry": "Industrials",
-    "launched_at": 1782593141,
-    "tags": [
-      "Computer Vision",
-      "Manufacturing",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "Industrials"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/operon",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/operon.json"
   },
   {
     "id": 33014,

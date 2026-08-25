@@ -3700,15 +3700,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/caa902826145e78311e27007937976e8663a9265.png",
     "website": "https://www.manufacturingintelligence.org",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Every custom part starts as a 2D drawing, and every drawing has to be reviewed before manufacturing begins. Today that means senior engineers checking dimensions, tolerances, and GD&T callouts by hand against ASME and ISO standards. It takes days, it bottlenecks release, and errors still slip through to the shop floor, where they become scrap and rework. Hera automates design review. Upload a drawing, get back every violation with the standard it breaks and where. Engineer-to-order manufacturers in aerospace, medical devices, and pressure vessels use Hera to release drawings faster and catch mistakes before they cost real money.",
-    "one_liner": "Hera catches thousand dollar errors before they hit the shop floor.",
+    "long_description": "At Hera, we build tools that help heavy engineering teams bring products to market up to 20× faster. Today, we work with manufacturers of data center ancillary equipment, renewable energy systems, robotics, heat exchangers, power plants and pressure vessels.\r\n",
+    "one_liner": "Hera is the design verification layer for heavy industry.",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials",
     "launched_at": 1784416117,
     "tags": [
       "B2B",
-      "Manufacturing"
+      "Design",
+      "3D Printing",
+      "Manufacturing",
+      "Industrial"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3749,8 +3752,10 @@
     "launched_at": 1786735839,
     "tags": [
       "Hard Tech",
+      "Robotics",
       "Drones",
-      "Manufacturing"
+      "Manufacturing",
+      "Defense"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3782,8 +3787,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1db7948d6861e68f3fa79c81509a04c4aea01614.png",
     "website": "https://karalabs.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We grow high-purity diamond wafers for advanced hardware. Used in data centers, aircraft, spacecraft, RF electronics, power devices, and lasers, our diamond moves heat up to 5× better than copper, helping critical systems run cooler, faster, and more reliably. Diamond has spent centuries as a symbol. We are turning it into infrastructure.",
-    "one_liner": "Making diamond an engineering material",
+    "long_description": "Kara is building diamond semiconductors. \r\n\r\nWe begin with growing ultra-high purity diamond wafers for advanced hardware. Used in data centers, spacecrafts, RF systems, and quantum hardware, our diamond moves heat up to 5× better than copper, helping critical systems run cooler, faster, and more reliably. \r\n\r\nDiamond has spent centuries as a symbol. We are turning it into infrastructure.",
+    "one_liner": "Making Diamond Engineerable",
     "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials",
@@ -4069,46 +4074,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/pacific.json"
   },
   {
-    "id": 33013,
-    "name": "Operon",
-    "slug": "operon",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aaeb7f2ff7aa5b0b7e64888230be2a7e46342f66.png",
-    "website": "https://operonsolutions.com/en",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Operon is the data intelligence layer for heavy industry. We ingest the messy documents a plant runs on (P&IDs, schematics, datasheets, scans) and turn them into one structured, queryable model of the facility.\r\n\r\nOn top of it, engineers query their plant in natural language and build agentic workflows for safety, compliance, and design. \r\n\r\n",
-    "one_liner": "Agentic data layer for manufacturing & process industries. ",
-    "team_size": 0,
-    "industry": "Industrials",
-    "subindustry": "Industrials",
-    "launched_at": 1782593141,
-    "tags": [
-      "Computer Vision",
-      "Manufacturing",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "Industrials"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/operon",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/operon.json"
-  },
-  {
     "id": 33017,
     "name": "ProvenMetal",
     "slug": "provenmetal",
@@ -4200,8 +4165,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/161339dc99cea591f4bd07fbb627aaa0b7771a88.png",
     "website": "https://spaceflow.tech",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "SpaceFlow is the managed runtime for AI agents that execute supply chain work across ERPs, email, spreadsheets, documents, and supplier portals. It turns fragmented operational data and SOPs into a governed context layer, then gives agents reusable skills and controlled access to enterprise tools.\r\n\r\nSpaceFlow agents normalize multi-round quotations, chase suppliers and delivery confirmations, repair incomplete requests, classify materials, reconcile phantom inventory, surface market signals, and help sales and operations planning teams continuously align demand, supply, inventory, purchasing deadlines, and freight decisions.\r\n\r\nSpaceFlow deploys in the customer’s cloud or on-prem environment with permissions, human approvals, observability, and audit trails, allowing industrial and regulated enterprises to automate high-stakes operations without replacing existing systems or moving sensitive data.",
-    "one_liner": "The managed runtime for enterprise AI agents",
+    "long_description": "SpaceFlow is an AI-native procurement services company for businesses that make, move and serve physical goods. We help procurement teams bring more spend under management, execute source-to-contract work and turn identified savings into realized savings without adding headcount or replacing existing systems.",
+    "one_liner": "AI-native procurement services for the physical economy",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",

@@ -7401,7 +7401,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -10432,6 +10432,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/navier-ai",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/navier-ai.json"
+  },
+  {
+    "id": 29185,
+    "name": "Relari",
+    "slug": "relari",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d8724ca6da40d81a8aadbd3cf9cf5fbaa58ac997.png",
+    "website": "https://www.relari.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Relari is a robotics research company developing new ways for robots to learn dexterous manipulation from humans. We use human muscle signals (electromyography, or EMG), vision, motion, and force to capture physical intent and transfer it to robots.",
+    "one_liner": "Building dexterous robots that learn from humans",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1709879960,
+    "tags": [
+      "Robotics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/relari",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/relari.json"
   },
   {
     "id": 29241,
@@ -16539,6 +16578,46 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/synphony.json"
   },
   {
+    "id": 31419,
+    "name": "StableBrowse",
+    "slug": "stablebrowse",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed9bc479aa95e772450f53b3ce34a581c2a1e4b7.png",
+    "website": "https://stablebrowse.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Building the Data Infrastructure layer for Physical AI. ",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1774843315,
+    "tags": [
+      "Robotics",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/stablebrowse",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/stablebrowse.json"
+  },
+  {
     "id": 31436,
     "name": "Prototyping.io",
     "slug": "prototypingio",
@@ -17182,15 +17261,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/caa902826145e78311e27007937976e8663a9265.png",
     "website": "https://www.manufacturingintelligence.org",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Every custom part starts as a 2D drawing, and every drawing has to be reviewed before manufacturing begins. Today that means senior engineers checking dimensions, tolerances, and GD&T callouts by hand against ASME and ISO standards. It takes days, it bottlenecks release, and errors still slip through to the shop floor, where they become scrap and rework. Hera automates design review. Upload a drawing, get back every violation with the standard it breaks and where. Engineer-to-order manufacturers in aerospace, medical devices, and pressure vessels use Hera to release drawings faster and catch mistakes before they cost real money.",
-    "one_liner": "Hera catches thousand dollar errors before they hit the shop floor.",
+    "long_description": "At Hera, we build tools that help heavy engineering teams bring products to market up to 20× faster. Today, we work with manufacturers of data center ancillary equipment, renewable energy systems, robotics, heat exchangers, power plants and pressure vessels.\r\n",
+    "one_liner": "Hera is the design verification layer for heavy industry.",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials",
     "launched_at": 1784416117,
     "tags": [
       "B2B",
-      "Manufacturing"
+      "Design",
+      "3D Printing",
+      "Manufacturing",
+      "Industrial"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -17231,8 +17313,10 @@
     "launched_at": 1786735839,
     "tags": [
       "Hard Tech",
+      "Robotics",
       "Drones",
-      "Manufacturing"
+      "Manufacturing",
+      "Defense"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -17264,8 +17348,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1db7948d6861e68f3fa79c81509a04c4aea01614.png",
     "website": "https://karalabs.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We grow high-purity diamond wafers for advanced hardware. Used in data centers, aircraft, spacecraft, RF electronics, power devices, and lasers, our diamond moves heat up to 5× better than copper, helping critical systems run cooler, faster, and more reliably. Diamond has spent centuries as a symbol. We are turning it into infrastructure.",
-    "one_liner": "Making diamond an engineering material",
+    "long_description": "Kara is building diamond semiconductors. \r\n\r\nWe begin with growing ultra-high purity diamond wafers for advanced hardware. Used in data centers, spacecrafts, RF systems, and quantum hardware, our diamond moves heat up to 5× better than copper, helping critical systems run cooler, faster, and more reliably. \r\n\r\nDiamond has spent centuries as a symbol. We are turning it into infrastructure.",
+    "one_liner": "Making Diamond Engineerable",
     "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials",
@@ -17776,7 +17860,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b7cc06bfd9d08d6eae3bc20eca8c056f893bf8b.png",
     "website": "http://norirobotics.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We manufacture Nori: A sub-$2000 bimanual mobile manipulator that can clean rooms, restock shelves, and fold clothes. Nori can handle basic tasks out of the box, and its software lets anyone teach Nori to automate work specific to their home or business. \r\n\r\nNori aims to solve the robotics data bottleneck. By deploying affordable robots to customers around the world, we can gather the diverse data required to train the next generation of generalist robotic policies. Every user of Nori makes Nori smarter.\r\n\r\nSince launching 6 weeks ago we have already deployed our first robot and have over 300k in sales.\r\n\r\nWe can bring general-purpose robotics to homes and businesses that could never afford it before. There are 132.7 million households and 8.4 million employer business locations in the U.S. At $1,688 per robot, selling just one Nori to 0.5% of them represents a $1.2B market opportunity in the U.S. alone. ",
+    "long_description": "We manufacture Nori: A sub-$2000 bimanual mobile manipulator that can clean rooms, restock shelves, and fold clothes. Nori can handle basic tasks out of the box, and its software lets anyone teach Nori to automate work specific to their home or business. \r\n\r\nNori aims to solve the robotics data bottleneck. By deploying affordable robots to customers around the world, we can gather the diverse data required to train the next generation of generalist robotic policies. Every user of Nori makes Nori smarter.\r\n\r\nSince launching 6 weeks ago we have already deployed our first robot and have over $350k+ in sales.\r\n\r\nWe can bring general-purpose robotics to homes and businesses that could never afford it before. There are 132.7 million households and 8.4 million employer business locations in the U.S. At $1,688 per robot, selling just one Nori to 0.5% of them represents a $1.2B market opportunity in the U.S. alone. ",
     "one_liner": "sub-$2000 humanoid robot you can teach to do anything",
     "team_size": 5,
     "industry": "Industrials",
@@ -18248,7 +18332,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Marengo designs data centers in half the time and half the cost with AI. We’re working with some of the largest data center builders in the world to improve how design is done today.\r\n\r\nWe're backed by Y Combinator, a16z & Index Venture Scout Funds, as well as investors/angels in OpenAI, Anthropic, SpaceX, and more.\r\n\r\nOur advisors include the former President & CEO of Saipem America ($3B+ P&L), former President of Exyte's Advanced Technology Facilities GBU ($6B+ P&L) and more.",
     "one_liner": "AI-Native Engineering Firm designing Data Centers ",
-    "team_size": 10,
+    "team_size": 5,
     "industry": "Industrials",
     "subindustry": "Industrials -> Energy",
     "launched_at": 1786181708,
@@ -18320,46 +18404,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cosmic-robotics",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/cosmic-robotics.json"
-  },
-  {
-    "id": 33013,
-    "name": "Operon",
-    "slug": "operon",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aaeb7f2ff7aa5b0b7e64888230be2a7e46342f66.png",
-    "website": "https://operonsolutions.com/en",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Operon is the data intelligence layer for heavy industry. We ingest the messy documents a plant runs on (P&IDs, schematics, datasheets, scans) and turn them into one structured, queryable model of the facility.\r\n\r\nOn top of it, engineers query their plant in natural language and build agentic workflows for safety, compliance, and design. \r\n\r\n",
-    "one_liner": "Agentic data layer for manufacturing & process industries. ",
-    "team_size": 0,
-    "industry": "Industrials",
-    "subindustry": "Industrials",
-    "launched_at": 1782593141,
-    "tags": [
-      "Computer Vision",
-      "Manufacturing",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "Industrials"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/operon",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/operon.json"
   },
   {
     "id": 33017,

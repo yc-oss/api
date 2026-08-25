@@ -1,0 +1,41 @@
+{
+  "id": 34597,
+  "name": "Sentient OS",
+  "slug": "sentient-os",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/597c9491c6951c83af2828c9a596ca67477a0157.png",
+  "website": "https://sentient-os.ai",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Nobody's built truly proactive AI, because it requires running inference on your entire life. In the cloud, that's insanely expensive and a privacy nightmare. But not on your own chip.\r\n\r\nEvery night, Sentient's on-device LLM wakes your Mac and understands what's new in your life (email, messages, files, Granola transcripts...), entirely locally, and distills it into a knowledge base.\r\n\r\nYou wake up to your work already prepared: the reply you forgot, drafted from your own context; the subscription you never use renewing tomorrow, caught; the report you promised in the group chat, ready to send. Everything is one click from firing through computer use, and nothing fires until you click.\r\n\r\nOr click your Mac notch anytime and say \"finish this for me.\" Sidekick takes over the thing you were doing with its own cursor while you move on.\r\n\r\nOn-device inference at this scale was supposed to be impossible: devices too slow, and models too dumb. So we built the stack ourselves: a custom LiteRT-LM fork (KV-cache reuse, speculative decoding, custom k-quants) that runs nightly on 8 GB Macs. The user's hardware does ~90% of the compute, and their own ChatGPT or Claude subscription does the rest, so our marginal cost is ~$0, and our servers store nothing.\r\n\r\nWe soft-launched late July with one Reddit post: top of r/macapps, 2,000+ users in 48 hours, $0 marketing. Free and open source for consumers; the same engine on the work stack (Slack, Granola, Linear, Notion) becomes the enterprise business.",
+  "one_liner": "On-device AI that knows your entire life and does your work overnight.",
+  "team_size": 2,
+  "industry": "B2B",
+  "subindustry": "B2B -> Productivity",
+  "launched_at": 1787571928,
+  "tags": [
+    "Artificial Intelligence",
+    "Productivity",
+    "AI"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Fall 2026",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Productivity"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": true,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/sentient-os",
+  "api": "https://yc-oss.github.io/api/batches/fall-2026/sentient-os.json"
+}

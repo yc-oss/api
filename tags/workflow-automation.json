@@ -3307,7 +3307,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2026",
     "status": "Active",
@@ -3376,8 +3376,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/161339dc99cea591f4bd07fbb627aaa0b7771a88.png",
     "website": "https://spaceflow.tech",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "SpaceFlow is the managed runtime for AI agents that execute supply chain work across ERPs, email, spreadsheets, documents, and supplier portals. It turns fragmented operational data and SOPs into a governed context layer, then gives agents reusable skills and controlled access to enterprise tools.\r\n\r\nSpaceFlow agents normalize multi-round quotations, chase suppliers and delivery confirmations, repair incomplete requests, classify materials, reconcile phantom inventory, surface market signals, and help sales and operations planning teams continuously align demand, supply, inventory, purchasing deadlines, and freight decisions.\r\n\r\nSpaceFlow deploys in the customer’s cloud or on-prem environment with permissions, human approvals, observability, and audit trails, allowing industrial and regulated enterprises to automate high-stakes operations without replacing existing systems or moving sensitive data.",
-    "one_liner": "The managed runtime for enterprise AI agents",
+    "long_description": "SpaceFlow is an AI-native procurement services company for businesses that make, move and serve physical goods. We help procurement teams bring more spend under management, execute source-to-contract work and turn identified savings into realized savings without adding headcount or replacing existing systems.",
+    "one_liner": "AI-native procurement services for the physical economy",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
@@ -3501,26 +3501,27 @@
   },
   {
     "id": 33969,
-    "name": "Gini",
-    "slug": "gini",
+    "name": "OpenTag",
+    "slug": "opentag",
     "former_names": [
-      "Gini Agent"
+      "Gini Agent",
+      "Gini"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae411b562c938cf0981eae247f0453d472e6dfe5.png",
-    "website": "https://ginicomputer.com/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3523399de943bf46e546a3bb703261d27fd2fa69.png",
+    "website": "https://tryopentag.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Gini is an AI coworker that lives in your Slack and Teams. It has full context on your company, so it can answer questions, join calls, and take real work off your team's plate. Gini also keeps your company wiki and knowledge base up to date automatically, so your team's knowledge never goes stale or walks out the door.",
-    "one_liner": "AI coworker in Slack and Teams",
+    "long_description": "OpenTag - is an AI coworker that lives in your Slack and Teams. It has full context on your company, so it can answer questions, join calls, and take real work off your team's plate. OpenTag also keeps your company wiki and knowledge base up to date automatically, so your team's knowledge never goes stale or walks out the door.",
+    "one_liner": "Model Agnostic Claude Tag",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1787093671,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
       "B2B",
       "Workflow Automation",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3540,7 +3541,7 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/gini",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/gini.json"
+    "url": "https://www.ycombinator.com/companies/opentag",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/opentag.json"
   }
 ]
