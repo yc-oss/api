@@ -5609,7 +5609,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -15522,14 +15522,14 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/866cec0759154ee708c6b843e16d3f00f9d773be.png",
     "website": "https://seiright.com/",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Sei is an AI platform for mortgage lenders, servicers & banks. We're already live with banks, and top IMBs.",
+    "long_description": "Sei is an AI platform for mortgage lenders, servicers & banks. We're already live with banks and top IMBs.",
     "one_liner": "AI Operations Partner for Mortgage & Banking",
     "team_size": null,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1646055749,
     "tags": [
-      "Artificial Intelligence",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -23289,7 +23289,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "The world’s most important organizations deserve the world’s best financial infrastructure. We’re here to make sure they do.\r\n\r\nAt Givefront, we've built a modern financial management platform designed specifically for nonprofits. With real-time budgeting, built-in compliance, and easy integrations, we replace the spreadsheets and guesswork with smart, automated systems.\r\n\r\nBy transforming financial operations from reactive to real-time, Givefront empowers nonprofits to control every dollar, protect every grant, and move their missions forward faster — with greater efficiency, transparency, and trust.",
     "one_liner": "Nonprofit Financial Management",
-    "team_size": 4,
+    "team_size": 6,
     "industry": "Fintech",
     "subindustry": "Fintech -> Banking and Exchange",
     "launched_at": 1708704798,
@@ -25304,6 +25304,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/shor.json"
   },
   {
+    "id": 30663,
+    "name": "Tesora",
+    "slug": "tesora",
+    "former_names": [
+      "Tesora AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2793bc4802e1c1cddfc383aed3ac255ec33a0465.png",
+    "website": "https://tesora.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Tesora builds frontier AI agents for actuaries at P&C carriers, reinsurers, and MGAs. The agents handle the assembly, pulling the data, running the method, and deploying the rater, while you review the work and make every call. We deploy inside the stack you already run, on your infra and under your IT team's control, with no shared servers and nothing to rip out. Your data never trains our models, or anyone else's. We treat this as a partnership so we stay hands-on until the work is live and holding up in production. That standard runs through our security posture too: SOC 2 Type II certified, with a full audit trail behind every change.\r\n\r\nThe part of the job that matters is actuarial judgment, and we automate everything around it so you get back to the work only you can do. Built by AI technologists and actuaries who want to see this exist and backed by Y Combinator & other top investors.",
+    "one_liner": "Frontier AI for Actuaries",
+    "team_size": 5,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1755571936,
+    "tags": [
+      "API",
+      "Insurance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tesora",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/tesora.json"
+  },
+  {
     "id": 30681,
     "name": "Conviction",
     "slug": "conviction",
@@ -25769,7 +25812,7 @@
     "all_locations": "New York City, NY, USA",
     "long_description": "If you are a trusts & estates attorney, RIA, fintech, or family office interested in Sava, reach us at founders@savahq.com",
     "one_liner": "Building the future of trusts",
-    "team_size": 3,
+    "team_size": 7,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1762196127,
@@ -27878,15 +27921,15 @@
     "website": "https://www.getpennant.ai",
     "all_locations": "New York City, NY, USA",
     "long_description": "Led by former institutional proxy voters and technologists with a collective 20+ years of experience, Pennant gives institutional investors, public companies, and corporate advisors voting and governance intelligence to act on their own principles at scale.",
-    "one_liner": "The Corporate Governance OS for Public Markets",
+    "one_liner": "The World Model for Corporate Governance",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Asset Management",
     "launched_at": 1786584832,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
-      "Investing"
+      "Investing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

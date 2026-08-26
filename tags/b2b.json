@@ -20686,7 +20686,7 @@
     "website": "https://complif.com",
     "all_locations": "Buenos Aires, CABA, Argentina",
     "long_description": "Complif automates compliance processes for financial entities, including KYC/KYB, AML, risk profiling, documentation management and regulatory reporting.",
-    "one_liner": "Compliance tools for financial companies in LatAm KYC & AML",
+    "one_liner": "Compliance tools & AI agents for financial companies",
     "team_size": 45,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
@@ -20911,7 +20911,7 @@
     "name": "Firezone",
     "slug": "firezone",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d77ec2f6117521699894a917f49c85927da9cf8f.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a132fac978a20406108533801bb0a40f980f02e0.png",
     "website": "https://www.firezone.dev",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Firezone connects your workforce to the computing resources they need, wherever they are, securely. Unlike traditional VPNs, Firezone uses a least-privileged approach to access control known as Zero Trust Access.\r\n\r\nConnect your identity provider and define granular policies in minutes, then rejoice in the IT support requests you won't receive due to our lightweight, WireGuard-powered clients which work great on all platforms.",
@@ -40603,17 +40603,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fba2fe192898aad8d25d7bcb8cef6e121485b633.png",
     "website": "https://openbenchmarks.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "AI agents are becoming the primary way software gets discovered and bought. Agents don't trust vendor marketing or SEO - they trust independent evaluations.\r\n\r\nOpenbenchmarks runs open, independent benchmarks across APIs, vendors, tools. \r\nAgents consult these benchmarks when recommending and selecting vendors.\r\n\r\nWe offer private benchmarking & analytics tools to help you measure your product against competitors, see exactly where you fall short, and fix it so that you win Agent's attention.",
-    "one_liner": "Openbenchmarks helps Agents pick the right vendors via Benchmarking",
+    "long_description": "Openbenchmarks runs open, independent benchmarks across APIs, vendors and tools. \r\nHelping teams fairly evaluate vendors.\r\n\r\nWe offer private benchmarking & analytics tools to help you measure your product against competitors, see exactly where you fall short, and fix it.",
+    "one_liner": "Openbenchmarks helps you pick vendors for your use-case via Benchmarks",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1728361776,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "SEO",
-      "AI"
+      "SEO"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -43488,21 +43488,21 @@
       "WorkDone",
       "WorkDone Health"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/924734540288bf8cd89e4e3406e3bc65fd236248.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/299342dc68e4bc077a079313853d9982af12d81d.png",
     "website": "https://www.adentris.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Adentris is an AI compliance copilot for hospitals and clinics. We are like Grammarly for doctors, finding and fixing mistakes that lead to denied insurance claims or patient lawsuits. The industry today spends $40B doing this manually. \r\n",
-    "one_liner": "Real-time AI Compliance for Medical Documentation",
-    "team_size": 4,
+    "long_description": "US healthcare providers lose billions every year to denied claims, most of them traced back to documentation and coding gaps no one catches until the payer says no. Adentris is an AI revenue integrity platform that catches them first. Our AI agents read EHR and payer interfaces directly, no API integration required, across five modules: documentation, coding QA, prior authorization, appeals and denials, and discharge summaries. And for providers that don't have their own CDI or billing teams, we run billing as a service on top of the platform.",
+    "one_liner": "Real-time AI Compliance & Revenue Integrity for Medical Providers",
+    "team_size": 5,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1745803962,
     "tags": [
+      "Artificial Intelligence",
       "Health Tech",
       "B2B",
       "Compliance",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -43516,11 +43516,13 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
-    "demo_day_video_public": false,
+    "demo_day_video_public": true,
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/adentris",
@@ -48235,7 +48237,7 @@
     "website": "https://nebusec.ai",
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Nebula Security is founded by the world’s #1 hacking team.\r\n\r\nWe were the first team to build an nginx RCE and the first to root Android 17. Our co-founders include members of the world’s No. 1 CTF team, DEF CON winners, Black Hat speakers, and PhD in cybersecurity. We have won $400K in bug bounties by exploiting the Linux kernel and Chrome browser.\r\n\r\n“Audited by Nebula Security” is a mark of serious security credibility: a signal to customers, investors, and partners that your product has been reviewed by the world’s best hackers.",
-    "one_liner": "Building Mythos for everyone",
+    "one_liner": "Autonomous AI defense system for cyber attack",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
@@ -49575,6 +49577,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/billow-ai-labs.json"
   },
   {
+    "id": 33804,
+    "name": "Lightfield",
+    "slug": "lightfield",
+    "former_names": [
+      "Lightfield, Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a5892847938d97ba24dce5c43342e5a6f22a2f34.png",
+    "website": "https://trylightfield.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Lightfield connects to a company’s email, chat, and business systems and does the legal work before it reaches the legal team. It gathers context, applies company policies and past decisions, and presents the completed work to in-house counsel for approval.",
+    "one_liner": "AI that works for in-house legal teams",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1786835532,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Legal"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lightfield",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/lightfield.json"
+  },
+  {
     "id": 33805,
     "name": "Edviro",
     "slug": "edviro",
@@ -49662,10 +49707,12 @@
     "slug": "opentag",
     "former_names": [
       "Gini Agent",
-      "Gini"
+      "Gini",
+      "OpenTag",
+      "Open Tag"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3523399de943bf46e546a3bb703261d27fd2fa69.png",
-    "website": "https://tryopentag.com/",
+    "website": "https://www.tryopentag.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "OpenTag - is an AI coworker that lives in your Slack and Teams. It has full context on your company, so it can answer questions, join calls, and take real work off your team's plate. OpenTag also keeps your company wiki and knowledge base up to date automatically, so your team's knowledge never goes stale or walks out the door.",
     "one_liner": "Model Agnostic Claude Tag",
@@ -49675,10 +49722,10 @@
     "launched_at": 1787093671,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "B2B",
       "Workflow Automation",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,

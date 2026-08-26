@@ -2042,7 +2042,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -9259,7 +9259,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -26239,49 +26239,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2022/bemlo.json"
   },
   {
-    "id": 25907,
-    "name": "Joon Health",
-    "slug": "joon-health",
-    "former_names": [
-      "Joon"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2c143cc41cce3030b961ba7a83dcc56ee602bd4f.png",
-    "website": "https://joonhealth.co",
-    "all_locations": "San Francisco, CA, USA; Oakland, CA, USA",
-    "long_description": "Joon is an integrated pediatric digital health platform for kids, starting with behavior disorders like ADHD, autism, anxiety, and depression. In Joon, kids access a game-based digital therapeutic where they level up when they do real-life behaviors that are managed by parents and clinicians. \r\n\r\nOver the next 10 years, we plan on being the first-line vertically integrated digital treatment for pediatric behavior disorders, leveraging the first of its kind technology to drive behavior change.",
-    "one_liner": "Pediatric digital therapeutic for the +100M families in the US",
-    "team_size": 10,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Consumer Health and Wellness",
-    "launched_at": 1642039829,
-    "tags": [
-      "Mental Health Tech",
-      "Consumer Health Services",
-      "Consumer"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Consumer Health and Wellness"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/joon-health",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/joon-health.json"
-  },
-  {
     "id": 25913,
     "name": "Trueplace",
     "slug": "trueplace",
@@ -35178,13 +35135,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d261d8dfa76354809d8e5792b2d21ef5d258f8d5.png",
     "website": "https://airgoods.com/",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Airgoods is building the future of food and beverage distribution. \r\n\r\nToday, we help thousands of independent grocers and specialty food stores (like Westside Market, Butterfield Market, and Epicurus Gourmet) discover, order, and sell emerging and gourmet brands like Fishwife, David, and Ghia.",
-    "one_liner": "Wholesale marketplace for food & beverage",
+    "long_description": "Trusted by independent grocers across America, Airgoods is the AI-native distributor transforming how stores discover, order, and sell the products their customers want. \r\n\r\nBy combining proprietary data with automation across discovery, purchasing, receiving, and merchandising, Airgoods gives independent grocers the intelligence and operating leverage once reserved for the largest retail chains.",
+    "one_liner": "The modern distributor for grocers.",
     "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Retail",
     "launched_at": 1689699732,
-    "tags": [],
+    "tags": [
+      "Grocery",
+      "Supply Chain",
+      "Food & Beverage"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -45277,6 +45238,51 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/paasa.json"
   },
   {
+    "id": 29790,
+    "name": "YouShift",
+    "slug": "youshift",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a22f1efd256331a2e5ea299a5c6ecd931817254.png",
+    "website": "https://www.you-shift.com/",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "YouShift uses AI to automate hospital shift scheduling, replacing legacy software and eliminating the need for full-time schedulers. And scheduling is just the beginning — we're building the future of healthcare workforce management.",
+    "one_liner": "The OS for hospital workforce management",
+    "team_size": 10,
+    "industry": "B2B",
+    "subindustry": "B2B -> Human Resources",
+    "launched_at": 1738883676,
+    "tags": [
+      "Artificial Intelligence",
+      "Health Tech",
+      "Healthcare",
+      "HR Tech",
+      "Operations"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Human Resources"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/youshift",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/youshift.json"
+  },
+  {
     "id": 29791,
     "name": "Cartage",
     "slug": "cartage",
@@ -46717,17 +46723,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fba2fe192898aad8d25d7bcb8cef6e121485b633.png",
     "website": "https://openbenchmarks.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "AI agents are becoming the primary way software gets discovered and bought. Agents don't trust vendor marketing or SEO - they trust independent evaluations.\r\n\r\nOpenbenchmarks runs open, independent benchmarks across APIs, vendors, tools. \r\nAgents consult these benchmarks when recommending and selecting vendors.\r\n\r\nWe offer private benchmarking & analytics tools to help you measure your product against competitors, see exactly where you fall short, and fix it so that you win Agent's attention.",
-    "one_liner": "Openbenchmarks helps Agents pick the right vendors via Benchmarking",
+    "long_description": "Openbenchmarks runs open, independent benchmarks across APIs, vendors and tools. \r\nHelping teams fairly evaluate vendors.\r\n\r\nWe offer private benchmarking & analytics tools to help you measure your product against competitors, see exactly where you fall short, and fix it.",
+    "one_liner": "Openbenchmarks helps you pick vendors for your use-case via Benchmarks",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1728361776,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "SEO",
-      "AI"
+      "SEO"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -50020,7 +50026,7 @@
     "website": "https://fuseai.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "FuseAI is the AI-native sales platform for modern revenue teams.\r\n\r\nBuilt for high-performance outbound, FuseAI consolidates your entire GTM stack - data, enrichment, multi-channel automation, real-time buying signals, and AI-driven execution  into one seamless system.\r\n\r\nWith powerful integrations and intelligent workflows, FuseAI doesn’t just help you run campaigns. It turns every signal into pipeline, and every rep into a top performer.",
-    "one_liner": "#1 AI Platform for Outbound Sales",
+    "one_liner": "Agentic Sales Platform",
     "team_size": 12,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
@@ -50802,10 +50808,10 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/764b72bcc2fa5b82a346ca5ceda62d50887b6537.png",
     "website": "https://www.artifact.engineer/",
-    "all_locations": "New York City, NY, USA",
+    "all_locations": "Los Angeles, CA, USA",
     "long_description": "Artifact is a collaborative IDE for hardware engineers - accelerating every step in the engineering lifecycle:\r\n\r\nDesign → Procurement → Manufacturing → Integration → Test → Sustainment\r\n\r\nWe've raised $3.5M to build an integrated, verifiable AI copilot with an intuitive UI that reflects how hardware actually gets built. Every artifact is auto-generated and traceable to a single-source of truth.\r\n\r\nWe believe hardware engineering should be rigorous, deliberate, and system-aware. We work directly with customers solving the world's hardest technical problems to modernize how complex hardware is engineered.\r\n\r\nIf you're interested, send your resume & contact info to: careers@artifact.engineer",
     "one_liner": "An Collaborative, AI-native IDE for Hardware Engineers",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1738654022,
@@ -52691,7 +52697,7 @@
     "website": "https://syntheticsociety.ai/",
     "all_locations": "New York City, NY, USA",
     "long_description": "",
-    "one_liner": "Synthetic Users to Simulate Real Users",
+    "one_liner": "Synthetic Videos to Simulate Real Users",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -54305,13 +54311,13 @@
     "long_description": "Tesora builds frontier AI agents for actuaries at P&C carriers, reinsurers, and MGAs. The agents handle the assembly, pulling the data, running the method, and deploying the rater, while you review the work and make every call. We deploy inside the stack you already run, on your infra and under your IT team's control, with no shared servers and nothing to rip out. Your data never trains our models, or anyone else's. We treat this as a partnership so we stay hands-on until the work is live and holding up in production. That standard runs through our security posture too: SOC 2 Type II certified, with a full audit trail behind every change.\r\n\r\nThe part of the job that matters is actuarial judgment, and we automate everything around it so you get back to the work only you can do. Built by AI technologists and actuaries who want to see this exist and backed by Y Combinator & other top investors.",
     "one_liner": "Frontier AI for Actuaries",
     "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
     "launched_at": 1755571936,
     "tags": [
-      "Artificial Intelligence",
       "API",
-      "Insurance"
+      "Insurance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -54320,8 +54326,8 @@
     "batch": "Summer 2025",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Analytics"
+      "Fintech",
+      "Insurance"
     ],
     "regions": [
       "United States of America",
@@ -55363,7 +55369,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ab3b751ff1a6569beaba5e0f91c3c4dbcda3e55.png",
     "website": "https://idler.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Idler is a frontier data research lab. We build the evals and environments that the world's leading frontier labs use to measure and train their models.",
+    "long_description": "idler is a frontier data research lab. We build the evals and environments that the world's leading frontier labs use to measure and train their models.",
     "one_liner": "Hill-climb any benchmark, for any model, in any domain.",
     "team_size": 12,
     "industry": "B2B",
@@ -57883,7 +57889,7 @@
     "all_locations": "New York City, NY, USA",
     "long_description": "If you are a trusts & estates attorney, RIA, fintech, or family office interested in Sava, reach us at founders@savahq.com",
     "one_liner": "Building the future of trusts",
-    "team_size": 3,
+    "team_size": 7,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1762196127,
@@ -58967,49 +58973,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/payna",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/payna.json"
-  },
-  {
-    "id": 31076,
-    "name": "Imperfect",
-    "slug": "imperfect",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/002fb81dd9c99e80efddd89e683644b3b238f04e.png",
-    "website": "https://imperfect.co",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "An adaptive training coach to help runners, cyclists, and triathletes set and achieve goals. It adapts your training, recovery, and nutrition to how your body is actually responding.",
-    "one_liner": "Adaptive training coach for runners, cyclists, and triathletes ",
-    "team_size": 4,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1776207717,
-    "tags": [
-      "Artificial Intelligence",
-      "Digital Health",
-      "Health & Wellness",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/imperfect",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/imperfect.json"
   },
   {
     "id": 31081,
@@ -62299,6 +62262,42 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/anoria",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/anoria.json"
+  },
+  {
+    "id": 31487,
+    "name": "AquaShield",
+    "slug": "aquashield",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/19c992291d0ad061bcca099c36e54cb83327fe66.png",
+    "website": "https://aquashieldai.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "AquaShield protects large real estate portfolios against water damage (losses of up to hundreds of millions per year). ",
+    "one_liner": "AI water leak detection for buildings",
+    "team_size": 3,
+    "industry": "Real Estate and Construction",
+    "subindustry": "Real Estate and Construction",
+    "launched_at": 1778992825,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Real Estate and Construction"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/aquashield",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/aquashield.json"
   },
   {
     "id": 31489,

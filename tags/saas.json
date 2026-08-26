@@ -847,7 +847,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -28246,7 +28246,7 @@
     "website": "https://complif.com",
     "all_locations": "Buenos Aires, CABA, Argentina",
     "long_description": "Complif automates compliance processes for financial entities, including KYC/KYB, AML, risk profiling, documentation management and regulatory reporting.",
-    "one_liner": "Compliance tools for financial companies in LatAm KYC & AML",
+    "one_liner": "Compliance tools & AI agents for financial companies",
     "team_size": 45,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
@@ -43775,17 +43775,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fba2fe192898aad8d25d7bcb8cef6e121485b633.png",
     "website": "https://openbenchmarks.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "AI agents are becoming the primary way software gets discovered and bought. Agents don't trust vendor marketing or SEO - they trust independent evaluations.\r\n\r\nOpenbenchmarks runs open, independent benchmarks across APIs, vendors, tools. \r\nAgents consult these benchmarks when recommending and selecting vendors.\r\n\r\nWe offer private benchmarking & analytics tools to help you measure your product against competitors, see exactly where you fall short, and fix it so that you win Agent's attention.",
-    "one_liner": "Openbenchmarks helps Agents pick the right vendors via Benchmarking",
+    "long_description": "Openbenchmarks runs open, independent benchmarks across APIs, vendors and tools. \r\nHelping teams fairly evaluate vendors.\r\n\r\nWe offer private benchmarking & analytics tools to help you measure your product against competitors, see exactly where you fall short, and fix it.",
+    "one_liner": "Openbenchmarks helps you pick vendors for your use-case via Benchmarks",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1728361776,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "SEO",
-      "AI"
+      "SEO"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46461,10 +46461,10 @@
     "subindustry": "B2B -> Productivity",
     "launched_at": 1755302445,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Productivity",
       "Open Source",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -47883,16 +47883,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7162dc10af43dc1c38075eec773f7958383384d2.png",
     "website": "https://prized.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Prized lets non-engineers build, deploy, and share secure internal tools with AI, no engineering required. You don't need to know where the data lives, what APIs to use, or which connectors you need. Just describe what you want (a customer lookup, a dashboard, an approval flow), and Prized builds the tool on top of the right company data inside a governed boundary.\r\n\r\nThe people who feel the pain of missing internal tools most are non-engineers. They understand the workflow best but are blocked by the software layer, so they wait on engineering, duct-tape spreadsheets together, or increasingly rip company data into Claude Code and Cursor with no thought to permissions, sharing, or governance.\r\n\r\nPrized makes security the default, enforced in the infrastructure rather than left to whoever built the tool. Each tool gets access only to the tables and integrations it was explicitly granted, credentials are workspace-scoped so tools can't cross org boundaries, and outbound calls go through a controlled layer. \r\n\r\nAs an employee builds and shares, a teammate forks it and re-points it at their own data, and over time the company builds up a library of governed tools it actually owns.\r\n\r\nHudson was founding engineer at Gander (F24, acquired by Archer), then full-stack at Suno. Marinos studied CS and ME at Stanford and was on the same Gander team.",
-    "one_liner": "Lovable for internal tools",
+    "long_description": "Prized is a cloud development environment that feels local on your Mac. \r\n\r\nDevelopers get a dedicated, persistent machine with their repos, dependencies, and tools already configured. \r\n\r\nFiles sync into a real local folder, remote ports appear on localhost, and terminals persist through tmux, so developers and coding agents can keep working even after the laptop closes. \r\n\r\nMachines can be resized or cloned as workloads grow, without rebuilding the development environment.",
+    "one_liner": "A cloud devbox that feels local",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1782800618,
     "tags": [
       "Developer Tools",
-      "SaaS",
-      "Productivity"
+      "SaaS"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47922,7 +47921,7 @@
     "slug": "lemonlime",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8ffbde2e695962be35fad4bb6260c320a8d18271.png",
-    "website": "https://www.lemonlime.ai/",
+    "website": "https://www.lemonlime.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "LemonLime runs fully automated sales and marketing for small businesses.\r\n\r\nEvery morning, LemonLime finds you new leads and drafts personalized outreach, prepares branded content, and identifies untapped sales & marketing opportunities.\r\n\r\nAll you have to do is click send.",
     "one_liner": "Fully automated GTM for small business",
@@ -47931,10 +47930,10 @@
     "subindustry": "B2B",
     "launched_at": 1783367890,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Sales",
-      "Marketing"
+      "Marketing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48601,5 +48600,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hyperprobe",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/hyperprobe.json"
+  },
+  {
+    "id": 33804,
+    "name": "Lightfield",
+    "slug": "lightfield",
+    "former_names": [
+      "Lightfield, Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a5892847938d97ba24dce5c43342e5a6f22a2f34.png",
+    "website": "https://trylightfield.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Lightfield connects to a company’s email, chat, and business systems and does the legal work before it reaches the legal team. It gathers context, applies company policies and past decisions, and presents the completed work to in-house counsel for approval.",
+    "one_liner": "AI that works for in-house legal teams",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1786835532,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Legal"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lightfield",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/lightfield.json"
   }
 ]

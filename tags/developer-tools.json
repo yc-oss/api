@@ -22667,6 +22667,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/waddle-labs.json"
   },
   {
+    "id": 31118,
+    "name": "/dev/fast",
+    "slug": "devfast",
+    "former_names": [
+      "Workable Solutions Inc.",
+      "Fix.Fast",
+      "Carson"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fdf0aa48a8dc6d626f3dad009167a50e943af31a.png",
+    "website": "https://dev.fast",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "/dev/fast is the AI-native code forge. We're building 'Review', an open-source Cursor for code review.\r\n\r\nThe Review app is designed to give you confidence in your code. Critique interactive visualizations, diffs, and agent traces, all from one interface. \r\n\r\nLearn more at https://dev.fast",
+    "one_liner": "/dev/fast is the AI-native code forge",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1771920641,
+    "tags": [
+      "Developer Tools"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/devfast",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/devfast.json"
+  },
+  {
     "id": 31133,
     "name": "Skillsync",
     "slug": "skillsync",
@@ -22674,7 +22716,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9cbaacf18216a2c670dfe6e49d4332b592214780.png",
     "website": "https://skillsync.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Skillsync lets you push your agents' sessions the way you push code. Everything lands in one searchable place. The best sessions become skills any agent can load. Works across your team!\r\n\r\nToday, all that thinking, what worked, what didn't, and why, is scattered across Claude Code, Codex, Hermes, whatever each engineer prefers. It vanishes when the session closes. Skillsync captures it, so every agent builds like your best engineer. The more your team ships, the smarter your agents get. Engineering culture stops being tribal knowledge. It becomes explicit, shared, and reusable.",
+    "long_description": "Skillsync is a local-first desktop app that frees your context from any single coding agent. Move a full session, including the conversation, reasoning, and tool history, between Claude Code, Codex, Cursor, and any other agent with nothing lost. Keep your skills and memory in one searchable place, accessible from any agent via MCP. And when your team perfects a skill, it syncs to everyone automatically, so you stop digging through Slack threads and zip files to find the version that actually works.\r\n\r\nThe engine that translates sessions across agent formats, txcript, is open source and written in Rust. Say it once, and every agent and teammate has it.",
     "one_liner": "Move context across agents and teammates",
     "team_size": 2,
     "industry": "B2B",
@@ -23376,16 +23418,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7162dc10af43dc1c38075eec773f7958383384d2.png",
     "website": "https://prized.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Prized lets non-engineers build, deploy, and share secure internal tools with AI, no engineering required. You don't need to know where the data lives, what APIs to use, or which connectors you need. Just describe what you want (a customer lookup, a dashboard, an approval flow), and Prized builds the tool on top of the right company data inside a governed boundary.\r\n\r\nThe people who feel the pain of missing internal tools most are non-engineers. They understand the workflow best but are blocked by the software layer, so they wait on engineering, duct-tape spreadsheets together, or increasingly rip company data into Claude Code and Cursor with no thought to permissions, sharing, or governance.\r\n\r\nPrized makes security the default, enforced in the infrastructure rather than left to whoever built the tool. Each tool gets access only to the tables and integrations it was explicitly granted, credentials are workspace-scoped so tools can't cross org boundaries, and outbound calls go through a controlled layer. \r\n\r\nAs an employee builds and shares, a teammate forks it and re-points it at their own data, and over time the company builds up a library of governed tools it actually owns.\r\n\r\nHudson was founding engineer at Gander (F24, acquired by Archer), then full-stack at Suno. Marinos studied CS and ME at Stanford and was on the same Gander team.",
-    "one_liner": "Lovable for internal tools",
+    "long_description": "Prized is a cloud development environment that feels local on your Mac. \r\n\r\nDevelopers get a dedicated, persistent machine with their repos, dependencies, and tools already configured. \r\n\r\nFiles sync into a real local folder, remote ports appear on localhost, and terminals persist through tmux, so developers and coding agents can keep working even after the laptop closes. \r\n\r\nMachines can be resized or cloned as workloads grow, without rebuilding the development environment.",
+    "one_liner": "A cloud devbox that feels local",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1782800618,
     "tags": [
       "Developer Tools",
-      "SaaS",
-      "Productivity"
+      "SaaS"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -23546,8 +23587,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0a9882f0ac224b2b32ff0636a2c28986acf45c0d.png",
     "website": "https://codag.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "Log compression for agents.",
+    "long_description": "Codag compresses tool call outputs before agents read them, which reduces token spend by  20-30% while retaining output accuracy.\r\n\r\nGovern and see analytics on agent dollars across all model providers and internal agents. \r\n ",
+    "one_liner": "Tool call compression for agents.",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",

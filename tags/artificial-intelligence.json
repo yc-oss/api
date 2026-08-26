@@ -5796,7 +5796,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -11461,48 +11461,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/coffeeai",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/coffeeai.json"
-  },
-  {
-    "id": 25348,
-    "name": "Sei AI",
-    "slug": "sei-ai",
-    "former_names": [
-      "Arda",
-      "Sei"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/866cec0759154ee708c6b843e16d3f00f9d773be.png",
-    "website": "https://seiright.com/",
-    "all_locations": "New York City, NY, USA",
-    "long_description": "Sei is an AI platform for mortgage lenders, servicers & banks. We're already live with banks, and top IMBs.",
-    "one_liner": "AI Operations Partner for Mortgage & Banking",
-    "team_size": null,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
-    "launched_at": 1646055749,
-    "tags": [
-      "Artificial Intelligence",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sei-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/sei-ai.json"
   },
   {
     "id": 25394,
@@ -28203,7 +28161,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -29595,6 +29553,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/candle",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/candle.json"
+  },
+  {
+    "id": 30033,
+    "name": "Openbenchmarks",
+    "slug": "openbenchmarks",
+    "former_names": [
+      "OpenFunnel"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fba2fe192898aad8d25d7bcb8cef6e121485b633.png",
+    "website": "https://openbenchmarks.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Openbenchmarks runs open, independent benchmarks across APIs, vendors and tools. \r\nHelping teams fairly evaluate vendors.\r\n\r\nWe offer private benchmarking & analytics tools to help you measure your product against competitors, see exactly where you fall short, and fix it.",
+    "one_liner": "Openbenchmarks helps you pick vendors for your use-case via Benchmarks",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1728361776,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "SEO"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/openbenchmarks",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/openbenchmarks.json"
   },
   {
     "id": 30039,
@@ -33801,6 +33803,57 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/mesmer.json"
   },
   {
+    "id": 30529,
+    "name": "Adentris",
+    "slug": "adentris",
+    "former_names": [
+      "Wrkdn",
+      "Work Done (WRKDN)",
+      "Wrkdn",
+      "WorkDone",
+      "WorkDone Health"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/299342dc68e4bc077a079313853d9982af12d81d.png",
+    "website": "https://www.adentris.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "US healthcare providers lose billions every year to denied claims, most of them traced back to documentation and coding gaps no one catches until the payer says no. Adentris is an AI revenue integrity platform that catches them first. Our AI agents read EHR and payer interfaces directly, no API integration required, across five modules: documentation, coding QA, prior authorization, appeals and denials, and discharge summaries. And for providers that don't have their own CDI or billing teams, we run billing as a service on top of the platform.",
+    "one_liner": "Real-time AI Compliance & Revenue Integrity for Medical Providers",
+    "team_size": 5,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1745803962,
+    "tags": [
+      "Artificial Intelligence",
+      "Health Tech",
+      "B2B",
+      "Compliance",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": true,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/adentris",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/adentris.json"
+  },
+  {
     "id": 30531,
     "name": "Moby Analytics",
     "slug": "moby-analytics",
@@ -35191,49 +35244,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/deepaware-ai-robotics-center-of-silicon-valley.json"
   },
   {
-    "id": 30663,
-    "name": "Tesora",
-    "slug": "tesora",
-    "former_names": [
-      "Tesora AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2793bc4802e1c1cddfc383aed3ac255ec33a0465.png",
-    "website": "https://tesora.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tesora builds frontier AI agents for actuaries at P&C carriers, reinsurers, and MGAs. The agents handle the assembly, pulling the data, running the method, and deploying the rater, while you review the work and make every call. We deploy inside the stack you already run, on your infra and under your IT team's control, with no shared servers and nothing to rip out. Your data never trains our models, or anyone else's. We treat this as a partnership so we stay hands-on until the work is live and holding up in production. That standard runs through our security posture too: SOC 2 Type II certified, with a full audit trail behind every change.\r\n\r\nThe part of the job that matters is actuarial judgment, and we automate everything around it so you get back to the work only you can do. Built by AI technologists and actuaries who want to see this exist and backed by Y Combinator & other top investors.",
-    "one_liner": "Frontier AI for Actuaries",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1755571936,
-    "tags": [
-      "Artificial Intelligence",
-      "API",
-      "Insurance"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tesora",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/tesora.json"
-  },
-  {
     "id": 30664,
     "name": "Kestroll",
     "slug": "kestroll",
@@ -35609,6 +35619,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/twentytwo",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/twentytwo.json"
+  },
+  {
+    "id": 30711,
+    "name": "Char",
+    "slug": "char",
+    "former_names": [
+      "Hyprnote"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aca02a57c5f38896120f1fe6767d1975b6a6b522.png",
+    "website": "https://char.com",
+    "all_locations": "Seoul, Seoul, South Korea",
+    "long_description": "Char is a daily notepad that finishes your todos for you. Type a checkbox, and an agent picks it up — researching, drafting, or scheduling on your behalf. Stay in command. Char does the work.",
+    "one_liner": "The AI notepad that knows and works for you",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1755302445,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Productivity",
+      "Open Source",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "South Korea",
+      "East Asia",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/char",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/char.json"
   },
   {
     "id": 30712,
@@ -38555,7 +38612,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2026",
     "status": "Active",
@@ -39399,6 +39456,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/foreman",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/foreman.json"
+  },
+  {
+    "id": 31244,
+    "name": "Turnstone",
+    "slug": "turnstone",
+    "former_names": [
+      "Crow"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/83da57a5a7cd9d76b06d6dda92bb99843ca0edf1.png",
+    "website": "https://myturnstone.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Turnstone is the AI workspace where your agents already know you. Connect your apps (e.g. email, calendar, Slack, Drive) and your local folders. Turnstone turns all of it into your second brain and continuously updates it.\r\n\r\nSpin up agents (e.g. chief of staff, research, GTM) that all share that brain, so you stop re-explaining yourself and start getting real work done.\r\n\r\nIt all lives on your machine and runs on any model you already pay for. Ask your agent once, and it's done.",
+    "one_liner": "Work with agents that already know you",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1768862675,
+    "tags": [
+      "Artificial Intelligence"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/turnstone",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/turnstone.json"
   },
   {
     "id": 31246,
@@ -40919,47 +41016,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/speko.json"
   },
   {
-    "id": 32171,
-    "name": "LemonLime",
-    "slug": "lemonlime",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8ffbde2e695962be35fad4bb6260c320a8d18271.png",
-    "website": "https://www.lemonlime.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "LemonLime runs fully automated sales and marketing for small businesses.\r\n\r\nEvery morning, LemonLime finds you new leads and drafts personalized outreach, prepares branded content, and identifies untapped sales & marketing opportunities.\r\n\r\nAll you have to do is click send.",
-    "one_liner": "Fully automated GTM for small business",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1783367890,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Sales",
-      "Marketing"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lemonlime",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/lemonlime.json"
-  },
-  {
     "id": 32187,
     "name": "Insurf",
     "slug": "insurf",
@@ -41000,6 +41056,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/insurf",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/insurf.json"
+  },
+  {
+    "id": 32188,
+    "name": "IMPACT Drones",
+    "slug": "impact-drones",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7df3a5c9dfd6e7d9865e24f95f172c997a7183b.png",
+    "website": "https://www.impact-drones.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "IMPACT builds autonomous interceptor drones that ship in sealed containers. The box sits at the site it protects, data centers, power grids, airports, bases, with no crew on the pad. When sensors cue a hostile drone, an interceptor pierces its own frangible lid, launches, and rams the target, guided by onboard vision that keeps working when GPS is jammed. Legacy effectors cost $1M+ per shot against $30k threats; ours cost less than the threat and scale with the swarm, the same class of interceptor already downing Shahed drones over Ukraine. Sites subscribe to protection instead of buying missiles, hardware, reloads and monitoring included: Air Defense as a Service. 180M+ USD in signed letters of intent.",
+    "one_liner": "Air Defense as a Service for Civilian Infrastructure.",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Defense",
+    "launched_at": 1785702345,
+    "tags": [
+      "Artificial Intelligence",
+      "Hardware",
+      "Drones",
+      "Swarm Robotics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/impact-drones",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/impact-drones.json"
   },
   {
     "id": 32190,
@@ -42062,48 +42160,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/isengard-industries-inc.json"
   },
   {
-    "id": 32816,
-    "name": "Financial Datasets",
-    "slug": "financial-datasets",
-    "former_names": [
-      "Financial Datasets, Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b4bdae68fdd8f9d994fab11fca6b30709eb7e7c.png",
-    "website": "https://financialdatasets.ai/",
-    "all_locations": "New York City, NY, USA",
-    "long_description": "Financial Datasets is the best way to connect your agent to real-time stock market data: fundamentals, filings, ownership, earnings, KPIs, prices, and more.\r\n\r\nNew data is available within seconds of publication. We are a primary-source provider of financial data. Statements, filings, and disclosures are collected, parsed, and served by us directly.",
-    "one_liner": "Connect your agent to the stock market ",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1786382003,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "Stocks"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/financial-datasets",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/financial-datasets.json"
-  },
-  {
     "id": 32914,
     "name": "Last Accounting Company",
     "slug": "last-accounting-company",
@@ -42392,47 +42448,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/carsignal",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/carsignal.json"
-  },
-  {
-    "id": 33048,
-    "name": "Pennant",
-    "slug": "pennant",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7fbb4be6497bcd38a1210a0561cf3eb84422ab32.png",
-    "website": "https://www.getpennant.ai",
-    "all_locations": "New York City, NY, USA",
-    "long_description": "Led by former institutional proxy voters and technologists with a collective 20+ years of experience, Pennant gives institutional investors, public companies, and corporate advisors voting and governance intelligence to act on their own principles at scale.",
-    "one_liner": "The Corporate Governance OS for Public Markets",
-    "team_size": 2,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Asset Management",
-    "launched_at": 1786584832,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "Investing"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Asset Management"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pennant",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/pennant.json"
   },
   {
     "id": 33054,
@@ -43074,6 +43089,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/conifer",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/conifer.json"
+  },
+  {
+    "id": 33969,
+    "name": "OpenTag",
+    "slug": "opentag",
+    "former_names": [
+      "Gini Agent",
+      "Gini",
+      "OpenTag",
+      "Open Tag"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3523399de943bf46e546a3bb703261d27fd2fa69.png",
+    "website": "https://www.tryopentag.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "OpenTag - is an AI coworker that lives in your Slack and Teams. It has full context on your company, so it can answer questions, join calls, and take real work off your team's plate. OpenTag also keeps your company wiki and knowledge base up to date automatically, so your team's knowledge never goes stale or walks out the door.",
+    "one_liner": "Model Agnostic Claude Tag",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1787093671,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "B2B",
+      "Workflow Automation",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/opentag",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/opentag.json"
   },
   {
     "id": 34464,
