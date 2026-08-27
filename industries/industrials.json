@@ -1758,7 +1758,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -10578,11 +10578,11 @@
     "subindustry": "Industrials -> Aviation and Space",
     "launched_at": 1706583323,
     "tags": [
+      "Artificial Intelligence",
       "Satellites",
       "Aerospace",
       "Automation",
-      "Defense",
-      "AI"
+      "Defense"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -10790,17 +10790,17 @@
       "DeepNight"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/419c6b136773af60713e2a4301554b4ef1bbd8a9.png",
-    "website": "https://www.deepnight.ai/",
+    "website": "https://www.deepnight.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "DeepNight is building the next generation of night vision with AI.",
     "one_liner": "Building The Next Generation of Night Vision Devices",
-    "team_size": 13,
+    "team_size": 16,
     "industry": "Industrials",
     "subindustry": "Industrials -> Defense",
     "launched_at": 1709629638,
     "tags": [
-      "Computer Vision",
-      "AI"
+      "Artificial Intelligence",
+      "Computer Vision"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -12872,7 +12872,7 @@
     "website": "https://www.axal.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We help companies get custom PCBs built without having to manage multiple vendors themselves. We review or create PCB designs, find the right manufacturer, coordinate production, inspect and test every board, handle any manufacturing issues, and deliver the finished boards directly to your office.\r\n\r\nOur goal is to reduce manufacturing errors, shorten iteration cycles, and get your boards to you as quickly as possible without compromising on quality.",
-    "one_liner": "Service company that designs, sources, and quality-tests custom PCBs",
+    "one_liner": "We design, assemble, and test custom PCBs fast.",
     "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -15399,15 +15399,15 @@
     "all_locations": "London, England, United Kingdom",
     "long_description": "We engineer inexpensive, autonomous strike drones designed to operate in the most contested combat environments on Earth!\r\n\r\nBy combining true hardware modularity with an agentic control system that lowers cognitive load on operators, we enable faster upgrades, broader adoption, and more than 2x reduction in lifecycle cost.\r\n\r\nOur customers and partners include the UK Royal Marine Commandos, several other units in the UK, and 4 other NATO forces, and we are currently shipping prototypes for iterative feedback.\r\n\r\nThink of us as Anduril, but with worse weather, and better banter.",
     "one_liner": "Modular AI-Commanded Drones for Defence",
-    "team_size": 2,
+    "team_size": 7,
     "industry": "Industrials",
     "subindustry": "Industrials -> Defense",
     "launched_at": 1768422348,
     "tags": [
-      "Artificial Intelligence",
       "Hardware",
       "Drones",
-      "Aerospace"
+      "Defense",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -16231,6 +16231,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/surtr-defense-systems",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/surtr-defense-systems.json"
+  },
+  {
+    "id": 31341,
+    "name": "Most Robotic",
+    "slug": "most-robotic",
+    "former_names": [
+      "Instance"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/16ccadcbd2ec474ed470efbc872763f4a7984ec0.png",
+    "website": "https://mostrobotic.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We're a robotics research lab pushing what's possible with physical AI.\r\n\r\nWe're MIT computer scientists & friends since middle school, with robotics research backgrounds and industry experience at NASA JPL, SpaceX, and AWS.\r\n\r\nEmail founders@mostrobotic.com to learn more.",
+    "one_liner": "Research lab for physical AI",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1782761102,
+    "tags": [
+      "Robotics",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/most-robotic",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/most-robotic.json"
   },
   {
     "id": 31359,
@@ -17234,7 +17276,7 @@
     "tags": [
       "B2B",
       "Design",
-      "3D Printing",
+      "Design Tools",
       "Manufacturing",
       "Industrial"
     ],
@@ -17441,22 +17483,22 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37650fbbc73ea1ea0b895fd819e93836825d1520.png",
     "website": "https://synapsesemi.org",
     "all_locations": "Durham, NC, USA",
-    "long_description": "We want to push machines to where humans cant go. \r\nPresidential early career award winning Duke Semiconductor ECE Faculty Tania Roy and her past student / VC Associate Sanjeev Chauhan are building a frontier semiconductor research lab. Their focus is on solving physical AI challenges from the semiconductor device level and building products around the moat of impossible to copy innovation. Their first work is on a new vision sensor that can run neural network filters right in the camera pixels and only collect data that machines care about. As physical AI develops, machines needs to understand the world around them if they aim to interact with them.\r\n",
+    "long_description": "We want to push machines to where humans cant go. \r\nPresidential early career award winning Duke Semiconductor ECE Faculty Tania Roy and Sanjeev Chauhan are building a frontier semiconductor research lab. Their focus is on solving physical AI challenges from the semiconductor device level and building products around the moat of impossible to copy innovation. Their first work is on a new vision sensor that can run neural network filters right in the camera pixels and only collect data that machines care about. As physical AI develops, machines needs to understand the world around them if they aim to interact with them.\r\n",
     "one_liner": "New semiconductors that merge compute and vision",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials",
     "launched_at": 1785109099,
     "tags": [
-      "Artificial Intelligence",
       "Edge Computing Semiconductors",
       "Hard Tech",
       "Robotics",
-      "Defense"
+      "Defense",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2026",
     "status": "Active",
@@ -18855,7 +18897,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2026",
     "status": "Active",
@@ -19046,6 +19088,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lambda-robotics",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/lambda-robotics.json"
+  },
+  {
+    "id": 35128,
+    "name": "Talos",
+    "slug": "talos-us",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/adf2f2d3e67de554b1df8a77cdc1d6dd943928ec.png",
+    "website": "https://www.talos-us.com/",
+    "all_locations": "Baltimore, MD, USA",
+    "long_description": "Predictive maintenance for the power grid. ",
+    "one_liner": "Predictive maintenance for power infrastructure.",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Energy",
+    "launched_at": 1787763466,
+    "tags": [
+      "Deep Learning",
+      "IoT",
+      "Energy"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Energy"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/talos-us",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/talos-us.json"
   },
   {
     "id": 35290,

@@ -43307,7 +43307,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -45260,16 +45260,16 @@
     "all_locations": "Leuven, Flanders, Belgium",
     "long_description": "Spott is the first AI-native ATS/CRM for recruiting & staffing firms. We built Spott because existing recruitment platforms require extensive manual work, are clunky to use, rely on fragmented add-ons, and are not designed for AI adoption.\r\n\r\nSpott combines everything recruiting firms need, from a full ATS & CRM to AI agents across the entire workflow, into one AI-native solution. It enables recruiters to focus on what matters most and close more placements.",
     "one_liner": "AI-native ATS/CRM for recruiting firms",
-    "team_size": 15,
+    "team_size": 50,
     "industry": "B2B",
     "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1737184010,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "HR Tech",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46792,24 +46792,25 @@
   },
   {
     "id": 30885,
-    "name": "Semble AI",
-    "slug": "semble-ai",
+    "name": "Semble",
+    "slug": "semble",
     "former_names": [
       "Cadence",
-      "Cadlit"
+      "Cadlit",
+      "Semble AI"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3be22ea19fa3ff9792176dc916455712e0e9ecda.png",
     "website": "https://www.sembleai.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Semble is the operating system for your construction business. It's a live platform that keeps the office and the field in sync on every project and provides AI agents to run the workflows your business depends on.\r\n\r\nJonathan and Ethan met studying computer science at Stanford. Jonathan worked at Convergint, one of the world's largest building system integrators.",
-    "one_liner": "Operating system for your construction business.",
-    "team_size": 2,
+    "one_liner": "The all-in-one software for integrators.",
+    "team_size": 14,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1758754473,
     "tags": [
-      "Artificial Intelligence",
-      "SaaS"
+      "SaaS",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46829,8 +46830,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/semble-ai",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/semble-ai.json"
+    "url": "https://www.ycombinator.com/companies/semble",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/semble.json"
   },
   {
     "id": 30895,
@@ -47843,8 +47844,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1241956aa50c817e1c2feee9934ea253b0d12c38.png",
     "website": "https://trope.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Trope is the AI-native ERP system integrator.\r\n\r\nWe accelerate months of hourly implementation work with agent-driven, fixed-fee delivery. Instead of leaving customers with a static system, we deploy AI agents that continue running and improving core business operations after go-live.\r\n\r\nTrope combines AI trained on ERP systems with principal consultants who have delivered 200+ implementations over 20 years. Together, they turn consulting services into software, shifting systems integration from one-time implementations to continuous AI-driven operations.",
-    "one_liner": "The AI-native ERP system integrator",
+    "long_description": "Trope deploys AI agents into ERPs for mid-market companies.\r\n\r\nNo two ERPs are the same. Every ERP has been configured over months by implementation consultants.\r\n\r\nThat means every useful AI agent requires customization, leaving ERP vendors, consulting firms, and customers stuck with slow deployments, subpar solutions, and services that are too expensive to scale.\r\n\r\nTrope’s AI FDE learns each company’s ERP and business processes, then builds, tests, and deploys the agents automatically, turning that last mile from services into software.",
+    "one_liner": "AI FDE that deploys custom AI agents into ERPs",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -48487,8 +48488,9 @@
     "subindustry": "B2B",
     "launched_at": 1785653742,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
+      "B2B",
+      "AI",
       "Automotive"
     ],
     "tags_highlighted": [],

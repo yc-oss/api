@@ -3502,7 +3502,7 @@
     "website": "https://www.axal.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We help companies get custom PCBs built without having to manage multiple vendors themselves. We review or create PCB designs, find the right manufacturer, coordinate production, inspect and test every board, handle any manufacturing issues, and deliver the finished boards directly to your office.\r\n\r\nOur goal is to reduce manufacturing errors, shorten iteration cycles, and get your boards to you as quickly as possible without compromising on quality.",
-    "one_liner": "Service company that designs, sources, and quality-tests custom PCBs",
+    "one_liner": "We design, assemble, and test custom PCBs fast.",
     "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -4836,22 +4836,23 @@
   },
   {
     "id": 31341,
-    "name": "Instance",
-    "slug": "instance",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6294b12382598c88510ebe8d73568321732a7d00.png",
-    "website": "https://www.instancelabs.ai/",
+    "name": "Most Robotic",
+    "slug": "most-robotic",
+    "former_names": [
+      "Instance"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/16ccadcbd2ec474ed470efbc872763f4a7984ec0.png",
+    "website": "https://mostrobotic.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We’re automating robot evaluation– the loop where you wait for your robot to roll out, judge its success, and then reset the scene. We're starting with step one: a success detector that automatically tells you whether your robot actually completed its task along with detailed subtask breakdown. \r\n\r\nWe're MIT computer scientists & friends since middle school, with backgrounds at NASA JPL, SpaceX, and AWS.\r\n\r\nBook a demo with founders@instancelabs.ai.",
-    "one_liner": "Automated evals for robot policies",
+    "long_description": "We're a robotics research lab pushing what's possible with physical AI.\r\n\r\nWe're MIT computer scientists & friends since middle school, with robotics research backgrounds and industry experience at NASA JPL, SpaceX, and AWS.\r\n\r\nEmail founders@mostrobotic.com to learn more.",
+    "one_liner": "Research lab for physical AI",
     "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1782761102,
     "tags": [
-      "Artificial Intelligence",
       "Robotics",
-      "Data Labeling"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4860,7 +4861,8 @@
     "batch": "Summer 2026",
     "status": "Active",
     "industries": [
-      "B2B"
+      "Industrials",
+      "Manufacturing and Robotics"
     ],
     "regions": [
       "United States of America",
@@ -4871,8 +4873,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/instance",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/instance.json"
+    "url": "https://www.ycombinator.com/companies/most-robotic",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/most-robotic.json"
   },
   {
     "id": 31359,
@@ -5223,22 +5225,22 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37650fbbc73ea1ea0b895fd819e93836825d1520.png",
     "website": "https://synapsesemi.org",
     "all_locations": "Durham, NC, USA",
-    "long_description": "We want to push machines to where humans cant go. \r\nPresidential early career award winning Duke Semiconductor ECE Faculty Tania Roy and her past student / VC Associate Sanjeev Chauhan are building a frontier semiconductor research lab. Their focus is on solving physical AI challenges from the semiconductor device level and building products around the moat of impossible to copy innovation. Their first work is on a new vision sensor that can run neural network filters right in the camera pixels and only collect data that machines care about. As physical AI develops, machines needs to understand the world around them if they aim to interact with them.\r\n",
+    "long_description": "We want to push machines to where humans cant go. \r\nPresidential early career award winning Duke Semiconductor ECE Faculty Tania Roy and Sanjeev Chauhan are building a frontier semiconductor research lab. Their focus is on solving physical AI challenges from the semiconductor device level and building products around the moat of impossible to copy innovation. Their first work is on a new vision sensor that can run neural network filters right in the camera pixels and only collect data that machines care about. As physical AI develops, machines needs to understand the world around them if they aim to interact with them.\r\n",
     "one_liner": "New semiconductors that merge compute and vision",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials",
     "launched_at": 1785109099,
     "tags": [
-      "Artificial Intelligence",
       "Edge Computing Semiconductors",
       "Hard Tech",
       "Robotics",
-      "Defense"
+      "Defense",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2026",
     "status": "Active",
