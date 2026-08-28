@@ -3826,7 +3826,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -5033,7 +5033,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -5821,7 +5821,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -7668,7 +7668,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -17129,7 +17129,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -24781,48 +24781,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2022/kaso.json"
   },
   {
-    "id": 25447,
-    "name": "Myria",
-    "slug": "myria",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ead23204732cf71066d05d95b633fe5109de70e7.png",
-    "website": "https://myria.us",
-    "all_locations": "Los Angeles, CA, USA; Remote",
-    "long_description": "Myria is a private community and concierge for off-market goods & services — the things you can't Google. \r\n\r\nUltra-high net worth individuals spend $390 billion per year ($1.3 million each) on lifestyle, but they still struggle to find everything they want. Why?\r\n\r\nBecause the best of any category — homes, boats, restaurant reservations — the best stuff is never listed online. Likewise, the best people don’t need the internet to find a new client or job. \r\n\r\nThe best is always off-market.  Myria is the Off-Marketplace. \r\n\r\nMyria helps off-market sellers reach the nicest and wealthiest buyers. In turn, we help the world’s most successful people access the best of everything, give back, and get the most out of life. \r\n\r\nIf it’s off-market, it’s on Myria! ",
-    "one_liner": "A marketplace of luxury services for the ultra-wealthy",
-    "team_size": 7,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1647814152,
-    "tags": [
-      "Marketplace",
-      "Consumer",
-      "Community"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/myria",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/myria.json"
-  },
-  {
     "id": 25476,
     "name": "Shuttle Central",
     "slug": "shuttle-central",
@@ -29281,12 +29239,12 @@
     "name": "Metriport",
     "slug": "metriport",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d4da680d3cdee4cc7ad6408d3177026092f04c75.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8b4285b77e4b14c5f733b3fb8ecb0243b368b92c.png",
     "website": "https://metriport.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Metriport provides real-time access to medical data for 340 million individuals across the US. Its open-source platform turns scattered patient records across all major healthcare IT systems into structured information that gives clinicians what they need, exactly when they need it, to provide the best possible care. \r\n\r\nMetriport manages dozens of connections across all national HIEs and QHINs, state and regional HIEs, ADT networks, pharmacies, labs, and EHRs. It then matches, extracts, standardizes, deduplicates, and enriches records, and converts them into a unified data model, accessible through a single API, data warehouse, or apps directly within an EHR.\r\n\r\nIn addition to providing longitudinal patient clinical data at the point of care, Metriport offers ambient monitoring, alerting providers in real time as patients are moved through the healthcare system to assist with transitions of care. Metriport also delivers insights on top of the data, like AI medical record summarization, condition suspecting, and surfacing care gaps.\r\n\r\nFounded in 2022 and headquartered in San Francisco, Metriport processes 4.2 billion network requests a month and returns the first structured record in under 15 seconds. Teams across care delivery, value-based programs, and health tech platforms build on Metriport, including Amazon One Medical, Strive Health, Color, Sollis Health, and Canvas Medical.",
     "one_liner": "Healthcare data infrastructure for next generation care delivery.",
-    "team_size": 26,
+    "team_size": 29,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1654554081,
@@ -30272,10 +30230,10 @@
     "launched_at": 1656366086,
     "tags": [
       "Documents",
+      "Artificial Intelligence",
       "Fintech",
       "Legal",
-      "Proptech",
-      "AI"
+      "Proptech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -35472,6 +35430,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/outset.json"
   },
   {
+    "id": 28867,
+    "name": "Shasta Health",
+    "slug": "shasta-health",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d0ddbae01a1bda2827881248dc2c26ab87f27982.png",
+    "website": "https://www.shasta.health",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Shasta Health builds AI agents to handle patient calls, verify insurance and automate admin tasks for healthcare clinics",
+    "one_liner": "AI calling & browser agents for healthcare",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare Services",
+    "launched_at": 1690927737,
+    "tags": [
+      "Health Tech",
+      "Digital Health",
+      "Healthcare",
+      "Healthcare IT",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare Services"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/shasta-health",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/shasta-health.json"
+  },
+  {
     "id": 28869,
     "name": "Health Harbor",
     "slug": "health-harbor",
@@ -38130,6 +38131,45 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/drymerge.json"
   },
   {
+    "id": 29185,
+    "name": "Relari",
+    "slug": "relari",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d8724ca6da40d81a8aadbd3cf9cf5fbaa58ac997.png",
+    "website": "https://www.relari.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Relari is a robotics research company developing new ways for robots to learn dexterous manipulation from humans. We combine video with rich, scalable biomechanical data—including electromyography (EMG), motion, force, and touch—to train robotics foundation models for more capable, human-like manipulation.",
+    "one_liner": "Building dexterous robots that learn from human biomechanics",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1709879960,
+    "tags": [
+      "Robotics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/relari",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/relari.json"
+  },
+  {
     "id": 29196,
     "name": "Scritch",
     "slug": "scritch",
@@ -39175,16 +39215,16 @@
     "all_locations": "New York City, NY, USA",
     "long_description": "Greenboard is building a singular, AI-powered platform to handle management of the entirety of financial firms’ compliance programs, and eventually all back office processes. Today, financial institutions use Greenboard to detect risk using AI and to rip out and replace the bad legacy back office tooling they have wanted to get rid of for years.\r\n \r\n\r\n\r\nGreenboard's mission is to enable financial institutions to operate their back office teams at a higher standard, with half of the headcount. We’re starting with compliance",
     "one_liner": "Modern OS for the financial back office. ",
-    "team_size": 26,
+    "team_size": 35,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1700498020,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "SaaS",
       "Compliance",
-      "Operations"
+      "Operations",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -39199,7 +39239,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -39426,18 +39466,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/511c79fc4e10857bff72dd38626234991f19c62c.png",
     "website": "https://respan.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Respan (formerly Keywords AI) gives teams a unified control plane to trace and evaluate agent behavior without guesswork, automatically surface issues, and fix what breaks faster. Respan connects production observability, automated and human-in-the-loop evaluations, and an adaptive AI gateway to close the loop between detection, decision, and action - so agents improve continuously in production.\r\n\r\nRespan is trusted by 100+ AI startups and enterprise teams. Today, the platform process 1B+ logs and 2T+ tokens every month, supporting more than 6.5M end users.",
+    "long_description": "Respan gives teams a unified control plane to trace and evaluate agent behavior without guesswork, automatically surface issues, and fix what breaks faster. Respan connects production observability, automated and human-in-the-loop evaluations, and an adaptive AI gateway to close the loop between detection, decision, and action - so agents improve continuously in production.\r\n\r\nRespan is trusted by 100+ AI startups and enterprise teams. Today, the platform process 1B+ logs and 2T+ tokens every month, supporting more than 6.5M end users.",
     "one_liner": "Self-driving observability, evals, and gateway for AI agents",
-    "team_size": 15,
+    "team_size": 23,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1711136962,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "Monitoring"
+      "Monitoring",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -39456,7 +39496,7 @@
       "Partly Remote"
     ],
     "stage": "Early",
-    "app_video_public": false,
+    "app_video_public": true,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
@@ -40041,7 +40081,7 @@
     "website": "https://codeant.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "CodeAnt AI attacks your systems the way a real adversary would, then it walks back into your code and helps you build the defenses exactly where the attack got through.\r\n\r\nContinuous attack. Continuous defense. One self-learning platform.\r\n\r\nTrigger a free pentest No engagement fee. Pay only if we find high or critical issues; low and medium issues are free.",
-    "one_liner": "Autonomous offensive and defensive security platform",
+    "one_liner": "Autonomous offensive and defensive cybersecurity platform",
     "team_size": 25,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -43547,12 +43587,12 @@
     "name": "Weave Robotics",
     "slug": "weave-robotics",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa1669fc77240d5b136ed7eb12c167327e93c7e8.png",
-    "website": "https://www.weaverobots.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/656bbbf27cb99ea496ba946f90963d0806212dab.png",
+    "website": "https://www.weaverobotics.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Making the world’s first personal robot that's built for the home.  Our robot, Isaac, will autonomously tidy up endless messes, fold laundry, and care for your home while you’re away, and we’re shipping our first 30 in fall of 2025.",
-    "one_liner": "Personal robots for the home--that ship in 2025",
-    "team_size": 10,
+    "one_liner": "Practical and delightful home robots",
+    "team_size": 26,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1724225748,
@@ -44009,6 +44049,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/conveo",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/conveo.json"
+  },
+  {
+    "id": 29719,
+    "name": "cmux",
+    "slug": "cmux",
+    "former_names": [
+      "Manaflow"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f240894ee1866a817f8d66f9ed82314520294cbf.png",
+    "website": "https://www.cmux.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "An open source native macOS terminal built on Ghostty. Vertical tabs, notification rings when agents need attention, split panes, and a CLI for programmability.",
+    "one_liner": "Open source applied AI lab building next-gen devtools",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1715992295,
+    "tags": [
+      "Developer Tools",
+      "Open Source",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cmux",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/cmux.json"
   },
   {
     "id": 29729,
@@ -44494,11 +44576,11 @@
     "subindustry": "B2B -> Analytics",
     "launched_at": 1722311835,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Analytics",
-      "Data Engineering",
-      "AI"
+      "Data Engineering"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46169,52 +46251,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/merlin-ai",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/merlin-ai.json"
-  },
-  {
-    "id": 29978,
-    "name": "SimCare",
-    "slug": "simcare",
-    "former_names": [
-      "simhealth.ai",
-      "Luna Sim (prev. simhealth.ai)",
-      "Soma Lab",
-      "SimCare AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1907f0562c3999072b46993e335043d8a2316f2d.png",
-    "website": "https://simcare.ai",
-    "all_locations": "New York City, NY, USA",
-    "long_description": "SimCare is an all in one solution for training clinical skills in healthcare and behavioral health. From AI avatars that you can speak with, feedback systems trusted by the top programs in the country, to site placements tools that help you show your skills and find a job. SimCare is used across the board to train counselors, social workers, doctors and nurses.",
-    "one_liner": "AI avatars to scale healthcare training.",
-    "team_size": 7,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1719547782,
-    "tags": [
-      "AI-Enhanced Learning",
-      "Education",
-      "Healthcare",
-      "Edtech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/simcare",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/simcare.json"
   },
   {
     "id": 29987,
@@ -50058,7 +50094,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -51201,7 +51237,7 @@
     "all_locations": "London, England, United Kingdom",
     "long_description": "Code review is a major bottleneck for software teams, and the rise of AI-generated code is making the problem worse. Reviewing large volumes of code slows devs down, and increases the chances of bugs slipping through.\r\n\r\nThat's why we're building cubic: an intelligent code review platform that helps devs merge PRs 28% faster.\r\n\r\nHow? \r\n- When you open a PR, cubic automatically reviews it. It learns from your codebase's patterns, points out bugs, suggesting fixes, and frees you from low-level review tasks.\r\n- You then jump into the cubic platform, which is designed to optimize how humans review code. For example, file changes are organized in a logical order instead of alphabetical, and cubic generates diagrams of architecture changes.",
     "one_liner": "AI-powered code review platform",
-    "team_size": 3,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1743248262,
@@ -56517,47 +56553,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/brickwise.json"
   },
   {
-    "id": 30848,
-    "name": "Parrot",
-    "slug": "parrot",
-    "former_names": [
-      "Parrot takes down Duolingo"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/456a29d2b6a9ad58f25000ceded3f47b7968c4e6.png",
-    "website": "https://parrotapp.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Parrot is the TikTok for language learning. We turn doomscrolling into fluency with personalized short-form videos. Power users scroll for 6 hours/week on Parrot. Our team of engineers have lived the frustration of ineffective apps and learning methods - we’re building the first language platform that actually works.",
-    "one_liner": "TikTok for language learning",
-    "team_size": 3,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1758577465,
-    "tags": [
-      "AI-Enhanced Learning",
-      "Education"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/parrot",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/parrot.json"
-  },
-  {
     "id": 30853,
     "name": "Bolna AI",
     "slug": "bolna-ai",
@@ -57426,7 +57421,7 @@
     "name": "Sunflower",
     "slug": "sunflower",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0bf8a606a0267a7db66ed2ec72c3d40992e132b9.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae86a0721b6effe108baf0067f19c1305be5c48b.png",
     "website": "https://sunflowerclinic.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Sunflower is building an AI-native telemedicine clinic for addiction. There are over 18,750 patients on a waitlist for Therapy or Meds, representing $153M worth of TAM just waiting to be served. \r\n\r\nWe started by launching Sunflower Sober, the first AI Sponsor for addiction which grew to 100 MAU in less than 6 months and currently driving about $1.5M in run-rate worth of subscription app revenue.  \r\n\r\nSunflower Sober is currently pacing to add over 800,000 new users a year which means we are growing literally faster than Alcoholics Anonymous. \r\n\r\nWe have built one of the largest and most deeply loved brands within sobriety, and now we are building the clinical services underneath this brand to better fulfill on our mission & serve Medicaid who spends over $30B a year on SUD services. \r\n\r\nSunflower is founded by Koby who previously led Growth at Rupa from $5M to $75M/year. Our team includes clinical leaders (MDs / LPCs) from the Mayo Clinic, Choose Your Horizon, & Charlie Health. ",
@@ -59780,6 +59775,43 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/parameter",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/parameter.json"
+  },
+  {
+    "id": 31175,
+    "name": "Pax Historia",
+    "slug": "pax-historia",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/58aceddc6b7af2ca2c35058e943baf719c91fe1c.png",
+    "website": "https://www.paxhistoria.co",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Pax Historia is an AI powered sandbox game where players create and upload whatever worlds they can imagine for others to play. What if Rome never fell? What if aliens invaded Earth? What if you were a college dropout creating a tech startup? \r\n\r\nThe ability to create, edit, and copy custom maps, actors, historical context, and more means that users can play nearly any scenario they can imagine.\r\n\r\nWe've organically built a passionate fanbase of tens of thousands of daily active players and we're excited to expand on this early start. Consider joining us to help build vastly better tools for creators and experiences for players.",
+    "one_liner": "The first AI-powered worldbuilding and gameplay platform",
+    "team_size": 6,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Gaming",
+    "launched_at": 1766621024,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Gaming"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pax-historia",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/pax-historia.json"
   },
   {
     "id": 31176,
@@ -62796,10 +62828,10 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/30c1f1fb7356289878fa2341c0a20700f178fbcf.png",
     "website": "https://intelligence-factory.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "New York City, NY, USA",
     "long_description": "Robotics is the new paradigm. With hardware converging, Intelligence is the biggest bottleneck. Our world was built for humans and we're giving robots the ability to reason and act like us. \r\n\r\nThe way we learn any task - by seeing, doing, and feeling - is how we train robots. We're building general intelligence that works on any robot and fits seamlessly within our world.",
     "one_liner": "Human Intelligence for Robots",
-    "team_size": 5,
+    "team_size": 10,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1777499618,
@@ -63088,7 +63120,7 @@
     "website": "https://screenpipe.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "screenpipe record and learns how you work and turns it into a searchable memory, documents, and AI agents. Data is stored on your device or where your team choose, open source.",
-    "one_liner": "AI powered by everything you've seen, said or heard",
+    "one_liner": "Turn your company's computer work into AI agents.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -63345,7 +63377,7 @@
     "website": "https://locke.inc",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Locke builds AI agents that help companies and governments work together.\r\n\r\nOur agents also power Locke Government Affairs, the first AI-native government affairs firm.",
-    "one_liner": "Locke is changing the way companies and governments work together.",
+    "one_liner": "AI agents that help companies and governments work together.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",

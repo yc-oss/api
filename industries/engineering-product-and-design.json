@@ -17371,7 +17371,7 @@
     "website": "https://codeant.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "CodeAnt AI attacks your systems the way a real adversary would, then it walks back into your code and helps you build the defenses exactly where the attack got through.\r\n\r\nContinuous attack. Continuous defense. One self-learning platform.\r\n\r\nTrigger a free pentest No engagement fee. Pay only if we find high or critical issues; low and medium issues are free.",
-    "one_liner": "Autonomous offensive and defensive security platform",
+    "one_liner": "Autonomous offensive and defensive cybersecurity platform",
     "team_size": 25,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -21687,7 +21687,7 @@
     "all_locations": "London, England, United Kingdom",
     "long_description": "Code review is a major bottleneck for software teams, and the rise of AI-generated code is making the problem worse. Reviewing large volumes of code slows devs down, and increases the chances of bugs slipping through.\r\n\r\nThat's why we're building cubic: an intelligent code review platform that helps devs merge PRs 28% faster.\r\n\r\nHow? \r\n- When you open a PR, cubic automatically reviews it. It learns from your codebase's patterns, points out bugs, suggesting fixes, and frees you from low-level review tasks.\r\n- You then jump into the cubic platform, which is designed to optimize how humans review code. For example, file changes are organized in a logical order instead of alphabetical, and cubic generates diagrams of architecture changes.",
     "one_liner": "AI-powered code review platform",
-    "team_size": 3,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1743248262,
@@ -22883,12 +22883,12 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Wafer builds AI agents that work as autonomous performance engineers, optimizing GPU kernels for AI inference. \r\n\r\nOur product is serverless and dedicated inference for the world’s fastest open source LLMs, achieved by Wafer's autonomous performance engineers. ",
     "one_liner": "AI that makes AI fast",
-    "team_size": 7,
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1751530242,
     "tags": [
-      "Artificial Intelligence"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -24958,16 +24958,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Visibl makes custom chip development dramatically faster and lower cost for hardware companies.\r\n\r\nToday, most hardware companies that need a custom chip have bad options: sign a massive contract with an incumbent like Broadcom, pay a traditional design house millions of dollars and wait 18+ months, or keep using off-the-shelf chips and FPGAs that are not optimized for their product's cost, power, performance, size, or manufacturability.\r\n\r\nWe handle the full path from architecture and design through verification, foundry management, and production. That makes custom ASICs accessible to robotics, drones, industrial, IoT, and edge hardware companies that were previously priced out of the market.\r\n\r\nAs more hardware products need differentiated silicon, we think custom chip development should be available to far more companies than it is today.",
     "one_liner": "A faster, lower cost path to custom silicon",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1767637338,
     "tags": [
-      "Artificial Intelligence",
       "Hard Tech",
       "Enterprise",
       "Enterprise Software",
-      "Semiconductors"
+      "Semiconductors",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -25924,6 +25924,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/amorphic-labs",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/amorphic-labs.json"
+  },
+  {
+    "id": 31570,
+    "name": "Rindler",
+    "slug": "rindler",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ba85eb3919f954ce9bf661f9b9ee195327c93ceb.png",
+    "website": "https://maxxwell.dev",
+    "all_locations": "Boston, MA, USA",
+    "long_description": "We build Maxxwell, a desktop app for people who run several coding agents at once.\r\n\r\nPast two or three sessions, you become the bottleneck. Every session asks you something, most of it small, and you spend the day answering instead of deciding. It is also hard to tell which sessions are making progress, which are stuck on something trivial, and which have quietly started building the wrong thing.\r\n\r\nMaxxwell puts every session in one window and marks each one working, idle, or waiting on you. On top of that sits an orchestrator, a real coding-agent session of its own that reads the others and reports back. You talk to it instead of to twelve terminals. It tells you what landed, what it decided for you, and what actually needs your call.\r\n\r\nEvery worker is your own tool, unmodified. Claude Code, Codex and Cursor Agent run in real terminal sessions you can attach to and take over at any point",
+    "one_liner": "The IDE for Tokenmaxxers",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1783408799,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rindler",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/rindler.json"
   },
   {
     "id": 32089,
