@@ -213,8 +213,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c561ac3ff3132e3dda05b6de7836b2d1b55ed1aa.png",
     "website": "https://autumn.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Autumn is building the first real-time signal intelligence platform for GTM teams. We monitor posts, commits, blogs, and announcements, surfacing buying signals the moment they appear. Define your ICP and the signals that matter, and we deliver a condensed, real-time feed filtered by intents.",
-    "one_liner": "Stalk your prospects at scale.",
+    "long_description": "Autumn is building the world’s most comprehensive index of people and companies.\r\n\r\nInformation about anyone is scattered across profiles, filings, event pages, code, posts, news, and the rest of the open web. Autumn reads across these sources, determines which records belong together, and creates a complete, source-backed profile of people and companies - including relationships, work history, contact information, and digital footprint.\r\n\r\nSearch for anyone, build a cohort, or research a company through our API.",
+    "one_liner": "Everything on anyone.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -1375,14 +1375,16 @@
   },
   {
     "id": 31082,
-    "name": "Syntropy",
-    "slug": "syntropy",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e19b35070e7d07faf76c0c63ed399bd1286b5daf.png",
-    "website": "https://syntropy.io",
+    "name": "Quotient Labs",
+    "slug": "quotient-labs",
+    "former_names": [
+      "Syntropy"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67e517c455ab1e170ed6b2628a4dce9546f07490.png",
+    "website": "https://quotientlabs.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Syntropy is an autonomous coding agent built for complex long-horizon tasks, that turns a feature description into a fully tested implementation. Instead of babysitting a terminal for hours writing prompts and managing context, just describe what you want, go out for lunch, and come back to a production-ready PR. Syntropy joins your Slack to send you updates, and also supports custom MCP integrations.",
-    "one_liner": "The agentic coding app for complex tasks.",
+    "long_description": "Quotient Labs runs on top of Claude Code to reduce token spend, compress context, and optimize tool calls while preserving output quality, without changing how you work. Benchmarked 47% less cost on real, multi-step developer workflows, with no quality loss.",
+    "one_liner": "Use Claude Code at 47% less cost in one line of installation.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -1407,8 +1409,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/syntropy",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/syntropy.json"
+    "url": "https://www.ycombinator.com/companies/quotient-labs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/quotient-labs.json"
   },
   {
     "id": 31083,
@@ -5977,14 +5979,14 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7b4d1a0f867d8f5d24359da3d4d5fca3fbbabe57.png",
     "website": "https://buildwithglue.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Fractional buyer for hardware companies manufacturing experimental parts in critical industries",
-    "one_liner": "Fractional buyer for hardware companies in critical industries",
-    "team_size": 2,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "long_description": "We build environments and evals for frontier research agents. In these environments, models carry out research engineering work such as optimizing an algorithm, deploying a model, or running experiments to solve a novel problem. A grader scores the agent’s performance, and these scores serve as signals during evaluations.",
+    "one_liner": "Evals for frontier research agents",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1772831162,
     "tags": [
-      "Industrial"
+      "Reinforcement Learning"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5993,8 +5995,8 @@
     "batch": "Winter 2026",
     "status": "Active",
     "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
+      "B2B",
+      "Engineering, Product and Design"
     ],
     "regions": [
       "United States of America",

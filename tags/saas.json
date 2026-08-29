@@ -13562,14 +13562,14 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1583972966,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2020",
     "status": "Active",
@@ -20235,7 +20235,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ef18ff7a47b6ccba783538bb34567deafd6e5a0f.png",
     "website": "https://www.biodock.ai",
-    "all_locations": "Astana, Kazakhstan; Austin, TX, USA",
+    "all_locations": "Austin, TX, USA",
     "long_description": "Biodock's cloud platform accelerates microscopy analysis, automating months of microscopy analysis and infrastructure to minutes with our end-to-end AI architecture.  Scientists enjoy auto-scaling storage, GPU compute, and 30-50% more accurate analysis.\r\n\r\nWe're building an amazing experience to translate microscopy images to therapeutic insights for academic and enterprise scientists.",
     "one_liner": "Cloud AI microscopy automation",
     "team_size": 8,
@@ -20243,9 +20243,9 @@
     "subindustry": "Healthcare -> Therapeutics",
     "launched_at": 1614650681,
     "tags": [
-      "Artificial Intelligence",
       "Deep Learning",
-      "SaaS"
+      "SaaS",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20258,9 +20258,7 @@
       "Therapeutics"
     ],
     "regions": [
-      "Kazakhstan",
       "United States of America",
-      "Asia",
       "America / Canada",
       "Remote",
       "Partly Remote"
@@ -22561,7 +22559,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -40719,7 +40717,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -42784,7 +42782,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": false,
+    "question_answers": true,
     "url": "https://www.ycombinator.com/companies/zeit-ai",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/zeit-ai.json"
   },
@@ -44132,8 +44130,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb2a3cdbbb6f4b0b97cc737484c96197f2cb06a5.png",
     "website": "https://archilabs.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "ArchiLabs is building the AI CAD tool for architects and engineers. We focus on use cases like: production homebuilding, modular housing, MEP, fire suppression systems, and more.",
-    "one_liner": "AI CAD for AEC",
+    "long_description": "ArchiLabs is building the data center project OS.",
+    "one_liner": "AI Data Center Design",
     "team_size": 2,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction -> Construction",
@@ -47453,7 +47451,7 @@
     "website": "https://pothlabs.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Poth is an agentic research platform that connects to your company data, creates hypotheses about what might be causing problems, and validates them using both existing data and adaptive user feedback.",
-    "one_liner": "Helping companies understand why users behave the way they do",
+    "one_liner": "Conversational surveys that replace Qualtrics for large brands",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -47837,6 +47835,48 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/enjamb-labs.json"
   },
   {
+    "id": 31570,
+    "name": "Rindler",
+    "slug": "rindler",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ba85eb3919f954ce9bf661f9b9ee195327c93ceb.png",
+    "website": "https://maxxwell.dev",
+    "all_locations": "Boston, MA, USA",
+    "long_description": "We build Maxxwell, a desktop app for people who run several coding agents at once.\r\n\r\nPast two or three sessions, you become the bottleneck. Every session asks you something, most of it small, and you spend the day answering instead of deciding. It is also hard to tell which sessions are making progress, which are stuck on something trivial, and which have quietly started building the wrong thing.\r\n\r\nMaxxwell puts every session in one window and marks each one working, idle, or waiting on you. On top of that sits an orchestrator, a real coding-agent session of its own that reads the others and reports back. You talk to it instead of to twelve terminals. It tells you what landed, what it decided for you, and what actually needs your call.\r\n\r\nEvery worker is your own tool, unmodified. Claude Code, Codex and Cursor Agent run in real terminal sessions you can attach to and take over at any point",
+    "one_liner": "The IDE for Tokenmaxxers",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1783408799,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rindler",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/rindler.json"
+  },
+  {
     "id": 32135,
     "name": "Trope",
     "slug": "trope",
@@ -47844,16 +47884,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1241956aa50c817e1c2feee9934ea253b0d12c38.png",
     "website": "https://trope.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Trope deploys AI agents into ERPs for mid-market companies.\r\n\r\nNo two ERPs are the same. Every ERP has been configured over months by implementation consultants.\r\n\r\nThat means every useful AI agent requires customization, leaving ERP vendors, consulting firms, and customers stuck with slow deployments, subpar solutions, and services that are too expensive to scale.\r\n\r\nTrope’s AI FDE learns each company’s ERP and business processes, then builds, tests, and deploys the agents automatically, turning that last mile from services into software.",
+    "long_description": "Trope deploys custom AI agents into ERPs for mid-market companies. Every ERP is heavily customized, so useful agents need custom deployment too. Trope’s AI FDE learns each business and ERP, then builds and deploys agents, turning the last mile from services into software.",
     "one_liner": "AI FDE that deploys custom AI agents into ERPs",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1783447220,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48401,7 +48441,7 @@
     "website": "https://executor.sh",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Executor.sh is an MCP gateway that allows you to sign in once to all of your integrations and use them with any client.\r\n\r\nWe enable you to connect your agents to anything (MCP, GraphQL, OpenAPI) so regardless of what you're trying to connect agents to you're able to.\r\n\r\nIf you're trying to scale agents to access all of your production services, data, etc, you need Executor as a unified management layer.",
-    "one_liner": "The open source integration management layer for AI.",
+    "one_liner": "The open source tool gateway",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -48482,15 +48522,16 @@
     "website": "https://www.trycarsignal.com",
     "all_locations": "Los Angeles, CA, USA",
     "long_description": "CarSignal is the AI-native operating system for independent auto repair shops.\r\n\r\nMost shops still run each repair across disconnected management software, scan tools, parts catalogs, service information, texts, spreadsheets, and knowledge kept in technicians’ heads. That fragmentation slows diagnosis, creates duplicate admin, and leaves customers waiting.\r\n\r\nCarSignal connects the full repair process in one system. AI agents research vehicle-specific failure patterns and surface the tests that confirm or rule out each cause. The same system carries each job from booking and intake through inspections, estimates, parts, approvals, payment, and follow-up, so technicians spend less time searching and updating systems and more time fixing cars.",
-    "one_liner": "The Smart Operating System for Auto Shops.",
+    "one_liner": "The AI Operating System for Auto Shops.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1785653742,
     "tags": [
+      "Artificial Intelligence",
+      "Hardware",
       "SaaS",
       "B2B",
-      "AI",
       "Automotive"
     ],
     "tags_highlighted": [],

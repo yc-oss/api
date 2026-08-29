@@ -4908,6 +4908,48 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/uno-wallet.json"
   },
   {
+    "id": 31570,
+    "name": "Rindler",
+    "slug": "rindler",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ba85eb3919f954ce9bf661f9b9ee195327c93ceb.png",
+    "website": "https://maxxwell.dev",
+    "all_locations": "Boston, MA, USA",
+    "long_description": "We build Maxxwell, a desktop app for people who run several coding agents at once.\r\n\r\nPast two or three sessions, you become the bottleneck. Every session asks you something, most of it small, and you spend the day answering instead of deciding. It is also hard to tell which sessions are making progress, which are stuck on something trivial, and which have quietly started building the wrong thing.\r\n\r\nMaxxwell puts every session in one window and marks each one working, idle, or waiting on you. On top of that sits an orchestrator, a real coding-agent session of its own that reads the others and reports back. You talk to it instead of to twelve terminals. It tells you what landed, what it decided for you, and what actually needs your call.\r\n\r\nEvery worker is your own tool, unmodified. Claude Code, Codex and Cursor Agent run in real terminal sessions you can attach to and take over at any point",
+    "one_liner": "The IDE for Tokenmaxxers",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1783408799,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rindler",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/rindler.json"
+  },
+  {
     "id": 32131,
     "name": "Shielded",
     "slug": "shielded",
@@ -5215,7 +5257,7 @@
     "website": "https://lucaiq.com/",
     "all_locations": "Boston, MA, USA",
     "long_description": "Luca IQ is an API for deterministic tax calculation and an IRS Authorized e-filing engine - the foundation for accounting firms and fintechs building on tax.",
-    "one_liner": "API First Tax Engine for CPAs",
+    "one_liner": "API-first tax engine for CPA firms and developers",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
@@ -5376,51 +5418,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/subvysion",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/subvysion.json"
-  },
-  {
-    "id": 33315,
-    "name": "Amulet",
-    "slug": "amulet",
-    "former_names": [
-      "Quokka"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a701d932d1defe46eb3a0feed27a1cd9efe8e13c.png",
-    "website": "https://amulet.so/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Amulet is a high-performance filesystem that gives agent workloads fast access to petabytes of data stored in the cloud. \r\n\r\nWe provide isolated, writable workspaces that mount in under 100 ms and fork without copying data. Work persists across disposable compute, and every workspace can be snapshotted, reproduced, merged, or rolled back. We’re working with agentic automated-research labs, cloud agent providers, and other to bring this infrastructure to data-intensive AI teams.",
-    "one_liner": "High performance file system for agents",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1783403722,
-    "tags": [
-      "Developer Tools",
-      "Machine Learning",
-      "Big Data",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/amulet",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/amulet.json"
   },
   {
     "id": 33320,

@@ -3013,7 +3013,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -8338,7 +8338,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -10230,7 +10230,7 @@
     "website": "https://baudlabs.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Novel AI hardware and developer platform, built from first principles to let companies train, fine-tune, and deploy frontier models with orders of magnitude better performance than incumbents",
-    "one_liner": "AI chips for ultra-fast model training and inference",
+    "one_liner": "AI chips for ultra-fast training and inference",
     "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials",
@@ -12593,7 +12593,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We're developing better, safer pesticides in-house using custom AI models. ",
     "one_liner": "Discovering new pesticides with AI",
-    "team_size": 4,
+    "team_size": 13,
     "industry": "Industrials",
     "subindustry": "Industrials -> Agriculture",
     "launched_at": 1740392812,
@@ -14048,17 +14048,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd88161755dbb4d7513a2dc91e69b26930313524.png",
     "website": "https://os3robotics.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We are building robots, including custom actuators. Our first model is trained for the robot with 150k hours of video data. \r\n\r\nThe robot, a mobile semi-humanoid priced, is already signed for deployments in hospitality and biotech. Our developer version lets anyone deploy robots in their own verticals, and we already have preorders.\r\n\r\nWe are scaling American robotics while making it accessible to more businesses.",
+    "long_description": "We are building robots, including custom actuators. Our first model is trained for the robot with 150k hours of video data. \r\n\r\nThe robot, a mobile semi-humanoid priced, is already signed for deployments in hospitality and biotech. Our developer version lets anyone deploy robots in their own verticals, and we are working with startups deploying in hospitals and data centers.\r\n\r\nWe are scaling American robotics while making it accessible to more businesses.",
     "one_liner": "Full Stack Robotics: Deploying US-Built Robots & Video Action Models",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1753297896,
     "tags": [
+      "Artificial Intelligence",
       "Hardware",
       "Robotics",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -15710,48 +15710,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/libra-robotics.json"
   },
   {
-    "id": 31231,
-    "name": "Anchorhead",
-    "slug": "anchorhead",
-    "former_names": [
-      "Willow",
-      "Glue"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7b4d1a0f867d8f5d24359da3d4d5fca3fbbabe57.png",
-    "website": "https://buildwithglue.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Fractional buyer for hardware companies manufacturing experimental parts in critical industries",
-    "one_liner": "Fractional buyer for hardware companies in critical industries",
-    "team_size": 2,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1772831162,
-    "tags": [
-      "Industrial"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/anchorhead",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/anchorhead.json"
-  },
-  {
     "id": 31232,
     "name": "Remy AI",
     "slug": "remy-ai",
@@ -17145,13 +17103,13 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Proprio Robotics is building state-of-the-art physical intelligence to automate the entire data center lifecycle—from buildout to maintenance to decommissioning. There are currently 400,000 unstaffed data center technicians positions in the United States alone, which means the massive compute needs of AI are being bottlenecked by labor constraints. Proprio is solving this by building robots that do it instead, and is deploying data center maintenance robots starting Q1 2027. ",
     "one_liner": "Building autonomous data centers",
-    "team_size": 2,
+    "team_size": 1,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1784630562,
     "tags": [
-      "Robotics",
-      "AI"
+      "Artificial Intelligence",
+      "Robotics"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -17395,16 +17353,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6f79f9bbc22f20d6e3465ca66081c4a646834064.png",
     "website": "https://enact.company",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Enact generates the data that makes robotics models reliable in the real world. We run the full improvement loop: roll out, find failures, collect targeted data, train, evaluate, and repeat.",
-    "one_liner": "The post-training layer for robotics.",
+    "long_description": "Enact creates the physical environments to benchmark and hill climb robotics models on high-value tasks. We find where robots fail, and fix them with our in-house training loop.",
+    "one_liner": "Real-world RL environments for robotics models",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1786311090,
     "tags": [
-      "Artificial Intelligence",
       "Reinforcement Learning",
-      "Robotics"
+      "Robotics",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -17653,7 +17611,7 @@
     "website": "https://www.exosat.com",
     "all_locations": "Singapore, Singapore",
     "long_description": "Exosat is building thousands of low-cost communication satellites to provide a neutral, sovereign alternative to Starlink. By designing our satellites with zero ITAR/EAR-controlled content, we can leverage manufacturers anywhere in the world to produce our satellites at under a tenth of the cost and launch them from other nations to bypass capacity bottlenecks and access equatorial orbits. \r\n\r\nWe're starting off by selling connectivity to device OEMs and network operators, but will eventually use the distributed compute across our constellation to run low-latency inference for robots and autonomous vehicles in remote and rural areas anywhere on the planet.\r\n\r\nWe've already signed hundreds of millions in LOIs to work with operators across Central Asia, Southeast Asia, and the Middle East, booked our first satellite launch next year, and hold an 11,000 satellite filing with the ITU to build the largest comms network outside of the U.S. and China.",
-    "one_liner": "Building a sovereign Starlink",
+    "one_liner": "Building a sovereign alternative to Starlink",
     "team_size": 1,
     "industry": "Industrials",
     "subindustry": "Industrials -> Aviation and Space",
@@ -17866,7 +17824,7 @@
     "website": "http://norirobotics.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We manufacture Nori: A sub-$2000 bimanual mobile manipulator that can clean rooms, restock shelves, and fold clothes. Nori can handle basic tasks out of the box, and its software lets anyone teach Nori to automate work specific to their home or business. \r\n\r\nNori aims to solve the robotics data bottleneck. By deploying affordable robots to customers around the world, we can gather the diverse data required to train the next generation of generalist robotic policies. Every user of Nori makes Nori smarter.\r\n\r\nSince launching 6 weeks ago we have already deployed our first robot and have over $350k+ in sales.\r\n\r\nWe can bring general-purpose robotics to homes and businesses that could never afford it before. There are 132.7 million households and 8.4 million employer business locations in the U.S. At $1,688 per robot, selling just one Nori to 0.5% of them represents a $1.2B market opportunity in the U.S. alone. ",
-    "one_liner": "sub-$2000 humanoid robot you can teach to do anything",
+    "one_liner": "American Humanoid which costs 3% of the competition",
     "team_size": 5,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -18208,17 +18166,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ee4bd602221f77fc05dda940b7202523dd2b9d10.png",
     "website": "https://movingatoms.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Moving Atoms is building world models trained on internet scale video: models that accurately predict physical interactions and are conditioned on robot actions. Our first model, Atom 1, already tops the Physics IQ benchmark. \r\n\r\nAn exceptional world model is what makes an exceptional robot model possible, and that's phase two.\r\nLLMs were unlocked by the trillions of text tokens sitting free on the internet. We believe robotics gets unlocked a similar way, by the latent physics information in online video content.",
-    "one_liner": "World Model Lab for Evaluating and Training Robots.",
+    "long_description": "Moving Atoms is building robot models trained on internet scale video and designed to be micromanaged by LLMs.\r\nOur first model, Atom 1, already tops the Physics IQ benchmark - this is stage 1 of the robot model we are building (a World Action Model).\r\n\r\nCurrently, robot models are trained end-to-end to recieve large scale tasks like \"fold t-shirt\". They were never designed to have an advanced LLM micromanaging them, telling them how to move and when (“reach(mug marked in frame)”, “grasp(marked mug at handle)”)\r\n\r\nBy training robot models that can be micro-managed, we allow robotics to use the orchestration and planning abilities of LLMs while having the physics, contact and timing be controlled by the robot model.",
+    "one_liner": "Robot Models designed to be controlled by LLMs",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1786481200,
     "tags": [
+      "Artificial Intelligence",
       "Hard Tech",
       "Robotics",
-      "Virtual Reality",
-      "AI"
+      "Virtual Reality"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -18335,17 +18293,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/60eafb41e958f2dbb87a17e5996bba09e7731f2f.png",
     "website": "https://marengox.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Marengo designs data centers in half the time and half the cost with AI. We’re working with some of the largest data center builders in the world to improve how design is done today.\r\n\r\nWe're backed by Y Combinator, a16z & Index Venture Scout Funds, as well as investors/angels in OpenAI, Anthropic, SpaceX, and more.\r\n\r\nOur advisors include the former President & CEO of Saipem America ($3B+ P&L), former President of Exyte's Advanced Technology Facilities GBU ($6B+ P&L) and more.",
+    "long_description": "Marengo is an AI-native engineering firm designing data centers in half the time and half the cost. We have $4M in design partnerships with two of the world's largest developers ($XB).\r\n\r\nMarengo is backed by YC, Future Planet Capital, undisclosed $2B AUM family office, and other top-tier investors.\r\n\r\nOur advisors include the former President & CEO of Saipem America ($3B+ P&L), former President of Exyte's Advanced Technology Facilities GBU ($6B+ P&L) and more.",
     "one_liner": "AI-Native Engineering Firm designing Data Centers ",
     "team_size": 5,
     "industry": "Industrials",
     "subindustry": "Industrials -> Energy",
     "launched_at": 1786181708,
     "tags": [
+      "Artificial Intelligence",
       "Design",
       "Energy",
-      "Architecture",
-      "AI"
+      "Architecture"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -18795,7 +18753,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/26c677c7621160c55e8011d6851971173fe4f8e9.png",
     "website": "https://ethos-space.com",
     "all_locations": "Los Angeles, CA, USA",
-    "long_description": "We make Silicon on the Moon. Data centers in space are launch-constrained. Silicon in space removes the constraint. Scales past terawatts.",
+    "long_description": "The Moon will become the next Silicon Valley as compute moves to space. Already, rockets cannot keep up with launch demand. \r\n\r\nWe make silicon from raw materials already present on the Moon, so that power in space can be made in space.\r\n\r\nSilicon on the Moon is how to ascend the Kardashev scale.",
     "one_liner": "We make Silicon on the Moon.",
     "team_size": 2,
     "industry": "Industrials",
@@ -18804,9 +18762,9 @@
     "tags": [
       "Hard Tech",
       "Exascale Computing",
-      "3D Printing",
       "Energy",
-      "Aerospace"
+      "Aerospace",
+      "Industrial"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -18825,7 +18783,7 @@
       "Partly Remote"
     ],
     "stage": "Early",
-    "app_video_public": false,
+    "app_video_public": true,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,

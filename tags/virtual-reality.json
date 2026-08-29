@@ -603,17 +603,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ee4bd602221f77fc05dda940b7202523dd2b9d10.png",
     "website": "https://movingatoms.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Moving Atoms is building world models trained on internet scale video: models that accurately predict physical interactions and are conditioned on robot actions. Our first model, Atom 1, already tops the Physics IQ benchmark. \r\n\r\nAn exceptional world model is what makes an exceptional robot model possible, and that's phase two.\r\nLLMs were unlocked by the trillions of text tokens sitting free on the internet. We believe robotics gets unlocked a similar way, by the latent physics information in online video content.",
-    "one_liner": "World Model Lab for Evaluating and Training Robots.",
+    "long_description": "Moving Atoms is building robot models trained on internet scale video and designed to be micromanaged by LLMs.\r\nOur first model, Atom 1, already tops the Physics IQ benchmark - this is stage 1 of the robot model we are building (a World Action Model).\r\n\r\nCurrently, robot models are trained end-to-end to recieve large scale tasks like \"fold t-shirt\". They were never designed to have an advanced LLM micromanaging them, telling them how to move and when (“reach(mug marked in frame)”, “grasp(marked mug at handle)”)\r\n\r\nBy training robot models that can be micro-managed, we allow robotics to use the orchestration and planning abilities of LLMs while having the physics, contact and timing be controlled by the robot model.",
+    "one_liner": "Robot Models designed to be controlled by LLMs",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1786481200,
     "tags": [
+      "Artificial Intelligence",
       "Hard Tech",
       "Robotics",
-      "Virtual Reality",
-      "AI"
+      "Virtual Reality"
     ],
     "tags_highlighted": [],
     "top_company": false,

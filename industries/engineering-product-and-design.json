@@ -7243,14 +7243,14 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1583972966,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2020",
     "status": "Active",
@@ -16472,7 +16472,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -18906,7 +18906,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -20200,13 +20200,13 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We're making consumer agent products completely free, using the best open source models, and funded by ads.\r\n\r\nOur first product is a coding agent CLI called Freebuff. Install it with \"npm i -g freebuff\". We're also working on a free Lovable competitor.",
     "one_liner": "The free coding agent",
-    "team_size": 2,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1728685475,
     "tags": [
-      "Developer Tools",
-      "AI"
+      "Artificial Intelligence",
+      "Developer Tools"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21137,7 +21137,7 @@
     "all_locations": "Zürich, ZH, Switzerland",
     "long_description": "Stillwind builds AI tools for electrical engineers to aide them in the repetitive parts of the process, primarily component search, cross referencing and simple circuitry. ",
     "one_liner": "Electrical Engineering Components Compaion",
-    "team_size": 4,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1740421634,
@@ -25118,6 +25118,48 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/superset.json"
   },
   {
+    "id": 31231,
+    "name": "Anchorhead",
+    "slug": "anchorhead",
+    "former_names": [
+      "Willow",
+      "Glue"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7b4d1a0f867d8f5d24359da3d4d5fca3fbbabe57.png",
+    "website": "https://buildwithglue.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We build environments and evals for frontier research agents. In these environments, models carry out research engineering work such as optimizing an algorithm, deploying a model, or running experiments to solve a novel problem. A grader scores the agent’s performance, and these scores serve as signals during evaluations.",
+    "one_liner": "Evals for frontier research agents",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1772831162,
+    "tags": [
+      "Reinforcement Learning"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/anchorhead",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/anchorhead.json"
+  },
+  {
     "id": 31241,
     "name": "Corelayer",
     "slug": "corelayer",
@@ -25353,14 +25395,16 @@
   },
   {
     "id": 31360,
-    "name": "Lightsprint",
+    "name": "LightSprint",
     "slug": "lightsprint",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3feaf8d76278baf8b9fbde6cc73fdda3ea2a5b18.png",
+    "former_names": [
+      "Lightsprint"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c43e010268551eab76be0368766c6aa0da142440.png",
     "website": "https://lightsprint.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lightsprint is a collaborative platform for software teams to plan visually, preview live and ship with an army of cloud agents. Your whole team, including non-engineers, can now ship end to end reliably.\r\n\r\nThe company is founded by Ben Ong, an AI investor who previously scaled AI products at SEA Group (NYSE: SE) and Temasek ($300B fund), Benedict Chan who was VP Engineering at Chainlink and CTO at BitGo (NYSE:BTGO), and Heng Hong Lee who built Facebook Messenger in 2013 and was Director of Engineering at Fazz (YC S17).",
-    "one_liner": "Collaborative product development with cloud agents",
+    "long_description": "Lightsprint is a collaborative platform for product teams to plan visually, preview live and ship with an army of cloud agents. Your whole team, including non-engineers, can now ship end to end reliably.\r\n\r\nThe company is founded by Ben Ong, an AI investor who previously scaled AI products at SEA Group (NYSE: SE) and Temasek ($300B fund), Benedict Chan who was VP Engineering at Chainlink and CTO at BitGo (NYSE:BTGO), and Heng Hong Lee who built Facebook Messenger in 2013 and was Director of Engineering at Fazz (YC S17).",
+    "one_liner": "Software factory for product teams",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -25940,9 +25984,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1783408799,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "B2B"
+      "SaaS",
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -26609,5 +26654,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/simulithic",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/simulithic.json"
+  },
+  {
+    "id": 35395,
+    "name": "Workers IO",
+    "slug": "workers-io",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12ec3720a247bad2e5a39d162b68e217ed6b74bd.png",
+    "website": "https://workers.io",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Workers IO makes sure everything you ship works. Our platform maps every scenario your software can face in production and verifies each release against all of them in simulation environments, every failure comes back as an exact, replayable run.\r\n\r\nEngineering teams stop chasing bugs and ship at agent speed, with certainty that used to be impossible.",
+    "one_liner": "Deterministic Virtual Machines",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1786070819,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/workers-io",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/workers-io.json"
   }
 ]
