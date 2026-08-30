@@ -9203,18 +9203,19 @@
   },
   {
     "id": 24080,
-    "name": "Zaz OS",
-    "slug": "zaz-os",
+    "name": "zaz⚡️os",
+    "slug": "zazos",
     "former_names": [
       "Rio",
-      "Zazos"
+      "Zazos",
+      "Zaz OS"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c4bc92f268740a2d36a89a6d41f7a2d301d9c38.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/653ea1e7b58157e2161d1a1bf03c54b117a41c37.png",
     "website": "https://www.zazos.com/",
-    "all_locations": "São José dos Campos, SP, Brazil",
-    "long_description": "Zaz OS is a “Lovable for internal products”: an AI-native platform with an opinionated infrastructure that makes it easy to build and edit Apps and Agents through vibe-coding. Using spec-driven development, it ensures consistency and security for critical processes, solving challenges like user management, notifications, and multi-app integration within a single interface.\r\n\r\nWith over eight years of experience in back-office and HR, Zaz OS was designed from the ground up with core structural issues already solved and the flexibility to adapt to each company’s unique needs. The result is the speed to build and iterate, combined with the robustness required for mission-critical processes — the ultimate solution to replace the Frankenstein stack of SaaS tools that currently dominates company management.\r\nAs companies grow, the lack of customization of current software forces Heads of HR to buy multiple disconnected tools, allocate engineers to build and maintain people-related projects or use spreadsheets.",
-    "one_liner": "Lovable for internal products",
-    "team_size": 9,
+    "all_locations": "São Paulo, SP, Brazil",
+    "long_description": "Software is now cheap to build. Every company will have its own custom all-in-one OS. zaz⚡️os is how they build it, without rebuilding everything from scratch.\r\n\r\nzaz⚡️os is a customizable all-in-one OS for running a company. Instead of stitching together point solutions, each company gets its own single-tenant workspace with 26+ ready apps (performance, feedback, hiring, time off, payments) and an AI Studio to adapt any of them, or build new ones, to how the company actually works. ",
+    "one_liner": "The custom all-in-one OS for each company.",
+    "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1627047912,
@@ -9245,8 +9246,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/zaz-os",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/zaz-os.json"
+    "url": "https://www.ycombinator.com/companies/zazos",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/zazos.json"
   },
   {
     "id": 24093,
@@ -24052,7 +24053,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -41018,8 +41019,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4791de2dabb8bec7ed5148dd8de1f8400f029cbd.png",
     "website": "https://bizmark.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Bizmark is the operating system for companies that make, move, or sell physical goods.\r\n\r\nLegacy ERPs force operators into templates that don’t reflect how the business runs. As a result, decisions that directly affect revenue, margins, and service levels are made from spreadsheets, with less information than the company has, often by whoever is closest, not whoever knows best.\r\n\r\nBizmark solves this by connecting to the systems, inboxes, spreadsheets, documents, and the knowledge that lives in people’s heads, then turning that context into optimized decisions and automated workflows. Bizmark adapts to how each company operates, not the other way around. And customers get a working product in weeks, not years.\r\n\r\nSome of the most innovative American companies use Bizmark to transform their operations.",
-    "one_liner": "The OS for companies that make, move, or sell physical goods",
+    "long_description": "Bizmark deploys optimization methods at manufacturers, distributors and retailers. This traditionally took years of work; we do it in weeks through an agentic approach. Our first customers are seeing millions in value in weeks. We’re currently at $xxxk ARR after 8 weeks of work, and we’ve beaten SAP, Oracle, and Infor for those contracts. The founders are cousins Rodrigo Mosqueira and Oscar Aguilar, who’ve previously grown a supply chain business from 0 to $60M and implemented optimization methods at Intel, Amazon, and J&J.",
+    "one_liner": "Agentic supply chain optimization",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -42025,55 +42026,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/arbital.json"
   },
   {
-    "id": 32752,
-    "name": "Moving Atoms",
-    "slug": "moving-atoms",
-    "former_names": [
-      "Run Lobster",
-      "RunLobster",
-      "Demon AI",
-      "RunDemon",
-      "Avicenna Care",
-      "Agent Insurance"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ee4bd602221f77fc05dda940b7202523dd2b9d10.png",
-    "website": "https://movingatoms.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Moving Atoms is building robot models trained on internet scale video and designed to be micromanaged by LLMs.\r\nOur first model, Atom 1, already tops the Physics IQ benchmark - this is stage 1 of the robot model we are building (a World Action Model).\r\n\r\nCurrently, robot models are trained end-to-end to recieve large scale tasks like \"fold t-shirt\". They were never designed to have an advanced LLM micromanaging them, telling them how to move and when (“reach(mug marked in frame)”, “grasp(marked mug at handle)”)\r\n\r\nBy training robot models that can be micro-managed, we allow robotics to use the orchestration and planning abilities of LLMs while having the physics, contact and timing be controlled by the robot model.",
-    "one_liner": "Robot Models designed to be controlled by LLMs",
-    "team_size": 2,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1786481200,
-    "tags": [
-      "Artificial Intelligence",
-      "Hard Tech",
-      "Robotics",
-      "Virtual Reality"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/moving-atoms",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/moving-atoms.json"
-  },
-  {
     "id": 32781,
     "name": "Isengard Industries Inc",
     "slug": "isengard-industries-inc",
@@ -42877,6 +42829,52 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/hiloop.json"
   },
   {
+    "id": 33349,
+    "name": "Robocurve",
+    "slug": "robocurve",
+    "former_names": [
+      "Telos",
+      "Robocurve PBC"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1cfdafb2f71eef92d986496e842d5218b330742b.png",
+    "website": "https://robocurve.org",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Robocurve builds open-source tools and independent benchmarks to measure how well robots can do real-world jobs. Instead of relying on unverified demo videos from frontier labs, we score their models on reproducible benchmarks that anyone can trust.\r\n\r\nToday there are no well-run, standardized robotics benchmarks. Labs evaluate in-house, and no independent group has stepped in to run continuous benchmarking as a service. The result is that no one actually knows how good anyone else is, or where the real frontier sits.\r\n\r\nGood benchmarks require operating and maintaining physical hardware and real-world setups. Simulation only goes so far, since models that look strong in sim can show large performance gaps once deployed in the real world. Building real-world benchmarks means coordinating job-domain experts, evals engineering, and hands-on robotics all at once.\r\n\r\nFrontier labs are targeting general-purpose robotics by 2028, yet the field of robotics evals barely exists. Whoever builds the trusted measure of robot capability becomes the reference everyone relies on. We combine backgrounds in AI evals and robotics to build and grow this field as fast as possible. We already shipped v1 of our open-source framework, Inspect Robots, and ran our first pilot scoring a frontier model on a real robot.",
+    "one_liner": "Real-world evals for robots",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1783378088,
+    "tags": [
+      "Artificial Intelligence",
+      "Hard Tech",
+      "Hardware",
+      "Robotics",
+      "Open Source"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/robocurve",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/robocurve.json"
+  },
+  {
     "id": 33441,
     "name": "Allia Health",
     "slug": "allia-health",
@@ -43380,11 +43378,11 @@
     "name": "Redoubt Insurance",
     "slug": "redoubt-insurance",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d9f15d9866298e7635c4be5e45af4cd0cf8b920.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1ee4cc24084cdd9a8a0fe0d70982248244d6fd3a.png",
     "website": "https://www.redoubt.agency",
     "all_locations": "",
-    "long_description": "",
-    "one_liner": "Commercial insurance agency for small businesses",
+    "long_description": "Redoubt is a commercial insurance agency for small businesses. We believe our customers are our most important business partners, and they deserve our full attention. Machines can already handle the boring parts, the next step is to continually learn from experience. ",
+    "one_liner": "Commercial insurance for small businesses",
     "team_size": 0,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",

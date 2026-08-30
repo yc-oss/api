@@ -18166,17 +18166,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ee4bd602221f77fc05dda940b7202523dd2b9d10.png",
     "website": "https://movingatoms.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Moving Atoms is building robot models trained on internet scale video and designed to be micromanaged by LLMs.\r\nOur first model, Atom 1, already tops the Physics IQ benchmark - this is stage 1 of the robot model we are building (a World Action Model).\r\n\r\nCurrently, robot models are trained end-to-end to recieve large scale tasks like \"fold t-shirt\". They were never designed to have an advanced LLM micromanaging them, telling them how to move and when (“reach(mug marked in frame)”, “grasp(marked mug at handle)”)\r\n\r\nBy training robot models that can be micro-managed, we allow robotics to use the orchestration and planning abilities of LLMs while having the physics, contact and timing be controlled by the robot model.",
-    "one_liner": "Robot Models designed to be controlled by LLMs",
+    "long_description": "Moving Atoms is frontier robotics lab. Our goal is to solve robotics, then solve abundance.\r\n\r\nOur first model, Atom 1, pre-trained on the internets video, and fine tuned for physics, already tops the Physics IQ benchmark.\r\n\r\nBy using this model, we can significantly reduce the amount of robot data we need to collect to build our robot model (a world action model).\r\n\r\nOur second core bet is to design our robot model to be micromanaged by LLMs, allow robotics to use the orchestration and planning abilities of LLMs while having the physics, contact and timing be controlled by the robot model (world action model).",
+    "one_liner": "Robot Model Lab.",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1786481200,
     "tags": [
-      "Artificial Intelligence",
       "Hard Tech",
       "Robotics",
-      "Virtual Reality"
+      "Virtual Reality",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -18889,16 +18889,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Robocurve builds open-source tools and independent benchmarks to measure how well robots can do real-world jobs. Instead of relying on unverified demo videos from frontier labs, we score their models on reproducible benchmarks that anyone can trust.\r\n\r\nToday there are no well-run, standardized robotics benchmarks. Labs evaluate in-house, and no independent group has stepped in to run continuous benchmarking as a service. The result is that no one actually knows how good anyone else is, or where the real frontier sits.\r\n\r\nGood benchmarks require operating and maintaining physical hardware and real-world setups. Simulation only goes so far, since models that look strong in sim can show large performance gaps once deployed in the real world. Building real-world benchmarks means coordinating job-domain experts, evals engineering, and hands-on robotics all at once.\r\n\r\nFrontier labs are targeting general-purpose robotics by 2028, yet the field of robotics evals barely exists. Whoever builds the trusted measure of robot capability becomes the reference everyone relies on. We combine backgrounds in AI evals and robotics to build and grow this field as fast as possible. We already shipped v1 of our open-source framework, Inspect Robots, and ran our first pilot scoring a frontier model on a real robot.",
     "one_liner": "Real-world evals for robots",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1783378088,
     "tags": [
+      "Artificial Intelligence",
       "Hard Tech",
       "Hardware",
       "Robotics",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
