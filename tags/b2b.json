@@ -1524,7 +1524,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cce01a2f70c807a6306657d37ae4196d8bd4c40d.png",
     "website": "http://roomstorm.com",
-    "all_locations": "San Francisco, CA, USA; Redwood City, CA, USA",
+    "all_locations": "Prague, Prague, Czechia; Redwood City, CA, USA",
     "long_description": "Roomstorm has developed the airline industry's first ever fully automated platform for providing hotel accommodations to distressed passengers during flight disruptions.  This platform gives airlines the opportunity to directly connect to hotel inventory all over the world, or to give their teams an advanced web portal for the rapid processing of their passengers.",
     "one_liner": "Real time B2B hotel room marketplace for various industries…",
     "team_size": 4,
@@ -1547,7 +1547,9 @@
       "Travel, Leisure and Tourism"
     ],
     "regions": [
+      "Czechia",
       "United States of America",
+      "Europe",
       "America / Canada"
     ],
     "stage": "Early",
@@ -6024,7 +6026,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d1d486d4edef6bd293253ef438f3cf9c1880507.png",
     "website": "http://vouch.us",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Chicago, IL, USA; San Francisco, CA, USA",
     "long_description": "Insurance... sounds slow, old-fashioned, and unexciting. Exactly. Insurance is broken, and it's failing fast-moving, innovative startups.\r\n\r\nVouch is a new, technology-first insurance company backed with $185M in funding from world-class investors. Like Stripe for payments or Brex for credit cards, Vouch is creating the go-to business insurance for high-growth companies.\r\n\r\nWe're doing this by making insurance fast, responsive, and focused on our high-growth and innovative customers. Instead of printed PDF applications and week-long waits, Vouch is building new technology to solve real problems, writing policies that actually cover relevant startup scenarios, and designing simple experiences in an otherwise frustrating industry.",
     "one_liner": "Insurance and risk management tools for startups and growth-stage…",
     "team_size": 190,
@@ -36690,50 +36692,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/model-ml.json"
   },
   {
-    "id": 29414,
-    "name": "Cleva",
-    "slug": "cleva",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bb405a26d1a603373572e220fb38dadd2c97c421.png",
-    "website": "https://www.getcleva.com",
-    "all_locations": "Lagos, LA, Nigeria; Remote",
-    "long_description": "Cleva enables African freelancers and businesses to receive international payment for their service, while protecting themselves from local currency volatility. With a Cleva USD account, one can easily receive USD payment from anywhere in the world, spend via a card, pay bills, convert to local currency, and save in USD to hedge against local currency volatility.",
-    "one_liner": "USD banking platform for Africa",
-    "team_size": 30,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
-    "launched_at": 1704535583,
-    "tags": [
-      "Fintech",
-      "B2B",
-      "Remote Work",
-      "Emerging Markets",
-      "Neobank"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "Nigeria",
-      "Africa",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cleva",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/cleva.json"
-  },
-  {
     "id": 29417,
     "name": "Brainbase Labs",
     "slug": "brainbase-labs",
@@ -44873,8 +44831,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd88161755dbb4d7513a2dc91e69b26930313524.png",
     "website": "https://os3robotics.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We are building robots, including custom actuators. Our first model is trained for the robot with 150k hours of video data. \r\n\r\nThe robot, a mobile semi-humanoid priced, is already signed for deployments in hospitality and biotech. Our developer version lets anyone deploy robots in their own verticals, and we are working with startups deploying in hospitals and data centers.\r\n\r\nWe are scaling American robotics while making it accessible to more businesses.",
-    "one_liner": "Full Stack Robotics: Deploying US-Built Robots & Video Action Models",
+    "long_description": "We are deploying the robots we built, including custom actuators. Our first model is trained for the robot with 150k hours of video data. \r\n\r\nThe robot, a mobile semi-humanoid available as Robot as a service, is already signed for deployments in hospitality and biotech. Our developer version lets anyone deploy robots in their own verticals as well, and we are working with startups deploying in hospitals and data centers.\r\n\r\nWe are scaling American robotics while making it accessible to more businesses.",
+    "one_liner": "Deploying US-Built Robots & Training Video Action Models",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -46916,7 +46874,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2026",
     "status": "Active",
@@ -48234,18 +48192,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/019855257e473ab4938156b12e16e4a3214a2f51.png",
     "website": "https://zommalabs.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Zomma builds Computer Use Agents that do the repetitive screen work in finance: logging into portals, pulling reports, reconciling books, and filling forms across systems that will never get an API. Our agents use the same screens your ops team uses today, so there is no integration project. Every action stops for human approval before anything submits. Hedge funds, asset managers, and fintech firms use Zomma for reconciliation, client onboarding, KYC, and investor reporting: the work that was never automatable until now.",
-    "one_liner": "Computer Use Agents for back offices in finance",
+    "long_description": "Zomma builds Computer Use Agents that do the repetitive screen work in finance: logging into portals, pulling reports, reconciling books, and filling forms across systems that will never get an API. Our agents use the same screens your ops team uses today, so there is no integration project. Every action stops for human approval before anything submits.",
+    "one_liner": "Computer-use agent swarms for financial back offices",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1783572526,
     "tags": [
-      "Artificial Intelligence",
       "Robotic Process Automation",
       "Finance",
       "B2B",
-      "Workflow Automation"
+      "Workflow Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48911,18 +48869,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/879622d4fa103941586542ac659eaf9b60d897f0.png",
     "website": "https://www.risklytics.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Risklytics is a commercial insurance brokerage for frontier tech: robotics, autonomy, data centers, and energy infrastructure. Insurers are writing AI exclusions into standard liability forms, so companies whose products act in the physical world end up holding risk they thought they had transferred. We specialize in that gap, and we know which carriers in the admitted and surplus lines markets will still underwrite it. If you're building anything that moves, lifts, drives, or powers something, we'd like to talk.",
-    "one_liner": "Insurance for the Frontier",
+    "long_description": "Risklytics is the insurance company for frontier tech such as physical AI, robotics, and data centers. Companies answer 6 questions and we bind a tailored policy that other insurance companies won’t.",
+    "one_liner": "Insurance for Frontier Tech",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1783123197,
     "tags": [
-      "Artificial Intelligence",
       "Hardware",
       "Machine Learning",
       "B2B",
-      "Insurance"
+      "Insurance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49080,17 +49038,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c65a4389d81076a7a08b8c3d3c22a2bf1c54e49b.png",
     "website": "https://thefamiliarlab.com",
     "all_locations": "Toronto, ON, Canada",
-    "long_description": "Audio-visual translation infrastructure for all video, live and recorded -- the first and only that works in real time. World translation: not just changing voice and lips into a new language, but understanding the scene, the sound, and preserving the human.\r\n\r\n🦋 Movies & TV, Micro-dramas, Live Broadcasts, Live Shopping, Corporate & Education, Ads, Creators & Podcasts, Platforms. Day-and-date, in every territory.\r\n\r\nFounders An Zhu Liu, Jibin Song, Mingi Kwon, and Xu Zheng lead a team of PhDs, professors, and researchers from the world's top universities who started the field of joint audio-visual human models and co-authored the current state of the art in real-time human animation. Since 2021: over 10,000 citations and 100+ papers at ICLR, NeurIPS, CVPR, ECCV, and more.\r\n\r\nTranslation has to be a world model. A translator has to know who's speaking: where every sound in the dense polyphony originates. Laughter here, a short yell there, a voice from off-screen, someone on screen mouthing words before being interrupted. Everyone else scaffolds separate models and pre-processing; a world model simulates the scene. It's a spatio-temporal reasoner: predicting continuity across frames forces it to internalize 3D geometry, spatial reasoning, and permanence -- of objects, people, and the environment itself. The scene state survives the edit: when the shot pans or cuts away, someone off-screen still exists, still owns their voice, and is still there when the camera comes back. Multiple people, side views, off angles, fast motion -- the hard cases hold.\r\n\r\nVs ElevenLabs: they lose the laughter, the music, the ambiance -- 270% more background-sound error -- and ours sounds 27.8% more like you. That means no recasting, no ADR, no M&E stems required -- it works from the final mix.\r\n\r\nVs human translators: 100.3% of their quality -- scalable, real time. Published benchmarks: https://thefamiliarlab.com/benchmark",
+    "long_description": "Audio-visual translation infrastructure for all video, live and recorded -- the first and only that works in real time. World translation: not just changing voice and lips into a new language, but understanding the scene, the sound, and preserving the human.\r\n\r\n🦋 Movies & TV, Micro-dramas, Live Broadcasts, Live Shopping, Corporate & Education, Ads, Creators & Podcasts, Platforms. Day-and-date, in every territory.\r\n\r\nFounders An Zhu Liu, Jibin Song, Mingi Kwon, and Xu Zheng lead a team of PhDs, professors, and researchers from the world's top universities who started the field of joint audio-visual human models and co-authored the current state of the art in real-time human animation. Since 2021: over 10,000 citations and 100+ papers at ICLR, NeurIPS, CVPR, ECCV, and more.\r\n\r\nTranslation has to be a world model. A translator has to know who's speaking: where every sound in the dense polyphony originates (laughter, layered crowds). Laughter here, a short yell there, a voice from off-screen, someone on screen mouthing words before being interrupted. Everyone else scaffolds separate models and pre-processing; a world model simulates the scene. It's a spatio-temporal reasoner: predicting continuity across frames forces it to internalize 3D geometry, spatial reasoning, and permanence -- of objects, people, and the environment itself. The scene state survives the edit: when the shot pans or cuts away, someone off-screen still exists, still owns their voice, and is still there when the camera comes back. Multiple people, side views, off angles, dense polyphony, fast motion -- the hard cases hold.\r\n\r\nVs ElevenLabs: they lose the laughter, the music, the ambiance -- 270% more background-sound error -- and ours sounds 27.8% more like you. That means no recasting, no ADR, no M&E stems required -- it works from the final mix.\r\n\r\nVs human translators: 100.3% of their quality -- scalable, real time. Published benchmarks: https://thefamiliarlab.com/benchmark",
     "one_liner": "Real-Time AI Dubbing. Neolab for World Translation.",
     "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1786578571,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "B2B",
-      "Entertainment",
-      "AI"
+      "Entertainment"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49206,7 +49164,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/44fee5cae005d704af84e7ed5ed7418d4ca0580c.png",
     "website": "https://decawork.ai/",
-    "all_locations": "Bengaluru, KA, India",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Decawork gives IT teams one place to deploy, govern and maintain the AI agents running across their company.\r\n\r\nBuilding internal AI tools and agents is getting easier. Turning them into company-owned systems is still hard. What follows is agent sprawl: deployment gets messy, agents go live with access to real systems and real data, and maintenance falls in the gap. IT can't see any of it, so it does the only two things it can: first ignore, then block. Ignoring piles up risk; blocking kills the productivity people just found. \r\n\r\nWith Decawork, every agent ships one standard way: its own identity and scoped credentials, with IT's sign-off before it goes live. After that, every run is watched - IT is alerted the moment something fails, agents nobody uses get retired. And the whole time, IT sees every agent, controls what it can touch, and audits every action, with approvals gating anything sensitive.\r\n\r\nEvery big shift - cloud, SaaS, the digital workspace - ended with IT running it. Agents aren't just the next shift, they're the next workforce, bigger than the human one. Decawork is what IT will run them with.",
     "one_liner": "The Agent Control Plane for IT teams",
     "team_size": 2,
@@ -49229,8 +49187,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "India",
-      "South Asia"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -49797,7 +49755,7 @@
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1786070819,
+    "launched_at": 1787942068,
     "tags": [
       "Developer Tools",
       "B2B",
