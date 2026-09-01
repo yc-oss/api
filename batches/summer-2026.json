@@ -308,6 +308,46 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/sunflower.json"
   },
   {
+    "id": 30923,
+    "name": "Frontier Computing",
+    "slug": "frontier-computing",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a10237e5548f0937c67885cb916abadcaa74cc08.png",
+    "website": "https://frontier.site",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "Frontier is first to grow biological brains at scale, serving biological neural nets with substrate-level colocation of memory and compute, enabling highly cost effective training of large parameter count models.\r\n\r\nWhile academia has traditionally been limited to ~1M neurons in vitro, Frontier has built a pathway to scale to 100M+ neurons by circumventing traditional scaling challenges in biological culture, demonstrating this strategy's functionality by training a biological brain using this scaling primitive to play Frogger.\r\n\r\nFrontier is now growing exascale compute clusters to produce substrates capable of long-horizon language reasoning while operating at much higher sample efficiencies than traditional architectures, and collocating memory with compute to enable significantly larger parameter counts than would be tractable for training within traditional compute clusters.",
+    "one_liner": "Frontier grows scalable biological brains as an ML training substrate",
+    "team_size": 1,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1788161513,
+    "tags": [
+      "Artificial Intelligence",
+      "Hard Tech",
+      "Hardware"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/frontier-computing",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/frontier-computing.json"
+  },
+  {
     "id": 31047,
     "name": "Waddle Labs",
     "slug": "waddle-labs",
@@ -408,7 +448,7 @@
     "website": "https://www.getprescience.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Prescience is the preeminent health benefits platform for the world's most ambitious companies. We save employers 20-50% on health insurance while offering best-in-industry health benefits: www.getprescience.com\r\n\r\nAbout us:\r\nPrescience is building a new healthcare system for America. We train AI systems to: create, operate, insure, and deliver healthcare for employer health plans. Prescience Time Machine – an AlphaGo-like system – steers patients towards “Move 37 health trajectories” that deliver dramatic cost savings for employers. Rishab Jain and Aditya Jain, M.D. are serial entrepreneurs and brothers from Harvard & Harvard Medical School with backgrounds in machine learning and medicine. We believe abundant intelligence will bring an opportunity to fundamentally rebuild the $4.5T healthcare industry around proactive (prescient) health and wellness.",
-    "one_liner": "Healthcare for the age of abundant intelligence.",
+    "one_liner": "Health insurance for the age of abundant intelligence.",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
@@ -3243,15 +3283,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d863d3cf6091c132bb3f8d22d57b3597bc971de.png",
     "website": "https://jcode.sh/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "An agent is LLM + harness: We work purely on that second component. We do research to produce the most capable harness for coding, and we also make an open source, terminal based, coding agent product with 18k github stars. ",
+    "long_description": "An agent is LLM + harness: We work purely on that second component. We do research to produce the most capable harness. Our harness has 18k stars on github",
     "one_liner": "The harness company",
     "team_size": 1,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1786012852,
     "tags": [
-      "Developer Tools",
-      "AI"
+      "Artificial Intelligence",
+      "Developer Tools"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3408,13 +3448,13 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Over 25k creators and 100k players are on Instaplay, playing and making games. We work with the leading frontier labs to improve their game generation and coding capabilities. ",
     "one_liner": "AI-Native Social Platform, Starting with Games",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "Consumer",
     "subindustry": "Consumer -> Gaming",
     "launched_at": 1784188651,
     "tags": [
-      "Gaming",
-      "AI"
+      "Artificial Intelligence",
+      "Gaming"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5836,15 +5876,16 @@
     "website": "https://akonlabs.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "Nervous System for AI Agents",
+    "one_liner": "The Github For Coding Agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1786669281,
     "tags": [
-      "Deep Learning",
+      "Artificial Intelligence",
       "Generative AI",
-      "SaaS"
+      "SaaS",
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6809,16 +6850,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b4bdae68fdd8f9d994fab11fca6b30709eb7e7c.png",
     "website": "https://financialdatasets.ai/",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Financial Datasets gives agents access to real-time global market information.\r\n\r\nWe index the world's markets so agents can search every filing, answer any financial question, and monitor markets in real time.\r\n\r\nFor 40 years, market data was built for humans reading a screen. We are rebuilding it for agents that research every company, all day, across the world.",
+    "long_description": "Financial Datasets is the largest search index for stock market data, built for AI agents.\r\n\r\nWe index the world's markets so agents can search every filing, answer any financial question, and monitor markets in real time.\r\n\r\nFor 40 years, market data was built for humans reading a screen. We are rebuilding it for agents that research every company, all day, across the world.",
     "one_liner": "Connect your agent to the stock market ",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1786382003,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "Investing",
-      "AI",
       "Stocks"
     ],
     "tags_highlighted": [],
@@ -7646,7 +7687,7 @@
     "website": "https://levocred.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Levocred builds and deploys AI agents inside credit funds, fintechs and banks to automate workflows like back-office tasks, portfolio monitoring, compliance and underwriting. Live across multiple lending teams, running ~$1Bn in receivables through the platform.",
-    "one_liner": "The AI analyst for lenders",
+    "one_liner": "AI Workforce for lenders",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech",
@@ -8736,16 +8777,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/48074691217afbc59a4443c6ffa2379a823efda9.png",
     "website": "https://florin.inc",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Florin is a full-stack insurance carrier where a model does the underwriting. When a submission comes in, Florin reads the ACORD forms, then investigates the risk on its own: satellite imagery, permits, public records, even the insured's Instagram, and catches exposures that never make it onto the application. It then simulates tens of thousands of ways the policy year could go, prices the risk, and returns a bindable quote in under a minute instead of weeks. The team is ex-Google, Tesla, Amazon, and Terra Firma, and the bet is that a carrier built this way wins on loss ratio, speed, and cost at the same time.",
+    "long_description": "Florin is a full-stack insurance carrier where a model does the underwriting. When a submission comes in, Florin reads the ACORD forms, then investigates the risk on its own: satellite imagery, permits, public records, even the insured's Instagram, and catches exposures that never make it onto the application. It then simulates tens of thousands of ways the policy year could go, prices the risk, and returns a bindable quote in under a minute instead of weeks. The team is ex-Google, Tesla, Amazon, and Terrafirma, and the bet is that a carrier built this way wins on loss ratio, speed, and cost at the same time.",
     "one_liner": "Florin is the insurance carrier with zero underwriters",
     "team_size": 3,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1782360987,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
-      "Insurance",
-      "AI"
+      "Insurance"
     ],
     "tags_highlighted": [],
     "top_company": false,
