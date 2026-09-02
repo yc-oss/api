@@ -1648,7 +1648,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c43e010268551eab76be0368766c6aa0da142440.png",
     "website": "https://lightsprint.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lightsprint is a collaborative platform for product teams to plan visually, preview live and ship with an army of cloud agents. Your whole team, including non-engineers, can now ship end to end reliably.\r\n\r\nThe company is founded by Ben Ong, an AI investor who previously scaled AI products at SEA Group (NYSE: SE) and Temasek ($300B fund), Benedict Chan who was VP Engineering at Chainlink and CTO at BitGo (NYSE:BTGO), and Heng Hong Lee who built Facebook Messenger in 2013 and was Director of Engineering at Fazz (YC S17).",
+    "long_description": "Lightsprint is a collaborative software factory for product teams to plan visually, preview live and ship with an army of cloud agents. Your whole team, including non-engineers, can now ship end to end reliably.\r\n\r\nThe company is founded by Ben Ong, an AI investor who previously scaled AI products at SEA Group (NYSE: SE) and Temasek ($300B fund), Benedict Chan who was VP Engineering at Chainlink and CTO at BitGo (NYSE:BTGO), and Heng Hong Lee who built Facebook Messenger in 2013 and was Director of Engineering at Fazz (YC S17).",
     "one_liner": "Software factory for product teams",
     "team_size": 3,
     "industry": "B2B",
@@ -1800,42 +1800,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/chert.json"
   },
   {
-    "id": 31365,
-    "name": "Incandor",
-    "slug": "incandor",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/897d4bcd4f8d8953ac74712b5cc1711e4eb40c78.png",
-    "website": "https://www.incandor.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Incandor detects fraud on banking and fintech platforms by learning how every user physically behaves — mouse dynamics, keystroke timing, scroll patterns, and on mobile, how they hold their phone. Founded by two Stanford engineers and backed by Y Combinator, Incandor builds a behavioral map of every user on your platform — no fraud labels or historical data required. At the individual level, it identifies account takeovers with >99% accuracy. At the population level, coordinated rings, mule operators, and coerced sessions separate out naturally. Rather than a black-box risk score, fraud teams query the map via a programmable API.",
-    "one_liner": "Behavioral intelligence infrastructure for anti-fraud",
-    "team_size": 0,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1778822795,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/incandor",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/incandor.json"
-  },
-  {
     "id": 31366,
     "name": "Nine Fives",
     "slug": "nine-fives",
@@ -1875,6 +1839,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/nine-fives",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/nine-fives.json"
+  },
+  {
+    "id": 31367,
+    "name": "Andustry",
+    "slug": "andustry",
+    "former_names": [
+      "Andustry",
+      "Standard Gaussian"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9cad618041deb29b222958392d35d6e8a7e0d845.png",
+    "website": "http://andustry.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1773916364,
+    "tags": [
+      "Trading"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/andustry",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/andustry.json"
   },
   {
     "id": 31368,
@@ -2941,16 +2948,21 @@
     "name": "Userlens",
     "slug": "userlens",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/044f868ff4fda0ae90471c98a5ffee29018c984b.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/53aa0a91ae4d729ccd50ea3870fa7f1887a5c006.png",
     "website": "https://userlens.io",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Companies today are growing faster than ever with smaller teams. We are making it possible for these lean, AI-native companies to manage enterprise deals. \r\n\r\nUserlens is building the AI customer success manager. Our goal is to be the CSM for every customer at every company. \r\n\r\nEvery $1-5M of new revenue requires another CSM hire. Userlens breaks that ceiling. Our agents research accounts, catch churn before it happens, and drive renewals and upsells like a top-tier CSM would. \r\n\r\nWe're at $307K ARR, growing 127% month over month, with 30 customers including Smartly (300M ARR). Over 300 CSMs are on Userlens, and 76% of them use it weekly. \r\n\r\nBuilt by second-time founders who lived this problem at their last startup.",
-    "one_liner": "Agents that renew and expand six and seven-figure enterprise software",
+    "long_description": "Companies today are growing faster than ever with smaller teams. The best AI-native companies don’t just need more users - they need more of their users becoming power users. Userlens makes it possible for lean teams to drive product adoption proactively, at scale.\r\n\r\nUserlens is building the AI product adoption expert. Our goal is to help every user at every company get more value from the product they already use.\r\n\r\nMost teams still rely on onboarding flows, lifecycle emails, support docs, and reactive CSM outreach. Userlens breaks that ceiling. Lumi watches how users actually use your product, spots when they’re ready for the next feature, workflow, or habit, and nudges them at exactly the right moment.",
+    "one_liner": "Let agents talk to your customers",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1775157268,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Productivity",
+      "Enterprise Software",
+      "AI Assistant"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
