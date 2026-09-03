@@ -27372,7 +27372,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -37323,18 +37323,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c28333543424f2e5753fd39fd195e354af322187.png",
     "website": "https://www.integuru.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Integuru turns any platform into a reliable, low-latency, and high-throughput API. Requests complete in 3 seconds with 99.9%+ success, including deployments above 1M requests/month/platform. No RPA or browsers. No data caching needed.",
+    "long_description": "Integuru turns any platform into a reliable, low-latency, and high-throughput API. Requests complete in 3 seconds with 99.9%+ success, including deployments above 1M requests/month/platform. No RPA or browsers. No data caching needed. (By Taiki, Inc.)",
     "one_liner": "Generate fast, reliable APIs for any platform",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1709153976,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "API",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -37629,7 +37629,7 @@
     "former_names": [
       "Datawave"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f1b408f70436ba6c3b79b72819fce2462e9b4dc.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/adc31ffe74137f2876c08ce7153b3a5cfd5001ca.png",
     "website": "https://coval.dev",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Coval is a simulation & evaluation platform for autonomous AI agents, helping engineers launch dependable assistants across chat, voice, and other modalities. \r\nWe simulate thousands of scenarios engineers don't have to manually test their agents. Our CI/CD evaluations automatically simulate and detect regressions.",
@@ -42092,15 +42092,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Nitrode is a research company focused on improving game development with AI. To advance game development, we believe AI models firstly need to be judged against robust evaluation frameworks that reflect the actual complexity of the field.\r\n",
     "one_liner": "Frontier AI research to advance game development",
-    "team_size": 10,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1738144366,
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
       "B2B",
-      "Data Engineering"
+      "Data Engineering",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47035,13 +47035,13 @@
     "subindustry": "B2B",
     "launched_at": 1765975223,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Operations"
+      "Operations",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2026",
     "status": "Active",
@@ -47500,6 +47500,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dreach",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/dreach.json"
+  },
+  {
+    "id": 31420,
+    "name": "Kimpton",
+    "slug": "kimpton",
+    "former_names": [
+      "Kimpton AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc55a7e4190cac127494553294ea19379fdf8fc3.png",
+    "website": "https://kimpton.ai",
+    "all_locations": "New York City, NY, USA; Remote",
+    "long_description": "In investment management, every decision gets graded. The market prints the answer on a date known in advance, and nobody gets to argue with it.\r\n\r\nKimpton is financial AI that answers to reality. Kimpton OS is the AI-native operating system for investment teams: it does the research and hands PMs structured trades. EarningsBench is a public benchmark where models forecast quarterly earnings before companies report and the reported numbers do the scoring. Koliseum is the set of point-in-time financial environments we build from that work, for labs to train and evaluate models on.\r\n\r\nThe whole industry is fighting underperformance. Active managers trail their benchmarks, and capital keeps bleeding into passive. AI was supposed to fix that, but it hasn't. Funds either stitch together a dozen point tools or babysit general agents all day, and neither gets them to the trade.\r\n\r\nKimpton OS goes straight to it. It ingests a fund's mandate, strategy, and positions, connects to the institutional data the fund already runs on, and returns a structured trade proposal built for that fund. It's built to disagree, because consensus is poison for investment decisions. Instead of telling a PM what they want to hear, it surfaces the breaches and risks they'd otherwise miss.\r\n\r\nThat same work is how we grade AI. Static benchmarks leak into training data. Simulations reward what their authors imagined. A forecast sealed before the outcome exists and scored when the company reports can't be rehearsed or backdated. We started in markets because they're the one place reality answers on schedule.\r\n\r\nWe're two ex-Goldman engineers and an ex-SpaceX engineer. We left to start our own quantitative systematic hedge fund, raised $10M from a family office at 21 and 22, and scaled it to $35M over four years. We learned to trust live results over historical fit. We built Kimpton inside that fund, then productized the stack.\r\n\r\nWe're live with our first institutional client, a $3.3B manager. Our first market is fundamental equity funds from $1B to $10B, and the labs that need to know whether their models can do this work.",
+    "one_liner": "Live Evaluation Arenas for Financial Work",
+    "team_size": 5,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Asset Management",
+    "launched_at": 1774039716,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Investments",
+      "Trading"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Asset Management"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/kimpton",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/kimpton.json"
   },
   {
     "id": 31424,
@@ -48869,16 +48915,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/28b2676e2b5c4bb6bce97d4ce827f594e9743ce2.png",
     "website": "https://heytenor.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Your AI spend becomes accountable labor: every AI worker gets a job, persistent context, a budget, guardrails, and outcomes you can measure.\r\n\r\nCopilots made individuals faster. Agent builders made automations easier to create. Both leave the organization unchanged: same roles, same capacity, same org chart, and leadership still sees AI as a software expense, not labor. \r\n\r\nTenor makes AI enter the company as labor instead: every employee manages a team of AI workers built around the recurring work of their role, each with a defined job, boundaries, a budget, and a record of what it delivered. Employees provide the judgment. AI workers provide the execution. Leadership finally sees what AI spend returns.",
-    "one_liner": "AI workers that attribute the outcome back to the token spend",
+    "long_description": "Your AI spend becomes accountable labor: every AI worker gets a job, persistent context, a budget, guardrails, and outcomes you can measure. Tenor deploys AI inside businesses to run entire jobs across their existing tools, not isolated tasks. Companies define the outcomes and KPIs; every result improves how the worker makes decisions over time.",
+    "one_liner": "AI that own jobs end-to-end and learn from every outcome",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1786480856,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48910,17 +48956,17 @@
     "website": "https://www.risklytics.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Risklytics is the insurance company for frontier tech such as physical AI, robotics, and data centers. Companies answer 6 questions and we bind a tailored policy that other insurance companies won’t.",
-    "one_liner": "Insurance for Frontier Tech",
+    "one_liner": "AI-Native Insurance for Frontier Tech",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1783123197,
     "tags": [
+      "Artificial Intelligence",
       "Hardware",
       "Machine Learning",
       "B2B",
-      "Insurance",
-      "AI"
+      "Insurance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49494,18 +49540,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd39ca163a2a8ea396a6ec66701926317f9f416c.png",
     "website": "https://osseus.ai/",
     "all_locations": "",
-    "long_description": "Osseus is the intelligent development platform for robotics. It plugs into the tools a team already uses - CAD, ECAD, GitHub, Jira, docs, messaging, and test runs - creating a live dependency graph of their entire robot stack. It automatically builds and maintains the relationships between every part, board, requirement, test, and decision.\r\n\r\nWhen a hardware change is made, the map traces the downstream impact across mechanical, electrical, and software. Osseus's agents find which requirements may be compromised, run the attached tests and sims, create fixes for the affected hardware/software on branches, and re-run the tests to confirm the new design doesn’t break downstream.\r\n\r\nOsseus includes a robotics component marketplace. Teams can list spare parts and hardware for others to buy/rent during prototyping, and designs can be evaluated against real component availability. If a part has a long lead time or is unavailable, engineers can quickly find compatible alternatives in their area instead of waiting weeks or asking around their network.\r\n\r\nDesign review also happens in Osseus. Engineers see why a design might not work, what's been tried before, and why something was built the way it was, pulled from prior conversations between engineers and with suppliers. Suppliers comment directly on a part through a secure link instead of back and forth over email, and what they say is remembered. If a supplier flags that a design isn't machinable, or that changing a feature would cut cost, that insight automatically appears the next time someone designs something similar, saving time and money.\r\n\r\nWe ultimately will use the platform's deep engineering understanding to develop physical-AI models that reason jointly over the robot's geometry, electronics, kinematics, components, software, and real-world performance so people can optimize and iterate on robots much faster. Get in touch to learn more!",
+    "long_description": "",
     "one_liner": "The intelligent development platform for robotics",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1783740069,
     "tags": [
+      "Artificial Intelligence",
       "Robotics",
       "B2B",
       "Enterprise Software",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49838,9 +49884,9 @@
     "subindustry": "B2B",
     "launched_at": 1786417769,
     "tags": [
+      "Artificial Intelligence",
       "Hard Tech",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,

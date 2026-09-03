@@ -618,7 +618,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/adf2f2d3e67de554b1df8a77cdc1d6dd943928ec.png",
     "website": "https://www.talos-us.com/",
     "all_locations": "Baltimore, MD, USA",
-    "long_description": "Predictive maintenance for the power grid. ",
+    "long_description": "At Talos, we are building better, more modern predictive maintenance for the power industry with a focus on large transformers. Our devices continuously monitor critical power equipment and detect problems early on using anomaly-detection models. For each fault, we provide detailed analyses of the problem, exactly where and why it happened, as well as next steps teams should take. ",
     "one_liner": "Predictive maintenance for power infrastructure.",
     "team_size": 3,
     "industry": "Industrials",
@@ -696,9 +696,11 @@
   },
   {
     "id": 35257,
-    "name": "Nodus",
-    "slug": "nodus",
-    "former_names": [],
+    "name": "Nodus Compute",
+    "slug": "nodus-compute",
+    "former_names": [
+      "Nodus"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cf5d37476e8f7b170957ddb85fd0254d52fa2634.png",
     "website": "https://www.nodus-compute.ai/",
     "all_locations": "",
@@ -709,8 +711,8 @@
     "subindustry": "B2B",
     "launched_at": 1788063210,
     "tags": [
-      "Infrastructure",
-      "AI"
+      "Artificial Intelligence",
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -729,8 +731,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/nodus",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/nodus.json"
+    "url": "https://www.ycombinator.com/companies/nodus-compute",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/nodus-compute.json"
   },
   {
     "id": 35261,
@@ -905,7 +907,7 @@
     "website": "https://orcaaerospace.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "At Orca, we are focused on creating the future of spacecraft operations by moving control onto the vehicle. By allowing LLMs to control the satellite using deterministic tooling, we are able to achieve the same holistic, high-quality decisions on \"what\" to do to carry out a mission while maintaining the safety of systems that decide \"how\" to execute it. ",
-    "one_liner": "AI spacecraft operator that lives onboard the vehicle.",
+    "one_liner": "AI spacecraft operators that lives onboard the vehicle",
     "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials -> Aviation and Space",
@@ -917,7 +919,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2026",
     "status": "Active",
@@ -952,9 +954,9 @@
     "subindustry": "B2B",
     "launched_at": 1786417769,
     "tags": [
+      "Artificial Intelligence",
       "Hard Tech",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,

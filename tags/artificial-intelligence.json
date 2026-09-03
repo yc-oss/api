@@ -1901,7 +1901,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -5851,60 +5851,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/aden",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/aden.json"
-  },
-  {
-    "id": 13143,
-    "name": "Terrasoft",
-    "slug": "terrasoft",
-    "former_names": [
-      "Terrasoft",
-      "Hyphy",
-      "HYPHY",
-      "H Y P H Y",
-      "HYPHY",
-      "Büya",
-      "Supermall",
-      "Terrasoft",
-      "Stealth Startup",
-      "Terra soft",
-      "Terrasoft",
-      "Flik"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/28a15af1c90393cd88679418f95cf3982817e84d.png",
-    "website": "",
-    "all_locations": "Los Angeles, CA, USA",
-    "long_description": "",
-    "one_liner": "",
-    "team_size": null,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1584124715,
-    "tags": [
-      "Artificial Intelligence"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2020",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/terrasoft",
-    "api": "https://yc-oss.github.io/api/batches/winter-2020/terrasoft.json"
   },
   {
     "id": 13218,
@@ -23537,7 +23483,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -25245,6 +25191,51 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/voxops-ai.json"
   },
   {
+    "id": 29498,
+    "name": "Integuru",
+    "slug": "integuru",
+    "former_names": [
+      "Taiki"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c28333543424f2e5753fd39fd195e354af322187.png",
+    "website": "https://www.integuru.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Integuru turns any platform into a reliable, low-latency, and high-throughput API. Requests complete in 3 seconds with 99.9%+ success, including deployments above 1M requests/month/platform. No RPA or browsers. No data caching needed. (By Taiki, Inc.)",
+    "one_liner": "Generate fast, reliable APIs for any platform",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1709153976,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "API",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/integuru",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/integuru.json"
+  },
+  {
     "id": 29499,
     "name": "Forge",
     "slug": "forge",
@@ -25641,7 +25632,7 @@
     "former_names": [
       "Datawave"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f1b408f70436ba6c3b79b72819fce2462e9b4dc.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/adc31ffe74137f2876c08ce7153b3a5cfd5001ca.png",
     "website": "https://coval.dev",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Coval is a simulation & evaluation platform for autonomous AI agents, helping engineers launch dependable assistants across chat, voice, and other modalities. \r\nWe simulate thousands of scenarios engineers don't have to manually test their agents. Our CI/CD evaluations automatically simulate and detect regressions.",
@@ -31315,50 +31306,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/adam.json"
   },
   {
-    "id": 30239,
-    "name": "Cardamon",
-    "slug": "cardamon",
-    "former_names": [
-      "Openwealth"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a3e4d26d964f7e9e8a081b6c3ec2ddad6bb65119.png",
-    "website": "https://cardamon.ai/",
-    "all_locations": "London, England, United Kingdom",
-    "long_description": "Cardamon is an AI powered platform that ingests relevant regulation, understands what applies to each regulated financial firm, and gets compliance officers from regulation, to obligations, to product requirements in minutes - not weeks.\r\n\r\nFinancial firms face a host of complex regulations that make it incredibly painful to launch and maintain products in a compliant way. As a Product team at Revolut, we felt this pain deeply ourselves - we had products ready to launch but stuck in compliance limbo, often for weeks. Turns out, getting compliant took as long as building the product itself. \r\n\r\nFrustrated, we dug in and were shocked by how manual and inefficient the processes were. That’s when it clicked: there’s a huge opportunity to automate the boring stuff (and solve our own problem!). Compliance teams win because they ditch the tedious tasks. Product teams win because they ship faster. Everyone’s happy.",
-    "one_liner": "AI compliance co-pilot for regulated financial businesses",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1740009565,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "Compliance",
-      "Regtech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United Kingdom",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cardamon",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/cardamon.json"
-  },
-  {
     "id": 30246,
     "name": "Swerve",
     "slug": "swerve",
@@ -32004,50 +31951,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/exla.json"
   },
   {
-    "id": 30286,
-    "name": "Nitrode",
-    "slug": "nitrode",
-    "former_names": [
-      "Roach AI",
-      "Inception Technologies"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/514545bed169ad1eb626571d7e0d77375b33f656.png",
-    "website": "https://www.nitrode.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Nitrode is a research company focused on improving game development with AI. To advance game development, we believe AI models firstly need to be judged against robust evaluation frameworks that reflect the actual complexity of the field.\r\n",
-    "one_liner": "Frontier AI research to advance game development",
-    "team_size": 10,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1738144366,
-    "tags": [
-      "Artificial Intelligence",
-      "Machine Learning",
-      "B2B",
-      "Data Engineering"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/nitrode",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/nitrode.json"
-  },
-  {
     "id": 30291,
     "name": "Outlit",
     "slug": "outlit",
@@ -32469,49 +32372,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tamlabs",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/tamlabs.json"
-  },
-  {
-    "id": 30341,
-    "name": "Browser Use",
-    "slug": "browser-use",
-    "former_names": [
-      "browser-use"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c098c79c1154d878f59439428e54fe98a83295a2.png",
-    "website": "https://browser-use.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We enable AI to control the browser. \r\nBrowser-use is the biggest open-source web agent project. \r\nWe got 40k stars in the last 3 months.",
-    "one_liner": "Leading open-source web agent project with 50k stars in 3 months",
-    "team_size": 7,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1734712888,
-    "tags": [
-      "Artificial Intelligence",
-      "Open Source",
-      "API",
-      "Automation"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/browser-use",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/browser-use.json"
   },
   {
     "id": 30351,
@@ -34872,6 +34732,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/design-arena",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/design-arena.json"
+  },
+  {
+    "id": 30638,
+    "name": "Lotas",
+    "slug": "lotas",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b64e79cf442071bbe251c8f19acacccc3dbf1fea.png",
+    "website": "https://www.lotas.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Quantitative trading",
+    "one_liner": "AI for quantitative trading",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1754374450,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Data Science",
+      "Data Visualization"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lotas",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/lotas.json"
   },
   {
     "id": 30640,
@@ -37617,6 +37519,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/frontier-computing.json"
   },
   {
+    "id": 30928,
+    "name": "Thesis",
+    "slug": "thesis",
+    "former_names": [
+      "Thesis Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/834b16b30c5de79bf9dbcd0a4819289bfa937936.png",
+    "website": "https://thesislabs.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Thesis is building Darwin, a humanoid robot for the home. AI is about to leave the screen and enter the physical world. Darwin will learn from real-world experience and continuously improve. First deployments begin in early 2027.",
+    "one_liner": "Intelligent humanoid robots",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1762476616,
+    "tags": [
+      "Artificial Intelligence",
+      "Hard Tech",
+      "Machine Learning",
+      "Robotics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/thesis",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/thesis.json"
+  },
+  {
     "id": 30929,
     "name": "Radius",
     "slug": "radiusbrowser",
@@ -38746,6 +38692,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/pirislabs.json"
   },
   {
+    "id": 31139,
+    "name": "Ashr",
+    "slug": "ashr",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/36b682fdfb87515f8ca423d8a006eaac7229e134.png",
+    "website": "https://ashr.io",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Ashr Manifold is a self-contained model training, hosting, observability, and continual learning platform for purpose-built open-weight models. \r\n\r\nStartups can use Manifold to post-train and manage fleets of continuously improving open-weight models without having a dedicated research team or infrastructure. Ultimately, this reduces operating costs and allows a greater degree of control over proprietary company knowledge.\r\n\r\nEnterprises can use Manifold to encode institutional judgements and priorities into open-weight models, reduce token costs, and manage every level of the AI life cycle, from data curation, to model serving on weights and infrastructure they own.",
+    "one_liner": "Enterprise post-training, monitoring, and continual learning platform",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1771535371,
+    "tags": [
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Generative AI",
+      "Reinforcement Learning",
+      "Data Engineering"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ashr",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/ashr.json"
+  },
+  {
     "id": 31145,
     "name": "RamAIn",
     "slug": "ramain",
@@ -39091,46 +39079,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/revion",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/revion.json"
-  },
-  {
-    "id": 31200,
-    "name": "Ressl AI",
-    "slug": "ressl-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/186bc6483be3828abcf998b9a4ffedbef27ecfed.png",
-    "website": "https://ressl.ai",
-    "all_locations": "Bengaluru, KA, India",
-    "long_description": "Ressl AI helps teams bridge the gap from prototype to production by providing the platform needed to train, benchmark, and deploy autonomous agents that actually work in real-world business systems.",
-    "one_liner": "Train, eval and build autonomous agents",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1765975223,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Operations"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "India",
-      "South Asia"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ressl-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/ressl-ai.json"
   },
   {
     "id": 31203,
@@ -39602,6 +39550,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dream",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/dream.json"
+  },
+  {
+    "id": 31259,
+    "name": "Tsenta",
+    "slug": "tsenta",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0363e9662e7db43e0292d57332e9650487ebdbb.png",
+    "website": "https://tsenta.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Tsenta is an AI career agent that matches you with jobs, tailors your resume and applies automatically on your behalf.\r\n\r\nWe grew from $15K MRR to $205k MRR (2.5M Annualized) in 9 weeks.\r\n\r\nWe built it after manually applying to over 3,000 jobs ourselves, so nobody else would have to.\r\n\r\nToday, more than 85,000 job seekers use Tsenta to automate their job search.",
+    "one_liner": "AI career agent that finds matching jobs & applies on your behalf",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Job and Career Services",
+    "launched_at": 1769729252,
+    "tags": [
+      "Artificial Intelligence",
+      "Marketplace",
+      "Consumer",
+      "Recruiting",
+      "HR Tech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Job and Career Services"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/tsenta",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/tsenta.json"
   },
   {
     "id": 31262,
@@ -40220,6 +40211,52 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/userlens.json"
   },
   {
+    "id": 31420,
+    "name": "Kimpton",
+    "slug": "kimpton",
+    "former_names": [
+      "Kimpton AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc55a7e4190cac127494553294ea19379fdf8fc3.png",
+    "website": "https://kimpton.ai",
+    "all_locations": "New York City, NY, USA; Remote",
+    "long_description": "In investment management, every decision gets graded. The market prints the answer on a date known in advance, and nobody gets to argue with it.\r\n\r\nKimpton is financial AI that answers to reality. Kimpton OS is the AI-native operating system for investment teams: it does the research and hands PMs structured trades. EarningsBench is a public benchmark where models forecast quarterly earnings before companies report and the reported numbers do the scoring. Koliseum is the set of point-in-time financial environments we build from that work, for labs to train and evaluate models on.\r\n\r\nThe whole industry is fighting underperformance. Active managers trail their benchmarks, and capital keeps bleeding into passive. AI was supposed to fix that, but it hasn't. Funds either stitch together a dozen point tools or babysit general agents all day, and neither gets them to the trade.\r\n\r\nKimpton OS goes straight to it. It ingests a fund's mandate, strategy, and positions, connects to the institutional data the fund already runs on, and returns a structured trade proposal built for that fund. It's built to disagree, because consensus is poison for investment decisions. Instead of telling a PM what they want to hear, it surfaces the breaches and risks they'd otherwise miss.\r\n\r\nThat same work is how we grade AI. Static benchmarks leak into training data. Simulations reward what their authors imagined. A forecast sealed before the outcome exists and scored when the company reports can't be rehearsed or backdated. We started in markets because they're the one place reality answers on schedule.\r\n\r\nWe're two ex-Goldman engineers and an ex-SpaceX engineer. We left to start our own quantitative systematic hedge fund, raised $10M from a family office at 21 and 22, and scaled it to $35M over four years. We learned to trust live results over historical fit. We built Kimpton inside that fund, then productized the stack.\r\n\r\nWe're live with our first institutional client, a $3.3B manager. Our first market is fundamental equity funds from $1B to $10B, and the labs that need to know whether their models can do this work.",
+    "one_liner": "Live Evaluation Arenas for Financial Work",
+    "team_size": 5,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Asset Management",
+    "launched_at": 1774039716,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Investments",
+      "Trading"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Asset Management"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/kimpton",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/kimpton.json"
+  },
+  {
     "id": 31432,
     "name": "Keyframe Labs",
     "slug": "keyframe-labs",
@@ -40344,6 +40381,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/collar",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/collar.json"
+  },
+  {
+    "id": 31463,
+    "name": "Armature",
+    "slug": "armature",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cafd940f7349e6c612893fad752013b10458ce39.png",
+    "website": "https://armature.tech",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Coding agents like Claude Code, Codex and Cursor now decide which tools get installed in a codebase. Armature runs the real agents inside a panel of realistic repositories, measures whether they pick you, and works with your team on the docs, SDK and content changes that make them choose you. Every change is tested on real agent runs before it ships.\r\n\r\nOnce agents use your product, Armature shows you what users do with it through AI, with self-serve MCP analytics and evals that catch regressions before your users see them.",
+    "one_liner": "We get your product picked by coding agents, then help improve the…",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1778126369,
+    "tags": [
+      "Artificial Intelligence",
+      "Marketing",
+      "SEO",
+      "AI",
+      "APIs"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/armature",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/armature.json"
   },
   {
     "id": 31480,
@@ -41500,47 +41582,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/ai-coach.json"
   },
   {
-    "id": 32221,
-    "name": "Grocalo",
-    "slug": "grocalo",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0fdeca47d8a703741544113635c43a9f56c783f7.png",
-    "website": "https://grocalo.com/",
-    "all_locations": "Los Angeles, CA, USA",
-    "long_description": "Grocalo (S26) is an AI brain that runs content for creators. We understand their audiences, using video understanding and deep platform analytics to bottle up the taste behind each creator and personalize and distribute content to creator specific audiences.\r\n\r\nGrocalo generated 2B views and gained 4M followers for our creators in the last 2 months. Our clients include Jimmy O. Yang (Comedian, 11M followers), King Bach (72M followers), Leenda Dong (28M followers), Steven He (30M followers), Sheena Melwani (18M followers), and Jeannie Mai (TV host, 6M followers).\r\n\r\nContent should be personalized and data-driven. We’re developing the most advanced AI brain capable of replicating virality for any given audience. \r\n",
-    "one_liner": "AI brain that runs content for creators",
-    "team_size": 0,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Content",
-    "launched_at": 1787022465,
-    "tags": [
-      "Artificial Intelligence",
-      "Entertainment",
-      "Creator Economy"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Content"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/grocalo",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/grocalo.json"
-  },
-  {
     "id": 32222,
     "name": "Audun",
     "slug": "audun",
@@ -42298,6 +42339,89 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/fabraix.json"
   },
   {
+    "id": 32627,
+    "name": "Tenor",
+    "slug": "tenor",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/28b2676e2b5c4bb6bce97d4ce827f594e9743ce2.png",
+    "website": "https://heytenor.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Your AI spend becomes accountable labor: every AI worker gets a job, persistent context, a budget, guardrails, and outcomes you can measure. Tenor deploys AI inside businesses to run entire jobs across their existing tools, not isolated tasks. Companies define the outcomes and KPIs; every result improves how the worker makes decisions over time.",
+    "one_liner": "AI that own jobs end-to-end and learn from every outcome",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1786480856,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tenor",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/tenor.json"
+  },
+  {
+    "id": 32650,
+    "name": "Risklytics",
+    "slug": "risklytics",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/879622d4fa103941586542ac659eaf9b60d897f0.png",
+    "website": "https://www.risklytics.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Risklytics is the insurance company for frontier tech such as physical AI, robotics, and data centers. Companies answer 6 questions and we bind a tailored policy that other insurance companies won’t.",
+    "one_liner": "AI-Native Insurance for Frontier Tech",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1783123197,
+    "tags": [
+      "Artificial Intelligence",
+      "Hardware",
+      "Machine Learning",
+      "B2B",
+      "Insurance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/risklytics",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/risklytics.json"
+  },
+  {
     "id": 32749,
     "name": "Arbital",
     "slug": "arbital",
@@ -42343,6 +42467,55 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/arbital.json"
   },
   {
+    "id": 32752,
+    "name": "Moving Atoms",
+    "slug": "moving-atoms",
+    "former_names": [
+      "Run Lobster",
+      "RunLobster",
+      "Demon AI",
+      "RunDemon",
+      "Avicenna Care",
+      "Agent Insurance"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ee4bd602221f77fc05dda940b7202523dd2b9d10.png",
+    "website": "https://movingatoms.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Our first model, Atom 1, pre-trained on the internets video, and fine tuned for physics, already tops the Physics IQ benchmark.\r\nIt has been action conditioned, so you can simulate robot actions within it.\r\nThis lets Robot Labs train their robots using GPUs instead of relying on human collected manual data that is slow and expensive.\r\nIn unseen and hard to replicate environments, this is the only path to getting any training data.",
+    "one_liner": "World Models that Train Robots, #1 on Physics-IQ",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1786481200,
+    "tags": [
+      "Artificial Intelligence",
+      "Hard Tech",
+      "Robotics",
+      "Virtual Reality"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/moving-atoms",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/moving-atoms.json"
+  },
+  {
     "id": 32781,
     "name": "Isengard Industries Inc",
     "slug": "isengard-industries-inc",
@@ -42384,6 +42557,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/isengard-industries-inc",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/isengard-industries-inc.json"
+  },
+  {
+    "id": 32782,
+    "name": "Denta",
+    "slug": "denta",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8126dcec05004e9a335df14d0116cf4774a61b06.png",
+    "website": "https://denta.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Denta is dental insurance. As a full stack carrier, Denta makes insurance 30% cheaper by selling plans directly to employers and processing claims instantly with AI.\r\n\r\nI grew up in the back office of my dad’s dental practices, spent my high school years answering patient calls, and built software for over 300 dentists during college. I'm now solving the industry's biggest problem: insurance.\r\n\r\nEveryone knows how bad health insurance is, dental insurance is worse. In the US, dental insurers collect $100B per year. Despite the $25B of that spent on administration, it still takes insurers three weeks to pay claims with paper checks that Denta can pay electronically in seconds.\r\n\r\nDenta will insure every American, sparing patients and dentists the $25B burden of dealing with legacy carriers.",
+    "one_liner": "AI-Native Dental Insurance",
+    "team_size": 1,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1782407143,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Healthcare",
+      "Health Insurance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/denta",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/denta.json"
   },
   {
     "id": 32814,
@@ -42944,7 +43159,7 @@
     "website": "https://hyperprobe.co",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "With tools like Cursor and Claude Code, writing software is no longer the bottleneck. Debugging is. Agents cannot fix production crashes using logs and traces that were sized for human eyeballs. The gap is missing data.\r\n\r\nHyperProbe allows agents to debug live software autonomously. Our SDK drops non-breaking probes straight into running services to read exact variable states from memory at the moment of failure, instead of reasoning backwards from flat logs.\r\n\r\nZero redeploys. Under 1% CPU overhead. Automatic PII redaction.\r\n\r\nWe turn 4-hour production war rooms into 10-minute automated resolutions. As agents write and operate more of the world's software, HyperProbe is the runtime observability layer that lets them understand what they built.\r\n\r\n",
-    "one_liner": "The runtime data layer for agents to monitor and debug apps",
+    "one_liner": "AI engineer that fixes production issues on its own",
     "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -43404,6 +43619,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/allia-health.json"
   },
   {
+    "id": 33540,
+    "name": "Osseus",
+    "slug": "osseus",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd39ca163a2a8ea396a6ec66701926317f9f416c.png",
+    "website": "https://osseus.ai/",
+    "all_locations": "",
+    "long_description": "",
+    "one_liner": "The intelligent development platform for robotics",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1783740069,
+    "tags": [
+      "Artificial Intelligence",
+      "Robotics",
+      "B2B",
+      "Enterprise Software",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/osseus",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/osseus.json"
+  },
+  {
     "id": 33573,
     "name": "hardware intelligence",
     "slug": "hardware-intelligence",
@@ -43820,6 +44077,86 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lantern-ai",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/lantern-ai.json"
+  },
+  {
+    "id": 35257,
+    "name": "Nodus Compute",
+    "slug": "nodus-compute",
+    "former_names": [
+      "Nodus"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cf5d37476e8f7b170957ddb85fd0254d52fa2634.png",
+    "website": "https://www.nodus-compute.ai/",
+    "all_locations": "",
+    "long_description": "Intelligent execution layer for AI workloads",
+    "one_liner": "Intelligent execution layer for AI workloads",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1788063210,
+    "tags": [
+      "Artificial Intelligence",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/nodus-compute",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/nodus-compute.json"
+  },
+  {
+    "id": 35784,
+    "name": "Vorelios",
+    "slug": "vorelios",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c02b36f4ca2283601c8f20e89597a38768ae9db9.png",
+    "website": "https://vorelios.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Engineering is bottlenecked by slow, costly simulations. We're fixing that by building foundation models that learn physics end-to-end and deliver the same results in seconds, at a fraction of the cost.",
+    "one_liner": "AI that simulates physics 1000x faster",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1786417769,
+    "tags": [
+      "Artificial Intelligence",
+      "Hard Tech",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/vorelios",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/vorelios.json"
   },
   {
     "id": 37600,

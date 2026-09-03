@@ -1327,7 +1327,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -1569,10 +1569,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f3743327b1fc85ded6caddbd532e0c600eb2cb0.png",
     "website": "https://tensr.com/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Emeryville, CA, USA",
     "long_description": "Robotic factories that build robotics in the US. Currently operating a 12,000 sqft factory in the Bay Area and actively manufacturing customer orders for some of the largest robotics companies in the US and the International Space Station.\r\n\r\nWe’re a group of Berkeley graduate robotics researchers who previously won a full scale autonomous IndyCar competition at 160mph.",
     "one_liner": "Robotic factories that build robots.",
-    "team_size": 3,
+    "team_size": 7,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1763065446,
@@ -1646,6 +1646,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ndea-com",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/ndea-com.json"
+  },
+  {
+    "id": 31139,
+    "name": "Ashr",
+    "slug": "ashr",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/36b682fdfb87515f8ca423d8a006eaac7229e134.png",
+    "website": "https://ashr.io",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Ashr Manifold is a self-contained model training, hosting, observability, and continual learning platform for purpose-built open-weight models. \r\n\r\nStartups can use Manifold to post-train and manage fleets of continuously improving open-weight models without having a dedicated research team or infrastructure. Ultimately, this reduces operating costs and allows a greater degree of control over proprietary company knowledge.\r\n\r\nEnterprises can use Manifold to encode institutional judgements and priorities into open-weight models, reduce token costs, and manage every level of the AI life cycle, from data curation, to model serving on weights and infrastructure they own.",
+    "one_liner": "Enterprise post-training, monitoring, and continual learning platform",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1771535371,
+    "tags": [
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Generative AI",
+      "Reinforcement Learning",
+      "Data Engineering"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ashr",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/ashr.json"
   },
   {
     "id": 31516,
@@ -1863,7 +1905,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/adf2f2d3e67de554b1df8a77cdc1d6dd943928ec.png",
     "website": "https://www.talos-us.com/",
     "all_locations": "Baltimore, MD, USA",
-    "long_description": "Predictive maintenance for the power grid. ",
+    "long_description": "At Talos, we are building better, more modern predictive maintenance for the power industry with a focus on large transformers. Our devices continuously monitor critical power equipment and detect problems early on using anomaly-detection models. For each fault, we provide detailed analyses of the problem, exactly where and why it happened, as well as next steps teams should take. ",
     "one_liner": "Predictive maintenance for power infrastructure.",
     "team_size": 3,
     "industry": "Industrials",

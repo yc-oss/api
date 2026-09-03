@@ -16659,7 +16659,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -17085,18 +17085,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c28333543424f2e5753fd39fd195e354af322187.png",
     "website": "https://www.integuru.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Integuru turns any platform into a reliable, low-latency, and high-throughput API. Requests complete in 3 seconds with 99.9%+ success, including deployments above 1M requests/month/platform. No RPA or browsers. No data caching needed.",
+    "long_description": "Integuru turns any platform into a reliable, low-latency, and high-throughput API. Requests complete in 3 seconds with 99.9%+ success, including deployments above 1M requests/month/platform. No RPA or browsers. No data caching needed. (By Taiki, Inc.)",
     "one_liner": "Generate fast, reliable APIs for any platform",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1709153976,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "API",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -17215,7 +17215,7 @@
     "former_names": [
       "Datawave"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f1b408f70436ba6c3b79b72819fce2462e9b4dc.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/adc31ffe74137f2876c08ce7153b3a5cfd5001ca.png",
     "website": "https://coval.dev",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Coval is a simulation & evaluation platform for autonomous AI agents, helping engineers launch dependable assistants across chat, voice, and other modalities. \r\nWe simulate thousands of scenarios engineers don't have to manually test their agents. Our CI/CD evaluations automatically simulate and detect regressions.",
@@ -21213,10 +21213,10 @@
     "subindustry": "B2B -> Analytics",
     "launched_at": 1754374450,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Data Science",
-      "Data Visualization",
-      "AI"
+      "Data Visualization"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21233,7 +21233,7 @@
       "America / Canada"
     ],
     "stage": "Early",
-    "app_video_public": true,
+    "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
@@ -22363,46 +22363,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/specific",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/specific.json"
-  },
-  {
-    "id": 30957,
-    "name": "Clad Labs",
-    "slug": "clad-labs",
-    "former_names": [
-      "Clad Labs AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/520e314c8c296821e00ad659cebecef2f5a3e76a.png",
-    "website": "https://cladlabs.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "free codegen from brainrot workflows in your IDE.",
-    "one_liner": "the brainrot ide",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1761263170,
-    "tags": [
-      "Developer Tools"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": true,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/clad-labs",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/clad-labs.json"
   },
   {
     "id": 30969,
@@ -23975,7 +23935,7 @@
     "website": "https://hyperprobe.co",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "With tools like Cursor and Claude Code, writing software is no longer the bottleneck. Debugging is. Agents cannot fix production crashes using logs and traces that were sized for human eyeballs. The gap is missing data.\r\n\r\nHyperProbe allows agents to debug live software autonomously. Our SDK drops non-breaking probes straight into running services to read exact variable states from memory at the moment of failure, instead of reasoning backwards from flat logs.\r\n\r\nZero redeploys. Under 1% CPU overhead. Automatic PII redaction.\r\n\r\nWe turn 4-hour production war rooms into 10-minute automated resolutions. As agents write and operate more of the world's software, HyperProbe is the runtime observability layer that lets them understand what they built.\r\n\r\n",
-    "one_liner": "The runtime data layer for agents to monitor and debug apps",
+    "one_liner": "AI engineer that fixes production issues on its own",
     "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
