@@ -884,49 +884,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2016/iris-automation.json"
   },
   {
-    "id": 1226,
-    "name": "OneChronos",
-    "slug": "onechronos",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/95735e616536b1a1cfcca07ddaaa04596244401a.png",
-    "website": "https://www.onechronos.com/",
-    "all_locations": "New York City, NY, USA; New York, NY, USA",
-    "long_description": "OneChronos is a U.S. equities ATS designed bottom-up to fundamentally address the growing gap between how trading venues match orders and how traders need to execute.",
-    "one_liner": "The Smart Market for Institutional Investors",
-    "team_size": 35,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Banking and Exchange",
-    "launched_at": 1461210619,
-    "tags": [
-      "Fintech",
-      "Marketplace",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2016",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Banking and Exchange"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/onechronos",
-    "api": "https://yc-oss.github.io/api/batches/summer-2016/onechronos.json"
-  },
-  {
     "id": 1250,
     "name": "Airo Health",
     "slug": "airo-health",
@@ -2888,6 +2845,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hypnos",
     "api": "https://yc-oss.github.io/api/batches/winter-2019/hypnos.json"
+  },
+  {
+    "id": 12091,
+    "name": "Superb AI",
+    "slug": "superb-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/557ab62b86d1ab472dd3665292fc28d7191fb8b9.png",
+    "website": "https://www.superb-ai.com",
+    "all_locations": "Seoul, Seoul, South Korea",
+    "long_description": "Superb AI is a leading computer vision platform and professional services provider that provides enterprise-grade, end-to-end MLOps and DataOps workflows to accelerate the adoption and development of data-centric AI. Through the practical application of AI-based automation, Superb AI helps teams manage the entire ML lifecycle more efficiently, from data annotation to curation, model training, and deployment, while ensuring optimal data accuracy and consistency.",
+    "one_liner": "Superb AI provides end-to-end computer vision MLOps platform",
+    "team_size": 80,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1541714572,
+    "tags": [
+      "AIOps",
+      "SaaS",
+      "B2B",
+      "AI",
+      "ML"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2019",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "South Korea",
+      "East Asia",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/superb-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2019/superb-ai.json"
   },
   {
     "id": 12271,
@@ -6580,10 +6582,10 @@
       "Alchemy",
       "Alchemy Commerce"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6d35b8ea019eb95e63016971bc2bcc28e3bffcaa.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/60f75a909cd4fe5c8368c1b60a2257626955c988.png",
     "website": "https://replo.app/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Replo enables anyone around the world to sell anything, anytime, anywhere. We are building every company's GTM specialist — from ecommerce to SaaS. To date, we’ve raised over $8.2M from Figma, YCombinator, Vercel, General Catalyst, Infinity Ventures, MAGIC Fund, Base Case Capital.\r\n",
+    "long_description": "Agents that help you sell anything on the internet. Come build what the next million businesses launch on.\r\n\r\nTo date, we’ve raised over $8.2M from Figma, YCombinator, Vercel, General Catalyst, Infinity Ventures, MAGIC Fund, Base Case Capital.\r\n",
     "one_liner": "Sell anything",
     "team_size": 20,
     "industry": "B2B",
@@ -21827,15 +21829,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d1dc8f5914cad7c44e1fba45da40ae265dd9bfe2.png",
     "website": "https://www.reformhq.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Automate freight operations from quote to cash without replacing your trusted systems.",
-    "one_liner": "Workflow automation. Built for logistics.",
+    "long_description": "At Reform, we’re building a platform for building and managing AI agents that perform high-stakes operational work. Some of the most critical industries today run on outdated systems, spreadsheets, and manual processes — creating friction across every handoff, contract, and invoice. We’re rebuilding this infrastructure from the ground up.",
+    "one_liner": "AI Agents for high-stakes work.",
     "team_size": 13,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1706556384,
     "tags": [
       "Workflow Automation",
+      "Compliance",
       "Logistics",
+      "Supply Chain",
       "AI"
     ],
     "tags_highlighted": [],
@@ -31764,8 +31768,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9292b62c58dc81055b437ce647dc7c3ea10ffc5c.png",
     "website": "https://magnitude.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Today, coding with local models means finding a model, choosing a quant, installing and tuning a runtime, connecting it to an agent, and keeping the stack working. Magnitude handles it all for you so you can focus on coding. npm install -g @magnitudedev/cli",
-    "one_liner": "Code with local models, zero setup",
+    "long_description": "Magnitude runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+    "one_liner": "Open source inference server for local models",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -31882,6 +31886,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tesora",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/tesora.json"
+  },
+  {
+    "id": 30664,
+    "name": "Kestroll",
+    "slug": "kestroll",
+    "former_names": [
+      "GameHawk"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7a2c085f8445d928a1f0f379cb3bc64ffb604707.png",
+    "website": "https://www.kestroll.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "An AI video editing agent that one-shots tedious post-production tasks like turning raw recordings into publishable podcasts and clipping viral shorts for socials.\r\n\r\nThink Cursor for video editing.",
+    "one_liner": "AI video editor",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Content",
+    "launched_at": 1751838348,
+    "tags": [
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Content"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/kestroll",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/kestroll.json"
   },
   {
     "id": 30671,
@@ -33312,48 +33357,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/uplane.json"
   },
   {
-    "id": 30845,
-    "name": "Structured AI",
-    "slug": "structured-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7b994637fa890bb7d41d69d022b3d15f6e4f3e8c.png",
-    "website": "https://www.getstructured.ai/",
-    "all_locations": "New York City, NY, USA",
-    "long_description": "Structured AI is the most advanced AI-powered QA/QC platform for drawing packages, working across both PDF drawings and native Revit models. Architects and engineers use our platform to make every drawing set leave the office with certainty. \r\n\r\nOur AI agents learn your firm's standards, apply the relevant codes, and read every page of a set, then return a clear list of what's wrong, where it sits, and how to fix it. Run compliance reviews across thousands of pages in minutes, chat with your drawings for sourced answers, build custom checks in plain English, compare versions, overlay disciplines, and close out comments - all within a single platform, with a full audit trail on every finding.\r\n\r\nFor decades, the last line of defense on a drawing set has been a red pen at the end of a deadline week. But buildings have outgrown the red pen. A modern set runs thousands of drawings, and the errors hiding between them threaten quality and safety, not just cost. What manual review misses resurfaces as RFIs, change orders, and field rework, paid for in time, margin, and reputation.\r\n\r\nStructured AI catches those errors before they leave the office, capturing the judgment of your best reviewer once and applying it everywhere.\r\n\r\nBetter drawings build a better world. #GetStructured",
-    "one_liner": "The AI drawing review platform for architects and engineers.",
-    "team_size": 10,
-    "industry": "Real Estate and Construction",
-    "subindustry": "Real Estate and Construction -> Construction",
-    "launched_at": 1759212406,
-    "tags": [
-      "Computer Vision",
-      "Construction",
-      "Architecture",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "Real Estate and Construction",
-      "Construction"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/structured-ai",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/structured-ai.json"
-  },
-  {
     "id": 30849,
     "name": "MOVEdot",
     "slug": "movedot",
@@ -34214,6 +34217,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/compyle",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/compyle.json"
+  },
+  {
+    "id": 30928,
+    "name": "Thesis",
+    "slug": "thesis",
+    "former_names": [
+      "Thesis Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/834b16b30c5de79bf9dbcd0a4819289bfa937936.png",
+    "website": "https://thesislabs.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Thesis is building Darwin, a humanoid robot for the home. AI is about to leave the screen and enter the physical world. Darwin will learn from real-world experience and continuously improve. First deployments begin in early 2027.",
+    "one_liner": "Humanoid robots",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1762476616,
+    "tags": [
+      "Hard Tech",
+      "Machine Learning",
+      "Robotics",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/thesis",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/thesis.json"
   },
   {
     "id": 30931,
@@ -35904,54 +35951,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/most-robotic.json"
   },
   {
-    "id": 31342,
-    "name": "Osmaura",
-    "slug": "osmaura",
-    "former_names": [
-      "Basis Labs",
-      "Basis",
-      "Osmaura",
-      "justreheat",
-      "JustReheat",
-      "vizlog",
-      "Halcyon"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f8f5bfc033ae31d6282044fe4ce792725cc090a1.png",
-    "website": "https://osmaura.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Our agents scan the web to deliver new client & cross-selling opportunities for law firm partners. We grew 0 -> 15k MRR in 4 weeks after launching mid-batch.\r\n\r\nEvery day, our customers log onto our platform to see who to contact, why now, and what to say.\r\n\r\nPartners are trained to practice law - not to prospect, sell, and manage pipelines. We're here to help them grow while they focus on what they do best.",
-    "one_liner": "AI growth engine for corporate law firms.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1781994700,
-    "tags": [
-      "Sales Enablement",
-      "LegalTech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/osmaura",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/osmaura.json"
-  },
-  {
     "id": 31349,
     "name": "Palette",
     "slug": "palette-2",
@@ -36146,7 +36145,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2026",
     "status": "Active",
@@ -36348,7 +36347,7 @@
     "website": "https://armature.tech",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Coding agents like Claude Code, Codex and Cursor now decide which tools get installed in a codebase. Armature runs the real agents inside a panel of realistic repositories, measures whether they pick you, and works with your team on the docs, SDK and content changes that make them choose you. Every change is tested on real agent runs before it ships.\r\n\r\nOnce agents use your product, Armature shows you what users do with it through AI, with self-serve MCP analytics and evals that catch regressions before your users see them.",
-    "one_liner": "We get your product picked by coding agents, then help improve the…",
+    "one_liner": "We get your product picked by coding agents.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -38167,6 +38166,56 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/neuromorphic.json"
   },
   {
+    "id": 32752,
+    "name": "Moving Atoms",
+    "slug": "moving-atoms",
+    "former_names": [
+      "Run Lobster",
+      "RunLobster",
+      "Demon AI",
+      "RunDemon",
+      "Avicenna Care",
+      "Agent Insurance"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ee4bd602221f77fc05dda940b7202523dd2b9d10.png",
+    "website": "https://movingatoms.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Our first model, Atom 1, pre-trained on the internets video, and fine tuned for physics, already tops the Physics IQ benchmark.\r\nIt has been action conditioned, so you can simulate robot actions within it.\r\nThis lets Robot Labs train their robots using GPUs instead of relying on human collected manual data that is slow and expensive.\r\nIn unseen and hard to replicate environments, this is the only path to getting ANY training data.",
+    "one_liner": "Solving the Data Problem in Robotics, #1 on Physics-IQ",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1786481200,
+    "tags": [
+      "Hard Tech",
+      "Robotics",
+      "Virtual Reality",
+      "Data Labeling",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/moving-atoms",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/moving-atoms.json"
+  },
+  {
     "id": 32848,
     "name": "Luca IQ",
     "slug": "luca-iq",
@@ -38249,6 +38298,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pacific",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/pacific.json"
+  },
+  {
+    "id": 32987,
+    "name": "Familiar",
+    "slug": "familiar",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c65a4389d81076a7a08b8c3d3c22a2bf1c54e49b.png",
+    "website": "https://thefamiliarlab.com",
+    "all_locations": "Toronto, ON, Canada",
+    "long_description": "Audio-visual translation infrastructure for all video, live and recorded -- the first and only that works in real time. World translation: not just changing voice and lips into a new language, but understanding the scene, the sound, and preserving the human.\r\n\r\n🦋 Movies & TV, Micro-dramas, Live Broadcasts, Live Shopping, Corporate & Education, Ads, Creators & Podcasts, Platforms. Day-and-date, in every territory.\r\n\r\nFounders An Zhu Liu, Jibin Song, Mingi Kwon, and Xu Zheng lead a team of PhDs, professors, and researchers from the world's top universities who started the field of joint audio-visual human models and co-authored the current state of the art in real-time human animation. Since 2021: over 10,000 citations and 100+ papers at ICLR, NeurIPS, CVPR, ECCV, and more.\r\n\r\nTranslation needs 3D world understanding, permanence of identities. A translator has to know who's speaking: where every sound in the dense polyphony originates (laughter, layered crowds). Laughter here, a short yell there, a voice from off-screen, someone on screen mouthing words before being interrupted. Everyone else scaffolds separate models and pre-processing; a unified model simulates the scene. It's a spatio-temporal reasoner: predicting continuity across frames forces it to internalize 3D geometry, spatial reasoning, and permanence -- of objects, people, and the environment itself. The scene state survives the edit: when the shot pans or cuts away, someone off-screen still exists, still owns their voice, and is still there when the camera comes back. Multiple people, side views, off angles, dense polyphony, fast motion -- the hard cases hold.\r\n\r\nVs ElevenLabs: they lose the laughter, the music, the ambiance -- 270% more background-sound error -- and ours sounds 27.8% more like you. That means no recasting, no ADR, no M&E stems required -- it works from the final mix.\r\n\r\nVs human translators: 100.3% of their quality -- scalable, real time. Published benchmarks: https://thefamiliarlab.com/benchmark",
+    "one_liner": "Real-Time AI Dubbing. Neolab for World Translation.",
+    "team_size": 8,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1786578571,
+    "tags": [
+      "Generative AI",
+      "B2B",
+      "Entertainment",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "Canada",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/familiar",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/familiar.json"
   },
   {
     "id": 33014,
@@ -38931,6 +39022,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/onecli.json"
   },
   {
+    "id": 33540,
+    "name": "Osseus",
+    "slug": "osseus",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd39ca163a2a8ea396a6ec66701926317f9f416c.png",
+    "website": "https://osseus.ai/",
+    "all_locations": "",
+    "long_description": "",
+    "one_liner": "",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1783740069,
+    "tags": [
+      "Robotics",
+      "B2B",
+      "Biotech",
+      "Healthcare",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/osseus",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/osseus.json"
+  },
+  {
     "id": 33639,
     "name": "Magma",
     "slug": "magma",
@@ -39227,22 +39360,22 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/veeza-ai.json"
   },
   {
-    "id": 35395,
-    "name": "Workers IO",
-    "slug": "workers-io",
+    "id": 35260,
+    "name": "OnePatch",
+    "slug": "onepatch",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12ec3720a247bad2e5a39d162b68e217ed6b74bd.png",
-    "website": "https://workers.io",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7832df887d718a7dbfbcec376ef2b160c31b16da.png",
+    "website": "https://onepatch.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Workers IO makes sure everything you ship works. Our platform maps every scenario your software can face in production and verifies each release against all of them in simulation environments, every failure comes back as an exact, replayable run.\r\n\r\nEngineering teams stop chasing bugs and ship at agent speed, with certainty that used to be impossible.",
-    "one_liner": "Deterministic Virtual Machines",
+    "long_description": "OnePatch is a forward-deployed AI SRE. It instruments your services, watches how they actually behave in prod, catches incidents, and drives each one to resolution. Think Datadog, except it doesn't stop at telling you something broke: it keeps going until the fix is shipped.",
+    "one_liner": "Automate on-call at agent-scale.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1787942068,
+    "launched_at": 1785972273,
     "tags": [
-      "Developer Tools",
-      "B2B",
+      "DevOps",
+      "Automation",
       "AI"
     ],
     "tags_highlighted": [],
@@ -39264,8 +39397,48 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/workers-io",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/workers-io.json"
+    "url": "https://www.ycombinator.com/companies/onepatch",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/onepatch.json"
+  },
+  {
+    "id": 35784,
+    "name": "Vorelios",
+    "slug": "vorelios",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c02b36f4ca2283601c8f20e89597a38768ae9db9.png",
+    "website": "https://vorelios.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Engineering is bottlenecked by slow, costly simulations. We're fixing that by building foundation models that learn physics end-to-end and deliver the same results in seconds, at a fraction of the cost.",
+    "one_liner": "AI that simulates physics 1000x faster",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1786417769,
+    "tags": [
+      "Hard Tech",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/vorelios",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/vorelios.json"
   },
   {
     "id": 36348,
