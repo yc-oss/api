@@ -1663,16 +1663,16 @@
     "all_locations": "New York City, NY, USA",
     "long_description": "Norra helps nursing facilities manage equipment operations. Every year, ~$80 billion are spent on medical equipment like beds, concentrators, and wheelchairs. Nursing facilities continue to operate with zero visibility which leads to $15 billion in equipment waste annually. We use physical trackers and AI agents to eliminate this.",
     "one_liner": "Automating equipment operations for nursing facilities",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1761871626,
     "tags": [
-      "Artificial Intelligence",
       "Hardware",
       "Health Tech",
       "Logistics",
-      "Healthcare"
+      "Healthcare",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2455,20 +2455,21 @@
   },
   {
     "id": 30889,
-    "name": "Terrain",
-    "slug": "terrain",
+    "name": "Nivara",
+    "slug": "nivara",
     "former_names": [
       "Nivara AI",
-      "Nivara"
+      "Nivara",
+      "Terrain"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3725baa6ed275d3fe7064a6f04d7c57debd641c.png",
     "website": "https://getnivara.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Terrain is an AI native go-to-market platform for teams selling to the physical economy - contractors, restaurants, etc.",
-    "one_liner": "AI native GTM platform for the physical economy",
+    "long_description": "We’re building AI agents for finance teams. They handle repetitive work across email and accounting systems - processing documents, following up on open items, reconciling records, and resolving exceptions while people retain approval and oversight.",
+    "one_liner": "AI agents for the finance back office.",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Sales",
+    "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1761077242,
     "tags": [
       "B2B",
@@ -2476,13 +2477,13 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
     "industries": [
       "B2B",
-      "Sales"
+      "Finance and Accounting"
     ],
     "regions": [
       "United States of America",
@@ -2493,8 +2494,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/terrain",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/terrain.json"
+    "url": "https://www.ycombinator.com/companies/nivara",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/nivara.json"
   },
   {
     "id": 30890,
@@ -4309,16 +4310,16 @@
     "website": "https://specific.dev",
     "all_locations": "Stockholm, Stockholm County, Sweden",
     "long_description": "Specific lets your coding agent write code and build the infrastructure to deploy it. Connect your favorite coding agent and start building immediately. Run `specific dev` to get a full local environment running in seconds. Run `specific deploy` to go to production on our scalable cloud platform in minutes.",
-    "one_liner": "AWS for coding agents",
+    "one_liner": "The cloud platform built for coding agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1758776605,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "No-code",
-      "DevOps"
+      "DevOps",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4335,7 +4336,7 @@
       "Europe"
     ],
     "stage": "Early",
-    "app_video_public": true,
+    "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
@@ -5934,11 +5935,11 @@
     "name": "Rivet",
     "slug": "rivet-design",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/27852a72a2c3864e7f9b2c7273ec39951f3e8d68.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/28bd19a3fc057798d00b7402f78d585553560d40.png",
     "website": "https://rivet.design/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Rivet is a visual AI editor for product designers to make UI changes.  Designers ship the changes they make directly to their codebase. \r\n\r\nThe most painful problem for designers today is that their vision doesn't match code.  Rivet replaces slow collaboration between designers and engineers by letting designers just do it themselves. Rivet's editor helps turn product designers into design engineers.\r\n \r\nDesign-led companies in YC are Rivet customers.\r\n\r\nLearn more at rivet.design",
-    "one_liner": "Visual editor to design in production code",
+    "long_description": "Rivet helps designers explore dozens of directions from their agent.  \r\n\r\nLearn more at rivet.design",
+    "one_liner": "Explore dozens of design directions with your agent",
     "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
