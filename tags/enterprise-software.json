@@ -5247,16 +5247,17 @@
   },
   {
     "id": 31458,
-    "name": "Ara",
-    "slug": "ara",
+    "name": "Reason Machines",
+    "slug": "reason-machines",
     "former_names": [
-      "EasyClaw"
+      "EasyClaw",
+      "Ara"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f536d08b73147eb71c0665fe5c2d6c6ffed0663.png",
-    "website": "https://ara.so",
+    "website": "https://reasonmachines.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ara is the cloud coding agent — an autonomous software engineer for software teams. It watches work in progress, plans the next step, and executes tasks with its own computer, background agents, persistent memory, and reusable skills. Unite your team that uses Claude and Codex and other  coding subscriptions to code together in the browser. Ara turns coding into a closed loop: suggest, act, learn, improve.\r\n\r\n",
-    "one_liner": "The Cloud Coding Agent",
+    "long_description": "Billions of machines are left untouched by agents and work individually. We connect them to unlock multiplayer cloud coding agents for work like engineering, math and research.\r\n\r\n",
+    "one_liner": "The coding agent that can access and reason across any machine. ",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -5285,8 +5286,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ara",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/ara.json"
+    "url": "https://www.ycombinator.com/companies/reason-machines",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/reason-machines.json"
   },
   {
     "id": 31858,
@@ -5382,7 +5383,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4083ec47b697a352249164c76574e273a5fa75d7.png",
     "website": "https://www.floracene.com/",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Floracene lets any healthcare operator describe the internal tool they need and deploy it in one click - connected to production data, with read and write access scoped by the user. Think Lovable or Retool, except purpose-built for the needs of healthcare business that has no engineering team.\r\n\r\nThe bottleneck in healthcare isn't building anymore. Anyone can vibecode an 80% solution in an afternoon, custom to their own workflow, with people already on staff. The tool then dies locally on the builder’s computer, because IT (correctly) won't let anyone deploy a tool touching PHI without first-class authentication and permissioning. Our first design partner had multiple employees who had each built useful tools and dashboards locally, but couldn’t actually share these with coworkers or connect to their core practice data. Within weeks of implementing Floracene, they were able to consolidate their BI tooling into Floracene and shipped 4 net-new to production.\r\n\r\nA staggering ~$200B is spent on administrative software in healthcare every year in the US. Tens of thousands of those companies still run core operations on spreadsheets, and we're at the top of the first inning of AI adoption.\r\n\r\nAsaph and Jonah met on the hospitals team at Palantir two years ago, and have each spent the last four years in the plumbing of US healthcare: claims, eligibility, and payor contracting. Asaph was an early PM at Garner. Jonah was a founding engineer at Metriport (YC S22) after starting his own fax-automation startup for fertility clinics.",
+    "long_description": "Floracene lets any healthcare operator describe the internal tool they need and deploy it in one click - connected to production data, with read and write access scoped by the user. Think Lovable or Retool, except purpose-built for the needs of healthcare business that has no engineering team.\r\n\r\nThe bottleneck in healthcare isn't building anymore. Anyone can vibecode an 80% solution in an afternoon, custom to their own workflow, with people already on staff. The tool then dies locally on the builder’s computer, because IT (correctly) won't let anyone deploy a tool touching PHI without first-class authentication and permissioning. Our first customer had multiple employees who had each built useful tools and dashboards locally, but couldn’t actually share these with coworkers or connect to their core practice data. Within weeks of implementing Floracene, they were able to consolidate their BI tooling into Floracene and shipped 4 net-new to production.\r\n\r\nA staggering ~$200B is spent on administrative software in healthcare every year in the US. Tens of thousands of those companies still run core operations on spreadsheets, and we're at the top of the first inning of AI adoption.\r\n\r\nAsaph and Jonah met on the hospitals team at Palantir two years ago, and have each spent the last four years in the plumbing of US healthcare: claims, eligibility, and payor contracting. Asaph was an early PM at Garner. Jonah was a founding engineer at Metriport (YC S22) after starting his own fax-automation startup for fertility clinics.",
     "one_liner": "Vibecode + deploy HIPAA-compliant internal tools, no eng team needed",
     "team_size": 2,
     "industry": "Healthcare",
@@ -5506,7 +5507,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/144e7207ec725036f43cc9a6b577a8320151e103.png",
     "website": "https://screenpipe.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "screenpipe record and learns how you work and turns it into a searchable memory, documents, and AI agents. Data is stored on your device or where your team choose, open source.",
+    "long_description": "Screenpipe records and learns how people in your company work and turns it into a searchable memory, documents, and AI agents. Data is stored on your device or where your team choose, open source.",
     "one_liner": "Turn your company's computer work into AI agents.",
     "team_size": 2,
     "industry": "B2B",
@@ -5640,16 +5641,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6bdf97a8fbe4a8a51a745ce366d9c6c2bfc6d75c.png",
     "website": "https://www.getqlo.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Qlo uses AI agents to run commercial underwriting operations from submission to renewal. Specialized agents handle each operational step, while supervisor agents coordinate the work and communicate with the underwriter.\r\n\r\nEvery commercial insurance program will be built and operated end to end by AI agents on Qlo.",
+    "long_description": "Qlo builds AI agents to run commercial insurance underwriting. We start by fully automating the operational work around risk decisions, become the system of record, and earn autonomy workflow by workflow toward the autonomous AI underwriter.\r\n\r\nWe’re rebuilding underwriting infrastructure from the ground up so human underwriters and AI agents can share the same accounts, rules, documents, permissions, and workflow state. \r\n\r\nWe believe every commercial insurance program will eventually be built and operated end to end by AI agents on Qlo.",
     "one_liner": "Legora for commercial insurance carriers",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1786080312,
     "tags": [
+      "Artificial Intelligence",
       "Insurance",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5681,8 +5682,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4211252c17df7b0a89dc9c36ce49996bef59474d.png",
     "website": "https://levocred.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Levocred builds and deploys AI agents inside credit funds, fintechs and banks to automate workflows like back-office tasks, portfolio monitoring, compliance and underwriting. Live across multiple lending teams, running ~$1Bn in receivables through the platform.",
-    "one_liner": "AI Workforce for lenders",
+    "long_description": "Levocred puts AI agents inside lenders. They run the loan book and price new deals; one fund cut time to price from a week to two hours and replaced two analysts' work. \r\nEvery book we price trains a model for the $22T of US loans that never trade. That model becomes the exchange.",
+    "one_liner": "Foundation Model for Lenders",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech",
