@@ -794,49 +794,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/ndea-com.json"
   },
   {
-    "id": 31223,
-    "name": "Datoric",
-    "slug": "datoric",
-    "former_names": [
-      "Flow AI",
-      "Arzule"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa894803120df3a3a9250c66e4232e33e2a223d0.png",
-    "website": "https://www.datoric.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Datoric develops custom datasets for voice models, robotics, and world models, treating research, collection, verification, and production as one continuous process. We work closely with frontier model teams to turn emerging limitations into testable data hypotheses, while running our own experiments ahead of customer demand. This allows us to operationalize validated methods into repeatable collection systems at scale.\r\n\r\nData is collected through private invite-only applications separated by modality, customer, and trust level. Every submission remains linked to the contributor, device, task, session, consent, rights, and processing history that produced it, giving our internal QA and fraud models the context to detect problems that may appear legitimate in the finished file. Each collection reveals new failure cases and quality signals that improve the systems behind the next dataset.\r\n\r\nOnce a collection method is validated, it becomes a reusable data recipe for future custom projects or independently collected, rights-cleared data products. This allows Datoric to turn what is emerging at the frontier into datasets available ahead of broader market demand.\r\n",
-    "one_liner": "Secure training data shaped by experimentation",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1767154035,
-    "tags": [
-      "Artificial Intelligence",
-      "Data Labeling",
-      "ML"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/datoric",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/datoric.json"
-  },
-  {
     "id": 31516,
     "name": "Expanse",
     "slug": "expanse",
@@ -880,14 +837,16 @@
   },
   {
     "id": 32167,
-    "name": "Understudy Labs",
-    "slug": "understudy-labs",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/034b1bab6d92bd99439aee47bf2312630046798c.png",
-    "website": "https://understudylabs.com/",
+    "name": "Orchestra",
+    "slug": "orchestra",
+    "former_names": [
+      "Understudy Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c3256dade0a8238b6c265f966b52c26ba9052e1e.png",
+    "website": "https://orchestra.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Understudy is an inference cloud. We capture your AI work traces, train smaller models, and automatically deploy them (only when they outperform the expensive model you are currently paying for).\r\n\r\nInstead of renting the same frontier model forever, your AI infrastructure gets faster, smarter, and cheaper every time it runs.\r\n\r\nSuppose your product uses Claude for a repetitive legal workflow.\r\n\r\nUnderstudy observes successful production runs, learns the specific tools and judgment required for that workflow, and trains a specialized open-weight model.\r\n\r\nOnce that model matches or beats Claude on a held-out evaluation, Understudy starts routing production traffic to it.\r\n\r\nAs more work is completed, the model keeps improving.\r\n\r\nWe started Understudy because we believe every company using AI should be accumulating intelligence, not accumulating API bills.",
-    "one_liner": "Self-optimizing neocloud that cuts LLM bills by 80%",
+    "long_description": "Orchestra is an inference cloud. We capture your AI work traces, train smaller models, and automatically deploy them (only when they outperform the expensive model you are currently paying for).\r\n\r\nInstead of renting the same frontier model forever, your AI infrastructure gets faster, smarter, and cheaper every time it runs.\r\n\r\nSuppose your product uses Claude for a repetitive legal workflow.\r\n\r\nOrchestra observes successful production runs, learns the specific tools and judgment required for that workflow, and trains a specialized open-weight model.\r\n\r\nOnce that model matches or beats Claude on a held-out evaluation, Orchestra starts routing production traffic to it.\r\n\r\nAs more work is completed, the model keeps improving.\r\n\r\nWe started Orchestra because we believe every company using AI should be accumulating intelligence, not accumulating API bills.",
+    "one_liner": "Self-optimizing neocloud that cuts LLM costs by 100x",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -917,7 +876,7 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/understudy-labs",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/understudy-labs.json"
+    "url": "https://www.ycombinator.com/companies/orchestra",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/orchestra.json"
   }
 ]

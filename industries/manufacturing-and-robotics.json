@@ -4338,7 +4338,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f525546cff510b464f7877004fcc10c8f0b97843.png",
     "website": "https://www.waddlelabs.ai/",
-    "all_locations": "Boston, MA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "",
     "one_liner": "LLMs that control robots",
     "team_size": 2,
@@ -4649,6 +4649,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/remy-ai",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/remy-ai.json"
+  },
+  {
+    "id": 31333,
+    "name": "PerfectBit, Inc.",
+    "slug": "perfectbit-inc",
+    "former_names": [
+      "Gikl, Inc",
+      "PerfectBit"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/900c210e3f57ee42221dbb5ea21f81418b553e70.png",
+    "website": "https://perfectbit.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "PerfectBit builds learned policies for robots that do real work. We train manipulation and control policies that hold up outside the lab, in the unstructured environments where real tasks actually happen. Founded by two alumni of Meta's Superintelligence org: Péter Vajda led Media GenAI foundation-model R&D (Emu, Movie Gen, image and video editing), and Seiji Yamamoto led teams in the Core Llama group across LLM pre-training and post-training, inference optimization, and computer vision. We're early, deliberately quiet about the details, and hiring the first researchers who will shape what this becomes. San Francisco, on-site.",
+    "one_liner": "Robotics",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1773359306,
+    "tags": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Robotics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/perfectbit-inc",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/perfectbit-inc.json"
   },
   {
     "id": 31341,
@@ -5677,7 +5721,7 @@
     "website": "https://provenmetal.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "ProvenMetal manufactures the fastest circuit boards in the United States.\r\n\r\nDomestic circuit board manufacturing is slow and expensive, and while reshoring is happening, the supply chain isn't there yet.\r\n\r\nWe automate the bottlenecks - part procurement, DFM review, and assembly - delivering circuit boards in days instead of weeks.\r\n",
-    "one_liner": "Fast-turn, American made PCBs",
+    "one_liner": "AI-native electronics manufacturing for the American industrial base",
     "team_size": 4,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -5888,7 +5932,7 @@
     "website": "https://robocurve.org",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Robocurve builds open-source tools and independent benchmarks to measure how well robots can do real-world jobs. Instead of relying on unverified demo videos from frontier labs, we score their models on reproducible benchmarks that anyone can trust.\r\n\r\nToday there are no well-run, standardized robotics benchmarks. Labs evaluate in-house, and no independent group has stepped in to run continuous benchmarking as a service. The result is that no one actually knows how good anyone else is, or where the real frontier sits.\r\n\r\nGood benchmarks require operating and maintaining physical hardware and real-world setups. Simulation only goes so far, since models that look strong in sim can show large performance gaps once deployed in the real world. Building real-world benchmarks means coordinating job-domain experts, evals engineering, and hands-on robotics all at once.\r\n\r\nFrontier labs are targeting general-purpose robotics by 2028, yet the field of robotics evals barely exists. Whoever builds the trusted measure of robot capability becomes the reference everyone relies on. We combine backgrounds in AI evals and robotics to build and grow this field as fast as possible. We already shipped v1 of our open-source framework, Inspect Robots, and ran our first pilot scoring a frontier model on a real robot.",
-    "one_liner": "Real-world evals for robots",
+    "one_liner": "Evals for robots",
     "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -5931,7 +5975,7 @@
     "website": "https://salemroboticsinc.com",
     "all_locations": "Austin, TX, USA",
     "long_description": "Our software turns any robot we deploy into an everyday independent worker at your facility. They are able to walk sites, handle instruments, overcome obstacles, collect measurements, and generate auditable compliance records, replacing hours of mandatory manual surveys and inspections. Built by Los Alamos robotics veterans and deterministic-manipulation researchers, we're starting in nuclear and expanding to other hazardous industries.",
-    "one_liner": "Deploying robots for inspections in hazardous spaces, like nuclear.",
+    "one_liner": "Deploying robots to replace workers in hazardous spaces",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",

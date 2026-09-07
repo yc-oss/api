@@ -4993,51 +4993,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/shielded.json"
   },
   {
-    "id": 32133,
-    "name": "Belvedir",
-    "slug": "belvedir",
-    "former_names": [
-      "Fractal",
-      "Fractal Research",
-      "Fractal Machine Research",
-      "Belvedir",
-      "Fractal Machine Research"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c87fe6e15005349864c9553a731d786c39f38f18.png",
-    "website": "https://belvedir.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Private AI models are going to win. Belvedir is the infrastructure needed to make trillions of them.\r\n\r\nBelvedir makes it cheap and easy for anyone to make private AI. Connect us to your agent traces through our SDK and we autonomously train custom models + harnesses + routers, privately deploy them, and recursively improve them as they are used. Our customers have seen up to 10x reductions in inference costs and 2x increases on benchmark scores.",
-    "one_liner": "The easiest way to make private AI models",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1784319754,
-    "tags": [
-      "Machine Learning",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/belvedir",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/belvedir.json"
-  },
-  {
     "id": 32198,
     "name": "Riften",
     "slug": "riften",
@@ -5341,16 +5296,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/44fee5cae005d704af84e7ed5ed7418d4ca0580c.png",
     "website": "https://decawork.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Decawork gives IT teams one place to deploy, govern and maintain the AI agents running across their company.\r\n\r\nBuilding internal AI tools and agents is getting easier. Turning them into company-owned systems is still hard. What follows is agent sprawl: deployment gets messy, agents go live with access to real systems and real data, and maintenance falls in the gap. IT can't see any of it, so it does the only two things it can: first ignore, then block. Ignoring piles up risk; blocking kills the productivity people just found. \r\n\r\nWith Decawork, every agent ships one standard way: its own identity and scoped credentials, with IT's sign-off before it goes live. After that, every run is watched - IT is alerted the moment something fails, agents nobody uses get retired. And the whole time, IT sees every agent, controls what it can touch, and audits every action, with approvals gating anything sensitive.\r\n\r\nEvery big shift - cloud, SaaS, the digital workspace - ended with IT running it. Agents aren't just the next shift, they're the next workforce, bigger than the human one. Decawork is what IT will run them with.",
-    "one_liner": "The Agent Control Plane for IT teams",
+    "long_description": "Decawork is building AI models that control what agents do inside companies.\r\n\r\nGiving an agent access to a system does not tell it when using that access is right for the business. The same action can be appropriate for one task and wrong for another. IT teams understand the business, but they can’t turn every judgment into a rule or manually approve every step.\r\n\r\nWe train individual models for companies that understand its business, critical systems, and priorities. It learns from the policies IT teams set and the decisions they make in practice. We’re training these models to combine that understanding with an agent’s task and past actions to decide what it should be allowed to do in real time.\r\n\r\nCompanies will rent intelligence from AI labs or run open-source models. They’ll own the models that keep their entire AI workforce acting in their interests. And Decawork is building those models.",
+    "one_liner": "AI models that control AI agents inside your company.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1785265630,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Infrastructure",
-      "AI"
+      "Security",
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5560,16 +5516,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/716e828c9efd6efe6da64574ff67dd5bfa0c2a25.png",
     "website": "https://experientiallabs.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We build the open source OpenRouter for AI budget holders to control model access and usage. We're a team that has earned an ML PhD at Georgia Tech, scaled AutoGPT to 160k GitHub stars, and led a self-driving simulation team at Waabi.",
-    "one_liner": "Open source OpenRouter that turns your traffic into a better model",
+    "long_description": "We are building an open source gateway for AI budget holders to control model access and turn their traffic into better models that they own. We're a team that has earned an ML PhD at Georgia Tech, scaled AutoGPT to 160k GitHub stars, and led a self-driving simulation team at Waabi.",
+    "one_liner": "Open source AI gateway that turns your traffic into a better model",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1782607347,
     "tags": [
+      "Artificial Intelligence",
       "Reinforcement Learning",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5682,7 +5638,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6640b732eb4efe17f2fb11ff75f6f6bc14184872.png",
     "website": "https://withhopper.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "The best voice model is small, specialized, and yours. Hopper post-trains STT, TTS, and speech LLMs on your production calls, serves them at 100ms to first token (GPT-4.1 is ~700ms), and keeps improving them against your live traffic.",
+    "long_description": "Our customers use Hopper today for two things: replacing GPT-4.1 with Gemma-4 (6x faster), and replacing Elevenlabs with qwen3-tts (8x cheaper).",
     "one_liner": "Fast inference for voice",
     "team_size": 2,
     "industry": "B2B",

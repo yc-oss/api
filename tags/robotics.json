@@ -4628,7 +4628,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f525546cff510b464f7877004fcc10c8f0b97843.png",
     "website": "https://www.waddlelabs.ai/",
-    "all_locations": "Boston, MA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "",
     "one_liner": "LLMs that control robots",
     "team_size": 2,
@@ -4705,6 +4705,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/fern-bot",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/fern-bot.json"
+  },
+  {
+    "id": 31223,
+    "name": "Datoric",
+    "slug": "datoric",
+    "former_names": [
+      "Flow AI",
+      "Arzule"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa894803120df3a3a9250c66e4232e33e2a223d0.png",
+    "website": "https://www.datoric.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Datoric develops custom datasets for voice models, robotics, and world models, treating research, collection, verification, and production as one continuous process. We work closely with frontier model teams to turn emerging limitations into testable data hypotheses, while running our own experiments ahead of customer demand. This allows us to operationalize validated methods into repeatable collection systems at scale.\r\n\r\nData is collected through private invite-only applications separated by modality, customer, and trust level. Every submission remains linked to the contributor, device, task, session, consent, rights, and processing history that produced it, giving our internal QA and fraud models the context to detect problems that may appear legitimate in the finished file. Each collection reveals new failure cases and quality signals that improve the systems behind the next dataset.\r\n\r\nOnce a collection method is validated, it becomes a reusable data recipe for future custom projects or independently collected, rights-cleared data products. This allows Datoric to turn what is emerging at the frontier into datasets available ahead of broader market demand.\r\n",
+    "one_liner": "The secure training data R&D engine for physical AI",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1767154035,
+    "tags": [
+      "Machine Learning",
+      "Robotics",
+      "Data Labeling",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/datoric",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/datoric.json"
   },
   {
     "id": 31224,
@@ -4878,6 +4922,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/openvector",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/openvector.json"
+  },
+  {
+    "id": 31333,
+    "name": "PerfectBit, Inc.",
+    "slug": "perfectbit-inc",
+    "former_names": [
+      "Gikl, Inc",
+      "PerfectBit"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/900c210e3f57ee42221dbb5ea21f81418b553e70.png",
+    "website": "https://perfectbit.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "PerfectBit builds learned policies for robots that do real work. We train manipulation and control policies that hold up outside the lab, in the unstructured environments where real tasks actually happen. Founded by two alumni of Meta's Superintelligence org: Péter Vajda led Media GenAI foundation-model R&D (Emu, Movie Gen, image and video editing), and Seiji Yamamoto led teams in the Core Llama group across LLM pre-training and post-training, inference optimization, and computer vision. We're early, deliberately quiet about the details, and hiring the first researchers who will shape what this becomes. San Francisco, on-site.",
+    "one_liner": "Robotics",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1773359306,
+    "tags": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Robotics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/perfectbit-inc",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/perfectbit-inc.json"
   },
   {
     "id": 31341,
@@ -5313,7 +5401,7 @@
     "website": "http://www.deepreach.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Physical AI — robots and world models — is bottlenecked on one thing: diverse,\r\nreal-world data at massive scale showing how humans actually do work in the\r\nphysical world. It was never written down, and you can't buy it, because no one\r\nhas ever captured it. Only real local experts, the people who do this work every\r\nday, can produce data this authentic and valuable.\r\n\r\nDeepReach builds the network that reaches them. We design and manufacture\r\nwearable stereo capture devices, then place them with local data partners who\r\nrun collection as their own business — in warehouses, workshops, farms, kitchens\r\nand repair shops. They own the local relationships; we supply the hardware, the\r\nsoftware platform, the quality pipeline and the payments. Anyone can run a data\r\nbusiness.\r\n\r\nThat structure is what produces diversity. Instead of thousands of hours inside\r\none environment, we deliver hours spread across thousands of environments —\r\nwhich is what actually makes robot policies generalize.\r\n\r\n475 devices in the field and 100+ data partners are live across 7 countries, adding new\r\npartners every week. They've collected nearly 150,000 clips in the past three\r\nmonths, with volume roughly doubling month over month. Our data is in production\r\nwith multiple frontier model and robotics companies, and we're scaling to\r\n10,000+ devices across 50 countries.",
-    "one_liner": "Real-world data network for robots & world models",
+    "one_liner": "Network for Physical AI Data Business",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -5914,7 +6002,7 @@
     "website": "https://robocurve.org",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Robocurve builds open-source tools and independent benchmarks to measure how well robots can do real-world jobs. Instead of relying on unverified demo videos from frontier labs, we score their models on reproducible benchmarks that anyone can trust.\r\n\r\nToday there are no well-run, standardized robotics benchmarks. Labs evaluate in-house, and no independent group has stepped in to run continuous benchmarking as a service. The result is that no one actually knows how good anyone else is, or where the real frontier sits.\r\n\r\nGood benchmarks require operating and maintaining physical hardware and real-world setups. Simulation only goes so far, since models that look strong in sim can show large performance gaps once deployed in the real world. Building real-world benchmarks means coordinating job-domain experts, evals engineering, and hands-on robotics all at once.\r\n\r\nFrontier labs are targeting general-purpose robotics by 2028, yet the field of robotics evals barely exists. Whoever builds the trusted measure of robot capability becomes the reference everyone relies on. We combine backgrounds in AI evals and robotics to build and grow this field as fast as possible. We already shipped v1 of our open-source framework, Inspect Robots, and ran our first pilot scoring a frontier model on a real robot.",
-    "one_liner": "Real-world evals for robots",
+    "one_liner": "Evals for robots",
     "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -5957,7 +6045,7 @@
     "website": "https://salemroboticsinc.com",
     "all_locations": "Austin, TX, USA",
     "long_description": "Our software turns any robot we deploy into an everyday independent worker at your facility. They are able to walk sites, handle instruments, overcome obstacles, collect measurements, and generate auditable compliance records, replacing hours of mandatory manual surveys and inspections. Built by Los Alamos robotics veterans and deterministic-manipulation researchers, we're starting in nuclear and expanding to other hazardous industries.",
-    "one_liner": "Deploying robots for inspections in hazardous spaces, like nuclear.",
+    "one_liner": "Deploying robots to replace workers in hazardous spaces",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -5999,18 +6087,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd39ca163a2a8ea396a6ec66701926317f9f416c.png",
     "website": "https://osseus.ai/",
     "all_locations": "",
-    "long_description": "",
-    "one_liner": "",
+    "long_description": "In an era of cheap intelligence, the most important application of AI will be to improving human health, globally. Osseus provides off-the-shelf or custom medical and biological datasets and RL environments to frontier labs.\r\n\r\nWe work with hospitals and clinics to provide our EHR and deploy AI models within clinical workflows, with models from both our frontier lab partners and our own research.",
+    "one_liner": "The frontier data platform for health and biological AI",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "subindustry": "B2B",
     "launched_at": 1783740069,
     "tags": [
+      "Artificial Intelligence",
       "Robotics",
       "B2B",
       "Biotech",
-      "Healthcare",
-      "AI"
+      "Healthcare"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6019,8 +6107,7 @@
     "batch": "Summer 2026",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Engineering, Product and Design"
+      "B2B"
     ],
     "regions": [
       "Unspecified"

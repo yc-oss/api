@@ -5560,7 +5560,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -9932,6 +9932,50 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/traverse.json"
   },
   {
+    "id": 31223,
+    "name": "Datoric",
+    "slug": "datoric",
+    "former_names": [
+      "Flow AI",
+      "Arzule"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa894803120df3a3a9250c66e4232e33e2a223d0.png",
+    "website": "https://www.datoric.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Datoric develops custom datasets for voice models, robotics, and world models, treating research, collection, verification, and production as one continuous process. We work closely with frontier model teams to turn emerging limitations into testable data hypotheses, while running our own experiments ahead of customer demand. This allows us to operationalize validated methods into repeatable collection systems at scale.\r\n\r\nData is collected through private invite-only applications separated by modality, customer, and trust level. Every submission remains linked to the contributor, device, task, session, consent, rights, and processing history that produced it, giving our internal QA and fraud models the context to detect problems that may appear legitimate in the finished file. Each collection reveals new failure cases and quality signals that improve the systems behind the next dataset.\r\n\r\nOnce a collection method is validated, it becomes a reusable data recipe for future custom projects or independently collected, rights-cleared data products. This allows Datoric to turn what is emerging at the frontier into datasets available ahead of broader market demand.\r\n",
+    "one_liner": "The secure training data R&D engine for physical AI",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1767154035,
+    "tags": [
+      "Machine Learning",
+      "Robotics",
+      "Data Labeling",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/datoric",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/datoric.json"
+  },
+  {
     "id": 31258,
     "name": "Dream",
     "slug": "dream",
@@ -9941,18 +9985,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/479d7e4f9e6b74b1df9f87c67fe614babba0a9b5.png",
     "website": "https://www.pingdream.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Dream makes pocket-sized, battery-powered AI cameras that catch damage teams miss. Car dealerships, equipment rental companies, fleets, and more move expensive assets in and out all day, and undocumented damage is a costly leak.\r\n\r\nDream cameras are simple to set up and work automatically. Each vehicle or machine that passes is photographed from every angle, identified, and reconstructed into a 3D condition record. On return or intake, Dream instantly flags new dents, scrapes, and changes your team might miss, giving one source of truth for every asset's condition over time.\r\n\r\nRyland worked at X/xAI and built aerial damage-detection vision at Vexcel Imaging. Alexander worked at AWS and trained edge-camera models deployed in the wild across Africa and India to detect poachers.",
-    "one_liner": "Pocket-sized AI cameras that catch asset damage.",
+    "long_description": "Dream makes AI cameras that catch damage teams miss. Car dealerships, equipment rental companies, fleets, and more move expensive assets in and out all day, and undocumented damage is a costly leak.\r\n\r\nDream cameras are simple to set up and work automatically. Each vehicle or machine that passes is photographed from every angle, identified, and reconstructed into a complete condition record. On return or intake, Dream instantly flags new dents, scrapes, and changes your team might miss, giving one source of truth for every asset's condition over time.\r\n\r\nRyland worked at X/xAI and built aerial damage-detection vision at Vexcel Imaging. Alexander worked at AWS and trained edge-camera models deployed in the wild across Africa and India to detect poachers.",
+    "one_liner": "AI cameras that catch asset damage",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1786646316,
     "tags": [
-      "Artificial Intelligence",
       "Hardware",
       "Machine Learning",
       "Computer Vision",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -9974,6 +10018,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dream",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/dream.json"
+  },
+  {
+    "id": 31333,
+    "name": "PerfectBit, Inc.",
+    "slug": "perfectbit-inc",
+    "former_names": [
+      "Gikl, Inc",
+      "PerfectBit"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/900c210e3f57ee42221dbb5ea21f81418b553e70.png",
+    "website": "https://perfectbit.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "PerfectBit builds learned policies for robots that do real work. We train manipulation and control policies that hold up outside the lab, in the unstructured environments where real tasks actually happen. Founded by two alumni of Meta's Superintelligence org: Péter Vajda led Media GenAI foundation-model R&D (Emu, Movie Gen, image and video editing), and Seiji Yamamoto led teams in the Core Llama group across LLM pre-training and post-training, inference optimization, and computer vision. We're early, deliberately quiet about the details, and hiring the first researchers who will shape what this becomes. San Francisco, on-site.",
+    "one_liner": "Robotics",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1773359306,
+    "tags": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Robotics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/perfectbit-inc",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/perfectbit-inc.json"
   },
   {
     "id": 31495,
@@ -10073,18 +10161,18 @@
       "Belvedir",
       "Fractal Machine Research"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c87fe6e15005349864c9553a731d786c39f38f18.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f4b8eaafe85179ae4c489b98d4477c6fa97bced3.png",
     "website": "https://belvedir.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Private AI models are going to win. Belvedir is the infrastructure needed to make trillions of them.\r\n\r\nBelvedir makes it cheap and easy for anyone to make private AI. Connect us to your agent traces through our SDK and we autonomously train custom models + harnesses + routers, privately deploy them, and recursively improve them as they are used. Our customers have seen up to 10x reductions in inference costs and 2x increases on benchmark scores.",
-    "one_liner": "The easiest way to make private AI models",
+    "long_description": "Belvedir makes it cheap and easy for anyone to make custom AI. Connect us to your agent traces through our SDK and we autonomously train custom models + harnesses + routers, privately deploy them, and recursively improve them as they are used. \r\n\r\nOur customers have seen 10x reductions in inference costs and 2x increases on benchmark scores.\r\n\r\nCustom AI models are going to win. Belvedir is the infrastructure needed to make trillions of them.",
+    "one_liner": "The easiest way to make custom AI models",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1784319754,
     "tags": [
       "Machine Learning",
-      "Infrastructure"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -10115,9 +10203,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/65a63b540239ee3a5538326d626bcceee19f52d9.png",
     "website": "https://parasma.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We write the algorithms to turn brain cells into compute.",
-    "one_liner": "Training human brain cells for AI compute",
-    "team_size": 1,
+    "long_description": "We train human brain cells for compute",
+    "one_liner": "Replacing GPUs with human brain cells",
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1782285260,
@@ -10201,7 +10289,7 @@
     "website": "http://www.deepreach.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Physical AI — robots and world models — is bottlenecked on one thing: diverse,\r\nreal-world data at massive scale showing how humans actually do work in the\r\nphysical world. It was never written down, and you can't buy it, because no one\r\nhas ever captured it. Only real local experts, the people who do this work every\r\nday, can produce data this authentic and valuable.\r\n\r\nDeepReach builds the network that reaches them. We design and manufacture\r\nwearable stereo capture devices, then place them with local data partners who\r\nrun collection as their own business — in warehouses, workshops, farms, kitchens\r\nand repair shops. They own the local relationships; we supply the hardware, the\r\nsoftware platform, the quality pipeline and the payments. Anyone can run a data\r\nbusiness.\r\n\r\nThat structure is what produces diversity. Instead of thousands of hours inside\r\none environment, we deliver hours spread across thousands of environments —\r\nwhich is what actually makes robot policies generalize.\r\n\r\n475 devices in the field and 100+ data partners are live across 7 countries, adding new\r\npartners every week. They've collected nearly 150,000 clips in the past three\r\nmonths, with volume roughly doubling month over month. Our data is in production\r\nwith multiple frontier model and robotics companies, and we're scaling to\r\n10,000+ devices across 50 countries.",
-    "one_liner": "Real-world data network for robots & world models",
+    "one_liner": "Network for Physical AI Data Business",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",

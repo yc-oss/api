@@ -7349,14 +7349,16 @@
   },
   {
     "id": 32167,
-    "name": "Understudy Labs",
-    "slug": "understudy-labs",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/034b1bab6d92bd99439aee47bf2312630046798c.png",
-    "website": "https://understudylabs.com/",
+    "name": "Orchestra",
+    "slug": "orchestra",
+    "former_names": [
+      "Understudy Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c3256dade0a8238b6c265f966b52c26ba9052e1e.png",
+    "website": "https://orchestra.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Understudy is an inference cloud. We capture your AI work traces, train smaller models, and automatically deploy them (only when they outperform the expensive model you are currently paying for).\r\n\r\nInstead of renting the same frontier model forever, your AI infrastructure gets faster, smarter, and cheaper every time it runs.\r\n\r\nSuppose your product uses Claude for a repetitive legal workflow.\r\n\r\nUnderstudy observes successful production runs, learns the specific tools and judgment required for that workflow, and trains a specialized open-weight model.\r\n\r\nOnce that model matches or beats Claude on a held-out evaluation, Understudy starts routing production traffic to it.\r\n\r\nAs more work is completed, the model keeps improving.\r\n\r\nWe started Understudy because we believe every company using AI should be accumulating intelligence, not accumulating API bills.",
-    "one_liner": "Self-optimizing neocloud that cuts LLM bills by 80%",
+    "long_description": "Orchestra is an inference cloud. We capture your AI work traces, train smaller models, and automatically deploy them (only when they outperform the expensive model you are currently paying for).\r\n\r\nInstead of renting the same frontier model forever, your AI infrastructure gets faster, smarter, and cheaper every time it runs.\r\n\r\nSuppose your product uses Claude for a repetitive legal workflow.\r\n\r\nOrchestra observes successful production runs, learns the specific tools and judgment required for that workflow, and trains a specialized open-weight model.\r\n\r\nOnce that model matches or beats Claude on a held-out evaluation, Orchestra starts routing production traffic to it.\r\n\r\nAs more work is completed, the model keeps improving.\r\n\r\nWe started Orchestra because we believe every company using AI should be accumulating intelligence, not accumulating API bills.",
+    "one_liner": "Self-optimizing neocloud that cuts LLM costs by 100x",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -7386,8 +7388,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/understudy-labs",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/understudy-labs.json"
+    "url": "https://www.ycombinator.com/companies/orchestra",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/orchestra.json"
   },
   {
     "id": 32198,
@@ -7611,7 +7613,7 @@
     "website": "https://robocurve.org",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Robocurve builds open-source tools and independent benchmarks to measure how well robots can do real-world jobs. Instead of relying on unverified demo videos from frontier labs, we score their models on reproducible benchmarks that anyone can trust.\r\n\r\nToday there are no well-run, standardized robotics benchmarks. Labs evaluate in-house, and no independent group has stepped in to run continuous benchmarking as a service. The result is that no one actually knows how good anyone else is, or where the real frontier sits.\r\n\r\nGood benchmarks require operating and maintaining physical hardware and real-world setups. Simulation only goes so far, since models that look strong in sim can show large performance gaps once deployed in the real world. Building real-world benchmarks means coordinating job-domain experts, evals engineering, and hands-on robotics all at once.\r\n\r\nFrontier labs are targeting general-purpose robotics by 2028, yet the field of robotics evals barely exists. Whoever builds the trusted measure of robot capability becomes the reference everyone relies on. We combine backgrounds in AI evals and robotics to build and grow this field as fast as possible. We already shipped v1 of our open-source framework, Inspect Robots, and ran our first pilot scoring a frontier model on a real robot.",
-    "one_liner": "Real-world evals for robots",
+    "one_liner": "Evals for robots",
     "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",

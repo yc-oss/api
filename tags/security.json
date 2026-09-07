@@ -3975,6 +3975,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/traceforce.json"
   },
   {
+    "id": 33047,
+    "name": "Decawork",
+    "slug": "decawork",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/44fee5cae005d704af84e7ed5ed7418d4ca0580c.png",
+    "website": "https://decawork.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Decawork is building AI models that control what agents do inside companies.\r\n\r\nGiving an agent access to a system does not tell it when using that access is right for the business. The same action can be appropriate for one task and wrong for another. IT teams understand the business, but they can’t turn every judgment into a rule or manually approve every step.\r\n\r\nWe train individual models for companies that understand its business, critical systems, and priorities. It learns from the policies IT teams set and the decisions they make in practice. We’re training these models to combine that understanding with an agent’s task and past actions to decide what it should be allowed to do in real time.\r\n\r\nCompanies will rent intelligence from AI labs or run open-source models. They’ll own the models that keep their entire AI workforce acting in their interests. And Decawork is building those models.",
+    "one_liner": "AI models that control AI agents inside your company.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1785265630,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Security",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/decawork",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/decawork.json"
+  },
+  {
     "id": 33179,
     "name": "Verdict Machine",
     "slug": "verdict-machine",
@@ -4071,7 +4113,7 @@
     "website": "https://www.conifer.build",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "There are thousands of models, providers, and harnesses, each with its own pricing and strengths, leaving an overwhelming number of choices when it comes to managing token spend and intelligence. Conifer uses intelligent routing and orchestration logic to handle the full path of each query: model selection, provider choice, and cache management. It all runs inside your existing harness, so tools like Claude Code and Codex work without changing your setup. By centralizing where inference occurs, Conifer lets companies save on their inference bill while leaving teams free to focus on what they are building.",
-    "one_liner": "Least cost routing system to reduce 80%+ token spend",
+    "one_liner": "Least cost routing system to reduce 70%+ token spend",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
