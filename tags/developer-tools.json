@@ -23762,10 +23762,10 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0f86336cad3f47d72897d04916a12380f1f0094b.png",
     "website": "https://www.graphify.com/",
-    "all_locations": "London, England, United Kingdom",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Graphify builds a queryable knowledge graph from your codebase, docs, and Jira. The open-source engine has 105K+ GitHub stars and ~5M downloads, and is used in production by engineers at Rootly, Geotab, Tweddle Group, and Superagent.\r\n\r\nOn top of that graph, our enterprise layer reviews every pull request and formally verifies each code change: it proves the new behavior matches the old, or hands back the exact input that breaks it. That makes it built for the changes teams fear most, like refactors, framework upgrades, and large-scale code migrations, where you need proof that nothing broke, not a guess.\r\n\r\nThe graph updates itself as the code changes and keeps context instead of forgetting it, so your whole team and their coding agents work from one shared, always-current view of the codebase instead of a thousand private threads.\r\n\r\nIt runs entirely inside your perimeter, fully air-gapped on-premise or self-hosted in your own cloud, so no code or data ever leaves your environment.",
-    "one_liner": "On-device knowledge graph engine for enterprises",
-    "team_size": 2,
+    "one_liner": "On-device Knowledge Graph engine for Enterprise Codebases ",
+    "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1785106297,
@@ -23784,8 +23784,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United Kingdom",
-      "Europe",
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -23888,10 +23888,10 @@
     "name": "Agnost AI",
     "slug": "agnost-ai",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dbe9d7776c9e4cb65614fb4e463059ba0e869b12.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e1595f92ea75b1f367addedb5703852b1c7efded.png",
     "website": "https://agnost.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Agnost AI reads every conversation a company's AI Agent has with its users to find where it's silently failing and then turns that same data into custom models that run the agent better and cheaper than frontier models.",
+    "long_description": "Agnost AI reads every conversation a company's AI Agent has with its users to find where it's silently failing and then turns that same data into custom models that run the agent better, faster & cheaper than frontier models.",
     "one_liner": "We find where AI agents fail, then train better models to run them.",
     "team_size": 2,
     "industry": "B2B",
@@ -23900,6 +23900,7 @@
     "tags": [
       "Artificial Intelligence",
       "Developer Tools",
+      "Machine Learning",
       "Analytics",
       "Monitoring"
     ],
@@ -23936,7 +23937,7 @@
     "website": "https://hyperprobe.co",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "With tools like Cursor and Claude Code, writing software is no longer the bottleneck. Debugging is. Agents cannot fix production crashes using logs and traces that were sized for human eyeballs. The gap is missing data.\r\n\r\nHyperProbe allows agents to debug live software autonomously. Our SDK drops non-breaking probes straight into running services to read exact variable states from memory at the moment of failure, instead of reasoning backwards from flat logs.\r\n\r\nZero redeploys. Under 1% CPU overhead. Automatic PII redaction.\r\n\r\nWe turn 4-hour production war rooms into 10-minute automated resolutions. As agents write and operate more of the world's software, HyperProbe is the runtime observability layer that lets them understand what they built.\r\n\r\n",
-    "one_liner": "Data layer AI Agents call to fix production apps on their own",
+    "one_liner": "Data layer AI Agents call to fix production apps",
     "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -24237,7 +24238,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ab4963f9bacc76a0a31b94f8773cad5138d2dc3.png",
     "website": "https://box.ascii.dev",
-    "all_locations": "Remote",
+    "all_locations": "Paris, Île-de-France, France; Remote",
     "long_description": "**Problem**\r\n\r\nHumans used to need laptops to do their work. Now they prompt agents instead, and those agents need computers too: always-on, in large quantities, and with unlimited capabilities. \r\n\r\nBuilding and maintaining that yourself is far from trivial.\r\n\r\n**Solution**\r\n\r\nBox provides powerful, simple, permissive Ubuntu VMs in the cloud. In a box, an agent can work for long periods on code or on knowledge work like legal, research, reporting, and auditing.\r\n\r\n**Why Box and not any other cloud VM?**\r\n\r\n1. It is ready out of the box: every box ships with a desktop, chrome, languages, docker, snapshots, and templates, plus a CLI, SDK, API, and control pane for your fleet.\r\n2. It is permissive and paradigm agnostic: any number of agents can use any number of boxes. Agents can run inside or use boxes as an external tool.\r\n3. It is expertly crafted: we manage everything from the individual CPU to the orchestration software, which makes boxes stable, persistent, scalable, and secure.\r\n4. It is the best performance and price in town: our CPUs rank first on HPC benchmarks, and boxes are typically 9x to 18x cheaper than other leading sandboxes.\r\n\r\n**Further notes**\r\n\r\nBoxes are hosted in Europe, which keeps prices low, and more regions are coming. Unless compliance requires it, agents don't notice the region they run in.",
     "one_liner": "The best cloud VMs for billions of agents",
     "team_size": 3,
@@ -24259,6 +24260,8 @@
       "Infrastructure"
     ],
     "regions": [
+      "France",
+      "Europe",
       "Remote",
       "Fully Remote"
     ],

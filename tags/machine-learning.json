@@ -7152,7 +7152,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -9942,17 +9942,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa894803120df3a3a9250c66e4232e33e2a223d0.png",
     "website": "https://www.datoric.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Datoric develops custom datasets for voice models, robotics, and world models, treating research, collection, verification, and production as one continuous process. We work closely with frontier model teams to turn emerging limitations into testable data hypotheses, while running our own experiments ahead of customer demand. This allows us to operationalize validated methods into repeatable collection systems at scale.\r\n\r\nData is collected through private invite-only applications separated by modality, customer, and trust level. Every submission remains linked to the contributor, device, task, session, consent, rights, and processing history that produced it, giving our internal QA and fraud models the context to detect problems that may appear legitimate in the finished file. Each collection reveals new failure cases and quality signals that improve the systems behind the next dataset.\r\n\r\nOnce a collection method is validated, it becomes a reusable data recipe for future custom projects or independently collected, rights-cleared data products. This allows Datoric to turn what is emerging at the frontier into datasets available ahead of broader market demand.\r\n",
+    "long_description": "Datoric develops custom datasets for voice models, robotics, and world models, treating research, collection, verification, and production as one continuous process. We work closely with frontier model teams to turn emerging limitations and model failures into testable data hypotheses, while running our own experiments ahead of customer demand. This allows us to operationalize validated methods into repeatable collection systems at scale.\r\n\r\nData is collected through private invite-only applications separated by modality, customer, and trust level. Every submission remains linked to the contributor, device, task, session, consent, rights, and processing history that produced it, giving our internal QA and fraud models the context to detect problems that may appear legitimate in the finished file. Each collection reveals new failure cases and quality signals that improve the systems behind the next dataset.\r\n\r\nOnce a collection method is validated, we scale it up as a solution to the model failure and it also becomes a reusable data recipe for future custom projects or independently collected, rights-cleared data products. ",
     "one_liner": "The secure training data R&D engine for physical AI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1767154035,
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
       "Robotics",
-      "Data Labeling",
-      "AI"
+      "Data Labeling"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -10161,7 +10161,7 @@
       "Belvedir",
       "Fractal Machine Research"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f4b8eaafe85179ae4c489b98d4477c6fa97bced3.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/823732d3a67703ee105bf266f45c3e43c175ef96.png",
     "website": "https://belvedir.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Belvedir makes it cheap and easy for anyone to make custom AI. Connect us to your agent traces through our SDK and we autonomously train custom models + harnesses + routers, privately deploy them, and recursively improve them as they are used. \r\n\r\nOur customers have seen 10x reductions in inference costs and 2x increases on benchmark scores.\r\n\r\nCustom AI models are going to win. Belvedir is the infrastructure needed to make trillions of them.",
@@ -10171,8 +10171,8 @@
     "subindustry": "B2B",
     "launched_at": 1784319754,
     "tags": [
-      "Machine Learning",
-      "AI"
+      "Artificial Intelligence",
+      "Machine Learning"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -10366,6 +10366,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/risklytics.json"
   },
   {
+    "id": 33019,
+    "name": "Agnost AI",
+    "slug": "agnost-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e1595f92ea75b1f367addedb5703852b1c7efded.png",
+    "website": "https://agnost.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Agnost AI reads every conversation a company's AI Agent has with its users to find where it's silently failing and then turns that same data into custom models that run the agent better, faster & cheaper than frontier models.",
+    "one_liner": "We find where AI agents fail, then train better models to run them.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1783481375,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Machine Learning",
+      "Analytics",
+      "Monitoring"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/agnost-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/agnost-ai.json"
+  },
+  {
     "id": 33278,
     "name": "PRINCEPS",
     "slug": "princeps",
@@ -10375,15 +10418,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8face6fd127a729a79aa67ef1d9e4669f91060ab.png",
     "website": "https://princeps.dev",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "PRINCEPS is the first purpose-built insurance company (and MGA) for the trillion-dollar compute buildout. We underwrite SLA, GPU residual value, and outage risk, and price the coverage that unlocks cheaper financing for data centers and neoclouds.",
+    "long_description": "PRINCEPS is the first purpose-built insurance company for the trillion-dollar compute buildout. We underwrite SLA, GPU residual value, and outage risk, and price the coverage that unlocks cheaper financing for data centers and neoclouds.",
     "one_liner": "AI-native insurance company for the compute economy",
-    "team_size": 3,
+    "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1786600478,
     "tags": [
       "Artificial Intelligence",
-      "Machine Learning"
+      "Fintech",
+      "Machine Learning",
+      "Insurance"
     ],
     "tags_highlighted": [],
     "top_company": false,

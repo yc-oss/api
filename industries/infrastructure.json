@@ -12861,7 +12861,7 @@
     "former_names": [
       "Understudy Labs"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c3256dade0a8238b6c265f966b52c26ba9052e1e.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/900e0fabf138d248123ff3ddf28833736fbfb71d.png",
     "website": "https://orchestra.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Orchestra is an inference cloud. We capture your AI work traces, train smaller models, and automatically deploy them (only when they outperform the expensive model you are currently paying for).\r\n\r\nInstead of renting the same frontier model forever, your AI infrastructure gets faster, smarter, and cheaper every time it runs.\r\n\r\nSuppose your product uses Claude for a repetitive legal workflow.\r\n\r\nOrchestra observes successful production runs, learns the specific tools and judgment required for that workflow, and trains a specialized open-weight model.\r\n\r\nOnce that model matches or beats Claude on a held-out evaluation, Orchestra starts routing production traffic to it.\r\n\r\nAs more work is completed, the model keeps improving.\r\n\r\nWe started Orchestra because we believe every company using AI should be accumulating intelligence, not accumulating API bills.",
@@ -12999,7 +12999,7 @@
     "website": "https://www.dialoguslabs.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Dialogus builds voice agent infrastructure for enterprises.\r\n\r\nMost companies can demo an AI voice agent, but getting one into production is hard. Enterprise agents need to connect to phone systems, internal tools, databases, CRMs, messaging channels, human escalation flows, monitoring, and compliance processes.\r\n\r\nDialogus provides the infrastructure to deploy production-grade voice agents that don’t just talk but complete real workflows. Our platform lets enterprises launch agents that collect information, validate it against internal systems, update records, send follow-up messages, and escalate edge cases to humans.",
-    "one_liner": "The AI-native contact center.",
+    "one_liner": "The AI-native contact center",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -13239,17 +13239,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c65a4389d81076a7a08b8c3d3c22a2bf1c54e49b.png",
     "website": "https://thefamiliarlab.com",
     "all_locations": "Toronto, ON, Canada",
-    "long_description": "Familiar is the Neolab for world translation. Dubbing into 30 languages. Now with Familiar, the same actor's performance is preserved instead of a mismatched voice over a mismatched face. One model does the voice, the lips, and the scene together, with identity permanence and 3d understanding. Built by the researchers who pioneered joint audio-visual human models. ",
+    "long_description": "Familiar is the Neolab for world translation. Dubbing into 30 languages. Now with Familiar, the same actor's performance is preserved instead of a mismatched voice over a mismatched face. One model does the voice, the lips, and the scene together, with identity permanence and scene & world understanding. Built by the researchers who pioneered joint audio-visual human models. ",
     "one_liner": "Movies in Every Language. Better than Humans.",
     "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1786578571,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "B2B",
-      "Entertainment"
+      "Entertainment",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -13365,8 +13365,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/44fee5cae005d704af84e7ed5ed7418d4ca0580c.png",
     "website": "https://decawork.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Decawork is building AI models that control what agents do inside companies.\r\n\r\nGiving an agent access to a system does not tell it when using that access is right for the business. The same action can be appropriate for one task and wrong for another. IT teams understand the business, but they can’t turn every judgment into a rule or manually approve every step.\r\n\r\nWe train individual models for companies that understand its business, critical systems, and priorities. It learns from the policies IT teams set and the decisions they make in practice. We’re training these models to combine that understanding with an agent’s task and past actions to decide what it should be allowed to do in real time.\r\n\r\nCompanies will rent intelligence from AI labs or run open-source models. They’ll own the models that keep their entire AI workforce acting in their interests. And Decawork is building those models.",
-    "one_liner": "AI models that control AI agents inside your company.",
+    "long_description": "An agent’s access should depend on the task it is doing. The same action can be appropriate for one task and wrong for another. Access decisions need to adapt in real time as the agent works, but companies can’t turn every business judgment into a fixed rules or have people manually approve every step.\r\n\r\nWe train small, company-specific models that approve AI actions in real time. They consider the company’s policies and interests, the agent’s current task, and its past actions to decide whether each proposed action should be allowed. Access is specific to the task at hand and reassessed as the agent works.\r\n\r\nCompanies will rent intelligence from AI labs or run open-source models to power their agents. They’ll own the models that keep their entire AI workforce acting in their interests. Decawork is building those models.",
+    "one_liner": "Training company-specific models that approve AI actions.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -13535,7 +13535,7 @@
     "website": "https://caution.co",
     "all_locations": "George Town, George Town, Cayman Islands",
     "long_description": "Caution is a hosting platform for software you can't afford to get hacked. It simplifies and extends confidential compute, and lets developers deploy workloads to secure enclaves in minutes and give customers, auditors, and counterparties cryptographic proof that production is running the exact reviewed source code, build, configuration, and runtime - not an opaque binary controlled by a cloud operator or internal admin.\r\n\r\nConfidential computing hardware exists, but the tooling is too fragmented and incomplete for most teams to use well. Today, attestation often proves only that a binary has a certain hash; it does not prove what source code produced that binary. Building the missing deployment, reproducibility, and verification layer requires specialized security engineering and often locks teams into one cloud or hardware stack. Caution turns that into a simple git-based workflow that builds reproducible enclave images, provisions infrastructure, and lets anyone independently verify what is running.\r\n\r\nWe built Caution after years securing high-risk systems through Distrust, where we worked with hedge funds, custodians, blockchain teams, cloud platforms, and critical grid operators on systems responsible for more than $600B in assets. Again and again, the same problem showed up: teams running mission-critical infrastructure could not reliably prove what was executing in production.\r\n\r\nAs AI, fintech, healthcare, and regulated data collaboration move into the cloud, \"trust us\" is no longer enough. Caution is a general-purpose platform: if it runs on a server, it can run verifiably on Caution. We're starting where trust failures cost the most, but we believe verifiable compute will become the default way software runs, the same way HTTPS became the default way it's served. Infrastructure you can verify, not trust.",
-    "one_liner": "Hosting platform for software you don't want to have hacked",
+    "one_liner": "Hosting platform for software you can't afford to have hacked",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -13662,7 +13662,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ab4963f9bacc76a0a31b94f8773cad5138d2dc3.png",
     "website": "https://box.ascii.dev",
-    "all_locations": "Remote",
+    "all_locations": "Paris, Île-de-France, France; Remote",
     "long_description": "**Problem**\r\n\r\nHumans used to need laptops to do their work. Now they prompt agents instead, and those agents need computers too: always-on, in large quantities, and with unlimited capabilities. \r\n\r\nBuilding and maintaining that yourself is far from trivial.\r\n\r\n**Solution**\r\n\r\nBox provides powerful, simple, permissive Ubuntu VMs in the cloud. In a box, an agent can work for long periods on code or on knowledge work like legal, research, reporting, and auditing.\r\n\r\n**Why Box and not any other cloud VM?**\r\n\r\n1. It is ready out of the box: every box ships with a desktop, chrome, languages, docker, snapshots, and templates, plus a CLI, SDK, API, and control pane for your fleet.\r\n2. It is permissive and paradigm agnostic: any number of agents can use any number of boxes. Agents can run inside or use boxes as an external tool.\r\n3. It is expertly crafted: we manage everything from the individual CPU to the orchestration software, which makes boxes stable, persistent, scalable, and secure.\r\n4. It is the best performance and price in town: our CPUs rank first on HPC benchmarks, and boxes are typically 9x to 18x cheaper than other leading sandboxes.\r\n\r\n**Further notes**\r\n\r\nBoxes are hosted in Europe, which keeps prices low, and more regions are coming. Unless compliance requires it, agents don't notice the region they run in.",
     "one_liner": "The best cloud VMs for billions of agents",
     "team_size": 3,
@@ -13684,6 +13684,8 @@
       "Infrastructure"
     ],
     "regions": [
+      "France",
+      "Europe",
       "Remote",
       "Fully Remote"
     ],

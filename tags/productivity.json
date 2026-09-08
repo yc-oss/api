@@ -4043,8 +4043,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/037b66c1bbe3365f03b5de5fac263f8ea652ae3f.png",
     "website": "https://typewise.app",
     "all_locations": "Zürich, ZH, Switzerland",
-    "long_description": "Typewise is an AI-first customer service platform where orchestrated agents resolve requests end-to-end by taking real actions across your stack. Teams describe outcomes in natural language and the platform compiles them into working automations—no flowcharts, no code. You can safely simulate changes and roll them out step by step.\r\n\r\nFortune 500 brands such as Unilever and DPD use Typewise to cut support effort by 50%+ while increasing CSAT and NPS. With 200+ integrations, Typewise reads from and writes to CRM, ERP, and other systems to fully resolve cases, handing off to humans only where they add the most value. Hybrid intelligence enables partial hand-offs, review-before-send, and context-preserving resumption—so teams stay in control.\r\n\r\nOperate natively within Typewise Ticketing, with optional integrations into your existing CRM or helpdesk systems such as Zendesk, Salesforce, or Freshdesk, and enhance agents with a CRM-embedded copilot. A company-specific AI language model keeps every interaction on-brand. EU-hosted and ISO 27001 certified, Typewise delivers measurable ROI in weeks—so you can start small and scale automation with confidence.",
-    "one_liner": "Boosting customer service and sales productivity by 2-3x.",
+    "long_description": "Typewise resolves customer service requests end-to-end. Someone sends a request; it reads the message, looks up the real order or account in your own systems, takes the action, and replies. Anything it shouldn't touch goes to a human. It works across email, chat, WhatsApp and social, and is MCP-native.\r\n\r\nUntil now, that took a proper setup project, which is why it was mostly larger companies using it. Nova does the setup for you. You describe how you want things handled, in plain sentences:\r\n- \"Handle refunds under €50 yourself.\"\r\n- \"Anything about enterprise pricing goes to a human.\"\r\n- \"Turn bug reports into Linear issues and assign them to the Excellence team.\"\r\n\r\nNova connects the tools, configures the agents, tests them against your past conversations, and shows you what it got wrong before anything goes live. Nothing ships without your approval. First deployment takes 15 minutes. After that, it keeps going: it surfaces what customers keep complaining about, proposes fixes, and ships the ones you approve. We call it an AI Operator because it doesn't just answer customers; it keeps the entire operation working and improving. Across live accounts, that means 90% of requests resolved without human involvement.\r\n\r\nYour team stays in control of what it may do on its own. Hybrid intelligence handles partial hand-offs, review-before-send, and context-preserving resumption.\r\n\r\nWe're YC S22 and work with companies like Superhuman and Unilever. Fortune 500 brands such as Unilever and DPD use Typewise to cut support effort by 50%+ while increasing CSAT and NPS. Run it natively in Typewise Ticketing or inside Zendesk, Salesforce or Freshdesk, with a CRM-embedded copilot for your human agents. EU-hosted, ISO 27001 certified.",
+    "one_liner": "Customer service AI that resolves requests end-to-end.",
     "team_size": 12,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -7279,6 +7279,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mentlio",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/mentlio.json"
+  },
+  {
+    "id": 32121,
+    "name": "Moonshot",
+    "slug": "moonshot-computer",
+    "former_names": [
+      "Moonshot",
+      "OpenTrade"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/609d8457269ad1be9496a28a67f4cd8fd8c26af1.png",
+    "website": "https://moonshot.computer/",
+    "all_locations": "Seattle, WA, USA",
+    "long_description": "We want to bring AI agents to a billion people.\r\n\r\nTo do this, we believe it needs to be 1. proactive and 2. personal. A billion people already carry the right device, but none of them have the right connector.\r\n\r\nMoonshot is personal intelligence that lives on your iPhone and listens to you 24/7. It continuously builds up a greater understanding of you through constantly listening and building context. It just pays deep attention, the way a good friend does. Through this, Moonshot monitors your conscious and subconscious life, figuring out what you need before you know, reminding you about open loops, identifying life and emotional trends before you recognize it, and covering a lot more of what we gloss over in daily life.\r\n\r\nFor fifty years, software has waited to be asked. We think tools are just good enough to flip this, and the next great software will provide value before asking for something first. We're doing it through Moonshot.\r\n\r\nOur thesis is simple: you're only living half your life. The half that you actively remember. The other half just evaporates into your subconscious: what you said, felt, promised, and forgot. It's the more interesting half, and until now nothing could catch it, making it not actionable.\r\n\r\nMoonshot catches your subconscious half and understands you well enough to take actions on your behalf.\r\n\r\nTake life personally.\r\n\r\nThe iOS app is designed around ambient listening and clear user control. Short microphone chunks are sent securely to Moonshot's private transcription service and deleted when transcription finishes. Text and selected context can be sent through Moonshot's server to a model when the app needs to understand a moment. Nothing leaves without your yes. The privacy policy explains every data path, stored copy, permission, and deletion control in detail.\r\n\r\nMoonshot is in early access. Join the waitlist to hear when access opens, read more about the team and product on the About page, or use the Contact page for a direct written response from the Moonshot team.\r\n\r\nLet's make it a Moonshot.",
+    "one_liner": "agents for the rest of us",
+    "team_size": 3,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1783572660,
+    "tags": [
+      "Consumer",
+      "Productivity",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/moonshot-computer",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/moonshot-computer.json"
   },
   {
     "id": 33051,

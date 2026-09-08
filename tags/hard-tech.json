@@ -4831,6 +4831,50 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/arlo-industries.json"
   },
   {
+    "id": 31582,
+    "name": "Edgerun",
+    "slug": "edgerun",
+    "former_names": [
+      "Edgerun Industries"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8fb84bc8b7f8d02b776dec7685bbaf102fdadf1c.png",
+    "website": "https://edgerun.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Edgerun builds powered legs that double a soldier's range. Started this year. $100M+ in Ukrainian LOIs, requested by the most combat-experienced infantry on Earth. Our work is just beginning.",
+    "one_liner": "Military exoskeletons",
+    "team_size": 5,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Defense",
+    "launched_at": 1787343759,
+    "tags": [
+      "Hard Tech",
+      "Hardware",
+      "Robotics",
+      "Defense"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/edgerun",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/edgerun.json"
+  },
+  {
     "id": 32128,
     "name": "Mass Magnetics",
     "slug": "mass-magnetics",
@@ -5182,17 +5226,17 @@
     "website": "https://movingatoms.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Our first model, Atom 1, pre-trained on the internets video, and fine tuned for physics.\r\nIt has been action conditioned, so you can simulate robot actions within it.\r\nThis lets Robot Labs train their robots using GPUs instead of relying on human collected manual data that is slow and expensive.\r\nIn unseen and hard to replicate environments, this is the only path to getting ANY training data.",
-    "one_liner": "World Models for training and evaluating robots",
+    "one_liner": "World Models for training robots",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1786481200,
     "tags": [
+      "Artificial Intelligence",
       "Hard Tech",
       "Robotics",
       "Virtual Reality",
-      "Data Labeling",
-      "AI"
+      "Data Labeling"
     ],
     "tags_highlighted": [],
     "top_company": false,
