@@ -882,7 +882,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -3630,6 +3630,50 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2022/shinkei-systems.json"
   },
   {
+    "id": 25361,
+    "name": "Fleetzero",
+    "slug": "fleetzero",
+    "former_names": [
+      "fleetzero"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/72afaac30b2857360fd2c20810a8d2c00083b39a.png",
+    "website": "https://www.fleetzero.com",
+    "all_locations": "Houston, TX, USA",
+    "long_description": "Fleetzero builds robot ships to deliver cargo for customers.",
+    "one_liner": "Making all ships robots. ",
+    "team_size": 40,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1643126180,
+    "tags": [
+      "Autonomous Shipping",
+      "Hard Tech",
+      "Hardware",
+      "Robotics",
+      "Transportation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/fleetzero",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/fleetzero.json"
+  },
+  {
     "id": 25589,
     "name": "Palitronica Inc",
     "slug": "palitronica-inc",
@@ -5303,17 +5347,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd88161755dbb4d7513a2dc91e69b26930313524.png",
     "website": "https://os3robotics.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "OS3 deploys US-built mobile semi humanoid robots for repetitive physical work.\r\n\r\nWe designed the robot, custom actuators, model and control stack as one system, then pretrained the model exclusively on 150,000 hours of video data spanning more than 2,000 tasks. Hospitality is our first deployment vertical. Through our Startup Partner program, teams are deploying OS3 robots in biotech, hospitals and data centers.\r\n\r\nOur two-person team built the robot and trained its first model in four months. We are making American robotics accessible to more businesses.",
+    "long_description": "OS3 deploys US-built mobile semi humanoid robots for repetitive physical work.\r\n\r\nWe designed the robot, custom actuators, model and control stack as one system, then pretrained the model exclusively on 150,000 hours of video data spanning more than 2,000 tasks. Hospitality is our first deployment vertical. Through our Startup Partner program, teams are deploying OS3 robots in biotech, hospitals and data centers.\r\n\r\nOur two-person team built 3 robots and trained its first model in four months. We are making American robotics accessible to more businesses.",
     "one_liner": "Deploying US-Built Humanoid Robots & Training Video Action Models",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1753297896,
     "tags": [
+      "Artificial Intelligence",
       "Hardware",
       "Robotics",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5611,7 +5655,7 @@
     "website": "https://tensr.com/",
     "all_locations": "Emeryville, CA, USA",
     "long_description": "Robotic factories that build robotics in the US. Currently operating a 12,000 sqft factory in the Bay Area and actively manufacturing customer orders for some of the largest robotics companies in the US and the International Space Station.\r\n\r\nWe’re a group of Berkeley graduate robotics researchers who previously won a full scale autonomous IndyCar competition at 160mph.",
-    "one_liner": "Robotic factories that build robots.",
+    "one_liner": "Robotic factories that build robots",
     "team_size": 7,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -5999,7 +6043,7 @@
     "website": "https://www.pingdream.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Dream makes AI cameras that catch damage teams miss. Car dealerships, equipment rental companies, fleets, and more move expensive assets in and out all day, and undocumented damage is a costly leak.\r\n\r\nDream cameras are simple to set up and work automatically. Each vehicle or machine that passes is photographed from every angle, identified, and reconstructed into a complete condition record. On return or intake, Dream instantly flags new dents, scrapes, and changes your team might miss, giving one source of truth for every asset's condition over time.\r\n\r\nRyland worked at X/xAI and built aerial damage-detection vision at Vexcel Imaging. Alexander worked at AWS and trained edge-camera models deployed in the wild across Africa and India to detect poachers.",
-    "one_liner": "AI cameras that catch asset damage",
+    "one_liner": "Using VLMs to Catch Real World Damage",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -6078,16 +6122,17 @@
   },
   {
     "id": 31454,
-    "name": "ED1TH",
-    "slug": "ed1th",
+    "name": "E1O",
+    "slug": "e1o",
     "former_names": [
-      "Datost"
+      "Datost",
+      "ED1TH"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9320ae60dfd7f05401e99f8ca644e1ab6704289e.png",
-    "website": "https://www.ed1th.com",
+    "website": "https://e1o.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "A personal AI HUD that lives in a pair of glasses. Think Jarvis. It reads your email, runs your calendar and puts directions in your eye. 25 grams, no cameras, all day. ",
-    "one_liner": "Jarvis IRL",
+    "long_description": "E1O (E1 Optics) is building camera-free AI glasses with a private display and a personal assistant. Follow your coding agents, catch up on email, and bring useful information into view. Connected to the E1O app on your phone. Join the early-access waitlist at e1o.com.",
+    "one_liner": "Camera-free AI glasses. Your AI, out in the world.",
     "team_size": 1,
     "industry": "Consumer",
     "subindustry": "Consumer -> Consumer Electronics",
@@ -6116,8 +6161,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ed1th",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/ed1th.json"
+    "url": "https://www.ycombinator.com/companies/e1o",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/e1o.json"
   },
   {
     "id": 31535,
@@ -6259,7 +6304,7 @@
     "website": "https://karalabs.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Kara is building diamond semiconductors. \r\n\r\nWe begin with growing ultra-high purity diamond wafers for advanced hardware. Used in data centers, spacecrafts, RF systems, and quantum hardware, our diamond moves heat up to 5× better than copper, helping critical systems run cooler, faster, and more reliably. \r\n\r\nDiamond has spent centuries as a symbol. We are turning it into infrastructure.",
-    "one_liner": "Making Diamond Engineerable",
+    "one_liner": "Making Diamond Semiconductors",
     "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials",
@@ -6553,7 +6598,7 @@
     "website": "https://greypointindustries.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We build LEGION, a drone swarm that identifies, geolocates, and tracks every emitter on the battlefield using the enemy’s own radio signals. LEGION enables our warfighters to precisely track previously obscured targets like jammers, command posts, and drone operators so they can proactively respond to threats instead of reacting to them.",
-    "one_liner": "Building drone swarms that hunt drone operators",
+    "one_liner": "Building drone swarms that hunt hidden enemies.",
     "team_size": 4,
     "industry": "Industrials",
     "subindustry": "Industrials -> Defense",
@@ -6858,18 +6903,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c2193e7412febe2e812491e1a73617bb09eb897.png",
     "website": "https://hardwareintelligence.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
+    "long_description": "Hardware Intelligence makes chip design tools that cut simulation and debugging time by an order of magnitude. When a chip test fails, engineers need a recording of every internal signal - a waveform. We’ve developed WaveZip, which captures waveforms 500x smaller with 200x less overhead. We’re Rishov Sarkar (Georgia Tech PhD in chip simulation) and Athreya Anand (ex-Google, M.S. ML/AI).",
     "one_liner": "AI tools for the chips your AI runs on",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1784052551,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Hardware",
       "Enterprise Software",
-      "Semiconductors"
+      "Semiconductors",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

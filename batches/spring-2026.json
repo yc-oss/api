@@ -4249,48 +4249,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/complir.json"
   },
   {
-    "id": 31444,
-    "name": "Alchemize",
-    "slug": "alchemize",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f82ae07ea418af65738a5555df328a4907b4da13.png",
-    "website": "https://tryalchemize.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Alchemize is an AI code review platform that helps teams understand and test code.\r\n\r\nAgentic coding has 10x’d code output, creating larger PRs more frequently, but existing review workflows haven’t kept up. \r\n\r\nAlchemize breaks large changes into smaller, dependency-ordered PRs and guided reviews. It surfaces the prompts, intent, and assumptions behind agent-written code, then uses browser agents to test affected workflows.\r\n\r\nReviewers can quickly understand how a change works, identify where human judgment is needed, and ship faster with more confidence.",
-    "one_liner": "Ship more code with confidence",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1778526600,
-    "tags": [
-      "Developer Tools",
-      "B2B",
-      "Productivity",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/alchemize",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/alchemize.json"
-  },
-  {
     "id": 31445,
     "name": "Harbor",
     "slug": "runharbor",
@@ -4528,16 +4486,17 @@
   },
   {
     "id": 31454,
-    "name": "ED1TH",
-    "slug": "ed1th",
+    "name": "E1O",
+    "slug": "e1o",
     "former_names": [
-      "Datost"
+      "Datost",
+      "ED1TH"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9320ae60dfd7f05401e99f8ca644e1ab6704289e.png",
-    "website": "https://www.ed1th.com",
+    "website": "https://e1o.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "A personal AI HUD that lives in a pair of glasses. Think Jarvis. It reads your email, runs your calendar and puts directions in your eye. 25 grams, no cameras, all day. ",
-    "one_liner": "Jarvis IRL",
+    "long_description": "E1O (E1 Optics) is building camera-free AI glasses with a private display and a personal assistant. Follow your coding agents, catch up on email, and bring useful information into view. Connected to the E1O app on your phone. Join the early-access waitlist at e1o.com.",
+    "one_liner": "Camera-free AI glasses. Your AI, out in the world.",
     "team_size": 1,
     "industry": "Consumer",
     "subindustry": "Consumer -> Consumer Electronics",
@@ -4566,8 +4525,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ed1th",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/ed1th.json"
+    "url": "https://www.ycombinator.com/companies/e1o",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/e1o.json"
   },
   {
     "id": 31455,
@@ -4778,7 +4737,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/abb178493b637223c4623f43b2c209131939af8e.png",
     "website": "https://plan0.ai/",
     "all_locations": "",
-    "long_description": "PLAN0 is building the Bloomberg of construction for real estate developers, investors, and general contractors — $20B of projects are already running through the platform.\r\n\r\nWe analyze architectural plans using vision models to generate detailed cost estimates and analytics in minutes. Through industry partnerships, the platform also aggregates historical and real-time project data across all major geographies to power ML-driven analytics, decomposing costs into market-observable factors and creating an agentic layer for cost optimization.",
+    "long_description": "PLAN0 is building the Bloomberg of construction for real estate developers, investors, and general contractors — $30B of projects are already running through the platform.\r\n\r\nWe analyze architectural plans using vision models to generate detailed cost estimates and analytics in minutes. Through industry partnerships, the platform also aggregates historical and real-time project data across all major geographies to power ML-driven analytics, decomposing costs into market-observable factors and creating an agentic layer for cost optimization.",
     "one_liner": "Construction Cost Intelligence.",
     "team_size": 4,
     "industry": "Real Estate and Construction",
@@ -5589,7 +5548,7 @@
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "TesterArmy is an AI agent that tests websites and mobile apps. It monitors production on a schedule and runs automatically on every GitHub Pull Request, delivering screenshots, recordings, and actionable bug reports.\r\n\r\nDescribe tests in plain English. The agent handles login flows, OAuth, and OTPs, no scripts to write or maintain. We catch the regressions and UX issues that code review misses.",
     "one_liner": "Test your app with AI, catch bugs before users do",
-    "team_size": 4,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1773767171,
@@ -7242,50 +7201,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/enjamb-labs",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/enjamb-labs.json"
-  },
-  {
-    "id": 31550,
-    "name": "Playabl.ai",
-    "slug": "playablai",
-    "former_names": [
-      "Playabl.ai",
-      "NeonRain, Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/484b887f79a6e0d055be256cbacda5f8badb1317.png",
-    "website": "https://playabl.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Playabl is the TikTok for user-generated games, where anyone can play, create, publish, and monetize games.\r\n\r\n[June 19 Update] three weeks ago we went public, users are creating games and posting them on playabl.ai - since then we had over:\r\n\r\n• 4m unique plays on 15k user-generated games built on playabl.ai\r\n• 40k DAU \r\n• 300k WAU \r\n",
-    "one_liner": "TikTok for User-generated Games",
-    "team_size": 10,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Gaming",
-    "launched_at": 1773783180,
-    "tags": [
-      "Consumer",
-      "Gaming",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Gaming"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/playablai",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/playablai.json"
   },
   {
     "id": 31552,

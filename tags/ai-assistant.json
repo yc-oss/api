@@ -432,7 +432,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2019",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B"
     ],
@@ -4122,7 +4122,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -7010,8 +7010,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/70f52c907fab24ab4f95aa200a11907c5bc3896f.png",
     "website": "https://textsidekick.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sidekick is an AI agent that manages frontline operations over text. Workers text problems, photos, or voice memos in any language; it answers from the company's own documents, creates and routes the work order, and syncs with the software the company already runs. No app, no login, works on any phone. It watches connected machine data and texts the right worker the moment something starts drifting, before it becomes downtime. And it compounds: most of the industrial world runs on undocumented knowledge, and Sidekick is the first thing that documents it as a byproduct of the work itself. Every interaction contributes to a searchable knowledge base the company owns, so tribal knowledge stops walking out the door when veterans retire.",
-    "one_liner": "AI agent that manages frontline operations over text",
+    "long_description": "Sidekick is an AI agent that manages manufacturing operations over text. Workers text problems, photos, or voice memos in any language; it answers from the company's own documents, creates and routes the work order, and syncs with the software the company already runs. No app, no login, works on any phone. It watches connected machine data and texts the right worker the moment something starts drifting, before it becomes downtime. And it compounds: most of the industrial world runs on undocumented knowledge, and Sidekick is the first thing that documents it as a byproduct of the work itself. Every interaction contributes to a searchable knowledge base the company owns, so tribal knowledge stops walking out the door when veterans retire.",
+    "one_liner": "AI agent that manages manufacturing operations over text",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
@@ -7047,16 +7047,17 @@
   },
   {
     "id": 31454,
-    "name": "ED1TH",
-    "slug": "ed1th",
+    "name": "E1O",
+    "slug": "e1o",
     "former_names": [
-      "Datost"
+      "Datost",
+      "ED1TH"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9320ae60dfd7f05401e99f8ca644e1ab6704289e.png",
-    "website": "https://www.ed1th.com",
+    "website": "https://e1o.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "A personal AI HUD that lives in a pair of glasses. Think Jarvis. It reads your email, runs your calendar and puts directions in your eye. 25 grams, no cameras, all day. ",
-    "one_liner": "Jarvis IRL",
+    "long_description": "E1O (E1 Optics) is building camera-free AI glasses with a private display and a personal assistant. Follow your coding agents, catch up on email, and bring useful information into view. Connected to the E1O app on your phone. Join the early-access waitlist at e1o.com.",
+    "one_liner": "Camera-free AI glasses. Your AI, out in the world.",
     "team_size": 1,
     "industry": "Consumer",
     "subindustry": "Consumer -> Consumer Electronics",
@@ -7085,8 +7086,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ed1th",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/ed1th.json"
+    "url": "https://www.ycombinator.com/companies/e1o",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/e1o.json"
   },
   {
     "id": 32121,
@@ -7184,15 +7185,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/04034530613a233afe0d28a52bcfd6e9943b7ea7.png",
     "website": "https://usealmanac.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Almanac is a proactive AI agent that deeply understands your work.\r\n\r\nToday people rely on a stack of productivity tools to hold the context of their work including todo lists, issue trackers, wikis, and CRMs. All of them have to be updated by hand, and none were built for AI. \r\n\r\nAlmanac maintains its own self-updating productivity suite for you. This gives it an absurdly good understanding of your work, based on which it proactively gets things done for you.\r\n\r\nAlmanac starts with individuals, but it's built for teams. As more of a team connects their work, the agent gains shared context across everyone, so it understands not just what you're doing but how the whole team's work fits together.",
-    "one_liner": "The agent that knows your work absurdly well",
+    "long_description": "Almanac is an AI agent that deeply understands your work.\r\n\r\nToday people rely on a stack of productivity tools to hold the context of their work including todo lists, issue trackers, wikis, and CRMs. All of them have to be updated by hand, and none were built for AI. \r\n\r\nAlmanac maintains its own self-updating productivity suite for you. This gives it an absurdly good understanding of your work, based on which it proactively gets things done for you.\r\n\r\nAlmanac starts with individuals, but it's built for teams. As more of a team connects their work, the agent gains shared context across everyone, so it understands not just what you're doing but how the whole team's work fits together.",
+    "one_liner": "Organizing company knowledge",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1784235632,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],

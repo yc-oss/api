@@ -5204,48 +5204,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/userlens.json"
   },
   {
-    "id": 31444,
-    "name": "Alchemize",
-    "slug": "alchemize",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f82ae07ea418af65738a5555df328a4907b4da13.png",
-    "website": "https://tryalchemize.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Alchemize is an AI code review platform that helps teams understand and test code.\r\n\r\nAgentic coding has 10x’d code output, creating larger PRs more frequently, but existing review workflows haven’t kept up. \r\n\r\nAlchemize breaks large changes into smaller, dependency-ordered PRs and guided reviews. It surfaces the prompts, intent, and assumptions behind agent-written code, then uses browser agents to test affected workflows.\r\n\r\nReviewers can quickly understand how a change works, identify where human judgment is needed, and ship faster with more confidence.",
-    "one_liner": "Ship more code with confidence",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1778526600,
-    "tags": [
-      "Developer Tools",
-      "B2B",
-      "Productivity",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/alchemize",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/alchemize.json"
-  },
-  {
     "id": 31458,
     "name": "Reason Machines",
     "slug": "reason-machines",
@@ -5727,7 +5685,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4211252c17df7b0a89dc9c36ce49996bef59474d.png",
     "website": "https://levocred.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Levocred puts AI agents inside lenders. They run the loan book and price new deals; one fund cut time to price from a week to two hours and replaced two analysts' work. \r\nEvery book we price trains a model for the $22T of US loans that never trade. That model becomes the exchange.",
+    "long_description": "Levocred AI is the Bloomberg of loans: AI agents that run and price a lender's book. One fund cut the time to mark its book from a week to two hours and now names us as data agent, the system of record, in its loan purchase agreements.\r\n\r\n$22T of US loans never trade because nobody can price them efficiently and defensibly. We fix pricing first by deploying inside lenders. Trading follows, the way it did for bonds.",
     "one_liner": "The Bloomberg of Loans",
     "team_size": 2,
     "industry": "Fintech",
@@ -5813,18 +5771,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c2193e7412febe2e812491e1a73617bb09eb897.png",
     "website": "https://hardwareintelligence.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
+    "long_description": "Hardware Intelligence makes chip design tools that cut simulation and debugging time by an order of magnitude. When a chip test fails, engineers need a recording of every internal signal - a waveform. We’ve developed WaveZip, which captures waveforms 500x smaller with 200x less overhead. We’re Rishov Sarkar (Georgia Tech PhD in chip simulation) and Athreya Anand (ex-Google, M.S. ML/AI).",
     "one_liner": "AI tools for the chips your AI runs on",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1784052551,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Hardware",
       "Enterprise Software",
-      "Semiconductors"
+      "Semiconductors",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

@@ -11545,7 +11545,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -20278,7 +20278,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2019",
     "status": "Active",
@@ -31593,7 +31593,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -32267,17 +32267,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/57875ffefcede579f19a1952d91ce8fd43305cc7.png",
     "website": "https://magichour.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Magic Hour is a professional video creation tool. \r\n\r\nIt takes the best AI video models, puts them in one workflow, and makes creating an amazing video as easy as selecting a template and customizing it.\r\n\r\nYou can use the product at https://magichour.ai",
-    "one_liner": "Platform for AI video generation.",
+    "long_description": "Magic Hour is a browser-based creative platform and API for generating and editing video, images, and audio. Creators and teams use more than 100 tools, including face swap, lip sync, image-to-video, text-to-video, image editing, and voice generation. Developers integrate the same capabilities through our REST API, official SDKs, and hosted MCP server.",
+    "one_liner": "AI media creation platform for creators and developers",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer -> Content",
     "launched_at": 1702093402,
     "tags": [
-      "Artificial Intelligence",
-      "B2B",
+      "Generative AI",
       "Video",
       "Media",
+      "API",
       "Creator Economy"
     ],
     "tags_highlighted": [],
@@ -32292,7 +32292,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -34147,54 +34149,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/waffle",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/waffle.json"
-  },
-  {
-    "id": 30345,
-    "name": "Tee Time Tommy",
-    "slug": "tee-time-tommy",
-    "former_names": [
-      "851 Inc.",
-      "851",
-      "AI Emojis",
-      "emojis",
-      "emojis.com",
-      "Lightbox",
-      "emojis.com"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/da12abcb76c9086dab8dd1259bef41c842d90d23.png",
-    "website": "https://teetimetommy.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "Book and manage all of your golf tee times in one place.",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1740542821,
-    "tags": [
-      "Sports Tech",
-      "Consumer",
-      "Booking"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tee-time-tommy",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/tee-time-tommy.json"
   },
   {
     "id": 30365,
@@ -36233,16 +36187,17 @@
   },
   {
     "id": 31454,
-    "name": "ED1TH",
-    "slug": "ed1th",
+    "name": "E1O",
+    "slug": "e1o",
     "former_names": [
-      "Datost"
+      "Datost",
+      "ED1TH"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9320ae60dfd7f05401e99f8ca644e1ab6704289e.png",
-    "website": "https://www.ed1th.com",
+    "website": "https://e1o.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "A personal AI HUD that lives in a pair of glasses. Think Jarvis. It reads your email, runs your calendar and puts directions in your eye. 25 grams, no cameras, all day. ",
-    "one_liner": "Jarvis IRL",
+    "long_description": "E1O (E1 Optics) is building camera-free AI glasses with a private display and a personal assistant. Follow your coding agents, catch up on email, and bring useful information into view. Connected to the E1O app on your phone. Join the early-access waitlist at e1o.com.",
+    "one_liner": "Camera-free AI glasses. Your AI, out in the world.",
     "team_size": 1,
     "industry": "Consumer",
     "subindustry": "Consumer -> Consumer Electronics",
@@ -36271,8 +36226,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ed1th",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/ed1th.json"
+    "url": "https://www.ycombinator.com/companies/e1o",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/e1o.json"
   },
   {
     "id": 31480,
@@ -36391,50 +36346,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/youart",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/youart.json"
-  },
-  {
-    "id": 31550,
-    "name": "Playabl.ai",
-    "slug": "playablai",
-    "former_names": [
-      "Playabl.ai",
-      "NeonRain, Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/484b887f79a6e0d055be256cbacda5f8badb1317.png",
-    "website": "https://playabl.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Playabl is the TikTok for user-generated games, where anyone can play, create, publish, and monetize games.\r\n\r\n[June 19 Update] three weeks ago we went public, users are creating games and posting them on playabl.ai - since then we had over:\r\n\r\n• 4m unique plays on 15k user-generated games built on playabl.ai\r\n• 40k DAU \r\n• 300k WAU \r\n",
-    "one_liner": "TikTok for User-generated Games",
-    "team_size": 10,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Gaming",
-    "launched_at": 1773783180,
-    "tags": [
-      "Consumer",
-      "Gaming",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Gaming"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/playablai",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/playablai.json"
   },
   {
     "id": 31574,
@@ -36919,14 +36830,14 @@
     "all_locations": "",
     "long_description": "Billions of people need tourist visas to travel the world. We use AI agents to prepare applications, verify documents, secure appointments, and handle the visa process end to end.\r\n",
     "one_liner": "AI travel agent for people with weak passports, starting with visas.",
-    "team_size": 1,
+    "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer -> Travel, Leisure and Tourism",
     "launched_at": 1786858536,
     "tags": [
       "AIOps",
-      "Consumer",
-      "AI"
+      "Artificial Intelligence",
+      "Consumer"
     ],
     "tags_highlighted": [],
     "top_company": false,
