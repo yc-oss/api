@@ -8797,7 +8797,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc34887fced4f954a1a9fd60de7afd828c9a1d74.png",
     "website": "https://www.warpbuild.com",
-    "all_locations": "Sydney, NSW, Australia; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Accelerate software development with WarpBuild.\r\nGet 2x faster, up to 90% cheaper CI in 30 seconds using WarpBuild for Github Actions.",
     "one_liner": "Accelerate software development with WarpBuild's 10x faster CI infra.",
     "team_size": 8,
@@ -8822,8 +8822,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Australia",
-      "Oceania",
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -12190,7 +12190,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -19318,7 +19318,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2024",
     "status": "Active",
@@ -20778,7 +20778,7 @@
       "Prism AI"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/973718be82b1053c971c2efe1c5263b785ae3711.png",
-    "website": "https://herm.run",
+    "website": "https://prisminference.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Prism is the easiest way to build and deploy a production AI Agent. \r\n\r\nStop harness-engineering or worrying about infra. Bring your system prompt, tools, MCP, and skills — get infrastructure, orchestration, memory, self learning, and more out of the box.",
     "one_liner": "Deploy AI Agents with a Single API Call",
@@ -23516,15 +23516,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a79212fefd832b4ac7d28da1ad3a7bc206dffaa1.png",
     "website": "https://speko.ai/?utm_source=ycombinator&utm_medium=profile",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Speko is a router for voice models: one API key, and your voice agent runs on the speech-to-text, LLM, and text-to-speech models we measured as best for your language and use case. The measurements are public at benchmarks.speko.ai: we test new models the day they ship and re-route when the numbers change, so you rewrite nothing. We ran this bake-off by hand for four years at Hupo, shipping production voice for Morgan Stanley, Prudential, HSBC, and Grab.",
+    "long_description": "Speko is a router for voice models: one API key, and your voice agent runs on the speech-to-text, LLM, and text-to-speech models we measured as best for your language and use case. The measurements are public at benchmarks.speko.ai: we test new models the day they ship and re-route when the numbers change, so you rewrite nothing. We ran this bake-off by hand for four years at previous company, shipping production voice for Fortune 500s.",
     "one_liner": "OpenRouter for Voice AI: one API, every call on the best speech model",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1783393099,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "AI",
       "Conversational AI"
     ],
     "tags_highlighted": [],
@@ -23602,16 +23602,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Intelligence will be the most valuable asset a company owns. Today, almost every company rents it.\r\n\r\nCompanies pay a handful of labs one token at a time. Each dollar buys an answer, not an asset. They spend more, but own nothing more.\r\n\r\nRiften reverses that.\r\n\r\nChange one environment variable and Riften becomes the gateway for a company's AI traffic. We route each request to the lowest-cost model that can do the job, serving most work on open-weight models we host. Customers save money immediately without rebuilding their products.\r\n\r\nThe gateway is the entry point. Over time, Riften turns the company's work into private models built on open weights and shaped around the business. What begins as cheaper inference becomes an intelligence stack the company owns, runs on infrastructure it controls, and uses to power its most important applications.\r\n\r\nWe call this earned intelligence. It is created by the company's own work, controlled by the company, and accumulated over time.\r\n\r\nThe next generation of companies will not rent their intelligence. They will earn it, own it, and compound it. Riften is how they get there.",
     "one_liner": "Earned intelligence for every company",
-    "team_size": 0,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1785872995,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Reinforcement Learning",
       "Open Source",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -23811,11 +23811,11 @@
     "name": "Graphify Labs",
     "slug": "graphify-labs",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0f86336cad3f47d72897d04916a12380f1f0094b.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/827fabd6e00bab1febd0feb00c906a6a3809b989.png",
     "website": "https://www.graphify.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Graphify builds a queryable knowledge graph from your codebase, docs, and Jira. The open-source engine has 105K+ GitHub stars and ~5M downloads, and is used in production by engineers at Rootly, Geotab, Tweddle Group, and Superagent.\r\n\r\nOn top of that graph, our enterprise layer reviews every pull request and formally verifies each code change: it proves the new behavior matches the old, or hands back the exact input that breaks it. That makes it built for the changes teams fear most, like refactors, framework upgrades, and large-scale code migrations, where you need proof that nothing broke, not a guess.\r\n\r\nThe graph updates itself as the code changes and keeps context instead of forgetting it, so your whole team and their coding agents work from one shared, always-current view of the codebase instead of a thousand private threads.\r\n\r\nIt runs entirely inside your perimeter, fully air-gapped on-premise or self-hosted in your own cloud, so no code or data ever leaves your environment.",
-    "one_liner": "On-device Knowledge Graph engine for Enterprise Codebases ",
+    "one_liner": "On-device Knowledge Graph engine for Enterprise Software",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -24323,6 +24323,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ascii",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/ascii.json"
+  },
+  {
+    "id": 35289,
+    "name": "ByteAsk",
+    "slug": "byteask",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6bcbfe2855ffcd587858880c19e9ea0940b81943.png",
+    "website": "https://byteask.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "ByteAsk is an AI coding agent built for C and C++, the code that runs trading systems, cars, chips, and operating systems. It does not stop at a diff that looks right. ByteAsk builds, debugs, and tests every change with the real toolchain until the change holds. If the compiler, the debugger, or the tests can catch it, then ByteAsk catches it too. It runs from the terminal or inside VS Code, Neovim, and Emacs, and is available fully on-prem.",
+    "one_liner": "The AI coding agent for C and C++",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1788984366,
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "SaaS",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/byteask",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/byteask.json"
   },
   {
     "id": 35395,

@@ -10577,16 +10577,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Basalt is building Constellations as a Service, self-flying satellite constellations tailored for private enterprise and the government without any prior aerospace experience needed! Powered by our Diamond AI, Basalt provides a seamless experience, enabling users to fly and stream data and images from their own dedicated satellite constellation onto their phones and laptops.  \r\n\r\nBasalt received its seed investment as part of the Y Combinator W24 batch, and has since launched Spirit-EEL, the world's first AI-controlled satellite constellation.",
     "one_liner": "Constellations as a Service",
-    "team_size": 6,
+    "team_size": 10,
     "industry": "Industrials",
     "subindustry": "Industrials -> Aviation and Space",
     "launched_at": 1706583323,
     "tags": [
-      "Artificial Intelligence",
       "Satellites",
       "Aerospace",
       "Automation",
-      "Defense"
+      "Defense",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -10808,7 +10808,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -16131,7 +16131,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/81520915f1b23922d076f3d69ef70548eb14face.png",
     "website": "https://www.daivin.tech/",
-    "all_locations": "Helsinki, Finland",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "DAIVIN! builds tankless dive gear that unlocks breath autonomy in extreme environments. Starting from underwater environment our mission is to remove the need for dangerous, heavy and bulky oxygen tanks in space, air and on land and replace them with water!",
     "one_liner": "Tankless Dive Gear - Breath Autonomy at Sea, Land & Space",
     "team_size": 1,
@@ -16150,8 +16150,8 @@
       "Defense"
     ],
     "regions": [
-      "Finland",
-      "Europe"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -16382,8 +16382,8 @@
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1782761102,
     "tags": [
-      "Artificial Intelligence",
-      "Robotics"
+      "Robotics",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -18344,7 +18344,7 @@
     "website": "https://movingatoms.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Our first model, Atom 1, pre-trained on the internets video, and fine tuned for physics. \r\nIt has been action conditioned, so you can simulate robot actions within it.\r\nThis lets Robot Labs train their robots using GPUs instead of relying on human collected manual data that is slow and expensive.\r\nIn unseen and hard to replicate environments, this is the only path to getting ANY training data.",
-    "one_liner": "World Models (Virtual Reality) for training robots",
+    "one_liner": "Virtual Reality for Training Robots",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -18932,7 +18932,7 @@
     "website": "https://ethos-space.com",
     "all_locations": "Los Angeles, CA, USA",
     "long_description": "Ethos makes silicon on the Moon to power terawatt scale data centers. The Moon's surface is 21% silicon. We melt and electrolyze the lunar surface to make raw materials for solar panels. With solar panels made from the Moon, the constraint that limits data center scaling and everything else in space is gone.",
-    "one_liner": "We make silicon on the Moon for the terawatt era of space power.",
+    "one_liner": "We make silicon on the Moon, to power everything in space.",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Aviation and Space",
@@ -19304,6 +19304,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/antropi-robotics",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/antropi-robotics.json"
+  },
+  {
+    "id": 35454,
+    "name": "Shepherd Robotics",
+    "slug": "shepherd-robotics",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aeedcbe594abc3d35bb21642c507ec105a0f502a.png",
+    "website": "https://shepherdrobotics.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Shepherd Robotics builds general purpose robots for skilled physical work across AI infrastructure and advanced manufacturing. Our robots are powered by robot foundation models and use modular, flexible hardware designed to adapt to different environments and tasks.\r\nWe train our systems on a combination of real world and simulation data so they can learn complex manipulation skills and generalize across workflows. We are starting with tasks such as data center construction and operations, cable and wire manufacturing, wire harness assembly, kitting, and factory packaging, where traditional automation struggles with variability, dexterity, and changing environments.",
+    "one_liner": "Robots for high skilled labor powering AI infrastructure",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1789000982,
+    "tags": [
+      "Hardware",
+      "Robotics",
+      "Manufacturing",
+      "Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/shepherd-robotics",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/shepherd-robotics.json"
   },
   {
     "id": 35522,

@@ -1940,16 +1940,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Basalt is building Constellations as a Service, self-flying satellite constellations tailored for private enterprise and the government without any prior aerospace experience needed! Powered by our Diamond AI, Basalt provides a seamless experience, enabling users to fly and stream data and images from their own dedicated satellite constellation onto their phones and laptops.  \r\n\r\nBasalt received its seed investment as part of the Y Combinator W24 batch, and has since launched Spirit-EEL, the world's first AI-controlled satellite constellation.",
     "one_liner": "Constellations as a Service",
-    "team_size": 6,
+    "team_size": 10,
     "industry": "Industrials",
     "subindustry": "Industrials -> Aviation and Space",
     "launched_at": 1706583323,
     "tags": [
-      "Artificial Intelligence",
       "Satellites",
       "Aerospace",
       "Automation",
-      "Defense"
+      "Defense",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2617,18 +2617,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0dc17fe22b167d4939fbd99c8dd3dcf2bb877cd0.png",
     "website": "https://ficra.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ficra helps creators and talent get better deals without the old-school commission model. \r\n\r\nFicra's AI automates outbound outreach to secure deals for creators with brands they actually want, whether they have an agent or not. Creator agencies can also use Ficra's outreach platform to get more deals for their clients.",
-    "one_liner": "Getting creators more deals",
+    "long_description": "Ficra automates workflows for SMBs and Mid-sized businesses and firms.",
+    "one_liner": "Automating workflows.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1725388449,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Social Media",
-      "Automation",
-      "Creator Economy",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2810,7 +2808,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2024",
     "status": "Active",
@@ -3958,7 +3956,7 @@
     "website": "https://bizmark.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Bizmark agents do the daily management work in factories. Think OpenClaw for manufacturing. Bizmark agents learn how each factory is managed, then automate the daily work. They learn from the results to make better decisions over time. Founders are cousins Rodrigo (grew up in a factory; CS & MBA at UChicago; built a distribution business 0→$60M) and Oscar (Engineering, Stanford; deployed AI for the US Air Force and machine learning at Amazon, Johnson & Johnson, and Intel). There’s a quarter of a million manufacturers in the US, making this a $25B market. In 5 years, we’ll make all of these factories manage themselves.",
-    "one_liner": "OpenClaw for manufacturers",
+    "one_liner": "AI employee for manufacturers",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -4202,5 +4200,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/onepatch",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/onepatch.json"
+  },
+  {
+    "id": 35454,
+    "name": "Shepherd Robotics",
+    "slug": "shepherd-robotics",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aeedcbe594abc3d35bb21642c507ec105a0f502a.png",
+    "website": "https://shepherdrobotics.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Shepherd Robotics builds general purpose robots for skilled physical work across AI infrastructure and advanced manufacturing. Our robots are powered by robot foundation models and use modular, flexible hardware designed to adapt to different environments and tasks.\r\nWe train our systems on a combination of real world and simulation data so they can learn complex manipulation skills and generalize across workflows. We are starting with tasks such as data center construction and operations, cable and wire manufacturing, wire harness assembly, kitting, and factory packaging, where traditional automation struggles with variability, dexterity, and changing environments.",
+    "one_liner": "Robots for high skilled labor powering AI infrastructure",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1789000982,
+    "tags": [
+      "Hardware",
+      "Robotics",
+      "Manufacturing",
+      "Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/shepherd-robotics",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/shepherd-robotics.json"
   }
 ]

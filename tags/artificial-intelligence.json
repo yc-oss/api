@@ -1988,7 +1988,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -5155,7 +5155,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -13521,6 +13521,46 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/elessar.json"
   },
   {
+    "id": 26670,
+    "name": "Julius",
+    "slug": "julius",
+    "former_names": [
+      "LiveTrucks"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/01137f903c552dc3ad5d129693b9cf8164803f74.png",
+    "website": "https://julius.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Julius is an AI workspace that turns ideas and data into finished work. Analyze spreadsheets and files with AI data analysis, turn research and insights into editable slides with the AI presentation maker, or bring ideas to life with the AI website builder, all in one interface.",
+    "one_liner": "Build and analyze things with AI",
+    "team_size": 10,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1662143498,
+    "tags": [
+      "Artificial Intelligence"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/julius",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/julius.json"
+  },
+  {
     "id": 26671,
     "name": "Ciro",
     "slug": "ciro",
@@ -16538,7 +16578,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -22237,53 +22277,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/agentic-labs-2.json"
   },
   {
-    "id": 29277,
-    "name": "Basalt",
-    "slug": "basalt",
-    "former_names": [
-      "Basalt Tech"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bdc6db574181bc5f564f9fcdee3e3a8f66a68b75.png",
-    "website": "https://basalt.space/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Basalt is building Constellations as a Service, self-flying satellite constellations tailored for private enterprise and the government without any prior aerospace experience needed! Powered by our Diamond AI, Basalt provides a seamless experience, enabling users to fly and stream data and images from their own dedicated satellite constellation onto their phones and laptops.  \r\n\r\nBasalt received its seed investment as part of the Y Combinator W24 batch, and has since launched Spirit-EEL, the world's first AI-controlled satellite constellation.",
-    "one_liner": "Constellations as a Service",
-    "team_size": 6,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Aviation and Space",
-    "launched_at": 1706583323,
-    "tags": [
-      "Artificial Intelligence",
-      "Satellites",
-      "Aerospace",
-      "Automation",
-      "Defense"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Aviation and Space"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/basalt",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/basalt.json"
-  },
-  {
     "id": 29281,
     "name": "Breez Labs",
     "slug": "breez-labs",
@@ -23597,6 +23590,51 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/ellipsis.json"
   },
   {
+    "id": 29370,
+    "name": "Browser Buddy",
+    "slug": "browser-buddy",
+    "former_names": [
+      "Recipe",
+      "Browser Buddy",
+      "People Net",
+      "Bitter"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ee6645e8e73e60100ef3c3c0a7d44601e0d88c8.png",
+    "website": "https://www.browserbuddy.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Find great essays for any topic you're interested in. ",
+    "one_liner": "A recommendation system for the Internet",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Content",
+    "launched_at": 1701246038,
+    "tags": [
+      "Artificial Intelligence",
+      "Consumer"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Acquired",
+    "industries": [
+      "Consumer",
+      "Content"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/browser-buddy",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/browser-buddy.json"
+  },
+  {
     "id": 29374,
     "name": "Superagent",
     "slug": "superagent",
@@ -24828,7 +24866,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -28796,6 +28834,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/rastro.json"
   },
   {
+    "id": 29839,
+    "name": "Serve AI",
+    "slug": "serve-ai",
+    "former_names": [
+      "pap!"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7e1603c58a6b9ecb46ac26ec775f8201dd3c1d3d.png",
+    "website": "https://tryserve.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "AI for Home Services Operators",
+    "team_size": 3,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1724803143,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Home Services"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/serve-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/serve-ai.json"
+  },
+  {
     "id": 29841,
     "name": "Elayne",
     "slug": "elayne",
@@ -29009,6 +29089,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pipeshift",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/pipeshift.json"
+  },
+  {
+    "id": 29952,
+    "name": "Ficra",
+    "slug": "ficra",
+    "former_names": [
+      "SignOp",
+      "Ficra",
+      "Ficra (SignOp)"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0dc17fe22b167d4939fbd99c8dd3dcf2bb877cd0.png",
+    "website": "https://ficra.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Ficra automates workflows for SMBs and Mid-sized businesses and firms.",
+    "one_liner": "Automating workflows.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1725388449,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ficra",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/ficra.json"
   },
   {
     "id": 29957,
@@ -31620,46 +31744,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/hud.json"
   },
   {
-    "id": 30255,
-    "name": "Olive",
-    "slug": "olive",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/544faf85c3fb3b0e5acf3a985a6a1ce535df4377.png",
-    "website": "https://fromolive.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1740018718,
-    "tags": [
-      "Artificial Intelligence",
-      "Productivity",
-      "Team Collaboration"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/olive",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/olive.json"
-  },
-  {
     "id": 30258,
     "name": "Gale",
     "slug": "gale",
@@ -33521,49 +33605,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/human-behavior",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/human-behavior.json"
-  },
-  {
-    "id": 30500,
-    "name": "Besimple AI",
-    "slug": "besimple-ai",
-    "former_names": [
-      "Simple Annotation",
-      "besimple ai"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8305d688995d7c8f184d463f02f3ded6947c12e7.png",
-    "website": "https://besimple.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We are building the data layer for AI, starting with audio.  \r\n\r\nWe start with data collection, curating our own proprietary set of diverse conversational data covering a wide range of languages, dialects and accents.  We then leverage human expert audio annotators and our own annotation platform to process audio data for Automatic Speech Recognition.  \r\n\r\nWith human level transcription and diarization, our data help push the audio model frontier.  Today we have over millions of hours of conversational data, and growing. \r\n\r\nIf you need audio data for training or evaluating your voice models or voice agents, reach out!  We offer flexible licensing deals that work for startups and enterprises, with minimal process.  \r\n\r\nAudio data should besimple :) ",
-    "one_liner": "Voice data for AI",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1747861843,
-    "tags": [
-      "AIOps",
-      "Artificial Intelligence",
-      "Data Labeling"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/besimple-ai",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/besimple-ai.json"
   },
   {
     "id": 30501,
@@ -37963,6 +38004,49 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/philon.json"
   },
   {
+    "id": 30950,
+    "name": "Narrative",
+    "slug": "usenarrative",
+    "former_names": [
+      "AdDojo"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/db1362ab305e5a74bfdc1a509c929ce8348b2df9.png",
+    "website": "http://www.usenarrative.ai",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "An AI-powered video editor that makes editing dramatically faster. Upload your clips, tell it what you want, and have Narrative edit them for you.",
+    "one_liner": "AI Video Editor",
+    "team_size": 3,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Content",
+    "launched_at": 1759338774,
+    "tags": [
+      "Artificial Intelligence",
+      "Consumer",
+      "Video"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Content"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/usenarrative",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/usenarrative.json"
+  },
+  {
     "id": 30953,
     "name": "Relaw",
     "slug": "relaw",
@@ -38187,11 +38271,11 @@
     "former_names": [
       "Telemetron"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f8e38f7ff1a982099e585e1be50508d13d821286.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0392f6cc4b38e3757dfde807152e63044285166f.png",
     "website": "https://www.layers.bio/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Our mission is to quantify and improve how people look and feel using data from blood panels, DEXA scans, skin analysis, hair analysis, and many other tests. We evaluate a baseline, give clear steps on how to improve, and measure progress over time.",
-    "one_liner": "A 30 min appointment to measure everything in your body",
+    "long_description": "Improving how you look and feel leads to better outcomes in life (career, relationships, first impressions, opportunities, etc). \r\n\r\nImproving your health and appearance is an engineering problem - the body can be optimized like any other system",
+    "one_liner": "Improve your appearance by measuring, understanding, and tracking…",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Consumer Health and Wellness",
@@ -39831,48 +39915,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/illume-labs.json"
   },
   {
-    "id": 31341,
-    "name": "Most Robotic",
-    "slug": "most-robotic",
-    "former_names": [
-      "Instance"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/16ccadcbd2ec474ed470efbc872763f4a7984ec0.png",
-    "website": "https://mostrobotic.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're a robotics research lab pushing what's possible with physical AI.\r\n\r\nWe're MIT computer scientists & friends since middle school, with robotics research backgrounds and industry experience at NASA JPL, SpaceX, and AWS.",
-    "one_liner": "Research lab building the most robotic household in the world",
-    "team_size": 2,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1782761102,
-    "tags": [
-      "Artificial Intelligence",
-      "Robotics"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/most-robotic",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/most-robotic.json"
-  },
-  {
     "id": 31343,
     "name": "Multiplier",
     "slug": "multiplier",
@@ -40362,8 +40404,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9eb4e7455b35796c4972c68f65a621d21e458003.png",
     "website": "https://usecollarai.com",
     "all_locations": "Singapore, Singapore",
-    "long_description": "Collar (YC F26) is the AI for your investor relations and equity research reports. It reads every filing, transcript and comp, flags what actually changed, and drafts the note. So we want to take the IR stack off your plate: equity research, quarterly reports, filings, and investor updates.",
-    "one_liner": "AI for Investor Relations and Equity Research",
+    "long_description": "Collar helps lean investor relations teams reach the right investors.\r\nWe automate earnings preparation, track peers and market developments, and target investors who best fit each company.\r\nCFOs and IR heads can actually focus on building relationships and getting their company’s story heard.",
+    "one_liner": "AI for Investor Relations",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -41170,6 +41212,51 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/orchestra.json"
   },
   {
+    "id": 32169,
+    "name": "Speko",
+    "slug": "speko",
+    "former_names": [
+      "Speko Group, Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a79212fefd832b4ac7d28da1ad3a7bc206dffaa1.png",
+    "website": "https://speko.ai/?utm_source=ycombinator&utm_medium=profile",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Speko is a router for voice models: one API key, and your voice agent runs on the speech-to-text, LLM, and text-to-speech models we measured as best for your language and use case. The measurements are public at benchmarks.speko.ai: we test new models the day they ship and re-route when the numbers change, so you rewrite nothing. We ran this bake-off by hand for four years at previous company, shipping production voice for Fortune 500s.",
+    "one_liner": "OpenRouter for Voice AI: one API, every call on the best speech model",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1783393099,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/speko",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/speko.json"
+  },
+  {
     "id": 32172,
     "name": "Jcode",
     "slug": "jcode",
@@ -41295,49 +41382,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/guild.json"
   },
   {
-    "id": 32198,
-    "name": "Riften",
-    "slug": "riften",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4422075ddefbe2da912fc68b24148bca53aaa5b6.png",
-    "website": "https://riften.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Intelligence will be the most valuable asset a company owns. Today, almost every company rents it.\r\n\r\nCompanies pay a handful of labs one token at a time. Each dollar buys an answer, not an asset. They spend more, but own nothing more.\r\n\r\nRiften reverses that.\r\n\r\nChange one environment variable and Riften becomes the gateway for a company's AI traffic. We route each request to the lowest-cost model that can do the job, serving most work on open-weight models we host. Customers save money immediately without rebuilding their products.\r\n\r\nThe gateway is the entry point. Over time, Riften turns the company's work into private models built on open weights and shaped around the business. What begins as cheaper inference becomes an intelligence stack the company owns, runs on infrastructure it controls, and uses to power its most important applications.\r\n\r\nWe call this earned intelligence. It is created by the company's own work, controlled by the company, and accumulated over time.\r\n\r\nThe next generation of companies will not rent their intelligence. They will earn it, own it, and compound it. Riften is how they get there.",
-    "one_liner": "Earned intelligence for every company",
-    "team_size": 0,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1785872995,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Reinforcement Learning",
-      "Open Source",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/riften",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/riften.json"
-  },
-  {
     "id": 32200,
     "name": "Bizmark",
     "slug": "bizmark",
@@ -41348,7 +41392,7 @@
     "website": "https://bizmark.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Bizmark agents do the daily management work in factories. Think OpenClaw for manufacturing. Bizmark agents learn how each factory is managed, then automate the daily work. They learn from the results to make better decisions over time. Founders are cousins Rodrigo (grew up in a factory; CS & MBA at UChicago; built a distribution business 0→$60M) and Oscar (Engineering, Stanford; deployed AI for the US Air Force and machine learning at Amazon, Johnson & Johnson, and Intel). There’s a quarter of a million manufacturers in the US, making this a $25B market. In 5 years, we’ll make all of these factories manage themselves.",
-    "one_liner": "OpenClaw for manufacturers",
+    "one_liner": "AI employee for manufacturers",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -42184,6 +42228,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/rational.json"
   },
   {
+    "id": 32623,
+    "name": "Omanta",
+    "slug": "omanta",
+    "former_names": [
+      "ClinSIGHT AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae1812a6e6a806880355a25e542d3970bd58deb5.png",
+    "website": "https://omanta.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Omanta is a personalized research lab for patients who have exhausted standard options, want to prepare proactively for recurrence, or are living with an unresolved diagnosis.\r\n\r\nWe direct the full operational infrastructure, personnel, expertise, and technology of a large research program toward understanding and addressing the challenges of individual patients across oncology, rare disease, and undiagnosed conditions.\r\n\r\nFor clinicians, we act as a collaborative partner, providing a living roadmap for ongoing patient care built on a rigorous and evolving scientific evidence base.\r\n\r\nWe fully operationalize patient-specific research programs, covering tissue logistics, diagnostic follow-up, data integration, multiomic analysis, therapeutic strategy development, and more.\r\n\r\nOmanta brings context and clarity to complex cases, helping clinicians see more of the scientific picture as they decide how best to care for their patients.",
+    "one_liner": "A research lab for one",
+    "team_size": 6,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1785793252,
+    "tags": [
+      "Artificial Intelligence",
+      "Digital Health",
+      "Healthcare",
+      "Health & Wellness",
+      "Oncology"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/omanta",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/omanta.json"
+  },
+  {
     "id": 32624,
     "name": "Fabraix",
     "slug": "fabraix",
@@ -42452,7 +42540,7 @@
     "website": "https://movingatoms.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Our first model, Atom 1, pre-trained on the internets video, and fine tuned for physics. \r\nIt has been action conditioned, so you can simulate robot actions within it.\r\nThis lets Robot Labs train their robots using GPUs instead of relying on human collected manual data that is slow and expensive.\r\nIn unseen and hard to replicate environments, this is the only path to getting ANY training data.",
-    "one_liner": "World Models (Virtual Reality) for training robots",
+    "one_liner": "Virtual Reality for Training Robots",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -44046,6 +44134,87 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dreamscale-labs",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/dreamscale-labs.json"
+  },
+  {
+    "id": 37273,
+    "name": "Frontrunner",
+    "slug": "frontrunner",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a9d85abe63d98ee4de2bf8d852d5f9cf4ad82e21.png",
+    "website": "https://usefr.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Build agents that research accounts, find prospects, run campaigns, update your CRM, qualify inbound, and more. Connect them to the systems you already use and let them work alongside your GTM team.\r\n\r\nEngineer your revenue factory on Frontrunner. ",
+    "one_liner": "Cursor for GTM",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1788967219,
+    "tags": [
+      "Artificial Intelligence",
+      "Sales",
+      "Marketing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/frontrunner",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/frontrunner.json"
+  },
+  {
+    "id": 37566,
+    "name": "The Agentic Data Co.",
+    "slug": "the-agentic-data-co",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/72ebbcacfd48c52bf6fc298c17ddf035a00bbc08.png",
+    "website": "https://theagenticdatacompany.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We design and collect audio datasets for training speech models.",
+    "one_liner": "Training Data For Speech Models.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1788964517,
+    "tags": [
+      "Artificial Intelligence",
+      "Conversational AI",
+      "ML"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/the-agentic-data-co",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/the-agentic-data-co.json"
   },
   {
     "id": 37600,

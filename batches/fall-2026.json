@@ -95,8 +95,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9eb4e7455b35796c4972c68f65a621d21e458003.png",
     "website": "https://usecollarai.com",
     "all_locations": "Singapore, Singapore",
-    "long_description": "Collar (YC F26) is the AI for your investor relations and equity research reports. It reads every filing, transcript and comp, flags what actually changed, and drafts the note. So we want to take the IR stack off your plate: equity research, quarterly reports, filings, and investor updates.",
-    "one_liner": "AI for Investor Relations and Equity Research",
+    "long_description": "Collar helps lean investor relations teams reach the right investors.\r\nWe automate earnings preparation, track peers and market developments, and target investors who best fit each company.\r\nCFOs and IR heads can actually focus on building relationships and getting their company’s story heard.",
+    "one_liner": "AI for Investor Relations",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -899,6 +899,49 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/hopper.json"
   },
   {
+    "id": 35289,
+    "name": "ByteAsk",
+    "slug": "byteask",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6bcbfe2855ffcd587858880c19e9ea0940b81943.png",
+    "website": "https://byteask.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "ByteAsk is an AI coding agent built for C and C++, the code that runs trading systems, cars, chips, and operating systems. It does not stop at a diff that looks right. ByteAsk builds, debugs, and tests every change with the real toolchain until the change holds. If the compiler, the debugger, or the tests can catch it, then ByteAsk catches it too. It runs from the terminal or inside VS Code, Neovim, and Emacs, and is available fully on-prem.",
+    "one_liner": "The AI coding agent for C and C++",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1788984366,
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "SaaS",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/byteask",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/byteask.json"
+  },
+  {
     "id": 35290,
     "name": "Antropi Robotics",
     "slug": "antropi-robotics",
@@ -979,6 +1022,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/workers-io",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/workers-io.json"
+  },
+  {
+    "id": 35454,
+    "name": "Shepherd Robotics",
+    "slug": "shepherd-robotics",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aeedcbe594abc3d35bb21642c507ec105a0f502a.png",
+    "website": "https://shepherdrobotics.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Shepherd Robotics builds general purpose robots for skilled physical work across AI infrastructure and advanced manufacturing. Our robots are powered by robot foundation models and use modular, flexible hardware designed to adapt to different environments and tasks.\r\nWe train our systems on a combination of real world and simulation data so they can learn complex manipulation skills and generalize across workflows. We are starting with tasks such as data center construction and operations, cable and wire manufacturing, wire harness assembly, kitting, and factory packaging, where traditional automation struggles with variability, dexterity, and changing environments.",
+    "one_liner": "Robots for high skilled labor powering AI infrastructure",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1789000982,
+    "tags": [
+      "Hardware",
+      "Robotics",
+      "Manufacturing",
+      "Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/shepherd-robotics",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/shepherd-robotics.json"
   },
   {
     "id": 35521,
@@ -1437,6 +1523,47 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/sinter-systems.json"
   },
   {
+    "id": 36777,
+    "name": "Sona8",
+    "slug": "sona8",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bbb7f2bc6b3848168f970a704b24b37c2b125f25.png",
+    "website": "https://sona8.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sona8 is a voice agent that talks to every employee in a company about how their work gets done.\r\n\r\nEach employee gets a link and talks to the agent for about 20 minutes. The agent asks follow-up questions, for example why a step is still done by hand or who else is involved. From the conversations we build process maps and a list of the problems\r\npeople described, sorted by site and team.\r\n\r\nThat is the start. We then stay on through the implementation. After each initiative is rolled out, the agent goes back to the employees involved and asks whether it was implemented and what changed in their daily work. The transformation team sees this\r\nafter every rollout step.\r\n\r\nThe result is a project management office that has talked to every employee. That context did not exist before, because nobody had the time to collect it.\r\n\r\nConsulting firms use it to gather ideas at the start of an engagement instead. Transformation and corporate development teams use it to guide the execution of strategic transformation.",
+    "one_liner": "Voice agents that talk to employees enabling transformations ",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1788994017,
+    "tags": [
+      "HR Tech",
+      "AI",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sona8",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/sona8.json"
+  },
+  {
     "id": 36940,
     "name": "Quippy",
     "slug": "quippy",
@@ -1518,6 +1645,87 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/the-subvocal-company",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/the-subvocal-company.json"
+  },
+  {
+    "id": 37273,
+    "name": "Frontrunner",
+    "slug": "frontrunner",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a9d85abe63d98ee4de2bf8d852d5f9cf4ad82e21.png",
+    "website": "https://usefr.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Build agents that research accounts, find prospects, run campaigns, update your CRM, qualify inbound, and more. Connect them to the systems you already use and let them work alongside your GTM team.\r\n\r\nEngineer your revenue factory on Frontrunner. ",
+    "one_liner": "Cursor for GTM",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1788967219,
+    "tags": [
+      "Artificial Intelligence",
+      "Sales",
+      "Marketing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/frontrunner",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/frontrunner.json"
+  },
+  {
+    "id": 37566,
+    "name": "The Agentic Data Co.",
+    "slug": "the-agentic-data-co",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/72ebbcacfd48c52bf6fc298c17ddf035a00bbc08.png",
+    "website": "https://theagenticdatacompany.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We design and collect audio datasets for training speech models.",
+    "one_liner": "Training Data For Speech Models.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1788964517,
+    "tags": [
+      "Artificial Intelligence",
+      "Conversational AI",
+      "ML"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/the-agentic-data-co",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/the-agentic-data-co.json"
   },
   {
     "id": 37600,

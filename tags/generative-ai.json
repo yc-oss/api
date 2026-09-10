@@ -1756,7 +1756,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc34887fced4f954a1a9fd60de7afd828c9a1d74.png",
     "website": "https://www.warpbuild.com",
-    "all_locations": "Sydney, NSW, Australia; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Accelerate software development with WarpBuild.\r\nGet 2x faster, up to 90% cheaper CI in 30 seconds using WarpBuild for Github Actions.",
     "one_liner": "Accelerate software development with WarpBuild's 10x faster CI infra.",
     "team_size": 8,
@@ -1781,8 +1781,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Australia",
-      "Oceania",
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -4542,7 +4542,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -6556,8 +6556,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d8ec5197bc9e6a36464adaa019fa08dc09b5662.png",
     "website": "https://mavenbio.com",
     "all_locations": "Boston, MA, USA",
-    "long_description": "Maven Bio is a 10-person seed-stage team in Boston building the market intelligence layer for life sciences AI. Three of the top 10 pharma companies are onboarded, and we have 20+ enterprise accounts across pharma, consulting, and investing. Customers report a 40% reduction in low-level analytical work.\r\n\r\nWe are growing fast and heading for a Series A. Our buyers are senior BD, CI, Strategy, and Investing leaders.",
-    "one_liner": "The AI Platform for Life Sciences Intelligence",
+    "long_description": "Maven Bio is a live intelligence platform for biopharma teams. It continuously monitors clinical, regulatory, company, and deal developments, identifies what matters to each team's priorities, and delivers signals and updates to keep key documents current. Its monitoring agent can apply edits automatically, with sources attached and the option to roll back changes.\r\n\r\nMaven runs thousands of monitors across company and individual product websites, trade press, health technology assessment bodies, and patient advocacy groups worldwide. Teams use that intelligence to maintain competitive views, asset screens, and recurring briefs, in Maven or through connected AI assistants and custom workflows.",
+    "one_liner": "Live intelligence for biopharma teams.",
     "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -9449,7 +9449,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2024",
     "status": "Active",
@@ -11409,5 +11409,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/shiraz-ai",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/shiraz-ai.json"
+  },
+  {
+    "id": 35289,
+    "name": "ByteAsk",
+    "slug": "byteask",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6bcbfe2855ffcd587858880c19e9ea0940b81943.png",
+    "website": "https://byteask.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "ByteAsk is an AI coding agent built for C and C++, the code that runs trading systems, cars, chips, and operating systems. It does not stop at a diff that looks right. ByteAsk builds, debugs, and tests every change with the real toolchain until the change holds. If the compiler, the debugger, or the tests can catch it, then ByteAsk catches it too. It runs from the terminal or inside VS Code, Neovim, and Emacs, and is available fully on-prem.",
+    "one_liner": "The AI coding agent for C and C++",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1788984366,
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "SaaS",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/byteask",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/byteask.json"
   }
 ]

@@ -6029,7 +6029,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -10118,7 +10118,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc34887fced4f954a1a9fd60de7afd828c9a1d74.png",
     "website": "https://www.warpbuild.com",
-    "all_locations": "Sydney, NSW, Australia; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Accelerate software development with WarpBuild.\r\nGet 2x faster, up to 90% cheaper CI in 30 seconds using WarpBuild for Github Actions.",
     "one_liner": "Accelerate software development with WarpBuild's 10x faster CI infra.",
     "team_size": 8,
@@ -10143,8 +10143,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Australia",
-      "Oceania",
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -13612,7 +13612,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -22239,7 +22239,7 @@
       "Prism AI"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/973718be82b1053c971c2efe1c5263b785ae3711.png",
-    "website": "https://herm.run",
+    "website": "https://prisminference.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Prism is the easiest way to build and deploy a production AI Agent. \r\n\r\nStop harness-engineering or worrying about infra. Bring your system prompt, tools, MCP, and skills — get infrastructure, orchestration, memory, self learning, and more out of the box.",
     "one_liner": "Deploy AI Agents with a Single API Call",
@@ -22882,17 +22882,18 @@
   },
   {
     "id": 30634,
-    "name": "bitrig",
+    "name": "Bitrig",
     "slug": "bitrig",
     "former_names": [
       "Aurelia",
-      "BitRig"
+      "BitRig",
+      "bitrig"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d788bd53f3c4c9290a86f6020fb5c538f365fa00.png",
     "website": "https://bitrig.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Bitrig is the only vibe coder that writes native Swift, which is how the top mobile apps are coded. It's like Lovable for iPhone apps.\r\n\r\nKyle and Jacob are creators of SwiftUI, Apple's UI framework for building modern iOS apps, and led its development for the past 10 years. Tim was co-founder and designer of Storehouse, where he won an Apple Design Award and was later acquired by Square. \r\n\r\nDownload bitrig from the App Store:\r\nhttps://apps.apple.com/us/app/bitrig/id6747835910",
-    "one_liner": "Vibe code, test, and deploy Swift apps. All from your iPhone.",
+    "long_description": "Made by co-creators of SwiftUI, Bitrig is an AI development environment for Apple platforms. It works with real Xcode projects, features built-in simulators, and automates the App Store Connect busy work. You can add in-app purchase and publish to the App Store with just a prompt. Bring your own Claude or ChatGPT subscription.",
+    "one_liner": "Build and ship native Swift apps with AI",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -24414,7 +24415,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -26167,11 +26168,11 @@
     "name": "Graphify Labs",
     "slug": "graphify-labs",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0f86336cad3f47d72897d04916a12380f1f0094b.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/827fabd6e00bab1febd0feb00c906a6a3809b989.png",
     "website": "https://www.graphify.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Graphify builds a queryable knowledge graph from your codebase, docs, and Jira. The open-source engine has 105K+ GitHub stars and ~5M downloads, and is used in production by engineers at Rootly, Geotab, Tweddle Group, and Superagent.\r\n\r\nOn top of that graph, our enterprise layer reviews every pull request and formally verifies each code change: it proves the new behavior matches the old, or hands back the exact input that breaks it. That makes it built for the changes teams fear most, like refactors, framework upgrades, and large-scale code migrations, where you need proof that nothing broke, not a guess.\r\n\r\nThe graph updates itself as the code changes and keeps context instead of forgetting it, so your whole team and their coding agents work from one shared, always-current view of the codebase instead of a thousand private threads.\r\n\r\nIt runs entirely inside your perimeter, fully air-gapped on-premise or self-hosted in your own cloud, so no code or data ever leaves your environment.",
-    "one_liner": "On-device Knowledge Graph engine for Enterprise Codebases ",
+    "one_liner": "On-device Knowledge Graph engine for Enterprise Software",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -26630,6 +26631,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/onepatch",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/onepatch.json"
+  },
+  {
+    "id": 35289,
+    "name": "ByteAsk",
+    "slug": "byteask",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6bcbfe2855ffcd587858880c19e9ea0940b81943.png",
+    "website": "https://byteask.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "ByteAsk is an AI coding agent built for C and C++, the code that runs trading systems, cars, chips, and operating systems. It does not stop at a diff that looks right. ByteAsk builds, debugs, and tests every change with the real toolchain until the change holds. If the compiler, the debugger, or the tests can catch it, then ByteAsk catches it too. It runs from the terminal or inside VS Code, Neovim, and Emacs, and is available fully on-prem.",
+    "one_liner": "The AI coding agent for C and C++",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1788984366,
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "SaaS",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/byteask",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/byteask.json"
   },
   {
     "id": 35395,
