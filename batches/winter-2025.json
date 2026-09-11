@@ -2902,16 +2902,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2739d81dbffcc2b373478801ae236fbf5c3b86d0.png",
     "website": "https://okihome.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Oki Home is your digital home for all your personal memories and experiences. Using fully private local AI, it grows with you to understand and help you in your life.",
-    "one_liner": "The digital home for your personal memories",
+    "long_description": "Your life’s context, in one device. Oki Home is a memory computer that grows with you, with your data and personal AI on hardware you own.",
+    "one_liner": "The memory computer for your digital life.",
     "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "industry": "Consumer",
+    "subindustry": "Consumer",
     "launched_at": 1739303977,
     "tags": [
-      "SaaS",
-      "B2B",
-      "Enterprise",
+      "Hardware",
+      "Consumer",
       "AI"
     ],
     "tags_highlighted": [],
@@ -2921,8 +2920,7 @@
     "batch": "Winter 2025",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Engineering, Product and Design"
+      "Consumer"
     ],
     "regions": [
       "United States of America",
@@ -3133,7 +3131,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -5160,7 +5158,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e5465f36b202134eec8628c9e4cf35661e125dbd.png",
     "website": "https://miyagilabs.ai",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Miyagi Labs is an AI-powered exam preparation platform built to unlock human intelligence and democratize world-class education globally. We provide students with an elite AI tutor, hyper-personalized study analytics, and an infinite engine of rigorous practice material tailored to exam material.\r\n\r\nWe currently support major standardized exams across North America, Africa, and Asia, including the SAT, ACT, and NYC SHSAT (US), the UTME (Nigeria), the KCSE, KJSEA and KPSEA (Kenya), and the NEET and CAT (India).\r\n\r\nWe’re building the platform we wish we had when studying for exams. We envision a world where students anywhere can come to Miyagi to receive personalized, world-class AI tutoring designed to unlock their full potential.",
+    "long_description": "Miyagi Labs is an AI-powered exam preparation platform built to unlock human intelligence and democratize world-class education globally. We provide students with an elite AI tutor, hyper-personalized study analytics, and an infinite engine of rigorous practice material tailored to exam material.\r\n\r\nWe currently support major standardized exams across North America, Europe, Africa, and Asia, including the SAT, ACT, and NYC SHSAT (US), the UTME (Nigeria), the KCSE, KJSEA and KPSEA (Kenya), the NEET and CAT (India), and the YKS (Turkey).\r\n\r\nWe’re building the platform we wish we had when studying for exams. We envision a world where students anywhere can come to Miyagi to receive personalized, world-class AI tutoring designed to unlock their full potential.",
     "one_liner": "AI tutors for exam prep",
     "team_size": 2,
     "industry": "Education",
@@ -6590,21 +6588,22 @@
   },
   {
     "id": 30351,
-    "name": "Dex",
-    "slug": "joindex",
+    "name": "Thirdlayer",
+    "slug": "thirdlayer",
     "former_names": [
       "Dexterity",
       "Dex",
       "Dexterity AI",
       "Dexterity",
       "Dex",
-      "ThirdLayer"
+      "ThirdLayer",
+      "Dex"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aac79d12169377e5c2a4f0dfc5863cb25ef3beb7.png",
-    "website": "https://joindex.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e0d87f32109c76adfd7d671c77380aed15d429e2.png",
+    "website": "https://thirdlayer.inc",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "ThirdLayer is an applied research and product lab building the next interface for human–AI collaboration.\r\n\r\nOur first product is Dex, an AI copilot for the browser. Think Cursor for knowledge work, optimized for speed and embedded directly where you work.\r\n\r\nMost web agents are built for set-and-forget tasks. But real work is fluid and messy—spread across tabs, tools, and evolving decisions. Dex transforms your browser into an intelligent, multimodal workspace that understands your intent through voice, text, and action. It enhances familiar interfaces, automates tedious steps, and removes the friction of handoffs.\r\n\r\nBeneath the surface, Dex is more than a browser agent — it’s a foundation for:\r\n\r\n● Long-term, cross-modal memory grounded in real workflows\r\n● A new interaction layer to replace static UI with a collaborative canvas \r\n● Personalization: understanding how individuals approach tasks and navigate software\r\n\r\nWe're building the infrastructure for adaptive, intent-aware systems that work the way you do.",
-    "one_liner": "The AI Coworker in Chrome",
+    "long_description": "ThirdLayer is the learning and alignment layer for enterprise AI. We continuously ingest and structure messy organizational context, complex operational processes, and siloed, permission-sensitive data, then grade agents against the outcomes each company cares about. Every interaction becomes feedback that helps agents improve over time.\r\n\r\nCompanies use ThirdLayer to power their internal agents or embed it into the AI products they’re building. We give agents the context, evaluations, and learning loops they need to stay aligned with each organization and deliver better outcomes with every run.",
+    "one_liner": "Continual learning for enterprise AI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -6634,8 +6633,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/joindex",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/joindex.json"
+    "url": "https://www.ycombinator.com/companies/thirdlayer",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/thirdlayer.json"
   },
   {
     "id": 30353,

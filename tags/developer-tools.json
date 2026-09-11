@@ -12190,7 +12190,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -16293,7 +16293,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
-    "status": "Acquired",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -18360,20 +18360,20 @@
     "former_names": [
       "Haystack Software"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd48721d6c682c48e30cb675f7793656d5a02a9f.png",
-    "website": "https://tryhaystack.dev/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/988853e97230d398301aa8250ff990964f2f4620.png",
+    "website": "https://haystack.sh/",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Haystack helps engineering teams manage the growing volume of AI-generated pull requests.\r\n\r\nCoding agents make it much easier to produce code, but they also create a new problem: teams now have more changes to review, many of them larger, more frequent, and harder to trust at a glance.\r\n\r\nHaystack sits on top of GitHub and acts as the control layer for AI-generated code changes. For every pull request, it looks at the codebase, the diff, the agent trace, the author’s intent, and any verification evidence like tests, logs, commands, or screenshots.\r\n\r\nThen Haystack decides what should happen next: whether the change can move forward, needs fixes, or should be reviewed by a human.\r\n\r\nTeams use Haystack to keep code moving without turning review into rubber-stamping. It helps them merge more code, focus human attention on the changes that actually need judgment, and maintain quality as AI-generated work becomes a bigger part of development.",
-    "one_liner": "The agent-native control layer for code changes",
+    "long_description": "Haystack automatically learns real customer journeys from production traffic, figures out which ones a code change could affect, and replays them in isolated copies of production to catch regressions before they ship.\r\n\r\nWhen something breaks, Haystack shows exactly what changed across the UI, network calls, and events, then gives the failure back to your coding agent to fix and rerun. Teams get high-fidelity QA without having to write or maintain test cases.",
+    "one_liner": "Replay real customer journeys against every change before you ship",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1722315932,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Productivity",
-      "AI"
+      "Productivity"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21520,17 +21520,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be01ab7ec03dfffcf2a6f87ab306a19bf22fe64b.png",
     "website": "https://www.embedder.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Embedder is an AI agent for embedded software. It reads your datasheets and schematics, writes the code, flashes the board, runs the tests, and fixes its own mistakes. Testing is hardware-in-the-loop: Embedder drives the equipment your team already owns (debug probes, logic analyzers, power profilers, oscilloscopes) and validates firmware on real silicon, not just against a compiler. Embedder works with some of the top semiconductor ecosystems in the world, supporting 500+ MCUs and 3,000+ peripherals.",
-    "one_liner": "Hardware-Aware AI for Embedded Software Development",
+    "long_description": "Building AI agents for autonomous embedded software development.",
+    "one_liner": "The Enterprise AI Platform for Embedded Software",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1752258104,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Hardware",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -22474,9 +22474,9 @@
     "tags": [
       "Artificial Intelligence",
       "Developer Tools",
-      "B2B",
+      "Analytics",
       "Infrastructure",
-      "AI"
+      "Monitoring"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -23115,7 +23115,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5ec540989c0e572731406bc02714d7608e407cc3.png",
     "website": "https://godhands.dev",
-    "all_locations": "Bengaluru, KA, India; Remote",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "GodHands is building a living knowledge base for engineering teams, turning the code, docs, and decisions across your stack into a single source of truth that stays accurate as you grow.",
     "one_liner": "The company knowledge base that updates itself",
     "team_size": 2,
@@ -23138,10 +23138,10 @@
       "B2B"
     ],
     "regions": [
-      "India",
-      "South Asia",
+      "United States of America",
+      "America / Canada",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -23561,7 +23561,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d863d3cf6091c132bb3f8d22d57b3597bc971de.png",
     "website": "https://jcode.sh/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "An agent is LLM + harness: We work purely on that second component. We do research to produce the most capable harness. Our harness has 18k stars on github",
+    "long_description": "An agent is LLM + harness: We work purely on that second component. We do research and engineering to produce the most capable and efficient harness. Our harness has 20k stars on , and has $1m/month of inference spend",
     "one_liner": "The harness company",
     "team_size": 1,
     "industry": "Consumer",
@@ -23814,7 +23814,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/827fabd6e00bab1febd0feb00c906a6a3809b989.png",
     "website": "https://www.graphify.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Graphify builds a queryable knowledge graph from your codebase, docs, and Jira. The open-source engine has 105K+ GitHub stars and ~5M downloads, and is used in production by engineers at Rootly, Geotab, Tweddle Group, and Superagent.\r\n\r\nOn top of that graph, our enterprise layer reviews every pull request and formally verifies each code change: it proves the new behavior matches the old, or hands back the exact input that breaks it. That makes it built for the changes teams fear most, like refactors, framework upgrades, and large-scale code migrations, where you need proof that nothing broke, not a guess.\r\n\r\nThe graph updates itself as the code changes and keeps context instead of forgetting it, so your whole team and their coding agents work from one shared, always-current view of the codebase instead of a thousand private threads.\r\n\r\nIt runs entirely inside your perimeter, fully air-gapped on-premise or self-hosted in your own cloud, so no code or data ever leaves your environment.",
+    "long_description": "Graphify is a Knowledge Graph control plane for enterprise software. The open-source tool has 116K+ GitHub stars and 6.5M+ downloads, and is used in production by engineers at Shopify, Datadog, JP Morgan, American Express, Harvey, Automation Anywhere, and Vanguard.\r\n\r\nOn top of that graph, our enterprise layer reviews every pull request and formally verifies each code change: it proves the new behavior matches the old, or hands back the exact input that breaks it. That makes it built for the changes teams fear most, like refactors, framework upgrades, and large-scale migrations, where you need proof that nothing broke, not a guess.\r\n\r\nThe graph updates itself as the code changes and keeps context instead of forgetting it, so your whole team and their coding agents work from one shared, always-current view of the codebase instead of a thousand private threads.\r\n\r\nIt runs entirely inside your perimeter, fully air-gapped on-premise or self-hosted in your own cloud, so no code or data ever leaves your environment.",
     "one_liner": "On-device Knowledge Graph engine for Enterprise Software",
     "team_size": 1,
     "industry": "B2B",
@@ -24323,6 +24323,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ascii",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/ascii.json"
+  },
+  {
+    "id": 35258,
+    "name": "Mirrors",
+    "slug": "mirrors",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e98a564b21ba044528e16126406d35b7464044b7.png",
+    "website": "https://www.runmirrors.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Mirrors provides regression testing for AI agents.\r\n\r\nTeams shipping agents constantly change prompts, models, and tools, and there's no way to test any of it. Agents call bespoke internal tools and APIs no test framework can reproduce, so most teams ship on vibes.\r\n\r\nMirrors rebuilds the tools your agent calls from your own production traces, then replays real sessions against every change before it merges. You see which tool calls changed, which arguments moved, and where state landed differently. And when something fails, we tell you whether your agent regressed or something upstream moved.\r\n\r\nBuilt for teams whose agents take irreversible actions. Refunds, record updates, outbound email.\r\n\r\nRuns in your CI on every PR.",
+    "one_liner": "Catch and fix AI agent regressions before they reach production",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1789011304,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "B2B",
+      "DevOps",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mirrors",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/mirrors.json"
   },
   {
     "id": 35289,

@@ -2170,7 +2170,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -7452,20 +7452,20 @@
     "former_names": [
       "Haystack Software"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd48721d6c682c48e30cb675f7793656d5a02a9f.png",
-    "website": "https://tryhaystack.dev/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/988853e97230d398301aa8250ff990964f2f4620.png",
+    "website": "https://haystack.sh/",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Haystack helps engineering teams manage the growing volume of AI-generated pull requests.\r\n\r\nCoding agents make it much easier to produce code, but they also create a new problem: teams now have more changes to review, many of them larger, more frequent, and harder to trust at a glance.\r\n\r\nHaystack sits on top of GitHub and acts as the control layer for AI-generated code changes. For every pull request, it looks at the codebase, the diff, the agent trace, the author’s intent, and any verification evidence like tests, logs, commands, or screenshots.\r\n\r\nThen Haystack decides what should happen next: whether the change can move forward, needs fixes, or should be reviewed by a human.\r\n\r\nTeams use Haystack to keep code moving without turning review into rubber-stamping. It helps them merge more code, focus human attention on the changes that actually need judgment, and maintain quality as AI-generated work becomes a bigger part of development.",
-    "one_liner": "The agent-native control layer for code changes",
+    "long_description": "Haystack automatically learns real customer journeys from production traffic, figures out which ones a code change could affect, and replays them in isolated copies of production to catch regressions before they ship.\r\n\r\nWhen something breaks, Haystack shows exactly what changed across the UI, network calls, and events, then gives the failure back to your coding agent to fix and rerun. Teams get high-fidelity QA without having to write or maintain test cases.",
+    "one_liner": "Replay real customer journeys against every change before you ship",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1722315932,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Productivity",
-      "AI"
+      "Productivity"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7754,21 +7754,21 @@
     "former_names": [
       "Zimi"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/698f27f60b4751de0476e3eb409c1e55b062eb40.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8a6a1e68ab0e8a242ed2d89b4af36673b59f155d.png",
     "website": "https://www.itshandled.ai",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Post-order operations are one of the least automated parts of e-commerce. After an order is placed, teams still spend their days tracking shipments, chasing exceptions, processing returns, adjusting invoices, and answering “Can you check this?” requests. This manual busywork lives outside core systems and scales linearly with order volume, forcing brands and 3PLs to keep adding headcount as they scale.\r\n\r\nHandled is an operations automation platform for e-commerce brands and the 3PLs that run their order fulfillment. We execute the manual work that happens after an order is placed by unifying post-order data across commerce, warehouse, carrier, and support systems.\r\nHandled gives teams real-time visibility across orders, shipments, returns, and inventory in one system — eliminating the need to dig through disconnected tools or react only after customers complain. When issues occur, Handled automatically executes the follow-up work, such as resolving shipment delays, processing returns, filing claims, or making order and billing adjustments, without manual back-and-forth.\r\n\r\nBy combining visibility, issue detection, and automated execution in a single AI-powered operational layer, Handled replaces manual coordination with software-driven post-order operations in a large, recurring market tied directly to e-commerce volume.",
-    "one_liner": "Automating post-order operations for e-commerce brands and 3PLs",
-    "team_size": 2,
+    "long_description": "Consumer brands run finance and operations across ERPs, commerce platforms, 3PLs, accounting systems, email, and spreadsheets. Because these systems do not share context or complete work, teams still spend hours assembling reports, reconciling numbers, entering orders, monitoring inventory, processing invoices, and chasing exceptions. Problems are often discovered only after they have cost the business time, margin, or revenue.\r\n\r\nHandled is an AI teammate for finance and operations. It connects to the systems and unstructured information a brand already uses and learns its data, rules, and workflows. Handled answers questions about the business, proactively catches issues, and takes on recurring manual work across financial reporting, inventory, procurement, wholesale order-to-cash, and AP/AR. It works across systems and brings a person in when judgment or approval is required.\r\n\r\nHandled gives lean teams more operating capacity without adding another tool to manage, more outsourced support, or more headcount.\r\n",
+    "one_liner": "AI teammate for finance and operations teams at consumer brands",
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Retail",
     "launched_at": 1719423480,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Workflow Automation",
       "Logistics",
-      "E-commerce"
+      "E-commerce",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -8951,11 +8951,11 @@
     "subindustry": "Fintech",
     "launched_at": 1718839098,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "B2B",
       "Legal",
-      "Consumer Finance"
+      "Consumer Finance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

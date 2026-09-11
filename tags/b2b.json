@@ -26400,7 +26400,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -28363,7 +28363,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -36655,20 +36655,20 @@
     "former_names": [
       "Model AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d8ddf0e7dc8427a9d923647c11b57a6c3f2be032.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9534078fe1346cc9c5c1cef87076db8b67768589.png",
     "website": "https://www.modelml.com/",
     "all_locations": "London, England, United Kingdom",
     "long_description": "Team:\r\nChaz: Founder of Fat Llama YC S17 - Acquired by Hygglo. Responsible for Business and Sales \r\nArns: Founder of Fancy S20 - Acquired by Gopuff, Responsible for tech and product. ",
-    "one_liner": "AI Workspace for Financial Services.",
-    "team_size": 80,
+    "one_liner": "The AI for Financial Services.",
+    "team_size": 180,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1700480676,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Finance",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -39496,20 +39496,20 @@
     "former_names": [
       "Haystack Software"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd48721d6c682c48e30cb675f7793656d5a02a9f.png",
-    "website": "https://tryhaystack.dev/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/988853e97230d398301aa8250ff990964f2f4620.png",
+    "website": "https://haystack.sh/",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Haystack helps engineering teams manage the growing volume of AI-generated pull requests.\r\n\r\nCoding agents make it much easier to produce code, but they also create a new problem: teams now have more changes to review, many of them larger, more frequent, and harder to trust at a glance.\r\n\r\nHaystack sits on top of GitHub and acts as the control layer for AI-generated code changes. For every pull request, it looks at the codebase, the diff, the agent trace, the author’s intent, and any verification evidence like tests, logs, commands, or screenshots.\r\n\r\nThen Haystack decides what should happen next: whether the change can move forward, needs fixes, or should be reviewed by a human.\r\n\r\nTeams use Haystack to keep code moving without turning review into rubber-stamping. It helps them merge more code, focus human attention on the changes that actually need judgment, and maintain quality as AI-generated work becomes a bigger part of development.",
-    "one_liner": "The agent-native control layer for code changes",
+    "long_description": "Haystack automatically learns real customer journeys from production traffic, figures out which ones a code change could affect, and replays them in isolated copies of production to catch regressions before they ship.\r\n\r\nWhen something breaks, Haystack shows exactly what changed across the UI, network calls, and events, then gives the failure back to your coding agent to fix and rerun. Teams get high-fidelity QA without having to write or maintain test cases.",
+    "one_liner": "Replay real customer journeys against every change before you ship",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1722315932,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Productivity",
-      "AI"
+      "Productivity"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -39626,21 +39626,21 @@
     "former_names": [
       "Zimi"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/698f27f60b4751de0476e3eb409c1e55b062eb40.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8a6a1e68ab0e8a242ed2d89b4af36673b59f155d.png",
     "website": "https://www.itshandled.ai",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Post-order operations are one of the least automated parts of e-commerce. After an order is placed, teams still spend their days tracking shipments, chasing exceptions, processing returns, adjusting invoices, and answering “Can you check this?” requests. This manual busywork lives outside core systems and scales linearly with order volume, forcing brands and 3PLs to keep adding headcount as they scale.\r\n\r\nHandled is an operations automation platform for e-commerce brands and the 3PLs that run their order fulfillment. We execute the manual work that happens after an order is placed by unifying post-order data across commerce, warehouse, carrier, and support systems.\r\nHandled gives teams real-time visibility across orders, shipments, returns, and inventory in one system — eliminating the need to dig through disconnected tools or react only after customers complain. When issues occur, Handled automatically executes the follow-up work, such as resolving shipment delays, processing returns, filing claims, or making order and billing adjustments, without manual back-and-forth.\r\n\r\nBy combining visibility, issue detection, and automated execution in a single AI-powered operational layer, Handled replaces manual coordination with software-driven post-order operations in a large, recurring market tied directly to e-commerce volume.",
-    "one_liner": "Automating post-order operations for e-commerce brands and 3PLs",
-    "team_size": 2,
+    "long_description": "Consumer brands run finance and operations across ERPs, commerce platforms, 3PLs, accounting systems, email, and spreadsheets. Because these systems do not share context or complete work, teams still spend hours assembling reports, reconciling numbers, entering orders, monitoring inventory, processing invoices, and chasing exceptions. Problems are often discovered only after they have cost the business time, margin, or revenue.\r\n\r\nHandled is an AI teammate for finance and operations. It connects to the systems and unstructured information a brand already uses and learns its data, rules, and workflows. Handled answers questions about the business, proactively catches issues, and takes on recurring manual work across financial reporting, inventory, procurement, wholesale order-to-cash, and AP/AR. It works across systems and brings a person in when judgment or approval is required.\r\n\r\nHandled gives lean teams more operating capacity without adding another tool to manage, more outsourced support, or more headcount.\r\n",
+    "one_liner": "AI teammate for finance and operations teams at consumer brands",
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Retail",
     "launched_at": 1719423480,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Workflow Automation",
       "Logistics",
-      "E-commerce"
+      "E-commerce",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -39854,11 +39854,11 @@
     "subindustry": "Fintech",
     "launched_at": 1718839098,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "B2B",
       "Legal",
-      "Consumer Finance"
+      "Consumer Finance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -41642,48 +41642,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/salespatriot.json"
   },
   {
-    "id": 30242,
-    "name": "Oki",
-    "slug": "oki",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2739d81dbffcc2b373478801ae236fbf5c3b86d0.png",
-    "website": "https://okihome.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Oki Home is your digital home for all your personal memories and experiences. Using fully private local AI, it grows with you to understand and help you in your life.",
-    "one_liner": "The digital home for your personal memories",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1739303977,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Enterprise",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/oki",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/oki.json"
-  },
-  {
     "id": 30252,
     "name": "Cuckoo Labs",
     "slug": "cuckoo-labs",
@@ -43462,7 +43420,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -44438,17 +44396,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be01ab7ec03dfffcf2a6f87ab306a19bf22fe64b.png",
     "website": "https://www.embedder.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Embedder is an AI agent for embedded software. It reads your datasheets and schematics, writes the code, flashes the board, runs the tests, and fixes its own mistakes. Testing is hardware-in-the-loop: Embedder drives the equipment your team already owns (debug probes, logic analyzers, power profilers, oscilloscopes) and validates firmware on real silicon, not just against a compiler. Embedder works with some of the top semiconductor ecosystems in the world, supporting 500+ MCUs and 3,000+ peripherals.",
-    "one_liner": "Hardware-Aware AI for Embedded Software Development",
+    "long_description": "Building AI agents for autonomous embedded software development.",
+    "one_liner": "The Enterprise AI Platform for Embedded Software",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1752258104,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Hardware",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -44828,8 +44786,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd88161755dbb4d7513a2dc91e69b26930313524.png",
     "website": "https://os3robotics.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "OS3 deploys US-built mobile semi humanoid robots for repetitive physical work.\r\n\r\nWe designed the robot, custom actuators, model and control stack as one system, then pretrained the model exclusively on 150,000 hours of video data spanning more than 2,000 tasks. Hospitality is our first deployment vertical. Through our Startup Partner program, teams are deploying OS3 robots in biotech, hospitals and data centers.\r\n\r\nOur two-person team built 3 robots and trained its first model in four months. We are making American robotics accessible to more businesses.",
-    "one_liner": "Deploying US-Built Humanoid Robots & Training Video Action Models",
+    "long_description": "OS3 is building the platform that makes intelligent robots accessible to every business.\r\n\r\nToday, robotics is constrained by two fundamental bottlenecks: hardware is too expensive to deploy at scale, and robots are difficult to train because high-quality robotics data is scarce and costly to collect. \r\n\r\nWe built OS3 to solve both.\r\n\r\nOur two-person team designed and a US-made mobile humanoid robot for a fraction of the cost of commercial alternatives. On the intelligence side, instead of relying on expensive robot-generated training data, we trained our own video-action model on 150,000 hours of real-world video spanning more than 2,000 tasks. Every deployed robot feeds new experience into our reinforcement learning pipeline, self improving robot fleet over time.\r\n\r\nThis creates a robot that can be deployed across industries to automate repetitive, physical work without requiring a new robot or training pipeline for every task. Our robots are already deployed in hotels, with customers now expanding the platform into biotech, hospitals, and data centers, including a wet lab at Stanford.\r\n\r\nOur mission is to do for robotics what Apple did for personal computing: take technology that was once expensive, specialized, and inaccessible and make it powerful and usable at massive scale. We’re building toward a world with billions of intelligent robots, and OS3 is the platform that makes that possible.",
+    "one_liner": "Affordable, intelligent humanoid robots built to deploy at scale",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -46411,49 +46369,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/automax-ai.json"
   },
   {
-    "id": 30969,
-    "name": "Lemma",
-    "slug": "uselemma",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/335dca5772b36d447d2e1c9b0f730539813d1846.png",
-    "website": "https://www.uselemma.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lemma catches the silent, semantic failures your observability tools miss, where your AI agent looks like it worked but didn’t. We scan every trace to surface issues before users complain, identify root causes, and help you fix them without manual digging, so your agents improve over time.",
-    "one_liner": "Production Monitoring for AI agents",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1761703288,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "B2B",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/uselemma",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/uselemma.json"
-  },
-  {
     "id": 30982,
     "name": "Boom AI",
     "slug": "boom-ai",
@@ -46554,7 +46469,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Specific builds enterprise environments and datasets representative of work inside real-world businesses. The next frontier of AGI is bottlenecked by data that is hard to access, and we make that easier.",
     "one_liner": "Real World Environments and Data for AI",
-    "team_size": 2,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1757825190,
@@ -47155,7 +47070,7 @@
     "website": "https://www.pingdream.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Dream makes AI cameras that catch damage teams miss. Car dealerships, equipment rental companies, fleets, and more move expensive assets in and out all day, and undocumented damage is a costly leak.\r\n\r\nDream cameras are simple to set up and work automatically. Each vehicle or machine that passes is photographed from every angle, identified, and reconstructed into a complete condition record. On return or intake, Dream instantly flags new dents, scrapes, and changes your team might miss, giving one source of truth for every asset's condition over time.\r\n\r\nRyland worked at X/xAI and built aerial damage-detection vision at Vexcel Imaging. Alexander worked at AWS and trained edge-camera models deployed in the wild across Africa and India to detect poachers.",
-    "one_liner": "Using VLMs to Catch Real World Damage",
+    "one_liner": "Using VLMs to Catch Damage",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -47595,7 +47510,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/70f52c907fab24ab4f95aa200a11907c5bc3896f.png",
     "website": "https://textsidekick.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sidekick is an AI agent that manages manufacturing operations over text. Workers text problems, photos, or voice memos in any language; it answers from the company's own documents, creates and routes the work order, and syncs with the software the company already runs. No app, no login, works on any phone. It watches connected machine data and texts the right worker the moment something starts drifting, before it becomes downtime. And it compounds: most of the industrial world runs on undocumented knowledge, and Sidekick is the first thing that documents it as a byproduct of the work itself. Every interaction contributes to a searchable knowledge base the company owns, so tribal knowledge stops walking out the door when veterans retire.",
+    "long_description": "Sidekick is an AI agent that runs custom manufacturing operations over text. Workers text a problem, photo, video, or voice memo and get an answer from the shop's own documents. It reads live machine data and acts on its own: flagging issues before they become downtime, opening and routing work orders, and placing purchase orders. No app, no login.\r\n\r\nThese shops run on tribal knowledge: a handful of veterans know how every job is set up, and they are retiring. Sidekick learns from every message it handles, so answers outlive the people who gave them, and shops run 15% more jobs with the same crew. Sidekick captures it as a byproduct of the work, in an industry that was never documented.",
     "one_liner": "AI agent that manages manufacturing operations over text",
     "team_size": 1,
     "industry": "B2B",
@@ -48369,7 +48284,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7df204d91879e8e730b8993b754b3d35b87106e.png",
     "website": "https://www.dialoguslabs.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Dialogus builds voice agent infrastructure for enterprises.\r\n\r\nMost companies can demo an AI voice agent, but getting one into production is hard. Enterprise agents need to connect to phone systems, internal tools, databases, CRMs, messaging channels, human escalation flows, monitoring, and compliance processes.\r\n\r\nDialogus provides the infrastructure to deploy production-grade voice agents that don’t just talk but complete real workflows. Our platform lets enterprises launch agents that collect information, validate it against internal systems, update records, send follow-up messages, and escalate edge cases to humans.",
+    "long_description": "Dialogus builds self-improving AI voice agents for enterprise operations.\r\n\r\nOur agents handle high-volume workflows across customer support, sales, collections, and other operational functions, integrating directly with the systems enterprises already use.\r\n\r\nOur agents continuously learn from real conversations and business outcomes: identifying where interactions fail, proposing improvements, testing those changes across thousands of simulated conversations, and deploying better versions with human oversight.\r\n\r\nThe result is AI that doesn’t just automate calls, it gets better at doing the job over time.",
     "one_liner": "The AI-native contact center",
     "team_size": 3,
     "industry": "B2B",
@@ -48703,7 +48618,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d7ab9b902afa3fe0a37b3622022557a9cd82d082.png",
     "website": "https://whitespacehq.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Whitespace is the AI operating system for wholesale distribution. We give wholesale distributors self-improving AI agents that learn their business and do work like inventory planning, customer service, and order processing.",
+    "long_description": "Whitespace builds AI agents that run the entire operation of supply chain businesses, starting with wholesale distributors. We give them self-improving AI agents that learn their business and do work like inventory planning and customer service.",
     "one_liner": "AI Operating System for Wholesale Distribution",
     "team_size": 2,
     "industry": "B2B",
@@ -49749,18 +49664,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3523399de943bf46e546a3bb703261d27fd2fa69.png",
     "website": "https://www.tryopentag.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "OpenTag - is an AI coworker that lives in your Slack and Teams. It has full context on your company, so it can answer questions, join calls, and take real work off your team's plate. OpenTag also keeps your company wiki and knowledge base up to date automatically, so your team's knowledge never goes stale or walks out the door.",
-    "one_liner": "Model Agnostic Claude Tag",
+    "long_description": "OpenTag is an AI coworker in your Slack with full context on your company. It answers questions and takes real work off your plate. It also keeps your wiki up to date automatically, so knowledge never goes stale.",
+    "one_liner": "Model Agnostic AI coworker in Slack",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1787093671,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "B2B",
       "Workflow Automation",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49822,6 +49737,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/useforward",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/useforward.json"
+  },
+  {
+    "id": 35258,
+    "name": "Mirrors",
+    "slug": "mirrors",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e98a564b21ba044528e16126406d35b7464044b7.png",
+    "website": "https://www.runmirrors.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Mirrors provides regression testing for AI agents.\r\n\r\nTeams shipping agents constantly change prompts, models, and tools, and there's no way to test any of it. Agents call bespoke internal tools and APIs no test framework can reproduce, so most teams ship on vibes.\r\n\r\nMirrors rebuilds the tools your agent calls from your own production traces, then replays real sessions against every change before it merges. You see which tool calls changed, which arguments moved, and where state landed differently. And when something fails, we tell you whether your agent regressed or something upstream moved.\r\n\r\nBuilt for teams whose agents take irreversible actions. Refunds, record updates, outbound email.\r\n\r\nRuns in your CI on every PR.",
+    "one_liner": "Catch and fix AI agent regressions before they reach production",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1789011304,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "B2B",
+      "DevOps",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mirrors",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/mirrors.json"
   },
   {
     "id": 35395,
@@ -49904,5 +49862,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/vorelios",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/vorelios.json"
+  },
+  {
+    "id": 38127,
+    "name": "DeepMark",
+    "slug": "deepmark",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c443c87dd89559f3656ebd3f92b941ded93ff4dd.png",
+    "website": "https://www.deepmark.me",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "DeepMark is the authentication layer for AI voice. When an AI agent speaks, we embed a compact, machine-readable ID directly into the audio, not in metadata, which gets stripped the moment a file is touched. The ID resolves to a trust record, so a bank, a call center, or the person on the line can verify in real time who the agent is.",
+    "one_liner": "A live watermark inside AI voice that survives phone calls",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1789029188,
+    "tags": [
+      "Deep Learning",
+      "B2B",
+      "Cybersecurity"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/deepmark",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/deepmark.json"
   }
 ]

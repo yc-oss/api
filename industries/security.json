@@ -653,7 +653,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -2862,7 +2862,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -5213,5 +5213,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/onecli",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/onecli.json"
+  },
+  {
+    "id": 38127,
+    "name": "DeepMark",
+    "slug": "deepmark",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c443c87dd89559f3656ebd3f92b941ded93ff4dd.png",
+    "website": "https://www.deepmark.me",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "DeepMark is the authentication layer for AI voice. When an AI agent speaks, we embed a compact, machine-readable ID directly into the audio, not in metadata, which gets stripped the moment a file is touched. The ID resolves to a trust record, so a bank, a call center, or the person on the line can verify in real time who the agent is.",
+    "one_liner": "A live watermark inside AI voice that survives phone calls",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1789029188,
+    "tags": [
+      "Deep Learning",
+      "B2B",
+      "Cybersecurity"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/deepmark",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/deepmark.json"
   }
 ]
