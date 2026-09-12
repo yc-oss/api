@@ -11996,10 +11996,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2024",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "Industrials",
       "Automotive"
@@ -16576,13 +16576,19 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5849b2060564f1836d25c1fa4a3cd18ef1bf9553.png",
     "website": "https://www.tenetindustries.com",
     "all_locations": "Stockholm, Stockholm County, Sweden",
-    "long_description": "Tenet Industries is building low-cost mass-producible defense systems, starting with attack drones.\r\n\r\nWe're using design-for-manufacturing and first principles to reimagine how a defense product is developed and manufactured. We begin with the manufacturing, then solve all the inefficiencies and difficulties in the firmware/software. This allows us to hyperscale production in multiple defense categories such as strike drones, loitering munitions, jammers, radars, etc.\r\n\r\nOur first product is a kamikaze quadcopter. It assembles in two minutes and has half the parts to comparable systems.",
-    "one_liner": "Low-cost, mass-producible defense systems",
+    "long_description": "Tenet Industries is building AI-automated factories for manufacturing of PCBAs.\r\n\r\nWe're using AI and robotics to build a factory in München for instant-quote, fast-turnaround PCBA manufacturing and electronic manufacturing services.",
+    "one_liner": "AI-automated PCB assembly factories",
     "team_size": 3,
     "industry": "Industrials",
-    "subindustry": "Industrials -> Defense",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1775173231,
-    "tags": [],
+    "tags": [
+      "Hardware",
+      "Manufacturing",
+      "Automation",
+      "Electronics",
+      "Industrial"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -16591,7 +16597,7 @@
     "status": "Active",
     "industries": [
       "Industrials",
-      "Defense"
+      "Manufacturing and Robotics"
     ],
     "regions": [
       "Sweden",
@@ -19264,6 +19270,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/talos-us",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/talos-us.json"
+  },
+  {
+    "id": 35224,
+    "name": "Micora",
+    "slug": "micora",
+    "former_names": [
+      "Micora Energy"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7fc1316658ceceb944d2c372912cac6b6db9e5ec.png",
+    "website": "https://micora.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Micora is a next-generation robotic energy developer that compresses the timeline from initial design to power generation from years to weeks. Our vertically integrated platform combines purpose-built robotic hardware with proprietary modular energy systems, enabling critical power infrastructure to be designed, manufactured, and deployed at unprecedented speed.\r\n\r\nTraditional energy projects are slow, costly, and built around processes that were never designed for today’s rapidly growing power demands. Micora is rebuilding energy development from the ground up; transforming what has historically been a bespoke, multi-year construction process into a repeatable and scalable manufacturing system.\r\n\r\nAs demand from data centers, advanced manufacturing, and electrification strains existing power infrastructure, the ability to deploy new generation quickly is becoming increasingly valuable. Micora is building the infrastructure platform needed to deliver power wherever and whenever it is needed.",
+    "one_liner": "Solar farm in a box built anywhere in days",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Energy",
+    "launched_at": 1789148682,
+    "tags": [
+      "Energy Storage",
+      "Robotics",
+      "Solar Power",
+      "Construction"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Energy"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/micora",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/micora.json"
   },
   {
     "id": 35290,

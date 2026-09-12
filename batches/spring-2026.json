@@ -293,7 +293,7 @@
     "all_locations": "London, England, United Kingdom",
     "long_description": "Prism is an AI-native recruiting agency. We use software and agents to find companies better people faster.\r\n\r\n",
     "one_liner": "AI-native recruiting agency",
-    "team_size": 4,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1762295048,
@@ -2131,13 +2131,19 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5849b2060564f1836d25c1fa4a3cd18ef1bf9553.png",
     "website": "https://www.tenetindustries.com",
     "all_locations": "Stockholm, Stockholm County, Sweden",
-    "long_description": "Tenet Industries is building low-cost mass-producible defense systems, starting with attack drones.\r\n\r\nWe're using design-for-manufacturing and first principles to reimagine how a defense product is developed and manufactured. We begin with the manufacturing, then solve all the inefficiencies and difficulties in the firmware/software. This allows us to hyperscale production in multiple defense categories such as strike drones, loitering munitions, jammers, radars, etc.\r\n\r\nOur first product is a kamikaze quadcopter. It assembles in two minutes and has half the parts to comparable systems.",
-    "one_liner": "Low-cost, mass-producible defense systems",
+    "long_description": "Tenet Industries is building AI-automated factories for manufacturing of PCBAs.\r\n\r\nWe're using AI and robotics to build a factory in München for instant-quote, fast-turnaround PCBA manufacturing and electronic manufacturing services.",
+    "one_liner": "AI-automated PCB assembly factories",
     "team_size": 3,
     "industry": "Industrials",
-    "subindustry": "Industrials -> Defense",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1775173231,
-    "tags": [],
+    "tags": [
+      "Hardware",
+      "Manufacturing",
+      "Automation",
+      "Electronics",
+      "Industrial"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -2146,7 +2152,7 @@
     "status": "Active",
     "industries": [
       "Industrials",
-      "Defense"
+      "Manufacturing and Robotics"
     ],
     "regions": [
       "Sweden",
@@ -3586,15 +3592,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Enterprise software implementation is broken,  and it has been for decades. \r\nEvery rollout, whether it's a traditional ERP or a new AI system, requires months of manual integration, configuration, and tuning done by armies of system integrators and forward-deployed engineers. \r\nLab0 builds agentic systems that automate this layer, compressing months-long implementations into weeks.",
     "one_liner": "AI FDEs to make your B2B SaaS Go Live in Days, not Months",
-    "team_size": 3,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1775188246,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Enterprise",
-      "AI"
+      "Enterprise"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3607,9 +3613,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4379,7 +4383,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2026",
     "status": "Active",
@@ -4455,7 +4459,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Minicor connects AI startups to legacy desktop apps that have no API. Reliably, quickly and at scale.\r\n\r\nDescribe a workflow and get an API endpoint. Each call triggers a self-healing desktop automation on a Windows VM. On-prem, cloud, or Citrix. Build through your coding agent via our MCP.\r\n\r\nComplete with the observability tools to manage your customer relationship: full video replay of every automation, granular logging, and slack enabled alerts.",
     "one_liner": "Scalable windows desktop automations",
-    "team_size": 7,
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1772756028,

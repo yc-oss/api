@@ -3152,7 +3152,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -5567,52 +5567,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2021/cyble.json"
   },
   {
-    "id": 22787,
-    "name": "Expent Inc",
-    "slug": "expent-inc",
-    "former_names": [
-      "Expent"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a78fb173a701d08d55012208b7663e2dd99cb2be.png",
-    "website": "https://www.expent.ai/",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Expent is a marketplace that accelerates software procurement for teams, while giving organizations control over the entire purchasing process.",
-    "one_liner": "Procure the right software 5x faster",
-    "team_size": 10,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1615171972,
-    "tags": [
-      "Machine Learning",
-      "SaaS",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2021",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/expent-inc",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/expent-inc.json"
-  },
-  {
     "id": 22790,
     "name": "Version Story Compare",
     "slug": "version-story-compare",
@@ -7745,8 +7699,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0da6fd5bf7648bc26ba469b7a2a03b08186196dd.png",
     "website": "https://www.oneschema.co",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "OneSchema provides AI agents for data operations that automate data prep, driving efficiency and improving client project margins. By standardizing raw client files to your RFIs, OneSchema helps teams reach insights and deliver results faster.",
-    "one_liner": "AI Agents for Data Operations",
+    "long_description": "OneSchema Studio brings AI Cowork into your private cloud. Teams can clean and validate massive datasets at 1,000x the scale of generic AI tools - data never leaves your network, you pick the AI model, and proven work becomes a skill your whole team can reuse. It self-hosts natively on AWS, Azure, or GCP, gives you granular, role-based control over who can touch what data, and connects directly to the systems you already run - from Salesforce and Workday to SAP and Snowflake.",
+    "one_liner": "The AI Cowork for big data",
     "team_size": 20,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
@@ -13125,7 +13079,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -21999,6 +21953,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/spur.json"
   },
   {
+    "id": 29499,
+    "name": "Forge",
+    "slug": "forge",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a8698407a8cb5928c428073e83afe6e5668d63c.png",
+    "website": "https://www.forgehq.com/",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "Forge manages international logistics for business around the world. We’re an AI native freight forwarder, customs broker, and tariff expert.\r\n\r\nWe’re growing rapidly and support small mom and pop business to the Fortune 1000s, including companies like Allegiant Airlines, Malbon Golf, and R.E.M. beauty.\r\n\r\nForge has raised capital from world class investors including Google, Y-Combinator, and Gradient Ventures.",
+    "one_liner": "AI native freight forwarder and customs broker",
+    "team_size": 7,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1705516248,
+    "tags": [
+      "B2B",
+      "Logistics",
+      "Supply Chain",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/forge",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/forge.json"
+  },
+  {
     "id": 29501,
     "name": "Latted",
     "slug": "latted",
@@ -23689,7 +23685,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "In the past 9 months, more Minecraft mods were made with CreativeMode than in the game's previous 17 years combined. CreativeMode is making every player a creator.\r\n\r\nGames like Minecraft, Fortnite, and Roblox started a revolution by allowing players to shape the games they love. CreativeMode is taking it to the next level by giving every player the power of a game studio at their fingertips. Players on CreativeMode create new experiences, play them with friends, and share their creations with the community. It’s a new way to play and create where imagination is the only limit.\r\n\r\nCreativeMode’s founding team met as early engineers at Crusoe (soon to IPO) and studied CS+AI at Stanford, MIT, and CMU. The team is backed by top investors including YC and General Catalyst.",
     "one_liner": "Lovable for Minecraft mods",
-    "team_size": 5,
+    "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer -> Gaming",
     "launched_at": 1723073466,
@@ -25860,6 +25856,52 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/capitol-ai",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/capitol-ai.json"
+  },
+  {
+    "id": 29973,
+    "name": "Arva AI",
+    "slug": "arva-ai",
+    "former_names": [
+      "Tarit AI",
+      "Arva AI",
+      "Arva"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ae299aabd083b7f6ae2fc0bfa29903e922b33af.png",
+    "website": "https://www.arva.ai",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "Arva AI is a Google backed research company deploying autonomous AI decisioning for critical banking operations, combining proprietary models, adaptive decisioning agents and controlled continuous-learning infrastructure. Large banks and public financial institutions use Arva’s robust and auditable AI to improve the effectiveness, accuracy and repeatability of high-risk decisions.",
+    "one_liner": "AI for critical banking operations",
+    "team_size": 20,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1721196993,
+    "tags": [
+      "Fintech",
+      "B2B",
+      "Compliance",
+      "Regtech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/arva-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/arva-ai.json"
   },
   {
     "id": 29977,
@@ -31633,53 +31675,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/lanesurf.json"
   },
   {
-    "id": 30622,
-    "name": "Liva AI",
-    "slug": "liva-ai",
-    "former_names": [
-      "Symbia",
-      "Liva"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6d577992606b8392c9619b8dffacec074b48668d.png",
-    "website": "https://www.theliva.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Speech models trained on internet data still lack realistic results. We solve this by collecting targeted training data for model labs. We hope to create a world where AI feels more human.",
-    "one_liner": "Audio & Video Data",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1753401226,
-    "tags": [
-      "Marketplace",
-      "B2B",
-      "Data Labeling",
-      "Big Data",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/liva-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/liva-ai.json"
-  },
-  {
     "id": 30623,
     "name": "Playgent",
     "slug": "playgent",
@@ -33804,7 +33799,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Soren builds the AI workforce for business operations. We power companies around the world across a range of traditional industries, including legal, financial services, healthcare, and more.\r\n\r\nOur specialized AI agents combine frontier intelligence with deep operational expertise to execute critical work behind the scenes, becoming an engine businesses rely on to run faster, leaner, and more effectively.\r\n\r\nOur goal is to build the AI operating layer that the world’s businesses will run on.\r\n",
     "one_liner": "The AI workforce for business operations.",
-    "team_size": null,
+    "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1759390917,
@@ -34871,50 +34866,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/fastshot",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/fastshot.json"
-  },
-  {
-    "id": 31005,
-    "name": "MarkIt",
-    "slug": "markit",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/39b63a988d2773d1a5c1037f6450dfbc78231218.png",
-    "website": "https://markittrade.com",
-    "all_locations": "Atlanta, GA, USA",
-    "long_description": "Markit helps teams navigate complex regulatory requirements across markets, bringing research, evidence, collaboration, and decision-making into one place.\r\n\r\nThe goal: accelerate speed to market, strengthen compliance, reduce regulatory risk, and give teams a clearer path from question to decision.\r\n\r\nFrom market entry and product launches to ongoing compliance, Markit is built for the work that happens behind the scenes—and across borders.\r\n\r\nBuilt for the work behind every decision.",
-    "one_liner": "Workspaces for cross-border regulatory work",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1759442158,
-    "tags": [
-      "Workflow Automation",
-      "Compliance",
-      "Consumer Products",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/markit",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/markit.json"
   },
   {
     "id": 31007,
@@ -36396,49 +36347,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/stablebrowse.json"
   },
   {
-    "id": 31424,
-    "name": "Lab0",
-    "slug": "lab0",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e54ac65b683433835143a5b5da2159a7c9445255.png",
-    "website": "https://lab0.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Enterprise software implementation is broken,  and it has been for decades. \r\nEvery rollout, whether it's a traditional ERP or a new AI system, requires months of manual integration, configuration, and tuning done by armies of system integrators and forward-deployed engineers. \r\nLab0 builds agentic systems that automate this layer, compressing months-long implementations into weeks.",
-    "one_liner": "AI FDEs to make your B2B SaaS Go Live in Days, not Months",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1775188246,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Enterprise",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lab0",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/lab0.json"
-  },
-  {
     "id": 31428,
     "name": "Ontora",
     "slug": "ontora",
@@ -37222,6 +37130,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/nebula-security.json"
   },
   {
+    "id": 32155,
+    "name": "Rex",
+    "slug": "rex-inc",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b14c16514ac7654483b96e54e1bf49a45714e8f6.png",
+    "website": "https://www.rex.inc",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Rex is an AI-native service for order to cash. Rex replaces manual operations with AI agents that continuously manage invoices, customers and exceptions.\r\n\r\nOrder to cash is a $60B outsourced function because the work is too messy for traditional automation. Every customer has different context, exceptions do not follow clean rules, and the next step is often buried in emails, portals, handoffs, or someone’s memory. Rex agents run continuously in the background and resolve work to SLA standards so cash keeps moving. We're live with pre-IPO tech companies, managing  >$500m in receivables from F100 companies, cutting manual follow-up cycles from weeks to hours.\r\n\r\nWe founded Rex after spending four years building Sequence, an a16z-backed finance ops platform, from zero to Series A — where we saw firsthand that at-scale, O2C still runs on manual labour.\r\n\r\nRex is the #1 winner of the Vercel AI Accelerator out of 2,500 teams, selected by Guillermo Rauch and leaders from OpenAI, Anthropic, Browserbase and more.",
+    "one_liner": "AI-native BPO for enterprise order-to-cash",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1779903831,
+    "tags": [
+      "B2B",
+      "Enterprise",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rex-inc",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/rex-inc.json"
+  },
+  {
     "id": 32156,
     "name": "Enact",
     "slug": "enact",
@@ -37575,7 +37525,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Over 25k creators and 130k players are on Instaplay, playing and making games. We work with the leading frontier labs to improve their game generation and coding capabilities. ",
     "one_liner": "AI-native gaming platform turning every game into an RL environment",
-    "team_size": 4,
+    "team_size": 3,
     "industry": "Consumer",
     "subindustry": "Consumer -> Gaming",
     "launched_at": 1784188651,
@@ -38537,7 +38487,7 @@
     "all_locations": "Boston, MA, USA",
     "long_description": "Luca IQ is an API for deterministic tax calculation and an IRS Authorized e-filing engine - the foundation for accounting firms and fintechs building on tax.",
     "one_liner": "API-first tax engine for CPA firms and developers",
-    "team_size": 5,
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1785364349,
@@ -39842,48 +39792,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/byteask.json"
   },
   {
-    "id": 35395,
-    "name": "Workers IO",
-    "slug": "workers-io",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12ec3720a247bad2e5a39d162b68e217ed6b74bd.png",
-    "website": "https://workers.io",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Workers IO verifies your entire system across millions of interleaving, faults, and timings to find the exact conditions that break the software properties you care about.\r\n\r\nBuilt for teams where 99.99% uptime is table-stakes. ",
-    "one_liner": "Simulation Environments for Verifying Mission Critical Software",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1787942068,
-    "tags": [
-      "Developer Tools",
-      "B2B",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/workers-io",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/workers-io.json"
-  },
-  {
     "id": 35454,
     "name": "Shepherd Robotics",
     "slug": "shepherd-robotics",
@@ -39970,46 +39878,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/superradiant.json"
   },
   {
-    "id": 35784,
-    "name": "Vorelios",
-    "slug": "vorelios",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c02b36f4ca2283601c8f20e89597a38768ae9db9.png",
-    "website": "https://vorelios.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Engineering is bottlenecked by slow, costly simulations. We're fixing that by building foundation models that learn physics end-to-end and deliver the same results in seconds, at a fraction of the cost.",
-    "one_liner": "AI that simulates physics 1000x faster",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1786417769,
-    "tags": [
-      "Hard Tech",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/vorelios",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/vorelios.json"
-  },
-  {
     "id": 36086,
     "name": "Hesper AI",
     "slug": "hesper-ai",
@@ -40092,46 +39960,5 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/antimattr",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/antimattr.json"
-  },
-  {
-    "id": 36777,
-    "name": "Sona8",
-    "slug": "sona8",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bbb7f2bc6b3848168f970a704b24b37c2b125f25.png",
-    "website": "https://sona8.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sona8 is a voice agent that talks to every employee in a company about how their work gets done.\r\n\r\nEach employee gets a link and talks to the agent for about 20 minutes. The agent asks follow-up questions, for example why a step is still done by hand or who else is involved. From the conversations we build process maps and a list of the problems\r\npeople described, sorted by site and team.\r\n\r\nThat is the start. We then stay on through the implementation. After each initiative is rolled out, the agent goes back to the employees involved and asks whether it was implemented and what changed in their daily work. The transformation team sees this\r\nafter every rollout step.\r\n\r\nThe result is a project management office that has talked to every employee. That context did not exist before, because nobody had the time to collect it.\r\n\r\nConsulting firms use it to gather ideas at the start of an engagement instead. Transformation and corporate development teams use it to guide the execution of strategic transformation.",
-    "one_liner": "Voice agents that talk to employees enabling transformations ",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1788994017,
-    "tags": [
-      "HR Tech",
-      "AI",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sona8",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/sona8.json"
   }
 ]

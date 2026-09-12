@@ -4518,7 +4518,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Soren builds the AI workforce for business operations. We power companies around the world across a range of traditional industries, including legal, financial services, healthcare, and more.\r\n\r\nOur specialized AI agents combine frontier intelligence with deep operational expertise to execute critical work behind the scenes, becoming an engine businesses rely on to run faster, leaner, and more effectively.\r\n\r\nOur goal is to build the AI operating layer that the world’s businesses will run on.\r\n",
     "one_liner": "The AI workforce for business operations.",
-    "team_size": null,
+    "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1759390917,
@@ -4722,6 +4722,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/visibl-semiconductors.json"
   },
   {
+    "id": 31378,
+    "name": "GodHands",
+    "slug": "godhands",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5ec540989c0e572731406bc02714d7608e407cc3.png",
+    "website": "https://godhands.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "GodHands makes employee transitions seamless and ensures that critical knowledge is captured for posterity. We reconstruct any employee’s work in days from the systems where they did it. You can see what depends on them, hand their role over, and keep their work running after they leave. \r\n",
+    "one_liner": "We reconstruct how employees actually work, so nothing breaks when…",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1777151399,
+    "tags": [
+      "Enterprise",
+      "Operations"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/godhands",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/godhands.json"
+  },
+  {
     "id": 31424,
     "name": "Lab0",
     "slug": "lab0",
@@ -4731,15 +4773,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Enterprise software implementation is broken,  and it has been for decades. \r\nEvery rollout, whether it's a traditional ERP or a new AI system, requires months of manual integration, configuration, and tuning done by armies of system integrators and forward-deployed engineers. \r\nLab0 builds agentic systems that automate this layer, compressing months-long implementations into weeks.",
     "one_liner": "AI FDEs to make your B2B SaaS Go Live in Days, not Months",
-    "team_size": 3,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1775188246,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Enterprise",
-      "AI"
+      "Enterprise"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4752,9 +4794,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4858,17 +4898,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b14c16514ac7654483b96e54e1bf49a45714e8f6.png",
     "website": "https://www.rex.inc",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Rex is an AI-native service for order to cash. Rex replace manual operations with AI agents that continuously manage invoices, customers and exceptions.\r\n\r\nOrder to cash is a $60B outsourced function because the work is too messy for traditional automation. Every customer has different context, exceptions do not follow clean rules, and the next step is often buried in emails, portals, handoffs, or someone’s memory. Rex agents run continuously in the background and resolve work to SLA standards so cash keeps moving. We're live with pre-IPO tech companies, managing  >$500m in receivables from F100 companies, cutting manual follow-up cycles from weeks to hours.\r\n\r\nWe founded Rex after spending four years building Sequence, an a16z-backed finance ops platform, from zero to Series A — where we saw firsthand that at-scale, O2C still runs on manual labour.\r\n\r\nRex is the #1 winner of the Vercel AI Accelerator out of 2,500 teams, selected by Guillermo Rauch and leaders from OpenAI, Anthropic, Browserbase and more.",
+    "long_description": "Rex is an AI-native service for order to cash. Rex replaces manual operations with AI agents that continuously manage invoices, customers and exceptions.\r\n\r\nOrder to cash is a $60B outsourced function because the work is too messy for traditional automation. Every customer has different context, exceptions do not follow clean rules, and the next step is often buried in emails, portals, handoffs, or someone’s memory. Rex agents run continuously in the background and resolve work to SLA standards so cash keeps moving. We're live with pre-IPO tech companies, managing  >$500m in receivables from F100 companies, cutting manual follow-up cycles from weeks to hours.\r\n\r\nWe founded Rex after spending four years building Sequence, an a16z-backed finance ops platform, from zero to Series A — where we saw firsthand that at-scale, O2C still runs on manual labour.\r\n\r\nRex is the #1 winner of the Vercel AI Accelerator out of 2,500 teams, selected by Guillermo Rauch and leaders from OpenAI, Anthropic, Browserbase and more.",
     "one_liner": "AI-native BPO for enterprise order-to-cash",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1779903831,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Enterprise",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

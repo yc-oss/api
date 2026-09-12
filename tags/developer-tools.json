@@ -9662,7 +9662,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Orca is an ADE built for engineers who run 10 to 100 coding agents at once. Termina-based. Any coding agent. Bring your own subscription (Claude Code, Codex etc). Mobile app included. Browser, CUA, Mobile emulator, and other. Minimal yet powerful.\r\n\r\nIncludes CLI to let agents control it\r\n\r\nhttps://github.com/stablyai/orca",
     "one_liner": "We make Orca, MIT open source terminal-based agent orchestrator",
-    "team_size": 4,
+    "team_size": 25,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1645204142,
@@ -12222,7 +12222,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -20174,12 +20174,12 @@
     "former_names": [
       "Beamlit"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/60e390e449209c3c990c56045efeb692cf4ce77a.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/daedc1e66e212180bb678c683cd4595f1c7cd149.png",
     "website": "https://blaxel.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Blaxel is the perpetual sandbox platform for AI agents that need to run code fast.\r\n\r\nUnlike traditional sandboxes that expire or suffer from cold starts, our sandboxes automatically scale to zero after 1s of inactivity and resume in under 25ms with full memory state preserved — allowing you to keep millions of secure sandboxes on standby indefinitely.\r\n\r\nWe also co-locate your agent logic alongside these sandboxes to eliminate network overhead, delivering near-instant latency for end users.",
-    "one_liner": "The perpetual sandbox platform",
-    "team_size": 8,
+    "long_description": "Blaxel is the infrastructure foundation for autonomous agents.\r\n\r\nEngineered for the way agents actually run, Blaxel gives builders deep control over compute (sandboxes), storage (shared filesystem), and networking as built-in infra primitives.\r\n\r\nUnlike traditional sandboxes that expire or suffer from cold starts, our sandboxes automatically scale to zero after 1s of inactivity and resume in under 25ms with full memory state preserved — allowing you to keep millions of secure sandboxes on standby indefinitely.",
+    "one_liner": "The infrastructure for autonomous agents",
+    "team_size": 12,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1745276338,
@@ -22614,7 +22614,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2025",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -23107,49 +23107,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/zenbu-2",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/zenbu-2.json"
-  },
-  {
-    "id": 31378,
-    "name": "GodHands",
-    "slug": "godhands",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5ec540989c0e572731406bc02714d7608e407cc3.png",
-    "website": "https://godhands.dev",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "GodHands is building a living knowledge base for engineering teams, turning the code, docs, and decisions across your stack into a single source of truth that stays accurate as you grow.",
-    "one_liner": "The company knowledge base that updates itself",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1777151399,
-    "tags": [
-      "Documents",
-      "Artificial Intelligence",
-      "Developer Tools",
-      "DevOps"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/godhands",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/godhands.json"
   },
   {
     "id": 31380,
@@ -24425,14 +24382,14 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1787942068,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2026",
     "status": "Active",

@@ -7,17 +7,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5ec540989c0e572731406bc02714d7608e407cc3.png",
     "website": "https://godhands.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "GodHands is building a living knowledge base for engineering teams, turning the code, docs, and decisions across your stack into a single source of truth that stays accurate as you grow.",
-    "one_liner": "The company knowledge base that updates itself",
+    "long_description": "GodHands makes employee transitions seamless and ensures that critical knowledge is captured for posterity. We reconstruct any employee’s work in days from the systems where they did it. You can see what depends on them, hand their role over, and keep their work running after they leave. \r\n",
+    "one_liner": "We reconstruct how employees actually work, so nothing breaks when…",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Operations",
     "launched_at": 1777151399,
     "tags": [
-      "Documents",
-      "Artificial Intelligence",
-      "Developer Tools",
-      "DevOps"
+      "Enterprise",
+      "Operations"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -26,7 +24,8 @@
     "batch": "Fall 2026",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Operations"
     ],
     "regions": [
       "United States of America",
@@ -737,6 +736,50 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/lantern-ai.json"
   },
   {
+    "id": 35224,
+    "name": "Micora",
+    "slug": "micora",
+    "former_names": [
+      "Micora Energy"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7fc1316658ceceb944d2c372912cac6b6db9e5ec.png",
+    "website": "https://micora.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Micora is a next-generation robotic energy developer that compresses the timeline from initial design to power generation from years to weeks. Our vertically integrated platform combines purpose-built robotic hardware with proprietary modular energy systems, enabling critical power infrastructure to be designed, manufactured, and deployed at unprecedented speed.\r\n\r\nTraditional energy projects are slow, costly, and built around processes that were never designed for today’s rapidly growing power demands. Micora is rebuilding energy development from the ground up; transforming what has historically been a bespoke, multi-year construction process into a repeatable and scalable manufacturing system.\r\n\r\nAs demand from data centers, advanced manufacturing, and electrification strains existing power infrastructure, the ability to deploy new generation quickly is becoming increasingly valuable. Micora is building the infrastructure platform needed to deliver power wherever and whenever it is needed.",
+    "one_liner": "Solar farm in a box built anywhere in days",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Energy",
+    "launched_at": 1789148682,
+    "tags": [
+      "Energy Storage",
+      "Robotics",
+      "Solar Power",
+      "Construction"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Energy"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/micora",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/micora.json"
+  },
+  {
     "id": 35257,
     "name": "Nodus Compute",
     "slug": "nodus-compute",
@@ -1039,14 +1082,14 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1787942068,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2026",
     "status": "Active",
@@ -1327,15 +1370,15 @@
     "website": "https://vorelios.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Engineering is bottlenecked by slow, costly simulations. We're fixing that by building foundation models that learn physics end-to-end and deliver the same results in seconds, at a fraction of the cost.",
-    "one_liner": "AI that simulates physics 1000x faster",
+    "one_liner": "A foundation model for engineering physics",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1786417769,
     "tags": [
+      "Artificial Intelligence",
       "Hard Tech",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1564,6 +1607,47 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/antimattr.json"
   },
   {
+    "id": 36411,
+    "name": "Vyra",
+    "slug": "vyra",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ad073b0df3558383dd73b1125d5e326d63c3e12.png",
+    "website": "https://usevyra.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Autonomous video editing for non-editors. Instead of making users…",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Content",
+    "launched_at": 1789166415,
+    "tags": [
+      "Video",
+      "Automation",
+      "SMB"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Content"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/vyra",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/vyra.json"
+  },
+  {
     "id": 36708,
     "name": "Sinter",
     "slug": "sinter-systems",
@@ -1612,15 +1696,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bbb7f2bc6b3848168f970a704b24b37c2b125f25.png",
     "website": "https://sona8.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sona8 is a voice agent that talks to every employee in a company about how their work gets done.\r\n\r\nEach employee gets a link and talks to the agent for about 20 minutes. The agent asks follow-up questions, for example why a step is still done by hand or who else is involved. From the conversations we build process maps and a list of the problems\r\npeople described, sorted by site and team.\r\n\r\nThat is the start. We then stay on through the implementation. After each initiative is rolled out, the agent goes back to the employees involved and asks whether it was implemented and what changed in their daily work. The transformation team sees this\r\nafter every rollout step.\r\n\r\nThe result is a project management office that has talked to every employee. That context did not exist before, because nobody had the time to collect it.\r\n\r\nConsulting firms use it to gather ideas at the start of an engagement instead. Transformation and corporate development teams use it to guide the execution of strategic transformation.",
+    "long_description": "Sona8 is a voice agent that talks to every employee in a company about how their work gets done.\r\n\r\nEach employee gets a link and talks to the agent for about 20 minutes. The agent asks follow-up questions, for example why a step is still done by hand or who else is involved. From the conversations we build process maps and a list of the problems people described, sorted by site and team.\r\n\r\nThat is the start. We then stay on through the implementation. After each initiative is rolled out, the agent goes back to the employees involved and asks whether it was implemented and what changed in their daily work. The transformation team sees this after every rollout step.\r\n\r\nThe result is a project management office that has talked to every employee. That context did not exist before, because nobody had the time to collect it.\r\n\r\nConsulting firms use it to gather ideas at the start of an engagement instead. Transformation and corporate development teams use it to guide the execution of strategic transformation.",
     "one_liner": "Voice agents that talk to employees enabling transformations ",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1788994017,
     "tags": [
+      "Artificial Intelligence",
       "HR Tech",
-      "AI",
       "Conversational AI"
     ],
     "tags_highlighted": [],
