@@ -4155,17 +4155,18 @@
   },
   {
     "id": 24914,
-    "name": "Sully.ai",
-    "slug": "sully-ai",
+    "name": "Sully",
+    "slug": "sully",
     "former_names": [
-      "Odiggo"
+      "Odiggo",
+      "Sully.ai"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9050d789232441d310c7b2bc53166a978e1f735d.png",
     "website": "https://www.sully.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Sully.ai is printing labor for health systems by building a team of autonomous AI agents to run the entire hospital operations. The autonomous agents run like ClawdBot in the background (Receptionists, Medical Consultant, Triage Nurse, Scribes, Coders) collaborate to execute entire workflows. Replacing the $800B labor doing all the manual work at hospitals.",
     "one_liner": "Autonomous team of AI agents that runs the entire hospital operations",
-    "team_size": 49,
+    "team_size": 44,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1624955795,
@@ -4188,17 +4189,15 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/sully-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/sully-ai.json"
+    "url": "https://www.ycombinator.com/companies/sully",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/sully.json"
   },
   {
     "id": 25086,
@@ -9110,21 +9109,21 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8126dcec05004e9a335df14d0116cf4774a61b06.png",
     "website": "https://denta.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Denta is dental insurance. As a full stack carrier, Denta makes insurance 30% cheaper by selling plans directly to employers and processing claims instantly with AI.\r\n\r\nI grew up in the back office of my dad’s dental practices, spent my high school years answering patient calls, and built software for over 300 dentists during college. I'm now solving the industry's biggest problem: insurance.\r\n\r\nEveryone knows how bad health insurance is, dental insurance is worse. In the US, dental insurers collect $100B per year. Despite the $25B of that spent on administration, it still takes insurers three weeks to pay claims with paper checks that Denta can pay electronically in seconds.\r\n\r\nDenta will insure every American, sparing patients and dentists the $25B burden of dealing with legacy carriers.",
+    "long_description": "Denta is a full-stack insurance carrier rewriting healthcare. Starting with dental insurance, we are relentlessly simplifying the process for patients to receive better coverage at a lower cost.",
     "one_liner": "Dental Insurance",
     "team_size": 1,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1782407143,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "Healthcare",
-      "Health Insurance",
-      "AI"
+      "Health Insurance"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2026",
     "status": "Active",

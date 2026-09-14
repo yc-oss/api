@@ -1974,7 +1974,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd007ffa21d124d29441b51ecf33a2c45d832ad5.png",
     "website": "https://writesonic.com/",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "New Delhi, DL, India; Remote",
     "long_description": "Writesonic is the GEO (Generative Engine Optimization) platform that tracks your AI visibility across ChatGPT, Gemini, and 10+ AI search platforms. Then helps you take precise actions to boost visibility—create new content, refresh existing pages, or reach out to sites that mention competitors but not you. \r\n\r\nTrack, Act, and Win AI search from one platform. \r\n\r\n15,000+ five-star reviews across G2, Trustpilot, and Capterra.",
     "one_liner": "Track & Boost Your Brand’s Visibility in AI Search",
     "team_size": 35,
@@ -1998,8 +1998,8 @@
       "Marketing"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "India",
+      "South Asia",
       "Remote",
       "Fully Remote"
     ],
@@ -3215,7 +3215,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2a2858087cb4a0409dfdf9550fd470d4f1798ec6.png",
     "website": "https://juicebox.ai/",
-    "all_locations": "Los Angeles, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Juicebox is on a mission to help teams win the talent war.\r\n\r\nIn the age of AI, human ingenuity is the ultimate scarce resource. Recruiting is a zero-sum game where you either compete or lose.\r\n\r\nTeams at Ramp, Perplexity, and leading AI labs use Juicebox to power their hiring, alongside 3,000+ customers from early-stage startups to Fortune 500 companies.\r\n\r\nWe’ve crossed $10M in ARR with 20%+ monthly growth, powering thousands of searches every day and making Juicebox one of the fastest-growing AI SaaS companies in the world.\r\n\r\nJuicebox has raised $36M in funding, including a $30M Series A led by Sequoia Capital. Additional investors in Juicebox include Coatue, NFDG, Lux Capital, Y Combinator, and BOND Capital.",
     "one_liner": "AI-powered talent sourcing for recruiters",
     "team_size": 65,
@@ -3613,50 +3613,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ad-army",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/ad-army.json"
-  },
-  {
-    "id": 27143,
-    "name": "TypeLess",
-    "slug": "typeless",
-    "former_names": [
-      "Delight"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9051729e9b529a474279cd2a8fa061cc7d5031fe.png",
-    "website": "https://apps.apple.com/us/app/typeless-ai-messenger/id6478489620",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Typeless is an AI messaging API designed to facilitate communication for businesses and professionals. Our API generates smart, context-aware response suggestions to enhance messaging platforms in a variety of industries, from real estate to customer support.\r\n\r\nFor example, a real estate platform can use Typeless to automate responses for scheduling property viewings, answering client inquiries, and handling follow-ups. Similarly, a customer service platform can enable agents to respond faster with personalized, AI-driven suggestions for customer questions and issues.\r\n\r\nYou can download our demo messaging app built with the TypeLess API on the app store: https://apps.apple.com/us/app/typeless-ai-messenger/id6478489620",
-    "one_liner": "AI messaging API for smarter, faster communication.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1658105881,
-    "tags": [
-      "Generative AI",
-      "Machine Learning",
-      "Messaging",
-      "API",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/typeless",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/typeless.json"
   },
   {
     "id": 27155,
@@ -9560,23 +9516,24 @@
   },
   {
     "id": 30198,
-    "name": "Dollyglot",
-    "slug": "dollyglot",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/897f8bc5186131522d7f3d3073cf9181df4bae7b.png",
-    "website": "https://www.dollyglot.com/",
+    "name": ".Wave",
+    "slug": "dotwave",
+    "former_names": [
+      "Dollyglot"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e16adbb8c4442e6124b56566c82ed680beaba21a.png",
+    "website": "https://dotwave.ai/",
     "all_locations": "Paris, Île-de-France, France",
-    "long_description": "Dollyglot is like Character.ai but with real time video avatars.\r\nTurn a photo and a voice into a real friend. Speak with Harry Potter about Hogwarts or brainstorm ideas with Elon Musk! ",
-    "one_liner": "Character.AI with real time video avatars",
+    "long_description": ".Wave builds a continuous inference engine for streaming AI models, including full-duplex voice and streaming speech recognition.   \r\n\r\nCustomers bring their models; we integrate and run them, managing execution, session state, and scheduling to reduce end-to-end latency and serving cost per live session.  \r\n\r\nWe use cadenced inference to support more concurrent sessions per GPU while keeping latency low and consistent.",
+    "one_liner": "Continuous inference for streaming AI models",
     "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1741300119,
     "tags": [
       "Generative AI",
-      "Consumer",
-      "Social",
-      "Conversational AI"
+      "B2B",
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -9585,7 +9542,8 @@
     "batch": "Winter 2025",
     "status": "Active",
     "industries": [
-      "Consumer"
+      "B2B",
+      "Engineering, Product and Design"
     ],
     "regions": [
       "France",
@@ -9596,8 +9554,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dollyglot",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/dollyglot.json"
+    "url": "https://www.ycombinator.com/companies/dotwave",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/dotwave.json"
   },
   {
     "id": 30199,

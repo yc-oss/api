@@ -2981,6 +2981,49 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/ryvn.json"
   },
   {
+    "id": 30198,
+    "name": ".Wave",
+    "slug": "dotwave",
+    "former_names": [
+      "Dollyglot"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e16adbb8c4442e6124b56566c82ed680beaba21a.png",
+    "website": "https://dotwave.ai/",
+    "all_locations": "Paris, Île-de-France, France",
+    "long_description": ".Wave builds a continuous inference engine for streaming AI models, including full-duplex voice and streaming speech recognition.   \r\n\r\nCustomers bring their models; we integrate and run them, managing execution, session state, and scheduling to reduce end-to-end latency and serving cost per live session.  \r\n\r\nWe use cadenced inference to support more concurrent sessions per GPU while keeping latency low and consistent.",
+    "one_liner": "Continuous inference for streaming AI models",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1741300119,
+    "tags": [
+      "Generative AI",
+      "B2B",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "France",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dotwave",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/dotwave.json"
+  },
+  {
     "id": 30213,
     "name": "Truffle AI",
     "slug": "truffle-ai",
@@ -3649,15 +3692,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed09e878f16f40414804fdb218d878e11639bd1e.png",
     "website": "https://usenaive.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "The full stack your agent needs to run a business — compute, payments, identity, incorporation, 10,000+ tools — in one config file. \r\n\r\nPaste a prompt into your coding agent, it writes naive.config.ts, and provisions all infrastructure for your apps, agents, businesses. One API, one balance, every action governed.\r\n\r\nWe're a small, fast-moving, remote-first team.",
+    "long_description": "Naïve is an AI research lab building autonomous companies.\r\n\r\nWe develop the systems, environments, and agent infrastructure required for AI to operate real businesses end-to-end, then release increasingly capable autonomous companies into the world.",
     "one_liner": "Autonomous Company Infrastructure",
     "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1747424808,
     "tags": [
-      "Infrastructure",
-      "AI"
+      "Artificial Intelligence",
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5210,7 +5253,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/05718bc482e46fde4208c29e7eef28f2f4b686e7.png",
     "website": "https://lucaiq.com/",
-    "all_locations": "Boston, MA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Luca IQ is an API for deterministic tax calculation and an IRS Authorized e-filing engine - the foundation for accounting firms and fintechs building on tax.",
     "one_liner": "API-first tax engine for CPA firms and developers",
     "team_size": 2,

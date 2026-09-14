@@ -1200,23 +1200,24 @@
   },
   {
     "id": 30198,
-    "name": "Dollyglot",
-    "slug": "dollyglot",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/897f8bc5186131522d7f3d3073cf9181df4bae7b.png",
-    "website": "https://www.dollyglot.com/",
+    "name": ".Wave",
+    "slug": "dotwave",
+    "former_names": [
+      "Dollyglot"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e16adbb8c4442e6124b56566c82ed680beaba21a.png",
+    "website": "https://dotwave.ai/",
     "all_locations": "Paris, Île-de-France, France",
-    "long_description": "Dollyglot is like Character.ai but with real time video avatars.\r\nTurn a photo and a voice into a real friend. Speak with Harry Potter about Hogwarts or brainstorm ideas with Elon Musk! ",
-    "one_liner": "Character.AI with real time video avatars",
+    "long_description": ".Wave builds a continuous inference engine for streaming AI models, including full-duplex voice and streaming speech recognition.   \r\n\r\nCustomers bring their models; we integrate and run them, managing execution, session state, and scheduling to reduce end-to-end latency and serving cost per live session.  \r\n\r\nWe use cadenced inference to support more concurrent sessions per GPU while keeping latency low and consistent.",
+    "one_liner": "Continuous inference for streaming AI models",
     "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1741300119,
     "tags": [
       "Generative AI",
-      "Consumer",
-      "Social",
-      "Conversational AI"
+      "B2B",
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1225,7 +1226,8 @@
     "batch": "Winter 2025",
     "status": "Active",
     "industries": [
-      "Consumer"
+      "B2B",
+      "Engineering, Product and Design"
     ],
     "regions": [
       "France",
@@ -1236,8 +1238,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dollyglot",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/dollyglot.json"
+    "url": "https://www.ycombinator.com/companies/dotwave",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/dotwave.json"
   },
   {
     "id": 30199,
