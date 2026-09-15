@@ -3034,19 +3034,23 @@
   },
   {
     "id": 31408,
-    "name": "Salesgraph",
-    "slug": "salesgraph",
-    "former_names": [],
+    "name": "Antinuous",
+    "slug": "antinuous",
+    "former_names": [
+      "Salesgraph"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/febca88acc45186c0d3c21c31cb8dfbdd7f32484.png",
-    "website": "https://www.salesgraph.com/",
+    "website": "https://www.antinuous.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Salesgraph learns and automates 99% of the work that AEs do between calls with a dynamic context graph to give agents structure.\r\n\r\nResearch briefs, call gaps, follow ups, committee mapping, business cases, pricing calculators, anything that moves a deal forward. \r\n\r\nWe’re now building the context graph to power our agents for early partners at Mintlify, Tex, and Strala.",
-    "one_liner": "Proactive revenue agents that move enterprise deals forward",
+    "long_description": "Antinuous is building autonomous research agents to help people in research, development, discovery, and knowledge work do faster, more accurate research end to end without a human in the loop.\r\n\r\nWe believe humans should be able to ask a single question, and no matter how simple or complex, agents should look at the question, break it down, research the answer, test new ideas, simulate new environments, and repeat autonomously using as much or little compute as necessary elastically.",
+    "one_liner": "Autonomous research agents for R&D and education",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Sales",
+    "subindustry": "B2B",
     "launched_at": 1775259755,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -3054,8 +3058,7 @@
     "batch": "Spring 2026",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Sales"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -3066,8 +3069,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/salesgraph",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/salesgraph.json"
+    "url": "https://www.ycombinator.com/companies/antinuous",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/antinuous.json"
   },
   {
     "id": 31409,
@@ -3233,8 +3236,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8eec4067ada1ceb62324834a6da7831196618472.png",
     "website": "https://dreach.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "AI agents watch hiring demand, leadership changes, and company events, then queue who to contact, why now, and what to say.",
-    "one_liner": "stop building lists. start booking clients.",
+    "long_description": "dreach watches your ATS and your network. when someone starts hiring, you get the manager who owns the role and your warmest way in.",
+    "one_liner": "staffing firms with dreach grow revenue faster.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -5365,7 +5368,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2026",
     "status": "Active",
@@ -6242,9 +6245,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0fb7d11f60217eaded2ae0e96dbee3bf9ebcd68c.png",
     "website": "https://www.runtm.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Runtime (runtm.com) gives engineering teams control and visibility to enable anyone in their org to use coding agents securely.\r\n\r\nEng leaders rolling out coding agents have no way to see what's happening, set boundaries, or safely let non-engineers use them. We provide sandboxed environments, session-level observability, and configurable guardrails so anyone on your team can ship with coding agents without breaking prod.\r\n\r\nWe're live with fast-growing YC scaleups empowering their Engineers, PMs, designers, marketers, and ops to contribute to their codebase or build prod-grade zero-to-one apps.",
-    "one_liner": "Build and run internal agents, without managing the infrastructure",
-    "team_size": 3,
+    "long_description": "Runtime helps fast-growing fintechs build and run AI agents for financial operations. Teams turn their procedures into specialized agents that work across their systems, with scoped access, human approvals, and a full audit trail.",
+    "one_liner": "AI agents for financial operations",
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1773951001,

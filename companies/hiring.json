@@ -7682,17 +7682,14 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2aff3fe26c747fac4d0b2d1e8d6b67a0b034d6e6.png",
     "website": "http://versemedical.com/",
-    "all_locations": "New York City, NY, USA; New York, NY, USA",
+    "all_locations": "New York City, NY, USA",
     "long_description": "As healthcare costs have increased, the patient's home has become incredibly important as a site of care. Yet, patients recovering at home are highly underserved.\r\n\r\nPatients can only get better at home if they receive the high-quality care that they need reliably. The existing in-home care process involves patchwork of different vendors, all connected through faxes by nurses. We're building modern, robust software that solves this challenge and brings this market online.",
-    "one_liner": "Software platform for in-home healthcare",
+    "one_liner": "AI-enabled ordering for medical equipment & supplies",
     "team_size": 200,
     "industry": "Healthcare",
-    "subindustry": "Healthcare -> Consumer Health and Wellness",
+    "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1524625564,
-    "tags": [
-      "Consumer Health Services",
-      "Medical Devices"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -7701,7 +7698,7 @@
     "status": "Active",
     "industries": [
       "Healthcare",
-      "Consumer Health and Wellness"
+      "Healthcare IT"
     ],
     "regions": [
       "United States of America",
@@ -7709,7 +7706,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -8100,7 +8097,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -11528,7 +11525,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -23657,6 +23654,51 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2022/sieve.json"
   },
   {
+    "id": 25315,
+    "name": "Rebill",
+    "slug": "rebill",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac317d3596d742abd3e551f40119a6ba9a7f3d40.png",
+    "website": "https://www.rebill.com",
+    "all_locations": "Buenos Aires, CABA, Argentina",
+    "long_description": "Rebill is the financial infrastructure platform for the Americas.\r\n\r\nThe companies shaping software, AI, travel, and digital services use Rebill to operate across Brazil, Mexico, Argentina, Colombia, Chile, and the United States.\r\n\r\nRebill brings local payments, installments, recurring billing, stablecoin rails, treasury, global payouts, and financial operations into one platform built for how money actually works across the Americas.\r\n\r\nEvery market is different. Rebill makes the infrastructure consistent. Engineering, finance, and operations teams can manage local currency acceptance, market-specific payment behavior, funds, and financial workflows from the same platform.\r\n\r\nCompanies can launch in Latin America in as little as a day and expand across markets without rebuilding their financial stack country by country.\r\n\r\nBuilt locally. Designed to scale globally.",
+    "one_liner": "Financial infrastructure for the Americas",
+    "team_size": 11,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Payments",
+    "launched_at": 1645553649,
+    "tags": [
+      "Fintech",
+      "SaaS",
+      "Payments",
+      "B2B",
+      "Subscriptions"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Payments"
+    ],
+    "regions": [
+      "Argentina",
+      "Latin America",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/rebill",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/rebill.json"
+  },
+  {
     "id": 25316,
     "name": "Trébol",
     "slug": "trebol",
@@ -24998,6 +25040,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cogram",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/cogram.json"
+  },
+  {
+    "id": 25677,
+    "name": "Posh",
+    "slug": "posh",
+    "former_names": [
+      "Posh Robotics"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ca6f3906b5aba33dcfb179d47661f5c03647f14.png",
+    "website": "https://www.poshenergy.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We are working on rapidly deployable energy storage and power generation solutions for C&I customers, especially in the AI data center space.",
+    "one_liner": "Rapidly deployable energy solutions for modern commercial and…",
+    "team_size": 10,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Climate",
+    "launched_at": 1646962988,
+    "tags": [
+      "Energy Storage"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Climate"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/posh",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/posh.json"
   },
   {
     "id": 25680,
@@ -32563,44 +32648,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/berry.json"
   },
   {
-    "id": 28131,
-    "name": "Untether Labs",
-    "slug": "untether-labs",
-    "former_names": [
-      "Untether Labs Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/89a118853f7ef1ffaf38dcc3929f98219859af74.png",
-    "website": "https://untetherlabs.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Digital Clinics are facing an existential problem - fix margins, or die. We’ve built a clinic, and seen the tech they need to fix their margins. Now we’re bringing this tech back to other clinics. For our first customer, we’re projected to generate $2.5M in revenue.",
-    "one_liner": "Scheduling software for digital health clinics to do more with less.",
-    "team_size": 6,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1678419345,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/untether-labs",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/untether-labs.json"
-  },
-  {
     "id": 28160,
     "name": "Finni Health",
     "slug": "finni-health",
@@ -35367,49 +35414,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/fortuna-health.json"
   },
   {
-    "id": 28936,
-    "name": "Empirical Health",
-    "slug": "empirical-health",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd8134cbe5b8ea696157c320672eb55cc8649540.png",
-    "website": "https://empirical.health",
-    "all_locations": "New York City, NY, USA",
-    "long_description": "Don't die of heart disease. While heart disease is the #1 killer worldwide, 80% of heart disease is preventable.\r\n\r\nEmpirical's program starts with an advanced lab test with 100+ biomarkers, including ApoB, Lp(a), inflammation, and more. Then, we help you model your lifetime risk of heart disease and generate a plan to reduce your risk to an optimal level. Then we help you achieve that plan.\r\n\r\nEmpirical is licensed, registered, and insured to deliver real medical care in 30+ US states covering 200m+ people. We're growing >25% monthly.",
-    "one_liner": "Don't die of heart disease. Empirical is the first AI-native heart…",
-    "team_size": 4,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Consumer Health and Wellness",
-    "launched_at": 1689658487,
-    "tags": [
-      "Generative AI",
-      "Machine Learning",
-      "Consumer Health Services",
-      "Healthcare",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Consumer Health and Wellness"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/empirical-health",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/empirical-health.json"
-  },
-  {
     "id": 28940,
     "name": "Guac",
     "slug": "guac",
@@ -36813,50 +36817,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/morph",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/morph.json"
-  },
-  {
-    "id": 29125,
-    "name": "truemetrics",
-    "slug": "truemetrics",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6cd7b0f7663e8989ac828e2eeebe6e1968813d3.png",
-    "website": "https://www.truemetrics.io/",
-    "all_locations": "Berlin, Berlin, Germany",
-    "long_description": "truemetrics helps logistics companies to find their customer's faster. By detecting and mapping entrances, we help GLS, a key logistics company in Europe, save 32.7 seconds on each delivery.\r\n\r\nThe way couriers navigate is broken.\r\n\r\n“You Have Arrived At Your Destination!” — or so Google Maps thinks. In reality, the way couriers navigate is broken: No parking, hard-to-find entrances, and labyrinth-like apartment and office complexes can turn the last meters of delivery into a time-consuming puzzle.\r\n\r\ntruemetrics provides parking positions and entrance locations to enable faster drop-offs. Our data is generated by analyzing sensor data from drivers' smartphones, allowing truemetrics to identify precise parking and entrance locations, thereby simplifying the last meters of delivery.\r\n",
-    "one_liner": "We show couriers where to park and enter a building.",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
-    "launched_at": 1688493255,
-    "tags": [
-      "Artificial Intelligence",
-      "Delivery",
-      "Logistics",
-      "ML"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
-    ],
-    "regions": [
-      "Germany",
-      "Europe",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/truemetrics",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/truemetrics.json"
   },
   {
     "id": 29150,
@@ -40839,10 +40799,10 @@
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1705516248,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Logistics",
-      "Supply Chain",
-      "AI"
+      "Supply Chain"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -41877,52 +41837,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tabula",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/tabula.json"
-  },
-  {
-    "id": 29643,
-    "name": "Sage Care",
-    "slug": "sagecare",
-    "former_names": [
-      "Clara",
-      "Sage"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8391ef28b31f763fdf577fc8631f259459023eb8.png",
-    "website": "https://sagecare.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sage is a HIPAA compliant, AI-native communication platform that makes home care agency client-intake handling smarter, faster, and more reliable.\r\n\r\nTeams that use Sage can save over 100 minutes of busywork per prospect, freeing up their teams to manage a larger, faster growing business.",
-    "one_liner": "Automating home care agency operations with AI",
-    "team_size": 3,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1722734654,
-    "tags": [
-      "AIOps",
-      "Automation",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sagecare",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/sagecare.json"
   },
   {
     "id": 29644,
@@ -45044,52 +44958,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/usul",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/usul.json"
-  },
-  {
-    "id": 29850,
-    "name": "SureBright",
-    "slug": "surebright",
-    "former_names": [
-      "SureBright Technologies, Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/786573119daa04ca85d28b00e8358a03f4e0a184.png",
-    "website": "https://surebright.com/",
-    "all_locations": "New Delhi, DL, India",
-    "long_description": "SureBright lets e-commerce merchants embed \"Apple Care” like product warranties into their checkout flows in less than 10 minutes. Our AI-powered warranty platform generates incremental revenue and boosts customer loyalty at zero cost to the merchant.\r\n\r\nSanket led engineering at PolicyBazar, an insurance tech company that IPOed and is valued at over $8B. Manish worked at Amazon and has built $100M ARR products, handling over 180B requests per day.\r\n\r\nUntil now, finding the right policy for any product and pricing it at the right price wasn’t possible at scale. We automated this process using LLM and have unlocked a $50B+ opportunity. Each month, over 5 million consumers view SureBright warranty offers.",
-    "one_liner": "Apple Care-like warranty program for every retailer ",
-    "team_size": 35,
-    "industry": "B2B",
-    "subindustry": "B2B -> Retail",
-    "launched_at": 1720298517,
-    "tags": [
-      "E-commerce",
-      "Insurance",
-      "Retail",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Retail"
-    ],
-    "regions": [
-      "India",
-      "South Asia",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/surebright",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/surebright.json"
   },
   {
     "id": 29851,
@@ -48967,7 +48835,7 @@
     "slug": "infinite",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ee72e2d0f729f9fecd56cec594e37086a27cff9.png",
-    "website": "https://infinite.dev",
+    "website": "https://infinite.net",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Infinite is a stablecoin payment processor. We offer businesses turnkey APIs and SDKs to instantly move money anywhere in the world at a fraction of the cost of traditional solutions.",
     "one_liner": "Global B2B Stablecoin Processor",
@@ -49538,7 +49406,7 @@
       "Belgium",
       "Europe"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -51117,6 +50985,42 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/photonium",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/photonium.json"
+  },
+  {
+    "id": 30471,
+    "name": "Kaizen",
+    "slug": "kaizen",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ffc8188b9194b518de8d9010fba82b955eedab6f.png",
+    "website": "https://kaizenautomation.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Kaizen is a digital employee that helps healthcare providers get patients into care faster. It processes referrals, verifies insurance benefits, manages prior authorizations, and handles provider credentialing across the systems teams already use. Kaizen works with $100M+ healthcare providers to drive seven-figure ROI with AI.",
+    "one_liner": "Automate anything on the web.",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1747626364,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/kaizen",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/kaizen.json"
   },
   {
     "id": 30477,
@@ -53739,7 +53643,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -54248,7 +54152,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Socratix builds AI coworkers for fraud and compliance teams so that humans don't have to spend their days drowning in alerts and spreadsheets.\r\n\r\nToday, fraud and risk teams at fintechs and banks are overwhelmed. Analysts jump between tools, manually stitch together context, and make judgment calls under pressure, often for hundreds of alerts a week. Too much of their work is slow, repetitive, and error-prone. We're here to change that. \r\n\r\nSocratix gives fraud and risk teams AI coworkers that investigate alerts in real time, replacing manual reviews with fast, explainable decisions. Socratix agents plug into existing workflows and reason across signals just like human analysts to help teams reduce fraud losses, minimize false positives, and scale operations without scaling headcount.\r\n\r\nWe've seen this problem firsthand. At DoorDash, Riya helped save $30M+ a year by building smarter fraud detection and investigation tooling, and at Unit21, she built products for analysts that made them 3X faster. We're able to build and sell enterprise-grade software. At Cruise, Satya built scalable AI systems powering petabyte-scale data, and at LinkedIn, he built enterprise products from 0 to 1 generating $50M+ in incremental revenue. Now, the two of us are teaming up to eliminate the manual toil in fraud and compliance.\r\n\r\nWe're obsessed with fraud, LLMs, real-world automation, and the messy edge cases traditional ML has trouble handling. We believe that every fraud analyst should have an AI coworker - and the future of fraud will involve combining human-level reasoning with machine-speed execution. ",
     "one_liner": "AI coworkers for fraud and compliance teams.",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1752778488,
@@ -55994,49 +55898,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/wardstone.json"
   },
   {
-    "id": 30882,
-    "name": "AtlasGrid",
-    "slug": "atlasgrid",
-    "former_names": [
-      "I purchased precedents.ai, will found a corp w/ Clerky in 2 weeks once the domain transfer is confirmed",
-      "precedents.ai",
-      "AtlasGrid AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c51d7c36e595d35dc2f3a6fbe00ef8d4d923dbe9.png",
-    "website": "https://atlasgrid.ai",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "AtlasGrid automatically builds a visual graph of your mobile app UI and displays analytics directly on your screens. Additionally, our fleet of AI-powered agents will continuously analyze thousands of mobile apps, gathering design insights and identifying growth opportunities + actionable product improvements.",
-    "one_liner": "Accelerate Product Iteration",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1763057438,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/atlasgrid",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/atlasgrid.json"
-  },
-  {
     "id": 30883,
     "name": "hillclimb",
     "slug": "hillclimb",
@@ -56132,15 +55993,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3be22ea19fa3ff9792176dc916455712e0e9ecda.png",
     "website": "https://www.sembleai.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Semble is the operating system for your construction business. It's a live platform that keeps the office and the field in sync on every project and provides AI agents to run the workflows your business depends on.\r\n\r\nJonathan and Ethan met studying computer science at Stanford. Jonathan worked at Convergint, one of the world's largest building system integrators.",
+    "long_description": "Semble is the #1 software for integrators. Takeoffs, design, quoting, scheduling, field operations, inventory, and invoicing. All powered by AI.\r\n\r\nJonathan and Ethan met studying computer science at Stanford. Jonathan worked at Convergint, one of the world's largest building system integrators.",
     "one_liner": "The all-in-one software for integrators.",
     "team_size": 14,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1758754473,
     "tags": [
-      "SaaS",
-      "AI"
+      "Artificial Intelligence",
+      "SaaS"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -59370,46 +59231,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/9-mothers-corporation.json"
   },
   {
-    "id": 31200,
-    "name": "Ressl AI",
-    "slug": "ressl-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/186bc6483be3828abcf998b9a4ffedbef27ecfed.png",
-    "website": "https://ressl.ai",
-    "all_locations": "Bengaluru, KA, India",
-    "long_description": "Ressl AI helps teams bridge the gap from prototype to production by providing the platform needed to train, benchmark, and deploy autonomous agents that actually work in real-world business systems.",
-    "one_liner": "Train, eval and build autonomous agents",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1765975223,
-    "tags": [
-      "B2B",
-      "Operations",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "India",
-      "South Asia"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ressl-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/ressl-ai.json"
-  },
-  {
     "id": 31201,
     "name": "Robby",
     "slug": "robby",
@@ -61569,43 +61390,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/biostack-platforms.json"
   },
   {
-    "id": 31485,
-    "name": "ANORIA",
-    "slug": "anoria",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/da4a14a3baf739d13d28c4b5fd536756215a6801.png",
-    "website": "https://www.anoria.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We've spent decades tracking everything. Sleep. Recovery. Steps. All proxies for how we feel. Performance is 90% mental. And yet no one has built the feedback loop for our emotions. We close that loop by designing a device that understands how you feel, tells you why, and what you can do about it. Emotional intelligence becomes trainable, so you can better connect and create with those around you.",
-    "one_liner": "The first wearable that reads your emotions to enhance your EQ. ",
-    "team_size": 5,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Consumer Electronics",
-    "launched_at": 1777953945,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Consumer Electronics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/anoria",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/anoria.json"
-  },
-  {
     "id": 31487,
     "name": "AquaShield",
     "slug": "aquashield",
@@ -61842,9 +61626,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0fb7d11f60217eaded2ae0e96dbee3bf9ebcd68c.png",
     "website": "https://www.runtm.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Runtime (runtm.com) gives engineering teams control and visibility to enable anyone in their org to use coding agents securely.\r\n\r\nEng leaders rolling out coding agents have no way to see what's happening, set boundaries, or safely let non-engineers use them. We provide sandboxed environments, session-level observability, and configurable guardrails so anyone on your team can ship with coding agents without breaking prod.\r\n\r\nWe're live with fast-growing YC scaleups empowering their Engineers, PMs, designers, marketers, and ops to contribute to their codebase or build prod-grade zero-to-one apps.",
-    "one_liner": "Build and run internal agents, without managing the infrastructure",
-    "team_size": 3,
+    "long_description": "Runtime helps fast-growing fintechs build and run AI agents for financial operations. Teams turn their procedures into specialized agents that work across their systems, with scoped access, human approvals, and a full audit trail.",
+    "one_liner": "AI agents for financial operations",
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1773951001,

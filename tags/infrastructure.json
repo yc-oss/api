@@ -3556,8 +3556,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/973718be82b1053c971c2efe1c5263b785ae3711.png",
     "website": "https://prisminference.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Prism is the easiest way to build and deploy a production AI Agent. \r\n\r\nStop harness-engineering or worrying about infra. Bring your system prompt, tools, MCP, and skills — get infrastructure, orchestration, memory, self learning, and more out of the box.",
-    "one_liner": "Deploy AI Agents with a Single API Call",
+    "long_description": "We sell tokens",
+    "one_liner": "Abundant Intelligence for Everyone",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -4131,15 +4131,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/caf676672b230c36291913a0a2ddce1bd212e7b0.png",
     "website": "https://modelence.com",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "You built the demo in a weekend. Now you need auth, a prod-grade database, real-time events, AI observability, cron jobs, email, monitoring… and you needed them yesterday.\r\n\r\nWe spent a decade at our previous startup, building a $500M platform while scaling to millions of users and customers like Meta & Netflix. Now we're standardizing how web applications are built with an open-source framework and AI App Builder, so non developers can build reliable production apps and not just prototypes.\r\n\r\nModelence is a batteries-included platform with a dedicated web app framework that's designed for building production grade apps with AI, abstracting away the standard building blocks:\r\n- Authentication\r\n- Database\r\n- Hosting\r\n- AI integration\r\n- Cron jobs\r\n- Live / real-time data\r\n- Email integration\r\n- Monitoring\r\n\r\nMost AI app builders just stitch together multiple services and existing frameworks. The reliability drops hard because integrations between different parts break. Modelence defines a single full-stack framework with dedicated cloud infrastructure, where these integrations are already built into the framework and don't need to be built for every app.",
-    "one_liner": "Build production-ready apps with AI",
+    "long_description": "You built your product in a weekend and deployed to Vercel, Supabase, Railway or AWS. Now you need to figure out how to pick the right region, scale to multiple instances, add monitoring and alerts, and who to ping when something breaks… and you don't have a cloud engineer.\r\n\r\nWe spent a decade at our previous startup (CodeSignal), building a $500M platform while scaling to millions of users and customers like Meta & Netflix. Now we're standardizing how web applications are operated in production, so developers can build reliable production apps without becoming cloud infrastructure experts.\r\n\r\nModelence is a production cloud that's designed for enterprise-grade apps, abstracting away the infrastructure layer:\r\n- Deployments & hosting\r\n- Background jobs and persistence\r\n- File storage, real-time data and networking\r\n- Monitoring and alerts\r\n\r\nPlatforms like Vercel and Supabase are easy to start with, but most companies that start getting real customers eventually need a persistent backend where processes can run beyond just a few minutes at a time, unlike pure serverless. And low-level cloud platforms like AWS are meant to be operated by cloud engineers and are too complicated for engineers who want to focus on product rather than infra. Modelence is your managed backend infrastructure, built on decades of our experience operating web apps in the cloud.",
+    "one_liner": "Production infrastructure on autopilot",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1752778004,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
+      "Open Source",
       "Infrastructure"
     ],
     "tags_highlighted": [],
@@ -4965,10 +4965,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1783408799,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5419,49 +5419,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/subvysion.json"
   },
   {
-    "id": 33320,
-    "name": "OneCLI",
-    "slug": "onecli",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0405005492b7122ac5f4784e260fc64d7bd99053.png",
-    "website": "https://onecli.sh",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "OneCLI is an open source agent harness for teams. Each employee gets their own sandboxed pro assistant agent, connected to their GitHub, Gmail, Notion, Dropbox, or CRM right from the chat/Slack, while the whole workspace runs under one policy your admins control.\r\n\r\nAgents never hold real secrets: the credential is injected at the network layer, per request, after the call is authorized. You can't steal what isn't there.",
-    "one_liner": "The open source AI teammates for your company.",
-    "team_size": 0,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1783888956,
-    "tags": [
-      "B2B",
-      "Security",
-      "Open Source",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/onecli",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/onecli.json"
-  },
-  {
     "id": 33348,
     "name": "hiloop",
     "slug": "hiloop",
@@ -5634,6 +5591,50 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/lambda-robotics.json"
   },
   {
+    "id": 35093,
+    "name": "Aviern",
+    "slug": "aviern",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/906b7c01faee6d9632f1f941bfe737812ec7d0b9.png",
+    "website": "https://aviern.com/",
+    "all_locations": "Los Angeles, CA, USA",
+    "long_description": "Aviern builds unmanned airplanes that turn the sky into a geospatial intelligence source. Our fixed-wing aircraft launch, fly, and land from unattended docks along infrastructure corridors, with onboard perception that flags leaks, encroachments, and vegetation risk with no pilot in the loop. We're starting with PHMSA-mandated pipeline patrol, where operators still pay helicopter crews to fly their lines up to 26 times a year, and we sell per mile as a service. The same aircraft, docks, and intelligence stack extend to the power grid, rail, borders, and bases.",
+    "one_liner": "Unmanned airplanes for geospatial intelligence",
+    "team_size": 4,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Drones",
+    "launched_at": 1789408162,
+    "tags": [
+      "Geographic Information System",
+      "Airplanes",
+      "Aerospace",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Drones"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/aviern",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/aviern.json"
+  },
+  {
     "id": 35257,
     "name": "Nodus Compute",
     "slug": "nodus-compute",
@@ -5796,6 +5797,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dreamscale-labs",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/dreamscale-labs.json"
+  },
+  {
+    "id": 36643,
+    "name": "Papaya",
+    "slug": "papaya",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/90437a276bb22b842ea04cd42e19389e216c984c.png",
+    "website": "https://papaya.fyi/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Papaya is the optimization engine for AI agents. Engineers don't have time to continually improve the agents they've shipped — the context bloat, overly chatty subagents, and broken tool calls sit in production traces nobody reads, quietly hurting agent efficiency. With Papaya they connect their agent directly via SDK, get actionable recommendations on how to improve quality, latency, and cost, and the ones they approve are pushed to production as pull requests.\r\n\r\nPapaya runs 200+ research-backed analyses across context, prompts, prompt caching, subagents, and tool calls. Every recommendation is ranked by impact and comes with the production runs that produced it — typically a 10%+ quality improvement on the first workflow analysis.",
+    "one_liner": "Continuous optimization for AI agents",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1789407516,
+    "tags": [
+      "AIOps",
+      "B2B",
+      "Enterprise Software",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/papaya",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/papaya.json"
   },
   {
     "id": 37105,

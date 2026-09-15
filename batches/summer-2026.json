@@ -1745,10 +1745,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1783408799,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2646,7 +2646,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Kara is building diamond semiconductors. \r\n\r\nWe begin with growing ultra-high purity diamond wafers for advanced hardware. Used in data centers, spacecrafts, RF systems, and quantum hardware, our diamond moves heat up to 5× better than copper, helping critical systems run cooler, faster, and more reliably. \r\n\r\nDiamond has spent centuries as a symbol. We are turning it into infrastructure.",
     "one_liner": "Making Diamond Semiconductors",
-    "team_size": 3,
+    "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials",
     "launched_at": 1785349021,
@@ -2679,24 +2679,26 @@
   },
   {
     "id": 32138,
-    "name": "Nebula Security",
-    "slug": "nebula-security",
-    "former_names": [],
+    "name": "NebuSec",
+    "slug": "nebusec",
+    "former_names": [
+      "Nebula Security"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c60d9cd12e8c1b315e07ee45555c24b5f74d5654.png",
     "website": "https://nebusec.ai",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Nebula Security is founded by the world’s #1 hacking team.\r\n\r\nWe were the first team to build an nginx RCE and the first to root Android 17. Our co-founders include members of the world’s No. 1 CTF team, DEF CON winners, Black Hat speakers, and PhD in cybersecurity. We have won $400K in bug bounties by exploiting the Linux kernel and Chrome browser.\r\n\r\n“Audited by Nebula Security” is a mark of serious security credibility: a signal to customers, investors, and partners that your product has been reviewed by the world’s best hackers.",
+    "long_description": "NebuSec is founded by the world’s #1 hacking team.\r\n\r\nWe were the first team to build an nginx RCE and the first to root Android 17. Our co-founders include members of the world’s No. 1 CTF team, DEF CON winners, Black Hat speakers, and PhD in cybersecurity. We have won $400K in bug bounties by exploiting the Linux kernel and Chrome browser.\r\n\r\n“Audited by NebuSec” is a mark of serious security credibility: a signal to customers, investors, and partners that your product has been reviewed by the world’s best hackers.",
     "one_liner": "Autonomous AI defense system for cyber attack",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1783007241,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Security",
       "Cybersecurity",
-      "Enterprise",
-      "AI"
+      "Enterprise"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2719,8 +2721,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/nebula-security",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/nebula-security.json"
+    "url": "https://www.ycombinator.com/companies/nebusec",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/nebusec.json"
   },
   {
     "id": 32154,
@@ -5714,17 +5716,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d7ab9b902afa3fe0a37b3622022557a9cd82d082.png",
     "website": "https://whitespacehq.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Whitespace builds AI agents that run the entire operation of supply chain businesses, starting with wholesale distributors. We give them self-improving AI agents that learn their business and do work like inventory planning and customer service.",
+    "long_description": "Whitespace builds AI agents that run the entire operation of supply chain businesses, starting with wholesale distributors. We give them self-improving AI agents that learn their business and do work like inventory planning and customer service.\r\n\r\nWe're building towards a world where all supply chain operations run through our agents, and all physical goods purchases can happen across businesses without human touch.",
     "one_liner": "AI Operating System for Wholesale Distribution",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1782389037,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Supply Chain"
+      "Supply Chain",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -9141,18 +9143,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0405005492b7122ac5f4784e260fc64d7bd99053.png",
     "website": "https://onecli.sh",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "OneCLI is an open source agent harness for teams. Each employee gets their own sandboxed pro assistant agent, connected to their GitHub, Gmail, Notion, Dropbox, or CRM right from the chat/Slack, while the whole workspace runs under one policy your admins control.\r\n\r\nAgents never hold real secrets: the credential is injected at the network layer, per request, after the call is authorized. You can't steal what isn't there.",
+    "long_description": "OneCLI (YC S26) is an open-source AI teammates platform for teams. Like Grok Bot, but self-hostable, loved by developers. \r\n\r\nEach employee gets their own sandboxed pro assistant agent, connected to their GitHub, Gmail, Notion, Dropbox, or CRM right from the chat/Slack, while the whole workspace runs under one policy your admins control.\r\n\r\nAgents never hold real secrets: the credential is injected at the network layer, per request, after the call is authorized. You can't steal what isn't there.",
     "one_liner": "The open source AI teammates for your company.",
     "team_size": 0,
     "industry": "B2B",
-    "subindustry": "B2B -> Security",
+    "subindustry": "B2B -> Productivity",
     "launched_at": 1783888956,
     "tags": [
+      "AIOps",
+      "Artificial Intelligence",
       "B2B",
-      "Security",
-      "Open Source",
-      "Infrastructure",
-      "AI"
+      "Workflow Automation",
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -9162,7 +9164,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Security"
+      "Productivity"
     ],
     "regions": [
       "United States of America",
