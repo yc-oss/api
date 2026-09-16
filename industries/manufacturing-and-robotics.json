@@ -2295,13 +2295,13 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Pivot Robotics makes AI software for robotic arms that helps manufacturers automate their most labor intensive tasks. We are starting out with the dangerous task of metal grinding and are currently deploying our software on 10+ robots in a cast-iron foundry. ",
     "one_liner": "AI for Robot Arms in Factories",
-    "team_size": 7,
+    "team_size": 8,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1709584102,
     "tags": [
-      "Artificial Intelligence",
       "Robotics",
+      "AI",
       "Industrial"
     ],
     "tags_highlighted": [],
@@ -3688,6 +3688,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/physical-turing.json"
   },
   {
+    "id": 30707,
+    "name": "Phases",
+    "slug": "phases",
+    "former_names": [
+      "Patiently"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f48e664a460b19faede05bd1de6c49c5d3931a9.png",
+    "website": "https://phases.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "AI for the physical world",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1751998711,
+    "tags": [
+      "Artificial Intelligence",
+      "Healthcare IT",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/phases",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/phases.json"
+  },
+  {
     "id": 30717,
     "name": "Iron Grid",
     "slug": "iron-grid",
@@ -4353,7 +4396,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2026",
     "status": "Active",
@@ -5031,7 +5074,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2026",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "Industrials",
       "Manufacturing and Robotics"
@@ -6303,7 +6346,7 @@
     "name": "Dreamscale Labs",
     "slug": "dreamscale-labs",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a1d1aaa10413e5d45ca3d2aefe2fb4b682e7fb4.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a0eb88901e7f46ec71cc8739e8069f4815b0a52.png",
     "website": "https://dreamscalelabs.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Dreamscale Labs is building the fastest cloud inference platform for robotics. As complex physical AI models become difficult to fit on expensive on-robot GPUs, we let users offload inference to the cloud and serve them with real-time latency. So far, we've hit 40-50% lower latency than existing neoclouds.\r\n",

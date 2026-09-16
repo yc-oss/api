@@ -5784,7 +5784,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2020",
     "status": "Active",
@@ -8134,7 +8134,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -11075,7 +11075,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -18980,53 +18980,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/endstack.json"
   },
   {
-    "id": 30060,
-    "name": "Lingo.dev",
-    "slug": "lingodotdev",
-    "former_names": [
-      "Replexica"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8a284047c475d06365013890a991877b3bdad21e.png",
-    "website": "https://lingo.dev",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Lingo.dev is a localization engineering platform where teams create localization engines – stateful translation APIs configured with glossaries, brand voice rules, per-locale model preferences, and quality scoring. Each engine persists domain context across every request via retrieval augmented localization (RAL). Integrate via API, CLI, CI/CD, or other integrations. Localization infrastructure behind 200M+ translated words for teams including Mistral, Solana, SoSafe, and Cal.com.",
-    "one_liner": "The Localization Engineering Platform",
-    "team_size": 7,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1728389519,
-    "tags": [
-      "Developer Tools",
-      "B2B",
-      "International",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lingodotdev",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/lingodotdev.json"
-  },
-  {
     "id": 30063,
     "name": "Freebuff",
     "slug": "freebuff",
@@ -20470,49 +20423,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/helixdb",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/helixdb.json"
-  },
-  {
-    "id": 30442,
-    "name": "Hanji",
-    "slug": "hanji",
-    "former_names": [
-      "YouLearn"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9438999e1f2681be7ed1a32e6e245f0d3885b798.png",
-    "website": "https://hanji.dev/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We turn scanned, faxed, and handwritten documents into structured data with a pipeline tuned to your workflow",
-    "one_liner": "Turn your hardest documents into reliable data",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1745603860,
-    "tags": [
-      "Documents",
-      "Artificial Intelligence",
-      "Developer Tools"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/hanji",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/hanji.json"
   },
   {
     "id": 30444,
@@ -22699,7 +22609,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2026",
     "status": "Active",
@@ -23215,7 +23125,7 @@
       "Ara"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f536d08b73147eb71c0665fe5c2d6c6ffed0663.png",
-    "website": "https://reasonmachines.ai",
+    "website": "https://reasonmachines.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Billions of machines are left untouched by agents and work individually. We connect them to unlock multiplayer cloud coding agents for work like engineering, math and research.\r\n\r\n",
     "one_liner": "The coding agent that can access and reason across any machine. ",
@@ -24338,11 +24248,11 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1789011304,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "B2B",
-      "DevOps",
-      "AI"
+      "DevOps"
     ],
     "tags_highlighted": [],
     "top_company": false,

@@ -10056,18 +10056,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9903b97190d67a01064a67c7522d3703402c8f0c.png",
     "website": "https://www.atmeto.com",
     "all_locations": "Los Angeles, CA, USA",
-    "long_description": "Founded in 2022, Atmeto was started as a place to develop and apply machine learning to solve the world's biggest problem—climate change. Our current priority is getting the grid to run on 100% clean energy, which is currently limited by battery storage (specifically, the algorithms that control them).\r\n\r\nWe're redefining these algorithms to unlock gigawatts of untapped energy storage capacity, enabling the grid to run on more clean energy from wind and solar.",
-    "one_liner": "We develop ML that optimizes how batteries in the grid store energy",
+    "long_description": "",
+    "one_liner": "Building a frontier world model for power",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Energy",
     "launched_at": 1674416288,
     "tags": [
-      "Energy Storage",
-      "Reinforcement Learning",
+      "Machine Learning",
       "Climate",
       "Energy",
-      "ClimateTech"
+      "ClimateTech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -10536,13 +10536,13 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Pivot Robotics makes AI software for robotic arms that helps manufacturers automate their most labor intensive tasks. We are starting out with the dangerous task of metal grinding and are currently deploying our software on 10+ robots in a cast-iron foundry. ",
     "one_liner": "AI for Robot Arms in Factories",
-    "team_size": 7,
+    "team_size": 8,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1709584102,
     "tags": [
-      "Artificial Intelligence",
       "Robotics",
+      "AI",
       "Industrial"
     ],
     "tags_highlighted": [],
@@ -13971,6 +13971,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/albacore-inc.json"
   },
   {
+    "id": 30707,
+    "name": "Phases",
+    "slug": "phases",
+    "former_names": [
+      "Patiently"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f48e664a460b19faede05bd1de6c49c5d3931a9.png",
+    "website": "https://phases.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "AI for the physical world",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1751998711,
+    "tags": [
+      "Artificial Intelligence",
+      "Healthcare IT",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/phases",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/phases.json"
+  },
+  {
     "id": 30708,
     "name": "Perseus Defense",
     "slug": "perseus-defense",
@@ -15084,7 +15127,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2026",
     "status": "Active",
@@ -16784,7 +16827,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2026",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "Industrials",
       "Manufacturing and Robotics"
@@ -18821,7 +18864,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2026",
     "status": "Active",
@@ -19615,7 +19658,7 @@
     "name": "Dreamscale Labs",
     "slug": "dreamscale-labs",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a1d1aaa10413e5d45ca3d2aefe2fb4b682e7fb4.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a0eb88901e7f46ec71cc8739e8069f4815b0a52.png",
     "website": "https://dreamscalelabs.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Dreamscale Labs is building the fastest cloud inference platform for robotics. As complex physical AI models become difficult to fit on expensive on-robot GPUs, we let users offload inference to the cloud and serve them with real-time latency. So far, we've hit 40-50% lower latency than existing neoclouds.\r\n",

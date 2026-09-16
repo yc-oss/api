@@ -1853,24 +1853,25 @@
   },
   {
     "id": 30442,
-    "name": "Hanji",
-    "slug": "hanji",
+    "name": "YouLearn",
+    "slug": "youlearn",
     "former_names": [
-      "YouLearn"
+      "YouLearn",
+      "Hanji"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9438999e1f2681be7ed1a32e6e245f0d3885b798.png",
-    "website": "https://hanji.dev/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d95a92c88005262cd010ecec020011f74b07cf63.png",
+    "website": "https://www.youlearn.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We turn scanned, faxed, and handwritten documents into structured data with a pipeline tuned to your workflow",
-    "one_liner": "Turn your hardest documents into reliable data",
+    "long_description": "YouLearn is an AI tutor for college students. It turns your learning materials into concise notes, an AI tutor you can talk to, and personalized tests.",
+    "one_liner": "AI tutor for each student. ",
     "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
+    "industry": "Education",
+    "subindustry": "Education",
     "launched_at": 1745603860,
     "tags": [
-      "Documents",
-      "Artificial Intelligence",
-      "Developer Tools"
+      "AI-Enhanced Learning",
+      "Education",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1879,8 +1880,7 @@
     "batch": "Spring 2025",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Infrastructure"
+      "Education"
     ],
     "regions": [
       "United States of America",
@@ -1891,8 +1891,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/hanji",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/hanji.json"
+    "url": "https://www.ycombinator.com/companies/youlearn",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/youlearn.json"
   },
   {
     "id": 30443,
@@ -2978,20 +2978,20 @@
     "slug": "habit",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/346513b86ce82dc04f53e62543ed7ec57a508425.png",
-    "website": "https://habitrobotics.com",
+    "website": "https://habit.inc",
     "all_locations": "Los Angeles, CA, USA",
-    "long_description": "Every month, our robots greet tens of thousands of Americans with a smile. They answer questions, upsell customers, and can be trained just like a human employee.",
-    "one_liner": "Conversational robots for physical businesses.",
+    "long_description": "We build autonomous research agents that accelerate frontier world models.",
+    "one_liner": "Accelerating world models.",
     "team_size": null,
     "industry": "B2B",
-    "subindustry": "B2B -> Retail",
+    "subindustry": "B2B",
     "launched_at": 1747768090,
     "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
       "Robotics",
-      "Consumer",
       "B2B",
-      "Retail",
-      "AI"
+      "API"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3000,8 +3000,7 @@
     "batch": "Spring 2025",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Retail"
+      "B2B"
     ],
     "regions": [
       "United States of America",

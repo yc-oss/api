@@ -4378,6 +4378,51 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2018/voicery.json"
   },
   {
+    "id": 1876,
+    "name": "Veriff",
+    "slug": "veriff",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5fb14cdcb75e548883b7886a7495ab57d679fcb5.png",
+    "website": "https://veriff.com/",
+    "all_locations": "Tallinn, Harju County, Estonia",
+    "long_description": "Veriff is a global AI-native identity platform that helps organizations build trust online. Leading companies across financial services, marketplaces, mobility, gig economy, and other digital sectors rely on Veriff's technology to stay compliant, prevent fraud, protect users, and scale globally.\r\n\r\nVeriff's trust infrastructure supports the full customer journey, from verification to ongoing authentication and fraud prevention, with the least friction for honest people. With 600+ people in the US, UK, Brazil, Spain, and Estonia, Veriff helps businesses expand across borders without the complexity of managing identity verification, compliance, and fraud in multiple markets – creating a single source of truth for trusted identities. Backed by investors including Accel, Alkeon, IVP, Tiger Capital, and Y Combinator, Veriff is dedicated to helping businesses and individuals build a safer, more secure world.",
+    "one_liner": "Veriff is a global AI-native identity platform building trust online",
+    "team_size": 600,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1514156539,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Compliance",
+      "Fraud Prevention"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2018",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Estonia",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": true,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/veriff",
+    "api": "https://yc-oss.github.io/api/batches/winter-2018/veriff.json"
+  },
+  {
     "id": 1890,
     "name": "User Hero",
     "slug": "user-hero",
@@ -4549,7 +4594,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -14445,7 +14490,7 @@
     "all_locations": "New York City, NY, USA",
     "long_description": "Navattic helps sales and marketing teams instantly create interactive product demos.",
     "one_liner": "Interactive product demos",
-    "team_size": 35,
+    "team_size": 40,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1614276980,
@@ -26309,7 +26354,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -35082,8 +35127,8 @@
     "former_names": [
       "Malibou"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9637a17ef68e79a0e70a53729e5937278fffb4ea.png",
-    "website": "https://www.malibou.co",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d58137f5ea9c3d97a49e190602fc6dd4331ccf6d.png",
+    "website": "https://www.malibou.com",
     "all_locations": "Paris, IDF, France",
     "long_description": "malibou is a web application helping French SMBs to manage employees, run payroll and track compliance in a single app.\r\n\r\nWhen processing payroll in France, you either have the choice between an accountant with good advice but no way to connect an HRIS with him, or a good HRIS that does not include payroll services. It was time for a change, to finally bring payroll and HR at the same place. \r\n\r\nDue to increasing competition in the space, French payroll engines have just opened their APIs. This allows us to offer a unified payroll and HR solution, which wasn't possible before.",
     "one_liner": "the first all-in-one payroll and HR software for French SMBs",
@@ -37330,10 +37375,10 @@
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1705516248,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Logistics",
-      "Supply Chain"
+      "Supply Chain",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -40775,22 +40820,21 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8a284047c475d06365013890a991877b3bdad21e.png",
     "website": "https://lingo.dev",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Lingo.dev is a localization engineering platform where teams create localization engines – stateful translation APIs configured with glossaries, brand voice rules, per-locale model preferences, and quality scoring. Each engine persists domain context across every request via retrieval augmented localization (RAL). Integrate via API, CLI, CI/CD, or other integrations. Localization infrastructure behind 200M+ translated words for teams including Mistral, Solana, SoSafe, and Cal.com.",
+    "long_description": "Lingo.dev is the localization engineering platform: the best way to measure translation quality, translate with LLMs, and proofread with native speakers.\r\n\r\nLingo.dev is built for teams accountable for quality in languages they can't read. Teams configure localization engines, stateful translation APIs that hold the glossary, brand voice, and per-locale model preferences, and every request retrieves that context at inference time through retrieval augmented localization. Every translation is scored before it goes live, scores and corrections tune the engine, and the localization team runs the localization infrastructure. Integrate through the API, CLI, CI/CD, or native integrations with the code repository and the CMS. \r\n\r\nLingo.dev is the standard localization infrastructure for modern enterprise teams scaling into new markets – including Mistral, Solana, SoSafe, and Cal.com. Over 300M words processed, SOC 2 Type II compliant.",
     "one_liner": "The Localization Engineering Platform",
     "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1728389519,
     "tags": [
-      "Developer Tools",
+      "Artificial Intelligence",
       "B2B",
       "International",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2024",
     "status": "Active",
@@ -40808,7 +40852,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": false,
+    "question_answers": true,
     "url": "https://www.ycombinator.com/companies/lingodotdev",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/lingodotdev.json"
   },
@@ -42090,15 +42134,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Nitrode is a research company focused on improving game development with AI. To advance game development, we believe AI models firstly need to be judged against robust evaluation frameworks that reflect the actual complexity of the field.\r\n",
     "one_liner": "Frontier AI research to advance game development",
-    "team_size": 5,
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1738144366,
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
       "B2B",
-      "Data Engineering",
-      "AI"
+      "Data Engineering"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -42504,7 +42548,7 @@
       "Belgium",
       "Europe"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -42961,20 +43005,20 @@
     "slug": "habit",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/346513b86ce82dc04f53e62543ed7ec57a508425.png",
-    "website": "https://habitrobotics.com",
+    "website": "https://habit.inc",
     "all_locations": "Los Angeles, CA, USA",
-    "long_description": "Every month, our robots greet tens of thousands of Americans with a smile. They answer questions, upsell customers, and can be trained just like a human employee.",
-    "one_liner": "Conversational robots for physical businesses.",
+    "long_description": "We build autonomous research agents that accelerate frontier world models.",
+    "one_liner": "Accelerating world models.",
     "team_size": null,
     "industry": "B2B",
-    "subindustry": "B2B -> Retail",
+    "subindustry": "B2B",
     "launched_at": 1747768090,
     "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
       "Robotics",
-      "Consumer",
       "B2B",
-      "Retail",
-      "AI"
+      "API"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -42983,8 +43027,7 @@
     "batch": "Spring 2025",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Retail"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -44013,17 +44056,17 @@
     "website": "https://www.theliva.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Helping to build more socially intelligent AI, starting with voice.",
-    "one_liner": "Audio & Video Data",
+    "one_liner": "Building socially intelligent AI",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1753401226,
     "tags": [
-      "Artificial Intelligence",
       "Marketplace",
       "B2B",
       "Data Labeling",
-      "Big Data"
+      "Big Data",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46138,7 +46181,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -47851,17 +47894,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e21f70e5b9032365254edae847e8dcbc9ffddb3.png",
     "website": "https://kebra.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Kebra builds AI for skilled technicians.\r\n\r\nKebra guides technicians in the field in real time, documents their work, and automatically handles hours of back-office work; from dispatching technicians to filing warranty claims and managing inventory.",
+    "long_description": "Kebra builds AI for skilled technicians.\r\n\r\nKebra guides technicians in the field in real time, documents their job, and automatically handles hours of back-office work; from dispatching technicians to filing warranty claims and managing inventory.",
     "one_liner": "AI For The Skilled Workforce",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1784399832,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Home Services",
-      "Operations",
-      "AI"
+      "Operations"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49423,7 +49466,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2026",
     "status": "Active",
@@ -49878,11 +49921,11 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1789011304,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "B2B",
-      "DevOps",
-      "AI"
+      "DevOps"
     ],
     "tags_highlighted": [],
     "top_company": false,

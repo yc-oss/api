@@ -2139,54 +2139,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2015/tab.json"
   },
   {
-    "id": 848,
-    "name": "Tara AI",
-    "slug": "tara-ai",
-    "former_names": [
-      "Gradberry",
-      "TARA"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5150a8797d7be6783f61a5e2ea17ea19cd3721a3.png",
-    "website": "http://www.tara.ai",
-    "all_locations": "San Francisco, CA, USA; San Jose, CA, USA; Remote",
-    "long_description": "Tara AI helps engineering leaders measure and improve engineering efficiency, with fine-tuned, secure LLMs trained on source control and project data. \r\n\r\nOur customers include MongoDB, Clearbit and Prometric. Our platform generates all-in-one views on cycle times, benchmarks, investments and overall size and velocity of engineering activity. We're helping customers achieve 30% reduction in time to customer deployment.",
-    "one_liner": "Meet Tara AI, your new engineering efficiency co-pilot.",
-    "team_size": 13,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1419816809,
-    "tags": [
-      "Artificial Intelligence",
-      "Generative AI",
-      "SaaS",
-      "DevOps",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2015",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tara-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2015/tara-ai.json"
-  },
-  {
     "id": 856,
     "name": "Mashgin",
     "slug": "mashgin",
@@ -7706,7 +7658,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -8097,7 +8049,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -14037,6 +13989,52 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2020/atob.json"
   },
   {
+    "id": 21795,
+    "name": "QuestDB",
+    "slug": "questdb",
+    "former_names": [
+      "QuestDB Limited"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3aef5c655cdc851ccad387554c204466a87669e7.png",
+    "website": "https://questdb.com/",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "QuestDB is a high-performance open source database for the most demanding workloads. Native support for Parquet, Iceberg and SQL keeps your data portable, AI-ready, without vendor lock-in.\r\n\r\nQuestDB is designed from the ground up to operate as close to the hardware as possible - eliminating ingestion bottlenecks and lowering overall hardware requirements.\r\n\r\nQuestDB powers mission-critical infrastructure for companies in Capital Markets, Crypto, Space Exploration, Energy and Robotics/Physical AI.",
+    "one_liner": "High-performance time series database",
+    "team_size": 30,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1593714682,
+    "tags": [
+      "Developer Tools",
+      "Analytics",
+      "Open Source",
+      "Time Series"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2020",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/questdb",
+    "api": "https://yc-oss.github.io/api/batches/summer-2020/questdb.json"
+  },
+  {
     "id": 21799,
     "name": "Conta Simples",
     "slug": "conta-simples",
@@ -19598,52 +19596,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/odys-aviation",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/odys-aviation.json"
-  },
-  {
-    "id": 23948,
-    "name": "Superwall",
-    "slug": "staffbar",
-    "former_names": [
-      "Share That",
-      "StaffBar"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e4505819ade5550ec16c605c15c7ccf142d096de.png",
-    "website": "https://superwall.com",
-    "all_locations": "New York City, NY, USA",
-    "long_description": "Superwall is a complete, standalone subscription platform for consumer mobile and web apps — backend infrastructure (entitlements, purchase APIs with server-side receipt validation, standardized webhooks, real-time revenue analytics, direct SQL access to subscription data) together with a no-code paywall and experimentation engine, and first-class tooling for AI coding agents. Superwall manages $1.6B+ in annual subscription revenue across 10,000+ apps. The infrastructure layer is free at any scale; the only meter on the platform is revenue that converts through a Superwall-rendered paywall — subscriptions sold anywhere else are never billed.\r\n\r\n**Standalone backend:** The highest-revenue apps on Superwall like Cal AI — run their **entire subscription stack on Superwall alone: no second backend, no other subscription platform underneath**. Entitlement state is computed server-side from App Store Server Notifications V2 and Google Play Real-Time Developer Notifications, delivered by Apple and Google directly to Superwall. The largest single app runs **$43.7M ARR entirely on Superwall**; the top 10 together represent $134M+ in annual subscription revenue. Apps that previously ran a different subscription backend complete an automated migration — subscription history, entitlement state, webhook configuration — and run on Superwall alone from then on; imported subscribers are never billed.\r\n\r\n**Pricing:** The subscription infrastructure — entitlements, receipt validation, webhooks, analytics, SQL access — is free at any scale, with no revenue threshold and no per-event fees. The paywall product is free up to $10k/month in paywall-attributed revenue, then 1% of paywall-attributed revenue, and only that revenue: an app with $50k/month in subscriptions and no Superwall paywalls in use pays $0/month for the entire platform, and revenue the platform didn't help earn is never billed. Compared with charging a percentage of all subscription revenue, the difference is the base, not the rate.\r\n\r\n**Coverage:** Apple App Store, Google Play, and Stripe — including web checkout, external browser checkout from iOS paywalls (App2Web), and products from any external billing system via Custom Store Products. Monetization models: auto-renewing subscriptions, free trials and intro offers, one-time purchases, lifetime unlocks, and consumables. SDKs: iOS & Apple platforms, Android, React Native, Flutter, Expo, Unity, and Web — all open source on [GitHub](https://github.com/superwall). Not just for engineers: growth, product, support, and data teams run monetization from the dashboard, analytics, and SQL access day to day.\r\n\r\n**What Superwall does not do:** It does not process payments — Apple, Google, and Stripe do. It does not run virtual-currency or coin-ledger systems, does not track ad revenue, and does not support Amazon or Roku storefronts. For consumer subscription apps on iOS, Android, and the web, it covers the monetization surface end to end.\r\n\r\n**Experimentation:** Superwall's published research spans 100M+ analyzed paywall views and 4,500+ paywall A/B tests: multi-page onboarding paywalls convert 37% better than single-page (40M+ opens measured), Cal AI ran 123 experiments and grew monthly revenue 3x+ in 10 months, Planner 5D lifted revenue per user 83% through price testing. Build, target, test, and ship paywalls from the dashboard with no app release.\r\n\r\n**Retention:** Free trial reminders, cancellation and decline surveys, transaction-abandon recovery offers, win-back paywalls targeted by subscription state, Apple Retention Messaging on the iOS cancel screen, automated refund protection, and a per-customer timeline for support.\r\n\r\n**Agent tooling:** Open-source agent skills for Claude Code, Codex, and other coding agents; an editor MCP server for building live paywalls from the terminal; an embedded dashboard CLI; and direct SQL access to subscription data via the Query API.",
-    "one_liner": "Subscription infrastructure & paywall experimentation for mobile apps",
-    "team_size": 25,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1628553410,
-    "tags": [
-      "Developer Tools",
-      "Payments",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2021",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/staffbar",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/staffbar.json"
   },
   {
     "id": 23954,
@@ -28425,52 +28377,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/thera",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/thera.json"
-  },
-  {
-    "id": 26877,
-    "name": "Peoplebox.ai",
-    "slug": "peoplebox",
-    "former_names": [
-      "Peoplebox Inc",
-      "Peoplebox"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d90945bbd65aa37022870fefcb46d282f82e8624.png",
-    "website": "https://www.peoplebox.ai",
-    "all_locations": "Bengaluru, KA, India",
-    "long_description": "Peoplebox.ai is an AI-native talent platform used by 500+ companies to hire, manage, and grow their people.\r\n\r\nAt the center is Nova, the world’s most human-like AI teammate, for all talent conversations. Nova runs two-way voice/video pre-screen calls, first-round interviews (with coding round and advance proctoring), check-ins, and assessments,  all with your company’s context built in.\r\n\r\nThe talent management platform brings together OKRs/goals, performance reviews, career growth, calibration, and compensation into one unified system, helping companies align, assess, and develop talent faster.",
-    "one_liner": "AI talent platform to hire, manage, and grow your people ",
-    "team_size": 35,
-    "industry": "B2B",
-    "subindustry": "B2B -> Human Resources",
-    "launched_at": 1653465182,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Recruiting",
-      "HR Tech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Human Resources"
-    ],
-    "regions": [
-      "India",
-      "South Asia"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/peoplebox",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/peoplebox.json"
   },
   {
     "id": 26880,
@@ -37940,13 +37846,13 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Pivot Robotics makes AI software for robotic arms that helps manufacturers automate their most labor intensive tasks. We are starting out with the dangerous task of metal grinding and are currently deploying our software on 10+ robots in a cast-iron foundry. ",
     "one_liner": "AI for Robot Arms in Factories",
-    "team_size": 7,
+    "team_size": 8,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1709584102,
     "tags": [
-      "Artificial Intelligence",
       "Robotics",
+      "AI",
       "Industrial"
     ],
     "tags_highlighted": [],
@@ -40799,10 +40705,10 @@
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1705516248,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Logistics",
-      "Supply Chain"
+      "Supply Chain",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -42954,19 +42860,19 @@
     "former_names": [
       "Arctic Capture"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b82e4439479abc4af4baa257faf13f88240781b4.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd834838e899b193bf63adbb6160e2a6faf66041.png",
     "website": "https://anthrogen.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Proteins power everything from the cells in your body to creating materials you rely on every day—but until now, we’ve been forced to discover their functions by trial and error. Designing a new therapeutic can take decades and billions of dollars, and even our best industrial catalysts work at a snail’s pace compared to their theoretical optimums.\r\n\r\nAnthrogen is changing that. By training massive AI foundation models on protein sequences and structures, we’ve unlocked the ability to generate—on demand—completely novel molecular machines with atomic-level precision. Simply describe the function you need, and our platform imagines the peptide or protein that will deliver it.\r\n\r\nWe're building models to speed up billions of years of evolution into the span of an afternoon's worth of compute.\r\n\r\nThe result? New-to-nature therapies, ultra-efficient catalysts for sustainable manufacturing, and a whole new frontier of molecular innovation—designed as precisely as any cutting-edge aircraft or microchip.",
-    "one_liner": "We're training the next generation of protein foundation models.",
-    "team_size": 6,
+    "long_description": "Anthrogen is engineering post-modality biology.\r\n\r\nToday's modalities reflect historical contingencies in biological progress, not fundamental categories. We develop the AI systems that design modular biological machines and the experimental infrastructure to instantiate them.",
+    "one_liner": "We work on generalizable tools for the next era of biotech. ",
+    "team_size": 15,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1717790065,
     "tags": [
-      "Artificial Intelligence",
       "Deep Learning",
-      "Biotech"
+      "Biotech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -43001,7 +42907,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Kastle is an AI platform for loan operations. We help banks across the United States collect payments, verify new borrowers, and qualify new loan inquiries over the phone. \r\n\r\nRishi and Nitish met at UIUC where they graduated with degrees in systems engineering and computer science.  Rishi was the founding Product Manager for Redfin’s Mortgage Marketplace at 22 and grew the business from $3M to $6M in revenue in 9 months. Nitish patented Verkada’s motion search system and was the youngest tech lead at the company at 23.\r\n\r\nWhile building Redfin's Mortgage Marketplace Rishi realized traditional lenders didn't have the infrastructure to service online inquiries and were losing customers. Nitish and Rishi are building Kastle to help traditional financial services companies better interface with their customers. ",
     "one_liner": "AI employee for consumer lending",
-    "team_size": 10,
+    "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1720330783,
@@ -46090,6 +45996,52 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/luthor.json"
   },
   {
+    "id": 30060,
+    "name": "Lingo.dev",
+    "slug": "lingodotdev",
+    "former_names": [
+      "Replexica"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8a284047c475d06365013890a991877b3bdad21e.png",
+    "website": "https://lingo.dev",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Lingo.dev is the localization engineering platform: the best way to measure translation quality, translate with LLMs, and proofread with native speakers.\r\n\r\nLingo.dev is built for teams accountable for quality in languages they can't read. Teams configure localization engines, stateful translation APIs that hold the glossary, brand voice, and per-locale model preferences, and every request retrieves that context at inference time through retrieval augmented localization. Every translation is scored before it goes live, scores and corrections tune the engine, and the localization team runs the localization infrastructure. Integrate through the API, CLI, CI/CD, or native integrations with the code repository and the CMS. \r\n\r\nLingo.dev is the standard localization infrastructure for modern enterprise teams scaling into new markets – including Mistral, Solana, SoSafe, and Cal.com. Over 300M words processed, SOC 2 Type II compliant.",
+    "one_liner": "The Localization Engineering Platform",
+    "team_size": 7,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1728389519,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "International",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/lingodotdev",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/lingodotdev.json"
+  },
+  {
     "id": 30066,
     "name": "Unusual",
     "slug": "unusual",
@@ -48419,10 +48371,10 @@
     "subindustry": "Fintech -> Banking and Exchange",
     "launched_at": 1740523068,
     "tags": [
+      "Artificial Intelligence",
       "FinOps",
       "Fintech",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48627,15 +48579,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Nitrode is a research company focused on improving game development with AI. To advance game development, we believe AI models firstly need to be judged against robust evaluation frameworks that reflect the actual complexity of the field.\r\n",
     "one_liner": "Frontier AI research to advance game development",
-    "team_size": 5,
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1738144366,
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
       "B2B",
-      "Data Engineering",
-      "AI"
+      "Data Engineering"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49406,7 +49358,7 @@
       "Belgium",
       "Europe"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -56309,6 +56261,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/sunflower.json"
   },
   {
+    "id": 30918,
+    "name": "ComplyDo",
+    "slug": "complydo",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1138acf799ce629450bf7f2fb3d38a36aabb6d93.png",
+    "website": "https://www.complydo.io/",
+    "all_locations": "Berlin, Berlin, Germany",
+    "long_description": "The most flexible enterprise compliance engine that makes GRC teams 10x more efficient. Already trusted by global leaders and the largest EU enterprises.\r\n\r\nWhat it does:\r\n- Extracts requirements from any file\r\n- Maps them to controls and policies\r\n- Shows gaps and monitors changes\r\n- Advises on maturity and next steps",
+    "one_liner": "Global Compliance for Enterprises",
+    "team_size": 10,
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1759460278,
+    "tags": [
+      "B2B",
+      "Compliance",
+      "LegalTech",
+      "Cybersecurity",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "Germany",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/complydo",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/complydo.json"
+  },
+  {
     "id": 30927,
     "name": "Oxus",
     "slug": "oxus",
@@ -56523,7 +56518,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Aside is an AI browser that completes real work across the websites you already use. It can sign in through your browser, work inside email, dashboards, internal tools, docs, and spreadsheets, and keep going when a task takes minutes or hours.\r\n\r\nUnlike agents that depend on integrations, Aside uses the web the way you do. Browsing history becomes local memory, so it knows which tools and context matter. Its password manager lets agents autofill credentials without exposing secrets to the AI. Sensitive actions like payments, posts, and messages wait for your approval.\r\n\r\nWe achieved state-of-the-art on agentic browsing benchmarks, surpassing OpenAI and Anthropic's result- Aside ranked #1 across Mind2Web, Odyssey, bu-bench-v1.",
     "one_liner": "The browser built to do real work for you",
-    "team_size": 5,
+    "team_size": 8,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1760485553,
@@ -57768,6 +57763,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ploy",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/ploy.json"
+  },
+  {
+    "id": 31047,
+    "name": "Waddle Labs",
+    "slug": "waddle-labs",
+    "former_names": [
+      "Waddle"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f525546cff510b464f7877004fcc10c8f0b97843.png",
+    "website": "https://www.waddlelabs.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "LLMs that control robots",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1784890498,
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "Robotics",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/waddle-labs",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/waddle-labs.json"
   },
   {
     "id": 31063,
@@ -61129,7 +61168,7 @@
       "Ara"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f536d08b73147eb71c0665fe5c2d6c6ffed0663.png",
-    "website": "https://reasonmachines.ai",
+    "website": "https://reasonmachines.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Billions of machines are left untouched by agents and work individually. We connect them to unlock multiplayer cloud coding agents for work like engineering, math and research.\r\n\r\n",
     "one_liner": "The coding agent that can access and reason across any machine. ",
@@ -62760,6 +62799,43 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/83-sciences.json"
   },
   {
+    "id": 33277,
+    "name": "Hop Aero",
+    "slug": "hop-aero",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a5cab9ede70e23b0ea3f8e3b64b7a19735939c17.png",
+    "website": "https://hopaero.com",
+    "all_locations": "Los Angeles, CA, USA",
+    "long_description": "Hop Aero is building rocket cargo vehicles that deliver to contested environments hundreds of miles away in minutes. Our rockets fly point-to-point into the most austere locations at hypersonic speeds. Hop Aero's goal is to provide the U.S. and allies the asymmetric advantage that deters a future major conflict.",
+    "one_liner": "Rocket cargo delivery to contested environments",
+    "team_size": 6,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Defense",
+    "launched_at": 1781029529,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hop-aero",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/hop-aero.json"
+  },
+  {
     "id": 33283,
     "name": "Locke",
     "slug": "locke",
@@ -62800,6 +62876,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/locke",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/locke.json"
+  },
+  {
+    "id": 33310,
+    "name": "Petrarch",
+    "slug": "petrarch",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/091a0f9893d5a0f66b65399660fc8041716acd4e.png",
+    "website": "https://petrarch.co/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Petrarch brings internal company data to frontier labs, starting with manufacturing and industrial companies. We source data including codebases, project files, and payments from bankruptcy courts, then de-identify and prepare the data for model training. \r\n",
+    "one_liner": "Internal industrial company data for frontier labs",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1782965522,
+    "tags": [
+      "Marketplace",
+      "B2B",
+      "Data Engineering"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/petrarch",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/petrarch.json"
   },
   {
     "id": 33838,
@@ -63051,6 +63167,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/orca-aerospace",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/orca-aerospace.json"
+  },
+  {
+    "id": 36015,
+    "name": "Ignition Benefits",
+    "slug": "ignition-benefits",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/14580e0fabb4e383e5286e8af972648e4bc2b5af.png",
+    "website": "https://www.ignitionbenefits.com/",
+    "all_locations": "Los Angeles, CA, USA",
+    "long_description": "Ignition is an AI-native employee benefits brokerage for companies with under 200 employees. Health insurance is one of the largest line items these companies carry, and employers absorb 15 to 40% rate increases year after year without ever seeing their own numbers. We have rebuilt the sales and back office to be AI-first. This market represents about $500B of market cap, and those businesses have not fundamentally changed in over 50 years. While scaling Plated, I wore every HR hat from doing payroll myself, to managing a PEO, to eventually hiring an employee benefits broker on our way to 1,500 employees. We wasted over $4M on benefits over 5 years, and I'm building Ignition to help companies under 200 employees avoid making my mistakes.",
+    "one_liner": "The AI-Native Benefits Brokerage",
+    "team_size": 8,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1789432184,
+    "tags": [
+      "Health Insurance",
+      "Insurance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ignition-benefits",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/ignition-benefits.json"
   },
   {
     "id": 36084,
