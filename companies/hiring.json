@@ -10506,7 +10506,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -12412,6 +12412,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/signadot",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/signadot.json"
+  },
+  {
+    "id": 13208,
+    "name": "Whatnot",
+    "slug": "whatnot",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/448fec72747426b9340a6c62d2889b4cc976d888.png",
+    "website": "https://www.whatnot.com/careers/discover",
+    "all_locations": "Los Angeles, CA, USA; Remote",
+    "long_description": "Whatnot is the largest livestream shopping platform in the U.S., connecting buyers and sellers in real-time across any category – from collectibles like trading cards to comics, fashion, sneakers, and more. ",
+    "one_liner": "Whatnot is the largest livestream shopping platform in the U.S.",
+    "team_size": 731,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1580948094,
+    "tags": [
+      "Marketplace",
+      "E-commerce"
+    ],
+    "tags_highlighted": [],
+    "top_company": true,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2020",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/whatnot",
+    "api": "https://yc-oss.github.io/api/batches/winter-2020/whatnot.json"
   },
   {
     "id": 13216,
@@ -24960,14 +25001,14 @@
     "website": "https://cogram.com",
     "all_locations": "New York City, NY, USA",
     "long_description": "The software architects and engineers rely on is decades old, hard to use, and built for a pre-AI world. Since 2021, Cogram is building the alternative: AI-native tools that leading firms use to deliver projects.",
-    "one_liner": "The AI Platform for Architects, Builders, and Engineers",
+    "one_liner": "The AI Platform for Architects and Engineers",
     "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1641830467,
     "tags": [
-      "Artificial Intelligence",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -31703,10 +31744,10 @@
     "subindustry": "B2B -> Security",
     "launched_at": 1677704898,
     "tags": [
-      "Artificial Intelligence",
       "Compliance",
       "Cybersecurity",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -35449,6 +35490,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/rimward.json"
   },
   {
+    "id": 28971,
+    "name": "Kobalt Labs",
+    "slug": "kobalt-labs",
+    "former_names": [
+      "Suspense"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1c0b0e768a324b2566a3f866bf380445d3ae2fb8.png",
+    "website": "https://www.kobaltlabs.com/",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "Automate and strengthen manual risk and compliance operations for fintechs and banks. Given a third party contracts and documentation, Kobalt’s reasoning engine ingests internal policies and procedures, legal commitments, past privacy and compliance assessments, and syncs with external legislation to instantly auto-surface and track risks.\r\n\r\nWe're helping community/regional/sponsor banks increase revenue and scale their partnership and vendor volume, and we're helping fintechs conduct their partner diligence in 1/10 the time, all without needing to increase headcount.\r\n",
+    "one_liner": "AI-powered risk and compliance for financial institutions",
+    "team_size": 12,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1688528207,
+    "tags": [
+      "Banking as a Service",
+      "Fintech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/kobalt-labs",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/kobalt-labs.json"
+  },
+  {
     "id": 28980,
     "name": "Osium AI",
     "slug": "osium-ai",
@@ -37612,7 +37695,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -37803,12 +37886,14 @@
     "all_locations": "New York City, NY, USA",
     "long_description": "Garage is modernizing how America buys and sells the vehicles and equipment that keep communities safe. Our AI-powered marketplace automates every part of the transaction—appraisals, payments, paperwork, freight, warranty, and financing—reducing what once took months down to minutes.\r\n\r\nBy replacing broken, manual processes with modern software, Garage helps critical equipment reach communities faster—saving taxpayer dollars and supporting the industries that keep America running.\r\n\r\nWe've raised $18M to date, and are backed by Y Combinator, Initialized Capital, Infinity Ventures, FJ Labs, and other leading investors.\r\n",
     "one_liner": "Marketplace for America's most essential assets",
-    "team_size": 25,
+    "team_size": 35,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1709146834,
     "tags": [
-      "Marketplace"
+      "Artificial Intelligence",
+      "Marketplace",
+      "Industrial"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -37825,7 +37910,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -41870,49 +41955,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/corgi-insurance.json"
   },
   {
-    "id": 29647,
-    "name": "Maitai",
-    "slug": "maitai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c3c6b9b422d6e861a26fcf29a7acd2c4eae136af.png",
-    "website": "https://trymaitai.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Maitai makes building reliable AI applications easy. We autocorrect faulty model output in real-time and automatically fine-tune models that learn from their mistakes. This means our customers get more reliable results immediately, and over time, they gain custom models built specifically for their application that only get better and faster. You wouldn’t hire an employee who doesn’t learn from their mistakes—so why use a model that doesn’t? Maitai is here to deliver the next generation of reliable AI inference.",
-    "one_liner": "Reliable, self-improving enterprise AI",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1716914094,
-    "tags": [
-      "AIOps",
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Enterprise",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/maitai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/maitai.json"
-  },
-  {
     "id": 29649,
     "name": "Wordware",
     "slug": "wordware",
@@ -43633,17 +43675,17 @@
     "website": "https://www.thundercompute.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Thunder Compute is a systems research lab with commercial focus. We productionize GPU virtualization research to provide step-change improvements in utilization to our cloud offering and partner GPU fleets.",
-    "one_liner": "VMware for GPUs",
-    "team_size": 9,
+    "one_liner": "GPUs for Agents",
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1723245936,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Data Science",
       "Cloud Computing",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -43677,9 +43719,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7ba643e872dfb236016ba560ace56c12e3baf83.png",
     "website": "https://intryc.com",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Consumer enterprises have millions of customer support tickets annually. They need to constantly evaluate support agents’ performance and compliance. Typically they evaluate less than 5% of those interactions manually which is slow, expensive and not scalable. Intryc's AI can evaluate 100% of all customer interactions, in real time, at half the cost.\r\n",
-    "one_liner": "Intryc uses AI to automate quality assurance for customer support",
-    "team_size": 14,
+    "long_description": "Enterprises have millions of customer interactions every year but are only able to monitor less than 2-5% of those. The rest 95% is unmonitored risk across compliance, customer experience, product defects, and agent performance. With AI agents widely deployed across customer support organisations this problem increases exponentially. Every company needs a unified layer that allows them to monitor and govern all customer interactions with customer support teams, humans and AI. Intryc is building this layer. ",
+    "one_liner": "Intryc is the unified quality assurance, governance, and training…",
+    "team_size": 12,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1721158274,
@@ -43837,26 +43879,27 @@
   },
   {
     "id": 29777,
-    "name": "Zettascale",
-    "slug": "zettascale",
+    "name": "Zettascale Computing",
+    "slug": "zettascale-computing",
     "former_names": [
       "Exa Labs",
-      "Exa Laboratories"
+      "Exa Laboratories",
+      "Zettascale"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc824cdcd1866f181c1cae19f0dfc1371a717e51.png",
     "website": "https://zscc.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Zetta builds energy-efficient chips (\"XPUs\") for AI to accelerate discovery. Our XPUs are highly programmable, letting them optimize the dataflow for each model and making them faster and far more efficient than anything on the market today, saving data centers billions in energy and cooling costs.",
-    "one_liner": "Energy efficient chips for AI",
+    "long_description": "AI silicon for the era of recursive self-improvement and superintelligence",
+    "one_liner": "Chips for frontier AI",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials",
     "launched_at": 1722631140,
     "tags": [
+      "Artificial Intelligence",
       "Hard Tech",
       "Semiconductors",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -43876,8 +43919,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/zettascale",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/zettascale.json"
+    "url": "https://www.ycombinator.com/companies/zettascale-computing",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/zettascale-computing.json"
   },
   {
     "id": 29779,
@@ -57268,50 +57311,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/diligencesquared-inc.json"
   },
   {
-    "id": 30995,
-    "name": "Velvet",
-    "slug": "velvet",
-    "former_names": [
-      "Inline",
-      "Lenscape"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c02ad81894db8e1b1d0e71c379c7cae04211613.png",
-    "website": "https://velvetlab.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "World model datasets and research",
-    "one_liner": "World model datasets and research",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1761236237,
-    "tags": [
-      "Artificial Intelligence",
-      "Generative AI",
-      "Data Engineering",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/velvet",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/velvet.json"
-  },
-  {
     "id": 30999,
     "name": "Antigen",
     "slug": "antigen",
@@ -57884,6 +57883,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/payna",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/payna.json"
+  },
+  {
+    "id": 31076,
+    "name": "Imperfect",
+    "slug": "imperfect",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/002fb81dd9c99e80efddd89e683644b3b238f04e.png",
+    "website": "https://imperfect.co",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "An adaptive training coach to help runners, cyclists, and triathletes set and achieve goals. It adapts your training, recovery, and nutrition to how your body is actually responding.",
+    "one_liner": "Adaptive training coach for runners, cyclists, and triathletes ",
+    "team_size": 5,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1776207717,
+    "tags": [
+      "Digital Health",
+      "Health & Wellness",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/imperfect",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/imperfect.json"
   },
   {
     "id": 31081,
@@ -59389,44 +59431,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/human-archive.json"
   },
   {
-    "id": 31206,
-    "name": "Samora AI",
-    "slug": "samora-ai",
-    "former_names": [
-      "Samora.ai"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6eaba07a75fd30d319628002a37abd8993ba036e.png",
-    "website": "https://samora.ai/",
-    "all_locations": "",
-    "long_description": "Samora runs multilingual voice operations for organizations with high-volume calling without requiring engineering teams, call centers, or AI expertise.\r\n\r\nMany important tasks still depend on phone calls, including customer support, outreach, follow-ups, screening, and intake. But voice AI often fails in production because real callers interrupt, go off-script, switch languages mid-sentence, and speak in local dialects. Teams also worry about safety and compliance, especially when an agent can accidentally make the wrong promise.\r\n\r\nSamora solves this with voice agents that sound local and follow strict rules. Samora agents handle inbound and outbound calls, collect information, and update internal systems like CRMs, ticketing tools, and ATS platforms. When a call becomes sensitive or uncertain, the agent hands off to a human. It can also follow up over WhatsApp, SMS, or email when needed.\r\n\r\nWith Samora, teams get:\r\n1. Voice agents that work in real conversations, including dialects and code-switching\r\n2. Strict safety controls so agents don’t make unauthorized offers, discounts, or promises\r\n3. Calls that result in completed actions, system updates, and safe human handoff",
-    "one_liner": "Multilingual voice agents that outperform humans",
-    "team_size": 8,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1770130182,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/samora-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/samora-ai.json"
-  },
-  {
     "id": 31214,
     "name": "Pocket",
     "slug": "pocket",
@@ -60334,13 +60338,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/45f1eda8aab66eabaa151ae4c6fdca3a6325a068.png",
     "website": "https://replicas.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Replicas is a background coding agent that allows you to delegate tasks to Claude Code or Codex from Slack, Linear, GitHub, and more. Each task works inside of a sandboxed virtual machine, allowing teams to heavily parallelize work and burn through tickets.\r\n\r\nReplicas agents output higher quality PRs via feedback loops - each task automatically is notified and fixes CI failures and reads all code reviews. With Environments, engineering teams can configure agents to run their entire codebase locally, verify its work, and provide preview URLs.",
+    "long_description": "Replicas is a cloud coding agent that allows you to delegate tasks to Claude Code or Codex from the app, Slack, Linear, and more. Each task works inside of a sandboxed virtual machine, allowing teams to heavily parallelize work and burn through tickets.\r\n\r\nReplicas agents output higher quality PRs via feedback loops - each task automatically is notified and fixes CI failures and reads all code reviews. With Environments, engineering teams can configure agents to run their entire codebase locally, verify its work, and provide preview URLs.",
     "one_liner": "Run any coding agent harness in the cloud",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1773355936,
-    "tags": [],
+    "tags": [
+      "Developer Tools"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -60609,6 +60615,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hub",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/hub.json"
+  },
+  {
+    "id": 31377,
+    "name": "Limrun",
+    "slug": "limrun",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ab10903dc4335cb12beff61e9e9cb75f732ed72a.png",
+    "website": "https://lim.run",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Coding agents in the cloud don't work for majority of teams who require native capabilities; they lack XCode for iOS, Emulator for Android, Unity for game development teams. We are on a mission to cloudify every local development utility so that regardless of where it runs, your agent can compose an ideal set of capabilities on the fly so you don't need to run it on your laptop.\r\n\r\nToday, we provide remote services such as XCode, iOS & Android simulators to enable coding agents running in any sandbox to be able to build and iterate over mobile apps, too.\r\n\r\nReplit, Rork, Momentic, Minitap and more agent companies have built mobile development and testing experiences on Limrun platform. Coconote (Quizlet), SorceJobs (W25) and more companies with mobile apps use Limrun with their cloud agents, merging PRs without having to check out the code locally.",
+    "one_liner": "Extend cloud sandboxes with iOS, Android and more",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1779230895,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/limrun",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/limrun.json"
   },
   {
     "id": 31382,
@@ -60917,6 +60962,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/callab-ai",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/callab-ai.json"
+  },
+  {
+    "id": 31418,
+    "name": "Taiga",
+    "slug": "taiga",
+    "former_names": [
+      "Bayes AI",
+      "Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b29ba4c51cb703681310648e796b95e0311cd952.png",
+    "website": "https://taigabilling.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Taiga automates medical billing for doctor's offices. A doctor uploads their visit data, our AI figures out the right billing codes, checks the claim for errors, and submits it to insurance, dealing with any denials. Faster billing, fewer rejected claims, less busywork.                                                       \r\n                                                                                                                        \r\nWe're Nanda and Adam, friends since 3rd grade. Both of our parents are doctors with their own practices, and billing was always a source of stress and lost revenue for them. We want providers to treat patients while we handle the rest.",
+    "one_liner": "Autonomous medical billing",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare Services",
+    "launched_at": 1775511630,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare Services"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/taiga",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/taiga.json"
   },
   {
     "id": 31424,
@@ -63000,47 +63087,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lambda-robotics",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/lambda-robotics.json"
-  },
-  {
-    "id": 34597,
-    "name": "Sentient OS",
-    "slug": "sentient-os",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/108c3aadc4e00e665b12a9b3e77b6f0a5caa7d7b.png",
-    "website": "https://sentient-os.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Nobody's built truly proactive AI, because it requires running inference on your entire life. In the cloud, that's insanely expensive and a privacy nightmare. But not on your own chip.\r\n\r\nEvery night, Sentient's on-device LLM wakes your Mac and understands what's new in your life (email, messages, files, Granola transcripts...), entirely locally, and distills it into a knowledge base.\r\n\r\nYou wake up to your work already prepared: the reply you forgot, drafted from your own context; the subscription you never use renewing tomorrow, caught; the report you promised in the group chat, ready to send. Everything is one click from firing through computer use, and nothing fires until you click.\r\n\r\nOr click your Mac notch anytime and say \"finish this for me.\" Sidekick takes over the thing you were doing with its own cursor while you move on.\r\n\r\nOn-device inference at this scale was supposed to be impossible: devices too slow, and models too dumb. So we built the stack ourselves: a custom LiteRT-LM fork (KV-cache reuse, speculative decoding, custom k-quants) that runs nightly on 8 GB Macs. The user's hardware does ~90% of the compute, and their own ChatGPT or Claude subscription does the rest, so our marginal cost is ~$0, and our servers store nothing.\r\n\r\nWe soft-launched late July with one Reddit post: top of r/macapps, 2,000+ users in 48 hours, $0 marketing. Free and open source for consumers; the same engine on the work stack (Slack, Granola, Linear, Notion) becomes the enterprise business.\r\n\r\nSentient OS raised ~$1M in pre-seed, backed by YC, Afore, and the a16z Speedrun scout fund.",
-    "one_liner": "On-device AI that knows your entire life and does your work overnight.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1787571928,
-    "tags": [
-      "Artificial Intelligence",
-      "Productivity",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": true,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sentient-os",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/sentient-os.json"
   },
   {
     "id": 35395,

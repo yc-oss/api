@@ -1321,10 +1321,11 @@
   },
   {
     "id": 408,
-    "name": "Airshared",
-    "slug": "airshared",
+    "name": "SnapBite",
+    "slug": "snapbite",
     "former_names": [
-      "Snapbite"
+      "Snapbite",
+      "Airshared"
     ],
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "http://getcycle.com",
@@ -1356,8 +1357,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/airshared",
-    "api": "https://yc-oss.github.io/api/batches/summer-2012/airshared.json"
+    "url": "https://www.ycombinator.com/companies/snapbite",
+    "api": "https://yc-oss.github.io/api/batches/summer-2012/snapbite.json"
   },
   {
     "id": 409,
@@ -7617,7 +7618,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -40021,10 +40022,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c4ee33b19412517e139da731ca8d250eae8eee8.png",
     "website": "https://aisdr.com/",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "AiSDR automates sales prospecting. Our software uses AI to automatically write and send sales emails, once a prospective customer engages – we then automatically correspond and book meetings with them. \r\n\r\nAiSDR's sales emails have an average response rate of 7.1%, which is already on par with the industry response rate from emails written by humans. \r\n\r\nWe are aiming to replace over 600k SDRs, that cost US companies $48B a year. ",
-    "one_liner": "AI sales prospecting. Replace your SDR with AiSDR",
-    "team_size": 5,
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "AiSDR builds Ami, an AI sales agent that helps B2B companies find customers and book meetings.\r\n\r\nGive Ami your website. It researches your business, recommends who to target and why now, and builds an outreach plan. Once you approve, it runs personalized campaigns across email and LinkedIn, follows up, handles replies, and books meetings.\r\n\r\nAmi keeps working after launch. It monitors results, spots problems with targeting or messaging, and recommends changes or applies them within the rules you set. It remembers your decisions and campaign results, so each campaign builds on the last.\r\n\r\nBuilt on lessons from 17,000+ real AiSDR campaigns, Ami gives founders and small teams sales strategy and execution in one place, without having to manage every step themselves.",
+    "one_liner": "AI that finds the right buyers and books sales meetings",
+    "team_size": 34,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1685885661,
@@ -40049,7 +40050,7 @@
       "United States of America",
       "America / Canada",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -46363,10 +46364,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aca02a57c5f38896120f1fe6767d1975b6a6b522.png",
     "website": "https://char.com",
-    "all_locations": "Seoul, Seoul, South Korea",
+    "all_locations": "Seoul, Seoul, South Korea; Remote",
     "long_description": "Char is a daily notepad that finishes your todos for you. Type a checkbox, and an agent picks it up — researching, drafting, or scheduling on your behalf. Stay in command. Char does the work.",
     "one_liner": "The AI notepad that knows and works for you",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1755302445,
@@ -46391,7 +46392,7 @@
       "South Korea",
       "East Asia",
       "Remote",
-      "Partly Remote"
+      "Fully Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -47788,6 +47789,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/rindler.json"
   },
   {
+    "id": 31725,
+    "name": "Hickory & Company",
+    "slug": "hickory-and-company",
+    "former_names": [
+      "Tally",
+      "Hickory"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/99defc038609729a80c544eca98af6bec719647d.png",
+    "website": "https://hickory.co",
+    "all_locations": "Salt Lake City, UT, USA",
+    "long_description": "",
+    "one_liner": "Hickory offers agentic compliance and BSA for banks and fintechs",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1789596685,
+    "tags": [
+      "Fintech",
+      "SaaS",
+      "Compliance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hickory-and-company",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/hickory-and-company.json"
+  },
+  {
     "id": 32135,
     "name": "Trope",
     "slug": "trope",
@@ -48660,11 +48705,11 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1789011304,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "B2B",
-      "DevOps"
+      "DevOps",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

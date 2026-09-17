@@ -4871,7 +4871,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2021",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Infrastructure"
@@ -7173,31 +7173,27 @@
   },
   {
     "id": 27902,
-    "name": "KV Cash",
-    "slug": "kv-cash",
+    "name": "Teclada",
+    "slug": "teclada",
     "former_names": [
       "Teclada",
       "Logital (Teclada)",
-      "Logital AI (Teclada)"
+      "Logital AI (Teclada)",
+      "KV Cash"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b5e56a9b5e26e2dce5d150c6db8702733501105.png",
-    "website": "https://kv.cash",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd91b72016ac0b1503fe195f48b2a6eee5112fcb.png",
+    "website": "https://www.teclada.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Contracts shouldn't just execute. They should reason.\r\n\r\nBitcoin introduced decentralized money.\r\nEthereum introduced programmable contracts.\r\nKV Cash introduces intelligent contracts.\r\n\r\nDeterministic AI + TypeScript makes it simple, explainable, and composable. Once seen, it's obvious.\r\n\r\nKV Cash is what contracts were always trying to become.",
-    "one_liner": "KV Cash, a blockchain where contracts can finally think",
+    "long_description": "Browser based remote access: Think SSH, but from your browser",
+    "one_liner": "Remote Shell Access in the Browser",
     "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1678082739,
     "tags": [
-      "Crypto / Web3",
-      "Open Source",
-      "AI",
-      "Cryptocurrency"
+      "Open Source"
     ],
-    "tags_highlighted": [
-      "Crypto / Web3"
-    ],
+    "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
@@ -7216,8 +7212,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/kv-cash",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/kv-cash.json"
+    "url": "https://www.ycombinator.com/companies/teclada",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/teclada.json"
   },
   {
     "id": 27909,
@@ -8835,17 +8831,17 @@
     "website": "https://www.thundercompute.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Thunder Compute is a systems research lab with commercial focus. We productionize GPU virtualization research to provide step-change improvements in utilization to our cloud offering and partner GPU fleets.",
-    "one_liner": "VMware for GPUs",
-    "team_size": 9,
+    "one_liner": "GPUs for Agents",
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1723245936,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Data Science",
       "Cloud Computing",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -8927,18 +8923,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a3e196a71b4a93ad7200cf278186954bda68e7e3.png",
     "website": "https://www.shipoway.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "The physical economy still operates without a shared intelligence layer. Every day, millions of trucks move goods while carrying unused capacity, yet no system has a real-time understanding of where capacity exists, how freight should move, or how efficiently the supply chain is operating.\r\n\r\nOway is building that layer by indexing live unused truck capacity and exposing it through APIs and AI agents, transforming fragmented transportation into programmable infrastructure that shippers, brokers, carriers, and software platforms can build on.\r\n\r\nToday, Oway replaces traditional LTL by moving freight directly on trucks already traveling in the right direction. This reduces costs, damage, and transit times while increasing utilization across the supply chain.\r\n\r\nEvery shipment strengthens a live model of freight capacity, pricing, routes, facilities, and industrial efficiency. As the network grows, Oway becomes the intelligence and execution layer for the physical economy, enabling the next generation of enterprise software, autonomous supply chains, robotics, and physical AI.",
-    "one_liner": "Turning America’s supply chain inefficiency into infrastructure.",
+    "long_description": "The physical economy still operates without a common language. Enterprise systems, factories, trucks, and robots generate enormous amounts of data, but most remains fragmented across legacy software and incompatible formats. Without a shared understanding of what is happening, even the most advanced AI cannot reliably coordinate how goods are made, moved, and delivered.\r\n\r\nOway is building that common language. Our protocol, IOI, connects enterprise systems and physical hardware, cleaning messy legacy data and live telemetry into a standardized schema that AI can understand and act on. Through a shared API, businesses can query their operations, identify inefficiencies, and automate actions across systems without replacing their existing software.\r\n\r\nOur first model, Juno, applies this intelligence to unused truck capacity. It tracks empty space on trucks and sells it at a 50% discount to businesses shipping in the same direction. By moving freight directly on trucks already making the trip, Oway reduces shipping costs, damage, and transit times while generating additional revenue for carriers.\r\n\r\nEvery connected system and shipment expands our understanding of capacity, pricing, routes, facilities, and industrial operations. As this network grows, Oway is building toward a future where enterprise software, automated factories, self-driving vehicles, and robots can communicate and coordinate through one shared layer, making the physical economy programmable.",
+    "one_liner": "The coordination OS for the physical economy. ",
     "team_size": 16,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1717601253,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "API",
       "Supply Chain",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -12199,7 +12195,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2026",
     "status": "Active",
@@ -12995,15 +12991,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe20b06c889ed9f1a1b7d9b0ecf522c8e057d68b.png",
     "website": "https://context.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Context.dev gives AI agents structured data from any website through a single API.\r\n\r\nWe help developers build smarter agents & products that depend on accurate, fresh web data.\r\n\r\nIf you need structured data from the internet, you need Context.dev\r\n\r\nProud to power agentic products at Mintlify, Super, Vizzy, Klarna, and 400+ other companies. ",
+    "long_description": "Context.dev gives AI agents structured data from any website through a single API.\r\n\r\nWe help developers build smarter agents & products that depend on accurate, fresh web data.\r\n\r\nIf you need structured data from the internet, you need Context.dev\r\n\r\nProud to power agentic products at Mintlify, Super, Vizzy, Klarna, and 600+ other companies. ",
     "one_liner": "We give AI agents realtime web context via API",
-    "team_size": 1,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1780323126,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "AI",
       "APIs"
     ],
     "tags_highlighted": [],
@@ -13654,15 +13650,16 @@
   },
   {
     "id": 34928,
-    "name": "Ascii",
-    "slug": "ascii",
+    "name": "Boat",
+    "slug": "boat",
     "former_names": [
-      "Ascii box"
+      "Ascii box",
+      "Ascii"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ab4963f9bacc76a0a31b94f8773cad5138d2dc3.png",
-    "website": "https://box.ascii.dev",
+    "website": "https://boat.dev",
     "all_locations": "Paris, Île-de-France, France; Remote",
-    "long_description": "**Problem**\r\n\r\nHumans used to need laptops to do their work. Now they prompt agents instead, and those agents need computers too: always-on, in large quantities, and with unlimited capabilities. \r\n\r\nBuilding and maintaining that yourself is far from trivial.\r\n\r\n**Solution**\r\n\r\nBox provides powerful, simple, permissive Ubuntu VMs in the cloud. In a box, an agent can work for long periods on code or on knowledge work like legal, research, reporting, and auditing.\r\n\r\n**Why Box and not any other cloud VM?**\r\n\r\n1. It is ready out of the box: every box ships with a desktop, chrome, languages, docker, snapshots, and templates, plus a CLI, SDK, API, and control pane for your fleet.\r\n2. It is permissive and paradigm agnostic: any number of agents can use any number of boxes. Agents can run inside or use boxes as an external tool.\r\n3. It is expertly crafted: we manage everything from the individual CPU to the orchestration software, which makes boxes stable, persistent, scalable, and secure.\r\n4. It is the best performance and price in town: our CPUs rank first on HPC benchmarks, and boxes are typically 9x to 18x cheaper than other leading sandboxes.\r\n\r\n**Further notes**\r\n\r\nBoxes are hosted in Europe, which keeps prices low, and more regions are coming. Unless compliance requires it, agents don't notice the region they run in.",
+    "long_description": "**Problem**\r\n\r\nHumans used to need laptops to do their work. Now they prompt agents instead, and those agents need computers too: always-on, in large quantities, and with unlimited capabilities. \r\n\r\nBuilding and maintaining that yourself is far from trivial.\r\n\r\n**Solution**\r\n\r\nBoat provides powerful, simple, permissive Ubuntu VMs in the cloud. In a sandbox, an agent can work for long periods on code or on knowledge work like legal, research, reporting, and auditing.\r\n\r\n**Why Boat and not any other cloud VM?**\r\n\r\n1. It is ready out of the box: every sandbox ships with a desktop, chrome, languages, docker, snapshots, and templates, plus a CLI, SDK, API, and control pane for your fleet.\r\n2. It is permissive and paradigm agnostic: any number of agents can use any number of sandboxes. Agents can run inside or use sandboxes as an external tool.\r\n3. It is expertly crafted: we manage everything from the individual CPU to the orchestration software, which makes sandboxes stable, persistent, scalable, and secure.\r\n4. It is the best performance and price in town: our CPUs rank first on HPC benchmarks, and sandboxes are typically 9x to 18x cheaper than other leading sandboxes.\r\n\r\n**Further notes**\r\n\r\nSandboxes are hosted in Europe, which keeps prices low, and more regions are coming. Unless compliance requires it, agents don't notice the region they run in.",
     "one_liner": "The best cloud VMs for billions of agents",
     "team_size": 3,
     "industry": "B2B",
@@ -13693,8 +13690,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ascii",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/ascii.json"
+    "url": "https://www.ycombinator.com/companies/boat",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/boat.json"
   },
   {
     "id": 35258,
@@ -13711,11 +13708,11 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1789011304,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "B2B",
-      "DevOps"
+      "DevOps",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -13778,6 +13775,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hopper",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/hopper.json"
+  },
+  {
+    "id": 36906,
+    "name": "Memorable",
+    "slug": "memorable",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/044e23bebf5afa8daf2de443d127002bbc57895a.png",
+    "website": "https://www.memorable.sh/",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "",
+    "one_liner": "Self-evolving workflows for AI agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1789543087,
+    "tags": [
+      "Developer Tools",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2027",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/memorable",
+    "api": "https://yc-oss.github.io/api/batches/summer-2027/memorable.json"
   },
   {
     "id": 37105,

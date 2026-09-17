@@ -2180,28 +2180,30 @@
   },
   {
     "id": 29647,
-    "name": "Maitai",
-    "slug": "maitai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c3c6b9b422d6e861a26fcf29a7acd2c4eae136af.png",
-    "website": "https://trymaitai.com",
+    "name": "Party",
+    "slug": "party",
+    "former_names": [
+      "Maitai"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/338e5b72183a79e0cc2f337341f8e76e89c641a2.png",
+    "website": "https://party.build",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Maitai makes building reliable AI applications easy. We autocorrect faulty model output in real-time and automatically fine-tune models that learn from their mistakes. This means our customers get more reliable results immediately, and over time, they gain custom models built specifically for their application that only get better and faster. You wouldn’t hire an employee who doesn’t learn from their mistakes—so why use a model that doesn’t? Maitai is here to deliver the next generation of reliable AI inference.",
-    "one_liner": "Reliable, self-improving enterprise AI",
-    "team_size": 6,
+    "long_description": "Party is the secure workspace for your team and agents to build together, in the open. Agent Flows handle 95% of the work and your team can see it all happen and step in when needed to steer. It's built for teams, but caters to the solo builder as well. Use any harness/model - your keys or ours. Cost observability. Memory. Dual-level session sandboxing.\r\nSlack/Teams are comm-first with agents as second-class citizens. Party is work-first and the communication happens where the work is being done. Party is for teams who want to build better and faster than their competition. ",
+    "one_liner": "Secure multiplayer software factory for your whole team in minutes",
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1716914094,
     "tags": [
-      "AIOps",
       "Artificial Intelligence",
       "Developer Tools",
-      "Enterprise",
+      "Productivity",
+      "Collaboration",
       "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -2218,8 +2220,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/maitai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/maitai.json"
+    "url": "https://www.ycombinator.com/companies/party",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/party.json"
   },
   {
     "id": 29649,
@@ -6256,17 +6258,17 @@
     "website": "https://www.thundercompute.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Thunder Compute is a systems research lab with commercial focus. We productionize GPU virtualization research to provide step-change improvements in utilization to our cloud offering and partner GPU fleets.",
-    "one_liner": "VMware for GPUs",
-    "team_size": 9,
+    "one_liner": "GPUs for Agents",
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1723245936,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Data Science",
       "Cloud Computing",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6388,9 +6390,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7ba643e872dfb236016ba560ace56c12e3baf83.png",
     "website": "https://intryc.com",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Consumer enterprises have millions of customer support tickets annually. They need to constantly evaluate support agents’ performance and compliance. Typically they evaluate less than 5% of those interactions manually which is slow, expensive and not scalable. Intryc's AI can evaluate 100% of all customer interactions, in real time, at half the cost.\r\n",
-    "one_liner": "Intryc uses AI to automate quality assurance for customer support",
-    "team_size": 14,
+    "long_description": "Enterprises have millions of customer interactions every year but are only able to monitor less than 2-5% of those. The rest 95% is unmonitored risk across compliance, customer experience, product defects, and agent performance. With AI agents widely deployed across customer support organisations this problem increases exponentially. Every company needs a unified layer that allows them to monitor and govern all customer interactions with customer support teams, humans and AI. Intryc is building this layer. ",
+    "one_liner": "Intryc is the unified quality assurance, governance, and training…",
+    "team_size": 12,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1721158274,
@@ -6627,26 +6629,27 @@
   },
   {
     "id": 29777,
-    "name": "Zettascale",
-    "slug": "zettascale",
+    "name": "Zettascale Computing",
+    "slug": "zettascale-computing",
     "former_names": [
       "Exa Labs",
-      "Exa Laboratories"
+      "Exa Laboratories",
+      "Zettascale"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc824cdcd1866f181c1cae19f0dfc1371a717e51.png",
     "website": "https://zscc.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Zetta builds energy-efficient chips (\"XPUs\") for AI to accelerate discovery. Our XPUs are highly programmable, letting them optimize the dataflow for each model and making them faster and far more efficient than anything on the market today, saving data centers billions in energy and cooling costs.",
-    "one_liner": "Energy efficient chips for AI",
+    "long_description": "AI silicon for the era of recursive self-improvement and superintelligence",
+    "one_liner": "Chips for frontier AI",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials",
     "launched_at": 1722631140,
     "tags": [
+      "Artificial Intelligence",
       "Hard Tech",
       "Semiconductors",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6666,8 +6669,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/zettascale",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/zettascale.json"
+    "url": "https://www.ycombinator.com/companies/zettascale-computing",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/zettascale-computing.json"
   },
   {
     "id": 29778,
@@ -8988,18 +8991,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a3e196a71b4a93ad7200cf278186954bda68e7e3.png",
     "website": "https://www.shipoway.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "The physical economy still operates without a shared intelligence layer. Every day, millions of trucks move goods while carrying unused capacity, yet no system has a real-time understanding of where capacity exists, how freight should move, or how efficiently the supply chain is operating.\r\n\r\nOway is building that layer by indexing live unused truck capacity and exposing it through APIs and AI agents, transforming fragmented transportation into programmable infrastructure that shippers, brokers, carriers, and software platforms can build on.\r\n\r\nToday, Oway replaces traditional LTL by moving freight directly on trucks already traveling in the right direction. This reduces costs, damage, and transit times while increasing utilization across the supply chain.\r\n\r\nEvery shipment strengthens a live model of freight capacity, pricing, routes, facilities, and industrial efficiency. As the network grows, Oway becomes the intelligence and execution layer for the physical economy, enabling the next generation of enterprise software, autonomous supply chains, robotics, and physical AI.",
-    "one_liner": "Turning America’s supply chain inefficiency into infrastructure.",
+    "long_description": "The physical economy still operates without a common language. Enterprise systems, factories, trucks, and robots generate enormous amounts of data, but most remains fragmented across legacy software and incompatible formats. Without a shared understanding of what is happening, even the most advanced AI cannot reliably coordinate how goods are made, moved, and delivered.\r\n\r\nOway is building that common language. Our protocol, IOI, connects enterprise systems and physical hardware, cleaning messy legacy data and live telemetry into a standardized schema that AI can understand and act on. Through a shared API, businesses can query their operations, identify inefficiencies, and automate actions across systems without replacing their existing software.\r\n\r\nOur first model, Juno, applies this intelligence to unused truck capacity. It tracks empty space on trucks and sells it at a 50% discount to businesses shipping in the same direction. By moving freight directly on trucks already making the trip, Oway reduces shipping costs, damage, and transit times while generating additional revenue for carriers.\r\n\r\nEvery connected system and shipment expands our understanding of capacity, pricing, routes, facilities, and industrial operations. As this network grows, Oway is building toward a future where enterprise software, automated factories, self-driving vehicles, and robots can communicate and coordinate through one shared layer, making the physical economy programmable.",
+    "one_liner": "The coordination OS for the physical economy. ",
     "team_size": 16,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1717601253,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "API",
       "Supply Chain",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
