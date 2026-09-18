@@ -4073,25 +4073,28 @@
   },
   {
     "id": 30928,
-    "name": "Thesis",
-    "slug": "thesis",
+    "name": "Darwin",
+    "slug": "darwin",
     "former_names": [
-      "Thesis Labs"
+      "Thesis Labs",
+      "Thesis",
+      "Darwin",
+      "Thesis"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/834b16b30c5de79bf9dbcd0a4819289bfa937936.png",
     "website": "https://thesislabs.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Thesis is building Darwin, a humanoid robot for the home. AI is about to leave the screen and enter the physical world. Darwin will learn from real-world experience and continuously improve. First deployments begin in early 2027.",
+    "long_description": "Darwin is building general-purpose humanoid robots for real-world work. Our first robot, Darwin One, will learn from real-world experience and continuously improve as AI moves from the screen into the physical world. First deployments begin in early 2027.",
     "one_liner": "Humanoid robots",
     "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1762476616,
     "tags": [
+      "Artificial Intelligence",
       "Hard Tech",
       "Machine Learning",
-      "Robotics",
-      "AI"
+      "Robotics"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4112,8 +4115,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/thesis",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/thesis.json"
+    "url": "https://www.ycombinator.com/companies/darwin",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/darwin.json"
   },
   {
     "id": 30930,
@@ -6264,7 +6267,7 @@
     "slug": "hemlock",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bbacf68d8da77e7a11ad346712dd48cf4d50347d.png",
-    "website": "https://hemlock.info",
+    "website": "https://hemlock.inc",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Every serious robotics lab is bottlenecked on the same thing: demonstration data. The field has converged on egocentric video and hand pose as the substrate, and both are now cheap to collect at scale. What neither of them contains is force. A video of someone picking up an egg and a video of someone picking up a rock are nearly identical in pixel space and nearly identical in joint angles. They differ almost entirely in a quantity nobody is recording. Policies trained without it learn geometry and inherit no sense of touch.\r\n\r\nHemlock closes that gap at the source. Our device, the Bracelet, is a wrist-worn surface EMG band that reads the electrical activity of the forearm muscles that actually drive the hand, which means it recovers contraction force directly rather than inferring it from motion. This distinction is the whole thesis: force cannot be reconstructed downstream of kinematics, because a hand squeezing hard isometrically and a hand resting can occupy the identical pose. Muscle signal is the only non-invasive channel that separates them.",
     "one_liner": "Force-sensing wristband for training robotic AI",
@@ -6297,6 +6300,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hemlock",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/hemlock.json"
+  },
+  {
+    "id": 35523,
+    "name": "twentyfour26",
+    "slug": "twentyfour26",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ceb91f5325b460f109e85bc25abd1618a24863cb.png",
+    "website": "https://twentyfour26.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "twentyfour26 builds autonomous CNC machining cells for rapid prototyping, so hardware teams can iterate with software speed.",
+    "one_liner": "On Demand CNC Prototyping ",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1786424480,
+    "tags": [
+      "Robotics",
+      "Manufacturing",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/twentyfour26",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/twentyfour26.json"
   },
   {
     "id": 35652,

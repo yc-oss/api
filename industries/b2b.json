@@ -50109,7 +50109,7 @@
     "all_locations": "Paris, Île-de-France, France",
     "long_description": "Routine is an all-in-one workspace that allows individuals and team to manage their work and life through a single app.\r\n\r\nRoutine centralizes work (tasks, meetings, tickets, clients etc.) from third-party services (Github, Salesforce, Hubspot, Slack, Dropbox etc.) into a graph-based unified workspace allowing seamless cross-referencing, 360-degree overview, data enrichment and visualization.\r\n\r\nBy integrating with existing tools, Routine connects and enriches fragmented information, allowing users to track projects, collaborate efficiently, and make better decisions without having to constantly switch between multiple apps.\r\n\r\nIts data-driven and local-first approach ensures the information remains accessible and performant even without cloud connectivity.",
     "one_liner": "AI-native all-in-one workspace for startups",
-    "team_size": 8,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1614700212,
@@ -54579,7 +54579,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -58798,7 +58798,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -81638,7 +81638,7 @@
     "all_locations": "New York City, NY, USA",
     "long_description": "Prosper builds AI phone agents for healthcare providers. Our agents automate manual, time-intensive workflows like patient scheduling, balance reminders, claims status checks, benefit verification, and prior authorizations. We integrate with 80+ EHRs, go live in 3 weeks, and offer a no-code interface for customization.\r\n\r\nToday, Prosper handles thousands of daily calls for dozens of providers, reducing costs by 50% and tripling productivity. We’re building the AI-first operating system for healthcare to eliminate the $200B lost to administrative overhead every year.",
     "one_liner": "AI Phone Agents for Healthcare Operations",
-    "team_size": 9,
+    "team_size": 60,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1754605314,
@@ -87432,7 +87432,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -87782,7 +87782,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -88177,7 +88177,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -99867,6 +99867,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/rentflow.json"
   },
   {
+    "id": 29839,
+    "name": "Serve AI",
+    "slug": "serve-ai",
+    "former_names": [
+      "pap!"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7e1603c58a6b9ecb46ac26ec775f8201dd3c1d3d.png",
+    "website": "https://serveaiglobal.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "AI for Field Service Enterprises",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1724803143,
+    "tags": [
+      "B2B",
+      "Home Services",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/serve-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/serve-ai.json"
+  },
+  {
     "id": 29844,
     "name": "Oway",
     "slug": "oway",
@@ -103519,7 +103562,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3625aa6dc8b9ca3fedb43ca1043c7246c8185306.png",
     "website": "https://www.aviro.ai/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "New York City, NY, USA",
     "long_description": "We design challenging worlds where AI models learn to explore and solve problems. We turn these worlds into post-training datasets and reinforcement learning environments to train the next frontier of AI. We're research partners with four top frontier AI labs, several Fortune 100 companies, and leading RL data vendors.",
     "one_liner": "Environments for Long Horizon Work",
     "team_size": 2,
@@ -104207,13 +104250,15 @@
   },
   {
     "id": 30213,
-    "name": "Truffle AI",
-    "slug": "truffle-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/17f1a1e21672fa03c69b669feef31d2a59b2c849.png",
-    "website": "https://www.trytruffle.ai/",
-    "all_locations": "Bengaluru, KA, India",
-    "long_description": "Truffle AI makes it easy for developers to integrate AI agents into any software application. We do this by exposing agents as simple APIs that can be called from anywhere. Developers have used Truffle to add customer support agents into WhatsApp and analytics agents into Slack.",
+    "name": "Dexto",
+    "slug": "dexto",
+    "former_names": [
+      "Truffle AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/151976ce07fb22bf59209dda8531a283a9eeda58.png",
+    "website": "https://www.dexto.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Dexto makes it easy for developers to integrate AI agents into any software application. We do this by exposing agents as simple APIs that can be called from anywhere. Developers have used Dexto to add customer support agents into WhatsApp and analytics agents into Slack.",
     "one_liner": "AWS for AI Agents",
     "team_size": 2,
     "industry": "B2B",
@@ -104237,8 +104282,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "India",
-      "South Asia",
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -104247,8 +104292,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/truffle-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/truffle-ai.json"
+    "url": "https://www.ycombinator.com/companies/dexto",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/dexto.json"
   },
   {
     "id": 30214,
@@ -108696,23 +108741,24 @@
   },
   {
     "id": 30435,
-    "name": "Alpha Research",
-    "slug": "alpha-research",
+    "name": "Method",
+    "slug": "method",
     "former_names": [
       "Zenobia Pay",
-      "Dolphin"
+      "Dolphin",
+      "Alpha Research"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9da4ac9dd6be01478b419bbfd282d5e379179bc8.png",
-    "website": "https://alpharesearch.nyc/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9706bbce9dc3489f8db897884b3967bde457e6ca.png",
+    "website": "https://withmethod.ai/",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Alpha Research builds open source agentic knowledge bases. Our mission is to help knowledge workers work 100x faster. We launched and open sourced our first platform, Alpha Book on a mirror of the Project Gutenberg dataset (75,000 books).\r\n\r\nKnowledge work is bottlenecked in two key ways: finding evidence and testing hypotheses. We make both 100x faster. We extend keyword search and RAG with general coding agents, which use filesystem tools like ripgrep and reason iteratively to find broad evidence. Coding agents also write ad-hoc scripts to label datasets and test hypotheses.\r\n\r\nOur timeline is simple: repeat Alpha Book across every public dataset of humanity's knowledge. Next we'll launch Alpha Econ with US Census, BLS, NBER, etc datasets. Alpha Justice with US Supreme Court Cases, and so on. We support museums, research libraries, historical societies, and archives. We also do custom integration work for enterprise.",
-    "one_liner": "Open source, agentic knowledge bases for all of humanity's knowledge.",
+    "long_description": "Method turns repeated work into workflows your coding agent can run, check, and improve.",
+    "one_liner": "Agents that improve",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1747591533,
     "tags": [
-      "Market Research"
+      "Artificial Intelligence"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -108733,8 +108779,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/alpha-research",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/alpha-research.json"
+    "url": "https://www.ycombinator.com/companies/method",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/method.json"
   },
   {
     "id": 30437,
@@ -110202,7 +110248,7 @@
     "former_names": [
       "Prism AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/973718be82b1053c971c2efe1c5263b785ae3711.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12dc6e609224f33b9c452f9656b3020116496003.png",
     "website": "https://prisminference.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We sell tokens",
@@ -110497,27 +110543,31 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae7f81743afec55a338f8ebe26d07f21e2696ebc.png",
     "website": "https://vesence.com",
-    "all_locations": "Stockholm, Stockholm County, Sweden",
-    "long_description": "Vesence is building Cursor for Lawyers.\r\n\r\nAlready rolled out firm-wide with a first major law firm. We launched in February.\r\n\r\nImagine programming in Apple Notes. No linting, no cursor, you are on your own. That is how it is for many lawyers to draft and review contracts in Microsoft Word. We are here to change that.",
-    "one_liner": "Cursor for Lawyers. Agentic AI in MS Office.",
-    "team_size": 2,
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Vesence is building AI for High-Stakes Work.\r\n\r\nAlready rolled out at law firms, investment funds, consultants, and where details matters the most.\r\n\r\nVesence is a browser-based desktop where professionals work alongside agents to review work, send emails, manage their calendar, and edit decks, documents and spreadsheets.",
+    "one_liner": "AI for High-Stakes Work",
+    "team_size": 10,
     "industry": "B2B",
-    "subindustry": "B2B -> Legal",
+    "subindustry": "B2B",
     "launched_at": 1747133222,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Finance",
+      "B2B",
+      "Legal"
+    ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Legal"
+      "B2B"
     ],
     "regions": [
-      "Sweden",
-      "Europe"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -110661,8 +110711,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/38edcfba2831cce5f05a5da045992ae4f758e655.png",
     "website": "https://www.cactuscompute.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "On-device AI for phones, wearables, smart home, robots and small robots:\r\n- Cactus Needle: 14MB agentic LLM for tiny devices\r\n- Cactus Engine: fastest runtime for tiny devices\r\n- Cactus Hybrid: post-trained models fall back to cloud",
-    "one_liner": "Tiny Edge AI For Tiny Devices",
+    "long_description": "On-device AI for phones, wearables, smart home, robots and small robots: \r\n- 2bit\r\n- 8-29MB\r\n- up to 4k tokens/sec decode speed",
+    "one_liner": "Automation Foundation Models For Tiny Devices",
     "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -110740,6 +110790,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/eloquent-ai",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/eloquent-ai.json"
+  },
+  {
+    "id": 30515,
+    "name": "Cashew Labs",
+    "slug": "cashew-labs",
+    "former_names": [
+      "Saffron Health",
+      "Libretto"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/75b5481cd9f0b4c66c6e8e42e15816b3489d5c81.png",
+    "website": "https://cashew-labs.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Cashew Labs builds open source tools for recursive self improvement. Their tools enable self-modifying interfaces and LLMs that post-train themselves.",
+    "one_liner": "Recursive self improving harnesses and models",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1762272308,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cashew-labs",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/cashew-labs.json"
   },
   {
     "id": 30517,
@@ -112634,16 +112723,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Helping to build more socially intelligent AI, starting with voice.",
     "one_liner": "Building socially intelligent AI",
-    "team_size": 4,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1753401226,
     "tags": [
+      "Artificial Intelligence",
       "Marketplace",
       "B2B",
       "Data Labeling",
-      "Big Data",
-      "AI"
+      "Big Data"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -120736,7 +120825,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2026",
     "status": "Active",
@@ -129264,9 +129353,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0fb7d11f60217eaded2ae0e96dbee3bf9ebcd68c.png",
     "website": "https://www.runtm.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Runtime helps fast-growing fintechs build and run AI agents for financial operations. Teams turn their procedures into specialized agents that work across their systems, with scoped access, human approvals, and a full audit trail.",
+    "long_description": "Runtime helps fast-growing fintechs build and run AI agents for mission-critical financial operations. Teams turn their procedures into specialized agents that work across their systems, with scoped access, human approvals, and a full audit trail.",
     "one_liner": "AI agents for financial operations",
-    "team_size": 5,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1773951001,
@@ -130730,14 +130819,14 @@
     "website": "https://belvedir.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Belvedir makes it cheap and easy for anyone to make custom AI. We collect your agent traces through our SDK and autonomously train custom models + harnesses + routers, privately deploy them, and recursively improve them as they are used. \r\n\r\nOur customers have seen 10x reductions in inference costs and 2x increases on benchmark scores.\r\n\r\nCustom AI models are going to win. Belvedir is the infrastructure needed to make trillions of them.",
-    "one_liner": "Custom Model Factory For Cheaper, Better, Faster AI",
+    "one_liner": "Custom model factory for cheaper, better, faster AI",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1784319754,
     "tags": [
-      "Machine Learning",
-      "AI"
+      "Artificial Intelligence",
+      "Machine Learning"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -132989,7 +133078,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b4bdae68fdd8f9d994fab11fca6b30709eb7e7c.png",
     "website": "https://financialdatasets.ai/",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Financial Datasets is the largest search index for stock market data, built for AI agents.\r\n\r\nWe index the world's markets so agents can search every filing, answer any financial question, and monitor markets in real time.\r\n\r\nFor 40 years, market data was built for humans reading a screen. We are rebuilding it for agents that research every company, all day, across the world.",
+    "long_description": "Financial Datasets is an applied AI research lab building search and data infrastructure for agents, starting with financial markets.\r\n\r\nWe turn filings, company disclosures, and market data into structured, searchable information - helping agents find relevant facts, answer financial questions, and monitor markets in real time.\r\n\r\nFor 40 years, market data was built for people reading screens. We're rebuilding it for agents that research every company, all day, across the world.",
     "one_liner": "Connect your agents to the stock market ",
     "team_size": 1,
     "industry": "B2B",
@@ -134857,8 +134946,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/58a972cb3cb171dd4300267d241cc6705539f906.png",
     "website": "https://simulithic.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We build simulations of your real users, grounded in your session data, so you can predict how any product change will perform before you ship it.",
-    "one_liner": "Simulate how any product change will perform before shipping.",
+    "long_description": "Simulithic continuously uses your production product like your real users do. We learn representative user journeys and run agents across different devices, browsers, account states, and environments to find failures that traditional automated tests miss. When something breaks, we reproduce it and alert engineering before they hear about it from a customer.",
+    "one_liner": "User simulations for production monitoring.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -135054,6 +135143,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/boat",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/boat.json"
+  },
+  {
+    "id": 34959,
+    "name": "Applied Kinetics",
+    "slug": "applied-kinetics",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37b9d51b8dac4842b77d6d1cdc4770519c02f477.png",
+    "website": "https://appliedkinetics.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Applied Kinetics builds and deploys specialized AI employees to handle the coordination work behind America's energy and data center buildout. Our agents chase suppliers, track equipment approvals and delivery dates, and flag delays so project teams can keep critical equipment moving without hunting for updates across emails and spreadsheets.",
+    "one_liner": "AI for the industries that power America. ",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1789683444,
+    "tags": [
+      "B2B",
+      "Supply Chain",
+      "Procurement",
+      "Energy",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/applied-kinetics",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/applied-kinetics.json"
   },
   {
     "id": 35094,
@@ -135264,6 +135396,46 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/onepatch.json"
   },
   {
+    "id": 35263,
+    "name": "River",
+    "slug": "rivereditor",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/47198fc0e393650eaf6b3a2b120ff40b912a2645.png",
+    "website": "https://meetriver.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "AI made software engineers 100x more productive. We're bringing that same transformation to knowledge workers with the AI desktop.",
+    "one_liner": "The AI desktop.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1785983847,
+    "tags": [
+      "Artificial Intelligence",
+      "Productivity"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rivereditor",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/rivereditor.json"
+  },
+  {
     "id": 35265,
     "name": "Hopper",
     "slug": "hopper",
@@ -135271,15 +135443,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6640b732eb4efe17f2fb11ff75f6f6bc14184872.png",
     "website": "https://withhopper.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Our customers use Hopper today for two things: replacing GPT-4.1 with Gemma-4 (6x faster), and replacing Elevenlabs with qwen3-tts (8x cheaper).",
+    "long_description": "Hopper post-trains STT, TTS, and speech LLMs on your production calls, then serves and improves them against your live traffic",
     "one_liner": "Fast inference for voice",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1788561875,
     "tags": [
-      "Infrastructure",
-      "AI"
+      "Artificial Intelligence",
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -135601,7 +135773,7 @@
     "website": "https://www.memorable.sh/",
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "",
-    "one_liner": "Self-evolving workflows for AI agents",
+    "one_liner": "reducing agent reasoning into a graph search problem",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -135630,7 +135802,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": false,
+    "question_answers": true,
     "url": "https://www.ycombinator.com/companies/memorable",
     "api": "https://yc-oss.github.io/api/batches/summer-2027/memorable.json"
   },
@@ -135756,6 +135928,47 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/the-agentic-data-co.json"
   },
   {
+    "id": 37995,
+    "name": "Sintropix",
+    "slug": "sintropix",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e0565abd52682e4249720fb4eb646f17fbbdd65.png",
+    "website": "https://sintropix.com/",
+    "all_locations": "Santiago, Santiago Metropolitan Region, Chile",
+    "long_description": "Autonomous accounting platform for global companies. We close your books and give you financial clarity while you run your business. ",
+    "one_liner": "Autonomous accounting platform for global companies",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1789679183,
+    "tags": [
+      "Fintech",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "Chile",
+      "Latin America"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sintropix",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/sintropix.json"
+  },
+  {
     "id": 38061,
     "name": "Maritime",
     "slug": "maritime",
@@ -135801,7 +136014,7 @@
     "name": "DeepMark",
     "slug": "deepmark",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c443c87dd89559f3656ebd3f92b941ded93ff4dd.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1bd6059d7d9d25b086256c7ab3a4a2b53f609362.png",
     "website": "https://www.deepmark.me",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "DeepMark is the authentication layer for AI voice. When an AI agent speaks, we embed a compact, machine-readable ID directly into the audio, not in metadata, which gets stripped the moment a file is touched. The ID resolves to a trust record, so a bank, a call center, or the person on the line can verify in real time who the agent is.",

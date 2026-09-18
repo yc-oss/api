@@ -12423,7 +12423,7 @@
     "all_locations": "Los Angeles, CA, USA; Remote",
     "long_description": "Whatnot is the largest livestream shopping platform in the U.S., connecting buyers and sellers in real-time across any category – from collectibles like trading cards to comics, fashion, sneakers, and more. ",
     "one_liner": "Whatnot is the largest livestream shopping platform in the U.S.",
-    "team_size": 731,
+    "team_size": 1500,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1580948094,
@@ -12446,7 +12446,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -12556,8 +12556,8 @@
     "subindustry": "Education",
     "launched_at": 1584136938,
     "tags": [
-      "Education",
-      "AI"
+      "Artificial Intelligence",
+      "Education"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -13274,7 +13274,7 @@
     "all_locations": "Montreal, QC, Canada",
     "long_description": "Nomic is doing for protein profiling, what Illumina did for DNA sequencing. Our core technology, the nELISA, is a next-gen immunoassay platform that transforms the ELISA into a high-throughput, high-content, and high-versatility tool. \r\n\r\nToday we developed the nELISA for high-throughput drug discovery scientists, enabling them profile 100s of proteins at 10x higher throughput and 10x lower cost compared to existing solutions. We're offering the nELISA through early access programs to HTS groups in top pharmas as well as pioneering biotechs in the space.\r\n\r\nOur goal is to create a ubiquitous technology that consolidates the broad range of legacy immunoassay toolkits that scientists use today with a single platform that can carry the science end-to-end, from discovery all the way to the clinic. \r\n\r\nWe're a team of engineers, biologists, and highly-skilled lab operators that are looking to grow quickly to keep up with customer demand but also to continue developing our core technology, scale our multiplexing/throughput, and build our software stack. We're hiring on a number of positions including engineering, software, biology, and ops. Come talk to us!",
     "one_liner": "Nomic is doing for proteins what Illumina has done for DNA",
-    "team_size": 24,
+    "team_size": 100,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Diagnostics",
     "launched_at": 1583898031,
@@ -13297,7 +13297,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -20647,6 +20647,53 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2021/kodex.json"
   },
   {
+    "id": 24188,
+    "name": "Pirouette Pharma",
+    "slug": "pirouette-pharma",
+    "former_names": [
+      "Pirouette Medical, LLC.",
+      "Pirouette Medical"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6d5c45afdf23c42aacf00d8b2a17adc32893a852.png",
+    "website": "https://www.pirouettepharma.com/",
+    "all_locations": "Boston, MA, USA",
+    "long_description": "At Pirouette, we have developed a low-profile, disk-shaped, rugged injection device with a patient-centric focus on affordability, portability, and usability. The patented device, based on extensive patient input, is designed to make administering an injection as easy as pushing a button. This allows individuals with limited or no training to easily and intuitively perform an injection on themselves or others.",
+    "one_liner": "We make injections as easy as pushing a button!",
+    "team_size": 9,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Drug Discovery and Delivery",
+    "launched_at": 1624370517,
+    "tags": [
+      "Health Tech",
+      "Medical Devices",
+      "Biotech",
+      "Healthcare"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Drug Discovery and Delivery"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pirouette-pharma",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/pirouette-pharma.json"
+  },
+  {
     "id": 24194,
     "name": "Aqua",
     "slug": "aqua",
@@ -21124,54 +21171,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/digibuild",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/digibuild.json"
-  },
-  {
-    "id": 24344,
-    "name": "WarpBuild",
-    "slug": "warpbuild",
-    "former_names": [
-      "Argonaut",
-      "WartpBuild"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc34887fced4f954a1a9fd60de7afd828c9a1d74.png",
-    "website": "https://www.warpbuild.com",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Accelerate software development with WarpBuild.\r\nGet 2x faster, up to 90% cheaper CI in 30 seconds using WarpBuild for Github Actions.",
-    "one_liner": "Accelerate software development with WarpBuild's 10x faster CI infra.",
-    "team_size": 8,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1626365093,
-    "tags": [
-      "Developer Tools",
-      "Generative AI",
-      "SaaS",
-      "Productivity",
-      "DevOps"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2021",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/warpbuild",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/warpbuild.json"
   },
   {
     "id": 24346,
@@ -23138,6 +23137,54 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/emerge-career",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/emerge-career.json"
+  },
+  {
+    "id": 25061,
+    "name": "Optery",
+    "slug": "optery",
+    "former_names": [
+      "Optery",
+      "Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/02ca984c664acd671be4123ea5824a7fbc55c95c.png",
+    "website": "https://www.optery.com",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Optery is automated opt out software, and we serve individuals, families and businesses.  With Optery, you can remove yourself from hundreds of data brokers that are posting and selling your home address, phone number, email and other private information on the internet.  \r\n\r\nOptery received the “Editors’ Choice” award by PCMag as the most outstanding product in the personal data removal category in 2022, 2023, 2024, 2026 and 2026, the Cybersecurity Excellence Awards for Attack Surface Management, Digital Footprint Management, and Employee Privacy Protection in 2024 and 2025, Cyber Defense Magazine’s Top InfoSec Innovator and Best Attack Surface Management awards in 2024 and 2025, the 2025 Fortress Cybersecurity Award for Privacy Enhancing Technologies, and Fast Company’s Next Big Things in Tech award for security and privacy in 2023. In 2025, Optery was also listed by Business Insider as one of 30 early-stage startups most likely to become a unicorn.\r\n\r\nOptery prevents phishing and social engineering, identity theft and fraud, online stalking and harassment, ransomware, doxxing, and prevents people's private information from showing up in Google search results. \r\n\r\nAnyone can create a free account to receive a personalized Exposure Report with live screenshots summarizing where your information is being posted and sold online.  Optery then provides free tools for self-service removals, or you can upgrade to a paid plan, and Optery will remove the profiles for you.\r\n\r\nOptery for Business serves enterprises removing personal information from the internet for their employees and executives, and offers an API enabling application developers to embed data broker scanning and removal technology into their applications.",
+    "one_liner": "Opt out software that removes your private info from the internet",
+    "team_size": 55,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1634074023,
+    "tags": [
+      "SaaS",
+      "Consumer",
+      "Security",
+      "Privacy",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/optery",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/optery.json"
   },
   {
     "id": 25075,
@@ -28551,52 +28598,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/aviaryai",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/aviaryai.json"
-  },
-  {
-    "id": 26912,
-    "name": "Quinn",
-    "slug": "quinn",
-    "former_names": [
-      "iollo"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bbcdfea1d8de2241298588710c23af6fc6a61bf6.png",
-    "website": "https://www.quinnbio.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Quinn is your biopharma team. From molecule design to portfolio strategy, Quinn delivers comprehensive reports and supporting analyses, models and designs in 3–5 days instead of months.",
-    "one_liner": "Your biopharma team, from molecule design to portfolio strategy",
-    "team_size": 5,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Drug Discovery and Delivery",
-    "launched_at": 1656567327,
-    "tags": [
-      "Artificial Intelligence",
-      "Generative AI",
-      "Biotech",
-      "Enterprise"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Drug Discovery and Delivery"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/quinn",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/quinn.json"
   },
   {
     "id": 26913,
@@ -34085,7 +34086,7 @@
     "all_locations": "New York City, NY, USA",
     "long_description": "Prosper builds AI phone agents for healthcare providers. Our agents automate manual, time-intensive workflows like patient scheduling, balance reminders, claims status checks, benefit verification, and prior authorizations. We integrate with 80+ EHRs, go live in 3 weeks, and offer a no-code interface for customization.\r\n\r\nToday, Prosper handles thousands of daily calls for dozens of providers, reducing costs by 50% and tripling productivity. We’re building the AI-first operating system for healthcare to eliminate the $200B lost to administrative overhead every year.",
     "one_liner": "AI Phone Agents for Healthcare Operations",
-    "team_size": 9,
+    "team_size": 60,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1754605314,
@@ -35329,7 +35330,7 @@
     "all_locations": "New York City, NY, USA",
     "long_description": "Fortuna is a one-stop solution that helps consumers navigate Medicaid end-to-end from eligibility and enrollment to renewing coverage. \r\n\r\nOur platform creates value as the middleware layer for the $800B Medicaid ecosystem.",
     "one_liner": "TurboTax for Medicaid",
-    "team_size": 22,
+    "team_size": 25,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1691019691,
@@ -35352,7 +35353,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -37695,7 +37696,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -37910,7 +37911,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -38316,18 +38317,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b27383428d763a236956940e76e892fc851162b4.png",
     "website": "https://www.greenboard.com",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Greenboard is building a singular, AI-powered platform to handle management of the entirety of financial firms’ compliance programs, and eventually all back office processes. Today, financial institutions use Greenboard to detect risk using AI and to rip out and replace the bad legacy back office tooling they have wanted to get rid of for years.\r\n \r\n\r\n\r\nGreenboard's mission is to enable financial institutions to operate their back office teams at a higher standard, with half of the headcount. We’re starting with compliance",
+    "long_description": "At Greenboard, we're building the future of financial compliance. Greenboard is the unified, AI-native compliance operating system for RIAs, fintechs, private funds, hedge funds, and more. It replaces the fragmented mix of legacy tools and automates more than previously possible. By centralizing data and workflows, Greenboard helps firms reduce regulatory risk, simplify their technology stack, modernize how they run compliance, and save money. \r\n\r\n\r\nGreenboard's mission is to enable financial institutions to operate their back office teams at a higher standard, with half of the headcount. We’re starting with compliance",
     "one_liner": "Modern OS for the financial back office. ",
     "team_size": 35,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1700498020,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "SaaS",
       "Compliance",
-      "Operations",
-      "AI"
+      "Operations"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -41591,12 +41592,12 @@
     "former_names": [
       "mdhub Inc"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd82f4e0241c51007ca4b9aef139a8ebeb515e7f.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c645ee5ac2dfc857e6927bf9a9ef4fb62efe8521.png",
     "website": "https://www.mdhub.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "mdhub is the AI-native operating system for behavioral health. \r\n\r\nWe combine AI workers with a purpose-built EHR, CRM, and RCM into one platform where clinical teams and AI collaborate across every workflow.\r\n\r\nMid to large-sized behavioral health clinics run on disconnected legacy systems that weren't designed for today's demand. The result: clinician burnout, admin bloat, and patients waiting weeks for care. mdhub replaces the entire fragmented stack with a single AI-first platform.\r\n\r\nOur AI workers:\r\n\r\nEmma, AI Clinical Assistant: automates documentation and gives clinicians back hours every day.\r\nSarah, AI Admissions Coordinator: handles 100% of inbound calls, verifies insurance, and books patients 24/7.\r\nEric, AI Billing Agent: manages coding, claims submission, and denial management same-day.\r\n\r\nOur platform:\r\n\r\nmdhub EHR: the first clinical workspace built for AI from day one. Documentation, intake, treatment planning, e-prescribing, and billing in one place.\r\nmdhub CRM: every lead captured, every follow-up automated, nothing falls through the cracks.\r\nmdhub RCM: end-to-end revenue cycle management. From claim submission to collections, AI-powered and fully integrated.\r\n\r\nWe're not another EHR with AI bolted on. We're not a point solution. We're the full operating system where AI workers and human teams run a clinic together. Hundreds of mid to large-sized behavioral health clinics use mdhub today, including some of the largest organizations in the country. One platform, less overhead, more patients seen.",
     "one_liner": "AI-native operating system for behavioral health clinics.",
-    "team_size": 15,
+    "team_size": 25,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1720483554,
@@ -41962,7 +41963,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ff410def03c8c58c3adc7db9615becc8164804e3.png",
     "website": "https://wordware.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Most AI products hand you a coworker on day one and hope you trust it. Sauna is the coworker you raise: it starts by learning how you work, earns autonomy task by task, and ends up running hours of work on its own while you keep taste, review, and the final say. Wordware is the ~20-person team behind it, backed by Spark Capital, Felicis, and Y Combinator with a $30M seed, the largest in YC history. We build from a San Francisco office in the shadow of the Golden Gate Bridge, and we work absurdly hard because we can see and feel the outcome every day.",
+    "long_description": "Every tool you use was built as an island, so you became the glue between them. You carry a name from Gmail into the CRM, a time from the CRM into Calendly, a note from Calendly into a doc. AI showed up and mostly became an eleventh window to paste into. \r\n\r\nSauna is a hybrid of AI and software standing on one shared brain. It holds your context and hands you real software built on top of it. You talk to it like a chatbot and use what it builds like an app: software for the path you repeat, AI for the edge that never repeats. Keep it to yourself, or share the brain with your team. \r\n\r\nThe clearest way to see it is a tool doing what its whole category cannot. An ordinary Calendly shows a stranger your free slots. Your Calendly writes the invite email itself, because it knows how the two of you know each other, and it offers a board member the slot over your gym block, because it knows which of your busy hours bend and for whom. \r\n\r\nWordware is the team behind it, 15 people backed by Spark Capital, Felicis, and Y Combinator with a $30M seed, the largest in YC's history. We build from an office in the Presidio, fifty metres from Crissy Field beach, and we work absurdly hard because we can see and feel the outcome every day.",
     "one_liner": "AI agents you can rely on",
     "team_size": 15,
     "industry": "Consumer",
@@ -41970,9 +41971,9 @@
     "launched_at": 1715713232,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "Developer Tools",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48131,7 +48132,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "10x helps dental practices turn missed revenue opportunities into booked appointments. We connect to a practice’s patient database, identify overdue recalls, lapsed patients, and unscheduled treatment plans, then use AI calling and texting to bring those patients back into the chair.",
     "one_liner": "AI Sales Teams for Dental Practices",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1736138044,
@@ -51346,6 +51347,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/besimple-ai",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/besimple-ai.json"
+  },
+  {
+    "id": 30503,
+    "name": "Vesence",
+    "slug": "vesence",
+    "former_names": [
+      "Verse Law",
+      "Verse"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae7f81743afec55a338f8ebe26d07f21e2696ebc.png",
+    "website": "https://vesence.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Vesence is building AI for High-Stakes Work.\r\n\r\nAlready rolled out at law firms, investment funds, consultants, and where details matters the most.\r\n\r\nVesence is a browser-based desktop where professionals work alongside agents to review work, send emails, manage their calendar, and edit decks, documents and spreadsheets.",
+    "one_liner": "AI for High-Stakes Work",
+    "team_size": 10,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1747133222,
+    "tags": [
+      "Artificial Intelligence",
+      "Finance",
+      "B2B",
+      "Legal"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/vesence",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/vesence.json"
   },
   {
     "id": 30504,
@@ -54654,48 +54699,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/magnetic.json"
   },
   {
-    "id": 30778,
-    "name": "Perspectives Health",
-    "slug": "perspectives-health",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d4d717434657a084785d53a7ab208f3a1b202dae.png",
-    "website": "https://perspectiveshealth.ai/",
-    "all_locations": "Chicago, IL, USA",
-    "long_description": "America is facing an addiction and mental health crisis, but the treatment programs trying to solve the problem are faced with administrative burden, staff shortages, and pressure from payers. \r\n\r\nWe work with treatment programs to incorporate AI that reduces administrative burden, prevents insurance denials, and helps directors run their program better.\r\n\r\nOur agents analyze charts to prevent insurance denials, complete documentation and insurance paperwork to save staff time, and sift through historical data to find opportunities for improvement.",
-    "one_liner": "AI to run behavioral health programs better",
-    "team_size": 5,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1751446455,
-    "tags": [
-      "Workflow Automation",
-      "Healthcare",
-      "Mental Health",
-      "Healthcare IT"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": true,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/perspectives-health",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/perspectives-health.json"
-  },
-  {
     "id": 30789,
     "name": "Interfere",
     "slug": "interfere",
@@ -56384,25 +56387,28 @@
   },
   {
     "id": 30928,
-    "name": "Thesis",
-    "slug": "thesis",
+    "name": "Darwin",
+    "slug": "darwin",
     "former_names": [
-      "Thesis Labs"
+      "Thesis Labs",
+      "Thesis",
+      "Darwin",
+      "Thesis"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/834b16b30c5de79bf9dbcd0a4819289bfa937936.png",
     "website": "https://thesislabs.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Thesis is building Darwin, a humanoid robot for the home. AI is about to leave the screen and enter the physical world. Darwin will learn from real-world experience and continuously improve. First deployments begin in early 2027.",
+    "long_description": "Darwin is building general-purpose humanoid robots for real-world work. Our first robot, Darwin One, will learn from real-world experience and continuously improve as AI moves from the screen into the physical world. First deployments begin in early 2027.",
     "one_liner": "Humanoid robots",
     "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1762476616,
     "tags": [
+      "Artificial Intelligence",
       "Hard Tech",
       "Machine Learning",
-      "Robotics",
-      "AI"
+      "Robotics"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -56423,8 +56429,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/thesis",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/thesis.json"
+    "url": "https://www.ycombinator.com/companies/darwin",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/darwin.json"
   },
   {
     "id": 30932,
@@ -57604,48 +57610,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/item",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/item.json"
-  },
-  {
-    "id": 31030,
-    "name": "Haladir",
-    "slug": "haladir",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b1a47bf16f93d71a3d1f3af6d10a6c736e170b2.png",
-    "website": "https://www.haladir.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Haladir builds advanced AI systems for logistics. We sit on top of your WMS, TMS and ERP, turning their data into decisions across supply chain planning and execution: solver-grade optimization that decides what should happen, and AI agents that run the workflows. Today's AI brought intelligence. The next frontier is judgement.",
-    "one_liner": "Operational Superintelligence for Global Logistics",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
-    "launched_at": 1766374394,
-    "tags": [
-      "Artificial Intelligence",
-      "Logistics",
-      "Supply Chain",
-      "Operations"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/haladir",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/haladir.json"
   },
   {
     "id": 31036,
@@ -61752,9 +61716,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0fb7d11f60217eaded2ae0e96dbee3bf9ebcd68c.png",
     "website": "https://www.runtm.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Runtime helps fast-growing fintechs build and run AI agents for financial operations. Teams turn their procedures into specialized agents that work across their systems, with scoped access, human approvals, and a full audit trail.",
+    "long_description": "Runtime helps fast-growing fintechs build and run AI agents for mission-critical financial operations. Teams turn their procedures into specialized agents that work across their systems, with scoped access, human approvals, and a full audit trail.",
     "one_liner": "AI agents for financial operations",
-    "team_size": 5,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1773951001,
@@ -63136,7 +63100,7 @@
     "slug": "hemlock",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bbacf68d8da77e7a11ad346712dd48cf4d50347d.png",
-    "website": "https://hemlock.info",
+    "website": "https://hemlock.inc",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Every serious robotics lab is bottlenecked on the same thing: demonstration data. The field has converged on egocentric video and hand pose as the substrate, and both are now cheap to collect at scale. What neither of them contains is force. A video of someone picking up an egg and a video of someone picking up a rock are nearly identical in pixel space and nearly identical in joint angles. They differ almost entirely in a quantity nobody is recording. Policies trained without it learn geometry and inherit no sense of touch.\r\n\r\nHemlock closes that gap at the source. Our device, the Bracelet, is a wrist-worn surface EMG band that reads the electrical activity of the forearm muscles that actually drive the hand, which means it recovers contraction force directly rather than inferring it from motion. This distinction is the whole thesis: force cannot be reconstructed downstream of kinematics, because a hand squeezing hard isometrically and a hand resting can occupy the identical pose. Muscle signal is the only non-invasive channel that separates them.",
     "one_liner": "Force-sensing wristband for training robotic AI",
@@ -63181,7 +63145,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/afa6ce6fe3345bb9e7b6296e9877371ada8e2155.png",
     "website": "https://orcaaerospace.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "At Orca, we are focused on creating the future of spacecraft operations by moving control onto the vehicle. By allowing LLMs to control the satellite using deterministic tooling, we are able to achieve the same holistic, high-quality decisions on \"what\" to do to carry out a mission while maintaining the safety of systems that decide \"how\" to execute it. ",
+    "long_description": "At Orca, we are focused on creating the future of spacecraft operations by moving control onto the vehicle. By allowing AI models to control the satellite using deterministic tooling, we are able to achieve the same holistic, high-quality decisions on \"what\" to do to carry out a mission while maintaining the safety of systems that decide \"how\" to execute it. ",
     "one_liner": "AI spacecraft operators that lives onboard the vehicle",
     "team_size": 3,
     "industry": "Industrials",

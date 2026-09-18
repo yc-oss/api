@@ -2461,7 +2461,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ff410def03c8c58c3adc7db9615becc8164804e3.png",
     "website": "https://wordware.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Most AI products hand you a coworker on day one and hope you trust it. Sauna is the coworker you raise: it starts by learning how you work, earns autonomy task by task, and ends up running hours of work on its own while you keep taste, review, and the final say. Wordware is the ~20-person team behind it, backed by Spark Capital, Felicis, and Y Combinator with a $30M seed, the largest in YC history. We build from a San Francisco office in the shadow of the Golden Gate Bridge, and we work absurdly hard because we can see and feel the outcome every day.",
+    "long_description": "Every tool you use was built as an island, so you became the glue between them. You carry a name from Gmail into the CRM, a time from the CRM into Calendly, a note from Calendly into a doc. AI showed up and mostly became an eleventh window to paste into. \r\n\r\nSauna is a hybrid of AI and software standing on one shared brain. It holds your context and hands you real software built on top of it. You talk to it like a chatbot and use what it builds like an app: software for the path you repeat, AI for the edge that never repeats. Keep it to yourself, or share the brain with your team. \r\n\r\nThe clearest way to see it is a tool doing what its whole category cannot. An ordinary Calendly shows a stranger your free slots. Your Calendly writes the invite email itself, because it knows how the two of you know each other, and it offers a board member the slot over your gym block, because it knows which of your busy hours bend and for whom. \r\n\r\nWordware is the team behind it, 15 people backed by Spark Capital, Felicis, and Y Combinator with a $30M seed, the largest in YC's history. We build from an office in the Presidio, fifty metres from Crissy Field beach, and we work absurdly hard because we can see and feel the outcome every day.",
     "one_liner": "AI agents you can rely on",
     "team_size": 15,
     "industry": "Consumer",
@@ -2469,9 +2469,9 @@
     "launched_at": 1715713232,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "Developer Tools",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3075,13 +3075,15 @@
   },
   {
     "id": 30213,
-    "name": "Truffle AI",
-    "slug": "truffle-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/17f1a1e21672fa03c69b669feef31d2a59b2c849.png",
-    "website": "https://www.trytruffle.ai/",
-    "all_locations": "Bengaluru, KA, India",
-    "long_description": "Truffle AI makes it easy for developers to integrate AI agents into any software application. We do this by exposing agents as simple APIs that can be called from anywhere. Developers have used Truffle to add customer support agents into WhatsApp and analytics agents into Slack.",
+    "name": "Dexto",
+    "slug": "dexto",
+    "former_names": [
+      "Truffle AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/151976ce07fb22bf59209dda8531a283a9eeda58.png",
+    "website": "https://www.dexto.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Dexto makes it easy for developers to integrate AI agents into any software application. We do this by exposing agents as simple APIs that can be called from anywhere. Developers have used Dexto to add customer support agents into WhatsApp and analytics agents into Slack.",
     "one_liner": "AWS for AI Agents",
     "team_size": 2,
     "industry": "B2B",
@@ -3105,8 +3107,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "India",
-      "South Asia",
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -3115,8 +3117,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/truffle-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/truffle-ai.json"
+    "url": "https://www.ycombinator.com/companies/dexto",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/dexto.json"
   },
   {
     "id": 30216,
@@ -3603,7 +3605,7 @@
     "former_names": [
       "Prism AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/973718be82b1053c971c2efe1c5263b785ae3711.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12dc6e609224f33b9c452f9656b3020116496003.png",
     "website": "https://prisminference.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We sell tokens",
@@ -5733,15 +5735,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6640b732eb4efe17f2fb11ff75f6f6bc14184872.png",
     "website": "https://withhopper.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Our customers use Hopper today for two things: replacing GPT-4.1 with Gemma-4 (6x faster), and replacing Elevenlabs with qwen3-tts (8x cheaper).",
+    "long_description": "Hopper post-trains STT, TTS, and speech LLMs on your production calls, then serves and improves them against your live traffic",
     "one_liner": "Fast inference for voice",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1788561875,
     "tags": [
-      "Infrastructure",
-      "AI"
+      "Artificial Intelligence",
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5899,7 +5901,7 @@
     "website": "https://www.memorable.sh/",
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "",
-    "one_liner": "Self-evolving workflows for AI agents",
+    "one_liner": "reducing agent reasoning into a graph search problem",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -5928,7 +5930,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": false,
+    "question_answers": true,
     "url": "https://www.ycombinator.com/companies/memorable",
     "api": "https://yc-oss.github.io/api/batches/summer-2027/memorable.json"
   },

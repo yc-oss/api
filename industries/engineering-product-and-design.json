@@ -10133,7 +10133,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -16297,7 +16297,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -16471,7 +16471,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -20783,13 +20783,15 @@
   },
   {
     "id": 30213,
-    "name": "Truffle AI",
-    "slug": "truffle-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/17f1a1e21672fa03c69b669feef31d2a59b2c849.png",
-    "website": "https://www.trytruffle.ai/",
-    "all_locations": "Bengaluru, KA, India",
-    "long_description": "Truffle AI makes it easy for developers to integrate AI agents into any software application. We do this by exposing agents as simple APIs that can be called from anywhere. Developers have used Truffle to add customer support agents into WhatsApp and analytics agents into Slack.",
+    "name": "Dexto",
+    "slug": "dexto",
+    "former_names": [
+      "Truffle AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/151976ce07fb22bf59209dda8531a283a9eeda58.png",
+    "website": "https://www.dexto.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Dexto makes it easy for developers to integrate AI agents into any software application. We do this by exposing agents as simple APIs that can be called from anywhere. Developers have used Dexto to add customer support agents into WhatsApp and analytics agents into Slack.",
     "one_liner": "AWS for AI Agents",
     "team_size": 2,
     "industry": "B2B",
@@ -20813,8 +20815,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "India",
-      "South Asia",
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -20823,8 +20825,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/truffle-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/truffle-ai.json"
+    "url": "https://www.ycombinator.com/companies/dexto",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/dexto.json"
   },
   {
     "id": 30221,
@@ -21978,23 +21980,24 @@
   },
   {
     "id": 30435,
-    "name": "Alpha Research",
-    "slug": "alpha-research",
+    "name": "Method",
+    "slug": "method",
     "former_names": [
       "Zenobia Pay",
-      "Dolphin"
+      "Dolphin",
+      "Alpha Research"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9da4ac9dd6be01478b419bbfd282d5e379179bc8.png",
-    "website": "https://alpharesearch.nyc/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9706bbce9dc3489f8db897884b3967bde457e6ca.png",
+    "website": "https://withmethod.ai/",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Alpha Research builds open source agentic knowledge bases. Our mission is to help knowledge workers work 100x faster. We launched and open sourced our first platform, Alpha Book on a mirror of the Project Gutenberg dataset (75,000 books).\r\n\r\nKnowledge work is bottlenecked in two key ways: finding evidence and testing hypotheses. We make both 100x faster. We extend keyword search and RAG with general coding agents, which use filesystem tools like ripgrep and reason iteratively to find broad evidence. Coding agents also write ad-hoc scripts to label datasets and test hypotheses.\r\n\r\nOur timeline is simple: repeat Alpha Book across every public dataset of humanity's knowledge. Next we'll launch Alpha Econ with US Census, BLS, NBER, etc datasets. Alpha Justice with US Supreme Court Cases, and so on. We support museums, research libraries, historical societies, and archives. We also do custom integration work for enterprise.",
-    "one_liner": "Open source, agentic knowledge bases for all of humanity's knowledge.",
+    "long_description": "Method turns repeated work into workflows your coding agent can run, check, and improve.",
+    "one_liner": "Agents that improve",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1747591533,
     "tags": [
-      "Market Research"
+      "Artificial Intelligence"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -22015,8 +22018,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/alpha-research",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/alpha-research.json"
+    "url": "https://www.ycombinator.com/companies/method",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/method.json"
   },
   {
     "id": 30449,
@@ -22239,7 +22242,7 @@
     "former_names": [
       "Prism AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/973718be82b1053c971c2efe1c5263b785ae3711.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12dc6e609224f33b9c452f9656b3020116496003.png",
     "website": "https://prisminference.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We sell tokens",
@@ -22371,8 +22374,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/38edcfba2831cce5f05a5da045992ae4f758e655.png",
     "website": "https://www.cactuscompute.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "On-device AI for phones, wearables, smart home, robots and small robots:\r\n- Cactus Needle: 14MB agentic LLM for tiny devices\r\n- Cactus Engine: fastest runtime for tiny devices\r\n- Cactus Hybrid: post-trained models fall back to cloud",
-    "one_liner": "Tiny Edge AI For Tiny Devices",
+    "long_description": "On-device AI for phones, wearables, smart home, robots and small robots: \r\n- 2bit\r\n- 8-29MB\r\n- up to 4k tokens/sec decode speed",
+    "one_liner": "Automation Foundation Models For Tiny Devices",
     "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -25801,9 +25804,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0fb7d11f60217eaded2ae0e96dbee3bf9ebcd68c.png",
     "website": "https://www.runtm.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Runtime helps fast-growing fintechs build and run AI agents for financial operations. Teams turn their procedures into specialized agents that work across their systems, with scoped access, human approvals, and a full audit trail.",
+    "long_description": "Runtime helps fast-growing fintechs build and run AI agents for mission-critical financial operations. Teams turn their procedures into specialized agents that work across their systems, with scoped access, human approvals, and a full audit trail.",
     "one_liner": "AI agents for financial operations",
-    "team_size": 5,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1773951001,
@@ -26563,8 +26566,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/58a972cb3cb171dd4300267d241cc6705539f906.png",
     "website": "https://simulithic.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We build simulations of your real users, grounded in your session data, so you can predict how any product change will perform before you ship it.",
-    "one_liner": "Simulate how any product change will perform before shipping.",
+    "long_description": "Simulithic continuously uses your production product like your real users do. We learn representative user journeys and run agents across different devices, browsers, account states, and environments to find failures that traditional automated tests miss. When something breaks, we reproduce it and alert engineering before they hear about it from a customer.",
+    "one_liner": "User simulations for production monitoring.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",

@@ -33110,7 +33110,7 @@
     "all_locations": "New York City, NY, USA",
     "long_description": "Prosper builds AI phone agents for healthcare providers. Our agents automate manual, time-intensive workflows like patient scheduling, balance reminders, claims status checks, benefit verification, and prior authorizations. We integrate with 80+ EHRs, go live in 3 weeks, and offer a no-code interface for customization.\r\n\r\nToday, Prosper handles thousands of daily calls for dozens of providers, reducing costs by 50% and tripling productivity. We’re building the AI-first operating system for healthcare to eliminate the $200B lost to administrative overhead every year.",
     "one_liner": "AI Phone Agents for Healthcare Operations",
-    "team_size": 9,
+    "team_size": 60,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1754605314,
@@ -38390,15 +38390,15 @@
     "all_locations": "Paris, Île-de-France, France",
     "long_description": "Plume is an AI-powered geospatial platform for site selection in energy infrastructure projects. \r\n\r\nSelecting the right sites requires analysis of +50 geospatial, grid, and regulatory constraints across fragmented data sources. \r\n\r\nPlume changes the process by enabling users to interact with geospatial data using natural language.",
     "one_liner": "Renewable infrastructure deployment at scale.",
-    "team_size": 4,
+    "team_size": 9,
     "industry": "Industrials",
     "subindustry": "Industrials -> Climate",
     "launched_at": 1724527338,
     "tags": [
-      "Artificial Intelligence",
       "Solar Power",
       "B2B",
       "Energy",
+      "AI",
       "Industrial"
     ],
     "tags_highlighted": [],
@@ -39847,18 +39847,18 @@
       "pap!"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7e1603c58a6b9ecb46ac26ec775f8201dd3c1d3d.png",
-    "website": "https://tryserve.ai/",
+    "website": "https://serveaiglobal.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "AI for Home Services Operators",
-    "team_size": 3,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
+    "one_liner": "AI for Field Service Enterprises",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
     "launched_at": 1724803143,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Home Services"
+      "Home Services",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -39867,7 +39867,8 @@
     "batch": "Summer 2024",
     "status": "Active",
     "industries": [
-      "Consumer"
+      "B2B",
+      "Operations"
     ],
     "regions": [
       "United States of America",
@@ -43341,6 +43342,50 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/alkali.json"
   },
   {
+    "id": 30503,
+    "name": "Vesence",
+    "slug": "vesence",
+    "former_names": [
+      "Verse Law",
+      "Verse"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae7f81743afec55a338f8ebe26d07f21e2696ebc.png",
+    "website": "https://vesence.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Vesence is building AI for High-Stakes Work.\r\n\r\nAlready rolled out at law firms, investment funds, consultants, and where details matters the most.\r\n\r\nVesence is a browser-based desktop where professionals work alongside agents to review work, send emails, manage their calendar, and edit decks, documents and spreadsheets.",
+    "one_liner": "AI for High-Stakes Work",
+    "team_size": 10,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1747133222,
+    "tags": [
+      "Artificial Intelligence",
+      "Finance",
+      "B2B",
+      "Legal"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/vesence",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/vesence.json"
+  },
+  {
     "id": 30513,
     "name": "Eloquent AI",
     "slug": "eloquent-ai",
@@ -44057,16 +44102,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Helping to build more socially intelligent AI, starting with voice.",
     "one_liner": "Building socially intelligent AI",
-    "team_size": 4,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1753401226,
     "tags": [
+      "Artificial Intelligence",
       "Marketplace",
       "B2B",
       "Data Labeling",
-      "Big Data",
-      "AI"
+      "Big Data"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -44921,7 +44966,7 @@
     "one_liner": "The GD&T Analysis Platform for Engineering Drawings",
     "team_size": 5,
     "industry": "Industrials",
-    "subindustry": "Industrials",
+    "subindustry": "Industrials -> Aviation and Space",
     "launched_at": 1752681359,
     "tags": [
       "Hardware",
@@ -44935,7 +44980,8 @@
     "batch": "Summer 2025",
     "status": "Active",
     "industries": [
-      "Industrials"
+      "Industrials",
+      "Aviation and Space"
     ],
     "regions": [
       "United States of America",
@@ -49867,6 +49913,49 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/sigma-2.json"
   },
   {
+    "id": 34959,
+    "name": "Applied Kinetics",
+    "slug": "applied-kinetics",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37b9d51b8dac4842b77d6d1cdc4770519c02f477.png",
+    "website": "https://appliedkinetics.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Applied Kinetics builds and deploys specialized AI employees to handle the coordination work behind America's energy and data center buildout. Our agents chase suppliers, track equipment approvals and delivery dates, and flag delays so project teams can keep critical equipment moving without hunting for updates across emails and spreadsheets.",
+    "one_liner": "AI for the industries that power America. ",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1789683444,
+    "tags": [
+      "B2B",
+      "Supply Chain",
+      "Procurement",
+      "Energy",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/applied-kinetics",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/applied-kinetics.json"
+  },
+  {
     "id": 35094,
     "name": "Forward",
     "slug": "useforward",
@@ -50118,7 +50207,7 @@
     "name": "Lark",
     "slug": "lark-2",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1fa063810ecce7347eb451a813a33fc49dd7242c.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/658417946c5809d1681eb90f9636442c2526cc5c.png",
     "website": "https://trylark.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Lark builds specialized AI agents that automate manual workflows for wholesale distributors. Our agents work with existing ERP systems, learning from each distributor’s historical data and the team’s decisions. Together, these agents can run a distributor’s entire operation.",
@@ -50128,9 +50217,9 @@
     "subindustry": "Industrials",
     "launched_at": 1789595493,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Supply Chain",
-      "AI"
+      "Supply Chain"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -50154,11 +50243,52 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/lark-2.json"
   },
   {
+    "id": 37995,
+    "name": "Sintropix",
+    "slug": "sintropix",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e0565abd52682e4249720fb4eb646f17fbbdd65.png",
+    "website": "https://sintropix.com/",
+    "all_locations": "Santiago, Santiago Metropolitan Region, Chile",
+    "long_description": "Autonomous accounting platform for global companies. We close your books and give you financial clarity while you run your business. ",
+    "one_liner": "Autonomous accounting platform for global companies",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1789679183,
+    "tags": [
+      "Fintech",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "Chile",
+      "Latin America"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sintropix",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/sintropix.json"
+  },
+  {
     "id": 38127,
     "name": "DeepMark",
     "slug": "deepmark",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c443c87dd89559f3656ebd3f92b941ded93ff4dd.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1bd6059d7d9d25b086256c7ab3a4a2b53f609362.png",
     "website": "https://www.deepmark.me",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "DeepMark is the authentication layer for AI voice. When an AI agent speaks, we embed a compact, machine-readable ID directly into the audio, not in metadata, which gets stripped the moment a file is touched. The ID resolves to a trust record, so a bank, a call center, or the person on the line can verify in real time who the agent is.",
