@@ -8813,7 +8813,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -12216,9 +12216,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1675796536,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
+      "Design",
       "Design Tools",
-      "AI"
+      "Web Development"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -22643,7 +22645,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67e517c455ab1e170ed6b2628a4dce9546f07490.png",
     "website": "https://quotientlabs.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "You shouldn't be paying Fable prices when 88% of your token usage is tool I/O. \r\nQuotient Labs runs on top of Claude Code to reduce token spend, compress context, and optimize tool calls while preserving output quality. Same models, same workflow, no changes to how you work. Benchmarked 47% less cost on real, multi-step developer workflows, with no quality loss.",
+    "long_description": "You should only be paying frontier model prices for top-shelf reasoning. But 88% of your token bill is just tool I/O.\r\n Quotient Labs runs on top of Claude Code to reduce token spend, compress context, and optimize tool calls while preserving output quality. Same models, same workflow, no changes to how you work. Benchmarked 47% less cost on real, multi-step developer workflows, with no quality loss.",
     "one_liner": "Use Claude Code at 47% less cost in one line of installation.",
     "team_size": 2,
     "industry": "B2B",
@@ -22651,7 +22653,8 @@
     "launched_at": 1772518250,
     "tags": [
       "Artificial Intelligence",
-      "Developer Tools"
+      "Developer Tools",
+      "SaaS"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -24404,6 +24407,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/byteask",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/byteask.json"
+  },
+  {
+    "id": 35292,
+    "name": "Agent Relay",
+    "slug": "agent-relay",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cd30717450b2c4e90d7bcd129a9d826c6faaa345.png",
+    "website": "https://agentrelay.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Agent Relay helps software teams work better with coding agents, and helps those agents work better as a team. It gives Claude Code, Codex, OpenCode, and custom agents shared messaging, session history, and access to tools like GitHub, Linear, and Slack. Teams can see what every agent is doing, run checked and resumable workflows, and step in when human judgment is needed. Run it in our cloud, locally, or on your own hardware.",
+    "one_liner": "The infrastructure to run coding agents for your team",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1789747031,
+    "tags": [
+      "Developer Tools",
+      "Swarm AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/agent-relay",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/agent-relay.json"
   },
   {
     "id": 35395,

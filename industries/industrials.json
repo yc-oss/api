@@ -14575,7 +14575,7 @@
       "Thesis"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/834b16b30c5de79bf9dbcd0a4819289bfa937936.png",
-    "website": "https://thesislabs.ai",
+    "website": "https://darwinrobotics.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Darwin is building general-purpose humanoid robots for real-world work. Our first robot, Darwin One, will learn from real-world experience and continuously improve as AI moves from the screen into the physical world. First deployments begin in early 2027.",
     "one_liner": "Humanoid robots",
@@ -16221,7 +16221,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Dispatch is building refurbishable reentry vehicles that host and return payloads for companies making ultra-high-value materials (semiconductors, biotech, and pharma) that can only be manufactured in space. Right now, these companies have no practical way to manufacture and get their products back to Earth. We solve this bottleneck.\r\n\r\nWe just returned from the Mojave Desert testing our first full-scale reentry heat shield designed to protect the satellite as it returns from space at Mach 20+, built in an apartment for 100x cheaper than competitors. To test, we held it behind a rocket engine to simulate the forces of atmospheric reentry. IT WORKED! Watch here - https://youtu.be/dhlQmnIoptg\r\n\r\nTo scale, we anchor permanent infrastructure in orbit - building high power Autonomous Space Stations designed from day one for \"lights-out\" manufacturing serviced by the reentry vehicles.",
     "one_liner": "Satellites for Manufacturing in Space",
-    "team_size": 2,
+    "team_size": 4,
     "industry": "Industrials",
     "subindustry": "Industrials -> Aviation and Space",
     "launched_at": 1773166639,
@@ -17388,7 +17388,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2026",
     "status": "Active",
@@ -19493,6 +19493,47 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/antropi-robotics.json"
   },
   {
+    "id": 35355,
+    "name": "Invertix",
+    "slug": "invertix",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2332aa776f979c1ef83d3026fd24932b6576eea.png",
+    "website": "https://www.invertix.ai",
+    "all_locations": "Munich, BY, Germany",
+    "long_description": "The next constraint is not intelligence, it is the energy cost of running it.\r\nWe deploy custom AI models inside energy companies that ingest SCADA data, work orders, and grid topology,  operational data no public model has seen, grounded in physics-informed neural networks and differentiable grid simulators. \r\nThis creates a flywheel: more operator data → better process understanding → more efficient operations → cheaper energy → cheaper AI → more deployment → more data. \r\n\r\nhttps://www.youtube.com/watch?v=0uDH6pMn5OE\r\n\r\nAI compute doubles every 2.2 years. Data center demand grows from 415 to 945 TWh by 2030. Without near-zero energy cost, AI remains limited by human infrastructure. We are the layer that runs AI at zero energy cost.\r\nEnergy is a $10 trillion market. The infrastructure layer doesn't exist yet. \r\nWe are building it.",
+    "one_liner": "Energy Superintelligence, AI that runs energy operations.",
+    "team_size": 8,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Energy",
+    "launched_at": 1789740763,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Solar Power"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Energy"
+    ],
+    "regions": [
+      "Germany",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/invertix",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/invertix.json"
+  },
+  {
     "id": 35454,
     "name": "Shepherd Robotics",
     "slug": "shepherd-robotics",
@@ -19575,11 +19616,51 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/deploy.json"
   },
   {
+    "id": 35487,
+    "name": "Streamline Systems",
+    "slug": "streamline-systems",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/989b85da2420d6592fdbd561cfe2e0802ebf6933.png",
+    "website": "https://streamlinesystems.ltd/",
+    "all_locations": "",
+    "long_description": "Streamline Systems is building the replacement for GPS. \r\n\r\nSatellite positioning has become the single point of failure for almost every modern system, both military and civil. We've built the replacement. A drop-in module that integrates with existing Ardupilot, INAV and PX4 flight controllers, with demonstrated satellite-independent autonomous flight and GPS handoff. We're currently working with commercial and military end users to deploy the capability.",
+    "one_liner": "Precision navigation for UAVs operating without GPS. ",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Defense",
+    "launched_at": 1789759565,
+    "tags": [
+      "Autonomous Delivery",
+      "Drones",
+      "Navigation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/streamline-systems",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/streamline-systems.json"
+  },
+  {
     "id": 35522,
     "name": "Hemlock",
     "slug": "hemlock",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bbacf68d8da77e7a11ad346712dd48cf4d50347d.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f772c44a8588e4bf3012c9f219bcb8503834bddb.png",
     "website": "https://hemlock.inc",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Every serious robotics lab is bottlenecked on the same thing: demonstration data. The field has converged on egocentric video and hand pose as the substrate, and both are now cheap to collect at scale. What neither of them contains is force. A video of someone picking up an egg and a video of someone picking up a rock are nearly identical in pixel space and nearly identical in joint angles. They differ almost entirely in a quantity nobody is recording. Policies trained without it learn geometry and inherit no sense of touch.\r\n\r\nHemlock closes that gap at the source. Our device, the Bracelet, is a wrist-worn surface EMG band that reads the electrical activity of the forearm muscles that actually drive the hand, which means it recovers contraction force directly rather than inferring it from motion. This distinction is the whole thesis: force cannot be reconstructed downstream of kinematics, because a hand squeezing hard isometrically and a hand resting can occupy the identical pose. Muscle signal is the only non-invasive channel that separates them.",

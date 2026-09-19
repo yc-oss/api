@@ -11337,20 +11337,20 @@
       "Open Credit",
       "Heron Data"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ed4f65fcafeff8654b29d189aa9b82b0bddfd6f.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f86f1836e1bd65adb93aa3f9f5e5db9c12222c15.png",
     "website": "https://www.herondata.io",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Heron analyzes 60,000+ small businesses a day to make sure good deals reach your underwriters in minutes, and bad deals never do. We power underwriting across small business finance and insurance: MCA, term loans, SBA, and commercial insurance\r\n",
-    "one_liner": "Underwriting automation for SMB finance",
+    "long_description": "Heron is on a mission to eliminate the underwriting tax on American businesses. When a consumer applies for credit, a spinning wheel can return an offer in seconds; when a business applies for a loan or insurance policy, humans still spend hours reading documents, verifying the business, detecting fraud, and deciding what to offer. Heron does that work in software: lenders, insurers, and credit brokers send applications in and get declines and offers out in minutes instead of days. We have underwritten roughly 1 in 8 US employer businesses in the past year. That scale allows us to go beyond what any individual could ever do: identify cross-customer signals across millions of businesses to build new data products, and ultimately become the data layer for private businesses in the US. Backed by Insight Partners and Y Combinator.",
+    "one_liner": "Underwriting automation for small business finance",
     "team_size": 60,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1597867558,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -25979,9 +25979,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2a2858087cb4a0409dfdf9550fd470d4f1798ec6.png",
     "website": "https://juicebox.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Juicebox is on a mission to help teams win the talent war.\r\n\r\nIn the age of AI, human ingenuity is the ultimate scarce resource. Recruiting is a zero-sum game where you either compete or lose.\r\n\r\nTeams at Ramp, Perplexity, and leading AI labs use Juicebox to power their hiring, alongside 3,000+ customers from early-stage startups to Fortune 500 companies.\r\n\r\nWe’ve crossed $10M in ARR with 20%+ monthly growth, powering thousands of searches every day and making Juicebox one of the fastest-growing AI SaaS companies in the world.\r\n\r\nJuicebox has raised $36M in funding, including a $30M Series A led by Sequoia Capital. Additional investors in Juicebox include Coatue, NFDG, Lux Capital, Y Combinator, and BOND Capital.",
-    "one_liner": "AI-powered talent sourcing for recruiters",
-    "team_size": 65,
+    "long_description": "Juicebox is on a mission to help teams win the talent war.\r\n\r\nIn the age of AI, human ingenuity is the ultimate scarce resource. Recruiting is a zero-sum game where you either compete or lose.\r\n\r\nTeams at Ramp, Perplexity, and leading AI labs use Juicebox to power their hiring, alongside 5,000+ customers from early-stage startups to Fortune 500 companies.\r\n\r\nWe’ve crossed $10M in ARR with 20%+ monthly growth, powering thousands of searches every day and making Juicebox one of the fastest-growing AI SaaS companies in the world.\r\n\r\nJuicebox has raised $110M+ in funding, including a $30M Series A led by Sequoia Capital and a $80M Series B led by DST Global. Additional investors in Juicebox include Coatue, NFDG, Lux Capital, Y Combinator, and BOND Capital.",
+    "one_liner": "AI Agents for Recruiting",
+    "team_size": 80,
     "industry": "B2B",
     "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1659905940,
@@ -32030,7 +32030,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -40821,7 +40821,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8a284047c475d06365013890a991877b3bdad21e.png",
     "website": "https://lingo.dev",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Lingo.dev is the localization engineering platform: the best way to measure translation quality, translate with LLMs, and proofread with native speakers.\r\n\r\nLingo.dev is built for teams accountable for quality in languages they can't read. Teams configure localization engines, stateful translation APIs that hold the glossary, brand voice, and per-locale model preferences, and every request retrieves that context at inference time through retrieval augmented localization. Every translation is scored before it goes live, scores and corrections tune the engine, and the localization team runs the localization infrastructure. Integrate through the API, CLI, CI/CD, or native integrations with the code repository and the CMS. \r\n\r\nLingo.dev is the standard localization infrastructure for modern enterprise teams scaling into new markets – including Mistral, Solana, SoSafe, and Cal.com. Over 300M words processed, SOC 2 Type II compliant.",
+    "long_description": "Lingo.dev is the localization engineering platform: the best way to translate with LLMs, measure translation quality, and proofread with native speakers.\r\n\r\nLingo.dev is built for teams accountable for quality in languages they can't read. Teams configure localization engines, stateful translation APIs that hold the glossary, brand voice, and per-locale model preferences, and every request retrieves that context at inference time through retrieval augmented localization. Every translation is scored before it goes live, scores and corrections tune the engine, and the localization team runs the localization infrastructure. Integrate through the API, CLI, CI/CD, or native integrations with the code repository and the CMS. \r\n\r\nLingo.dev is the standard localization infrastructure for modern enterprise teams scaling into new markets – including Mistral, Solana, SoSafe, and Cal.com. Over 300M words processed, SOC 2 Type II compliant.",
     "one_liner": "The Localization Engineering Platform",
     "team_size": 7,
     "industry": "B2B",
@@ -45394,21 +45394,19 @@
     "name": "Zavo",
     "slug": "zavo",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a1286c1ed0f215411585d2faaf1c76a245ee266.png",
-    "website": "https://zavopay.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c070e5b38f25a46eb16f93b2a21cfccf8ec446a.png",
+    "website": "https://zavo.ai",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "Zavo is the AI-powered operating system for restaurants.\r\n\r\nWe bring payments, point of sale, and AI agents into one unified platform, so restaurants can run their entire business seamlessly.\r\n\r\nFrom reservations to payments to POS, Zavo replaces fragmented tools with a fully integrated stack built in-house. Our AI agents automate repetitive tasks, streamline operations, and help teams focus on delivering great guest experiences.",
-    "one_liner": "AI Operating System for Restaurants ",
+    "long_description": "Zavo is a data company building proprietary, real-world data infrastructure for frontier AI. We partner with hospitals, businesses, operators and expert networks globally to access hard-to-reach data that cannot be found on the public internet.\r\n\r\nWe source, structure, annotate and license this data for model training, post-training and evaluation, and use it to build specialised benchmarks and reinforcement learning environments grounded in real-world workflows, expert decisions and outcomes.\r\n\r\nOur focus spans healthcare and robotics, where high-quality proprietary data, realistic environments and reliable evaluations are critical to building increasingly capable AI systems.",
+    "one_liner": "Unlocking the world’s most valuable data for frontier AI.",
     "team_size": 8,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Payments",
+    "industry": "B2B",
+    "subindustry": "B2B",
     "launched_at": 1758482945,
     "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "Payments",
       "B2B",
-      "Restaurant Tech"
+      "Big Data",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45417,8 +45415,7 @@
     "batch": "Fall 2025",
     "status": "Active",
     "industries": [
-      "Fintech",
-      "Payments"
+      "B2B"
     ],
     "regions": [
       "United Kingdom",
@@ -45656,16 +45653,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Soren builds the AI workforce for business operations. We power companies around the world across a range of traditional industries, including legal, financial services, healthcare, and more.\r\n\r\nOur specialized AI agents combine frontier intelligence with deep operational expertise to execute critical work behind the scenes, becoming an engine businesses rely on to run faster, leaner, and more effectively.\r\n\r\nOur goal is to build the AI operating layer that the world’s businesses will run on.\r\n",
     "one_liner": "The AI workforce for business operations.",
-    "team_size": 1,
+    "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1759390917,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Enterprise",
       "Enterprise Software",
-      "Operations",
-      "AI"
+      "Operations"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46167,12 +46164,12 @@
     "name": "Bravi",
     "slug": "bravi",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f454d5ba03bb70a84b22fc085d9687287771440b.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/293f67239064e77044472c7d1555aed47f6899c7.png",
     "website": "https://www.bravi.app/",
-    "all_locations": "Paris, Île-de-France, France",
-    "long_description": "Bravi is building the AI operating system for home-services businesses, using AI-powered customer communication as the wedge.\r\n\r\nWe replace the front office (calls, chats, follow-ups) with AI agents that never miss a lead, then layer an internal AI copilot that understands products, pricing, and technical documentation.\r\n\r\nWe started with fenestration (shutters, windows, garage doors), a large, complex vertical with no modern software, before expanding to adjacent trades.\r\n\r\nBravi is already live with leading installers and manufacturers across Europe and the US, turning missed demand into revenue.",
-    "one_liner": "The AI operating system powering home services businesses",
-    "team_size": 2,
+    "all_locations": "New York City, NY, USA",
+    "long_description": "Bravi helps manufacturers of windows, doors, and other home improvement products turn fragmented technical and commercial data into tools their teams can use instantly. \r\n\r\nOur AI platform helps sales, customer service, and field teams answer technical questions, configure complex products, generate quotes, and retrieve order information by connecting to existing documentation, catalogs, ERP, CRM, and pricing systems.\r\n\r\nBravi is already live with leading installers and manufacturers across Europe and the US, turning missed demand into revenue.",
+    "one_liner": "AI operating system for home improvement manufacturers",
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1759871932,
@@ -46193,8 +46190,8 @@
       "B2B"
     ],
     "regions": [
-      "France",
-      "Europe"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -47411,6 +47408,49 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/hedge.json"
   },
   {
+    "id": 31327,
+    "name": "Korso",
+    "slug": "korso",
+    "former_names": [
+      "Korso",
+      "afterfive"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd03c9be7cf358b8834377c00d3855af56d7f064.png",
+    "website": "https://korsoai.com/",
+    "all_locations": "Irvine, CA, USA",
+    "long_description": "",
+    "one_liner": "The last assistant you'll need",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1773339255,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/korso",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/korso.json"
+  },
+  {
     "id": 31352,
     "name": "Marker",
     "slug": "marker",
@@ -47558,15 +47598,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Enterprise software implementation is broken,  and it has been for decades. \r\nEvery rollout, whether it's a traditional ERP or a new AI system, requires months of manual integration, configuration, and tuning done by armies of system integrators and forward-deployed engineers. \r\nLab0 builds agentic systems that automate this layer, compressing months-long implementations into weeks.",
     "one_liner": "AI FDEs to make your B2B SaaS Go Live in Days, not Months",
-    "team_size": 5,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1775188246,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Enterprise"
+      "Enterprise",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49880,15 +49920,15 @@
     "website": "",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "AI Operating System for Mergers & Acquisitions",
+    "one_liner": "Lakehouse-as-a-Service (LaaS) for pre and post-acquisition",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1789180865,
     "tags": [
-      "Artificial Intelligence",
       "Finance",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -50089,15 +50129,15 @@
     "website": "https://vorelios.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Engineering is bottlenecked by slow, costly simulations. We're fixing that by building foundation models that learn physics end-to-end and deliver the same results in seconds, at a fraction of the cost.",
-    "one_liner": "A foundation model for engineering physics",
+    "one_liner": "A Foundation Model for Industrial Physics Simulation",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1786417769,
     "tags": [
-      "Artificial Intelligence",
       "Hard Tech",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -50288,7 +50328,7 @@
     "name": "DeepMark",
     "slug": "deepmark",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1bd6059d7d9d25b086256c7ab3a4a2b53f609362.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4dfcb45ad1cf6b4da58c1a44a770eb98ac4ec79b.png",
     "website": "https://www.deepmark.me",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "DeepMark is the authentication layer for AI voice. When an AI agent speaks, we embed a compact, machine-readable ID directly into the audio, not in metadata, which gets stripped the moment a file is touched. The ID resolves to a trust record, so a bank, a call center, or the person on the line can verify in real time who the agent is.",

@@ -16933,20 +16933,20 @@
       "Open Credit",
       "Heron Data"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ed4f65fcafeff8654b29d189aa9b82b0bddfd6f.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f86f1836e1bd65adb93aa3f9f5e5db9c12222c15.png",
     "website": "https://www.herondata.io",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Heron analyzes 60,000+ small businesses a day to make sure good deals reach your underwriters in minutes, and bad deals never do. We power underwriting across small business finance and insurance: MCA, term loans, SBA, and commercial insurance\r\n",
-    "one_liner": "Underwriting automation for SMB finance",
+    "long_description": "Heron is on a mission to eliminate the underwriting tax on American businesses. When a consumer applies for credit, a spinning wheel can return an offer in seconds; when a business applies for a loan or insurance policy, humans still spend hours reading documents, verifying the business, detecting fraud, and deciding what to offer. Heron does that work in software: lenders, insurers, and credit brokers send applications in and get declines and offers out in minutes instead of days. We have underwritten roughly 1 in 8 US employer businesses in the past year. That scale allows us to go beyond what any individual could ever do: identify cross-customer signals across millions of businesses to build new data products, and ultimately become the data layer for private businesses in the US. Backed by Insight Partners and Y Combinator.",
+    "one_liner": "Underwriting automation for small business finance",
     "team_size": 60,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1597867558,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -24151,7 +24151,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -37625,7 +37625,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -46372,10 +46372,10 @@
     "subindustry": "B2B -> Productivity",
     "launched_at": 1755302445,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Productivity",
       "Open Source",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -47143,6 +47143,49 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/corvera.json"
   },
   {
+    "id": 31082,
+    "name": "Quotient Labs",
+    "slug": "quotient-labs",
+    "former_names": [
+      "Syntropy"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67e517c455ab1e170ed6b2628a4dce9546f07490.png",
+    "website": "https://quotientlabs.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "You should only be paying frontier model prices for top-shelf reasoning. But 88% of your token bill is just tool I/O.\r\n Quotient Labs runs on top of Claude Code to reduce token spend, compress context, and optimize tool calls while preserving output quality. Same models, same workflow, no changes to how you work. Benchmarked 47% less cost on real, multi-step developer workflows, with no quality loss.",
+    "one_liner": "Use Claude Code at 47% less cost in one line of installation.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1772518250,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "SaaS"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/quotient-labs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/quotient-labs.json"
+  },
+  {
     "id": 31098,
     "name": "10x Science",
     "slug": "10x-science",
@@ -47409,16 +47452,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd03c9be7cf358b8834377c00d3855af56d7f064.png",
     "website": "https://korsoai.com/",
     "all_locations": "Irvine, CA, USA",
-    "long_description": "The AI-native engineering team to help you ship at startup speeds.",
-    "one_liner": "The AI-native agency",
+    "long_description": "",
+    "one_liner": "The last assistant you'll need",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1773339255,
     "tags": [
       "SaaS",
-      "Consumer",
-      "Social"
+      "B2B",
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47542,15 +47585,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Enterprise software implementation is broken,  and it has been for decades. \r\nEvery rollout, whether it's a traditional ERP or a new AI system, requires months of manual integration, configuration, and tuning done by armies of system integrators and forward-deployed engineers. \r\nLab0 builds agentic systems that automate this layer, compressing months-long implementations into weeks.",
     "one_liner": "AI FDEs to make your B2B SaaS Go Live in Days, not Months",
-    "team_size": 5,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1775188246,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Enterprise"
+      "Enterprise",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47927,10 +47970,10 @@
     "subindustry": "B2B",
     "launched_at": 1783367890,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Sales",
-      "Marketing",
-      "AI"
+      "Marketing"
     ],
     "tags_highlighted": [],
     "top_company": false,

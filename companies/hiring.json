@@ -9639,7 +9639,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Handle builds software that helps simplify construction financial management by automating manual and repetitive tasks throughout the life cycle of construction payments.",
     "one_liner": "Simplifying Payments and Compliance for Construction Suppliers",
-    "team_size": 55,
+    "team_size": 203,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction -> Construction",
     "launched_at": 1541563431,
@@ -12446,7 +12446,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -13297,7 +13297,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -15417,15 +15417,15 @@
     "all_locations": "New York City, NY, USA",
     "long_description": "Glimpse is the leading AI platform for CPG brands - automating key back office workflows like deductions management, revenue recovery, & cash application to increase operating leverage and put millions of dollars back into a brand's pocket. \r\n\r\nOur agents automatically retrieve deduction data, validate charges, automate cash application, and dispute invalid claims to recover lost revenue—often starting with a lookback of the past year of deductions. For a $1B CPG, one agent reviewed 17,000 deductions in under 24 hours (work that would take an FTE ~2 years), identifying $10M+ in revenue and driving meaningful margin expansion. Pricing is simple and incentive-aligned, structured to create clear P&L impact from day one.\r\n\r\n",
     "one_liner": "Glimpse is the system of action for CPG retail operations",
-    "team_size": 27,
+    "team_size": 52,
     "industry": "B2B",
     "subindustry": "B2B -> Retail",
     "launched_at": 1595628044,
     "tags": [
-      "Artificial Intelligence",
       "E-commerce",
       "Food & Beverage",
-      "Retail"
+      "Retail",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -15441,7 +15441,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -15681,20 +15681,20 @@
       "Open Credit",
       "Heron Data"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ed4f65fcafeff8654b29d189aa9b82b0bddfd6f.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f86f1836e1bd65adb93aa3f9f5e5db9c12222c15.png",
     "website": "https://www.herondata.io",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Heron analyzes 60,000+ small businesses a day to make sure good deals reach your underwriters in minutes, and bad deals never do. We power underwriting across small business finance and insurance: MCA, term loans, SBA, and commercial insurance\r\n",
-    "one_liner": "Underwriting automation for SMB finance",
+    "long_description": "Heron is on a mission to eliminate the underwriting tax on American businesses. When a consumer applies for credit, a spinning wheel can return an offer in seconds; when a business applies for a loan or insurance policy, humans still spend hours reading documents, verifying the business, detecting fraud, and deciding what to offer. Heron does that work in software: lenders, insurers, and credit brokers send applications in and get declines and offers out in minutes instead of days. We have underwritten roughly 1 in 8 US employer businesses in the past year. That scale allows us to go beyond what any individual could ever do: identify cross-customer signals across millions of businesses to build new data products, and ultimately become the data layer for private businesses in the US. Backed by Insight Partners and Y Combinator.",
+    "one_liner": "Underwriting automation for small business finance",
     "team_size": 60,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1597867558,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21171,6 +21171,54 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/digibuild",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/digibuild.json"
+  },
+  {
+    "id": 24344,
+    "name": "WarpBuild",
+    "slug": "warpbuild",
+    "former_names": [
+      "Argonaut",
+      "WartpBuild"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc34887fced4f954a1a9fd60de7afd828c9a1d74.png",
+    "website": "https://www.warpbuild.com",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Accelerate software development with WarpBuild.\r\nGet 2x faster, up to 90% cheaper CI in 30 seconds using WarpBuild for Github Actions.",
+    "one_liner": "Accelerate software development with WarpBuild's 10x faster CI infra.",
+    "team_size": 8,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1626365093,
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "SaaS",
+      "Productivity",
+      "DevOps"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/warpbuild",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/warpbuild.json"
   },
   {
     "id": 24346,
@@ -28030,9 +28078,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2a2858087cb4a0409dfdf9550fd470d4f1798ec6.png",
     "website": "https://juicebox.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Juicebox is on a mission to help teams win the talent war.\r\n\r\nIn the age of AI, human ingenuity is the ultimate scarce resource. Recruiting is a zero-sum game where you either compete or lose.\r\n\r\nTeams at Ramp, Perplexity, and leading AI labs use Juicebox to power their hiring, alongside 3,000+ customers from early-stage startups to Fortune 500 companies.\r\n\r\nWe’ve crossed $10M in ARR with 20%+ monthly growth, powering thousands of searches every day and making Juicebox one of the fastest-growing AI SaaS companies in the world.\r\n\r\nJuicebox has raised $36M in funding, including a $30M Series A led by Sequoia Capital. Additional investors in Juicebox include Coatue, NFDG, Lux Capital, Y Combinator, and BOND Capital.",
-    "one_liner": "AI-powered talent sourcing for recruiters",
-    "team_size": 65,
+    "long_description": "Juicebox is on a mission to help teams win the talent war.\r\n\r\nIn the age of AI, human ingenuity is the ultimate scarce resource. Recruiting is a zero-sum game where you either compete or lose.\r\n\r\nTeams at Ramp, Perplexity, and leading AI labs use Juicebox to power their hiring, alongside 5,000+ customers from early-stage startups to Fortune 500 companies.\r\n\r\nWe’ve crossed $10M in ARR with 20%+ monthly growth, powering thousands of searches every day and making Juicebox one of the fastest-growing AI SaaS companies in the world.\r\n\r\nJuicebox has raised $110M+ in funding, including a $30M Series A led by Sequoia Capital and a $80M Series B led by DST Global. Additional investors in Juicebox include Coatue, NFDG, Lux Capital, Y Combinator, and BOND Capital.",
+    "one_liner": "AI Agents for Recruiting",
+    "team_size": 80,
     "industry": "B2B",
     "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1659905940,
@@ -32551,6 +32599,51 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/constant.json"
   },
   {
+    "id": 28110,
+    "name": "Conduit",
+    "slug": "conduit",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f9fd269cc7d10c65c452d836b7ba980b58a0c084.png",
+    "website": "http://helloconduit.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Conduit is the operating system for shipping and receiving. We build software that systemizes the planning and execution of work on the loading dock and in the yard — giving operators real-time visibility, accountability, and automation across every site they run.\r\n\r\nWe're a small team (<20 people) with real traction: 100+ customers, 172% NRR, and zero churn. We're backed by Innovation Endeavors and Y Combinator, and we recently closed a $6M Seed round.\r\n\r\nWe're based in San Francisco and Seattle, and work hybrid. We move fast, give people real ownership early, and build in a way that most companies don't allow — direct customer access, minimal process, and full access to AI tools.",
+    "one_liner": "The operating system for shipping and receiving.",
+    "team_size": 15,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1674704550,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Logistics",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/conduit",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/conduit.json"
+  },
+  {
     "id": 28111,
     "name": "Berry",
     "slug": "berry",
@@ -35353,7 +35446,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -45134,6 +45227,43 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/overlap.json"
   },
   {
+    "id": 29968,
+    "name": "Patched",
+    "slug": "patched",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb149bb2976430923620abcb50a97acc06ab22c0.png",
+    "website": "https://patched.codes",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Patched executes regulated workflows in hours instead of days, with full auditability and control.",
+    "one_liner": "Reliable AI for Regulated Ops",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1721263283,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/patched",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/patched.json"
+  },
+  {
     "id": 29973,
     "name": "Arva AI",
     "slug": "arva-ai",
@@ -46049,7 +46179,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8a284047c475d06365013890a991877b3bdad21e.png",
     "website": "https://lingo.dev",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Lingo.dev is the localization engineering platform: the best way to measure translation quality, translate with LLMs, and proofread with native speakers.\r\n\r\nLingo.dev is built for teams accountable for quality in languages they can't read. Teams configure localization engines, stateful translation APIs that hold the glossary, brand voice, and per-locale model preferences, and every request retrieves that context at inference time through retrieval augmented localization. Every translation is scored before it goes live, scores and corrections tune the engine, and the localization team runs the localization infrastructure. Integrate through the API, CLI, CI/CD, or native integrations with the code repository and the CMS. \r\n\r\nLingo.dev is the standard localization infrastructure for modern enterprise teams scaling into new markets – including Mistral, Solana, SoSafe, and Cal.com. Over 300M words processed, SOC 2 Type II compliant.",
+    "long_description": "Lingo.dev is the localization engineering platform: the best way to translate with LLMs, measure translation quality, and proofread with native speakers.\r\n\r\nLingo.dev is built for teams accountable for quality in languages they can't read. Teams configure localization engines, stateful translation APIs that hold the glossary, brand voice, and per-locale model preferences, and every request retrieves that context at inference time through retrieval augmented localization. Every translation is scored before it goes live, scores and corrections tune the engine, and the localization team runs the localization infrastructure. Integrate through the API, CLI, CI/CD, or native integrations with the code repository and the CMS. \r\n\r\nLingo.dev is the standard localization infrastructure for modern enterprise teams scaling into new markets – including Mistral, Solana, SoSafe, and Cal.com. Over 300M words processed, SOC 2 Type II compliant.",
     "one_liner": "The Localization Engineering Platform",
     "team_size": 7,
     "industry": "B2B",
@@ -46362,52 +46492,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/fresco",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/fresco.json"
-  },
-  {
-    "id": 30090,
-    "name": "Origami",
-    "slug": "origami-2",
-    "former_names": [
-      "Charm",
-      "origami",
-      "Origami",
-      "Origami Agents"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/90a150650f55581e2db5d27ee09895ea19f1d1a7.png",
-    "website": "https://origami.chat/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Find & connect with your perfect leads by prompting in Origami.\r\n\r\norigami.chat has 100+ data sources - use it to find more of your perfect customers, enrich a CSV, or launch a sequence to connect with decision makers.\r\n\r\nTry it out and start connecting with your perfect leads in minutes, start free → origami.chat\r\n\r\nUsed by sales teams at CBRE, Clipboard Health, Remote.com, and more.",
-    "one_liner": "Get your perfect customers with one prompt",
-    "team_size": 10,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1731183180,
-    "tags": [
-      "Workflow Automation",
-      "Sales",
-      "Search"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/origami-2",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/origami-2.json"
   },
   {
     "id": 30091,
@@ -49791,7 +49875,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c1261383b7f5f7d5fcba63a49453bf6d9148fcfc.png",
     "website": "https://www.ambral.com/",
     "all_locations": "New York City, NY, USA",
-    "long_description": "AI for account management and customer success. Ambral has already been used to drive hundreds of millions of dollars in attributable expansion revenue at multi-billion dollar enterprises and top scale-ups.\r\n\r\nAmbral synthesizes signals from all customer activity and interactions into AI-powered models of every account. It pinpoints who needs attention and why, and autonomously takes the best next action to drive expansions, prevent churn, and ensure no customer slips through the cracks. \r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI at Everlywell and early PM at Wonder (now valued at $7bn). Lived the pain of losing customer intimacy at scale and is obsessed with solving it. \r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the most complex machines ever created. He’s now doing the same for the complexities of customer relationships. ",
+    "long_description": "AI for account management and customer success. Ambral has already been used to drive hundreds of millions of dollars in attributable expansion revenue at multi-billion dollar enterprises and top scale-ups.\r\n\r\nAmbral synthesizes signals from all customer activity and interactions into AI-powered models of every account. It pinpoints who needs attention and why, and autonomously takes the best next action to drive expansions, prevent churn, and ensure no customer slips through the cracks. \r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI at Everlywell and early PM at Wonder (now valued at $7bn). Lived the pain of losing customer intimacy at scale and is obsessed with solving it. \r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the some of most complex machines ever created. He’s now doing the same for the complexities of customer relationships. ",
     "one_liner": "AI for account management and customer success",
     "team_size": 4,
     "industry": "B2B",
@@ -53503,18 +53587,25 @@
     "one_liner": "Anyone Can Trade",
     "team_size": 2,
     "industry": "Fintech",
-    "subindustry": "Fintech -> Consumer Finance",
+    "subindustry": "Fintech",
     "launched_at": 1752533752,
-    "tags": [],
-    "tags_highlighted": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Crypto / Web3",
+      "Consumer Finance",
+      "Stocks"
+    ],
+    "tags_highlighted": [
+      "Crypto / Web3"
+    ],
     "top_company": false,
     "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
     "industries": [
-      "Fintech",
-      "Consumer Finance"
+      "Fintech"
     ],
     "regions": [
       "United States of America",
@@ -53861,8 +53952,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b15b9a0a3aeadaf4902e3ef1a27712b5677c90d6.png",
     "website": "https://solvatechnology.com",
     "all_locations": "New York City, NY, USA",
-    "long_description": "The domain specific AI for claims that gives leading insurers clarity and speed on the most complex claims",
-    "one_liner": "Automates insurance claims and stops incorrect payouts",
+    "long_description": "Insurance is 7% of worldwide GDP and we’re building the infrastructure for how the world takes risk",
+    "one_liner": "Building the new superintelligence for insurance",
     "team_size": 15,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
@@ -55207,14 +55298,14 @@
     "all_locations": "Stockholm, Stockholm County, Sweden",
     "long_description": "Brickanta  – agentic AI for society builders. Hundreds of construction-specific AI agents for project analysis, insights, tenders, procurement, and more. Combine the latest AI technology with your organization's project data, templates, and workflows to identify risks and opportunities early and produce better decision support. Brickanta has raised $8 million from leading AI, construction, and real estate investors behind companies like OpenAI/ChatGPT, Airbnb, Klarna, Spotify, and Plangrid-Autodesk, as well as star investors such as Mario Götze, Anton Osika, and Northzone (see movie and press). The founding team has been building and implementing AI in construction and industry since 2018 at companies such as ABB, Fabege, Husqvarna, IKEA and Konecranes.\r\n",
     "one_liner": "Agentic AI for Society Builders",
-    "team_size": 11,
+    "team_size": 25,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1759093006,
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
       "Construction",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -55620,16 +55711,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Soren builds the AI workforce for business operations. We power companies around the world across a range of traditional industries, including legal, financial services, healthcare, and more.\r\n\r\nOur specialized AI agents combine frontier intelligence with deep operational expertise to execute critical work behind the scenes, becoming an engine businesses rely on to run faster, leaner, and more effectively.\r\n\r\nOur goal is to build the AI operating layer that the world’s businesses will run on.\r\n",
     "one_liner": "The AI workforce for business operations.",
-    "team_size": 1,
+    "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1759390917,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Enterprise",
       "Enterprise Software",
-      "Operations",
-      "AI"
+      "Operations"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -56396,7 +56487,7 @@
       "Thesis"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/834b16b30c5de79bf9dbcd0a4819289bfa937936.png",
-    "website": "https://thesislabs.ai",
+    "website": "https://darwinrobotics.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Darwin is building general-purpose humanoid robots for real-world work. Our first robot, Darwin One, will learn from real-world experience and continuously improve as AI moves from the screen into the physical world. First deployments begin in early 2027.",
     "one_liner": "Humanoid robots",
@@ -60026,7 +60117,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Dispatch is building refurbishable reentry vehicles that host and return payloads for companies making ultra-high-value materials (semiconductors, biotech, and pharma) that can only be manufactured in space. Right now, these companies have no practical way to manufacture and get their products back to Earth. We solve this bottleneck.\r\n\r\nWe just returned from the Mojave Desert testing our first full-scale reentry heat shield designed to protect the satellite as it returns from space at Mach 20+, built in an apartment for 100x cheaper than competitors. To test, we held it behind a rocket engine to simulate the forces of atmospheric reentry. IT WORKED! Watch here - https://youtu.be/dhlQmnIoptg\r\n\r\nTo scale, we anchor permanent infrastructure in orbit - building high power Autonomous Space Stations designed from day one for \"lights-out\" manufacturing serviced by the reentry vehicles.",
     "one_liner": "Satellites for Manufacturing in Space",
-    "team_size": 2,
+    "team_size": 4,
     "industry": "Industrials",
     "subindustry": "Industrials -> Aviation and Space",
     "launched_at": 1773166639,
@@ -60254,6 +60345,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/perfectbit-inc",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/perfectbit-inc.json"
+  },
+  {
+    "id": 31343,
+    "name": "Multiplier",
+    "slug": "multiplier",
+    "former_names": [
+      "WithAI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7c1a5b7f1d0f6a85da016ccad1a5a0cec81c513.png",
+    "website": "https://multiplier.ai",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "Multiplier helps institutional investors research stocks and manage their portfolios. We're live with six hedge funds, and our users spend 4+ hours a day in the platform.\r\n\r\nInvestors who try \"nearly every tool on the market,\" to quote a client of ours, \"wind up with an unwieldy collection of fragmented point solutions.\" Those who focus on building a great setup with general agents are instead \"signing up for a full-time job.\" So we deploy a platform called Multiplier that unifies structured data, unstructured data, AI work, human work, and tacit firm knowledge in one secure, governed, customized application.\r\n\r\nOur first vertical: independent equity funds with $250M-$5B of assets. They know AI is essential for staying relevant, but they don't have the time or talent to figure out what to do about it. But once we deploy Multiplier––\"We used to spend 80% of our time gathering information and 20% of our time acting on it,\" said one customer. \"Multiplier has flipped those percentages.\"",
+    "one_liner": "Agent harnesses for asset managers",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1778527074,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Productivity",
+      "Investing",
+      "Stocks"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/multiplier",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/multiplier.json"
   },
   {
     "id": 31344,
@@ -60979,15 +61114,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Enterprise software implementation is broken,  and it has been for decades. \r\nEvery rollout, whether it's a traditional ERP or a new AI system, requires months of manual integration, configuration, and tuning done by armies of system integrators and forward-deployed engineers. \r\nLab0 builds agentic systems that automate this layer, compressing months-long implementations into weeks.",
     "one_liner": "AI FDEs to make your B2B SaaS Go Live in Days, not Months",
-    "team_size": 5,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1775188246,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Enterprise"
+      "Enterprise",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -62176,6 +62311,50 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/huscarl.json"
   },
   {
+    "id": 31582,
+    "name": "Edgerun",
+    "slug": "edgerun",
+    "former_names": [
+      "Edgerun Industries"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8fb84bc8b7f8d02b776dec7685bbaf102fdadf1c.png",
+    "website": "https://edgerun.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Edgerun builds military exoskeletons. The first product is a 10-pound hip system that fits over existing kit and doubles a soldier’s range. Since April 2026, Edgerun built over a dozen iterations of their product through continuous field tests with Ukrainian fighters and secured $150M+ in LOIs. Founder David Venegas previously co-founded Durin (autonomous mining robotics) and worked at Stoke Space (at 19) and Hadrian. He is a high-school dropout, state-championship runner, adventure athlete, and pilot. Edgerun is a Y Combinator company backed by General H.R. McMaster, Cyan Banister, Joshua Steinman and Jason Miller. edgerun.com",
+    "one_liner": "Military exoskeletons",
+    "team_size": 5,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Defense",
+    "launched_at": 1787343759,
+    "tags": [
+      "Hard Tech",
+      "Hardware",
+      "Robotics",
+      "Defense"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/edgerun",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/edgerun.json"
+  },
+  {
     "id": 31858,
     "name": "Torus",
     "slug": "torus",
@@ -62357,10 +62536,10 @@
     "subindustry": "B2B",
     "launched_at": 1783367890,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Sales",
-      "Marketing",
-      "AI"
+      "Marketing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -63095,11 +63274,51 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/workers-io.json"
   },
   {
+    "id": 35487,
+    "name": "Streamline Systems",
+    "slug": "streamline-systems",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/989b85da2420d6592fdbd561cfe2e0802ebf6933.png",
+    "website": "https://streamlinesystems.ltd/",
+    "all_locations": "",
+    "long_description": "Streamline Systems is building the replacement for GPS. \r\n\r\nSatellite positioning has become the single point of failure for almost every modern system, both military and civil. We've built the replacement. A drop-in module that integrates with existing Ardupilot, INAV and PX4 flight controllers, with demonstrated satellite-independent autonomous flight and GPS handoff. We're currently working with commercial and military end users to deploy the capability.",
+    "one_liner": "Precision navigation for UAVs operating without GPS. ",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Defense",
+    "launched_at": 1789759565,
+    "tags": [
+      "Autonomous Delivery",
+      "Drones",
+      "Navigation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/streamline-systems",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/streamline-systems.json"
+  },
+  {
     "id": 35522,
     "name": "Hemlock",
     "slug": "hemlock",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bbacf68d8da77e7a11ad346712dd48cf4d50347d.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f772c44a8588e4bf3012c9f219bcb8503834bddb.png",
     "website": "https://hemlock.inc",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Every serious robotics lab is bottlenecked on the same thing: demonstration data. The field has converged on egocentric video and hand pose as the substrate, and both are now cheap to collect at scale. What neither of them contains is force. A video of someone picking up an egg and a video of someone picking up a rock are nearly identical in pixel space and nearly identical in joint angles. They differ almost entirely in a quantity nobody is recording. Policies trained without it learn geometry and inherit no sense of touch.\r\n\r\nHemlock closes that gap at the source. Our device, the Bracelet, is a wrist-worn surface EMG band that reads the electrical activity of the forearm muscles that actually drive the hand, which means it recovers contraction force directly rather than inferring it from motion. This distinction is the whole thesis: force cannot be reconstructed downstream of kinematics, because a hand squeezing hard isometrically and a hand resting can occupy the identical pose. Muscle signal is the only non-invasive channel that separates them.",

@@ -672,7 +672,7 @@
     "name": "Sentient OS",
     "slug": "sentient-os",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/108c3aadc4e00e665b12a9b3e77b6f0a5caa7d7b.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/39c30a4d604edd955f2c2b37f1f7281571ae18fb.png",
     "website": "https://sentient-os.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Nobody's built truly proactive AI, because it requires running inference on your entire life. In the cloud, that's insanely expensive and a privacy nightmare. But not on your own chip.\r\n\r\nEvery night, Sentient's on-device LLM wakes your Mac and understands what's new in your life (email, messages, files, Granola transcripts...), entirely locally, and distills it into a knowledge base.\r\n\r\nYou wake up to your work already prepared: the reply you forgot, drafted from your own context; the subscription you never use renewing tomorrow, caught; the report you promised in the group chat, ready to send. Everything is one click from firing through computer use, and nothing fires until you click.\r\n\r\nOr click your Mac notch anytime and say \"finish this for me.\" Sidekick takes over the thing you were doing with its own cursor while you move on.\r\n\r\nOn-device inference at this scale was supposed to be impossible: devices too slow, and models too dumb. So we built the stack ourselves: a custom LiteRT-LM fork (KV-cache reuse, speculative decoding, custom k-quants) that runs nightly on 8 GB Macs. The user's hardware does ~90% of the compute, and their own ChatGPT or Claude subscription does the rest, so our marginal cost is ~$0, and our servers store nothing.\r\n\r\nWe soft-launched late July with one Reddit post: top of r/macapps, 2,000+ users in 48 hours, $0 marketing. Free and open source for consumers; the same engine on the work stack (Slack, Granola, Linear, Notion) becomes the enterprise business.\r\n\r\nSentient OS raised ~$1M in pre-seed, backed by YC, Afore, and the a16z Speedrun scout fund.",
@@ -827,6 +827,46 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/qokedas.json"
   },
   {
+    "id": 34828,
+    "name": "Kailash Labs",
+    "slug": "kailash-labs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a65a6096b4135a40d95b668829c8fca7b87354d.png",
+    "website": "https://www.kailashlabs.com/",
+    "all_locations": "Bengaluru, KA, India",
+    "long_description": "The world generates petabytes of video every day, and almost none of it is readable to machines.  Frontier VLMs that can unlock this (like Gemini) are too expensive to run at the volume real industries have, too generic for any single task, and can't be deployed on-prem where sensitive video lives.\r\n\r\nWe are building an auto vision factory: take video plus a customer's objective, distill a frontier model, and post-train a small open model that is SOTA on that one task and serve it blazingly fast. Our first product, Marlin, is a 2B-parameter open-weights video VLM that matches Gemini-2.5-flash on dense captioning and temporal grounding at a fraction of the cost. ",
+    "one_liner": "A factory for small and specialized video reasoning models",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1789754590,
+    "tags": [
+      "Deep Learning",
+      "Edge Computing Semiconductors"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "India",
+      "South Asia"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/kailash-labs",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/kailash-labs.json"
+  },
+  {
     "id": 34893,
     "name": "Agent 37",
     "slug": "agent-37",
@@ -877,15 +917,15 @@
     "website": "",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "AI Operating System for Mergers & Acquisitions",
+    "one_liner": "Lakehouse-as-a-Service (LaaS) for pre and post-acquisition",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1789180865,
     "tags": [
-      "Artificial Intelligence",
       "Finance",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1619,6 +1659,87 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/antropi-robotics.json"
   },
   {
+    "id": 35292,
+    "name": "Agent Relay",
+    "slug": "agent-relay",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cd30717450b2c4e90d7bcd129a9d826c6faaa345.png",
+    "website": "https://agentrelay.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Agent Relay helps software teams work better with coding agents, and helps those agents work better as a team. It gives Claude Code, Codex, OpenCode, and custom agents shared messaging, session history, and access to tools like GitHub, Linear, and Slack. Teams can see what every agent is doing, run checked and resumable workflows, and step in when human judgment is needed. Run it in our cloud, locally, or on your own hardware.",
+    "one_liner": "The infrastructure to run coding agents for your team",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1789747031,
+    "tags": [
+      "Developer Tools",
+      "Swarm AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/agent-relay",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/agent-relay.json"
+  },
+  {
+    "id": 35355,
+    "name": "Invertix",
+    "slug": "invertix",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2332aa776f979c1ef83d3026fd24932b6576eea.png",
+    "website": "https://www.invertix.ai",
+    "all_locations": "Munich, BY, Germany",
+    "long_description": "The next constraint is not intelligence, it is the energy cost of running it.\r\nWe deploy custom AI models inside energy companies that ingest SCADA data, work orders, and grid topology,  operational data no public model has seen, grounded in physics-informed neural networks and differentiable grid simulators. \r\nThis creates a flywheel: more operator data → better process understanding → more efficient operations → cheaper energy → cheaper AI → more deployment → more data. \r\n\r\nhttps://www.youtube.com/watch?v=0uDH6pMn5OE\r\n\r\nAI compute doubles every 2.2 years. Data center demand grows from 415 to 945 TWh by 2030. Without near-zero energy cost, AI remains limited by human infrastructure. We are the layer that runs AI at zero energy cost.\r\nEnergy is a $10 trillion market. The infrastructure layer doesn't exist yet. \r\nWe are building it.",
+    "one_liner": "Energy Superintelligence, AI that runs energy operations.",
+    "team_size": 8,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Energy",
+    "launched_at": 1789740763,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Solar Power"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Energy"
+    ],
+    "regions": [
+      "Germany",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/invertix",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/invertix.json"
+  },
+  {
     "id": 35395,
     "name": "Workers IO",
     "slug": "workers-io",
@@ -1673,7 +1794,7 @@
     "team_size": 1,
     "industry": "Fintech",
     "subindustry": "Fintech -> Asset Management",
-    "launched_at": 1786078729,
+    "launched_at": 1789659235,
     "tags": [
       "FinOps",
       "Fintech",
@@ -1784,6 +1905,46 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/deploy.json"
   },
   {
+    "id": 35487,
+    "name": "Streamline Systems",
+    "slug": "streamline-systems",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/989b85da2420d6592fdbd561cfe2e0802ebf6933.png",
+    "website": "https://streamlinesystems.ltd/",
+    "all_locations": "",
+    "long_description": "Streamline Systems is building the replacement for GPS. \r\n\r\nSatellite positioning has become the single point of failure for almost every modern system, both military and civil. We've built the replacement. A drop-in module that integrates with existing Ardupilot, INAV and PX4 flight controllers, with demonstrated satellite-independent autonomous flight and GPS handoff. We're currently working with commercial and military end users to deploy the capability.",
+    "one_liner": "Precision navigation for UAVs operating without GPS. ",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Defense",
+    "launched_at": 1789759565,
+    "tags": [
+      "Autonomous Delivery",
+      "Drones",
+      "Navigation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/streamline-systems",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/streamline-systems.json"
+  },
+  {
     "id": 35521,
     "name": "ORO AI",
     "slug": "oro-ai",
@@ -1831,7 +1992,7 @@
     "name": "Hemlock",
     "slug": "hemlock",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bbacf68d8da77e7a11ad346712dd48cf4d50347d.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f772c44a8588e4bf3012c9f219bcb8503834bddb.png",
     "website": "https://hemlock.inc",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Every serious robotics lab is bottlenecked on the same thing: demonstration data. The field has converged on egocentric video and hand pose as the substrate, and both are now cheap to collect at scale. What neither of them contains is force. A video of someone picking up an egg and a video of someone picking up a rock are nearly identical in pixel space and nearly identical in joint angles. They differ almost entirely in a quantity nobody is recording. Policies trained without it learn geometry and inherit no sense of touch.\r\n\r\nHemlock closes that gap at the source. Our device, the Bracelet, is a wrist-worn surface EMG band that reads the electrical activity of the forearm muscles that actually drive the hand, which means it recovers contraction force directly rather than inferring it from motion. This distinction is the whole thesis: force cannot be reconstructed downstream of kinematics, because a hand squeezing hard isometrically and a hand resting can occupy the identical pose. Muscle signal is the only non-invasive channel that separates them.",
@@ -2003,15 +2164,15 @@
     "website": "https://vorelios.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Engineering is bottlenecked by slow, costly simulations. We're fixing that by building foundation models that learn physics end-to-end and deliver the same results in seconds, at a fraction of the cost.",
-    "one_liner": "A foundation model for engineering physics",
+    "one_liner": "A Foundation Model for Industrial Physics Simulation",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1786417769,
     "tags": [
-      "Artificial Intelligence",
       "Hard Tech",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2570,6 +2731,51 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/tilion.json"
   },
   {
+    "id": 37203,
+    "name": "Volaren Inc.",
+    "slug": "volaren-inc",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e143f02ee81e74efcd4497792528526f512482b.png",
+    "website": "https://www.volaren.ai",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "Every great investment starts as an idea about the world. Institutions have teams of analysts turning those ideas into positions. Volaren is that team, processing data through fundamentals and quantitative models that can be personalized with AI.\r\n\r\nTurn your views into trades, portfolios, and strategies, or co-invest alongside top traders and hedge funds. Volaren stays with you from there, showing you what's actually driving each position and what it means for your next move.",
+    "one_liner": "Democratizing investing. Volaren collapses the hedge fund model and…",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Asset Management",
+    "launched_at": 1787328882,
+    "tags": [
+      "Fintech",
+      "Marketplace",
+      "Finance",
+      "Creator Economy",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Asset Management"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/volaren-inc",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/volaren-inc.json"
+  },
+  {
     "id": 37272,
     "name": "The Subvocal Company",
     "slug": "the-subvocal-company",
@@ -2856,7 +3062,7 @@
     "name": "DeepMark",
     "slug": "deepmark",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1bd6059d7d9d25b086256c7ab3a4a2b53f609362.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4dfcb45ad1cf6b4da58c1a44a770eb98ac4ec79b.png",
     "website": "https://www.deepmark.me",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "DeepMark is the authentication layer for AI voice. When an AI agent speaks, we embed a compact, machine-readable ID directly into the audio, not in metadata, which gets stripped the moment a file is touched. The ID resolves to a trust record, so a bank, a call center, or the person on the line can verify in real time who the agent is.",

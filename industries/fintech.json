@@ -9904,20 +9904,20 @@
       "Open Credit",
       "Heron Data"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ed4f65fcafeff8654b29d189aa9b82b0bddfd6f.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f86f1836e1bd65adb93aa3f9f5e5db9c12222c15.png",
     "website": "https://www.herondata.io",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Heron analyzes 60,000+ small businesses a day to make sure good deals reach your underwriters in minutes, and bad deals never do. We power underwriting across small business finance and insurance: MCA, term loans, SBA, and commercial insurance\r\n",
-    "one_liner": "Underwriting automation for SMB finance",
+    "long_description": "Heron is on a mission to eliminate the underwriting tax on American businesses. When a consumer applies for credit, a spinning wheel can return an offer in seconds; when a business applies for a loan or insurance policy, humans still spend hours reading documents, verifying the business, detecting fraud, and deciding what to offer. Heron does that work in software: lenders, insurers, and credit brokers send applications in and get declines and offers out in minutes instead of days. We have underwritten roughly 1 in 8 US employer businesses in the past year. That scale allows us to go beyond what any individual could ever do: identify cross-customer signals across millions of businesses to build new data products, and ultimately become the data layer for private businesses in the US. Backed by Insight Partners and Y Combinator.",
+    "one_liner": "Underwriting automation for small business finance",
     "team_size": 60,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1597867558,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -13913,7 +13913,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -23182,7 +23182,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "Fintech",
       "Payments"
@@ -25376,18 +25376,25 @@
     "one_liner": "Anyone Can Trade",
     "team_size": 2,
     "industry": "Fintech",
-    "subindustry": "Fintech -> Consumer Finance",
+    "subindustry": "Fintech",
     "launched_at": 1752533752,
-    "tags": [],
-    "tags_highlighted": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Crypto / Web3",
+      "Consumer Finance",
+      "Stocks"
+    ],
+    "tags_highlighted": [
+      "Crypto / Web3"
+    ],
     "top_company": false,
     "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
     "industries": [
-      "Fintech",
-      "Consumer Finance"
+      "Fintech"
     ],
     "regions": [
       "United States of America",
@@ -25409,8 +25416,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b15b9a0a3aeadaf4902e3ef1a27712b5677c90d6.png",
     "website": "https://solvatechnology.com",
     "all_locations": "New York City, NY, USA",
-    "long_description": "The domain specific AI for claims that gives leading insurers clarity and speed on the most complex claims",
-    "one_liner": "Automates insurance claims and stops incorrect payouts",
+    "long_description": "Insurance is 7% of worldwide GDP and we’re building the infrastructure for how the world takes risk",
+    "one_liner": "Building the new superintelligence for insurance",
     "team_size": 15,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
@@ -25650,51 +25657,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/freya",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/freya.json"
-  },
-  {
-    "id": 30850,
-    "name": "Zavo",
-    "slug": "zavo",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a1286c1ed0f215411585d2faaf1c76a245ee266.png",
-    "website": "https://zavopay.com",
-    "all_locations": "London, England, United Kingdom",
-    "long_description": "Zavo is the AI-powered operating system for restaurants.\r\n\r\nWe bring payments, point of sale, and AI agents into one unified platform, so restaurants can run their entire business seamlessly.\r\n\r\nFrom reservations to payments to POS, Zavo replaces fragmented tools with a fully integrated stack built in-house. Our AI agents automate repetitive tasks, streamline operations, and help teams focus on delivering great guest experiences.",
-    "one_liner": "AI Operating System for Restaurants ",
-    "team_size": 8,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Payments",
-    "launched_at": 1758482945,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "Payments",
-      "B2B",
-      "Restaurant Tech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Payments"
-    ],
-    "regions": [
-      "United Kingdom",
-      "Europe",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/zavo",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/zavo.json"
   },
   {
     "id": 30860,
@@ -25981,7 +25943,7 @@
     "website": "https://www.kita.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "In emerging markets, open finance is still nascent. Most of the population is traditionally unbanked, banking APIs don’t exist, and a borrower’s financial history lives in documents: e-wallet records, bank statements, utility bills, and more. Because this data is unstructured, credit and risk teams are forced into manual review. This slows decisioning, increases costs, and caps lending volume. \r\n\r\nKita is the AI platform for global lending operations. We help lenders in emerging markets automate application completion, document verification, and underwriting from messy financial documents — using AI to extract fraud-checked data and localized risk signals that power faster, better credit decisions.\r\n\r\nUnder the hood, Kita is a learning engine. We link document-level signals to repayment outcomes, allowing our models to continuously improve fraud detection and risk assessment over time. This creates a compounding advantage for lenders as their distinct underwriting decisions feed back into the system.\r\n\r\nWe’re Carmel and Rhea. We met before Stanford and have been building together ever since. Carmel is from Manila, is a repeat founder, and spent three years in product at Apple. Rhea has a research background in computer vision and received the highest honor in Stanford Computer Science. Together, we combine deep local context with strong technical execution to build the infrastructure that expands access to credit in emerging markets.",
-    "one_liner": "Automate credit assessment for lenders in emerging markets",
+    "one_liner": "Underwrite borrowers around the world in minutes",
     "team_size": 3,
     "industry": "Fintech",
     "subindustry": "Fintech",
@@ -28164,7 +28126,7 @@
     "team_size": 1,
     "industry": "Fintech",
     "subindustry": "Fintech -> Asset Management",
-    "launched_at": 1786078729,
+    "launched_at": 1789659235,
     "tags": [
       "FinOps",
       "Fintech",
@@ -28314,6 +28276,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hesper-ai",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/hesper-ai.json"
+  },
+  {
+    "id": 37203,
+    "name": "Volaren Inc.",
+    "slug": "volaren-inc",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e143f02ee81e74efcd4497792528526f512482b.png",
+    "website": "https://www.volaren.ai",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "Every great investment starts as an idea about the world. Institutions have teams of analysts turning those ideas into positions. Volaren is that team, processing data through fundamentals and quantitative models that can be personalized with AI.\r\n\r\nTurn your views into trades, portfolios, and strategies, or co-invest alongside top traders and hedge funds. Volaren stays with you from there, showing you what's actually driving each position and what it means for your next move.",
+    "one_liner": "Democratizing investing. Volaren collapses the hedge fund model and…",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Asset Management",
+    "launched_at": 1787328882,
+    "tags": [
+      "Fintech",
+      "Marketplace",
+      "Finance",
+      "Creator Economy",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Asset Management"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/volaren-inc",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/volaren-inc.json"
   },
   {
     "id": 37600,
