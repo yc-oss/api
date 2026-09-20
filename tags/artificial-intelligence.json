@@ -14828,6 +14828,53 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/homli.json"
   },
   {
+    "id": 27152,
+    "name": "Firecrawl",
+    "slug": "firecrawl",
+    "former_names": [
+      "SideGuide",
+      "Mendable",
+      "SideGuide",
+      "Mendable"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe35a47d1e4dd7a3c1a7dcbea86c08b5ef2d67e6.png",
+    "website": "https://www.firecrawl.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Firecrawl is the easiest way to turn the web into data AI agents can use. One API call converts any URL into clean, LLM-ready markdown or structured data - the boring-hard problem everyone building with LLMs eventually hits, solved.\r\n\r\nThis is a place for people who want to work at the frontier: an AI company building the infrastructure other AI companies run on, not one bolting AI onto an existing product. We move fast, go deep, and are building the tools superintelligence will rely on to gather data from the web.",
+    "one_liner": "The web data API for searching and scraping. 🔥",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1661283698,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Open Source"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/firecrawl",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/firecrawl.json"
+  },
+  {
     "id": 27158,
     "name": "Jasmine Energy",
     "slug": "jasmine-energy",
@@ -30368,6 +30415,54 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/gander.json"
   },
   {
+    "id": 30101,
+    "name": "Kilvin",
+    "slug": "kilvin",
+    "former_names": [
+      "Chorrie",
+      "BrowserBook"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8aa78b8b96db85bb2ce800dc4eae6fc788564af.png",
+    "website": "https://www.kilvin.ai",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "Kilvin is an AI-native agency that builds custom software solutions for non-technical teams.\r\n\r\nWith AI, the future of software is democratized. Every team deserves tools built exactly for them, not off-the-shelf SaaS products they need to adapt to. Kilvin makes it a reality, delivering a private, secure workspace of custom applications, built around your workflows and ready in days, not months.\r\n\r\nNo engineers needed on your side. Just software that fits exactly how you work.",
+    "one_liner": "Custom software for your business",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1731609344,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Productivity",
+      "Data Engineering",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/kilvin",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/kilvin.json"
+  },
+  {
     "id": 30102,
     "name": "Diffusion Studio",
     "slug": "diffusion-studio",
@@ -30375,7 +30470,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6afcff2711f9441590b0357af0a3115ddece5ad.png",
     "website": "https://diffusion.studio/",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Diffusion Studio lets your agents make videos. The agent writes a composition in TSX and mounts it into the editor. Every element stays editable. Think of it as FFmpeg for agents, with generative AI and multimodal understanding built in.",
+    "long_description": "Diffusion Studio lets your agents make videos. Every edit is written to a real codebase that coding agents can read, write, and render.",
     "one_liner": "Turn your agent into a professional video editor",
     "team_size": 2,
     "industry": "Consumer",
@@ -33758,7 +33853,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/38edcfba2831cce5f05a5da045992ae4f758e655.png",
     "website": "https://www.cactuscompute.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "On-device AI for phones, wearables, smart home, robots and small robots: \r\n- 2bit\r\n- 8-29MB\r\n- up to 4k tokens/sec decode speed",
+    "long_description": "On-device AI for phones, wearables, smart home and small robots. ",
     "one_liner": "Automation Foundation Models For Tiny Devices",
     "team_size": 8,
     "industry": "B2B",
@@ -35837,49 +35932,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/twentytwo",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/twentytwo.json"
-  },
-  {
-    "id": 30707,
-    "name": "Phases",
-    "slug": "phases",
-    "former_names": [
-      "Patiently"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f48e664a460b19faede05bd1de6c49c5d3931a9.png",
-    "website": "https://phases.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "AI for the physical world",
-    "team_size": 3,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1751998711,
-    "tags": [
-      "Artificial Intelligence",
-      "Healthcare IT",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/phases",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/phases.json"
   },
   {
     "id": 30712,
@@ -41283,51 +41335,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/olam-labs.json"
   },
   {
-    "id": 32133,
-    "name": "Belvedir",
-    "slug": "belvedir",
-    "former_names": [
-      "Fractal",
-      "Fractal Research",
-      "Fractal Machine Research",
-      "Belvedir",
-      "Fractal Machine Research"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/823732d3a67703ee105bf266f45c3e43c175ef96.png",
-    "website": "https://belvedir.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Belvedir makes it cheap and easy for anyone to make custom AI. We autonomously collect your data via trace SDK / app MCP / CUA agents and autonomously train custom models + harnesses + routers, privately deploy them, and recursively improve them as they are used. \r\n\r\nOur customers have seen 10x reductions in inference costs and 2x increases on benchmark scores.\r\n\r\nCustom AI models are going to win. Belvedir is the infrastructure needed to make trillions of them.",
-    "one_liner": "Custom model factory for cheaper, better, faster AI",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1784319754,
-    "tags": [
-      "Artificial Intelligence",
-      "Machine Learning"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/belvedir",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/belvedir.json"
-  },
-  {
     "id": 32135,
     "name": "Trope",
     "slug": "trope",
@@ -43457,6 +43464,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/agnost-ai.json"
   },
   {
+    "id": 33045,
+    "name": "Axelrod",
+    "slug": "axelrod",
+    "former_names": [
+      "Axelrod Labs Inc",
+      "Axelrod Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7fbd96bca4da9de9db65dd46c8e36b9fdaa3e168.png",
+    "website": "https://axelrodlabs.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Autonomous software for hotels that takes over all front-of-house and back-of-house tasks with zero integrations, running operations better than your staff would. Axelrod is trusted by Michelin Key awarded and Marriott hotels and is live across 3 continents.",
+    "one_liner": "Hotels that run themselves",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1784236014,
+    "tags": [
+      "Artificial Intelligence",
+      "Travel"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/axelrod",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/axelrod.json"
+  },
+  {
     "id": 33047,
     "name": "Decawork",
     "slug": "decawork",
@@ -44015,47 +44064,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/robocurve.json"
   },
   {
-    "id": 33441,
-    "name": "Allia Health",
-    "slug": "allia-health",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d6f40f216c0da6b1f8b4caa594f59a5b194dd82.png",
-    "website": "https://allia.health/",
-    "all_locations": "New York City, NY, USA",
-    "long_description": "Allia is the first full-stack, AI-native clinical group for mental health. We bring independent practices into one national clinical group that can deliver, measure, and improve care at scale - 600+ providers (350+ therapists, 200+ nurses & doctors, 30+ psychologists) across 70 sites in 32 states, plus telehealth nationwide. Every clinician runs on a single intelligent system of record. And, that intelligence coupled with scale unlocks what no single practice could achieve alone. ",
-    "one_liner": "First AI-Native Medical Group for Mental Health",
-    "team_size": 3,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare Services",
-    "launched_at": 1787168275,
-    "tags": [
-      "Artificial Intelligence",
-      "Healthcare",
-      "Mental Health"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare Services"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/allia-health",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/allia-health.json"
-  },
-  {
     "id": 33540,
     "name": "Osseus",
     "slug": "osseus",
@@ -44562,6 +44570,53 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/qokedas.json"
   },
   {
+    "id": 34896,
+    "name": "Faraday",
+    "slug": "faraday",
+    "former_names": [
+      "Faraday Cage",
+      "Faraday",
+      "Faraday Cage"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fbde4bac30252064b1c0af408469172eea1d9b55.png",
+    "website": "https://faradaycompute.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Industrial aOS between humans, agents, and robots",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1789851118,
+    "tags": [
+      "Artificial Intelligence",
+      "Robotics",
+      "B2B",
+      "Manufacturing",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/faraday",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/faraday.json"
+  },
+  {
     "id": 35094,
     "name": "Forward",
     "slug": "useforward",
@@ -44773,16 +44828,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2332aa776f979c1ef83d3026fd24932b6576eea.png",
     "website": "https://www.invertix.ai",
     "all_locations": "Munich, BY, Germany",
-    "long_description": "The next constraint is not intelligence, it is the energy cost of running it.\r\nWe deploy custom AI models inside energy companies that ingest SCADA data, work orders, and grid topology,  operational data no public model has seen, grounded in physics-informed neural networks and differentiable grid simulators. \r\nThis creates a flywheel: more operator data → better process understanding → more efficient operations → cheaper energy → cheaper AI → more deployment → more data. \r\n\r\nhttps://www.youtube.com/watch?v=0uDH6pMn5OE\r\n\r\nAI compute doubles every 2.2 years. Data center demand grows from 415 to 945 TWh by 2030. Without near-zero energy cost, AI remains limited by human infrastructure. We are the layer that runs AI at zero energy cost.\r\nEnergy is a $10 trillion market. The infrastructure layer doesn't exist yet. \r\nWe are building it.",
-    "one_liner": "Energy Superintelligence, AI that runs energy operations.",
+    "long_description": "The next constraint is not intelligence, it is the energy and operational cost of running it.\r\nWe deploy custom AI models inside critical infrastructure companies that ingest SCADA data, work orders, human interventions,  operational data no public model has seen, grounded in physics-informed neural networks and differentiable simulators. \r\nThis creates a flywheel: more operator data → better process understanding → more efficient operations → cheaper energy → cheaper AI → more deployment → more data. \r\n\r\nhttps://www.youtube.com/watch?v=0uDH6pMn5OE\r\n\r\nAI compute doubles every 2.2 years. Data center demand grows from 415 to 945 TWh by 2030. Without near-zero energy cost, AI remains limited by human infrastructure. We are the layer that runs AI at zero energy cost.\r\nEnergy is a $10 trillion market. The infrastructure layer doesn't exist yet. \r\nWe are building it.",
+    "one_liner": "Energy Superintelligence, AI that operates critical infrastructure",
     "team_size": 8,
     "industry": "Industrials",
     "subindustry": "Industrials -> Energy",
     "launched_at": 1789740763,
     "tags": [
       "Artificial Intelligence",
-      "Generative AI",
-      "Solar Power"
+      "Solar Power",
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
