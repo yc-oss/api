@@ -3147,7 +3147,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -4128,6 +4128,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/paraquery",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/paraquery.json"
+  },
+  {
+    "id": 30527,
+    "name": "MindFort",
+    "slug": "mindfort",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67f8fa73a583138ab0060e99d6a10e8341a0d040.png",
+    "website": "https://mindfort.ai/?utm_source=ycombinator&utm_medium=referral&utm_campaign=yc",
+    "all_locations": "Los Angeles, CA, USA",
+    "long_description": "MindFort is building fully autonomous AI agents powered by their in-house models that can find, exploit, and patch complex vulnerabilities in web applications at massive scale. MindFort agents use the same principles as human penetration testers to understand their target and figure out the best ways to work together to exploit it. We can do fully autonomous AI web pentesting and bring offensive security to teams out numbered. \r\n\r\nWhile security teams were already behind with legacy tools and processes, AI coding is make the problem worse. AI generates code far faster than human teams can secure it; MindFort can match that speed and scale. Our agents will become critical as organizations scale up development with AI.\r\n",
+    "one_liner": "Autonomous Security Agents",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1747245373,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Cybersecurity",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mindfort",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/mindfort.json"
   },
   {
     "id": 30529,
@@ -5214,8 +5256,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f536d08b73147eb71c0665fe5c2d6c6ffed0663.png",
     "website": "https://reasonmachines.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Billions of machines are left untouched by agents and work individually. We connect them to unlock multiplayer cloud coding agents for work like engineering, math and research.\r\n\r\n",
-    "one_liner": "The coding agent that can access and reason across any machine. ",
+    "long_description": "Reason Machines builds Reason Agent, the autonomous software engineer for engineering teams. Reason connects to GitHub, reproduces bugs, writes code, passes tests, and ships review-ready pull requests with recordings and logs across cloud environments.",
+    "one_liner": "Reason Machines builds Reason Agent, the autonomous software engineer…",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
