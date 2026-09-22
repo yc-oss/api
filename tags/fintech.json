@@ -6039,7 +6039,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2019",
     "status": "Active",
@@ -14539,7 +14539,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -15978,7 +15978,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -24971,7 +24971,7 @@
     "slug": "truewind",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2282cdd4a81eac40181a6efc3ce3c3d32c9eb037.png",
-    "website": "https://truewind.ai",
+    "website": "https://www.trytruewind.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Truewind is a technology company based in San Francisco developing a digital staff accountant. Powered by AI, Truewind is a digital staff accountant that never sleeps, never gets sick, and always does its work. Completely predictable capacity planning. \r\n\r\nAutomate data categorization, supporting documentation collection, and client follow-up. Truewind’s AI agents will follow up on outstanding action items while the accountant can work on strategic tasks. This is fully integrated and unified across your accounting operations. We make it easy to get work done and get visibility into your team’s processes. \r\n\r\nTrusted by over 100 customers, including accounting firms EisnerAmper and Frank Rimerman, along with fast-growing companies such as Wefunder, StartPlaying and Mozart Data. We’re backed by the industry leaders of accounting and AI, Rho Capital, Thomson Reuters Ventures, Pathlight Ventures, Fin Capital, and Y Combinator. ",
     "one_liner": "AI-Powered Accounting",
@@ -24980,11 +24980,11 @@
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1675872502,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "Generative AI",
       "SaaS",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -29613,13 +29613,13 @@
     "one_liner": "AI clerks that automate your payables",
     "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1759171972,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "Finance",
-      "Enterprise",
-      "AI"
+      "Enterprise"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -29628,7 +29628,8 @@
     "batch": "Fall 2025",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Finance and Accounting"
     ],
     "regions": [
       "United States of America",
@@ -30879,6 +30880,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/spaceflow-technologies-inc.json"
   },
   {
+    "id": 33672,
+    "name": "Grep AI",
+    "slug": "grep-ai",
+    "former_names": [
+      "GREP",
+      "GREP.ai"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2d86a599f458e2be0f1c7c75f915dda507376482.png",
+    "website": "https://grep.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Grep AI is the fastest way to create, optimize, and deploy agents for high-stakes, research-intensive knowledge work you can't afford to get wrong. Our agents are used by both prosumers and global enterprises such as Airwallex, IG, Worldpay, and Citizens Bank.",
+    "one_liner": "AI agents that automate high-stakes knowledge work you can't afford…",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1790019866,
+    "tags": [
+      "Fintech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/grep-ai",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/grep-ai.json"
+  },
+  {
     "id": 35094,
     "name": "Forward",
     "slug": "useforward",
@@ -30967,18 +31011,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e143f02ee81e74efcd4497792528526f512482b.png",
     "website": "https://www.volaren.ai",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Every great investment starts as an idea about the world. Institutions have teams of analysts turning those ideas into positions. Volaren is that team, processing data through fundamentals and quantitative models that can be personalized with AI.\r\n\r\nTurn your views into trades, portfolios, and strategies, or co-invest alongside top traders and hedge funds. Volaren stays with you from there, showing you what's actually driving each position and what it means for your next move.",
-    "one_liner": "Democratizing investing. Volaren collapses the hedge fund model and…",
-    "team_size": 2,
+    "long_description": "Every great investment starts as an idea about the world. Institutions have teams of analysts turning those ideas into positions. Volaren is that team, processing data through fundamentals and quantitative models that can be personalized with AI.\r\n\r\nTurn your views into trades, portfolios, and back-testable frameworks and strategies, and Volaren stays with you from there, showing you what's actually driving each position and what it means for your next move.",
+    "one_liner": "Volaren collapses the hedge fund model and making it accessible to…",
+    "team_size": 4,
     "industry": "Fintech",
     "subindustry": "Fintech -> Asset Management",
     "launched_at": 1789771499,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "Marketplace",
       "Finance",
-      "Creator Economy",
-      "AI"
+      "Creator Economy"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -31005,6 +31049,51 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/volaren-inc.json"
   },
   {
+    "id": 37274,
+    "name": "Decent",
+    "slug": "decent-com",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/786d073f3a76012e5179c5021d6a0d82644d8d1f.png",
+    "website": "https://decent.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Decent is an AI-native health insurance brokerage. We quote every available option, like Kayak for health plans, and then monitor and act on claims data continuously to make your plan better and cheaper year-round.",
+    "one_liner": "Continuous optimization for employer health plans.",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1789976042,
+    "tags": [
+      "AIOps",
+      "Fintech",
+      "Health Tech",
+      "B2B",
+      "Health Insurance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/decent-com",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/decent-com.json"
+  },
+  {
     "id": 37995,
     "name": "Sintropix",
     "slug": "sintropix",
@@ -31019,9 +31108,9 @@
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1789679183,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
