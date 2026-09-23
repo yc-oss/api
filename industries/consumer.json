@@ -22076,7 +22076,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -33871,7 +33871,7 @@
       "Sapien",
       "Goldfinch"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/756ce7de62795d0a5985463eaff07dec98a3a6d4.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4cd4e09aaeb1f46dcf793d0eae3575ece7ac1c84.png",
     "website": "https://www.getswerve.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Swerve is an AI character chat app that immerses users in rich stories and conversations. Users discover unique AI characters, choose their own persona, and dive into one-on-one or group chats that evolve naturally with no scripts and no limits. Our goal is to make Swerve the most entertaining part of your phone, a place where you step into any world, build stories with characters you connect with, and let every conversation go wherever it leads.",
@@ -33881,9 +33881,9 @@
     "subindustry": "Consumer",
     "launched_at": 1753392491,
     "tags": [
-      "Artificial Intelligence",
       "Consumer",
-      "Entertainment"
+      "Entertainment",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -37100,7 +37100,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2026",
     "status": "Active",
@@ -37119,5 +37119,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/the-subvocal-company",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/the-subvocal-company.json"
+  },
+  {
+    "id": 37467,
+    "name": "Cyclon",
+    "slug": "cyclon",
+    "former_names": [
+      "TextGavel",
+      "Oxygen"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6d4a1648c00832ca1c9d1a963380c29de9ec30af.png",
+    "website": "https://cyclon.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We’re building a new kind of personal device.",
+    "one_liner": "a phone where AI is the interface",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Consumer Electronics",
+    "launched_at": 1790095817,
+    "tags": [
+      "Hardware",
+      "Consumer",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Consumer Electronics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cyclon",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/cyclon.json"
   }
 ]

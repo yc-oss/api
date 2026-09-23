@@ -6,18 +6,18 @@
   "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e98a564b21ba044528e16126406d35b7464044b7.png",
   "website": "https://www.runmirrors.com",
   "all_locations": "San Francisco, CA, USA",
-  "long_description": "Mirrors provides regression testing for AI agents.\r\n\r\nTeams shipping agents constantly change prompts, models, and tools, and there's no way to test any of it. Agents call bespoke internal tools and APIs no test framework can reproduce, so most teams ship on vibes.\r\n\r\nMirrors rebuilds the tools your agent calls from your own production traces, then replays real sessions against every change before it merges. You see which tool calls changed, which arguments moved, and where state landed differently. And when something fails, we tell you whether your agent regressed or something upstream moved.\r\n\r\nBuilt for teams whose agents take irreversible actions. Refunds, record updates, outbound email.\r\n\r\nRuns in your CI on every PR.",
-  "one_liner": "Catch and fix AI agent regressions before they reach production",
+  "long_description": "Your agent worked fine yesterday. Today it loops, drops context, or calls a tool with the wrong arguments, and you find out from a user.\r\n\r\nTeams shipping AI agents change prompts, models, and tools constantly, and the same failures keep coming back in production: context loss, loops, broken tool calls, regressions after a refactor.\r\n\r\nMirrors learns from your agent's production traces. It captures what worked and what failed in real sessions, then delivers the fix at runtime. Instead of waiting for someone to notice a regression and patch it by hand, the fix is applied automatically, so the same error never happens twice.\r\n\r\nBuilt for teams whose agents do things they can't undo, like issuing refunds, updating customer records, or sending outbound email.",
+  "one_liner": "Fix your AI agent's errors at runtime, so they never happen twice",
   "team_size": 2,
   "industry": "B2B",
   "subindustry": "B2B -> Infrastructure",
   "launched_at": 1789011304,
   "tags": [
+    "AIOps",
     "Artificial Intelligence",
     "Developer Tools",
     "SaaS",
-    "B2B",
-    "DevOps"
+    "B2B"
   ],
   "tags_highlighted": [],
   "top_company": false,

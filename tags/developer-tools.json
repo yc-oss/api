@@ -6292,7 +6292,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -19130,11 +19130,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1731609344,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Productivity",
       "Data Engineering",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -19214,18 +19214,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f292fd64c9e2943d040e390cd2700e19b243bb8c.png",
     "website": "https://struct.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Struct autonomously investigates alerts and incidents using telemetry, code, and databases. It centralizes tribal knowledge for oncall teams by learning the system and generating oncall runbooks.\r\n\r\nOnboarding takes 5 minutes.\r\n",
-    "one_liner": "Agents that keep prod running",
+    "long_description": "Struct automatically sets up, manages, and triages alerts based on how your app is supposed to work in prod. Connect your coding agent to it to enable your software factory to fix prod on its own.\r\n\r\nOnboarding takes 5 minutes.\r\n",
+    "one_liner": "Struct keeps prod running",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1727386579,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "DevOps",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20698,7 +20698,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We sell tokens",
     "one_liner": "Abundant Intelligence for Everyone",
-    "team_size": 3,
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1745261196,
@@ -22761,6 +22761,49 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/quotient-labs.json"
   },
   {
+    "id": 31088,
+    "name": "RunAnywhere",
+    "slug": "runanywhere",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/361f4cc73d27e788a8d1f92355ba04c3d71218ee.png",
+    "website": "https://www.runanywhere.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "RunAnywhere runs open-weight models at full speed wherever a company needs them. Wally is our inference stack for open models: serverless inference, BYOC, or on-prem, so code and data never leave their network. One command puts a Wally-served model inside Claude Code, DeepSeek Harness, OpenCode, Hermes, OpenClaw, etc. When a model fits on the device, the same tooling runs it locally through our open-source SDKs for iOS, Android, macOS, Windows, Linux, and web, built on kernels written by our agentic harness for Apple and Qualcomm silicon (10K+ GitHub stars).",
+    "one_liner": "Fastest inference anywhere: open models on-prem, hosted or on-device",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1767296079,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Open Source",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/runanywhere",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/runanywhere.json"
+  },
+  {
     "id": 31118,
     "name": "/dev/fast",
     "slug": "devfast",
@@ -23208,7 +23251,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/96347d910b359b8008029da5fa69b30000efd6d0.png",
     "website": "https://superlog.sh/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Paris, Île-de-France, France",
     "long_description": "Sentry and Datadog dump a stream of alerts. Most are duplicates, most lack context, and you still have to solve the issue yourself.\r\n\r\nSuperlog is AI-native observability that's meant not to be opened. A wizard scans your repo and installs proper OpenTelemetry instrumentation, then runs daily to keep up as you ship new code. When something breaks, Superlog groups the errors into a single incident, investigates with full context (logs, traces, recent deploys, past Slack threads), and posts one mergeable PR in Slack. You merge it, ignore it, or open it as a Claude Code session and modify it.\r\n\r\nTelemetry is vendor-neutral, so you keep every log, trace, and metric we install, even if you leave.",
     "one_liner": "Make software self-healing",
     "team_size": 2,
@@ -23233,8 +23276,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "France",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -23379,7 +23422,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ba85eb3919f954ce9bf661f9b9ee195327c93ceb.png",
     "website": "https://maxxwell.dev",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Boston, MA, USA",
     "long_description": "We build Maxxwell, a desktop app for people who run several coding agents at once.\r\n\r\nPast two or three sessions, you become the bottleneck. Every session asks you something, most of it small, and you spend the day answering instead of deciding. It is also hard to tell which sessions are making progress, which are stuck on something trivial, and which have quietly started building the wrong thing.\r\n\r\nMaxxwell puts every session in one window and marks each one working, idle, or waiting on you. On top of that sits an orchestrator, a real coding-agent session of its own that reads the others and reports back. You talk to it instead of to twelve terminals. It tells you what landed, what it decided for you, and what actually needs your call.\r\n\r\nEvery worker is your own tool, unmodified. Claude Code, Codex and Cursor Agent run in real terminal sessions you can attach to and take over at any point",
     "one_liner": "The IDE for Tokenmaxxers",
     "team_size": 2,
@@ -24062,47 +24105,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/hyperprobe.json"
   },
   {
-    "id": 33250,
-    "name": "Agent FM",
-    "slug": "agent-fm",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1cc0ea423493737ae6717d834b6bdb19aaf41f58.png",
-    "website": "https://www.agentfm.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Agent FM is a desktop app that gives engineers one group chat to hear and steer their coding agents. Instead of manually bouncing between different claude code and codex sessions, and combing through walls of text to monitor agents, engineers just tune in to Agent FM. Agents share important progress updates, blockers, assumptions, and decisions in the group chat. Engineers get live text and audio updates and respond right from the chat.",
-    "one_liner": "One group chat to hear and steer your coding agents.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1785890886,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Productivity"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/agent-fm",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/agent-fm.json"
-  },
-  {
     "id": 33348,
     "name": "hiloop",
     "slug": "hiloop",
@@ -24412,18 +24414,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e98a564b21ba044528e16126406d35b7464044b7.png",
     "website": "https://www.runmirrors.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Mirrors provides regression testing for AI agents.\r\n\r\nTeams shipping agents constantly change prompts, models, and tools, and there's no way to test any of it. Agents call bespoke internal tools and APIs no test framework can reproduce, so most teams ship on vibes.\r\n\r\nMirrors rebuilds the tools your agent calls from your own production traces, then replays real sessions against every change before it merges. You see which tool calls changed, which arguments moved, and where state landed differently. And when something fails, we tell you whether your agent regressed or something upstream moved.\r\n\r\nBuilt for teams whose agents take irreversible actions. Refunds, record updates, outbound email.\r\n\r\nRuns in your CI on every PR.",
-    "one_liner": "Catch and fix AI agent regressions before they reach production",
+    "long_description": "Your agent worked fine yesterday. Today it loops, drops context, or calls a tool with the wrong arguments, and you find out from a user.\r\n\r\nTeams shipping AI agents change prompts, models, and tools constantly, and the same failures keep coming back in production: context loss, loops, broken tool calls, regressions after a refactor.\r\n\r\nMirrors learns from your agent's production traces. It captures what worked and what failed in real sessions, then delivers the fix at runtime. Instead of waiting for someone to notice a regression and patch it by hand, the fix is applied automatically, so the same error never happens twice.\r\n\r\nBuilt for teams whose agents do things they can't undo, like issuing refunds, updating customer records, or sending outbound email.",
+    "one_liner": "Fix your AI agent's errors at runtime, so they never happen twice",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1789011304,
     "tags": [
+      "AIOps",
       "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "B2B",
-      "DevOps"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,

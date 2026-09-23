@@ -1879,7 +1879,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -7378,6 +7378,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/onetriangle.json"
   },
   {
+    "id": 31088,
+    "name": "RunAnywhere",
+    "slug": "runanywhere",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/361f4cc73d27e788a8d1f92355ba04c3d71218ee.png",
+    "website": "https://www.runanywhere.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "RunAnywhere runs open-weight models at full speed wherever a company needs them. Wally is our inference stack for open models: serverless inference, BYOC, or on-prem, so code and data never leave their network. One command puts a Wally-served model inside Claude Code, DeepSeek Harness, OpenCode, Hermes, OpenClaw, etc. When a model fits on the device, the same tooling runs it locally through our open-source SDKs for iOS, Android, macOS, Windows, Linux, and web, built on kernels written by our agentic harness for Apple and Qualcomm silicon (10K+ GitHub stars).",
+    "one_liner": "Fastest inference anywhere: open models on-prem, hosted or on-device",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1767296079,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Open Source",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/runanywhere",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/runanywhere.json"
+  },
+  {
     "id": 31368,
     "name": "Zenbu",
     "slug": "zenbu-2",
@@ -7440,7 +7483,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/96347d910b359b8008029da5fa69b30000efd6d0.png",
     "website": "https://superlog.sh/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Paris, Île-de-France, France",
     "long_description": "Sentry and Datadog dump a stream of alerts. Most are duplicates, most lack context, and you still have to solve the issue yourself.\r\n\r\nSuperlog is AI-native observability that's meant not to be opened. A wizard scans your repo and installs proper OpenTelemetry instrumentation, then runs daily to keep up as you ship new code. When something breaks, Superlog groups the errors into a single incident, investigates with full context (logs, traces, recent deploys, past Slack threads), and posts one mergeable PR in Slack. You merge it, ignore it, or open it as a Claude Code session and modify it.\r\n\r\nTelemetry is vendor-neutral, so you keep every log, trace, and metric we install, even if you leave.",
     "one_liner": "Make software self-healing",
     "team_size": 2,
@@ -7465,8 +7508,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "France",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,

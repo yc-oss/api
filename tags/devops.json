@@ -1685,18 +1685,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f292fd64c9e2943d040e390cd2700e19b243bb8c.png",
     "website": "https://struct.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Struct autonomously investigates alerts and incidents using telemetry, code, and databases. It centralizes tribal knowledge for oncall teams by learning the system and generating oncall runbooks.\r\n\r\nOnboarding takes 5 minutes.\r\n",
-    "one_liner": "Agents that keep prod running",
+    "long_description": "Struct automatically sets up, manages, and triages alerts based on how your app is supposed to work in prod. Connect your coding agent to it to enable your software factory to fix prod on its own.\r\n\r\nOnboarding takes 5 minutes.\r\n",
+    "one_liner": "Struct keeps prod running",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1727386579,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "DevOps",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2152,49 +2152,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hyperprobe",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/hyperprobe.json"
-  },
-  {
-    "id": 35258,
-    "name": "Mirrors",
-    "slug": "mirrors",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e98a564b21ba044528e16126406d35b7464044b7.png",
-    "website": "https://www.runmirrors.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Mirrors provides regression testing for AI agents.\r\n\r\nTeams shipping agents constantly change prompts, models, and tools, and there's no way to test any of it. Agents call bespoke internal tools and APIs no test framework can reproduce, so most teams ship on vibes.\r\n\r\nMirrors rebuilds the tools your agent calls from your own production traces, then replays real sessions against every change before it merges. You see which tool calls changed, which arguments moved, and where state landed differently. And when something fails, we tell you whether your agent regressed or something upstream moved.\r\n\r\nBuilt for teams whose agents take irreversible actions. Refunds, record updates, outbound email.\r\n\r\nRuns in your CI on every PR.",
-    "one_liner": "Catch and fix AI agent regressions before they reach production",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1789011304,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "SaaS",
-      "B2B",
-      "DevOps"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mirrors",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/mirrors.json"
   },
   {
     "id": 35260,

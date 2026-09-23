@@ -285,7 +285,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2026",
     "status": "Active",
@@ -1737,7 +1737,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ba85eb3919f954ce9bf661f9b9ee195327c93ceb.png",
     "website": "https://maxxwell.dev",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Boston, MA, USA",
     "long_description": "We build Maxxwell, a desktop app for people who run several coding agents at once.\r\n\r\nPast two or three sessions, you become the bottleneck. Every session asks you something, most of it small, and you spend the day answering instead of deciding. It is also hard to tell which sessions are making progress, which are stuck on something trivial, and which have quietly started building the wrong thing.\r\n\r\nMaxxwell puts every session in one window and marks each one working, idle, or waiting on you. On top of that sits an orchestrator, a real coding-agent session of its own that reads the others and reports back. You talk to it instead of to twelve terminals. It tells you what landed, what it decided for you, and what actually needs your call.\r\n\r\nEvery worker is your own tool, unmodified. Claude Code, Codex and Cursor Agent run in real terminal sessions you can attach to and take over at any point",
     "one_liner": "The IDE for Tokenmaxxers",
     "team_size": 2,
@@ -6995,10 +6995,10 @@
     "subindustry": "Industrials -> Energy",
     "launched_at": 1786181708,
     "tags": [
+      "Artificial Intelligence",
+      "Construction",
       "Design",
-      "Energy",
-      "Architecture",
-      "AI"
+      "Energy"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -8377,7 +8377,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9c5dcebff59e38045b8e976d964cbe43ec732a9e.png",
     "website": "https://www.openrelay.inc",
-    "all_locations": "Seattle, WA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "",
     "one_liner": "Distributed, hardware-agnostic AI inference",
     "team_size": 2,
@@ -8385,7 +8385,7 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1783565051,
     "tags": [
-      "Artificial Intelligence"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -8408,47 +8408,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/openrelay",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/openrelay.json"
-  },
-  {
-    "id": 33250,
-    "name": "Agent FM",
-    "slug": "agent-fm",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1cc0ea423493737ae6717d834b6bdb19aaf41f58.png",
-    "website": "https://www.agentfm.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Agent FM is a desktop app that gives engineers one group chat to hear and steer their coding agents. Instead of manually bouncing between different claude code and codex sessions, and combing through walls of text to monitor agents, engineers just tune in to Agent FM. Agents share important progress updates, blockers, assumptions, and decisions in the group chat. Engineers get live text and audio updates and respond right from the chat.",
-    "one_liner": "One group chat to hear and steer your coding agents.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1785890886,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Productivity"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/agent-fm",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/agent-fm.json"
   },
   {
     "id": 33277,
@@ -9405,18 +9364,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd39ca163a2a8ea396a6ec66701926317f9f416c.png",
     "website": "https://osseus.ai/",
     "all_locations": "",
-    "long_description": "In an era of cheap intelligence, the most important application of AI will be to improving human health, globally. Osseus provides off-the-shelf or custom medical and biological datasets and RL environments to frontier labs.\r\n\r\nWe work with hospitals and clinics to provide our EHR and deploy AI models within clinical workflows, with models from both our frontier lab partners and our own research.",
-    "one_liner": "The frontier data platform for health and biological AI",
+    "long_description": "In an era of cheap intelligence, the most important application of AI will be to improving human health, globally. Osseus is building the frontier medical AI lab, starting with the clinical datasets, evaluations, and reinforcement learning environments that help AI labs train more capable, aligned, and safe models.\r\n\r\nWe work with hospitals and clinics to provide our EHR and deploy AI models within clinical workflows, with models from both our frontier lab partners and our own research.",
+    "one_liner": "The frontier data platform for aligned health and biological AI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1783740069,
     "tags": [
       "Artificial Intelligence",
-      "Robotics",
       "B2B",
       "Biotech",
-      "Healthcare"
+      "Healthcare",
+      "Data Engineering"
     ],
     "tags_highlighted": [],
     "top_company": false,

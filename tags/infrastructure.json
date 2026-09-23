@@ -3610,7 +3610,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We sell tokens",
     "one_liner": "Abundant Intelligence for Everyone",
-    "team_size": 3,
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1745261196,
@@ -4564,6 +4564,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/onetriangle.json"
   },
   {
+    "id": 31088,
+    "name": "RunAnywhere",
+    "slug": "runanywhere",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/361f4cc73d27e788a8d1f92355ba04c3d71218ee.png",
+    "website": "https://www.runanywhere.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "RunAnywhere runs open-weight models at full speed wherever a company needs them. Wally is our inference stack for open models: serverless inference, BYOC, or on-prem, so code and data never leave their network. One command puts a Wally-served model inside Claude Code, DeepSeek Harness, OpenCode, Hermes, OpenClaw, etc. When a model fits on the device, the same tooling runs it locally through our open-source SDKs for iOS, Android, macOS, Windows, Linux, and web, built on kernels written by our agentic harness for Apple and Qualcomm silicon (10K+ GitHub stars).",
+    "one_liner": "Fastest inference anywhere: open models on-prem, hosted or on-device",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1767296079,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Open Source",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/runanywhere",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/runanywhere.json"
+  },
+  {
     "id": 31114,
     "name": "Piris Labs",
     "slug": "pirislabs",
@@ -5009,7 +5052,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ba85eb3919f954ce9bf661f9b9ee195327c93ceb.png",
     "website": "https://maxxwell.dev",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Boston, MA, USA",
     "long_description": "We build Maxxwell, a desktop app for people who run several coding agents at once.\r\n\r\nPast two or three sessions, you become the bottleneck. Every session asks you something, most of it small, and you spend the day answering instead of deciding. It is also hard to tell which sessions are making progress, which are stuck on something trivial, and which have quietly started building the wrong thing.\r\n\r\nMaxxwell puts every session in one window and marks each one working, idle, or waiting on you. On top of that sits an orchestrator, a real coding-agent session of its own that reads the others and reports back. You talk to it instead of to twelve terminals. It tells you what landed, what it decided for you, and what actually needs your call.\r\n\r\nEvery worker is your own tool, unmodified. Claude Code, Codex and Cursor Agent run in real terminal sessions you can attach to and take over at any point",
     "one_liner": "The IDE for Tokenmaxxers",
     "team_size": 2,
