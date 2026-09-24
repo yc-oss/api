@@ -419,23 +419,27 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/lyon.json"
   },
   {
-    "id": 32197,
-    "name": "Buildbox",
-    "slug": "buildbox",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/989f93098b0f9d50006d1cc3890e9da739799a9e.png",
-    "website": "https://heybuildbox.com",
+    "id": 32286,
+    "name": "Definite",
+    "slug": "definite",
+    "former_names": [
+      "Ledgix",
+      "Bylaw"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea163685b0ad74eaec6a19637a061cdb5e63acae.png",
+    "website": "https://www.usedefinite.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Buildbox helps product teams improve the human-agent experience. We analyze user intent, agent behavior, and outcomes to find where users get stuck or lose trust, then turn those findings into ranked, reproducible issues. ",
-    "one_liner": "Agent analytics for real user outcomes",
-    "team_size": 2,
+    "long_description": "Definite is where finance teams build everyday back-office agents on one live model of their books. We plug into your ERP, ledger, payroll, and payments read-only and compile everything into one clean model that stays current as money moves. Your back-office team then builds agents on top in plain English. We never write back and we never move money. The agents are yours, the plumbing is ours.\r\n\r\nWe met in first year computer science at Waterloo and interned at Meta, Optiver, and BitGo. At Optiver they ran an n8n hackathon and the interns automated basically nothing. It couldn't talk to the systems that mattered. When we pitched banks and fintechs on agents, they kept telling us the same thing. The agent isn't the hard part, getting clean data out of their systems is.\r\n\r\nRight now, automating anything in a back office means engineers hand-stitching data from a dozen sources in different formats on different schedules. Tools like n8n and Workato assume your data is already clean and joined. In finance it never is. So the teams with the most repetitive work and smallest budgets get nothing.\r\n\r\nThe hard part is the compiler. Every source gets cleaned, matched, and joined into one live model of transactions, invoices, vendors, and payments, and it has to stay right as money lands every day. \r\n\r\nEveryone throws engineers at this. We're doing it once so nobody has to again. Every back office is getting agents eventually. Whoever owns the data they read from owns the thing all of them depend on, and eventually the books themselves. That's what we're building.\r\n",
+    "one_liner": "Build everyday back-office agents on one live model of your books",
+    "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1785235599,
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1782681224,
     "tags": [
-      "Analytics",
-      "Enterprise Software",
-      "AI"
+      "Artificial Intelligence",
+      "Fintech",
+      "SaaS",
+      "Finance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -445,7 +449,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Analytics"
+      "Finance and Accounting"
     ],
     "regions": [
       "United States of America",
@@ -456,8 +460,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/buildbox",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/buildbox.json"
+    "url": "https://www.ycombinator.com/companies/definite",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/definite.json"
   },
   {
     "id": 32352,
@@ -1916,6 +1920,46 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/antropi-robotics.json"
   },
   {
+    "id": 35291,
+    "name": "Elimentary",
+    "slug": "elimentary",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5345725230878bce19968d49bf36c1acda691f77.png",
+    "website": "https://www.elimentary.com",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "Elimentary’s is building AI agents that can run middle/back-office operations for private capital managers, starting with structured credit. Most private capital managers focus primarily on sourcing and capital deployment. Meanwhile post-investment operations receive step-child treatment. While AUMs have increased exponentially over the last decade, operations continue to be painfully supported by humans using spreadsheets and emails. Things have started to break leading to investment write-offs, fines, penalties, and sometimes lost LP relationships. \r\n\r\nOur agents can run these operations (borrowing base calcs, cracking loan tapes, NAV calculations, etc.) end to end autonomously. For one of our customers, our agents cut a 20-hour ops process to 30 minutes. It saved 90% of the manual hours, translating to $150k in annual savings.",
+    "one_liner": "Agents that run middle/back-office operations for Private Capital",
+    "team_size": 5,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Asset Management",
+    "launched_at": 1790147820,
+    "tags": [
+      "FinOps",
+      "Enterprise"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Asset Management"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/elimentary",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/elimentary.json"
+  },
+  {
     "id": 35292,
     "name": "Agent Relay",
     "slug": "agent-relay",
@@ -1995,6 +2039,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/invertix",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/invertix.json"
+  },
+  {
+    "id": 35389,
+    "name": "Pendulum Robotics",
+    "slug": "pendulum-robotics",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/04bbecc591031b8b78b9a43b4f8c9cd329829f72.png",
+    "website": "https://pendulumrobotics.com",
+    "all_locations": "Los Angeles, CA, USA",
+    "long_description": "We design and manufacture high-mix drone motors and robotic actuators in LA.\r\n\r\nDJI, Apple, and Ford don't settle for OTS components. Likewise, the teams that win the Western robotics market will build seamless machines from tightly integrated software and hardware. \r\n\r\nPendulum Robotics designs motors and actuators around your robot's unique form factor and mission - then we rapidly bring them to life with proprietary software and tooling geared for high-mix machining and assembly. Our first factory in LA can create thousands of motors per month up to 200mm OD.\r\n\r\nWe're doing for motion components what 3D printing has done for structural components. Hardware teams that can build and iterate at the speed of software will create elegant, reliable, ROI-positive robots and win massive markets.",
+    "one_liner": "Quick-turn, purpose-built motors & actuators for all",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1790141770,
+    "tags": [
+      "Hard Tech",
+      "Robotics",
+      "Drones",
+      "Manufacturing",
+      "Electronics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pendulum-robotics",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/pendulum-robotics.json"
   },
   {
     "id": 35395,
@@ -2421,15 +2508,15 @@
     "website": "https://vorelios.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Engineering is bottlenecked by slow, costly simulations. We're fixing that by building foundation models that learn physics end-to-end and deliver the same results in seconds, at a fraction of the cost.",
-    "one_liner": "A Foundation Model for Industrial Physics Simulation",
+    "one_liner": "A foundation model for engineering physics",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1786417769,
     "tags": [
+      "Artificial Intelligence",
       "Hard Tech",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3323,6 +3410,49 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/cyclon.json"
   },
   {
+    "id": 37468,
+    "name": "Ageospatial",
+    "slug": "ageospatial",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/74f6c9e933a7a4a3c86d3c81c6964ca26989ba26.png",
+    "website": "https://ageospatial.com/",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Ageospatial helps insurers value the risk on their properties remotely using satellite imagery.\r\n\r\n97% of commercial properties are never physically inspected because it's too slow and expensive. So insurers price risk based on what the client or broker tells them, and about half the time at least one of those records is wrong. The result is mispricing, fraud, and an estimated $36B in premium leakage every year in the US alone, which gets exposed the moment a disaster hits.\r\n\r\nUpload a list of addresses and their GeoAI reads satellite and street-level imagery, maps, real-time data, public records and the insurer's own data to determine what's really there, which natural and human hazards surround it, what changed over time, and which properties are worth inspecting. Each property becomes a living record that underwriting, claims and pricing teams can trace from past to present. Ageospatial deploys inside carriers and MGAs as an AI-native service, so insurers get outcomes delivered.",
+    "one_liner": "Helping insurance companies value risk on properties remotely.",
+    "team_size": 1,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1790148781,
+    "tags": [
+      "Artificial Intelligence",
+      "Computer Vision",
+      "Insurance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ageospatial",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/ageospatial.json"
+  },
+  {
     "id": 37566,
     "name": "The Agentic Data Co.",
     "slug": "the-agentic-data-co",
@@ -3566,5 +3696,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/deepmark",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/deepmark.json"
+  },
+  {
+    "id": 38492,
+    "name": "Mantle",
+    "slug": "mantle-2",
+    "former_names": [
+      "Kyvore"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7073e1cf7c2495368d081bd479283a8c160179f2.png",
+    "website": "",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Mantle is a full-stack field service company that deploys, fixes and maintains machines for the companies that build them. We're not a marketplace or software tool, we own uptime directly to provide better, more reliable service without burdening your engineers on support calls. \r\n\r\n$500B+ a year is spent to keep machines running in the US, we're coming for all of it.\r\n",
+    "one_liner": "The pit crew for deployed machines and robots.",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1790190684,
+    "tags": [
+      "Artificial Intelligence",
+      "Hardware",
+      "Robotics",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mantle-2",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/mantle-2.json"
   }
 ]

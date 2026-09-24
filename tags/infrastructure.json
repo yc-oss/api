@@ -1167,7 +1167,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c063ef6501ec4e09baa9f49d2abc635ba2fa65b8.png",
     "website": "https://www.primevault.com",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "Bengaluru, KA, India; Remote",
     "long_description": "PrimeVault is the all-in-one digital asset and stablecoin platform for enterprises and financial institutions. Built for modern finance, PrimeVault combines secure wallets, programmable treasury, compliance, and market access in one seamless solution. \r\n\r\nWith robust security and modular infrastructure, PrimeVault empowers institutions to issue, manage, and move digital assets at scale.\r\n\r\nDiscover how we makes digital asset finance simple at primevault.com.",
     "one_liner": "Infrastructure powering stablecoin and digital finance",
     "team_size": 11,
@@ -1194,8 +1194,8 @@
       "Asset Management"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "India",
+      "South Asia",
       "Remote",
       "Fully Remote"
     ],
@@ -2147,16 +2147,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/834036f2803ad1fb4cf8305e1be757592a8588a1.png",
     "website": "https://www.getzep.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Zep assembles the right context from chat history, business data, and user behavior so agents are personalized, accurate, and fast. Our open source project Graphiti hit 20k GitHub stars in under 12 months. Sub-200ms retrieval, SOC 2 Type 2/HIPAA certified, used by teams from startups to Fortune 500s.",
-    "one_liner": "Agent Context Is Hard. We Fixed It.",
+    "long_description": "Zep unifies business data, documents, and conversations into shared, governed context so agents can complete tasks correctly. Its Context Lake manages millions of Context Graphs as one system, with access controls, retention policies, source traceability, and audit logs. Teams use Zep to build enterprise context graphs, agent memory, and customer and account context. Zep retrieves context in under 200 milliseconds. Graphiti, Zep’s open source framework for temporal knowledge graphs, has more than 30,000 GitHub stars.",
+    "one_liner": "The unified context layer for enterprise data",
     "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1709681560,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Infrastructure",
-      "AI",
       "Conversational AI",
       "AI Assistant"
     ],
@@ -3965,10 +3965,10 @@
     "subindustry": "B2B",
     "launched_at": 1754345371,
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
       "Cloud Computing",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3987,7 +3987,7 @@
     ],
     "stage": "Early",
     "app_video_public": false,
-    "demo_day_video_public": false,
+    "demo_day_video_public": true,
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lilac",
@@ -5046,6 +5046,50 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/uno-wallet.json"
   },
   {
+    "id": 31547,
+    "name": "InsForge (InstaCloud)",
+    "slug": "insforge-instacloud",
+    "former_names": [
+      "InsForge"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/de52713fe1552551dbe8aa2a5e60202c09bfc0d7.png",
+    "website": "https://insforge.dev/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "InstaCloud is the agent-native serverless cloud: deploy any code or service instantly, with automatic scaling and zero DevOps required.",
+    "one_liner": "The agent-native serverless cloud",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1776234676,
+    "tags": [
+      "Developer Tools",
+      "DevSecOps",
+      "Cloud Computing",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/insforge-instacloud",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/insforge-instacloud.json"
+  },
+  {
     "id": 31570,
     "name": "Rindler",
     "slug": "rindler",
@@ -5351,15 +5395,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Luca IQ is an API for deterministic tax calculation and an IRS Authorized e-filing engine - the foundation for accounting firms and fintechs building on tax.",
     "one_liner": "API-first tax engine for CPA firms and developers",
-    "team_size": 2,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1785364349,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "API",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,

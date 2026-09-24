@@ -317,14 +317,14 @@
     "all_locations": "London, England, United Kingdom",
     "long_description": "Frontier is first to grow biological brains at scale, serving biological neural nets with substrate-level colocation of memory and compute, enabling highly cost effective training of large parameter count models.\r\n\r\nWhile academia has traditionally been limited to ~1M neurons in vitro, Frontier has built a pathway to scale to 100M+ neurons by circumventing traditional scaling challenges in biological culture, demonstrating this strategy's functionality by training a biological brain using this scaling primitive to play Frogger.\r\n\r\nFrontier is now growing exascale compute clusters to produce substrates capable of long-horizon language reasoning while operating at much higher sample efficiencies than traditional architectures, and collocating memory with compute to enable significantly larger parameter counts than would be tractable for training within traditional compute clusters.",
     "one_liner": "Frontier grows scalable biological brains as an ML training substrate",
-    "team_size": 1,
+    "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials",
     "launched_at": 1788161513,
     "tags": [
-      "Artificial Intelligence",
       "Hard Tech",
-      "Hardware"
+      "Hardware",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2086,7 +2086,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/609d8457269ad1be9496a28a67f4cd8fd8c26af1.png",
     "website": "https://moonshot.computer/",
-    "all_locations": "Seattle, WA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "We want to bring AI agents to a billion people.\r\n\r\nTo do this, we believe it needs to be 1. proactive and 2. personal. A billion people already carry the right device, but none of them have the right connector.\r\n\r\nMoonshot is personal intelligence that lives on your iPhone and listens to you 24/7. It continuously builds up a greater understanding of you through constantly listening and building context. It just pays deep attention, the way a good friend does. Through this, Moonshot monitors your conscious and subconscious life, figuring out what you need before you know, reminding you about open loops, identifying life and emotional trends before you recognize it, and covering a lot more of what we gloss over in daily life.\r\n\r\nFor fifty years, software has waited to be asked. We think tools are just good enough to flip this, and the next great software will provide value before asking for something first. We're doing it through Moonshot.\r\n\r\nOur thesis is simple: you're only living half your life. The half that you actively remember. The other half just evaporates into your subconscious: what you said, felt, promised, and forgot. It's the more interesting half, and until now nothing could catch it, making it not actionable.\r\n\r\nMoonshot catches your subconscious half and understands you well enough to take actions on your behalf.\r\n\r\nTake life personally.\r\n\r\nThe iOS app is designed around ambient listening and clear user control. Short microphone chunks are sent securely to Moonshot's private transcription service and deleted when transcription finishes. Text and selected context can be sent through Moonshot's server to a model when the app needs to understand a moment. Nothing leaves without your yes. The privacy policy explains every data path, stored copy, permission, and deletion control in detail.\r\n\r\nMoonshot is in early access. Join the waitlist to hear when access opens, read more about the team and product on the About page, or use the Contact page for a direct written response from the Moonshot team.\r\n\r\nLet's make it a Moonshot.",
     "one_liner": "agents for the rest of us",
     "team_size": 3,
@@ -4629,51 +4629,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/alkera-ai.json"
   },
   {
-    "id": 32286,
-    "name": "Definite",
-    "slug": "definite",
-    "former_names": [
-      "Ledgix",
-      "Bylaw"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea163685b0ad74eaec6a19637a061cdb5e63acae.png",
-    "website": "https://www.usedefinite.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Definite is where finance teams build everyday back-office agents on one live model of their books. We plug into your ERP, ledger, payroll, and payments read-only and compile everything into one clean model that stays current as money moves. Your back-office team then builds agents on top in plain English. We never write back and we never move money. The agents are yours, the plumbing is ours.\r\n\r\nWe met in first year computer science at Waterloo and interned at Meta, Optiver, and BitGo. At Optiver they ran an n8n hackathon and the interns automated basically nothing. It couldn't talk to the systems that mattered. When we pitched banks and fintechs on agents, they kept telling us the same thing. The agent isn't the hard part, getting clean data out of their systems is.\r\n\r\nRight now, automating anything in a back office means engineers hand-stitching data from a dozen sources in different formats on different schedules. Tools like n8n and Workato assume your data is already clean and joined. In finance it never is. So the teams with the most repetitive work and smallest budgets get nothing.\r\n\r\nThe hard part is the compiler. Every source gets cleaned, matched, and joined into one live model of transactions, invoices, vendors, and payments, and it has to stay right as money lands every day. \r\n\r\nEveryone throws engineers at this. We're doing it once so nobody has to again. Every back office is getting agents eventually. Whoever owns the data they read from owns the thing all of them depend on, and eventually the books themselves. That's what we're building.\r\n",
-    "one_liner": "Build everyday back-office agents on one live model of your books",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1782681224,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "SaaS",
-      "Finance"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/definite",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/definite.json"
-  },
-  {
     "id": 32288,
     "name": "Callbook AI",
     "slug": "callbook-ai",
@@ -6741,15 +6696,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Luca IQ is an API for deterministic tax calculation and an IRS Authorized e-filing engine - the foundation for accounting firms and fintechs building on tax.",
     "one_liner": "API-first tax engine for CPA firms and developers",
-    "team_size": 2,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1785364349,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "API",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7714,7 +7669,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2026",
     "status": "Active",

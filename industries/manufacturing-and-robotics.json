@@ -3654,16 +3654,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c87367cd52d809c0b9a6f05ef79f3c162b4dd082.png",
     "website": "https://physicalturing.ai/",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Physical Turing rolls out humanoids in the real world and captures failures for benchmarking and post-training.\r\n\r\nWe procure, staff, and operate a wide range of target environments for real-world rollouts, helping robot makers, model companies, and enterprises continuously evaluate where humanoids succeed, where they fail, and what needs to improve before each deployment.",
-    "one_liner": "Evaluating humanoids in the real world",
+    "long_description": "Physical Turing is a neo robot deployer. Our hardware-agnostic operating system lets us deploy any robot fast, and every deployment produces the real-world data we use to train our own intelligence.\r\n\r\nWe're starting by automating industrial inspection and security tasks, which have historically had labor shortages due to their safety risks.",
+    "one_liner": "Next generation robot deployer",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1752283172,
     "tags": [
+      "Artificial Intelligence",
       "Robotics",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6225,6 +6225,49 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/antropi-robotics.json"
   },
   {
+    "id": 35389,
+    "name": "Pendulum Robotics",
+    "slug": "pendulum-robotics",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/04bbecc591031b8b78b9a43b4f8c9cd329829f72.png",
+    "website": "https://pendulumrobotics.com",
+    "all_locations": "Los Angeles, CA, USA",
+    "long_description": "We design and manufacture high-mix drone motors and robotic actuators in LA.\r\n\r\nDJI, Apple, and Ford don't settle for OTS components. Likewise, the teams that win the Western robotics market will build seamless machines from tightly integrated software and hardware. \r\n\r\nPendulum Robotics designs motors and actuators around your robot's unique form factor and mission - then we rapidly bring them to life with proprietary software and tooling geared for high-mix machining and assembly. Our first factory in LA can create thousands of motors per month up to 200mm OD.\r\n\r\nWe're doing for motion components what 3D printing has done for structural components. Hardware teams that can build and iterate at the speed of software will create elegant, reliable, ROI-positive robots and win massive markets.",
+    "one_liner": "Quick-turn, purpose-built motors & actuators for all",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1790141770,
+    "tags": [
+      "Hard Tech",
+      "Robotics",
+      "Drones",
+      "Manufacturing",
+      "Electronics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pendulum-robotics",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/pendulum-robotics.json"
+  },
+  {
     "id": 35454,
     "name": "Shepherd Robotics",
     "slug": "shepherd-robotics",
@@ -6551,5 +6594,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/asim-group",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/asim-group.json"
+  },
+  {
+    "id": 38492,
+    "name": "Mantle",
+    "slug": "mantle-2",
+    "former_names": [
+      "Kyvore"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7073e1cf7c2495368d081bd479283a8c160179f2.png",
+    "website": "",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Mantle is a full-stack field service company that deploys, fixes and maintains machines for the companies that build them. We're not a marketplace or software tool, we own uptime directly to provide better, more reliable service without burdening your engineers on support calls. \r\n\r\n$500B+ a year is spent to keep machines running in the US, we're coming for all of it.\r\n",
+    "one_liner": "The pit crew for deployed machines and robots.",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1790190684,
+    "tags": [
+      "Artificial Intelligence",
+      "Hardware",
+      "Robotics",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mantle-2",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/mantle-2.json"
   }
 ]

@@ -5257,7 +5257,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2020",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -6292,7 +6292,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -16817,16 +16817,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/834036f2803ad1fb4cf8305e1be757592a8588a1.png",
     "website": "https://www.getzep.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Zep assembles the right context from chat history, business data, and user behavior so agents are personalized, accurate, and fast. Our open source project Graphiti hit 20k GitHub stars in under 12 months. Sub-200ms retrieval, SOC 2 Type 2/HIPAA certified, used by teams from startups to Fortune 500s.",
-    "one_liner": "Agent Context Is Hard. We Fixed It.",
+    "long_description": "Zep unifies business data, documents, and conversations into shared, governed context so agents can complete tasks correctly. Its Context Lake manages millions of Context Graphs as one system, with access controls, retention policies, source traceability, and audit logs. Teams use Zep to build enterprise context graphs, agent memory, and customer and account context. Zep retrieves context in under 200 milliseconds. Graphiti, Zep’s open source framework for temporal knowledge graphs, has more than 30,000 GitHub stars.",
+    "one_liner": "The unified context layer for enterprise data",
     "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1709681560,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Infrastructure",
-      "AI",
       "Conversational AI",
       "AI Assistant"
     ],
@@ -21345,7 +21345,7 @@
     "website": "https://alterauth.com",
     "all_locations": "New York City, NY, USA",
     "long_description": "Alter is a zero-trust identity and access control platform purpose-built for AI agents. It wraps every tool call in strong authentication, fine-grained authorization, and real-time guardrails, so agents can move fast without breaking things.\r\n\r\nEach request is verified at the parameter level, authorized against granular policies, executed with least-privilege access, and fully audited in real time. Unsafe actions, whether it’s a rogue DROP TABLE or a payment above policy limits, are blocked before they touch production. Behind the scenes, Alter manages credentials, issuing ephemeral, scope-narrowed access for every interaction, then rotating or expiring it in seconds. The result: no long-lived secrets, no blind spots, and no surprises in audit.\r\n\r\nWith Alter, teams can move fast on AI agent initiatives while staying fully compliant with SOC 2, HIPAA, GDPR, and internal security standards. A CISO-ready dashboard delivers real-time visibility, detailed audit logs, and compliance-ready controls, removing silos, eliminating excessive permissions, and providing complete oversight of every agent workflow.",
-    "one_liner": "Secure access control and authorization platform for agent workflows",
+    "one_liner": "Privileged Access Management for AI Agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
@@ -21739,16 +21739,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/63003c4a4bcce138151403c1e186fcebf3dfa34a.png",
     "website": "https://www.notte.cc/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Nottelabs offers a platform to build and deploy enterprise-grade browser agents. We help companies cut costs and save time by automating repetitive tasks. Unlike others, we provide agents, tools, and infrastructure through a single API, making us the fastest path to reliable web AI agents in production.",
-    "one_liner": "Reliable Web Agents for Enterprise",
+    "long_description": "Notte is cloud browser infrastructure for AI agents. Sessions with live view and replays, residential proxies, stealth and CAPTCHA solving, authenticated profiles with account creation and 2FA, payments in the browser, and serverless functions that run next to the browser, all through one API",
+    "one_liner": "Browser infra for AI agents: sessions, auth, proxies, payments",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1752518156,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Automation",
-      "AI"
+      "API",
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -22506,7 +22507,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bac15cb365c68f8004b888ffdda5946e5ec65b76.png",
     "website": "https://www.fastshot.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Fastshot is a no-code mobile development platform.\r\nOur mission is to \"Democratize mobile app creation with AI\"\r\nAnyone can develop a mobile app from idea to App Stores within minutes just by chatting with AI.\r\n\r\n",
+    "long_description": "Fastshot is a no-code mobile development platform.\r\nOur mission is to \"Democratize mobile app creation with AI\"\r\nAnyone can develop a mobile app from idea to App Stores within minutes just by chatting with AI. Start at https://fastshot.ai/ai-app-builder\r\n\r\n",
     "one_liner": "Lovable for mobile apps",
     "team_size": 3,
     "industry": "B2B",
@@ -23024,16 +23025,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Superset is an open-source IDE that helps engineers run 100s of coding agents in parallel.\r\n\r\nOur desktop app is loved by tens of thousands of engineers, and we're scaling out our effort to build a collaborative, cross-platform tool to allow users to code anywhere.",
     "one_liner": "Building self-improving software",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1772696752,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Consumer",
       "B2B",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -23414,6 +23415,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mentlio",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/mentlio.json"
+  },
+  {
+    "id": 31547,
+    "name": "InsForge (InstaCloud)",
+    "slug": "insforge-instacloud",
+    "former_names": [
+      "InsForge"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/de52713fe1552551dbe8aa2a5e60202c09bfc0d7.png",
+    "website": "https://insforge.dev/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "InstaCloud is the agent-native serverless cloud: deploy any code or service instantly, with automatic scaling and zero DevOps required.",
+    "one_liner": "The agent-native serverless cloud",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1776234676,
+    "tags": [
+      "Developer Tools",
+      "DevSecOps",
+      "Cloud Computing",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/insforge-instacloud",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/insforge-instacloud.json"
   },
   {
     "id": 31570,

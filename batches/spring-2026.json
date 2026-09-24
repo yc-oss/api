@@ -813,16 +813,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Superset is an open-source IDE that helps engineers run 100s of coding agents in parallel.\r\n\r\nOur desktop app is loved by tens of thousands of engineers, and we're scaling out our effort to build a collaborative, cross-platform tool to allow users to code anywhere.",
     "one_liner": "Building self-improving software",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1772696752,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Consumer",
       "B2B",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3613,7 +3613,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2026",
     "status": "Active",
@@ -3688,9 +3688,9 @@
     "subindustry": "B2B -> Operations",
     "launched_at": 1773487694,
     "tags": [
+      "Artificial Intelligence",
       "Robotic Process Automation",
-      "Enterprise",
-      "AI"
+      "Enterprise"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3707,8 +3707,8 @@
       "Europe"
     ],
     "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
+    "app_video_public": true,
+    "demo_day_video_public": true,
     "app_answers": null,
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/ontora",
@@ -4512,7 +4512,7 @@
       "markup.one",
       "tday"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be18e0389cf4e054ea9daa993ce4e9131722dfb7.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1049b2a12a458752491fa999a03f90cda4a5dce9.png",
     "website": "https://tday.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "tday automatically turns a software company's product into on-brand marketing creative. Connect your product and git repo, and tday generates polished launch videos, social graphics, and ads, the content a team would normally spend hours making in a design tool or pay a freelancer for. tday then publishes the creative and measures how it performs across your social and ad channels, closing the loop from what you ship to what you post.",
@@ -6687,7 +6687,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Astraea automates clinical trial biometrics from raw study inputs to FDA-ready outputs. The platform handles data normalization, CDISC mapping, SDTM, ADaM, TFLs, QC, and revision workflows in one auditable system, helping Phase II/III sponsors reduce months of manual programming and data management into automated, reviewable execution.",
     "one_liner": "AI Operating System for Clinical Development",
-    "team_size": 2,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1778617120,
@@ -7061,19 +7061,26 @@
   },
   {
     "id": 31547,
-    "name": "InsForge",
-    "slug": "insforge",
-    "former_names": [],
+    "name": "InsForge (InstaCloud)",
+    "slug": "insforge-instacloud",
+    "former_names": [
+      "InsForge"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/de52713fe1552551dbe8aa2a5e60202c09bfc0d7.png",
     "website": "https://insforge.dev/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "InsForge is the agent-native AWS: cloud infrastructure that AI coding agents can understand, operate, and recover from end to end.",
-    "one_liner": "The agent-native AWS",
+    "long_description": "InstaCloud is the agent-native serverless cloud: deploy any code or service instantly, with automatic scaling and zero DevOps required.",
+    "one_liner": "The agent-native serverless cloud",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1776234676,
-    "tags": [],
+    "tags": [
+      "Developer Tools",
+      "DevSecOps",
+      "Cloud Computing",
+      "Infrastructure"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -7093,8 +7100,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/insforge",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/insforge.json"
+    "url": "https://www.ycombinator.com/companies/insforge-instacloud",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/insforge-instacloud.json"
   },
   {
     "id": 31548,
@@ -7336,10 +7343,10 @@
     "website": "https://www.maquoketa.net",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "The intelligence layer for drones",
+    "one_liner": "Automated LiveOps for Game Studios",
     "team_size": 5,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Defense",
+    "industry": "B2B",
+    "subindustry": "B2B",
     "launched_at": 1774490913,
     "tags": [],
     "tags_highlighted": [],
@@ -7349,8 +7356,7 @@
     "batch": "Spring 2026",
     "status": "Active",
     "industries": [
-      "Industrials",
-      "Defense"
+      "B2B"
     ],
     "regions": [
       "United States of America",

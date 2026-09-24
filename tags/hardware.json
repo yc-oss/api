@@ -4644,7 +4644,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -5789,14 +5789,14 @@
     "all_locations": "London, England, United Kingdom",
     "long_description": "Frontier is first to grow biological brains at scale, serving biological neural nets with substrate-level colocation of memory and compute, enabling highly cost effective training of large parameter count models.\r\n\r\nWhile academia has traditionally been limited to ~1M neurons in vitro, Frontier has built a pathway to scale to 100M+ neurons by circumventing traditional scaling challenges in biological culture, demonstrating this strategy's functionality by training a biological brain using this scaling primitive to play Frogger.\r\n\r\nFrontier is now growing exascale compute clusters to produce substrates capable of long-horizon language reasoning while operating at much higher sample efficiencies than traditional architectures, and collocating memory with compute to enable significantly larger parameter counts than would be tractable for training within traditional compute clusters.",
     "one_liner": "Frontier grows scalable biological brains as an ML training substrate",
-    "team_size": 1,
+    "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials",
     "launched_at": 1788161513,
     "tags": [
-      "Artificial Intelligence",
       "Hard Tech",
-      "Hardware"
+      "Hardware",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7283,5 +7283,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cyclon",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/cyclon.json"
+  },
+  {
+    "id": 38492,
+    "name": "Mantle",
+    "slug": "mantle-2",
+    "former_names": [
+      "Kyvore"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7073e1cf7c2495368d081bd479283a8c160179f2.png",
+    "website": "",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Mantle is a full-stack field service company that deploys, fixes and maintains machines for the companies that build them. We're not a marketplace or software tool, we own uptime directly to provide better, more reliable service without burdening your engineers on support calls. \r\n\r\n$500B+ a year is spent to keep machines running in the US, we're coming for all of it.\r\n",
+    "one_liner": "The pit crew for deployed machines and robots.",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1790190684,
+    "tags": [
+      "Artificial Intelligence",
+      "Hardware",
+      "Robotics",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mantle-2",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/mantle-2.json"
   }
 ]
