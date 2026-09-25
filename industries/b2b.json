@@ -15302,7 +15302,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/083acf84edb567678955a3853f652e2b1328fea3.png",
     "website": "http://gemnote.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Los Angeles, CA, USA",
     "long_description": "Gemnote creates custom merch, swag and gifts for the modern business. Our expert team helps you curate, source, warehouse, fulfill and ship your branded merchandise and company swag, so you don't have to lift a finger. Our clients love our full-service platform and they are some of the biggest companies in the world, including Airbnb, Google, Meta, Slack, Netflix and more.",
     "one_liner": "Gemnote is the easiest way to design, create and send custom products.",
     "team_size": 40,
@@ -36371,7 +36371,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -41902,12 +41902,12 @@
     "name": "Tella",
     "slug": "tella",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a50066f6c17f94be44746c6c53060ebd41629453.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9b22307de491a8293929a87e95c1f3af5978045a.png",
     "website": "https://tella.com",
     "all_locations": "Amsterdam, NH, Netherlands; Remote",
     "long_description": "Send your team quick video messages, post eye-catching product demos to social, publish long-form content to YouTube and more. All with one app and one subscription.",
     "one_liner": "The all-in-one screen recorder.",
-    "team_size": 6,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1597612202,
@@ -55417,7 +55417,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cd7356f24d69fa13135ed28c88da1003ba785b9f.png",
     "website": "https://www.stardex.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "New York City, NY, USA",
     "long_description": "Stardex is an AI native ATS and CRM executive firms and professional recruiting firms. We are AI first designed specifically for modern recruiting firms. It has a powerful client collaboration feature that helps you execute searches faster with clients. It also streamlines your searches by automating repetitive tasks, allowing you to dedicate more time to building meaningful relationships.﻿",
     "one_liner": "AI native ATS + CRM for executive search firms",
     "team_size": 6,
@@ -57616,6 +57616,7 @@
     "regions": [
       "United States of America",
       "Canada",
+      "America / Canada",
       "America / Canada",
       "Remote",
       "Partly Remote"
@@ -64681,17 +64682,18 @@
   },
   {
     "id": 25913,
-    "name": "Trueplace",
-    "slug": "trueplace",
+    "name": "Inden",
+    "slug": "inden",
     "former_names": [
       "Trueplace",
-      "Argo"
+      "Argo",
+      "Trueplace"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/090425d1ebc2eddd72adac73fbef7428d9357414.png",
-    "website": "https://www.trueplace.ca/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/16c3d8359a5e6781d8a200a4bfb9d014b212608a.png",
+    "website": "https://inden.ai",
     "all_locations": "Vancouver, BC, Canada",
-    "long_description": "Trueplace's AI supercharges career preparation",
-    "one_liner": "AI to prepare you for the future",
+    "long_description": "Real people in live, high-stakes conversations with AI. We supply voice and video AI teams with human→AI conversation data: webcam video, separate human and AI audio tracks, turn timing and scores.",
+    "one_liner": "How people actually talk to machines.",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -64715,8 +64717,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/trueplace",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/trueplace.json"
+    "url": "https://www.ycombinator.com/companies/inden",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/inden.json"
   },
   {
     "id": 25914,
@@ -66659,8 +66661,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5883f8852f673efcb705f840a66ea4747e755db5.png",
     "website": "https://massdriver.cloud",
     "all_locations": "Los Angeles, CA, USA; Remote",
-    "long_description": "Massdriver helps engineering and operations teams build secure, production-ready internal developer platforms in minutes.\r\n\r\nWith over 50+ infrastructure components engineering teams can build golden paths quickly on Kubernetes, serverless, or VMs.\r\n\r\nGet the flexibility product engineers need, with the auditing and security operations teams’ demand.\r\n\r\nWe handle all the boring parts of cloud operations like IAM, secrets, continuous deployment, alerting, and monitoring so your team can focus on the product.\r\n\r\nMassdriver supports anti-lockin, by running in your cloud, and open-sourcing all of our infrastructure components.",
-    "one_liner": "Deploy secure, scalable cloud infrastructure in minutes not days",
+    "long_description": "Massdriver is an internal developer platform and platform orchestrator. Platform teams publish the Terraform, OpenTofu, and Helm they already write to a catalog; developers and AI agents provision from it with policy enforced before every deploy. Self-hosted or managed.\r\n\r\nPlatform teams encode their security, compliance, and cost requirements into the modules once. Developers and AI agents pick from the catalog, policy runs before anything is created, and every deploy is recorded with who proposed and who approved it.\r\n\r\nMassdriver generates an ephemeral pipeline per deploy, so there are no standing CI/CD pipelines to maintain. Run it self-hosted, on-prem, or in your cloud.",
+    "one_liner": "Internal developer platform for Terraform, OpenTofu and Helm",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -83984,7 +83986,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c770edabb943daa324ca296031ede37583c2cd76.png",
     "website": "https://apoxy.dev",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Apoxy is the programmable edge platform that simplifies connectivity, security, and custom logic deployment for distributed applications. Our platform combines secure site-to-site networking with a high-performance runtime for custom TypeScript and Go filters, allowing developers to deploy business logic at the edge without complex infrastructure. Whether you need instant HTTP/TCP/UDP connectivity, advanced access controls, or custom data processing, Apoxy meets you where you are - from Kubernetes clusters to simple processes - with powerful observability and sub-second troubleshooting built in.",
     "one_liner": "Simpler and cheaper multi-cloud and cross-platform deployments.",
     "team_size": 2,
@@ -84003,6 +84005,8 @@
       "Infrastructure"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -105113,7 +105117,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -106915,7 +106919,7 @@
       "Belgium",
       "Europe"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -107831,10 +107835,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2025",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B"
     ],
@@ -108275,18 +108279,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67a815e7868c4a6d85c8b5fdb3324a29a6600f72.png",
     "website": "https://serafis.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Serafis is building super-intelligence for financial markets. We mine petabytes of unstructured data to identify narrative inflections before they become consensus. Think building early conviction in Bitcoin (2014), Tesla (2018), or Nvidia (2022).\r\n\r\nWe are already live with 12 organizations managing over $70B in capital.",
-    "one_liner": "Narrative intelligence for investors",
+    "long_description": "Serafis is building the AI knowledge graph for market intelligence, starting with the information frontier.\r\n\r\nTrusted by top funds ($70B+ AUM) and the largest global consulting firms.",
+    "one_liner": "Deep intelligence for private markets",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1755276267,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Finance",
       "Investing",
-      "Search"
+      "Search",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -108788,14 +108792,14 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4376dcee0d9f629b17716a4c480cf0b33c46b8c6.png",
     "website": "https://sim.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sim enables fast-growing technical teams to build and deploy AI agent workflows. \r\n\r\n100,000+ developers are already using Sim, integrating with 1000+ apps and LLMs to streamline workflows with AI agents.",
-    "one_liner": "The AI Workspace for Building and Managing AI Agents.",
-    "team_size": 8,
+    "long_description": "Sim is a platform to build autonomous AI agents for enterprise systems. Teams connect their integrations and Sim builds a knowledge graph of company data and processes; from there, they work with Sim to build and monitor the AI agents and workflows that run production systems.",
+    "one_liner": "Build autonomous AI agents for enterprise systems",
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1746478234,
     "tags": [
-      "AI"
+      "Artificial Intelligence"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -116574,7 +116578,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -116590,7 +116594,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c2008e580fb1146da7922b566c2a03af87f5a0c.png",
     "website": "https://upliftai.org/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We build Voice Models for regional languages (like Urdu, Bengali, Greek etc) and make them available through simple APIs and SDKs. \r\nDevelopers use us to create Voice-first digital experiences (eg. Voice eCommerce, Voice Banking, Voice AI Tutors etc).\r\n\r\nWe gather our own data, develop our own labelling tools, train our own models, and design our own voice infra. This fully integrated approach enables us to offer the best models and the best developer experience for regional languages.\r\n\r\n---\r\n\r\nPeople who would previously never use certain digital services (like online ordering), actually use the service when they are given an intuitive Voice based interface.\r\nWe believe that Voice Interfaces will onboard 100s of millions of new users onto digital services; and double the addressable market for technology companies. \r\nUplift AI will provide the best models to create these Voice Interfaces for 60% of the world's population that only speaks their regional language and represents 42 trillion dollars in GDP.\r\n",
+    "long_description": "We build Voice Models for regional languages (like Urdu, Bengali, Greek etc) and make them available through simple APIs and SDKs. \r\nDevelopers use us to create Voice-first digital experiences (eg. Voice eCommerce, Voice Banking, Voice AI Tutors etc).\r\n\r\nWe gather our own data, develop our own labelling tools, train our own models, and design our own voice infra. This fully integrated approach enables us to offer the best models and the best developer experience for regional languages.\r\n\r\n---\r\n\r\nPeople who would previously never use certain digital services (like online ordering), actually use the service when they are given an intuitive Voice based interface.\r\nWe believe that Voice Interfaces will onboard 100s of millions of new users onto digital services; and double the addressable market for technology companies. \r\nUplift AI will provide the best models to create these Voice Interfaces for 60% of the world's population that only speaks their regional language and represents 42 trillion dollars in GDP.",
     "one_liner": "Foundational Voice Models for regional languages",
     "team_size": 3,
     "industry": "B2B",
@@ -117977,7 +117981,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -126593,16 +126597,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cac51a9c6d5e214ddcaeb4498d21b0b6a8e87e58.png",
     "website": "https://www.zenbu.dev/",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Zenbu is an extensible IDE for orchestrating coding agents. Shape it around exactly how you and your team work.",
-    "one_liner": "The extensible IDE for coding agents",
+    "long_description": "https://github.com/zenbu-labs/terminal-browser",
+    "one_liner": "The browser for agentic development",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1780458165,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Open Source"
+      "Open Source",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -127323,7 +127327,7 @@
     "subindustry": "B2B",
     "launched_at": 1775259755,
     "tags": [
-      "Artificial Intelligence"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -127626,7 +127630,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ff7747818f703617e1cd9444a5600eef3511337.png",
     "website": "https://bentolabs.ai/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Bengaluru, KA, India",
     "long_description": "BentoLabs is the monitoring and learning layer for long-running agents. We detect when agents silently fail or drift from the user's goal, system prompt, or tool contracts, show affected users and root cause, and suggest the prompt, skill, or harness fix.\r\n\r\nAs more teams deploy agents, keeping them reliable in production becomes mission-critical. Bento sits directly in the production loop and gives teams the operational leverage required to scale agent ecosystems without scaling human firefighting alongside them. The result is a system that turns opaque agents into agents that can be monitored, debugged, and improved continuously.\r\n\r\nThe founders learned this problem at Emergent (YC S24), where they built and operated production coding agents used by 5M+ users. Abhinav was hire #1 and helped Emergent hit SWE-Bench #1 and scale from $0 to $100M ARR in just 8 months. Kaushik was hire #2, led full-stack engineering at Emergent, and was key to building the infrastructure that made production agents reliable, observable, and debuggable. Bento's self-learning engine has also lifted ARC-AGI-3 (internal) by 2.6x and Terminal-Bench 2.0 (internal) from 42.2% to 52.4% pass@1 with the same model, tools, and budget.",
     "one_liner": "Monitoring and learning layer for long-running agents",
     "team_size": 5,
@@ -127644,8 +127648,8 @@
       "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "India",
+      "South Asia"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -127716,7 +127720,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2026",
     "status": "Active",
@@ -127753,9 +127757,9 @@
     "subindustry": "B2B -> Operations",
     "launched_at": 1773487694,
     "tags": [
-      "Artificial Intelligence",
       "Robotic Process Automation",
-      "Enterprise"
+      "Enterprise",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -127772,8 +127776,8 @@
       "Europe"
     ],
     "stage": "Early",
-    "app_video_public": true,
-    "demo_day_video_public": true,
+    "app_video_public": false,
+    "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/ontora",
@@ -128109,7 +128113,7 @@
       "markup.one",
       "tday"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1049b2a12a458752491fa999a03f90cda4a5dce9.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/99c54ec6b342aa4e94d68533a5a72b02a59ec8d4.png",
     "website": "https://tday.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "tday automatically turns a software company's product into on-brand marketing creative. Connect your product and git repo, and tday generates polished launch videos, social graphics, and ads, the content a team would normally spend hours making in a design tool or pay a freelancer for. tday then publishes the creative and measures how it performs across your social and ad channels, closing the loop from what you ship to what you post.",
@@ -128471,7 +128475,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d0faca2d7e56f4ac9ab8fe42a2e560d516e70bab.png",
     "website": "https://kuli.one",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Paris, Île-de-France, France",
     "long_description": "Kuli is an AI coworker for marketing teams at the world's largest consumer brands. Our agent watches all videos across social media, learns the brand's context and helps them turn signals from billions of social videos into winning campaigns without increasing headcount.\r\n\r\nPrevious platforms gave marketers databases to search through and a CRM. Kuli actually watches the content. Marketers at team like Disney, Nivea and PostHog use it to scout creators, run analysis on trends and competitor strategies, and analyse what makes their campaign perform better.\r\n\r\nFor 10 years, influencer marketing meant more tools, more tabs, more spreadsheets. Kuli replaces all of that with one single agent you orchestrate. One marketer with Kuli does what a $50K/month agency bills for manual tasks.",
     "one_liner": "AI coworker for marketing teams at the largest consumer brands",
     "team_size": 1,
@@ -128490,8 +128494,8 @@
       "Marketing"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "France",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -129358,7 +129362,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "The $2T global telecom industry was built for humans. Agents can't act in the real world today because without a phone number, they lack identity. AgentPhone gives every AI agent its own phone number to reach people and businesses through messages and calls.",
     "one_liner": "Phone Numbers for AI Agents",
-    "team_size": 2,
+    "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1778010009,
@@ -129745,7 +129749,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d2529e7f9c6b526eaa04259dba132d262fb29fc.png",
     "website": "https://getmodern.ai",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Melbourne, VIC, Australia",
     "long_description": "Modern is consolidating the IT function into a single platform powered by secure, always-on agents who understand your business. Help desk, access, hardware, on/off-boarding, security, procurement are automated end-to-end inside the channels your team already uses (Slack, Teams, Email, Voice, WhatsApp, Telegram).",
     "one_liner": "Modern - the ServiceNow killer",
     "team_size": 2,
@@ -129764,8 +129768,8 @@
       "Operations"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Australia",
+      "Oceania"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -130226,7 +130230,7 @@
       "Gbrain.io",
       "gbrain.io"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ff8cf14993c5561f746df91370537e12f858f957.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7bf7b8a84de5df5cb99d1a5f1024ec159e9c14d.png",
     "website": "https://gbrain.io",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Like ChatGPT or Claude, but it runs in the cloud, remembers everything you give it, and comes loaded with skills. Hand it a job tonight and read the answer in the morning. Use it on your own, or with your whole team.",
@@ -131653,7 +131657,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2026",
     "status": "Active",
@@ -133863,7 +133867,7 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1783565051,
     "tags": [
-      "AI"
+      "Artificial Intelligence"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -133877,7 +133881,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -135506,8 +135512,8 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1788561875,
     "tags": [
-      "Artificial Intelligence",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

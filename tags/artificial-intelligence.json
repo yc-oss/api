@@ -10473,48 +10473,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2021/vibe-kanban.json"
   },
   {
-    "id": 24622,
-    "name": "Caire Health",
-    "slug": "caire-health",
-    "former_names": [
-      "CAIRE"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/97361364dc226255ea7672c56e73b4967ef83a2e.png",
-    "website": "http://cairehealth.com",
-    "all_locations": "FL, USA",
-    "long_description": "We believe that no emergency should have to wait. To make this a reality we build AI that instantly reads medical scans and enables critical care teams to make diagnoses better than radiologists. This saves lives by getting emergencies to treatment immediately and by discharging non-emergent patients quickly so the next emergency doesn’t have to wait either.\r\n",
-    "one_liner": "Semi-Autonomous Diagnostics for Emergent Care",
-    "team_size": 3,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Diagnostics",
-    "launched_at": 1628310950,
-    "tags": [
-      "Artificial Intelligence",
-      "Medical Devices"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2021",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Diagnostics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/caire-health",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/caire-health.json"
-  },
-  {
     "id": 24787,
     "name": "Squire.ai",
     "slug": "squire-ai",
@@ -10555,6 +10513,7 @@
     "regions": [
       "United States of America",
       "Canada",
+      "America / Canada",
       "America / Canada",
       "Remote",
       "Partly Remote"
@@ -32563,7 +32522,7 @@
       "Belgium",
       "Europe"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -32824,10 +32783,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2025",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B"
     ],
@@ -32889,50 +32848,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/golf",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/golf.json"
-  },
-  {
-    "id": 30413,
-    "name": "Serafis",
-    "slug": "serafis",
-    "former_names": [
-      "MetaSpark"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67a815e7868c4a6d85c8b5fdb3324a29a6600f72.png",
-    "website": "https://serafis.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Serafis is building super-intelligence for financial markets. We mine petabytes of unstructured data to identify narrative inflections before they become consensus. Think building early conviction in Bitcoin (2014), Tesla (2018), or Nvidia (2022).\r\n\r\nWe are already live with 12 organizations managing over $70B in capital.",
-    "one_liner": "Narrative intelligence for investors",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1755276267,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Finance",
-      "Investing",
-      "Search"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/serafis",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/serafis.json"
   },
   {
     "id": 30421,
@@ -33242,6 +33157,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/clarm",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/clarm.json"
+  },
+  {
+    "id": 30440,
+    "name": "Sim",
+    "slug": "sim",
+    "former_names": [
+      "Sim Studio"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4376dcee0d9f629b17716a4c480cf0b33c46b8c6.png",
+    "website": "https://sim.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sim is a platform to build autonomous AI agents for enterprise systems. Teams connect their integrations and Sim builds a knowledge graph of company data and processes; from there, they work with Sim to build and monitor the AI agents and workflows that run production systems.",
+    "one_liner": "Build autonomous AI agents for enterprise systems",
+    "team_size": 10,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1746478234,
+    "tags": [
+      "Artificial Intelligence"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sim",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/sim.json"
   },
   {
     "id": 30444,
@@ -37291,7 +37246,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -40852,49 +40807,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/twolabs.json"
   },
   {
-    "id": 31368,
-    "name": "Zenbu",
-    "slug": "zenbu-2",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cac51a9c6d5e214ddcaeb4498d21b0b6a8e87e58.png",
-    "website": "https://www.zenbu.dev/",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Zenbu is an extensible IDE for orchestrating coding agents. Shape it around exactly how you and your team work.",
-    "one_liner": "The extensible IDE for coding agents",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1780458165,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Open Source"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/zenbu-2",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/zenbu-2.json"
-  },
-  {
     "id": 31376,
     "name": "Light Anchor",
     "slug": "light-anchor",
@@ -41032,46 +40944,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/userlens.json"
   },
   {
-    "id": 31408,
-    "name": "Antinuous",
-    "slug": "antinuous",
-    "former_names": [
-      "Salesgraph"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/febca88acc45186c0d3c21c31cb8dfbdd7f32484.png",
-    "website": "https://www.antinuous.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Antinuous is building autonomous research agents to help people in research, development, discovery, and knowledge work do faster, more accurate research end to end without a human in the loop.\r\n\r\nWe believe humans should be able to ask a single question, and no matter how simple or complex, agents should look at the question, break it down, research the answer, test new ideas, simulate new environments, and repeat autonomously using as much or little compute as necessary elastically.",
-    "one_liner": "Autonomous research agents for R&D and education",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1775259755,
-    "tags": [
-      "Artificial Intelligence"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/antinuous",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/antinuous.json"
-  },
-  {
     "id": 31420,
     "name": "Kimpton",
     "slug": "kimpton",
@@ -41116,47 +40988,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/kimpton",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/kimpton.json"
-  },
-  {
-    "id": 31428,
-    "name": "Ontora",
-    "slug": "ontora",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51ba58b94e0a45c3a3cc270067fe72dcf1f9027e.png",
-    "website": "https://ontora.com",
-    "all_locations": "Berlin, Berlin, Germany",
-    "long_description": "Ontora is an AI Agent that interviews every employee to map how work actually gets done and identify bottlenecks. Consultants spend months doing this manually; Ontora does it in hours.\r\n\r\n",
-    "one_liner": "AI agents that interviews every employee to hand context to AI tools. ",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1773487694,
-    "tags": [
-      "Artificial Intelligence",
-      "Robotic Process Automation",
-      "Enterprise"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "Germany",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": true,
-    "demo_day_video_public": true,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/ontora",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/ontora.json"
   },
   {
     "id": 31432,
@@ -44101,6 +43932,47 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/decawork.json"
   },
   {
+    "id": 33048,
+    "name": "Pennant",
+    "slug": "pennant",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7fbb4be6497bcd38a1210a0561cf3eb84422ab32.png",
+    "website": "https://www.getpennant.ai",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "Led by former institutional proxy voters and technologists with a collective 20+ years of experience, Pennant gives institutional investors, public companies, and corporate advisors voting and governance intelligence to act on their own principles at scale.",
+    "one_liner": "The World Model for Corporate Governance",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Asset Management",
+    "launched_at": 1786584832,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Investing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Asset Management"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pennant",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/pennant.json"
+  },
+  {
     "id": 33054,
     "name": "Lamb Labs",
     "slug": "lamb-labs",
@@ -44275,6 +44147,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/tovenai.json"
   },
   {
+    "id": 33249,
+    "name": "OpenRelay",
+    "slug": "openrelay",
+    "former_names": [
+      "VectorLay"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9c5dcebff59e38045b8e976d964cbe43ec732a9e.png",
+    "website": "https://www.openrelay.inc",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Distributed, hardware-agnostic AI inference",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1783565051,
+    "tags": [
+      "Artificial Intelligence"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/openrelay",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/openrelay.json"
+  },
+  {
     "id": 33278,
     "name": "PRINCEPS",
     "slug": "princeps",
@@ -44317,6 +44232,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/princeps",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/princeps.json"
+  },
+  {
+    "id": 33279,
+    "name": "Hebbian Robotics",
+    "slug": "hebbian-robotics",
+    "former_names": [
+      "Vanda Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4e7272f21860060f8aa33bb297af6d18fab5ffdc.png",
+    "website": "https://hebbianrobotics.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Hebbian Robotics automates data evaluation for physical AI and robotics.\r\n\r\nOur customers use us to build quality control pipelines in just a few lines of code, with custom models 10x faster and 8x cheaper than general foundation models. \r\n\r\nhttps://hebbianrobotics.com/\r\nhttps://github.com/Hebbian-Robotics/hflow",
+    "one_liner": "Automate Data Evaluations for Physical AI and Robotics",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1786123276,
+    "tags": [
+      "Artificial Intelligence",
+      "Robotics",
+      "Data Science",
+      "Data Engineering",
+      "Databases"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hebbian-robotics",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/hebbian-robotics.json"
   },
   {
     "id": 33282,
@@ -45256,46 +45216,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/rivereditor.json"
   },
   {
-    "id": 35265,
-    "name": "Hopper",
-    "slug": "hopper",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6640b732eb4efe17f2fb11ff75f6f6bc14184872.png",
-    "website": "https://withhopper.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Hopper post-trains STT, TTS, and speech LLMs on your production calls, then serves and improves them against your live traffic",
-    "one_liner": "Fast inference for voice",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1788561875,
-    "tags": [
-      "Artificial Intelligence",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/hopper",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/hopper.json"
-  },
-  {
     "id": 35355,
     "name": "Invertix",
     "slug": "invertix",
@@ -45568,7 +45488,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2026",
     "status": "Active",
@@ -45630,6 +45550,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/frontrunner",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/frontrunner.json"
+  },
+  {
+    "id": 37467,
+    "name": "Cyclon",
+    "slug": "cyclon",
+    "former_names": [
+      "TextGavel",
+      "Oxygen"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6d4a1648c00832ca1c9d1a963380c29de9ec30af.png",
+    "website": "https://cyclon.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Cyclon is rebuilding the phone around AI. Instead of opening apps and tapping through screens, you tell your phone what you want and it does it for you. With one touch, you can spin up AI agents to control your phone or handle tasks in the background. AI isn’t just inside an app - it’s the phone itself.",
+    "one_liner": "a phone where AI is the interface",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Consumer Electronics",
+    "launched_at": 1790095817,
+    "tags": [
+      "Artificial Intelligence",
+      "Hardware",
+      "Consumer"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Consumer Electronics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cyclon",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/cyclon.json"
   },
   {
     "id": 37468,
