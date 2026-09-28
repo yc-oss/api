@@ -57620,7 +57620,6 @@
       "United States of America",
       "Canada",
       "America / Canada",
-      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -87671,17 +87670,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6de9c09ef38f242ca0f06fc3c76a1616228e790.png",
     "website": "https://momentic.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Momentic is the agentic quality platform for web and mobile. \r\n\r\nEngineering teams write end-to-end tests in plain English, run them in CI, and use AI agents to triage failures, maintain coverage, and catch regressions before they reach users. \r\n\r\nNotion, Bilt, Quora, Xero, Webflow, and 100+ teams use Momentic to test critical user flows across web and mobile.\r\n\r\nLearn more at momentic.ai",
-    "one_liner": "The agentic quality platform for web and mobile",
-    "team_size": 15,
+    "long_description": "Momentic makes Mo, the AI QA engineer. Point Mo at your app with a goal and a swarm of agents bug-bashes it the way your team would, then reports every bug with repro steps, logs, and a video replay.\r\n\r\nNotion, Whatnot, Retool, Webflow, Framer, and 1,600+ teams use Momentic.\r\n\r\nTeams also use Momentic to write end-to-end tests in plain English, run them in CI, and let agents triage and maintain the suite across web and mobile.\r\n\r\nLearn more at momentic.ai",
+    "one_liner": "Mo, the AI QA engineer that bug-bashes your app before every release",
+    "team_size": 18,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1700355696,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -105648,8 +105647,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/31474af1f951c6780af0608ab7ed6a5b739d95bf.png",
     "website": "https://mundoai.world",
     "all_locations": "Vancouver, BC, Canada",
-    "long_description": "AI models are terrible in non-English languages because it's nearly impossible to find training data in other languages. So, we're building the world's largest and highest-quality multilingual data library.",
-    "one_liner": "High Quality Multilingual Training Data for AI Models",
+    "long_description": "Mundo develops data, evaluations, and applied research for frontier labs and AI companies to advance perceptual intelligence across audio, video, and emerging modalities.",
+    "one_liner": "The data layer for perceptual intelligence",
     "team_size": 30,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -106476,7 +106475,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -121929,7 +121928,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fdf0aa48a8dc6d626f3dad009167a50e943af31a.png",
     "website": "https://dev.fast",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "/dev/fast is the AI-native code forge. We're building 'Review', an open-source Cursor for code review.\r\n\r\nThe Review app is designed to give you confidence in your code. Critique interactive visualizations, diffs, and agent traces, all from one interface. \r\n\r\nLearn more at https://dev.fast",
+    "long_description": "/dev/fast is the AI-native code forge. We're building Whiteboard, an open-source canvas for thoughtful software design.\r\n\r\nThe Whiteboard app is designed to give you confidence in your code. Critique interactive visualizations, diffs, and agent traces, all from one interface. \r\n\r\nLearn more at https://dev.fast",
     "one_liner": "/dev/fast is the AI-native code forge",
     "team_size": 4,
     "industry": "B2B",
@@ -128658,7 +128657,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2383517bbad408b44b80d2d5f5912ef81073ff0.png",
     "website": "https://tester.army",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "Warsaw, Masovian Voivodeship, Poland; Remote",
     "long_description": "TesterArmy is an AI agent that tests websites and mobile apps. It monitors production on a schedule and runs automatically on every GitHub Pull Request, delivering screenshots, recordings, and actionable bug reports.\r\n\r\nDescribe tests in plain English. The agent handles login flows, OAuth, and OTPs, no scripts to write or maintain. We catch the regressions and UX issues that code review misses.",
     "one_liner": "Test your app with AI, catch bugs before users do",
     "team_size": 6,
@@ -128677,8 +128676,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "Poland",
+      "Europe",
       "Remote",
       "Fully Remote"
     ],
@@ -135455,6 +135454,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/onepatch",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/onepatch.json"
+  },
+  {
+    "id": 35261,
+    "name": "Asakana",
+    "slug": "asakana",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/582ebf9f01453d95f2c02b9bac341aff365af875.png",
+    "website": "https://www.asakana.co/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Restaurants send orders to food distributors by email, text, and photo. Someone at the distributor retypes every one of them into the ERP. Asakana does that entry instead: orders land in the ERP already entered, and anything unclear goes to a person before it goes in. Live at US seafood distributors today, returning 40%+ of order-desk time to selling. Founded by a seafood distributor and a Gemini builder.",
+    "one_liner": "AI order entry for food distributors: emails and texts to ERP",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1788189674,
+    "tags": [
+      "SaaS",
+      "Food & Beverage"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/asakana",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/asakana.json"
   },
   {
     "id": 35262,
