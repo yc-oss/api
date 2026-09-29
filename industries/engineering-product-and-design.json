@@ -9515,7 +9515,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -17763,26 +17763,27 @@
   },
   {
     "id": 29466,
-    "name": "OpenFoundry",
-    "slug": "openfoundry",
+    "name": "Overheard",
+    "slug": "overheard",
     "former_names": [
       "FlowState",
-      "Unidata"
+      "Unidata",
+      "OpenFoundry"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ce4129c96ae12a1f36222fb4e03f8ee4c1b0306.png",
-    "website": "https://www.openfoundry.ai/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/156a31d542f37c25abdebb50a956a376276e0f5b.png",
+    "website": "https://withoverheard.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "OpenFoundry is an open source platform that helps engineers build, deploy, and scale their open source AI stack 10x faster. Ship your AI stack with just one line of code. You could think of us as an open source alternative to Hugging Face.\r\n\r\nLearn more and check out a demo of this in action in our Launch YC post: https://www.ycombinator.com/launches/KhY-openfoundry-developer-infrastructure-for-open-source-ai",
-    "one_liner": "The fastest developer experience for building on open source AI.",
+    "long_description": "Overheard is an AI product researcher. Tell it what you're deciding, and it designs the study, interviews your users by voice, and comes back with an answer backed by what they actually said, with every finding linked to the quotes behind it.\r\n\r\nTeams at fast-growing software companies make product calls every week, often without talking to users, because real research takes weeks. Overheard gets them an answer in days, so they ship the right thing sooner.",
+    "one_liner": "An AI product researcher that interviews your users.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1711038198,
     "tags": [
-      "Developer Tools",
       "B2B",
-      "Open Source",
-      "Infrastructure",
+      "Productivity",
+      "Design",
+      "Market Research",
       "AI"
     ],
     "tags_highlighted": [],
@@ -17804,8 +17805,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/openfoundry",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/openfoundry.json"
+    "url": "https://www.ycombinator.com/companies/overheard",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/overheard.json"
   },
   {
     "id": 29472,
@@ -22773,14 +22774,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "TraceRoot is the open-source self-improving layer for AI agents — observability that detects failures in production, root-causes them against your source code and GitHub history, opens verified fix PRs, and evals every fix — so your agent gets better with every release.",
     "one_liner": "Open source self-improving layer for AI agents",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1753318246,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Infrastructure",
-      "AI"
+      "Open Source",
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -22794,7 +22796,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -25713,7 +25717,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2026",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -26829,5 +26833,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/oro-ai",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/oro-ai.json"
+  },
+  {
+    "id": 38391,
+    "name": "Boxes.dev",
+    "slug": "boxesdev",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9949c6b8484314fd6471d7e95c251af659528195.png",
+    "website": "https://boxes.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Port your development environment to the cloud. Give every coding agent on its own cloud computer, bring your Codex or Claude subscription, start agents from Slack and Linear, and manage them from your desktop, phone, or terminal.",
+    "one_liner": "Cloud development environments for AI coding",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1790643542,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/boxesdev",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/boxesdev.json"
   }
 ]

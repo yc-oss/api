@@ -914,8 +914,8 @@
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "http://www.asseta.com",
     "all_locations": "Newport Beach, CA, USA; Remote",
-    "long_description": "Asseta is an online marketplace for used capital equipment and parts.  We utilize innovative software to bring buyers and sellers together so you can efficiently and transparently collaborate during equipment transactions.  Our web based platform ensures easy price discovery for interested parties and high touch customer service.\r\n\r\nToday over $100B is spent on used manufacturing equipment offline via brokers and middlemen. This huge but un-sexy market has yet to be transformed by technology. The incumbent firms rely on large sales forces and the fragmentation of the market to charge huge margins.   We believe in a better solution.\r\n\r\n\r\nFounded in 2013, Asseta is Y Combinator backed startup based in Newport Beach.  For more information, visit www.asseta.com.\r\n\r\nCheck out our AngelLilst profile here:  https://angel.co/asseta?ref=startup_card",
-    "one_liner": "Marketplace for industrial spare parts and capital equipment.",
+    "long_description": "Asseta helps semiconductor fabs buy spare parts for their production tools. A buyer sends Asseta the part number. The request goes to the suppliers in Asseta's network who list that part. When none of them has it, Asseta's AI sourcing team contacts suppliers who have carried the part before and searches beyond its listings. Buyers and suppliers never see each other; Asseta issues the quote and the invoice, pays the supplier, and manages every order.\r\n\r\nAsseta has completed more than 30,000 part sales since 2014 and carries 450,000+ part and equipment listings from fabs, refurbishers, and dealers. Customers include large semiconductor manufacturers in the United States and abroad.\r\n\r\nFounded in 2013 and based in Newport Beach, California. https://www.asseta.com/how-it-works",
+    "one_liner": "Sourcing marketplace for semiconductor fab spare parts.",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -2591,7 +2591,7 @@
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Instrumentl is a SaaS platform that helps social enterprises discover, track and win grant funding. We force multiply the nonprofit sector's ability to deliver impact. >100% YoY growth, cash flow positive. Feel good about the work you do, join us: www.instrumentl.com/careers",
     "one_liner": "Instrumentl automates grant discovery and management for nonprofits.",
-    "team_size": 60,
+    "team_size": 100,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1461210619,
@@ -3451,10 +3451,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2017",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Recruiting and Talent"
@@ -3465,7 +3465,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -7278,7 +7278,7 @@
       "Canada",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -15269,7 +15269,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -37141,26 +37141,27 @@
   },
   {
     "id": 29466,
-    "name": "OpenFoundry",
-    "slug": "openfoundry",
+    "name": "Overheard",
+    "slug": "overheard",
     "former_names": [
       "FlowState",
-      "Unidata"
+      "Unidata",
+      "OpenFoundry"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ce4129c96ae12a1f36222fb4e03f8ee4c1b0306.png",
-    "website": "https://www.openfoundry.ai/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/156a31d542f37c25abdebb50a956a376276e0f5b.png",
+    "website": "https://withoverheard.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "OpenFoundry is an open source platform that helps engineers build, deploy, and scale their open source AI stack 10x faster. Ship your AI stack with just one line of code. You could think of us as an open source alternative to Hugging Face.\r\n\r\nLearn more and check out a demo of this in action in our Launch YC post: https://www.ycombinator.com/launches/KhY-openfoundry-developer-infrastructure-for-open-source-ai",
-    "one_liner": "The fastest developer experience for building on open source AI.",
+    "long_description": "Overheard is an AI product researcher. Tell it what you're deciding, and it designs the study, interviews your users by voice, and comes back with an answer backed by what they actually said, with every finding linked to the quotes behind it.\r\n\r\nTeams at fast-growing software companies make product calls every week, often without talking to users, because real research takes weeks. Overheard gets them an answer in days, so they ship the right thing sooner.",
+    "one_liner": "An AI product researcher that interviews your users.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1711038198,
     "tags": [
-      "Developer Tools",
       "B2B",
-      "Open Source",
-      "Infrastructure",
+      "Productivity",
+      "Design",
+      "Market Research",
       "AI"
     ],
     "tags_highlighted": [],
@@ -37182,8 +37183,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/openfoundry",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/openfoundry.json"
+    "url": "https://www.ycombinator.com/companies/overheard",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/overheard.json"
   },
   {
     "id": 29474,
@@ -47245,11 +47246,11 @@
     "subindustry": "B2B",
     "launched_at": 1782326273,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Workflow Automation",
-      "Market Research"
+      "Market Research",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47711,6 +47712,45 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/infera.json"
   },
   {
+    "id": 31444,
+    "name": "Alchemize",
+    "slug": "alchemize",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f82ae07ea418af65738a5555df328a4907b4da13.png",
+    "website": "https://tryalchemize.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Building AI Native Customs Brokerages",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1778526600,
+    "tags": [
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/alchemize",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/alchemize.json"
+  },
+  {
     "id": 31516,
     "name": "Expanse",
     "slug": "expanse",
@@ -47889,7 +47929,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We build GitHub for agents. We're rebuilding the infrastructure for the next hundred billion commits and CI jobs with hundreds of engineers already making the move.",
     "one_liner": "The Git forge for the next hundred billion commits",
-    "team_size": 2,
+    "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1785301269,
@@ -48909,8 +48949,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/28b2676e2b5c4bb6bce97d4ce827f594e9743ce2.png",
     "website": "https://heytenor.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tenor enables domain experts to build, run, and scale AI-native service businesses.\r\nThe next generation of successful white-collar service businesses will be built and scaled around AI from the ground up. These companies need more than capable AI models. They need a company data layer, governed workflows that AI can execute, and harnesses that continuously improve based on outcomes and decision checkpoints. Tenor is building this infrastructure so millions of AI-native businesses don’t have to build it themselves.",
-    "one_liner": "Infrastructure for building and scaling AI-native service businesses.",
+    "long_description": "Tenor is a full-stack infrastructure for building and running AI-native businesses. We’re not just an agent framework, we manage the entire loop from how AI executes work to how every action, decision, and business outcome is captured and learned from. Owning the full stack lets companies deploy governed AI workflows, understand what actually drives results, and continuously improve how their business operates without building the infrastructure themselves.",
+    "one_liner": "Infrastructure for building and scaling AI-native businesses.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -49651,6 +49691,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/billow-ai-labs",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/billow-ai-labs.json"
+  },
+  {
+    "id": 33674,
+    "name": "UFO.ai",
+    "slug": "ufoai",
+    "former_names": [
+      "Metalcraft",
+      "ufo.ai"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f7933f1917a47bf844572cf253da02eeececc9f.png",
+    "website": "https://ufo.ai",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "UFO is the operating platform for your business built by the creators of Github Copilot and Perplexity Computer. \r\n\r\nUFO learns your company, goals, tools, and workflows. UFO builds what your team needs to keep work moving.",
+    "one_liner": "Next-generation agent operating system",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1790567216,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ufoai",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/ufoai.json"
   },
   {
     "id": 33804,
@@ -50454,5 +50540,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/deepmark",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/deepmark.json"
+  },
+  {
+    "id": 38391,
+    "name": "Boxes.dev",
+    "slug": "boxesdev",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9949c6b8484314fd6471d7e95c251af659528195.png",
+    "website": "https://boxes.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Port your development environment to the cloud. Give every coding agent on its own cloud computer, bring your Codex or Claude subscription, start agents from Slack and Linear, and manage them from your desktop, phone, or terminal.",
+    "one_liner": "Cloud development environments for AI coding",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1790643542,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/boxesdev",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/boxesdev.json"
   }
 ]

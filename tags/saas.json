@@ -5325,7 +5325,7 @@
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Instrumentl is a SaaS platform that helps social enterprises discover, track and win grant funding. We force multiply the nonprofit sector's ability to deliver impact. >100% YoY growth, cash flow positive. Feel good about the work you do, join us: www.instrumentl.com/careers",
     "one_liner": "Instrumentl automates grant discovery and management for nonprofits.",
-    "team_size": 60,
+    "team_size": 100,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1461210619,
@@ -6570,10 +6570,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2017",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Recruiting and Talent"
@@ -6584,7 +6584,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -21840,7 +21840,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -47322,11 +47322,11 @@
     "subindustry": "B2B",
     "launched_at": 1782326273,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Workflow Automation",
-      "Market Research"
+      "Market Research",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48557,6 +48557,52 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/hyperprobe.json"
   },
   {
+    "id": 33674,
+    "name": "UFO.ai",
+    "slug": "ufoai",
+    "former_names": [
+      "Metalcraft",
+      "ufo.ai"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f7933f1917a47bf844572cf253da02eeececc9f.png",
+    "website": "https://ufo.ai",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "UFO is the operating platform for your business built by the creators of Github Copilot and Perplexity Computer. \r\n\r\nUFO learns your company, goals, tools, and workflows. UFO builds what your team needs to keep work moving.",
+    "one_liner": "Next-generation agent operating system",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1790567216,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ufoai",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/ufoai.json"
+  },
+  {
     "id": 33804,
     "name": "Lightfield",
     "slug": "lightfield",
@@ -48766,5 +48812,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/byteask",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/byteask.json"
+  },
+  {
+    "id": 37137,
+    "name": "Clean",
+    "slug": "clean",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4e4d496ee0d1967a7b7483c4981a450e6b1130e7.png",
+    "website": "http://tryclean.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Clean watches your market and finds your buyers from what companies actually do: customs shipments, permits, loans and supplier switches. Not just ads or web clicks.",
+    "one_liner": "Origination engine for deal transactional flow.",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1790642577,
+    "tags": [
+      "Deep Learning",
+      "SaaS"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/clean",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/clean.json"
   }
 ]
