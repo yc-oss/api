@@ -249,6 +249,45 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/nxtcure-labs.json"
   },
   {
+    "id": 31584,
+    "name": "CONUS",
+    "slug": "conus",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8edd99606159933b27bd8c7f3992e7ad9e5b4dea.png",
+    "website": "https://www.conus-med.com",
+    "all_locations": "Cologne, NRW, Germany",
+    "long_description": "CONUS is the AI knowledge layer for surgery, connecting medical device manufacturers with hospitals. We bring product information, hospital protocols and medical research together, helping doctors and sales reps find answers in seconds.\r\n\r\nWe already work with leading manufacturers including Johnson & Johnson, Stryker and Zimmer Biomet. Our long-term ambition is to let hospitals select and order implants from all manufacturers on one platform: Amazon for implants, embedded in the surgical workflow.",
+    "one_liner": "The AI knowledge layer for medical devices",
+    "team_size": 3,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1790675017,
+    "tags": [
+      "Artificial Intelligence",
+      "Healthcare"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "Germany",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/conus",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/conus.json"
+  },
+  {
     "id": 31591,
     "name": "RightNow",
     "slug": "rightnow",
@@ -635,15 +674,16 @@
   },
   {
     "id": 33804,
-    "name": "Lightfield",
-    "slug": "lightfield",
+    "name": "Neomatter",
+    "slug": "neomatter",
     "former_names": [
-      "Lightfield, Inc."
+      "Lightfield, Inc.",
+      "Lightfield"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a5892847938d97ba24dce5c43342e5a6f22a2f34.png",
-    "website": "https://trylightfield.ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a30dd6a7d86e342da32a42b330195358721c4571.png",
+    "website": "https://neomatter.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lightfield connects to a company’s email, chat, and business systems and does the legal work before it reaches the legal team. It gathers context, applies company policies and past decisions, and presents the completed work to in-house counsel for approval.",
+    "long_description": "Neomatter connects to a company’s email, chat, and business systems and does the legal work before it reaches the legal team. It gathers context, applies company policies and past decisions, and presents the completed work to in-house counsel for approval.",
     "one_liner": "AI that works for in-house legal teams",
     "team_size": 2,
     "industry": "B2B",
@@ -673,8 +713,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lightfield",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/lightfield.json"
+    "url": "https://www.ycombinator.com/companies/neomatter",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/neomatter.json"
   },
   {
     "id": 33838,
@@ -718,6 +758,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/simantic",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/simantic.json"
+  },
+  {
+    "id": 34134,
+    "name": "Moda",
+    "slug": "moda-2",
+    "former_names": [
+      "moda.app"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1693e94e6d5a17016b287d6917bdefebbef1d367.png",
+    "website": "",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "",
+    "one_liner": "Fully editable slides, designs and video.",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1790709958,
+    "tags": [
+      "AI-Enhanced Learning",
+      "Design",
+      "Sales",
+      "Video",
+      "Marketing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/moda-2",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/moda-2.json"
   },
   {
     "id": 34365,
@@ -2302,18 +2387,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aeedcbe594abc3d35bb21642c507ec105a0f502a.png",
     "website": "https://shepherdrobotics.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Shepherd Robotics builds general purpose robots for skilled physical work across AI infrastructure and advanced manufacturing. Our robots are powered by robot foundation models and use modular, flexible hardware designed to adapt to different environments and tasks.\r\nWe train our systems on a combination of real world and simulation data so they can learn complex manipulation skills and generalize across workflows. We are starting with tasks such as data center construction and operations, cable and wire manufacturing, wire harness assembly, kitting, and factory packaging, where traditional automation struggles with variability, dexterity, and changing environments.",
+    "long_description": "Shepherd Robotics builds general purpose robots for skilled physical work across AI infrastructure and advanced manufacturing. Our robots are powered by robot foundation models and use modular, flexible hardware designed to adapt to different environments and tasks. We train our systems on a combination of real world and simulation data so they can learn complex manipulation skills and generalize across workflows. We also provide integration into customers’ existing workflows, starting with data center construction and operations, electrical manufacturing and testing, and electronics manufacturing, where traditional automation struggles with variability, dexterity, and changing environments. ",
     "one_liner": "Robots for high skilled labor powering AI infrastructure",
     "team_size": 4,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1789000982,
     "tags": [
-      "Artificial Intelligence",
       "Hardware",
       "Robotics",
       "Manufacturing",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2873,6 +2958,51 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/hesper-ai.json"
   },
   {
+    "id": 36088,
+    "name": "OpenSEO",
+    "slug": "openseo",
+    "former_names": [
+      "Every App"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4748ea4cce3f5b77e3f8a5d77e2720edaffb5983.png",
+    "website": "https://openseo.so/",
+    "all_locations": "Boston, MA, USA",
+    "long_description": "Connect to your AI Agent in 2 minutes.\r\n\r\nGet expert level advice tailored to your business backed by real data like keyword search traffic, backlinks, and technical audits of your site.\r\n\r\nHere are some good skills to start with:\r\n\r\n/seo-audit What 1-2 changes to your website will drive more traffic?\r\n/keyword-research Find topics worth writing about?\r\n/competitor-analysis Understand your competitors’ SEO strategy.",
+    "one_liner": "Open source alternative to Semrush and Ahrefs",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1790725906,
+    "tags": [
+      "Open Source",
+      "Marketing",
+      "SEO"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/openseo",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/openseo.json"
+  },
+  {
     "id": 36180,
     "name": "Vexo",
     "slug": "vexo",
@@ -2914,6 +3044,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/vexo",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/vexo.json"
+  },
+  {
+    "id": 36181,
+    "name": "Archangel Health",
+    "slug": "archangel-health",
+    "former_names": [
+      "Archangel Health Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/96a5ecbd3a1ff0d1c0016fa7cb60f469bf2fdb51.png",
+    "website": "https://www.archangelhealth.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Archangel Health builds the infrastructure to post-train and evaluate medical AI: RL environments inside real de-identified EHRs, physician-verified training data, and benchmarks that test clinical reasoning on hard cases. Frontier labs and medical AI companies use it today, and we're now moving toward post-training open-source models for health systems on their own data and their own physicians' judgment",
+    "one_liner": "Infra to make AI safe enough to practice medicine",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1790707667,
+    "tags": [
+      "Health Tech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/archangel-health",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/archangel-health.json"
   },
   {
     "id": 36345,
@@ -2963,7 +3133,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3266646a9815f7e3ed31c088c4008df6e8fb0101.png",
     "website": "https://www.antimattr.one/project-mnemosyne",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "antimattr builds a voice-first hardware interface for human-agent interaction that includes a ring and a pair of earphones. Designed to make more of your voice, the ring can record and summarise your conversations, capture thoughts on the go, or control your agents. The earphones use proprietary voice isolation technology to block out background noise entirely, so you can take a clear call from a loud pub or dictate with real accuracy.\r\n\r\nReserve early access at https://www.antimattr.one/project-mnemosyne\r\n[use code YC at checkout]",
+    "long_description": "antimattr builds a voice-first hardware interface for human-agent interaction that includes a ring and a pair of earphones. Designed to make more of your voice, the ring can record and summarise your conversations, capture thoughts on the go, or control your agents. The earphones use proprietary voice isolation technology to block out background noise entirely, so you can take a clear call from a loud pub or dictate with real accuracy.",
     "one_liner": "voice-first hardware interface for human-agent interaction",
     "team_size": 2,
     "industry": "Consumer",
@@ -2972,7 +3142,8 @@
     "tags": [
       "Artificial Intelligence",
       "Hardware",
-      "Consumer"
+      "Consumer",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3380,7 +3551,7 @@
     "website": "http://tryclean.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Clean watches your market and finds your buyers from what companies actually do: customs shipments, permits, loans and supplier switches. Not just ads or web clicks.",
-    "one_liner": "Origination engine for deal transactional flow.",
+    "one_liner": "We tell sellers exactly when a company is ready to buy.",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -3588,7 +3759,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/786d073f3a76012e5179c5021d6a0d82644d8d1f.png",
     "website": "https://decent.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Decent is an AI-native health insurance brokerage. We quote every available option, like Kayak for health plans, and then monitor and act on claims data continuously to make your plan better and cheaper year-round.",
+    "long_description": "Decent is an AI-native health insurance brokerage. We make your health plan better year-round, not just once a year.",
     "one_liner": "Continuous optimization for employer health plans.",
     "team_size": 2,
     "industry": "Fintech",
@@ -3624,6 +3795,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/decent-com",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/decent-com.json"
+  },
+  {
+    "id": 37434,
+    "name": "Ascenix",
+    "slug": "ascenix",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9df54ccfcc3e9d39a078433b991341cfb364eb78.png",
+    "website": "https://www.ascenix.co/",
+    "all_locations": "Toronto, ON, Canada",
+    "long_description": "Ascenix is the all-in-one incident platform that turns unstructured EHR data into automated reporting, reimbursement recovery, compliance flagging, and clinical insight. We’re already live in 50 homes and scaling across North America. We connect to systems like PointClickCare and analyze the notes nurses already write, adapting to any note structure and any compliance or reporting requirement.\r\n\r\nWe help teams identify documentation gaps, uncover missed revenue opportunities and spot emerging resident risks, while reducing time spent reviewing charts and building spreadsheets. Our goal is to improve residents’ quality of life by helping care homes reach their full clinical, financial and operational potential.",
+    "one_liner": "Clinical intelligence layer for skilled nursing facilities.",
+    "team_size": 7,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1790728301,
+    "tags": [
+      "Digital Health",
+      "Healthcare IT"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "Canada",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ascenix",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/ascenix.json"
   },
   {
     "id": 37435,

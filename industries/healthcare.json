@@ -15683,7 +15683,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "Healthcare",
       "Medical Devices"
@@ -27948,14 +27948,14 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We produce patient-derived cancer datasets for licensing to pharmaceutical and AI companies. Our data comprises matched spatial transcriptomics, H&E and clinical labels. We operate our own laboratory, where samples are processed. Samples are sourced from leading biobank / hospital networks.\r\n\r\nAs R&D workflows increasingly rely on frontier AI systems, we believe there is critical need for real world datapoints so that findings translate in the clinic.",
     "one_liner": "AI and Data for Cancer Therapeutics",
-    "team_size": 4,
+    "team_size": 8,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Drug Discovery and Delivery",
     "launched_at": 1770167044,
     "tags": [
       "AI-powered Drug Discovery",
-      "Biotech",
-      "AI"
+      "Artificial Intelligence",
+      "Biotech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -28476,52 +28476,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cova",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/cova.json"
-  },
-  {
-    "id": 31276,
-    "name": "Ritivel",
-    "slug": "ritivel",
-    "former_names": [
-      "Ritivel",
-      "ritivel"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/20339e5cb76cdfb65db692fb1ab38e8c6f710609.png",
-    "website": "https://www.ritivel.com",
-    "all_locations": "Bengaluru, KA, India",
-    "long_description": "Ritivel is an AI-native workspace for regulatory and medical writing teams at life sciences companies. Our AI agents draft CTDs, CSRs, INDs, and BLAs in minutes instead of weeks, helping drugs reach patients faster.\r\n\r\nEvery month a drug is delayed from reaching the market costs pharma companies ~$45M in lost revenue and more importantly, delays treatment for thousands of patients who need it. Yet regulatory teams are stuck in a painful, months-long process: synthesizing thousands of pages of clinical data, hunting through SharePoint folders for the right documents, chasing colleagues for missing inputs, and manually drafting submissions.\r\n\r\nRitivel deploys AI agents that transform how regulatory teams work. Our agents generate comprehensive first drafts directly in Microsoft Word, following FDA formatting requirements and pulling from your existing clinical data and prior submissions. Every data point includes citations linked back to the original source, so reviewers can verify with one click. Connected to SharePoint and Veeva, our agents automatically source the right documents. Integrated with Outlook, they handle reminder emails and follow-ups automatically.\r\n\r\nWe're engineers who previously built AI copilots at Microsoft Research. After 50+ conversations with pharma professionals, we discovered the critical bottleneck in regulatory submissions and built Ritivel to solve it. ",
-    "one_liner": "AI-native platform for Life-Sciences Documentation ",
-    "team_size": 3,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1768402832,
-    "tags": [
-      "Generative AI",
-      "Compliance",
-      "Enterprise Software",
-      "Regtech",
-      "Biotechnology"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "regions": [
-      "India",
-      "South Asia"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ritivel",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/ritivel.json"
   },
   {
     "id": 31326,
@@ -29273,6 +29227,45 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/framewise-health.json"
   },
   {
+    "id": 31584,
+    "name": "CONUS",
+    "slug": "conus",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8edd99606159933b27bd8c7f3992e7ad9e5b4dea.png",
+    "website": "https://www.conus-med.com",
+    "all_locations": "Cologne, NRW, Germany",
+    "long_description": "CONUS is the AI knowledge layer for surgery, connecting medical device manufacturers with hospitals. We bring product information, hospital protocols and medical research together, helping doctors and sales reps find answers in seconds.\r\n\r\nWe already work with leading manufacturers including Johnson & Johnson, Stryker and Zimmer Biomet. Our long-term ambition is to let hospitals select and order implants from all manufacturers on one platform: Amazon for implants, embedded in the surgical workflow.",
+    "one_liner": "The AI knowledge layer for medical devices",
+    "team_size": 3,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1790675017,
+    "tags": [
+      "Artificial Intelligence",
+      "Healthcare"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "Germany",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/conus",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/conus.json"
+  },
+  {
     "id": 32170,
     "name": "Gutgutgoose",
     "slug": "gutgutgoose",
@@ -29282,7 +29275,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Most data companies pay for their data. Ours pays for itself.\r\nCustomers send us a stool sample. We sequence it, build a metabolic model of that gut, and simulate whether each probiotic strain has an open niche it can colonize. We formulate the best candidates, then re-sequence 90 days later to see what actually took hold and what changed. Each cycle gives us the baseline gut, the intervention, and the outcome. At scale, the endgame is models that predict chronic disease years before symptoms.",
     "one_liner": "We sequence your gut and build the probiotics it’s missing",
-    "team_size": 2,
+    "team_size": 7,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1785190964,
@@ -29988,5 +29981,85 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/halmos-labs",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/halmos-labs.json"
+  },
+  {
+    "id": 36181,
+    "name": "Archangel Health",
+    "slug": "archangel-health",
+    "former_names": [
+      "Archangel Health Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/96a5ecbd3a1ff0d1c0016fa7cb60f469bf2fdb51.png",
+    "website": "https://www.archangelhealth.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Archangel Health builds the infrastructure to post-train and evaluate medical AI: RL environments inside real de-identified EHRs, physician-verified training data, and benchmarks that test clinical reasoning on hard cases. Frontier labs and medical AI companies use it today, and we're now moving toward post-training open-source models for health systems on their own data and their own physicians' judgment",
+    "one_liner": "Infra to make AI safe enough to practice medicine",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1790707667,
+    "tags": [
+      "Health Tech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/archangel-health",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/archangel-health.json"
+  },
+  {
+    "id": 37434,
+    "name": "Ascenix",
+    "slug": "ascenix",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9df54ccfcc3e9d39a078433b991341cfb364eb78.png",
+    "website": "https://www.ascenix.co/",
+    "all_locations": "Toronto, ON, Canada",
+    "long_description": "Ascenix is the all-in-one incident platform that turns unstructured EHR data into automated reporting, reimbursement recovery, compliance flagging, and clinical insight. We’re already live in 50 homes and scaling across North America. We connect to systems like PointClickCare and analyze the notes nurses already write, adapting to any note structure and any compliance or reporting requirement.\r\n\r\nWe help teams identify documentation gaps, uncover missed revenue opportunities and spot emerging resident risks, while reducing time spent reviewing charts and building spreadsheets. Our goal is to improve residents’ quality of life by helping care homes reach their full clinical, financial and operational potential.",
+    "one_liner": "Clinical intelligence layer for skilled nursing facilities.",
+    "team_size": 7,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1790728301,
+    "tags": [
+      "Digital Health",
+      "Healthcare IT"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "Canada",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ascenix",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/ascenix.json"
   }
 ]

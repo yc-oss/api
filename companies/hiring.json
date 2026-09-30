@@ -8209,7 +8209,7 @@
     "all_locations": "Boston, MA, USA",
     "long_description": "Alpha Vantage provides enterprise-grade financial market data through a set of powerful and developer-friendly data APIs and spreadsheets. Whether you need traditional asset classes (e.g., stocks, ETFs, commodities), economic metrics, foreign exchange rates, cryptocurrencies, fundamental data or even technical indicators, Alpha Vantage is your one-stop shop for global market data delivered through REST APIs.",
     "one_liner": "Developer-friendly and enterprise-grade APIs for financial market…",
-    "team_size": 8,
+    "team_size": 25,
     "industry": "Fintech",
     "subindustry": "Fintech -> Banking and Exchange",
     "launched_at": 1525316905,
@@ -8238,7 +8238,7 @@
     ],
     "stage": "Early",
     "app_video_public": false,
-    "demo_day_video_public": false,
+    "demo_day_video_public": true,
     "app_answers": null,
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/alpha-vantage",
@@ -11883,54 +11883,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2020/ophelia.json"
   },
   {
-    "id": 13104,
-    "name": "Letterdrop",
-    "slug": "letterdrop",
-    "former_names": [
-      "Wisdom",
-      "Talkative",
-      "FounderPhone",
-      "Across"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37e8e62d8a79db7c006e15d1cce3365c5fc7e469.png",
-    "website": "https://letterdrop.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "If you beat your competitors in head to head bakeoffs, you should want to get into every active evaluation of them possible. Letterdrop makes that possible so you can sell customers on your better solution.",
-    "one_liner": "Get into the competitive deals you can't see",
-    "team_size": 10,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1646371716,
-    "tags": [
-      "Generative AI",
-      "Sales",
-      "Marketing"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2020",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/letterdrop",
-    "api": "https://yc-oss.github.io/api/batches/winter-2020/letterdrop.json"
-  },
-  {
     "id": 13109,
     "name": "Taiv",
     "slug": "taiv",
@@ -11965,7 +11917,7 @@
       "Canada",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -17645,7 +17597,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -23974,52 +23926,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2022/teamout.json"
   },
   {
-    "id": 25397,
-    "name": "Seabound",
-    "slug": "seabound",
-    "former_names": [
-      "SeaCycle",
-      "Seabound Carbon"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d1528dd1b7f462a6ecd64d04d3bd29abcce12563.png",
-    "website": "http://seabound.co",
-    "all_locations": "London, England, United Kingdom",
-    "long_description": "Seabound builds carbon capture equipment for ships. We're the only way for existing ships to reduce up to 95% of CO2 emissions and meet new global regulations.",
-    "one_liner": "Carbon capture equipment for ships",
-    "team_size": 18,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Climate",
-    "launched_at": 1643912064,
-    "tags": [
-      "Hard Tech",
-      "Climate",
-      "Transportation"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Climate"
-    ],
-    "regions": [
-      "United Kingdom",
-      "Europe",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/seabound",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/seabound.json"
-  },
-  {
     "id": 25398,
     "name": "Dynamo AI",
     "slug": "dynamo-ai",
@@ -26410,6 +26316,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/gosats",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/gosats.json"
+  },
+  {
+    "id": 26120,
+    "name": "AirMyne",
+    "slug": "airmyne",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5aa405139fe4cdf0cab1a9d2f6220f51247655a3.png",
+    "website": "http://www.airmyne.com",
+    "all_locations": "San Francisco, CA, USA; Berkeley, CA, USA",
+    "long_description": "AirMyne is building machines to capture & remove carbon dioxide from ambient atmospheric air so it can be utilized or sequestered downstream. Our team is based in Berkeley, CA. ",
+    "one_liner": "Building systems to remove carbon dioxide from air at industrial scale",
+    "team_size": 11,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Climate",
+    "launched_at": 1645729600,
+    "tags": [
+      "Carbon Capture and Removal",
+      "Hard Tech",
+      "Hardware",
+      "Climate"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Climate"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/airmyne",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/airmyne.json"
   },
   {
     "id": 26125,
@@ -29007,16 +28957,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe35a47d1e4dd7a3c1a7dcbea86c08b5ef2d67e6.png",
     "website": "https://www.firecrawl.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Firecrawl is the easiest way to turn the web into data AI agents can use. One API call converts any URL into clean, LLM-ready markdown or structured data - the boring-hard problem everyone building with LLMs eventually hits, solved.\r\n\r\nThis is a place for people who want to work at the frontier: an AI company building the infrastructure other AI companies run on, not one bolting AI onto an existing product. We move fast, go deep, and are building the tools superintelligence will rely on to gather data from the web.",
-    "one_liner": "The web data API for searching and scraping. 🔥",
+    "long_description": "Firecrawl gives your AI agents web data and beyond. Search and scrape the web, then access more sources through Alexandria’s library of data providers and specialized indexes. With more data to draw from, your AI agents can dig deeper and find answers that would otherwise stay out of reach. Use Firecrawl through your AI tools or build with our web data API.",
+    "one_liner": "Give your AI agents web data and beyond.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1661283698,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Open Source"
+      "Open Source",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -35946,12 +35896,12 @@
     "name": "Santé",
     "slug": "sante",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/15a2b4571e1045f35c0ba2461c33ab3553502aba.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d10be62025bd08a71a16a6b40cd46744ed418b47.png",
     "website": "https://santehq.com/",
     "all_locations": "New York City, NY, USA",
     "long_description": "",
     "one_liner": "All-in-one POS for liquor stores",
-    "team_size": 10,
+    "team_size": 20,
     "industry": "B2B",
     "subindustry": "B2B -> Retail",
     "launched_at": 1684850998,
@@ -44496,6 +44446,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/rentflow.json"
   },
   {
+    "id": 29839,
+    "name": "Serve AI",
+    "slug": "serve-ai",
+    "former_names": [
+      "pap!"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7e1603c58a6b9ecb46ac26ec775f8201dd3c1d3d.png",
+    "website": "https://serveaiglobal.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "AI for Field Service Enterprises",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1724803143,
+    "tags": [
+      "B2B",
+      "Home Services",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/serve-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/serve-ai.json"
+  },
+  {
     "id": 29840,
     "name": "Blaze",
     "slug": "blaze-2",
@@ -47637,14 +47630,14 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Weave builds AI to understand engineering work from prompt to production. We show how much faster AI is making your team, how that impacts quality, and what it's costing. \r\n\r\nWeave then takes that data to route all of your tasks to the most cost efficient model without compromising speed or quality.\r\n\r\nWeave is used by over 500+ orgs from startups to public companies like Robinhood, Posthog and Telnyx.",
     "one_liner": "AI to understand and then route engineering work",
-    "team_size": 14,
+    "team_size": 16,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1738683202,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Analytics",
-      "AI"
+      "Analytics"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -52260,17 +52253,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7090c5a2d73a4c3057030995d02dc87abae964a5.png",
     "website": "https://www.dedaluslabs.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "The fastest persistent computer for agents. Host long-running, stateful agents that never sleep in <50ms. ",
-    "one_liner": "Compute substrate for AI agents",
-    "team_size": 10,
+    "long_description": "Dedalus Labs builds persistent compute for AI agents. Our flagship product, Dedalus Machines, gives agents isolated computers where they can run software, keep files and state, and do useful work over time.\r\n\r\nWe build across virtualization, distributed storage, networking, scheduling, and orchestration. Our goal is to make persistent compute dependable and straightforward to use through APIs and developer tools, so developers can build agents that work with real software and maintain a working environment across sessions.",
+    "one_liner": "Persistent computers for AI agents",
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1756399069,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Workflow Automation",
-      "DevOps"
+      "DevOps",
+      "Cloud Computing",
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -53511,47 +53505,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/channel3",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/channel3.json"
-  },
-  {
-    "id": 30696,
-    "name": "GhostEye",
-    "slug": "ghosteye",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e189bef77c95ad81a23c2a379e641dd9f19e141.png",
-    "website": "https://ghosteye.ai",
-    "all_locations": "New York City, NY, USA",
-    "long_description": "We emulate the attacks real adversaries run today: help-desk vishing, deepfaked executives, MFA fatigue, and the payloads that follow. We run them against your people and the controls around them to reveal what is actually exploitable, not what looks compliant. Then we close the gap, retest until the fix holds, and give your leadership the evidence that risk actually went down. From initial access to remediation.",
-    "one_liner": "Your always-on red team.",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1753230986,
-    "tags": [
-      "B2B",
-      "Cybersecurity",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ghosteye",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/ghosteye.json"
   },
   {
     "id": 30698,
@@ -57448,14 +57401,14 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We produce patient-derived cancer datasets for licensing to pharmaceutical and AI companies. Our data comprises matched spatial transcriptomics, H&E and clinical labels. We operate our own laboratory, where samples are processed. Samples are sourced from leading biobank / hospital networks.\r\n\r\nAs R&D workflows increasingly rely on frontier AI systems, we believe there is critical need for real world datapoints so that findings translate in the clinic.",
     "one_liner": "AI and Data for Cancer Therapeutics",
-    "team_size": 4,
+    "team_size": 8,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Drug Discovery and Delivery",
     "launched_at": 1770167044,
     "tags": [
       "AI-powered Drug Discovery",
-      "Biotech",
-      "AI"
+      "Artificial Intelligence",
+      "Biotech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -59242,7 +59195,7 @@
     "all_locations": "London, England, United Kingdom",
     "long_description": "Balance is an AI accounting firm that helps SMBs close their monthly books. Our agents do the work of an in-house finance hire, reconciling books in real time and flagging issues before they become problems.",
     "one_liner": "Full-Stack AI Accounting",
-    "team_size": 4,
+    "team_size": 20,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1768976472,
@@ -59652,6 +59605,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/regbase",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/regbase.json"
+  },
+  {
+    "id": 31285,
+    "name": "Brumby (Formerly GrazeMate)",
+    "slug": "brumby",
+    "former_names": [
+      "GrazeMate"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e7f64c3261f306e1859d503d40ad84601c127c82.png",
+    "website": "https://brumby",
+    "all_locations": "Sydney, NSW, Australia",
+    "long_description": "Brumby builds autonomous drones that herd cattle.\r\n\r\nOn command, our drones fly to a paddock, position themselves around the mob, and move them where they need to go. What used to take a full day of helicopters, motorbikes, and horses now runs on a schedule.\r\n\r\nWe work with some of the largest cattle ranches in the world. While the drones are herding, they're also estimating animal weights, measuring grass biomass, monitoring water levels, and flagging sick animals. We're building physical AI that lets a grazier manage thousands of head across millions of acres from their phone.",
+    "one_liner": "Robot Cowboys that Herd Cattle with AI Drones",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Agriculture",
+    "launched_at": 1768433444,
+    "tags": [
+      "Reinforcement Learning",
+      "Drones",
+      "Computer Vision",
+      "Agriculture"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Agriculture"
+    ],
+    "regions": [
+      "Australia",
+      "Oceania",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/brumby",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/brumby.json"
   },
   {
     "id": 31292,
@@ -61942,6 +61941,45 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/edgerun.json"
   },
   {
+    "id": 31584,
+    "name": "CONUS",
+    "slug": "conus",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8edd99606159933b27bd8c7f3992e7ad9e5b4dea.png",
+    "website": "https://www.conus-med.com",
+    "all_locations": "Cologne, NRW, Germany",
+    "long_description": "CONUS is the AI knowledge layer for surgery, connecting medical device manufacturers with hospitals. We bring product information, hospital protocols and medical research together, helping doctors and sales reps find answers in seconds.\r\n\r\nWe already work with leading manufacturers including Johnson & Johnson, Stryker and Zimmer Biomet. Our long-term ambition is to let hospitals select and order implants from all manufacturers on one platform: Amazon for implants, embedded in the surgical workflow.",
+    "one_liner": "The AI knowledge layer for medical devices",
+    "team_size": 3,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1790675017,
+    "tags": [
+      "Artificial Intelligence",
+      "Healthcare"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "Germany",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/conus",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/conus.json"
+  },
+  {
     "id": 31858,
     "name": "Torus",
     "slug": "torus",
@@ -62290,7 +62328,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd8594643506090563d23eac2d8bee3b9c1e526f.png",
     "website": "https://joinmarble.ai/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "New York City, NY, USA",
     "long_description": "Marble is the first AI-native operating system for the restaurant back-of-house. \r\n\r\nRestaurants, cafes and bars still run on a patchwork of disconnected point solutions, spreadsheets, clipboards and tribal knowledge, which costs the industry billions each year in stockouts, food waste, and lost profit. \r\n\r\nMarble replaces that entire stack with one system. Computer vision and voice AI capture real-time inventory levels 90% faster than manual counts, ML models forecast item-level demand at 97% accuracy, and AI agents run dozens of end-to-end workflows autonomously, from procurement and invoice reconciliation to scheduling, food prep, menu engineering, and more.",
     "one_liner": "The autonomous back-of-house for restaurants.",
     "team_size": 2,
@@ -63086,6 +63124,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/simantic",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/simantic.json"
+  },
+  {
+    "id": 34134,
+    "name": "Moda",
+    "slug": "moda-2",
+    "former_names": [
+      "moda.app"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1693e94e6d5a17016b287d6917bdefebbef1d367.png",
+    "website": "",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "",
+    "one_liner": "Fully editable slides, designs and video.",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1790709958,
+    "tags": [
+      "AI-Enhanced Learning",
+      "Design",
+      "Sales",
+      "Video",
+      "Marketing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/moda-2",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/moda-2.json"
   },
   {
     "id": 34365,

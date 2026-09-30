@@ -1193,14 +1193,14 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We produce patient-derived cancer datasets for licensing to pharmaceutical and AI companies. Our data comprises matched spatial transcriptomics, H&E and clinical labels. We operate our own laboratory, where samples are processed. Samples are sourced from leading biobank / hospital networks.\r\n\r\nAs R&D workflows increasingly rely on frontier AI systems, we believe there is critical need for real world datapoints so that findings translate in the clinic.",
     "one_liner": "AI and Data for Cancer Therapeutics",
-    "team_size": 4,
+    "team_size": 8,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Drug Discovery and Delivery",
     "launched_at": 1770167044,
     "tags": [
       "AI-powered Drug Discovery",
-      "Biotech",
-      "AI"
+      "Artificial Intelligence",
+      "Biotech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6128,7 +6128,7 @@
     "all_locations": "London, England, United Kingdom",
     "long_description": "Balance is an AI accounting firm that helps SMBs close their monthly books. Our agents do the work of an in-house finance hire, reconciling books in real time and flagging issues before they become problems.",
     "one_liner": "Full-Stack AI Accounting",
-    "team_size": 4,
+    "team_size": 20,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1768976472,
@@ -7094,27 +7094,26 @@
   },
   {
     "id": 31276,
-    "name": "Ritivel",
-    "slug": "ritivel",
+    "name": "TensorTest",
+    "slug": "tensortest",
     "former_names": [
       "Ritivel",
-      "ritivel"
+      "ritivel",
+      "Ritivel"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/20339e5cb76cdfb65db692fb1ab38e8c6f710609.png",
-    "website": "https://www.ritivel.com",
-    "all_locations": "Bengaluru, KA, India",
-    "long_description": "Ritivel is an AI-native workspace for regulatory and medical writing teams at life sciences companies. Our AI agents draft CTDs, CSRs, INDs, and BLAs in minutes instead of weeks, helping drugs reach patients faster.\r\n\r\nEvery month a drug is delayed from reaching the market costs pharma companies ~$45M in lost revenue and more importantly, delays treatment for thousands of patients who need it. Yet regulatory teams are stuck in a painful, months-long process: synthesizing thousands of pages of clinical data, hunting through SharePoint folders for the right documents, chasing colleagues for missing inputs, and manually drafting submissions.\r\n\r\nRitivel deploys AI agents that transform how regulatory teams work. Our agents generate comprehensive first drafts directly in Microsoft Word, following FDA formatting requirements and pulling from your existing clinical data and prior submissions. Every data point includes citations linked back to the original source, so reviewers can verify with one click. Connected to SharePoint and Veeva, our agents automatically source the right documents. Integrated with Outlook, they handle reminder emails and follow-ups automatically.\r\n\r\nWe're engineers who previously built AI copilots at Microsoft Research. After 50+ conversations with pharma professionals, we discovered the critical bottleneck in regulatory submissions and built Ritivel to solve it. ",
-    "one_liner": "AI-native platform for Life-Sciences Documentation ",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/93d28967db9fc99eca39bf1e1c109e9fdfea90d7.png",
+    "website": "https://www.tensortest.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "TensorTest (formerly Ritivel) builds evaluations, reinforcement-learning environments, and expert training data for AI labs developing creative agents, starting with video editing.\r\n\r\nAn agent can produce a valid video file without delivering an edit that meets the client’s brief. Labs need reliable ways to measure creative quality, identify failures, and give agents feedback they can learn from.\r\n\r\nOur first benchmark, TimelineBench, gives agents client video-editing jobs with raw footage, audio, and a brief. It evaluates the finished work using a verifier calibrated on thousands of blind judgments from professional editors. Across 16 agents we tested, the best passed only 26.8% of jobs. Most failures came down to creative craft rather than broken output.\r\n\r\nWe offer labs private evaluations to identify where their models fail, training environments that use our verifier’s scores as rewards, and expert-created training data, including professional editing demonstrations, preference pairs, and grading rubrics. These offerings connect evaluation to training: identify what an agent gets wrong, provide feedback on its attempts, and supply examples of better work.\r\n\r\nOur team comes from IIT Bombay and has trained language models and built agentic systems at Microsoft Research.",
+    "one_liner": "Evals, RL environments and training data for creative tasks",
     "team_size": 3,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
+    "industry": "B2B",
+    "subindustry": "B2B",
     "launched_at": 1768402832,
     "tags": [
-      "Generative AI",
-      "Compliance",
-      "Enterprise Software",
-      "Regtech",
-      "Biotechnology"
+      "Artificial Intelligence",
+      "B2B",
+      "Data Labeling"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7123,20 +7122,19 @@
     "batch": "Winter 2026",
     "status": "Active",
     "industries": [
-      "Healthcare",
-      "Healthcare IT"
+      "B2B"
     ],
     "regions": [
-      "India",
-      "South Asia"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ritivel",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/ritivel.json"
+    "url": "https://www.ycombinator.com/companies/tensortest",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/tensortest.json"
   },
   {
     "id": 31278,
@@ -7321,7 +7319,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2026",
     "status": "Active",
