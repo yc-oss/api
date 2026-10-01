@@ -24552,7 +24552,7 @@
     "all_locations": "New York City, NY, USA",
     "long_description": "Stardex is an AI native ATS and CRM executive firms and professional recruiting firms. We are AI first designed specifically for modern recruiting firms. It has a powerful client collaboration feature that helps you execute searches faster with clients. It also streamlines your searches by automating repetitive tasks, allowing you to dedicate more time to building meaningful relationships.﻿",
     "one_liner": "AI native ATS + CRM for executive search firms",
-    "team_size": 6,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1627928818,
@@ -32223,7 +32223,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9319d5ef3419cc17f12a1fb2910035be736adcb4.png",
     "website": "https://www.blitznocode.com/",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "Porto, Porto District, Portugal; Remote",
     "long_description": "Blitz is a no-code platform to build internal applications and automate manual tasks. Quickly build a database, integrate your logic, and scale your operations. \r\n\r\nAlternative to Google Sheet and Airtable, Blitz is not limited by a number of lines of records or by an API rate. \r\n\r\nCreate your data model and set up data validation rules. Use our interface builder to create dynamic forms, and quickly onboard customer and partners. Leverage our granular permissions to share data to external users (publicly or privately). Add advanced business logic to your forms and portals, without writing any line of code. The experience is similar to creating spreadsheets, but without their limitations in terms of scalability and security. \r\n\r\nYou can use Blitz to build an onboarding flow, an order management system or some validation workflows for compliance purposes. \r\n\r\nStop using developer resources or rigid SaaS software. Start building your own tools, adapted to your needs, with Blitz. ",
     "one_liner": "Lovable for non-tech users: Build no-code internal and customer apps",
     "team_size": 4,
@@ -32248,8 +32248,8 @@
       "Operations"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "Portugal",
+      "Europe",
       "Remote",
       "Fully Remote"
     ],
@@ -35767,8 +35767,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/428feb2a5e495458be88abd1793ebca289d4798b.png",
     "website": "http://www.omnistrate.com",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Omnistrate is a cloud platform to SaaS-ify your docker image in minutes instead of years.\r\n\r\nLet’s say you have an open-source software, and you want to monetize your invention by building a multi-cloud SaaS solution. You can either spend years doing it yourself or use Omnistrate to do it in no time.\r\n\r\nGet started today by simply importing your existing docker-compose.\r\n",
-    "one_liner": "Transform any software to multi-cloud SaaS in minutes not years",
+    "long_description": "Omnistrate helps software companies to build their own private-label control plane to deliver your product as vendor-hosted SaaS, inside customer cloud accounts/VPCs/Kubernetes clusters, on-premises, in air-gapped environments, and through cloud marketplaces.",
+    "one_liner": "Build your control plane to deploy your product in your customer VPC…",
     "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -35850,31 +35850,32 @@
   },
   {
     "id": 27820,
-    "name": "infra.new",
-    "slug": "infranew",
+    "name": "LaunchFlow",
+    "slug": "launchflow",
     "former_names": [
       "FlowState",
       "Inlet",
       "launchflow",
       "LaunchFlow",
       "infra.new",
-      "LaunchFlow / infra.new"
+      "LaunchFlow / infra.new",
+      "infra.new"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ba2bf3c743512b0b3cda71e1f81a113f9c1c05c.png",
-    "website": "https://infra.new",
+    "website": "https://www.launchflow.com/",
     "all_locations": "Remote",
-    "long_description": "Our AI agent helps teams save money and ship faster on AWS, GCP, and Azure.\r\n\r\nVisit infra.new to try free without signing up!\r\n\r\n- Generate reliable cloud configuration\r\n- View detailed cost estimates and system diagrams\r\n- Optimize everything with AI",
-    "one_liner": "AI Agent for Cloud Infrastructure",
-    "team_size": 3,
+    "long_description": "Still cooking...\r\n\r\nReach out to josh@launchflow.com if you'd like early access.",
+    "one_liner": "Collaborative workspace for internal tools and agents",
+    "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
+    "subindustry": "B2B -> Operations",
     "launched_at": 1675872738,
     "tags": [
       "Artificial Intelligence",
-      "Developer Tools",
       "SaaS",
       "B2B",
-      "Cloud Computing"
+      "Operations",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -35884,7 +35885,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Infrastructure"
+      "Operations"
     ],
     "regions": [
       "Remote",
@@ -35895,8 +35896,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/infranew",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/infranew.json"
+    "url": "https://www.ycombinator.com/companies/launchflow",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/launchflow.json"
   },
   {
     "id": 27824,
@@ -42425,16 +42426,17 @@
   },
   {
     "id": 29748,
-    "name": "Seals AI",
-    "slug": "seals-ai",
+    "name": "Titanio",
+    "slug": "titanio",
     "former_names": [
-      "Talk To Users AI"
+      "Talk To Users AI",
+      "Seals AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cfde4ebc7296b1d61f754907f5cf5a9a1f8fe26d.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b929e31ab64052ab433ff5445d5704e41934381.png",
     "website": "https://www.titanio.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Seals is a suite of AI Employees for Wholesalers & Distributors. Instead of relying on humans to quote, take orders, collect payments, place purchase orders and enter data into ERPs. We build AI Employees that do these manual repetitive tasks for the 700k wholesalers in the US.\r\n\r\nWe’re a team of three Computer Science majors, and Fernando launched and grew AT&T in Mexico to $120M ARR. Previously, we all worked together at our last YC-backed startup, building it to over $6M in revenue. It was there that we placed thousands of purchase orders with wholesalers.\r\n\r\nWe realized that almost every physical product comes from B2B sales in the supply chain. However, it turns out that most of these operations are still done manually through phone and email, involving tasks like quoting, taking orders, collecting payments, entering data into ERPs, and providing support. By automating these tasks with AI agents in a human-like manner, we are creating a massive opportunity to convert $100B of payroll expenses into software spending.\r\n",
-    "one_liner": "AI Employees for Wholesalers & Distributors",
+    "long_description": "Titanio is a suite of AI Employees for Wholesalers & Distributors. Instead of relying on humans to quote, take orders, collect payments, place purchase orders and enter data into ERPs. We build AI Employees that do these manual repetitive tasks for the 700k wholesalers in the US.\r\n\r\nWe’re a team of three Computer Science majors, and Fernando launched and grew AT&T in Mexico to $120M ARR. Previously, we all worked together at our last YC-backed startup, building it to over $6M in revenue. It was there that we placed thousands of purchase orders with wholesalers.\r\n\r\nWe realized that almost every physical product comes from B2B sales in the supply chain. However, it turns out that most of these operations are still done manually through phone and email, involving tasks like quoting, taking orders, collecting payments, entering data into ERPs, and providing support. By automating these tasks with AI agents in a human-like manner, we are creating a massive opportunity to convert $100B of payroll expenses into software spending.\r\n",
+    "one_liner": "AI Employees for Distributors",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -42464,8 +42466,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/seals-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/seals-ai.json"
+    "url": "https://www.ycombinator.com/companies/titanio",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/titanio.json"
   },
   {
     "id": 29750,
@@ -47663,18 +47665,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b1348d79301216902dfdfa731a133bfa809b1447.png",
     "website": "https://www.enjamb.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "I run Enjamb. We've worked with 130 life science companies, preclinical through phase 3, to deploy AI securely inside the systems they already work in.\r\n\r\nPharma runs on decades of closed software like Benchling, Veeva, Medidata, and SAS. None of it has an AI layer or speaks MCP, so agents cannot reach the systems where the work lives.\r\n\r\nEnjamb is that layer. Our agents run on top of existing systems and data, with no migration, and they reach the lab systems and internal tools no other AI touches. They learn how a team works, then do the work in Slack, in Teams, and in the systems themselves, across preclinical research, clinical evidence, trial design, statistical programming, and regulatory submissions.\r\n\r\nThis is AI tailored for how medicine gets made.",
+    "long_description": "We've worked with 130 life science companies, preclinical through phase 3, to deploy AI securely inside the systems they already work in.\r\n\r\nPharma runs on decades of closed software like Benchling, Veeva, Medidata, and SAS. None of it has an AI layer or speaks MCP, so agents cannot reach the systems where the work lives.\r\n\r\nEnjamb is that layer. Our agents run on top of existing systems and data, with no migration, and they reach the lab systems and internal tools no other AI touches. They learn how a team works, then do the work in Slack, in Teams, and in the systems themselves, across preclinical research, clinical evidence, trial design, statistical programming, and regulatory submissions.\r\n\r\nThis is AI tailored for how medicine gets made.",
     "one_liner": "The AI Workforce for Biopharma",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1779929226,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Biotech",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

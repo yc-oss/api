@@ -3009,7 +3009,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -25059,7 +25059,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9319d5ef3419cc17f12a1fb2910035be736adcb4.png",
     "website": "https://www.blitznocode.com/",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "Porto, Porto District, Portugal; Remote",
     "long_description": "Blitz is a no-code platform to build internal applications and automate manual tasks. Quickly build a database, integrate your logic, and scale your operations. \r\n\r\nAlternative to Google Sheet and Airtable, Blitz is not limited by a number of lines of records or by an API rate. \r\n\r\nCreate your data model and set up data validation rules. Use our interface builder to create dynamic forms, and quickly onboard customer and partners. Leverage our granular permissions to share data to external users (publicly or privately). Add advanced business logic to your forms and portals, without writing any line of code. The experience is similar to creating spreadsheets, but without their limitations in terms of scalability and security. \r\n\r\nYou can use Blitz to build an onboarding flow, an order management system or some validation workflows for compliance purposes. \r\n\r\nStop using developer resources or rigid SaaS software. Start building your own tools, adapted to your needs, with Blitz. ",
     "one_liner": "Lovable for non-tech users: Build no-code internal and customer apps",
     "team_size": 4,
@@ -25084,8 +25084,8 @@
       "Operations"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "Portugal",
+      "Europe",
       "Remote",
       "Fully Remote"
     ],
@@ -29544,8 +29544,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/428feb2a5e495458be88abd1793ebca289d4798b.png",
     "website": "http://www.omnistrate.com",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Omnistrate is a cloud platform to SaaS-ify your docker image in minutes instead of years.\r\n\r\nLet’s say you have an open-source software, and you want to monetize your invention by building a multi-cloud SaaS solution. You can either spend years doing it yourself or use Omnistrate to do it in no time.\r\n\r\nGet started today by simply importing your existing docker-compose.\r\n",
-    "one_liner": "Transform any software to multi-cloud SaaS in minutes not years",
+    "long_description": "Omnistrate helps software companies to build their own private-label control plane to deliver your product as vendor-hosted SaaS, inside customer cloud accounts/VPCs/Kubernetes clusters, on-premises, in air-gapped environments, and through cloud marketplaces.",
+    "one_liner": "Build your control plane to deploy your product in your customer VPC…",
     "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -29673,31 +29673,32 @@
   },
   {
     "id": 27820,
-    "name": "infra.new",
-    "slug": "infranew",
+    "name": "LaunchFlow",
+    "slug": "launchflow",
     "former_names": [
       "FlowState",
       "Inlet",
       "launchflow",
       "LaunchFlow",
       "infra.new",
-      "LaunchFlow / infra.new"
+      "LaunchFlow / infra.new",
+      "infra.new"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ba2bf3c743512b0b3cda71e1f81a113f9c1c05c.png",
-    "website": "https://infra.new",
+    "website": "https://www.launchflow.com/",
     "all_locations": "Remote",
-    "long_description": "Our AI agent helps teams save money and ship faster on AWS, GCP, and Azure.\r\n\r\nVisit infra.new to try free without signing up!\r\n\r\n- Generate reliable cloud configuration\r\n- View detailed cost estimates and system diagrams\r\n- Optimize everything with AI",
-    "one_liner": "AI Agent for Cloud Infrastructure",
-    "team_size": 3,
+    "long_description": "Still cooking...\r\n\r\nReach out to josh@launchflow.com if you'd like early access.",
+    "one_liner": "Collaborative workspace for internal tools and agents",
+    "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
+    "subindustry": "B2B -> Operations",
     "launched_at": 1675872738,
     "tags": [
       "Artificial Intelligence",
-      "Developer Tools",
       "SaaS",
       "B2B",
-      "Cloud Computing"
+      "Operations",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -29707,7 +29708,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Infrastructure"
+      "Operations"
     ],
     "regions": [
       "Remote",
@@ -29718,8 +29719,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/infranew",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/infranew.json"
+    "url": "https://www.ycombinator.com/companies/launchflow",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/launchflow.json"
   },
   {
     "id": 27821,
@@ -35011,7 +35012,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -37151,18 +37152,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/156a31d542f37c25abdebb50a956a376276e0f5b.png",
     "website": "https://withoverheard.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Overheard is an AI product researcher. Tell it what you're deciding, and it designs the study, interviews your users by voice, and comes back with an answer backed by what they actually said, with every finding linked to the quotes behind it.\r\n\r\nTeams at fast-growing software companies make product calls every week, often without talking to users, because real research takes weeks. Overheard gets them an answer in days, so they ship the right thing sooner.",
-    "one_liner": "An AI product researcher that interviews your users.",
+    "long_description": "Overheard is how product teams talk to their users. Understand your customers one at a time, all at once. Tell it what you're deciding, and it designs the study, interviews your users by voice, and comes back with an answer backed by what they actually said, with every finding linked to the quotes behind it.\r\n\r\nTeams at fast-growing software companies make product calls every week, often without talking to users, because real research takes weeks. Overheard gets them an answer in days, so they ship the right thing sooner.",
+    "one_liner": "AI-led user interviews for product teams.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1711038198,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Productivity",
       "Design",
-      "Market Research",
-      "AI"
+      "Market Research"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -38818,16 +38819,17 @@
   },
   {
     "id": 29748,
-    "name": "Seals AI",
-    "slug": "seals-ai",
+    "name": "Titanio",
+    "slug": "titanio",
     "former_names": [
-      "Talk To Users AI"
+      "Talk To Users AI",
+      "Seals AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cfde4ebc7296b1d61f754907f5cf5a9a1f8fe26d.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b929e31ab64052ab433ff5445d5704e41934381.png",
     "website": "https://www.titanio.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Seals is a suite of AI Employees for Wholesalers & Distributors. Instead of relying on humans to quote, take orders, collect payments, place purchase orders and enter data into ERPs. We build AI Employees that do these manual repetitive tasks for the 700k wholesalers in the US.\r\n\r\nWe’re a team of three Computer Science majors, and Fernando launched and grew AT&T in Mexico to $120M ARR. Previously, we all worked together at our last YC-backed startup, building it to over $6M in revenue. It was there that we placed thousands of purchase orders with wholesalers.\r\n\r\nWe realized that almost every physical product comes from B2B sales in the supply chain. However, it turns out that most of these operations are still done manually through phone and email, involving tasks like quoting, taking orders, collecting payments, entering data into ERPs, and providing support. By automating these tasks with AI agents in a human-like manner, we are creating a massive opportunity to convert $100B of payroll expenses into software spending.\r\n",
-    "one_liner": "AI Employees for Wholesalers & Distributors",
+    "long_description": "Titanio is a suite of AI Employees for Wholesalers & Distributors. Instead of relying on humans to quote, take orders, collect payments, place purchase orders and enter data into ERPs. We build AI Employees that do these manual repetitive tasks for the 700k wholesalers in the US.\r\n\r\nWe’re a team of three Computer Science majors, and Fernando launched and grew AT&T in Mexico to $120M ARR. Previously, we all worked together at our last YC-backed startup, building it to over $6M in revenue. It was there that we placed thousands of purchase orders with wholesalers.\r\n\r\nWe realized that almost every physical product comes from B2B sales in the supply chain. However, it turns out that most of these operations are still done manually through phone and email, involving tasks like quoting, taking orders, collecting payments, entering data into ERPs, and providing support. By automating these tasks with AI agents in a human-like manner, we are creating a massive opportunity to convert $100B of payroll expenses into software spending.\r\n",
+    "one_liner": "AI Employees for Distributors",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -38857,8 +38859,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/seals-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/seals-ai.json"
+    "url": "https://www.ycombinator.com/companies/titanio",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/titanio.json"
   },
   {
     "id": 29749,
@@ -40141,6 +40143,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/formula-insight",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/formula-insight.json"
+  },
+  {
+    "id": 29966,
+    "name": "Mica AI",
+    "slug": "mica-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e4f97e07f6e1a169c14a54417c11eec5688e0c6.png",
+    "website": "https://usemica.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Today, as employees teach AI how to perform valuable company work, the resulting capabilities often remain trapped on individual laptops or scattered across chats and repositories. \r\n\r\nMica gives each company a managed, agent-native internal marketplace where employees can publish capabilities, discover them by describing the task they need help with, and install them through the AI tools they already use. Mica tracks ownership, requirements, permissions, and team customizations while letting employees contribute improvements back to the shared version for evaluation and approval.\r\n\r\nThe result: employees stop rebuilding workflows their coworkers have already solved, useful improvements spread across the organization without overwriting team-specific customizations, and security gains visibility without blocking bottom-up innovation. Mica turns scattered AI work into institutional knowledge that compounds.",
+    "one_liner": "Turn employees' AI skills into shared company infrastructure",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1720831958,
+    "tags": [
+      "Artificial Intelligence",
+      "Marketplace",
+      "B2B",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mica-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/mica-ai.json"
   },
   {
     "id": 29969,
@@ -47801,7 +47846,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/af6cfe1f95da6fb2bfc1789fb605ed70b77da3b4.png",
     "website": "https://expanse.sh",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "London, England, United Kingdom",
     "long_description": "Expanse unlocks wasted GPU capacity. We recover idle compute through three capabilities: resource prediction (right-sizing job submissions before they reach the scheduler), optimisation suggestions (code and config changes researchers can apply themselves), and failure prediction (catching jobs that will fail before they consume hours of GPU time).\r\n\r\nWe’re four engineers. We ran HPC and GPU training workloads at the largest quant funds and national supercomputing centres. We faced this problem first hand and the only fix was to over-provision and burn millions. Ismaeel built the first multimodal HPC resource predictor as research at EPCC (Edinburgh’s Parallel Computing Centre), which beat every published baseline. This is the tool we wish we had.",
     "one_liner": "Unlock wasted GPU capacity.",
     "team_size": 4,
@@ -47825,8 +47870,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "United Kingdom",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -47844,16 +47889,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37b7a4d126859b0a7edce4eaee5984ecd6f85757.png",
     "website": "https://revnu.com",
     "all_locations": "Manchester, England, United Kingdom",
-    "long_description": "Revnu is your AI growth team. Built to run your whole GTM while you focus on building, Revnu is the best way to grow with AI. \r\n\r\nOur agents run every growth channel: outbound, ads, SEO, social, etc all on one shared intelligence, so learnings from one channel automatically improve all the others.\r\n\r\nYou keep shipping. We run the business.\r\n",
-    "one_liner": "The growth infrastructure for the autonomous business",
-    "team_size": 2,
+    "long_description": "Revnu does the growth work founders never get round to. Connect your tools and it researches buyers, prepares outreach, runs ads and publishes search content. It watches the results and uses what it learns across every channel. You approve the work that needs your judgment and hear what moved every morning. You build. We grow.",
+    "one_liner": "Your AI growth hire.",
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1776869663,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Advertising",
-      "AI"
+      "Advertising"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47888,18 +47933,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b1348d79301216902dfdfa731a133bfa809b1447.png",
     "website": "https://www.enjamb.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "I run Enjamb. We've worked with 130 life science companies, preclinical through phase 3, to deploy AI securely inside the systems they already work in.\r\n\r\nPharma runs on decades of closed software like Benchling, Veeva, Medidata, and SAS. None of it has an AI layer or speaks MCP, so agents cannot reach the systems where the work lives.\r\n\r\nEnjamb is that layer. Our agents run on top of existing systems and data, with no migration, and they reach the lab systems and internal tools no other AI touches. They learn how a team works, then do the work in Slack, in Teams, and in the systems themselves, across preclinical research, clinical evidence, trial design, statistical programming, and regulatory submissions.\r\n\r\nThis is AI tailored for how medicine gets made.",
+    "long_description": "We've worked with 130 life science companies, preclinical through phase 3, to deploy AI securely inside the systems they already work in.\r\n\r\nPharma runs on decades of closed software like Benchling, Veeva, Medidata, and SAS. None of it has an AI layer or speaks MCP, so agents cannot reach the systems where the work lives.\r\n\r\nEnjamb is that layer. Our agents run on top of existing systems and data, with no migration, and they reach the lab systems and internal tools no other AI touches. They learn how a team works, then do the work in Slack, in Teams, and in the systems themselves, across preclinical research, clinical evidence, trial design, statistical programming, and regulatory submissions.\r\n\r\nThis is AI tailored for how medicine gets made.",
     "one_liner": "The AI Workforce for Biopharma",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1779929226,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Biotech",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48329,7 +48374,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2026",
     "status": "Active",
@@ -50383,7 +50428,7 @@
     "slug": "tilion",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/119cb04a763e823c00332f94249a1f95dc277724.png",
-    "website": "https://tilion.dev",
+    "website": "https://tilion.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "we build self-healing browser infrastructure that runs millions of agent operations a day without supervision. \r\n\r\nteams use it for large-scale data collection, agentic workflows, continuous monitoring, and anything else that requires acting on the web at volume.\r\n",
     "one_liner": "Super fast, unblockable browser infra for agents",
@@ -50468,7 +50513,7 @@
     "slug": "lark-2",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/658417946c5809d1681eb90f9636442c2526cc5c.png",
-    "website": "https://trylark.ai",
+    "website": "https://larkagents.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Lark builds specialized AI agents that automate manual workflows for wholesale distributors. Our agents work with existing ERP systems, learning from each distributor’s historical data and the team’s decisions. Together, these agents can run a distributor’s entire operation.",
     "one_liner": "Lark - Specialized agents for wholesale distributors",
@@ -50477,9 +50522,9 @@
     "subindustry": "Industrials",
     "launched_at": 1789595493,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Supply Chain"
+      "Supply Chain",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

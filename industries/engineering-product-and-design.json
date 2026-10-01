@@ -3115,7 +3115,7 @@
     "former_names": [],
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "https://quiltdata.com",
-    "all_locations": "Kihei, HI, USA; San Francisco, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "We realized that S3 is kind of like \"git for data\" and have created services that make S3 function as a data hub for teams. Quilt consists of a Python Client, a web catalog for browsing and visualizing S3, and a CloudFormation backend for compute and identity management.",
     "one_liner": "Quilt manages data like code so that companies can experiment faster",
     "team_size": 6,
@@ -7104,6 +7104,44 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2020/infield.json"
   },
   {
+    "id": 13210,
+    "name": "Reframe",
+    "slug": "reframe-2",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/880705b835d5a12c59be031e53d0493e21e5b49c.png",
+    "website": "https://reframe.dev/",
+    "all_locations": "",
+    "long_description": "Shutdown to pursue fundamental computing research",
+    "one_liner": "Zoomable generative UI for codebase architecture",
+    "team_size": 0,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1790739463,
+    "tags": [
+      "Developer Tools"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2020",
+    "status": "Inactive",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/reframe-2",
+    "api": "https://yc-oss.github.io/api/batches/winter-2020/reframe-2.json"
+  },
+  {
     "id": 13211,
     "name": "Metaplane",
     "slug": "metaplane",
@@ -9339,7 +9377,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2021",
     "status": "Active",
@@ -17773,18 +17811,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/156a31d542f37c25abdebb50a956a376276e0f5b.png",
     "website": "https://withoverheard.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Overheard is an AI product researcher. Tell it what you're deciding, and it designs the study, interviews your users by voice, and comes back with an answer backed by what they actually said, with every finding linked to the quotes behind it.\r\n\r\nTeams at fast-growing software companies make product calls every week, often without talking to users, because real research takes weeks. Overheard gets them an answer in days, so they ship the right thing sooner.",
-    "one_liner": "An AI product researcher that interviews your users.",
+    "long_description": "Overheard is how product teams talk to their users. Understand your customers one at a time, all at once. Tell it what you're deciding, and it designs the study, interviews your users by voice, and comes back with an answer backed by what they actually said, with every finding linked to the quotes behind it.\r\n\r\nTeams at fast-growing software companies make product calls every week, often without talking to users, because real research takes weeks. Overheard gets them an answer in days, so they ship the right thing sooner.",
+    "one_liner": "AI-led user interviews for product teams.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1711038198,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Productivity",
       "Design",
-      "Market Research",
-      "AI"
+      "Market Research"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -18424,10 +18462,10 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/63f48bd5017efb50e1fd3bcb1bd32b4b6a0147e3.png",
     "website": "https://hamming.ai/",
-    "all_locations": "Austin, TX, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Hamming AI is the complete QA platform for voice agents from pre-deployment testing to production monitoring. \r\n\r\n4M+ calls tested. 10K+ agents monitored. Trusted by public companies and the fastest-growing voice AI teams.\r\n\r\nConnect your agent, auto-generate test scenarios, and run thousands of test calls in minutes. In production, monitor every call with 50+ built-in metrics and get alerts before customers notice.\r\n\r\nSumanyu (CEO) was previously Head of Data at Citizen and Senior Staff Data Scientist at Tesla, where he grew AI-powered sales to hundreds of millions in revenue per year. \r\n\r\nOur engineering team ranks #1 on Weave (https://workweave.ai) across 10,000+ engineers and 100+ teams.",
     "one_liner": "Complete QA platform for voice agents",
-    "team_size": 8,
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1715007777,
@@ -18444,7 +18482,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -20266,7 +20306,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2024",
     "status": "Active",
@@ -23162,8 +23202,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9292b62c58dc81055b437ce647dc7c3ea10ffc5c.png",
     "website": "https://magnitude.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Magnitude runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
-    "one_liner": "Open source inference server for local models",
+    "long_description": "Magnitude is an open source inference engine for agents that optimizes itself for your exact hardware. It compiles and tunes its kernels on your device, so open models run up to 2x faster than llama.cpp. One click connects the agent you already use (Pi, OpenCode, Hermes, Codex, and more). Works on Apple Silicon, NVIDIA, AMD, or just a CPU.",
+    "one_liner": "Run open models as fast as your hardware allows",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -24509,7 +24549,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bac15cb365c68f8004b888ffdda5946e5ec65b76.png",
     "website": "https://www.fastshot.ai/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Thessaloniki, Greece",
     "long_description": "Fastshot is a no-code mobile development platform.\r\nOur mission is to \"Democratize mobile app creation with AI\"\r\nAnyone can develop a mobile app from idea to App Stores within minutes just by chatting with AI. Start at https://fastshot.ai/ai-app-builder\r\n\r\n",
     "one_liner": "Lovable for mobile apps",
     "team_size": 3,
@@ -24533,8 +24573,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Greece",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -25044,11 +25084,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1767637338,
     "tags": [
-      "Artificial Intelligence",
       "Hard Tech",
       "Enterprise",
       "Enterprise Software",
-      "Semiconductors"
+      "Semiconductors",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -26469,7 +26509,7 @@
     "slug": "simantic",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12eef74104b6e57636a6f0d2305e3a2d18d5c2e5.png",
-    "website": "https://simantic.dev",
+    "website": "https://simantic.com",
     "all_locations": "Waterloo, ON, Canada",
     "long_description": "Simantic is modernizing the embedded firmware industry with hardware simulation developed for the adoption of AI in hardware engineering. Simantic gives both humans and AI the visibility into hardware previously limited by the physical world.",
     "one_liner": "Firmware simulation for AI agents",
@@ -26478,11 +26518,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1782327485,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Hardware",
       "Semiconductors",
-      "Electronics",
-      "AI"
+      "Electronics"
     ],
     "tags_highlighted": [],
     "top_company": false,

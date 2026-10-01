@@ -1683,7 +1683,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2011",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Legal"
@@ -18491,7 +18491,7 @@
     "former_names": [],
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "https://quiltdata.com",
-    "all_locations": "Kihei, HI, USA; San Francisco, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "We realized that S3 is kind of like \"git for data\" and have created services that make S3 function as a data hub for teams. Quilt consists of a Python Client, a web catalog for browsing and visualizing S3, and a CloudFormation backend for compute and identity management.",
     "one_liner": "Quilt manages data like code so that companies can experiment faster",
     "team_size": 6,
@@ -21515,7 +21515,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -36651,6 +36651,44 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2020/scout.json"
   },
   {
+    "id": 13210,
+    "name": "Reframe",
+    "slug": "reframe-2",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/880705b835d5a12c59be031e53d0493e21e5b49c.png",
+    "website": "https://reframe.dev/",
+    "all_locations": "",
+    "long_description": "Shutdown to pursue fundamental computing research",
+    "one_liner": "Zoomable generative UI for codebase architecture",
+    "team_size": 0,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1790739463,
+    "tags": [
+      "Developer Tools"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2020",
+    "status": "Inactive",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/reframe-2",
+    "api": "https://yc-oss.github.io/api/batches/winter-2020/reframe-2.json"
+  },
+  {
     "id": 13211,
     "name": "Metaplane",
     "slug": "metaplane",
@@ -50252,7 +50290,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2021",
     "status": "Active",
@@ -55423,7 +55461,7 @@
     "all_locations": "New York City, NY, USA",
     "long_description": "Stardex is an AI native ATS and CRM executive firms and professional recruiting firms. We are AI first designed specifically for modern recruiting firms. It has a powerful client collaboration feature that helps you execute searches faster with clients. It also streamlines your searches by automating repetitive tasks, allowing you to dedicate more time to building meaningful relationships.﻿",
     "one_liner": "AI native ATS + CRM for executive search firms",
-    "team_size": 6,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1627928818,
@@ -67816,7 +67854,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9319d5ef3419cc17f12a1fb2910035be736adcb4.png",
     "website": "https://www.blitznocode.com/",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "Porto, Porto District, Portugal; Remote",
     "long_description": "Blitz is a no-code platform to build internal applications and automate manual tasks. Quickly build a database, integrate your logic, and scale your operations. \r\n\r\nAlternative to Google Sheet and Airtable, Blitz is not limited by a number of lines of records or by an API rate. \r\n\r\nCreate your data model and set up data validation rules. Use our interface builder to create dynamic forms, and quickly onboard customer and partners. Leverage our granular permissions to share data to external users (publicly or privately). Add advanced business logic to your forms and portals, without writing any line of code. The experience is similar to creating spreadsheets, but without their limitations in terms of scalability and security. \r\n\r\nYou can use Blitz to build an onboarding flow, an order management system or some validation workflows for compliance purposes. \r\n\r\nStop using developer resources or rigid SaaS software. Start building your own tools, adapted to your needs, with Blitz. ",
     "one_liner": "Lovable for non-tech users: Build no-code internal and customer apps",
     "team_size": 4,
@@ -67841,8 +67879,8 @@
       "Operations"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "Portugal",
+      "Europe",
       "Remote",
       "Fully Remote"
     ],
@@ -74346,8 +74384,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/428feb2a5e495458be88abd1793ebca289d4798b.png",
     "website": "http://www.omnistrate.com",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Omnistrate is a cloud platform to SaaS-ify your docker image in minutes instead of years.\r\n\r\nLet’s say you have an open-source software, and you want to monetize your invention by building a multi-cloud SaaS solution. You can either spend years doing it yourself or use Omnistrate to do it in no time.\r\n\r\nGet started today by simply importing your existing docker-compose.\r\n",
-    "one_liner": "Transform any software to multi-cloud SaaS in minutes not years",
+    "long_description": "Omnistrate helps software companies to build their own private-label control plane to deliver your product as vendor-hosted SaaS, inside customer cloud accounts/VPCs/Kubernetes clusters, on-premises, in air-gapped environments, and through cloud marketplaces.",
+    "one_liner": "Build your control plane to deploy your product in your customer VPC…",
     "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -74600,31 +74638,32 @@
   },
   {
     "id": 27820,
-    "name": "infra.new",
-    "slug": "infranew",
+    "name": "LaunchFlow",
+    "slug": "launchflow",
     "former_names": [
       "FlowState",
       "Inlet",
       "launchflow",
       "LaunchFlow",
       "infra.new",
-      "LaunchFlow / infra.new"
+      "LaunchFlow / infra.new",
+      "infra.new"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ba2bf3c743512b0b3cda71e1f81a113f9c1c05c.png",
-    "website": "https://infra.new",
+    "website": "https://www.launchflow.com/",
     "all_locations": "Remote",
-    "long_description": "Our AI agent helps teams save money and ship faster on AWS, GCP, and Azure.\r\n\r\nVisit infra.new to try free without signing up!\r\n\r\n- Generate reliable cloud configuration\r\n- View detailed cost estimates and system diagrams\r\n- Optimize everything with AI",
-    "one_liner": "AI Agent for Cloud Infrastructure",
-    "team_size": 3,
+    "long_description": "Still cooking...\r\n\r\nReach out to josh@launchflow.com if you'd like early access.",
+    "one_liner": "Collaborative workspace for internal tools and agents",
+    "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
+    "subindustry": "B2B -> Operations",
     "launched_at": 1675872738,
     "tags": [
       "Artificial Intelligence",
-      "Developer Tools",
       "SaaS",
       "B2B",
-      "Cloud Computing"
+      "Operations",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -74634,7 +74673,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Infrastructure"
+      "Operations"
     ],
     "regions": [
       "Remote",
@@ -74645,8 +74684,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/infranew",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/infranew.json"
+    "url": "https://www.ycombinator.com/companies/launchflow",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/launchflow.json"
   },
   {
     "id": 27821,
@@ -87347,7 +87386,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -87453,7 +87492,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/13bc35dc5fca68051b65f9b77d4198acae677418.png",
     "website": "https://tracecat.com",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Tracecat helps AI-native security teams build agents and automate cyber defense. Open source and community driven at it's core: https://github.com/TracecatHQ/tracecat",
+    "long_description": "Tracecat helps AI-native security teams build agents and automate work. All-in-one platform with agents, skills, prompt-to-workflows, and case management. Scale cyber defense with agents you own.\r\n\r\nOpen source and community-driven at it's core: https://github.com/TracecatHQ/tracecat",
     "one_liner": "Open-source agentic security automation platform",
     "team_size": null,
     "industry": "B2B",
@@ -92828,18 +92867,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/156a31d542f37c25abdebb50a956a376276e0f5b.png",
     "website": "https://withoverheard.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Overheard is an AI product researcher. Tell it what you're deciding, and it designs the study, interviews your users by voice, and comes back with an answer backed by what they actually said, with every finding linked to the quotes behind it.\r\n\r\nTeams at fast-growing software companies make product calls every week, often without talking to users, because real research takes weeks. Overheard gets them an answer in days, so they ship the right thing sooner.",
-    "one_liner": "An AI product researcher that interviews your users.",
+    "long_description": "Overheard is how product teams talk to their users. Understand your customers one at a time, all at once. Tell it what you're deciding, and it designs the study, interviews your users by voice, and comes back with an answer backed by what they actually said, with every finding linked to the quotes behind it.\r\n\r\nTeams at fast-growing software companies make product calls every week, often without talking to users, because real research takes weeks. Overheard gets them an answer in days, so they ship the right thing sooner.",
+    "one_liner": "AI-led user interviews for product teams.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1711038198,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Productivity",
       "Design",
-      "Market Research",
-      "AI"
+      "Market Research"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -94590,10 +94629,10 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/63f48bd5017efb50e1fd3bcb1bd32b4b6a0147e3.png",
     "website": "https://hamming.ai/",
-    "all_locations": "Austin, TX, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Hamming AI is the complete QA platform for voice agents from pre-deployment testing to production monitoring. \r\n\r\n4M+ calls tested. 10K+ agents monitored. Trusted by public companies and the fastest-growing voice AI teams.\r\n\r\nConnect your agent, auto-generate test scenarios, and run thousands of test calls in minutes. In production, monitor every call with 50+ built-in metrics and get alerts before customers notice.\r\n\r\nSumanyu (CEO) was previously Head of Data at Citizen and Senior Staff Data Scientist at Tesla, where he grew AI-powered sales to hundreds of millions in revenue per year. \r\n\r\nOur engineering team ranks #1 on Weave (https://workweave.ai) across 10,000+ engineers and 100+ teams.",
     "one_liner": "Complete QA platform for voice agents",
-    "team_size": 8,
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1715007777,
@@ -94610,7 +94649,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -95042,7 +95083,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67133b6c1025c9a5557fc657b87ed61ad2b540c5.png",
     "website": "https://videogen.io",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "VideoGen makes it easy for anyone to create professional, copyright-free videos in seconds. Our AI video generator turns a prompt, script, or article into a finished video, complete with AI voiceover, subtitles, and b-roll, powered by the latest models like Sora, Veo, and Kling. Today, over 5 million users trust VideoGen, from individuals and small businesses to teams at Google and ByteDance.\r\n\r\nMaking videos is hard, time-consuming, and expensive if you hire someone to do it for you. With VideoGen, it only takes a few clicks! Try it at https://videogen.io/, or build video into your own product with our API: https://videogen.io/videogen-api",
+    "long_description": "VideoGen makes it easy for anyone to create professional, copyright-free videos in seconds. Our AI video generator turns a prompt, script, or article into a finished video, complete with AI voiceover, subtitles, and b-roll, powered by the latest models like Seedance, Veo, ElevenLabs, and Kling. Today, over 5 million users trust VideoGen, from individuals and small businesses to teams at Google and ByteDance.\r\n\r\nMaking videos is hard, time-consuming, and expensive if you hire someone to do it for you. With VideoGen, it only takes a few clicks! Try it at https://videogen.io/, or build video into your own product with our API: https://videogen.io/videogen-api",
     "one_liner": "Create professional videos in minutes with AI, online or via API",
     "team_size": 6,
     "industry": "B2B",
@@ -97601,16 +97642,17 @@
   },
   {
     "id": 29748,
-    "name": "Seals AI",
-    "slug": "seals-ai",
+    "name": "Titanio",
+    "slug": "titanio",
     "former_names": [
-      "Talk To Users AI"
+      "Talk To Users AI",
+      "Seals AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cfde4ebc7296b1d61f754907f5cf5a9a1f8fe26d.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b929e31ab64052ab433ff5445d5704e41934381.png",
     "website": "https://www.titanio.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Seals is a suite of AI Employees for Wholesalers & Distributors. Instead of relying on humans to quote, take orders, collect payments, place purchase orders and enter data into ERPs. We build AI Employees that do these manual repetitive tasks for the 700k wholesalers in the US.\r\n\r\nWe’re a team of three Computer Science majors, and Fernando launched and grew AT&T in Mexico to $120M ARR. Previously, we all worked together at our last YC-backed startup, building it to over $6M in revenue. It was there that we placed thousands of purchase orders with wholesalers.\r\n\r\nWe realized that almost every physical product comes from B2B sales in the supply chain. However, it turns out that most of these operations are still done manually through phone and email, involving tasks like quoting, taking orders, collecting payments, entering data into ERPs, and providing support. By automating these tasks with AI agents in a human-like manner, we are creating a massive opportunity to convert $100B of payroll expenses into software spending.\r\n",
-    "one_liner": "AI Employees for Wholesalers & Distributors",
+    "long_description": "Titanio is a suite of AI Employees for Wholesalers & Distributors. Instead of relying on humans to quote, take orders, collect payments, place purchase orders and enter data into ERPs. We build AI Employees that do these manual repetitive tasks for the 700k wholesalers in the US.\r\n\r\nWe’re a team of three Computer Science majors, and Fernando launched and grew AT&T in Mexico to $120M ARR. Previously, we all worked together at our last YC-backed startup, building it to over $6M in revenue. It was there that we placed thousands of purchase orders with wholesalers.\r\n\r\nWe realized that almost every physical product comes from B2B sales in the supply chain. However, it turns out that most of these operations are still done manually through phone and email, involving tasks like quoting, taking orders, collecting payments, entering data into ERPs, and providing support. By automating these tasks with AI agents in a human-like manner, we are creating a massive opportunity to convert $100B of payroll expenses into software spending.\r\n",
+    "one_liner": "AI Employees for Distributors",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -97640,8 +97682,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/seals-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/seals-ai.json"
+    "url": "https://www.ycombinator.com/companies/titanio",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/titanio.json"
   },
   {
     "id": 29750,
@@ -100274,16 +100316,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e4f97e07f6e1a169c14a54417c11eec5688e0c6.png",
     "website": "https://usemica.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Mica's AI agents replace the data ops teams fixing bad data.\r\n\r\nWhen bad or missing data breaks the pipeline, and orchestration, retries, and monitoring fail, painful manual review work kicks in, pulling humans in to investigate and patch data issues across systems. Mica does what those humans do: gathering the right information from internal docs and external systems, reasoning across context, and resolving errors autonomously to get the pipeline moving again.\r\n\r\nThe result: dramatically reduce time, cost, and operational drag as your data pipelines scale without scaling ops headcount. Mica turns judgment-heavy data fixes from a manual bottleneck into an automated background process with full auditability.\r\n",
-    "one_liner": "Replace the humans fixing bad data",
+    "long_description": "Today, as employees teach AI how to perform valuable company work, the resulting capabilities often remain trapped on individual laptops or scattered across chats and repositories. \r\n\r\nMica gives each company a managed, agent-native internal marketplace where employees can publish capabilities, discover them by describing the task they need help with, and install them through the AI tools they already use. Mica tracks ownership, requirements, permissions, and team customizations while letting employees contribute improvements back to the shared version for evaluation and approval.\r\n\r\nThe result: employees stop rebuilding workflows their coworkers have already solved, useful improvements spread across the organization without overwriting team-specific customizations, and security gains visibility without blocking bottom-up innovation. Mica turns scattered AI work into institutional knowledge that compounds.",
+    "one_liner": "Turn employees' AI skills into shared company infrastructure",
     "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B -> Operations",
+    "subindustry": "B2B -> Infrastructure",
     "launched_at": 1720831958,
     "tags": [
-      "Data Science",
-      "Data Engineering",
-      "Enterprise Software"
+      "Artificial Intelligence",
+      "Marketplace",
+      "B2B",
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -100293,7 +100337,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Operations"
+      "Infrastructure"
     ],
     "regions": [
       "United States of America",
@@ -101727,7 +101771,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f0cbbb79a074c37ef2a992bb2acea7bb3e6eb8af.png",
     "website": "https://www.sandra-ai.com",
-    "all_locations": "Miami, FL, USA",
+    "all_locations": "Paris, Île-de-France, France",
     "long_description": "Sandra AI is building the AI operating system for car dealerships, replacing clumsy legacy software with an AI-native, automation-driven platform. Founded by 3 McKinsey, HEC & MIT alumni who met 10 years ago at Ecole Polytechnique, the company’s AI agents already automates all customer interactions across calls & messages, and increasingly run dealership operations by automating sales and aftersales workflows end-to-end. This operational footprint naturally extends into a proprietary software layer that unifies billing, scheduling, inventory, and CRM into a single dealership OS. ",
     "one_liner": "Building AI employees for car dealers",
     "team_size": 3,
@@ -101748,8 +101792,8 @@
       "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "France",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -102091,7 +102135,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2024",
     "status": "Active",
@@ -110917,17 +110961,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/04005a670343f150cdba9b89bda0fd9016b6dfc6.png",
     "website": "https://lapel.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Great service means knowing your customers and making every interaction count. Online, that gets harder as a company grows. Customer context is scattered across systems, leaving teams to piece it together.\r\n\r\nLapel unifies that data into a real-time picture of every account and helps teams turn what they know into coordinated action across the customer journey. The result is faster decisions, more proactive service, and interactions that feel more personal. We call it hospitality at scale.\r\n\r\nLearn more at lapel.com.",
-    "one_liner": "Bringing hospitality to the internet.",
+    "long_description": "Lapel is bringing hospitality to the internet.\r\n\r\nGreat service means knowing your customers and making every interaction count. Online, that gets harder as a company grows. Customer context is scattered across systems, leaving teams to piece it together.\r\n\r\nLapel unifies that data into a real-time picture of every account and helps teams turn what they know into coordinated action across the customer journey. The result is faster decisions, more proactive service, and interactions that feel personal at scale. We call it hospitality at scale.\r\n\r\nLearn more at lapel.com.",
+    "one_liner": "Infrastructure to power every customer interaction.",
     "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1747773891,
     "tags": [
+      "Artificial Intelligence",
       "Customer Success",
       "Sales",
-      "Customer Support",
-      "AI"
+      "Customer Support"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -113552,8 +113596,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9292b62c58dc81055b437ce647dc7c3ea10ffc5c.png",
     "website": "https://magnitude.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Magnitude runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
-    "one_liner": "Open source inference server for local models",
+    "long_description": "Magnitude is an open source inference engine for agents that optimizes itself for your exact hardware. It compiles and tunes its kernels on your device, so open models run up to 2x faster than llama.cpp. One click connects the agent you already use (Pi, OpenCode, Hermes, Codex, and more). Works on Apple Silicon, NVIDIA, AMD, or just a CPU.",
+    "one_liner": "Run open models as fast as your hardware allows",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -117785,7 +117829,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -119607,7 +119651,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ae7dea18b41ec38482c8a5138befb84756ece8b.png",
     "website": "https://takecareos.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Adelaide, SA, Australia",
     "long_description": "TakeCareOS is building the infrastructure for the AI-native long term care providers. Today’s care providers are held back by massive administrative overhead, buried under fragmented tools and manual workflows. TakeCareOS consolidates the entire care lifecycle—scheduling, billing, documentation, compliance, customer support etc.—into a single, intelligent system driven by AI agents. We are eliminating the operational friction of care coordination to establish a new standard of high-efficiency, highly scalable care practices.",
     "one_liner": "AI-native operating system for long term care providers",
     "team_size": 1,
@@ -119625,8 +119669,8 @@
       "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Australia",
+      "Oceania"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -120143,7 +120187,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bac15cb365c68f8004b888ffdda5946e5ec65b76.png",
     "website": "https://www.fastshot.ai/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Thessaloniki, Greece",
     "long_description": "Fastshot is a no-code mobile development platform.\r\nOur mission is to \"Democratize mobile app creation with AI\"\r\nAnyone can develop a mobile app from idea to App Stores within minutes just by chatting with AI. Start at https://fastshot.ai/ai-app-builder\r\n\r\n",
     "one_liner": "Lovable for mobile apps",
     "team_size": 3,
@@ -120167,8 +120211,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Greece",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -121683,43 +121727,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/baseframe",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/baseframe.json"
-  },
-  {
-    "id": 31110,
-    "name": "Cascade",
-    "slug": "cascade",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3cc110e9433eb8ebeb8edd42c08cec81dca5f15c.png",
-    "website": "https://runcascade.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cascade helps companies take their proprietary data and workflows to align models for their use cases, resulting in higher throughput intelligence that works better, faster, and cheaper.",
-    "one_liner": "Distilling Proprietary Intelligence",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1770726393,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cascade",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/cascade.json"
   },
   {
     "id": 31111,
@@ -123404,11 +123411,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1767637338,
     "tags": [
-      "Artificial Intelligence",
       "Hard Tech",
       "Enterprise",
       "Enterprise Software",
-      "Semiconductors"
+      "Semiconductors",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -124997,7 +125004,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/30eef975f26ed420159ac335c08eb8b950705ee2.png",
     "website": "https://silahq.com",
     "all_locations": "",
-    "long_description": "Sila is an agentic WhatsApp where messaging is built for teams and agents to get work done in the same conversations. Free, instant, team and agent messaging available around the world.\r\n",
+    "long_description": "Sila is an agentic WhatsApp where messaging is built for teams and agents to get work done in the same conversations. Instant team and agent messaging available around the world. Our mission is to bring super intelligence to everyone globally.",
     "one_liner": "Agentic Whatsapp",
     "team_size": 2,
     "industry": "B2B",
@@ -128157,7 +128164,7 @@
       "markup.one",
       "tday"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/56be7129960cd50835ff96f316fe88a3f6bbbc3a.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/245e0417e254483c5d2213e33598312271a5bbd8.png",
     "website": "https://tday.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "tday automatically turns a software company's product into on-brand marketing creative. Connect your product and git repo, and tday generates polished launch videos, social graphics, and ads, the content a team would normally spend hours making in a design tool or pay a freelancer for. tday then publishes the creative and measures how it performs across your social and ad channels, closing the loop from what you ship to what you post.",
@@ -129286,7 +129293,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/af6cfe1f95da6fb2bfc1789fb605ed70b77da3b4.png",
     "website": "https://expanse.sh",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "London, England, United Kingdom",
     "long_description": "Expanse unlocks wasted GPU capacity. We recover idle compute through three capabilities: resource prediction (right-sizing job submissions before they reach the scheduler), optimisation suggestions (code and config changes researchers can apply themselves), and failure prediction (catching jobs that will fail before they consume hours of GPU time).\r\n\r\nWe’re four engineers. We ran HPC and GPU training workloads at the largest quant funds and national supercomputing centres. We faced this problem first hand and the only fix was to over-provision and burn millions. Ismaeel built the first multimodal HPC resource predictor as research at EPCC (Edinburgh’s Parallel Computing Centre), which beat every published baseline. This is the tool we wish we had.",
     "one_liner": "Unlock wasted GPU capacity.",
     "team_size": 4,
@@ -129310,8 +129317,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "United Kingdom",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -129480,16 +129487,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37b7a4d126859b0a7edce4eaee5984ecd6f85757.png",
     "website": "https://revnu.com",
     "all_locations": "Manchester, England, United Kingdom",
-    "long_description": "Revnu is your AI growth team. Built to run your whole GTM while you focus on building, Revnu is the best way to grow with AI. \r\n\r\nOur agents run every growth channel: outbound, ads, SEO, social, etc all on one shared intelligence, so learnings from one channel automatically improve all the others.\r\n\r\nYou keep shipping. We run the business.\r\n",
-    "one_liner": "The growth infrastructure for the autonomous business",
-    "team_size": 2,
+    "long_description": "Revnu does the growth work founders never get round to. Connect your tools and it researches buyers, prepares outreach, runs ads and publishes search content. It watches the results and uses what it learns across every channel. You approve the work that needs your judgment and hear what moved every morning. You build. We grow.",
+    "one_liner": "Your AI growth hire.",
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1776869663,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Advertising",
-      "AI"
+      "Advertising"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -129952,18 +129959,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b1348d79301216902dfdfa731a133bfa809b1447.png",
     "website": "https://www.enjamb.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "I run Enjamb. We've worked with 130 life science companies, preclinical through phase 3, to deploy AI securely inside the systems they already work in.\r\n\r\nPharma runs on decades of closed software like Benchling, Veeva, Medidata, and SAS. None of it has an AI layer or speaks MCP, so agents cannot reach the systems where the work lives.\r\n\r\nEnjamb is that layer. Our agents run on top of existing systems and data, with no migration, and they reach the lab systems and internal tools no other AI touches. They learn how a team works, then do the work in Slack, in Teams, and in the systems themselves, across preclinical research, clinical evidence, trial design, statistical programming, and regulatory submissions.\r\n\r\nThis is AI tailored for how medicine gets made.",
+    "long_description": "We've worked with 130 life science companies, preclinical through phase 3, to deploy AI securely inside the systems they already work in.\r\n\r\nPharma runs on decades of closed software like Benchling, Veeva, Medidata, and SAS. None of it has an AI layer or speaks MCP, so agents cannot reach the systems where the work lives.\r\n\r\nEnjamb is that layer. Our agents run on top of existing systems and data, with no migration, and they reach the lab systems and internal tools no other AI touches. They learn how a team works, then do the work in Slack, in Teams, and in the systems themselves, across preclinical research, clinical evidence, trial design, statistical programming, and regulatory submissions.\r\n\r\nThis is AI tailored for how medicine gets made.",
     "one_liner": "The AI Workforce for Biopharma",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1779929226,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Biotech",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -131104,7 +131111,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2026",
     "status": "Active",
@@ -134848,7 +134855,7 @@
     "slug": "simantic",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12eef74104b6e57636a6f0d2305e3a2d18d5c2e5.png",
-    "website": "https://simantic.dev",
+    "website": "https://simantic.com",
     "all_locations": "Waterloo, ON, Canada",
     "long_description": "Simantic is modernizing the embedded firmware industry with hardware simulation developed for the adoption of AI in hardware engineering. Simantic gives both humans and AI the visibility into hardware previously limited by the physical world.",
     "one_liner": "Firmware simulation for AI agents",
@@ -134857,11 +134864,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1782327485,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Hardware",
       "Semiconductors",
-      "Electronics",
-      "AI"
+      "Electronics"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -135924,6 +135931,46 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/agent-relay.json"
   },
   {
+    "id": 35392,
+    "name": "Dydema",
+    "slug": "dydema",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f88326f16a3245ab42f5cb8218948d206913239.png",
+    "website": "https://dydema.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "A data-first model company for neurotech. We collect brain data for others, and use it to build toward general models of the brain.",
+    "one_liner": "The model company for neurotech.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1790760468,
+    "tags": [
+      "Neurotechnology",
+      "Neuroinformatics",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dydema",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/dydema.json"
+  },
+  {
     "id": 35395,
     "name": "Workers IO",
     "slug": "workers-io",
@@ -136307,7 +136354,7 @@
     "slug": "tilion",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/119cb04a763e823c00332f94249a1f95dc277724.png",
-    "website": "https://tilion.dev",
+    "website": "https://tilion.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "we build self-healing browser infrastructure that runs millions of agent operations a day without supervision. \r\n\r\nteams use it for large-scale data collection, agentic workflows, continuous monitoring, and anything else that requires acting on the web at volume.\r\n",
     "one_liner": "Super fast, unblockable browser infra for agents",
@@ -136424,6 +136471,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/spine",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/spine.json"
+  },
+  {
+    "id": 37238,
+    "name": "Terse",
+    "slug": "useterse",
+    "former_names": [
+      "Terse Inc. dba Terse AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/21712c0189bc22ccc5e9bfeb15e67a527077b8f7.png",
+    "website": "https://www.useterse.ai/",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "We build infrastructure to power agentic systems such as software factories, multiplayer agent frameworks and agent coordination.",
+    "one_liner": "Durable state for AI agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1790745772,
+    "tags": [
+      "API",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/useterse",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/useterse.json"
   },
   {
     "id": 37273,

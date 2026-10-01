@@ -1579,8 +1579,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/22b6829346a08e83b56852b94f5e8748a17be818.png",
     "website": "https://www.remoracarbon.com",
     "all_locations": "Detroit, MI, USA",
-    "long_description": "We're building carbon capture for trains and trucks. We generate revenue for railroads and trucking companies by extracting, purifying, and selling CO2 from their exhaust. Our technology can capture up to 90% of the CO2 in the vehicle's exhaust while reducing soot, particulate matter, and NOx.\r\n\r\nWe've partnered with Union Pacific, Norfolk Southern, Ryder, and Werner, and raised $117 million from Lowercarbon Capital, Valor Equity Partners, Union Square Ventures, and Y Combinator.",
-    "one_liner": "Carbon capture for vehicles",
+    "long_description": "We’re building modular carbon capture systems, turning exhaust into beverage-grade CO₂ sold to breweries and greenhouses. We deploy in regions facing severe CO₂ shortages, where prices are highest, allowing us to generate high margins without relying on tax credits or carbon credits.\r\n\r\nWe’ve raised over $115 million in funding from top investors including Lowercarbon Capital, Union Square Ventures, First Round Capital, Y Combinator, and Valor Equity Partners.",
+    "one_liner": "Modular carbon capture",
     "team_size": 45,
     "industry": "Industrials",
     "subindustry": "Industrials -> Climate",
@@ -4522,11 +4522,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1767637338,
     "tags": [
-      "Artificial Intelligence",
       "Hard Tech",
       "Enterprise",
       "Enterprise Software",
-      "Semiconductors"
+      "Semiconductors",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6038,5 +6038,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/habu",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/habu.json"
+  },
+  {
+    "id": 37732,
+    "name": "Hundred",
+    "slug": "hundred",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f9f26995d92445a7e77c0839448bb04ca0c89f08.png",
+    "website": "http://hundred.systems/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Hundred is an automated inspection system for consumer electronics parts. We help factories cut waste and prevent line-down issues by catching sub-millimeter cosmetic defects before parts reach the assembly line.\r\n\r\nDesigns change so fast that traditional vision models can't keep up, meaning factories still rely on manual inspection, literally people checking parts under microscopes to sort out bad parts. Human inspectors miss ~15% of defects which can turn a finished device into scrap.\r\n\r\nDefects cost U.S. discrete manufacturers $45 billion a year, and Erica saw this problem firsthand designing hardware at Meta, Google, and Magic Leap. She met Imani at Columbia's admitted-students day in 2017, and later met Iris through mutual friends in the Bay Area. Imani spent the last five years at Twitch building software that handles billions of requests a day, and Iris worked in Quant at Citadel before pivoting to research machine learning methods on 3D meshes and other structured data at Imperial College London. Now the team is building Hundred because manual inspection shouldn't exist in 2026.",
+    "one_liner": "100% automated inspection for consumer electronics parts",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1790785673,
+    "tags": [
+      "Hard Tech",
+      "Hardware",
+      "Machine Learning",
+      "Computer Vision",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hundred",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/hundred.json"
   }
 ]

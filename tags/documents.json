@@ -23,7 +23,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2011",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Legal"
@@ -1295,14 +1295,16 @@
   },
   {
     "id": 30253,
-    "name": "finbar",
+    "name": "Finbar",
     "slug": "finbar",
-    "former_names": [],
+    "former_names": [
+      "finbar"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/79a24ae2dbf8c5f1b06b70c124868d6c9383b535.png",
     "website": "https://finbar.com",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "finbar is the AI investment analyst used by several top-20 (AUM) hedge funds. It automates financial modelling, research, and data analysis so multi-million-dollar decisions can be made 100x faster.",
-    "one_liner": "The AI investment analyst",
+    "long_description": "Finbar is high-quality financial data and intelligence, used by several of the world's largest hedge funds. It automates financial modelling, research, and data analysis so multi-million-dollar decisions can be made 100x faster.\r\n\r\nFinbar maintains its own dataset of worldwide company filings, presentations, transcripts, and more, delivering clean data from these fundamental sources within minutes of release. This data is available via web, Excel add-in, API, and MCP. \r\n\r\nOur services include: company primers and prebuilt models; AI tools for analysts to create their own research; Excel tools to build financial models in minutes and update them in seconds; API streams to integrate our worldwide data into any programmatic or agentic system.",
+    "one_liner": "Financial intelligence for every investor",
     "team_size": 4,
     "industry": "Fintech",
     "subindustry": "Fintech",
