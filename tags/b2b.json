@@ -3009,7 +3009,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -40833,7 +40833,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2024",
     "status": "Active",
@@ -41768,6 +41768,55 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/cuckoo-labs.json"
   },
   {
+    "id": 30254,
+    "name": "HUD",
+    "slug": "hud",
+    "former_names": [
+      "Human Union Data",
+      "hud",
+      "HUD",
+      "hud"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/53fffc4904f866d9d44ba9a47862b594f1d45667.png",
+    "website": "https://www.hud.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "HUD is the platform for building high quality post training datasets. Over 50 businesses use HUD to build RL environments, sell them to AI labs, or train their own models from them.\r\n\r\nOur mission is to enable a generation of data entrepreneurs. The previous generation built apps to impact the world. We believe people will build infrastructure around data, both digital and physical, that align AIs to their specific goals.",
+    "one_liner": "Platform and marketplace for RL environments and AI data",
+    "team_size": 24,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1740930546,
+    "tags": [
+      "Artificial Intelligence",
+      "Marketplace",
+      "Reinforcement Learning",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hud",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/hud.json"
+  },
+  {
     "id": 30258,
     "name": "Gale",
     "slug": "gale",
@@ -42603,12 +42652,12 @@
     "name": "Ergo",
     "slug": "ergo",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6d306e43299c0c7361faa4ee78066a9912cf4151.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a2d5f1e26b979ee4eabfed131c5f771fc09a4639.png",
     "website": "https://joinergo.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ergo is the revenue infrastructure for teams growing faster than their systems can keep up. We connect the conversations your team is already having, across calls, email, Slack, and more, and build a unified data layer that moves deals forward.",
-    "one_liner": "AI agents and unified data layer for revenue teams",
-    "team_size": 0,
+    "long_description": "Ergo is AI revenue infrastructure for B2B sales teams. It ingests every customer interaction (calls, email, Slack, calendar) and turns it into deal health scores, forecasts, ready-to-send follow-ups, rep coaching, and clean pipeline data, automatically. Reps skip the admin, deals stop slipping, and leaders get a pipeline they can actually trust.\r\n\r\nTeams can use Ergo to consolidate and replace tools like Gong, Attention, Superhuman, Vitally, call recorders, and more. Onboarding backfills your historical calls, emails, and deal data, so you don't start from scratch.\r\n\r\nErgo is backed by Y Combinator and FundersClub, and trusted by sales teams at Pylon, Rho, Retell AI, Warp, Oneleet, and Whop.\r\n\r\nBook a demo at joinergo.com.",
+    "one_liner": "Ergo is the context layer that helps revenue teams close more deals.",
+    "team_size": 9,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1737484568,
@@ -47461,8 +47510,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd03c9be7cf358b8834377c00d3855af56d7f064.png",
     "website": "https://korsoai.com/",
     "all_locations": "Irvine, CA, USA",
-    "long_description": "",
-    "one_liner": "The last assistant you'll need",
+    "long_description": "Korso is an intuitive AI assistant that can work alongside you on your computer. It can operate apps, conduct research, and guide you when you are stuck, all by voice",
+    "one_liner": "Your Capable Desktop AI Companion",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -49248,16 +49297,16 @@
     "website": "https://thefamiliarlab.com",
     "all_locations": "Toronto, ON, Canada",
     "long_description": "Familiar is the Neolab for world translation. Dubbing into 30 languages. Now with Familiar, the same actor's performance is preserved instead of a mismatched voice over a mismatched face. One model does the voice, the lips, and the scene together, with identity permanence and scene & world understanding. Built by the researchers who pioneered joint audio-visual human models. ",
-    "one_liner": "Movies in Every Language. Better than Humans.",
+    "one_liner": "Multimodal Translation",
     "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1786578571,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "B2B",
-      "Entertainment",
-      "AI"
+      "Entertainment"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49447,6 +49496,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/decawork",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/decawork.json"
+  },
+  {
+    "id": 33051,
+    "name": "Tokenless",
+    "slug": "tokenless",
+    "former_names": [
+      "Tokenless",
+      "Touchy"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f250ec6cc81104148d8bd5bafdd6b96bc77d023.png",
+    "website": "https://usetokenless.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Tokenless is an applied AI research lab. Our goal is to end reward hacking. We do research and build tools to detect issues with environments and evals, understand model behavior in those environments, and prevent those issues from happening. Correcting them makes training more effective, makes model performance easier to interpret, and is crucial to solving the AI alignment problem.\r\n\r\nIf you’re training models with RL, building environments, or running agent evals, and want more confidence in your environments, we're here to help.",
+    "one_liner": "We find flaws in RL environments and evals and help you fix them.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1786732497,
+    "tags": [
+      "Developer Tools",
+      "Machine Learning",
+      "Reinforcement Learning",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tokenless",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/tokenless.json"
   },
   {
     "id": 33054,
@@ -49892,7 +49987,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2026",
     "status": "Active",
@@ -50051,15 +50146,14 @@
     "website": "",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "Lakehouse-as-a-Service (LaaS) for pre and post-acquisition",
+    "one_liner": "Lakehouse-as-a-Service (LaaS)",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
+    "subindustry": "B2B",
     "launched_at": 1789180865,
     "tags": [
-      "Finance",
-      "B2B",
-      "AI"
+      "Artificial Intelligence",
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -50068,8 +50162,7 @@
     "batch": "Fall 2026",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Finance and Accounting"
+      "B2B"
     ],
     "regions": [
       "United States of America",
