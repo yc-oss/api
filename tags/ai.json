@@ -1634,7 +1634,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2018",
     "status": "Active",
@@ -8891,6 +8891,53 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2022/gym-class.json"
   },
   {
+    "id": 25402,
+    "name": "Rownd",
+    "slug": "rownd",
+    "former_names": [
+      "Rownd",
+      "LlamaFarm"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3fb21e9b70226a262919d3a7737f14e63ee8352.png",
+    "website": "https://rownd.ai",
+    "all_locations": "Raleigh, NC, USA",
+    "long_description": "Rownd AI builds fully autonomous drones that use local edge intelligence and global LTE/5G/SatCom failover to eliminate the 1:1 pilot bottleneck anywhere on earth or space. We are currently field-deployed with active customers across U.S. Special Operations Command (SOCOM) via our defense business line, ArcEdge AI. Operating out of Raleigh, NC and Wisconsin, we leveraged our team's background in mobile hardware optimization and zero-trust architectures to build true cognitive autonomy directly onto physical aircraft. While we are heavily focused on defense technology today, our ultimate mission is scaling this physical autonomous infrastructure across commercial enterprise edge applications.",
+    "one_liner": "Fully autonomous defense solutions for the global edge.",
+    "team_size": 9,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Drones",
+    "launched_at": 1643295526,
+    "tags": [
+      "Autonomous Delivery",
+      "Drones",
+      "Open Source",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Drones"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rownd",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/rownd.json"
+  },
+  {
     "id": 25419,
     "name": "Kaso",
     "slug": "kaso",
@@ -10111,13 +10158,54 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/broccoli-ai",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/broccoli-ai.json"
+  },
+  {
+    "id": 25822,
+    "name": "Rome",
+    "slug": "rome",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3ce533baa712c5f3600e9396283ebfae0b33da7.png",
+    "website": "https://rome.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We started Rome AI in 2022 as a freight marketplace for truck drivers, helping 80+ drivers earn up to 40% more by finding 10x more loads. What we learned there pointed us toward something bigger, and that's what we're building now, in stealth. More soon.",
+    "one_liner": "The marketplace for truckers",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1648261394,
+    "tags": [
+      "Marketplace",
+      "Logistics",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rome",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/rome.json"
   },
   {
     "id": 25825,
@@ -16387,11 +16475,11 @@
     "name": "SID",
     "slug": "sid",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/572a5971c1a0245d7008a992165eb1146a0f145c.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cac6ad037170806bce925f0d0ed9373eec18f576.png",
     "website": "https://www.sid.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "SID is an AI research lab based in San Francisco. We train models that can retrieve and reason over any data source.",
-    "one_liner": "AI research lab for retrieval",
+    "long_description": "SID is an AI research center based in San Francisco. We train models that can retrieve and reason over any data source.",
+    "one_liner": "AI research center for retrieval",
     "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -23628,47 +23716,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/ledgerup.json"
   },
   {
-    "id": 29706,
-    "name": "Mito Health",
-    "slug": "mito-health",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b7d5b3d9d49d514698e3998f8986079a0af9f826.png",
-    "website": "https://mitohealth.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Most health companies profit when you buy more tests. Mito profits when you make better decisions. Take a 60-second quiz → get a personalized recommendation: what to test, what to skip, what it costs. Every lab at our published cost (members pay exactly that; non-members +10%). Clinician-reviewed next steps, longitudinal tracking, and an AI Concierge that builds you a panel. $9/mo, cancel anytime. HSA/FSA eligible.",
-    "one_liner": "At-cost lab testing marketplace that profits when you test less",
-    "team_size": 5,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Consumer Health and Wellness",
-    "launched_at": 1721173093,
-    "tags": [
-      "Consumer Health Services",
-      "Digital Health",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Consumer Health and Wellness"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mito-health",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/mito-health.json"
-  },
-  {
     "id": 29711,
     "name": "Fazeshift",
     "slug": "fazeshift",
@@ -28102,46 +28149,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cardamon",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/cardamon.json"
-  },
-  {
-    "id": 30242,
-    "name": "Oki",
-    "slug": "oki",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2739d81dbffcc2b373478801ae236fbf5c3b86d0.png",
-    "website": "https://okihome.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Your life’s context, in one device. Oki Home is a memory computer that grows with you, with your data and personal AI on hardware you own.",
-    "one_liner": "The memory computer for your digital life.",
-    "team_size": 6,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1739303977,
-    "tags": [
-      "Hardware",
-      "Consumer",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/oki",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/oki.json"
   },
   {
     "id": 30243,
@@ -32624,49 +32631,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/evergrove.json"
   },
   {
-    "id": 30739,
-    "name": "Quotain",
-    "slug": "quotain",
-    "former_names": [
-      "Eden"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37a5e96e86c6ccc42f303588c30f27f31a1fad2d.png",
-    "website": "https://quotain.com",
-    "all_locations": "New York City, NY, USA",
-    "long_description": "Quotain helps sales teams practice the calls they actually need to win. Reps upload or connect CRM notes, past calls, LinkedIn profiles, and company websites, then Quotain creates realistic AI buyers they can speak with before the real meeting. After each practice call, Quotain scores the rep and shows exactly what to improve.",
-    "one_liner": "AI sales simulations using your real deals",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1753907556,
-    "tags": [
-      "Sales",
-      "Sales Enablement",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/quotain",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/quotain.json"
-  },
-  {
     "id": 30744,
     "name": "SigmanticAI",
     "slug": "sigmanticai",
@@ -33709,7 +33673,7 @@
     "former_names": [
       "Articulate"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b26a35750dbae152a692ea82c2b00bb8f78d4d9b.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/336d43aeb77b236c25b003848175a054e780ccbc.png",
     "website": "https://helonic.com",
     "all_locations": "New York City, NY, USA",
     "long_description": "We help construction teams eliminate rework, delays, and drawing confusion before construction starts. We analyze PDF plans, detect clashes and inconsistencies across disciplines, and create draft RFIs so teams can resolve issues early.\r\n\r\nThis saves construction companies hundreds of hours and millions of dollars.\r\n\r\nWhat we do:\r\n- Automatically detect clashes, missing information, and drawing mismatches\r\n- Align architectural, structural, and MEP plans so everything matches across sheets\r\n- Generate draft RFIs from issues we find\r\n- Replace long page-turn meetings with instant drawing analysis\r\n- Reduce rework and prevent schedule delays before boots hit the ground\r\n\r\nWe integrate with: Procore, Autodesk, email, and the tools teams already use\r\n\r\nTeams use us to:\r\n- Save hundreds of thousands to millions of dollars per project\r\n- Catch design and coordination issues early\r\n- Reduce RFIs and prevent field fixes\r\n- Keep projects on schedule with fewer surprises\r\n\r\nContact us at founders@helonic.com",
@@ -34933,7 +34897,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2026",
     "status": "Active",
@@ -35146,7 +35110,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2026",
     "status": "Active",
@@ -36465,6 +36429,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/degla-inc",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/degla-inc.json"
+  },
+  {
+    "id": 31461,
+    "name": "Collar",
+    "slug": "collar",
+    "former_names": [
+      "Collar AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/35110e6bdfbfbf5706627685cbb370e170ff4a03.png",
+    "website": "https://usecollarai.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Collar is the AI for Investor Relations.\r\nIt feeds the CEO the right number the moment an investor asks on call, answers investor questions around the clock, and remembers every investor relationship since IPO. \r\nBuilt by second time founders from buy side investing and military intelligence.",
+    "one_liner": "AI for Investor Relations",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1777111023,
+    "tags": [
+      "Finance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/collar",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/collar.json"
   },
   {
     "id": 31463,
@@ -39864,47 +39869,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/papaya",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/papaya.json"
-  },
-  {
-    "id": 36777,
-    "name": "Sona8",
-    "slug": "sona8",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bbb7f2bc6b3848168f970a704b24b37c2b125f25.png",
-    "website": "https://sona8.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sona8 is a voice agent that talks to every employee about how their work gets done. Consulting, transformation and corporate development teams spend a large part of every project on stakeholder interviews and stakeholder alignment, and still only hear from a small share of the people affected.\r\n\r\nEach employee gets a link and talks to the agent for about 20 minutes. The agent asks follow-up questions, for example why a step is still done by hand or who else is involved. From the conversations we build process maps and a list of the problems people described, by site and team.\r\n\r\nDuring the implementation, the agent goes back to the employees involved after each initiative and asks whether it was implemented and what changed. The result is a project management office that has talked to every employee. Today consulting firms buy it for the stakeholder interviews at the start of an engagement. Transformation and corporate development teams buy it to run the implementation of a change program.\r\n\r\nOver time this becomes the way a company knows how it runs. Sona8 reads the systems the company already uses, connects them to what employees said, and keeps the picture current by asking again. Before a decision, you ask what it would do across sites and teams and get an answer from the whole company. A small team steers a company-wide program that used to need a large one. And AI agents inside the company come here first to learn how the work is done before they change anything.",
-    "one_liner": "Voice agents that talk to employees enabling transformations ",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1788994017,
-    "tags": [
-      "HR Tech",
-      "AI",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/sona8",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/sona8.json"
   },
   {
     "id": 37238,
