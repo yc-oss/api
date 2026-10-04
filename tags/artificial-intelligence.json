@@ -12340,7 +12340,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -13891,6 +13891,52 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/raven.json"
   },
   {
+    "id": 26800,
+    "name": "Juicebox",
+    "slug": "juicebox",
+    "former_names": [
+      "Juicebox App",
+      "Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2a2858087cb4a0409dfdf9550fd470d4f1798ec6.png",
+    "website": "https://juicebox.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Juicebox is on a mission to help teams win the talent war.\r\n\r\nIn the age of AI, human ingenuity is the ultimate scarce resource. Recruiting is a zero-sum game where you either compete or lose.\r\n\r\nTeams at Ramp, Perplexity, and leading AI labs use Juicebox to power their hiring, alongside 5,000+ customers from early-stage startups to Fortune 500 companies.\r\n\r\nWe’ve crossed $10M in ARR with 20%+ monthly growth, powering thousands of searches every day and making Juicebox one of the fastest-growing AI SaaS companies in the world.\r\n\r\nJuicebox has raised $110M+ in funding, including a $30M Series A led by Sequoia Capital and a $80M Series B led by DST Global. Additional investors in Juicebox include Coatue, NFDG, Lux Capital, Y Combinator, and BOND Capital.",
+    "one_liner": "AI Agents for Recruiting",
+    "team_size": 100,
+    "industry": "B2B",
+    "subindustry": "B2B -> Recruiting and Talent",
+    "launched_at": 1659905940,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "B2B",
+      "Recruiting",
+      "HR Tech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Recruiting and Talent"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/juicebox",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/juicebox.json"
+  },
+  {
     "id": 26825,
     "name": "Flair Labs",
     "slug": "flair-labs",
@@ -14712,6 +14758,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/homli",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/homli.json"
+  },
+  {
+    "id": 27152,
+    "name": "Firecrawl",
+    "slug": "firecrawl",
+    "former_names": [
+      "SideGuide",
+      "Mendable",
+      "SideGuide",
+      "Mendable"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe35a47d1e4dd7a3c1a7dcbea86c08b5ef2d67e6.png",
+    "website": "https://www.firecrawl.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥\r\n\r\nSearch and scrape the web, then access more sources through Alexandria’s library of data providers and specialized indexes. With more data to draw from, your AI agents can dig deeper and find answers that would otherwise stay out of reach. Use Firecrawl through your AI tools or build with our web data API.",
+    "one_liner": "Building the library for superintelligence.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1661283698,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Open Source"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/firecrawl",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/firecrawl.json"
   },
   {
     "id": 27158,
@@ -18384,7 +18477,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -42231,91 +42324,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/verdant.json"
   },
   {
-    "id": 32190,
-    "name": "General Context Labs",
-    "slug": "general-context-labs",
-    "former_names": [
-      "General Context Labs",
-      "Instaplay"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b5bd13525df7f105f51baa15bdb06d6c238303aa.png",
-    "website": "https://generalcontextlabs.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "General Context Labs builds products and datasets that push the limits of frontier models. Our initial breakout product, Instaplay is an interactive app-generation platform home to over 100,000 users who create and discover content.",
-    "one_liner": "Building Products and Datasets for Frontier Models",
-    "team_size": 4,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Gaming",
-    "launched_at": 1784188651,
-    "tags": [
-      "Artificial Intelligence",
-      "Gaming"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Gaming"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/general-context-labs",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/general-context-labs.json"
-  },
-  {
-    "id": 32194,
-    "name": "GUILD",
-    "slug": "guild",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/efd3ccc04f842f9a3a1235ba1ef66aa4447fc993.png",
-    "website": "https://www.guildai.co",
-    "all_locations": "New York City, NY, USA",
-    "long_description": "GUILD is an AI-Native Defense contractor making aerospace parts faster and cheaper. We win defense contracts, automate manufacturing, and deliver to the government's door.",
-    "one_liner": "AI-Native Defense Contractor",
-    "team_size": 2,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Defense",
-    "launched_at": 1778869862,
-    "tags": [
-      "Artificial Intelligence",
-      "Manufacturing",
-      "Supply Chain",
-      "Defense"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Defense"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/guild",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/guild.json"
-  },
-  {
     "id": 32200,
     "name": "Bizmark",
     "slug": "bizmark",
@@ -43636,6 +43644,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/isengard-industries-inc",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/isengard-industries-inc.json"
+  },
+  {
+    "id": 32782,
+    "name": "Denta",
+    "slug": "denta",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8126dcec05004e9a335df14d0116cf4774a61b06.png",
+    "website": "https://denta.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Starting with dental benefits, we are relentlessly simplifying the process for patients to receive better coverage at a lower cost by putting the buying power back into the hand of the individual.",
+    "one_liner": "Dental Benefits for Startups",
+    "team_size": 1,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1782407143,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Healthcare",
+      "Health Insurance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/denta",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/denta.json"
   },
   {
     "id": 32814,

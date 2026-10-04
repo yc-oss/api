@@ -11385,7 +11385,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -23344,17 +23344,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7d66896afcf3127a39f735586c48cd210cab0a7f.png",
     "website": "https://www.useagave.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're building the financial ops platform for construction, a $12T global industry run by software built 20-40 years ago, much of it on-prem with no APIs and no documentation.\r\n\r\nWe spent 3 years building the rails to read and write across those systems, and we use them to deploy AI for invoicing, expenses, compliance, billing, and more.\r\n\r\nWe have 500+ customers and have been profitable & cashflow positive for over two years. We're backed by Accel and Y Combinator, with investors from Procore, Autodesk, and Plaid.\r\n\r\nOur three co-founders have worked together for 12+ years, across Graphiq (acquired by Amazon in 2017) and Amazon.",
-    "one_liner": "AI Financial Operations for Construction",
+    "long_description": "Agave builds applied AI for construction, a $12T global industry run on financial software built 20-50 years ago, much of it on-prem with no APIs and no documentation.\r\n\r\nWe spent 4 years building proprietary rails that read and write across those systems. Our AI agents run on those rails and take over the back-office work contractors still do by hand: invoice matching, expenses, compliance, billing, and financial reporting. Contractors keep the systems they already use; our agents work across them.\r\n\r\n600+ contractors run on Agave, including teams building hyperscaler data centers, mass transit systems, and other critical infrastructure. We're backed by Accel and Y Combinator, who both reinvested in our $15M Series A, plus execs from Procore, Autodesk, PlanGrid, and Plaid.\r\n\r\nOur three co-founders have worked together for 12+ years, across Graphiq (acquired by Amazon in 2017) and Amazon, and started Agave in YC's W22 batch.",
+    "one_liner": "Applied AI for Construction",
     "team_size": 50,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1642541270,
     "tags": [
-      "SaaS",
       "Construction",
       "B2B",
-      "Proptech"
+      "Proptech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -25334,7 +25334,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -27799,16 +27799,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Juicebox is on a mission to help teams win the talent war.\r\n\r\nIn the age of AI, human ingenuity is the ultimate scarce resource. Recruiting is a zero-sum game where you either compete or lose.\r\n\r\nTeams at Ramp, Perplexity, and leading AI labs use Juicebox to power their hiring, alongside 5,000+ customers from early-stage startups to Fortune 500 companies.\r\n\r\nWe’ve crossed $10M in ARR with 20%+ monthly growth, powering thousands of searches every day and making Juicebox one of the fastest-growing AI SaaS companies in the world.\r\n\r\nJuicebox has raised $110M+ in funding, including a $30M Series A led by Sequoia Capital and a $80M Series B led by DST Global. Additional investors in Juicebox include Coatue, NFDG, Lux Capital, Y Combinator, and BOND Capital.",
     "one_liner": "AI Agents for Recruiting",
-    "team_size": 80,
+    "team_size": 100,
     "industry": "B2B",
     "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1659905940,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "B2B",
       "Recruiting",
-      "HR Tech",
-      "AI"
+      "HR Tech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -27824,7 +27824,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -28952,16 +28952,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe35a47d1e4dd7a3c1a7dcbea86c08b5ef2d67e6.png",
     "website": "https://www.firecrawl.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Firecrawl gives your AI agents web data and beyond. Search and scrape the web, then access more sources through Alexandria’s library of data providers and specialized indexes. With more data to draw from, your AI agents can dig deeper and find answers that would otherwise stay out of reach. Use Firecrawl through your AI tools or build with our web data API.",
-    "one_liner": "Give your AI agents web data and beyond.",
+    "long_description": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥\r\n\r\nSearch and scrape the web, then access more sources through Alexandria’s library of data providers and specialized indexes. With more data to draw from, your AI agents can dig deeper and find answers that would otherwise stay out of reach. Use Firecrawl through your AI tools or build with our web data API.",
+    "one_liner": "Building the library for superintelligence.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1661283698,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -54808,6 +54808,47 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/luminal.json"
   },
   {
+    "id": 30806,
+    "name": "Uplift AI",
+    "slug": "uplift-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c2008e580fb1146da7922b566c2a03af87f5a0c.png",
+    "website": "https://upliftai.org/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We build Voice Models for regional languages (like Urdu, Bengali, Greek etc) and make them available through simple APIs and SDKs. \r\nDevelopers use us to create Voice-first digital experiences (eg. Voice eCommerce, Voice Banking, Voice AI Tutors etc).\r\n\r\nWe gather our own data, develop our own labelling tools, train our own models, and design our own voice infra. This fully integrated approach enables us to offer the best models and the best developer experience for regional languages.\r\n\r\n---\r\n\r\nPeople who would previously never use certain digital services (like online ordering), actually use the service when they are given an intuitive Voice based interface.\r\nWe believe that Voice Interfaces will onboard 100s of millions of new users onto digital services; and double the addressable market for technology companies. \r\nUplift AI will provide the best models to create these Voice Interfaces for 60% of the world's population that only speaks their regional language and represents 42 trillion dollars in GDP.",
+    "one_liner": "Foundational Voice Models for regional languages",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1750590533,
+    "tags": [
+      "Speech Recognition",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/uplift-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/uplift-ai.json"
+  },
+  {
     "id": 30816,
     "name": "Digipals",
     "slug": "digipals",
@@ -61244,6 +61285,43 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/eden-robotics.json"
   },
   {
+    "id": 31493,
+    "name": "Plena Health",
+    "slug": "plena-health",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3904753c66e12d522cb76c36f26a8325b7a90c7e.png",
+    "website": "https://www.plena.health/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Plena is the AI operating system for specialty medical practices. We automate the administrative workflows that keep clinics running — referrals, fax intake, scheduling, procedure compliance, and collections — end to end, across all the systems a practice already uses. Unlike point solutions that cover a slice of the problem, Plena becomes the operating layer across the entire practice, connecting the systems, teams, and workflows that keep it running. In 10 months we've grown 17x and crossed seven figures in committed ARR across six specialties and eight states, with 80% of growth through word of mouth.",
+    "one_liner": "Plena is the AI operating system for specialty medical practices",
+    "team_size": null,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare Services",
+    "launched_at": 1780106406,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare Services"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/plena-health",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/plena-health.json"
+  },
+  {
     "id": 31497,
     "name": "Amboras",
     "slug": "amboras",
@@ -62756,17 +62834,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8126dcec05004e9a335df14d0116cf4774a61b06.png",
     "website": "https://denta.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Denta is a full-stack insurance carrier rewriting healthcare. Starting with dental insurance, we are relentlessly simplifying the process for patients to receive better coverage at a lower cost.",
+    "long_description": "Starting with dental benefits, we are relentlessly simplifying the process for patients to receive better coverage at a lower cost by putting the buying power back into the hand of the individual.",
     "one_liner": "Dental Benefits for Startups",
     "team_size": 1,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1782407143,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "Healthcare",
-      "Health Insurance",
-      "AI"
+      "Health Insurance"
     ],
     "tags_highlighted": [],
     "top_company": false,
