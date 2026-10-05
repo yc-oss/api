@@ -12068,22 +12068,23 @@
   },
   {
     "id": 30110,
-    "name": "Forerunner AI",
-    "slug": "forerunner-ai",
-    "former_names": [],
+    "name": "Forerunner",
+    "slug": "forerunner",
+    "former_names": [
+      "Forerunner AI"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/683490b8ed63456c153999da3c193d23b5d08e78.png",
     "website": "https://tryforerunner.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Forerunner is the AI-powered platform for aircraft maintenance, repair, and overhaul.",
-    "one_liner": "AI that gets aircraft flying faster",
+    "all_locations": "Los Angeles, CA, USA",
+    "long_description": "Forerunner is an AI-native factory building precision bent-tubes for aerospace, defense, energy, and industrials.",
+    "one_liner": "Quick-turn bent tube shop for aerospace, energy, industrials",
     "team_size": 2,
     "industry": "Industrials",
-    "subindustry": "Industrials -> Aviation and Space",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1730181783,
     "tags": [
-      "Airlines",
-      "Aerospace",
-      "AI"
+      "Manufacturing",
+      "Aerospace"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -12093,7 +12094,7 @@
     "status": "Active",
     "industries": [
       "Industrials",
-      "Aviation and Space"
+      "Manufacturing and Robotics"
     ],
     "regions": [
       "United States of America",
@@ -12104,8 +12105,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/forerunner-ai",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/forerunner-ai.json"
+    "url": "https://www.ycombinator.com/companies/forerunner",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/forerunner.json"
   },
   {
     "id": 30127,
@@ -12129,7 +12130,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2024",
     "status": "Active",
@@ -17211,7 +17212,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9516f2cea09963c1b9ba307c35589a5d194c61c0.png",
     "website": "https://arlo1.com/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "New York City, NY, USA",
     "long_description": "Arlo Industries is building a network of sensors that precisely tracks stealthy drones and aerial threats better than radars.\r\n\r\nThis capability does not exist yet because traditional radars are built on past war doctrines designed to protect single, centralised assets. Modern warfare, however, demands wide-area, persistent coverage that is both passive and economically scalable. By utilising a mesh architecture, Arlo Industries unlocks unprecedented asymmetric economics. The network is fundamentally built to scale: the cost of adding sensors grows linearly, but the tracking accuracy increases exponentially, delivering highly resilient, persistent coverage for a fraction of the cost of legacy systems.\r\n\r\nDeo founded Arlo Industries after spending over 6 years in the Israeli defence ecosystem, where he lived through multiple conflicts and experienced the Iron Dome and other systems in action against ICBMs and the infamous Shahed drones. Learning exactly how these defence systems could be improved after a Shahed exploded close to his apartment, he built Arlo Industries around the core philosophy that conflict should be concise & precise.\r\n\r\nThe people behind Arlo1 includes a PhD in drones and autonomy and military experts.\r\n\r\nArlo Industries has actively showcased this technology directly to Ukrainian militaries on the frontlines, as well as to operators across Europe and the USA.",
     "one_liner": "Track drones and missiles without radars - Accurate, Passive, Scalable",
     "team_size": 3,
@@ -19675,7 +19676,7 @@
     "name": "Deploy",
     "slug": "deploy",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9baf9dee045cc202f815dc0769d662dbd53ad269.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6d01c6f3a4b9cb73c5468cd6441f7c93909edb6a.png",
     "website": "https://deployrobotics.co/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Deploy's core belief is that robots should be useful. Getting a generalist robot to do real work is fundamentally the same problem across industries. We build everything between the model and the task to bring generalist robots to the businesses that actually need them.",

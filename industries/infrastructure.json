@@ -10789,7 +10789,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/524a578009f692a6daadfe853089aabd437361d4.png",
     "website": "https://sf-tensor.com",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "AI researchers should be pushing the boundaries of what's possible with new architectures and training methods. Instead, they waste weeks configuring cloud infrastructure, debugging distributed systems, and optimizing their GPU code. We know because we lived it: While training our own models across thousands of GPUs earlier this year, we spent more time fighting our infrastructure than doing actual research.\r\n\r\nThat's why we're building two things. First, Elastic Cloud: a managed platform that automatically finds the cheapest GPUs across all providers, handles spot instance preemption, and cuts compute costs by up to 80%. Second, automatic kernel optimization that makes training code run faster by modeling hardware topology, often beating hand-tuned implementations.\r\n\r\nThe problem is that getting high performance across different hardware is genuinely hard. NVIDIA's CUDA moat exists because writing fast kernels requires deep expertise. Most teams either accept vendor lock-in or hire expensive kernel engineers. Our goal is to break the CUDA moat.\r\n\r\nThe compute bottleneck is the biggest constraint on AI progress. NVIDIA can't manufacture enough GPUs, and their monopoly keeps prices astronomical. Meanwhile, AMD, Google, and Amazon are shipping capable alternative hardware that nobody uses because the software is too hard. We're breaking that moat. If we succeed, anyone will be able to train state-of-the-art models without thinking past their PyTorch code.",
     "one_liner": "Infrastructure for AI labs to focus on research.",
     "team_size": 6,
@@ -10808,7 +10808,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -13198,7 +13199,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41a4a41e5482735389d2089a01ff2b862f56e307.png",
     "website": "https://www.markovstudios.com/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Bengaluru, KA, India",
     "long_description": "Markov builds expert computer-use datasets for frontier AI labs. Our datasets include screen recordings + mouse/keyboard actions of professionals using CAD, design and enterprise software.\r\n\r\nWe work with the top AI labs and we’ve gotten more than 350k downloads on HuggingFace. Our long-term goal is to be the full stack platform for computer-use AI, starting with data and then the infrastructure to train and deploy computer-use models.\r\n\r\nDev and Harish are technical co-founders. Dev studied aerospace engineering at IIT Madras and was the youngest team member at Sarvam - India’s top AI lab. Harish is an Emergent Ventures grantee and his prior robotics work was featured in top national publications.",
     "one_liner": "Expert computer-use data for frontier AI labs",
     "team_size": 2,
@@ -13221,8 +13222,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "India",
+      "South Asia"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -13703,49 +13704,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/boat",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/boat.json"
-  },
-  {
-    "id": 35258,
-    "name": "Mirrors",
-    "slug": "mirrors",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e98a564b21ba044528e16126406d35b7464044b7.png",
-    "website": "https://www.runmirrors.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Your agent worked fine yesterday. Today it loops, drops context, or calls a tool with the wrong arguments, and you find out from a user.\r\n\r\nTeams shipping AI agents change prompts, models, and tools constantly, and the same failures keep coming back in production: context loss, loops, broken tool calls, regressions after a refactor.\r\n\r\nMirrors learns from your agent's production traces. It captures what worked and what failed in real sessions, then delivers the fix at runtime. Instead of waiting for someone to notice a regression and patch it by hand, the fix is applied automatically, so the same error never happens twice.\r\n\r\nBuilt for teams whose agents do things they can't undo, like issuing refunds, updating customer records, or sending outbound email.",
-    "one_liner": "Fix your AI agent's errors at runtime, so they never happen twice",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1789011304,
-    "tags": [
-      "AIOps",
-      "Artificial Intelligence",
-      "Developer Tools",
-      "SaaS",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mirrors",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/mirrors.json"
   },
   {
     "id": 35262,
