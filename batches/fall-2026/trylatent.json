@@ -1,0 +1,42 @@
+{
+  "id": 36347,
+  "name": "Latent",
+  "slug": "trylatent",
+  "former_names": [
+    "latent"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/21bc57f59a4d430a3377808350ec1df0915386dd.png",
+  "website": "http://runlatent.ai/",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Latent catches wrong or unsupported LLM answers before they reach your users. Instead of running a second model to check every output, it reads the model's own internal state as it generates, so every request is verified with no added latency, no extra inference cost, and nothing leaving your deployment. Teams running LLMs in production, in finance, legal, healthcare and customer support, get a review queue of the answers most likely to be wrong, calibrated to their own model and traffic, with a plain explanation of why each one was flagged.",
+  "one_liner": "Catch wrong LLM answers before your customers do",
+  "team_size": 1,
+  "industry": "B2B",
+  "subindustry": "B2B -> Security",
+  "launched_at": 1791243197,
+  "tags": [
+    "Fraud Detection",
+    "AI"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Fall 2026",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Security"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/trylatent",
+  "api": "https://yc-oss.github.io/api/batches/fall-2026/trylatent.json"
+}

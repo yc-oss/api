@@ -13849,18 +13849,18 @@
     "slug": "normal",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6cbae55e86532c01c20d7392309f9280f190548.png",
-    "website": "https://www.normalfactory.com/",
+    "website": "https://www.normal.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Testing and certifying the hardware of the future",
-    "one_liner": "Testing and certifying the hardware of the future",
-    "team_size": 2,
+    "long_description": "",
+    "one_liner": "Applied research lab for hardware design",
+    "team_size": 4,
     "industry": "Industrials",
     "subindustry": "Industrials",
     "launched_at": 1754954871,
     "tags": [
-      "Artificial Intelligence",
       "Hardware",
       "Manufacturing",
+      "AI",
       "Industrial"
     ],
     "tags_highlighted": [],
@@ -17693,7 +17693,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2026",
     "status": "Active",
@@ -18564,6 +18564,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cosmic-robotics",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/cosmic-robotics.json"
+  },
+  {
+    "id": 33013,
+    "name": "Operon",
+    "slug": "operon",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aaeb7f2ff7aa5b0b7e64888230be2a7e46342f66.png",
+    "website": "https://operonsolutions.com/en",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Operon is the data intelligence layer for heavy industry. We ingest the messy documents a plant runs on (P&IDs, schematics, datasheets, scans) and turn them into one structured, queryable model of the facility.\r\n\r\nOn top of it, engineers query their plant in natural language and build agentic workflows for safety, compliance, and design. \r\n\r\n",
+    "one_liner": "Agentic data layer for manufacturing & process industries. ",
+    "team_size": 0,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1782593141,
+    "tags": [
+      "Computer Vision",
+      "Manufacturing",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/operon",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/operon.json"
   },
   {
     "id": 33017,
@@ -19587,13 +19627,15 @@
   },
   {
     "id": 35389,
-    "name": "Pendulum Robotics",
-    "slug": "pendulum-robotics",
-    "former_names": [],
+    "name": "Open Actuation",
+    "slug": "open-actuation",
+    "former_names": [
+      "Pendulum Robotics"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/04bbecc591031b8b78b9a43b4f8c9cd329829f72.png",
-    "website": "https://pendulumrobotics.com",
+    "website": "https://openactuation.com",
     "all_locations": "Los Angeles, CA, USA",
-    "long_description": "We design and manufacture high-mix drone motors and robotic actuators in LA.\r\n\r\nDJI, Apple, and Ford don't settle for OTS components. Likewise, the teams that win the Western robotics market will build seamless machines from tightly integrated software and hardware. \r\n\r\nPendulum Robotics designs motors and actuators around your robot's unique form factor and mission - then we rapidly bring them to life with proprietary software and tooling geared for high-mix machining and assembly. We've designed and built motors for top drone OEMs and can assemble thousands of motors per month at our first factory in LA.\r\n\r\nWe're doing for motion components what 3D printing has done for structural components. This enables hardware teams to build and iterate at the speed of software so they can create elegant, reliable, ROI-positive robots and win massive markets.",
+    "long_description": "We design and manufacture high-mix drone motors and robotic actuators in LA.\r\n\r\nDJI, Apple, and Ford don't settle for OTS components. Likewise, the teams that win the Western robotics market will build seamless machines from tightly integrated software and hardware. \r\n\r\nOpen Actuation designs motors and actuators around your robot's unique form factor and mission - then we rapidly bring them to life with proprietary software and tooling geared for high-mix machining and assembly. We've designed and built motors for top drone OEMs and can assemble thousands of motors per month at our first factory in LA.\r\n\r\nWe're doing for motion components what 3D printing has done for structural components. This enables hardware teams to build and iterate at the speed of software so they can create elegant, reliable, ROI-positive robots and win massive markets.",
     "one_liner": "Quick-turn, purpose-built motors & actuators for all",
     "team_size": 2,
     "industry": "Industrials",
@@ -19625,8 +19667,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pendulum-robotics",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/pendulum-robotics.json"
+    "url": "https://www.ycombinator.com/companies/open-actuation",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/open-actuation.json"
   },
   {
     "id": 35454,
@@ -20209,5 +20251,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mantle-2",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/mantle-2.json"
+  },
+  {
+    "id": 38589,
+    "name": "Keres",
+    "slug": "keres",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d410d4ceb3965f8c5b5e653e10007865ff03aaf9.png",
+    "website": "https://www.keresaero.com/",
+    "all_locations": "Denver, CO, USA",
+    "long_description": "Keres builds reusable unmanned jet interceptors for air defense. The Garmur launches on cue, closes at jet speed, positively identifies and kills drones and cruise missiles, then lands to fly again. It gives commanders a fighter-class response at a fraction of the cost.",
+    "one_liner": "Kill the drone, keep the jet. Reusable unmanned interceptors.",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Defense",
+    "launched_at": 1791171647,
+    "tags": [
+      "Airplanes",
+      "Aerospace",
+      "Defense"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/keres",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/keres.json"
   }
 ]

@@ -93,6 +93,7 @@
     "subindustry": "B2B -> Operations",
     "launched_at": 1777151399,
     "tags": [
+      "B2B",
       "Enterprise",
       "Operations"
     ],
@@ -2015,8 +2016,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/94408cc02a79b94fd281d47aabc0056465683df6.png",
     "website": "https://TrueMile.AI/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "TrueMile is an AI operations team for midsize trucking carriers. Our agents work together to source freight, plan the week, assign loads to drivers, and keep customers, drivers, and dispatchers informed.\r\n\r\nWhen a driver calls out, a truck gets delayed, or a load cancels, TrueMile coordinates the assignments, plan changes, and communications that follow. It connects to the systems carriers already use, with dispatchers in control.",
-    "one_liner": "AI agents that run trucking operations.",
+    "long_description": "TrueMile is building a fully autonomous logistics company, starting with trucking. Delayed pickups, empty miles and poor planning eat into a carrier’s profits. Our agents coordinate loads, routes, driver schedules and fuel stops to earn more from each truck and lower the cost of moving goods.\r\n\r\nWe’re starting with our own fleet so we control execution, learn from every delivery and keep the gains. Human drivers come first. As autonomous trucks become available on our routes, we’ll have the customers, freight and infrastructure ready for them.\r\n\r\nAs we drive toward AGI, people will still need groceries, clothes and materials to build their homes. Someone has to move all of it. We want every leap in AI to show up in what people pay for everyday goods.",
+    "one_liner": "An AI-operated logistics company.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
@@ -2255,13 +2256,15 @@
   },
   {
     "id": 35389,
-    "name": "Pendulum Robotics",
-    "slug": "pendulum-robotics",
-    "former_names": [],
+    "name": "Open Actuation",
+    "slug": "open-actuation",
+    "former_names": [
+      "Pendulum Robotics"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/04bbecc591031b8b78b9a43b4f8c9cd329829f72.png",
-    "website": "https://pendulumrobotics.com",
+    "website": "https://openactuation.com",
     "all_locations": "Los Angeles, CA, USA",
-    "long_description": "We design and manufacture high-mix drone motors and robotic actuators in LA.\r\n\r\nDJI, Apple, and Ford don't settle for OTS components. Likewise, the teams that win the Western robotics market will build seamless machines from tightly integrated software and hardware. \r\n\r\nPendulum Robotics designs motors and actuators around your robot's unique form factor and mission - then we rapidly bring them to life with proprietary software and tooling geared for high-mix machining and assembly. We've designed and built motors for top drone OEMs and can assemble thousands of motors per month at our first factory in LA.\r\n\r\nWe're doing for motion components what 3D printing has done for structural components. This enables hardware teams to build and iterate at the speed of software so they can create elegant, reliable, ROI-positive robots and win massive markets.",
+    "long_description": "We design and manufacture high-mix drone motors and robotic actuators in LA.\r\n\r\nDJI, Apple, and Ford don't settle for OTS components. Likewise, the teams that win the Western robotics market will build seamless machines from tightly integrated software and hardware. \r\n\r\nOpen Actuation designs motors and actuators around your robot's unique form factor and mission - then we rapidly bring them to life with proprietary software and tooling geared for high-mix machining and assembly. We've designed and built motors for top drone OEMs and can assemble thousands of motors per month at our first factory in LA.\r\n\r\nWe're doing for motion components what 3D printing has done for structural components. This enables hardware teams to build and iterate at the speed of software so they can create elegant, reliable, ROI-positive robots and win massive markets.",
     "one_liner": "Quick-turn, purpose-built motors & actuators for all",
     "team_size": 2,
     "industry": "Industrials",
@@ -2293,8 +2296,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pendulum-robotics",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/pendulum-robotics.json"
+    "url": "https://www.ycombinator.com/companies/open-actuation",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/open-actuation.json"
   },
   {
     "id": 35392,
@@ -2711,6 +2714,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/orca-aerospace.json"
   },
   {
+    "id": 35587,
+    "name": "Ploid",
+    "slug": "ploid",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bb8cfe58317eeba078abcb4a9b1d2c14affb42f9.png",
+    "website": "https://ploid.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Ploid is the AI-native people data infrastructure for building products, workflows, and agents around people. We’ve built an index of 2B+ people across professional and social sources, with the infrastructure to search, resolve, enrich, and retrieve up-to-date information about anyone on demand.\r\n\r\nThrough Ploid’s API, CLI, and MCP, developers and companies can search for people, enrich profiles, find emails and phone numbers, resolve identities across different data points, and access the broader web context associated with a person. Unlike traditional people databases that rely primarily on static records, Ploid is designed for AI-native workflows. We combine our people index with real-time retrieval and entity resolution so data can be refreshed and expanded at the moment it is requested.\r\n\r\nPloid can power everything from sales and recruiting products to customer intelligence, identity resolution, trust and safety, and AI agents that need reliable information about people. Instead of building and maintaining dozens of data integrations yourself, Ploid gives you one infrastructure layer for people data.\r\n\r\n2B+ people. One API. Built for AI.",
+    "one_liner": "The people data company for the agent era",
+    "team_size": 0,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1791218821,
+    "tags": [
+      "Artificial Intelligence",
+      "Sales",
+      "API",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ploid",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/ploid.json"
+  },
+  {
     "id": 35652,
     "name": "SuperRadiant",
     "slug": "superradiant",
@@ -3092,7 +3137,7 @@
     "name": "Vexo",
     "slug": "vexo",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f84f5f591774f936621b20e46974eb630302aa68.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/16f5a22fcf5a6680c6393b3e9a8d4a4c477c2f10.png",
     "website": "https://www.vexoai.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Every AI today waits for a prompt. Vexo already has the context: the restaurant a friend mentioned, the intro you promised, the idea you had on a walk. It turns what it hears into private memories and acts on them, booking the table, sending the follow-up, and ordering the groceries through the apps you already use.\r\n\r\nIt's a woven bracelet with a microphone and health sensors. No screen, and nothing to open.\r\n\r\nVexo never keeps your audio. Only you can see your memories, and you can delete them anytime.",
@@ -3250,6 +3295,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/silica",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/silica.json"
+  },
+  {
+    "id": 36347,
+    "name": "Latent",
+    "slug": "trylatent",
+    "former_names": [
+      "latent"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/21bc57f59a4d430a3377808350ec1df0915386dd.png",
+    "website": "http://runlatent.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Latent catches wrong or unsupported LLM answers before they reach your users. Instead of running a second model to check every output, it reads the model's own internal state as it generates, so every request is verified with no added latency, no extra inference cost, and nothing leaving your deployment. Teams running LLMs in production, in finance, legal, healthcare and customer support, get a review queue of the answers most likely to be wrong, calibrated to their own model and traffic, with a plain explanation of why each one was flagged.",
+    "one_liner": "Catch wrong LLM answers before your customers do",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1791243197,
+    "tags": [
+      "Fraud Detection",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/trylatent",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/trylatent.json"
   },
   {
     "id": 36348,
@@ -3586,6 +3673,49 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/sona8.json"
   },
   {
+    "id": 36907,
+    "name": "Melty",
+    "slug": "melty-gg",
+    "former_names": [
+      "LookLoot",
+      "Deployed Telemetry"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f04b686429aece5fee0ca691cbdb211b8619d31.png",
+    "website": "https://www.melty.gg",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Mashup any game",
+    "team_size": 0,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Gaming",
+    "launched_at": 1791182625,
+    "tags": [
+      "Gaming",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Gaming"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/melty-gg",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/melty-gg.json"
+  },
+  {
     "id": 36940,
     "name": "Quippy",
     "slug": "quippy",
@@ -3675,7 +3805,7 @@
     "slug": "clean",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4e4d496ee0d1967a7b7483c4981a450e6b1130e7.png",
-    "website": "http://tryclean.ai",
+    "website": "http://www.tryclean.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Clean watches your market and finds your buyers from what companies actually do: customs shipments, permits, loans and supplier switches. Not just ads or web clicks.",
     "one_liner": "We tell sellers exactly when a company is ready to buy.",
@@ -4589,5 +4719,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mantle-2",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/mantle-2.json"
+  },
+  {
+    "id": 38589,
+    "name": "Keres",
+    "slug": "keres",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d410d4ceb3965f8c5b5e653e10007865ff03aaf9.png",
+    "website": "https://www.keresaero.com/",
+    "all_locations": "Denver, CO, USA",
+    "long_description": "Keres builds reusable unmanned jet interceptors for air defense. The Garmur launches on cue, closes at jet speed, positively identifies and kills drones and cruise missiles, then lands to fly again. It gives commanders a fighter-class response at a fraction of the cost.",
+    "one_liner": "Kill the drone, keep the jet. Reusable unmanned interceptors.",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Defense",
+    "launched_at": 1791171647,
+    "tags": [
+      "Airplanes",
+      "Aerospace",
+      "Defense"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/keres",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/keres.json"
   }
 ]

@@ -4395,8 +4395,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c5e5da360891b80b4a1d6d511de963d613bbf08.png",
     "website": "https://captain.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Captain syncs complex, multimodal files and cloud storage from sources like S3, SharePoint, and Google Drive, and makes that knowledge searchable for your agents.\r\n\r\nInstead of stitching together parsers, embeddings, vector databases, rerankers, and retrieval infrastructure, Captain self-tunes the retrieval pipeline to your data and workloads.\r\n\r\nOn benchmarks, this improves accuracy from roughly 78% with standard RAG to over 97% by tuning retrieval to the unique structure and content of your data.\r\n\r\nCaptain is purpose-built for complex, regulated, and high-stakes file search workloads.\r\n\r\nLearn more at https://captain.dev",
-    "one_liner": "Self-tuning file search for AI agents",
+    "long_description": "Captain makes product catalogs and complex, multimodal files searchable for customers and AI agents. It syncs files from sources like S3, SharePoint, and Google Drive and tunes search to your data and workloads.\r\n\r\nInstead of stitching together parsers, embeddings, vector databases, rerankers, and retrieval infrastructure, developers use Captain to power product search and file retrieval through managed APIs.\r\n\r\nOn evaluated file-search benchmarks, Captain’s tuning improved retrieval accuracy from roughly 78% with standard RAG to over 97%.\r\n\r\nBuilt for complex catalogs and demanding file-search workloads, including regulated and high-stakes applications.",
+    "one_liner": "Self-tuning search for products and files",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -4405,6 +4405,7 @@
       "B2B",
       "API",
       "Data Engineering",
+      "Search",
       "Infrastructure"
     ],
     "tags_highlighted": [],
@@ -5222,10 +5223,10 @@
     "name": "Riften",
     "slug": "riften",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4422075ddefbe2da912fc68b24148bca53aaa5b6.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d3c58cea1afce06f81a0352c8f3ecc8554d707c7.png",
     "website": "https://riften.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Intelligence will be the most valuable asset a company owns. Today, almost every company rents it.\r\n\r\nCompanies pay a handful of labs one token at a time. Each dollar buys an answer, not an asset. They spend more, but own nothing more.\r\n\r\nRiften reverses that.\r\n\r\nChange one environment variable and Riften becomes the gateway for a company's AI traffic. We route each request to the lowest-cost model that can do the job, serving most work on open-weight models we host. Customers save money immediately without rebuilding their products.\r\n\r\nThe gateway is the entry point. Over time, Riften turns the company's work into private models built on open weights and shaped around the business. What begins as cheaper inference becomes an intelligence stack the company owns, runs on infrastructure it controls, and uses to power its most important applications.\r\n\r\nWe call this earned intelligence. It is created by the company's own work, controlled by the company, and accumulated over time.\r\n\r\nThe next generation of companies will not rent their intelligence. They will earn it, own it, and compound it. Riften is how they get there.",
+    "long_description": "Riften builds model routing, evaluations, private models, and training environments for AI labs, AI-native companies, and enterprises.\r\n\r\nWe help teams choose models for their workloads, evaluate how they perform, and build private models around company-specific work. We’re also developing coding environments where agents learn through backend engineering tasks.",
     "one_liner": "Earned intelligence for every company",
     "team_size": 5,
     "industry": "B2B",
@@ -5234,7 +5235,6 @@
     "tags": [
       "Developer Tools",
       "Reinforcement Learning",
-      "Open Source",
       "Infrastructure",
       "AI"
     ],
@@ -5469,6 +5469,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/luca-iq",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/luca-iq.json"
+  },
+  {
+    "id": 33013,
+    "name": "Operon",
+    "slug": "operon",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aaeb7f2ff7aa5b0b7e64888230be2a7e46342f66.png",
+    "website": "https://operonsolutions.com/en",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Operon is the data intelligence layer for heavy industry. We ingest the messy documents a plant runs on (P&IDs, schematics, datasheets, scans) and turn them into one structured, queryable model of the facility.\r\n\r\nOn top of it, engineers query their plant in natural language and build agentic workflows for safety, compliance, and design. \r\n\r\n",
+    "one_liner": "Agentic data layer for manufacturing & process industries. ",
+    "team_size": 0,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1782593141,
+    "tags": [
+      "Computer Vision",
+      "Manufacturing",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/operon",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/operon.json"
   },
   {
     "id": 33014,

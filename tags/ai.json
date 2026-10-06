@@ -4104,7 +4104,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2020",
     "status": "Active",
@@ -26017,6 +26017,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/dreamrp.json"
   },
   {
+    "id": 29999,
+    "name": "Onlook",
+    "slug": "onlook",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c023f9010fb3a7f3e550c56a9283c477e6ca096.png",
+    "website": "https://onlook.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Onlook is the fastest way for anyone to craft exceptional experiences in code. We built an open-source, visual editor for code that merges design, development, and AI.\r\n\r\nSince launching, Onlook hit #1 on Hacker News, was the #1 trending repo on GitHub–twice– and has earned over 26,000 GitHub stars.\r\n\r\nFounded by Daniel Farrell, a designer of 10+ years and former Head of Growth, and Kiet Ho, an ex-Amazon and ex-ServiceNow engineer, Onlook is on a mission to finally solve the gap between design and development. ",
+    "one_liner": "The Developer tool for Designers",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1737572736,
+    "tags": [
+      "Developer Tools",
+      "Design",
+      "Design Tools",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/onlook",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/onlook.json"
+  },
+  {
     "id": 30017,
     "name": "Riveter",
     "slug": "riveter",
@@ -26884,6 +26928,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/abundant",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/abundant.json"
+  },
+  {
+    "id": 30079,
+    "name": "Chicory",
+    "slug": "chicory",
+    "former_names": [
+      "Moonshine"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be712cd699fd2b897b2f5250f2ff8e722cfa125f.png",
+    "website": "https://chicory.so",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "A growing number of states require employers to provide: (1) Notice when automation is used to make decisions, (2) explanations of how automated decisions were made, and (3) options to opt out of or appeal automated decisions. Chicory connects to applications where hiring, employment, and contracting decisions are made and takes care of notices, explanations, recourse, and risk assessments. ",
+    "one_liner": "The platform for automated hiring and workforce decisions.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1729546253,
+    "tags": [
+      "Developer Tools",
+      "Human Resources",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/chicory",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/chicory.json"
   },
   {
     "id": 30087,
@@ -32148,6 +32234,47 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/ghosteye.json"
   },
   {
+    "id": 30697,
+    "name": "Normal",
+    "slug": "normal",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6cbae55e86532c01c20d7392309f9280f190548.png",
+    "website": "https://www.normal.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Applied research lab for hardware design",
+    "team_size": 4,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1754954871,
+    "tags": [
+      "Hardware",
+      "Manufacturing",
+      "AI",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/normal",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/normal.json"
+  },
+  {
     "id": 30703,
     "name": "Physical Turing",
     "slug": "physical-turing",
@@ -33322,18 +33449,19 @@
     "former_names": [
       "Questom"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b0c983ddfd3fa9bc66481090e877261b8325bea1.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4cf7ff003fba8201e539d2872cb8344bd10cf9b4.png",
     "website": "https://www.trelium.com",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "",
-    "one_liner": "The Agent to Build Your Agents",
-    "team_size": 6,
+    "long_description": "Trelium lets enterprise teams build AI agents in simple English to automate back-office work. We serve companies handling custom and bulk operations, including distributors, suppliers, and decorators across the print, merch, and apparel industries, automating workflows like order entry, purchase order creation, PO-invoice matching, order-status follow-ups, and many more.",
+    "one_liner": "AI Agents for Enterprise Wide Operations",
+    "team_size": 11,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1759277752,
     "tags": [
       "B2B",
       "Workflow Automation",
+      "Enterprise Software",
       "AI"
     ],
     "tags_highlighted": [],
@@ -34485,6 +34613,52 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/claimglide.json"
   },
   {
+    "id": 31051,
+    "name": "Corvera",
+    "slug": "corvera",
+    "former_names": [
+      "Sarah.AI",
+      "Sarah AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ba3bd8042a63e5e4cc8707533d8561d2aa5bf74.png",
+    "website": "https://corvera.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Corvera (YC W26) is the AI sales agent for CPG brands. We turn the data a brand already has into the actions its sales team takes today.\r\n\r\nA CPG brand sells into tens of thousands of independent US stores through dozens of distributors, and works that base with a handful of people. CLEAN Cause, a $20M yerba mate brand, covers 21,000 stores through 46 distributors with a four-person sales team. The accounts worth a call are not capped by headcount. The team is.\r\n\r\nCLEAN Cause now runs its daily sales decisions on Corvera: 5,000 queries in 40 days across 12 users, $250K of opportunities surfaced within days, and a 7x return on the analysts they would otherwise hire.\r\n\r\nWith Corvera in place, every sales rep starts the morning with:\r\n- The stores to act on today, ranked and priced, with the reason on the row,\r\n- The outreach already drafted to the right contact at the right distributor, and\r\n- The follow-up booked, logged, and measured against the goal it was set to move.\r\n\r\nAll from the distributor feeds, retailer portals, and ERP data they already have, resolved into one context layer - without a data team, and without handing their sales to a broker.\r\n\r\nWe’re founded by Chris (2x Founder; ex-CEO at Better Nature; Forbes 30U30), Dirk (ex-Google Data & AI Lead), and Matthew (ex-Head of Product at Rosemark; Princeton MEng in CS).\r\n\r\nTo date, we’ve raised $6.2M and are backed by YC, firstminute capital, 6 Degrees Capital, 20VC, Rebel Fund, Duke Capital Partners, and more. Our ICP is US CPG brands doing $20M+ in retail revenue through UNFI, KeHE and DSD distributors. We sell to VPs of Sales and CEOs.\r\n\r\nThe incumbents prove the scale. Brokers take 5-12% of a $350B US independent grocery market, and Advantage Solutions, a publicly traded company, does $3.5B in annual revenue.\r\n\r\nOur mission is bold: to enable the next generation of unicorn CPG brands to be run by teams of less than 10 people.\r\n\r\nOur vision is even bolder: to give every CPG brand the coverage of a full sales team at a fraction of the headcount, and displace the broker network that covers the US independent channel today.\r\n\r\nVisit www.corvera.ai to learn more!",
+    "one_liner": "The AI sales agent for CPG brands",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1763141207,
+    "tags": [
+      "SaaS",
+      "Consumer",
+      "B2B",
+      "Data Engineering",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/corvera",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/corvera.json"
+  },
+  {
     "id": 31076,
     "name": "Imperfect",
     "slug": "imperfect",
@@ -35085,6 +35259,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/libra-robotics",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/libra-robotics.json"
+  },
+  {
+    "id": 31230,
+    "name": "o11",
+    "slug": "o11",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b91d12799d3c1083cf13c1c333bde8b754cfd8dd.png",
+    "website": "https://o11.ai",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "o11 is the AI account manager for consumer and self-serve applications, helping teams treat every customer like a flagship client. It brings email and iMessage conversations together, suggests personal replies, and turns customer signals into timely follow-ups. Teams can tailor each persona’s voice and review response plans before turning them on.",
+    "one_liner": "AI account managers for consumer/self-serve apps",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1765258468,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Customer Success",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/o11",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/o11.json"
   },
   {
     "id": 31241,
@@ -37300,10 +37516,10 @@
     "name": "Riften",
     "slug": "riften",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4422075ddefbe2da912fc68b24148bca53aaa5b6.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d3c58cea1afce06f81a0352c8f3ecc8554d707c7.png",
     "website": "https://riften.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Intelligence will be the most valuable asset a company owns. Today, almost every company rents it.\r\n\r\nCompanies pay a handful of labs one token at a time. Each dollar buys an answer, not an asset. They spend more, but own nothing more.\r\n\r\nRiften reverses that.\r\n\r\nChange one environment variable and Riften becomes the gateway for a company's AI traffic. We route each request to the lowest-cost model that can do the job, serving most work on open-weight models we host. Customers save money immediately without rebuilding their products.\r\n\r\nThe gateway is the entry point. Over time, Riften turns the company's work into private models built on open weights and shaped around the business. What begins as cheaper inference becomes an intelligence stack the company owns, runs on infrastructure it controls, and uses to power its most important applications.\r\n\r\nWe call this earned intelligence. It is created by the company's own work, controlled by the company, and accumulated over time.\r\n\r\nThe next generation of companies will not rent their intelligence. They will earn it, own it, and compound it. Riften is how they get there.",
+    "long_description": "Riften builds model routing, evaluations, private models, and training environments for AI labs, AI-native companies, and enterprises.\r\n\r\nWe help teams choose models for their workloads, evaluate how they perform, and build private models around company-specific work. We’re also developing coding environments where agents learn through backend engineering tasks.",
     "one_liner": "Earned intelligence for every company",
     "team_size": 5,
     "industry": "B2B",
@@ -37312,7 +37528,6 @@
     "tags": [
       "Developer Tools",
       "Reinforcement Learning",
-      "Open Source",
       "Infrastructure",
       "AI"
     ],
@@ -39485,6 +39700,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/shepherd-robotics.json"
   },
   {
+    "id": 35587,
+    "name": "Ploid",
+    "slug": "ploid",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bb8cfe58317eeba078abcb4a9b1d2c14affb42f9.png",
+    "website": "https://ploid.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Ploid is the AI-native people data infrastructure for building products, workflows, and agents around people. We’ve built an index of 2B+ people across professional and social sources, with the infrastructure to search, resolve, enrich, and retrieve up-to-date information about anyone on demand.\r\n\r\nThrough Ploid’s API, CLI, and MCP, developers and companies can search for people, enrich profiles, find emails and phone numbers, resolve identities across different data points, and access the broader web context associated with a person. Unlike traditional people databases that rely primarily on static records, Ploid is designed for AI-native workflows. We combine our people index with real-time retrieval and entity resolution so data can be refreshed and expanded at the moment it is requested.\r\n\r\nPloid can power everything from sales and recruiting products to customer intelligence, identity resolution, trust and safety, and AI agents that need reliable information about people. Instead of building and maintaining dozens of data integrations yourself, Ploid gives you one infrastructure layer for people data.\r\n\r\n2B+ people. One API. Built for AI.",
+    "one_liner": "The people data company for the agent era",
+    "team_size": 0,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1791218821,
+    "tags": [
+      "Artificial Intelligence",
+      "Sales",
+      "API",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ploid",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/ploid.json"
+  },
+  {
     "id": 35652,
     "name": "SuperRadiant",
     "slug": "superradiant",
@@ -39610,6 +39867,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hesper-ai",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/hesper-ai.json"
+  },
+  {
+    "id": 36347,
+    "name": "Latent",
+    "slug": "trylatent",
+    "former_names": [
+      "latent"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/21bc57f59a4d430a3377808350ec1df0915386dd.png",
+    "website": "http://runlatent.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Latent catches wrong or unsupported LLM answers before they reach your users. Instead of running a second model to check every output, it reads the model's own internal state as it generates, so every request is verified with no added latency, no extra inference cost, and nothing leaving your deployment. Teams running LLMs in production, in finance, legal, healthcare and customer support, get a review queue of the answers most likely to be wrong, calibrated to their own model and traffic, with a plain explanation of why each one was flagged.",
+    "one_liner": "Catch wrong LLM answers before your customers do",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1791243197,
+    "tags": [
+      "Fraud Detection",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/trylatent",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/trylatent.json"
   },
   {
     "id": 36348,
@@ -39741,6 +40040,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/papaya",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/papaya.json"
+  },
+  {
+    "id": 36907,
+    "name": "Melty",
+    "slug": "melty-gg",
+    "former_names": [
+      "LookLoot",
+      "Deployed Telemetry"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f04b686429aece5fee0ca691cbdb211b8619d31.png",
+    "website": "https://www.melty.gg",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Mashup any game",
+    "team_size": 0,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Gaming",
+    "launched_at": 1791182625,
+    "tags": [
+      "Gaming",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Gaming"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/melty-gg",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/melty-gg.json"
   },
   {
     "id": 37238,
