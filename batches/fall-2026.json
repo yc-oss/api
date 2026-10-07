@@ -1128,6 +1128,49 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/kailash-labs.json"
   },
   {
+    "id": 34862,
+    "name": "Saccade",
+    "slug": "saccade",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/751432518cccc3177c9fa321a442fcfaf7e00fdd.png",
+    "website": "https://saccade.health",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Alzheimer's testing today is bottlenecked around the onset of symptoms, when the damage is already done. Current treatments, including the FDA-approved drugs released in 2024, don't reverse the disease; they only slow it down. Earlier detection means earlier intervention.\r\n\r\nEye movement changes linked to Alzheimer's surface sooner than any other biomarker, up to 15 years before symptoms appear.\r\n\r\nWe deliver a 15-minute VR assessment delivered to patients in longevity clinics:\r\n• Tasks: patients perform visual tasks designed by neurologists to trigger a distinct oculomotor response in people with Alzheimer's or on its path\r\n• Hardware: our patent-pending attachment connects to any VR headset on the market and captures these eye movement patterns.\r\n• Analysis: the patterns are compared against our ML model to produce a risk analysis.\r\n\r\nOnce classified, patients can access new interventions, such as the FDA-approved drugs. They're also referred to longevity practices, neurology practices or both, depending on their stage of decline.\r\n\r\nTesting for the earliest biomarkers allows the earliest possible intervention. In some cases, that slows the disease enough that patients outlive the onset of symptoms and never face memory loss in their lifetime.",
+    "one_liner": "World's Earliest Test for Alzheimer's Biomarkers",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Consumer Health and Wellness",
+    "launched_at": 1791296673,
+    "tags": [
+      "Hard Tech",
+      "Hardware",
+      "Machine Learning",
+      "B2B",
+      "Healthcare"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Consumer Health and Wellness"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/saccade",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/saccade.json"
+  },
+  {
     "id": 34893,
     "name": "Agent 37",
     "slug": "agent-37",
@@ -1768,7 +1811,7 @@
     "slug": "mirrors",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e98a564b21ba044528e16126406d35b7464044b7.png",
-    "website": "https://www.runmirrors.com",
+    "website": "https://www.mirrors.dev",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Production agents handle many different customer workflows. Currently, when one handles a situation badly, an engineer reads the trace and patches the prompt. The next situation needs another exception. Soon, improving the agent becomes a recurring engineering job, and the prompt keeps growing.\r\n\r\nMirrors finds patterns in past runs and feedback. Engineers review guidance for a specific situation and preview where it would apply. Mirrors then delivers that guidance while the agent works, inside the team’s existing setup. The team can check whether the change improved the outcome.\r\n\r\nWe’re building Mirrors for engineering teams running customer-facing agents across varied workflows, so they can improve behavior without hardcoding every lesson in the global prompt.",
     "one_liner": "Steer AI agents in real time using lessons from production runs",
@@ -1778,10 +1821,10 @@
     "launched_at": 1789011304,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1893,18 +1936,18 @@
     "former_names": [
       "Bryel Labs"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d6a77d9b2b1e807ae20d6e37b65cac4cbdcc89c.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e4fc1c46193139a87be8a9d372f3ac8ccd413c42.png",
     "website": "https://www.bryel.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "Devin for AI Research Engineering",
+    "one_liner": "Building in-house, frontier AI labs for companies",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1790013807,
     "tags": [
-      "B2B",
-      "AI"
+      "Artificial Intelligence",
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2965,6 +3008,47 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/halmos-labs.json"
   },
   {
+    "id": 35950,
+    "name": "Resin Technologies",
+    "slug": "resin-technologies",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bc5f059ee240037dfd1bb651a9c69886e3dceef6.png",
+    "website": "https://resineda.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Resin is an AI-native ECAD tool. It lets engineers:\r\n- research designs\r\n- generate schematics\r\n- generate any symbols/footprints\r\n- route simple to complex boards\r\n\r\n",
+    "one_liner": "Resin helps engineers design electronics faster and more reliably",
+    "team_size": 0,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1791317892,
+    "tags": [
+      "Artificial Intelligence",
+      "Hardware",
+      "Electronics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/resin-technologies",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/resin-technologies.json"
+  },
+  {
     "id": 36015,
     "name": "Ignition Benefits",
     "slug": "ignition-benefits",
@@ -3424,6 +3508,47 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/vyra.json"
   },
   {
+    "id": 36510,
+    "name": "Preload",
+    "slug": "preload",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b263628afee781ad6a54e9c6db03225c28f419f.png",
+    "website": "",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Motor cortex for physical AI",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1791309539,
+    "tags": [
+      "Neurotechnology",
+      "Robotics",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/preload",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/preload.json"
+  },
+  {
     "id": 36577,
     "name": "OpEra",
     "slug": "opera",
@@ -3758,6 +3883,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/quippy",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/quippy.json"
+  },
+  {
+    "id": 37071,
+    "name": "Acyclic Labs",
+    "slug": "acyclic",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/28f8a7a30ed4c8ddd3df528c98ebc77233935fc2.png",
+    "website": "https://acyclic.dev",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "",
+    "one_liner": "building infra for scaling agent swarms efficiently",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1791261091,
+    "tags": [
+      "Swarm AI",
+      "Open Source"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/acyclic",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/acyclic.json"
   },
   {
     "id": 37105,
@@ -4352,7 +4517,7 @@
     "slug": "redoubt-insurance",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1ee4cc24084cdd9a8a0fe0d70982248244d6fd3a.png",
-    "website": "https://www.redoubt.agency",
+    "website": "https://www.redoubt.insure",
     "all_locations": "Salt Lake City, UT, USA",
     "long_description": "Redoubt is a commercial insurance agency for small businesses. We believe our customers are our most important business partners, and they deserve our full attention. Machines can already handle the boring parts, the next step is to continually learn from experience. ",
     "one_liner": "Commercial insurance for small businesses",
@@ -4361,8 +4526,8 @@
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1787707764,
     "tags": [
-      "Artificial Intelligence",
-      "Insurance"
+      "Insurance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
