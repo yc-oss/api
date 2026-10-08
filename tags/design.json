@@ -750,20 +750,20 @@
       "Unidata",
       "OpenFoundry"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/156a31d542f37c25abdebb50a956a376276e0f5b.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c8cc29d94168b1ca418d0d8737e0185bb99095a7.png",
     "website": "https://withoverheard.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Overheard is how product teams talk to their users. Understand your customers one at a time, all at once. Tell it what you're deciding, and it designs the study, interviews your users by voice, and comes back with an answer backed by what they actually said, with every finding linked to the quotes behind it.\r\n\r\nTeams at fast-growing software companies make product calls every week, often without talking to users, because real research takes weeks. Overheard gets them an answer in days, so they ship the right thing sooner.",
-    "one_liner": "AI-led user interviews for product teams.",
+    "long_description": "Tell Overheard what you're deciding, like how to fix churn or which feature to build next. It writes the interview, talks to your customers by voice, and comes back with answers.\r\n\r\nMost teams make these calls without hearing from customers because setting up interviews takes weeks and nobody owns it. Overheard gets you answers in days - no researcher needed.\r\n\r\nTeams use Overheard to find out why customers churn, test concepts and prototypes, set pricing, and run win/loss interviews.",
+    "one_liner": "Know what your customers want, because they told you.",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "subindustry": "B2B",
     "launched_at": 1711038198,
     "tags": [
       "Artificial Intelligence",
-      "B2B",
-      "Productivity",
+      "SaaS",
       "Design",
+      "Feedback",
       "Market Research"
     ],
     "tags_highlighted": [],
@@ -771,6 +771,51 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/overheard",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/overheard.json"
+  },
+  {
+    "id": 29992,
+    "name": "Outerport",
+    "slug": "outerport",
+    "former_names": [
+      "haipera",
+      "Haipera",
+      "Outerbasis"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d2fd2342d3ea6b9592dfb0ad90c6249ad7c9ee05.png",
+    "website": "https://outerport.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We’re about to see an influx in the AI-led discovery of new medicines, specialty chemicals, and materials. This means the bottleneck will shift from R&D, to the scale-up of these new recipes. Unfortunately, designing these production systems and making sure they can be operated safely is an expensive and labor-intensive ordeal that involves thousands of pages of drawings where one mistake can cause millions of dollars in rework or even disasters. Outerport solves this by helping engineering firms automate the design of the industrial control systems needed for production scale-up, using a domain-specific language for electrical design with thousands of unit tests that verify performance, and building simulators that can ingest already built schematics of plants to help automate comissioning and help train operators to prevent costly mistakes.",
+    "one_liner": "Design automation for industrial electrical controls",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1721673756,
+    "tags": [
+      "Hardware",
+      "Design",
+      "Manufacturing",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
     "status": "Active",
     "industries": [
       "B2B",
@@ -785,8 +830,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/overheard",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/overheard.json"
+    "url": "https://www.ycombinator.com/companies/outerport",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/outerport.json"
   },
   {
     "id": 29999,
@@ -1400,24 +1445,23 @@
   },
   {
     "id": 34134,
-    "name": "Moda",
-    "slug": "moda-2",
+    "name": "Voyager",
+    "slug": "voyager",
     "former_names": [
-      "moda.app"
+      "moda.app",
+      "Moda"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1693e94e6d5a17016b287d6917bdefebbef1d367.png",
-    "website": "",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c6a49b867492868c7c12a9622e59839c26e0b5a.png",
+    "website": "https://voyager.so",
     "all_locations": "New York City, NY, USA",
-    "long_description": "",
-    "one_liner": "Fully editable slides, designs and video.",
+    "long_description": "Most AI tools are built for coding. Voyager is designed to get the best creative results from models like Opus, Astra and DeepSeek.\r\n\r\nIt comes bundled with free motion graphics, music and video editing tools - or, it can drive Blender, DaVinci Resolve, After Effects, Ableton and 100+ others.\r\n\r\nFrom the team behind Moda (moda.app, 100k+ users).",
+    "one_liner": "Open harness for video and other creative work.",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1790709958,
     "tags": [
-      "AI-Enhanced Learning",
       "Design",
-      "Sales",
       "Video",
       "Marketing"
     ],
@@ -1440,7 +1484,7 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/moda-2",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/moda-2.json"
+    "url": "https://www.ycombinator.com/companies/voyager",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/voyager.json"
   }
 ]

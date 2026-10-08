@@ -4661,19 +4661,19 @@
       "Haipera",
       "Outerbasis"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b04f0fee59f28a3fa66d41bb63e4aef150ce2812.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d2fd2342d3ea6b9592dfb0ad90c6249ad7c9ee05.png",
     "website": "https://outerport.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Building out new LNG plants, HVAC systems, or semiconductor processes rely on hundreds of iterations of feasibility testing (through simulation or real-world lab tests) where different designs (combinations of equipment) and parameters are validated. The parameters are often locked in PDFs (datasheets, wiring diagrams, PFDs/P&IDs) which take thousands of hours to convert into CSVs / JSONs, and the simulators don't have an easy API to work with. Outerport bridges the gap by finding documents from PLMs, extracting structured data from drawings, building a knowledge graph over them, and building autonomous AI agents that can fully automate this R&D process by running simulations and performing design checks.",
-    "one_liner": "EDA for Industrial Control Systems",
+    "long_description": "We’re about to see an influx in the AI-led discovery of new medicines, specialty chemicals, and materials. This means the bottleneck will shift from R&D, to the scale-up of these new recipes. Unfortunately, designing these production systems and making sure they can be operated safely is an expensive and labor-intensive ordeal that involves thousands of pages of drawings where one mistake can cause millions of dollars in rework or even disasters. Outerport solves this by helping engineering firms automate the design of the industrial control systems needed for production scale-up, using a domain-specific language for electrical design with thousands of unit tests that verify performance, and building simulators that can ingest already built schematics of plants to help automate comissioning and help train operators to prevent costly mistakes.",
+    "one_liner": "Design automation for industrial electrical controls",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1721673756,
     "tags": [
       "Hardware",
+      "Design",
       "Manufacturing",
-      "Semiconductors",
       "Industrial"
     ],
     "tags_highlighted": [],
@@ -5352,16 +5352,16 @@
     "website": "https://www.embedder.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Building AI agents for autonomous embedded software development.",
-    "one_liner": "The Enterprise AI Platform for Embedded Software",
+    "one_liner": "Hardware-Aware AI for Embedded Software",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1752258104,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Hardware",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7410,6 +7410,49 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/antimattr.json"
   },
   {
+    "id": 36776,
+    "name": "UXDuck",
+    "slug": "uxduck",
+    "former_names": [
+      "uxduck"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe3dd63fd9bab004c38089f8c0ed95063c64bb18.png",
+    "website": "https://uxduck.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Starting with a modern interface for drones that users can build on and adapt. \r\n\r\nWorks with planes, copters, rovers, boats and submarines.",
+    "one_liner": "Android for drones",
+    "team_size": 1,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Drones",
+    "launched_at": 1791414783,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Hardware"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Drones"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/uxduck",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/uxduck.json"
+  },
+  {
     "id": 37467,
     "name": "Cyclon",
     "slug": "cyclon",
@@ -7461,7 +7504,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f9f26995d92445a7e77c0839448bb04ca0c89f08.png",
     "website": "http://hundred.systems/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Hundred is an automated inspection system for consumer electronics parts. We help factories cut waste and prevent line-down issues by catching sub-millimeter cosmetic defects before parts reach the assembly line.\r\n\r\nDesigns change so fast that traditional vision models can't keep up, meaning factories still rely on manual inspection, literally people checking parts under microscopes to sort out bad parts. Human inspectors miss ~15% of defects which can turn a finished device into scrap.\r\n\r\nDefects cost U.S. discrete manufacturers $45 billion a year, and Erica saw this problem firsthand designing hardware at Meta, Google, and Magic Leap. She met Imani at Columbia's admitted-students day in 2017, and later met Iris through mutual friends in the Bay Area. Imani spent the last five years at Twitch building software that handles billions of requests a day, and Iris worked in Quant at Citadel before pivoting to research machine learning methods on 3D meshes and other structured data at Imperial College London. Now the team is building Hundred because manual inspection shouldn't exist in 2026.",
+    "long_description": "Hundred is an automated inspection system for the components that make up consumer devices like phones, smartwatches, and laptops. Hundred helps factories cut waste and prevent line-down issues by catching sub-millimeter cosmetic defects before parts reach the assembly line. \r\n\r\nIn the consumer electronics industry, designs change so fast that traditional machine vision can't keep up, forcing factories to rely on manual inspection, literally people checking parts under microscopes to sort out bad parts. Human inspectors miss roughly 15% of defects, and a single bad part can turn a finished device into scrap. Hundred is replacing manual inspection with an imaging rig that scans an entire shipping tray of parts at once. \r\n\r\nThe Hundred rig blocks ambient light and uses varied controlled lighting configurations to detect defects smaller than 100µm on a range of materials. The controlled environment means Hundred only needs to scan a single good part before it can find defects, categorize them, and assess their severity accurately.\r\n\r\nDefects cost U.S. discrete manufacturers $45 billion a year, a problem Hundred's CEO, Erica, saw firsthand as a mechanical engineer designing devices at Meta, Google, and Magic Leap. She met Imani, Hundred's CPO, at Columbia University's admitted-students day in 2017 and Imani went on to spend five years at Twitch building software that handles billions of requests a day. Erica later met Iris, Hundred's CTO, in the Bay Area. Iris worked as a quant at Citadel before pivoting to study at Imperial College London where she researched machine learning on 3D meshes and other structured data. Together, they're building Hundred because manual inspection shouldn't still exist in 2026.",
     "one_liner": "100% automated inspection for consumer electronics parts",
     "team_size": 3,
     "industry": "Industrials",

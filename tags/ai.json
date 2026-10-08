@@ -2761,8 +2761,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e37f47c8f336faaae481a49417e95761012d1dbb.png",
     "website": "http://bunkerhillhealth.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Bunkerhill is the agentic AI platform for health systems. Turn your ideas into reality. Backed by Sequoia and Khosla.",
-    "one_liner": "Bunkerhill is the agentic AI platform for health systems",
+    "long_description": "Bunkerhill is a long-horizon agent for health systems that turns ambition into action. Backed by Sequoia and Khosla.",
+    "one_liner": "Bunkerhill is a long-horizon agent for health systems",
     "team_size": 30,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
@@ -6448,6 +6448,56 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2021/axar-ai.json"
   },
   {
+    "id": 23636,
+    "name": "Humance",
+    "slug": "humance",
+    "former_names": [
+      "Angkm",
+      "Blushh",
+      "blushh",
+      "Blushh",
+      "R.care"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/987667192d91a0ec07b29e6a9afb25d541d6a722.png",
+    "website": "https://www.humance.tech/",
+    "all_locations": "Seoul, Seoul, South Korea; Remote",
+    "long_description": "Humance builds and integrates custom AI agents for construction teams, helping them review project documents, identify potential conflicts, and prepare next steps within the tools and workflows they already use.\r\n\r\nConstruction projects generate a constant flow of drawings, specifications, submittals, RFIs, change orders, and emails. Reviewing that information and connecting it across a project takes time, while overlooked details can lead to delays, rework, and unexpected costs. Humance handles the first pass through this paperwork, surfacing relevant findings and linking them to supporting project information so teams can verify the evidence and act with confidence.\r\n\r\nEvery implementation starts with understanding how a team works—its review processes, approval requirements, and existing systems. Humance then tailors and deploys AI agents around those needs, refining them through real-world use and feedback.\r\n\r\nConstruction expertise remains central. AI prepares the review; people apply their judgment and make the decisions. By reducing routine document work, Humance gives teams more time to resolve issues and keep projects moving.",
+    "one_liner": "AI that keeps complex construction projects on schedule.",
+    "team_size": 3,
+    "industry": "Real Estate and Construction",
+    "subindustry": "Real Estate and Construction -> Construction",
+    "launched_at": 1614638320,
+    "tags": [
+      "Construction",
+      "B2B",
+      "Scheduling",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2021",
+    "status": "Active",
+    "industries": [
+      "Real Estate and Construction",
+      "Construction"
+    ],
+    "regions": [
+      "South Korea",
+      "East Asia",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/humance",
+    "api": "https://yc-oss.github.io/api/batches/winter-2021/humance.json"
+  },
+  {
     "id": 23638,
     "name": "Journey",
     "slug": "journey",
@@ -6991,6 +7041,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/instalab",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/instalab.json"
+  },
+  {
+    "id": 24100,
+    "name": "MobileBoost",
+    "slug": "mobileboost",
+    "former_names": [
+      "Kitchenful"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4fdfe6ee3e3551142b62a5144a0c5d6494e9c0ac.png",
+    "website": "https://www.mobileboost.io/yc",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "MobileBoost is an AI SDET for iOS and Android apps. An agent turns a plain-language test spec into test code, runs it on simulators and real devices, and fixes it when your app changes. Nobody on your team maintains test scripts by hand. The test code is accessible at any time if your team wants that level of access.\r\n\r\nYou can start runs from your CI pipeline with the MobileBoost GitHub Action, or let your coding agent start them over MCP while you build.\r\n\r\nMobile teams at Duolingo, Lyft, Wayfair, Flo Health, Noom, Compass, and Redfin use MobileBoost. Duolingo cut manual regression testing by 70%: https://blog.duolingo.com/reduced-regression-testing/",
+    "one_liner": "AI SDET for mobile apps",
+    "team_size": 15,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1628867687,
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "B2B",
+      "No-code",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mobileboost",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/mobileboost.json"
   },
   {
     "id": 24130,
@@ -9398,50 +9495,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/national-finance-olympiad",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/national-finance-olympiad.json"
-  },
-  {
-    "id": 25608,
-    "name": "Flagright",
-    "slug": "flagright",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/09c76f2c8efc3d34c7d5faf491ca2acdfa542fb7.png",
-    "website": "https://flagright.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Flagright helps fintechs & banks monitor, screen, investigate, and report their transactions & customers against financial crime risks with a best-in-class AML compliance software. Catering to a diverse clientele across various financial sectors, we serve customers across 6 continents. Flagright is a pioneer in the application of generative AI for AML compliance operations with its AI suite, Flagright AI, delivering unmatched scalability and extreme performance. Our products are designed to help our customers scale volume without scaling headcount and grow faster.",
-    "one_liner": "AI-native AML compliance platform for fintechs & banks",
-    "team_size": 31,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1642412738,
-    "tags": [
-      "Fintech",
-      "B2B",
-      "Compliance",
-      "Regtech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/flagright",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/flagright.json"
   },
   {
     "id": 25614,
@@ -13773,7 +13826,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ba2bf3c743512b0b3cda71e1f81a113f9c1c05c.png",
     "website": "https://www.launchflow.com/",
-    "all_locations": "Remote",
+    "all_locations": "Eugene, OR, USA; Remote",
     "long_description": "Still cooking...\r\n\r\nReach out to josh@launchflow.com if you'd like early access.",
     "one_liner": "Collaborative workspace for internal tools and agents",
     "team_size": 2,
@@ -13798,6 +13851,8 @@
       "Operations"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -13958,8 +14013,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be25b5e55711ba973cd7f6c514b56a10ab3da20e.png",
     "website": "https://gooseworks.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Goose is an AI creative engine that turns your brand into a continuous stream of on-brand ads. \r\n\r\nWe index your existing materials — videos, product shots, testimonials, ad performance data — into a context layer, then generate short-form creative for Meta and TikTok at the volume performance marketing actually requires.\r\n\r\nThe engine compounds: the agent learns from ad performance, competitors, trends, and human feedback, so your creative gets better every month. Run as a human-guided, done-for-you service.",
-    "one_liner": "Self-Improving Ad Creative Engines",
+    "long_description": "Goose is an AI marketing brain that understands your company's marketing context deeply and makes it accessible to agents. \r\n\r\nWe index your existing materials — videos, product shots, testimonials, ad performance data — into a context layer that AI agents can then use to make creatives, webpages, write emails, social content and more.\r\n\r\nThe engine compounds: the agent learns from campaign performance, competitors, trends, and human feedback, so your creative gets better every month.",
+    "one_liner": "Self-Improving Marketing Harness",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
@@ -23579,6 +23634,47 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/ledgerup.json"
   },
   {
+    "id": 29706,
+    "name": "Mito Health",
+    "slug": "mito-health",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b7d5b3d9d49d514698e3998f8986079a0af9f826.png",
+    "website": "https://mitohealth.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Mito Health is a U.S. service that lets individuals order more than 1,000 laboratory markers, panels, scans, and at-home kits without going through a traditional doctor’s visit. Members pay $9 per month to access every test at the company’s published cost, see itemized receipts with no hidden mark-ups, and receive priority turnaround on results. \r\n\r\nAfter answering an online questionnaire, users receive personalized test recommendations, can schedule a nearby draw at the lowest available price, and obtain clinician-reviewed action plans that cover sleep, supplements, exercise, and other lifestyle factors. The platform also allows members to upload past lab data, view longitudinal trends, and chat year-round with clinicians or AI health coaching through the built-in Mito Concierge. ",
+    "one_liner": "At-cost preventive health: Labs, Scans, Genetics, Supplements and Rx",
+    "team_size": 5,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Consumer Health and Wellness",
+    "launched_at": 1721173093,
+    "tags": [
+      "Consumer Health Services",
+      "Digital Health",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Consumer Health and Wellness"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mito-health",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/mito-health.json"
+  },
+  {
     "id": 29711,
     "name": "Fazeshift",
     "slug": "fazeshift",
@@ -28225,50 +28321,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/gale.json"
   },
   {
-    "id": 30259,
-    "name": "Asteroid",
-    "slug": "asteroid",
-    "former_names": [
-      "Entropy Labs"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4598dd293d773fa0a9a1c72940f2f2e3153dda35.png",
-    "website": "https://asteroid.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Asteroid is the AI-powered integration layer for healthcare. One connector for EHRs, payer portals, and legacy desktop systems, with 100+ pre-built integrations that go live in days, not months. Built for developers and operations teams, with integrations that maintain themselves.",
-    "one_liner": "The integration layer for healthcare: EHRs, payer portals & more ",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1734639467,
-    "tags": [
-      "Robotic Process Automation",
-      "Health Tech",
-      "B2B",
-      "Automation",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/asteroid",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/asteroid.json"
-  },
-  {
     "id": 30265,
     "name": "Harbera",
     "slug": "harbera",
@@ -28485,46 +28537,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/general-trajectory",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/general-trajectory.json"
-  },
-  {
-    "id": 30278,
-    "name": "Agentin AI",
-    "slug": "agentin-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/da9bdd65896a691965e96e56efdfaa0880fcac0e.png",
-    "website": "https://www.agentin.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "At Agentin AI, we build Agents that move data and take actions across enterprise systems, like Salesforce, NetSuite and SAP. These agents are difficult to build because each enterprise heavily customizes their systems but we solved that by training our Agents to learn and adapt from failures, applying reinforcement learning techniques we developed.",
-    "one_liner": "AI Agents that automate enterprise software processes",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1740032946,
-    "tags": [
-      "Reinforcement Learning",
-      "Enterprise",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/agentin-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/agentin-ai.json"
   },
   {
     "id": 30282,
@@ -30879,6 +30891,50 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/mesmer.json"
   },
   {
+    "id": 30524,
+    "name": "Lapel",
+    "slug": "lapel",
+    "former_names": [
+      "Echo Exploration Company, Inc.",
+      "Echo Exploration Co."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/04005a670343f150cdba9b89bda0fd9016b6dfc6.png",
+    "website": "https://lapel.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Lapel is bringing hospitality to the internet.\r\n\r\nGreat service means knowing your customers and making every interaction count. Online, that gets harder as a company grows. Customer context is scattered across systems, leaving teams to piece it together.\r\n\r\nLapel unifies that data into a real-time picture of every account and helps teams turn what they know into coordinated action across the customer journey. The result is faster decisions, more proactive service, and interactions that feel personal at scale. We call it hospitality at scale.\r\n\r\nLearn more at lapel.com.",
+    "one_liner": "Infrastructure to power every customer interaction.",
+    "team_size": 14,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1747773891,
+    "tags": [
+      "Customer Success",
+      "Sales",
+      "Customer Support",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lapel",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/lapel.json"
+  },
+  {
     "id": 30530,
     "name": "Rimba",
     "slug": "rimba",
@@ -32185,48 +32241,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/trace-so",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/trace-so.json"
-  },
-  {
-    "id": 30691,
-    "name": "Embedder",
-    "slug": "embedder",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be01ab7ec03dfffcf2a6f87ab306a19bf22fe64b.png",
-    "website": "https://www.embedder.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Building AI agents for autonomous embedded software development.",
-    "one_liner": "The Enterprise AI Platform for Embedded Software",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1752258104,
-    "tags": [
-      "Developer Tools",
-      "Hardware",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/embedder",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/embedder.json"
   },
   {
     "id": 30696,
@@ -35860,6 +35874,51 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/litmus-hiring.json"
   },
   {
+    "id": 31318,
+    "name": "Databuddy",
+    "slug": "databuddy",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41cf5cb7088967b39be98f97d7bb5d8f97df5aac.png",
+    "website": "https://www.databuddy.cc",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Databuddy gives you your very own data analyst, always watching over your data, combining all your context to investigate and paint a full picture on every product issue that emerges in real-time; conversion drops, user frustration and churn.\r\n\r\nIt makes your product better without needing to have you look at a dashboard and spend hours figuring out the why. one click to install or switch from any dated analytics provider.",
+    "one_liner": "AI Data Analyst for fast-growing teams",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1791412796,
+    "tags": [
+      "B2B",
+      "Analytics",
+      "Data Engineering",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/databuddy",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/databuddy.json"
+  },
+  {
     "id": 31323,
     "name": "Hedge",
     "slug": "hedge",
@@ -36425,47 +36484,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/degla-inc",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/degla-inc.json"
-  },
-  {
-    "id": 31461,
-    "name": "Collar",
-    "slug": "collar",
-    "former_names": [
-      "Collar AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/35110e6bdfbfbf5706627685cbb370e170ff4a03.png",
-    "website": "https://usecollarai.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Collar is the AI for Investor Relations.\r\nIt feeds the CEO the right number the moment an investor asks on call, answers investor questions around the clock, and remembers every investor relationship since IPO. \r\nBuilt by second time founders from buy side investing and military intelligence.",
-    "one_liner": "AI for Investor Relations",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1777111023,
-    "tags": [
-      "Finance",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/collar",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/collar.json"
   },
   {
     "id": 31463,
@@ -37934,6 +37952,47 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/prodigy-research.json"
   },
   {
+    "id": 32261,
+    "name": "Rasyn",
+    "slug": "rasyn",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ffda7ce34aee49cfec95fa8aef9ed1a70e4c3e28.png",
+    "website": "https://www.rasyn.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We build foundational AI models for chemistry. Almost nothing you buy is a single chemical. Products like datacenter coolant, GPU thermal paste, paint, and glue are formulations, which are mixtures of around ten ingredients each, and demand for them has grown quickly because of AI and EVs.\r\n\r\nDesigning a new formulation is essentially a search problem, because there are more possible mixtures than anyone could ever test, and none of them can be predicted in advance. As a result, bringing a single formulation to market today takes three to five years of trial and error in a lab.\r\n\r\nOur models predict how a mixture will behave far faster than the standard methods used today, which lets us design new formulations in weeks rather than years, at a fraction of the cost. To prove this, we used them to invent three chemicals that never existed before, including a PFAS-free coolant for datacenters, and we have since synthesized and patented all three.\r\n\r\nWe are already working with some of the largest manufacturers to design formulations for them, and we are building our own lab to generate the data that will train our next models.",
+    "one_liner": "Making chemicals 100,000x faster",
+    "team_size": 3,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1785736030,
+    "tags": [
+      "Deep Learning",
+      "Biotech",
+      "Manufacturing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rasyn",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/rasyn.json"
+  },
+  {
     "id": 32288,
     "name": "Callbook AI",
     "slug": "callbook-ai",
@@ -38944,6 +39003,51 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/isoquant.json"
   },
   {
+    "id": 33279,
+    "name": "Hebbian Robotics",
+    "slug": "hebbian-robotics",
+    "former_names": [
+      "Vanda Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4e7272f21860060f8aa33bb297af6d18fab5ffdc.png",
+    "website": "https://hebbianrobotics.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Hebbian Robotics builds open source foundational infrastructure for Physical AI to develop robots that extend what humanity can do, for the benefit of the communities they serve.",
+    "one_liner": "Foundational infrastructure for Physical AI",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1786123276,
+    "tags": [
+      "Robotics",
+      "Data Science",
+      "Data Engineering",
+      "AI",
+      "Databases"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hebbian-robotics",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/hebbian-robotics.json"
+  },
+  {
     "id": 33316,
     "name": "Tracer",
     "slug": "tracer",
@@ -39449,6 +39553,47 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/veeza-ai.json"
   },
   {
+    "id": 34794,
+    "name": "Petrichor Bio",
+    "slug": "petrichor-bio",
+    "former_names": [
+      "Qokedas"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fdb7aea2b5558307f53190af023d8e6a2c7ac3be.png",
+    "website": "https://petrichorbio.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Real biology requires a wet lab, and building one takes years and a team most AI companies don't have. Petrichor runs their experiments at scale and sends back the dense, clean data their models need to learn from.",
+    "one_liner": "Wet lab infrastructure that turns AI experiments into training data.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1785795073,
+    "tags": [
+      "Deep Learning",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/petrichor-bio",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/petrichor-bio.json"
+  },
+  {
     "id": 34893,
     "name": "Agent 37",
     "slug": "agent-37",
@@ -39489,49 +39634,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/agent-37",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/agent-37.json"
-  },
-  {
-    "id": 34904,
-    "name": "Viraj Aero",
-    "slug": "viraj-aero",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d151d30449f8a414c0594312df47a98193fd069b.png",
-    "website": "https://www.viraj-aero.com/",
-    "all_locations": "Toulouse, Occitanie, France",
-    "long_description": "",
-    "one_liner": "Next generation engines for aircraft and data centers",
-    "team_size": null,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Aviation and Space",
-    "launched_at": 1789861657,
-    "tags": [
-      "Hard Tech",
-      "Energy",
-      "Aerospace",
-      "ClimateTech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2026",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Aviation and Space"
-    ],
-    "regions": [
-      "France",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/viraj-aero",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/viraj-aero.json"
   },
   {
     "id": 34959,
@@ -39659,6 +39761,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/onepatch",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/onepatch.json"
+  },
+  {
+    "id": 35265,
+    "name": "Hopper",
+    "slug": "hopper",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6640b732eb4efe17f2fb11ff75f6f6bc14184872.png",
+    "website": "https://withhopper.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Hopper post-trains STT, TTS, and speech LLMs on your production calls, then serves and improves them against your live traffic",
+    "one_liner": "Fast inference for voice",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1788561875,
+    "tags": [
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hopper",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/hopper.json"
   },
   {
     "id": 35289,
@@ -39827,49 +39969,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ploid",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/ploid.json"
-  },
-  {
-    "id": 35652,
-    "name": "SuperRadiant",
-    "slug": "superradiant",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/15a7e2a5caa04595d7620cd8161f3b2cffd00a51.png",
-    "website": "https://superradiant.co",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Every instance of intelligence occurring in nature is embodied. Scientific intelligence is no different. We are building general-purpose robotic experimentalists: systems that unite scientific reasoning and physical action to iterate toward discovery by observing, hypothesizing and experimenting.",
-    "one_liner": "Embodied Scientific Intelligence",
-    "team_size": 3,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1788918386,
-    "tags": [
-      "Robotics",
-      "Energy",
-      "Advanced Materials",
-      "AI",
-      "Biotechnology"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2026",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/superradiant",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/superradiant.json"
   },
   {
     "id": 36015,
