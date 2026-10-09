@@ -643,15 +643,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2d86a599f458e2be0f1c7c75f915dda507376482.png",
     "website": "https://grep.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Grep AI is the fastest way to create, optimize, and deploy agents for high-stakes, research-intensive knowledge work you can't afford to get wrong. Our agents are used by both prosumers and global enterprises such as Airwallex, IG, Worldpay, and Citizens Bank.",
-    "one_liner": "AI agents that automate high-stakes knowledge work you can't afford…",
+    "long_description": "Grep AI is the fastest way to create, optimize, and deploy agents for tedious, complex operational work that slows down your business. Our self-improving agents learn from every run, making them smarter and cheaper as you scale. IG.com a global retail brokerage used our agents to review compliance alerts and now 80% of their customers onboad without manual intervention, doubling first trades and propelling them to a FTSE 100 company. \r\n\r\nCustomers including Airwallex, Worldpay, Citizens Bank, FV Bank and Shopmonkey have used our agents to automate over 250,000 of operational work across compliance, onboarding, underwriting, corporate due diligence, document verification, merchant categorization, market and competitive research, rev ops and much more.\r\n\r\nWe founded Grep AI after experiencing firsthand how manual workflows can prevent a business from growing when we ran the platform team at Brex. We're now on a mission to rid businesses of tedious, repetitive so their employees can focus on the most high leverage tasks that matter.",
+    "one_liner": "Self-improving agents that automate tedious operational work",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1790019866,
     "tags": [
-      "Fintech",
-      "AI"
+      "Artificial Intelligence",
+      "Fintech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1611,7 +1611,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "An AI platform that connects commercial debt advisors with mandate matching private credit funds. ",
     "one_liner": "Unifying Global Private Credit",
-    "team_size": 5,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1785975971,
@@ -1640,6 +1640,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/useforward",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/useforward.json"
+  },
+  {
+    "id": 35096,
+    "name": "Stacktrace",
+    "slug": "stacktrace",
+    "former_names": [
+      "OpenACA"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/902b46e418653f41629fec03fce33e1e6a3e6bc9.png",
+    "website": "https://stacktrace.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We’re building Stacktrace to help teams see what AI agents actually do, detect risky\r\nbehavior, and alert the people responsible. Administrators can also deploy policies that block unapproved tools, such as MCP servers and plugins, before agents use them.\r\n",
+    "one_liner": "See and control what your agents actually do",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1790912378,
+    "tags": [
+      "DevSecOps",
+      "Cybersecurity",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/stacktrace",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/stacktrace.json"
   },
   {
     "id": 35127,
@@ -2513,6 +2556,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/oasive.json"
   },
   {
+    "id": 35397,
+    "name": "Quivly AI",
+    "slug": "quivly-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c9dd1fbd0b76e538f581f702ad2deb68c3eca171.png",
+    "website": "https://www.quivly.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Quivly is the agentic workspace for everything after the sale. Our agents turn kickoff calls into launch plans, chase blockers, catch risk and expansion signals, and have the full account story ready at renewal. With Quivly, companies are able to take their customers live in 7 days instead of 30, and then grow revenue from these customers by 4.3x on avg.",
+    "one_liner": "AI agents that run onboarding, adoption, and renewals",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1791438593,
+    "tags": [
+      "SaaS",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/quivly-ai",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/quivly-ai.json"
+  },
+  {
     "id": 35454,
     "name": "Shepherd Robotics",
     "slug": "shepherd-robotics",
@@ -2813,7 +2898,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Ploid is the AI-native people data infrastructure for building products, workflows, and agents around people. We’ve built an index of 2B+ people across professional and social sources, with the infrastructure to search, resolve, enrich, and retrieve up-to-date information about anyone on demand.\r\n\r\nThrough Ploid’s API, CLI, and MCP, developers and companies can search for people, enrich profiles, find emails and phone numbers, resolve identities across different data points, and access the broader web context associated with a person. Unlike traditional people databases that rely primarily on static records, Ploid is designed for AI-native workflows. We combine our people index with real-time retrieval and entity resolution so data can be refreshed and expanded at the moment it is requested.\r\n\r\nPloid can power everything from sales and recruiting products to customer intelligence, identity resolution, trust and safety, and AI agents that need reliable information about people. Instead of building and maintaining dozens of data integrations yourself, Ploid gives you one infrastructure layer for people data.\r\n\r\n2B+ people. One API. Built for AI.",
     "one_liner": "The people data company for the agent era",
-    "team_size": 0,
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1791218821,
@@ -3107,7 +3192,7 @@
     "all_locations": "Los Angeles, CA, USA",
     "long_description": "Ignition is an AI-native employee benefits brokerage for companies with under 200 employees. Health insurance is one of the largest line items these companies carry, and employers absorb 15 to 40% rate increases year after year without ever seeing their own numbers. We have rebuilt the sales and back office to be AI-first. This market represents about $500B of market cap, and those businesses have not fundamentally changed in over 50 years. While scaling Plated, I wore every HR hat from doing payroll myself, to managing a PEO, to eventually hiring an employee benefits broker on our way to 1,500 employees. We wasted over $4M on benefits over 5 years, and I'm building Ignition to help companies under 200 employees avoid making my mistakes.",
     "one_liner": "The AI-Native Benefits Brokerage",
-    "team_size": 8,
+    "team_size": 12,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1789432184,
@@ -3696,7 +3781,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/392a3938deea813eb9351409e9ac2cd528e737d7.png",
     "website": "https://sinter.systems",
     "all_locations": "El Segundo, CA, USA",
-    "long_description": "Sinter is creating a faster and radically more affordable American plastics pipeline, helping iteration heavy hardware teams evolve from additive prototypes to production parts on week-scale timelines.",
+    "long_description": "Sinter is a radically faster plastics pipeline, helping iteration heavy hardware teams evolve from prototypes to production parts on week-scale timelines.",
     "one_liner": "Accelerating scaled plastics with additive technologies",
     "team_size": 2,
     "industry": "Industrials",
@@ -3981,6 +4066,50 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/quippy.json"
   },
   {
+    "id": 36972,
+    "name": "Composal",
+    "slug": "composal",
+    "former_names": [
+      "Vex",
+      "VEX"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e1f6f0a97f11c72c78bdc6875df0e065a154770.png",
+    "website": "https://composal.ai",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "Check features, not code. Composal sends a swarm of agents to use your product like your users do. They test real flows and edge cases to show you what works, what breaks, and if it’s ready to ship.",
+    "one_liner": "Swarms of agents acting like users to find bugs before release",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1791500162,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "DevSecOps",
+      "Cloud Computing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/composal",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/composal.json"
+  },
+  {
     "id": 37071,
     "name": "Acyclic Labs",
     "slug": "acyclic",
@@ -3988,8 +4117,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/28f8a7a30ed4c8ddd3df528c98ebc77233935fc2.png",
     "website": "https://acyclic.dev",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "",
-    "one_liner": "building infra for scaling agent swarms efficiently",
+    "long_description": "Acyclic runs agent swarms. Hand it a task from the CLI, the dashboard, or a coding agent over MCP, and it splits the work across many agents, each in its own sandbox, then merges what they produce into one result. Long agentic workflows finish in a fraction of the wall-clock time. Bring your own model keys or run the sandboxes in your own cloud; the harness underneath is open source. Coding is the first workload, and research and data work run the same way. Founded by Ram Vinjamuri and Varun Latthe. YC F26, London.",
+    "one_liner": "Rapid agent swarms: make any agentic workflow exponentially faster",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",

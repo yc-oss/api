@@ -9515,7 +9515,7 @@
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "GrowthBook is an open source platform to help companies make data-driven product decisions with feature flags and A/B tests.  \r\n\r\nExisting SaaS solutions like LaunchDarkly require a company to send all of their data to them. This results in high costs, data compliance issues, and vendor lock-in.  As a result, many companies end up building their own platforms in-house, which can take thousands of hours of work and lots of headaches.  To solve this, GrowthBook uses a company's existing data infrastructure and business metrics.\r\n\r\nWe believe feature flags and experimentation are the right way to build products at scale and that they will become a standard part of the development process.  GrowthBook is well positioned to be a leader in this growing market.",
     "one_liner": "Open source feature flagging and A/B testing",
-    "team_size": 40,
+    "team_size": 46,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1645834859,
@@ -9541,7 +9541,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -12388,7 +12388,7 @@
     "all_locations": "London, England, United Kingdom",
     "long_description": "Trigger.dev is the open source platform for building AI agents and workflows in TypeScript. Long-running tasks with retries, queues, full observability, and elastic scaling.\r\n\r\nPreviously, the founders built JSON Hero, an open source JSON viewer that is currently used by more than 35k developers a month. Eric was CTO of Code School, an early code learning platform that was acquired in 2015. Matt created two iPad apps that won Apple’s App of the Year.",
     "one_liner": "Build and deploy fully‑managed AI agents and workflows",
-    "team_size": 9,
+    "team_size": 17,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1665673307,
@@ -12415,7 +12415,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -15466,8 +15466,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6668d68dbb65664dcc7f40eff60e4ee586f09132.png",
     "website": "https://paradedb.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Search without a second system. One Postgres for your application data, full-text search, vector retrieval, and aggregations.",
-    "one_liner": "Unify application data, vectors, and full-text search in one Postgres",
+    "long_description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations.",
+    "one_liner": "You should just use Postgres.",
     "team_size": 11,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -24228,15 +24228,17 @@
   },
   {
     "id": 33348,
-    "name": "hiloop",
-    "slug": "hiloop",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3757083c195e320f3b98de96aa489419197b9463.png",
-    "website": "https://hiloop.ai",
+    "name": "Autoresearch, Inc.",
+    "slug": "autoresearch-inc",
+    "former_names": [
+      "hiloop"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b91efea37962386a163af58e2f2920b1e9d0aa7.png",
+    "website": "https://autoresearch.inc",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "hiloop helps teams train agents for tasks where general models are not good enough. Give us a task, your current agent or model, and an evaluation. hiloop runs an autoresearch campaign across data, SFT and other post-training methods, continual learning, prompts, tools, harnesses, and systems, then returns the best verified improvement. It runs hosted or in your cloud.\r\n\r\nWe provide the research system around models: persistent memory, full experiment lineage, compute orchestration, and statistical verification. We’re starting with agent and model training, continual learning, and optimization.\r\n\r\nReach out to us for early access at founders@hiloop.ai.",
+    "long_description": "Autoresearch helps teams train agents for tasks where general models are not good enough. Give us a task, your current agent or model, and an evaluation. Autoresearch runs an autoresearch campaign across data, SFT and other post-training methods, continual learning, prompts, tools, harnesses, and systems, then returns the best verified improvement. It runs hosted or in your cloud.\r\n\r\nWe provide the research system around models: persistent memory, full experiment lineage, compute orchestration, and statistical verification. We’re starting with agent and model training, continual learning, and optimization.\r\n\r\nReach out to us for early access at founders@autoresearch.inc.",
     "one_liner": "Autoresearch as a service: we solve your hardest measurable problems",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1785348094,
@@ -24266,8 +24268,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/hiloop",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/hiloop.json"
+    "url": "https://www.ycombinator.com/companies/autoresearch-inc",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/autoresearch-inc.json"
   },
   {
     "id": 33573,
@@ -24824,6 +24826,50 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/memorable",
     "api": "https://yc-oss.github.io/api/batches/summer-2027/memorable.json"
+  },
+  {
+    "id": 36972,
+    "name": "Composal",
+    "slug": "composal",
+    "former_names": [
+      "Vex",
+      "VEX"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e1f6f0a97f11c72c78bdc6875df0e065a154770.png",
+    "website": "https://composal.ai",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "Check features, not code. Composal sends a swarm of agents to use your product like your users do. They test real flows and edge cases to show you what works, what breaks, and if it’s ready to ship.",
+    "one_liner": "Swarms of agents acting like users to find bugs before release",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1791500162,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "DevSecOps",
+      "Cloud Computing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/composal",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/composal.json"
   },
   {
     "id": 38061,

@@ -1918,8 +1918,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6668d68dbb65664dcc7f40eff60e4ee586f09132.png",
     "website": "https://paradedb.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Search without a second system. One Postgres for your application data, full-text search, vector retrieval, and aggregations.",
-    "one_liner": "Unify application data, vectors, and full-text search in one Postgres",
+    "long_description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations.",
+    "one_liner": "You should just use Postgres.",
     "team_size": 11,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -2685,15 +2685,15 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1717601253,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "API",
-      "Supply Chain",
-      "Infrastructure"
+      "Infrastructure",
+      "AI",
+      "Industrial"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -3738,7 +3738,7 @@
       "Naïve",
       "naïve"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed09e878f16f40414804fdb218d878e11639bd1e.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4a69089a2a0c9f75ef6115c3f5aebf4d621f71e8.png",
     "website": "https://usenaive.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Naïve is an AI research lab building autonomous companies.\r\n\r\nWe develop the systems, environments, and agent infrastructure required for AI to operate real businesses end-to-end, then release increasingly capable autonomous companies into the world.",
@@ -3748,8 +3748,8 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1747424808,
     "tags": [
-      "Artificial Intelligence",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5014,16 +5014,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Hub is a multimodal lab providing real world data to frontier labs and robotic companies.",
     "one_liner": "Real-world training data for frontier AI labs and robotics.",
-    "team_size": 10,
+    "team_size": 40,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1773429014,
     "tags": [
+      "Artificial Intelligence",
       "Robotics",
       "Crowdsourcing",
       "Big Data",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5687,15 +5687,17 @@
   },
   {
     "id": 33348,
-    "name": "hiloop",
-    "slug": "hiloop",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3757083c195e320f3b98de96aa489419197b9463.png",
-    "website": "https://hiloop.ai",
+    "name": "Autoresearch, Inc.",
+    "slug": "autoresearch-inc",
+    "former_names": [
+      "hiloop"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b91efea37962386a163af58e2f2920b1e9d0aa7.png",
+    "website": "https://autoresearch.inc",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "hiloop helps teams train agents for tasks where general models are not good enough. Give us a task, your current agent or model, and an evaluation. hiloop runs an autoresearch campaign across data, SFT and other post-training methods, continual learning, prompts, tools, harnesses, and systems, then returns the best verified improvement. It runs hosted or in your cloud.\r\n\r\nWe provide the research system around models: persistent memory, full experiment lineage, compute orchestration, and statistical verification. We’re starting with agent and model training, continual learning, and optimization.\r\n\r\nReach out to us for early access at founders@hiloop.ai.",
+    "long_description": "Autoresearch helps teams train agents for tasks where general models are not good enough. Give us a task, your current agent or model, and an evaluation. Autoresearch runs an autoresearch campaign across data, SFT and other post-training methods, continual learning, prompts, tools, harnesses, and systems, then returns the best verified improvement. It runs hosted or in your cloud.\r\n\r\nWe provide the research system around models: persistent memory, full experiment lineage, compute orchestration, and statistical verification. We’re starting with agent and model training, continual learning, and optimization.\r\n\r\nReach out to us for early access at founders@autoresearch.inc.",
     "one_liner": "Autoresearch as a service: we solve your hardest measurable problems",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1785348094,
@@ -5725,8 +5727,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/hiloop",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/hiloop.json"
+    "url": "https://www.ycombinator.com/companies/autoresearch-inc",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/autoresearch-inc.json"
   },
   {
     "id": 33673,
