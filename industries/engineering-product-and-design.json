@@ -7112,7 +7112,7 @@
     "website": "https://reframe.dev/",
     "all_locations": "",
     "long_description": "Shutdown to pursue fundamental computing research",
-    "one_liner": "Zoomable generative UI for codebase architecture",
+    "one_liner": "Model and visualize codebase architecture",
     "team_size": 0,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -13059,7 +13059,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -18457,16 +18457,14 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Entangl uses AI to detect and automatically resolve issues in data center engineering and operations, ensuring efficiency and uptime. ",
     "one_liner": "Find & resolve issues in data center engineering & operations using AI",
-    "team_size": 15,
+    "team_size": 22,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1716219164,
     "tags": [
       "Artificial Intelligence",
-      "Aerospace",
       "Enterprise Software",
-      "Automation",
-      "Automotive"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -25402,7 +25400,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac5a6cce941f973ff80cb4496e195f4010e5c21b.png",
     "website": "https://www.tryluke.dev/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "New York City, NY, USA",
     "long_description": "Stage is a new code review platform designed to help engineers better understand and review AI generated code.\r\n\r\nEngineering teams are shipping faster than ever with agents, but now they’re drowning in an endless backlog of PRs to review. Stage reorganizes the code review process around how engineers naturally think, enabling you to review (and merge!) PRs 5x faster. \r\n\r\nUsed by top engineers at Legora, n8n, Branch, and more. ",
     "one_liner": "Code review platform for humans and agents",
     "team_size": 2,
@@ -26579,6 +26577,51 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/simulithic.json"
   },
   {
+    "id": 35191,
+    "name": "Munito AI",
+    "slug": "munito-ai",
+    "former_names": [
+      "zugzug.ai"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/287fb0bcb8cbc376d57a3e34f3cd0cdda9966268.png",
+    "website": "https://munito.ai",
+    "all_locations": "Paris, Île-de-France, France; Remote",
+    "long_description": "Munito is an open-model inference provider for Europe, private by default. Its API lets users choose their models and keep inference and storage in the EU. \r\nFounded by the former inference lead at Mistral AI, Munito is built on one belief: open and independent intelligence, both models and inference, is key to economic growth and prosperity.",
+    "one_liner": "Open-model inference provider for Europe, private by default.",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1791574997,
+    "tags": [
+      "Artificial Intelligence",
+      "Enterprise",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "France",
+      "Europe",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/munito-ai",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/munito-ai.json"
+  },
+  {
     "id": 35258,
     "name": "Mirrors",
     "slug": "mirrors",
@@ -26586,18 +26629,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e98a564b21ba044528e16126406d35b7464044b7.png",
     "website": "https://www.mirrors.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Production agents handle many different customer workflows. Currently, when one handles a situation badly, an engineer reads the trace and patches the prompt. The next situation needs another exception. Soon, improving the agent becomes a recurring engineering job, and the prompt keeps growing.\r\n\r\nMirrors finds patterns in past runs and feedback. Engineers review guidance for a specific situation and preview where it would apply. Mirrors then delivers that guidance while the agent works, inside the team’s existing setup. The team can check whether the change improved the outcome.\r\n\r\nWe’re building Mirrors for engineering teams running customer-facing agents across varied workflows, so they can improve behavior without hardcoding every lesson in the global prompt.",
-    "one_liner": "Steer AI agents in real time using lessons from production runs",
+    "long_description": "Production agents handle many different customer workflows. Currently, when one handles a situation badly, an engineer reads the trace and patches the prompt. The next situation needs another exception. Soon, improving the agent becomes a recurring engineering job, and the prompt keeps growing.\r\n\r\nMirrors finds patterns in past runs. Engineers review guidance for a specific situation and preview where it would apply. Mirrors then delivers that guidance while the agent works, inside the team’s existing setup. The team can check whether the change improved the outcome.\r\n\r\nWe’re building Mirrors for engineering teams running customer-facing agents across varied workflows, so they can improve behavior without hardcoding every lesson in the global prompt.",
+    "one_liner": "Give AI agents the right instructions at the right moment",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1789011304,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,

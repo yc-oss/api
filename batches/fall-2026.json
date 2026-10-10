@@ -305,15 +305,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8edd99606159933b27bd8c7f3992e7ad9e5b4dea.png",
     "website": "https://www.conus-med.com",
     "all_locations": "Cologne, NRW, Germany",
-    "long_description": "CONUS structures fragmented medical device information for surgeons. We combine manufacturer documentation, hospital protocols and medical research in one place, giving surgeons and MedTech teams reliable answers across products and procedures.\r\n\r\nWe already work with leading manufacturers including Johnson & Johnson, Stryker and Zimmer Biomet, and since launching six months ago we’ve gone live in 18 hospitals.\r\n\r\nLong term, hospitals will use CONUS to select and order implants across manufacturers.",
+    "long_description": "CONUS structures fragmented medical device information for surgeons. We combine manufacturer documentation, hospital protocols and medical research in one place, giving surgeons and MedTech teams reliable answers across products and procedures.\r\n\r\nWe already work with leading manufacturers including Johnson & Johnson, Stryker and Zimmer Biomet, and since launching six months ago we’ve gone live in 20 hospitals.\r\n\r\nLong term, hospitals will use CONUS to select and order implants across manufacturers.",
     "one_liner": "The AI knowledge layer for medical devices",
     "team_size": 3,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1790675017,
     "tags": [
-      "Artificial Intelligence",
-      "Healthcare"
+      "Healthcare",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1648,19 +1648,20 @@
     "former_names": [
       "OpenACA"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/902b46e418653f41629fec03fce33e1e6a3e6bc9.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e79ba1ad9464ac22023bbed994e2299d2ae8addf.png",
     "website": "https://stacktrace.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We’re building Stacktrace to help teams see what AI agents actually do, detect risky\r\nbehavior, and alert the people responsible. Administrators can also deploy policies that block unapproved tools, such as MCP servers and plugins, before agents use them.\r\n",
+    "long_description": "Agents will do most of the work in the future, but only if teams can trust them unsupervised.\r\nStacktrace is the control layer for every agent: it sees every action, detects risky behavior, enforces the bounds your team sets, and steps in when an agent drifts from intent.",
     "one_liner": "See and control what your agents actually do",
     "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B -> Security",
+    "subindustry": "B2B -> Infrastructure",
     "launched_at": 1790912378,
     "tags": [
+      "Artificial Intelligence",
       "DevSecOps",
       "Cybersecurity",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1670,7 +1671,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Security"
+      "Infrastructure"
     ],
     "regions": [
       "United States of America",
@@ -1812,6 +1813,51 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/lantern-ai.json"
   },
   {
+    "id": 35191,
+    "name": "Munito AI",
+    "slug": "munito-ai",
+    "former_names": [
+      "zugzug.ai"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/287fb0bcb8cbc376d57a3e34f3cd0cdda9966268.png",
+    "website": "https://munito.ai",
+    "all_locations": "Paris, Île-de-France, France; Remote",
+    "long_description": "Munito is an open-model inference provider for Europe, private by default. Its API lets users choose their models and keep inference and storage in the EU. \r\nFounded by the former inference lead at Mistral AI, Munito is built on one belief: open and independent intelligence, both models and inference, is key to economic growth and prosperity.",
+    "one_liner": "Open-model inference provider for Europe, private by default.",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1791574997,
+    "tags": [
+      "Artificial Intelligence",
+      "Enterprise",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "France",
+      "Europe",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/munito-ai",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/munito-ai.json"
+  },
+  {
     "id": 35224,
     "name": "Micora",
     "slug": "micora",
@@ -1903,18 +1949,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e98a564b21ba044528e16126406d35b7464044b7.png",
     "website": "https://www.mirrors.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Production agents handle many different customer workflows. Currently, when one handles a situation badly, an engineer reads the trace and patches the prompt. The next situation needs another exception. Soon, improving the agent becomes a recurring engineering job, and the prompt keeps growing.\r\n\r\nMirrors finds patterns in past runs and feedback. Engineers review guidance for a specific situation and preview where it would apply. Mirrors then delivers that guidance while the agent works, inside the team’s existing setup. The team can check whether the change improved the outcome.\r\n\r\nWe’re building Mirrors for engineering teams running customer-facing agents across varied workflows, so they can improve behavior without hardcoding every lesson in the global prompt.",
-    "one_liner": "Steer AI agents in real time using lessons from production runs",
+    "long_description": "Production agents handle many different customer workflows. Currently, when one handles a situation badly, an engineer reads the trace and patches the prompt. The next situation needs another exception. Soon, improving the agent becomes a recurring engineering job, and the prompt keeps growing.\r\n\r\nMirrors finds patterns in past runs. Engineers review guidance for a specific situation and preview where it would apply. Mirrors then delivers that guidance while the agent works, inside the team’s existing setup. The team can check whether the change improved the outcome.\r\n\r\nWe’re building Mirrors for engineering teams running customer-facing agents across varied workflows, so they can improve behavior without hardcoding every lesson in the global prompt.",
+    "one_liner": "Give AI agents the right instructions at the right moment",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1789011304,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3438,6 +3484,47 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/archangel-health.json"
   },
   {
+    "id": 36279,
+    "name": "Native",
+    "slug": "native",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/150e28c9ae3ba8f6c0bac4696c53752a638f59ff.png",
+    "website": "https://native.no/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Native is building an autonomous marketing platform where business can do all of their marketing within one platform using our artificial intuition model called Norn, that predicts what people will respond to, researched and built in house.",
+    "one_liner": "Artificial Intuition for marketing",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1791575550,
+    "tags": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Social Media"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/native",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/native.json"
+  },
+  {
     "id": 36345,
     "name": "Shire Intelligence",
     "slug": "shire-intelligence",
@@ -4114,11 +4201,11 @@
     "name": "Acyclic Labs",
     "slug": "acyclic",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/28f8a7a30ed4c8ddd3df528c98ebc77233935fc2.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e0ab38690d05797c7ccebecaf6f40e8c72b69516.png",
     "website": "https://acyclic.dev",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "Acyclic runs agent swarms. Hand it a task from the CLI, the dashboard, or a coding agent over MCP, and it splits the work across many agents, each in its own sandbox, then merges what they produce into one result. Long agentic workflows finish in a fraction of the wall-clock time. Bring your own model keys or run the sandboxes in your own cloud; the harness underneath is open source. Coding is the first workload, and research and data work run the same way. Founded by Ram Vinjamuri and Varun Latthe. YC F26, London.",
-    "one_liner": "Rapid agent swarms: make any agentic workflow exponentially faster",
+    "long_description": "Acyclic builds the infrastructure for agent swarms: open-source primitives for running agents in parallel, and a managed agents platform that runs swarms for you. Complex, long-running tasks are split across many agents, each working in its own instant fork of the workspace, and finish in a fraction of the time.\n\nWe built Acyclic because we believe there are huge gains to be had in how agents are run, beyond the models themselves. Agents can already do real work, but they still do it one step at a time, so complex tasks take hours or days. Running them as swarms is an infrastructure problem: isolating each agent, dividing the work, and merging the results without conflicts. Today, teams use Acyclic to run heavy document-processing pipelines in minutes instead of hours.\n\nAt Cambridge, we researched ML and auto-parallelising compilers, and then we built multi-agent systems in production: Ram as a Palantir FDE for pharma clients, shipping systems for clinical trial design, and Varun leading agent architecture at Tracelight for Big 4 accounting firms. We kept asking the same question: the agents were good enough, so why couldn't we run thousands of them at once to make everything faster and cheaper? Acyclic is our answer.",
+    "one_liner": "Agent swarms that make long-running tasks exponentially faster",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -4238,18 +4325,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e143f02ee81e74efcd4497792528526f512482b.png",
     "website": "https://www.volaren.ai",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Every great investment starts as an idea about the world. Institutions have teams of analysts turning those ideas into positions. Volaren is that team, processing data through fundamentals and quantitative models that can be personalized with AI.\r\n\r\nTurn your views into trades, portfolios, and back-testable frameworks and strategies, and Volaren stays with you from there, showing you what's actually driving each position and what it means for your next move.",
-    "one_liner": "Volaren collapses the hedge fund model and making it accessible to…",
+    "long_description": "Turning ideas into trades. Every great investment starts as an idea about the world. Institutions have teams of analysts turning those ideas into positions. Volaren is that team, processing data through fundamentals and quantitative models that can be personalized with AI.\r\n\r\nTurn your views into trades, portfolios, and back-testable frameworks and strategies, and Volaren stays with you from there, showing you what's actually driving each position and what it means for your next move.",
+    "one_liner": "Turning Ideas into Trades. Volaren puts the hedge fund in the hands…",
     "team_size": 4,
     "industry": "Fintech",
     "subindustry": "Fintech -> Asset Management",
     "launched_at": 1789771499,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "Marketplace",
       "Finance",
-      "Creator Economy"
+      "Creator Economy",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4263,9 +4350,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4485,6 +4570,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/decent-com",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/decent-com.json"
+  },
+  {
+    "id": 37401,
+    "name": "Theseus Robotics",
+    "slug": "theseus-robotics",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0985c4e6c6734c8e730ab16124ab8ee4c127df5c.png",
+    "website": "https://theseus.bot/",
+    "all_locations": "ZH, Switzerland",
+    "long_description": "Theseus Robotics creates the OS & Physical AI to deploys humanoids to automate menial tasks in supermarkets. During the day, our robotics pick orders for e-grocery orders. Overnight, they restocks shelves with goods from the back warehouse. ",
+    "one_liner": "Humanoids to restock retail shelves & pick orders",
+    "team_size": 7,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1791578688,
+    "tags": [
+      "Hard Tech",
+      "Robotics",
+      "Retail Tech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "Switzerland",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/theseus-robotics",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/theseus-robotics.json"
   },
   {
     "id": 37434,
