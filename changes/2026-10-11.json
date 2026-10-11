@@ -1,0 +1,564 @@
+{
+  "generated_at": "2026-10-11T03:00:39.856Z",
+  "summary": {
+    "previous_total": 6285,
+    "current_total": 6286,
+    "added": 1,
+    "removed": 0,
+    "updated": 17
+  },
+  "added": [
+    {
+      "id": 37999,
+      "name": "RATLOG",
+      "slug": "ratlog",
+      "former_names": [],
+      "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c91e646aa134e7ed3da1082d56c2a3cdd68f8337.png",
+      "website": "",
+      "all_locations": "Dresden, SN, Germany",
+      "long_description": "",
+      "one_liner": "Reusable heavy-lift rockets",
+      "team_size": 4,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Aviation and Space",
+      "launched_at": 1791657873,
+      "tags": [
+        "Commercial Space Launch"
+      ],
+      "tags_highlighted": [],
+      "top_company": false,
+      "isHiring": false,
+      "nonprofit": false,
+      "batch": "Fall 2026",
+      "status": "Active",
+      "industries": [
+        "Industrials",
+        "Aviation and Space"
+      ],
+      "regions": [
+        "Germany",
+        "Europe"
+      ],
+      "stage": "Early",
+      "app_video_public": false,
+      "demo_day_video_public": false,
+      "app_answers": null,
+      "question_answers": false,
+      "url": "https://www.ycombinator.com/companies/ratlog",
+      "api": "https://yc-oss.github.io/api/batches/fall-2026/ratlog.json"
+    }
+  ],
+  "removed": [],
+  "updated": [
+    {
+      "id": 1836,
+      "name": "Orangewood Labs",
+      "slug": "orangewood-labs",
+      "batch": "Winter 2018",
+      "url": "https://www.ycombinator.com/companies/orangewood-labs",
+      "changed_fields": [
+        "all_locations",
+        "long_description",
+        "one_liner",
+        "regions",
+        "tags",
+        "team_size"
+      ],
+      "changes": {
+        "all_locations": {
+          "before": "San Francisco, CA, USA; Noida, UP, India",
+          "after": "San Francisco, CA, USA"
+        },
+        "long_description": {
+          "before": "Orangewood Labs makes the world's most affordable AI-powered industrial robotic arms for small businesses! Our robots can be programmed by just using natural language prompts and cost a fraction of human labor. \r\n\r\n",
+          "after": "Orangewood Labs makes physical ai and robotics with real world robot deployments performing millions of tasks \r\n\r\n"
+        },
+        "one_liner": {
+          "before": "Orangewood Labs makes worlds most affordable and easiest AI robot arms",
+          "after": "Orangewood democratises robotics"
+        },
+        "regions": {
+          "before": [
+            "United States of America",
+            "India",
+            "America / Canada",
+            "South Asia"
+          ],
+          "after": [
+            "United States of America",
+            "America / Canada",
+            "Remote",
+            "Partly Remote"
+          ]
+        },
+        "tags": {
+          "before": [
+            "Artificial Intelligence",
+            "Generative AI",
+            "Hardware",
+            "Robotics"
+          ],
+          "after": [
+            "Generative AI",
+            "Hardware",
+            "Robotics",
+            "AI"
+          ]
+        },
+        "team_size": {
+          "before": 40,
+          "after": 8
+        }
+      }
+    },
+    {
+      "id": 25318,
+      "name": "Handyman.ai",
+      "slug": "handymanai",
+      "batch": "Winter 2022",
+      "url": "https://www.ycombinator.com/companies/handymanai",
+      "changed_fields": [
+        "api",
+        "former_names",
+        "long_description",
+        "name",
+        "one_liner",
+        "slug",
+        "small_logo_thumb_url",
+        "tags",
+        "url",
+        "website"
+      ],
+      "changes": {
+        "api": {
+          "before": "https://yc-oss.github.io/api/batches/winter-2022/wereno.json",
+          "after": "https://yc-oss.github.io/api/batches/winter-2022/handymanai.json"
+        },
+        "former_names": {
+          "before": [
+            "WeReno",
+            "Inc.",
+            "VIDCALL",
+            "Inc",
+            "WeReno",
+            "WeReno (Vidcall",
+            "Inc.)",
+            "WeReno",
+            "Scope3D (fka WeReno)",
+            "Scope3D",
+            "Built OS",
+            "BuiltOS"
+          ],
+          "after": [
+            "WeReno",
+            "Inc.",
+            "VIDCALL",
+            "Inc",
+            "WeReno",
+            "WeReno (Vidcall",
+            "Inc.)",
+            "WeReno",
+            "Scope3D (fka WeReno)",
+            "Scope3D",
+            "Built OS",
+            "BuiltOS",
+            "WeReno",
+            "Handyman.ai by WeReno"
+          ]
+        },
+        "long_description": {
+          "before": "WeReno is the AI operating layer for property improvement. We spent more than a decade representing property owners, coordinating contractors, and managing renovations and capital projects. Across that time, we’ve helped facilitate $1B+ in project value and turned that operating playbook into AI agents that help property owners and contractors get work done.\r\n\r\nHandyman.ai helps homeowners handle everyday repairs and maintenance. Renobot.ai represents homeowners through renovations. Opsonic.ai gives contractors an AI back office for quoting, scheduling, follow-up, and operations. Capital by WeReno manages complex commercial projects.",
+          "after": "While building WeReno.com, we managed over $1B in renovations and noticed something: property owners kept coming back long after projects ended. We realized buildings have no memory, and every repair, maintenance issue, and service request starts from scratch.\r\n\r\nSo we built Handyman.ai, an AI agent that remembers your property, anticipates problems, and handles everything from maintenance to repairs.\r\n\r\nIn our first three months, we've facilitated $10M in GMV, validating the opportunity to build an AI agent for every property."
+        },
+        "name": {
+          "before": "WeReno",
+          "after": "Handyman.ai"
+        },
+        "one_liner": {
+          "before": "The AI operating layer for property improvement.",
+          "after": "Handyman.ai by WeReno- The AI operating layer for property improvement"
+        },
+        "slug": {
+          "before": "wereno",
+          "after": "handymanai"
+        },
+        "small_logo_thumb_url": {
+          "before": "https://bookface-images.s3.amazonaws.com/small_logos/c65d6fe451c746d928cfe1511810bc3f77971cb3.png",
+          "after": "https://bookface-images.s3.amazonaws.com/small_logos/5b2cd4bcd46eaa5a921d4398a930a8db159d40bd.png"
+        },
+        "tags": {
+          "before": [
+            "Artificial Intelligence",
+            "Real Estate",
+            "Construction",
+            "Proptech"
+          ],
+          "after": [
+            "Real Estate",
+            "Construction",
+            "Proptech",
+            "AI"
+          ]
+        },
+        "url": {
+          "before": "https://www.ycombinator.com/companies/wereno",
+          "after": "https://www.ycombinator.com/companies/handymanai"
+        },
+        "website": {
+          "before": "https://WeReno.com",
+          "after": "https://handyman.ai"
+        }
+      }
+    },
+    {
+      "id": 27735,
+      "name": "Numeral",
+      "slug": "numeral",
+      "batch": "Winter 2023",
+      "url": "https://www.ycombinator.com/companies/numeral",
+      "changed_fields": [
+        "stage"
+      ],
+      "changes": {
+        "stage": {
+          "before": "Early",
+          "after": "Growth"
+        }
+      }
+    },
+    {
+      "id": 29369,
+      "name": "Astro Mechanica",
+      "slug": "astro-mechanica",
+      "batch": "Winter 2024",
+      "url": "https://www.ycombinator.com/companies/astro-mechanica",
+      "changed_fields": [
+        "stage"
+      ],
+      "changes": {
+        "stage": {
+          "before": "Early",
+          "after": "Growth"
+        }
+      }
+    },
+    {
+      "id": 29789,
+      "name": "Paasa",
+      "slug": "paasa",
+      "batch": "Summer 2024",
+      "url": "https://www.ycombinator.com/companies/paasa",
+      "changed_fields": [
+        "isHiring"
+      ],
+      "changes": {
+        "isHiring": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "id": 30210,
+      "name": "Conntour",
+      "slug": "conntour",
+      "batch": "Winter 2025",
+      "url": "https://www.ycombinator.com/companies/conntour",
+      "changed_fields": [
+        "long_description"
+      ],
+      "changes": {
+        "long_description": {
+          "before": "Conntour enables government agencies to query video - from security cameras, body cams, and drones.\r\n\r\nUsers can search past footage (“Find a man with tattoos on his left arm”), configure real-time alerts (“Notify me if someone climbs over the wall”), and extract data (“How many pickup trucks entered yesterday?”).\r\n\r\nUnlike traditional video analytics solutions, which are limited to fixed parameters (like a weapon, bag, or car color), Conntour supports an unlimited range of highly specific scenarios described in plain language. This enables a single human to monitor thousands of cameras, or find a specific moment in minutes instead of days.\r\n\r\nWhat makes Conntour's technology unique is its ability to process video at scale, fully on-premises, with minimal hardware requirements.\r\n\r\nConntour is backed by top-tier investors including General Catalyst and Y Combinator, selected for the first-ever Palantir Fellowship, and advised by Bob Flores - former CTO of the CIA.",
+          "after": "Conntour enables government agencies to query their video - from security cameras, body cams, and drones.\r\n\r\nUsers can search past footage (“Find a man with tattoos on his left arm”), configure real-time alerts (“Notify me if someone climbs over the wall”), and extract data (“How many pickup trucks entered yesterday?”).\r\n\r\nUnlike traditional video analytics solutions, which are limited to fixed parameters (like a weapon, bag, or car color), Conntour supports an unlimited range of highly specific scenarios described in plain language. This enables a single human to monitor thousands of cameras, or find a specific moment in minutes instead of days.\r\n\r\nWhat makes Conntour's technology unique is its ability to process video using natural language at scale, fully on-premises, with minimal hardware requirements. The system is already deployed with mission-critical teams at leading intelligence and homeland security agencies.\r\n\r\nConntour is backed by top-tier investors including General Catalyst and Y Combinator, was selected for the first-ever Palantir Fellowship, and has the former CTO of the CIA on its advisory board."
+        }
+      }
+    },
+    {
+      "id": 30230,
+      "name": "SalesPatriot",
+      "slug": "salespatriot",
+      "batch": "Winter 2025",
+      "url": "https://www.ycombinator.com/companies/salespatriot",
+      "changed_fields": [
+        "long_description",
+        "one_liner"
+      ],
+      "changes": {
+        "long_description": {
+          "before": "SalesPatriot is a back-office operating system for distributors and OEMS. We build custom AI workflows for sales and supply chain teams to manage procurement, requests for quote and purchase orders.\r\n\r\nIn large orgs that operate as key nodes of the supply chain data is scattered across twelve systems. Quotes get lost and Executives lack visibility. Supply chain workflows are time consuming because data isn't where it needs to be in the format it needs to be.\r\n\r\nEmployees are stuck between their email, ERP, CRM, marketplaces, and spreadsheets instead of winning business and protecting margin.",
+          "after": "SalesPatriot deploys supply chain superintelligence into distribution, original equipment manufacturing, and procurement. By embedding AI in the teams that run quote to cash workflows, we turn email chains, ERPs, websites, spreadsheets, and portals into a unified transactional layer, so critical parts reach the production line faster.\r\n\r\nThe West’s advantage depends on supply chains that work. We build and deploy the software that makes them work."
+        },
+        "one_liner": {
+          "before": "AI powered operating system for distributors and OEMs",
+          "after": "Supply chain superintelligence for distribution and procurement"
+        }
+      }
+    },
+    {
+      "id": 30243,
+      "name": "Cifrato",
+      "slug": "cifrato",
+      "batch": "Winter 2025",
+      "url": "https://www.ycombinator.com/companies/cifrato",
+      "changed_fields": [
+        "isHiring"
+      ],
+      "changes": {
+        "isHiring": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "id": 30442,
+      "name": "YouLearn",
+      "slug": "youlearn",
+      "batch": "Spring 2025",
+      "url": "https://www.ycombinator.com/companies/youlearn",
+      "changed_fields": [
+        "tags",
+        "team_size"
+      ],
+      "changes": {
+        "tags": {
+          "before": [
+            "AI-Enhanced Learning",
+            "Education",
+            "AI"
+          ],
+          "after": [
+            "AI-Enhanced Learning",
+            "Artificial Intelligence",
+            "Education"
+          ]
+        },
+        "team_size": {
+          "before": 4,
+          "after": 3
+        }
+      }
+    },
+    {
+      "id": 30772,
+      "name": "stagewise",
+      "slug": "stagewise",
+      "batch": "Summer 2025",
+      "url": "https://www.ycombinator.com/companies/stagewise",
+      "changed_fields": [
+        "small_logo_thumb_url",
+        "tags"
+      ],
+      "changes": {
+        "small_logo_thumb_url": {
+          "before": "https://bookface-images.s3.amazonaws.com/small_logos/d9ff55657c9c6cb094a914f151062d5bc781a912.png",
+          "after": "https://bookface-images.s3.amazonaws.com/small_logos/f23d4a87e54104479dda1da414cfdf2d79192208.png"
+        },
+        "tags": {
+          "before": [
+            "Artificial Intelligence",
+            "Developer Tools",
+            "Open Source"
+          ],
+          "after": [
+            "Developer Tools",
+            "Open Source",
+            "AI"
+          ]
+        }
+      }
+    },
+    {
+      "id": 31373,
+      "name": "Atrisa",
+      "slug": "atrisa",
+      "batch": "Spring 2026",
+      "url": "https://www.ycombinator.com/companies/atrisa",
+      "changed_fields": [
+        "isHiring"
+      ],
+      "changes": {
+        "isHiring": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "id": 31455,
+      "name": "tday.com",
+      "slug": "tdaycom",
+      "batch": "Spring 2026",
+      "url": "https://www.ycombinator.com/companies/tdaycom",
+      "changed_fields": [
+        "small_logo_thumb_url"
+      ],
+      "changes": {
+        "small_logo_thumb_url": {
+          "before": "https://bookface-images.s3.amazonaws.com/small_logos/3f0ffe6b713cd1d09640befb7d9ecff3dd9facdb.png",
+          "after": "https://bookface-images.s3.amazonaws.com/small_logos/dcb95bbd996c96bdc7fb6f2b3eded9623e44edd6.png"
+        }
+      }
+    },
+    {
+      "id": 34896,
+      "name": "Faraday",
+      "slug": "faraday",
+      "batch": "Fall 2026",
+      "url": "https://www.ycombinator.com/companies/faraday",
+      "changed_fields": [
+        "industries",
+        "long_description",
+        "one_liner",
+        "subindustry"
+      ],
+      "changes": {
+        "industries": {
+          "before": [
+            "Industrials",
+            "Manufacturing and Robotics"
+          ],
+          "after": [
+            "Industrials"
+          ]
+        },
+        "long_description": {
+          "before": "",
+          "after": "Faraday builds industrial AI that learns how enterprises operate and executes long-horizon, multi-step tasks from the back office to the shop floor.\r\n\r\nWe sit on top of fragmented systems of record, coordinating work across existing software and teams. We combine operating procedures, enterprise data, and expert feedback to capture the rules and judgment behind complex processes. In customer-specific RL environments, we optimize the agent harness around each company’s systems, constraints, approvals, and exceptions.\r\n\r\nWe’re connecting to industrial hardware to bring live production data into the same feedback loop. Human corrections, machine data, and operating results help improve how agents plan and execute future work.\r\n"
+        },
+        "one_liner": {
+          "before": "Industrial aOS between humans, agents, and robots",
+          "after": "Agents running industrial enterprises from back office to shop floor"
+        },
+        "subindustry": {
+          "before": "Industrials -> Manufacturing and Robotics",
+          "after": "Industrials"
+        }
+      }
+    },
+    {
+      "id": 34904,
+      "name": "Viraj Aero",
+      "slug": "viraj-aero",
+      "batch": "Fall 2026",
+      "url": "https://www.ycombinator.com/companies/viraj-aero",
+      "changed_fields": [
+        "all_locations",
+        "long_description",
+        "regions",
+        "tags"
+      ],
+      "changes": {
+        "all_locations": {
+          "before": "Toulouse, Occitanie, France",
+          "after": ""
+        },
+        "long_description": {
+          "before": "",
+          "after": "Viraj Aero builds gas turbines that deliver both power and cooling water for data centers. It needs no grid connection and no water pipeline.\r\n\r\nBurning natural gas already produces water. Our patent-pending system captures that water from the exhaust. Part of it cools the data center. The rest is turned into steam and injected back into the turbine. That gives up to 40% more power from the same fuel (cheaper compute) and cuts NOx emissions by up to 99%, which cuts permit approvals from years to weeks.\r\n\r\nWe're building a genset around our first-of-its-kind gas turbine. It fits in a 10-foot container and runs anywhere, even in the desert. That matters because two-thirds of new data centers are being built in water-stressed regions.\r\n\r\nWe first built this steam-injected turbine for aircraft, where carrying water tanks isn't an option and efficiency is critical. We're currently integrating our full-scale prototype into an aircraft. The team comes from GE, Rolls-Royce and Formula 1, and we're already working with Safran, one of the world's largest aircraft engine manufacturers."
+        },
+        "regions": {
+          "before": [
+            "France",
+            "Europe"
+          ],
+          "after": [
+            "Unspecified"
+          ]
+        },
+        "tags": {
+          "before": [
+            "Artificial Intelligence",
+            "Hard Tech",
+            "Energy",
+            "Aerospace",
+            "ClimateTech"
+          ],
+          "after": [
+            "Artificial Intelligence",
+            "Hard Tech",
+            "Energy",
+            "Aerospace"
+          ]
+        }
+      }
+    },
+    {
+      "id": 35850,
+      "name": "Dreamscale Labs",
+      "slug": "dreamscale-labs",
+      "batch": "Fall 2026",
+      "url": "https://www.ycombinator.com/companies/dreamscale-labs",
+      "changed_fields": [
+        "one_liner"
+      ],
+      "changes": {
+        "one_liner": {
+          "before": "Running robot brains in the cloud",
+          "after": "Real-time cloud inference for robotics."
+        }
+      }
+    },
+    {
+      "id": 36577,
+      "name": "OpEra",
+      "slug": "opera",
+      "batch": "Fall 2026",
+      "url": "https://www.ycombinator.com/companies/opera",
+      "changed_fields": [
+        "long_description",
+        "one_liner",
+        "small_logo_thumb_url"
+      ],
+      "changes": {
+        "long_description": {
+          "before": "Opera (YC F26) is an automated operations research lab applying mathematics and AI to optimize operations for retail, logistics, manufacturing, agriculture and more, delivering solutions for VP of Operations, supply chain leaders, plant managers and COOs to improve efficiency and decision-making.",
+          "after": "OpEra is the AI decision engine for factories, warehouses and fleets. Companies with physical operations make thousands of decisions every day, and we help their teams make the best one at every step from production to delivery: (1) Planning: how much to make, buy and stock. (2) Scheduling: what runs when, and who works on what. (3) Allocation: which warehouse or store gets each order. (4) Routing: boat, plane or truck, and which route each one takes. Founded out of MIT's Operations Research Center."
+        },
+        "one_liner": {
+          "before": "Automated operations research (OR) lab",
+          "after": "The AI decision engine for factories, warehouses and fleets"
+        },
+        "small_logo_thumb_url": {
+          "before": "https://bookface-images.s3.amazonaws.com/small_logos/8ab2731276f4a748d3087f83aa4d1ed311a0690b.png",
+          "after": "https://bookface-images.s3.amazonaws.com/small_logos/31457ec77d0c307cc8c7986a68fd9d81c50a99ce.png"
+        }
+      }
+    },
+    {
+      "id": 37601,
+      "name": "Lark",
+      "slug": "lark-2",
+      "batch": "Fall 2026",
+      "url": "https://www.ycombinator.com/companies/lark-2",
+      "changed_fields": [
+        "long_description",
+        "one_liner",
+        "tags"
+      ],
+      "changes": {
+        "long_description": {
+          "before": "Lark builds specialized AI agents that automate manual workflows for wholesale distributors. Our agents work with existing ERP systems, learning from each distributor’s historical data and the team’s decisions. Together, these agents can run a distributor’s entire operation.",
+          "after": "Lark deploys AI agents that automate manual workflows for wholesale distributors, everything from customer quotes to inventory managment. Our agents work with existing ERP systems, learning from each distributor’s historical data and the team’s decisions. Together, these agents can run a distributor’s entire operation."
+        },
+        "one_liner": {
+          "before": "Lark - Specialized agents for wholesale distributors",
+          "after": "Lark - AI agents that automate workflows for wholesale distributors"
+        },
+        "tags": {
+          "before": [
+            "B2B",
+            "Supply Chain",
+            "AI"
+          ],
+          "after": [
+            "Artificial Intelligence",
+            "B2B",
+            "Supply Chain"
+          ]
+        }
+      }
+    }
+  ]
+}

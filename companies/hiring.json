@@ -7064,18 +7064,18 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b36a43190da640752bb01710dff43f2c6e5ff91.png",
     "website": "http://www.orangewood.co",
-    "all_locations": "San Francisco, CA, USA; Noida, UP, India",
-    "long_description": "Orangewood Labs makes the world's most affordable AI-powered industrial robotic arms for small businesses! Our robots can be programmed by just using natural language prompts and cost a fraction of human labor. \r\n\r\n",
-    "one_liner": "Orangewood Labs makes worlds most affordable and easiest AI robot arms",
-    "team_size": 40,
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Orangewood Labs makes physical ai and robotics with real world robot deployments performing millions of tasks \r\n\r\n",
+    "one_liner": "Orangewood democratises robotics",
+    "team_size": 8,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1510200183,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "Hardware",
-      "Robotics"
+      "Robotics",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7089,9 +7089,9 @@
     ],
     "regions": [
       "United States of America",
-      "India",
       "America / Canada",
-      "South Asia"
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -30296,7 +30296,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -38890,7 +38890,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -43831,48 +43831,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/refactor.json"
   },
   {
-    "id": 29789,
-    "name": "Paasa",
-    "slug": "paasa",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/69545faa0fc0f7ee6b89313f1c320d59486f1802.png",
-    "website": "https://paasa.com",
-    "all_locations": "Gurugram, HR, India",
-    "long_description": "Paasa helps wealthy Indians invest in global equities - without middlemen, hidden fees, or paperwork.\r\n\r\nWhile high-net-worths in India often have international expenses from children's education to healthcare, most still save in INR, a currency that depreciates ~2–5% per year against the USD. Why?\r\n\r\n- Broken outward remittance process\r\n- Fear of making mistakes in tax or compliance\r\n- Paper-heavy onboarding processes of international brokers\r\n- Lack of trustworthy guidance\r\n\r\nPaasa offers a mobile app that enables Indians to trade worldwide, invest via advisory, and automate every cross-border tax filing.",
-    "one_liner": "Invest in Global Equities from India",
-    "team_size": 9,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Asset Management",
-    "launched_at": 1723926494,
-    "tags": [
-      "Fintech",
-      "Consumer",
-      "Investing",
-      "Emerging Markets"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Asset Management"
-    ],
-    "regions": [
-      "India",
-      "South Asia"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/paasa",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/paasa.json"
-  },
-  {
     "id": 29790,
     "name": "YouShift",
     "slug": "youshift",
@@ -47706,8 +47664,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c55eb595eb8712daeb02c69afcc09007bcb63c4f.png",
     "website": "https://www.salespatriot.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "SalesPatriot is a back-office operating system for distributors and OEMS. We build custom AI workflows for sales and supply chain teams to manage procurement, requests for quote and purchase orders.\r\n\r\nIn large orgs that operate as key nodes of the supply chain data is scattered across twelve systems. Quotes get lost and Executives lack visibility. Supply chain workflows are time consuming because data isn't where it needs to be in the format it needs to be.\r\n\r\nEmployees are stuck between their email, ERP, CRM, marketplaces, and spreadsheets instead of winning business and protecting margin.",
-    "one_liner": "AI powered operating system for distributors and OEMs",
+    "long_description": "SalesPatriot deploys supply chain superintelligence into distribution, original equipment manufacturing, and procurement. By embedding AI in the teams that run quote to cash workflows, we turn email chains, ERPs, websites, spreadsheets, and portals into a unified transactional layer, so critical parts reach the production line faster.\r\n\r\nThe West’s advantage depends on supply chains that work. We build and deploy the software that makes them work.",
+    "one_liner": "Supply chain superintelligence for distribution and procurement",
     "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
@@ -47823,6 +47781,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/adam",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/adam.json"
+  },
+  {
+    "id": 30243,
+    "name": "Cifrato",
+    "slug": "cifrato",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0bb4c15c8e630dcffec655f29ad07b101afe03c5.png",
+    "website": "https://cifrato.ai",
+    "all_locations": "Bogotá, Bogota, Colombia; Remote",
+    "long_description": "End-to-end accounting workflows executed by AI agents.\r\n- Invoice capture + upload to ERP/POS\r\n- Invoice payment + reconciliation\r\n- Tax filings\r\n- CFO insights on demand",
+    "one_liner": "AI Accountant for Accounting Firms",
+    "team_size": 17,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1751513280,
+    "tags": [
+      "FinOps",
+      "SaaS",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "Colombia",
+      "Latin America",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cifrato",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/cifrato.json"
   },
   {
     "id": 30244,
@@ -60384,6 +60385,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/nine-fives",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/nine-fives.json"
+  },
+  {
+    "id": 31373,
+    "name": "Atrisa",
+    "slug": "atrisa",
+    "former_names": [
+      "RefortifAI",
+      "Refortifai",
+      "Atrisa (formerly Refortifai)"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4617548496dbefec602196f4a8fd1a7cc44bc632.png",
+    "website": "https://atrisa.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "AI Agents to build, debug and automate analog circuit design",
+    "one_liner": "AI Agents for Analog Circuit Design",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1774743443,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/atrisa",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/atrisa.json"
   },
   {
     "id": 31375,

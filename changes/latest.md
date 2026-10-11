@@ -1,208 +1,109 @@
-# YC company changes for 2026-10-10
+# YC company changes for 2026-10-11
 
-- Previous total: 6283
-- Current total: 6285
-- Added: 3
-- Removed: 1
-- Updated: 38
+- Previous total: 6285
+- Current total: 6286
+- Added: 1
+- Removed: 0
+- Updated: 17
 
 ## Added companies
 
-- [Munito AI](https://www.ycombinator.com/companies/munito-ai) (Fall 2026 — Open-model inference provider for Europe, private by default.)
-- [Native](https://www.ycombinator.com/companies/native) (Fall 2026 — Artificial Intuition for marketing)
-- [Theseus Robotics](https://www.ycombinator.com/companies/theseus-robotics) (Fall 2026 — Humanoids to restock retail shelves & pick orders)
-
-## Removed companies
-
-- [Familiar](https://www.ycombinator.com/companies/familiar) (Summer 2026 — Multimodal Translation)
+- [RATLOG](https://www.ycombinator.com/companies/ratlog) (Fall 2026 — Reusable heavy-lift rockets)
 
 ## Updated companies
 
-### [Reframe](https://www.ycombinator.com/companies/reframe-2)
+### [Orangewood Labs](https://www.ycombinator.com/companies/orangewood-labs)
 
-- `one_liner`: Zoomable generative UI for codebase architecture → Model and visualize codebase architecture
+- `all_locations`: San Francisco, CA, USA; Noida, UP, India → San Francisco, CA, USA
+- `long_description`: Orangewood Labs makes the world's most affordable AI-powered industrial robotic arms for small businesses! Our robots can be programmed by just using natural... → Orangewood Labs makes physical ai and robotics with real world robot deployments performing millions of tasks
+- `one_liner`: Orangewood Labs makes worlds most affordable and easiest AI robot arms → Orangewood democratises robotics
+- `regions`: ["United States of America","India","America / Canada","South Asia"] → ["United States of America","America / Canada","Remote","Partly Remote"]
+- `tags`: ["Artificial Intelligence","Generative AI","Hardware","Robotics"] → ["Generative AI","Hardware","Robotics","AI"]
+- `team_size`: 40 → 8
 
-### [Hubla](https://www.ycombinator.com/companies/chatpay)
+### [Handyman.ai](https://www.ycombinator.com/companies/handymanai)
 
-- `stage`: Early → Growth
-
-### [Zoios.](https://www.ycombinator.com/companies/zoios)
-
-- `status`: Active → Inactive
-
-### [Evidence](https://www.ycombinator.com/companies/evidence)
-
-- `isHiring`: false → true
-
-### [GrowthBook](https://www.ycombinator.com/companies/growthbook)
-
-- `stage`: Early → Growth
-
-### [Craze](https://www.ycombinator.com/companies/craze)
-
-- `long_description`: Craze is the AI video platform where creatives make something people watch. Brands, creators, agencies and studios use Craze to storyboard, edit, design and ... → Craze is the AI video platform where creatives make something people watch. Brands, creators, agencies and studios use Craze to storyboard, edit, design and ...
-- `tags`: ["Video","Media","AI"] → ["Artificial Intelligence","Video","Media"]
-
-### [Lamin](https://www.ycombinator.com/companies/lamin)
-
-- `long_description`: Improve your workflows with open-source context and data access. Query, trace, and govern with a lineage-native, format-agnostic lakehouse for agents and tea... → We make it easy to query, trace, and govern R&D data in the age of AI, serving big pharma enterprises, biotech, and academia. Our core product is an open-sou...
-- `team_size`: 10 → 12
-
-### [Trigger.dev](https://www.ycombinator.com/companies/trigger-dev)
-
-- `stage`: Early → Growth
-
-### [Novelcare](https://www.ycombinator.com/companies/novelcare)
-
-- `tags`: ["Artificial Intelligence","Health Tech","B2B","Healthcare","Enterprise Software"] → ["Health Tech","B2B","Healthcare","Enterprise Software","AI"]
-- `website`: https://www.novel.care → https://www.novelcare.com
-
-### [Trackstar](https://www.ycombinator.com/companies/trackstar)
-
-- `team_size`: 7 → 10
+- `api`: https://yc-oss.github.io/api/batches/winter-2022/wereno.json → https://yc-oss.github.io/api/batches/winter-2022/handymanai.json
+- `former_names`: ["WeReno","Inc.","VIDCALL","Inc","WeReno","WeReno (Vidcall","Inc.)","WeReno","Scope3D (fka WeReno)","Scope3D","Built OS","BuiltOS"] → ["WeReno","Inc.","VIDCALL","Inc","WeReno","WeReno (Vidcall","Inc.)","WeReno","Scope3D (fka WeReno)","Scope3D","Built OS","BuiltOS","WeReno","Handyman.ai by W...
+- `long_description`: WeReno is the AI operating layer for property improvement. We spent more than a decade representing property owners, coordinating contractors, and managing r... → While building WeReno.com, we managed over $1B in renovations and noticed something: property owners kept coming back long after projects ended. We realized ...
+- `name`: WeReno → Handyman.ai
+- `one_liner`: The AI operating layer for property improvement. → Handyman.ai by WeReno- The AI operating layer for property improvement
+- `slug`: wereno → handymanai
+- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/c65d6fe451c746d928cfe1511810bc3f77971cb3.png → https://bookface-images.s3.amazonaws.com/small_logos/5b2cd4bcd46eaa5a921d4398a930a8db159d40bd.png
+- `tags`: ["Artificial Intelligence","Real Estate","Construction","Proptech"] → ["Real Estate","Construction","Proptech","AI"]
+- `url`: https://www.ycombinator.com/companies/wereno → https://www.ycombinator.com/companies/handymanai
+- `website`: https://WeReno.com → https://handyman.ai
 
 ### [Numeral](https://www.ycombinator.com/companies/numeral)
 
-- `long_description`: Numeral is the trusted solution for U.S. sales tax, VAT, and GST compliance, used by 3,000+ global businesses, including Eight Sleep, Supabase, and Brex. Our... → Numeral is the trusted solution for U.S. sales tax, VAT, and GST compliance, used by 3,500+ global businesses, including Eight Sleep, Supabase, and Brex. Our...
-- `stage`: Growth → Early
-- `team_size`: 110 → 130
+- `stage`: Early → Growth
 
-### [Benchmark](https://www.ycombinator.com/companies/benchmark)
-
-- `status`: Active → Acquired
-
-### [Readily](https://www.ycombinator.com/companies/readily)
-
-- `tags`: ["B2B","Compliance","Healthcare","Regtech","AI"] → ["Artificial Intelligence","B2B","Compliance","Healthcare","Regtech"]
-
-### [Datacurve](https://www.ycombinator.com/companies/datacurve)
+### [Astro Mechanica](https://www.ycombinator.com/companies/astro-mechanica)
 
 - `stage`: Early → Growth
 
-### [Entangl](https://www.ycombinator.com/companies/entangl)
+### [Paasa](https://www.ycombinator.com/companies/paasa)
 
-- `tags`: ["Artificial Intelligence","Aerospace","Enterprise Software","Automation","Automotive"] → ["Artificial Intelligence","Enterprise Software","Infrastructure"]
-- `team_size`: 15 → 22
-
-### [Mito Health](https://www.ycombinator.com/companies/mito-health)
-
-- `long_description`: Mito Health is a U.S. service that lets individuals order more than 1,000 laboratory markers, panels, scans, and at-home kits without going through a traditi... → Mito Health is a U.S. service that lets individuals order 12,000+ lab tests, scans, supplements, genetics, home kits, and Rx without a traditional doctor’s v...
-- `tags`: ["Consumer Health Services","Digital Health","AI"] → ["Artificial Intelligence","Consumer Health Services","Digital Health"]
-
-### [Starcloud](https://www.ycombinator.com/companies/starcloud)
-
-- `isHiring`: false → true
-
-### [Oway](https://www.ycombinator.com/companies/oway)
-
-- `one_liner`: The coordination OS for the physical economy. → Building the open operating system for the automated physical economy.
-
-### [Reticular](https://www.ycombinator.com/companies/reticular)
-
-- `all_locations`: San Francisco, CA, USA → Boston, MA, USA
-
-### [RiskCube](https://www.ycombinator.com/companies/riskcube)
-
-- `one_liner`: America’s first AI-native reinsurer for emerging risks. → The new American reinsurance company.
-- `tags`: ["Fintech","Insurance","Defense","AI"] → ["Artificial Intelligence","Fintech","Insurance","Defense"]
-
-### [Bud](https://www.ycombinator.com/companies/bud)
-
-- `status`: Active → Acquired
-
-### [Astro](https://www.ycombinator.com/companies/astro)
-
-- `long_description`: Astro finds and buys land for new renewable energy projects, secures grid connections at minimal cost, and sells these development-ready projects to larger e... → Astro develops power-ready land for AI data centers. Power is now the bottleneck for new data centers, and Astro’s models find the sites that have it. Founde...
-- `one_liner`: The world’s first AI energy developer → Power-ready land for AI data centers
+- `isHiring`: true → false
 
 ### [Conntour](https://www.ycombinator.com/companies/conntour)
 
-- `long_description`: Conntour enables organizations to query video - from security cameras, body cams, and drones. Users can search past footage (“Find a man with tattoos on his ... → Conntour enables government agencies to query video - from security cameras, body cams, and drones. Users can search past footage (“Find a man with tattoos o...
-- `tags`: ["Artificial Intelligence","Computer Vision","Defense"] → ["Computer Vision","Defense","AI"]
+- `long_description`: Conntour enables government agencies to query video - from security cameras, body cams, and drones. Users can search past footage (“Find a man with tattoos o... → Conntour enables government agencies to query their video - from security cameras, body cams, and drones. Users can search past footage (“Find a man with tat...
 
-### [Third Chair](https://www.ycombinator.com/companies/third-chair)
+### [SalesPatriot](https://www.ycombinator.com/companies/salespatriot)
 
-- `isHiring`: true → false
+- `long_description`: SalesPatriot is a back-office operating system for distributors and OEMS. We build custom AI workflows for sales and supply chain teams to manage procurement... → SalesPatriot deploys supply chain superintelligence into distribution, original equipment manufacturing, and procurement. By embedding AI in the teams that r...
+- `one_liner`: AI powered operating system for distributors and OEMs → Supply chain superintelligence for distribution and procurement
 
-### [Altur](https://www.ycombinator.com/companies/altur)
+### [Cifrato](https://www.ycombinator.com/companies/cifrato)
 
-- `tags`: ["Artificial Intelligence"] → ["AI"]
-- `team_size`: 5 → 9
+- `isHiring`: false → true
 
-### [Semble](https://www.ycombinator.com/companies/semble)
+### [YouLearn](https://www.ycombinator.com/companies/youlearn)
 
-- `long_description`: Semble is the #1 software for integrators. Takeoffs, design, quoting, scheduling, field operations, inventory, and invoicing. All powered by AI. Jonathan and... → Takeoffs, design, and field work. Powered by AI. Mark up plans. Organize documents. Collaborate on PDFs. Keep crews moving. Jonathan and Ethan met studying c...
-- `one_liner`: The all-in-one software for integrators. → Takeoffs, design, and field work. Powered by AI.
-- `tags`: ["Artificial Intelligence","SaaS"] → ["SaaS","AI"]
+- `tags`: ["AI-Enhanced Learning","Education","AI"] → ["AI-Enhanced Learning","Artificial Intelligence","Education"]
+- `team_size`: 4 → 3
 
-### [Darwin](https://www.ycombinator.com/companies/darwin)
+### [stagewise](https://www.ycombinator.com/companies/stagewise)
 
-- `long_description`: Darwin is building general-purpose humanoid robots for real-world work. Our first robot, Darwin One, will learn from real-world experience and continuously i... → Darwin Robotics creates general-purpose robots to build and maintain the machines civilization runs on. We're starting with AI infrastructure, where skilled ...
-- `one_liner`: Humanoid robots → Robots to build civilization
+- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/d9ff55657c9c6cb094a914f151062d5bc781a912.png → https://bookface-images.s3.amazonaws.com/small_logos/f23d4a87e54104479dda1da414cfdf2d79192208.png
+- `tags`: ["Artificial Intelligence","Developer Tools","Open Source"] → ["Developer Tools","Open Source","AI"]
 
-### [Polymath](https://www.ycombinator.com/companies/polymath)
+### [Atrisa](https://www.ycombinator.com/companies/atrisa)
 
-- `long_description`: Polymath is a data lab focused on improving long-horizon agent capabilities and alignment → Polymath is a data lab focused on improving long-horizon agent capabilities and alignment.
-- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/897b59e5d2b5dee40c471f153a2aee81587f2ad8.png → https://bookface-images.s3.amazonaws.com/small_logos/76bb13df5212f06b3a237b0ede4cf3adcc8c13e7.png
+- `isHiring`: false → true
 
-### [Fixture](https://www.ycombinator.com/companies/fixture)
+### [tday.com](https://www.ycombinator.com/companies/tdaycom)
 
-- `long_description`: Fixture is an AI-native CRM built for startups. It integrates with all the tools you use to communicate with customers, tracks marketing channels (e.g. websi... → Fixture is an agentic CRM built for startups. It integrates with all the tools you use to communicate with customers, tracks marketing channels (e.g. website...
-- `one_liner`: An AI-first CRM built for Startups → An agentic CRM built for Startups
-- `website`: https://fixture.app → https://fixture.ai
+- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/3f0ffe6b713cd1d09640befb7d9ecff3dd9facdb.png → https://bookface-images.s3.amazonaws.com/small_logos/dcb95bbd996c96bdc7fb6f2b3eded9623e44edd6.png
 
-### [Stage](https://www.ycombinator.com/companies/stage)
+### [Faraday](https://www.ycombinator.com/companies/faraday)
 
-- `all_locations`: San Francisco, CA, USA → New York City, NY, USA
+- `industries`: ["Industrials","Manufacturing and Robotics"] → ["Industrials"]
+- `long_description`:  → Faraday builds industrial AI that learns how enterprises operate and executes long-horizon, multi-step tasks from the back office to the shop floor. We sit o...
+- `one_liner`: Industrial aOS between humans, agents, and robots → Agents running industrial enterprises from back office to shop floor
+- `subindustry`: Industrials -> Manufacturing and Robotics → Industrials
 
-### [CONUS](https://www.ycombinator.com/companies/conus)
+### [Viraj Aero](https://www.ycombinator.com/companies/viraj-aero)
 
-- `long_description`: CONUS structures fragmented medical device information for surgeons. We combine manufacturer documentation, hospital protocols and medical research in one pl... → CONUS structures fragmented medical device information for surgeons. We combine manufacturer documentation, hospital protocols and medical research in one pl...
-- `tags`: ["Artificial Intelligence","Healthcare"] → ["Healthcare","AI"]
+- `all_locations`: Toulouse, Occitanie, France → 
+- `long_description`:  → Viraj Aero builds gas turbines that deliver both power and cooling water for data centers. It needs no grid connection and no water pipeline. Burning natural...
+- `regions`: ["France","Europe"] → ["Unspecified"]
+- `tags`: ["Artificial Intelligence","Hard Tech","Energy","Aerospace","ClimateTech"] → ["Artificial Intelligence","Hard Tech","Energy","Aerospace"]
 
-### [Belvedir](https://www.ycombinator.com/companies/belvedir)
+### [Dreamscale Labs](https://www.ycombinator.com/companies/dreamscale-labs)
 
-- `one_liner`: The custom AI model factory → The autonomous AI model factory
-- `tags`: ["Machine Learning","Reinforcement Learning","AI"] → ["Artificial Intelligence","Machine Learning","Reinforcement Learning"]
+- `one_liner`: Running robot brains in the cloud → Real-time cloud inference for robotics.
 
-### [Capto](https://www.ycombinator.com/companies/capto)
+### [OpEra](https://www.ycombinator.com/companies/opera)
 
-- `api`: https://yc-oss.github.io/api/batches/summer-2026/chromie.json → https://yc-oss.github.io/api/batches/summer-2026/capto.json
-- `former_names`: ["chromie.dev"] → ["chromie.dev","Chromie"]
-- `name`: Chromie → Capto
-- `one_liner`: We help startups win gov contracts → Helping startups win gov contracts
-- `slug`: chromie → capto
-- `url`: https://www.ycombinator.com/companies/chromie → https://www.ycombinator.com/companies/capto
-- `website`: https://chromie.dev → https://gocapto.com/
+- `long_description`: Opera (YC F26) is an automated operations research lab applying mathematics and AI to optimize operations for retail, logistics, manufacturing, agriculture a... → OpEra is the AI decision engine for factories, warehouses and fleets. Companies with physical operations make thousands of decisions every day, and we help t...
+- `one_liner`: Automated operations research (OR) lab → The AI decision engine for factories, warehouses and fleets
+- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/8ab2731276f4a748d3087f83aa4d1ed311a0690b.png → https://bookface-images.s3.amazonaws.com/small_logos/31457ec77d0c307cc8c7986a68fd9d81c50a99ce.png
 
-### [Petrarch](https://www.ycombinator.com/companies/petrarch)
+### [Lark](https://www.ycombinator.com/companies/lark-2)
 
-- `isHiring`: true → false
-
-### [Stacktrace](https://www.ycombinator.com/companies/stacktrace)
-
-- `industries`: ["B2B","Security"] → ["B2B","Infrastructure"]
-- `long_description`: We’re building Stacktrace to help teams see what AI agents actually do, detect risky behavior, and alert the people responsible. Administrators can also depl... → Agents will do most of the work in the future, but only if teams can trust them unsupervised. Stacktrace is the control layer for every agent: it sees every ...
-- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/902b46e418653f41629fec03fce33e1e6a3e6bc9.png → https://bookface-images.s3.amazonaws.com/small_logos/e79ba1ad9464ac22023bbed994e2299d2ae8addf.png
-- `subindustry`: B2B -> Security → B2B -> Infrastructure
-- `tags`: ["DevSecOps","Cybersecurity","AI"] → ["Artificial Intelligence","DevSecOps","Cybersecurity","Infrastructure"]
-
-### [Mirrors](https://www.ycombinator.com/companies/mirrors)
-
-- `long_description`: Production agents handle many different customer workflows. Currently, when one handles a situation badly, an engineer reads the trace and patches the prompt... → Production agents handle many different customer workflows. Currently, when one handles a situation badly, an engineer reads the trace and patches the prompt...
-- `one_liner`: Steer AI agents in real time using lessons from production runs → Give AI agents the right instructions at the right moment
-- `tags`: ["AIOps","Developer Tools","SaaS","B2B","AI"] → ["AIOps","Artificial Intelligence","Developer Tools","SaaS","B2B"]
-
-### [Acyclic Labs](https://www.ycombinator.com/companies/acyclic)
-
-- `long_description`: Acyclic runs agent swarms. Hand it a task from the CLI, the dashboard, or a coding agent over MCP, and it splits the work across many agents, each in its own... → Acyclic builds the infrastructure for agent swarms: open-source primitives for running agents in parallel, and a managed agents platform that runs swarms for...
-- `one_liner`: Rapid agent swarms: make any agentic workflow exponentially faster → Agent swarms that make long-running tasks exponentially faster
-- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/28f8a7a30ed4c8ddd3df528c98ebc77233935fc2.png → https://bookface-images.s3.amazonaws.com/small_logos/e0ab38690d05797c7ccebecaf6f40e8c72b69516.png
-
-### [Volaren Inc.](https://www.ycombinator.com/companies/volaren-inc)
-
-- `long_description`: Every great investment starts as an idea about the world. Institutions have teams of analysts turning those ideas into positions. Volaren is that team, proce... → Turning ideas into trades. Every great investment starts as an idea about the world. Institutions have teams of analysts turning those ideas into positions. ...
-- `one_liner`: Volaren collapses the hedge fund model and making it accessible to… → Turning Ideas into Trades. Volaren puts the hedge fund in the hands…
-- `regions`: ["United States of America","America / Canada","Remote","Partly Remote"] → ["United States of America","America / Canada"]
-- `tags`: ["Artificial Intelligence","Fintech","Marketplace","Finance","Creator Economy"] → ["Fintech","Marketplace","Finance","Creator Economy","AI"]
+- `long_description`: Lark builds specialized AI agents that automate manual workflows for wholesale distributors. Our agents work with existing ERP systems, learning from each di... → Lark deploys AI agents that automate manual workflows for wholesale distributors, everything from customer quotes to inventory managment. Our agents work wit...
+- `one_liner`: Lark - Specialized agents for wholesale distributors → Lark - AI agents that automate workflows for wholesale distributors
+- `tags`: ["B2B","Supply Chain","AI"] → ["Artificial Intelligence","B2B","Supply Chain"]
 
