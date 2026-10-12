@@ -1,29 +1,35 @@
 {
-  "generated_at": "2026-10-11T03:00:39.856Z",
+  "generated_at": "2026-10-12T03:23:52.565Z",
   "summary": {
-    "previous_total": 6285,
-    "current_total": 6286,
-    "added": 1,
+    "previous_total": 6286,
+    "current_total": 6288,
+    "added": 2,
     "removed": 0,
-    "updated": 17
+    "updated": 29
   },
   "added": [
     {
-      "id": 37999,
-      "name": "RATLOG",
-      "slug": "ratlog",
-      "former_names": [],
-      "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c91e646aa134e7ed3da1082d56c2a3cdd68f8337.png",
-      "website": "",
-      "all_locations": "Dresden, SN, Germany",
-      "long_description": "",
-      "one_liner": "Reusable heavy-lift rockets",
-      "team_size": 4,
+      "id": 31509,
+      "name": "Rodeo Robotics",
+      "slug": "rodeo-robotics",
+      "former_names": [
+        "Lasso (temporary, naming conflict exists)",
+        "Lasso"
+      ],
+      "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed94f83ed341c4f879d7c08c2570c04ba145e07c.png",
+      "website": "https://www.rodeorobotics.com/",
+      "all_locations": "San Francisco, CA, USA",
+      "long_description": "Rodeo builds a robotic technician that automates maintenance so fleets can get vehicles back on the road sooner. Initial deployments focus on oil changes at centralized depots, where routine maintenance competes for scarce technician time.\r\n\r\nCofounders Michael Hazard and Colby Duke met at Applied Intuition, where they worked with OEMs like Toyota and General Motors to bring software and autonomy to vehicles. They saw firsthand how much manual work it takes to keep vehicle fleets running, and learned how to make autonomy reliable through structured testing, real-world data, and human intervention.\r\n\r\nThey’re now applying their experience to the roughly $600B annual US vehicle maintenance market. The average US vehicle is older than ever, driving up maintenance demand at a time when shops already struggle to hire and retain technicians. That gap leaves fleets facing costly downtime and preventable breakdowns.\r\n\r\nDespite this need, vehicle maintenance has resisted traditional automation. Service information is fragmented and unreliable, and vehicle hardware varies significantly between makes and models. Rodeo builds on advances in robotic foundation models to learn maintenance skills that transfer across vehicles.\r\n\r\nRodeo pairs robots with human technicians who ensure each job is completed correctly, handling work the robots can’t yet perform autonomously. These deployments generate training data for Rodeo’s models through both teleoperation and hand tools augmented to record how technicians work. This lets Rodeo earn revenue while collecting the data needed to automate more of each job and improve margins.",
+      "one_liner": "Robots for vehicle maintenance.",
+      "team_size": 2,
       "industry": "Industrials",
-      "subindustry": "Industrials -> Aviation and Space",
-      "launched_at": 1791657873,
+      "subindustry": "Industrials -> Manufacturing and Robotics",
+      "launched_at": 1791737469,
       "tags": [
-        "Commercial Space Launch"
+        "Artificial Intelligence",
+        "Hard Tech",
+        "Robotics",
+        "Automotive"
       ],
       "tags_highlighted": [],
       "top_company": false,
@@ -33,81 +39,185 @@
       "status": "Active",
       "industries": [
         "Industrials",
-        "Aviation and Space"
+        "Manufacturing and Robotics"
       ],
       "regions": [
-        "Germany",
-        "Europe"
+        "United States of America",
+        "America / Canada"
       ],
       "stage": "Early",
       "app_video_public": false,
       "demo_day_video_public": false,
       "app_answers": null,
       "question_answers": false,
-      "url": "https://www.ycombinator.com/companies/ratlog",
-      "api": "https://yc-oss.github.io/api/batches/fall-2026/ratlog.json"
+      "url": "https://www.ycombinator.com/companies/rodeo-robotics",
+      "api": "https://yc-oss.github.io/api/batches/fall-2026/rodeo-robotics.json"
+    },
+    {
+      "id": 34696,
+      "name": "ChemPilot.ai",
+      "slug": "chempilotai",
+      "former_names": [],
+      "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c3f8543148c3a53ebe369d21ece622228018917.png",
+      "website": "https://chempilot.ai/",
+      "all_locations": "Haifa, Haifa District, Israel",
+      "long_description": "We use AI and quantum-based simulations to discover and develop new materials for defense and dual-use applications, from energetics and propellants to carbon fibers, polymers, coatings and composites. Developing a new material today takes 10+ years of trial-and-error lab work. We compress that to months, using physics-based simulation, machine learning and AI agents that only send labs candidates that can actually be made.\r\n\r\nSam, Ofir and Maor have spent the past two years researching the discovery of these exact materials together at the Technion lab of our CSO, Prof. Alon Grinberg Dana (former MIT postdoc), working directly with defense primes and government R&D agencies. Together we bring deep expertise in chemical engineering, computational chemistry and AI, and the production systems to put them to work. ChemPilot spun out of that work.\r\n\r\nThe defense and dual-use industrial base runs on materials with fragile, sole-source and often adversarial supply chains, from energetics and propellants to carbon fibers, high-temperature composites and specialty polymers. Demand for new capabilities is surging, and materials take decades to develop. The West needs new materials it can make securely, fast and cheap - ChemPilot will help find and develop them.",
+      "one_liner": "Discover novel defense related materials/molecules.",
+      "team_size": 3,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Defense",
+      "launched_at": 1791753586,
+      "tags": [
+        "Machine Learning",
+        "Advanced Materials",
+        "Defense"
+      ],
+      "tags_highlighted": [],
+      "top_company": false,
+      "isHiring": false,
+      "nonprofit": false,
+      "batch": "Fall 2026",
+      "status": "Active",
+      "industries": [
+        "Industrials",
+        "Defense"
+      ],
+      "regions": [
+        "Israel",
+        "Middle East and North Africa"
+      ],
+      "stage": "Early",
+      "app_video_public": false,
+      "demo_day_video_public": false,
+      "app_answers": null,
+      "question_answers": false,
+      "url": "https://www.ycombinator.com/companies/chempilotai",
+      "api": "https://yc-oss.github.io/api/batches/fall-2026/chempilotai.json"
     }
   ],
   "removed": [],
   "updated": [
     {
-      "id": 1836,
-      "name": "Orangewood Labs",
-      "slug": "orangewood-labs",
-      "batch": "Winter 2018",
-      "url": "https://www.ycombinator.com/companies/orangewood-labs",
+      "id": 13204,
+      "name": "Duffl",
+      "slug": "duffl",
+      "batch": "Winter 2020",
+      "url": "https://www.ycombinator.com/companies/duffl",
       "changed_fields": [
-        "all_locations",
-        "long_description",
-        "one_liner",
-        "regions",
-        "tags",
+        "stage",
         "team_size"
       ],
       "changes": {
+        "stage": {
+          "before": "Growth",
+          "after": "Early"
+        },
+        "team_size": {
+          "before": 12,
+          "after": 50
+        }
+      }
+    },
+    {
+      "id": 21795,
+      "name": "QuestDB",
+      "slug": "questdb",
+      "batch": "Summer 2020",
+      "url": "https://www.ycombinator.com/companies/questdb",
+      "changed_fields": [
+        "team_size"
+      ],
+      "changes": {
+        "team_size": {
+          "before": 30,
+          "after": 20
+        }
+      }
+    },
+    {
+      "id": 23120,
+      "name": "Slash",
+      "slug": "slash",
+      "batch": "Summer 2021",
+      "url": "https://www.ycombinator.com/companies/slash",
+      "changed_fields": [
+        "all_locations"
+      ],
+      "changes": {
         "all_locations": {
-          "before": "San Francisco, CA, USA; Noida, UP, India",
-          "after": "San Francisco, CA, USA"
+          "before": "San Francisco, CA, USA",
+          "after": "Minneapolis, MN, USA"
+        }
+      }
+    },
+    {
+      "id": 24727,
+      "name": "Output Labs",
+      "slug": "output-labs",
+      "batch": "Summer 2021",
+      "url": "https://www.ycombinator.com/companies/output-labs",
+      "changed_fields": [
+        "api",
+        "former_names",
+        "long_description",
+        "name",
+        "one_liner",
+        "slug",
+        "tags",
+        "url",
+        "website"
+      ],
+      "changes": {
+        "api": {
+          "before": "https://yc-oss.github.io/api/batches/summer-2021/output.json",
+          "after": "https://yc-oss.github.io/api/batches/summer-2021/output-labs.json"
         },
-        "long_description": {
-          "before": "Orangewood Labs makes the world's most affordable AI-powered industrial robotic arms for small businesses! Our robots can be programmed by just using natural language prompts and cost a fraction of human labor. \r\n\r\n",
-          "after": "Orangewood Labs makes physical ai and robotics with real world robot deployments performing millions of tasks \r\n\r\n"
-        },
-        "one_liner": {
-          "before": "Orangewood Labs makes worlds most affordable and easiest AI robot arms",
-          "after": "Orangewood democratises robotics"
-        },
-        "regions": {
+        "former_names": {
           "before": [
-            "United States of America",
-            "India",
-            "America / Canada",
-            "South Asia"
+            "Jingu Health"
           ],
           "after": [
-            "United States of America",
-            "America / Canada",
-            "Remote",
-            "Partly Remote"
+            "Jingu Health",
+            "Output Biosciences"
           ]
+        },
+        "long_description": {
+          "before": "Output is a fully integrated AI lab building Artificial General Biological Intelligence, from the molecular level up to whole systems. The discovery of new biology and the design of therapeutic moonshots become routine.",
+          "after": "Output Labs is a frontier AI research lab. We created Mechanistic Reasoning, a new kind of AI that learns how and why complex systems work. It lets us understand the systems behind science's hardest problems, and control them."
+        },
+        "name": {
+          "before": "Output Biosciences",
+          "after": "Output Labs"
+        },
+        "one_liner": {
+          "before": "The foundation for the next era of biology",
+          "after": "The foundation for the next era of science"
+        },
+        "slug": {
+          "before": "output",
+          "after": "output-labs"
         },
         "tags": {
           "before": [
-            "Artificial Intelligence",
+            "AI-powered Drug Discovery",
             "Generative AI",
-            "Hardware",
-            "Robotics"
+            "Biotech",
+            "AI"
           ],
           "after": [
+            "AI-powered Drug Discovery",
+            "Artificial Intelligence",
             "Generative AI",
-            "Hardware",
-            "Robotics",
-            "AI"
+            "Biotech"
           ]
         },
-        "team_size": {
-          "before": 40,
-          "after": 8
+        "url": {
+          "before": "https://www.ycombinator.com/companies/output",
+          "after": "https://www.ycombinator.com/companies/output-labs"
+        },
+        "website": {
+          "before": "https://www.outputbio.com/",
+          "after": "https://www.outputlabs.ai/"
         }
       }
     },
@@ -118,136 +228,124 @@
       "batch": "Winter 2022",
       "url": "https://www.ycombinator.com/companies/handymanai",
       "changed_fields": [
-        "api",
-        "former_names",
-        "long_description",
-        "name",
-        "one_liner",
-        "slug",
-        "small_logo_thumb_url",
-        "tags",
-        "url",
-        "website"
+        "long_description"
       ],
       "changes": {
-        "api": {
-          "before": "https://yc-oss.github.io/api/batches/winter-2022/wereno.json",
-          "after": "https://yc-oss.github.io/api/batches/winter-2022/handymanai.json"
-        },
-        "former_names": {
-          "before": [
-            "WeReno",
-            "Inc.",
-            "VIDCALL",
-            "Inc",
-            "WeReno",
-            "WeReno (Vidcall",
-            "Inc.)",
-            "WeReno",
-            "Scope3D (fka WeReno)",
-            "Scope3D",
-            "Built OS",
-            "BuiltOS"
-          ],
-          "after": [
-            "WeReno",
-            "Inc.",
-            "VIDCALL",
-            "Inc",
-            "WeReno",
-            "WeReno (Vidcall",
-            "Inc.)",
-            "WeReno",
-            "Scope3D (fka WeReno)",
-            "Scope3D",
-            "Built OS",
-            "BuiltOS",
-            "WeReno",
-            "Handyman.ai by WeReno"
-          ]
-        },
         "long_description": {
-          "before": "WeReno is the AI operating layer for property improvement. We spent more than a decade representing property owners, coordinating contractors, and managing renovations and capital projects. Across that time, we’ve helped facilitate $1B+ in project value and turned that operating playbook into AI agents that help property owners and contractors get work done.\r\n\r\nHandyman.ai helps homeowners handle everyday repairs and maintenance. Renobot.ai represents homeowners through renovations. Opsonic.ai gives contractors an AI back office for quoting, scheduling, follow-up, and operations. Capital by WeReno manages complex commercial projects.",
-          "after": "While building WeReno.com, we managed over $1B in renovations and noticed something: property owners kept coming back long after projects ended. We realized buildings have no memory, and every repair, maintenance issue, and service request starts from scratch.\r\n\r\nSo we built Handyman.ai, an AI agent that remembers your property, anticipates problems, and handles everything from maintenance to repairs.\r\n\r\nIn our first three months, we've facilitated $10M in GMV, validating the opportunity to build an AI agent for every property."
+          "before": "While building WeReno.com, we managed over $1B in renovations and noticed something: property owners kept coming back long after projects ended. We realized buildings have no memory, and every repair, maintenance issue, and service request starts from scratch.\r\n\r\nSo we built Handyman.ai, an AI agent that remembers your property, anticipates problems, and handles everything from maintenance to repairs.\r\n\r\nIn our first three months, we've facilitated $10M in GMV, validating the opportunity to build an AI agent for every property.",
+          "after": "While building WeReno.com, we managed over $1B in renovations and noticed something: property owners kept coming back long after projects ended. We realized buildings have no memory, and every repair, maintenance issue, and service request starts from scratch.\r\n\r\nSo we built Handyman.ai, an AI agent that remembers your property, anticipates problems, and handles everything from maintenance to repairs.\r\n\r\nIn our first three months, we facilitated over $10M in GMV, validating the opportunity to build an AI agent for every property."
+        }
+      }
+    },
+    {
+      "id": 29120,
+      "name": "Morph",
+      "slug": "morph",
+      "batch": "Summer 2023",
+      "url": "https://www.ycombinator.com/companies/morph",
+      "changed_fields": [
+        "all_locations"
+      ],
+      "changes": {
+        "all_locations": {
+          "before": "San Francisco, CA, USA",
+          "after": "Columbus, OH, USA"
+        }
+      }
+    },
+    {
+      "id": 29376,
+      "name": "Carma",
+      "slug": "carma",
+      "batch": "Winter 2024",
+      "url": "https://www.ycombinator.com/companies/carma",
+      "changed_fields": [
+        "long_description",
+        "team_size"
+      ],
+      "changes": {
+        "long_description": {
+          "before": "Carma is building an AI-native platform that transforms fleet operations from tedious, manual work into effortless, automated workflows.\r\n\r\nWe’re the fastest-growing company in fleet management software. Carma already powers some of the largest fleets in the U.S., including Fortune 500 clients, saving operations teams thousands of hours by eliminating busywork and keeping vehicles on the road.\r\n\r\nBacked by Soma Capital, Y Combinator, founders of Superhuman, and Tier-1 investors, we raised our $5.5M seed and are sprinting toward a Series A in 2026.\r\n\r\nWe’re hiring the top 0.1% of engineers who want real ownership and impact—starting Day 1, you’ll build and ship fast to production for enterprise clients. Fleet operations run in real time, so your work is immediately used in the field and gets real customer feedback in hours, not months.",
+          "after": "Carma is building an AI-native platform that transforms fleet operations from tedious, manual work into effortless, automated workflows.\r\n\r\nWe’re the fastest-growing company in fleet management software. Carma already powers some of the largest fleets in the U.S., saving operations teams thousands of hours by eliminating busywork and keeping vehicles on the road.\r\n\r\nBacked by Soma Capital, Y Combinator, founders of Superhuman, and Tier-1 investors, we are sprinting toward a Series A in 2026.\r\n\r\nWe’re hiring the top 0.1% of engineers who want real ownership and impact—starting Day 1, you’ll build and ship fast to production for enterprise clients. Fleet operations run in real time, so your work is immediately used in the field and gets real customer feedback in hours, not months."
         },
-        "name": {
-          "before": "WeReno",
-          "after": "Handyman.ai"
+        "team_size": {
+          "before": 15,
+          "after": 5
+        }
+      }
+    },
+    {
+      "id": 29728,
+      "name": "expand.ai",
+      "slug": "expand-ai",
+      "batch": "Summer 2024",
+      "url": "https://www.ycombinator.com/companies/expand-ai",
+      "changed_fields": [
+        "long_description",
+        "one_liner",
+        "small_logo_thumb_url",
+        "team_size"
+      ],
+      "changes": {
+        "long_description": {
+          "before": "expand.ai instantly turns any website into a type-safe API you can rely on.\r\n\r\nYou can either request data from any website instantly or let expand.ai build up datasets for you.\r\n\r\nWe take care of the hard parts like dealing with bot protection, scaling browser infrastructure and making sure that we only extract verified, correct information.",
+          "after": "Let your agent fetch and crawl with SOTA extraction."
         },
         "one_liner": {
-          "before": "The AI operating layer for property improvement.",
-          "after": "Handyman.ai by WeReno- The AI operating layer for property improvement"
-        },
-        "slug": {
-          "before": "wereno",
-          "after": "handymanai"
+          "before": "Turn any website into an API.",
+          "after": "Lossless web data."
         },
         "small_logo_thumb_url": {
-          "before": "https://bookface-images.s3.amazonaws.com/small_logos/c65d6fe451c746d928cfe1511810bc3f77971cb3.png",
-          "after": "https://bookface-images.s3.amazonaws.com/small_logos/5b2cd4bcd46eaa5a921d4398a930a8db159d40bd.png"
+          "before": "https://bookface-images.s3.amazonaws.com/small_logos/9a4ca900e14bd5e1d1e19fc8edf43b165d078ff8.png",
+          "after": "https://bookface-images.s3.amazonaws.com/small_logos/cbb3378711a3516d3cc0bdd3c41a57f151832b9b.png"
+        },
+        "team_size": {
+          "before": 2,
+          "after": 3
+        }
+      }
+    },
+    {
+      "id": 29950,
+      "name": "Pipeshift",
+      "slug": "pipeshift",
+      "batch": "Summer 2024",
+      "url": "https://www.ycombinator.com/companies/pipeshift",
+      "changed_fields": [
+        "long_description",
+        "one_liner",
+        "tags"
+      ],
+      "changes": {
+        "long_description": {
+          "before": "Pipeshift helps engineering teams run real-time inference in production. We offer optimized runtimes to meet latency/throughput SLAs, paired with infrastructure orchestration that auto-scales and routes workloads across clusters and regions at cost-effective rates.",
+          "after": "Pipeshift offers ultra-low latency infrastructure for engineering teams to run real-time inference in production. We offer latency-optimized runtimes for voice, chat, and physical AI, paired with distributed orchestration that routes and auto-scales across clusters and regions — typically 3 to 5X lower time-to-first-audio, so teams serve 2x the users on the same hardware."
+        },
+        "one_liner": {
+          "before": "Ultra-low latency inference cloud for real-time workloads",
+          "after": "Inference for real-time voice and chat"
         },
         "tags": {
           "before": [
+            "AIOps",
             "Artificial Intelligence",
-            "Real Estate",
-            "Construction",
-            "Proptech"
+            "Infrastructure",
+            "AI",
+            "ML"
           ],
           "after": [
-            "Real Estate",
-            "Construction",
-            "Proptech",
-            "AI"
+            "AIOps",
+            "Infrastructure"
           ]
-        },
-        "url": {
-          "before": "https://www.ycombinator.com/companies/wereno",
-          "after": "https://www.ycombinator.com/companies/handymanai"
-        },
-        "website": {
-          "before": "https://WeReno.com",
-          "after": "https://handyman.ai"
         }
       }
     },
     {
-      "id": 27735,
-      "name": "Numeral",
-      "slug": "numeral",
-      "batch": "Winter 2023",
-      "url": "https://www.ycombinator.com/companies/numeral",
-      "changed_fields": [
-        "stage"
-      ],
-      "changes": {
-        "stage": {
-          "before": "Early",
-          "after": "Growth"
-        }
-      }
-    },
-    {
-      "id": 29369,
-      "name": "Astro Mechanica",
-      "slug": "astro-mechanica",
-      "batch": "Winter 2024",
-      "url": "https://www.ycombinator.com/companies/astro-mechanica",
-      "changed_fields": [
-        "stage"
-      ],
-      "changes": {
-        "stage": {
-          "before": "Early",
-          "after": "Growth"
-        }
-      }
-    },
-    {
-      "id": 29789,
-      "name": "Paasa",
-      "slug": "paasa",
-      "batch": "Summer 2024",
-      "url": "https://www.ycombinator.com/companies/paasa",
+      "id": 30111,
+      "name": "x1",
+      "slug": "x1",
+      "batch": "Fall 2024",
+      "url": "https://www.ycombinator.com/companies/x1",
       "changed_fields": [
         "isHiring"
       ],
@@ -259,84 +357,90 @@
       }
     },
     {
-      "id": 30210,
-      "name": "Conntour",
-      "slug": "conntour",
+      "id": 30276,
+      "name": "General Trajectory",
+      "slug": "general-trajectory",
       "batch": "Winter 2025",
-      "url": "https://www.ycombinator.com/companies/conntour",
+      "url": "https://www.ycombinator.com/companies/general-trajectory",
       "changed_fields": [
-        "long_description"
+        "all_locations"
       ],
       "changes": {
-        "long_description": {
-          "before": "Conntour enables government agencies to query video - from security cameras, body cams, and drones.\r\n\r\nUsers can search past footage (“Find a man with tattoos on his left arm”), configure real-time alerts (“Notify me if someone climbs over the wall”), and extract data (“How many pickup trucks entered yesterday?”).\r\n\r\nUnlike traditional video analytics solutions, which are limited to fixed parameters (like a weapon, bag, or car color), Conntour supports an unlimited range of highly specific scenarios described in plain language. This enables a single human to monitor thousands of cameras, or find a specific moment in minutes instead of days.\r\n\r\nWhat makes Conntour's technology unique is its ability to process video at scale, fully on-premises, with minimal hardware requirements.\r\n\r\nConntour is backed by top-tier investors including General Catalyst and Y Combinator, selected for the first-ever Palantir Fellowship, and advised by Bob Flores - former CTO of the CIA.",
-          "after": "Conntour enables government agencies to query their video - from security cameras, body cams, and drones.\r\n\r\nUsers can search past footage (“Find a man with tattoos on his left arm”), configure real-time alerts (“Notify me if someone climbs over the wall”), and extract data (“How many pickup trucks entered yesterday?”).\r\n\r\nUnlike traditional video analytics solutions, which are limited to fixed parameters (like a weapon, bag, or car color), Conntour supports an unlimited range of highly specific scenarios described in plain language. This enables a single human to monitor thousands of cameras, or find a specific moment in minutes instead of days.\r\n\r\nWhat makes Conntour's technology unique is its ability to process video using natural language at scale, fully on-premises, with minimal hardware requirements. The system is already deployed with mission-critical teams at leading intelligence and homeland security agencies.\r\n\r\nConntour is backed by top-tier investors including General Catalyst and Y Combinator, was selected for the first-ever Palantir Fellowship, and has the former CTO of the CIA on its advisory board."
+        "all_locations": {
+          "before": "San Francisco, CA, USA",
+          "after": "Los Angeles, CA, USA"
         }
       }
     },
     {
-      "id": 30230,
-      "name": "SalesPatriot",
-      "slug": "salespatriot",
+      "id": 30301,
+      "name": "Fuse AI",
+      "slug": "fuse-ai",
       "batch": "Winter 2025",
-      "url": "https://www.ycombinator.com/companies/salespatriot",
+      "url": "https://www.ycombinator.com/companies/fuse-ai",
       "changed_fields": [
-        "long_description",
-        "one_liner"
+        "small_logo_thumb_url"
       ],
       "changes": {
-        "long_description": {
-          "before": "SalesPatriot is a back-office operating system for distributors and OEMS. We build custom AI workflows for sales and supply chain teams to manage procurement, requests for quote and purchase orders.\r\n\r\nIn large orgs that operate as key nodes of the supply chain data is scattered across twelve systems. Quotes get lost and Executives lack visibility. Supply chain workflows are time consuming because data isn't where it needs to be in the format it needs to be.\r\n\r\nEmployees are stuck between their email, ERP, CRM, marketplaces, and spreadsheets instead of winning business and protecting margin.",
-          "after": "SalesPatriot deploys supply chain superintelligence into distribution, original equipment manufacturing, and procurement. By embedding AI in the teams that run quote to cash workflows, we turn email chains, ERPs, websites, spreadsheets, and portals into a unified transactional layer, so critical parts reach the production line faster.\r\n\r\nThe West’s advantage depends on supply chains that work. We build and deploy the software that makes them work."
-        },
-        "one_liner": {
-          "before": "AI powered operating system for distributors and OEMs",
-          "after": "Supply chain superintelligence for distribution and procurement"
+        "small_logo_thumb_url": {
+          "before": "https://bookface-images.s3.amazonaws.com/small_logos/b35775b402fe5b455dc597de9a7000386d936776.png",
+          "after": "https://bookface-images.s3.amazonaws.com/small_logos/3867f5ddc00eb6796cf0b3718c7f1e735656fe4b.png"
         }
       }
     },
     {
-      "id": 30243,
-      "name": "Cifrato",
-      "slug": "cifrato",
+      "id": 30365,
+      "name": "Mentra",
+      "slug": "mentra",
       "batch": "Winter 2025",
-      "url": "https://www.ycombinator.com/companies/cifrato",
+      "url": "https://www.ycombinator.com/companies/mentra",
       "changed_fields": [
         "isHiring"
       ],
       "changes": {
         "isHiring": {
-          "before": false,
-          "after": true
+          "before": true,
+          "after": false
         }
       }
     },
     {
-      "id": 30442,
-      "name": "YouLearn",
-      "slug": "youlearn",
+      "id": 30561,
+      "name": "Sureform",
+      "slug": "sureform",
       "batch": "Spring 2025",
-      "url": "https://www.ycombinator.com/companies/youlearn",
+      "url": "https://www.ycombinator.com/companies/sureform",
       "changed_fields": [
+        "long_description",
+        "one_liner",
         "tags",
         "team_size"
       ],
       "changes": {
+        "long_description": {
+          "before": "We build post-training datasets and RL environments grounded in real enterprise workflows to advance frontier agents.",
+          "after": "Sureform help companies monetize their internal operational data by turning it into training signal for frontier AI."
+        },
+        "one_liner": {
+          "before": "Real-world data and RL environments for frontier AI",
+          "after": "Real-world company data for frontier AI"
+        },
         "tags": {
           "before": [
-            "AI-Enhanced Learning",
-            "Education",
+            "Marketplace",
+            "Robotics",
+            "Data Labeling",
             "AI"
           ],
           "after": [
-            "AI-Enhanced Learning",
-            "Artificial Intelligence",
-            "Education"
+            "Marketplace",
+            "Data Labeling",
+            "AI"
           ]
         },
         "team_size": {
-          "before": 4,
-          "after": 3
+          "before": 2,
+          "after": 4
         }
       }
     },
@@ -347,41 +451,99 @@
       "batch": "Summer 2025",
       "url": "https://www.ycombinator.com/companies/stagewise",
       "changed_fields": [
-        "small_logo_thumb_url",
+        "long_description",
+        "one_liner",
         "tags"
       ],
       "changes": {
-        "small_logo_thumb_url": {
-          "before": "https://bookface-images.s3.amazonaws.com/small_logos/d9ff55657c9c6cb094a914f151062d5bc781a912.png",
-          "after": "https://bookface-images.s3.amazonaws.com/small_logos/f23d4a87e54104479dda1da414cfdf2d79192208.png"
+        "long_description": {
+          "before": "stagewise is building the open-source agentic IDE: a developer workspace for creating and orchestrating coding agents, previewing running apps, and managing Git workflows. Developers can run agents in parallel, use their preferred models or existing coding subscriptions, and keep agents connected to browser/runtime context as well as the broader codebase, from APIs and tests to docs and deployment paths.",
+          "after": "stagewise is building Klex Bots, autonomous AI coworkers that can take on real work inside companies.\r\n\r\nUnlike traditional AI assistants, Klex Bots don't need to be prompted for every task. They operate continuously, maintain their own memory and workspaces, and use the same tools and systems as human employees. They can execute complex, multi-step tasks independently, collaborate with other bots or humans, and can use multiple sandboxes/computers depending on configuration.\r\n\r\nOur Klex Cloud platform makes it easy for businesses to deploy and manage these digital coworkers securely, using their preferred AI models and infrastructure, hosting agents either in cloud or on custom infrastructure."
+        },
+        "one_liner": {
+          "before": "The Open Source Agentic IDE",
+          "after": "The makers of Klex Bots, your own team of digital coworkers."
         },
         "tags": {
           "before": [
-            "Artificial Intelligence",
-            "Developer Tools",
-            "Open Source"
-          ],
-          "after": [
             "Developer Tools",
             "Open Source",
             "AI"
+          ],
+          "after": [
+            "Artificial Intelligence",
+            "Developer Tools",
+            "Open Source"
           ]
         }
       }
     },
     {
-      "id": 31373,
-      "name": "Atrisa",
-      "slug": "atrisa",
-      "batch": "Spring 2026",
-      "url": "https://www.ycombinator.com/companies/atrisa",
+      "id": 30818,
+      "name": "Nox Metals",
+      "slug": "nox-metals",
+      "batch": "Summer 2025",
+      "url": "https://www.ycombinator.com/companies/nox-metals",
       "changed_fields": [
-        "isHiring"
+        "team_size"
       ],
       "changes": {
-        "isHiring": {
-          "before": false,
-          "after": true
+        "team_size": {
+          "before": 35,
+          "after": 52
+        }
+      }
+    },
+    {
+      "id": 30912,
+      "name": "Redapto",
+      "slug": "redapto",
+      "batch": "Fall 2025",
+      "url": "https://www.ycombinator.com/companies/redapto",
+      "changed_fields": [
+        "all_locations",
+        "regions"
+      ],
+      "changes": {
+        "all_locations": {
+          "before": "San Francisco, CA, USA",
+          "after": "Bengaluru, KA, India"
+        },
+        "regions": {
+          "before": [
+            "United States of America",
+            "America / Canada"
+          ],
+          "after": [
+            "India",
+            "South Asia"
+          ]
+        }
+      }
+    },
+    {
+      "id": 31252,
+      "name": "Moda",
+      "slug": "moda",
+      "batch": "Winter 2026",
+      "url": "https://www.ycombinator.com/companies/moda",
+      "changed_fields": [
+        "long_description",
+        "one_liner",
+        "small_logo_thumb_url"
+      ],
+      "changes": {
+        "long_description": {
+          "before": "Moda is a harness engineering platform. It turns production traces into verified improvements for your agent harness: prompts, tools, skills, evals, and memory.\r\n\r\nThe infra problems we actually take: transfer what a frontier model learned onto an open-source one without losing performance, and stand up a model router for your own system and task. Same loop both times. Name the layer that broke, ship the change, replay it on old traffic before it goes out. We've built the infrastructure to tackle these harness problems at scale.\r\n\r\nWe do not sell a platform that solves every harness problem. We sell those jobs, on an agent already in production.",
+          "after": "Your agents should never make the same mistake twice. Moda helps you engineer better agents from production data. Find recurring failures, understand what caused them, and build evals from real agent runs. Compare models on the tasks your users actually need. Test changes to your prompts, tools, and workflows against past production traffic before you ship. Know what broke, what to change, and whether the fix worked."
+        },
+        "one_liner": {
+          "before": "Harness Engineering Infrastructure that developers love.",
+          "after": "Your agents should never make the same mistake twice."
+        },
+        "small_logo_thumb_url": {
+          "before": "https://bookface-images.s3.amazonaws.com/small_logos/c76a18751e4b95b7b3cf621f7752449405d71aa5.png",
+          "after": "https://bookface-images.s3.amazonaws.com/small_logos/fd64626b0d2bee14b3f5a65475f8e788a52bf6d2.png"
         }
       }
     },
@@ -396,44 +558,66 @@
       ],
       "changes": {
         "small_logo_thumb_url": {
-          "before": "https://bookface-images.s3.amazonaws.com/small_logos/3f0ffe6b713cd1d09640befb7d9ecff3dd9facdb.png",
-          "after": "https://bookface-images.s3.amazonaws.com/small_logos/dcb95bbd996c96bdc7fb6f2b3eded9623e44edd6.png"
+          "before": "https://bookface-images.s3.amazonaws.com/small_logos/dcb95bbd996c96bdc7fb6f2b3eded9623e44edd6.png",
+          "after": "https://bookface-images.s3.amazonaws.com/small_logos/e44ed02ee8401d33164908d2c6b159fb262e1bcf.png"
         }
       }
     },
     {
-      "id": 34896,
-      "name": "Faraday",
-      "slug": "faraday",
-      "batch": "Fall 2026",
-      "url": "https://www.ycombinator.com/companies/faraday",
+      "id": 31458,
+      "name": "Reason Machines",
+      "slug": "reason-machines",
+      "batch": "Spring 2026",
+      "url": "https://www.ycombinator.com/companies/reason-machines",
       "changed_fields": [
-        "industries",
-        "long_description",
-        "one_liner",
-        "subindustry"
+        "small_logo_thumb_url"
       ],
       "changes": {
-        "industries": {
+        "small_logo_thumb_url": {
+          "before": "https://bookface-images.s3.amazonaws.com/small_logos/1f536d08b73147eb71c0665fe5c2d6c6ffed0663.png",
+          "after": "https://bookface-images.s3.amazonaws.com/small_logos/41ce981200cf7566e83cab9db3f721b243d01db5.png"
+        }
+      }
+    },
+    {
+      "id": 31463,
+      "name": "Armature",
+      "slug": "armature",
+      "batch": "Spring 2026",
+      "url": "https://www.ycombinator.com/companies/armature",
+      "changed_fields": [
+        "long_description"
+      ],
+      "changes": {
+        "long_description": {
+          "before": "Coding agents like Claude Code, Codex and Cursor now decide which tools get installed in a codebase. Armature runs the real agents inside a panel of realistic repositories, measures whether they pick you, and works with your team on the docs, SDK and content changes that make them choose you. Every change is tested on real agent runs before it ships.\r\n\r\nOnce agents use your product, Armature shows you what users do with it through AI, with self-serve MCP analytics and evals that catch regressions before your users see them.",
+          "after": "Coding agents like Claude Code, Codex and Cursor now decide which tools get installed in a codebase. Armature runs the real agents inside a panel of realistic repositories, measures whether they pick you, and works with your team on the docs, SDK and content that make them choose you.\r\n\r\nWe call this Agent-Led Growth (~coding agents GEO for dev tools).\r\n\r\nAnd once agents use your product, Armature shows you what users do with it through AI, with self-serve MCP analytics and evals that catch regressions before your users see them."
+        }
+      }
+    },
+    {
+      "id": 33540,
+      "name": "Osseus",
+      "slug": "osseus",
+      "batch": "Summer 2026",
+      "url": "https://www.ycombinator.com/companies/osseus",
+      "changed_fields": [
+        "all_locations",
+        "regions"
+      ],
+      "changes": {
+        "all_locations": {
+          "before": "",
+          "after": "London, England, United Kingdom"
+        },
+        "regions": {
           "before": [
-            "Industrials",
-            "Manufacturing and Robotics"
+            "Unspecified"
           ],
           "after": [
-            "Industrials"
+            "United Kingdom",
+            "Europe"
           ]
-        },
-        "long_description": {
-          "before": "",
-          "after": "Faraday builds industrial AI that learns how enterprises operate and executes long-horizon, multi-step tasks from the back office to the shop floor.\r\n\r\nWe sit on top of fragmented systems of record, coordinating work across existing software and teams. We combine operating procedures, enterprise data, and expert feedback to capture the rules and judgment behind complex processes. In customer-specific RL environments, we optimize the agent harness around each company’s systems, constraints, approvals, and exceptions.\r\n\r\nWe’re connecting to industrial hardware to bring live production data into the same feedback loop. Human corrections, machine data, and operating results help improve how agents plan and execute future work.\r\n"
-        },
-        "one_liner": {
-          "before": "Industrial aOS between humans, agents, and robots",
-          "after": "Agents running industrial enterprises from back office to shop floor"
-        },
-        "subindustry": {
-          "before": "Industrials -> Manufacturing and Robotics",
-          "after": "Industrials"
         }
       }
     },
@@ -444,59 +628,97 @@
       "batch": "Fall 2026",
       "url": "https://www.ycombinator.com/companies/viraj-aero",
       "changed_fields": [
-        "all_locations",
         "long_description",
-        "regions",
         "tags"
       ],
       "changes": {
-        "all_locations": {
-          "before": "Toulouse, Occitanie, France",
-          "after": ""
-        },
         "long_description": {
-          "before": "",
-          "after": "Viraj Aero builds gas turbines that deliver both power and cooling water for data centers. It needs no grid connection and no water pipeline.\r\n\r\nBurning natural gas already produces water. Our patent-pending system captures that water from the exhaust. Part of it cools the data center. The rest is turned into steam and injected back into the turbine. That gives up to 40% more power from the same fuel (cheaper compute) and cuts NOx emissions by up to 99%, which cuts permit approvals from years to weeks.\r\n\r\nWe're building a genset around our first-of-its-kind gas turbine. It fits in a 10-foot container and runs anywhere, even in the desert. That matters because two-thirds of new data centers are being built in water-stressed regions.\r\n\r\nWe first built this steam-injected turbine for aircraft, where carrying water tanks isn't an option and efficiency is critical. We're currently integrating our full-scale prototype into an aircraft. The team comes from GE, Rolls-Royce and Formula 1, and we're already working with Safran, one of the world's largest aircraft engine manufacturers."
-        },
-        "regions": {
-          "before": [
-            "France",
-            "Europe"
-          ],
-          "after": [
-            "Unspecified"
-          ]
+          "before": "Viraj Aero builds gas turbines that deliver both power and cooling water for data centers. It needs no grid connection and no water pipeline.\r\n\r\nBurning natural gas already produces water. Our patent-pending system captures that water from the exhaust. Part of it cools the data center. The rest is turned into steam and injected back into the turbine. That gives up to 40% more power from the same fuel (cheaper compute) and cuts NOx emissions by up to 99%, which cuts permit approvals from years to weeks.\r\n\r\nWe're building a genset around our first-of-its-kind gas turbine. It fits in a 10-foot container and runs anywhere, even in the desert. That matters because two-thirds of new data centers are being built in water-stressed regions.\r\n\r\nWe first built this steam-injected turbine for aircraft, where carrying water tanks isn't an option and efficiency is critical. We're currently integrating our full-scale prototype into an aircraft. The team comes from GE, Rolls-Royce and Formula 1, and we're already working with Safran, one of the world's largest aircraft engine manufacturers.",
+          "after": "Viraj Aero builds gas turbines that deliver both power and cooling water for data centers. It needs no grid connection and no water pipeline.\r\n\r\nBurning natural gas already produces water. Our patented system captures that water from the exhaust. Part of it cools the data center. The rest is turned into steam and injected back into the turbine. That gives up to 40% more power from the same fuel (cheaper compute) and cuts NOx emissions by up to 99%, which cuts permit approvals from years to weeks.\r\n\r\nWe're building a genset around our first-of-its-kind gas turbine. It fits in a 10-foot container and runs anywhere, even in the desert. That matters because two-thirds of new data centers are being built in water-stressed regions.\r\n\r\nWe first built this steam-injected turbine for aircraft, where carrying water tanks isn't an option and efficiency is critical. We're currently integrating our full-scale prototype into an aircraft. The team comes from GE, Rolls-Royce and Formula 1, and we're already working with Safran, one of the world's largest aircraft engine manufacturers."
         },
         "tags": {
           "before": [
             "Artificial Intelligence",
             "Hard Tech",
             "Energy",
-            "Aerospace",
-            "ClimateTech"
+            "Aerospace"
           ],
           "after": [
-            "Artificial Intelligence",
             "Hard Tech",
             "Energy",
-            "Aerospace"
+            "Aerospace",
+            "AI"
           ]
         }
       }
     },
     {
-      "id": 35850,
-      "name": "Dreamscale Labs",
-      "slug": "dreamscale-labs",
+      "id": 35258,
+      "name": "Mirrors",
+      "slug": "mirrors",
       "batch": "Fall 2026",
-      "url": "https://www.ycombinator.com/companies/dreamscale-labs",
+      "url": "https://www.ycombinator.com/companies/mirrors",
       "changed_fields": [
-        "one_liner"
+        "one_liner",
+        "tags"
       ],
       "changes": {
         "one_liner": {
-          "before": "Running robot brains in the cloud",
-          "after": "Real-time cloud inference for robotics."
+          "before": "Give AI agents the right instructions at the right moment",
+          "after": "Give AI agents the right context at the right moment"
+        },
+        "tags": {
+          "before": [
+            "AIOps",
+            "Artificial Intelligence",
+            "Developer Tools",
+            "SaaS",
+            "B2B"
+          ],
+          "after": [
+            "AIOps",
+            "Developer Tools",
+            "SaaS",
+            "B2B",
+            "AI"
+          ]
+        }
+      }
+    },
+    {
+      "id": 35261,
+      "name": "Asakana",
+      "slug": "asakana",
+      "batch": "Fall 2026",
+      "url": "https://www.ycombinator.com/companies/asakana",
+      "changed_fields": [
+        "one_liner",
+        "small_logo_thumb_url"
+      ],
+      "changes": {
+        "one_liner": {
+          "before": "AI order entry for food distributors: emails and texts to ERP",
+          "after": "Automating away manual admin for food distributors: texts to ERP"
+        },
+        "small_logo_thumb_url": {
+          "before": "https://bookface-images.s3.amazonaws.com/small_logos/582ebf9f01453d95f2c02b9bac341aff365af875.png",
+          "after": "https://bookface-images.s3.amazonaws.com/small_logos/b17bfb784fbfd8ce18bf9fc551a8a6c2a2c68f02.png"
+        }
+      }
+    },
+    {
+      "id": 35487,
+      "name": "Streamline Systems",
+      "slug": "streamline-systems",
+      "batch": "Fall 2026",
+      "url": "https://www.ycombinator.com/companies/streamline-systems",
+      "changed_fields": [
+        "isHiring"
+      ],
+      "changes": {
+        "isHiring": {
+          "before": true,
+          "after": false
         }
       }
     },
@@ -508,55 +730,60 @@
       "url": "https://www.ycombinator.com/companies/opera",
       "changed_fields": [
         "long_description",
-        "one_liner",
-        "small_logo_thumb_url"
-      ],
-      "changes": {
-        "long_description": {
-          "before": "Opera (YC F26) is an automated operations research lab applying mathematics and AI to optimize operations for retail, logistics, manufacturing, agriculture and more, delivering solutions for VP of Operations, supply chain leaders, plant managers and COOs to improve efficiency and decision-making.",
-          "after": "OpEra is the AI decision engine for factories, warehouses and fleets. Companies with physical operations make thousands of decisions every day, and we help their teams make the best one at every step from production to delivery: (1) Planning: how much to make, buy and stock. (2) Scheduling: what runs when, and who works on what. (3) Allocation: which warehouse or store gets each order. (4) Routing: boat, plane or truck, and which route each one takes. Founded out of MIT's Operations Research Center."
-        },
-        "one_liner": {
-          "before": "Automated operations research (OR) lab",
-          "after": "The AI decision engine for factories, warehouses and fleets"
-        },
-        "small_logo_thumb_url": {
-          "before": "https://bookface-images.s3.amazonaws.com/small_logos/8ab2731276f4a748d3087f83aa4d1ed311a0690b.png",
-          "after": "https://bookface-images.s3.amazonaws.com/small_logos/31457ec77d0c307cc8c7986a68fd9d81c50a99ce.png"
-        }
-      }
-    },
-    {
-      "id": 37601,
-      "name": "Lark",
-      "slug": "lark-2",
-      "batch": "Fall 2026",
-      "url": "https://www.ycombinator.com/companies/lark-2",
-      "changed_fields": [
-        "long_description",
-        "one_liner",
         "tags"
       ],
       "changes": {
         "long_description": {
-          "before": "Lark builds specialized AI agents that automate manual workflows for wholesale distributors. Our agents work with existing ERP systems, learning from each distributor’s historical data and the team’s decisions. Together, these agents can run a distributor’s entire operation.",
-          "after": "Lark deploys AI agents that automate manual workflows for wholesale distributors, everything from customer quotes to inventory managment. Our agents work with existing ERP systems, learning from each distributor’s historical data and the team’s decisions. Together, these agents can run a distributor’s entire operation."
-        },
-        "one_liner": {
-          "before": "Lark - Specialized agents for wholesale distributors",
-          "after": "Lark - AI agents that automate workflows for wholesale distributors"
+          "before": "OpEra is the AI decision engine for factories, warehouses and fleets. Companies with physical operations make thousands of decisions every day, and we help their teams make the best one at every step from production to delivery: (1) Planning: how much to make, buy and stock. (2) Scheduling: what runs when, and who works on what. (3) Allocation: which warehouse or store gets each order. (4) Routing: boat, plane or truck, and which route each one takes. Founded out of MIT's Operations Research Center.",
+          "after": "OpEra Technologies is the AI decision engine for factories, warehouses and fleets. Companies with physical operations make thousands of decisions every day, and we help their teams make the best one at every step from production to delivery: (1) Planning: how much to make, buy and stock. (2) Scheduling: what runs when, and who works on what. (3) Allocation: which warehouse or store gets each order. (4) Routing: boat, plane or truck, and which route each one takes. Founded out of MIT's Operations Research Center."
         },
         "tags": {
           "before": [
-            "B2B",
+            "Logistics",
+            "Manufacturing",
             "Supply Chain",
+            "Operations",
             "AI"
           ],
           "after": [
             "Artificial Intelligence",
-            "B2B",
-            "Supply Chain"
+            "Logistics",
+            "Manufacturing",
+            "Supply Chain",
+            "Operations"
           ]
+        }
+      }
+    },
+    {
+      "id": 38061,
+      "name": "Maritime",
+      "slug": "maritime",
+      "batch": "Fall 2026",
+      "url": "https://www.ycombinator.com/companies/maritime",
+      "changed_fields": [
+        "long_description"
+      ],
+      "changes": {
+        "long_description": {
+          "before": "Maritime is cloud infrastructure for AI agents. We help companies give every customer an agent running in its own isolated, persistent computer, starting at $1 per agent per month. Maritime handles hosting, scaling, and sleep/wake automatically, so developers can run thousands of agents without managing the infrastructure.",
+          "after": "Maritime is a fully managed cloud platform for startups selling AI agents. We help them run thousands of agents, each in its own isolated, persistent computer, starting at $1 per agent per month, with all underlying infrastructure, scaling, sleep/wake, and monitoring handled automatically."
+        }
+      }
+    },
+    {
+      "id": 38589,
+      "name": "Keres",
+      "slug": "keres",
+      "batch": "Fall 2026",
+      "url": "https://www.ycombinator.com/companies/keres",
+      "changed_fields": [
+        "long_description"
+      ],
+      "changes": {
+        "long_description": {
+          "before": "Keres builds reusable unmanned jet interceptors for air defense. The Garmur launches on cue, closes at jet speed, positively identifies and kills drones and cruise missiles, then lands to fly again. It gives commanders a fighter-class response at a fraction of the cost.",
+          "after": "Keres (KAIR-eez) builds reusable unmanned jet interceptors for air defense. The Garmur launches on cue, closes at jet speed, positively identifies and kills drones and cruise missiles, then lands to fly again. It gives commanders a fighter-class response at a fraction of the cost."
         }
       }
     }
