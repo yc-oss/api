@@ -1648,15 +1648,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/906b7c01faee6d9632f1f941bfe737812ec7d0b9.png",
     "website": "https://aviern.com/",
     "all_locations": "Los Angeles, CA, USA",
-    "long_description": "Aviern builds unmanned airplanes that turn the sky into a geospatial intelligence source. Our fixed-wing aircraft launch, fly, and land from unattended docks along infrastructure corridors, with onboard perception that flags leaks, encroachments, and vegetation risk with no pilot in the loop. We're starting with PHMSA-mandated pipeline patrol, where operators still pay helicopter crews to fly their lines up to 26 times a year, and we sell per mile as a service. The same aircraft, docks, and intelligence stack extend to the power grid, rail, borders, and bases.",
-    "one_liner": "Unmanned airplanes for geospatial intelligence",
+    "long_description": "Aviern makes unmanned cargo airplanes for commercial operations and defense logistics. In 2 months we built our own scaled aircraft that taxis, takes off, flies and lands fully autonomously and are working on a larger 50lb aircraft.",
+    "one_liner": "Unmanned cargo airplanes",
     "team_size": 4,
     "industry": "Industrials",
     "subindustry": "Industrials -> Drones",
     "launched_at": 1789408162,
     "tags": [
-      "Geographic Information System",
       "Airplanes",
+      "Logistics",
       "Aerospace",
       "Infrastructure"
     ],
@@ -2517,6 +2517,46 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/invertix.json"
   },
   {
+    "id": 35356,
+    "name": "Sintem",
+    "slug": "sintem",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/754de4c0d947ee0ffec143a04381c7d7cdcc0667.png",
+    "website": "https://sintem.co",
+    "all_locations": "BY, Germany",
+    "long_description": "We make agentic phones for teams. Each phone runs our new agentic operating system with an army of agents that proactively work across the tools your team already uses and take care of the routine work. \r\n\r\nYour best people get even more done and spend less time on their screens.",
+    "one_liner": "Agentic phones for teams",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1791832761,
+    "tags": [
+      "Artificial Intelligence",
+      "Telecommunications"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "Germany",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sintem",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/sintem.json"
+  },
+  {
     "id": 35389,
     "name": "Open Actuation",
     "slug": "open-actuation",
@@ -3355,6 +3395,93 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/ignition-benefits.json"
   },
   {
+    "id": 36016,
+    "name": "Pomerado",
+    "slug": "pomerado",
+    "former_names": [
+      "Toolsmith"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d4ea3739a0bbffad42b3f827b3d69b5ad605a8f.png",
+    "website": "https://www.pomerado.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Pomerado turns any website into an API / MCP in minutes. Empower your agents to use previously inaccessable consumer websites, legacy portals, and internal tools. \r\n\r\nYou or your agent describe a task, Pomerado asks a few clarifying questions, and then delivers an integration. We manage hosting, permissioning, testing, and maintenance, so you can focus on building. \r\n\r\nAs consultants at McKinsey and Scale AI, we saw that legacy systems were the true blocker to agentic workflows. Pomerado connects those systems to agents.",
+    "one_liner": "Turn any website into an MCP for your agents, in minutes",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1791788322,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "Workflow Automation",
+      "API"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pomerado",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/pomerado.json"
+  },
+  {
+    "id": 36081,
+    "name": "Polemos Industries",
+    "slug": "polemos-industries",
+    "former_names": [
+      "Lokberg Industries"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/52d6be23c1a08e2020010a26b5bd336554572d38.png",
+    "website": "https://lokberg.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Precision strike is rationed. Forces see more targets than they can afford to hit.\r\n\r\nPolemos builds AI-guided ballistic missiles and the compact launchers that fire them, designed for mass manufacturing. Our launchers form a strike network wired into the recon drones already in the sky: a drone geolocates a target, the nearest launcher fires, and a guided round lands in seconds.\r\n\r\nShort range, no wasted kilometers, no modified trucks. Built on production lines that already exist, so output scales when it matters most.",
+    "one_liner": "AI-guided ballistic missiles, cheap enough to field in numbers that…",
+    "team_size": 0,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Defense",
+    "launched_at": 1791838393,
+    "tags": [
+      "Defense",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/polemos-industries",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/polemos-industries.json"
+  },
+  {
     "id": 36084,
     "name": "Covera",
     "slug": "covera",
@@ -3482,6 +3609,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/openseo",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/openseo.json"
+  },
+  {
+    "id": 36147,
+    "name": "Reconero",
+    "slug": "reconero",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b80e05ae693ed71f511c4061b98e40ea8c93e882.png",
+    "website": "https://reconero.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Officers join the force to protect their communities, yet over 40% of their day is eaten by paperwork that keeps them behind a desk. The burden reaches beyond lost time. Burnout is driving officers out of the force, leaving those who remain carrying an even heavier workload.\r\n\r\nReconero is built to give that time back. By automating reports, forms, analytics, and more, we help officers finish their administrative paperwork faster, spend more time serving their communities, and protect the time they have with their families.",
+    "one_liner": "Reconero helps police officers automate their workflows with AI",
+    "team_size": 2,
+    "industry": "Government",
+    "subindustry": "Government",
+    "launched_at": 1791833877,
+    "tags": [
+      "SaaS",
+      "GovTech",
+      "Data Visualization",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Government"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/reconero",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/reconero.json"
   },
   {
     "id": 36180,
@@ -3857,6 +4025,44 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/preload.json"
   },
   {
+    "id": 36576,
+    "name": "Sutrix",
+    "slug": "sutrix",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/10aa0357ff173a9e31708ec1fdba33b53c40c20f.png",
+    "website": "https://www.sutrix.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sutrix helps hospital clinical research teams accelerate studies by eliminating manual data preparation. We deploy software into their existing systems, transforming data from EHRs, wearables, and other external sources into validated, study-ready datasets. Our software applies study-specific definitions, reconciles conflicting records, and flags unresolved cases for review, reducing repetitive manual work across research workflows.",
+    "one_liner": "AI-native statistical analysis for patient outcomes",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1791849574,
+    "tags": [
+      "Healthcare"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sutrix",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/sutrix.json"
+  },
+  {
     "id": 36577,
     "name": "OpEra",
     "slug": "opera",
@@ -3865,7 +4071,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/31457ec77d0c307cc8c7986a68fd9d81c50a99ce.png",
     "website": "https://operatechnologies.com",
-    "all_locations": "New York City, NY, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "OpEra Technologies is the AI decision engine for factories, warehouses and fleets. Companies with physical operations make thousands of decisions every day, and we help their teams make the best one at every step from production to delivery: (1) Planning: how much to make, buy and stock. (2) Scheduling: what runs when, and who works on what. (3) Allocation: which warehouse or store gets each order. (4) Routing: boat, plane or truck, and which route each one takes. Founded out of MIT's Operations Research Center.",
     "one_liner": "The AI decision engine for factories, warehouses and fleets",
     "team_size": 2,
@@ -3873,11 +4079,11 @@
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1790381980,
     "tags": [
-      "Artificial Intelligence",
       "Logistics",
       "Manufacturing",
       "Supply Chain",
-      "Operations"
+      "Operations",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4451,7 +4657,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e227fdb2c6620d1b088142bc179befd86c865fee.png",
     "website": "https://www.joinspine.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Spine runs benefits, payroll, and compliance for startups for free.\r\n\r\nWe do the work by giving teams dedicated senior HR and benefits specialists who operate on top of their existing HRIS (Rippling, Deel, Gusto, ADP). We help companies find better-fit, more cost-effective health plans - reducing healthcare costs by around 15% on average - while running payroll, handling compliance, managing open enrollment, and supporting employees directly in Slack.\r\n\r\n30+ startups already use Spine to lower healthcare costs and take hours of back-office work off their teams. Learn more at joinspine.ai",
+    "long_description": "Spine runs benefits, payroll, and compliance for startups for free.\r\n\r\nWe do the work by giving teams dedicated senior HR and benefits specialists who operate on top of their existing HRIS (Rippling, Deel, Gusto, ADP). We help companies find better-fit, more cost-effective health plans - reducing healthcare costs by around 15% on average - while running payroll, handling compliance, managing open enrollment, and supporting employees directly in Slack.\r\n\r\n30+ startups already use Spine to lower healthcare costs and take hours of back-office work off their teams. Learn more at joinspine.ai or email onur@joinspine.ai",
     "one_liner": "We run benefits, payroll & compliance for startups, for free",
     "team_size": 0,
     "industry": "B2B",

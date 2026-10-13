@@ -33512,7 +33512,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2019",
     "status": "Active",
@@ -39959,7 +39959,7 @@
     "all_locations": "London, England, United Kingdom",
     "long_description": "QuestDB is a high-performance open source database for the most demanding workloads. Native support for Parquet, Iceberg and SQL keeps your data portable, AI-ready, without vendor lock-in.\r\n\r\nQuestDB is designed from the ground up to operate as close to the hardware as possible - eliminating ingestion bottlenecks and lowering overall hardware requirements.\r\n\r\nQuestDB powers mission-critical infrastructure for companies in Capital Markets, Crypto, Space Exploration, Energy and Robotics/Physical AI.",
     "one_liner": "High-performance time series database",
-    "team_size": 20,
+    "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1593714682,
@@ -59106,10 +59106,10 @@
     "subindustry": "B2B",
     "launched_at": 1642541270,
     "tags": [
+      "Artificial Intelligence",
       "Construction",
       "B2B",
-      "Proptech",
-      "AI"
+      "Proptech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -64517,7 +64517,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Operations"
@@ -69454,7 +69454,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -71725,10 +71725,10 @@
       "Abridge"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aecbe7c9746a215c5988fc9a472c03bbcb3fec72.png",
-    "website": "https://www.sculptcosting.com/",
-    "all_locations": "Pune, MH, India; MH, India",
-    "long_description": "Artificial Intelligence that converts manufacturing drawings into costing quotations in minutes, not weeks.",
-    "one_liner": "Fully automated should-cost analysis for precision manufacturers.",
+    "website": "",
+    "all_locations": "Pune, MH, India",
+    "long_description": "",
+    "one_liner": "World Models for Aviation MROs",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -85618,7 +85618,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Marketing"
@@ -93349,28 +93349,29 @@
   },
   {
     "id": 29504,
-    "name": "Quivr",
-    "slug": "quivr",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/55e2d5d59eda45392b5f80742e4d67462860257e.png",
-    "website": "https://www.quivr.app/",
+    "name": "The Vibe Company",
+    "slug": "the-vibe-company",
+    "former_names": [
+      "Quivr"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/48a2e57e5dd1d60b9593214bad1c5d81f0340c27.png",
+    "website": "https://thevibecompany.co",
     "all_locations": "Paris, Île-de-France, France",
-    "long_description": "Quivr is an AI-powered customer support tool that helps teams draft responses, automate replies, and resolve tickets directly inside platforms like Zendesk or other helpdesk solutions.\r\n\r\nThe platform augments agent productivity by reducing repetitive work and accelerating resolution time.",
-    "one_liner": "AI-powered auto-resolutions and reply suggestions for customer…",
+    "long_description": "The Vibe Company (formerly Quivr, YC W24) is an AI-native agency. We build custom products and internal tools for companies, deploy agentic automations (agents, skills, workflows), and train teams on AI adoption.\r\n\r\nOur bet: agencies don’t scale because they sell hours. We’re building one that does, by automating our own internal processes with AI agents. Every workflow we automate for ourselves becomes something we can ship to clients.",
+    "one_liner": "AI-native agency that scales like software, run on our own AI agents.",
     "team_size": 5,
     "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
+    "subindustry": "B2B",
     "launched_at": 1706766974,
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Productivity"
+      "B2B"
     ],
     "regions": [
       "France",
@@ -93383,8 +93384,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/quivr",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/quivr.json"
+    "url": "https://www.ycombinator.com/companies/the-vibe-company",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/the-vibe-company.json"
   },
   {
     "id": 29505,
@@ -106168,6 +106169,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/calltree.json"
   },
   {
+    "id": 30289,
+    "name": "Sherpa Labs",
+    "slug": "sherpa-labs",
+    "former_names": [
+      "DagHub.ai"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fc6e69fe5c9b9ed32dbb15b81f5057c0f2e4abd.png",
+    "website": "https://www.sherpalabs.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Frontier Data",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1737526775,
+    "tags": [
+      "Reinforcement Learning",
+      "Data Labeling",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sherpa-labs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/sherpa-labs.json"
+  },
+  {
     "id": 30290,
     "name": "Tire Swing",
     "slug": "tire-swing",
@@ -111198,7 +111241,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -112348,8 +112391,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc86727a443ac448343eba0a5ce27b88d63b2f8f.png",
     "website": "https://traceroot.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "TraceRoot is the open-source self-improving layer for AI agents — observability that detects failures in production, root-causes them against your source code and GitHub history, opens verified fix PRs, and evals every fix — so your agent gets better with every release.",
-    "one_liner": "Open source self-improving layer for AI agents",
+    "long_description": "TraceRoot is the open-source AI agent improvement platform. Turn production traces into actionable feedback and evals, closing the improvement loop with your coding agent.",
+    "one_liner": "Open Source AI Agent Improvement Platform",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -114786,18 +114829,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f9c7327b2253f8bd8e5f5ae01e113ba12ee0e4bd.png",
     "website": "https://www.knowlify.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Knowlify makes it easy for companies to create animated explainer videos using AI. Upload any document and/or prompt deck to get a professional explainer video in minutes - no designers, animators, or video editors needed. \r\n\r\nTeams use Knowlify to produce training videos, customer literacy videos, product explainers, onboarding content, and internal communications at a fraction of the traditional cost and timeline. \r\n\r\nAvailable as a self-serve platform or a fully managed service.",
-    "one_liner": "The AI Explainer Video Maker",
+    "long_description": "Knowlify is a done-for-you video ads agency for startups running paid social. We write the ads and make them: UGC-style talking-head, commercials, and Pixar-style. You brief us on a 20-minute call. We send the direction in writing, you approve it, and the first finished batch lands in days. New ads come every week, ready to upload.\r\n\r\nIf you have been prompting an AI video tool and getting back something that is not the ad you asked for, that is the job we take. You wrote the prompt. You still do not have an ad. You wrote the brief. The tool ignored it. You do not write another prompt. You approve the direction, and we make the ads.\r\n\r\nStartups use Knowlify when they need more creative to test than an agency round, a creator roster, or a prompt box can ship. We produce the videos. Media spend stays yours.",
+    "one_liner": "DFY video paid ads agency for startups",
     "team_size": 6,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Marketing",
     "launched_at": 1754937543,
     "tags": [
-      "Artificial Intelligence",
-      "Education",
-      "Generative AI",
       "Video",
-      "Enterprise Software"
+      "Marketing",
+      "Advertising"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -114806,7 +114847,8 @@
     "batch": "Summer 2025",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Marketing"
     ],
     "regions": [
       "United States of America",
@@ -118926,7 +118968,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -120117,7 +120159,7 @@
       "zag.dev",
       "Zag"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/714f71e97009698c591e79370e41cb52734e724e.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8dccef83823a85d888578112126c72cae4a92e61.png",
     "website": "https://antigen.sh/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Antigen is an AI adversary for the enterprise. It maps, exploits, and secures your attack surface through nightly automated offensive testing and monthly human red team assessments. Every finding is delivered with traces, reproduction steps, and remediation directly in GitHub, Linear, or the Antigen Platform.\r\n\r\nWe work with companies in financial services, healthcare, retail, and government where security is trust.\r\n\r\nWe're backed by Lightspeed, DST Global, and Susa Ventures.",
@@ -122430,19 +122472,19 @@
     "former_names": [
       "Ramain"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/84a4e967f95d9b8d27dc1c449093e93017aa4beb.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e2b50a0163e4e9b6028ca59700b409129a13fe04.png",
     "website": "https://ramain.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "RamAIn can intelligently automate any super complex and repetitive process across applications (Browser & Desktop) super fast. It doesn’t matter whether you have API access or not - if you can see it, RamAIn can do it. \r\n\r\nSimply chat with it and get your UI task as a composable API - fully managed, self-healing and self-evolving!",
-    "one_liner": "Automate any UI task with natural language",
-    "team_size": 4,
+    "long_description": "RamAIn Employees join your team just like a human. Teach them to work across systems just like a new hire and watch them work autonomously to do the work 24/7. ",
+    "one_liner": "RamAIn - AI Employees with a computer to perform business tasks just…",
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1767663208,
     "tags": [
-      "Artificial Intelligence",
       "Robotic Process Automation",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -122727,7 +122769,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2026",
     "status": "Active",
@@ -125255,7 +125297,7 @@
     "former_names": [
       "HelpingHome"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/47ffd397ae9768c410e6f2ccb34010e6de9587b6.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8f0d0e6f741a56de1899f97dfa05142761a40372.png",
     "website": "https://www.mochacare.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "MochaCare is an agentic management service for care organizations. We handle hiring, scheduling, and client intake end-to-end so our partners can focus on growth.",
@@ -128149,7 +128191,7 @@
       "markup.one",
       "tday"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e44ed02ee8401d33164908d2c6b159fb262e1bcf.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/826a45ec885ec85fd4365a46539e3e25d71b2d4b.png",
     "website": "https://tday.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "tday automatically turns a software company's product into on-brand marketing creative. Connect your product and git repo, and tday generates polished launch videos, social graphics, and ads, the content a team would normally spend hours making in a design tool or pay a freelancer for. tday then publishes the creative and measures how it performs across your social and ad channels, closing the loop from what you ship to what you post.",
@@ -130834,16 +130876,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/823732d3a67703ee105bf266f45c3e43c175ef96.png",
     "website": "https://belvedir.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Custom AI models are going to win. Belvedir is the infrastructure needed to make trillions of them. We autonomously collect raw data, train models, privately deploy them, and recursively improve them as they are used. \r\n\r\nOur customers have seen 10x reductions in inference costs and 2x increases on benchmark scores.\r\n",
+    "long_description": "",
     "one_liner": "The autonomous AI model factory",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1784319754,
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
-      "Reinforcement Learning"
+      "Reinforcement Learning",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -132480,13 +132522,13 @@
     "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1782230867,
     "tags": [
-      "AI",
+      "Artificial Intelligence",
       "Careers",
       "Conversational AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2026",
     "status": "Active",
@@ -134243,8 +134285,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8f563ce5c802b34a01e9ad0f5641eb4bb092c6c.png",
     "website": "https://nex.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Nex builds and runs the complex, high-volume GTM workflows that general-purpose agents struggle with. Built by ex-HubSpotters who ran its three largest customer platforms and backed by HubSpot founder Dharmesh Shah.",
-    "one_liner": "AI for high volume GTM Engineering",
+    "long_description": "We build and deploy AI agents that manage prospecting, qualification, CRM hygiene, forecasting, lead routing, revenue recovery, and all the complex revenue work in between, on autopilot.",
+    "one_liner": "Grok bot for GTM & Revenue teams",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
@@ -136014,6 +136056,46 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/agent-relay.json"
   },
   {
+    "id": 35356,
+    "name": "Sintem",
+    "slug": "sintem",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/754de4c0d947ee0ffec143a04381c7d7cdcc0667.png",
+    "website": "https://sintem.co",
+    "all_locations": "BY, Germany",
+    "long_description": "We make agentic phones for teams. Each phone runs our new agentic operating system with an army of agents that proactively work across the tools your team already uses and take care of the routine work. \r\n\r\nYour best people get even more done and spend less time on their screens.",
+    "one_liner": "Agentic phones for teams",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1791832761,
+    "tags": [
+      "Artificial Intelligence",
+      "Telecommunications"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "Germany",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sintem",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/sintem.json"
+  },
+  {
     "id": 35392,
     "name": "Dydema",
     "slug": "dydema",
@@ -136348,6 +136430,51 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/resin-technologies.json"
   },
   {
+    "id": 36016,
+    "name": "Pomerado",
+    "slug": "pomerado",
+    "former_names": [
+      "Toolsmith"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d4ea3739a0bbffad42b3f827b3d69b5ad605a8f.png",
+    "website": "https://www.pomerado.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Pomerado turns any website into an API / MCP in minutes. Empower your agents to use previously inaccessable consumer websites, legacy portals, and internal tools. \r\n\r\nYou or your agent describe a task, Pomerado asks a few clarifying questions, and then delivers an integration. We manage hosting, permissioning, testing, and maintenance, so you can focus on building. \r\n\r\nAs consultants at McKinsey and Scale AI, we saw that legacy systems were the true blocker to agentic workflows. Pomerado connects those systems to agents.",
+    "one_liner": "Turn any website into an MCP for your agents, in minutes",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1791788322,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "Workflow Automation",
+      "API"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pomerado",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/pomerado.json"
+  },
+  {
     "id": 36088,
     "name": "OpenSEO",
     "slug": "openseo",
@@ -136525,7 +136652,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/31457ec77d0c307cc8c7986a68fd9d81c50a99ce.png",
     "website": "https://operatechnologies.com",
-    "all_locations": "New York City, NY, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "OpEra Technologies is the AI decision engine for factories, warehouses and fleets. Companies with physical operations make thousands of decisions every day, and we help their teams make the best one at every step from production to delivery: (1) Planning: how much to make, buy and stock. (2) Scheduling: what runs when, and who works on what. (3) Allocation: which warehouse or store gets each order. (4) Routing: boat, plane or truck, and which route each one takes. Founded out of MIT's Operations Research Center.",
     "one_liner": "The AI decision engine for factories, warehouses and fleets",
     "team_size": 2,
@@ -136533,11 +136660,11 @@
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1790381980,
     "tags": [
-      "Artificial Intelligence",
       "Logistics",
       "Manufacturing",
       "Supply Chain",
-      "Operations"
+      "Operations",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -136898,7 +137025,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e227fdb2c6620d1b088142bc179befd86c865fee.png",
     "website": "https://www.joinspine.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Spine runs benefits, payroll, and compliance for startups for free.\r\n\r\nWe do the work by giving teams dedicated senior HR and benefits specialists who operate on top of their existing HRIS (Rippling, Deel, Gusto, ADP). We help companies find better-fit, more cost-effective health plans - reducing healthcare costs by around 15% on average - while running payroll, handling compliance, managing open enrollment, and supporting employees directly in Slack.\r\n\r\n30+ startups already use Spine to lower healthcare costs and take hours of back-office work off their teams. Learn more at joinspine.ai",
+    "long_description": "Spine runs benefits, payroll, and compliance for startups for free.\r\n\r\nWe do the work by giving teams dedicated senior HR and benefits specialists who operate on top of their existing HRIS (Rippling, Deel, Gusto, ADP). We help companies find better-fit, more cost-effective health plans - reducing healthcare costs by around 15% on average - while running payroll, handling compliance, managing open enrollment, and supporting employees directly in Slack.\r\n\r\n30+ startups already use Spine to lower healthcare costs and take hours of back-office work off their teams. Learn more at joinspine.ai or email onur@joinspine.ai",
     "one_liner": "We run benefits, payroll & compliance for startups, for free",
     "team_size": 0,
     "industry": "B2B",

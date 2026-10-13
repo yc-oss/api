@@ -1749,50 +1749,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2018/tilt-fka-delphia.json"
   },
   {
-    "id": 1836,
-    "name": "Orangewood Labs",
-    "slug": "orangewood-labs",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b36a43190da640752bb01710dff43f2c6e5ff91.png",
-    "website": "http://www.orangewood.co",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Orangewood Labs makes physical ai and robotics with real world robot deployments performing millions of tasks \r\n\r\n",
-    "one_liner": "Orangewood democratises robotics",
-    "team_size": 8,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1510200183,
-    "tags": [
-      "Generative AI",
-      "Hardware",
-      "Robotics",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2018",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/orangewood-labs",
-    "api": "https://yc-oss.github.io/api/batches/winter-2018/orangewood-labs.json"
-  },
-  {
     "id": 1840,
     "name": "Memora Health",
     "slug": "memora-health",
@@ -8519,53 +8475,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/silkchart.json"
   },
   {
-    "id": 25273,
-    "name": "Agave",
-    "slug": "agave",
-    "former_names": [
-      "Agave Search",
-      "Agave",
-      "Agave API"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7d66896afcf3127a39f735586c48cd210cab0a7f.png",
-    "website": "https://www.useagave.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Agave builds applied AI for construction, a $12T global industry run on financial software built 20-50 years ago, much of it on-prem with no APIs and no documentation.\r\n\r\nWe spent 4 years building proprietary rails that read and write across those systems. Our AI agents run on those rails and take over the back-office work contractors still do by hand: invoice matching, expenses, compliance, billing, and financial reporting. Contractors keep the systems they already use; our agents work across them.\r\n\r\n600+ contractors run on Agave, including teams building hyperscaler data centers, mass transit systems, and other critical infrastructure. We're backed by Accel and Y Combinator, who both reinvested in our $15M Series A, plus execs from Procore, Autodesk, PlanGrid, and Plaid.\r\n\r\nOur three co-founders have worked together for 12+ years, across Graphiq (acquired by Amazon in 2017) and Amazon, and started Agave in YC's W22 batch.",
-    "one_liner": "Applied AI for Construction",
-    "team_size": 50,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1642541270,
-    "tags": [
-      "Construction",
-      "B2B",
-      "Proptech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/agave",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/agave.json"
-  },
-  {
     "id": 25275,
     "name": "Strac",
     "slug": "strac",
@@ -10581,7 +10490,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Operations"
@@ -11153,6 +11062,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/query-vary",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/query-vary.json"
+  },
+  {
+    "id": 26138,
+    "name": "KorrAI",
+    "slug": "korrai",
+    "former_names": [
+      "KorrAI Technologies Ltd."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/33961621d8602321f304fcd55e4abfa80d7569d4.png",
+    "website": "https://www.korrai.com",
+    "all_locations": "Toronto, ON, Canada",
+    "long_description": "KorrAI began in 2021 as a Canadian Space Agency research spin-off. We spent four years on ground deformation monitoring and geotechnical studies for mines and infrastructure, and kept running into the same problem: engineers who sign off on a site's safety have to synthesize reports by hunting for docs and data received from consultants, contractors, and site teams by hand.\r\n\r\nOver the last two years, we built TRAIL, a platform informed by interconnected data, powered by specialised AI agents, and supported by our experts. With TRAIL deployed at multiple mine sites across the US and Canada, we envision turning risk management into a proactive process. When records span decades, a wrong answer has regulatory and safety consequences; it is necessary to have complete knowledge of risks and take action in time. \r\n\r\nOur team of satellite data experts, geoscientists, and AI engineers monitors more than $100 billion in assets across the globe. TRAIL reads a site's full record: reports, drawings, inspection notes, monitoring data, satellite imagery, and ground deformation, etc. It builds a location-based knowledge graph. AI Agents run defined risk passes over the graph, flag contradictions, cross-link data, and present findings. Every finding cites its source page and data point, so a regulator or Engineer of Record can review it. Where no evidence supports a claim, TRAIL says so.\r\n\r\nTRAIL is used by closure professionals, geotechnical engineers, and Engineers of Record in mining, and by risk engineers and underwriters on data centers and other critical infrastructure. We work with organizations including Agnico Eagle, Hecla, Eldorado Gold, Stantec, AECOM, Ramboll, Amazon Web Services, and Zurich North America.",
+    "one_liner": "Traceable AI for billion-dollar infrastructure.",
+    "team_size": 20,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Energy",
+    "launched_at": 1643659113,
+    "tags": [
+      "Climate",
+      "Mining",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Energy"
+    ],
+    "regions": [
+      "Canada",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/korrai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/korrai.json"
   },
   {
     "id": 26144,
@@ -27448,6 +27402,50 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/laminar-com.json"
   },
   {
+    "id": 30116,
+    "name": "Freestyle",
+    "slug": "freestyle-ai",
+    "former_names": [
+      "Jarvis Mail",
+      "Friday"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f9e9b4d414566a4e2636d95776ad36cc0bd894c.png",
+    "website": "https://freestyle.ai/yc",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Email sucks. It takes forever to go through, and hiring an assistant is costly and invasive. Freestyle is building the assistant that learns how to predict the action that you will take on your emails, and does it for you.\r\n\r\nToday's email products try to help you go through your emails a little faster, but if you have to get through 1000 emails, those products doesn't do much for you. \r\n\r\nThe reality is, most of the emails you get don't require you to personally look at them. Freestyle completely eliminates the need to check those emails, and handles them all at once for you, immediately. \r\n\r\nFreestyle is here to file away spam, sift through newsletters for important tidbits, text you important notifications, and reply to mundane emails, so that no matter how many thousands of emails are in your inbox, you'll just be left with the few emails that actually require your personal touch.\r\n\r\nGetting this right is difficult, so everyone else settles with trying to help you go through your email twice as fast. If you want to go 100x as fast, you shouldn't spend even a second on useless emails. \r\n\r\nFreestyle gets this right, bringing the elite experience of having a professional assistant to the entire world.",
+    "one_liner": "The AI Assistant for Gmail",
+    "team_size": 3,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1731106672,
+    "tags": [
+      "Productivity",
+      "Email",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": true,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/freestyle-ai",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/freestyle-ai.json"
+  },
+  {
     "id": 30117,
     "name": "Relvy AI",
     "slug": "relvy-ai",
@@ -27747,47 +27745,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/closure",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/closure.json"
-  },
-  {
-    "id": 30210,
-    "name": "Conntour",
-    "slug": "conntour",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c972b0925a72b8923c709c1b48733059aafb73d3.png",
-    "website": "https://www.conntour.com/",
-    "all_locations": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-    "long_description": "Conntour enables government agencies to query their video - from security cameras, body cams, and drones.\r\n\r\nUsers can search past footage (“Find a man with tattoos on his left arm”), configure real-time alerts (“Notify me if someone climbs over the wall”), and extract data (“How many pickup trucks entered yesterday?”).\r\n\r\nUnlike traditional video analytics solutions, which are limited to fixed parameters (like a weapon, bag, or car color), Conntour supports an unlimited range of highly specific scenarios described in plain language. This enables a single human to monitor thousands of cameras, or find a specific moment in minutes instead of days.\r\n\r\nWhat makes Conntour's technology unique is its ability to process video using natural language at scale, fully on-premises, with minimal hardware requirements. The system is already deployed with mission-critical teams at leading intelligence and homeland security agencies.\r\n\r\nConntour is backed by top-tier investors including General Catalyst and Y Combinator, was selected for the first-ever Palantir Fellowship, and has the former CTO of the CIA on its advisory board.",
-    "one_liner": "Query mission-critical video",
-    "team_size": 20,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Defense",
-    "launched_at": 1738284252,
-    "tags": [
-      "Computer Vision",
-      "Defense",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Defense"
-    ],
-    "regions": [
-      "Israel",
-      "Middle East and North Africa"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/conntour",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/conntour.json"
   },
   {
     "id": 30212,
@@ -28776,6 +28733,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/harper",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/harper.json"
+  },
+  {
+    "id": 30289,
+    "name": "Sherpa Labs",
+    "slug": "sherpa-labs",
+    "former_names": [
+      "DagHub.ai"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fc6e69fe5c9b9ed32dbb15b81f5057c0f2e4abd.png",
+    "website": "https://www.sherpalabs.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Frontier Data",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1737526775,
+    "tags": [
+      "Reinforcement Learning",
+      "Data Labeling",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sherpa-labs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/sherpa-labs.json"
   },
   {
     "id": 30292,
@@ -34185,7 +34184,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -34837,7 +34836,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2026",
     "status": "Active",
@@ -34943,6 +34942,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/10x-science",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/10x-science.json"
+  },
+  {
+    "id": 31145,
+    "name": "RamAIn",
+    "slug": "ramain",
+    "former_names": [
+      "Ramain"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e2b50a0163e4e9b6028ca59700b409129a13fe04.png",
+    "website": "https://ramain.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "RamAIn Employees join your team just like a human. Teach them to work across systems just like a new hire and watch them work autonomously to do the work 24/7. ",
+    "one_liner": "RamAIn - AI Employees with a computer to perform business tasks just…",
+    "team_size": 7,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1767663208,
+    "tags": [
+      "Robotic Process Automation",
+      "Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ramain",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/ramain.json"
   },
   {
     "id": 31155,
@@ -37111,6 +37154,52 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/donkey.json"
   },
   {
+    "id": 32133,
+    "name": "Belvedir",
+    "slug": "belvedir",
+    "former_names": [
+      "Fractal",
+      "Fractal Research",
+      "Fractal Machine Research",
+      "Belvedir",
+      "Fractal Machine Research"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/823732d3a67703ee105bf266f45c3e43c175ef96.png",
+    "website": "https://belvedir.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "The autonomous AI model factory",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1784319754,
+    "tags": [
+      "Machine Learning",
+      "Reinforcement Learning",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/belvedir",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/belvedir.json"
+  },
+  {
     "id": 32134,
     "name": "Parasma",
     "slug": "parasma",
@@ -38165,49 +38254,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/standard-machines",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/standard-machines.json"
-  },
-  {
-    "id": 32526,
-    "name": "Pluto",
-    "slug": "talentpluto",
-    "former_names": [
-      "Talentpluto"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5ed12c5974a12759a4a83154066015d6c91fc4df.png",
-    "website": "https://talentpluto.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Resumes made careers readable. LinkedIn made them filterable. Pluto makes them searchable.\r\n\r\nProfessionals spend 10 minutes talking to Pluto's voice agent about what they've done, what they're great at, and what they want next. Pluto turns that into a structured picture of who someone actually is, capturing the competency and intent that resumes and LinkedIn don't.\r\n\r\nWhen companies and AI agents go looking to hire, Pluto makes the right people discoverable.\r\n\r\n27K+ professionals have shared their career context with Pluto, and 50+ companies, including Mercor, Warp, and Rho, use it to find and reach the right people. Long-term, we're building the LinkedIn for agents.\r\n",
-    "one_liner": "LinkedIn for agents",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Recruiting and Talent",
-    "launched_at": 1782230867,
-    "tags": [
-      "AI",
-      "Careers",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Recruiting and Talent"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/talentpluto",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/talentpluto.json"
   },
   {
     "id": 32588,
@@ -40150,6 +40196,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/ignition-benefits.json"
   },
   {
+    "id": 36081,
+    "name": "Polemos Industries",
+    "slug": "polemos-industries",
+    "former_names": [
+      "Lokberg Industries"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/52d6be23c1a08e2020010a26b5bd336554572d38.png",
+    "website": "https://lokberg.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Precision strike is rationed. Forces see more targets than they can afford to hit.\r\n\r\nPolemos builds AI-guided ballistic missiles and the compact launchers that fire them, designed for mass manufacturing. Our launchers form a strike network wired into the recon drones already in the sky: a drone geolocates a target, the nearest launcher fires, and a guided round lands in seconds.\r\n\r\nShort range, no wasted kilometers, no modified trucks. Built on production lines that already exist, so output scales when it matters most.",
+    "one_liner": "AI-guided ballistic missiles, cheap enough to field in numbers that…",
+    "team_size": 0,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Defense",
+    "launched_at": 1791838393,
+    "tags": [
+      "Defense",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/polemos-industries",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/polemos-industries.json"
+  },
+  {
     "id": 36086,
     "name": "Hesper AI",
     "slug": "hesper-ai",
@@ -40189,6 +40277,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hesper-ai",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/hesper-ai.json"
+  },
+  {
+    "id": 36147,
+    "name": "Reconero",
+    "slug": "reconero",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b80e05ae693ed71f511c4061b98e40ea8c93e882.png",
+    "website": "https://reconero.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Officers join the force to protect their communities, yet over 40% of their day is eaten by paperwork that keeps them behind a desk. The burden reaches beyond lost time. Burnout is driving officers out of the force, leaving those who remain carrying an even heavier workload.\r\n\r\nReconero is built to give that time back. By automating reports, forms, analytics, and more, we help officers finish their administrative paperwork faster, spend more time serving their communities, and protect the time they have with their families.",
+    "one_liner": "Reconero helps police officers automate their workflows with AI",
+    "team_size": 2,
+    "industry": "Government",
+    "subindustry": "Government",
+    "launched_at": 1791833877,
+    "tags": [
+      "SaaS",
+      "GovTech",
+      "Data Visualization",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Government"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/reconero",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/reconero.json"
   },
   {
     "id": 36347,
@@ -40316,6 +40445,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/preload",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/preload.json"
+  },
+  {
+    "id": 36577,
+    "name": "OpEra",
+    "slug": "opera",
+    "former_names": [
+      "Op-Era"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/31457ec77d0c307cc8c7986a68fd9d81c50a99ce.png",
+    "website": "https://operatechnologies.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "OpEra Technologies is the AI decision engine for factories, warehouses and fleets. Companies with physical operations make thousands of decisions every day, and we help their teams make the best one at every step from production to delivery: (1) Planning: how much to make, buy and stock. (2) Scheduling: what runs when, and who works on what. (3) Allocation: which warehouse or store gets each order. (4) Routing: boat, plane or truck, and which route each one takes. Founded out of MIT's Operations Research Center.",
+    "one_liner": "The AI decision engine for factories, warehouses and fleets",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1790381980,
+    "tags": [
+      "Logistics",
+      "Manufacturing",
+      "Supply Chain",
+      "Operations",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/opera",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/opera.json"
   },
   {
     "id": 36643,

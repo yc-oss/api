@@ -1,159 +1,207 @@
-# YC company changes for 2026-10-12
+# YC company changes for 2026-10-13
 
-- Previous total: 6286
-- Current total: 6288
-- Added: 2
+- Previous total: 6288
+- Current total: 6294
+- Added: 6
 - Removed: 0
-- Updated: 29
+- Updated: 34
 
 ## Added companies
 
-- [Rodeo Robotics](https://www.ycombinator.com/companies/rodeo-robotics) (Fall 2026 — Robots for vehicle maintenance.)
-- [ChemPilot.ai](https://www.ycombinator.com/companies/chempilotai) (Fall 2026 — Discover novel defense related materials/molecules.)
+- [Sherpa Labs](https://www.ycombinator.com/companies/sherpa-labs) (Winter 2025 — Frontier Data)
+- [Sintem](https://www.ycombinator.com/companies/sintem) (Fall 2026 — Agentic phones for teams)
+- [Pomerado](https://www.ycombinator.com/companies/pomerado) (Fall 2026 — Turn any website into an MCP for your agents, in minutes)
+- [Polemos Industries](https://www.ycombinator.com/companies/polemos-industries) (Fall 2026 — AI-guided ballistic missiles, cheap enough to field in numbers that…)
+- [Reconero](https://www.ycombinator.com/companies/reconero) (Fall 2026 — Reconero helps police officers automate their workflows with AI)
+- [Sutrix](https://www.ycombinator.com/companies/sutrix) (Fall 2026 — AI-native statistical analysis for patient outcomes)
 
 ## Updated companies
 
+### [Orangewood Labs](https://www.ycombinator.com/companies/orangewood-labs)
+
+- `one_liner`: Orangewood democratises robotics → Orangewood builds amazing robots that people want
+- `tags`: ["Generative AI","Hardware","Robotics","AI"] → ["Artificial Intelligence","Generative AI","Hardware","Robotics"]
+
+### [Spice Data](https://www.ycombinator.com/companies/spice-data)
+
+- `isHiring`: false → true
+
 ### [Duffl](https://www.ycombinator.com/companies/duffl)
 
-- `stage`: Growth → Early
-- `team_size`: 12 → 50
+- `stage`: Early → Growth
+
+### [Yoneda Research](https://www.ycombinator.com/companies/yoneda-research)
+
+- `api`: https://yc-oss.github.io/api/batches/winter-2020/yoneda-health.json → https://yc-oss.github.io/api/batches/winter-2020/yoneda-research.json
+- `former_names`: ["Tambua Health"] → ["Tambua Health","Yoneda Health"]
+- `long_description`: NoDraw by Tambua Health is the world’s first bloodless, blood diagnostic app, turning any smartphone into a full blood panel diagnostic tool → 
+- `name`: Yoneda Health → Yoneda Research
+- `one_liner`: Bloodless, blood diagnostic app → 
+- `slug`: yoneda-health → yoneda-research
+- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/0c6d7367572dbd0fc40b24d0143efd38dc5f71af.png → https://bookface-images.s3.amazonaws.com/small_logos/8f2be1b92c6f23be3b2f4b25c374939796cd9bdc.png
+- `team_size`: 13 → 30
+- `url`: https://www.ycombinator.com/companies/yoneda-health → https://www.ycombinator.com/companies/yoneda-research
+- `website`: https://tambua.health/ → https://www.y0n3da.xyz/
 
 ### [QuestDB](https://www.ycombinator.com/companies/questdb)
 
-- `team_size`: 30 → 20
+- `team_size`: 20 → null
 
-### [Slash](https://www.ycombinator.com/companies/slash)
+### [Agave](https://www.ycombinator.com/companies/agave)
 
-- `all_locations`: San Francisco, CA, USA → Minneapolis, MN, USA
+- `tags`: ["Construction","B2B","Proptech","AI"] → ["Artificial Intelligence","Construction","B2B","Proptech"]
 
-### [Output Labs](https://www.ycombinator.com/companies/output-labs)
+### [Ponyrun](https://www.ycombinator.com/companies/ponyrun)
 
-- `api`: https://yc-oss.github.io/api/batches/summer-2021/output.json → https://yc-oss.github.io/api/batches/summer-2021/output-labs.json
-- `former_names`: ["Jingu Health"] → ["Jingu Health","Output Biosciences"]
-- `long_description`: Output is a fully integrated AI lab building Artificial General Biological Intelligence, from the molecular level up to whole systems. The discovery of new b... → Output Labs is a frontier AI research lab. We created Mechanistic Reasoning, a new kind of AI that learns how and why complex systems work. It lets us unders...
-- `name`: Output Biosciences → Output Labs
-- `one_liner`: The foundation for the next era of biology → The foundation for the next era of science
-- `slug`: output → output-labs
-- `tags`: ["AI-powered Drug Discovery","Generative AI","Biotech","AI"] → ["AI-powered Drug Discovery","Artificial Intelligence","Generative AI","Biotech"]
-- `url`: https://www.ycombinator.com/companies/output → https://www.ycombinator.com/companies/output-labs
-- `website`: https://www.outputbio.com/ → https://www.outputlabs.ai/
+- `status`: Active → Inactive
 
-### [Handyman.ai](https://www.ycombinator.com/companies/handymanai)
+### [KorrAI](https://www.ycombinator.com/companies/korrai)
 
-- `long_description`: While building WeReno.com, we managed over $1B in renovations and noticed something: property owners kept coming back long after projects ended. We realized ... → While building WeReno.com, we managed over $1B in renovations and noticed something: property owners kept coming back long after projects ended. We realized ...
+- `long_description`: KorrAI started in 2021 as a spin-off from a Canadian Space Agency research project. We spent four years building ground motion monitoring for mines and infra... → KorrAI began in 2021 as a Canadian Space Agency research spin-off. We spent four years on ground deformation monitoring and geotechnical studies for mines an...
+- `tags`: ["Artificial Intelligence","Climate","Mining"] → ["Climate","Mining","AI"]
 
-### [Morph](https://www.ycombinator.com/companies/morph)
-
-- `all_locations`: San Francisco, CA, USA → Columbus, OH, USA
-
-### [Carma](https://www.ycombinator.com/companies/carma)
-
-- `long_description`: Carma is building an AI-native platform that transforms fleet operations from tedious, manual work into effortless, automated workflows. We’re the fastest-gr... → Carma is building an AI-native platform that transforms fleet operations from tedious, manual work into effortless, automated workflows. We’re the fastest-gr...
-- `team_size`: 15 → 5
-
-### [expand.ai](https://www.ycombinator.com/companies/expand-ai)
-
-- `long_description`: expand.ai instantly turns any website into a type-safe API you can rely on. You can either request data from any website instantly or let expand.ai build up ... → Let your agent fetch and crawl with SOTA extraction.
-- `one_liner`: Turn any website into an API. → Lossless web data.
-- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/9a4ca900e14bd5e1d1e19fc8edf43b165d078ff8.png → https://bookface-images.s3.amazonaws.com/small_logos/cbb3378711a3516d3cc0bdd3c41a57f151832b9b.png
-- `team_size`: 2 → 3
-
-### [Pipeshift](https://www.ycombinator.com/companies/pipeshift)
-
-- `long_description`: Pipeshift helps engineering teams run real-time inference in production. We offer optimized runtimes to meet latency/throughput SLAs, paired with infrastruct... → Pipeshift offers ultra-low latency infrastructure for engineering teams to run real-time inference in production. We offer latency-optimized runtimes for voi...
-- `one_liner`: Ultra-low latency inference cloud for real-time workloads → Inference for real-time voice and chat
-- `tags`: ["AIOps","Artificial Intelligence","Infrastructure","AI","ML"] → ["AIOps","Infrastructure"]
-
-### [x1](https://www.ycombinator.com/companies/x1)
+### [Typewise](https://www.ycombinator.com/companies/typewise)
 
 - `isHiring`: true → false
 
-### [General Trajectory](https://www.ycombinator.com/companies/general-trajectory)
+### [Sculpt](https://www.ycombinator.com/companies/sculpt)
 
-- `all_locations`: San Francisco, CA, USA → Los Angeles, CA, USA
+- `all_locations`: Pune, MH, India; MH, India → Pune, MH, India
+- `long_description`: Artificial Intelligence that converts manufacturing drawings into costing quotations in minutes, not weeks. → 
+- `one_liner`: Fully automated should-cost analysis for precision manufacturers. → World Models for Aviation MROs
+- `website`: https://www.sculptcosting.com/ → 
 
-### [Fuse AI](https://www.ycombinator.com/companies/fuse-ai)
+### [Smobi](https://www.ycombinator.com/companies/smobi)
 
-- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/b35775b402fe5b455dc597de9a7000386d936776.png → https://bookface-images.s3.amazonaws.com/small_logos/3867f5ddc00eb6796cf0b3718c7f1e735656fe4b.png
+- `status`: Active → Inactive
 
-### [Mentra](https://www.ycombinator.com/companies/mentra)
+### [The Vibe Company](https://www.ycombinator.com/companies/the-vibe-company)
+
+- `api`: https://yc-oss.github.io/api/batches/winter-2024/quivr.json → https://yc-oss.github.io/api/batches/winter-2024/the-vibe-company.json
+- `former_names`: [] → ["Quivr"]
+- `industries`: ["B2B","Productivity"] → ["B2B"]
+- `isHiring`: false → true
+- `long_description`: Quivr is an AI-powered customer support tool that helps teams draft responses, automate replies, and resolve tickets directly inside platforms like Zendesk o... → The Vibe Company (formerly Quivr, YC W24) is an AI-native agency. We build custom products and internal tools for companies, deploy agentic automations (agen...
+- `name`: Quivr → The Vibe Company
+- `one_liner`: AI-powered auto-resolutions and reply suggestions for customer… → AI-native agency that scales like software, run on our own AI agents.
+- `slug`: quivr → the-vibe-company
+- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/55e2d5d59eda45392b5f80742e4d67462860257e.png → https://bookface-images.s3.amazonaws.com/small_logos/48a2e57e5dd1d60b9593214bad1c5d81f0340c27.png
+- `subindustry`: B2B -> Productivity → B2B
+- `url`: https://www.ycombinator.com/companies/quivr → https://www.ycombinator.com/companies/the-vibe-company
+- `website`: https://www.quivr.app/ → https://thevibecompany.co
+
+### [Corgi Insurance](https://www.ycombinator.com/companies/corgi-insurance)
+
+- `stage`: Growth → Early
+
+### [Freestyle](https://www.ycombinator.com/companies/freestyle-ai)
+
+- `long_description`: Email sucks. It takes forever to go through, and hiring an assistant is costly and invasive. Friday is building the assistant that learns how to predict the ... → Email sucks. It takes forever to go through, and hiring an assistant is costly and invasive. Freestyle is building the assistant that learns how to predict t...
+- `tags`: ["Artificial Intelligence","Productivity","Email","AI Assistant"] → ["Productivity","Email","AI","AI Assistant"]
+- `website`: https://www.freestyle.ai → https://freestyle.ai/yc
+
+### [Conntour](https://www.ycombinator.com/companies/conntour)
+
+- `long_description`: Conntour enables government agencies to query their video - from security cameras, body cams, and drones. Users can search past footage (“Find a man with tat... → Conntour enables government agencies to query their video - from security cameras, body cams, and drones. Users can search past footage (“Find a man with tat...
+- `tags`: ["Computer Vision","Defense","AI"] → ["Artificial Intelligence","Computer Vision","Defense"]
+
+### [Cotool](https://www.ycombinator.com/companies/cotool)
+
+- `isHiring`: false → true
+
+### [TraceRoot.AI](https://www.ycombinator.com/companies/traceroot-ai)
+
+- `long_description`: TraceRoot is the open-source self-improving layer for AI agents — observability that detects failures in production, root-causes them against your source cod... → TraceRoot is the open-source AI agent improvement platform. Turn production traces into actionable feedback and evals, closing the improvement loop with your...
+- `one_liner`: Open source self-improving layer for AI agents → Open Source AI Agent Improvement Platform
+
+### [Knowlify](https://www.ycombinator.com/companies/knowlify)
+
+- `industries`: ["B2B"] → ["B2B","Marketing"]
+- `long_description`: Knowlify makes it easy for companies to create animated explainer videos using AI. Upload any document and/or prompt deck to get a professional explainer vid... → Knowlify is a done-for-you video ads agency for startups running paid social. We write the ads and make them: UGC-style talking-head, commercials, and Pixar-...
+- `one_liner`: The AI Explainer Video Maker → DFY video paid ads agency for startups
+- `subindustry`: B2B → B2B -> Marketing
+- `tags`: ["Artificial Intelligence","Education","Generative AI","Video","Enterprise Software"] → ["Video","Marketing","Advertising"]
+
+### [Leadbay](https://www.ycombinator.com/companies/leadbay)
 
 - `isHiring`: true → false
 
-### [Sureform](https://www.ycombinator.com/companies/sureform)
+### [Antigen](https://www.ycombinator.com/companies/antigen)
 
-- `long_description`: We build post-training datasets and RL environments grounded in real enterprise workflows to advance frontier agents. → Sureform help companies monetize their internal operational data by turning it into training signal for frontier AI.
-- `one_liner`: Real-world data and RL environments for frontier AI → Real-world company data for frontier AI
-- `tags`: ["Marketplace","Robotics","Data Labeling","AI"] → ["Marketplace","Data Labeling","AI"]
-- `team_size`: 2 → 4
+- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/714f71e97009698c591e79370e41cb52734e724e.png → https://bookface-images.s3.amazonaws.com/small_logos/8dccef83823a85d888578112126c72cae4a92e61.png
 
-### [stagewise](https://www.ycombinator.com/companies/stagewise)
+### [Imperfect](https://www.ycombinator.com/companies/imperfect)
 
-- `long_description`: stagewise is building the open-source agentic IDE: a developer workspace for creating and orchestrating coding agents, previewing running apps, and managing ... → stagewise is building Klex Bots, autonomous AI coworkers that can take on real work inside companies. Unlike traditional AI assistants, Klex Bots don't need ...
-- `one_liner`: The Open Source Agentic IDE → The makers of Klex Bots, your own team of digital coworkers.
-- `tags`: ["Developer Tools","Open Source","AI"] → ["Artificial Intelligence","Developer Tools","Open Source"]
+- `isHiring`: true → false
 
-### [Nox Metals](https://www.ycombinator.com/companies/nox-metals)
+### [Janeen](https://www.ycombinator.com/companies/janeen)
 
-- `team_size`: 35 → 52
+- `api`: https://yc-oss.github.io/api/batches/winter-2026/ruma-care.json → https://yc-oss.github.io/api/batches/winter-2026/janeen.json
+- `former_names`: [] → ["Ruma Care"]
+- `long_description`: Ruma Care automates all admin work for infusion clinics - starting with prior authorizations & copay assistance enrollment. Biologics are expensive medicatio... → Janeen is built for infusion clinics. We handle prior authorizations and benefit investigations from start to finish (actually though!). Biologics are expens...
+- `name`: Ruma Care → Janeen
+- `one_liner`: The operations stack for biologic infusion clinics → Prior auths and benefits investigation for infusion clinics
+- `slug`: ruma-care → janeen
+- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/34241c57767208be0982fd04163c52d69a91a82c.png → https://bookface-images.s3.amazonaws.com/small_logos/841e137150527d4b0f94be4164e696d52b970a81.png
+- `url`: https://www.ycombinator.com/companies/ruma-care → https://www.ycombinator.com/companies/janeen
+- `website`: https://rumacare.com → https://janeen.care
 
-### [Redapto](https://www.ycombinator.com/companies/redapto)
+### [RamAIn](https://www.ycombinator.com/companies/ramain)
 
-- `all_locations`: San Francisco, CA, USA → Bengaluru, KA, India
-- `regions`: ["United States of America","America / Canada"] → ["India","South Asia"]
+- `long_description`: RamAIn can intelligently automate any super complex and repetitive process across applications (Browser & Desktop) super fast. It doesn’t matter whether you ... → RamAIn Employees join your team just like a human. Teach them to work across systems just like a new hire and watch them work autonomously to do the work 24/7.
+- `one_liner`: Automate any UI task with natural language → RamAIn - AI Employees with a computer to perform business tasks just…
+- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/84a4e967f95d9b8d27dc1c449093e93017aa4beb.png → https://bookface-images.s3.amazonaws.com/small_logos/e2b50a0163e4e9b6028ca59700b409129a13fe04.png
+- `tags`: ["Artificial Intelligence","Robotic Process Automation","Automation"] → ["Robotic Process Automation","Automation","AI"]
+- `team_size`: 4 → 7
 
-### [Moda](https://www.ycombinator.com/companies/moda)
+### [Orthogonal](https://www.ycombinator.com/companies/orthogonal)
 
-- `long_description`: Moda is a harness engineering platform. It turns production traces into verified improvements for your agent harness: prompts, tools, skills, evals, and memo... → Your agents should never make the same mistake twice. Moda helps you engineer better agents from production data. Find recurring failures, understand what ca...
-- `one_liner`: Harness Engineering Infrastructure that developers love. → Your agents should never make the same mistake twice.
-- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/c76a18751e4b95b7b3cf621f7752449405d71aa5.png → https://bookface-images.s3.amazonaws.com/small_logos/fd64626b0d2bee14b3f5a65475f8e788a52bf6d2.png
+- `isHiring`: false → true
+
+### [Pocket](https://www.ycombinator.com/companies/pocket)
+
+- `team_size`: 15 → 35
+
+### [MochaCare](https://www.ycombinator.com/companies/mochacare)
+
+- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/47ffd397ae9768c410e6f2ccb34010e6de9587b6.png → https://bookface-images.s3.amazonaws.com/small_logos/8f0d0e6f741a56de1899f97dfa05142761a40372.png
+
+### [GovGuard](https://www.ycombinator.com/companies/govguard)
+
+- `all_locations`: Chicago, IL, USA → 
+- `regions`: ["United States of America","America / Canada"] → ["Unspecified"]
 
 ### [tday.com](https://www.ycombinator.com/companies/tdaycom)
 
-- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/dcb95bbd996c96bdc7fb6f2b3eded9623e44edd6.png → https://bookface-images.s3.amazonaws.com/small_logos/e44ed02ee8401d33164908d2c6b159fb262e1bcf.png
+- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/e44ed02ee8401d33164908d2c6b159fb262e1bcf.png → https://bookface-images.s3.amazonaws.com/small_logos/826a45ec885ec85fd4365a46539e3e25d71b2d4b.png
 
-### [Reason Machines](https://www.ycombinator.com/companies/reason-machines)
+### [Belvedir](https://www.ycombinator.com/companies/belvedir)
 
-- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/1f536d08b73147eb71c0665fe5c2d6c6ffed0663.png → https://bookface-images.s3.amazonaws.com/small_logos/41ce981200cf7566e83cab9db3f721b243d01db5.png
+- `long_description`: Custom AI models are going to win. Belvedir is the infrastructure needed to make trillions of them. We autonomously collect raw data, train models, privately... → 
+- `tags`: ["Artificial Intelligence","Machine Learning","Reinforcement Learning"] → ["Machine Learning","Reinforcement Learning","AI"]
 
-### [Armature](https://www.ycombinator.com/companies/armature)
+### [Pluto](https://www.ycombinator.com/companies/talentpluto)
 
-- `long_description`: Coding agents like Claude Code, Codex and Cursor now decide which tools get installed in a codebase. Armature runs the real agents inside a panel of realisti... → Coding agents like Claude Code, Codex and Cursor now decide which tools get installed in a codebase. Armature runs the real agents inside a panel of realisti...
+- `isHiring`: false → true
+- `tags`: ["AI","Careers","Conversational AI"] → ["Artificial Intelligence","Careers","Conversational AI"]
 
-### [Osseus](https://www.ycombinator.com/companies/osseus)
+### [Nex](https://www.ycombinator.com/companies/nex)
 
-- `all_locations`:  → London, England, United Kingdom
-- `regions`: ["Unspecified"] → ["United Kingdom","Europe"]
+- `long_description`: Nex builds and runs the complex, high-volume GTM workflows that general-purpose agents struggle with. Built by ex-HubSpotters who ran its three largest custo... → We build and deploy AI agents that manage prospecting, qualification, CRM hygiene, forecasting, lead routing, revenue recovery, and all the complex revenue w...
+- `one_liner`: AI for high volume GTM Engineering → Grok bot for GTM & Revenue teams
 
-### [Viraj Aero](https://www.ycombinator.com/companies/viraj-aero)
+### [Aviern](https://www.ycombinator.com/companies/aviern)
 
-- `long_description`: Viraj Aero builds gas turbines that deliver both power and cooling water for data centers. It needs no grid connection and no water pipeline. Burning natural... → Viraj Aero builds gas turbines that deliver both power and cooling water for data centers. It needs no grid connection and no water pipeline. Burning natural...
-- `tags`: ["Artificial Intelligence","Hard Tech","Energy","Aerospace"] → ["Hard Tech","Energy","Aerospace","AI"]
-
-### [Mirrors](https://www.ycombinator.com/companies/mirrors)
-
-- `one_liner`: Give AI agents the right instructions at the right moment → Give AI agents the right context at the right moment
-- `tags`: ["AIOps","Artificial Intelligence","Developer Tools","SaaS","B2B"] → ["AIOps","Developer Tools","SaaS","B2B","AI"]
-
-### [Asakana](https://www.ycombinator.com/companies/asakana)
-
-- `one_liner`: AI order entry for food distributors: emails and texts to ERP → Automating away manual admin for food distributors: texts to ERP
-- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/582ebf9f01453d95f2c02b9bac341aff365af875.png → https://bookface-images.s3.amazonaws.com/small_logos/b17bfb784fbfd8ce18bf9fc551a8a6c2a2c68f02.png
-
-### [Streamline Systems](https://www.ycombinator.com/companies/streamline-systems)
-
-- `isHiring`: true → false
+- `long_description`: Aviern builds unmanned airplanes that turn the sky into a geospatial intelligence source. Our fixed-wing aircraft launch, fly, and land from unattended docks... → Aviern makes unmanned cargo airplanes for commercial operations and defense logistics. In 2 months we built our own scaled aircraft that taxis, takes off, fl...
+- `one_liner`: Unmanned airplanes for geospatial intelligence → Unmanned cargo airplanes
+- `tags`: ["Geographic Information System","Airplanes","Aerospace","Infrastructure"] → ["Airplanes","Logistics","Aerospace","Infrastructure"]
 
 ### [OpEra](https://www.ycombinator.com/companies/opera)
 
-- `long_description`: OpEra is the AI decision engine for factories, warehouses and fleets. Companies with physical operations make thousands of decisions every day, and we help t... → OpEra Technologies is the AI decision engine for factories, warehouses and fleets. Companies with physical operations make thousands of decisions every day, ...
-- `tags`: ["Logistics","Manufacturing","Supply Chain","Operations","AI"] → ["Artificial Intelligence","Logistics","Manufacturing","Supply Chain","Operations"]
+- `all_locations`: New York City, NY, USA → San Francisco, CA, USA
+- `tags`: ["Artificial Intelligence","Logistics","Manufacturing","Supply Chain","Operations"] → ["Logistics","Manufacturing","Supply Chain","Operations","AI"]
 
-### [Maritime](https://www.ycombinator.com/companies/maritime)
+### [Spine](https://www.ycombinator.com/companies/spine)
 
-- `long_description`: Maritime is cloud infrastructure for AI agents. We help companies give every customer an agent running in its own isolated, persistent computer, starting at ... → Maritime is a fully managed cloud platform for startups selling AI agents. We help them run thousands of agents, each in its own isolated, persistent compute...
-
-### [Keres](https://www.ycombinator.com/companies/keres)
-
-- `long_description`: Keres builds reusable unmanned jet interceptors for air defense. The Garmur launches on cue, closes at jet speed, positively identifies and kills drones and ... → Keres (KAIR-eez) builds reusable unmanned jet interceptors for air defense. The Garmur launches on cue, closes at jet speed, positively identifies and kills ...
+- `long_description`: Spine runs benefits, payroll, and compliance for startups for free. We do the work by giving teams dedicated senior HR and benefits specialists who operate o... → Spine runs benefits, payroll, and compliance for startups for free. We do the work by giving teams dedicated senior HR and benefits specialists who operate o...
 
