@@ -23155,7 +23155,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9292b62c58dc81055b437ce647dc7c3ea10ffc5c.png",
     "website": "https://magnitude.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Magnitude is an open source inference engine for agents that optimizes itself for your exact hardware. It compiles and tunes its kernels on your device, so open models run up to 2x faster than llama.cpp. One click connects the agent you already use (Pi, OpenCode, Hermes, Codex, and more). Works on Apple Silicon, NVIDIA, AMD, or just a CPU.",
+    "long_description": "Magnitude is an open source inference engine that optimizes each model for your exact hardware. When you download a model, Magnitude spends up to a minute tuning its kernels to find the fastest configuration for your hardware. On the same hardware, it's 2x faster than Ollama. It works on Apple Silicon, NVIDIA, AMD, or just a CPU. One click connects it to the agent you already use (Pi, OpenCode, Hermes, Codex, and more).",
     "one_liner": "Run open models as fast as your hardware allows",
     "team_size": 2,
     "industry": "B2B",
@@ -23615,14 +23615,14 @@
     "all_locations": "",
     "long_description": "stagewise is building Klex Bots, autonomous AI coworkers that can take on real work inside companies.\r\n\r\nUnlike traditional AI assistants, Klex Bots don't need to be prompted for every task. They operate continuously, maintain their own memory and workspaces, and use the same tools and systems as human employees. They can execute complex, multi-step tasks independently, collaborate with other bots or humans, and can use multiple sandboxes/computers depending on configuration.\r\n\r\nOur Klex Cloud platform makes it easy for businesses to deploy and manage these digital coworkers securely, using their preferred AI models and infrastructure, hosting agents either in cloud or on custom infrastructure.",
     "one_liner": "The makers of Klex Bots, your own team of digital coworkers.",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1751997318,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Open Source"
+      "Open Source",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -26233,6 +26233,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/graphify-labs.json"
   },
   {
+    "id": 32620,
+    "name": "Gradon",
+    "slug": "gradon",
+    "former_names": [
+      "Vendo"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7505a6a55a850d54a7b75a5750c0282f58f9001f.png",
+    "website": "https://heygradon.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Gradon is Legora for the firms that design the world's buildings and infrastructure. Every road, bridge, water system and building starts with engineers, and there aren't nearly enough of them for everything the world needs to build. \r\n\r\nGradon works across every workflow and tool an engineering firm runs on, from CAD design and calculations to full plan sets, and firms using it today have decreased average project times by more than 75%. We're building the platform that makes every engineer a 10x engineer, and with it, how the world gets built.",
+    "one_liner": "Legora for AEC (Architecture, Engineering, & Construction) firms",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1784444284,
+    "tags": [
+      "Artificial Intelligence",
+      "Construction",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/gradon",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/gradon.json"
+  },
+  {
     "id": 33177,
     "name": "HyperProbe",
     "slug": "hyperprobe",
@@ -26472,7 +26515,7 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1790353230,
     "tags": [
-      "Artificial Intelligence"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -26552,7 +26595,7 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1786468833,
     "tags": [
-      "AI"
+      "Artificial Intelligence"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -26720,11 +26763,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1788984366,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "SaaS",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -26803,10 +26846,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1787942068,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -26890,10 +26933,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1790916343,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -26973,9 +27016,9 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1790643542,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,

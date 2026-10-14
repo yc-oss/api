@@ -564,13 +564,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d7cf823c4893a350166b41685cc7e72de36fe4d.png",
     "website": "https://generalastro.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Robots for microgravity research and manufacturing.",
-    "one_liner": "Robotics for Space R&D",
-    "team_size": 2,
+    "long_description": "Autonomous robotics for space operations.",
+    "one_liner": "Superintelligent space Robots",
+    "team_size": 4,
     "industry": "Industrials",
     "subindustry": "Industrials -> Aviation and Space",
     "launched_at": 1772084363,
-    "tags": [],
+    "tags": [
+      "Aerospace"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -755,17 +757,19 @@
   },
   {
     "id": 31023,
-    "name": "Inviscid AI",
-    "slug": "inviscid-ai",
-    "former_names": [],
+    "name": "Standard Physics",
+    "slug": "standard-physics",
+    "former_names": [
+      "Inviscid AI"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/edd438978013e82ecd281b761baafad0dab9c68e.png",
-    "website": "https://inviscidai.com/",
-    "all_locations": "Singapore, Singapore; Remote",
-    "long_description": "Inviscid AI builds physics-informed AI solutions that transform how buildings and data centers operate. By combining real-time IoT sensor data with computational fluid dynamics (CFD) modeling, we create digital twins that simulate building performance in real time and autonomously optimize operations.\r\n\r\nOur platform optimizes airflow patterns and ventilation strategies to eliminate dead zones, improve air distribution, and reduce the load on mechanical systems. On the energy side, we minimize HVAC power consumption, reduce cooling costs, and lower overall operational expenses while maintaining optimal thermal comfort and indoor air quality. Beyond immediate operational efficiency, we optimize equipment scheduling and maintenance cycles by predicting system behavior under different conditions, allowing facilities managers to proactively address issues before they become problems.\r\n\r\nOur physics first approach ensures that we're not just optimizing against historical patterns, but optimizing based on a deep understanding of how air, heat, and energy actually move through your building, enabling us to find solutions that traditional rule-based or purely data-driven systems would miss.",
-    "one_liner": "Real-time Physics Simulations for Industrial Facilities & Data Centers",
+    "website": "https://standardphysics.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Standard Physics (formerly Inviscid AI) builds AI that does real physics. Most AI tools approximate physical behavior and get it wrong in ways engineers can’t see. Ours run actual numerical solvers, so the results are accurate enough to make real engineering decisions on.\r\n\r\nWe have three products built on one engine.\r\n\r\nReynolds runs computational fluid dynamics for you. An engineer describes the flow in plain language, and Reynolds writes the OpenFOAM case, builds the mesh, runs the solver, and returns the figures, the numbers, and a case they can rerun. It’s open source.\r\n\r\nArchimedes searches the design itself. Swarms of agents try thousands of layouts in parallel, simulate each one through Reynolds, keep what the physics rewards, and redraw the search space when the best answer was never in the original plan. We sell it as outcome-based engineering: customers pay for a better design, not for compute.\r\n\r\nInviscid AI (now a product!) points the same engine at a running building. It holds a data center within its thermal limits in real time, computed continuously from live telemetry. Our platform optimizes airflow patterns and ventilation strategies to eliminate dead zones, improve air distribution, and reduce the load on mechanical systems. On the energy side, we minimize HVAC power consumption, reduce cooling costs, and lower overall operational expenses while maintaining optimal thermal comfort and indoor air quality. \r\n\r\nWe work with hardware startups and engineering teams on data center cooling, drones, energy systems, piping, and electronics. Reynolds earns engineers’ trust in daily use, and Archimedes and Inviscid AI turn that trust into large contracts.",
+    "one_liner": "Fast Physics Simulations for Rapid Design and Real Time Control",
     "team_size": 2,
     "industry": "Industrials",
-    "subindustry": "Industrials -> Energy",
+    "subindustry": "Industrials",
     "launched_at": 1769244149,
     "tags": [],
     "tags_highlighted": [],
@@ -775,22 +779,19 @@
     "batch": "Winter 2026",
     "status": "Active",
     "industries": [
-      "Industrials",
-      "Energy"
+      "Industrials"
     ],
     "regions": [
-      "Singapore",
-      "Southeast Asia",
-      "Remote",
-      "Fully Remote"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/inviscid-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/inviscid-ai.json"
+    "url": "https://www.ycombinator.com/companies/standard-physics",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/standard-physics.json"
   },
   {
     "id": 31025,
@@ -845,16 +846,16 @@
     "website": "https://www.haladir.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Haladir builds advanced AI systems for logistics. We sit on top of your WMS, TMS and ERP, turning their data into decisions across supply chain planning and execution: solver-grade optimization that decides what should happen, and AI agents that run the workflows. Today's AI brought intelligence. The next frontier is judgement.",
-    "one_liner": "Operational Superintelligence for Global Logistics",
+    "one_liner": "Operational Intelligence for Global Logistics",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1766374394,
     "tags": [
-      "Artificial Intelligence",
       "Logistics",
       "Supply Chain",
-      "Operations"
+      "Operations",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3291,7 +3292,7 @@
     "former_names": [
       "Ramain"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e2b50a0163e4e9b6028ca59700b409129a13fe04.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a10a6d3695c38f916de546238a447f1633ea982.png",
     "website": "https://ramain.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "RamAIn Employees join your team just like a human. Teach them to work across systems just like a new hire and watch them work autonomously to do the work 24/7. ",
@@ -3301,9 +3302,9 @@
     "subindustry": "B2B",
     "launched_at": 1767663208,
     "tags": [
+      "Artificial Intelligence",
       "Robotic Process Automation",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3770,7 +3771,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/84022beba7ccfa3668cb9f2f7cb672ffd0b53ebc.png",
     "website": "https://mangomedical.io",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Mango Medical builds agentic surgical planning AI for orthopedic surgery. We deliver surgeon-ready plans in minutes instead of days. 8-figure LOI from a top orthopedic company. Pursuing FDA 510(k) clearance. We're building a future where every surgery follows a personalized plan.",
     "one_liner": "Foundation models for planning orthopedic surgery",
     "team_size": 3,
@@ -3789,7 +3790,8 @@
       "Healthcare IT"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4048,7 +4050,7 @@
     "former_names": [
       "Assonant"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f2c4947196f35e938655df560aee5ba21c58b51.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/95bc87269a98980418f0859561c98e4d5a516586.png",
     "website": "https://instinct.xyz",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Capital allocation is becoming a more important part of individual economic life.\r\nFinance is moving toward a global, onchain, 24/7 future with thousands of markets trading at once.\r\n\r\nThe asset management industry is built around the scarcity of financial expertise and the cost of organizing people around capital. \r\n\r\nInstitutions cover global markets by employing analysts, researchers, and quants around the clock. \r\n\r\nAI turns this organizational capacity into software.\r\n\r\nInstinct is building the harness for this transition.\r\n\r\nInstinct is a proactive team of agents that searches thousands of markets, investigates opportunities, and operates 24/7. The individual becomes the portfolio manager, Instinct becomes the investment firm operating around them.\r\n\r\nAs institutional advantages become widely accessible, the edge concentrates in each trader’s worldview, judgment, and bets. \r\n\r\nThe first one-person investment firm managing $1 billion will emerge within two years.\r\n\r\nIt will run on Instinct.",
@@ -4058,9 +4060,9 @@
     "subindustry": "Fintech",
     "launched_at": 1779953002,
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
       "Trading",
+      "AI",
       "Cryptocurrency"
     ],
     "tags_highlighted": [],

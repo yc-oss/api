@@ -411,7 +411,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -2638,7 +2638,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Relari is a robotics research company developing new ways for robots to learn dexterous manipulation from humans. We combine video with rich, scalable biomechanical data—including electromyography (EMG), motion, force, and touch—to train robotics foundation models for more capable, human-like manipulation.",
     "one_liner": "Building dexterous robots that learn from human biomechanics",
-    "team_size": 2,
+    "team_size": 4,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1709879960,
@@ -4340,10 +4340,10 @@
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1762476616,
     "tags": [
+      "Artificial Intelligence",
       "Hard Tech",
       "Machine Learning",
-      "Robotics",
-      "AI"
+      "Robotics"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4802,18 +4802,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e588f98ac537da3d55ea3c2b43b0bd505524c7f8.png",
     "website": "https://www.librabots.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We’re building collaborative robotic crews for large-scale infrastructure projects, including solar farms and data centers.\r\n\r\n002C: “002A, 5.3 mm left.”\r\n002B: “002A, you’re running low. Next pallet is on the way.”\r\n002C: “Am I clear to come in?”\r\n002A: “Aligned. Panel released. You’re clear.”\r\n002C: “Fastening.”\r\n002B: “Next load arriving now.”\r\n\r\nThis isn’t a human crew talking. It’s three robots building a utility-scale solar farm together. \r\n\r\nOur AI control system enables specialized robots to collaborate, learn reusable construction skills, like alignment, fastening, and manipulation, and transfer them across workflows, from solar farms to data centers. 🚧 🦺 ",
-    "one_liner": "Robotic crews for large-scale infrastructure construction",
+    "long_description": "Libra is building a self-evolving robot workforce for infrastructure, including data centers and energy infrastructure. We developed an AI robotics engineer that autonomously designs, simulates, tests, deploys, and improves robotic systems, allowing our robots to take on different jobs. We started with utility-scale solar, where our robots have already been deployed on real construction sites, and are now expanding into electrician work in data centers. Powered by Recursive Self-Improvement (RSI), each new capability builds on what came before, making the next task much faster to engineer and deploy.",
+    "one_liner": "A self-evolving robot workforce for infrastructure.",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1783647531,
     "tags": [
+      "Artificial Intelligence",
       "Hard Tech",
       "Robotics",
       "Construction",
-      "Energy",
-      "AI"
+      "Energy"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6130,22 +6130,25 @@
   },
   {
     "id": 34365,
-    "name": "Lambda Robotics",
-    "slug": "lambda-robotics",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/751b6f5898f8cb0549b80d5a13c551d0c7c0e12f.png",
-    "website": "https://lambdarobotics.ai",
+    "name": "Runtime.si",
+    "slug": "runtimesi",
+    "former_names": [
+      "Lambda Robotics",
+      "Runtime"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/461a9d05728add7a3449b82167ac418e94d301eb.png",
+    "website": "https://runtime.si/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lambda Robotics builds and deploys robots for the infrastructure powering frontier AI.",
-    "one_liner": "Robotics for AI Infrastructure",
-    "team_size": 6,
+    "long_description": "Runtime is building the evaluation layer for physical intelligence. We push robot policies to their limits across thousands of simulated worlds, before they face the real one.",
+    "one_liner": "Evaluation Infrastructure for Robotics (YC F26)",
+    "team_size": 5,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1785385611,
     "tags": [
+      "Artificial Intelligence",
       "Robotics",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6166,8 +6169,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lambda-robotics",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/lambda-robotics.json"
+    "url": "https://www.ycombinator.com/companies/runtimesi",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/runtimesi.json"
   },
   {
     "id": 34896,
@@ -6401,11 +6404,11 @@
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1789000982,
     "tags": [
+      "Artificial Intelligence",
       "Hardware",
       "Robotics",
       "Manufacturing",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6511,10 +6514,11 @@
   },
   {
     "id": 35652,
-    "name": "Primordiant (Formerly SuperRadiant)",
+    "name": "Primordiant",
     "slug": "primordiant",
     "former_names": [
-      "SuperRadiant"
+      "SuperRadiant",
+      "Primordiant (Formerly SuperRadiant)"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/15a7e2a5caa04595d7620cd8161f3b2cffd00a51.png",
     "website": "https://primordiant.com",

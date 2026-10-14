@@ -8970,8 +8970,8 @@
     "website": "https://tokotutor.com/",
     "all_locations": "New York City, NY, USA",
     "long_description": "Toko helps English learners in East Asia achieve speaking fluency. Through our mobile app, learners engage in short, realistic conversations with an AI and receive feedback on their grammar.\r\n\r\nWith over 500 topics, learners can practice real-world scenarios ranging from small talk to workplace discussions. Toko offers a low-pressure environment to help learners build up their confidence.\r\n\r\nWe make language fluency accessible to everyone - not just those with the means to meet 1:1 with a tutor.\r\n\r\nIn Taiwan (our first market), Toko is ranked top 3 in the App Store for Education!",
-    "one_liner": "Learn English by speaking with an AI",
-    "team_size": 5,
+    "one_liner": "AI English Tutor",
+    "team_size": 3,
     "industry": "Education",
     "subindustry": "Education",
     "launched_at": 1646685328,
@@ -8993,7 +8993,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -9842,10 +9844,10 @@
     "slug": "elphinstone-inc",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c11e382bc061b3d293fc3a3374fb5e8104bfe299.png",
-    "website": "https://elphinstone.com.pk/",
+    "website": "https://elphinstone.us/",
     "all_locations": "Sindh, Pakistan",
-    "long_description": "We're building the equivalent of 401ks for Pakistan as the first step towards building a comprehensive wealth management platform for the country.",
-    "one_liner": "Robo-advisory platform for Pakistan",
+    "long_description": "The median 401k plan costs 25 times the fees you pay on a regular brokerage account. We are building the next generation of retirement savings platform to help fix that price gap.",
+    "one_liner": "AI-enabled investment advisory and custodial services",
     "team_size": 15,
     "industry": "Fintech",
     "subindustry": "Fintech -> Asset Management",
@@ -10638,17 +10640,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f89411c2e9172cac0eae74bed5485e42a289ab94.png",
     "website": "https://sprites.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sprites AI automates customer acquisition and demand generation for entrepreneurs and growth teams. Our AI agent handles managing paid ad campaigns on Meta, Google, LinkedIn, Reddit, TikTok, and runs your SEO and AEO gameplan with a content engine —unlocking growth channels that normally require hiring multiple people or agencies. \r\n\r\nTeams using our platform acquire customers much faster and scale their growth funnel without the overhead of hiring large teams of specialists or hiring expensive agencies. \r\n\r\nThe result: heads of marketing, SMBs, and founders can now scale revenue like they have a full marketing department.\r\n\r\nWe're arming businesses with systematic customer acquisition run by AI- so they can focus on the important things that make their offering unique. ",
-    "one_liner": "The AI performance marketing agent for entrepreneurs and growth teams",
+    "long_description": "Sprites is a proactive agent that achieves growth goals for businesses fully autonomously, starting with performance marketing. \r\n\r\nToday, Sprites manages $30M of annualized growth spend for 50+ businesses in a self-improving loop. Sprites has grown 5x this quarter with customers including Gameloft, Klarity Health, Hyperice, and leading AI labs.\r\n\r\nYou give it a goal. It does the work. Every week it gets better at your business.\r\n\r\nTeams use it instead of hiring an agency or a growth team.",
+    "one_liner": "The proactive agent that achieves growth goals for businesses, fully…",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1645693578,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Marketing",
-      "Advertising",
-      "AI"
+      "Advertising"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -10662,9 +10664,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -11856,22 +11856,24 @@
   },
   {
     "id": 25822,
-    "name": "Rome",
-    "slug": "rome",
-    "former_names": [],
+    "name": "Rome AI",
+    "slug": "rome-ai",
+    "former_names": [
+      "Rome"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3ce533baa712c5f3600e9396283ebfae0b33da7.png",
     "website": "https://rome.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We started Rome AI in 2022 as a freight marketplace for truck drivers, helping 80+ drivers earn up to 40% more by finding 10x more loads. What we learned there pointed us toward something bigger, and that's what we're building now, in stealth. More soon.",
-    "one_liner": "The marketplace for truckers",
+    "long_description": "Rome AI (formerly Rome Trucking) started in 2022 as a freight marketplace for truck drivers. We helped 80+ drivers earn up to 40% more by finding 10x more loads. What we learned there pointed us toward something bigger, and that's what we're building now, in stealth. More soon.",
+    "one_liner": "Stealth AI Lab",
     "team_size": 1,
     "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
+    "subindustry": "B2B",
     "launched_at": 1648261394,
     "tags": [
-      "Marketplace",
-      "Logistics",
-      "AI"
+      "Artificial Intelligence",
+      "Consumer",
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11880,8 +11882,7 @@
     "batch": "Winter 2022",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -11892,8 +11893,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/rome",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/rome.json"
+    "url": "https://www.ycombinator.com/companies/rome-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/rome-ai.json"
   },
   {
     "id": 25823,
@@ -16036,7 +16037,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bc09b4ea9334ecf8e0b870238b77cbe372f82c39.png",
     "website": "https://www.offbeast.com",
     "all_locations": "New York City, NY, USA",
-    "long_description": "We make premium plant-based whole-cuts with an authentic texture through our proprietary Cross-Fiber Assembly™ platform. More than 85% of our customers agree that Offbeast products have the best texture they've ever had in a plant-based meat product.",
+    "long_description": "We add authentic meat-like textures to plant-based and animal proteins. By upscaling low-value minced meat into higher-value whole cuts, we increase meat producers' margins by 50-300%, while maintaining a clean label and protein content.",
     "one_liner": "We make plant-based steaks with an authentic texture",
     "team_size": 15,
     "industry": "Consumer",
@@ -16363,7 +16364,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",

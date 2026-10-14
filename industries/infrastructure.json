@@ -3933,8 +3933,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3aef5c655cdc851ccad387554c204466a87669e7.png",
     "website": "https://questdb.com/",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "QuestDB is a high-performance open source database for the most demanding workloads. Native support for Parquet, Iceberg and SQL keeps your data portable, AI-ready, without vendor lock-in.\r\n\r\nQuestDB is designed from the ground up to operate as close to the hardware as possible - eliminating ingestion bottlenecks and lowering overall hardware requirements.\r\n\r\nQuestDB powers mission-critical infrastructure for companies in Capital Markets, Crypto, Space Exploration, Energy and Robotics/Physical AI.",
-    "one_liner": "High-performance time series database",
+    "long_description": "QuestDB is the data platform for mission-critical workloads where data cannot be lost and batch processing is too slow. It runs real-time trading analytics, grid monitoring, fleet telemetry and mission operations at millions of events a second, with years of history kept queryable.\r\n\r\nData stays in open formats like Parquet, and you or any of your agents can query it in plain SQL.\r\n\r\nQuestDB started where the problem is hardest, on the electronic trading floor, and built outward into energy, aerospace and robotics. Today 7 of the largest 20 investment banks use it, as do energy companies and makers of aircraft, rockets and satellites. Its engineers work with each customer's team on the whole solution, from the live feed to the archive.\r\n",
+    "one_liner": "Data platform for mission-critical real-time workloads",
     "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -7643,7 +7643,7 @@
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Skyvern helps companies automate browser based workflows using LLMs and Computer Vision, fully automating manual workflows and replacing brittle or unreliable scripts.\r\n\r\nExamples include:\r\n1. Automating materials procurement from commerce websites\r\n2. Completing complex multi-step workflows (ie getting an insurance quote from Geico.com)\r\n3. Automatically logging into portals and downloading invoices\r\n4. Navigating legacy content systems to do data extraction or data entry",
     "one_liner": "Open Source AI Agent to automate browser workflows via an API",
-    "team_size": 10,
+    "team_size": 11,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1687648021,
@@ -12622,7 +12622,7 @@
     "all_locations": "Berlin, Berlin, Germany",
     "long_description": "Kugel is an enterprise-ready TTS model, available on-prem, with a focus on 30+ languages and low latency. ",
     "one_liner": "Kugel is an on-prem Voice AI model supporting 30+ languages ",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1777590592,
@@ -13679,10 +13679,10 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1790912378,
     "tags": [
-      "Artificial Intelligence",
       "DevSecOps",
       "Cybersecurity",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -13723,8 +13723,8 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1790013807,
     "tags": [
-      "Artificial Intelligence",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -13763,8 +13763,8 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1788561875,
     "tags": [
-      "Infrastructure",
-      "AI"
+      "Artificial Intelligence",
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -13790,14 +13790,18 @@
   },
   {
     "id": 35356,
-    "name": "Sintem",
+    "name": "sintem",
     "slug": "sintem",
-    "former_names": [],
+    "former_names": [
+      "Sintem",
+      "sintem",
+      "sintem inc."
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/754de4c0d947ee0ffec143a04381c7d7cdcc0667.png",
     "website": "https://sintem.co",
     "all_locations": "BY, Germany",
-    "long_description": "We make agentic phones for teams. Each phone runs our new agentic operating system with an army of agents that proactively work across the tools your team already uses and take care of the routine work. \r\n\r\nYour best people get even more done and spend less time on their screens.",
-    "one_liner": "Agentic phones for teams",
+    "long_description": "Most phones are built to keep you on them. We make an agentic phone that puts an army of agents to work for you. Tell it what you need done, and they handle it across the tools and apps you already use. You get more work done with less time on your screen.",
+    "one_liner": "An agentic phone that does your busywork",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -13845,11 +13849,11 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1791788322,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Workflow Automation",
-      "API"
+      "API",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

@@ -4383,8 +4383,8 @@
     "website": "https://tokotutor.com/",
     "all_locations": "New York City, NY, USA",
     "long_description": "Toko helps English learners in East Asia achieve speaking fluency. Through our mobile app, learners engage in short, realistic conversations with an AI and receive feedback on their grammar.\r\n\r\nWith over 500 topics, learners can practice real-world scenarios ranging from small talk to workplace discussions. Toko offers a low-pressure environment to help learners build up their confidence.\r\n\r\nWe make language fluency accessible to everyone - not just those with the means to meet 1:1 with a tutor.\r\n\r\nIn Taiwan (our first market), Toko is ranked top 3 in the App Store for Education!",
-    "one_liner": "Learn English by speaking with an AI",
-    "team_size": 5,
+    "one_liner": "AI English Tutor",
+    "team_size": 3,
     "industry": "Education",
     "subindustry": "Education",
     "launched_at": 1646685328,
@@ -4406,7 +4406,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4597,6 +4599,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/fello",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/fello.json"
+  },
+  {
+    "id": 25822,
+    "name": "Rome AI",
+    "slug": "rome-ai",
+    "former_names": [
+      "Rome"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3ce533baa712c5f3600e9396283ebfae0b33da7.png",
+    "website": "https://rome.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Rome AI (formerly Rome Trucking) started in 2022 as a freight marketplace for truck drivers. We helped 80+ drivers earn up to 40% more by finding 10x more loads. What we learned there pointed us toward something bigger, and that's what we're building now, in stealth. More soon.",
+    "one_liner": "Stealth AI Lab",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1648261394,
+    "tags": [
+      "Artificial Intelligence",
+      "Consumer",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rome-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/rome-ai.json"
   },
   {
     "id": 25823,
@@ -7519,17 +7563,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ce5fb2bc6ecc51b550577fdf7ed50f0b62b585d.png",
     "website": "https://rove.com",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Rove is building the first accessible and universal airline mile, redeemable across dozens of international airlines and hotel chains worldwide.",
-    "one_liner": "Travel the world for free.",
-    "team_size": 4,
+    "long_description": "Earn flexible airline miles on booking travel, shopping, and dining, all on top of your credit card rewards.",
+    "one_liner": "Earn airline miles on hotels and everyday spend.",
+    "team_size": 32,
     "industry": "Consumer",
     "subindustry": "Consumer -> Travel, Leisure and Tourism",
     "launched_at": 1701568382,
     "tags": [
-      "Artificial Intelligence",
-      "Fintech",
       "Consumer",
-      "Travel"
+      "Travel",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7915,15 +7958,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "In the past 9 months, more Minecraft mods were made with CreativeMode than in the game's previous 17 years combined. CreativeMode is making every player a creator.\r\n\r\nGames like Minecraft, Fortnite, and Roblox started a revolution by allowing players to shape the games they love. CreativeMode is taking it to the next level by giving every player the power of a game studio at their fingertips. Players on CreativeMode create new experiences, play them with friends, and share their creations with the community. It’s a new way to play and create where imagination is the only limit.\r\n\r\nCreativeMode’s founding team met as early engineers at Crusoe (soon to IPO) and studied CS+AI at Stanford, MIT, and CMU. The team is backed by top investors including YC and General Catalyst.",
     "one_liner": "Lovable for Minecraft mods",
-    "team_size": 2,
+    "team_size": 5,
     "industry": "Consumer",
     "subindustry": "Consumer -> Gaming",
     "launched_at": 1723073466,
     "tags": [
+      "Artificial Intelligence",
       "Consumer",
       "Entertainment",
-      "Gaming",
-      "AI"
+      "Gaming"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -9135,17 +9178,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ad757e8400d1148cc83fb94eb774347a9fe0f4ad.png",
     "website": "https://www.pickle.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pickle is a personal, memory-based operating system, the missing layer of AI that continuously learns your real-world context, preferences, and intent, enabling AI to evolve with you and become truly proactive rather than reactive. Our system spans both software (Chat, our web-based creative intelligence app) and hardware (Pickle 1, our AI-powered AR glasses) to capture different layers of personal context. Together, they form the foundation of a real personal intelligence.",
-    "one_liner": "Where your life context becomes understanding.",
-    "team_size": 15,
+    "long_description": "Pickle is a personal AI agent that gets things done for you. Every user has their own Pickle, which they talk to by voice or chat. It works in its own cloud browser, signs in to the services you already use, and finishes everyday tasks end to end: ordering food, booking rides, flights and restaurant tables, shopping, sending money, and handling paperwork. It places phone calls on your behalf in 81 countries, sends a morning briefing, and runs scheduled tasks. Pickles also talk to each other, so you can send yours to a friend’s Pickle to settle a dinner plan or split a bill.\r\n\r\nEvery Pickle earns trust in steps, from small errands to the accounts, cards, and identity it needs to act for you. Credentials stay in a hardware-isolated enclave that neither the model nor our servers can read, every action goes to a log you can see in the app, and nothing is used to train models.\r\n\r\nPickle is live on the App Store in the US and launches in Korea next, as the first personal agent built for Korea’s identity checks, payment rails, and everyday services, with the aim of becoming the country’s national app.",
+    "one_liner": "The personal AI agent for Korea.",
+    "team_size": 6,
     "industry": "Consumer",
     "subindustry": "Consumer -> Consumer Electronics",
     "launched_at": 1738265099,
     "tags": [
-      "Artificial Intelligence",
-      "Hardware",
-      "Augmented Reality",
-      "Consumer"
+      "Consumer",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -10849,5 +10890,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cyclon",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/cyclon.json"
+  },
+  {
+    "id": 39117,
+    "name": "Godpack",
+    "slug": "godpack",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5cf26da4e502d22859bba31a1834d27e69baf813.png",
+    "website": "https://godpack.gg/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "100% EV fair gacha",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1791917830,
+    "tags": [
+      "Marketplace",
+      "Consumer",
+      "Trading"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2027",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/godpack",
+    "api": "https://yc-oss.github.io/api/batches/winter-2027/godpack.json"
   }
 ]
