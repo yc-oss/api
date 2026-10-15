@@ -3226,10 +3226,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2019",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -3240,7 +3240,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -3640,7 +3640,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2019",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -3651,7 +3651,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -17029,16 +17029,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b63801706e3874e4f1017433f3c6a3ce0dddbca.png",
     "website": "https://www.spurtest.com/",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Never code up another test or hire an external QA team. We handle and automate all functional and E2E testing. ",
-    "one_liner": "Spur is your AI QA Engineer. Test your websites with natural language.",
-    "team_size": 8,
+    "long_description": "Every company is about to run two systems: one that generates software and one that validates it. Spur is the second one.\r\nSpur runs specialized agents against the real product the way a customer would use it: functional, visual, content, native iOS and Android on real devices, and accessibility and compliance.",
+    "one_liner": "Spur is the validation infrastructure enterprises use to ship at the…",
+    "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1724126992,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -17056,7 +17056,7 @@
     ],
     "stage": "Early",
     "app_video_public": false,
-    "demo_day_video_public": true,
+    "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/spur",
@@ -20002,7 +20002,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -20064,6 +20064,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/assistant-ui",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/assistant-ui.json"
+  },
+  {
+    "id": 30356,
+    "name": "Artil",
+    "slug": "artil",
+    "former_names": [
+      "Fira"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e50d8dfa254f692b3d51a22620ca8519141e9ed2.png",
+    "website": "https://artil.dev/",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "Artil gives AI agents their own email addresses and phone numbers so they can communicate and use online services. Agents can send and receive emails and text messages, sign up for services, and complete email and SMS verification. We’re building the identity and communication infrastructure for teams developing agents and people putting them to work.",
+    "one_liner": "Persistent email inbox, phone number and secret storage for agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1736800806,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "Email",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/artil",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/artil.json"
   },
   {
     "id": 30363,
@@ -21798,7 +21843,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -23370,7 +23415,7 @@
       "EasyClaw",
       "Ara"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41ce981200cf7566e83cab9db3f721b243d01db5.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac8d1fbd9622030ddfab1cc9a6fac1907350004f.png",
     "website": "https://reasonmachines.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Reason Machines builds Reason Agent, the autonomous software engineer for engineering teams. Reason connects to GitHub, reproduces bugs, writes code, passes tests, and ships review-ready pull requests with recordings and logs across cloud environments.",
@@ -24631,8 +24676,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1789747031,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Swarm AI"
+      "Swarm AI",
+      "Open Source",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -24715,10 +24763,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1790916343,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,

@@ -844,7 +844,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -3443,24 +3443,25 @@
   },
   {
     "id": 27492,
-    "name": "zudo.work",
-    "slug": "zudowork",
+    "name": "Zudo",
+    "slug": "zudo",
     "former_names": [
       "Treasury",
       "Nucleus",
-      "LazyEditor"
+      "LazyEditor",
+      "zudo.work"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9b55d5948e24e4f011a2289892580ecd680e947a.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/02c705489ccd24391e34d49ce6425e36196c1fcb.png",
     "website": "https://zudo.work/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Zudo.work builds and deploys AI agents that automate customer support, sales, and authorization workflows for warranty administrators in the home and auto markets.\r\n\r\nOur agents integrate across voice and internal system to handle high-volume service operations such as claims processing, coverage inquiries and authorizations — improving speed, accuracy, and operational efficiency.",
-    "one_liner": "AI Workers for Warranty",
-    "team_size": 3,
+    "long_description": "Zudo is building the AI workforce for the $100B+ warranty and extended service contract industry.\r\n\r\nOur AI workers automate complex, high-volume operations for automotive and home warranty companies — including claims processing, coverage verification, authorizations, customer support, renewals, and sales.\r\n\r\nUnlike traditional chatbots and copilots, Zudo's agents execute workflows end-to-end, interacting with customers over voice and digital channels while taking actions across existing enterprise systems. We're transforming an industry built on manual processes and phone calls into one powered by autonomous AI workers.",
+    "one_liner": "AI Workers for Extended Service Contracts",
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1680111928,
     "tags": [
-      "AI"
+      "Artificial Intelligence"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3481,8 +3482,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/zudowork",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/zudowork.json"
+    "url": "https://www.ycombinator.com/companies/zudo",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/zudo.json"
   },
   {
     "id": 27816,
@@ -6111,15 +6112,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5ec540989c0e572731406bc02714d7608e407cc3.png",
     "website": "https://godhands.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "GodHands learns how your teams actually work, capturing the steps, decisions, and exceptions that never get written down. It turns that knowledge into living playbooks and answers with sources, so people and AI agents can put it to work. Teams use GodHands to run operations, onboard employees, hand over roles, integrate acquisitions, and automate work.",
-    "one_liner": "Your company’s operating model, learned from the work.",
+    "long_description": "GodHands learns how your teams actually work from the apps they already use, capturing the steps, decisions and exceptions that never get written down. It turns them into playbooks, gives people and AI agents the answers, and builds agents that do the work the same way. Teams use GodHands to run operations, onboard new hires, hand over roles, integrate acquisitions and automate repetitive work.",
+    "one_liner": "Turn how your team works into playbooks and agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1777151399,
     "tags": [
       "B2B",
+      "Workflow Automation",
       "Enterprise",
+      "Automation",
       "Operations"
     ],
     "tags_highlighted": [],
@@ -6134,9 +6137,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -6566,13 +6567,13 @@
     "all_locations": "Stockholm, Stockholm County, Sweden",
     "long_description": "Zaplar is the AI-native operating system for hotels.\r\n\r\nHotels run on legacy software and a fragmented tech stack. Zaplar replaces the entire hotel tech stack (PMS, POS, booking engine, etc) with one software that can handle hotel operations autonomously.\r\n\r\nLearn more at https://zaplar.com",
     "one_liner": "Agentic Hotel Operating System",
-    "team_size": 3,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1784823049,
     "tags": [
-      "Artificial Intelligence",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

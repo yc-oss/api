@@ -3934,7 +3934,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -4795,7 +4795,7 @@
     "all_locations": "Vancouver, BC, Canada",
     "long_description": "OnDeck is the infrastructure layer that makes Vision Language Models accessible and scalable for enterprise. Our model, Perception-0, let organizations instantly find any object, behavior or event, in any footage, without needing to train a model or collect any training data.\r\n\r\nThe Pain: Creating vision models usually takes months: collecting training data, training, then deployment.  Worse yet: \r\n+ it’s often impossible to get enough data for a specific task, and \r\n+ even the best cv models struggle to generalize across diverse camera setups, workflows and environments. \r\n\r\nTo overcome these blockers, we bet early on the power of VLMs and built a vision engine that can generalize across any task and doesn’t need any training data. We published a NeurIPS workshop paper showing our new methods with VLMs beat traditional CV even at niche tasks. Now, our model Perception-0 beats the best VLMs including Gemini at long video understanding.\r\n\r\nOur current customers include:\r\n- National Defense Organizations\r\n- Robotics Research\r\n- Security cameras\r\n- Behaviour analysis for port monitoring\r\n- Off-shore oil & gas monitoring",
     "one_liner": "Analyze any footage, without training a model",
-    "team_size": 7,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1755488960,
@@ -5282,47 +5282,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lyon",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/lyon.json"
-  },
-  {
-    "id": 32618,
-    "name": "Click",
-    "slug": "click",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3eb675c91f3464d134cd3d9c18712ad08bea23bb.png",
-    "website": "https://www.useclick.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Click builds useful services that meet users right inside ChatGPT and Claude.\r\nWe're starting with a research service that provides external context that the built-in web search misses - like data from professional & social platforms, marketplaces, financials, and more. \r\nIt makes research on people & companies even deeper with specialized, source-backed context beyond built-in web search, while enabling new tasks like comparing live flight fares right inside the chat.",
-    "one_liner": "Research services for ChatGPT and Claude",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1785963586,
-    "tags": [
-      "Artificial Intelligence",
-      "API",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/click",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/click.json"
   },
   {
     "id": 33019,

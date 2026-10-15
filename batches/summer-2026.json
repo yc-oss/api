@@ -660,8 +660,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e588f98ac537da3d55ea3c2b43b0bd505524c7f8.png",
     "website": "https://www.librabots.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Libra is building a self-evolving robot workforce for infrastructure, including data centers and energy infrastructure. We developed an AI robotics engineer that autonomously designs, simulates, tests, deploys, and improves robotic systems, allowing our robots to take on different jobs. We started with utility-scale solar, where our robots have already been deployed on real construction sites, and are now expanding into electrician work in data centers. Powered by Recursive Self-Improvement (RSI), each new capability builds on what came before, making the next task much faster to engineer and deploy.",
-    "one_liner": "A self-evolving robot workforce for infrastructure.",
+    "long_description": "Infrastructure faces a labor shortage, but robots struggle to scale with high-mix work. Libra builds AI that engineers robots for new tasks across embodiments, cutting zero-to-deployment time from months to days. We deploy across solar farms, data centers, and beyond. Customers pay for completed work, not robots. Our goal is to achieve 100 million hours of robotic work annually by 2031.",
+    "one_liner": "The robot workforce for infrastructure",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -4292,7 +4292,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c71c0447005f2a40e7e7610af283842dbce65e39.png",
     "website": "https://www.exosat.com",
-    "all_locations": "Singapore, Singapore",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Exosat is building thousands of low-cost communication satellites to provide a neutral, sovereign alternative to Starlink. By designing our satellites with zero ITAR/EAR-controlled content, we can leverage manufacturers anywhere in the world to produce our satellites at under a tenth of the cost and launch them from other nations to bypass capacity bottlenecks and access equatorial orbits. \r\n\r\nWe're starting off by selling connectivity to device OEMs and network operators, but will eventually use the distributed compute across our constellation to run low-latency inference for robots and autonomous vehicles in remote and rural areas anywhere on the planet.\r\n\r\nWe've already signed hundreds of millions in LOIs to work with operators across Central Asia, Southeast Asia, and the Middle East, booked our first satellite launch next year, and hold an 11,000 satellite filing with the ITU to build the largest comms network outside of the U.S. and China.",
     "one_liner": "Building a neutral, sovereign alternative to Starlink",
     "team_size": 3,
@@ -4317,8 +4317,8 @@
       "Aviation and Space"
     ],
     "regions": [
-      "Singapore",
-      "Southeast Asia"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4422,13 +4422,13 @@
     "all_locations": "Stockholm, Stockholm County, Sweden",
     "long_description": "Zaplar is the AI-native operating system for hotels.\r\n\r\nHotels run on legacy software and a fragmented tech stack. Zaplar replaces the entire hotel tech stack (PMS, POS, booking engine, etc) with one software that can handle hotel operations autonomously.\r\n\r\nLearn more at https://zaplar.com",
     "one_liner": "Agentic Hotel Operating System",
-    "team_size": 3,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1784823049,
     "tags": [
-      "Artificial Intelligence",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5672,16 +5672,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3eb675c91f3464d134cd3d9c18712ad08bea23bb.png",
     "website": "https://www.useclick.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Click builds useful services that meet users right inside ChatGPT and Claude.\r\nWe're starting with a research service that provides external context that the built-in web search misses - like data from professional & social platforms, marketplaces, financials, and more. \r\nIt makes research on people & companies even deeper with specialized, source-backed context beyond built-in web search, while enabling new tasks like comparing live flight fares right inside the chat.",
-    "one_liner": "Research services for ChatGPT and Claude",
+    "long_description": "Click serves agents over an API. Bring your model keys, tools, and context - Click runs the agent and streams back events.\r\nAsk your coding agent about useclick.ai/reference!",
+    "one_liner": "Managed Agents API",
     "team_size": 1,
     "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1785963586,
     "tags": [
-      "Artificial Intelligence",
       "API",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5691,7 +5691,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Analytics"
+      "Engineering, Product and Design"
     ],
     "regions": [
       "United States of America",
@@ -7872,7 +7872,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c5ba47505a760393e85b91acdb4b3933cf8df0a7.png",
     "website": "http://lamb-labs.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lamb Labs is building MPUs (Model Processing Units), custom chips that hardcode LLM weights directly into the chip. Unlike GPUs, which move weights between memory and compute, MPUs keep the model on-chip, targeting up to 20,000+ tok/s and a 63× higher intelligence per watt.\r\n\r\n",
+    "long_description": "Lamb Labs is building Model Processing Units (MPUs), custom AI chips that hardcode LLM weights directly into silicon. Rather than adapting general-purpose processors to run AI models, we're rethinking how LLMs are implemented in hardware to make inference dramatically faster and more energy-efficient.\r\n",
     "one_liner": "Lightning fast chips with hardcoded AI models",
     "team_size": 0,
     "industry": "B2B",
@@ -7887,7 +7887,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2026",
     "status": "Active",

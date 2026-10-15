@@ -6578,7 +6578,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -6772,19 +6772,27 @@
   },
   {
     "id": 30356,
-    "name": "Fira",
-    "slug": "fira",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8180359e4edaaddd169f88aafc0eb2338fe0116f.png",
-    "website": "https://firaresearch.com/",
+    "name": "Artil",
+    "slug": "artil",
+    "former_names": [
+      "Fira"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e50d8dfa254f692b3d51a22620ca8519141e9ed2.png",
+    "website": "https://artil.dev/",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "Fira accelerates financial research for investment analysts by instantly searching and analyzing thousands of pages of company filings and earnings reports, delivering source-cited answers and verifiable calculations.\r\n\r\nOur mission is to build a comprehensive research platform that integrates seamlessly with internal and external data sources, handles research and analysis, generates investment documents, and automates repetitive workflows. This frees investment professionals to focus on what matters most: building relationships and making strategic decisions.",
-    "one_liner": "Financial research platform for investment firms",
-    "team_size": 4,
+    "long_description": "Artil gives AI agents their own email addresses and phone numbers so they can communicate and use online services. Agents can send and receive emails and text messages, sign up for services, and complete email and SMS verification. We’re building the identity and communication infrastructure for teams developing agents and people putting them to work.",
+    "one_liner": "Persistent email inbox, phone number and secret storage for agents",
+    "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
+    "subindustry": "B2B -> Infrastructure",
     "launched_at": 1736800806,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "Email",
+      "Infrastructure"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -6793,7 +6801,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Finance and Accounting"
+      "Infrastructure"
     ],
     "regions": [
       "United Kingdom",
@@ -6804,8 +6812,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/fira",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/fira.json"
+    "url": "https://www.ycombinator.com/companies/artil",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/artil.json"
   },
   {
     "id": 30357,

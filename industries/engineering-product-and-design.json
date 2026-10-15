@@ -5454,10 +5454,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2019",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -5468,7 +5468,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -5813,7 +5813,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2019",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -5824,7 +5824,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -17852,16 +17852,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b63801706e3874e4f1017433f3c6a3ce0dddbca.png",
     "website": "https://www.spurtest.com/",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Never code up another test or hire an external QA team. We handle and automate all functional and E2E testing. ",
-    "one_liner": "Spur is your AI QA Engineer. Test your websites with natural language.",
-    "team_size": 8,
+    "long_description": "Every company is about to run two systems: one that generates software and one that validates it. Spur is the second one.\r\nSpur runs specialized agents against the real product the way a customer would use it: functional, visual, content, native iOS and Android on real devices, and accessibility and compliance.",
+    "one_liner": "Spur is the validation infrastructure enterprises use to ship at the…",
+    "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1724126992,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -17879,7 +17879,7 @@
     ],
     "stage": "Early",
     "app_video_public": false,
-    "demo_day_video_public": true,
+    "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/spur",
@@ -21596,7 +21596,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -24999,7 +24999,9 @@
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1770489645,
-    "tags": [],
+    "tags": [
+      "Reinforcement Learning"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -25550,6 +25552,43 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/zenbu-2",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/zenbu-2.json"
+  },
+  {
+    "id": 31371,
+    "name": "The Company Company",
+    "slug": "the-company-company",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2e02b231781598e474507da2cdfd670adae06e9.png",
+    "website": "https://www.thecompany.company",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "The Company Company is an applied AI lab building the operating system for technology startups. Instead of stitching together 15 disconnected SaaS tools, teams run engineering, product, growth, sales, finance, legal, recruiting, support, and executive operations on a single autonomous agent runtime backed by full Linux sandboxes and a shared company memory map.",
+    "one_liner": "The operating system for tech startups.",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1778479342,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/the-company-company",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/the-company-company.json"
   },
   {
     "id": 31373,
@@ -26233,6 +26272,47 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/graphify-labs.json"
   },
   {
+    "id": 32618,
+    "name": "Click",
+    "slug": "click",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3eb675c91f3464d134cd3d9c18712ad08bea23bb.png",
+    "website": "https://www.useclick.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Click serves agents over an API. Bring your model keys, tools, and context - Click runs the agent and streams back events.\r\nAsk your coding agent about useclick.ai/reference!",
+    "one_liner": "Managed Agents API",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1785963586,
+    "tags": [
+      "API",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/click",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/click.json"
+  },
+  {
     "id": 32620,
     "name": "Gradon",
     "slug": "gradon",
@@ -26589,7 +26669,7 @@
     "website": "https://simulithic.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Simulithic continuously uses your production product like your real users do. We learn representative user journeys and run user simulations across different devices, browsers, account states, and environments to find failures that traditional scripted end-to-end tests miss. ",
-    "one_liner": "User simulations for production monitoring.",
+    "one_liner": "AI users that test your app on every device and browser",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -26806,8 +26886,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1789747031,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Swarm AI"
+      "Swarm AI",
+      "Open Source",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -26933,10 +27016,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1790916343,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,

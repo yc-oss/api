@@ -5833,7 +5833,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -5965,7 +5965,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -8132,10 +8132,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B"
     ],
@@ -8145,7 +8145,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -9914,6 +9914,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lovage",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/lovage.json"
+  },
+  {
+    "id": 25732,
+    "name": "Sprites",
+    "slug": "sprites",
+    "former_names": [
+      "Campfire",
+      "Campfire (applied AI company)"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f89411c2e9172cac0eae74bed5485e42a289ab94.png",
+    "website": "https://sprites.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sprites is a proactive agent that achieves growth goals for businesses fully autonomously, starting with performance marketing. \r\n\r\nToday, Sprites manages $30M of annualized growth spend for 50+ businesses in a self-improving loop. Sprites has grown 5x this quarter with customers including Gameloft, Klarity Health, Hyperice, and leading AI labs.\r\n\r\nYou give it a growth goal and a budget - like \"Book me demoes with PMs at AI startups for up to $500 per demo\" or \"Get me trial sign ups from UGC video creators, up to $50 per sign up\". It does the work. Every week it gets better at your business.\r\n\r\nTeams use it instead of hiring an agency or a growth team.",
+    "one_liner": "The proactive agent that achieves growth goals for businesses, fully…",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1645693578,
+    "tags": [
+      "B2B",
+      "Marketing",
+      "Advertising",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sprites",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/sprites.json"
   },
   {
     "id": 25733,
@@ -13025,49 +13070,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sameday",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/sameday.json"
-  },
-  {
-    "id": 27492,
-    "name": "zudo.work",
-    "slug": "zudowork",
-    "former_names": [
-      "Treasury",
-      "Nucleus",
-      "LazyEditor"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9b55d5948e24e4f011a2289892580ecd680e947a.png",
-    "website": "https://zudo.work/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Zudo.work builds and deploys AI agents that automate customer support, sales, and authorization workflows for warranty administrators in the home and auto markets.\r\n\r\nOur agents integrate across voice and internal system to handle high-volume service operations such as claims processing, coverage inquiries and authorizations — improving speed, accuracy, and operational efficiency.",
-    "one_liner": "AI Workers for Warranty",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1680111928,
-    "tags": [
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/zudowork",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/zudowork.json"
   },
   {
     "id": 27666,
@@ -18826,6 +18828,53 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/navier-ai.json"
   },
   {
+    "id": 29201,
+    "name": "Legora",
+    "slug": "legora",
+    "former_names": [
+      "Leya",
+      "Legora",
+      "Legora (formerly Leya)"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8ab1e73f4b43c259e677e877d53fe26dfac90b65.png",
+    "website": "https://www.legora.com/",
+    "all_locations": "Stockholm, Stockholm County, Sweden",
+    "long_description": "Legora is redefining how legal work gets done. Built alongside lawyers, our AI-native workspace helps legal teams research, review documents, draft and complete complex workflows so they can focus on judgment, strategy and outcomes.\r\n\r\nMore than 2,100 customers across 80+ markets trust Legora, including Cleary Gottlieb, Goodwin, Linklaters, White & Case, Dentons and Barclays. We have scaled to $200M+ in ARR, with more than 900 people across 18 offices spanning Europe, North America and APAC.\r\n\r\nLegora raised $600M in Series D financing, including a $50M extension announced in April 2026, at a $5.6B valuation. The round was led by Accel, with Atlassian and NVentures joining in the extension.\r\n\r\nLearn more at https://legora.com/",
+    "one_liner": "The agentic operating system for legal work",
+    "team_size": 900,
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1695641655,
+    "tags": [
+      "Generative AI",
+      "LegalTech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "Sweden",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/legora",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/legora.json"
+  },
+  {
     "id": 29205,
     "name": "ego",
     "slug": "ego",
@@ -21922,47 +21971,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/arcane",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/arcane.json"
-  },
-  {
-    "id": 29474,
-    "name": "Spur",
-    "slug": "spur",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b63801706e3874e4f1017433f3c6a3ce0dddbca.png",
-    "website": "https://www.spurtest.com/",
-    "all_locations": "New York City, NY, USA",
-    "long_description": "Never code up another test or hire an external QA team. We handle and automate all functional and E2E testing. ",
-    "one_liner": "Spur is your AI QA Engineer. Test your websites with natural language.",
-    "team_size": 8,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1724126992,
-    "tags": [
-      "Developer Tools",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": true,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/spur",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/spur.json"
   },
   {
     "id": 29499,
@@ -38075,6 +38083,46 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/prodigy-research.json"
   },
   {
+    "id": 32256,
+    "name": "Zaplar",
+    "slug": "zaplar",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c3ccfe3188152229b75f7e38241a91f40b4c9edd.png",
+    "website": "https://zaplar.com",
+    "all_locations": "Stockholm, Stockholm County, Sweden",
+    "long_description": "Zaplar is the AI-native operating system for hotels.\r\n\r\nHotels run on legacy software and a fragmented tech stack. Zaplar replaces the entire hotel tech stack (PMS, POS, booking engine, etc) with one software that can handle hotel operations autonomously.\r\n\r\nLearn more at https://zaplar.com",
+    "one_liner": "Agentic Hotel Operating System",
+    "team_size": 7,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1784823049,
+    "tags": [
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "Sweden",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zaplar",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/zaplar.json"
+  },
+  {
     "id": 32261,
     "name": "Rasyn",
     "slug": "rasyn",
@@ -38275,6 +38323,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/whitespace",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/whitespace.json"
+  },
+  {
+    "id": 32618,
+    "name": "Click",
+    "slug": "click",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3eb675c91f3464d134cd3d9c18712ad08bea23bb.png",
+    "website": "https://www.useclick.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Click serves agents over an API. Bring your model keys, tools, and context - Click runs the agent and streams back events.\r\nAsk your coding agent about useclick.ai/reference!",
+    "one_liner": "Managed Agents API",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1785963586,
+    "tags": [
+      "API",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/click",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/click.json"
   },
   {
     "id": 32619,
@@ -38838,7 +38927,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c5ba47505a760393e85b91acdb4b3933cf8df0a7.png",
     "website": "http://lamb-labs.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lamb Labs is building MPUs (Model Processing Units), custom chips that hardcode LLM weights directly into the chip. Unlike GPUs, which move weights between memory and compute, MPUs keep the model on-chip, targeting up to 20,000+ tok/s and a 63× higher intelligence per watt.\r\n\r\n",
+    "long_description": "Lamb Labs is building Model Processing Units (MPUs), custom AI chips that hardcode LLM weights directly into silicon. Rather than adapting general-purpose processors to run AI models, we're rethinking how LLMs are implemented in hardware to make inference dramatically faster and more energy-efficient.\r\n",
     "one_liner": "Lightning fast chips with hardcoded AI models",
     "team_size": 0,
     "industry": "B2B",
@@ -38853,7 +38942,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2026",
     "status": "Active",
@@ -39973,22 +40062,24 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/bryel.json"
   },
   {
-    "id": 35392,
-    "name": "Dydema",
-    "slug": "dydema",
+    "id": 35292,
+    "name": "Agent Relay",
+    "slug": "agent-relay",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/85eacc9eef1101a2060cf6b9873797fd43445325.png",
-    "website": "https://dydema.com/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cd30717450b2c4e90d7bcd129a9d826c6faaa345.png",
+    "website": "https://agentrelay.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "A data-first model company for neurotech. We collect brain data for others, and use it to build toward general models of the brain.",
-    "one_liner": "The model company for neurotech.",
+    "long_description": "Agent Relay helps software teams work better with coding agents, and helps those agents work better as a team. It gives Claude Code, Codex, OpenCode, and custom agents shared messaging, session history, and access to tools like GitHub, Linear, and Slack. Teams can see what every agent is doing, run checked and resumable workflows, and step in when human judgment is needed. Run it in our cloud, locally, or on your own hardware.",
+    "one_liner": "The infrastructure to run coding agents for your team",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1790760468,
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1789747031,
     "tags": [
-      "Neurotechnology",
-      "Neuroinformatics",
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Swarm AI",
+      "Open Source",
       "AI"
     ],
     "tags_highlighted": [],
@@ -39998,7 +40089,50 @@
     "batch": "Fall 2026",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/agent-relay",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/agent-relay.json"
+  },
+  {
+    "id": 35392,
+    "name": "Dydema",
+    "slug": "dydema",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/85eacc9eef1101a2060cf6b9873797fd43445325.png",
+    "website": "https://dydema.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We’re building a brain-computer interface anyone can wear, so you can use a computer at the speed of thought. To get there, we’re recording brain data at model company scale.",
+    "one_liner": "A consumer brain-computer interface you can map to anything.",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1790760468,
+    "tags": [
+      "Hardware",
+      "Neurotechnology",
+      "Consumer",
+      "Big Data",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer"
     ],
     "regions": [
       "United States of America",
@@ -40137,50 +40271,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ploid",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/ploid.json"
-  },
-  {
-    "id": 35751,
-    "name": "Rystic",
-    "slug": "rystic",
-    "former_names": [
-      "Rystic, Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1259ed8e91fea5ce7bb3da813020323417f96fae.png",
-    "website": "https://rystic.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "API simulators for testing and training agents locally",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1790916343,
-    "tags": [
-      "Developer Tools",
-      "B2B",
-      "Enterprise Software",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/rystic",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/rystic.json"
   },
   {
     "id": 36015,
@@ -40522,24 +40612,22 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/preload.json"
   },
   {
-    "id": 36643,
-    "name": "Papaya",
-    "slug": "papaya",
+    "id": 36513,
+    "name": "Graphide",
+    "slug": "graphide",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/90437a276bb22b842ea04cd42e19389e216c984c.png",
-    "website": "https://papaya.fyi/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a8a1620a1957b907f1e344c44b332ea9f5af430.png",
+    "website": "https://Graphide.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Papaya is the optimization engine for AI agents. Engineers don't have time to continually improve the agents they've shipped — the context bloat, overly chatty subagents, and broken tool calls sit in production traces nobody reads, quietly hurting agent efficiency. With Papaya they connect their agent directly via SDK, get actionable recommendations on how to improve quality, latency, and cost, and the ones they approve are pushed to production as pull requests.\r\n\r\nPapaya runs 200+ research-backed analyses across context, prompts, prompt caching, subagents, and tool calls. Every recommendation is ranked by impact and comes with the production runs that produced it — typically a 10%+ quality improvement on the first workflow analysis.",
-    "one_liner": "Continuous optimization for AI agents",
-    "team_size": 3,
+    "long_description": "Graphide (YC F26) is a code editor that maps your codebase into a graph so you can see what your agents are building. Agents now write code faster than anyone can read it, and a line by line diff doesn't show what actually changed in the system. Graphide keeps a live graph of the modules, classes, functions, etc. how they connect, and what each agent is touching as it works. Graphide then checks their changes against your architecture, making sure your agents are implementing what you had in mind.",
+    "one_liner": "A graph based IDE for when agents program faster than you can read",
+    "team_size": 0,
     "industry": "B2B",
     "subindustry": "B2B",
-    "launched_at": 1789407516,
+    "launched_at": 1792011169,
     "tags": [
-      "AIOps",
-      "B2B",
-      "Enterprise Software",
-      "Infrastructure",
+      "Generative AI",
+      "DevOps",
       "AI"
     ],
     "tags_highlighted": [],
@@ -40560,8 +40648,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/papaya",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/papaya.json"
+    "url": "https://www.ycombinator.com/companies/graphide",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/graphide.json"
   },
   {
     "id": 36907,
@@ -40691,51 +40779,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/useterse",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/useterse.json"
-  },
-  {
-    "id": 37274,
-    "name": "Decent",
-    "slug": "decent-com",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/786d073f3a76012e5179c5021d6a0d82644d8d1f.png",
-    "website": "https://decent.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Decent is a health insurance brokerage for small businesses. We compare every way to cover your team, show what each one costs, and then keep improving your plan all year. We're paid by insurance companies, so we're free to you.",
-    "one_liner": "Your health plan should get better year-round. Not just once a year.",
-    "team_size": 2,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Insurance",
-    "launched_at": 1789976042,
-    "tags": [
-      "Fintech",
-      "Health Tech",
-      "B2B",
-      "Health Insurance",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2026",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Insurance"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/decent-com",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/decent-com.json"
   },
   {
     "id": 37600,

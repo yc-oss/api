@@ -6900,7 +6900,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c5ba47505a760393e85b91acdb4b3933cf8df0a7.png",
     "website": "http://lamb-labs.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lamb Labs is building MPUs (Model Processing Units), custom chips that hardcode LLM weights directly into the chip. Unlike GPUs, which move weights between memory and compute, MPUs keep the model on-chip, targeting up to 20,000+ tok/s and a 63× higher intelligence per watt.\r\n\r\n",
+    "long_description": "Lamb Labs is building Model Processing Units (MPUs), custom AI chips that hardcode LLM weights directly into silicon. Rather than adapting general-purpose processors to run AI models, we're rethinking how LLMs are implemented in hardware to make inference dramatically faster and more energy-efficient.\r\n",
     "one_liner": "Lightning fast chips with hardcoded AI models",
     "team_size": 0,
     "industry": "B2B",
@@ -6915,7 +6915,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2026",
     "status": "Active",
@@ -7112,6 +7112,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/saccade",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/saccade.json"
+  },
+  {
+    "id": 35392,
+    "name": "Dydema",
+    "slug": "dydema",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/85eacc9eef1101a2060cf6b9873797fd43445325.png",
+    "website": "https://dydema.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We’re building a brain-computer interface anyone can wear, so you can use a computer at the speed of thought. To get there, we’re recording brain data at model company scale.",
+    "one_liner": "A consumer brain-computer interface you can map to anything.",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1790760468,
+    "tags": [
+      "Hardware",
+      "Neurotechnology",
+      "Consumer",
+      "Big Data",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dydema",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/dydema.json"
   },
   {
     "id": 35454,

@@ -5136,7 +5136,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -12761,7 +12761,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -13427,7 +13427,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -18594,10 +18594,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B"
     ],
@@ -18607,7 +18607,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -22309,17 +22309,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f89411c2e9172cac0eae74bed5485e42a289ab94.png",
     "website": "https://sprites.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sprites is a proactive agent that achieves growth goals for businesses fully autonomously, starting with performance marketing. \r\n\r\nToday, Sprites manages $30M of annualized growth spend for 50+ businesses in a self-improving loop. Sprites has grown 5x this quarter with customers including Gameloft, Klarity Health, Hyperice, and leading AI labs.\r\n\r\nYou give it a goal. It does the work. Every week it gets better at your business.\r\n\r\nTeams use it instead of hiring an agency or a growth team.",
+    "long_description": "Sprites is a proactive agent that achieves growth goals for businesses fully autonomously, starting with performance marketing. \r\n\r\nToday, Sprites manages $30M of annualized growth spend for 50+ businesses in a self-improving loop. Sprites has grown 5x this quarter with customers including Gameloft, Klarity Health, Hyperice, and leading AI labs.\r\n\r\nYou give it a growth goal and a budget - like \"Book me demoes with PMs at AI startups for up to $500 per demo\" or \"Get me trial sign ups from UGC video creators, up to $50 per sign up\". It does the work. Every week it gets better at your business.\r\n\r\nTeams use it instead of hiring an agency or a growth team.",
     "one_liner": "The proactive agent that achieves growth goals for businesses, fully…",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1645693578,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Marketing",
-      "Advertising"
+      "Advertising",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -28664,7 +28664,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -37108,16 +37108,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b63801706e3874e4f1017433f3c6a3ce0dddbca.png",
     "website": "https://www.spurtest.com/",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Never code up another test or hire an external QA team. We handle and automate all functional and E2E testing. ",
-    "one_liner": "Spur is your AI QA Engineer. Test your websites with natural language.",
-    "team_size": 8,
+    "long_description": "Every company is about to run two systems: one that generates software and one that validates it. Spur is the second one.\r\nSpur runs specialized agents against the real product the way a customer would use it: functional, visual, content, native iOS and Android on real devices, and accessibility and compliance.",
+    "one_liner": "Spur is the validation infrastructure enterprises use to ship at the…",
+    "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1724126992,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -37135,7 +37135,7 @@
     ],
     "stage": "Early",
     "app_video_public": false,
-    "demo_day_video_public": true,
+    "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/spur",
@@ -42646,6 +42646,51 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/monte.json"
   },
   {
+    "id": 30356,
+    "name": "Artil",
+    "slug": "artil",
+    "former_names": [
+      "Fira"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e50d8dfa254f692b3d51a22620ca8519141e9ed2.png",
+    "website": "https://artil.dev/",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "Artil gives AI agents their own email addresses and phone numbers so they can communicate and use online services. Agents can send and receive emails and text messages, sign up for services, and complete email and SMS verification. We’re building the identity and communication infrastructure for teams developing agents and people putting them to work.",
+    "one_liner": "Persistent email inbox, phone number and secret storage for agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1736800806,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "Email",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/artil",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/artil.json"
+  },
+  {
     "id": 30399,
     "name": "Frekil",
     "slug": "frekil",
@@ -44188,7 +44233,7 @@
     "all_locations": "Vancouver, BC, Canada",
     "long_description": "OnDeck is the infrastructure layer that makes Vision Language Models accessible and scalable for enterprise. Our model, Perception-0, let organizations instantly find any object, behavior or event, in any footage, without needing to train a model or collect any training data.\r\n\r\nThe Pain: Creating vision models usually takes months: collecting training data, training, then deployment.  Worse yet: \r\n+ it’s often impossible to get enough data for a specific task, and \r\n+ even the best cv models struggle to generalize across diverse camera setups, workflows and environments. \r\n\r\nTo overcome these blockers, we bet early on the power of VLMs and built a vision engine that can generalize across any task and doesn’t need any training data. We published a NeurIPS workshop paper showing our new methods with VLMs beat traditional CV even at niche tasks. Now, our model Perception-0 beats the best VLMs including Gemini at long video understanding.\r\n\r\nOur current customers include:\r\n- National Defense Organizations\r\n- Robotics Research\r\n- Security cameras\r\n- Behaviour analysis for port monitoring\r\n- Off-shore oil & gas monitoring",
     "one_liner": "Analyze any footage, without training a model",
-    "team_size": 7,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1755488960,
@@ -46343,7 +46388,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/970910171a94d4462949dcdc9bf32a46422e39bc.png",
     "website": "https://imagineai.me",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Imagine AI is a research and software company reverse engineering modern B2B growth, starting with LinkedIn.\r\n\r\nWe build coordinated content systems for executive teams, where the CEO, VP of Sales, and Head of Marketing post aligned narratives from a single calendar, producing compounding reach that single-founder posting cannot reach.\r\n\r\n50+ B2B companies are now using Imagine AI, including MongoDB, Rippling, Slash, and Corgi Insurance. Customers have generated $31M in attributed revenue, 12M impressions, and 1,400 hours of executive time saved.",
+    "long_description": "Imagine AI is a research and software company reverse engineering modern B2B growth, starting with LinkedIn.\r\n\r\nAs companies get more automated, more of B2B growth will happen between agents, and the companies that connect will compound each other's output. We're building the connective layer between them. We start with content because it's still the fastest way to build B2B relationships at scale.\r\n\r\nToday our content agent decides what your team should post based on data from 1M+ people (who posts what, who engages, where they work and how they're connected). It drafts the posts and graphics, schedules them for your execs and company page, and maps engagement back to your pipeline.\r\n\r\nRippling, MarqVision, Slash, Corgi and Fondo use Imagine AI. Customers have generated $40M in revenue, 100M impressions and 14,341 MQLs.\r\n\r\nFree public benchmark of how 1,000+ B2B companies and their execs perform on LinkedIn: https://benchmark.useimagine.ai",
     "one_liner": "We reverse engineer B2B growth, starting with LinkedIn.",
     "team_size": 5,
     "industry": "B2B",
@@ -47475,15 +47520,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5ec540989c0e572731406bc02714d7608e407cc3.png",
     "website": "https://godhands.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "GodHands learns how your teams actually work, capturing the steps, decisions, and exceptions that never get written down. It turns that knowledge into living playbooks and answers with sources, so people and AI agents can put it to work. Teams use GodHands to run operations, onboard employees, hand over roles, integrate acquisitions, and automate work.",
-    "one_liner": "Your company’s operating model, learned from the work.",
+    "long_description": "GodHands learns how your teams actually work from the apps they already use, capturing the steps, decisions and exceptions that never get written down. It turns them into playbooks, gives people and AI agents the answers, and builds agents that do the work the same way. Teams use GodHands to run operations, onboard new hires, hand over roles, integrate acquisitions and automate repetitive work.",
+    "one_liner": "Turn how your team works into playbooks and agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1777151399,
     "tags": [
       "B2B",
+      "Workflow Automation",
       "Enterprise",
+      "Automation",
       "Operations"
     ],
     "tags_highlighted": [],
@@ -47498,9 +47545,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -48675,13 +48720,13 @@
     "all_locations": "Stockholm, Stockholm County, Sweden",
     "long_description": "Zaplar is the AI-native operating system for hotels.\r\n\r\nHotels run on legacy software and a fragmented tech stack. Zaplar replaces the entire hotel tech stack (PMS, POS, booking engine, etc) with one software that can handle hotel operations autonomously.\r\n\r\nLearn more at https://zaplar.com",
     "one_liner": "Agentic Hotel Operating System",
-    "team_size": 3,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1784823049,
     "tags": [
-      "Artificial Intelligence",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49432,7 +49477,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c5ba47505a760393e85b91acdb4b3933cf8df0a7.png",
     "website": "http://lamb-labs.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lamb Labs is building MPUs (Model Processing Units), custom chips that hardcode LLM weights directly into the chip. Unlike GPUs, which move weights between memory and compute, MPUs keep the model on-chip, targeting up to 20,000+ tok/s and a 63× higher intelligence per watt.\r\n\r\n",
+    "long_description": "Lamb Labs is building Model Processing Units (MPUs), custom AI chips that hardcode LLM weights directly into silicon. Rather than adapting general-purpose processors to run AI models, we're rethinking how LLMs are implemented in hardware to make inference dramatically faster and more energy-efficient.\r\n",
     "one_liner": "Lightning fast chips with hardcoded AI models",
     "team_size": 0,
     "industry": "B2B",
@@ -49447,7 +49492,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2026",
     "status": "Active",
@@ -50372,10 +50417,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1790916343,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -50584,10 +50629,10 @@
     "launched_at": 1789407516,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "B2B",
       "Enterprise Software",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -50665,11 +50710,11 @@
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1789976042,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "Health Tech",
       "B2B",
-      "Health Insurance",
-      "AI"
+      "Health Insurance"
     ],
     "tags_highlighted": [],
     "top_company": false,

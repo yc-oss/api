@@ -3414,6 +3414,51 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/monte.json"
   },
   {
+    "id": 30356,
+    "name": "Artil",
+    "slug": "artil",
+    "former_names": [
+      "Fira"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e50d8dfa254f692b3d51a22620ca8519141e9ed2.png",
+    "website": "https://artil.dev/",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "Artil gives AI agents their own email addresses and phone numbers so they can communicate and use online services. Agents can send and receive emails and text messages, sign up for services, and complete email and SMS verification. We’re building the identity and communication infrastructure for teams developing agents and people putting them to work.",
+    "one_liner": "Persistent email inbox, phone number and secret storage for agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1736800806,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "Email",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/artil",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/artil.json"
+  },
+  {
     "id": 30366,
     "name": "Blaxel",
     "slug": "blaxel",
@@ -4248,7 +4293,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -5478,16 +5523,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3eb675c91f3464d134cd3d9c18712ad08bea23bb.png",
     "website": "https://www.useclick.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Click builds useful services that meet users right inside ChatGPT and Claude.\r\nWe're starting with a research service that provides external context that the built-in web search misses - like data from professional & social platforms, marketplaces, financials, and more. \r\nIt makes research on people & companies even deeper with specialized, source-backed context beyond built-in web search, while enabling new tasks like comparing live flight fares right inside the chat.",
-    "one_liner": "Research services for ChatGPT and Claude",
+    "long_description": "Click serves agents over an API. Bring your model keys, tools, and context - Click runs the agent and streams back events.\r\nAsk your coding agent about useclick.ai/reference!",
+    "one_liner": "Managed Agents API",
     "team_size": 1,
     "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1785963586,
     "tags": [
-      "Artificial Intelligence",
       "API",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5497,7 +5542,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Analytics"
+      "Engineering, Product and Design"
     ],
     "regions": [
       "United States of America",
@@ -6254,10 +6299,10 @@
     "launched_at": 1789407516,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "B2B",
       "Enterprise Software",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
