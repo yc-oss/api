@@ -22048,7 +22048,7 @@
     "all_locations": "Paris, Île-de-France, France",
     "long_description": "The first apparel & footwear Carbon Management Platform.",
     "one_liner": "Decarbonizing the fashion industry",
-    "team_size": 22,
+    "team_size": 45,
     "industry": "Industrials",
     "subindustry": "Industrials -> Climate",
     "launched_at": 1626882180,
@@ -22073,7 +22073,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -26230,6 +26230,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2021/datlo.json"
   },
   {
+    "id": 24859,
+    "name": "Synder",
+    "slug": "synder",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cbfbdd6f698428d00defbe49ae298e9ee23d8d76.png",
+    "website": "https://synder.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Synder reconciles every channel and processor into one ledger that ties to the bank – every fee, refund, payout, and chargeback matched to the order behind it.\r\n\r\nEverything downstream inherits that. Your close, your margin questions, and any AI you point at your finances all read the same numbers – and every one of them traces back to the transaction that produced it.",
+    "one_liner": "Financial data your AI can actually trust",
+    "team_size": null,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1625691576,
+    "tags": [
+      "SaaS",
+      "E-commerce"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/synder",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/synder.json"
+  },
+  {
     "id": 24866,
     "name": "Satsuma",
     "slug": "satsuma",
@@ -26369,7 +26411,7 @@
     "name": "Nash",
     "slug": "nash",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/85d1c8b167dc541ab5c546bde5eef2173f5264c6.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8931d523c719bb8419658e9193f7363a4c6df72f.png",
     "website": "https://www.usenash.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Last mile is a $500B industry powering digital commerce but managed largely with self managed API integrations. Nash approaches last mile orchestration with information completeness solutions from checkout, courier management, customer engagement, and post-purchase experience. Doing this enables merchants and customers to capture immense efficiencies, drive better customer experience, reliability and business outcomes.\r\nWe are working towards a mission of processing a double digit percentage of every physical last-mile transaction. We achieve this by providing top of the market modules for each step of the customer journey and leveraging the network effects from having more information that allows traditional competitors to collaborate. It’s a big mission, but we are already seeing strong market pull as we are already serving some of the largest retailers in the world like Walmart, 7-Eleven and Woolworths.\r\nNash was founded in 2021 by Mahmoud Ghulman (2x Founder, MIT) and Aziz Alghunaim (2x Founder, 2x YC, Ex-Palantir, MIT) and has raised funding from top investors, including Y-Combinator and a16z, to build the world’s best logistics infrastructure platform. We are based in SF.",
@@ -34559,7 +34601,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/708f104e98cf6195b515828cadc85b8d47cfc8d4.png",
     "website": "http://www.miracleml.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Miracle is the control room for clinical trials. Our platform consolidates data from multiple trial systems into real-time dashboards, delivering automated insights that empower clinical-stage biopharmaceutical companies to streamline operations, reduce manual workflows, and accelerate data-driven decision-making. By transforming complex trial data into actionable insights, Miracle helps biopharma teams speed up clinical trials, and ultimately, improve patient outcomes.",
+    "long_description": "Miracle is building the control room for clinical trials. Today, biotech companies rely on fragmented software systems, spreadsheet trackers, and manual processes to manage complex clinical trials. Miracle integrates and consolidates data from disparate sources into a single platform, giving teams real-time visibility, helping them identify risks early, and streamlining workflows to make faster, better decisions.\r\n\r\nBy unifying clinical trial data, we're also laying the foundation for AI-powered analytics and automation.\r\n\r\nOur mission is to modernize how clinical trials are run so new treatments can reach patients faster.",
     "one_liner": "Accelerate clinical trials with real-time, actionable insights",
     "team_size": 7,
     "industry": "Healthcare",
@@ -35714,50 +35756,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dataglade",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/dataglade.json"
-  },
-  {
-    "id": 27813,
-    "name": "Omnistrate",
-    "slug": "omnistrate",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/428feb2a5e495458be88abd1793ebca289d4798b.png",
-    "website": "http://www.omnistrate.com",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Omnistrate helps software companies to build their own private-label control plane to deliver your product as vendor-hosted SaaS, inside customer cloud accounts/VPCs/Kubernetes clusters, on-premises, in air-gapped environments, and through cloud marketplaces.",
-    "one_liner": "Build your control plane to deploy your product in your customer VPC…",
-    "team_size": 15,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1677779443,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "B2B",
-      "Cloud Computing",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/omnistrate",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/omnistrate.json"
   },
   {
     "id": 27819,
@@ -39126,7 +39124,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -46066,7 +46064,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd3787e9958fd9e9b42a9bb7223fe8689a2863a9.png",
     "website": "https://stockline.ai",
-    "all_locations": "Paris, Île-de-France, France",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "\r\nStockline is an AI-native ERP for food wholesalers. Our agents eliminate human labor for repetitive tasks, starting with order entry. \r\n\r\nOur goal is to replace clunky software with the next generation of ERPs, built with AI employees at their core.\r\n\r\nTeam is 2 Polytechnique alums who dropped out of Stanford and MIT. \r\nMariem is daughter of the fish industry and Moncef started coding and building softwares at 13. ",
     "one_liner": "AI-native ERP for food wholesalers",
     "team_size": 2,
@@ -46074,10 +46072,10 @@
     "subindustry": "B2B",
     "launched_at": 1753355964,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Food & Beverage",
-      "AI"
+      "Food & Beverage"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46089,8 +46087,8 @@
       "B2B"
     ],
     "regions": [
-      "France",
-      "Europe"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

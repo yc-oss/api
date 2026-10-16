@@ -3800,18 +3800,18 @@
       "Mintplex",
       "Mintplex Labs"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/09de3d530cdabdf26d6739b7f443a35022608a76.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/33d296040fb4ce26e9922ae20db732c90a4f11ce.png",
     "website": "https://anythingllm.com",
     "all_locations": "Los Angeles, CA, USA; Remote",
-    "long_description": "AnythingLLM is an all-in-one desktop, mobile, and open-source on-device AI application that makes local AI practically useful for the everyday person.\r\n\r\nAnythingLLM (56K stars) (https://github.com/Mintplex-Labs/anything-llm)",
-    "one_liner": "Building the definitive all-in-one on-device AI productivity tool",
+    "long_description": "AnythingLLM is the open-source AI platform people and enterprises run on hardware they control: laptops, phones, servers, or fully air-gapped networks. It works with any model and any provider, with no lock-in, and your data never has to leave the building.\r\n\r\nMore than 2.6M people use AnythingLLM every month across Desktop and Docker, and that’s a floor since most users turn telemetry off. It has 56K+ GitHub stars. Most of the tokens generated on AnythingLLM go to on-device or open-source models. People aren’t just trying local AI here, they’re doing real work with it.\r\n\r\nThat open-source footprint feeds our enterprise business. From small businesses to highly regulated enterprises in government, defense and financial services, teams deploy AnythingLLM where cloud AI isn’t an option. Our enterprise platform adds centralized control of desktop fleets, governance, SSO and SLAs on top of the same app their teams already use.\r\n\r\nWe work with every major hardware vendor and OEM across PC and mobile. As local AI hardware becomes standard, AnythingLLM is the software layer that makes it useful.\r\n\r\nSmall models handle small tasks on your device. Big models handle big tasks wherever you choose to run them. You decide where your intelligence lives.",
+    "one_liner": "The open-source AI platform enterprises run on their own hardware",
     "team_size": 4,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1652840561,
     "tags": [
-      "Artificial Intelligence",
       "Open Source",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -5062,6 +5062,47 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/twenty.json"
   },
   {
+    "id": 28779,
+    "name": "withHuman",
+    "slug": "withhuman",
+    "former_names": [
+      "Metoro"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/39484d89d4533e876c43bf392647fed770ecf14d.png",
+    "website": "https://withhuman.ai",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "withHuman is an open source approval layer for AI Agents.\r\n\r\nWhen you want agents to take consequential actions like refund a customer, that's when withHuman is useful.\r\n\r\nIt is a centralized point where you can encode rules like \"refunds < $10 can be done automatically, anything more than that, send it to the on-call from customer support\". You write your rules once and connect all of your agents, no changes needed, its transparent to the agent.",
+    "one_liner": "The Approval Layer for AI Agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1689872648,
+    "tags": [
+      "Open Source"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/withhuman",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/withhuman.json"
+  },
+  {
     "id": 28887,
     "name": "Skyvern",
     "slug": "skyvern",
@@ -6149,21 +6190,21 @@
       "Opslane",
       "Octopipe"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d93b9323bb2d6146f1e9e67bf29441615e86a467.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f632f905565346c94d60925b5fcc1728cf28368.png",
     "website": "https://opslane.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Opslane verifies that AI-written code actually works. Opslane opens your app in a real browser, clicks through what the PR changed, and posts screenshots, video, and data checks as proof it works.",
-    "one_liner": "Verify AI-generated code before you ship it",
+    "long_description": "Opslane catches the bugs code review misses. On every PR, it runs your app against test versions of the services it calls, from Stripe to the LLM. Then it tries what breaks in production: a service failing, two requests at once, a restart mid-job.",
+    "one_liner": "Catch bugs that code review tools miss",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1721925789,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Open Source",
       "Enterprise",
-      "DevOps"
+      "DevOps",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6903,7 +6944,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9292b62c58dc81055b437ce647dc7c3ea10ffc5c.png",
     "website": "https://magnitude.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Magnitude is an open source inference engine that optimizes each model for your exact hardware. When you download a model, Magnitude spends up to a minute tuning its kernels to find the fastest configuration for your hardware. On the same hardware, it's 2x faster than Ollama. It works on Apple Silicon, NVIDIA, AMD, or just a CPU. One click connects it to the agent you already use (Pi, OpenCode, Hermes, Codex, and more).",
+    "long_description": "Magnitude is an open source inference engine that tunes its kernels on your hardware to find the fastest way to run each model. It's over 2x faster than Ollama and works on Apple Silicon, NVIDIA, AMD, or just a CPU. One click connects it to the agent you already use (Pi, OpenCode, Hermes, Codex, and more)",
     "one_liner": "Run open models as fast as your hardware allows",
     "team_size": 2,
     "industry": "B2B",
@@ -7742,8 +7783,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cd30717450b2c4e90d7bcd129a9d826c6faaa345.png",
     "website": "https://agentrelay.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Agent Relay helps software teams work better with coding agents, and helps those agents work better as a team. It gives Claude Code, Codex, OpenCode, and custom agents shared messaging, session history, and access to tools like GitHub, Linear, and Slack. Teams can see what every agent is doing, run checked and resumable workflows, and step in when human judgment is needed. Run it in our cloud, locally, or on your own hardware.",
-    "one_liner": "The infrastructure to run coding agents for your team",
+    "long_description": "Agent Relay lets software teams' AI coding agents message each other directly, so people stop copy/pasting between Claude Code, Codex, Cursor, and their teammates' agents. A frontend agent can ask the backend agent what an API returns, two agents can sort out a merge conflict between themselves, and your agent can answer a colleague's agent while you sleep.\r\n \r\nAgents connect wherever they run: terminals, desktop apps, phones, laptops, cloud boxes, or a Mac mini across the world. Every session goes into shared, searchable history, so decisions don't get stuck in one person's chat. You can even let a customer's agent debug with yours. Setup takes about 5 minutes: give your agent the link and it installs itself. Use our hosted version free, or self-host the open-source version",
+    "one_liner": "Let your team's coding agents message each other",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",

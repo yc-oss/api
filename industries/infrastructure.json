@@ -8736,21 +8736,21 @@
       "Opslane",
       "Octopipe"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d93b9323bb2d6146f1e9e67bf29441615e86a467.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f632f905565346c94d60925b5fcc1728cf28368.png",
     "website": "https://opslane.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Opslane verifies that AI-written code actually works. Opslane opens your app in a real browser, clicks through what the PR changed, and posts screenshots, video, and data checks as proof it works.",
-    "one_liner": "Verify AI-generated code before you ship it",
+    "long_description": "Opslane catches the bugs code review misses. On every PR, it runs your app against test versions of the services it calls, from Stripe to the LLM. Then it tries what breaks in production: a service failing, two requests at once, a restart mid-job.",
+    "one_liner": "Catch bugs that code review tools miss",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1721925789,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Open Source",
       "Enterprise",
-      "DevOps"
+      "DevOps",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -9010,16 +9010,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c4c248db416a898fa7c553e48dd6ec3f458817e5.png",
     "website": "https://www.freestyle.sh",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ben and Jacob met in Calculus class in 10th grade, and tried founding a startup in high school — it didn’t go anywhere.\r\n\r\nDuring high school, Ben lead the frontend team for the World Health Organization’s COVID-19 App Team.\r\n\r\nAfter high school, Jacob went to Apple and Ben went to college. When there was an opening on his team, Jacob had Ben apply, and Ben left UChicago to go work at Apple.\r\n\r\nThey spent about 2 years at Apple as Senior Engineers in the Conversational Engineering Department, before leaving to found Freestyle.\r\n\r\nFreestyle is directly inspired by what they saw as their failures of the tech they worked with at Apple.",
+    "long_description": "Freestyle builds the most powerful VMs for AI Agents. \r\n\r\n- **Instant Startup**: Freestyle VMs provision in milliseconds, with p99s under 400ms.\r\n- **Persistence**: Freestyle VMs can run forever, they can be hibernated with their exact memory in place and come back to life weeks later instantly, in that exact state.\r\n- **Powerful**: Freestyle VMs go up to 64GB of RAM for public tiers and much further for enterprise. Freestyle does high quality hardware virtualization supporting nested virtualization, FUSE, eBPF, full Linux networking and more. If it can run in an EC2, it can run in a Freestyle VM.\r\n- **Cheaply Snapshottable and Branchable**: Freestyle VMs are instantly and cheaply snapshottable (sub 1ms interruption, sub 50ms to snapshot ready). These snapshots can be used to create new VMs in the exact state of the original VM (memory and disk). This enables powerful workflows like branching, cloning, and rapid recovery from failures.\r\n\r\n",
     "one_liner": "The most powerful sandboxes for AI Agents",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1719115501,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Cloud Computing"
+      "Cloud Computing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -9643,17 +9643,17 @@
     "website": "https://artil.dev/",
     "all_locations": "London, England, United Kingdom",
     "long_description": "Artil gives AI agents their own email addresses and phone numbers so they can communicate and use online services. Agents can send and receive emails and text messages, sign up for services, and complete email and SMS verification. We’re building the identity and communication infrastructure for teams developing agents and people putting them to work.",
-    "one_liner": "Persistent email inbox, phone number and secret storage for agents",
+    "one_liner": "Agent identity and communication infrastructure",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1736800806,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Email",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -10489,17 +10489,18 @@
   },
   {
     "id": 30715,
-    "name": "Autumn AI",
+    "name": "Autumn",
     "slug": "autumn-ai",
     "former_names": [
-      "Chiral Labs"
+      "Chiral Labs",
+      "Autumn AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c561ac3ff3132e3dda05b6de7836b2d1b55ed1aa.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9869ac74d16e219c2c3c7a63c96b676e8281762.png",
     "website": "https://autumn.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Autumn is building the world’s most comprehensive index of people and companies.\r\n\r\nInformation about anyone is scattered across profiles, filings, event pages, code, posts, news, and the rest of the open web. Autumn reads across these sources, determines which records belong together, and creates a complete, source-backed profile of people and companies - including relationships, work history, contact information, and digital footprint.\r\n\r\nSearch for anyone, build a cohort, or research a company through our API.",
-    "one_liner": "Everything on anyone.",
-    "team_size": 2,
+    "long_description": "Autumn builds research agents that answer questions about people and companies at scale. These AI agents are powered by a live index of over 1 billion people, 100 million companies, and state-of-the-art web research tools. Autumn is already in production with enterprise teams at Brex, Rippling, PostHog across sourcing, enrichment, and identity-verification workflows.\r\n\r\nWe are a small, highly-technical team. Our vision is to be the search engine that agents use when they need to understand people, their networks, and professional lives.",
+    "one_liner": "The people-intelligence company.",
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1770313792,
@@ -10643,7 +10644,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -10728,7 +10729,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -12360,7 +12361,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Minicor connects AI startups to legacy desktop apps that have no API. Reliably, quickly and at scale.\r\n\r\nDescribe a workflow and get an API endpoint. Each call triggers a self-healing desktop automation on a Windows VM. On-prem, cloud, or Citrix. Build through your coding agent via our MCP.\r\n\r\nComplete with the observability tools to manage your customer relationship: full video replay of every automation, granular logging, and slack enabled alerts.",
     "one_liner": "Scalable windows desktop automations",
-    "team_size": 8,
+    "team_size": 9,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1772756028,
@@ -13925,6 +13926,49 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/pomerado.json"
   },
   {
+    "id": 36774,
+    "name": "ObsessionDB",
+    "slug": "obsessiondb",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d02f08af0be569fcf511900d03b0d8eccfdf473.png",
+    "website": "https://obsessiondb.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "ObsessionDB is a blazing-fast data warehouse built for the explosive amounts of data created by software and AI agents.\r\n\r\nWe make massive datasets instantly queryable at a fraction of the cost, powered by our own more efficient fork of ClickHouse®.",
+    "one_liner": "Real-time data warehouse for agents",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1792056940,
+    "tags": [
+      "Analytics",
+      "Big Data",
+      "Databases"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/obsessiondb",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/obsessiondb.json"
+  },
+  {
     "id": 36906,
     "name": "Memorable",
     "slug": "memorable",
@@ -14129,6 +14173,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/graypass",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/graypass.json"
+  },
+  {
+    "id": 37830,
+    "name": "Tilo",
+    "slug": "tilo",
+    "former_names": [
+      "Podesta AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5ee5f7b68452b3800941d6ce5bfbfacd28c318f2.png",
+    "website": "https://tilo.so",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Tilo is a Linux-based operating system built for AI agents to work alongside people. On Tilo, computer use is up to 15x cheaper than on a normal OS.\r\n\r\nToday agents use computers the way people do. They take screenshots and click through apps, which is slow, expensive, and brittle. In Tilo, every app exports actions, so agents work over MCP while people use the UI. You still see what each agent does in your apps, and anything it changes can be undone.\r\n\r\nAny number of people and agents can work in one workspace in real time, across apps. Tilo runs as your OS, in our cloud, or headless on your machine, and you can open and share any workspace from the browser.",
+    "one_liner": "A Linux-based, AI-native operating system.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1792039962,
+    "tags": [
+      "AIOps",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tilo",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/tilo.json"
   },
   {
     "id": 38061,

@@ -5468,7 +5468,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -5824,7 +5824,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -14970,23 +14970,22 @@
   },
   {
     "id": 28779,
-    "name": "Metoro",
-    "slug": "metoro",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6fa41154d43a3a3e4861f884623a00efb64e06f5.png",
-    "website": "https://metoro.io",
+    "name": "withHuman",
+    "slug": "withhuman",
+    "former_names": [
+      "Metoro"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/39484d89d4533e876c43bf392647fed770ecf14d.png",
+    "website": "https://withhuman.ai",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "Metoro is an AI SRE for teams running on Kubernetes. Run one command to get autonomous root causing and automatic fix PRs. Batteries included, telemetry is set up automatically. Go from nothing to production ready in < 5 minutes.",
-    "one_liner": "AI SRE For Teams on Kubernetes",
+    "long_description": "withHuman is an open source approval layer for AI Agents.\r\n\r\nWhen you want agents to take consequential actions like refund a customer, that's when withHuman is useful.\r\n\r\nIt is a centralized point where you can encode rules like \"refunds < $10 can be done automatically, anything more than that, send it to the on-call from customer support\". You write your rules once and connect all of your agents, no changes needed, its transparent to the agent.",
+    "one_liner": "The Approval Layer for AI Agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1689872648,
     "tags": [
-      "Developer Tools",
-      "Kubernetes",
-      "DevOps",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -15007,8 +15006,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/metoro",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/metoro.json"
+    "url": "https://www.ycombinator.com/companies/withhuman",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/withhuman.json"
   },
   {
     "id": 28789,
@@ -15137,7 +15136,7 @@
       "Odyssey AI",
       "Humanlike"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3927ff309d52d222fc423bc00c5c7f463f090703.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a9bcfe9761e073ad33344f49653b2ae4ea849d91.png",
     "website": "https://opentools.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
@@ -15147,8 +15146,8 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1688659817,
     "tags": [
-      "Marketplace",
-      "AI"
+      "Artificial Intelligence",
+      "Marketplace"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20156,7 +20155,7 @@
     "former_names": [
       "Circlemind"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6e3f2bcd9ca9ba0984a5ab69a69597d088c3b3e.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bcfa8b54cf4b1b39fd0cb9dbb6a8d775676107b8.png",
     "website": "https://smooth.sh",
     "all_locations": "London, England, United Kingdom",
     "long_description": "Smooth is an AI browser agent that can perform actions autonomously on the web using mouse and keyboard. It’s the most reliable browser agent yet, while also being 5 times faster, and 7 times cheaper than any other browser agent on the market.\r\n\r\n",
@@ -23155,7 +23154,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9292b62c58dc81055b437ce647dc7c3ea10ffc5c.png",
     "website": "https://magnitude.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Magnitude is an open source inference engine that optimizes each model for your exact hardware. When you download a model, Magnitude spends up to a minute tuning its kernels to find the fastest configuration for your hardware. On the same hardware, it's 2x faster than Ollama. It works on Apple Silicon, NVIDIA, AMD, or just a CPU. One click connects it to the agent you already use (Pi, OpenCode, Hermes, Codex, and more).",
+    "long_description": "Magnitude is an open source inference engine that tunes its kernels on your hardware to find the fastest way to run each model. It's over 2x faster than Ollama and works on Apple Silicon, NVIDIA, AMD, or just a CPU. One click connects it to the agent you already use (Pi, OpenCode, Hermes, Codex, and more)",
     "one_liner": "Run open models as fast as your hardware allows",
     "team_size": 2,
     "industry": "B2B",
@@ -26879,8 +26878,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cd30717450b2c4e90d7bcd129a9d826c6faaa345.png",
     "website": "https://agentrelay.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Agent Relay helps software teams work better with coding agents, and helps those agents work better as a team. It gives Claude Code, Codex, OpenCode, and custom agents shared messaging, session history, and access to tools like GitHub, Linear, and Slack. Teams can see what every agent is doing, run checked and resumable workflows, and step in when human judgment is needed. Run it in our cloud, locally, or on your own hardware.",
-    "one_liner": "The infrastructure to run coding agents for your team",
+    "long_description": "Agent Relay lets software teams' AI coding agents message each other directly, so people stop copy/pasting between Claude Code, Codex, Cursor, and their teammates' agents. A frontend agent can ask the backend agent what an API returns, two agents can sort out a merge conflict between themselves, and your agent can answer a colleague's agent while you sleep.\r\n \r\nAgents connect wherever they run: terminals, desktop apps, phones, laptops, cloud boxes, or a Mac mini across the world. Every session goes into shared, searchable history, so decisions don't get stuck in one person's chat. You can even let a customer's agent debug with yours. Setup takes about 5 minutes: give your agent the link and it installs itself. Use our hosted version free, or self-host the open-source version",
+    "one_liner": "Let your team's coding agents message each other",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -26922,8 +26921,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12ec3720a247bad2e5a39d162b68e217ed6b74bd.png",
     "website": "https://workers.io",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Workers IO verifies your entire system across millions of interleaving, faults, and timings to find the exact conditions that break the software properties you care about.\r\n\r\nBuilt for teams where 99.99% uptime is table-stakes. ",
-    "one_liner": "Simulation Environments for Verifying Mission Critical Software",
+    "long_description": "Workers IO verifies your entire system across millions of interleaving, faults, and timings to find the exact conditions that break the properties you care about.\r\n\r\nBuilt for teams where 99.99% uptime is table-stakes. ",
+    "one_liner": "Simulation environments for verifying mission-critical software",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",

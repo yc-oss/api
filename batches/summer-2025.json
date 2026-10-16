@@ -547,9 +547,11 @@
   },
   {
     "id": 30602,
-    "name": "Meteor",
-    "slug": "meteor",
-    "former_names": [],
+    "name": "Meteor Labs",
+    "slug": "meteor-labs",
+    "former_names": [
+      "Meteor"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/463b3d216b98b96d985f820caa0a09e2c3c9ee44.png",
     "website": "https://meteorlabs.ai",
     "all_locations": "San Francisco, CA, USA",
@@ -560,9 +562,9 @@
     "subindustry": "B2B",
     "launched_at": 1754469732,
     "tags": [
-      "Artificial Intelligence",
       "Big Data",
-      "Data Engineering"
+      "Data Engineering",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -582,8 +584,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/meteor",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/meteor.json"
+    "url": "https://www.ycombinator.com/companies/meteor-labs",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/meteor-labs.json"
   },
   {
     "id": 30603,
@@ -1300,10 +1302,10 @@
     "former_names": [
       "Verne Labs"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/08842805c015165cf0d7e591168f2b15a9e9c85a.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d892cc07af7461203238df538f63d3eafe2a9635.png",
     "website": "https://vernerobotics.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We build AI models for controlling robot arms, enabling them to learn new skills in just hours. Our robots help businesses cut costs by automating back-of-house tasks with an innovative  pay-by-the-hour business model. Our customers include a biotech unicorn, a leading biotech non-profit, and a direct to consumer apparel brand.",
+    "long_description": "Verne builds general‑purpose physical AI. We deploy robots to expand the productive capacity of the physical world.",
     "one_liner": "AI models that teach robots new skills in hours",
     "team_size": 7,
     "industry": "Industrials",
@@ -2299,7 +2301,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9292b62c58dc81055b437ce647dc7c3ea10ffc5c.png",
     "website": "https://magnitude.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Magnitude is an open source inference engine that optimizes each model for your exact hardware. When you download a model, Magnitude spends up to a minute tuning its kernels to find the fastest configuration for your hardware. On the same hardware, it's 2x faster than Ollama. It works on Apple Silicon, NVIDIA, AMD, or just a CPU. One click connects it to the agent you already use (Pi, OpenCode, Hermes, Codex, and more).",
+    "long_description": "Magnitude is an open source inference engine that tunes its kernels on your hardware to find the fastest way to run each model. It's over 2x faster than Ollama and works on Apple Silicon, NVIDIA, AMD, or just a CPU. One click connects it to the agent you already use (Pi, OpenCode, Hermes, Codex, and more)",
     "one_liner": "Run open models as fast as your hardware allows",
     "team_size": 2,
     "industry": "B2B",
@@ -2341,7 +2343,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd3787e9958fd9e9b42a9bb7223fe8689a2863a9.png",
     "website": "https://stockline.ai",
-    "all_locations": "Paris, Île-de-France, France",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "\r\nStockline is an AI-native ERP for food wholesalers. Our agents eliminate human labor for repetitive tasks, starting with order entry. \r\n\r\nOur goal is to replace clunky software with the next generation of ERPs, built with AI employees at their core.\r\n\r\nTeam is 2 Polytechnique alums who dropped out of Stanford and MIT. \r\nMariem is daughter of the fish industry and Moncef started coding and building softwares at 13. ",
     "one_liner": "AI-native ERP for food wholesalers",
     "team_size": 2,
@@ -2349,10 +2351,10 @@
     "subindustry": "B2B",
     "launched_at": 1753355964,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Food & Beverage",
-      "AI"
+      "Food & Beverage"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2364,8 +2366,8 @@
       "B2B"
     ],
     "regions": [
-      "France",
-      "Europe"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3317,7 +3319,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "The problem we solve: 56% of dealership leads arrive after business hours, and most dealers lose these potential customers to competitors who happen to be available 24/7. Missing after-hours calls alone costs the average dealership $1M annually in lost revenue.\r\n\r\nWe built Flai to fix this - AI assistants that answer dealership calls 24/7, scheduling test drives, oil changes, or running outbound recall campaigns so no opportunity slips away.\r\n\r\nThe result: No more missed opportunities, no more losing customers to competitors.\r\n\r\nOur founding team has built voice AI products at HappyRobot, scaled infrastructure at Uber for millions of users, and applied data science at Netflix to solve operational challenges.\r\n\r\nWe're not just answering phones, we're helping dealerships win in an AI-first world where availability determine who gets the sale.",
     "one_liner": "We Bring Customers to Your Dealership",
-    "team_size": 35,
+    "team_size": 40,
     "industry": "Industrials",
     "subindustry": "Industrials -> Automotive",
     "launched_at": 1751567522,
@@ -3336,7 +3338,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -3563,9 +3565,9 @@
     "subindustry": "Industrials",
     "launched_at": 1754954871,
     "tags": [
+      "Artificial Intelligence",
       "Hardware",
       "Manufacturing",
-      "AI",
       "Industrial"
     ],
     "tags_highlighted": [],
@@ -3896,7 +3898,7 @@
     "all_locations": "New York City, NY, USA",
     "long_description": "Insurance is 7% of worldwide GDP and we’re building the infrastructure for how the world handles risk",
     "one_liner": "Building the new superintelligence for insurance",
-    "team_size": 15,
+    "team_size": 7,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1754360048,
@@ -5575,7 +5577,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -6660,7 +6662,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,

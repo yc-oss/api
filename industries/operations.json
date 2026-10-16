@@ -3630,51 +3630,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/launchflow.json"
   },
   {
-    "id": 27882,
-    "name": "Velos",
-    "slug": "velos",
-    "former_names": [
-      "GradientJ"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea18b8898b03249e01295dac0dccb51928c38c2e.png",
-    "website": "https://www.tryvelos.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Velos helps non-technical operations teams automate complex, manual back-office tasks with AI workers instead of overseas teams.\r\n\r\nUnlike traditional robotic process automation (RPA) platforms like UiPath, Velos automations use machine learning to reliably handle ambiguities in their tasks, eliminating the need for an army of maintenance engineers and consultants to build and maintain your automations.\r\n\r\nWe're automating the repetitive work people hate to do.",
-    "one_liner": "Platform to automate manual back-office work",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1674503496,
-    "tags": [
-      "Artificial Intelligence",
-      "Generative AI",
-      "Reinforcement Learning",
-      "Robotic Process Automation",
-      "Automation"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/velos",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/velos.json"
-  },
-  {
     "id": 27897,
     "name": "TableFlow",
     "slug": "tableflow",
@@ -4228,7 +4183,7 @@
     "all_locations": "New York City, NY, USA",
     "long_description": "Automate and strengthen manual risk and compliance operations for fintechs and banks. Given a third party contracts and documentation, Kobalt’s reasoning engine ingests internal policies and procedures, legal commitments, past privacy and compliance assessments, and syncs with external legislation to instantly auto-surface and track risks.\r\n\r\nWe're helping community/regional/sponsor banks increase revenue and scale their partnership and vendor volume, and we're helping fintechs conduct their partner diligence in 1/10 the time, all without needing to increase headcount.\r\n",
     "one_liner": "AI-powered risk and compliance for financial institutions",
-    "team_size": 12,
+    "team_size": 13,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1688528207,
@@ -4250,7 +4205,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -6321,8 +6276,8 @@
     "website": "https://www.arzana.com/",
     "all_locations": "New York City, NY, USA",
     "long_description": "Arzana trains custom models on manufacturers' operational data to automate their quoting, order entry, invoicing, and other repetitive office work. We've saved our customers over $1.5M in avoided staff costs.\r\n\r\nIn the future, we'll expand into shop-floor automation, sending instructions to machinery and robots to produce the orders that our office agents processed. By 2035, we aim to fully automate 10,000 American factories.",
-    "one_liner": "The autonomous ERP for every manufacturer",
-    "team_size": 9,
+    "one_liner": "Adaptive AI built for manufacturers",
+    "team_size": 13,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1773098013,
@@ -6684,16 +6639,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/68fe01dae2c3bf0906f880c9a0f3fca2b2a16863.png",
     "website": "https://sona8.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sona8 is a voice agent that talks to every employee about how their work gets done. Consulting, transformation and corporate development teams spend a large part of every project on stakeholder interviews and stakeholder alignment, and still only hear from a small share of the people affected.\r\n\r\nEach employee gets a link and talks to the agent for about 20 minutes. The agent asks follow-up questions, for example why a step is still done by hand or who else is involved. From the conversations we build process maps and a list of the problems people described, by site and team.\r\n\r\nDuring the implementation, the agent goes back to the employees involved after each initiative and asks whether it was implemented and what changed. The result is a project management office that has talked to every employee. Today consulting firms buy it for the stakeholder interviews at the start of an engagement. Transformation and corporate development teams buy it to run the implementation of a change program.\r\n\r\nOver time this becomes the way a company knows how it runs. Sona8 reads the systems the company already uses, connects them to what employees said, and keeps the picture current by asking again. Before a decision, you ask what it would do across sites and teams and get an answer from the whole company. A small team steers a company-wide program that used to need a large one. And AI agents inside the company come here first to learn how the work is done before they change anything.",
-    "one_liner": "Context layer for enterprise AI surveying employees with voice agents ",
+    "long_description": "Sona8 uses AI voice agents to interview employees about how work gets done. Consulting, transformation and corporate development teams use it to hear from more people and follow up after changes.\r\n\r\nEmployees open a link and speak in their own language. The agent asks follow-up questions, and teams compare problems across sites and departments. We’ve completed 10,000+ employee interviews and signed one of the world’s top three consulting firms.\r\n\r\nWe’re building the context layer and operating system for strategy teams: combining employee knowledge with company data to understand operations, improve processes and put decisions into action. The same context will guide AI agents as they take over work, so the company keeps what it learns.",
+    "one_liner": "Context layer from employee voices to improve & automate workflows",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1788994017,
     "tags": [
-      "Artificial Intelligence",
       "HR Tech",
       "Infrastructure",
+      "AI",
       "Conversational AI"
     ],
     "tags_highlighted": [],
@@ -6717,5 +6672,50 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/sona8",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/sona8.json"
+  },
+  {
+    "id": 38358,
+    "name": "Plyxl",
+    "slug": "plyxl",
+    "former_names": [
+      "PLYX",
+      "PLYXL",
+      "Plyxl",
+      "PLYXL"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f11b86229c223b308077ff5287d39738a4aad756.png",
+    "website": "https://plyxl.com/",
+    "all_locations": "",
+    "long_description": "Plyxl is the workspace that molds to your business. It builds apps, creates automations, and works across your entire company.",
+    "one_liner": "The workspace that does the work",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1792084503,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Enterprise"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2027",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/plyxl",
+    "api": "https://yc-oss.github.io/api/batches/winter-2027/plyxl.json"
   }
 ]

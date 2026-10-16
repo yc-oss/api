@@ -685,23 +685,22 @@
   },
   {
     "id": 28779,
-    "name": "Metoro",
-    "slug": "metoro",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6fa41154d43a3a3e4861f884623a00efb64e06f5.png",
-    "website": "https://metoro.io",
+    "name": "withHuman",
+    "slug": "withhuman",
+    "former_names": [
+      "Metoro"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/39484d89d4533e876c43bf392647fed770ecf14d.png",
+    "website": "https://withhuman.ai",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "Metoro is an AI SRE for teams running on Kubernetes. Run one command to get autonomous root causing and automatic fix PRs. Batteries included, telemetry is set up automatically. Go from nothing to production ready in < 5 minutes.",
-    "one_liner": "AI SRE For Teams on Kubernetes",
+    "long_description": "withHuman is an open source approval layer for AI Agents.\r\n\r\nWhen you want agents to take consequential actions like refund a customer, that's when withHuman is useful.\r\n\r\nIt is a centralized point where you can encode rules like \"refunds < $10 can be done automatically, anything more than that, send it to the on-call from customer support\". You write your rules once and connect all of your agents, no changes needed, its transparent to the agent.",
+    "one_liner": "The Approval Layer for AI Agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1689872648,
     "tags": [
-      "Developer Tools",
-      "Kubernetes",
-      "DevOps",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -722,8 +721,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/metoro",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/metoro.json"
+    "url": "https://www.ycombinator.com/companies/withhuman",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/withhuman.json"
   },
   {
     "id": 28780,
@@ -1765,7 +1764,7 @@
       "Odyssey AI",
       "Humanlike"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3927ff309d52d222fc423bc00c5c7f463f090703.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a9bcfe9761e073ad33344f49653b2ae4ea849d91.png",
     "website": "https://opentools.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
@@ -1775,8 +1774,8 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1688659817,
     "tags": [
-      "Marketplace",
-      "AI"
+      "Artificial Intelligence",
+      "Marketplace"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3357,7 +3356,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -5443,7 +5442,7 @@
     "all_locations": "New York City, NY, USA",
     "long_description": "Automate and strengthen manual risk and compliance operations for fintechs and banks. Given a third party contracts and documentation, Kobalt’s reasoning engine ingests internal policies and procedures, legal commitments, past privacy and compliance assessments, and syncs with external legislation to instantly auto-surface and track risks.\r\n\r\nWe're helping community/regional/sponsor banks increase revenue and scale their partnership and vendor volume, and we're helping fintechs conduct their partner diligence in 1/10 the time, all without needing to increase headcount.\r\n",
     "one_liner": "AI-powered risk and compliance for financial institutions",
-    "team_size": 12,
+    "team_size": 13,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1688528207,
@@ -5465,7 +5464,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
