@@ -219,6 +219,49 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2020/fly-io.json"
   },
   {
+    "id": 22108,
+    "name": "Ready",
+    "slug": "ready",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1ac7d4d42d82d2423bb634e41e990a6d65348212.png",
+    "website": "https://ready.net",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Ready builds AI-ready enclosures to ensure AI delivers what people need, when and where they need it. ",
+    "one_liner": "Ensuring AI delivers what people need, when and where they need it,…",
+    "team_size": 75,
+    "industry": "Government",
+    "subindustry": "Government",
+    "launched_at": 1597926325,
+    "tags": [
+      "Hardware",
+      "Telecommunications",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2020",
+    "status": "Active",
+    "industries": [
+      "Government"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ready",
+    "api": "https://yc-oss.github.io/api/batches/summer-2020/ready.json"
+  },
+  {
     "id": 22713,
     "name": "SpruceID",
     "slug": "spruceid",
@@ -1741,7 +1784,7 @@
     "all_locations": "New York City, NY, USA",
     "long_description": "We're building the unified marketing measurement stack for online stores. We make it easy for marketeers to understand where their customers come from, cut unprofitable channels, and scale when things are working.\r\n\r\nWe are vertically integrating the modern data stack for marketing teams of online stores by consolidating customer data collection, consent management, identity resolution, transformations, attribution, data forwarding, and analytics into a single platform.",
     "one_liner": "All-in-one marketing measurement for B2C",
-    "team_size": 6,
+    "team_size": 11,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1687127368,
@@ -5946,6 +5989,47 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/runtimesi.json"
   },
   {
+    "id": 34629,
+    "name": "Simulithic",
+    "slug": "simulithic",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/58a972cb3cb171dd4300267d241cc6705539f906.png",
+    "website": "https://simulithic.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "AI made writing code fast. Testing it is still slow. Simulithic sends AI users through your app on every phone, browser and account type your customers use, so you can ship as fast as you can code, without writing or maintaining a single test.",
+    "one_liner": "AI users that test your app on every device and browser",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1786468833,
+    "tags": [
+      "Developer Tools",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/simulithic",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/simulithic.json"
+  },
+  {
     "id": 35093,
     "name": "Aviern",
     "slug": "aviern",
@@ -6208,7 +6292,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12ec3720a247bad2e5a39d162b68e217ed6b74bd.png",
     "website": "https://workers.io",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Workers IO verifies your entire system across millions of interleaving, faults, and timings to find the exact conditions that break the properties you care about.\r\n\r\nBuilt for teams where 99.99% uptime is table-stakes. ",
+    "long_description": "Workers IO is building deterministic simulation environments to verify mission-critical software. We run your entire system through millions of production scenarios and prove that its properties hold in every one.\r\n\r\nThe problem:\r\n\r\nCoding agents write code faster than teams can review it. At the same time, software and the infrastructure under it grow more complex every year. Tests only checks a few cases someone wrote, in isolation, in an environment that does not match production. Making the most expensive failures reach production first.\r\n\r\nOur solution:\r\n\r\nWe run your system unmodified in our simulation environments, against network partitions, disk failures, crashes, and clock drift. We build those fault models for you and verify every promise across millions of scenarios. Because these simulations are deterministic, every failure is perfectly reproducible. No one writes scenarios by hand, so verification becomes a compute problem.",
     "one_liner": "Simulation environments for verifying mission-critical software",
     "team_size": 2,
     "industry": "B2B",
@@ -6340,9 +6424,9 @@
     "subindustry": "B2B -> Operations",
     "launched_at": 1788994017,
     "tags": [
+      "Artificial Intelligence",
       "HR Tech",
       "Infrastructure",
-      "AI",
       "Conversational AI"
     ],
     "tags_highlighted": [],
@@ -6424,10 +6508,10 @@
     "subindustry": "B2B",
     "launched_at": 1791916413,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Open Source",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6507,9 +6591,9 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1790745772,
     "tags": [
+      "Artificial Intelligence",
       "API",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6541,7 +6625,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/824e97773961053f47e92f9a1a6fd805d2328d0b.png",
     "website": "https://www.graypass.org",
     "all_locations": "Toronto, ON, Canada",
-    "long_description": "Login tells you who signed in. GrayPass verifies the expected person is still in control before consequential actions happen. We use cognitive biometrics like typing rhythm, cursor movement, scrolling, and response timing alongside session and device context to continuously establish assurance.\r\n\r\nBefore actions like approving a payment, changing admin permissions, exporting sensitive data, or letting an AI agent act on someone’s behalf, GrayPass returns allow, challenge, hold, or deny and produces signed proof tied to that action.",
+    "long_description": "Login tells you who signed in. GrayPass helps apps check who’s behind sensitive actions and whether they’re authorized before those actions go through.\r\n\r\nIt combines identity, device and session context with behavioral signals like typing rhythm, cursor movement and scrolling. Before a sensitive action goes through, GrayPass evaluates that evidence against your team’s policy and returns a decision: allow, challenge, hold or deny. Your app enforces the decision.\r\n\r\nThis applies to actions like exporting sensitive data, changing admin permissions or allowing an AI agent to act on someone’s behalf. Allowed actions receive short-lived, signed proof tied to the exact action and your app.\r\n\r\nYour existing login and authentication stack stays in place.",
     "one_liner": "Verify that the expected person is in control before key actions.",
     "team_size": 2,
     "industry": "B2B",

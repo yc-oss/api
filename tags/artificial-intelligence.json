@@ -8997,7 +8997,7 @@
     ],
     "stage": "Early",
     "app_video_public": false,
-    "demo_day_video_public": false,
+    "demo_day_video_public": true,
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/firstquadrant",
@@ -14534,7 +14534,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -16659,10 +16659,10 @@
     "former_names": [
       "GradientJ"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea18b8898b03249e01295dac0dccb51928c38c2e.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1521d60e05f3fa5d010d16b7722a46d4fb586f90.png",
     "website": "https://www.tryvelos.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Velos helps insurance carriers and MGAs automate complex, manual back-office tasks with AI workers instead of overseas teams.\r\n\r\nUnlike traditional robotic process automation (RPA) platforms like UiPath, Velos automations use machine learning to reliably handle ambiguities in their tasks, eliminating the need for an army of maintenance engineers and consultants to build and maintain your automations.\r\n\r\nWe're automating the repetitive work people hate to do.",
+    "long_description": "Velos helps insurance carriers and MGAs automate complex, manual back-office tasks with AI workers instead of overseas teams.\r\n\r\nWe take over workflows with the same responsibility of a traditional overseas Business Process Outsourcing (BPO) firm: mapping the customer’s existing process, creating the SOP, building the automation, and continuously improving the workflow after launch. \r\n\r\nUnlike other \"automation platforms\" we don't rely on our customers to build and manage the workflow, we take over it for them like a traditional outsourcing firm.\r\n\r\nWe're automating the repetitive work people hate to do.",
     "one_liner": "AI BPO for Specialty Insurance MGAs",
     "team_size": 3,
     "industry": "Fintech",
@@ -30370,6 +30370,53 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/abundant.json"
   },
   {
+    "id": 30087,
+    "name": "Gecko Security",
+    "slug": "gecko-security",
+    "former_names": [
+      "Gecko Security Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/45adce9bea5991ec16d5af841bb7bca96948baf2.png",
+    "website": "https://gecko.security",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "We built Gecko for teams that want to build secure code quickly without wasting time on security tools that don’t deliver results, or relying on one-time human pentests that quickly become outdated. Gecko uses AI to understand how your application should work, simulates relevant attacks to find critical vulnerabilities, and then verifies these vulnerabilities by exploiting them. It also helps you understand the risk of these vulnerabilities and applies a working fix to keep your code secure.",
+    "one_liner": "Security that understands your company",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1729014786,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Security",
+      "Cybersecurity"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/gecko-security",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/gecko-security.json"
+  },
+  {
     "id": 30095,
     "name": "Consus",
     "slug": "consus",
@@ -30542,6 +30589,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/diffusion-studio",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/diffusion-studio.json"
+  },
+  {
+    "id": 30103,
+    "name": "Metreecs",
+    "slug": "metreecs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0896c8d6a3292048c3275f782ddd6f5a282d3e4a.png",
+    "website": "https://www.metreecs.com",
+    "all_locations": "Paris, Île-de-France, France",
+    "long_description": "Metreecs helps retailers plan, buy, and allocate products using AI-demand forecasting. We prevent overstock and out-of-stock situations, allowing clients to eliminate waste, free up capital, and drive higher sales.",
+    "one_liner": "AI-powered demand forecasting for retail",
+    "team_size": 20,
+    "industry": "B2B",
+    "subindustry": "B2B -> Retail",
+    "launched_at": 1729012958,
+    "tags": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Retail Tech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Retail"
+    ],
+    "regions": [
+      "France",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/metreecs",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/metreecs.json"
   },
   {
     "id": 30113,
@@ -33909,6 +33997,50 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/cartpole.json"
   },
   {
+    "id": 30503,
+    "name": "Vesence",
+    "slug": "vesence",
+    "former_names": [
+      "Verse Law",
+      "Verse"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae7f81743afec55a338f8ebe26d07f21e2696ebc.png",
+    "website": "https://vesence.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Vesence is a computer built for agents doing 99% of the work. \r\n\r\nDevice-agnostic and model-agnostic, it brings your inbox, files, browser, and tools into one workspace. Run Claude Code and Codex, direct agents in parallel, and stay in control from any device.",
+    "one_liner": "The Agent-Native Computer",
+    "team_size": 10,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1747133222,
+    "tags": [
+      "Artificial Intelligence",
+      "Finance",
+      "B2B",
+      "Legal"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/vesence",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/vesence.json"
+  },
+  {
     "id": 30509,
     "name": "Boost Robotics",
     "slug": "boost-robotics",
@@ -36629,49 +36761,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/pleom.json"
   },
   {
-    "id": 30755,
-    "name": "Pally",
-    "slug": "pally",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/849f2561c7a883d8d5d6523f27f8404ee02820ed.png",
-    "website": "https://pally.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "You text Pally like you’d text a friend, and it connects to everything else: your inboxes, calendar, files, tasks and the web",
-    "one_liner": "Your personal AI Assistant",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1750346506,
-    "tags": [
-      "Artificial Intelligence",
-      "Consumer",
-      "B2B",
-      "Productivity",
-      "Search"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pally",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/pally.json"
-  },
-  {
     "id": 30756,
     "name": "Notte",
     "slug": "notte",
@@ -37139,7 +37228,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -37656,52 +37745,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/norra",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/norra.json"
-  },
-  {
-    "id": 30871,
-    "name": "Bron",
-    "slug": "bron",
-    "former_names": [
-      "PlayVision AI",
-      "PlayVision",
-      "PlayVision AI",
-      "PlayVision"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/322e036fa9ab0e06f47840b20ad078b02e03e79b.png",
-    "website": "https://apps.apple.com/app/apple-store/id6761323087?pt=128695024&ct=anish&mt=",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Bron is the Tiktok for sports betting. Scroll through recommended bets across 150+ sportsbooks and prediction markets and place them automatically.\r\n\r\nDownload Bron on the App Store here: https://apps.apple.com/us/app/bron-ai-sports-analysis/id6761323087",
-    "one_liner": "TikTok for Sports Trading",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1761579619,
-    "tags": [
-      "Artificial Intelligence",
-      "Sports Tech",
-      "Analytics",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/bron",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/bron.json"
   },
   {
     "id": 30873,
@@ -40089,6 +40132,49 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/servo7.json"
   },
   {
+    "id": 31226,
+    "name": "Libra Robotics",
+    "slug": "libra-robotics",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e588f98ac537da3d55ea3c2b43b0bd505524c7f8.png",
+    "website": "https://www.librabots.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Infrastructure faces rapid expansion and labor shortages. Today, robots struggle to scale to meet customers’ high-mix work needs. Libra builds AI that engineers robots for new tasks across embodiments. We go from each new infra task to field-deployable robots 10x faster. Today, our robots are working on solar farms and piloting in data centers. Contractors pay for completed work as a service, not robots.",
+    "one_liner": "The robot workforce for infrastructure",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1783647531,
+    "tags": [
+      "Artificial Intelligence",
+      "Hard Tech",
+      "Robotics",
+      "Construction",
+      "Energy"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/libra-robotics",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/libra-robotics.json"
+  },
+  {
     "id": 31243,
     "name": "Foreman",
     "slug": "foreman",
@@ -41099,6 +41185,49 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/revnu.json"
   },
   {
+    "id": 31545,
+    "name": "Modern",
+    "slug": "modern",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bc2a391c24694c5a70f0448e5a56886ff59f5cdc.png",
+    "website": "https://getmodern.ai",
+    "all_locations": "Melbourne, VIC, Australia",
+    "long_description": "Modern is the AI coworker that automates the full order-to-cash journey for global finance teams. ",
+    "one_liner": "Modern automates the entire order-to-cash process for B2B companies.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1775918136,
+    "tags": [
+      "Artificial Intelligence",
+      "Finance",
+      "B2B",
+      "Enterprise",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "Australia",
+      "Oceania"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/modern",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/modern.json"
+  },
+  {
     "id": 31555,
     "name": "rekursiv.ai",
     "slug": "rekursivai",
@@ -41225,6 +41354,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rindler",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/rindler.json"
+  },
+  {
+    "id": 31592,
+    "name": "GitCafe",
+    "slug": "gitcafe",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/10ae63bcc494b6d92bd37c0a46800fc12762436c.png",
+    "website": "https://git.cafe",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We build GitHub for agents. We're rebuilding the infrastructure for the next hundred billion commits and CI jobs with hundreds of engineers already making the move.",
+    "one_liner": "The Git forge for the next hundred billion commits",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1785301269,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "DevOps"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/gitcafe",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/gitcafe.json"
   },
   {
     "id": 31825,
@@ -42516,6 +42689,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/traceforce",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/traceforce.json"
+  },
+  {
+    "id": 32520,
+    "name": "Cerenovus",
+    "slug": "cerenovus",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a13c4ae7edff5a24b83b854a2058c28537c3a533.png",
+    "website": "https://snowstone.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Snowstone helps private equity firms drive operational value creation with AI. It's like a performance improvement engagement from a top consulting firm, but built from the company's own data, delivered in one week, and with every finding traced to its source. Today, private equity firms rely on consultants to find where portfolio companies can improve. That work depends on interviews and data requests, so the conclusions are secondhand, biased by internal politics and hard to check. Snowstone goes straight to the source data. It analyzes how a portfolio company actually operates and identifies automation potential, duplicated work, process bottlenecks and key-person risk, each quantified by its EBITDA impact.",
+    "one_liner": "AI-Driven Value Creation and Margin Expansion for Private Equity",
+    "team_size": null,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1780900630,
+    "tags": [
+      "Artificial Intelligence",
+      "Finance",
+      "Operations"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cerenovus",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/cerenovus.json"
   },
   {
     "id": 32523,
@@ -44489,45 +44703,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/sentient-os.json"
   },
   {
-    "id": 34629,
-    "name": "Simulithic",
-    "slug": "simulithic",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/58a972cb3cb171dd4300267d241cc6705539f906.png",
-    "website": "https://simulithic.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Simulithic continuously uses your production product like your real users do. We learn representative user journeys and run user simulations across different devices, browsers, account states, and environments to find failures that traditional scripted end-to-end tests miss. ",
-    "one_liner": "AI users that test your app on every device and browser",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1786468833,
-    "tags": [
-      "Artificial Intelligence"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/simulithic",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/simulithic.json"
-  },
-  {
     "id": 34794,
     "name": "Petrichor",
     "slug": "petrichor",
@@ -44738,6 +44913,49 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/altair-health.json"
   },
   {
+    "id": 35128,
+    "name": "Talos",
+    "slug": "talos-us",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/adf2f2d3e67de554b1df8a77cdc1d6dd943928ec.png",
+    "website": "https://www.talos-us.com/",
+    "all_locations": "Baltimore, MD, USA",
+    "long_description": "At Talos, we are building better, more modern predictive maintenance for the power industry with a focus on large transformers. Our devices continuously monitor critical power equipment and detect problems early on using anomaly-detection models. For each fault, we provide detailed analyses of the problem, exactly where and why it happened, as well as next steps teams should take. ",
+    "one_liner": "Predictive maintenance for power infrastructure.",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Energy",
+    "launched_at": 1787763466,
+    "tags": [
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Hardware",
+      "IoT",
+      "Energy"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Energy"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/talos-us",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/talos-us.json"
+  },
+  {
     "id": 35190,
     "name": "Lantern AI",
     "slug": "lantern-ai",
@@ -44745,7 +44963,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b98395722e26f62e5f8c6de59c2dd27361270ec7.png",
     "website": "https://www.lantern.md",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lantern learns what exceptional looks like for your team, pressure-tests the role against the real talent market, then runs the hiring loop: sourcing, inbound applications, interviews, assessments, candidate communication, and offers.",
+    "long_description": "Lantern is the agentic recruiting platform for enterprise. Traction: 1M ARR in 11 months, with clients like Crypto.com, Hyatt Hotel, Baker McKenzie across 10 markets\r\n\r\nLantern runs on: \r\n(1) World People Model, a live talent graph of a billion professionals that knows who’s exceptional, reachable, and about to move\r\n(2) Company Hiring Model, which learns your taste from every hiring decision you’ve ever made\r\n\r\nTogether, our agents plug into your existing systems and run the whole workflow: sourcing, application review, AI interviews, meeting intelligence, and analytics, under universal context. ",
     "one_liner": "Turn Your Taste Into Hires",
     "team_size": 4,
     "industry": "B2B",
@@ -44953,11 +45171,11 @@
     "name": "Agent Relay",
     "slug": "agent-relay",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cd30717450b2c4e90d7bcd129a9d826c6faaa345.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/819b1618d86a223b725a999a980a27a830ef8441.png",
     "website": "https://agentrelay.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Agent Relay lets software teams' AI coding agents message each other directly, so people stop copy/pasting between Claude Code, Codex, Cursor, and their teammates' agents. A frontend agent can ask the backend agent what an API returns, two agents can sort out a merge conflict between themselves, and your agent can answer a colleague's agent while you sleep.\r\n \r\nAgents connect wherever they run: terminals, desktop apps, phones, laptops, cloud boxes, or a Mac mini across the world. Every session goes into shared, searchable history, so decisions don't get stuck in one person's chat. You can even let a customer's agent debug with yours. Setup takes about 5 minutes: give your agent the link and it installs itself. Use our hosted version free, or self-host the open-source version",
-    "one_liner": "Let your team's coding agents message each other",
+    "one_liner": "Let your teams' coding agents message each other",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -45458,6 +45676,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/resin-technologies.json"
   },
   {
+    "id": 36081,
+    "name": "Polemos Industries",
+    "slug": "polemos-industries",
+    "former_names": [
+      "Lokberg Industries"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/52d6be23c1a08e2020010a26b5bd336554572d38.png",
+    "website": "https://lokberg.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Precision strike is rationed. Forces see more targets than they can afford to hit.\r\n\r\nPolemos builds AI-guided ballistic missiles and the compact launchers that fire them, designed for mass manufacturing. Our launchers form a strike network wired into the recon drones already in the sky: a drone geolocates a target, the nearest launcher fires, and a guided round lands in seconds.\r\n\r\nShort range, no wasted kilometers, no modified trucks. Built on production lines that already exist, so output scales when it matters most.",
+    "one_liner": "AI-guided ballistic missiles, cheap enough to field in numbers that…",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Defense",
+    "launched_at": 1791838393,
+    "tags": [
+      "Artificial Intelligence",
+      "Defense"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/polemos-industries",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/polemos-industries.json"
+  },
+  {
     "id": 36279,
     "name": "Native",
     "slug": "native",
@@ -45628,6 +45888,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/uxduck.json"
   },
   {
+    "id": 36777,
+    "name": "Sona8",
+    "slug": "sona8",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/68fe01dae2c3bf0906f880c9a0f3fca2b2a16863.png",
+    "website": "https://sona8.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sona8 uses AI voice agents to interview employees about how work gets done. Consulting, transformation and corporate development teams use it to hear from more people and follow up after changes.\r\n\r\nEmployees open a link and speak in their own language. The agent asks follow-up questions, and teams compare problems across sites and departments. We’ve completed 10,000+ employee interviews and signed one of the world’s top three consulting firms.\r\n\r\nWe’re building the context layer and operating system for strategy teams: combining employee knowledge with company data to understand operations, improve processes and put decisions into action. The same context will guide AI agents as they take over work, so the company keeps what it learns.",
+    "one_liner": "Context layer from employee voices to improve & automate workflows",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1788994017,
+    "tags": [
+      "Artificial Intelligence",
+      "HR Tech",
+      "Infrastructure",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/sona8",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/sona8.json"
+  },
+  {
     "id": 36972,
     "name": "Composal",
     "slug": "composal",
@@ -45672,23 +45974,24 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/composal.json"
   },
   {
-    "id": 37038,
-    "name": "Caveman",
-    "slug": "caveman",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/255bbf73f87bb02fde740dd7da4814d8d2b5f4e1.png",
-    "website": "https://caveman.so",
-    "all_locations": "Amsterdam, NH, Netherlands",
-    "long_description": "Caveman is the optimization stack for AI agents. It observes real agent workloads, finds cost and performance inefficiencies, tests improvements, and safely deploys the ones that work.",
-    "one_liner": "Caveman cuts what AI agents cost without making them dumber.",
-    "team_size": 1,
+    "id": 37238,
+    "name": "Terse",
+    "slug": "useterse",
+    "former_names": [
+      "Terse Inc. dba Terse AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/21712c0189bc22ccc5e9bfeb15e67a527077b8f7.png",
+    "website": "https://www.useterse.ai/",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "We build infrastructure to power agentic systems such as software factories, multiplayer agent frameworks and agent coordination.",
+    "one_liner": "Durable state for AI agents",
+    "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1791916413,
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1790745772,
     "tags": [
       "Artificial Intelligence",
-      "Developer Tools",
-      "Open Source",
+      "API",
       "Infrastructure"
     ],
     "tags_highlighted": [],
@@ -45698,19 +46001,20 @@
     "batch": "Fall 2026",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Infrastructure"
     ],
     "regions": [
-      "Netherlands",
-      "Europe"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/caveman",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/caveman.json"
+    "url": "https://www.ycombinator.com/companies/useterse",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/useterse.json"
   },
   {
     "id": 37273,

@@ -7577,7 +7577,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -11791,7 +11791,7 @@
     "all_locations": "New York City, NY, USA; Remote",
     "long_description": "Rally is agentic user research infrastructure. Our agent runs recruitment end to end, from finding participants through scheduling and sending incentives. Underneath, our infrastructure enforces the guardrails enterprises require: consent, permissions, templates, data governance, and more. Trusted by teams building the future of product research: Google, Meta, Ramp, Figma, and Perplexity.\r\n\r\nTalk to your users today with Rally.",
     "one_liner": "Agentic User Research Infrastructure",
-    "team_size": 35,
+    "team_size": 33,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1645632239,
@@ -24992,9 +24992,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d12b5cddde967f28e71a5bdfa173bbd8e7a0b10c.png",
     "website": "https://syntheticsciences.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Synthetic Sciences is a research lab building infrastructure for scientific superintelligence. Empirical science is bottlenecked by verification that is slow, expensive, and imperfect. We work on tooling, evals, training environments, algorithms, and models that make autonomous science possible.",
+    "long_description": "Synthetic Sciences is a research lab building infrastructure for scientific superintelligence. Empirical science is bottlenecked by verification that is slow, expensive, and imperfect. We work on tooling, evals, training environments, algorithms, and labs that make autonomous science possible.",
     "one_liner": "Infrastructure for Autonomous Science",
-    "team_size": 2,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1770489645,
@@ -25508,49 +25508,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/lightsprint",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/lightsprint.json"
-  },
-  {
-    "id": 31368,
-    "name": "Zenbu",
-    "slug": "zenbu-2",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cac51a9c6d5e214ddcaeb4498d21b0b6a8e87e58.png",
-    "website": "https://www.zenbu.dev/",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "https://github.com/zenbu-labs/terminal-browser",
-    "one_liner": "The browser for agentic development",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1780458165,
-    "tags": [
-      "Developer Tools",
-      "Open Source",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/zenbu-2",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/zenbu-2.json"
   },
   {
     "id": 31371,
@@ -26667,14 +26624,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/58a972cb3cb171dd4300267d241cc6705539f906.png",
     "website": "https://simulithic.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Simulithic continuously uses your production product like your real users do. We learn representative user journeys and run user simulations across different devices, browsers, account states, and environments to find failures that traditional scripted end-to-end tests miss. ",
+    "long_description": "AI made writing code fast. Testing it is still slow. Simulithic sends AI users through your app on every phone, browser and account type your customers use, so you can ship as fast as you can code, without writing or maintaining a single test.",
     "one_liner": "AI users that test your app on every device and browser",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1786468833,
     "tags": [
-      "Artificial Intelligence"
+      "Developer Tools",
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -26875,11 +26834,11 @@
     "name": "Agent Relay",
     "slug": "agent-relay",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cd30717450b2c4e90d7bcd129a9d826c6faaa345.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/819b1618d86a223b725a999a980a27a830ef8441.png",
     "website": "https://agentrelay.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Agent Relay lets software teams' AI coding agents message each other directly, so people stop copy/pasting between Claude Code, Codex, Cursor, and their teammates' agents. A frontend agent can ask the backend agent what an API returns, two agents can sort out a merge conflict between themselves, and your agent can answer a colleague's agent while you sleep.\r\n \r\nAgents connect wherever they run: terminals, desktop apps, phones, laptops, cloud boxes, or a Mac mini across the world. Every session goes into shared, searchable history, so decisions don't get stuck in one person's chat. You can even let a customer's agent debug with yours. Setup takes about 5 minutes: give your agent the link and it installs itself. Use our hosted version free, or self-host the open-source version",
-    "one_liner": "Let your team's coding agents message each other",
+    "one_liner": "Let your teams' coding agents message each other",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -26921,7 +26880,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12ec3720a247bad2e5a39d162b68e217ed6b74bd.png",
     "website": "https://workers.io",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Workers IO verifies your entire system across millions of interleaving, faults, and timings to find the exact conditions that break the properties you care about.\r\n\r\nBuilt for teams where 99.99% uptime is table-stakes. ",
+    "long_description": "Workers IO is building deterministic simulation environments to verify mission-critical software. We run your entire system through millions of production scenarios and prove that its properties hold in every one.\r\n\r\nThe problem:\r\n\r\nCoding agents write code faster than teams can review it. At the same time, software and the infrastructure under it grow more complex every year. Tests only checks a few cases someone wrote, in isolation, in an environment that does not match production. Making the most expensive failures reach production first.\r\n\r\nOur solution:\r\n\r\nWe run your system unmodified in our simulation environments, against network partitions, disk failures, crashes, and clock drift. We build those fault models for you and verify every promise across millions of scenarios. Because these simulations are deterministic, every failure is perfectly reproducible. No one writes scenarios by hand, so verification becomes a compute problem.",
     "one_liner": "Simulation environments for verifying mission-critical software",
     "team_size": 2,
     "industry": "B2B",
@@ -27082,6 +27041,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/resin-technologies",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/resin-technologies.json"
+  },
+  {
+    "id": 37896,
+    "name": "Aucert",
+    "slug": "aucert",
+    "former_names": [
+      "Aucert Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fcf314b4f1f24f66082b93a3ec4084c76234c436.png",
+    "website": "https://www.aucert.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Top apps need weeks and multiple teams to test every release. Aucert does it in hours, and plugs into agentic coding workflows so issues get fixed in the same loop.\r\n\r\nAgents: Functional QA · Accessibility · Google Play Policy · App Store Policy\r\n\r\nNext: Performance · Security. DM if you need either.",
+    "one_liner": "A team of expert AI agents that test mobile apps on their own.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1792125836,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/aucert",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/aucert.json"
   },
   {
     "id": 38391,

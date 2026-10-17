@@ -4543,7 +4543,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -4970,6 +4970,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dataland",
     "api": "https://yc-oss.github.io/api/batches/summer-2020/dataland.json"
+  },
+  {
+    "id": 22108,
+    "name": "Ready",
+    "slug": "ready",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1ac7d4d42d82d2423bb634e41e990a6d65348212.png",
+    "website": "https://ready.net",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Ready builds AI-ready enclosures to ensure AI delivers what people need, when and where they need it. ",
+    "one_liner": "Ensuring AI delivers what people need, when and where they need it,…",
+    "team_size": 75,
+    "industry": "Government",
+    "subindustry": "Government",
+    "launched_at": 1597926325,
+    "tags": [
+      "Hardware",
+      "Telecommunications",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2020",
+    "status": "Active",
+    "industries": [
+      "Government"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ready",
+    "api": "https://yc-oss.github.io/api/batches/summer-2020/ready.json"
   },
   {
     "id": 22126,
@@ -6808,7 +6851,7 @@
     ],
     "stage": "Early",
     "app_video_public": false,
-    "demo_day_video_public": false,
+    "demo_day_video_public": true,
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/firstquadrant",
@@ -21181,7 +21224,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -25284,7 +25327,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -26863,53 +26906,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/chicory.json"
   },
   {
-    "id": 30087,
-    "name": "Gecko Security",
-    "slug": "gecko-security",
-    "former_names": [
-      "Gecko Security Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/475ae1459a273ef4827fe78aeed097961151b782.png",
-    "website": "https://gecko.security",
-    "all_locations": "London, England, United Kingdom",
-    "long_description": "We built Gecko for teams that want to build secure code quickly without wasting time on security tools that don’t deliver results, or relying on one-time human pentests that quickly become outdated. Gecko uses AI to understand how your application should work, simulates relevant attacks to find critical vulnerabilities, and then verifies these vulnerabilities by exploiting them. It also helps you understand the risk of these vulnerabilities and applies a working fix to keep your code secure.",
-    "one_liner": "The AI Security Engineer to Find and Fix Vulnerabilities ",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1729014786,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Security",
-      "Cybersecurity",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United Kingdom",
-      "Europe",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/gecko-security",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/gecko-security.json"
-  },
-  {
     "id": 30088,
     "name": "PermitPortal",
     "slug": "permitportal",
@@ -27086,47 +27082,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/diffusion-studio",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/diffusion-studio.json"
-  },
-  {
-    "id": 30103,
-    "name": "Metreecs",
-    "slug": "metreecs",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0896c8d6a3292048c3275f782ddd6f5a282d3e4a.png",
-    "website": "https://www.metreecs.com",
-    "all_locations": "Paris, Île-de-France, France",
-    "long_description": "Metreecs helps retailers plan, buy, and allocate products using AI-demand forecasting. We prevent overstock and out-of-stock situations, allowing clients to eliminate waste, free up capital, and drive higher sales.",
-    "one_liner": "AI-powered demand forecasting for retail",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B -> Retail",
-    "launched_at": 1729012958,
-    "tags": [
-      "Machine Learning",
-      "Retail Tech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Retail"
-    ],
-    "regions": [
-      "France",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/metreecs",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/metreecs.json"
   },
   {
     "id": 30105,
@@ -28186,7 +28141,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -30602,50 +30557,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/besimple-ai.json"
   },
   {
-    "id": 30503,
-    "name": "Vesence",
-    "slug": "vesence",
-    "former_names": [
-      "Verse Law",
-      "Verse"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae7f81743afec55a338f8ebe26d07f21e2696ebc.png",
-    "website": "https://vesence.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Vesence is a computer built for agents doing 99% of the work. \r\n\r\nDevice-agnostic and model-agnostic, it brings your inbox, files, browser, and tools into one workspace. Run Claude Code and Codex, direct agents in parallel, and stay in control from any device.",
-    "one_liner": "The Agent-Native Computer",
-    "team_size": 10,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1747133222,
-    "tags": [
-      "Finance",
-      "B2B",
-      "Legal",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/vesence",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/vesence.json"
-  },
-  {
     "id": 30510,
     "name": "Cactus Compute",
     "slug": "cactus-compute",
@@ -32785,6 +32696,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/pleom.json"
   },
   {
+    "id": 30755,
+    "name": "Pally",
+    "slug": "pally",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/849f2561c7a883d8d5d6523f27f8404ee02820ed.png",
+    "website": "https://pally.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "You text Pally like you’d text a friend, and it connects to everything else: your inboxes, calendar, files, tasks and the web",
+    "one_liner": "Your personal AI Assistant",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1750346506,
+    "tags": [
+      "Consumer",
+      "B2B",
+      "Productivity",
+      "Search",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pally",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/pally.json"
+  },
+  {
     "id": 30759,
     "name": "Certus AI",
     "slug": "certus-ai",
@@ -33593,6 +33547,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/soren",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/soren.json"
+  },
+  {
+    "id": 30871,
+    "name": "Bron",
+    "slug": "bron",
+    "former_names": [
+      "PlayVision AI",
+      "PlayVision",
+      "PlayVision AI",
+      "PlayVision"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/322e036fa9ab0e06f47840b20ad078b02e03e79b.png",
+    "website": "https://apps.apple.com/app/apple-store/id6761323087?pt=128695024&ct=anish&mt=",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Bron is the Tiktok for sports betting. Scroll through recommended bets across 150+ sportsbooks and prediction markets and place them automatically.\r\n\r\nDownload Bron on the App Store here: https://apps.apple.com/us/app/bron-ai-sports-analysis/id6761323087",
+    "one_liner": "TikTok for Sports Betting",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1761579619,
+    "tags": [
+      "Sports Tech",
+      "Analytics",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bron",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/bron.json"
   },
   {
     "id": 30875,
@@ -35211,7 +35211,7 @@
     "website": "https://www.traverse.so",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "Research lab solving non-verifiable work",
+    "one_liner": "Custom models and inference, built and run for enterprises",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -35449,49 +35449,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/superset",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/superset.json"
-  },
-  {
-    "id": 31226,
-    "name": "Libra Robotics",
-    "slug": "libra-robotics",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e588f98ac537da3d55ea3c2b43b0bd505524c7f8.png",
-    "website": "https://www.librabots.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Infrastructure faces a labor shortage, but robots struggle to scale with high-mix work. Libra builds AI that engineers robots for new tasks across embodiments, cutting zero-to-deployment time from months to days. We deploy across solar farms, data centers, and beyond. Customers pay for completed work, not robots. Our goal is to achieve 100 million hours of robotic work annually by 2031.",
-    "one_liner": "The robot workforce for infrastructure",
-    "team_size": 2,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1783647531,
-    "tags": [
-      "Hard Tech",
-      "Robotics",
-      "Construction",
-      "Energy",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/libra-robotics",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/libra-robotics.json"
   },
   {
     "id": 31230,
@@ -36366,49 +36323,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/discovered-materials.json"
   },
   {
-    "id": 31368,
-    "name": "Zenbu",
-    "slug": "zenbu-2",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cac51a9c6d5e214ddcaeb4498d21b0b6a8e87e58.png",
-    "website": "https://www.zenbu.dev/",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "https://github.com/zenbu-labs/terminal-browser",
-    "one_liner": "The browser for agentic development",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1780458165,
-    "tags": [
-      "Developer Tools",
-      "Open Source",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/zenbu-2",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/zenbu-2.json"
-  },
-  {
     "id": 31376,
     "name": "Light Anchor",
     "slug": "light-anchor",
@@ -37047,50 +36961,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/conus",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/conus.json"
-  },
-  {
-    "id": 31592,
-    "name": "GitCafe",
-    "slug": "gitcafe",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7253a933be3a143635c29e5c657cccd546868c00.png",
-    "website": "https://git.cafe",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We build GitHub for agents. We're rebuilding the infrastructure for the next hundred billion commits and CI jobs with hundreds of engineers already making the move.",
-    "one_liner": "The Git forge for the next hundred billion commits",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1785301269,
-    "tags": [
-      "Developer Tools",
-      "B2B",
-      "DevOps",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/gitcafe",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/gitcafe.json"
   },
   {
     "id": 31858,
@@ -39892,6 +39762,47 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/sentient-os.json"
   },
   {
+    "id": 34629,
+    "name": "Simulithic",
+    "slug": "simulithic",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/58a972cb3cb171dd4300267d241cc6705539f906.png",
+    "website": "https://simulithic.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "AI made writing code fast. Testing it is still slow. Simulithic sends AI users through your app on every phone, browser and account type your customers use, so you can ship as fast as you can code, without writing or maintaining a single test.",
+    "one_liner": "AI users that test your app on every device and browser",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1786468833,
+    "tags": [
+      "Developer Tools",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/simulithic",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/simulithic.json"
+  },
+  {
     "id": 34761,
     "name": "Veeza AI",
     "slug": "veeza-ai",
@@ -40273,11 +40184,11 @@
     "name": "Agent Relay",
     "slug": "agent-relay",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cd30717450b2c4e90d7bcd129a9d826c6faaa345.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/819b1618d86a223b725a999a980a27a830ef8441.png",
     "website": "https://agentrelay.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Agent Relay lets software teams' AI coding agents message each other directly, so people stop copy/pasting between Claude Code, Codex, Cursor, and their teammates' agents. A frontend agent can ask the backend agent what an API returns, two agents can sort out a merge conflict between themselves, and your agent can answer a colleague's agent while you sleep.\r\n \r\nAgents connect wherever they run: terminals, desktop apps, phones, laptops, cloud boxes, or a Mac mini across the world. Every session goes into shared, searchable history, so decisions don't get stuck in one person's chat. You can even let a customer's agent debug with yours. Setup takes about 5 minutes: give your agent the link and it installs itself. Use our hosted version free, or self-host the open-source version",
-    "one_liner": "Let your team's coding agents message each other",
+    "one_liner": "Let your teams' coding agents message each other",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -40361,7 +40272,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12ec3720a247bad2e5a39d162b68e217ed6b74bd.png",
     "website": "https://workers.io",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Workers IO verifies your entire system across millions of interleaving, faults, and timings to find the exact conditions that break the properties you care about.\r\n\r\nBuilt for teams where 99.99% uptime is table-stakes. ",
+    "long_description": "Workers IO is building deterministic simulation environments to verify mission-critical software. We run your entire system through millions of production scenarios and prove that its properties hold in every one.\r\n\r\nThe problem:\r\n\r\nCoding agents write code faster than teams can review it. At the same time, software and the infrastructure under it grow more complex every year. Tests only checks a few cases someone wrote, in isolation, in an environment that does not match production. Making the most expensive failures reach production first.\r\n\r\nOur solution:\r\n\r\nWe run your system unmodified in our simulation environments, against network partitions, disk failures, crashes, and clock drift. We build those fault models for you and verify every promise across millions of scenarios. Because these simulations are deterministic, every failure is perfectly reproducible. No one writes scenarios by hand, so verification becomes a compute problem.",
     "one_liner": "Simulation environments for verifying mission-critical software",
     "team_size": 2,
     "industry": "B2B",
@@ -40532,7 +40443,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d4ea3739a0bbffad42b3f827b3d69b5ad605a8f.png",
     "website": "https://www.pomerado.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pomerado turns any website into an API / MCP in minutes. Empower your agents to use previously inaccessable consumer websites, legacy portals, and internal tools. \r\n\r\nYou or your agent describe a task, Pomerado asks a few clarifying questions, and then delivers an integration. We manage hosting, permissioning, testing, and maintenance, so you can focus on building. \r\n\r\nAs consultants at McKinsey and Scale AI, we saw that legacy systems were the true blocker to agentic workflows. Pomerado connects those systems to agents.",
+    "long_description": "Pomerado turns any website into an API / MCP in minutes. Empower your agents to use previously inaccessable consumer websites, legacy portals, and internal tools. \r\n\r\nYou or your agent describe a task, Pomerado asks a few clarifying questions, and then delivers an integration. We manage hosting, permissioning, testing, and maintenance, so you can focus on building. \r\n\r\nCustomers can use us to:\r\n    • automate back office workflows on legacy systems (ERP, EHR, CRM)\r\n    • speed up customer integrations for forward deployments\r\n    • connect enterprise assistants to internal tools\r\n    • supercharge personal assistants with fast and reliable browser use\r\n\r\nWe’re ex-McKinsey and Scale AI. While driving F500 enterprise agent deployments, we saw that legacy systems were the true blocker to agentic workflows. Pomerado connects those systems to agents.",
     "one_liner": "Turn any website into an MCP for your agents, in minutes",
     "team_size": 2,
     "industry": "B2B",
@@ -40566,48 +40477,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pomerado",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/pomerado.json"
-  },
-  {
-    "id": 36081,
-    "name": "Polemos Industries",
-    "slug": "polemos-industries",
-    "former_names": [
-      "Lokberg Industries"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/52d6be23c1a08e2020010a26b5bd336554572d38.png",
-    "website": "https://lokberg.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Precision strike is rationed. Forces see more targets than they can afford to hit.\r\n\r\nPolemos builds AI-guided ballistic missiles and the compact launchers that fire them, designed for mass manufacturing. Our launchers form a strike network wired into the recon drones already in the sky: a drone geolocates a target, the nearest launcher fires, and a guided round lands in seconds.\r\n\r\nShort range, no wasted kilometers, no modified trucks. Built on production lines that already exist, so output scales when it matters most.",
-    "one_liner": "AI-guided ballistic missiles, cheap enough to field in numbers that…",
-    "team_size": 0,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Defense",
-    "launched_at": 1791838393,
-    "tags": [
-      "Defense",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2026",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Defense"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/polemos-industries",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/polemos-industries.json"
   },
   {
     "id": 36086,
@@ -40904,48 +40773,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/opera.json"
   },
   {
-    "id": 36777,
-    "name": "Sona8",
-    "slug": "sona8",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/68fe01dae2c3bf0906f880c9a0f3fca2b2a16863.png",
-    "website": "https://sona8.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sona8 uses AI voice agents to interview employees about how work gets done. Consulting, transformation and corporate development teams use it to hear from more people and follow up after changes.\r\n\r\nEmployees open a link and speak in their own language. The agent asks follow-up questions, and teams compare problems across sites and departments. We’ve completed 10,000+ employee interviews and signed one of the world’s top three consulting firms.\r\n\r\nWe’re building the context layer and operating system for strategy teams: combining employee knowledge with company data to understand operations, improve processes and put decisions into action. The same context will guide AI agents as they take over work, so the company keeps what it learns.",
-    "one_liner": "Context layer from employee voices to improve & automate workflows",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1788994017,
-    "tags": [
-      "HR Tech",
-      "Infrastructure",
-      "AI",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/sona8",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/sona8.json"
-  },
-  {
     "id": 36907,
     "name": "Melty",
     "slug": "melty-gg",
@@ -40989,6 +40816,47 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/melty-gg.json"
   },
   {
+    "id": 37038,
+    "name": "Caveman",
+    "slug": "caveman",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/255bbf73f87bb02fde740dd7da4814d8d2b5f4e1.png",
+    "website": "https://caveman.so",
+    "all_locations": "Amsterdam, NH, Netherlands",
+    "long_description": "Caveman is the optimization stack for AI agents. It observes real agent workloads, finds cost and performance inefficiencies, tests improvements, and safely deploys the ones that work.",
+    "one_liner": "Caveman cuts what AI agents cost without making them dumber.",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1791916413,
+    "tags": [
+      "Developer Tools",
+      "Open Source",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Netherlands",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/caveman",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/caveman.json"
+  },
+  {
     "id": 37203,
     "name": "Volaren Inc.",
     "slug": "volaren-inc",
@@ -41030,49 +40898,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/volaren-inc",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/volaren-inc.json"
-  },
-  {
-    "id": 37238,
-    "name": "Terse",
-    "slug": "useterse",
-    "former_names": [
-      "Terse Inc. dba Terse AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/21712c0189bc22ccc5e9bfeb15e67a527077b8f7.png",
-    "website": "https://www.useterse.ai/",
-    "all_locations": "New York City, NY, USA",
-    "long_description": "We build infrastructure to power agentic systems such as software factories, multiplayer agent frameworks and agent coordination.",
-    "one_liner": "Durable state for AI agents",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1790745772,
-    "tags": [
-      "API",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/useterse",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/useterse.json"
   },
   {
     "id": 37600,
@@ -41157,6 +40982,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tilo",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/tilo.json"
+  },
+  {
+    "id": 37896,
+    "name": "Aucert",
+    "slug": "aucert",
+    "former_names": [
+      "Aucert Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fcf314b4f1f24f66082b93a3ec4084c76234c436.png",
+    "website": "https://www.aucert.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Top apps need weeks and multiple teams to test every release. Aucert does it in hours, and plugs into agentic coding workflows so issues get fixed in the same loop.\r\n\r\nAgents: Functional QA · Accessibility · Google Play Policy · App Store Policy\r\n\r\nNext: Performance · Security. DM if you need either.",
+    "one_liner": "A team of expert AI agents that test mobile apps on their own.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1792125836,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/aucert",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/aucert.json"
   },
   {
     "id": 38492,

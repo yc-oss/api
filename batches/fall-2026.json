@@ -1157,14 +1157,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/58a972cb3cb171dd4300267d241cc6705539f906.png",
     "website": "https://simulithic.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Simulithic continuously uses your production product like your real users do. We learn representative user journeys and run user simulations across different devices, browsers, account states, and environments to find failures that traditional scripted end-to-end tests miss. ",
+    "long_description": "AI made writing code fast. Testing it is still slow. Simulithic sends AI users through your app on every phone, browser and account type your customers use, so you can ship as fast as you can code, without writing or maintaining a single test.",
     "one_liner": "AI users that test your app on every device and browser",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1786468833,
     "tags": [
-      "Artificial Intelligence"
+      "Developer Tools",
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1910,7 +1912,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/36cbf39bb5d034d7765e7ee595b7fac4dc2358e5.png",
     "website": "https://rhem.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Rhem is building the connected hardware and data platform for care at home. ",
+    "long_description": "Rhem Labs builds smart home care devices that help older adults and people with complex care needs live independently. ",
     "one_liner": "Home care technology for aging parents and their families",
     "team_size": 2,
     "industry": "Healthcare",
@@ -1960,7 +1962,9 @@
     "subindustry": "Industrials -> Energy",
     "launched_at": 1787763466,
     "tags": [
+      "Artificial Intelligence",
       "Deep Learning",
+      "Hardware",
       "IoT",
       "Energy"
     ],
@@ -1994,7 +1998,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b98395722e26f62e5f8c6de59c2dd27361270ec7.png",
     "website": "https://www.lantern.md",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lantern learns what exceptional looks like for your team, pressure-tests the role against the real talent market, then runs the hiring loop: sourcing, inbound applications, interviews, assessments, candidate communication, and offers.",
+    "long_description": "Lantern is the agentic recruiting platform for enterprise. Traction: 1M ARR in 11 months, with clients like Crypto.com, Hyatt Hotel, Baker McKenzie across 10 markets\r\n\r\nLantern runs on: \r\n(1) World People Model, a live talent graph of a billion professionals that knows who’s exceptional, reachable, and about to move\r\n(2) Company Hiring Model, which learns your taste from every hiring decision you’ve ever made\r\n\r\nTogether, our agents plug into your existing systems and run the whole workflow: sourcing, application review, AI interviews, meeting intelligence, and analytics, under universal context. ",
     "one_liner": "Turn Your Taste Into Hires",
     "team_size": 4,
     "industry": "B2B",
@@ -2574,11 +2578,11 @@
     "name": "Agent Relay",
     "slug": "agent-relay",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cd30717450b2c4e90d7bcd129a9d826c6faaa345.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/819b1618d86a223b725a999a980a27a830ef8441.png",
     "website": "https://agentrelay.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Agent Relay lets software teams' AI coding agents message each other directly, so people stop copy/pasting between Claude Code, Codex, Cursor, and their teammates' agents. A frontend agent can ask the backend agent what an API returns, two agents can sort out a merge conflict between themselves, and your agent can answer a colleague's agent while you sleep.\r\n \r\nAgents connect wherever they run: terminals, desktop apps, phones, laptops, cloud boxes, or a Mac mini across the world. Every session goes into shared, searchable history, so decisions don't get stuck in one person's chat. You can even let a customer's agent debug with yours. Setup takes about 5 minutes: give your agent the link and it installs itself. Use our hosted version free, or self-host the open-source version",
-    "one_liner": "Let your team's coding agents message each other",
+    "one_liner": "Let your teams' coding agents message each other",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -2792,7 +2796,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12ec3720a247bad2e5a39d162b68e217ed6b74bd.png",
     "website": "https://workers.io",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Workers IO verifies your entire system across millions of interleaving, faults, and timings to find the exact conditions that break the properties you care about.\r\n\r\nBuilt for teams where 99.99% uptime is table-stakes. ",
+    "long_description": "Workers IO is building deterministic simulation environments to verify mission-critical software. We run your entire system through millions of production scenarios and prove that its properties hold in every one.\r\n\r\nThe problem:\r\n\r\nCoding agents write code faster than teams can review it. At the same time, software and the infrastructure under it grow more complex every year. Tests only checks a few cases someone wrote, in isolation, in an environment that does not match production. Making the most expensive failures reach production first.\r\n\r\nOur solution:\r\n\r\nWe run your system unmodified in our simulation environments, against network partitions, disk failures, crashes, and clock drift. We build those fault models for you and verify every promise across millions of scenarios. Because these simulations are deterministic, every failure is perfectly reproducible. No one writes scenarios by hand, so verification becomes a compute problem.",
     "one_liner": "Simulation environments for verifying mission-critical software",
     "team_size": 2,
     "industry": "B2B",
@@ -3629,7 +3633,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d4ea3739a0bbffad42b3f827b3d69b5ad605a8f.png",
     "website": "https://www.pomerado.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pomerado turns any website into an API / MCP in minutes. Empower your agents to use previously inaccessable consumer websites, legacy portals, and internal tools. \r\n\r\nYou or your agent describe a task, Pomerado asks a few clarifying questions, and then delivers an integration. We manage hosting, permissioning, testing, and maintenance, so you can focus on building. \r\n\r\nAs consultants at McKinsey and Scale AI, we saw that legacy systems were the true blocker to agentic workflows. Pomerado connects those systems to agents.",
+    "long_description": "Pomerado turns any website into an API / MCP in minutes. Empower your agents to use previously inaccessable consumer websites, legacy portals, and internal tools. \r\n\r\nYou or your agent describe a task, Pomerado asks a few clarifying questions, and then delivers an integration. We manage hosting, permissioning, testing, and maintenance, so you can focus on building. \r\n\r\nCustomers can use us to:\r\n    • automate back office workflows on legacy systems (ERP, EHR, CRM)\r\n    • speed up customer integrations for forward deployments\r\n    • connect enterprise assistants to internal tools\r\n    • supercharge personal assistants with fast and reliable browser use\r\n\r\nWe’re ex-McKinsey and Scale AI. While driving F500 enterprise agent deployments, we saw that legacy systems were the true blocker to agentic workflows. Pomerado connects those systems to agents.",
     "one_liner": "Turn any website into an MCP for your agents, in minutes",
     "team_size": 2,
     "industry": "B2B",
@@ -3676,13 +3680,13 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Precision strike is rationed. Forces see more targets than they can afford to hit.\r\n\r\nPolemos builds AI-guided ballistic missiles and the compact launchers that fire them, designed for mass manufacturing. Our launchers form a strike network wired into the recon drones already in the sky: a drone geolocates a target, the nearest launcher fires, and a guided round lands in seconds.\r\n\r\nShort range, no wasted kilometers, no modified trucks. Built on production lines that already exist, so output scales when it matters most.",
     "one_liner": "AI-guided ballistic missiles, cheap enough to field in numbers that…",
-    "team_size": 0,
+    "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials -> Defense",
     "launched_at": 1791838393,
     "tags": [
-      "Defense",
-      "AI"
+      "Artificial Intelligence",
+      "Defense"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4541,7 +4545,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d02f08af0be569fcf511900d03b0d8eccfdf473.png",
     "website": "https://obsessiondb.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "ObsessionDB is a blazing-fast data warehouse built for the explosive amounts of data created by software and AI agents.\r\n\r\nWe make massive datasets instantly queryable at a fraction of the cost, powered by our own more efficient fork of ClickHouse®.",
+    "long_description": "ObsessionDB is a real-time data warehouse that makes your data stack agent-ready. Your agents can ingest and query vast amounts of data in seconds, without the scary infra bill. Powered by our own more efficient fork of ClickHouse®.",
     "one_liner": "Real-time data warehouse for agents",
     "team_size": 5,
     "industry": "B2B",
@@ -4675,9 +4679,9 @@
     "subindustry": "B2B -> Operations",
     "launched_at": 1788994017,
     "tags": [
+      "Artificial Intelligence",
       "HR Tech",
       "Infrastructure",
-      "AI",
       "Conversational AI"
     ],
     "tags_highlighted": [],
@@ -4848,10 +4852,10 @@
     "subindustry": "B2B",
     "launched_at": 1791916413,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Open Source",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5098,9 +5102,9 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1790745772,
     "tags": [
+      "Artificial Intelligence",
       "API",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5254,7 +5258,7 @@
     "name": "Theseus Robotics",
     "slug": "theseus-robotics",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0985c4e6c6734c8e730ab16124ab8ee4c127df5c.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7e2fc8bde838b206a0f59886a05a00e2d3d89335.png",
     "website": "https://theseus.bot/",
     "all_locations": "ZH, Switzerland",
     "long_description": "Theseus Robotics creates the OS & Physical AI to deploys humanoids to automate menial tasks in supermarkets. During the day, our robotics pick orders for e-grocery orders. Overnight, they restocks shelves with goods from the back warehouse. ",
@@ -5338,7 +5342,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/824e97773961053f47e92f9a1a6fd805d2328d0b.png",
     "website": "https://www.graypass.org",
     "all_locations": "Toronto, ON, Canada",
-    "long_description": "Login tells you who signed in. GrayPass verifies the expected person is still in control before consequential actions happen. We use cognitive biometrics like typing rhythm, cursor movement, scrolling, and response timing alongside session and device context to continuously establish assurance.\r\n\r\nBefore actions like approving a payment, changing admin permissions, exporting sensitive data, or letting an AI agent act on someone’s behalf, GrayPass returns allow, challenge, hold, or deny and produces signed proof tied to that action.",
+    "long_description": "Login tells you who signed in. GrayPass helps apps check who’s behind sensitive actions and whether they’re authorized before those actions go through.\r\n\r\nIt combines identity, device and session context with behavioral signals like typing rhythm, cursor movement and scrolling. Before a sensitive action goes through, GrayPass evaluates that evidence against your team’s policy and returns a decision: allow, challenge, hold or deny. Your app enforces the decision.\r\n\r\nThis applies to actions like exporting sensitive data, changing admin permissions or allowing an AI agent to act on someone’s behalf. Allowed actions receive short-lived, signed proof tied to the exact action and your app.\r\n\r\nYour existing login and authentication stack stays in place.",
     "one_liner": "Verify that the expected person is in control before key actions.",
     "team_size": 2,
     "industry": "B2B",
@@ -5749,6 +5753,49 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/openhack.json"
   },
   {
+    "id": 37896,
+    "name": "Aucert",
+    "slug": "aucert",
+    "former_names": [
+      "Aucert Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fcf314b4f1f24f66082b93a3ec4084c76234c436.png",
+    "website": "https://www.aucert.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Top apps need weeks and multiple teams to test every release. Aucert does it in hours, and plugs into agentic coding workflows so issues get fixed in the same loop.\r\n\r\nAgents: Functional QA · Accessibility · Google Play Policy · App Store Policy\r\n\r\nNext: Performance · Security. DM if you need either.",
+    "one_liner": "A team of expert AI agents that test mobile apps on their own.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1792125836,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/aucert",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/aucert.json"
+  },
+  {
     "id": 37995,
     "name": "Sintropix",
     "slug": "sintropix",
@@ -5835,7 +5882,7 @@
     "slug": "ratlog",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c91e646aa134e7ed3da1082d56c2a3cdd68f8337.png",
-    "website": "",
+    "website": "https://www.ratlog.space/",
     "all_locations": "Dresden, SN, Germany",
     "long_description": "",
     "one_liner": "Reusable heavy-lift rockets",

@@ -727,7 +727,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/824e97773961053f47e92f9a1a6fd805d2328d0b.png",
     "website": "https://www.graypass.org",
     "all_locations": "Toronto, ON, Canada",
-    "long_description": "Login tells you who signed in. GrayPass verifies the expected person is still in control before consequential actions happen. We use cognitive biometrics like typing rhythm, cursor movement, scrolling, and response timing alongside session and device context to continuously establish assurance.\r\n\r\nBefore actions like approving a payment, changing admin permissions, exporting sensitive data, or letting an AI agent act on someone’s behalf, GrayPass returns allow, challenge, hold, or deny and produces signed proof tied to that action.",
+    "long_description": "Login tells you who signed in. GrayPass helps apps check who’s behind sensitive actions and whether they’re authorized before those actions go through.\r\n\r\nIt combines identity, device and session context with behavioral signals like typing rhythm, cursor movement and scrolling. Before a sensitive action goes through, GrayPass evaluates that evidence against your team’s policy and returns a decision: allow, challenge, hold or deny. Your app enforces the decision.\r\n\r\nThis applies to actions like exporting sensitive data, changing admin permissions or allowing an AI agent to act on someone’s behalf. Allowed actions receive short-lived, signed proof tied to the exact action and your app.\r\n\r\nYour existing login and authentication stack stays in place.",
     "one_liner": "Verify that the expected person is in control before key actions.",
     "team_size": 2,
     "industry": "B2B",
