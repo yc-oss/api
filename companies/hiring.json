@@ -8810,7 +8810,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -12975,7 +12975,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -13428,7 +13428,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -29428,8 +29428,8 @@
     "website": "https://infisical.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Infisical is the all-in-one security infrastructure platform for secrets, certificates, and privileged access management.\r\n\r\nInfisical stores your secrets and injects them back into your development workflow, CI/CD pipelines, and cloud infrastructure. It comes with secrets versioning, point-in-time recovery, audit logging, automatic secret rotation capabilities, and more.",
-    "one_liner": "Unified platform for secrets, certs, and privileged access management",
-    "team_size": 50,
+    "one_liner": "Security infrastructure for developers and agents",
+    "team_size": 70,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1674066953,
@@ -29456,7 +29456,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -34161,49 +34161,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/outset.json"
   },
   {
-    "id": 28867,
-    "name": "Shasta Health",
-    "slug": "shasta-health",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d0ddbae01a1bda2827881248dc2c26ab87f27982.png",
-    "website": "https://www.shasta.health",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Shasta Health builds AI agents that run the front office for rehab therapy groups. We handle calls, texts, insurance verification, prior authorizations, and more - helping turn patient interest into completed, billable visits. Your team gets more time to focus on the patients in front of them.",
-    "one_liner": "Helping rehab practices book more patients",
-    "team_size": 5,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare Services",
-    "launched_at": 1690927737,
-    "tags": [
-      "Health Tech",
-      "Digital Health",
-      "Healthcare",
-      "Healthcare IT",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare Services"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/shasta-health",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/shasta-health.json"
-  },
-  {
     "id": 28869,
     "name": "Health Harbor",
     "slug": "health-harbor",
@@ -37036,6 +36993,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/kabilah",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/kabilah.json"
+  },
+  {
+    "id": 29246,
+    "name": "Tracecat",
+    "slug": "tracecat",
+    "former_names": [
+      "neometrics.ai",
+      "Neometrics"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/13bc35dc5fca68051b65f9b77d4198acae677418.png",
+    "website": "https://tracecat.com",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "Tracecat helps AI-native security teams build agents and automate work. All-in-one platform with agents, skills, prompt-to-workflows, and case management. Scale cyber defense with agents you own.\r\n\r\nOpen source and community-driven at it's core: https://github.com/TracecatHQ/tracecat",
+    "one_liner": "Open-source agentic security automation platform",
+    "team_size": null,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1704382841,
+    "tags": [
+      "Artificial Intelligence",
+      "Open Source",
+      "Cybersecurity",
+      "Enterprise",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tracecat",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/tracecat.json"
   },
   {
     "id": 29251,
@@ -40499,18 +40502,19 @@
   },
   {
     "id": 29568,
-    "name": "Roger",
-    "slug": "roger-2",
+    "name": "Augment Inc.",
+    "slug": "augment-inc",
     "former_names": [
       "CardLift",
       "Augment Inc.",
-      "Hire Roger"
+      "Hire Roger",
+      "Roger"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed7adf2496c4443a8cb1ccf4a4aba4e346b8d33c.png",
-    "website": "https://hireroger.com",
+    "website": "https://augmentinc.co",
     "all_locations": "Austin, TX, USA",
-    "long_description": "💼 Augment builds AI-powered tools to automate company operations, starting with Roger—an intelligent CRM that acts as your AI-powered sales team. 💼\r\n\r\n🚀 Built by experienced founders and backed by Y Combinator, Augment is redefining sales automation with AI-driven workflows that handle prospecting, outreach, and deal management—so businesses can scale effortlessly.\r\n\r\nHow it Works – \r\n\r\nRoger, Your AI-Powered CRM\r\n\r\n📊 A CRM That Works for You\r\n\r\nUnlike traditional CRMs that require constant manual updates, Roger actively manages your sales pipeline. It tracks interactions, follows up with leads, and keeps your team focused on closing deals instead of admin work.\r\n\r\n🤖 AI-Powered Outreach & Engagement\r\n\r\nRoger automates lead generation and crafts personalized outreach messages across email, LinkedIn, and other channels. It continuously refines its approach based on engagement data to increase conversions.\r\n\r\n🎯 Smart Deal Management\r\n\r\nRoger qualifies leads, schedules follow-ups, and moves deals through your pipeline automatically. It ensures your team never drops the ball on a potential customer.\r\n\r\n📈 Seamless Integration & Insights\r\n\r\nRoger syncs with your existing tools, updating your sales data in real-time. AI-powered analytics provide actionable insights, helping teams optimize sales strategies. By automating tedious sales tasks and making CRM proactive instead of passive, Roger turns AI into your most efficient sales teammate—helping businesses close more deals, faster.",
-    "one_liner": "Roger is an AI SDR that automates outbound sales and follows up 24/7.",
+    "long_description": "Capturing the world's economic value.",
+    "one_liner": "Everything. All at once.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
@@ -40535,8 +40539,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/roger-2",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/roger-2.json"
+    "url": "https://www.ycombinator.com/companies/augment-inc",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/augment-inc.json"
   },
   {
     "id": 29571,
@@ -45080,6 +45084,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/streamable",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/streamable.json"
+  },
+  {
+    "id": 30027,
+    "name": "Durate",
+    "slug": "durate",
+    "former_names": [
+      "Docflow"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/65de336868d0c75622bc0c22ef04be57da179d1d.png",
+    "website": "https://www.durate.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Durate helps physician groups, clinics, and hospitals eliminate coverage gaps and create personalized schedules. Our platform auto-syncs with existing systems and uses smart automation to build optimized physician schedules in seconds.",
+    "one_liner": "Self-running physician scheduling",
+    "team_size": 3,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1728392131,
+    "tags": [
+      "SaaS",
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/durate",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/durate.json"
   },
   {
     "id": 30029,
@@ -63620,17 +63667,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12ec3720a247bad2e5a39d162b68e217ed6b74bd.png",
     "website": "https://workers.io",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Workers IO is building deterministic simulation environments to verify mission-critical software. We run your entire system through millions of production scenarios and prove that its properties hold in every one.\r\n\r\nThe problem:\r\n\r\nCoding agents write code faster than teams can review it. At the same time, software and the infrastructure under it grow more complex every year. Tests only checks a few cases someone wrote, in isolation, in an environment that does not match production. Making the most expensive failures reach production first.\r\n\r\nOur solution:\r\n\r\nWe run your system unmodified in our simulation environments, against network partitions, disk failures, crashes, and clock drift. We build those fault models for you and verify every promise across millions of scenarios. Because these simulations are deterministic, every failure is perfectly reproducible. No one writes scenarios by hand, so verification becomes a compute problem.",
+    "long_description": "Workers IO is building simulation environments to catch failures in mission-critical software before they reach production. We run your entire system through millions of simulated production scenarios to verify its correctness and performance properties.\r\n\r\nCoding agents can now generate code faster than teams can review it. Meanwhile, software and the infrastructure it runs on keep getting more complex. Tests check a small set of cases in isolation, in environments that are different from production. Some of the most expensive failures only surface when customers encounter them.\r\n\r\nWe run your entire system unmodified and simulate network faults, disk failures, crashes, and clock drift. We build the fault models for you and check your system’s requirements across millions of scenarios. Every failure we find can be perfectly reproduced.",
     "one_liner": "Simulation environments for verifying mission-critical software",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1787942068,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,

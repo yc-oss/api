@@ -12143,6 +12143,46 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/primitive.json"
   },
   {
+    "id": 31359,
+    "name": "Twolabs",
+    "slug": "twolabs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6140e69d64bb482f52d28db6644ebb4a4c700ef.png",
+    "website": "https://twolabs.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We build verifiable reinforcement-learning environments, evaluations, and proprietary training datasets to improve frontier AI models and robot policies.\r\n\r\nWe focus on complex, underexplored domains like PCB and chip design, embedded systems, robotics, and specialized coding environments, where high-quality training data is scarce and existing models fall short.\r\n\r\nOur long-term goal is to develop self-improving training infrastructure that can autonomously generate increasingly challenging tasks, evaluate performance, and continuously advance model capabilities toward recursive self-improvement.",
+    "one_liner": "RL environments for underexplored domains.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1779755220,
+    "tags": [
+      "Robotics",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/twolabs",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/twolabs.json"
+  },
+  {
     "id": 31375,
     "name": "Hub",
     "slug": "hub",
@@ -13811,8 +13851,8 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1788561875,
     "tags": [
-      "Artificial Intelligence",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -13897,11 +13937,11 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1791788322,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Workflow Automation",
-      "API",
-      "AI"
+      "API"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -14142,7 +14182,7 @@
     "website": "https://www.graypass.org",
     "all_locations": "Toronto, ON, Canada",
     "long_description": "Login tells you who signed in. GrayPass helps apps check who’s behind sensitive actions and whether they’re authorized before those actions go through.\r\n\r\nIt combines identity, device and session context with behavioral signals like typing rhythm, cursor movement and scrolling. Before a sensitive action goes through, GrayPass evaluates that evidence against your team’s policy and returns a decision: allow, challenge, hold or deny. Your app enforces the decision.\r\n\r\nThis applies to actions like exporting sensitive data, changing admin permissions or allowing an AI agent to act on someone’s behalf. Allowed actions receive short-lived, signed proof tied to the exact action and your app.\r\n\r\nYour existing login and authentication stack stays in place.",
-    "one_liner": "Verify that the expected person is in control before key actions.",
+    "one_liner": "Verify the expected person is still in control before sensitive…",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",

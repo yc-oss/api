@@ -5650,7 +5650,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -12200,8 +12200,8 @@
     "website": "https://infisical.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Infisical is the all-in-one security infrastructure platform for secrets, certificates, and privileged access management.\r\n\r\nInfisical stores your secrets and injects them back into your development workflow, CI/CD pipelines, and cloud infrastructure. It comes with secrets versioning, point-in-time recovery, audit logging, automatic secret rotation capabilities, and more.",
-    "one_liner": "Unified platform for secrets, certs, and privileged access management",
-    "team_size": 50,
+    "one_liner": "Security infrastructure for developers and agents",
+    "team_size": 70,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1674066953,
@@ -12228,7 +12228,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -24418,9 +24418,9 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1786468833,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -24547,10 +24547,10 @@
     "launched_at": 1789011304,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -24589,11 +24589,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1788984366,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "SaaS",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -24668,17 +24668,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12ec3720a247bad2e5a39d162b68e217ed6b74bd.png",
     "website": "https://workers.io",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Workers IO is building deterministic simulation environments to verify mission-critical software. We run your entire system through millions of production scenarios and prove that its properties hold in every one.\r\n\r\nThe problem:\r\n\r\nCoding agents write code faster than teams can review it. At the same time, software and the infrastructure under it grow more complex every year. Tests only checks a few cases someone wrote, in isolation, in an environment that does not match production. Making the most expensive failures reach production first.\r\n\r\nOur solution:\r\n\r\nWe run your system unmodified in our simulation environments, against network partitions, disk failures, crashes, and clock drift. We build those fault models for you and verify every promise across millions of scenarios. Because these simulations are deterministic, every failure is perfectly reproducible. No one writes scenarios by hand, so verification becomes a compute problem.",
+    "long_description": "Workers IO is building simulation environments to catch failures in mission-critical software before they reach production. We run your entire system through millions of simulated production scenarios to verify its correctness and performance properties.\r\n\r\nCoding agents can now generate code faster than teams can review it. Meanwhile, software and the infrastructure it runs on keep getting more complex. Tests check a small set of cases in isolation, in environments that are different from production. Some of the most expensive failures only surface when customers encounter them.\r\n\r\nWe run your entire system unmodified and simulate network faults, disk failures, crashes, and clock drift. We build the fault models for you and check your system’s requirements across millions of scenarios. Every failure we find can be perfectly reproduced.",
     "one_liner": "Simulation environments for verifying mission-critical software",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1787942068,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -24709,20 +24709,20 @@
     "former_names": [
       "Rystic, Inc."
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1259ed8e91fea5ce7bb3da813020323417f96fae.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bfa5e505d77a3f64c4f5ed8941cc14f8318a3a34.png",
     "website": "https://rystic.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "API simulators for testing and training agents locally",
+    "one_liner": "Train models and test agents in high-fidelity simulated environments",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1790916343,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -24763,11 +24763,11 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1791788322,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Workflow Automation",
-      "API",
-      "AI"
+      "API"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -24790,6 +24790,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pomerado",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/pomerado.json"
+  },
+  {
+    "id": 36643,
+    "name": "Papaya",
+    "slug": "papaya",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/90437a276bb22b842ea04cd42e19389e216c984c.png",
+    "website": "https://papaya.fyi/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Papaya is the optimization engine for AI agents. Engineers don't have time to continually improve the agents they've shipped — the context bloat, overly chatty subagents, and broken tool calls sit in production traces nobody reads, quietly hurting agent efficiency. With Papaya they connect their agent directly via SDK, get actionable recommendations on how to improve quality, latency, and cost, and the ones they approve are pushed to production as pull requests.\r\n\r\nPapaya runs 200+ research-backed analyses across context, prompts, prompt caching, subagents, and tool calls. Every recommendation is ranked by impact and comes with the production runs that produced it — typically a 20%+ quality improvement on the first workflow analysis.",
+    "one_liner": "Continuously improve the quality of your AI agents.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1789407516,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/papaya",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/papaya.json"
   },
   {
     "id": 36776,
@@ -24978,9 +25020,9 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1792125836,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,

@@ -21905,7 +21905,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -23325,7 +23325,7 @@
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Feldy is field-first AI for home service businesses helping teams capture jobsites, create take-offs & estimates, and documentation.\r\n\r\nWith Feldy, teams capture the physical world using photos, videos, AI jobsite walkthroughs, and 3D scans using your mobile phone. It turns field information into takeoffs & estimates, visual designs, and project documentation. Feldy works across home services such as roofing, exteriors, remodeling, painting, cleaning, landscaping, handymen, and other home services.\r\n\r\nWe’re building a new way for more than 2 million U.S. home service businesses operating in an $800B+ market to capture, understand, and complete work in the field.\r\n\r\nFeldy is available on iOS, Android, and the web.",
     "one_liner": "Field-First AI for home services",
-    "team_size": 8,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1709429693,
@@ -36761,6 +36761,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/pleom.json"
   },
   {
+    "id": 30755,
+    "name": "Pally",
+    "slug": "pally",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/849f2561c7a883d8d5d6523f27f8404ee02820ed.png",
+    "website": "https://pally.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "You text Pally like you’d text a friend, and it connects to everything else: your inboxes, calendar, files, tasks and the web",
+    "one_liner": "Your personal AI Assistant",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1750346506,
+    "tags": [
+      "Artificial Intelligence",
+      "Consumer",
+      "B2B",
+      "Productivity",
+      "Search"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pally",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/pally.json"
+  },
+  {
     "id": 30756,
     "name": "Notte",
     "slug": "notte",
@@ -40611,46 +40654,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/palette-2.json"
   },
   {
-    "id": 31359,
-    "name": "Twolabs",
-    "slug": "twolabs",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6140e69d64bb482f52d28db6644ebb4a4c700ef.png",
-    "website": "https://www.twolabs.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We build modular humanoid robots and the software platform that allows anyone to train, deploy, and scale robots for real-world tasks.\r\n\r\nToday, teaching a robot a new skill requires robotics engineers, machine learning engineers, training infrastructure, and significant compute resources. We reduce that process to:\r\nRecord → Upload → Train → Deploy.\r\n\r\nOur robots are modular and configurable, with interchangeable end effectors, configurable sensors, and multiple deployment configurations. \r\n\r\nWe believe current humanoid embodiments are often overfit for specific use cases, so we're building a platform that adapts to different environments and applications.\r\n\r\nLong term, we want robotics to be as accessible as software development. Our goal is to become the default platform for training and deploying autonomous robots.",
-    "one_liner": "Humanoid robot platform for builders.",
-    "team_size": 2,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1779755220,
-    "tags": [
-      "Artificial Intelligence",
-      "Robotics"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/twolabs",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/twolabs.json"
-  },
-  {
     "id": 31375,
     "name": "Hub",
     "slug": "hub",
@@ -42691,47 +42694,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/traceforce.json"
   },
   {
-    "id": 32520,
-    "name": "Cerenovus",
-    "slug": "cerenovus",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a13c4ae7edff5a24b83b854a2058c28537c3a533.png",
-    "website": "https://snowstone.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Snowstone helps private equity firms drive operational value creation with AI. It's like a performance improvement engagement from a top consulting firm, but built from the company's own data, delivered in one week, and with every finding traced to its source. Today, private equity firms rely on consultants to find where portfolio companies can improve. That work depends on interviews and data requests, so the conclusions are secondhand, biased by internal politics and hard to check. Snowstone goes straight to the source data. It analyzes how a portfolio company actually operates and identifies automation potential, duplicated work, process bottlenecks and key-person risk, each quantified by its EBITDA impact.",
-    "one_liner": "AI-Driven Value Creation and Margin Expansion for Private Equity",
-    "team_size": null,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1780900630,
-    "tags": [
-      "Artificial Intelligence",
-      "Finance",
-      "Operations"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cerenovus",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/cerenovus.json"
-  },
-  {
     "id": 32523,
     "name": "Elite",
     "slug": "elite",
@@ -43970,6 +43932,45 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/tovenai.json"
   },
   {
+    "id": 33248,
+    "name": "Dock",
+    "slug": "dock",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/94f67a762d3f3ae2966b1300c5b2c0c8e7e007de.png",
+    "website": "https://trydock.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Dock is where you hire AI agents for business. Bring an idea, and your agents turn it into a company that runs: they find the customers, do the work and keep it moving, day and night. Building a company used to mean hiring a building full of people first. With Dock, entrepreneurs can start a real business today and run it like a company of a hundred. You decide where it goes. Your agents make it happen.",
+    "one_liner": "Hire AI agents to start and run your business",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1785286566,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dock",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/dock.json"
+  },
+  {
     "id": 33249,
     "name": "OpenRelay",
     "slug": "openrelay",
@@ -44405,6 +44406,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/billow-ai-labs.json"
   },
   {
+    "id": 33672,
+    "name": "Grep AI",
+    "slug": "grep-ai",
+    "former_names": [
+      "GREP",
+      "GREP.ai"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2d86a599f458e2be0f1c7c75f915dda507376482.png",
+    "website": "https://grep.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Grep AI is the fastest way to create, optimize, and deploy agents for tedious, complex operational work that slows down your business. Our self-improving agents learn from every run, making them smarter and cheaper as you scale. IG.com a global retail brokerage used our agents to review compliance alerts and now 80% of their customers onboad without manual intervention, doubling first trades and propelling them to a FTSE 100 company. \r\n\r\nCustomers including Airwallex, Worldpay, Citizens Bank, FV Bank and Shopmonkey have used our agents to automate over 250,000 of operational work across compliance, onboarding, underwriting, corporate due diligence, document verification, merchant categorization, market and competitive research, rev ops and much more.\r\n\r\nWe founded Grep AI after experiencing firsthand how manual workflows can prevent a business from growing when we ran the platform team at Brex. We're now on a mission to rid businesses of tedious, repetitive so their employees can focus on the most high leverage tasks that matter.",
+    "one_liner": "Self-improving agents that automate tedious operational work",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1790019866,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/grep-ai",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/grep-ai.json"
+  },
+  {
     "id": 33738,
     "name": "CoArena",
     "slug": "coarena",
@@ -44621,6 +44665,45 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/runtimesi.json"
   },
   {
+    "id": 34431,
+    "name": "Hue",
+    "slug": "hue",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1c5e6f96d14890d7f03f32c22ceed76e4fc923f2.png",
+    "website": "https://hue.run/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Hue turns production usage of agents into repeatable tests that preserve the tools, data, and state behind the real run. As AI agents take on real work, their behavior depends increasingly on the nuances of the world around them. With Hue, teams can test and improve their agents under conditions that mimic real usage.",
+    "one_liner": "Test agents in realistic worlds built from production usage",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1790353230,
+    "tags": [
+      "Artificial Intelligence"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hue",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/hue.json"
+  },
+  {
     "id": 34464,
     "name": "herdr",
     "slug": "herdr",
@@ -44701,6 +44784,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sentient-os",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/sentient-os.json"
+  },
+  {
+    "id": 34629,
+    "name": "Simulithic",
+    "slug": "simulithic",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/58a972cb3cb171dd4300267d241cc6705539f906.png",
+    "website": "https://simulithic.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "AI made writing code fast. Testing it is still slow. Simulithic sends AI users through your app on every phone, browser and account type your customers use, so you can ship as fast as you can code, without writing or maintaining a single test.",
+    "one_liner": "AI users that test your app on every device and browser",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1786468833,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/simulithic",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/simulithic.json"
   },
   {
     "id": 34794,
@@ -44877,7 +45001,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/54aa8da5f81192f8484dda70b284e56e5b9cb6a6.png",
     "website": "https://www.altair-health.com",
     "all_locations": "Austin, TX, USA",
-    "long_description": "Altair is an AI-native medical billing service for independent practices. We take over a practice's billing end to end and get doctors paid by insurers. AI does the work; our billers handle the exceptions.\r\n\r\nThat can only work if a practice can trust an agent alone with its revenue. So we formalized insurers' billing policies and put a theorem prover under the agent. Before the agent acts on a claim, the prover checks the action against that insurer's policies, and anything that fails goes to one of our billers. \r\n\r\nEvery claim teaches Altair how each insurer behaves, so the longer we run a practice's billing, the better we predict what its insurers will pay, deny or delay.\r\n\r\nWe're building the default way a new practice gets paid: a doctor connects their EHR and bills clean from the first patient, completely self-serve and on auto-pilot.\r\n\r\nAltair will be the financial platform every independent practice in America starts on and stays on.",
+    "long_description": "Altair is an AI-native medical billing service for independent practices. We take over a practice's billing end to end and get doctors paid by insurers. AI does the work; our billers handle the exceptions.\r\n\r\nThat can only work if a practice can trust an agent alone with its revenue. So we formalized insurers' billing policies and put a theorem prover under the agent. Before the agent acts on a claim, the prover checks the action against that insurer's policies, and anything that fails goes to one of our billers. \r\n\r\nEvery claim teaches Altair how each insurer behaves, so the longer we run a practice's billing, the better we predict what its insurers will pay, deny or delay.\r\n\r\nWe're building the default way a new practice gets paid: a doctor connects their EHR and bills clean from the first patient, completely self-serve and on auto-pilot.\r\n\r\nAltair will be the financial platform every independent practice in America starts on and stays on. And to the Health Insurers' \"Delay, Deny, Defend\", we say \"Predict, Prevent, Prevail\".",
     "one_liner": "Stripe for medical billing",
     "team_size": 4,
     "industry": "Healthcare",
@@ -45044,6 +45168,49 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/munito-ai.json"
   },
   {
+    "id": 35258,
+    "name": "Mirrors",
+    "slug": "mirrors",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e98a564b21ba044528e16126406d35b7464044b7.png",
+    "website": "https://www.mirrors.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Production agents handle many different customer workflows. Currently, when one handles a situation badly, an engineer reads the trace and patches the prompt. The next situation needs another exception. Soon, improving the agent becomes a recurring engineering job, and the prompt keeps growing.\r\n\r\nMirrors finds patterns in past runs. Engineers review guidance for a specific situation and preview where it would apply. Mirrors then delivers that guidance while the agent works, inside the team’s existing setup. The team can check whether the change improved the outcome.\r\n\r\nWe’re building Mirrors for engineering teams running customer-facing agents across varied workflows, so they can improve behavior without hardcoding every lesson in the global prompt.",
+    "one_liner": "Give AI agents the right context at the right moment",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1789011304,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "Developer Tools",
+      "SaaS",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mirrors",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/mirrors.json"
+  },
+  {
     "id": 35263,
     "name": "River",
     "slug": "rivereditor",
@@ -45082,89 +45249,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rivereditor",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/rivereditor.json"
-  },
-  {
-    "id": 35265,
-    "name": "Hopper",
-    "slug": "hopper",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6640b732eb4efe17f2fb11ff75f6f6bc14184872.png",
-    "website": "https://withhopper.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Hopper post-trains STT, TTS, and speech LLMs on your production calls, then serves and improves them against your live traffic",
-    "one_liner": "Fast inference for voice",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1788561875,
-    "tags": [
-      "Artificial Intelligence",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/hopper",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/hopper.json"
-  },
-  {
-    "id": 35289,
-    "name": "ByteAsk",
-    "slug": "byteask",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6bcbfe2855ffcd587858880c19e9ea0940b81943.png",
-    "website": "https://byteask.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "ByteAsk is an AI coding agent built for C and C++, the code that runs trading systems, cars, chips, and operating systems. It does not stop at a diff that looks right. ByteAsk builds, debugs, and tests every change with the real toolchain until the change holds. If the compiler, the debugger, or the tests can catch it, then ByteAsk catches it too. It runs from the terminal or inside VS Code, Neovim, and Emacs, and is available fully on-prem.",
-    "one_liner": "The AI coding agent for C and C++",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1788984366,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Generative AI",
-      "SaaS",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/byteask",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/byteask.json"
   },
   {
     "id": 35292,
@@ -45293,6 +45377,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sintem",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/sintem.json"
+  },
+  {
+    "id": 35395,
+    "name": "Workers IO",
+    "slug": "workers-io",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12ec3720a247bad2e5a39d162b68e217ed6b74bd.png",
+    "website": "https://workers.io",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Workers IO is building simulation environments to catch failures in mission-critical software before they reach production. We run your entire system through millions of simulated production scenarios to verify its correctness and performance properties.\r\n\r\nCoding agents can now generate code faster than teams can review it. Meanwhile, software and the infrastructure it runs on keep getting more complex. Tests check a small set of cases in isolation, in environments that are different from production. Some of the most expensive failures only surface when customers encounter them.\r\n\r\nWe run your entire system unmodified and simulate network faults, disk failures, crashes, and clock drift. We build the fault models for you and check your system’s requirements across millions of scenarios. Every failure we find can be perfectly reproduced.",
+    "one_liner": "Simulation environments for verifying mission-critical software",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1787942068,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/workers-io",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/workers-io.json"
   },
   {
     "id": 35422,
@@ -45510,50 +45636,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/primordiant.json"
   },
   {
-    "id": 35751,
-    "name": "Rystic",
-    "slug": "rystic",
-    "former_names": [
-      "Rystic, Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1259ed8e91fea5ce7bb3da813020323417f96fae.png",
-    "website": "https://rystic.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "API simulators for testing and training agents locally",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1790916343,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "B2B",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/rystic",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/rystic.json"
-  },
-  {
     "id": 35784,
     "name": "Vorelios",
     "slug": "vorelios",
@@ -45674,6 +45756,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/resin-technologies",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/resin-technologies.json"
+  },
+  {
+    "id": 36016,
+    "name": "Pomerado",
+    "slug": "pomerado",
+    "former_names": [
+      "Toolsmith"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d4ea3739a0bbffad42b3f827b3d69b5ad605a8f.png",
+    "website": "https://www.pomerado.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Pomerado turns any website into an API / MCP in minutes. Empower your agents to use previously inaccessable consumer websites, legacy portals, and internal tools. \r\n\r\nYou or your agent describe a task, Pomerado asks a few clarifying questions, and then delivers an integration. We manage hosting, permissioning, testing, and maintenance, so you can focus on building. \r\n\r\nCustomers can use us to:\r\n    • automate back office workflows on legacy systems (ERP, EHR, CRM)\r\n    • speed up customer integrations for forward deployments\r\n    • connect enterprise assistants to internal tools\r\n    • supercharge personal assistants with fast and reliable browser use\r\n\r\nWe’re ex-McKinsey and Scale AI. While driving F500 enterprise agent deployments, we saw that legacy systems were the true blocker to agentic workflows. Pomerado connects those systems to agents.",
+    "one_liner": "Turn any website into an MCP for your agents, in minutes",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1791788322,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "Workflow Automation",
+      "API"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pomerado",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/pomerado.json"
   },
   {
     "id": 36081,
@@ -45810,8 +45937,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/90437a276bb22b842ea04cd42e19389e216c984c.png",
     "website": "https://papaya.fyi/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Papaya is the optimization engine for AI agents. Engineers don't have time to continually improve the agents they've shipped — the context bloat, overly chatty subagents, and broken tool calls sit in production traces nobody reads, quietly hurting agent efficiency. With Papaya they connect their agent directly via SDK, get actionable recommendations on how to improve quality, latency, and cost, and the ones they approve are pushed to production as pull requests.\r\n\r\nPapaya runs 200+ research-backed analyses across context, prompts, prompt caching, subagents, and tool calls. Every recommendation is ranked by impact and comes with the production runs that produced it — typically a 10%+ quality improvement on the first workflow analysis.",
-    "one_liner": "Continuous optimization for AI agents",
+    "long_description": "Papaya is the optimization engine for AI agents. Engineers don't have time to continually improve the agents they've shipped — the context bloat, overly chatty subagents, and broken tool calls sit in production traces nobody reads, quietly hurting agent efficiency. With Papaya they connect their agent directly via SDK, get actionable recommendations on how to improve quality, latency, and cost, and the ones they approve are pushed to production as pull requests.\r\n\r\nPapaya runs 200+ research-backed analyses across context, prompts, prompt caching, subagents, and tool calls. Every recommendation is ranked by impact and comes with the production runs that produced it — typically a 20%+ quality improvement on the first workflow analysis.",
+    "one_liner": "Continuously improve the quality of your AI agents.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -45819,9 +45946,9 @@
     "tags": [
       "AIOps",
       "Artificial Intelligence",
+      "Developer Tools",
       "B2B",
-      "Enterprise Software",
-      "Infrastructure"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46270,23 +46397,25 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/lark-2.json"
   },
   {
-    "id": 37864,
-    "name": "OpenHack",
-    "slug": "openhack",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3665e2fbd95736778f3748429060face49d74d6d.png",
-    "website": "https://openhack.com",
+    "id": 37896,
+    "name": "Aucert",
+    "slug": "aucert",
+    "former_names": [
+      "Aucert Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fcf314b4f1f24f66082b93a3ec4084c76234c436.png",
+    "website": "https://www.aucert.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "OpenHack is an always on AI Security Engineer. OpenHack understands your business, system design and developer intent like a real security engineer. It ingests all this context to find the hardest vulnerabilities through AI codebase scanning, AI pentesting and Supply Chain Security. It verifies and prioritizes vulnerabilities automatically, and filters out false positives like a real security engineer drastically reducing overhead.",
-    "one_liner": "Always-on AI security engineer",
-    "team_size": 1,
+    "long_description": "Top apps need weeks and multiple teams to test every release. Aucert does it in hours, and plugs into agentic coding workflows so issues get fixed in the same loop.\r\n\r\nAgents: Functional QA · Accessibility · Google Play Policy · App Store Policy\r\n\r\nNext: Performance · Security. DM if you need either.",
+    "one_liner": "A team of expert AI agents that test mobile apps on their own.",
+    "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1790387763,
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1792125836,
     "tags": [
       "Artificial Intelligence",
-      "DevSecOps",
-      "Cybersecurity"
+      "Developer Tools",
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46296,7 +46425,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Security"
+      "Engineering, Product and Design"
     ],
     "regions": [
       "United States of America",
@@ -46307,8 +46436,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/openhack",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/openhack.json"
+    "url": "https://www.ycombinator.com/companies/aucert",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/aucert.json"
   },
   {
     "id": 37995,

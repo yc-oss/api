@@ -782,8 +782,8 @@
     "subindustry": "B2B -> Productivity",
     "launched_at": 1790019866,
     "tags": [
-      "Fintech",
-      "AI"
+      "Artificial Intelligence",
+      "Fintech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1043,7 +1043,7 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1790353230,
     "tags": [
-      "AI"
+      "Artificial Intelligence"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1164,9 +1164,9 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1786468833,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1869,7 +1869,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/54aa8da5f81192f8484dda70b284e56e5b9cb6a6.png",
     "website": "https://www.altair-health.com",
     "all_locations": "Austin, TX, USA",
-    "long_description": "Altair is an AI-native medical billing service for independent practices. We take over a practice's billing end to end and get doctors paid by insurers. AI does the work; our billers handle the exceptions.\r\n\r\nThat can only work if a practice can trust an agent alone with its revenue. So we formalized insurers' billing policies and put a theorem prover under the agent. Before the agent acts on a claim, the prover checks the action against that insurer's policies, and anything that fails goes to one of our billers. \r\n\r\nEvery claim teaches Altair how each insurer behaves, so the longer we run a practice's billing, the better we predict what its insurers will pay, deny or delay.\r\n\r\nWe're building the default way a new practice gets paid: a doctor connects their EHR and bills clean from the first patient, completely self-serve and on auto-pilot.\r\n\r\nAltair will be the financial platform every independent practice in America starts on and stays on.",
+    "long_description": "Altair is an AI-native medical billing service for independent practices. We take over a practice's billing end to end and get doctors paid by insurers. AI does the work; our billers handle the exceptions.\r\n\r\nThat can only work if a practice can trust an agent alone with its revenue. So we formalized insurers' billing policies and put a theorem prover under the agent. Before the agent acts on a claim, the prover checks the action against that insurer's policies, and anything that fails goes to one of our billers. \r\n\r\nEvery claim teaches Altair how each insurer behaves, so the longer we run a practice's billing, the better we predict what its insurers will pay, deny or delay.\r\n\r\nWe're building the default way a new practice gets paid: a doctor connects their EHR and bills clean from the first patient, completely self-serve and on auto-pilot.\r\n\r\nAltair will be the financial platform every independent practice in America starts on and stays on. And to the Health Insurers' \"Delay, Deny, Defend\", we say \"Predict, Prevent, Prevail\".",
     "one_liner": "Stripe for medical billing",
     "team_size": 4,
     "industry": "Healthcare",
@@ -2178,10 +2178,10 @@
     "launched_at": 1789011304,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2383,8 +2383,8 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1788561875,
     "tags": [
-      "Artificial Intelligence",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2465,11 +2465,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1788984366,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "SaaS",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2796,17 +2796,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12ec3720a247bad2e5a39d162b68e217ed6b74bd.png",
     "website": "https://workers.io",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Workers IO is building deterministic simulation environments to verify mission-critical software. We run your entire system through millions of production scenarios and prove that its properties hold in every one.\r\n\r\nThe problem:\r\n\r\nCoding agents write code faster than teams can review it. At the same time, software and the infrastructure under it grow more complex every year. Tests only checks a few cases someone wrote, in isolation, in an environment that does not match production. Making the most expensive failures reach production first.\r\n\r\nOur solution:\r\n\r\nWe run your system unmodified in our simulation environments, against network partitions, disk failures, crashes, and clock drift. We build those fault models for you and verify every promise across millions of scenarios. Because these simulations are deterministic, every failure is perfectly reproducible. No one writes scenarios by hand, so verification becomes a compute problem.",
+    "long_description": "Workers IO is building simulation environments to catch failures in mission-critical software before they reach production. We run your entire system through millions of simulated production scenarios to verify its correctness and performance properties.\r\n\r\nCoding agents can now generate code faster than teams can review it. Meanwhile, software and the infrastructure it runs on keep getting more complex. Tests check a small set of cases in isolation, in environments that are different from production. Some of the most expensive failures only surface when customers encounter them.\r\n\r\nWe run your entire system unmodified and simulate network faults, disk failures, crashes, and clock drift. We build the fault models for you and check your system’s requirements across millions of scenarios. Every failure we find can be perfectly reproduced.",
     "one_liner": "Simulation environments for verifying mission-critical software",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1787942068,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3380,20 +3380,20 @@
     "former_names": [
       "Rystic, Inc."
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1259ed8e91fea5ce7bb3da813020323417f96fae.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bfa5e505d77a3f64c4f5ed8941cc14f8318a3a34.png",
     "website": "https://rystic.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "API simulators for testing and training agents locally",
+    "one_liner": "Train models and test agents in high-fidelity simulated environments",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1790916343,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3640,11 +3640,11 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1791788322,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Workflow Automation",
-      "API",
-      "AI"
+      "API"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4424,8 +4424,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/90437a276bb22b842ea04cd42e19389e216c984c.png",
     "website": "https://papaya.fyi/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Papaya is the optimization engine for AI agents. Engineers don't have time to continually improve the agents they've shipped — the context bloat, overly chatty subagents, and broken tool calls sit in production traces nobody reads, quietly hurting agent efficiency. With Papaya they connect their agent directly via SDK, get actionable recommendations on how to improve quality, latency, and cost, and the ones they approve are pushed to production as pull requests.\r\n\r\nPapaya runs 200+ research-backed analyses across context, prompts, prompt caching, subagents, and tool calls. Every recommendation is ranked by impact and comes with the production runs that produced it — typically a 10%+ quality improvement on the first workflow analysis.",
-    "one_liner": "Continuous optimization for AI agents",
+    "long_description": "Papaya is the optimization engine for AI agents. Engineers don't have time to continually improve the agents they've shipped — the context bloat, overly chatty subagents, and broken tool calls sit in production traces nobody reads, quietly hurting agent efficiency. With Papaya they connect their agent directly via SDK, get actionable recommendations on how to improve quality, latency, and cost, and the ones they approve are pushed to production as pull requests.\r\n\r\nPapaya runs 200+ research-backed analyses across context, prompts, prompt caching, subagents, and tool calls. Every recommendation is ranked by impact and comes with the production runs that produced it — typically a 20%+ quality improvement on the first workflow analysis.",
+    "one_liner": "Continuously improve the quality of your AI agents.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -4433,9 +4433,9 @@
     "tags": [
       "AIOps",
       "Artificial Intelligence",
+      "Developer Tools",
       "B2B",
-      "Enterprise Software",
-      "Infrastructure"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5343,7 +5343,7 @@
     "website": "https://www.graypass.org",
     "all_locations": "Toronto, ON, Canada",
     "long_description": "Login tells you who signed in. GrayPass helps apps check who’s behind sensitive actions and whether they’re authorized before those actions go through.\r\n\r\nIt combines identity, device and session context with behavioral signals like typing rhythm, cursor movement and scrolling. Before a sensitive action goes through, GrayPass evaluates that evidence against your team’s policy and returns a decision: allow, challenge, hold or deny. Your app enforces the decision.\r\n\r\nThis applies to actions like exporting sensitive data, changing admin permissions or allowing an AI agent to act on someone’s behalf. Allowed actions receive short-lived, signed proof tied to the exact action and your app.\r\n\r\nYour existing login and authentication stack stays in place.",
-    "one_liner": "Verify that the expected person is in control before key actions.",
+    "one_liner": "Verify the expected person is still in control before sensitive…",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -5726,9 +5726,9 @@
     "subindustry": "B2B -> Security",
     "launched_at": 1790387763,
     "tags": [
-      "Artificial Intelligence",
       "DevSecOps",
-      "Cybersecurity"
+      "Cybersecurity",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5769,9 +5769,9 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1792125836,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,

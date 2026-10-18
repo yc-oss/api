@@ -4232,10 +4232,12 @@
   },
   {
     "id": 32520,
-    "name": "Cerenovus",
-    "slug": "cerenovus",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a13c4ae7edff5a24b83b854a2058c28537c3a533.png",
+    "name": "Snowstone",
+    "slug": "snowstone",
+    "former_names": [
+      "Cerenovus"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5fd1252bd802d29775f848bb916f4456301ae679.png",
     "website": "https://snowstone.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Snowstone helps private equity firms drive operational value creation with AI. It's like a performance improvement engagement from a top consulting firm, but built from the company's own data, delivered in one week, and with every finding traced to its source. Today, private equity firms rely on consultants to find where portfolio companies can improve. That work depends on interviews and data requests, so the conclusions are secondhand, biased by internal politics and hard to check. Snowstone goes straight to the source data. It analyzes how a portfolio company actually operates and identifies automation potential, duplicated work, process bottlenecks and key-person risk, each quantified by its EBITDA impact.",
@@ -4245,9 +4247,9 @@
     "subindustry": "B2B -> Operations",
     "launched_at": 1780900630,
     "tags": [
-      "Artificial Intelligence",
       "Finance",
-      "Operations"
+      "Operations",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4268,8 +4270,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cerenovus",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/cerenovus.json"
+    "url": "https://www.ycombinator.com/companies/snowstone",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/snowstone.json"
   },
   {
     "id": 32622,
@@ -4406,8 +4408,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4211252c17df7b0a89dc9c36ce49996bef59474d.png",
     "website": "https://levocred.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Levocred AI is the Bloomberg of loans: AI agents that run and price a lender's book. One fund cut the time to mark its book from a week to two hours and now names us as data agent, the system of record, in its loan purchase agreements.\r\n\r\n$22T of US loans never trade because nobody can price them efficiently and defensibly. We fix pricing first by deploying inside lenders. Trading follows, the way it did for bonds.",
-    "one_liner": "The Bloomberg of Loans",
+    "long_description": "Levocred AI build AI employees for lenders including credit funds, fintechs, credit unions & banks to automate operations like servicing/collections, underwriting, back-office tasks etc. ",
+    "one_liner": "AI Workforce for lenders",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech",
