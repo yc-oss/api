@@ -182,7 +182,6 @@
     "subindustry": "Industrials -> Drones",
     "launched_at": 1775570807,
     "tags": [
-      "Artificial Intelligence",
       "Hard Tech",
       "Drones",
       "Aerospace",
@@ -316,9 +315,9 @@
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1791737469,
     "tags": [
-      "Artificial Intelligence",
       "Hard Tech",
       "Robotics",
+      "AI",
       "Automotive"
     ],
     "tags_highlighted": [],
@@ -613,10 +612,10 @@
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1782681224,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "SaaS",
-      "Finance"
+      "Finance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -697,9 +696,9 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1784444284,
     "tags": [
-      "Artificial Intelligence",
       "Construction",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -782,8 +781,8 @@
     "subindustry": "B2B -> Productivity",
     "launched_at": 1790019866,
     "tags": [
-      "Artificial Intelligence",
-      "Fintech"
+      "Fintech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -912,11 +911,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1782327485,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Hardware",
       "Semiconductors",
-      "Electronics"
+      "Electronics",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1002,9 +1001,9 @@
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1785385611,
     "tags": [
-      "Artificial Intelligence",
       "Robotics",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1043,7 +1042,9 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1790353230,
     "tags": [
-      "Artificial Intelligence"
+      "Developer Tools",
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1082,8 +1083,8 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1786038738,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -1109,6 +1110,47 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/herdr.json"
   },
   {
+    "id": 34530,
+    "name": "Theo",
+    "slug": "theo",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/df947f888c98a4ba3a32f2fa4873fc57321747c2.png",
+    "website": "https://theo.site/",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "Theo is an AI agent that builds your small business website in minutes, then works on it every week so customers find you, whether they search Google themselves or ask an AI. Theo studies your site, your market and your search data, picks what will win the next customer, and ships it: a page for what people are searching for, a post that answers their question, or the fix that was holding you back.",
+    "one_liner": "The site-builder and engine that gets your business found. ",
+    "team_size": null,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1792356521,
+    "tags": [
+      "SMB",
+      "SEO",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/theo",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/theo.json"
+  },
+  {
     "id": 34597,
     "name": "Sentient OS",
     "slug": "sentient-os",
@@ -1116,14 +1158,13 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/39c30a4d604edd955f2c2b37f1f7281571ae18fb.png",
     "website": "https://sentient-os.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Nobody's built truly proactive AI, because it requires running inference on your entire life. In the cloud, that's insanely expensive and a privacy nightmare. But not on your own chip.\r\n\r\nEvery night, Sentient's on-device LLM wakes your Mac and understands what's new in your life (email, messages, files, Granola transcripts...), entirely locally, and distills it into a knowledge base.\r\n\r\nYou wake up to your work already prepared: the reply you forgot, drafted from your own context; the subscription you never use renewing tomorrow, caught; the report you promised in the group chat, ready to send. Everything is one click from firing through computer use, and nothing fires until you click.\r\n\r\nOr click your Mac notch anytime and say \"finish this for me.\" Sidekick takes over the thing you were doing with its own cursor while you move on.\r\n\r\nOn-device inference at this scale was supposed to be impossible: devices too slow, and models too dumb. So we built the stack ourselves: a custom LiteRT-LM fork (KV-cache reuse, speculative decoding, custom k-quants) that runs nightly on 8 GB Macs. The user's hardware does ~90% of the compute, and their own ChatGPT or Claude subscription does the rest, so our marginal cost is ~$0, and our servers store nothing.\r\n\r\nOur alpha soft-launch was top post of the month on r/macapps (688 upvotes), and we launched to 4000+ users in our first week with $0 marketing. We're free and open source for consumers; the same engine on the work stack (Slack, Granola, Linear, Notion) is the enterprise business.\r\n\r\nSentient OS raised ~$1M in pre-seed, backed by YC, Afore, and the a16z Speedrun scout fund.",
+    "long_description": "Truly personal AI requires running inference on your life, every day. In the cloud, that’s expensive and a privacy nightmare. On your own chip, it’s free and private.\r\n\r\nOur custom inference stack, built on a LiteRT-LM fork, runs on Macs with just 8 GB of RAM. Every night, Sentient’s on-device models process your emails, messages, Granola transcripts, files, and more, building a rich personal knowledge base on your Mac.\r\n\r\nYour projects, conversations, commitments, and preferences. Context you’d never have the time to type into a chatbot.\r\n\r\nThat understanding powers three ways to get work done:\r\n\r\nSidekick: click your Mac’s notch and say “finish this for me.” It already has your context and gets to work across your apps and browser with its own cursor, while you keep working.\r\n\r\nProactive intelligence: wake up to work already prepared. The reply you forgot, drafted. The subscription renewing tomorrow, caught. The report you promised, ready for review. Sentient waits for your approval before acting.\r\n\r\nDouble Tap: two taps, two seconds, and the reply you would have written appears, drafted from your personal context and writing style. Just review and send.\r\n\r\nOpen source and built with privacy at its core. Over 30 enterprises use Sentient already.\r\n\r\nOur alpha reached 4,000+ users in its first week with $0 marketing. Our launch was the top post of the month on r/macapps.\r\n\r\nWe’ve raised over $1 million with participation from Y Combinator (F26), Afore, Pioneer Fund, and a16z speedrun’s scout fund.",
     "one_liner": "On-device AI that knows your entire life and does your work overnight.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1787571928,
     "tags": [
-      "Artificial Intelligence",
       "Productivity",
       "AI"
     ],
@@ -1164,9 +1205,9 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1786468833,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1289,8 +1330,8 @@
     "subindustry": "B2B",
     "launched_at": 1785795073,
     "tags": [
-      "Artificial Intelligence",
-      "Deep Learning"
+      "Deep Learning",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1453,8 +1494,8 @@
     "subindustry": "B2B",
     "launched_at": 1789180865,
     "tags": [
-      "Artificial Intelligence",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1496,11 +1537,11 @@
     "subindustry": "Industrials",
     "launched_at": 1789851118,
     "tags": [
-      "Artificial Intelligence",
       "Robotics",
       "B2B",
       "Manufacturing",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1572,7 +1613,7 @@
       "Ascii box",
       "Ascii"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ab4963f9bacc76a0a31b94f8773cad5138d2dc3.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd00ca6a15fbe23bc8d3447bda9de39006326892.png",
     "website": "https://boat.dev",
     "all_locations": "Paris, Île-de-France, France; Remote",
     "long_description": "**Problem**\r\n\r\nHumans used to need laptops to do their work. Now they prompt agents instead, and those agents need computers too: always-on, in large quantities, and with unlimited capabilities. \r\n\r\nBuilding and maintaining that yourself is far from trivial.\r\n\r\n**Solution**\r\n\r\nBoat provides powerful, simple, permissive Ubuntu VMs in the cloud. In a sandbox, an agent can work for long periods on code or on knowledge work like legal, research, reporting, and auditing.\r\n\r\n**Why Boat and not any other cloud VM?**\r\n\r\n1. It is ready out of the box: every sandbox ships with a desktop, chrome, languages, docker, snapshots, and templates, plus a CLI, SDK, API, and control pane for your fleet.\r\n2. It is permissive and paradigm agnostic: any number of agents can use any number of sandboxes. Agents can run inside or use sandboxes as an external tool.\r\n3. It is expertly crafted: we manage everything from the individual CPU to the orchestration software, which makes sandboxes stable, persistent, scalable, and secure.\r\n4. It is the best performance and price in town: our CPUs rank first on HPC benchmarks, and sandboxes are typically 9x to 18x cheaper than other leading sandboxes.\r\n\r\n**Further notes**\r\n\r\nSandboxes are hosted in Europe, which keeps prices low, and more regions are coming. Unless compliance requires it, agents don't notice the region they run in.",
@@ -1792,9 +1833,9 @@
     "subindustry": "B2B",
     "launched_at": 1785975971,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1869,16 +1910,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/54aa8da5f81192f8484dda70b284e56e5b9cb6a6.png",
     "website": "https://www.altair-health.com",
     "all_locations": "Austin, TX, USA",
-    "long_description": "Altair is an AI-native medical billing service for independent practices. We take over a practice's billing end to end and get doctors paid by insurers. AI does the work; our billers handle the exceptions.\r\n\r\nThat can only work if a practice can trust an agent alone with its revenue. So we formalized insurers' billing policies and put a theorem prover under the agent. Before the agent acts on a claim, the prover checks the action against that insurer's policies, and anything that fails goes to one of our billers. \r\n\r\nEvery claim teaches Altair how each insurer behaves, so the longer we run a practice's billing, the better we predict what its insurers will pay, deny or delay.\r\n\r\nWe're building the default way a new practice gets paid: a doctor connects their EHR and bills clean from the first patient, completely self-serve and on auto-pilot.\r\n\r\nAltair will be the financial platform every independent practice in America starts on and stays on. And to the Health Insurers' \"Delay, Deny, Defend\", we say \"Predict, Prevent, Prevail\".",
+    "long_description": "Altair is an AI-native medical billing service for independent practices. We take over a practice's billing end to end and get doctors paid by insurers. AI does the work; our billers handle the exceptions.\r\n\r\nThat can only work if a practice can trust an agent alone with its revenue. So we formalized insurers' billing policies and put a theorem prover under the agent. Before the agent acts on a claim, the prover checks the action against that insurer's policies, and anything that fails goes to one of our billers. \r\n\r\nEvery claim teaches Altair how each insurer behaves, so the longer we run a practice's billing, the better we predict what its insurers will pay, deny or delay.\r\n\r\nWe're building the default way a new practice gets paid: a doctor connects their EHR and bills clean, completely self-serve and on auto-pilot.\r\n\r\nAltair will be the financial platform every independent practice in America starts on and stays on. And to the Health Insurers' \"Delay, Deny, Defend\", we say \"Predict, Prevent, Prevail\".",
     "one_liner": "Stripe for medical billing",
     "team_size": 4,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare Services",
     "launched_at": 1792016571,
     "tags": [
-      "Artificial Intelligence",
       "Health Tech",
-      "Healthcare"
+      "Healthcare",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1962,11 +2003,11 @@
     "subindustry": "Industrials -> Energy",
     "launched_at": 1787763466,
     "tags": [
-      "Artificial Intelligence",
       "Deep Learning",
       "Hardware",
       "IoT",
-      "Energy"
+      "Energy",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2005,11 +2046,11 @@
     "subindustry": "B2B -> Human Resources",
     "launched_at": 1787030206,
     "tags": [
-      "Artificial Intelligence",
       "Human Resources",
       "Recruiting",
       "HR Tech",
-      "Talent Acquisition"
+      "Talent Acquisition",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2050,9 +2091,9 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1791574997,
     "tags": [
-      "Artificial Intelligence",
       "Enterprise",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2178,10 +2219,10 @@
     "launched_at": 1789011304,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2343,8 +2384,8 @@
     "subindustry": "B2B -> Productivity",
     "launched_at": 1789671117,
     "tags": [
-      "Artificial Intelligence",
-      "Productivity"
+      "Productivity",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2466,8 +2507,6 @@
     "launched_at": 1788984366,
     "tags": [
       "Developer Tools",
-      "Generative AI",
-      "SaaS",
       "Enterprise Software",
       "AI"
     ],
@@ -2588,7 +2627,6 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1789747031,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Swarm AI",
       "Open Source",
@@ -2631,9 +2669,9 @@
     "subindustry": "Industrials -> Energy",
     "launched_at": 1789740763,
     "tags": [
-      "Artificial Intelligence",
       "Solar Power",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2676,8 +2714,8 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1791832761,
     "tags": [
-      "Artificial Intelligence",
-      "Telecommunications"
+      "Telecommunications",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2803,10 +2841,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1787942068,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2928,9 +2966,9 @@
     "subindustry": "B2B -> Legal",
     "launched_at": 1792015189,
     "tags": [
-      "Artificial Intelligence",
       "Legal",
-      "LegalTech"
+      "LegalTech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2969,11 +3007,11 @@
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1789000982,
     "tags": [
-      "Artificial Intelligence",
       "Hardware",
       "Robotics",
       "Manufacturing",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3092,9 +3130,9 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1788891308,
     "tags": [
-      "Artificial Intelligence",
       "Crypto / Web3",
-      "Consumer Products"
+      "Consumer Products",
+      "AI"
     ],
     "tags_highlighted": [
       "Crypto / Web3"
@@ -3260,7 +3298,6 @@
     "subindustry": "B2B -> Sales",
     "launched_at": 1791218821,
     "tags": [
-      "Artificial Intelligence",
       "Sales",
       "API",
       "AI"
@@ -3305,10 +3342,10 @@
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1788918386,
     "tags": [
-      "Artificial Intelligence",
       "Robotics",
       "Energy",
       "Advanced Materials",
+      "AI",
       "Biotechnology"
     ],
     "tags_highlighted": [],
@@ -3432,9 +3469,9 @@
     "subindustry": "B2B",
     "launched_at": 1786417769,
     "tags": [
-      "Artificial Intelligence",
       "Hard Tech",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3472,9 +3509,9 @@
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1788577910,
     "tags": [
-      "Artificial Intelligence",
       "Robotics",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3554,9 +3591,9 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1791317892,
     "tags": [
-      "Artificial Intelligence",
       "Hardware",
-      "Electronics"
+      "Electronics",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3640,11 +3677,11 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1791788322,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Workflow Automation",
-      "API"
+      "API",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3685,8 +3722,8 @@
     "subindustry": "Industrials -> Defense",
     "launched_at": 1791838393,
     "tags": [
-      "Artificial Intelligence",
-      "Defense"
+      "Defense",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4016,9 +4053,9 @@
     "subindustry": "B2B -> Marketing",
     "launched_at": 1791575550,
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
-      "Social Media"
+      "Social Media",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4180,7 +4217,6 @@
     "subindustry": "Consumer -> Consumer Electronics",
     "launched_at": 1786922449,
     "tags": [
-      "Artificial Intelligence",
       "Hardware",
       "Consumer",
       "AI"
@@ -4432,10 +4468,10 @@
     "launched_at": 1789407516,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4638,9 +4674,9 @@
     "subindustry": "Industrials -> Drones",
     "launched_at": 1791414783,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Hardware"
+      "Hardware",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4679,9 +4715,9 @@
     "subindustry": "B2B -> Operations",
     "launched_at": 1788994017,
     "tags": [
-      "Artificial Intelligence",
       "HR Tech",
       "Infrastructure",
+      "AI",
       "Conversational AI"
     ],
     "tags_highlighted": [],
@@ -4811,10 +4847,10 @@
     "subindustry": "B2B",
     "launched_at": 1791500162,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "DevSecOps",
-      "Cloud Computing"
+      "Cloud Computing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5102,9 +5138,9 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1790745772,
     "tags": [
-      "Artificial Intelligence",
       "API",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5182,9 +5218,9 @@
     "subindustry": "B2B -> Sales",
     "launched_at": 1788967219,
     "tags": [
-      "Artificial Intelligence",
       "Sales",
-      "Marketing"
+      "Marketing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5223,11 +5259,11 @@
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1789976042,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "Health Tech",
       "B2B",
-      "Health Insurance"
+      "Health Insurance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5393,9 +5429,9 @@
     "subindustry": "Consumer -> Consumer Electronics",
     "launched_at": 1790095817,
     "tags": [
-      "Artificial Intelligence",
       "Hardware",
-      "Consumer"
+      "Consumer",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5434,9 +5470,9 @@
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1790148781,
     "tags": [
-      "Artificial Intelligence",
       "Computer Vision",
-      "Insurance"
+      "Insurance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5519,7 +5555,7 @@
     "subindustry": "B2B",
     "launched_at": 1788964517,
     "tags": [
-      "Artificial Intelligence",
+      "AI",
       "Conversational AI",
       "ML"
     ],
@@ -5599,9 +5635,9 @@
     "subindustry": "Industrials",
     "launched_at": 1789595493,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Supply Chain"
+      "Supply Chain",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5677,7 +5713,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5ee5f7b68452b3800941d6ce5bfbfacd28c318f2.png",
     "website": "https://tilo.so",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tilo is a Linux-based operating system built for AI agents to work alongside people. On Tilo, computer use is up to 15x cheaper than on a normal OS.\r\n\r\nToday agents use computers the way people do. They take screenshots and click through apps, which is slow, expensive, and brittle. In Tilo, every app exports actions, so agents work over MCP while people use the UI. You still see what each agent does in your apps, and anything it changes can be undone.\r\n\r\nAny number of people and agents can work in one workspace in real time, across apps. Tilo runs as your OS, in our cloud, or headless on your machine, and you can open and share any workspace from the browser.",
+    "long_description": "Tilo is a Linux-based operating system built for AI agents to work alongside people. On Tilo, computer use is up to 10,000x cheaper than on a normal OS.\r\n\r\nToday agents use computers the way people do. They take screenshots and click through apps, which is slow, expensive, and brittle. In Tilo, every app exports actions, so agents work over MCP while people use the UI. You still see what each agent does in your apps, and anything it changes can be undone.\r\n\r\nAny number of people and agents can work in one workspace in real time, across apps. Tilo runs as your OS, in our cloud, or headless on your machine, and you can open and share any workspace from the browser.",
     "one_liner": "A Linux-based, AI-native operating system.",
     "team_size": 2,
     "industry": "B2B",
@@ -5742,7 +5778,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -5769,9 +5807,9 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1792125836,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5810,9 +5848,9 @@
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1789679183,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5971,7 +6009,6 @@
     "subindustry": "B2B -> Security",
     "launched_at": 1789029188,
     "tags": [
-      "Deep Learning",
       "B2B",
       "Cybersecurity"
     ],
@@ -6014,9 +6051,9 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1790643542,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
