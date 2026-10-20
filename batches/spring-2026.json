@@ -4481,7 +4481,7 @@
       "markup.one",
       "tday"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d434bfe79a0737da7ae10fe268d7778546fdd689.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0407fd665b690944a7e3117449a6850bf1f45e9f.png",
     "website": "https://tday.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "tday automatically turns a software company's product into on-brand marketing creative. Connect your product and git repo, and tday generates polished launch videos, social graphics, and ads, the content a team would normally spend hours making in a design tool or pay a freelancer for. tday then publishes the creative and measures how it performs across your social and ad channels, closing the loop from what you ship to what you post.",
@@ -4529,7 +4529,10 @@
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1779088548,
-    "tags": [],
+    "tags": [
+      "Robotics",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -4542,11 +4545,13 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
-    "demo_day_video_public": true,
+    "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/general-instinct",
@@ -5568,7 +5573,7 @@
     "all_locations": "Cairo, Cairo Governorate, Egypt",
     "long_description": "RASPIRE is the first line of defense for applications against AI-powered fraud attacks, API abuse, and runtime threats. Unlike code scanners and pentesting tools that identify vulnerabilities before release, RASPIRE operates like a security expert running inside applications, monitoring, detecting, and blocking attacks 24/7 in real time. All without writing a single line of code.",
     "one_liner": "Autonomous Runtime Security",
-    "team_size": 3,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1780001140,
@@ -6019,19 +6024,26 @@
   },
   {
     "id": 31512,
-    "name": "Pentagon",
-    "slug": "pentagon",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/668fe720bcb2a436a1056efc2df9c0c22d5922cc.png",
-    "website": "https://pentagon.run",
+    "name": "Aernata",
+    "slug": "aernata",
+    "former_names": [
+      "Pentagon"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ab4158325222f50847060cb687cc1b6c81e65dbc.png",
+    "website": "https://aernata.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pentagon is a workspace for your AI employees to communicate, coordinate, and get work done as a team.",
-    "one_liner": "The control plane for agent-native work.",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
+    "long_description": "Aernata is an American chemicals company producing clean fuel from industrial emissions.\r\n\r\nWe're starting by converting CO2 to methanol for synthetic fuel production.",
+    "one_liner": "Making clean methanol out of CO2.",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Energy",
     "launched_at": 1775312221,
-    "tags": [],
+    "tags": [
+      "Carbon Capture and Removal",
+      "Alternative Fuels",
+      "Climate",
+      "Energy"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -6039,8 +6051,8 @@
     "batch": "Spring 2026",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Productivity"
+      "Industrials",
+      "Energy"
     ],
     "regions": [
       "United States of America",
@@ -6051,8 +6063,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pentagon",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/pentagon.json"
+    "url": "https://www.ycombinator.com/companies/aernata",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/aernata.json"
   },
   {
     "id": 31513,

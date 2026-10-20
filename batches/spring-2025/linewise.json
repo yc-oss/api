@@ -1,25 +1,27 @@
 {
   "id": 30542,
-  "name": "LineWise",
+  "name": "Linewise",
   "slug": "linewise",
   "former_names": [
     "Comply Genie",
-    "Vision Nexus"
+    "Vision Nexus",
+    "LineWise",
+    "Vision Lab"
   ],
-  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/52b288a75cbc24bbab29ace4752b6453e7db35bf.png",
-  "website": "https://www.linewise.io/",
-  "all_locations": "",
-  "long_description": "LineWise is building an AI assistant for manufacturing teams to operate and resolve production issues, from defects to breakdowns. \r\n\r\nLineWise automatically extracts frontline know-how from live video recordings, turning them into structured SOPs and training guides. It also ingests generated SOPs, machine manuals, and past breakdown logs to suggest the most probable root causes when issues occur. \r\n\r\nOperators receive step-by-step guided troubleshooting, and as they confirm outcomes, LineWise learns from each resolution - converting every fix into a reusable playbook and proactively recommending preventive actions to cut future downtime.",
-  "one_liner": "AI platform to train frontline workers to operate and fix issues",
-  "team_size": 5,
-  "industry": "B2B",
-  "subindustry": "B2B -> Operations",
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2b6523fd3e82e786169b750e69bb81160c422bc6.png",
+  "website": "https://linewise.io/",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "We capture how physical things are made, from the first design to the final assembly, and turn it into training data for frontier AI and robotics models.",
+  "one_liner": "Industrial data layer for physical RSI",
+  "team_size": 25,
+  "industry": "Industrials",
+  "subindustry": "Industrials -> Manufacturing and Robotics",
   "launched_at": 1743036496,
   "tags": [
-    "Generative AI",
-    "Computer Vision",
+    "Robotics",
     "Manufacturing",
-    "Operations"
+    "Data Engineering",
+    "AI"
   ],
   "tags_highlighted": [],
   "top_company": false,
@@ -28,17 +30,18 @@
   "batch": "Spring 2025",
   "status": "Active",
   "industries": [
-    "B2B",
-    "Operations"
+    "Industrials",
+    "Manufacturing and Robotics"
   ],
   "regions": [
-    "Unspecified"
+    "United States of America",
+    "America / Canada"
   ],
   "stage": "Early",
   "app_video_public": false,
   "demo_day_video_public": false,
   "app_answers": null,
-  "question_answers": true,
+  "question_answers": false,
   "url": "https://www.ycombinator.com/companies/linewise",
   "api": "https://yc-oss.github.io/api/batches/spring-2025/linewise.json"
 }

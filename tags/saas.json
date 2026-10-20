@@ -28098,13 +28098,12 @@
     "website": "https://complif.com",
     "all_locations": "Buenos Aires, CABA, Argentina",
     "long_description": "Complif automates compliance processes for financial entities, including KYC/KYB, AML, risk profiling, documentation management and regulatory reporting.",
-    "one_liner": "Compliance tools & AI agents for financial companies",
-    "team_size": 45,
+    "one_liner": "Compliance tools & AI agents for financial entities",
+    "team_size": 100,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1640886031,
     "tags": [
-      "Fintech",
       "SaaS",
       "B2B",
       "Compliance",
@@ -43817,7 +43816,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2024",
     "status": "Active",
@@ -47205,19 +47204,20 @@
     "name": "o11",
     "slug": "o11",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b91d12799d3c1083cf13c1c333bde8b754cfd8dd.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/34cf69944142b4ae981a790f75fe9293d52369a2.png",
     "website": "https://o11.ai",
-    "all_locations": "New York City, NY, USA",
-    "long_description": "o11 is the AI account manager for consumer and self-serve applications, helping teams treat every customer like a flagship client. It brings email and iMessage conversations together, suggests personal replies, and turns customer signals into timely follow-ups. Teams can tailor each persona’s voice and review response plans before turning them on.",
-    "one_liner": "AI account managers for consumer/self-serve apps",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "o11 helps your AI agents access apis, tools, and other paid goods and services. Instead of hacky computer use, managing credit card permissions, assigning each agent a new email, we handle all the hard parts of accessing the paid web. o11 has zero markup and gives teams better prices, easy checkout, and full auditability when purchasing with AI agents. \r\n\r\nThe o11 wallet gives your AI agents access to the paid world.\r\n",
+    "one_liner": "OpenRouter wallet for paid goods and services",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Sales",
+    "subindustry": "B2B",
     "launched_at": 1765258468,
     "tags": [
+      "Developer Tools",
+      "Fintech",
       "SaaS",
       "B2B",
-      "Customer Success",
       "AI"
     ],
     "tags_highlighted": [],
@@ -47227,8 +47227,7 @@
     "batch": "Winter 2026",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Sales"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -48873,5 +48872,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/clean",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/clean.json"
+  },
+  {
+    "id": 37831,
+    "name": "Kairos Health",
+    "slug": "kairos-health",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2d10a5b9186b6b90521d447c81f5fffdf97d2c25.png",
+    "website": "https://kairoshealthai.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Kairos Health automates patient engagement for dentists by handling phones and insurance.\r\n\r\nKairos plugs into a dental practice's software, calls patients who are overdue for care, and books them directly into the schedule. It also answers every inbound call 24/7 and verifies insurance.\r\n\r\nOur mission is to put practice operations on autopilot and keep every chair filled.",
+    "one_liner": "AI front desk that fills every chair for dental practices",
+    "team_size": 4,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1792433200,
+    "tags": [
+      "SaaS",
+      "Health Tech",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/kairos-health",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/kairos-health.json"
   }
 ]

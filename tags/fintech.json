@@ -3704,14 +3704,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/df1f2387282fcfbd2c12fe132115b6a2f5601924.png",
     "website": "https://nomba.com",
     "all_locations": "Lagos, LA, Nigeria",
-    "long_description": "Nomba provides Banking and payment to over 200k+ business in Africa (Nigeria & DRC).",
-    "one_liner": "Banking and payments for businesses in Africa",
-    "team_size": 200,
+    "long_description": "We serve over 35k SMEs ( >$1m annual revenues) across Nigeria, DRC, Ghana, Zambia and Cameroon.",
+    "one_liner": "Global Business Banking for Africa's Ambitious Businesses.",
+    "team_size": 350,
     "industry": "Fintech",
-    "subindustry": "Fintech -> Payments",
+    "subindustry": "Fintech",
     "launched_at": 1478717435,
     "tags": [
-      "Fintech"
+      "Fintech",
+      "Neobank"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3720,8 +3721,7 @@
     "batch": "Winter 2017",
     "status": "Active",
     "industries": [
-      "Fintech",
-      "Payments"
+      "Fintech"
     ],
     "regions": [
       "Nigeria",
@@ -8562,12 +8562,12 @@
     "former_names": [
       "BenePass"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8bbc8c4c109a4e7f7a7911309aa1f0821059a311.png",
-    "website": "http://www.getbenepass.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a0db17e735e0435e1ce25ac6c35d96e72b62cd59.png",
+    "website": "https://www.benepass.com",
     "all_locations": "New York City, NY, USA; New York, NY, USA",
-    "long_description": "Benepass consolidates corporate benefits onto a single card, powered by our in-house fintech payments stack\r\n\r\nWe help companies take care of their employees through tax-advantaged benefits (e.g. FSA/HSA, dependent care, commuter) and company-funded stipends (e.g. wellness, WFH, professional development) all on a single card + mobile app.\r\n\r\nWith Benepass, HR teams can centralize all ancillary benefits and perks in the same place and make them a no-brainer for employees to use and engage with.",
-    "one_liner": "Fintech for corporate compensation",
-    "team_size": 45,
+    "long_description": "Benepass consolidates corporate benefits onto a single card, powered by our in-house fintech payments stack. We run global benefits at scale. \r\n\r\nWe help companies take care of their employees through tax-advantaged benefits (e.g. FSA/HSA, dependent care, commuter) and company-funded lifestyle benefits (e.g. wellness, WFH, professional development) all on a single card + mobile app.",
+    "one_liner": "Pre-tax and lifestyle benefits, managed in one place.",
+    "team_size": 130,
     "industry": "B2B",
     "subindustry": "B2B -> Human Resources",
     "launched_at": 1583889926,
@@ -16416,7 +16416,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -19080,53 +19080,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/upbanx",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/upbanx.json"
-  },
-  {
-    "id": 25526,
-    "name": "Complif",
-    "slug": "complif",
-    "former_names": [
-      "celeri"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b058ab2c92aef24a0255569d8cf05427ba59231c.png",
-    "website": "https://complif.com",
-    "all_locations": "Buenos Aires, CABA, Argentina",
-    "long_description": "Complif automates compliance processes for financial entities, including KYC/KYB, AML, risk profiling, documentation management and regulatory reporting.",
-    "one_liner": "Compliance tools & AI agents for financial companies",
-    "team_size": 45,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1640886031,
-    "tags": [
-      "Fintech",
-      "SaaS",
-      "B2B",
-      "Compliance",
-      "Regtech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "Argentina",
-      "Latin America",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/complif",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/complif.json"
   },
   {
     "id": 25528,
@@ -29862,6 +29815,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/fenrock-ai.json"
   },
   {
+    "id": 31230,
+    "name": "o11",
+    "slug": "o11",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/34cf69944142b4ae981a790f75fe9293d52369a2.png",
+    "website": "https://o11.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "o11 helps your AI agents access apis, tools, and other paid goods and services. Instead of hacky computer use, managing credit card permissions, assigning each agent a new email, we handle all the hard parts of accessing the paid web. o11 has zero markup and gives teams better prices, easy checkout, and full auditability when purchasing with AI agents. \r\n\r\nThe o11 wallet gives your AI agents access to the paid world.\r\n",
+    "one_liner": "OpenRouter wallet for paid goods and services",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1765258468,
+    "tags": [
+      "Developer Tools",
+      "Fintech",
+      "SaaS",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/o11",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/o11.json"
+  },
+  {
     "id": 31255,
     "name": "Grade",
     "slug": "grade",
@@ -30593,12 +30588,12 @@
     "name": "Agentcard",
     "slug": "agentcard",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aba1ff38c8593a6ce1ecdd01f1125330e298ac04.png",
-    "website": "https://agentcard.sh",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5470e0782b6543d28db5fba3d76fabbdb0b65435.png",
+    "website": "https://www.agentcard.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Agentcard.sh is a debit card for AI agents. Agents can use Agentcard’s API to issue cards and pay for things online autonomously.",
-    "one_liner": "cards for AI agents",
-    "team_size": 0,
+    "long_description": "Agentcard let's companies buy anything online. We work with companies building personal assistants to enable payments.",
+    "one_liner": "let agents buy anything online",
+    "team_size": 4,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1780682746,
@@ -30850,7 +30845,7 @@
     "website": "https://grep.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Grep AI is the fastest way to create, optimize, and deploy agents for tedious, complex operational work that slows down your business. Our self-improving agents learn from every run, making them smarter and cheaper as you scale. IG.com a global retail brokerage used our agents to review compliance alerts and now 80% of their customers onboad without manual intervention, doubling first trades and propelling them to a FTSE 100 company. \r\n\r\nCustomers including Airwallex, Worldpay, Citizens Bank, FV Bank and Shopmonkey have used our agents to automate over 250,000 of operational work across compliance, onboarding, underwriting, corporate due diligence, document verification, merchant categorization, market and competitive research, rev ops and much more.\r\n\r\nWe founded Grep AI after experiencing firsthand how manual workflows can prevent a business from growing when we ran the platform team at Brex. We're now on a mission to rid businesses of tedious, repetitive so their employees can focus on the most high leverage tasks that matter.",
-    "one_liner": "Self-improving agents that automate tedious operational work",
+    "one_liner": "Self-improving agents that automate your growth bottlenecks",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",

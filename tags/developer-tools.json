@@ -6851,7 +6851,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2021",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Productivity"
@@ -18911,15 +18911,16 @@
   },
   {
     "id": 30079,
-    "name": "Chicory",
-    "slug": "chicory",
+    "name": "Moonshine",
+    "slug": "moonshine",
     "former_names": [
-      "Moonshine"
+      "Moonshine",
+      "Chicory"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be712cd699fd2b897b2f5250f2ff8e722cfa125f.png",
-    "website": "https://chicory.so",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ecc043e2a363eb7efc3c684adfca1d873931cbba.png",
+    "website": "https://usemoonshine.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "A growing number of states require employers to provide: (1) Notice when automation is used to make decisions, (2) explanations of how automated decisions were made, and (3) options to opt out of or appeal automated decisions. Chicory connects to applications where hiring, employment, and contracting decisions are made and takes care of notices, explanations, recourse, and risk assessments. ",
+    "long_description": "Moonshine creates a platform that connects to applications where hiring, employment, and contracting decisions are made and takes care of notices, explanations, recourse, and risk assessments. ",
     "one_liner": "The platform for automated hiring and workforce decisions.",
     "team_size": 2,
     "industry": "B2B",
@@ -18927,7 +18928,7 @@
     "launched_at": 1729546253,
     "tags": [
       "Developer Tools",
-      "Human Resources",
+      "Compliance",
       "AI"
     ],
     "tags_highlighted": [],
@@ -18948,8 +18949,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/chicory",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/chicory.json"
+    "url": "https://www.ycombinator.com/companies/moonshine",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/moonshine.json"
   },
   {
     "id": 30095,
@@ -18973,7 +18974,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2024",
     "status": "Active",
@@ -23026,6 +23027,48 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/superset.json"
   },
   {
+    "id": 31230,
+    "name": "o11",
+    "slug": "o11",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/34cf69944142b4ae981a790f75fe9293d52369a2.png",
+    "website": "https://o11.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "o11 helps your AI agents access apis, tools, and other paid goods and services. Instead of hacky computer use, managing credit card permissions, assigning each agent a new email, we handle all the hard parts of accessing the paid web. o11 has zero markup and gives teams better prices, easy checkout, and full auditability when purchasing with AI agents. \r\n\r\nThe o11 wallet gives your AI agents access to the paid world.\r\n",
+    "one_liner": "OpenRouter wallet for paid goods and services",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1765258468,
+    "tags": [
+      "Developer Tools",
+      "Fintech",
+      "SaaS",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/o11",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/o11.json"
+  },
+  {
     "id": 31241,
     "name": "Corelayer",
     "slug": "corelayer",
@@ -23469,6 +23512,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rindler",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/rindler.json"
+  },
+  {
+    "id": 31591,
+    "name": "RightNow",
+    "slug": "rightnow",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/59b2e02a314037738d9f32192f83e8bd442be246.png",
+    "website": "https://runinfra.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "RightNow AI is a research lab for GPU kernel optimization. Our platform RunInfra serves top open-source models optimized for AI agents at a fraction of the cost of closed-source APIs\r\n\r\nRightNow AI lab: https://rightnowai.co\r\nRunInfra platform: https://runinfra.ai.",
+    "one_liner": "Co-designing the fastest intelligence",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1779474756,
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "Machine Learning",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rightnow",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/rightnow.json"
   },
   {
     "id": 31592,
@@ -24549,6 +24635,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/boat.json"
   },
   {
+    "id": 35126,
+    "name": "Armorer Labs",
+    "slug": "armorer-labs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fd9c58c48b1017644c81d6d495140aab28b5782.png",
+    "website": "https://armorerlabs.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Armorer helps companies in regulated industries ship their own AI agents faster and keep them secure in production.\n\nMost security tools flag an issue and file a ticket. Armorer assesses your agent and simulates attacks to find the real issues. Then it creates a verified fix that stops the attack without breaking the business, ready for your approval in about 4 hours.\n\nIn production, Armorer checks every agent action in milliseconds, with no GPU needed. It detects malicious behavior such as prompt injection, goal hijacking and data leaks, then allows, holds or denies the action.\n\nArmorer's detection models beat every other detector we tested on six public benchmarks. Armorer is 22% more accurate than JEV while being 88x faster, so users won't feel the delay.\n\nWe spent years building and evaluating AI security systems together at AWS, including its first customer-facing AI security agent, which scaled to 100k+ customers. Armorer is backed by Paul Vixie, Internet Hall of Fame inductee and former AWS Deputy CISO.",
+    "one_liner": "Continuous security verification for AI agents in regulated industries",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1792423718,
+    "tags": [
+      "Developer Tools",
+      "DevSecOps",
+      "Cybersecurity",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/armorer-labs",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/armorer-labs.json"
+  },
+  {
     "id": 35258,
     "name": "Mirrors",
     "slug": "mirrors",
@@ -24770,7 +24898,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d4ea3739a0bbffad42b3f827b3d69b5ad605a8f.png",
     "website": "https://www.pomerado.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pomerado turns any website into an API / MCP in minutes. Empower your agents to use previously inaccessable consumer websites, legacy portals, and internal tools. \r\n\r\nYou or your agent describe a task, Pomerado asks a few clarifying questions, and then delivers an integration. We manage hosting, permissioning, testing, and maintenance, so you can focus on building. \r\n\r\nCustomers can use us to:\r\n    • automate back office workflows on legacy systems (ERP, EHR, CRM)\r\n    • speed up customer integrations for forward deployments\r\n    • connect enterprise assistants to internal tools\r\n    • supercharge personal assistants with fast and reliable browser use\r\n\r\nWe’re ex-McKinsey and Scale AI. While driving F500 enterprise agent deployments, we saw that legacy systems were the true blocker to agentic workflows. Pomerado connects those systems to agents.",
+    "long_description": "Pomerado turns any website into an API / MCP in minutes. Connect your agents to legacy portals, consumer websites, and internal tools. \r\n\r\nWhy Pomerado:\r\n    • 7x faster than browser agents on customer workflows\r\n    • 100x cheaper than browser agents\r\n    • Self healing, deterministic APIs\r\n    • Universal website coverage\r\n    • Hosting, authentication, and permissions handled\r\n\r\nCustomers can use us to:\r\n    • automate back office workflows on legacy systems (ERP, EHR, CRM)\r\n    • speed up customer integrations for forward deployments\r\n    • connect enterprise assistants to internal tools\r\n    • supercharge personal assistants with fast and reliable browser use\r\n\r\nWe’re ex-McKinsey and Scale AI. We drove enterprise agent deployments at F500s and orgs like the Mayo Clinic. We saw how legacy systems block agent development and AI transformations; Pomerado turns those systems into AI-native components automatically.",
     "one_liner": "Turn any website into an MCP for your agents, in minutes",
     "team_size": 2,
     "industry": "B2B",
@@ -24857,8 +24985,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe3dd63fd9bab004c38089f8c0ed95063c64bb18.png",
     "website": "https://uxduck.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Starting with a modern interface for drones that users can build on and adapt. \r\n\r\nWorks with planes, copters, rovers, boats and submarines.",
-    "one_liner": "Android for drones",
+    "long_description": "Starting with a modern interface for drones that users can build on and adapt. \r\n\r\nWorks with planes, copters, rovers, boats and submarines.\r\n\r\nTry it in 5 seconds with simulated drones - https://uxduck.com/",
+    "one_liner": "Build better drones. Run better missions.",
     "team_size": 1,
     "industry": "Industrials",
     "subindustry": "Industrials -> Drones",

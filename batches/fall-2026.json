@@ -132,18 +132,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5ec540989c0e572731406bc02714d7608e407cc3.png",
     "website": "https://godhands.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "GodHands learns how your teams actually work from the apps they already use, capturing the steps, decisions and exceptions that never get written down. It turns them into playbooks, gives people and AI agents the answers, and builds agents that do the work the same way. Teams use GodHands to run operations, onboard new hires, hand over roles, integrate acquisitions and automate repetitive work.",
-    "one_liner": "Turn how your team works into playbooks and agents",
+    "long_description": "GodHands learns how your teams actually work from the apps they already use, capturing the steps, decisions and exceptions that never get written down. It turns them into knowledge and playbooks, gives people and AI agents the answers, and builds agents that do the work the same way. Teams use GodHands to run operations, onboard new hires, hand over roles, integrate acquisitions and automate repetitive work.",
+    "one_liner": "Turn how your team works into playbooks and agents.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1777151399,
     "tags": [
       "B2B",
-      "Workflow Automation",
       "Enterprise",
       "Automation",
-      "Operations"
+      "Operations",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -438,7 +438,13 @@
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1779474756,
-    "tags": [],
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "Machine Learning",
+      "Infrastructure",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -775,7 +781,7 @@
     "website": "https://grep.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Grep AI is the fastest way to create, optimize, and deploy agents for tedious, complex operational work that slows down your business. Our self-improving agents learn from every run, making them smarter and cheaper as you scale. IG.com a global retail brokerage used our agents to review compliance alerts and now 80% of their customers onboad without manual intervention, doubling first trades and propelling them to a FTSE 100 company. \r\n\r\nCustomers including Airwallex, Worldpay, Citizens Bank, FV Bank and Shopmonkey have used our agents to automate over 250,000 of operational work across compliance, onboarding, underwriting, corporate due diligence, document verification, merchant categorization, market and competitive research, rev ops and much more.\r\n\r\nWe founded Grep AI after experiencing firsthand how manual workflows can prevent a business from growing when we ran the platform team at Brex. We're now on a mission to rid businesses of tedious, repetitive so their employees can focus on the most high leverage tasks that matter.",
-    "one_liner": "Self-improving agents that automate tedious operational work",
+    "one_liner": "Self-improving agents that automate your growth bottlenecks",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -1658,18 +1664,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f64a699ef7ce7501af64a3b0efc5dfecb5d71fd5.png",
     "website": "https://appliedkinetics.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Applied Kinetics builds and deploys specialized AI employees to handle the coordination work behind America's energy and data center buildout. Our agents chase suppliers, track equipment approvals and delivery dates, and flag delays so project teams can keep critical equipment moving without hunting for updates across emails and spreadsheets.",
-    "one_liner": "AI for the industries that power America. ",
+    "long_description": "Applied Kinetics is an AI-native, end-to-end manufacturer for data center and energy developers. We supply the transformers, switchgear, generators, cooling systems, and other critical equipment needed to bring new power and compute capacity online. Every unit is built to project specifications, and we manage the process from technical requirements through production and delivery. We shorten lead times and accelerate projects forward, removing the physical bottlenecks holding back the next generation of technological progress.",
+    "one_liner": "End-to-end manufacturing for data center and energy projects",
     "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1789683444,
     "tags": [
       "B2B",
-      "Supply Chain",
-      "Procurement",
+      "Manufacturing",
       "Energy",
-      "AI"
+      "AI",
+      "Industrial"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1678,8 +1684,8 @@
     "batch": "Fall 2026",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
+      "Industrials",
+      "Manufacturing and Robotics"
     ],
     "regions": [
       "United States of America",
@@ -1946,6 +1952,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/altair-health.json"
   },
   {
+    "id": 35126,
+    "name": "Armorer Labs",
+    "slug": "armorer-labs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fd9c58c48b1017644c81d6d495140aab28b5782.png",
+    "website": "https://armorerlabs.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Armorer helps companies in regulated industries ship their own AI agents faster and keep them secure in production.\n\nMost security tools flag an issue and file a ticket. Armorer assesses your agent and simulates attacks to find the real issues. Then it creates a verified fix that stops the attack without breaking the business, ready for your approval in about 4 hours.\n\nIn production, Armorer checks every agent action in milliseconds, with no GPU needed. It detects malicious behavior such as prompt injection, goal hijacking and data leaks, then allows, holds or denies the action.\n\nArmorer's detection models beat every other detector we tested on six public benchmarks. Armorer is 22% more accurate than JEV while being 88x faster, so users won't feel the delay.\n\nWe spent years building and evaluating AI security systems together at AWS, including its first customer-facing AI security agent, which scaled to 100k+ customers. Armorer is backed by Paul Vixie, Internet Hall of Fame inductee and former AWS Deputy CISO.",
+    "one_liner": "Continuous security verification for AI agents in regulated industries",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1792423718,
+    "tags": [
+      "Developer Tools",
+      "DevSecOps",
+      "Cybersecurity",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/armorer-labs",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/armorer-labs.json"
+  },
+  {
     "id": 35127,
     "name": "Rhem Labs",
     "slug": "rhem-labs",
@@ -2037,7 +2085,7 @@
     "slug": "lantern-ai",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b98395722e26f62e5f8c6de59c2dd27361270ec7.png",
-    "website": "https://www.lantern.md",
+    "website": "https://lantern.md",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Lantern is the agentic recruiting platform for enterprise. Traction: 1M ARR in 11 months, with clients like Crypto.com, Hyatt Hotel, Baker McKenzie across 10 markets\r\n\r\nLantern runs on: \r\n(1) World People Model, a live talent graph of a billion professionals that knows who’s exceptional, reachable, and about to move\r\n(2) Company Hiring Model, which learns your taste from every hiring decision you’ve ever made\r\n\r\nTogether, our agents plug into your existing systems and run the whole workflow: sourcing, application review, AI interviews, meeting intelligence, and analytics, under universal context. ",
     "one_liner": "Turn Your Taste Into Hires",
@@ -2338,7 +2386,7 @@
     "website": "https://www.bryel.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "Building in-house, frontier AI labs for companies",
+    "one_liner": "Perceptual reasoning models that are easily customizable",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -2417,8 +2465,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6640b732eb4efe17f2fb11ff75f6f6bc14184872.png",
     "website": "https://withhopper.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Hopper post-trains STT, TTS, and speech LLMs on your production calls, then serves and improves them against your live traffic",
-    "one_liner": "Fast inference for voice",
+    "long_description": "Train, inference, and continuously improve any model.\r\n\r\nHopper post-trains STT, TTS, and LLMs on your production traces, then serves and improves them against your live traffic.",
+    "one_liner": "Inference and post-training for realtime agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -3459,14 +3507,14 @@
     "name": "Vorelios",
     "slug": "vorelios",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c02b36f4ca2283601c8f20e89597a38768ae9db9.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/511019d13a19f348d6a7c3fc8a084d6b838d2243.png",
     "website": "https://vorelios.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Engineering is bottlenecked by slow, costly simulations. We're fixing that by building foundation models that learn physics end-to-end and deliver the same results in seconds, at a fraction of the cost.",
     "one_liner": "A foundation model for engineering physics",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1786417769,
     "tags": [
       "Hard Tech",
@@ -3480,7 +3528,8 @@
     "batch": "Fall 2026",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Engineering, Product and Design"
     ],
     "regions": [
       "United States of America",
@@ -3670,7 +3719,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d4ea3739a0bbffad42b3f827b3d69b5ad605a8f.png",
     "website": "https://www.pomerado.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pomerado turns any website into an API / MCP in minutes. Empower your agents to use previously inaccessable consumer websites, legacy portals, and internal tools. \r\n\r\nYou or your agent describe a task, Pomerado asks a few clarifying questions, and then delivers an integration. We manage hosting, permissioning, testing, and maintenance, so you can focus on building. \r\n\r\nCustomers can use us to:\r\n    • automate back office workflows on legacy systems (ERP, EHR, CRM)\r\n    • speed up customer integrations for forward deployments\r\n    • connect enterprise assistants to internal tools\r\n    • supercharge personal assistants with fast and reliable browser use\r\n\r\nWe’re ex-McKinsey and Scale AI. While driving F500 enterprise agent deployments, we saw that legacy systems were the true blocker to agentic workflows. Pomerado connects those systems to agents.",
+    "long_description": "Pomerado turns any website into an API / MCP in minutes. Connect your agents to legacy portals, consumer websites, and internal tools. \r\n\r\nWhy Pomerado:\r\n    • 7x faster than browser agents on customer workflows\r\n    • 100x cheaper than browser agents\r\n    • Self healing, deterministic APIs\r\n    • Universal website coverage\r\n    • Hosting, authentication, and permissions handled\r\n\r\nCustomers can use us to:\r\n    • automate back office workflows on legacy systems (ERP, EHR, CRM)\r\n    • speed up customer integrations for forward deployments\r\n    • connect enterprise assistants to internal tools\r\n    • supercharge personal assistants with fast and reliable browser use\r\n\r\nWe’re ex-McKinsey and Scale AI. We drove enterprise agent deployments at F500s and orgs like the Mayo Clinic. We saw how legacy systems block agent development and AI transformations; Pomerado turns those systems into AI-native components automatically.",
     "one_liner": "Turn any website into an MCP for your agents, in minutes",
     "team_size": 2,
     "industry": "B2B",
@@ -4039,6 +4088,46 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/archangel-health.json"
   },
   {
+    "id": 36213,
+    "name": "Yam",
+    "slug": "yam",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c297c8850d0327ee68a350cb20ee3ca0b6946537.png",
+    "website": "https://hiyam.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Yam simulates a Love Island–style dating experience for women, starring their favorite characters. Avg playtime per DAU is 3+ hrs! ",
+    "one_liner": "AI-powered dating sims for women",
+    "team_size": 3,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1792446812,
+    "tags": [
+      "Generative AI",
+      "Gaming",
+      "Creator Economy"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/yam",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/yam.json"
+  },
+  {
     "id": 36279,
     "name": "Native",
     "slug": "native",
@@ -4375,7 +4464,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/10aa0357ff173a9e31708ec1fdba33b53c40c20f.png",
     "website": "https://www.sutrix.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sutrix turns messy EHR records into clean, study-ready datasets by deploying ai systems within hospital research teams' enviornment.\r\n\r\nBefore a clinical study can start, research staff spend weeks pulling records, reading notes chart by chart and fixing conflicting entries in spreadsheets. Sutrix automates that work inside each hospital's own systems. It applies the study's rules and flags unclear cases for staff to review.\r\n\r\nPaying research teams at HSS, Emory, and Mount Sinai cut data prep from 3 weeks per study to 4 days, and now they are able to deliver tailored patient outcomes faster.\r\n\r\nWe built Sutrix because we lived this problem. Ritvik ran clinical research at HSS and Emory, and Supratik previously founded Kairo (a16z Speedrun, exited) and was an engineer at Amazon.",
+    "long_description": "Sutrix turns messy data from EHRs, clinical notes, wearables, and surveys into clean, study-ready datasets allowing hospital research teams' to deliver tailored patient care faster.\r\n\r\nBefore a clinical study can start, research staff spend weeks pulling patient data from disconnected systems like the EHR, REDCap, and wearable platforms, reading notes chart by chart, and reconciling conflicting entries in spreadsheets. Sutrix automates that work by deploying AI systems within each team’s own environment, linking patient records across sources, applying the study's rules, and flagging unclear cases for staff to review.\r\n\r\nPaying research teams at 10+ institutions cut data prep by 80% going from weeks per study to days.\r\n\r\nWe're brothers who've built together for 4 years. We first solved this problem doing forward-deployed work at HSS, where we built an injury surveillance system now used by 700+ teams. Ritvik's clinical research at HSS and Emory showed us every research team has the same bottleneck. Supratik previously founded Kairo (a16z Speedrun, exited) and built production AI agents at Amazon.",
     "one_liner": "Deployed AI to turn EHR data into study-ready datasets ",
     "team_size": 2,
     "industry": "Healthcare",
@@ -4667,8 +4756,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe3dd63fd9bab004c38089f8c0ed95063c64bb18.png",
     "website": "https://uxduck.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Starting with a modern interface for drones that users can build on and adapt. \r\n\r\nWorks with planes, copters, rovers, boats and submarines.",
-    "one_liner": "Android for drones",
+    "long_description": "Starting with a modern interface for drones that users can build on and adapt. \r\n\r\nWorks with planes, copters, rovers, boats and submarines.\r\n\r\nTry it in 5 seconds with simulated drones - https://uxduck.com/",
+    "one_liner": "Build better drones. Run better missions.",
     "team_size": 1,
     "industry": "Industrials",
     "subindustry": "Industrials -> Drones",
@@ -5748,6 +5837,47 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/tilo.json"
   },
   {
+    "id": 37831,
+    "name": "Kairos Health",
+    "slug": "kairos-health",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2d10a5b9186b6b90521d447c81f5fffdf97d2c25.png",
+    "website": "https://kairoshealthai.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Kairos Health automates patient engagement for dentists by handling phones and insurance.\r\n\r\nKairos plugs into a dental practice's software, calls patients who are overdue for care, and books them directly into the schedule. It also answers every inbound call 24/7 and verifies insurance.\r\n\r\nOur mission is to put practice operations on autopilot and keep every chair filled.",
+    "one_liner": "AI front desk that fills every chair for dental practices",
+    "team_size": 4,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1792433200,
+    "tags": [
+      "SaaS",
+      "Health Tech",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/kairos-health",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/kairos-health.json"
+  },
+  {
     "id": 37864,
     "name": "OpenHack",
     "slug": "openhack",
@@ -5879,7 +6009,7 @@
     "name": "Adside.ai",
     "slug": "adsideai",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/924baaaf60804210430329e604f7a68c0670bc03.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4e762367db2ece01156d1933d40f463f680d2397.png",
     "website": "https://adside.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We're Robin Choy and Guillaume Miara, founders of Adside (adside.ai). We're building Adside, a swarm of agents that manages ads on Meta, Google and LinkedIn, etc. We’re building the service we wished we had in our previous B2B marketing software company that we sold earlier this year.",
@@ -5993,6 +6123,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/maritime",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/maritime.json"
+  },
+  {
+    "id": 38094,
+    "name": "Super Powers Mobility (SPM)",
+    "slug": "super-powers-mobility-spm",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a5c35648a3ac00d7da1ce27b5b0a62372c6a5f2e.png",
+    "website": "https://www.spm.fun",
+    "all_locations": "Pittsburgh, PA, USA",
+    "long_description": "We started off building 470V high voltage electric off-road vehicles but we realized our ultra power dense battery packs are useful for mobile and stationary energy storage and power export, for military and consumer use cases. We develop battery packs, power electronics, and traction powertrain systems for vehicles.",
+    "one_liner": "Modular battery packs for mobility/vehicles",
+    "team_size": 4,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Defense",
+    "launched_at": 1788100804,
+    "tags": [
+      "Energy Storage",
+      "Unmanned Vehicle",
+      "Electronics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/super-powers-mobility-spm",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/super-powers-mobility-spm.json"
   },
   {
     "id": 38127,

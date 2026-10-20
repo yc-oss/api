@@ -1606,7 +1606,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -2422,7 +2422,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -3171,19 +3171,20 @@
   },
   {
     "id": 30542,
-    "name": "Vision Lab",
-    "slug": "vision-lab",
+    "name": "Linewise",
+    "slug": "linewise",
     "former_names": [
       "Comply Genie",
       "Vision Nexus",
-      "LineWise"
+      "LineWise",
+      "Vision Lab"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f9c8aab3bb47bc9402833acb64276f52de063681.png",
-    "website": "https://thevisionlab.ai/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2b6523fd3e82e786169b750e69bb81160c422bc6.png",
+    "website": "https://linewise.io/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We capture and structure real factory workflows at scale by combining first-person industrial video with SOP-level process knowledge.\r\n\r\nThis enables robotics and AI labs to train on real production data, not just controlled lab environments.",
-    "one_liner": "Industrial data layer for robotics training",
-    "team_size": 11,
+    "long_description": "We capture how physical things are made, from the first design to the final assembly, and turn it into training data for frontier AI and robotics models.",
+    "one_liner": "Industrial data layer for physical RSI",
+    "team_size": 25,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1743036496,
@@ -3212,8 +3213,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/vision-lab",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/vision-lab.json"
+    "url": "https://www.ycombinator.com/companies/linewise",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/linewise.json"
   },
   {
     "id": 30560,
@@ -4454,6 +4455,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/faraday",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/faraday.json"
+  },
+  {
+    "id": 34959,
+    "name": "Applied Kinetics",
+    "slug": "applied-kinetics",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f64a699ef7ce7501af64a3b0efc5dfecb5d71fd5.png",
+    "website": "https://appliedkinetics.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Applied Kinetics is an AI-native, end-to-end manufacturer for data center and energy developers. We supply the transformers, switchgear, generators, cooling systems, and other critical equipment needed to bring new power and compute capacity online. Every unit is built to project specifications, and we manage the process from technical requirements through production and delivery. We shorten lead times and accelerate projects forward, removing the physical bottlenecks holding back the next generation of technological progress.",
+    "one_liner": "End-to-end manufacturing for data center and energy projects",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1789683444,
+    "tags": [
+      "B2B",
+      "Manufacturing",
+      "Energy",
+      "AI",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/applied-kinetics",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/applied-kinetics.json"
   },
   {
     "id": 35025,
