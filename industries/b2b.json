@@ -11281,7 +11281,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2014",
     "status": "Active",
@@ -23010,7 +23010,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -34216,8 +34216,8 @@
   },
   {
     "id": 12871,
-    "name": "Motion",
-    "slug": "motion",
+    "name": "Wonderly",
+    "slug": "wonderly",
     "former_names": [
       "Betiver",
       "Betingale",
@@ -34226,22 +34226,24 @@
       "NexusBird",
       "nexusbird",
       "Nexusbird",
-      "NexusBird"
+      "NexusBird",
+      "Motion"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/25b0dd2e6d40928386efa49045651d24ad82e60b.png",
-    "website": "https://www.usemotion.com/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/952fa3d3926bb1dcb323e457833579b03581d697.png",
+    "website": "https://www.wonderly.com/",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Motion lets you build and manage AI Employees directly within our work management platform, an AI-native productivity suite offering project management, task management, calendar, docs, wiki, notes, scheduling, contextual search, reports, and more. ",
-    "one_liner": "The only work management platform for both Human and AI Employees",
-    "team_size": 65,
+    "long_description": "Wonderly is a closed-loop, end-to-end system that self-improves on our customers’ revenue. We serve the home service industry ($1.3T), and can consistently double a new customer’s revenue within 90 days. We make all of our AI and software completely free - and only get paid when our customers make real money. We’re here helping real small businesses make a life, pay for their children’s college tuition, and live the American dream.\r\n\r\nFunded by Motion's $20M/year in free cashflow and $60M+ raised",
+    "one_liner": "Closed-loop end-to-end AI System that recursively improves on…",
+    "team_size": 75,
     "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
+    "subindustry": "B2B",
     "launched_at": 1583629488,
     "tags": [
+      "AIOps",
       "SaaS",
       "B2B",
-      "Productivity",
-      "AI"
+      "AI",
+      "Conversational AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -34250,8 +34252,7 @@
     "batch": "Winter 2020",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Productivity"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -34264,8 +34265,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/motion",
-    "api": "https://yc-oss.github.io/api/batches/winter-2020/motion.json"
+    "url": "https://www.ycombinator.com/companies/wonderly",
+    "api": "https://yc-oss.github.io/api/batches/winter-2020/wonderly.json"
   },
   {
     "id": 12876,
@@ -34349,7 +34350,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -62350,7 +62351,7 @@
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "The IOMETE self-hosted data lakehouse platform unifies all data - regardless of where the data resides - enabling large-scale analytics (BI/ML/AI) on the entire data set. IOMETE runs always in the customer's environment, whether on premises, on public cloud or private cloud thereby maximizing data security, data privacy and data ownership while reducing cost.",
     "one_liner": "Self-hosted data lakehouse platform",
-    "team_size": 21,
+    "team_size": 25,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1644374925,
@@ -82456,7 +82457,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Outset offers AI-powered user interviews to conduct qualitative research. Traditional surveys are fast but lack depth while live interviews produce high quality data but are slow and expensive. Outset uses LLMs to lead interviews and synthesize results so researchers get high quality data 100 times faster. ",
     "one_liner": "AI-powered user interviews",
-    "team_size": 30,
+    "team_size": 120,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1683921315,
@@ -82481,7 +82482,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -86125,16 +86126,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a04edfc3d5a9b0bb3ae585010c50f7f39fdc2a1.png",
     "website": "http://nowadays.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Nowadays is the AI-native platform for corporate meetings and events. Our AI doesn't just assist planners – it does the work. It emails and calls venues, negotiates rates in 22 languages, parses 50-page hotel proposals into clean apples-to-apples comparisons, and surfaces unmanaged meeting spend across your entire org.\r\n\r\nWe work with companies ranging from ones planning one epic company kickoff a year to ones running thousands of meetings through the platform annually. Clients include Google, Airbnb, BlackRock, Anthropic, Pylon, and Mintlify.\r\n\r\nUnlike legacy platforms like Cvent that bolted AI onto decades-old infrastructure, Nowadays was built from the ground up for the AI era.",
+    "long_description": "Nowadays is the AI-native platform for corporate meetings and events. Our AI doesn't just assist planners, it does the work: it emails and calls venues, negotiates rates in 22 languages, and parses 50-page hotel proposals into clean apples-to-apples comparisons. Clients routinely save 20-30% vs. booking direct, and one Fortune 500 VP uncovered $18M in unmanaged meeting spend just by turning Nowadays on.\r\n\r\nWe started out working with small startups. Today, Google, Airbnb, BlackRock, Anthropic, Pylon, and Mintlify use Nowadays to bring their people together, from one epic kickoff a year to thousands of meetings annually.",
     "one_liner": "AI-native platform for corporate meetings and events",
-    "team_size": 6,
+    "team_size": 11,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1687830204,
     "tags": [
       "B2B",
+      "Travel",
       "Logistics",
-      "Marketing",
+      "Enterprise",
       "AI"
     ],
     "tags_highlighted": [],
@@ -87035,7 +87037,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -87105,7 +87107,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -89166,9 +89168,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/511c79fc4e10857bff72dd38626234991f19c62c.png",
     "website": "https://respan.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Respan gives teams a unified control plane to trace and evaluate agent behavior without guesswork, automatically surface issues, and fix what breaks faster. Respan connects production observability, automated and human-in-the-loop evaluations, and an adaptive AI gateway to close the loop between detection, decision, and action - so agents improve continuously in production.\r\n\r\nRespan is trusted by 100+ AI startups and enterprise teams. Today, the platform process 1B+ logs and 2T+ tokens every month, supporting more than 6.5M end users.",
-    "one_liner": "Self-driving observability, evals, and gateway for AI agents",
-    "team_size": 23,
+    "long_description": "Respan is an open-source AI gateway that helps companies run reliable AI applications at scale. Written in Rust and designed to be extended, it gives developers control over how their applications connect to models and providers. Respan combines the gateway with observability and evaluations so teams can understand agent behavior, resolve issues and improve quality in production. The platform processes over 10T tokens each month and supports more than 6.5M end users.",
+    "one_liner": "Open-source, extensible AI gateway with observability and evals",
+    "team_size": 20,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1711136962,
@@ -90615,21 +90617,21 @@
     "name": "Toma",
     "slug": "toma",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/30c720ae0d8e011f3d717a623f88d12d48f2a84c.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/487d262a82be5ca0a686f315a9b5fa293f2006b9.png",
     "website": "http://www.toma.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
     "one_liner": "AI Applied Research",
     "team_size": 20,
     "industry": "B2B",
-    "subindustry": "B2B -> Operations",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1702419018,
     "tags": [
-      "Marketing",
-      "Customer Support",
-      "AI",
-      "Automotive",
-      "Conversational AI"
+      "Marketplace",
+      "B2B",
+      "Productivity",
+      "HR Tech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -90639,15 +90641,13 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Operations"
+      "Engineering, Product and Design"
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -91610,7 +91610,7 @@
       "United Kingdom",
       "Europe"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -98006,49 +98006,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/parley.json"
   },
   {
-    "id": 29773,
-    "name": "Soff",
-    "slug": "soff",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6da2b305915dd2f4090a9cd55210079b59c3095d.png",
-    "website": "https://soff.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Distributors & Manufacturers use Soff to grow revenue through Soff's sales agents that process quotes, orders and handles all communication with customers, co-workers & suppliers.",
-    "one_liner": "AI Agents for Distributors",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
-    "launched_at": 1721748598,
-    "tags": [
-      "B2B",
-      "Sales",
-      "Manufacturing",
-      "Supply Chain",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/soff",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/soff.json"
-  },
-  {
     "id": 29778,
     "name": "Praxos",
     "slug": "praxos",
@@ -99701,7 +99658,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -105746,8 +105703,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e739bf439400b44a89bc15e023cbe6bca3f9e00.png",
     "website": "https://confident-ai.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Confident AI provides enterprises an all-in-one platform to evaluate, observe, red team, and govern AI applications. Built by the creators of DeepEval (16k stars, 8m monthly downloads), Confident AI is able to offer battle-tested, open-source evaluation algorithms while providing the infrastructure needed for teams to stay confident their AI systems.",
-    "one_liner": "The LLM Eval and Observability Platform for AI Quality",
+    "long_description": "Confident AI surfaces failures in AI agents and automatically turns problematic traces into the the next eval, so teams don't ship the same issue twice. Unlike a general purpose AI observability tool, Confident AI has specialized evals for each AI system including multi-agent systems, voice, MCP, and more. For enterprises, Confident AI's an all-in-one AI quality platform including red teaming and AI governance.",
+    "one_liner": "Production Monitoring & Evals for AI Agents",
     "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -106900,7 +106857,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -107443,7 +107400,7 @@
       "Fira"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e50d8dfa254f692b3d51a22620ca8519141e9ed2.png",
-    "website": "https://artil.dev/",
+    "website": "https://artil.ai/",
     "all_locations": "London, England, United Kingdom",
     "long_description": "Artil gives AI agents their own email addresses and phone numbers so they can communicate and use online services. Agents can send and receive emails and text messages, sign up for services, and complete email and SMS verification. We’re building the identity and communication infrastructure for teams developing agents and people putting them to work.",
     "one_liner": "Agent identity and communication infrastructure",
@@ -111913,7 +111870,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2025",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B"
     ],
@@ -112131,7 +112088,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc86727a443ac448343eba0a5ce27b88d63b2f8f.png",
     "website": "https://traceroot.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "TraceRoot is the open-source AI agent improvement platform. Turn production traces into actionable feedback and evals, closing the improvement loop with your coding agent.",
+    "long_description": "TraceRoot is the open-source AI agent improvement platform. Find the patterns in your agent's production issues. Ship verified fixes with your coding agent.",
     "one_liner": "Open Source AI Agent Improvement Platform",
     "team_size": 4,
     "industry": "B2B",
@@ -115987,7 +115944,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2026",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Operations"
@@ -117607,7 +117564,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Cranston is AI tax prep and bookkeeping for CPA firms.\r\n\r\nOur tax agents prepare returns the way a strong staff accountant would: they read the source documents, work the return in your tax software, and hand your reviewer a return that holds up, with workpapers attached. Our bookkeeping agents keep client books current all year, so tax season starts from clean numbers instead of cleanup.\r\n\r\nPrep and books are the start. We're building Cranston into the system a firm runs on: the place where prep, review, client requests, and the rest of the practice get done.",
     "one_liner": "AI Tax prep and accounting software for CPA firms",
-    "team_size": 2,
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1759732290,
@@ -119807,7 +119764,7 @@
     "all_locations": "New York City, NY, USA",
     "long_description": "DiligenceSquared delivers AI-powered market due diligence for investment decisions - like the $500k McKinsey reports, but automated, auditable, and at a fraction of the cost.\r\n\r\nWhen Private Equity funds evaluate deals, they pay firms like McKinsey, BCG, and Bain $500K-$1M for market due diligence. The process takes weeks, and the output is a static PowerPoint that's impossible to audit. A single large-cap PE fund can spend >$30M annually on this and the total market is $10B per year.\r\n\r\nOur AI agents conduct expert interviews and synthesize insights with every claim linked to source transcripts. No black box, no \"trust me\" slides, and no 10x mark-up for human labor.\r\n\r\nFrederik bought these reports as a Principal at Blackstone. Soren sold them as a Principal at BCG. Harshil is a repeat founder and former Software Engineer at Google. We've seen both sides and know what matters in due diligence - and now we automate it.\r\n\r\nOur clients already include 8 leading private equity funds with over $2.4 trillion in combined AUM.",
     "one_liner": "AI-powered market due diligence for investment decisions",
-    "team_size": 3,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1762366564,
@@ -124437,7 +124394,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Booko helps businesses that sell bookable time slots make more money by dynamically pricing their time. Unlike physical inventory, unsold time slots disappear forever, yet most time-slot-based businesses still rely on static pricing. We integrate with existing booking systems to adjust prices and incentives based on historical utilization, availability, and demand. Early customers see ~20% revenue uplift by selling time that would have otherwise gone unsold.",
     "one_liner": "Dynamically pricing the whole economy. ",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1769199393,
@@ -127161,6 +127118,47 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/andco.json"
   },
   {
+    "id": 31412,
+    "name": "ClaimKit",
+    "slug": "claimkit",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/84c9108b678be20aa2eb043ad910ef1419471630.png",
+    "website": "https://claimkit.co/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "AI-native professional services agency ",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1792536160,
+    "tags": [
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/claimkit",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/claimkit.json"
+  },
+  {
     "id": 31413,
     "name": "Arga Labs",
     "slug": "arga-labs",
@@ -127474,6 +127472,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/gojiberry-ai",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/gojiberry-ai.json"
+  },
+  {
+    "id": 31427,
+    "name": "Paper Star",
+    "slug": "paper-star",
+    "former_names": [
+      "Paper Star",
+      "Napkin Math"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b742e44edb8947d9dc31423fa049239d2316de2f.png",
+    "website": "https://paperstar.cc",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "more coming soon...",
+    "one_liner": "Building the next generation of agents",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1775700750,
+    "tags": [
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/paper-star",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/paper-star.json"
   },
   {
     "id": 31428,
@@ -127885,7 +127924,7 @@
       "markup.one",
       "tday"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0407fd665b690944a7e3117449a6850bf1f45e9f.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3757196228dee380b044009d7e4a7d8ebc8d7894.png",
     "website": "https://tday.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "tday automatically turns a software company's product into on-brand marketing creative. Connect your product and git repo, and tday generates polished launch videos, social graphics, and ads, the content a team would normally spend hours making in a design tool or pay a freelancer for. tday then publishes the creative and measures how it performs across your social and ad channels, closing the loop from what you ship to what you post.",
@@ -128971,6 +129010,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/characterquilt",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/characterquilt.json"
+  },
+  {
+    "id": 31515,
+    "name": "Probe",
+    "slug": "probe",
+    "former_names": [
+      "Probe",
+      "Prbe"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/780b6c60b90925a2f3c887e2f124b2d6b927573b.png",
+    "website": "https://useprobe.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Probe is building the agent-native research stack.\r\n\r\nOur goal is simple: help AI/ML teams run better experiments, faster. We believe research will drive progress and everyone deserves to have their own personalized lab that iterates faster than ever before. \r\n\r\nProbe brings core research tools, shared context from past experiments, and visibility into each run together in one platform. Helping teams spend less time setting up infrastructure, supervising agents, catching teammates up and more time testing ideas.\r\n\r\nBuilt for helping research labs experiment faster while keeping every researcher and agent aligned, and helping AI/ML teams setup a research capability without building a lab’s infrastructure first.",
+    "one_liner": "The Agent-Native Research Stack",
+    "team_size": null,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1779943372,
+    "tags": [
+      "Machine Learning",
+      "SaaS",
+      "B2B",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/probe",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/probe.json"
   },
   {
     "id": 31516,
@@ -130541,7 +130626,7 @@
       "Belvedir",
       "Fractal Machine Research"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f68cfb5228c7e522deffed4be2be94da5eab6d3.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fdbbbe883c8bc36d2de50d07c6d7cb80cde6ad0a.png",
     "website": "https://belvedir.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
@@ -132427,11 +132512,11 @@
     "name": "Click",
     "slug": "click",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3eb675c91f3464d134cd3d9c18712ad08bea23bb.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1ed30d715c1d9c492a56975e2eb6c95ba888810e.png",
     "website": "https://www.useclick.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Click serves agents over an API. Bring your model keys, tools, and context - Click runs the agent and streams back events.\r\nAsk your coding agent about useclick.ai/reference!",
-    "one_liner": "Managed Agents API",
+    "long_description": "Click serves agents over an API. Use any model, bring your tools, and submit inputs - Click runs the agent and streams back events.\r\nAsk your coding agent about useclick.ai/reference!",
+    "one_liner": "Serverless agents",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -134126,7 +134211,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd39ca163a2a8ea396a6ec66701926317f9f416c.png",
     "website": "https://osseus.ai/",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "In an era of cheap intelligence, the most important application of AI will be to improving human health, globally. Osseus is building the frontier medical AI lab, starting with the clinical datasets, evaluations, and reinforcement learning environments that help AI labs train more capable, aligned, and safe models.",
+    "long_description": "In an era of cheap intelligence, the most important application of AI will be to improving human health, globally. Osseus is building the frontier biomedical AI research lab, starting with the clinical datasets, evaluations, and reinforcement learning environments that help AI labs train more capable, aligned, and safe models.",
     "one_liner": "The frontier data platform for aligned health and biological AI",
     "team_size": 2,
     "industry": "B2B",
@@ -135140,6 +135225,47 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/sigma-2.json"
   },
   {
+    "id": 34926,
+    "name": "Orgo",
+    "slug": "orgo",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e545998082b7c19d428d475144fca56ffb388bb.png",
+    "website": "https://www.orgo.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Orgo is the simplest way to give your AI employees their own secure, persistent cloud computers. Over 1000 teams use Orgo to run AI workers.",
+    "one_liner": "Computers for Agents",
+    "team_size": 0,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1792474206,
+    "tags": [
+      "Developer Tools",
+      "Cloud Computing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/orgo",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/orgo.json"
+  },
+  {
     "id": 34928,
     "name": "Boat",
     "slug": "boat",
@@ -135408,16 +135534,13 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cf5d37476e8f7b170957ddb85fd0254d52fa2634.png",
     "website": "https://www.nodus-compute.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Intelligent Cloud for AI workloads",
+    "long_description": "GPU capacity is sold like real estate: locked up, prepaid and idle half the time. Nodus makes it liquid, runs any AI workload on it through one execution layer, and puts research agents on every run to make the next one cheaper. More workloads mean better research, and better research means cheaper compute, a loop no single-product cloud can match.",
     "one_liner": "Intelligent Cloud for AI workloads",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1788063210,
-    "tags": [
-      "Infrastructure",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -135613,8 +135736,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/47198fc0e393650eaf6b3a2b120ff40b912a2645.png",
     "website": "https://meetriver.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "AI made software engineers 100x more productive. We're bringing that same transformation to knowledge workers with the AI desktop.",
-    "one_liner": "The AI desktop.",
+    "long_description": "AI made software engineers 100x more productive. We're doing the same thing for knowledge work with the AI computer.",
+    "one_liner": "The AI computer.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -135653,7 +135776,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6640b732eb4efe17f2fb11ff75f6f6bc14184872.png",
     "website": "https://withhopper.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Train, inference, and continuously improve any model.\r\n\r\nHopper post-trains STT, TTS, and LLMs on your production traces, then serves and improves them against your live traffic.",
+    "long_description": "Hopper trains models on your production traces, then serves and improves them against your live traffic.",
     "one_liner": "Inference and post-training for realtime agents",
     "team_size": 2,
     "industry": "B2B",
@@ -136363,6 +136486,47 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/trylatent.json"
   },
   {
+    "id": 36378,
+    "name": "Synara",
+    "slug": "synara",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd7f562c2b84a1527d622d32cb773ab28925d85e.png",
+    "website": "https://synaraops.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Security cameras don’t stop crime. They film it. Traditional monitoring does one job: watching an empty site after hours. It misses anything more complex, and anything that happens during the day. When something does happen, it sends an alert and leaves the response to you.\r\n\r\nSynara is the AI monitoring station for the cameras that are already installed. It needs no new hardware and watches day and night. It understands far more than intruders: falls, guns, fights. And it owns the response. Synara verifies incidents in seconds, talks intruders down on site or sends police a verified alarm, then coordinates with officers on who’s on site and where people are safe, until the insurance claim is resolved.\r\n\r\nBecause AI does the watching, monitoring becomes drastically cheaper and more accurate. Synara sells through security integrators under their own brand, so every camera they’ve installed becomes recurring revenue.",
+    "one_liner": "We are the last monitoring station, run by AI",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1792520419,
+    "tags": [
+      "Deep Learning",
+      "Security Orchestration, Automation and Response (SOAR)",
+      "Monitoring"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/synara",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/synara.json"
+  },
+  {
     "id": 36510,
     "name": "Preload",
     "slug": "preload",
@@ -137034,7 +137198,7 @@
     "slug": "graypass",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/824e97773961053f47e92f9a1a6fd805d2328d0b.png",
-    "website": "https://www.graypass.org",
+    "website": "https://graypass.com/",
     "all_locations": "Toronto, ON, Canada",
     "long_description": "Login tells you who signed in. GrayPass helps apps check who’s behind sensitive actions and whether they’re authorized before those actions go through.\r\n\r\nIt combines identity, device and session context with behavioral signals like typing rhythm, cursor movement and scrolling. Before a sensitive action goes through, GrayPass evaluates that evidence against your team’s policy and returns a decision: allow, challenge, hold or deny. Your app enforces the decision.\r\n\r\nThis applies to actions like exporting sensitive data, changing admin permissions or allowing an AI agent to act on someone’s behalf. Allowed actions receive short-lived, signed proof tied to the exact action and your app.\r\n\r\nYour existing login and authentication stack stays in place.",
     "one_liner": "Verify the expected person is still in control before sensitive…",
@@ -137152,6 +137316,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tilo",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/tilo.json"
+  },
+  {
+    "id": 37863,
+    "name": "Kiwi",
+    "slug": "kiwi",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6492ecdf3ad27ca28600ae19b9da5cbf338cadc3.png",
+    "website": "https://withkiwi.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "While engineering teams have become fully AI-native, GTM teams have fallen behind. Teams struggle with continuous enablement of their teams, keeping context, agent skills, and connectors up to date with shifting GTM states and strategies, as well as accuracy, when operators can't trust their agents because the data is incomplete, inconsistent, or unreliable. With Kiwi, every agent is self-improving, and cites the SQL query and data snapshot pulled from the Kiwi GTM brain used to produce every output. Kiwi enables GTM teams to be fully AI-native. ",
+    "one_liner": "Kiwi is your GTM agent's favorite data engineer.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1787879276,
+    "tags": [
+      "Collaboration",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/kiwi",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/kiwi.json"
   },
   {
     "id": 37864,
@@ -137281,6 +137485,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/sintropix.json"
   },
   {
+    "id": 37997,
+    "name": "Phone Harness",
+    "slug": "phone-harness",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/23ec853288e1b553559441fa473fe33b364597cb.png",
+    "website": "https://phone-harness.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Phone Harness is the most popular open-source harness for phone automation with 3,800+ GitHub stars. We enable agents to tap, type, and scroll on your personal phone or cloud-hosted phones. Supports iPhone and Android. No jailbreak, API, or app installation needed.",
+    "one_liner": "Let your agent control your phone",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1792518932,
+    "tags": [
+      "Open Source",
+      "API",
+      "Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/phone-harness",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/phone-harness.json"
+  },
+  {
     "id": 37998,
     "name": "Adside.ai",
     "slug": "adsideai",
@@ -137402,6 +137648,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/deepmark",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/deepmark.json"
+  },
+  {
+    "id": 38226,
+    "name": "Wondersearch",
+    "slug": "wondersearch",
+    "former_names": [
+      "Polygres",
+      "Evokoa / Polygres"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1dfdffe31c74cb7df1b408193b1e4360c19f0815.png",
+    "website": "https://wondersearch.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Our mission is to give every AI agent the right context, from any amount of data.\r\n\r\nWonderSearch is search built for AI agents. We let developers make all of their data searchable by meaning, without embeddings, servers or ingestion, so agents can pull the right context and cite where it came from. Unlike vector databases and RAG stacks, there's no pipeline to build or maintain: connect your files and data, and they're searchable right away. It runs on our own search model, and you pay only per query, whatever the size of your data.\r\n\r\nTeams use WonderSearch across their own documents and knowledge, and build it into their products, help centres and AI features, connecting through MCP, our API, the CLI or the Python SDK.\r\n\r\n(Evokoa, Inc. is the company behind WonderSearch.)",
+    "one_liner": "Instant semantic search over your data without embeddings.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1792520464,
+    "tags": [
+      "Developer Tools",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/wondersearch",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/wondersearch.json"
   },
   {
     "id": 38358,

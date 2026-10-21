@@ -168,6 +168,47 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/godhands.json"
   },
   {
+    "id": 31412,
+    "name": "ClaimKit",
+    "slug": "claimkit",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/84c9108b678be20aa2eb043ad910ef1419471630.png",
+    "website": "https://claimkit.co/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "AI-native professional services agency ",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1792536160,
+    "tags": [
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/claimkit",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/claimkit.json"
+  },
+  {
     "id": 31452,
     "name": "Degla Inc",
     "slug": "degla-inc",
@@ -1612,6 +1653,47 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/viraj-aero.json"
   },
   {
+    "id": 34926,
+    "name": "Orgo",
+    "slug": "orgo",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e545998082b7c19d428d475144fca56ffb388bb.png",
+    "website": "https://www.orgo.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Orgo is the simplest way to give your AI employees their own secure, persistent cloud computers. Over 1000 teams use Orgo to run AI workers.",
+    "one_liner": "Computers for Agents",
+    "team_size": 0,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1792474206,
+    "tags": [
+      "Developer Tools",
+      "Cloud Computing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/orgo",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/orgo.json"
+  },
+  {
     "id": 34928,
     "name": "Boat",
     "slug": "boat",
@@ -2220,16 +2302,13 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cf5d37476e8f7b170957ddb85fd0254d52fa2634.png",
     "website": "https://www.nodus-compute.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Intelligent Cloud for AI workloads",
+    "long_description": "GPU capacity is sold like real estate: locked up, prepaid and idle half the time. Nodus makes it liquid, runs any AI workload on it through one execution layer, and puts research agents on every run to make the next one cheaper. More workloads mean better research, and better research means cheaper compute, a loop no single-product cloud can match.",
     "one_liner": "Intelligent Cloud for AI workloads",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1788063210,
-    "tags": [
-      "Infrastructure",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -2425,8 +2504,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/47198fc0e393650eaf6b3a2b120ff40b912a2645.png",
     "website": "https://meetriver.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "AI made software engineers 100x more productive. We're bringing that same transformation to knowledge workers with the AI desktop.",
-    "one_liner": "The AI desktop.",
+    "long_description": "AI made software engineers 100x more productive. We're doing the same thing for knowledge work with the AI computer.",
+    "one_liner": "The AI computer.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -2465,7 +2544,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6640b732eb4efe17f2fb11ff75f6f6bc14184872.png",
     "website": "https://withhopper.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Train, inference, and continuously improve any model.\r\n\r\nHopper post-trains STT, TTS, and LLMs on your production traces, then serves and improves them against your live traffic.",
+    "long_description": "Hopper trains models on your production traces, then serves and improves them against your live traffic.",
     "one_liner": "Inference and post-training for realtime agents",
     "team_size": 2,
     "industry": "B2B",
@@ -4297,7 +4376,7 @@
     "slug": "antimattr",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3266646a9815f7e3ed31c088c4008df6e8fb0101.png",
-    "website": "https://www.antimattr.one/project-mnemosyne",
+    "website": "https://www.antimattr.one/project-mnemosyne?utm_source=bookface&utm_medium=social&utm_campaign=bookface_antimattr_profile",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "antimattr builds a voice-first hardware interface for human-agent interaction that includes a ring and a pair of earphones. Designed to make more of your voice, the ring can record and summarise your conversations, capture thoughts on the go, or control your agents. The earphones use proprietary voice isolation technology to block out background noise entirely, so you can take a clear call from a loud pub or dictate with real accuracy.",
     "one_liner": "voice-first hardware interface for human-agent interaction",
@@ -4333,6 +4412,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/antimattr",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/antimattr.json"
+  },
+  {
+    "id": 36378,
+    "name": "Synara",
+    "slug": "synara",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd7f562c2b84a1527d622d32cb773ab28925d85e.png",
+    "website": "https://synaraops.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Security cameras don’t stop crime. They film it. Traditional monitoring does one job: watching an empty site after hours. It misses anything more complex, and anything that happens during the day. When something does happen, it sends an alert and leaves the response to you.\r\n\r\nSynara is the AI monitoring station for the cameras that are already installed. It needs no new hardware and watches day and night. It understands far more than intruders: falls, guns, fights. And it owns the response. Synara verifies incidents in seconds, talks intruders down on site or sends police a verified alarm, then coordinates with officers on who’s on site and where people are safe, until the insurance claim is resolved.\r\n\r\nBecause AI does the watching, monitoring becomes drastically cheaper and more accurate. Synara sells through security integrators under their own brand, so every camera they’ve installed becomes recurring revenue.",
+    "one_liner": "We are the last monitoring station, run by AI",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1792520419,
+    "tags": [
+      "Deep Learning",
+      "Security Orchestration, Automation and Response (SOAR)",
+      "Monitoring"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/synara",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/synara.json"
   },
   {
     "id": 36411,
@@ -4374,6 +4494,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/vyra",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/vyra.json"
+  },
+  {
+    "id": 36444,
+    "name": "Odin Robotics",
+    "slug": "odin-robotics",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3df37a1fb66526c47cc75fbebe1f480c83847131.png",
+    "website": "https://odin-robotics.com",
+    "all_locations": "ZH, Switzerland",
+    "long_description": "Odin Robotics deploys robot arms in small and mid-sized factories to do repetitive manual work, like machine tending and packing. They work alongside existing machines and people, so factories don't have to redesign their lines. With deterministic controls and learned skills, they're both reliable and flexible.",
+    "one_liner": "Robot arms that do repetitive manual work in existing factories.",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Home and Personal",
+    "launched_at": 1792472507,
+    "tags": [
+      "Robotics",
+      "Manufacturing",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Home and Personal"
+    ],
+    "regions": [
+      "Switzerland",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/odin-robotics",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/odin-robotics.json"
   },
   {
     "id": 36510,
@@ -4464,7 +4625,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/10aa0357ff173a9e31708ec1fdba33b53c40c20f.png",
     "website": "https://www.sutrix.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sutrix turns messy data from EHRs, clinical notes, wearables, and surveys into clean, study-ready datasets allowing hospital research teams' to deliver tailored patient care faster.\r\n\r\nBefore a clinical study can start, research staff spend weeks pulling patient data from disconnected systems like the EHR, REDCap, and wearable platforms, reading notes chart by chart, and reconciling conflicting entries in spreadsheets. Sutrix automates that work by deploying AI systems within each team’s own environment, linking patient records across sources, applying the study's rules, and flagging unclear cases for staff to review.\r\n\r\nPaying research teams at 10+ institutions cut data prep by 80% going from weeks per study to days.\r\n\r\nWe're brothers who've built together for 4 years. We first solved this problem doing forward-deployed work at HSS, where we built an injury surveillance system now used by 700+ teams. Ritvik's clinical research at HSS and Emory showed us every research team has the same bottleneck. Supratik previously founded Kairo (a16z Speedrun, exited) and built production AI agents at Amazon.",
+    "long_description": "Sutrix turns messy data from EHRs, clinical notes, wearables, and surveys into clean, study-ready datasets allowing hospital research teams' to deliver tailored patient care faster.\r\n\r\nBefore a clinical study can start, research staff spend weeks pulling patient data from disconnected systems like the EHR, REDCap, and wearable platforms, reading notes chart by chart, and reconciling conflicting entries in spreadsheets. Sutrix automates that work by deploying AI systems within each team’s own environment, linking patient records across sources, applying the study's rules, and flagging unclear cases for staff to review.\r\n\r\nPaying research teams at 10+ institutions cut data prep by 80% going from months per study to weeks.\r\n\r\nWe're brothers who've built together for 4 years. We first solved this problem doing forward-deployed work at HSS, where we built an injury surveillance system now used by 700+ teams. Ritvik's clinical research at HSS and Emory showed us every research team has the same bottleneck. Supratik previously founded Kairo (a16z Speedrun, exited) and built production AI agents at Amazon.",
     "one_liner": "Deployed AI to turn EHR data into study-ready datasets ",
     "team_size": 2,
     "industry": "Healthcare",
@@ -5465,7 +5626,7 @@
     "slug": "graypass",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/824e97773961053f47e92f9a1a6fd805d2328d0b.png",
-    "website": "https://www.graypass.org",
+    "website": "https://graypass.com/",
     "all_locations": "Toronto, ON, Canada",
     "long_description": "Login tells you who signed in. GrayPass helps apps check who’s behind sensitive actions and whether they’re authorized before those actions go through.\r\n\r\nIt combines identity, device and session context with behavioral signals like typing rhythm, cursor movement and scrolling. Before a sensitive action goes through, GrayPass evaluates that evidence against your team’s policy and returns a decision: allow, challenge, hold or deny. Your app enforces the decision.\r\n\r\nThis applies to actions like exporting sensitive data, changing admin permissions or allowing an AI agent to act on someone’s behalf. Allowed actions receive short-lived, signed proof tied to the exact action and your app.\r\n\r\nYour existing login and authentication stack stays in place.",
     "one_liner": "Verify the expected person is still in control before sensitive…",
@@ -5717,8 +5878,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/658417946c5809d1681eb90f9636442c2526cc5c.png",
     "website": "https://larkagents.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lark deploys AI agents that automate manual workflows for wholesale distributors, everything from customer quotes to inventory managment. Our agents work with existing ERP systems, learning from each distributor’s historical data and the team’s decisions. Together, these agents can run a distributor’s entire operation.",
-    "one_liner": "Lark - AI agents that automate workflows for wholesale distributors",
+    "long_description": "Lark deploys AI agents for distributors to automate purchasing, demand forecasting, inventory monitoring, sales operations, and data analysis.\r\n\r\nOur agents connect to the ERP, CRM, email, spreadsheets, and other software your team already uses. They forecast demand, prepare purchase orders, flag inventory issues, update sales records, and answer questions using your business data. Together, these agents can run a distributor’s entire operation.\r\n\r\nWe handle setup and tailor each agent to your workflows, business rules, and approval limits, so your team can automate recurring work while staying in control.",
+    "one_liner": "AI agents that automate workflows for distributors",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials",
@@ -5757,7 +5918,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f9f26995d92445a7e77c0839448bb04ca0c89f08.png",
     "website": "http://hundred.systems/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Hundred is an automated inspection system for the components that make up consumer devices like phones, smartwatches, and laptops. Hundred helps factories cut waste and prevent line-down issues by catching sub-millimeter cosmetic defects before parts reach the assembly line. \r\n\r\nIn the consumer electronics industry, designs change so fast that traditional machine vision can't keep up, forcing factories to rely on manual inspection, literally people checking parts under microscopes to sort out bad parts. Human inspectors miss roughly 15% of defects, and a single bad part can turn a finished device into scrap. Hundred is replacing manual inspection with an imaging rig that scans an entire shipping tray of parts at once. \r\n\r\nThe Hundred rig blocks ambient light and uses varied controlled lighting configurations to detect defects smaller than 100µm on a range of materials. The controlled environment means Hundred only needs to scan a single good part before it can find defects, categorize them, and assess their severity accurately.\r\n\r\nDefects cost U.S. discrete manufacturers $45 billion a year, a problem Hundred's CEO, Erica, saw firsthand as a mechanical engineer designing devices at Meta, Google, and Magic Leap. She met Imani, Hundred's CPO, at Columbia University's admitted-students day in 2017 and Imani went on to spend five years at Twitch building software that handles billions of requests a day. Erica later met Iris, Hundred's CTO, in the Bay Area. Iris worked as a quant at Citadel before pivoting to study at Imperial College London where she researched machine learning on 3D meshes and other structured data. Together, they're building Hundred because manual inspection shouldn't still exist in 2026.",
+    "long_description": "Hundred is an automated inspection system for the components that make up consumer devices like phones, smartwatches, and laptops. Hundred helps factories cut waste and prevent line-down issues by catching sub-100µm cosmetic defects before parts reach the assembly line. \r\n\r\nIn the consumer electronics industry, designs change so fast that traditional machine vision can't keep up, forcing factories to rely on manual inspection, literally people checking parts under microscopes to sort out bad parts. Human inspectors miss roughly 15% of defects, and a single bad part can turn a finished device into scrap. Hundred is replacing manual inspection with an imaging rig that scans an entire shipping tray of parts at once. \r\n\r\nThe Hundred rig blocks ambient light and uses varied controlled lighting configurations to detect defects smaller than 100µm on a range of materials. The controlled environment means Hundred only needs to scan a single good part before it can find defects, categorize them, and assess their severity accurately.\r\n\r\nDefects cost U.S. discrete manufacturers $45 billion a year, a problem Hundred's CEO, Erica, saw firsthand as a mechanical engineer designing devices at Meta, Google, and Magic Leap. She met Imani, Hundred's CPO, at Columbia University's admitted-students day in 2017 and Imani went on to spend five years at Twitch building software that handles billions of requests a day. Erica later met Iris, Hundred's CTO, in the Bay Area. Iris worked as a quant at Citadel before pivoting to study at Imperial College London where she researched machine learning on 3D meshes and other structured data. Together, they're building Hundred because manual inspection shouldn't still exist in 2026.",
     "one_liner": "100% automated inspection for consumer electronics parts",
     "team_size": 3,
     "industry": "Industrials",
@@ -5876,6 +6037,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/kairos-health",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/kairos-health.json"
+  },
+  {
+    "id": 37863,
+    "name": "Kiwi",
+    "slug": "kiwi",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6492ecdf3ad27ca28600ae19b9da5cbf338cadc3.png",
+    "website": "https://withkiwi.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "While engineering teams have become fully AI-native, GTM teams have fallen behind. Teams struggle with continuous enablement of their teams, keeping context, agent skills, and connectors up to date with shifting GTM states and strategies, as well as accuracy, when operators can't trust their agents because the data is incomplete, inconsistent, or unreliable. With Kiwi, every agent is self-improving, and cites the SQL query and data snapshot pulled from the Kiwi GTM brain used to produce every output. Kiwi enables GTM teams to be fully AI-native. ",
+    "one_liner": "Kiwi is your GTM agent's favorite data engineer.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1787879276,
+    "tags": [
+      "Collaboration",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/kiwi",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/kiwi.json"
   },
   {
     "id": 37864,
@@ -6005,6 +6206,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/sintropix.json"
   },
   {
+    "id": 37997,
+    "name": "Phone Harness",
+    "slug": "phone-harness",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/23ec853288e1b553559441fa473fe33b364597cb.png",
+    "website": "https://phone-harness.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Phone Harness is the most popular open-source harness for phone automation with 3,800+ GitHub stars. We enable agents to tap, type, and scroll on your personal phone or cloud-hosted phones. Supports iPhone and Android. No jailbreak, API, or app installation needed.",
+    "one_liner": "Let your agent control your phone",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1792518932,
+    "tags": [
+      "Open Source",
+      "API",
+      "Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/phone-harness",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/phone-harness.json"
+  },
+  {
     "id": 37998,
     "name": "Adside.ai",
     "slug": "adsideai",
@@ -6132,15 +6375,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a5c35648a3ac00d7da1ce27b5b0a62372c6a5f2e.png",
     "website": "https://www.spm.fun",
     "all_locations": "Pittsburgh, PA, USA",
-    "long_description": "We started off building 470V high voltage electric off-road vehicles but we realized our ultra power dense battery packs are useful for mobile and stationary energy storage and power export, for military and consumer use cases. We develop battery packs, power electronics, and traction powertrain systems for vehicles.",
+    "long_description": "We started off building the highest performance, 470 volt electric off-road vehicles but we realized our ultra power dense battery packs are useful for mobile and stationary energy storage and power export, for military and consumer use cases. We develop battery packs, power electronics, and traction powertrain systems for vehicles.\r\n\r\nFor the majority of 2026 we were marketing our electric off-road vehicles, but we pivoted to selling our high performance battery packs and power export capabilities in the month of September. We went from having $769,000 in consumer pre-orders (possibly low conversion rate to sales) to $421,815 in realized revenue in 1 month, with a $792,000 qualified pipeline. \r\n\r\nOur tech is so compelling because the safety and layout of high voltage battery packs has only been mastered by large, well funded OEM companies who have brought it in-house. That means all other companies without the in-house expertise rely on battery companies to develop packs, and power electronics companies to develop power export capabilities. SPM has both of those capabilities in-house so we can ensure a fast turnaround and much more reliable product. \r\n\r\nOne of the biggest priorities of the department of war is energy dominance. We're seeing it constantly in new solicitations. Our strategy is superior - become a prime, but simultaneously service primes because most of then don't actually have the battery and power electronics expertise we have.\r\n\r\nFounded by Jon Powers - Ex-Tesla Sr. Mechanical Integration Engineer leading Cybertruck vehicle integration. ",
     "one_liner": "Modular battery packs for mobility/vehicles",
     "team_size": 4,
     "industry": "Industrials",
     "subindustry": "Industrials -> Defense",
-    "launched_at": 1788100804,
+    "launched_at": 1792455040,
     "tags": [
       "Energy Storage",
       "Unmanned Vehicle",
+      "Manufacturing",
+      "Electric Vehicles",
       "Electronics"
     ],
     "tags_highlighted": [],
@@ -6206,6 +6451,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/deepmark",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/deepmark.json"
+  },
+  {
+    "id": 38226,
+    "name": "Wondersearch",
+    "slug": "wondersearch",
+    "former_names": [
+      "Polygres",
+      "Evokoa / Polygres"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1dfdffe31c74cb7df1b408193b1e4360c19f0815.png",
+    "website": "https://wondersearch.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Our mission is to give every AI agent the right context, from any amount of data.\r\n\r\nWonderSearch is search built for AI agents. We let developers make all of their data searchable by meaning, without embeddings, servers or ingestion, so agents can pull the right context and cite where it came from. Unlike vector databases and RAG stacks, there's no pipeline to build or maintain: connect your files and data, and they're searchable right away. It runs on our own search model, and you pay only per query, whatever the size of your data.\r\n\r\nTeams use WonderSearch across their own documents and knowledge, and build it into their products, help centres and AI features, connecting through MCP, our API, the CLI or the Python SDK.\r\n\r\n(Evokoa, Inc. is the company behind WonderSearch.)",
+    "one_liner": "Instant semantic search over your data without embeddings.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1792520464,
+    "tags": [
+      "Developer Tools",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/wondersearch",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/wondersearch.json"
   },
   {
     "id": 38391,
@@ -6291,6 +6580,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mantle-2",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/mantle-2.json"
+  },
+  {
+    "id": 38556,
+    "name": "Cesara",
+    "slug": "cesara",
+    "former_names": [
+      "Fireheart"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/180f52381396ddece16d163f3ca2e8585f872871.png",
+    "website": "https://cesara.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Faster & accurate transactions for health systems",
+    "team_size": 0,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1792499143,
+    "tags": [
+      "Healthcare",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cesara",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/cesara.json"
   },
   {
     "id": 38589,

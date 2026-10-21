@@ -2402,7 +2402,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2014",
     "status": "Active",
@@ -11507,8 +11507,8 @@
   },
   {
     "id": 12871,
-    "name": "Motion",
-    "slug": "motion",
+    "name": "Wonderly",
+    "slug": "wonderly",
     "former_names": [
       "Betiver",
       "Betingale",
@@ -11517,22 +11517,24 @@
       "NexusBird",
       "nexusbird",
       "Nexusbird",
-      "NexusBird"
+      "NexusBird",
+      "Motion"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/25b0dd2e6d40928386efa49045651d24ad82e60b.png",
-    "website": "https://www.usemotion.com/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/952fa3d3926bb1dcb323e457833579b03581d697.png",
+    "website": "https://www.wonderly.com/",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Motion lets you build and manage AI Employees directly within our work management platform, an AI-native productivity suite offering project management, task management, calendar, docs, wiki, notes, scheduling, contextual search, reports, and more. ",
-    "one_liner": "The only work management platform for both Human and AI Employees",
-    "team_size": 65,
+    "long_description": "Wonderly is a closed-loop, end-to-end system that self-improves on our customers’ revenue. We serve the home service industry ($1.3T), and can consistently double a new customer’s revenue within 90 days. We make all of our AI and software completely free - and only get paid when our customers make real money. We’re here helping real small businesses make a life, pay for their children’s college tuition, and live the American dream.\r\n\r\nFunded by Motion's $20M/year in free cashflow and $60M+ raised",
+    "one_liner": "Closed-loop end-to-end AI System that recursively improves on…",
+    "team_size": 75,
     "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
+    "subindustry": "B2B",
     "launched_at": 1583629488,
     "tags": [
+      "AIOps",
       "SaaS",
       "B2B",
-      "Productivity",
-      "AI"
+      "AI",
+      "Conversational AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11541,8 +11543,7 @@
     "batch": "Winter 2020",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Productivity"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -11555,8 +11556,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/motion",
-    "api": "https://yc-oss.github.io/api/batches/winter-2020/motion.json"
+    "url": "https://www.ycombinator.com/companies/wonderly",
+    "api": "https://yc-oss.github.io/api/batches/winter-2020/wonderly.json"
   },
   {
     "id": 12878,
@@ -11597,7 +11598,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -39042,7 +39043,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Outset offers AI-powered user interviews to conduct qualitative research. Traditional surveys are fast but lack depth while live interviews produce high quality data but are slow and expensive. Outset uses LLMs to lead interviews and synthesize results so researchers get high quality data 100 times faster. ",
     "one_liner": "AI-powered user interviews",
-    "team_size": 30,
+    "team_size": 120,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1683921315,
@@ -39067,7 +39068,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -39923,7 +39924,7 @@
     "all_locations": "Boulder, CO, USA; Remote",
     "long_description": "Foundation is the buyer experience platform for homebuilders. By bringing the new home shopping, purchase, and ownership experience online, Foundation helps homebuilders sell more homes, more profitably, to happier customers.",
     "one_liner": "Shopify for Homebuilders",
-    "team_size": 4,
+    "team_size": 20,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction -> Housing and Real Estate",
     "launched_at": 1693591286,
@@ -40713,9 +40714,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/511c79fc4e10857bff72dd38626234991f19c62c.png",
     "website": "https://respan.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Respan gives teams a unified control plane to trace and evaluate agent behavior without guesswork, automatically surface issues, and fix what breaks faster. Respan connects production observability, automated and human-in-the-loop evaluations, and an adaptive AI gateway to close the loop between detection, decision, and action - so agents improve continuously in production.\r\n\r\nRespan is trusted by 100+ AI startups and enterprise teams. Today, the platform process 1B+ logs and 2T+ tokens every month, supporting more than 6.5M end users.",
-    "one_liner": "Self-driving observability, evals, and gateway for AI agents",
-    "team_size": 23,
+    "long_description": "Respan is an open-source AI gateway that helps companies run reliable AI applications at scale. Written in Rust and designed to be extended, it gives developers control over how their applications connect to models and providers. Respan combines the gateway with observability and evaluations so teams can understand agent behavior, resolve issues and improve quality in production. The platform processes over 10T tokens each month and supports more than 6.5M end users.",
+    "one_liner": "Open-source, extensible AI gateway with observability and evals",
+    "team_size": 20,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1711136962,
@@ -41191,7 +41192,7 @@
       "United Kingdom",
       "Europe"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -47586,6 +47587,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/infera",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/infera.json"
+  },
+  {
+    "id": 31515,
+    "name": "Probe",
+    "slug": "probe",
+    "former_names": [
+      "Probe",
+      "Prbe"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/780b6c60b90925a2f3c887e2f124b2d6b927573b.png",
+    "website": "https://useprobe.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Probe is building the agent-native research stack.\r\n\r\nOur goal is simple: help AI/ML teams run better experiments, faster. We believe research will drive progress and everyone deserves to have their own personalized lab that iterates faster than ever before. \r\n\r\nProbe brings core research tools, shared context from past experiments, and visibility into each run together in one platform. Helping teams spend less time setting up infrastructure, supervising agents, catching teammates up and more time testing ideas.\r\n\r\nBuilt for helping research labs experiment faster while keeping every researcher and agent aligned, and helping AI/ML teams setup a research capability without building a lab’s infrastructure first.",
+    "one_liner": "The Agent-Native Research Stack",
+    "team_size": null,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1779943372,
+    "tags": [
+      "Machine Learning",
+      "SaaS",
+      "B2B",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/probe",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/probe.json"
   },
   {
     "id": 31549,

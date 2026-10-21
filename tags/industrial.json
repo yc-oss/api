@@ -531,6 +531,47 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/plume.json"
   },
   {
+    "id": 29773,
+    "name": "Westgate",
+    "slug": "westgate",
+    "former_names": [
+      "Soff"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/679477aa332e127fa7c131252a831d4cc5d8bf84.png",
+    "website": "https://westgatesupply.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Westgate Supply is an ai-native industrial distributor. We sell the pipes valves and fittings that go into American data center, fabs and power plants.",
+    "one_liner": "Westgate Supply is an ai-native industrial distributor.",
+    "team_size": 6,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1721748598,
+    "tags": [
+      "AI",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/westgate",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/westgate.json"
+  },
+  {
     "id": 29844,
     "name": "Oway",
     "slug": "oway",
@@ -1709,6 +1750,47 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/twentyfour26.json"
   },
   {
+    "id": 36444,
+    "name": "Odin Robotics",
+    "slug": "odin-robotics",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3df37a1fb66526c47cc75fbebe1f480c83847131.png",
+    "website": "https://odin-robotics.com",
+    "all_locations": "ZH, Switzerland",
+    "long_description": "Odin Robotics deploys robot arms in small and mid-sized factories to do repetitive manual work, like machine tending and packing. They work alongside existing machines and people, so factories don't have to redesign their lines. With deterministic controls and learned skills, they're both reliable and flexible.",
+    "one_liner": "Robot arms that do repetitive manual work in existing factories.",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Home and Personal",
+    "launched_at": 1792472507,
+    "tags": [
+      "Robotics",
+      "Manufacturing",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Home and Personal"
+    ],
+    "regions": [
+      "Switzerland",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/odin-robotics",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/odin-robotics.json"
+  },
+  {
     "id": 37732,
     "name": "Hundred",
     "slug": "hundred",
@@ -1716,7 +1798,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f9f26995d92445a7e77c0839448bb04ca0c89f08.png",
     "website": "http://hundred.systems/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Hundred is an automated inspection system for the components that make up consumer devices like phones, smartwatches, and laptops. Hundred helps factories cut waste and prevent line-down issues by catching sub-millimeter cosmetic defects before parts reach the assembly line. \r\n\r\nIn the consumer electronics industry, designs change so fast that traditional machine vision can't keep up, forcing factories to rely on manual inspection, literally people checking parts under microscopes to sort out bad parts. Human inspectors miss roughly 15% of defects, and a single bad part can turn a finished device into scrap. Hundred is replacing manual inspection with an imaging rig that scans an entire shipping tray of parts at once. \r\n\r\nThe Hundred rig blocks ambient light and uses varied controlled lighting configurations to detect defects smaller than 100µm on a range of materials. The controlled environment means Hundred only needs to scan a single good part before it can find defects, categorize them, and assess their severity accurately.\r\n\r\nDefects cost U.S. discrete manufacturers $45 billion a year, a problem Hundred's CEO, Erica, saw firsthand as a mechanical engineer designing devices at Meta, Google, and Magic Leap. She met Imani, Hundred's CPO, at Columbia University's admitted-students day in 2017 and Imani went on to spend five years at Twitch building software that handles billions of requests a day. Erica later met Iris, Hundred's CTO, in the Bay Area. Iris worked as a quant at Citadel before pivoting to study at Imperial College London where she researched machine learning on 3D meshes and other structured data. Together, they're building Hundred because manual inspection shouldn't still exist in 2026.",
+    "long_description": "Hundred is an automated inspection system for the components that make up consumer devices like phones, smartwatches, and laptops. Hundred helps factories cut waste and prevent line-down issues by catching sub-100µm cosmetic defects before parts reach the assembly line. \r\n\r\nIn the consumer electronics industry, designs change so fast that traditional machine vision can't keep up, forcing factories to rely on manual inspection, literally people checking parts under microscopes to sort out bad parts. Human inspectors miss roughly 15% of defects, and a single bad part can turn a finished device into scrap. Hundred is replacing manual inspection with an imaging rig that scans an entire shipping tray of parts at once. \r\n\r\nThe Hundred rig blocks ambient light and uses varied controlled lighting configurations to detect defects smaller than 100µm on a range of materials. The controlled environment means Hundred only needs to scan a single good part before it can find defects, categorize them, and assess their severity accurately.\r\n\r\nDefects cost U.S. discrete manufacturers $45 billion a year, a problem Hundred's CEO, Erica, saw firsthand as a mechanical engineer designing devices at Meta, Google, and Magic Leap. She met Imani, Hundred's CPO, at Columbia University's admitted-students day in 2017 and Imani went on to spend five years at Twitch building software that handles billions of requests a day. Erica later met Iris, Hundred's CTO, in the Bay Area. Iris worked as a quant at Citadel before pivoting to study at Imperial College London where she researched machine learning on 3D meshes and other structured data. Together, they're building Hundred because manual inspection shouldn't still exist in 2026.",
     "one_liner": "100% automated inspection for consumer electronics parts",
     "team_size": 3,
     "industry": "Industrials",

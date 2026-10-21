@@ -15922,7 +15922,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -16299,9 +16299,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/511c79fc4e10857bff72dd38626234991f19c62c.png",
     "website": "https://respan.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Respan gives teams a unified control plane to trace and evaluate agent behavior without guesswork, automatically surface issues, and fix what breaks faster. Respan connects production observability, automated and human-in-the-loop evaluations, and an adaptive AI gateway to close the loop between detection, decision, and action - so agents improve continuously in production.\r\n\r\nRespan is trusted by 100+ AI startups and enterprise teams. Today, the platform process 1B+ logs and 2T+ tokens every month, supporting more than 6.5M end users.",
-    "one_liner": "Self-driving observability, evals, and gateway for AI agents",
-    "team_size": 23,
+    "long_description": "Respan is an open-source AI gateway that helps companies run reliable AI applications at scale. Written in Rust and designed to be extended, it gives developers control over how their applications connect to models and providers. Respan combines the gateway with observability and evaluations so teams can understand agent behavior, resolve issues and improve quality in production. The platform processes over 10T tokens each month and supports more than 6.5M end users.",
+    "one_liner": "Open-source, extensible AI gateway with observability and evals",
+    "team_size": 20,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1711136962,
@@ -19661,8 +19661,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e739bf439400b44a89bc15e023cbe6bca3f9e00.png",
     "website": "https://confident-ai.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Confident AI provides enterprises an all-in-one platform to evaluate, observe, red team, and govern AI applications. Built by the creators of DeepEval (16k stars, 8m monthly downloads), Confident AI is able to offer battle-tested, open-source evaluation algorithms while providing the infrastructure needed for teams to stay confident their AI systems.",
-    "one_liner": "The LLM Eval and Observability Platform for AI Quality",
+    "long_description": "Confident AI surfaces failures in AI agents and automatically turns problematic traces into the the next eval, so teams don't ship the same issue twice. Unlike a general purpose AI observability tool, Confident AI has specialized evals for each AI system including multi-agent systems, voice, MCP, and more. For enterprises, Confident AI's an all-in-one AI quality platform including red teaming and AI governance.",
+    "one_liner": "Production Monitoring & Evals for AI Agents",
     "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -20014,7 +20014,7 @@
       "Fira"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e50d8dfa254f692b3d51a22620ca8519141e9ed2.png",
-    "website": "https://artil.dev/",
+    "website": "https://artil.ai/",
     "all_locations": "London, England, United Kingdom",
     "long_description": "Artil gives AI agents their own email addresses and phone numbers so they can communicate and use online services. Agents can send and receive emails and text messages, sign up for services, and complete email and SMS verification. We’re building the identity and communication infrastructure for teams developing agents and people putting them to work.",
     "one_liner": "Agent identity and communication infrastructure",
@@ -21057,7 +21057,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc86727a443ac448343eba0a5ce27b88d63b2f8f.png",
     "website": "https://traceroot.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "TraceRoot is the open-source AI agent improvement platform. Turn production traces into actionable feedback and evals, closing the improvement loop with your coding agent.",
+    "long_description": "TraceRoot is the open-source AI agent improvement platform. Find the patterns in your agent's production issues. Ship verified fixes with your coding agent.",
     "one_liner": "Open Source AI Agent Improvement Platform",
     "team_size": 4,
     "industry": "B2B",
@@ -21522,50 +21522,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/vibeflow",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/vibeflow.json"
-  },
-  {
-    "id": 30700,
-    "name": "Nozomio",
-    "slug": "nozomio",
-    "former_names": [
-      "Nozomio Inc.",
-      "Nozomio",
-      "Nozomio (Nia AI)"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d85c6a1195667680f7ed4c90a6bda101d0cc579.png",
-    "website": "https://www.nozomio.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We are a product lab solving context in AI.",
-    "one_liner": "product lab. focused on personal ai and context.",
-    "team_size": 3,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1751302971,
-    "tags": [
-      "Developer Tools",
-      "Consumer",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": true,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/nozomio",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/nozomio.json"
   },
   {
     "id": 30710,
@@ -24590,6 +24546,47 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/agent-37.json"
   },
   {
+    "id": 34926,
+    "name": "Orgo",
+    "slug": "orgo",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e545998082b7c19d428d475144fca56ffb388bb.png",
+    "website": "https://www.orgo.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Orgo is the simplest way to give your AI employees their own secure, persistent cloud computers. Over 1000 teams use Orgo to run AI workers.",
+    "one_liner": "Computers for Agents",
+    "team_size": 0,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1792474206,
+    "tags": [
+      "Developer Tools",
+      "Cloud Computing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/orgo",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/orgo.json"
+  },
+  {
     "id": 34928,
     "name": "Boat",
     "slug": "boat",
@@ -25228,6 +25225,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/maritime",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/maritime.json"
+  },
+  {
+    "id": 38226,
+    "name": "Wondersearch",
+    "slug": "wondersearch",
+    "former_names": [
+      "Polygres",
+      "Evokoa / Polygres"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1dfdffe31c74cb7df1b408193b1e4360c19f0815.png",
+    "website": "https://wondersearch.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Our mission is to give every AI agent the right context, from any amount of data.\r\n\r\nWonderSearch is search built for AI agents. We let developers make all of their data searchable by meaning, without embeddings, servers or ingestion, so agents can pull the right context and cite where it came from. Unlike vector databases and RAG stacks, there's no pipeline to build or maintain: connect your files and data, and they're searchable right away. It runs on our own search model, and you pay only per query, whatever the size of your data.\r\n\r\nTeams use WonderSearch across their own documents and knowledge, and build it into their products, help centres and AI features, connecting through MCP, our API, the CLI or the Python SDK.\r\n\r\n(Evokoa, Inc. is the company behind WonderSearch.)",
+    "one_liner": "Instant semantic search over your data without embeddings.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1792520464,
+    "tags": [
+      "Developer Tools",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/wondersearch",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/wondersearch.json"
   },
   {
     "id": 38391,

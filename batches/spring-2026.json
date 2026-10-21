@@ -221,7 +221,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2026",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Operations"
@@ -3567,21 +3567,24 @@
   },
   {
     "id": 31427,
-    "name": "Napkin Math",
-    "slug": "napkin-math",
+    "name": "Paper Star",
+    "slug": "paper-star",
     "former_names": [
-      "Paper Star"
+      "Paper Star",
+      "Napkin Math"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/43a02b84a6b28b5fb26796fe822a596c638d433c.png",
-    "website": "https://napkinmath.club",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b742e44edb8947d9dc31423fa049239d2316de2f.png",
+    "website": "https://paperstar.cc",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Napkin Math is the personalized AI food journal that people love to use. We gamify nutrition tracking so people are 2x more likely to stick with us than other trackers. Claire, Manuel, and I (best friends for 10 years from MIT) are obsessed with how we can make nutrition fun, and turn fun into health outcomes.\r\n\r\n===\r\nExisting consumer health apps focus on scaling a one-size-fits-all solution: calorie deficits. But they don’t answer the questions you actually have.\r\n\r\nFood is deeply personal, and so is Napkin Math:\r\n\r\nGet the fuel you need for marathon training, while understanding you eat catered office lunches five days a week. Discover what’s triggering your stomach irritation, without sacrificing your weekly dinner with friends. Napkin Math tailors a plan for not only your specific health goal, but also your life.",
-    "one_liner": "AI nutrition coach in your pocket",
+    "long_description": "more coming soon...",
+    "one_liner": "Building the next generation of agents",
     "team_size": 3,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
+    "industry": "B2B",
+    "subindustry": "B2B",
     "launched_at": 1775700750,
-    "tags": [],
+    "tags": [
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -3589,7 +3592,7 @@
     "batch": "Spring 2026",
     "status": "Active",
     "industries": [
-      "Consumer"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -3600,8 +3603,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/napkin-math",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/napkin-math.json"
+    "url": "https://www.ycombinator.com/companies/paper-star",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/paper-star.json"
   },
   {
     "id": 31428,
@@ -4481,7 +4484,7 @@
       "markup.one",
       "tday"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0407fd665b690944a7e3117449a6850bf1f45e9f.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3757196228dee380b044009d7e4a7d8ebc8d7894.png",
     "website": "https://tday.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "tday automatically turns a software company's product into on-brand marketing creative. Connect your product and git repo, and tday generates polished launch videos, social graphics, and ads, the content a team would normally spend hours making in a design tool or pay a freelancer for. tday then publishes the creative and measures how it performs across your social and ad channels, closing the loop from what you ship to what you post.",
@@ -6104,6 +6107,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/characterquilt",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/characterquilt.json"
+  },
+  {
+    "id": 31515,
+    "name": "Probe",
+    "slug": "probe",
+    "former_names": [
+      "Probe",
+      "Prbe"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/780b6c60b90925a2f3c887e2f124b2d6b927573b.png",
+    "website": "https://useprobe.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Probe is building the agent-native research stack.\r\n\r\nOur goal is simple: help AI/ML teams run better experiments, faster. We believe research will drive progress and everyone deserves to have their own personalized lab that iterates faster than ever before. \r\n\r\nProbe brings core research tools, shared context from past experiments, and visibility into each run together in one platform. Helping teams spend less time setting up infrastructure, supervising agents, catching teammates up and more time testing ideas.\r\n\r\nBuilt for helping research labs experiment faster while keeping every researcher and agent aligned, and helping AI/ML teams setup a research capability without building a lab’s infrastructure first.",
+    "one_liner": "The Agent-Native Research Stack",
+    "team_size": null,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1779943372,
+    "tags": [
+      "Machine Learning",
+      "SaaS",
+      "B2B",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/probe",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/probe.json"
   },
   {
     "id": 31516,

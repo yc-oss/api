@@ -6366,8 +6366,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e739bf439400b44a89bc15e023cbe6bca3f9e00.png",
     "website": "https://confident-ai.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Confident AI provides enterprises an all-in-one platform to evaluate, observe, red team, and govern AI applications. Built by the creators of DeepEval (16k stars, 8m monthly downloads), Confident AI is able to offer battle-tested, open-source evaluation algorithms while providing the infrastructure needed for teams to stay confident their AI systems.",
-    "one_liner": "The LLM Eval and Observability Platform for AI Quality",
+    "long_description": "Confident AI surfaces failures in AI agents and automatically turns problematic traces into the the next eval, so teams don't ship the same issue twice. Unlike a general purpose AI observability tool, Confident AI has specialized evals for each AI system including multi-agent systems, voice, MCP, and more. For enterprises, Confident AI's an all-in-one AI quality platform including red teaming and AI governance.",
+    "one_liner": "Production Monitoring & Evals for AI Agents",
     "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -6891,7 +6891,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc86727a443ac448343eba0a5ce27b88d63b2f8f.png",
     "website": "https://traceroot.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "TraceRoot is the open-source AI agent improvement platform. Turn production traces into actionable feedback and evals, closing the improvement loop with your coding agent.",
+    "long_description": "TraceRoot is the open-source AI agent improvement platform. Find the patterns in your agent's production issues. Ship verified fixes with your coding agent.",
     "one_liner": "Open Source AI Agent Improvement Platform",
     "team_size": 4,
     "industry": "B2B",
@@ -7931,5 +7931,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/acyclic",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/acyclic.json"
+  },
+  {
+    "id": 37997,
+    "name": "Phone Harness",
+    "slug": "phone-harness",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/23ec853288e1b553559441fa473fe33b364597cb.png",
+    "website": "https://phone-harness.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Phone Harness is the most popular open-source harness for phone automation with 3,800+ GitHub stars. We enable agents to tap, type, and scroll on your personal phone or cloud-hosted phones. Supports iPhone and Android. No jailbreak, API, or app installation needed.",
+    "one_liner": "Let your agent control your phone",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1792518932,
+    "tags": [
+      "Open Source",
+      "API",
+      "Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/phone-harness",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/phone-harness.json"
   }
 ]

@@ -354,9 +354,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/511c79fc4e10857bff72dd38626234991f19c62c.png",
     "website": "https://respan.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Respan gives teams a unified control plane to trace and evaluate agent behavior without guesswork, automatically surface issues, and fix what breaks faster. Respan connects production observability, automated and human-in-the-loop evaluations, and an adaptive AI gateway to close the loop between detection, decision, and action - so agents improve continuously in production.\r\n\r\nRespan is trusted by 100+ AI startups and enterprise teams. Today, the platform process 1B+ logs and 2T+ tokens every month, supporting more than 6.5M end users.",
-    "one_liner": "Self-driving observability, evals, and gateway for AI agents",
-    "team_size": 23,
+    "long_description": "Respan is an open-source AI gateway that helps companies run reliable AI applications at scale. Written in Rust and designed to be extended, it gives developers control over how their applications connect to models and providers. Respan combines the gateway with observability and evaluations so teams can understand agent behavior, resolve issues and improve quality in production. The platform processes over 10T tokens each month and supports more than 6.5M end users.",
+    "one_liner": "Open-source, extensible AI gateway with observability and evals",
+    "team_size": 20,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1711136962,
@@ -698,5 +698,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/agnost-ai",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/agnost-ai.json"
+  },
+  {
+    "id": 36378,
+    "name": "Synara",
+    "slug": "synara",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd7f562c2b84a1527d622d32cb773ab28925d85e.png",
+    "website": "https://synaraops.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Security cameras don’t stop crime. They film it. Traditional monitoring does one job: watching an empty site after hours. It misses anything more complex, and anything that happens during the day. When something does happen, it sends an alert and leaves the response to you.\r\n\r\nSynara is the AI monitoring station for the cameras that are already installed. It needs no new hardware and watches day and night. It understands far more than intruders: falls, guns, fights. And it owns the response. Synara verifies incidents in seconds, talks intruders down on site or sends police a verified alarm, then coordinates with officers on who’s on site and where people are safe, until the insurance claim is resolved.\r\n\r\nBecause AI does the watching, monitoring becomes drastically cheaper and more accurate. Synara sells through security integrators under their own brand, so every camera they’ve installed becomes recurring revenue.",
+    "one_liner": "We are the last monitoring station, run by AI",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1792520419,
+    "tags": [
+      "Deep Learning",
+      "Security Orchestration, Automation and Response (SOAR)",
+      "Monitoring"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/synara",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/synara.json"
   }
 ]

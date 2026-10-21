@@ -3631,7 +3631,7 @@
     "website": "http://www.orangewood.co",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Orangewood Labs makes physical ai and robotics with real world robot deployments performing millions of tasks \r\n\r\n",
-    "one_liner": "Orangewood builds amazing robots that people want ",
+    "one_liner": "Orangewood builds amazing robots that people want. ",
     "team_size": 8,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -11642,6 +11642,47 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/ember-robotics.json"
   },
   {
+    "id": 29773,
+    "name": "Westgate",
+    "slug": "westgate",
+    "former_names": [
+      "Soff"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/679477aa332e127fa7c131252a831d4cc5d8bf84.png",
+    "website": "https://westgatesupply.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Westgate Supply is an ai-native industrial distributor. We sell the pipes valves and fittings that go into American data center, fabs and power plants.",
+    "one_liner": "Westgate Supply is an ai-native industrial distributor.",
+    "team_size": 6,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1721748598,
+    "tags": [
+      "AI",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/westgate",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/westgate.json"
+  },
+  {
     "id": 29774,
     "name": "Mineflow",
     "slug": "mineflow",
@@ -12184,43 +12225,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/apolink",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/apolink.json"
-  },
-  {
-    "id": 30172,
-    "name": "Enhanced Radar",
-    "slug": "enhanced-radar",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/97af6428ccfdfbaa94b52ffdadc13d8b1f2609b3.png",
-    "website": "https://www.enhancedradar.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Enhanced Radar is building better, safer air traffic control systems.",
-    "one_liner": "AI for air traffic control",
-    "team_size": 2,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Aviation and Space",
-    "launched_at": 1740622657,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Aviation and Space"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/enhanced-radar",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/enhanced-radar.json"
   },
   {
     "id": 30174,
@@ -16134,13 +16138,14 @@
   },
   {
     "id": 31285,
-    "name": "Brumby (Formerly GrazeMate)",
+    "name": "Brumby",
     "slug": "brumby",
     "former_names": [
-      "GrazeMate"
+      "GrazeMate",
+      "Brumby (Formerly GrazeMate)"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e7f64c3261f306e1859d503d40ad84601c127c82.png",
-    "website": "https://brumby",
+    "website": "https://brumby.com",
     "all_locations": "Sydney, NSW, Australia",
     "long_description": "Brumby builds autonomous drones that herd cattle.\r\n\r\nOn command, our drones fly to a paddock, position themselves around the mob, and move them where they need to go. What used to take a full day of helicopters, motorbikes, and horses now runs on a schedule.\r\n\r\nWe work with some of the largest cattle ranches in the world. While the drones are herding, they're also estimating animal weights, measuring grass biomass, monitoring water levels, and flagging sick animals. We're building physical AI that lets a grazier manage thousands of head across millions of acres from their phone.",
     "one_liner": "Robot Cowboys that Herd Cattle with AI Drones",
@@ -20404,8 +20409,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/658417946c5809d1681eb90f9636442c2526cc5c.png",
     "website": "https://larkagents.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lark deploys AI agents that automate manual workflows for wholesale distributors, everything from customer quotes to inventory managment. Our agents work with existing ERP systems, learning from each distributor’s historical data and the team’s decisions. Together, these agents can run a distributor’s entire operation.",
-    "one_liner": "Lark - AI agents that automate workflows for wholesale distributors",
+    "long_description": "Lark deploys AI agents for distributors to automate purchasing, demand forecasting, inventory monitoring, sales operations, and data analysis.\r\n\r\nOur agents connect to the ERP, CRM, email, spreadsheets, and other software your team already uses. They forecast demand, prepare purchase orders, flag inventory issues, update sales records, and answer questions using your business data. Together, these agents can run a distributor’s entire operation.\r\n\r\nWe handle setup and tailor each agent to your workflows, business rules, and approval limits, so your team can automate recurring work while staying in control.",
+    "one_liner": "AI agents that automate workflows for distributors",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials",
@@ -20444,7 +20449,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f9f26995d92445a7e77c0839448bb04ca0c89f08.png",
     "website": "http://hundred.systems/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Hundred is an automated inspection system for the components that make up consumer devices like phones, smartwatches, and laptops. Hundred helps factories cut waste and prevent line-down issues by catching sub-millimeter cosmetic defects before parts reach the assembly line. \r\n\r\nIn the consumer electronics industry, designs change so fast that traditional machine vision can't keep up, forcing factories to rely on manual inspection, literally people checking parts under microscopes to sort out bad parts. Human inspectors miss roughly 15% of defects, and a single bad part can turn a finished device into scrap. Hundred is replacing manual inspection with an imaging rig that scans an entire shipping tray of parts at once. \r\n\r\nThe Hundred rig blocks ambient light and uses varied controlled lighting configurations to detect defects smaller than 100µm on a range of materials. The controlled environment means Hundred only needs to scan a single good part before it can find defects, categorize them, and assess their severity accurately.\r\n\r\nDefects cost U.S. discrete manufacturers $45 billion a year, a problem Hundred's CEO, Erica, saw firsthand as a mechanical engineer designing devices at Meta, Google, and Magic Leap. She met Imani, Hundred's CPO, at Columbia University's admitted-students day in 2017 and Imani went on to spend five years at Twitch building software that handles billions of requests a day. Erica later met Iris, Hundred's CTO, in the Bay Area. Iris worked as a quant at Citadel before pivoting to study at Imperial College London where she researched machine learning on 3D meshes and other structured data. Together, they're building Hundred because manual inspection shouldn't still exist in 2026.",
+    "long_description": "Hundred is an automated inspection system for the components that make up consumer devices like phones, smartwatches, and laptops. Hundred helps factories cut waste and prevent line-down issues by catching sub-100µm cosmetic defects before parts reach the assembly line. \r\n\r\nIn the consumer electronics industry, designs change so fast that traditional machine vision can't keep up, forcing factories to rely on manual inspection, literally people checking parts under microscopes to sort out bad parts. Human inspectors miss roughly 15% of defects, and a single bad part can turn a finished device into scrap. Hundred is replacing manual inspection with an imaging rig that scans an entire shipping tray of parts at once. \r\n\r\nThe Hundred rig blocks ambient light and uses varied controlled lighting configurations to detect defects smaller than 100µm on a range of materials. The controlled environment means Hundred only needs to scan a single good part before it can find defects, categorize them, and assess their severity accurately.\r\n\r\nDefects cost U.S. discrete manufacturers $45 billion a year, a problem Hundred's CEO, Erica, saw firsthand as a mechanical engineer designing devices at Meta, Google, and Magic Leap. She met Imani, Hundred's CPO, at Columbia University's admitted-students day in 2017 and Imani went on to spend five years at Twitch building software that handles billions of requests a day. Erica later met Iris, Hundred's CTO, in the Bay Area. Iris worked as a quant at Citadel before pivoting to study at Imperial College London where she researched machine learning on 3D meshes and other structured data. Together, they're building Hundred because manual inspection shouldn't still exist in 2026.",
     "one_liner": "100% automated inspection for consumer electronics parts",
     "team_size": 3,
     "industry": "Industrials",
@@ -20526,15 +20531,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a5c35648a3ac00d7da1ce27b5b0a62372c6a5f2e.png",
     "website": "https://www.spm.fun",
     "all_locations": "Pittsburgh, PA, USA",
-    "long_description": "We started off building 470V high voltage electric off-road vehicles but we realized our ultra power dense battery packs are useful for mobile and stationary energy storage and power export, for military and consumer use cases. We develop battery packs, power electronics, and traction powertrain systems for vehicles.",
+    "long_description": "We started off building the highest performance, 470 volt electric off-road vehicles but we realized our ultra power dense battery packs are useful for mobile and stationary energy storage and power export, for military and consumer use cases. We develop battery packs, power electronics, and traction powertrain systems for vehicles.\r\n\r\nFor the majority of 2026 we were marketing our electric off-road vehicles, but we pivoted to selling our high performance battery packs and power export capabilities in the month of September. We went from having $769,000 in consumer pre-orders (possibly low conversion rate to sales) to $421,815 in realized revenue in 1 month, with a $792,000 qualified pipeline. \r\n\r\nOur tech is so compelling because the safety and layout of high voltage battery packs has only been mastered by large, well funded OEM companies who have brought it in-house. That means all other companies without the in-house expertise rely on battery companies to develop packs, and power electronics companies to develop power export capabilities. SPM has both of those capabilities in-house so we can ensure a fast turnaround and much more reliable product. \r\n\r\nOne of the biggest priorities of the department of war is energy dominance. We're seeing it constantly in new solicitations. Our strategy is superior - become a prime, but simultaneously service primes because most of then don't actually have the battery and power electronics expertise we have.\r\n\r\nFounded by Jon Powers - Ex-Tesla Sr. Mechanical Integration Engineer leading Cybertruck vehicle integration. ",
     "one_liner": "Modular battery packs for mobility/vehicles",
     "team_size": 4,
     "industry": "Industrials",
     "subindustry": "Industrials -> Defense",
-    "launched_at": 1788100804,
+    "launched_at": 1792455040,
     "tags": [
       "Energy Storage",
       "Unmanned Vehicle",
+      "Manufacturing",
+      "Electric Vehicles",
       "Electronics"
     ],
     "tags_highlighted": [],

@@ -1151,7 +1151,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -4251,16 +4251,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a04edfc3d5a9b0bb3ae585010c50f7f39fdc2a1.png",
     "website": "http://nowadays.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Nowadays is the AI-native platform for corporate meetings and events. Our AI doesn't just assist planners – it does the work. It emails and calls venues, negotiates rates in 22 languages, parses 50-page hotel proposals into clean apples-to-apples comparisons, and surfaces unmanaged meeting spend across your entire org.\r\n\r\nWe work with companies ranging from ones planning one epic company kickoff a year to ones running thousands of meetings through the platform annually. Clients include Google, Airbnb, BlackRock, Anthropic, Pylon, and Mintlify.\r\n\r\nUnlike legacy platforms like Cvent that bolted AI onto decades-old infrastructure, Nowadays was built from the ground up for the AI era.",
+    "long_description": "Nowadays is the AI-native platform for corporate meetings and events. Our AI doesn't just assist planners, it does the work: it emails and calls venues, negotiates rates in 22 languages, and parses 50-page hotel proposals into clean apples-to-apples comparisons. Clients routinely save 20-30% vs. booking direct, and one Fortune 500 VP uncovered $18M in unmanaged meeting spend just by turning Nowadays on.\r\n\r\nWe started out working with small startups. Today, Google, Airbnb, BlackRock, Anthropic, Pylon, and Mintlify use Nowadays to bring their people together, from one epic kickoff a year to thousands of meetings annually.",
     "one_liner": "AI-native platform for corporate meetings and events",
-    "team_size": 6,
+    "team_size": 11,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1687830204,
     "tags": [
       "B2B",
+      "Travel",
       "Logistics",
-      "Marketing",
+      "Enterprise",
       "AI"
     ],
     "tags_highlighted": [],
@@ -4509,51 +4510,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/carma",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/carma.json"
-  },
-  {
-    "id": 29377,
-    "name": "Toma",
-    "slug": "toma",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/30c720ae0d8e011f3d717a623f88d12d48f2a84c.png",
-    "website": "http://www.toma.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "AI Applied Research",
-    "team_size": 20,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1702419018,
-    "tags": [
-      "Marketing",
-      "Customer Support",
-      "AI",
-      "Automotive",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/toma",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/toma.json"
   },
   {
     "id": 29398,
@@ -5502,7 +5458,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -5707,7 +5663,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2026",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Operations"
@@ -6677,6 +6633,46 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/sona8",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/sona8.json"
+  },
+  {
+    "id": 37863,
+    "name": "Kiwi",
+    "slug": "kiwi",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6492ecdf3ad27ca28600ae19b9da5cbf338cadc3.png",
+    "website": "https://withkiwi.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "While engineering teams have become fully AI-native, GTM teams have fallen behind. Teams struggle with continuous enablement of their teams, keeping context, agent skills, and connectors up to date with shifting GTM states and strategies, as well as accuracy, when operators can't trust their agents because the data is incomplete, inconsistent, or unreliable. With Kiwi, every agent is self-improving, and cites the SQL query and data snapshot pulled from the Kiwi GTM brain used to produce every output. Kiwi enables GTM teams to be fully AI-native. ",
+    "one_liner": "Kiwi is your GTM agent's favorite data engineer.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1787879276,
+    "tags": [
+      "Collaboration",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/kiwi",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/kiwi.json"
   },
   {
     "id": 38358,
