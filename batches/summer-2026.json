@@ -661,7 +661,7 @@
     "website": "https://www.librabots.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Infrastructure faces rapid expansion and labor shortages. Today, robots struggle to scale to meet customers’ high-mix work needs. Libra builds AI that engineers robots for new tasks across embodiments. We go from each new infra task to field-deployable robots 10x faster. Today, our robots are working on solar farms and piloting in data centers. Contractors pay for completed work as a service, not robots.",
-    "one_liner": "The robot workforce for infrastructure",
+    "one_liner": "The robot workforce for infrastructure of the AI era",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -2388,10 +2388,10 @@
     "former_names": [
       "Gud Labs"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6d9543a0527b0b5ac428e043f211c75ac5d1d59.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/493b89aecabc7b6fc643db9bad0535c31df8681d.png",
     "website": "https://olamlabs.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We research complex, high-fidelity simulations for training and evaluating frontier AI models, alongside the infrastructure to test and deploy them at scale. Our research focuses on simulations with realistic socialization, multi-agent interaction, swarms, and ultra-long-horizon tasks.\r\n\r\nTry one of our first releases, Multi-Agent Arena (https://olamarena.com/), where humans come play social strategy games against multiple AI agents. It has multi-agent social games like Poker, Diplomacy, Risk, and more.",
+    "long_description": "We push the complexity of simulations in order to provide labs with better model training and evaluations for their capability and safety needs. We achieve this through methods like multi-agent interaction and swarm RL.\r\n\r\nWe also run olamarena.com where humans come play multi-agent social games against models and inform our public evaluations on human <> agent interaction.",
     "one_liner": "Crafting simulations for frontier lab model training",
     "team_size": 2,
     "industry": "B2B",
@@ -5209,46 +5209,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/machine0.json"
   },
   {
-    "id": 32550,
-    "name": "Audora",
-    "slug": "audora",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6302716929368f039c6e25d73d9f3913bfb0475.png",
-    "website": "https://audora.art",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Audora turns your book or story into an audiobook where every character has their own voice.\r\n\r\nThe best adaptation of a book is the one in your head. You can see the characters in front of you and hear them talking to each other. We want an audiobook to do those characters justice: a voice that fits each of them, so a conversation actually sounds like a conversation.\r\n\r\nPaste a story link or upload a file. Audora works out who’s speaking and gives each character a distinct voice alongside the narrator. You can start listening while the rest of the book is still being made.\r\n\r\nOur roots are in fanfiction. We’re building for readers who already know these characters by heart, with a focus on voices that capture their personalities and stay consistent throughout the story.\r\n\r\nTry Audora: https://audora.art\r\nWatch the demo: https://youtu.be/R6Pt2O0fD4c",
-    "one_liner": "Audiobooks where every character has their own voice.",
-    "team_size": 1,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1779286359,
-    "tags": [
-      "Generative AI",
-      "Consumer",
-      "Entertainment"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/audora",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/audora.json"
-  },
-  {
     "id": 32551,
     "name": "Bloomy",
     "slug": "bloomy",
@@ -5710,8 +5670,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1ed30d715c1d9c492a56975e2eb6c95ba888810e.png",
     "website": "https://www.useclick.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Click serves agents over an API. Use any model, bring your tools, and submit inputs - Click runs the agent and streams back events.\r\nAsk your coding agent about useclick.ai/reference!",
-    "one_liner": "Serverless agents",
+    "long_description": "Click runs serverless agents with any model and your tools. Submit inputs over an API and stream results to your app or receive a webhook when work completes.\r\n\r\nAsk your coding agent about useclick.ai/reference!",
+    "one_liner": "Managed Agents API",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",

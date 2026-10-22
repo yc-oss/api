@@ -1160,7 +1160,7 @@
       "Unify",
       "Ivy"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/90e213981ccee521dac2989633ba8959528e318e.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b96fdc50d7076ac83595fe19f86409c50f7819d.png",
     "website": "https://unify.ai",
     "all_locations": "London, England, United Kingdom; Remote",
     "long_description": "Building the next frontier of models that continually learn from a stream of experience.",
@@ -4906,17 +4906,18 @@
   },
   {
     "id": 31192,
-    "name": "Approxima",
-    "slug": "approxima",
+    "name": "SideKit",
+    "slug": "sidekit",
     "former_names": [
       "Sidekit",
-      "SideKit"
+      "SideKit",
+      "Approxima"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e6e6d183a6369dfc8a86aad778e45ad07d16406f.png",
-    "website": "https://approxima.ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f92328a175964c6444951d5ecf374ac25667dab.png",
+    "website": "https://appsidekit.com",
     "all_locations": "Toronto, ON, Canada",
-    "long_description": "Human-assisted development should be for novel ideation, not routine maintenance, bug fixes or incremental updates. Approxima is bringing you that future with agents that can scope work, code, validate their fixes end-to-end in sandbox environments and merge to production. Book a demo: https://calendly.com/ashish-selvaraj/approxima",
-    "one_liner": "Your software should build itself.",
+    "long_description": "SideKit is a consumer app studio that makes Island, a different kind of screen time app.",
+    "one_liner": "Consumer app studio.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -4945,8 +4946,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/approxima",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/approxima.json"
+    "url": "https://www.ycombinator.com/companies/sidekit",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/sidekit.json"
   },
   {
     "id": 31216,
@@ -5171,6 +5172,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hub",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/hub.json"
+  },
+  {
+    "id": 31396,
+    "name": "BayMachines",
+    "slug": "baymachines",
+    "former_names": [
+      "qomplement"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/70731d8a2f5b4d190c35770847f519b1ff172965.png",
+    "website": "https://baymachines.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "BayMachines deploys on-prem, air-gapped GPU systems for defense teams to run and fine-tune AI locally. We support defense technology companies serving the DoW and special operations, with deployments built to support CMMC and NIST 800-171 requirements.",
+    "one_liner": "AI compute for defense contractors",
+    "team_size": 7,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Defense",
+    "launched_at": 1771907564,
+    "tags": [
+      "Hardware",
+      "Defense",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/baymachines",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/baymachines.json"
   },
   {
     "id": 31516,
@@ -5606,8 +5651,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1ed30d715c1d9c492a56975e2eb6c95ba888810e.png",
     "website": "https://www.useclick.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Click serves agents over an API. Use any model, bring your tools, and submit inputs - Click runs the agent and streams back events.\r\nAsk your coding agent about useclick.ai/reference!",
-    "one_liner": "Serverless agents",
+    "long_description": "Click runs serverless agents with any model and your tools. Submit inputs over an API and stream results to your app or receive a webhook when work completes.\r\n\r\nAsk your coding agent about useclick.ai/reference!",
+    "one_liner": "Managed Agents API",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -6077,7 +6122,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/58a972cb3cb171dd4300267d241cc6705539f906.png",
     "website": "https://simulithic.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "AI made writing code fast. Testing it is still slow. Simulithic sends AI users through your app on every phone, browser and account type your customers use, so you can ship as fast as you can code, without writing or maintaining a single test.",
+    "long_description": "AI made writing code fast. Testing it is still slow. Simulithic sends AI users through your app on every device, browser and account type your customers use, so you can ship as fast as you can code, without writing or maintaining a single test.",
     "one_liner": "AI users that test your app on every device and browser",
     "team_size": 2,
     "industry": "B2B",
@@ -6251,7 +6296,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6640b732eb4efe17f2fb11ff75f6f6bc14184872.png",
     "website": "https://withhopper.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Hopper trains models on your production traces, then serves and improves them against your live traffic.",
+    "long_description": "Hopper trains open-weight models on your production traces, then serves and improves them against your live traffic.",
     "one_liner": "Inference and post-training for realtime agents",
     "team_size": 2,
     "industry": "B2B",
@@ -6416,7 +6461,7 @@
     "website": "https://sona8.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Sona8 uses AI voice agents to interview employees about how work gets done. Consulting, transformation and corporate development teams use it to hear from more people and follow up after changes.\r\n\r\nEmployees open a link and speak in their own language. The agent asks follow-up questions, and teams compare problems across sites and departments. We’ve completed 10,000+ employee interviews and signed one of the world’s top three consulting firms.\r\n\r\nWe’re building the context layer and operating system for strategy teams: combining employee knowledge with company data to understand operations, improve processes and put decisions into action. The same context will guide AI agents as they take over work, so the company keeps what it learns.",
-    "one_liner": "Context layer from employee voices to improve & automate workflows",
+    "one_liner": "Voice agents survey employees to map, improve & automate workflows",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",

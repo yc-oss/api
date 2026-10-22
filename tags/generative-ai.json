@@ -5565,7 +5565,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/04042feea68cfa6b3181b5712c149970e24f178f.png",
     "website": "https://www.veratainsight.com/",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "long_description": "Source Proprietary Deals Through Your Network. Verata combines relationship intelligence with private company data to help PE firms find targets, identify warm paths, and get to companies before they hit the market. We also empower firms to leverage their extended network for back-channeling and due diligence on prospective investment targets. ",
     "one_liner": "Network Intelligence for Investors",
     "team_size": 2,
@@ -7194,7 +7194,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -9361,27 +9361,28 @@
   },
   {
     "id": 30111,
-    "name": "x1",
-    "slug": "x1",
+    "name": "Biblo",
+    "slug": "biblo",
     "former_names": [
       "FoundryAI",
-      "Foundry"
+      "Foundry",
+      "x1"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c86ce92c78b4bd9698a823b31a8ee51eff7418e7.png",
-    "website": "https://x1.new/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d59ea04d2922990026b151b55ead83cbc174bff1.png",
+    "website": "https://www.heybiblo.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "x1 is an AI app builder that helps anyone create real, App Store-ready iOS apps. Users start with a structured product plan, design polished iPhone screens in a visual canvas, build features step by step, and prepare launch assets like App Store listings, screenshots, monetization, and analytics. Instead of generating one-shot AI demos, x1 gives builders a guided system for turning an idea into a real app.",
-    "one_liner": "AI app builder for creating and launching iPhone apps",
-    "team_size": 5,
+    "long_description": "Biblo is a personal AI agent that helps you get healthier, starting right in your texts.\r\n\r\nSend Biblo a photo of your food to track calories and macros, log workouts, or get personalized coaching based on your goals.\r\n\r\nBut Biblo goes beyond tracking. It learns your habits, preferences, and routines to help you make decisions and take action. We're building it to handle things like ordering food that fits your goals, planning workouts around your schedule, and taking care of everyday tasks on your behalf.\r\n\r\nOur vision is a personal AI that knows you well enough to anticipate what you need and get things done, not just answer questions.",
+    "one_liner": "Your personal AI fitness coach, over iMessage.",
+    "team_size": 7,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1731963387,
     "tags": [
-      "AI-Enhanced Learning",
-      "Developer Tools",
       "Generative AI",
-      "No-code",
-      "Automation"
+      "Consumer",
+      "Fitness",
+      "Health & Wellness",
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -9403,8 +9404,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/x1",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/x1.json"
+    "url": "https://www.ycombinator.com/companies/biblo",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/biblo.json"
   },
   {
     "id": 30113,
@@ -10501,7 +10502,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -10915,6 +10916,51 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/ashr.json"
   },
   {
+    "id": 31306,
+    "name": "Martini",
+    "slug": "martini",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c61a438eef6d3a1fe29d67dd180ddaaac257b9d.png",
+    "website": "https://martini.film",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Martini is a collaborative, AI-native platform for professional filmmaking in the era of generative media.\r\nBy integrating the best generative models into professional workflows, we enable world-class creatives to harness generative AI as a legitimate medium for film.",
+    "one_liner": "AI Video Production for Professionals",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1768440972,
+    "tags": [
+      "Generative AI",
+      "Entertainment",
+      "Design Tools",
+      "Video",
+      "Media"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/martini",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/martini.json"
+  },
+  {
     "id": 31340,
     "name": "Illume Labs",
     "slug": "illume-labs",
@@ -11235,7 +11281,7 @@
     "team_size": 1,
     "industry": "Consumer",
     "subindustry": "Consumer",
-    "launched_at": 1779286359,
+    "launched_at": 1792547058,
     "tags": [
       "Generative AI",
       "Consumer",
@@ -11245,7 +11291,7 @@
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
-    "batch": "Summer 2026",
+    "batch": "Fall 2026",
     "status": "Active",
     "industries": [
       "Consumer"
@@ -11260,7 +11306,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/audora",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/audora.json"
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/audora.json"
   },
   {
     "id": 32588,
@@ -11463,5 +11509,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/graphide",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/graphide.json"
+  },
+  {
+    "id": 38953,
+    "name": "Spacesheep",
+    "slug": "spacesheep",
+    "former_names": [
+      "spacesheep"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2cb23e26aad8ff71438bd185c90588109bbf3d5f.png",
+    "website": "https://spacesheep.dev/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Agents now write faster than anyone can read. Spacesheep is where their work lands: any agent turns a session's output into a space that your team takes in at a glance. It works with the agents you already use, and has its own agent built in.\r\n\r\nTeams work on it together: comment on the exact spot, @mention a teammate, or ask @spacesheep and an agent makes the change live on every screen. Every change is a version, and every space is searchable by meaning, for people and agents alike. Spaces can show live data streamed from servers and sensors, and connect to the tools your team already uses.\r\n\r\nTeams use it for research, design docs, dashboards, slides and internal apps.",
+    "one_liner": "Documents of the future: the collaboration surface for people and…",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1792552707,
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "Consumer",
+      "Productivity",
+      "Collaboration"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/spacesheep",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/spacesheep.json"
   }
 ]

@@ -4380,7 +4380,7 @@
     "website": "https://faradaycompute.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Faraday builds industrial AI that learns how enterprises operate and executes long-horizon, multi-step tasks from the back office to the shop floor.\r\n\r\nWe sit on top of fragmented systems of record, coordinating work across existing software and teams. We combine operating procedures, enterprise data, and expert feedback to capture the rules and judgment behind complex processes. In customer-specific RL environments, we optimize the agent harness around each company’s systems, constraints, approvals, and exceptions.\r\n\r\nWe’re connecting to industrial hardware to bring live production data into the same feedback loop. Human corrections, machine data, and operating results help improve how agents plan and execute future work.\r\n",
-    "one_liner": "Agents running industrial enterprises from back office to shop floor",
+    "one_liner": "Agents running manufacturers from the back office to the shop floor",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials",
@@ -4498,6 +4498,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/inflection-space-systems",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/inflection-space-systems.json"
+  },
+  {
+    "id": 35256,
+    "name": "horizontal.",
+    "slug": "horizontal",
+    "former_names": [
+      "Horizontal."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ba2a7c31a26b5e1a29a7aa8375c9dd030c5c3d6.png",
+    "website": "https://horizontal-tech.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Every factory will be run by AI agents. Horizontal is building them.\n\nToday, the work that keeps production moving is scattered across people, teams, and disconnected software. When plans change, materials run short, or quality issues appear, factory teams piece together the context and coordinate the response by hand.\n\nHorizontal's AI agents take on that operational work inside the systems factories already use. They replan production around a disruption, investigate quality issues and coordinate order releases across teams and tools. Manufacturers start with one process and add agents over time, building toward a system that coordinates the factory end to end.\n\nFactories are demanding environments for AI: every plant has its own systems and procedures, and every action must work in the context of real production. Our team combines mechanical engineering and shop-floor experience with a track record of building and deploying agentic AI in global industrial companies.\n\nHorizontal connects the people, software and machines that run production.",
+    "one_liner": "AI agents that run factory operations end-to-end.",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1792594969,
+    "tags": [
+      "Manufacturing",
+      "Automation",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/horizontal",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/horizontal.json"
   },
   {
     "id": 35290,
@@ -4720,8 +4763,8 @@
     "long_description": "Odin Robotics deploys robot arms in small and mid-sized factories to do repetitive manual work, like machine tending and packing. They work alongside existing machines and people, so factories don't have to redesign their lines. With deterministic controls and learned skills, they're both reliable and flexible.",
     "one_liner": "Robot arms that do repetitive manual work in existing factories.",
     "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Home and Personal",
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1792472507,
     "tags": [
       "Robotics",
@@ -4735,8 +4778,8 @@
     "batch": "Fall 2026",
     "status": "Active",
     "industries": [
-      "Consumer",
-      "Home and Personal"
+      "Industrials",
+      "Manufacturing and Robotics"
     ],
     "regions": [
       "Switzerland",

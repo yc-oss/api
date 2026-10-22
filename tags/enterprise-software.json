@@ -2670,7 +2670,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -4834,6 +4834,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/openroll.json"
   },
   {
+    "id": 31133,
+    "name": "Skillsync",
+    "slug": "skillsync",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/74db8ee9ac823e859d8f4544a01d6e33b5507273.png",
+    "website": "https://skillsync.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Skillsync makes your agent session history searchable. Both for you and your coding agents. It searches all your sessions before each prompt and hands your agent what you already figured out. It gives you one place for everything your agents have ever done. Move a full session between Claude Code, Cursor, Codex, and any other agent with nothing lost, including the entire conversation, the model's reasoning, and every tool call, not just a summary, so the next agent picks up like it was there the whole time. Skillsync is local-first and yours, and its core engine, txcript, is open source, a portable session format that no single provider owns.",
+    "one_liner": "Search your agent session history",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1765356952,
+    "tags": [
+      "AIOps",
+      "Developer Tools",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/skillsync",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/skillsync.json"
+  },
+  {
     "id": 31182,
     "name": "Visibl Semiconductors",
     "slug": "visibl-semiconductors",
@@ -4921,17 +4963,18 @@
   },
   {
     "id": 31192,
-    "name": "Approxima",
-    "slug": "approxima",
+    "name": "SideKit",
+    "slug": "sidekit",
     "former_names": [
       "Sidekit",
-      "SideKit"
+      "SideKit",
+      "Approxima"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e6e6d183a6369dfc8a86aad778e45ad07d16406f.png",
-    "website": "https://approxima.ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f92328a175964c6444951d5ecf374ac25667dab.png",
+    "website": "https://appsidekit.com",
     "all_locations": "Toronto, ON, Canada",
-    "long_description": "Human-assisted development should be for novel ideation, not routine maintenance, bug fixes or incremental updates. Approxima is bringing you that future with agents that can scope work, code, validate their fixes end-to-end in sandbox environments and merge to production. Book a demo: https://calendly.com/ashish-selvaraj/approxima",
-    "one_liner": "Your software should build itself.",
+    "long_description": "SideKit is a consumer app studio that makes Island, a different kind of screen time app.",
+    "one_liner": "Consumer app studio.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -4960,8 +5003,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/approxima",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/approxima.json"
+    "url": "https://www.ycombinator.com/companies/sidekit",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/sidekit.json"
   },
   {
     "id": 31222,
@@ -5903,7 +5946,7 @@
     "website": "https://faradaycompute.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Faraday builds industrial AI that learns how enterprises operate and executes long-horizon, multi-step tasks from the back office to the shop floor.\r\n\r\nWe sit on top of fragmented systems of record, coordinating work across existing software and teams. We combine operating procedures, enterprise data, and expert feedback to capture the rules and judgment behind complex processes. In customer-specific RL environments, we optimize the agent harness around each company’s systems, constraints, approvals, and exceptions.\r\n\r\nWe’re connecting to industrial hardware to bring live production data into the same feedback loop. Human corrections, machine data, and operating results help improve how agents plan and execute future work.\r\n",
-    "one_liner": "Agents running industrial enterprises from back office to shop floor",
+    "one_liner": "Agents running manufacturers from the back office to the shop floor",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials",
