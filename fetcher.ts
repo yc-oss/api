@@ -1,5 +1,6 @@
 import { ensureDir } from "@std/fs/ensure-dir";
 import { slugify } from "slugify";
+import { sortBatches } from "./batches.ts";
 import {
   buildCompanyChangeSet,
   type CompanySnapshot,
@@ -269,38 +270,16 @@ for (const industry of uniqueIndustries) {
   };
 }
 
-const uniqueBatches = Array.from(new Set(results.map((result) => result.batch)))
-  .map((batch) => {
-    const slug = slugify(batch, { lower: true });
-    return {
-      name: batch,
-      slug,
-      api: `https://yc-oss.github.io/api/batches/${slug}.json`,
-    };
-  })
-  .sort((a, b) => {
-    // We also want "Unspecified" to be last
-    if (a.name === "Unspecified") return 1;
-    if (b.name === "Unspecified") return -1;
-
-    // Batches are like "S21" and "W23" and we want to sort them reverse chronologically
-    // so that summer is before winter and greater numbers are before smaller numbers
-    const aNum = parseInt(a.name.slice(1));
-    const bNum = parseInt(b.name.slice(1));
-
-    // Order of batches is Fall, Summer, Winter
-    if (aNum === bNum) {
-      const aSeason = a.name.slice(0);
-      const bSeason = b.name.slice(0);
-      if (aSeason === "F") return -1;
-      if (bSeason === "F") return 1;
-      if (aSeason === "S") return -1;
-      if (bSeason === "S") return 1;
-      return 0;
-    }
-
-    return bNum - aNum;
-  });
+const uniqueBatches = sortBatches(
+  Array.from(new Set(results.map((result) => result.batch))),
+).map((batch) => {
+  const slug = slugify(batch, { lower: true });
+  return {
+    name: batch,
+    slug,
+    api: `https://yc-oss.github.io/api/batches/${slug}.json`,
+  };
+});
 
 for (const batch of uniqueBatches) {
   const filteredResults = results.filter(
