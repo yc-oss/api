@@ -4685,7 +4685,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -6214,7 +6214,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5849b2060564f1836d25c1fa4a3cd18ef1bf9553.png",
     "website": "https://www.tenetindustries.com",
-    "all_locations": "Stockholm, Stockholm County, Sweden",
+    "all_locations": "Munich, BY, Germany",
     "long_description": "Tenet Industries is building AI-automated factories for electronics manufacturing services.\r\n\r\nWe're using AI and robotics to build a factory in München for instant-quote, fast-turnaround PCB Assembly and electronic manufacturing services.",
     "one_liner": "AI-automated factory for PCBAs",
     "team_size": 3,
@@ -6239,7 +6239,7 @@
       "Manufacturing and Robotics"
     ],
     "regions": [
-      "Sweden",
+      "Germany",
       "Europe"
     ],
     "stage": "Early",
@@ -6293,50 +6293,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/baymachines",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/baymachines.json"
-  },
-  {
-    "id": 31454,
-    "name": "E1O",
-    "slug": "e1o",
-    "former_names": [
-      "Datost",
-      "ED1TH"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9320ae60dfd7f05401e99f8ca644e1ab6704289e.png",
-    "website": "https://e1o.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "E1O (E1 Optics) is building camera-free AI glasses with a private display and a personal assistant. Follow your coding agents, catch up on email, and bring useful information into view. Connected to the E1O app on your phone. Join the early-access waitlist at e1o.com.",
-    "one_liner": "Camera-free AI glasses. Your AI, out in the world.",
-    "team_size": 1,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Consumer Electronics",
-    "launched_at": 1772488469,
-    "tags": [
-      "Hardware",
-      "Consumer",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Consumer Electronics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/e1o",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/e1o.json"
   },
   {
     "id": 31535,
@@ -6617,7 +6573,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2026",
     "status": "Active",
@@ -7366,6 +7322,49 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2027/lucebox.json"
   },
   {
+    "id": 35457,
+    "name": "Kairox Systems",
+    "slug": "kairox-systems",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/737f3333be41dc7af0dd82ff9092c0e46f2105a6.png",
+    "website": "http://www.kairoxsys.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Kairox Systems combines the speed of aerial drones and the stealth of underwater drones into one vehicle. We can look for mines in a strait, fly out of the water to inspect a coastline, and then engage maritime threats in one go. \r\n\r\nJoel, Alex, and Jorge all met at MIT. After conversations with warfighters and drone researchers, they decided to create a vehicle unlike any before: A long-range vehicle that is truly amphibious, low-cost enough for one-way swarms, can operate fully autonomously, and can be repurposed on the front lines. Engaged with the Marine Corps and validated with end users across the U.S. and allied militaries.",
+    "one_liner": "Autonomous drones that fly and swim",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Defense",
+    "launched_at": 1792645652,
+    "tags": [
+      "Hardware",
+      "Drones",
+      "Aerospace",
+      "Maritime",
+      "Defense"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": true,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/kairox-systems",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/kairox-systems.json"
+  },
+  {
     "id": 35522,
     "name": "Hemlock",
     "slug": "hemlock",
@@ -7373,8 +7372,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9593981f6acf78f7e8d4417ca9346aed3d279da4.png",
     "website": "https://hemlock.inc",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Every serious robotics lab is bottlenecked on the same thing: demonstration data. The field has converged on egocentric video and hand pose as the substrate, and both are now cheap to collect at scale. What neither of them contains is force. A video of someone picking up an egg and a video of someone picking up a rock are nearly identical in pixel space and nearly identical in joint angles. They differ almost entirely in a quantity nobody is recording. Policies trained without it learn geometry and inherit no sense of touch.\r\n\r\nHemlock closes that gap at the source. Our device, the Bracelet, is a wrist-worn surface EMG band that reads the electrical activity of the forearm muscles that actually drive the hand, which means it recovers contraction force directly rather than inferring it from motion. This distinction is the whole thesis: force cannot be reconstructed downstream of kinematics, because a hand squeezing hard isometrically and a hand resting can occupy the identical pose. Muscle signal is the only non-invasive channel that separates them.",
-    "one_liner": "Force-sensing wristband for training robotic AI",
+    "long_description": "At Hemlock, we equip workers around the globe with EMG wearables to generate force/contact-annotated egocentric video data to give physical AI models a sense of touch from human data. Force + contact dynamics, collected at scale.",
+    "one_liner": "Force + contact dynamics collected at scale for training physical AI.",
     "team_size": 1,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",

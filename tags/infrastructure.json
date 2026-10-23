@@ -1685,23 +1685,26 @@
   },
   {
     "id": 28900,
-    "name": "Epsilla",
-    "slug": "epsilla",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a2a1e40bf12e61df1ea8d4d6a4f8b7691ac3982f.png",
-    "website": "https://www.epsilla.com/",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Epsilla is an all-in-one platform for building AI agents powered by your private data and knowledge. Easy to use for domain professionals, deeply customizable for AI experts, and fully equipped for enterprise customers with security, scalability, and integration.",
-    "one_liner": "All-in-one platform to create AI agents with your private knowledge",
+    "name": "HarnessRouter",
+    "slug": "harnessrouter",
+    "former_names": [
+      "Epsilla"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f2e582140d05a49c2195e6fa0ed3e3fe192c9467.png",
+    "website": "https://harnessrouter.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Build agent-powered products without rebuilding the runtime infrastructure. HarnessRouter is the world's first unified interface for agent harnesses, connecting your app to Codex, Claude Code, Hermes, DeepSeek Harness, and other supported harnesses through one API.\r\n\r\nHarnessRouter Cloud runs tasks in isolated, serverless sandboxes and handles sessions, streaming, files, artifacts, recovery, and execution tracing. Teams can compare harness and model configurations on their own tasks to choose the right balance of quality, latency, and cost.\r\n\r\nUse the managed Cloud or self-host the Apache 2.0 Community Edition on infrastructure you control. Both implement the Unified Harness Protocol (UHP).",
+    "one_liner": "The world's first unified interface for agent harnesses.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1687398753,
     "tags": [
+      "Developer Tools",
       "SaaS",
+      "Open Source",
       "Infrastructure",
-      "AI",
-      "Databases"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1717,15 +1720,15 @@
       "United States of America",
       "America / Canada",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/epsilla",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/epsilla.json"
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/harnessrouter",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/harnessrouter.json"
   },
   {
     "id": 28968,
@@ -2672,8 +2675,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2623539c5a9dddb54681db96f38cf2be0f9428d9.png",
     "website": "https://www.thundercompute.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Thunder Compute is a systems research lab with commercial focus. We productionize GPU virtualization research to provide step-change improvements in utilization to our cloud offering and partner GPU fleets.",
-    "one_liner": "GPUs for Agents",
+    "long_description": "Thunder Compute is the GPU sandbox company. We build GPU sandboxes for AI agents and GPU instances for developers, and help partners get more out of their GPU fleets.",
+    "one_liner": "The GPU sandbox company",
     "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -4217,8 +4220,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e968a9edc53bbf932ccbe0585917fe2029077b90.png",
     "website": "https://www.panoptive.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We turn unstructured monitoring data - monitoring visit reports, EDC data - into structured deviation, safety, and quality findings for human review. Panoptive generates an audit-ready oversight trail as a natural byproduct. \r\n\r\nThe platform aggregates findings and identifies systemic patterns across sites and subjects before they compound, and tracks every finding through decision, follow-up, and resolution.",
-    "one_liner": "The continuous oversight engine for clinical trials",
+    "long_description": "Building simulation environments and agents for clinical development operations.\r\n\r\nPut agents to work across clinical data management, clinical operations, and quality assurance workflows on a shared, secure data foundation.",
+    "one_liner": "Agent systems for clinical development work",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -4905,6 +4908,45 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/fern-bot.json"
   },
   {
+    "id": 31171,
+    "name": "Overshoot",
+    "slug": "overshoot",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/75ab36afe66f4bda5eff13ae18da37d871c835e7.png",
+    "website": "https://overshoot.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Overshoot makes AI models run faster and cheaper on your hardware.\r\n\r\nServing engines like vLLM and SGLang were designed for the average workload. This results in most deployments being extremely inefficient, especially around throughput (hence cost). \r\n\r\nWe profile your workload on your hardware, then build a custom deployment image tuned to the metrics you care about, within the quality limits you set.\r\n\r\nYou only pay if we meet the performance target we agree on.",
+    "one_liner": "We optimize inference stacks for teams",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1770705031,
+    "tags": [
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/overshoot",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/overshoot.json"
+  },
+  {
     "id": 31192,
     "name": "SideKit",
     "slug": "sidekit",
@@ -5216,6 +5258,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/baymachines",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/baymachines.json"
+  },
+  {
+    "id": 31454,
+    "name": "decuff",
+    "slug": "decuff",
+    "former_names": [
+      "Datost",
+      "ED1TH",
+      "E1O"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8bed27862086c517104b2beaea42a6396e84ca95.png",
+    "website": "https://decuff.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "decuff is an API for uncensored AI. We serve abliterated open-source models at scale with zero data retention: direct answers, no refusals, no lectures. AI is a tool that should do what you ask. Start building at decuff.ai.",
+    "one_liner": "Uncensored AI models, served at scale with zero data retention.",
+    "team_size": 1,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Consumer Electronics",
+    "launched_at": 1772488469,
+    "tags": [
+      "Developer Tools",
+      "Consumer",
+      "Infrastructure",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Consumer Electronics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/decuff",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/decuff.json"
   },
   {
     "id": 31516,
@@ -5539,7 +5627,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2026",
     "status": "Active",

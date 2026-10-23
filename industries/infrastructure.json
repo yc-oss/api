@@ -4966,7 +4966,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -7680,23 +7680,26 @@
   },
   {
     "id": 28900,
-    "name": "Epsilla",
-    "slug": "epsilla",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a2a1e40bf12e61df1ea8d4d6a4f8b7691ac3982f.png",
-    "website": "https://www.epsilla.com/",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Epsilla is an all-in-one platform for building AI agents powered by your private data and knowledge. Easy to use for domain professionals, deeply customizable for AI experts, and fully equipped for enterprise customers with security, scalability, and integration.",
-    "one_liner": "All-in-one platform to create AI agents with your private knowledge",
+    "name": "HarnessRouter",
+    "slug": "harnessrouter",
+    "former_names": [
+      "Epsilla"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f2e582140d05a49c2195e6fa0ed3e3fe192c9467.png",
+    "website": "https://harnessrouter.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Build agent-powered products without rebuilding the runtime infrastructure. HarnessRouter is the world's first unified interface for agent harnesses, connecting your app to Codex, Claude Code, Hermes, DeepSeek Harness, and other supported harnesses through one API.\r\n\r\nHarnessRouter Cloud runs tasks in isolated, serverless sandboxes and handles sessions, streaming, files, artifacts, recovery, and execution tracing. Teams can compare harness and model configurations on their own tasks to choose the right balance of quality, latency, and cost.\r\n\r\nUse the managed Cloud or self-host the Apache 2.0 Community Edition on infrastructure you control. Both implement the Unified Harness Protocol (UHP).",
+    "one_liner": "The world's first unified interface for agent harnesses.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1687398753,
     "tags": [
+      "Developer Tools",
       "SaaS",
+      "Open Source",
       "Infrastructure",
-      "AI",
-      "Databases"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7712,15 +7715,15 @@
       "United States of America",
       "America / Canada",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/epsilla",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/epsilla.json"
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/harnessrouter",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/harnessrouter.json"
   },
   {
     "id": 28960,
@@ -8783,8 +8786,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2623539c5a9dddb54681db96f38cf2be0f9428d9.png",
     "website": "https://www.thundercompute.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Thunder Compute is a systems research lab with commercial focus. We productionize GPU virtualization research to provide step-change improvements in utilization to our cloud offering and partner GPU fleets.",
-    "one_liner": "GPUs for Agents",
+    "long_description": "Thunder Compute is the GPU sandbox company. We build GPU sandboxes for AI agents and GPU instances for developers, and help partners get more out of their GPU fleets.",
+    "one_liner": "The GPU sandbox company",
     "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",

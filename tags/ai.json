@@ -14064,7 +14064,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -16875,17 +16875,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/48474c1b0337163fd12462fb6b72ee336a4ad010.png",
     "website": "https://www.adni.co/",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Adni is the career community for 200,000+ nurses and allied health workers. Members use our app to chat with career coaches, apply for jobs, store and track credentials, shop for gear, connect with recruiters, and find meetups.\r\n\r\nOrganizations partner with Adni to reach, engage, and hire healthcare workers through our network, verified database of 2.4 million licensed clinicians, AI sourcing agent, and marketing tools. Customers acquire clinicians at 3x lower cost than legacy job boards and advertising platforms.\r\n\r\nOur customers include Massachusetts General Hospital, Penn Medicine, ChristianaCare, Medical Solutions, Medline, Jaanuu, and Proliability.\r\n\r\nFounded by two nurses. Backed by YC, Flare Capital, Liquid 2, Fresco, Augment, Crista Galli, Adam Grant, and the founders of CareRev, Clipboard Health, and Papa.",
-    "one_liner": "The career community for healthcare workers",
+    "long_description": "Adni helps companies reach the right healthcare workers faster and cheaper. We combine a verified database of 2.4M licensed clinicians with an AI sourcing agent and AI-powered marketing services. Our career app, where 200,000+ nurses and allied health workers find jobs, talk to career coaches, and track credentials, keeps that network engaged and growing.\r\n\r\nOur customers include Massachusetts General Hospital, Penn Medicine, ChristianaCare, Stepful, Medical Solutions, Medline, Jaanuu, and Proliability.\r\n\r\nFounded by two nurses. Backed by YC, Flare Capital, Liquid 2, Fresco, Augment, Crista Galli, Adam Grant, and the founders of CareRev, Clipboard Health, and Papa.",
+    "one_liner": "The career network for healthcare workers",
     "team_size": 5,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1624982871,
     "tags": [
       "Marketplace",
-      "SaaS",
       "Recruiting",
       "Healthcare",
+      "Marketing",
       "AI"
     ],
     "tags_highlighted": [],
@@ -17236,7 +17236,7 @@
     "all_locations": "New York City, NY, USA",
     "long_description": "Output Labs is a frontier AI research lab. We created Mechanistic Reasoning, a new kind of AI that learns how and why complex systems work. It lets us understand the systems behind science's hardest problems, and control them.",
     "one_liner": "The foundation for the next era of science",
-    "team_size": 8,
+    "team_size": 10,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Drug Discovery and Delivery",
     "launched_at": 1628006072,
@@ -26369,7 +26369,7 @@
       "Fabrikant Tech, Inc.",
       "Blocksfabrik"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8f6bbfc7fd06398177687e787a5e50cc01365f06.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a9e3af247dc25da93c39622ecac9836513ff10ab.png",
     "website": "https://www.designbase.com/",
     "all_locations": "Remote",
     "long_description": "Designbase is the interface design tool that gives early teams design and development superpowers. Create stunning interfaces, immediately available as code, regardless of resources.",
@@ -33319,23 +33319,26 @@
   },
   {
     "id": 28900,
-    "name": "Epsilla",
-    "slug": "epsilla",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a2a1e40bf12e61df1ea8d4d6a4f8b7691ac3982f.png",
-    "website": "https://www.epsilla.com/",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Epsilla is an all-in-one platform for building AI agents powered by your private data and knowledge. Easy to use for domain professionals, deeply customizable for AI experts, and fully equipped for enterprise customers with security, scalability, and integration.",
-    "one_liner": "All-in-one platform to create AI agents with your private knowledge",
+    "name": "HarnessRouter",
+    "slug": "harnessrouter",
+    "former_names": [
+      "Epsilla"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f2e582140d05a49c2195e6fa0ed3e3fe192c9467.png",
+    "website": "https://harnessrouter.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Build agent-powered products without rebuilding the runtime infrastructure. HarnessRouter is the world's first unified interface for agent harnesses, connecting your app to Codex, Claude Code, Hermes, DeepSeek Harness, and other supported harnesses through one API.\r\n\r\nHarnessRouter Cloud runs tasks in isolated, serverless sandboxes and handles sessions, streaming, files, artifacts, recovery, and execution tracing. Teams can compare harness and model configurations on their own tasks to choose the right balance of quality, latency, and cost.\r\n\r\nUse the managed Cloud or self-host the Apache 2.0 Community Edition on infrastructure you control. Both implement the Unified Harness Protocol (UHP).",
+    "one_liner": "The world's first unified interface for agent harnesses.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1687398753,
     "tags": [
+      "Developer Tools",
       "SaaS",
+      "Open Source",
       "Infrastructure",
-      "AI",
-      "Databases"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -33351,15 +33354,15 @@
       "United States of America",
       "America / Canada",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/epsilla",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/epsilla.json"
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/harnessrouter",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/harnessrouter.json"
   },
   {
     "id": 28902,
@@ -37262,14 +37265,16 @@
   },
   {
     "id": 29245,
-    "name": "Kabilah",
-    "slug": "kabilah",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/559be3dbe8db39ee44373d9f21cfd1f1f146092e.png",
-    "website": "https://www.kabilah.com",
+    "name": "Aren",
+    "slug": "aren",
+    "former_names": [
+      "Kabilah"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/364d4894b0a1316d1031d75709cb12f94ced7b77.png",
+    "website": "https://www.aren.com/",
     "all_locations": "",
-    "long_description": "Kabilah is the most trusted enterprise-grade AI platform designed specifically for nursing workflows. We reduce burnout, enhance system efficiency, and enable high quality care.",
-    "one_liner": "Agentic AI for Nursing Workflows",
+    "long_description": "Empowering nurses to execute successful shifts, while illuminating their critical role in health system financial performance.",
+    "one_liner": "Powering Successful Nursing Shifts",
     "team_size": null,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
@@ -37297,8 +37302,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/kabilah",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/kabilah.json"
+    "url": "https://www.ycombinator.com/companies/aren",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/aren.json"
   },
   {
     "id": 29246,
@@ -47423,8 +47428,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2623539c5a9dddb54681db96f38cf2be0f9428d9.png",
     "website": "https://www.thundercompute.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Thunder Compute is a systems research lab with commercial focus. We productionize GPU virtualization research to provide step-change improvements in utilization to our cloud offering and partner GPU fleets.",
-    "one_liner": "GPUs for Agents",
+    "long_description": "Thunder Compute is the GPU sandbox company. We build GPU sandboxes for AI agents and GPU instances for developers, and help partners get more out of their GPU fleets.",
+    "one_liner": "The GPU sandbox company",
     "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -51299,8 +51304,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/93b1b4fbe4b8807a5770f0fad5c76f3b8685dee9.png",
     "website": "https://riskcube.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "RiskCube is building the first AI-native reinsurer for emerging risks.\r\n\r\nMission: Building products & services focused on lowering the protection gap for the innovation economy on a national and global scale. \r\n\r\nToday, we operate an insurance brokerage focused on startups in AI, robotics, space, and defense. Through the brokerage, we see firsthand where traditional insurance products fail, from AI liability and autonomous systems to defense technology and new space risks.\r\n\r\nWe are now building proprietary risk models that can price risks even when little historical claims data exists. Our approach uses stochastic simulation, then applies traditional, explainable models to make the output transparent to underwriters and regulators.\r\n\r\nThis allows us to create new insurance and reinsurance products for emerging industries much faster than traditional carriers.\r\n\r\nThe U.S. insurance market still relies heavily on foreign reinsurance capacity.\r\nOur goal is to build new reinsurance capacity on American soil for the industries defining the next generation of the U.S. economy, while reducing America's dependence on foreign reinsurance capacity.\r\n",
-    "one_liner": "The new American reinsurance company.",
+    "long_description": "Mission: Building insurance products & services focused on lowering the protection gap for the innovation economy on a national and global scale. \r\n\r\nToday, we operate an insurance brokerage focused on startups in AI, robotics, space, and defense. Through the brokerage, we see firsthand where traditional insurance products fail, from AI liability and autonomous systems to defense technology and new space risks.\r\n\r\nWe are now building proprietary risk models that can price risks even when little historical claims data exists. Our approach uses stochastic simulation, then applies traditional, explainable models to make the output transparent to underwriters and regulators.\r\n\r\nThis allows us to create new insurance and reinsurance products for emerging industries much faster than traditional carriers.\r\n\r\nThe U.S. insurance market still relies heavily on foreign reinsurance capacity.\r\nOur goal is to build new reinsurance capacity on American soil for the industries defining the next generation of the U.S. economy, while reducing America's dependence on foreign reinsurance capacity.\r\n",
+    "one_liner": "New American insurance company. ",
     "team_size": 3,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
@@ -54576,9 +54581,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7e6ffdce0849e290e9af29bb1746cf9441830631.png",
     "website": "https://harbera.com/",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Harbera helps clinics keep their doctors credentialed and compliant. Our AI software continuously monitors and proactively helps admin teams re-credential doctors, preventing denied claims, disruptions in patient care, and lost revenue caused by doctors falling out-of-network.",
+    "long_description": "Harbera builds AI software that helps healthcare clinics navigate working with insurance companies – from getting doctors approved to be in-network, to managing the rates insurers agree to pay and ensuring that payments match those rates.\r\n",
     "one_liner": "AI Healthcare Provider Credentialing Software",
-    "team_size": 2,
+    "team_size": null,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1739432197,
@@ -54590,7 +54595,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -55245,7 +55250,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -56072,7 +56077,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We enable AI to control the browser. \r\nBrowser-use is the biggest open-source web agent project with 110k+ Github stars.",
     "one_liner": "Agents that use the browser.",
-    "team_size": 7,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1734712888,
@@ -58463,7 +58468,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We are building the data layer for AI, starting with audio.  \r\n\r\nWe start with data collection, curating our own proprietary set of diverse conversational data covering a wide range of languages, dialects and accents.  We then leverage human expert audio annotators and our own annotation platform to process audio data for Automatic Speech Recognition.  \r\n\r\nWith human level transcription and diarization, our data help push the audio model frontier.  Today we have over millions of hours of conversational data, and growing. \r\n\r\nIf you need audio data for training or evaluating your voice models or voice agents, reach out!  We offer flexible licensing deals that work for startups and enterprises, with minimal process.  \r\n\r\nAudio data should besimple :) ",
     "one_liner": "Voice data for AI",
-    "team_size": 10,
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1747861843,
@@ -59937,55 +59942,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/autonomous-technologies-group.json"
   },
   {
-    "id": 30592,
-    "name": "Prox",
-    "slug": "prox",
-    "former_names": [
-      "DART",
-      "Stealth",
-      "Dart Labs",
-      "prox"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/98f30fc74152325f6e0cd4158a192d0c292aefd1.png",
-    "website": "https://useprox.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Prox turns product expertise into revenue for equipment manufacturers.\r\n\r\nEquipment buyers rarely begin with a model number. They begin with a job, an installed system, a constraint, or a problem. The knowledge needed to qualify, recommend, configure, quote, repair, replace, or upgrade the product is scattered across manuals, catalogs, spreadsheets, calculators, product managers, applications engineers, dealer processes, support teams, and legacy systems. The result is abandoned demand, slow qualification, wrong-fit recommendations, quote delays, weak dealer follow-up, missed parts and service revenue, and dependence on a few experienced people.\r\n\r\nProx builds AI product specialists for equipment manufacturers. A product specialist uses the manufacturer's approved product knowledge, expert rules, calculators, and connected systems to move customers and frontline teams from a complex product question to the right purchase, quote, dealer, parts, service, replacement, or upgrade path.\r\n\r\nHow it works:\r\n\r\n1. Understand what the person is trying to accomplish.\r\n2. Resolve the product, application, and operating context already available.\r\n3. Ask only for the missing information that changes the result.\r\n4. Apply approved sources, expert rules, and deterministic tools (calculators, selectors, configurators, comparisons).\r\n5. Produce a supported, cited recommendation, configuration, procedure, or decision artifact.\r\n6. Move the person into the correct cart, quote, RFQ, BOM, dealer, sales, parts, service, replacement, upgrade, or expert action with the context preserved.\r\n\r\nOne product specialist, many governed skills: product discovery and comparison, sizing and configuration, competitive defense, quote preparation, dealer enablement, installation and commissioning, troubleshooting, parts identification, and approved service, replacement, and upgrade paths. Manufacturers deploy those skills to customers, dealers, sales teams, applications engineers, support teams, or field service. Existing CRM, CPQ, commerce, and support systems stay in place.\r\n\r\nSupport and service are revenue-bearing surfaces. The specialist resolves the customer's problem first, then surfaces the approved part, service, replacement, or upgrade path only when the evidence supports it.",
-    "one_liner": "AI product specialists for equipment manufacturers",
-    "team_size": 7,
-    "industry": "B2B",
-    "subindustry": "B2B -> Retail",
-    "launched_at": 1759337800,
-    "tags": [
-      "Customer Success",
-      "E-commerce",
-      "Customer Support",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Retail"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/prox",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/prox.json"
-  },
-  {
     "id": 30596,
     "name": "Adaptional",
     "slug": "adaptional",
@@ -61456,8 +61412,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e968a9edc53bbf932ccbe0585917fe2029077b90.png",
     "website": "https://www.panoptive.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We turn unstructured monitoring data - monitoring visit reports, EDC data - into structured deviation, safety, and quality findings for human review. Panoptive generates an audit-ready oversight trail as a natural byproduct. \r\n\r\nThe platform aggregates findings and identifies systemic patterns across sites and subjects before they compound, and tracks every finding through decision, follow-up, and resolution.",
-    "one_liner": "The continuous oversight engine for clinical trials",
+    "long_description": "Building simulation environments and agents for clinical development operations.\r\n\r\nPut agents to work across clinical data management, clinical operations, and quality assurance workflows on a shared, secure data foundation.",
+    "one_liner": "Agent systems for clinical development work",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -68248,6 +68204,45 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/instinct-xyz.json"
   },
   {
+    "id": 31171,
+    "name": "Overshoot",
+    "slug": "overshoot",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/75ab36afe66f4bda5eff13ae18da37d871c835e7.png",
+    "website": "https://overshoot.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Overshoot makes AI models run faster and cheaper on your hardware.\r\n\r\nServing engines like vLLM and SGLang were designed for the average workload. This results in most deployments being extremely inefficient, especially around throughput (hence cost). \r\n\r\nWe profile your workload on your hardware, then build a custom deployment image tuned to the metrics you care about, within the quality limits you set.\r\n\r\nYou only pay if we meet the performance target we agree on.",
+    "one_liner": "We optimize inference stacks for teams",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1770705031,
+    "tags": [
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/overshoot",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/overshoot.json"
+  },
+  {
     "id": 31180,
     "name": "Seeing Systems",
     "slug": "seeing-systems",
@@ -68861,8 +68856,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa894803120df3a3a9250c66e4232e33e2a223d0.png",
     "website": "https://www.datoric.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Datoric develops custom datasets for voice models, robotics, and world models, treating research, collection, verification, and production as one continuous process. We work closely with frontier model teams to turn emerging limitations and model failures into testable data hypotheses, while running our own experiments ahead of customer demand. This allows us to operationalize validated methods into repeatable collection systems at scale.\r\n\r\nData is collected through private invite-only applications separated by modality, customer, and trust level. Every submission remains linked to the contributor, device, task, session, consent, rights, and processing history that produced it, giving our internal QA and fraud models the context to detect problems that may appear legitimate in the finished file. Each collection reveals new failure cases and quality signals that improve the systems behind the next dataset.\r\n\r\nOnce a collection method is validated, we scale it up as a solution to the model failure and it also becomes a reusable data recipe for future custom projects or independently collected, rights-cleared data products. ",
-    "one_liner": "The secure training data R&D engine for physical AI",
+    "long_description": "Datoric develops custom datasets for robotics, treating research, collection, verification, and production as one continuous process. We work closely with frontier model teams to turn emerging limitations and model failures into testable data hypotheses, and run exclusive collections for specific data methods based on results.\r\n\r\nData is collected through private invite-only applications separated by modality, customer, and trust level. Every submission remains linked to the contributor, device, task, session, consent, rights, and processing history that produced it, giving our internal QA and fraud models the context to detect problems that may appear legitimate in the finished file. \r\n\r\nOnce a collection method is validated, we scale it up as a solution to the model failure and it also becomes a reusable data recipe for future custom projects or independently collected, rights-cleared data products. ",
+    "one_liner": "The training data R&D engine for physical AI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -73603,7 +73598,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2026",
     "status": "Active",
@@ -76604,8 +76599,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/091a0f9893d5a0f66b65399660fc8041716acd4e.png",
     "website": "https://petrarch.co/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Petrarch brings internal company data to frontier labs, starting with manufacturing and industrial companies. We source data including codebases, project files, and payments from bankruptcy courts, then de-identify and prepare the data for model training. \r\n",
-    "one_liner": "Internal industrial company data for frontier labs",
+    "long_description": "Petrarch works with bankruptcy courts to source records from enterprises in the critical infrastructure sectors, then rigorously de-identifies and transforms the data into RL environments and tasks.",
+    "one_liner": "Advancing model capabilities for critical infrastructure",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -78718,6 +78713,47 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/dydema.json"
   },
   {
+    "id": 35393,
+    "name": "Plek",
+    "slug": "plek",
+    "former_names": [
+      "Plek AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/baac91bf298be9980db66929732a5dd51b6fe558.png",
+    "website": "https://www.plek.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Maps what employees do and what it costs",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1792693815,
+    "tags": [
+      "Enterprise",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/plek",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/plek.json"
+  },
+  {
     "id": 35395,
     "name": "Workers IO",
     "slug": "workers-io",
@@ -79183,6 +79219,47 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/resin-technologies.json"
   },
   {
+    "id": 35983,
+    "name": "Telamont",
+    "slug": "telamont",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/91ca6e13f61dd82bb7d60aab67dcbaec5b7eab25.png",
+    "website": "https://telamont.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Telamont catches contractual, technical and code-compliance risks in construction documents and gives teams the system to act on them before they become costly rework or disputes.\r\n\r\nConstruction projects lose money in the gap between what the documents say and what gets built. One missed discrepancy between the specs, drawings, geotechnical study and code can become a seven-figure claim eighteen months later.\r\n\r\nTelamont connects to where your documents live and pulls in every file and revision as it lands, continuously building a complete picture of the project. Every page is checked against the rest of the project, so risks are flagged as soon as they appear. Instead of reviewing documents, teams act on flagged risks, tracking each from detection to resolution while managing exposure and pursuing recovery opportunities across every project.",
+    "one_liner": "Sentry for risks in construction documents",
+    "team_size": 6,
+    "industry": "Real Estate and Construction",
+    "subindustry": "Real Estate and Construction -> Construction",
+    "launched_at": 1792689742,
+    "tags": [
+      "Documents",
+      "Construction",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Real Estate and Construction",
+      "Construction"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/telamont",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/telamont.json"
+  },
+  {
     "id": 36015,
     "name": "Ignition Benefits",
     "slug": "ignition-benefits",
@@ -79452,7 +79529,6 @@
     "subindustry": "B2B -> Security",
     "launched_at": 1791243197,
     "tags": [
-      "Fraud Detection",
       "AI"
     ],
     "tags_highlighted": [],
@@ -79561,6 +79637,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/preload",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/preload.json"
+  },
+  {
+    "id": 36512,
+    "name": "Lux Foods",
+    "slug": "lux-foods",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2472fad71829e7d871161e07c00b9d90d3b65af1.png",
+    "website": "https://www.luxfoods.xyz",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Lux Foods engineers ultra-compact plants that produce mostly fruit, then grows them on sugar with 90% less light. We design the biology and hardware together to make robotic farming easier. Starting with cherry tomatoes, we’re building year-round production of flavorful, nutritious, pesticide-free fruit near the people who eat it. Our tomatoes have been grown on the International Space Station, and now we're taking this technology to Earth.",
+    "one_liner": "Crops engineered for premium fruit, grown without sunlight.",
+    "team_size": 4,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1792686891,
+    "tags": [
+      "Cellular Agriculture",
+      "Robotics",
+      "Agriculture",
+      "AI",
+      "Biotechnology"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lux-foods",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/lux-foods.json"
   },
   {
     "id": 36513,
@@ -79862,6 +79983,49 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/composal.json"
   },
   {
+    "id": 37005,
+    "name": "Verdun",
+    "slug": "verdun",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3746c317ac24f2b0122040095c3cecb0332727b6.png",
+    "website": "https://verdun.ai",
+    "all_locations": "Los Angeles, CA, USA",
+    "long_description": "Traditional security camera monitoring is vaporware. Your sites aren't actually being protected. \r\n\r\nA monitoring center's video alarm queue is managed by operators who are flooded by alarms during peak activity - meaning it often takes 20+ minutes for them to even see your alarm.\r\n\r\nWhen you call an airline and get placed on hold for a long time only for an offshore operator to tell you he can't solve your problems, this is the security equivalent. \r\n\r\nWe've built the world's most advanced monitoring center run by AI agents identify threatening behavior and context before escalating to our highly trained professional operators to dispatch guards and police. \r\n",
+    "one_liner": "The world's most advanced security monitoring service",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1792693117,
+    "tags": [
+      "Machine Learning",
+      "Computer Vision",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/verdun",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/verdun.json"
+  },
+  {
     "id": 37038,
     "name": "Caveman",
     "slug": "caveman",
@@ -79907,20 +80071,19 @@
     "name": "Volaren Inc.",
     "slug": "volaren-inc",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e143f02ee81e74efcd4497792528526f512482b.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be43cf0580fc71ee690f3408420f4280b5e3665f.png",
     "website": "https://www.volaren.ai",
-    "all_locations": "New York City, NY, USA",
-    "long_description": "Turning ideas into trades. Every great investment starts as an idea about the world. Institutions have teams of analysts turning those ideas into positions. Volaren is that team, processing data through fundamentals and quantitative models that can be personalized with AI.\r\n\r\nTurn your views into trades, portfolios, and back-testable frameworks and strategies, and Volaren stays with you from there, showing you what's actually driving each position and what it means for your next move.",
-    "one_liner": "Turning Ideas into Trades. Volaren puts the hedge fund in the hands…",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Volaren is an agent for your portfolio that explains each move, suggests your next idea, and trades it for you. \r\n\r\nConnect your bank accounts & brokerage and Volaren tells you what changed and why, answers any question about your money, and turns any idea into a trade. You can copy the moves of famous investors, politicians, proven strategies and themed baskets in a tap, or set up your own AI agents to watch the market and act within the limits you choose. \r\n\r\nEverything works from the app, the web or a simple text, so managing your money feels like texting a portfolio manager who never sleeps.",
+    "one_liner": "The investing agent that comes to you",
     "team_size": 4,
     "industry": "Fintech",
     "subindustry": "Fintech -> Asset Management",
     "launched_at": 1789771499,
     "tags": [
       "Fintech",
-      "Marketplace",
       "Finance",
-      "Creator Economy",
+      "Trading",
       "AI"
     ],
     "tags_highlighted": [],

@@ -4906,7 +4906,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5849b2060564f1836d25c1fa4a3cd18ef1bf9553.png",
     "website": "https://www.tenetindustries.com",
-    "all_locations": "Stockholm, Stockholm County, Sweden",
+    "all_locations": "Munich, BY, Germany",
     "long_description": "Tenet Industries is building AI-automated factories for electronics manufacturing services.\r\n\r\nWe're using AI and robotics to build a factory in München for instant-quote, fast-turnaround PCB Assembly and electronic manufacturing services.",
     "one_liner": "AI-automated factory for PCBAs",
     "team_size": 3,
@@ -4931,7 +4931,7 @@
       "Manufacturing and Robotics"
     ],
     "regions": [
-      "Sweden",
+      "Germany",
       "Europe"
     ],
     "stage": "Early",
@@ -6452,8 +6452,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9593981f6acf78f7e8d4417ca9346aed3d279da4.png",
     "website": "https://hemlock.inc",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Every serious robotics lab is bottlenecked on the same thing: demonstration data. The field has converged on egocentric video and hand pose as the substrate, and both are now cheap to collect at scale. What neither of them contains is force. A video of someone picking up an egg and a video of someone picking up a rock are nearly identical in pixel space and nearly identical in joint angles. They differ almost entirely in a quantity nobody is recording. Policies trained without it learn geometry and inherit no sense of touch.\r\n\r\nHemlock closes that gap at the source. Our device, the Bracelet, is a wrist-worn surface EMG band that reads the electrical activity of the forearm muscles that actually drive the hand, which means it recovers contraction force directly rather than inferring it from motion. This distinction is the whole thesis: force cannot be reconstructed downstream of kinematics, because a hand squeezing hard isometrically and a hand resting can occupy the identical pose. Muscle signal is the only non-invasive channel that separates them.",
-    "one_liner": "Force-sensing wristband for training robotic AI",
+    "long_description": "At Hemlock, we equip workers around the globe with EMG wearables to generate force/contact-annotated egocentric video data to give physical AI models a sense of touch from human data. Force + contact dynamics, collected at scale.",
+    "one_liner": "Force + contact dynamics collected at scale for training physical AI.",
     "team_size": 1,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -6695,6 +6695,51 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/odin-robotics.json"
   },
   {
+    "id": 36512,
+    "name": "Lux Foods",
+    "slug": "lux-foods",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2472fad71829e7d871161e07c00b9d90d3b65af1.png",
+    "website": "https://www.luxfoods.xyz",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Lux Foods engineers ultra-compact plants that produce mostly fruit, then grows them on sugar with 90% less light. We design the biology and hardware together to make robotic farming easier. Starting with cherry tomatoes, we’re building year-round production of flavorful, nutritious, pesticide-free fruit near the people who eat it. Our tomatoes have been grown on the International Space Station, and now we're taking this technology to Earth.",
+    "one_liner": "Crops engineered for premium fruit, grown without sunlight.",
+    "team_size": 4,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1792686891,
+    "tags": [
+      "Cellular Agriculture",
+      "Robotics",
+      "Agriculture",
+      "AI",
+      "Biotechnology"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lux-foods",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/lux-foods.json"
+  },
+  {
     "id": 36708,
     "name": "Sinter",
     "slug": "sinter-systems",
@@ -6703,7 +6748,7 @@
     "website": "https://sinter.systems",
     "all_locations": "El Segundo, CA, USA",
     "long_description": "Sinter is a radically faster plastics pipeline, helping iteration heavy hardware teams evolve from prototypes to production parts on week-scale timelines.",
-    "one_liner": "Accelerating scaled plastics with additive technologies",
+    "one_liner": "Accelerated plastics manufacturing",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",

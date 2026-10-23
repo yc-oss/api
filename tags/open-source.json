@@ -2509,7 +2509,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -5149,6 +5149,53 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/skyvern.json"
   },
   {
+    "id": 28900,
+    "name": "HarnessRouter",
+    "slug": "harnessrouter",
+    "former_names": [
+      "Epsilla"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f2e582140d05a49c2195e6fa0ed3e3fe192c9467.png",
+    "website": "https://harnessrouter.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Build agent-powered products without rebuilding the runtime infrastructure. HarnessRouter is the world's first unified interface for agent harnesses, connecting your app to Codex, Claude Code, Hermes, DeepSeek Harness, and other supported harnesses through one API.\r\n\r\nHarnessRouter Cloud runs tasks in isolated, serverless sandboxes and handles sessions, streaming, files, artifacts, recovery, and execution tracing. Teams can compare harness and model configurations on their own tasks to choose the right balance of quality, latency, and cost.\r\n\r\nUse the managed Cloud or self-host the Apache 2.0 Community Edition on infrastructure you control. Both implement the Unified Harness Protocol (UHP).",
+    "one_liner": "The world's first unified interface for agent harnesses.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1687398753,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "Open Source",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/harnessrouter",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/harnessrouter.json"
+  },
+  {
     "id": 28907,
     "name": "refine",
     "slug": "refine",
@@ -6502,7 +6549,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We enable AI to control the browser. \r\nBrowser-use is the biggest open-source web agent project with 110k+ Github stars.",
     "one_liner": "Agents that use the browser.",
-    "team_size": 7,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1734712888,
