@@ -810,6 +810,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/gradon.json"
   },
   {
+    "id": 32847,
+    "name": "Liquid Energy",
+    "slug": "liquid-energy",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0cd0771f97af67208bd0d5a30aaee3a43988fec3.png",
+    "website": "https://www.liquidenergy.world",
+    "all_locations": "Waterloo, ON, Canada",
+    "long_description": "Liquid Energy delivers the most scalable and cost effective inference. Our compute is hosted in our proprietary data center modules that we call NanoDC - the Nano Data Center. \r\n\r\nNanoDC is engineered to be rapidly deployable and scalable without traditional bottlenecks like power, permitting, and supply chains. Using NanoDC, Liquid Energy is able to provide the most efficient and sustainable way to scale compute to meet global AI demand.",
+    "one_liner": "Self contained solar-powered AI inference modules: the NanoDC",
+    "team_size": 5,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Energy",
+    "launched_at": 1792731495,
+    "tags": [
+      "Hard Tech",
+      "Solar Power",
+      "Energy",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Energy"
+    ],
+    "regions": [
+      "Canada",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/liquid-energy",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/liquid-energy.json"
+  },
+  {
     "id": 33250,
     "name": "isoquant",
     "slug": "isoquant",
@@ -1482,6 +1524,45 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/kailash-labs.json"
   },
   {
+    "id": 34861,
+    "name": "Topos",
+    "slug": "topos",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/07dc8cbe943d3786ff88a0ef85951aa9f324ee98.png",
+    "website": "https://www.toposlab.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Topos is a neolab founded by two Harvard math dropouts, building agent swarms to bring the rigor and verifiability of mathematics to other fields. Starting in biology, we’re optimizing how agents communicate, formalize problems, and verify each other’s reasoning.",
+    "one_liner": "Agent swarms for formal verification",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1792768801,
+    "tags": [
+      "Swarm AI",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/topos",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/topos.json"
+  },
+  {
     "id": 34862,
     "name": "Saccade",
     "slug": "saccade",
@@ -1568,14 +1649,16 @@
   },
   {
     "id": 34895,
-    "name": "Sigma",
-    "slug": "sigma-2",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0281f5236edcd7fb1960cb57da29592acd65e490.png",
+    "name": "OpenScaffold",
+    "slug": "openscaffold",
+    "former_names": [
+      "Sigma"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7d38b3eee0095a6968f8c9f98029c1e58d352d1.png",
     "website": "",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "Lakehouse-as-a-Service (LaaS)",
+    "long_description": "OpenScaffold is building AGI for every deployment team.\r\n\r\nThe result is a custom scaffold that is autonomously harnessed for each deployment, drawn from customer discovery, business objectives, past deployments, and more.",
+    "one_liner": "Superagent for Deployment Teams",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -1602,8 +1685,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sigma-2",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/sigma-2.json"
+    "url": "https://www.ycombinator.com/companies/openscaffold",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/openscaffold.json"
   },
   {
     "id": 34896,
@@ -1828,7 +1911,7 @@
     "website": "https://appliedkinetics.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Applied Kinetics is an AI-native, end-to-end manufacturer for data center and energy developers. We supply the transformers, switchgear, generators, cooling systems, and other critical equipment needed to bring new power and compute capacity online. Every unit is built to project specifications, and we manage the process from technical requirements through production and delivery. We shorten lead times and accelerate projects forward, removing the physical bottlenecks holding back the next generation of technological progress.",
-    "one_liner": "End-to-end manufacturing for data center and energy projects",
+    "one_liner": "AI-native manufacturing for data center and energy projects",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -2241,6 +2324,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/talos-us",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/talos-us.json"
+  },
+  {
+    "id": 35157,
+    "name": "Nitroduck",
+    "slug": "nitroduck",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7e416670a0235f0c59a215dc6e113e1bf72a82f5.png",
+    "website": "https://nitroduck.tech/",
+    "all_locations": "Brno, South Moravian Region, Czechia",
+    "long_description": "We make gene editing easy for all crops. To make pesticides obsolete across vegetables and fruits, enabling coffee to withstand heat waves, making almonds independent of pollinators, pistachios independent of winter chill, and much more. To let breeders create novel, consumer-facing crop varieties like pink pineapples, seedless cherries, and non-browning avocados.",
+    "one_liner": "Monsanto for yummy crops, but without pesticides",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Agriculture",
+    "launched_at": 1785947487,
+    "tags": [
+      "CRISPR",
+      "Sustainable Agriculture",
+      "Biotechnology"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Agriculture"
+    ],
+    "regions": [
+      "Czechia",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/nitroduck",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/nitroduck.json"
   },
   {
     "id": 35190,
@@ -5418,6 +5542,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/composal.json"
   },
   {
+    "id": 36974,
+    "name": "Epsilab",
+    "slug": "epsilab-com",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/164ea33865ee89b7b5313a5260d5dec8510fb8ec.png",
+    "website": "https://www.epsilab.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Applied AI research lab focused on RL for frontier model training. Our research and evals cover real-world environment simulation, long-horizon workflows, and multi-player agents, etc.",
+    "one_liner": "Long horizon RL environments from real-life data",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1792729092,
+    "tags": [
+      "Machine Learning",
+      "Reinforcement Learning",
+      "B2B",
+      "Data Labeling",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/epsilab-com",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/epsilab-com.json"
+  },
+  {
     "id": 37005,
     "name": "Verdun",
     "slug": "verdun",
@@ -5765,7 +5931,9 @@
     "subindustry": "Consumer -> Consumer Electronics",
     "launched_at": 1788050504,
     "tags": [
-      "Hard Tech"
+      "Hard Tech",
+      "Hardware",
+      "Consumer"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6288,6 +6456,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hundred",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/hundred.json"
+  },
+  {
+    "id": 37797,
+    "name": "STASIS",
+    "slug": "stasis",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/670dd0e2fb9cb21d4541907259f19468dcbf4a1f.png",
+    "website": "https://www.get-stasis.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "The WHOOP for 16 billion eyes",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1792723639,
+    "tags": [
+      "Hardware",
+      "Sports Tech",
+      "Consumer Health Services",
+      "Health & Wellness"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/stasis",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/stasis.json"
   },
   {
     "id": 37830,

@@ -48427,8 +48427,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b14c16514ac7654483b96e54e1bf49a45714e8f6.png",
     "website": "https://www.rex.inc",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Rex is an AI-native service for order to cash. Rex replaces manual operations with AI agents that continuously manage invoices, customers and exceptions.\r\n\r\nOrder to cash is a $60B outsourced function because the work is too messy for traditional automation. Every customer has different context, exceptions do not follow clean rules, and the next step is often buried in emails, portals, handoffs, or someone’s memory. Rex agents run continuously in the background and resolve work to SLA standards so cash keeps moving. We're live with pre-IPO tech companies, managing  >$500m in receivables from F100 companies, cutting manual follow-up cycles from weeks to hours.\r\n\r\nWe founded Rex after spending four years building Sequence, an a16z-backed finance ops platform, from zero to Series A — where we saw firsthand that at-scale, O2C still runs on manual labour.\r\n\r\nRex is the #1 winner of the Vercel AI Accelerator out of 2,500 teams, selected by Guillermo Rauch and leaders from OpenAI, Anthropic, Browserbase and more.",
-    "one_liner": "AI-native BPO for enterprise order-to-cash",
+    "long_description": "Rex is a managed AI service for AR and order-to-cash. AI agents and finance experts run the work that delays payment, from collections, portals, disputes and remittances to the shared AR inbox, so cash keeps moving.\r\n\r\nOrder to cash is a $60B outsourced function because the work is too messy for traditional automation. Every customer has different context, exceptions do not follow clean rules, and the next step is often buried in emails, portals, handoffs, or someone’s memory. Rex agents run continuously in the background and resolve work to SLA standards so cash keeps moving. We're live with pre-IPO tech companies, managing  >$500m in receivables from F100 companies, cutting manual follow-up cycles from weeks to hours.\r\n\r\nWe founded Rex after spending four years building Sequence, an a16z-backed finance ops platform, from zero to Series A — where we saw firsthand that at-scale, O2C still runs on manual labour.\r\n\r\nRex is the #1 winner of the Vercel AI Accelerator out of 2,500 teams, selected by Guillermo Rauch and leaders from OpenAI, Anthropic, Browserbase and more.",
+    "one_liner": "AI operations partner for enterprise order-to-cash ",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
@@ -50157,14 +50157,16 @@
   },
   {
     "id": 34895,
-    "name": "Sigma",
-    "slug": "sigma-2",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0281f5236edcd7fb1960cb57da29592acd65e490.png",
+    "name": "OpenScaffold",
+    "slug": "openscaffold",
+    "former_names": [
+      "Sigma"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7d38b3eee0095a6968f8c9f98029c1e58d352d1.png",
     "website": "",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "Lakehouse-as-a-Service (LaaS)",
+    "long_description": "OpenScaffold is building AGI for every deployment team.\r\n\r\nThe result is a custom scaffold that is autonomously harnessed for each deployment, drawn from customer discovery, business objectives, past deployments, and more.",
+    "one_liner": "Superagent for Deployment Teams",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -50191,8 +50193,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sigma-2",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/sigma-2.json"
+    "url": "https://www.ycombinator.com/companies/openscaffold",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/openscaffold.json"
   },
   {
     "id": 34896,
@@ -50249,7 +50251,7 @@
     "website": "https://appliedkinetics.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Applied Kinetics is an AI-native, end-to-end manufacturer for data center and energy developers. We supply the transformers, switchgear, generators, cooling systems, and other critical equipment needed to bring new power and compute capacity online. Every unit is built to project specifications, and we manage the process from technical requirements through production and delivery. We shorten lead times and accelerate projects forward, removing the physical bottlenecks holding back the next generation of technological progress.",
-    "one_liner": "End-to-end manufacturing for data center and energy projects",
+    "one_liner": "AI-native manufacturing for data center and energy projects",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -50746,6 +50748,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/papaya",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/papaya.json"
+  },
+  {
+    "id": 36974,
+    "name": "Epsilab",
+    "slug": "epsilab-com",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/164ea33865ee89b7b5313a5260d5dec8510fb8ec.png",
+    "website": "https://www.epsilab.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Applied AI research lab focused on RL for frontier model training. Our research and evals cover real-world environment simulation, long-horizon workflows, and multi-player agents, etc.",
+    "one_liner": "Long horizon RL environments from real-life data",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1792729092,
+    "tags": [
+      "Machine Learning",
+      "Reinforcement Learning",
+      "B2B",
+      "Data Labeling",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/epsilab-com",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/epsilab-com.json"
   },
   {
     "id": 37105,
