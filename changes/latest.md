@@ -1,148 +1,117 @@
-# YC company changes for 2026-10-24
+# YC company changes for 2026-10-25
 
-- Previous total: 6328
-- Current total: 6335
-- Added: 7
-- Removed: 0
-- Updated: 27
+- Previous total: 6335
+- Current total: 6336
+- Added: 2
+- Removed: 1
+- Updated: 20
 
 ## Added companies
 
-- [Monzo Bank](https://www.ycombinator.com/companies/monzo-bank) (other — A bank as smart as your phone.)
-- [Convoy](https://www.ycombinator.com/companies/convoy) (other — The world's most efficient digital freight network.)
-- [Liquid Energy](https://www.ycombinator.com/companies/liquid-energy) (Fall 2026 — Self contained solar-powered AI inference modules: the NanoDC)
-- [Topos](https://www.ycombinator.com/companies/topos) (Fall 2026 — Agent swarms for formal verification)
-- [Nitroduck](https://www.ycombinator.com/companies/nitroduck) (Fall 2026 — Monsanto for yummy crops, but without pesticides)
-- [Epsilab](https://www.ycombinator.com/companies/epsilab-com) (Fall 2026 — Long horizon RL environments from real-life data)
-- [STASIS](https://www.ycombinator.com/companies/stasis) (Fall 2026 — The WHOOP for 16 billion eyes)
+- [Vouch](https://www.ycombinator.com/companies/vouchwealth) (Fall 2026 — The AI wealth manager for every Indian)
+- [Canos](https://www.ycombinator.com/companies/canos) (Fall 2026 — AI-powered blood test to detect cancer in dogs (and cats soon).)
+
+## Removed companies
+
+- [PokerClubHub](https://www.ycombinator.com/companies/pokerclubhub) (Summer 2026 — Host a Poker Club and Make Money)
 
 ## Updated companies
 
-### [Rappi](https://www.ycombinator.com/companies/rappi)
+### [Algen Biotechnologies](https://www.ycombinator.com/companies/algen-biotechnologies)
 
-- `stage`: Early → Growth
+- `long_description`: Algen is using CRISPR to uncover disease-driving RNA messages to find treatments for cancer, inflammation and diseases with high unmet needs. We are harnessi... → Algen is using CRISPR to uncover disease-driving RNA messages to find treatments for cancer, inflammation and diseases with high unmet needs. We are harnessi...
+- `team_size`: 15 → 17
 
-### [Meesho](https://www.ycombinator.com/companies/meesho)
+### [Posh](https://www.ycombinator.com/companies/posh)
 
-- `stage`: Early → Growth
+- `long_description`: We are working on rapidly deployable energy storage and power generation solutions for C&I customers, especially in the AI data center space. → Posh develops AI-ready modular data centers at existing, qualified power sites, turning pockets of available power into GPU compute. Gigawatt campuses take t...
+- `one_liner`: Rapidly deployable energy solutions for modern commercial and… → Turning power into AI compute at speed with modular data centers at…
 
-### [Standard AI](https://www.ycombinator.com/companies/standard-ai)
+### [Peoplebox.ai](https://www.ycombinator.com/companies/peoplebox)
 
-- `stage`: Early → Growth
+- `long_description`: Peoplebox.ai is an AI-native talent platform used by 500+ companies to hire, manage, and grow their people. At the center is Nova, the world’s most human-lik... → Peoplebox.ai is an AI-native talent platform used by 500+ companies to hire, manage, and grow their people. At the center is Nova, the world’s most human-lik...
+- `team_size`: 35 → 75
 
-### [Atlas](https://www.ycombinator.com/companies/atlas-3)
+### [Baud](https://www.ycombinator.com/companies/baud)
 
-- `stage`: Early → Growth
-
-### [Tasker AI](https://www.ycombinator.com/companies/tasker-ai)
-
-- `team_size`: 7 → 1
-
-### [Stardex](https://www.ycombinator.com/companies/stardex)
-
-- `team_size`: 7 → 9
-
-### [Andson Biotech](https://www.ycombinator.com/companies/andson-biotech)
-
-- `isHiring`: true → false
-
-### [Refactor](https://www.ycombinator.com/companies/refactor)
-
-- `isHiring`: true → false
-
-### [Diode Computers, Inc.](https://www.ycombinator.com/companies/diode-computers-inc)
-
-- `stage`: Early → Growth
+- `team_size`: 3 → 4
 
 ### [RiskCube](https://www.ycombinator.com/companies/riskcube)
 
 - `long_description`: Mission: Building insurance products & services focused on lowering the protection gap for the innovation economy on a national and global scale. Today, we o... → Mission: Building insurance products & services focused on lowering the protection gap for the innovation economy on a national and global scale. Today, we o...
-- `one_liner`: New American insurance company. → New American insurance company for hard tech, defense & AI.
 
-### [Adam](https://www.ycombinator.com/companies/adam)
+### [Origami](https://www.ycombinator.com/companies/origami-2)
 
-- `long_description`: Applied AI lab building end-to-end agents for mechanical design. → Applied AI lab building end-to-end agents for mechanical engineers.
+- `long_description`: Origami is the first AI that automatically gets customers for you. Enter your domain, and let it start working. Used daily by 10,000+ businesses, Origami get... → Origami is the first AI that automatically gets customers for you. Enter your domain, and let it start working. Used daily by 10,000+ businesses, Origami get...
 
 ### [Olive](https://www.ycombinator.com/companies/olive)
 
-- `stage`: Growth → Early
-- `status`: Active → Inactive
+- `stage`: Early → Growth
 
-### [CopyCat AI](https://www.ycombinator.com/companies/copycat-ai)
+### [Vassar Robotics](https://www.ycombinator.com/companies/vassar-robotics)
+
+- `long_description`: We build home humanoids the practical way—an open, mass-produced developer kit powering a real-home teleop data flywheel to autonomy, giving families back 20... → Vassar Robotics is building gearless robot joints and arms using high-torque transverse-flux motors. Eliminating gearboxes makes robots more precise, reliabl...
+- `one_liner`: Open-source semi-humanoid dev kit → home data → autonomy → 20h/wk → Gearless robot joints for better embodied AI.
+- `team_size`: 3 → 2
+
+### [Nessie](https://www.ycombinator.com/companies/nessie)
+
+- `one_liner`: The shared context layer for recursive companies - your work, your… → The shared context layer for recursive companies.
+
+### [Casey](https://www.ycombinator.com/companies/casey)
 
 - `isHiring`: true → false
 
-### [Altur](https://www.ycombinator.com/companies/altur)
+### [Dreach](https://www.ycombinator.com/companies/dreach)
+
+- `one_liner`: staffing firms with dreach grow revenue faster. → staffing firms with dreach know before they hire.
+
+### [AGI Deploy Co](https://www.ycombinator.com/companies/agi-deploy-co)
+
+- `api`: https://yc-oss.github.io/api/batches/spring-2026/mount.json → https://yc-oss.github.io/api/batches/spring-2026/agi-deploy-co.json
+- `former_names`: ["Cybe"] → ["Cybe","Mount"]
+- `industries`: ["Fintech","Insurance"] → ["B2B","Operations"]
+- `industry`: Fintech → B2B
+- `long_description`: TLDR: Mount is building the AI insurance carrier, starting with liability coverage for deployed AI agents. As everyone moves AI Agents into production and gi... → We rebuild the companies that are most critical to our economy and hardest to displace around general intelligence.
+- `name`: Mount → AGI Deploy Co
+- `one_liner`: The AI Agent Insurance Carrier → Diffusing AI into critical industries
+- `slug`: mount → agi-deploy-co
+- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/fa5208859312a795f7e72dfb9eb2a5149785a216.png → https://bookface-images.s3.amazonaws.com/small_logos/f2b58875705e5d8f04a9d448eaeb56170a6b9785.png
+- `subindustry`: Fintech -> Insurance → B2B -> Operations
+- `tags`: [] → ["Health Tech","Healthcare","Health & Wellness","AI"]
+- `url`: https://www.ycombinator.com/companies/mount → https://www.ycombinator.com/companies/agi-deploy-co
+- `website`: https://mount.insure → https://agideploy.co
+
+### [tday.com](https://www.ycombinator.com/companies/tdaycom)
+
+- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/3757196228dee380b044009d7e4a7d8ebc8d7894.png → https://bookface-images.s3.amazonaws.com/small_logos/c8df062c9a1b77cc6ec53fabfaa7f2f047434c52.png
+
+### [BioStack Platforms](https://www.ycombinator.com/companies/biostack-platforms)
+
+- `team_size`: 10 → 11
+
+### [Fire Wallet](https://www.ycombinator.com/companies/fire-wallet)
+
+- `long_description`: 🔥FIRE WALLET 🔥 https://www.youtube.com/watch?v=JeXDDegwhgA TL;DR: Fire Wallet is a fast, end-to-end encrypted, non-custodial stablecoin wallet with built-i... → 🔥FIRE WALLET 🔥 https://www.youtube.com/watch?v=JeXDDegwhgA TL;DR: Fire Wallet is a fast, end-to-end encrypted, non-custodial stablecoin wallet with built-i...
+
+### [Audun](https://www.ycombinator.com/companies/audun)
 
 - `isHiring`: false → true
 
-### [Clerked](https://www.ycombinator.com/companies/clerked)
+### [Bryel](https://www.ycombinator.com/companies/bryel)
 
-- `team_size`: 3 → 4
+- `one_liner`: Perceptual reasoning models that are easily customizable → Building the next generation of visual perceptual intelligence
 
-### [Compresr](https://www.ycombinator.com/companies/compresr)
+### [Vexo](https://www.ycombinator.com/companies/vexo)
 
-- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/7768e73d87dc6915fd2a78cbdff56013e194c8de.png → https://bookface-images.s3.amazonaws.com/small_logos/9a3f6ebbbbeecfb666ee2d21e63085d3fc18670e.png
+- `long_description`: Every AI today waits for a prompt. Vexo already has the context: the restaurant a friend mentioned, the intro you promised, the idea you had on a walk. It tu... → Vexo is an Always listening AI bracelet. that remembers everything you say and hooks up to your existing AI agents that you can control from your wrist.
+- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/16f5a22fcf5a6680c6393b3e9a8d4a4c477c2f10.png → https://bookface-images.s3.amazonaws.com/small_logos/4ccc1a7fb19ab15125c649c10eac42aa5856ed4e.png
 
-### [Talking Computers](https://www.ycombinator.com/companies/talking-computers)
+### [Composal](https://www.ycombinator.com/companies/composal)
 
-- `all_locations`: Toronto, ON, Canada → San Francisco, CA, USA
-- `regions`: ["Canada","America / Canada"] → ["United States of America","America / Canada"]
+- `website`: https://composal.ai → https://composal.com
 
-### [Cova](https://www.ycombinator.com/companies/cova)
+### [Terse](https://www.ycombinator.com/companies/useterse)
 
-- `long_description`: Cova is an AI-native home care agency, licensed in Michigan. We serve Medicaid, LTCI, and private-pay patients; we pay caregivers the highest base rate in th... → Millions of Americans already care for someone they love. We're building a world where they can get paid for it, with the technology to make the process simp...
-
-### [Martini](https://www.ycombinator.com/companies/martini)
-
-- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/6c61a438eef6d3a1fe29d67dd180ddaaac257b9d.png → https://bookface-images.s3.amazonaws.com/small_logos/db10d91f7f05057c62a3c61e66da7a84cd7591fb.png
-
-### [Korso](https://www.ycombinator.com/companies/korso)
-
-- `industries`: ["Consumer"] → ["B2B","Infrastructure"]
-- `industry`: Consumer → B2B
-- `long_description`: Korso is an intuitive AI assistant that can work alongside you on your computer. It can operate apps, conduct research, and guide you when you are stuck, all... → reach out to find out more: https://cal.com/korso-founders/15min
-- `one_liner`: Your Capable Desktop AI Companion → In Development
-- `subindustry`: Consumer → B2B -> Infrastructure
-- `tags`: ["SaaS","AI Assistant"] → ["Developer Tools","SaaS","AI"]
-
-### [Memoir](https://www.ycombinator.com/companies/memoir)
-
-- `long_description`: Memoir is building a persistent and proactive AI teammate that helps an entire company keep up with its own progress. Think Instinct but for enterprise. We’r... → Memoir is a video call with a proactive AI teammate built in. While people talk, it picks up the work hiding in the conversation and starts on it, in real ti...
-- `one_liner`: Everything your team ships, explained to everyone it affects. → The Zoom alternative where agents build what you discuss in real time
-- `website`: https://www.trymemoir.ai/ → https://www.memoirmeet.com/
-
-### [InLoop Robotics](https://www.ycombinator.com/companies/inloop-robotics)
-
-- `isHiring`: false → true
-
-### [Mochatrade](https://www.ycombinator.com/companies/mochatrade)
-
-- `long_description`: Mochatrade lets global traders trade top US stocks using perpetual futures. Access all US stocks including TSLA, NVDA, and AAPL, plus pre-IPO companies and c... → Mochatrade lets Indians trade US markets from India, in Rupees. Go long or short on your favorite US stock tokens with leverage. Fund with UPI. Trade 24/7.
-- `one_liner`: US stock trading, unlocked for the globe → Trade US markets from India, in Rupees
-- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/b53aed7c2d61caf968cbcb61a42f6cd0f7f65ef9.png → https://bookface-images.s3.amazonaws.com/small_logos/41f6bb0885038cff5deb3b8cceebac0e314d969c.png
-
-### [Rex](https://www.ycombinator.com/companies/rex-inc)
-
-- `long_description`: Rex is an AI-native service for order to cash. Rex replaces manual operations with AI agents that continuously manage invoices, customers and exceptions. Ord... → Rex is a managed AI service for AR and order-to-cash. AI agents and finance experts run the work that delays payment, from collections, portals, disputes and...
-- `one_liner`: AI-native BPO for enterprise order-to-cash → AI operations partner for enterprise order-to-cash
-
-### [OpenScaffold](https://www.ycombinator.com/companies/openscaffold)
-
-- `api`: https://yc-oss.github.io/api/batches/fall-2026/sigma-2.json → https://yc-oss.github.io/api/batches/fall-2026/openscaffold.json
-- `former_names`: [] → ["Sigma"]
-- `long_description`:  → OpenScaffold is building AGI for every deployment team. The result is a custom scaffold that is autonomously harnessed for each deployment, drawn from custom...
-- `name`: Sigma → OpenScaffold
-- `one_liner`: Lakehouse-as-a-Service (LaaS) → Superagent for Deployment Teams
-- `slug`: sigma-2 → openscaffold
-- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/0281f5236edcd7fb1960cb57da29592acd65e490.png → https://bookface-images.s3.amazonaws.com/small_logos/f7d38b3eee0095a6968f8c9f98029c1e58d352d1.png
-- `url`: https://www.ycombinator.com/companies/sigma-2 → https://www.ycombinator.com/companies/openscaffold
-
-### [Applied Kinetics](https://www.ycombinator.com/companies/applied-kinetics)
-
-- `one_liner`: End-to-end manufacturing for data center and energy projects → AI-native manufacturing for data center and energy projects
-
-### [The Subvocal Company](https://www.ycombinator.com/companies/the-subvocal-company)
-
-- `tags`: ["Hard Tech"] → ["Hard Tech","Hardware","Consumer"]
+- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/21712c0189bc22ccc5e9bfeb15e67a527077b8f7.png → https://bookface-images.s3.amazonaws.com/small_logos/cd6be2cf6a34817d94716dd43cba7de917787b78.png
 

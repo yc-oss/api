@@ -1,189 +1,69 @@
 {
-  "generated_at": "2026-10-24T02:35:45.251Z",
+  "generated_at": "2026-10-25T02:23:41.878Z",
   "summary": {
-    "previous_total": 6328,
-    "current_total": 6335,
-    "added": 7,
-    "removed": 0,
-    "updated": 27
+    "previous_total": 6335,
+    "current_total": 6336,
+    "added": 2,
+    "removed": 1,
+    "updated": 20
   },
   "added": [
     {
-      "id": 4787,
-      "name": "Monzo Bank",
-      "slug": "monzo-bank",
+      "id": 36644,
+      "name": "Vouch",
+      "slug": "vouchwealth",
       "former_names": [],
-      "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b1262acc9e79773337df0be8c8de0cd79a0a813f.png",
-      "website": "http://www.monzo.com",
-      "all_locations": "London, England, United Kingdom",
-      "long_description": "YC has written a good overview of our business on their blog: https://blog.ycombinator.com/monzo-makes-money-work-for-everyone/\r\n\r\nOur mission is to make money work for everyone. We are the UK's leading digital bank for individuals and businesses, reinventing the traditional banking industry one customer at a time. We're relentlessly mission driven and always put our customers first - from what products we chose to launch next to our transparency and use of simple language. With a Net Promoter Score of 70+, it shows. \r\n\r\nFrom our founding in 2015, we now have over 7 million customers in the UK (13% of UK adults) and are building out our team in the US. We've seen incredible organic growth, acquiring 150,000 customers / month in 2022, with 80% of this coming from word of mouth. Our weekly active user rate is ~60% and ~40% of our active users use us as their Main Bank account, showing that we are a product that is embedded in our users' daily lives. We've grown to ~2,450 staff (~400 of which make up the product/tech team), and are backed by YC, Stripe, Tencent, Mike Moritz, and others.\r\n\r\nInternally, we encourage an open, collaborative, and inclusive working environment - we were voted the #1 startup where people in the UK want to work for the second year running in 2022. We contribute to open source software, and we continually engage with our wonderful community. We're hiring talented, creative problem-solvers to help us build the bank of the future. Join us!",
-      "one_liner": "A bank as smart as your phone.",
-      "team_size": 2450,
+      "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f44b0f4612d673d1fb95ac06176334a01b6326b.png",
+      "website": "https://vouchwealth.com/",
+      "all_locations": "",
+      "long_description": "Vouch is an AI-native wealth manager for India’s booming middle class. It makes investing and building wealth extremely simple for everyone: connect what you already own, share your goals, and Vouch takes care of the rest, from picking investments to cutting your tax bill. India will add $2.37 trillion in financial wealth by 2030, yet fewer than 1 in 10 Indians invest, and physical assets dominate. As the economy rapidly financializes, Vouch will be the one platform Indians use to manage all their money.",
+      "one_liner": "The AI wealth manager for every Indian",
+      "team_size": null,
       "industry": "Fintech",
       "subindustry": "Fintech -> Consumer Finance",
-      "launched_at": 1532804200,
-      "tags": [],
+      "launched_at": 1792888503,
+      "tags": [
+        "Fintech",
+        "Consumer Finance"
+      ],
       "tags_highlighted": [],
       "top_company": false,
       "isHiring": false,
       "nonprofit": false,
-      "batch": "other",
-      "status": "Not YC",
+      "batch": "Fall 2026",
+      "status": "Active",
       "industries": [
         "Fintech",
         "Consumer Finance"
       ],
       "regions": [
-        "United Kingdom",
-        "Europe",
-        "Remote",
-        "Partly Remote"
+        "Unspecified"
       ],
       "stage": "Early",
       "app_video_public": false,
       "demo_day_video_public": false,
       "app_answers": null,
       "question_answers": false,
-      "url": "https://www.ycombinator.com/companies/monzo-bank",
-      "api": "https://yc-oss.github.io/api/batches/other/monzo-bank.json"
+      "url": "https://www.ycombinator.com/companies/vouchwealth",
+      "api": "https://yc-oss.github.io/api/batches/fall-2026/vouchwealth.json"
     },
     {
-      "id": 11874,
-      "name": "Convoy",
-      "slug": "convoy",
+      "id": 37698,
+      "name": "Canos",
+      "slug": "canos",
       "former_names": [],
-      "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/627387718c7fc43469f89a36ed26d7378497cb09.png",
-      "website": "https://convoy.com/",
-      "all_locations": "Seattle, WA, USA",
-      "long_description": "Convoy is the nation's leading digital freight network. We move millions of truckloads around the country through our connected network of carriers, saving money for shippers, increasing earnings for drivers, and eliminating carbon waste for our planet. \r\n\r\nInterested in working on an $800B problem? \r\nCheck out our jobs page here: http://jobs.convoy.com/",
-      "one_liner": "The world's most efficient digital freight network.",
-      "team_size": 1200,
-      "industry": "B2B",
-      "subindustry": "B2B -> Supply Chain and Logistics",
-      "launched_at": 1536787678,
-      "tags": [],
-      "tags_highlighted": [],
-      "top_company": false,
-      "isHiring": false,
-      "nonprofit": false,
-      "batch": "other",
-      "status": "Not YC",
-      "industries": [
-        "B2B",
-        "Supply Chain and Logistics"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada",
-        "Remote",
-        "Partly Remote"
-      ],
-      "stage": "Early",
-      "app_video_public": false,
-      "demo_day_video_public": false,
-      "app_answers": null,
-      "question_answers": false,
-      "url": "https://www.ycombinator.com/companies/convoy",
-      "api": "https://yc-oss.github.io/api/batches/other/convoy.json"
-    },
-    {
-      "id": 32847,
-      "name": "Liquid Energy",
-      "slug": "liquid-energy",
-      "former_names": [],
-      "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0cd0771f97af67208bd0d5a30aaee3a43988fec3.png",
-      "website": "https://www.liquidenergy.world",
-      "all_locations": "Waterloo, ON, Canada",
-      "long_description": "Liquid Energy delivers the most scalable and cost effective inference. Our compute is hosted in our proprietary data center modules that we call NanoDC - the Nano Data Center. \r\n\r\nNanoDC is engineered to be rapidly deployable and scalable without traditional bottlenecks like power, permitting, and supply chains. Using NanoDC, Liquid Energy is able to provide the most efficient and sustainable way to scale compute to meet global AI demand.",
-      "one_liner": "Self contained solar-powered AI inference modules: the NanoDC",
-      "team_size": 5,
-      "industry": "Industrials",
-      "subindustry": "Industrials -> Energy",
-      "launched_at": 1792731495,
+      "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7d58fe1baf14d05314df3bf1abc0ca514090d37c.png",
+      "website": "https://www.canos.ai",
+      "all_locations": "Oxford, England, United Kingdom",
+      "long_description": "Canos is bringing a human-grade liquid biopsy platform for dogs, starting with a single blood draw. We sequence cell-free DNA to perform multi-modal analysis of fragmentation, copy number variation, native methylation (5mC and 5hmC) and more to detect cancer signals. Owners bank a healthy baseline for their dog and track changes every year. Dogs already diagnosed get personalized monitoring through treatment. We partner with mobile vets and vet clinics to serve SF and NYC. \r\n\r\nOur mission is to make pet cancer curable through early detection and monitoring.",
+      "one_liner": "AI-powered blood test to detect cancer in dogs (and cats soon).",
+      "team_size": 0,
+      "industry": "Healthcare",
+      "subindustry": "Healthcare -> Diagnostics",
+      "launched_at": 1792886320,
       "tags": [
-        "Hard Tech",
-        "Solar Power",
-        "Energy",
-        "AI"
-      ],
-      "tags_highlighted": [],
-      "top_company": false,
-      "isHiring": false,
-      "nonprofit": false,
-      "batch": "Fall 2026",
-      "status": "Active",
-      "industries": [
-        "Industrials",
-        "Energy"
-      ],
-      "regions": [
-        "Canada",
-        "America / Canada"
-      ],
-      "stage": "Early",
-      "app_video_public": false,
-      "demo_day_video_public": false,
-      "app_answers": null,
-      "question_answers": false,
-      "url": "https://www.ycombinator.com/companies/liquid-energy",
-      "api": "https://yc-oss.github.io/api/batches/fall-2026/liquid-energy.json"
-    },
-    {
-      "id": 34861,
-      "name": "Topos",
-      "slug": "topos",
-      "former_names": [],
-      "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/07dc8cbe943d3786ff88a0ef85951aa9f324ee98.png",
-      "website": "https://www.toposlab.com",
-      "all_locations": "San Francisco, CA, USA",
-      "long_description": "Topos is a neolab founded by two Harvard math dropouts, building agent swarms to bring the rigor and verifiability of mathematics to other fields. Starting in biology, we’re optimizing how agents communicate, formalize problems, and verify each other’s reasoning.",
-      "one_liner": "Agent swarms for formal verification",
-      "team_size": 2,
-      "industry": "Industrials",
-      "subindustry": "Industrials",
-      "launched_at": 1792768801,
-      "tags": [
-        "Swarm AI",
-        "AI"
-      ],
-      "tags_highlighted": [],
-      "top_company": false,
-      "isHiring": false,
-      "nonprofit": false,
-      "batch": "Fall 2026",
-      "status": "Active",
-      "industries": [
-        "Industrials"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "stage": "Early",
-      "app_video_public": false,
-      "demo_day_video_public": false,
-      "app_answers": null,
-      "question_answers": false,
-      "url": "https://www.ycombinator.com/companies/topos",
-      "api": "https://yc-oss.github.io/api/batches/fall-2026/topos.json"
-    },
-    {
-      "id": 35157,
-      "name": "Nitroduck",
-      "slug": "nitroduck",
-      "former_names": [],
-      "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7e416670a0235f0c59a215dc6e113e1bf72a82f5.png",
-      "website": "https://nitroduck.tech/",
-      "all_locations": "Brno, South Moravian Region, Czechia",
-      "long_description": "We make gene editing easy for all crops. To make pesticides obsolete across vegetables and fruits, enabling coffee to withstand heat waves, making almonds independent of pollinators, pistachios independent of winter chill, and much more. To let breeders create novel, consumer-facing crop varieties like pink pineapples, seedless cherries, and non-browning avocados.",
-      "one_liner": "Monsanto for yummy crops, but without pesticides",
-      "team_size": 3,
-      "industry": "Industrials",
-      "subindustry": "Industrials -> Agriculture",
-      "launched_at": 1785947487,
-      "tags": [
-        "CRISPR",
-        "Sustainable Agriculture",
+        "Anti-Aging",
+        "Diagnostics",
         "Biotechnology"
       ],
       "tags_highlighted": [],
@@ -193,11 +73,11 @@
       "batch": "Fall 2026",
       "status": "Active",
       "industries": [
-        "Industrials",
-        "Agriculture"
+        "Healthcare",
+        "Diagnostics"
       ],
       "regions": [
-        "Czechia",
+        "United Kingdom",
         "Europe"
       ],
       "stage": "Early",
@@ -205,335 +85,128 @@
       "demo_day_video_public": false,
       "app_answers": null,
       "question_answers": false,
-      "url": "https://www.ycombinator.com/companies/nitroduck",
-      "api": "https://yc-oss.github.io/api/batches/fall-2026/nitroduck.json"
-    },
-    {
-      "id": 36974,
-      "name": "Epsilab",
-      "slug": "epsilab-com",
-      "former_names": [],
-      "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/164ea33865ee89b7b5313a5260d5dec8510fb8ec.png",
-      "website": "https://www.epsilab.com",
-      "all_locations": "San Francisco, CA, USA",
-      "long_description": "Applied AI research lab focused on RL for frontier model training. Our research and evals cover real-world environment simulation, long-horizon workflows, and multi-player agents, etc.",
-      "one_liner": "Long horizon RL environments from real-life data",
-      "team_size": 4,
-      "industry": "B2B",
-      "subindustry": "B2B",
-      "launched_at": 1792729092,
-      "tags": [
-        "Machine Learning",
-        "Reinforcement Learning",
-        "B2B",
-        "Data Labeling",
-        "AI"
-      ],
-      "tags_highlighted": [],
-      "top_company": false,
-      "isHiring": false,
-      "nonprofit": false,
-      "batch": "Fall 2026",
-      "status": "Active",
-      "industries": [
-        "B2B"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "stage": "Early",
-      "app_video_public": false,
-      "demo_day_video_public": false,
-      "app_answers": null,
-      "question_answers": false,
-      "url": "https://www.ycombinator.com/companies/epsilab-com",
-      "api": "https://yc-oss.github.io/api/batches/fall-2026/epsilab-com.json"
-    },
-    {
-      "id": 37797,
-      "name": "STASIS",
-      "slug": "stasis",
-      "former_names": [],
-      "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/670dd0e2fb9cb21d4541907259f19468dcbf4a1f.png",
-      "website": "https://www.get-stasis.com/",
-      "all_locations": "San Francisco, CA, USA",
-      "long_description": "",
-      "one_liner": "The WHOOP for 16 billion eyes",
-      "team_size": 2,
-      "industry": "Consumer",
-      "subindustry": "Consumer",
-      "launched_at": 1792723639,
-      "tags": [
-        "Hardware",
-        "Sports Tech",
-        "Consumer Health Services",
-        "Health & Wellness"
-      ],
-      "tags_highlighted": [],
-      "top_company": false,
-      "isHiring": false,
-      "nonprofit": false,
-      "batch": "Fall 2026",
-      "status": "Active",
-      "industries": [
-        "Consumer"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "stage": "Early",
-      "app_video_public": false,
-      "demo_day_video_public": false,
-      "app_answers": null,
-      "question_answers": false,
-      "url": "https://www.ycombinator.com/companies/stasis",
-      "api": "https://yc-oss.github.io/api/batches/fall-2026/stasis.json"
+      "url": "https://www.ycombinator.com/companies/canos",
+      "api": "https://yc-oss.github.io/api/batches/fall-2026/canos.json"
     }
   ],
-  "removed": [],
+  "removed": [
+    {
+      "id": 32748,
+      "name": "PokerClubHub",
+      "slug": "pokerclubhub",
+      "former_names": [
+        "Rounder"
+      ],
+      "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bdce623e4f66c5199feb962395591af2b0973e32.png",
+      "website": "https://www.pokerclubhub.com",
+      "all_locations": "Jaco, Puntarenas Province, Costa Rica",
+      "long_description": "TL;DR: PokerClubHub is the first licensed poker club platform. We protect players’ deposits and allow anyone to open their own poker club and make money.\r\n\r\nRegulated online poker sites like PokerStars have open player pools and thus are full of pros and bots, driving players to unregulated private clubs.\r\n\r\nExisting poker club platforms like ClubGG have no payments processing. Players deposit with a club owner by sending them crypto for play-money chips. In theory, these chips can be exchanged back for money. However, players can get scammed and withdrawing takes ages.\r\n\r\nThis model is also broken for honest club owners who have to manually process hundreds of deposits a day. They lose out on rake when they sleep and struggle to get players to trust them.\r\n\r\nOn PokerClubhub, players deposit with PokerClubHub, not the club owner. We handle all deposits and withdrawals for the club owner, saving them time and increasing their earnings. We pay the rake (if any) to club owners as affiliate fees.\r\n\r\nWe hold the same gaming license as BetHog (built by founders of FanDuel) and Nexa Poker (part of World Poker Tour). Player deposits are secured using Fireblocks.\r\n\r\nYou can also play rake-free games with your friends and acquaintances on our platform. We ensure that everyone pays up.",
+      "one_liner": "Host a Poker Club and Make Money",
+      "team_size": 0,
+      "industry": "Consumer",
+      "subindustry": "Consumer -> Gaming",
+      "launched_at": 1785028791,
+      "tags": [
+        "SaaS",
+        "Crypto / Web3",
+        "Gaming",
+        "eSports"
+      ],
+      "tags_highlighted": [
+        "Crypto / Web3"
+      ],
+      "top_company": false,
+      "isHiring": false,
+      "nonprofit": false,
+      "batch": "Summer 2026",
+      "status": "Active",
+      "industries": [
+        "Consumer",
+        "Gaming"
+      ],
+      "regions": [
+        "Costa Rica",
+        "Latin America"
+      ],
+      "stage": "Early",
+      "app_video_public": false,
+      "demo_day_video_public": false,
+      "app_answers": null,
+      "question_answers": false,
+      "url": "https://www.ycombinator.com/companies/pokerclubhub",
+      "api": "https://yc-oss.github.io/api/batches/summer-2026/pokerclubhub.json"
+    }
+  ],
   "updated": [
     {
-      "id": 1103,
-      "name": "Rappi",
-      "slug": "rappi",
-      "batch": "Winter 2016",
-      "url": "https://www.ycombinator.com/companies/rappi",
-      "changed_fields": [
-        "stage"
-      ],
-      "changes": {
-        "stage": {
-          "before": "Early",
-          "after": "Growth"
-        }
-      }
-    },
-    {
-      "id": 1266,
-      "name": "Meesho",
-      "slug": "meesho",
-      "batch": "Summer 2016",
-      "url": "https://www.ycombinator.com/companies/meesho",
-      "changed_fields": [
-        "stage"
-      ],
-      "changes": {
-        "stage": {
-          "before": "Early",
-          "after": "Growth"
-        }
-      }
-    },
-    {
-      "id": 1603,
-      "name": "Standard AI",
-      "slug": "standard-ai",
-      "batch": "Summer 2017",
-      "url": "https://www.ycombinator.com/companies/standard-ai",
-      "changed_fields": [
-        "stage"
-      ],
-      "changes": {
-        "stage": {
-          "before": "Early",
-          "after": "Growth"
-        }
-      }
-    },
-    {
-      "id": 12300,
-      "name": "Atlas",
-      "slug": "atlas-3",
-      "batch": "Winter 2019",
-      "url": "https://www.ycombinator.com/companies/atlas-3",
-      "changed_fields": [
-        "stage"
-      ],
-      "changes": {
-        "stage": {
-          "before": "Early",
-          "after": "Growth"
-        }
-      }
-    },
-    {
-      "id": 13579,
-      "name": "Tasker AI",
-      "slug": "tasker-ai",
+      "id": 13705,
+      "name": "Algen Biotechnologies",
+      "slug": "algen-biotechnologies",
       "batch": "Winter 2020",
-      "url": "https://www.ycombinator.com/companies/tasker-ai",
+      "url": "https://www.ycombinator.com/companies/algen-biotechnologies",
       "changed_fields": [
+        "long_description",
         "team_size"
       ],
       "changes": {
+        "long_description": {
+          "before": "Algen is using CRISPR to uncover disease-driving RNA messages to find treatments for cancer, inflammation and diseases with high unmet needs. We are harnessing the power of CRISPR and machine learning to find first-in-class drugs that modulate RNA messages at single-cell resolution. Algen's founders are bioengineer from Jennifer Doudna Lab and biotech commercialization expert, teamed up with experienced pharmaceutical executives.",
+          "after": "Algen is using CRISPR to uncover disease-driving RNA messages to find treatments for cancer, inflammation and diseases with high unmet needs. We are harnessing the power of CRISPR gene-modulation and frontier AI to find drugs that modulate RNA messages at single-cell resolution. Algen's founders are bioengineer from Jennifer Doudna Lab and biotech commercialization expert, teamed up with experienced pharmaceutical executives."
+        },
         "team_size": {
-          "before": 7,
-          "after": 1
+          "before": 15,
+          "after": 17
         }
       }
     },
     {
-      "id": 24407,
-      "name": "Stardex",
-      "slug": "stardex",
-      "batch": "Summer 2021",
-      "url": "https://www.ycombinator.com/companies/stardex",
-      "changed_fields": [
-        "team_size"
-      ],
-      "changes": {
-        "team_size": {
-          "before": 7,
-          "after": 9
-        }
-      }
-    },
-    {
-      "id": 25865,
-      "name": "Andson Biotech",
-      "slug": "andson-biotech",
+      "id": 25677,
+      "name": "Posh",
+      "slug": "posh",
       "batch": "Winter 2022",
-      "url": "https://www.ycombinator.com/companies/andson-biotech",
-      "changed_fields": [
-        "isHiring"
-      ],
-      "changes": {
-        "isHiring": {
-          "before": true,
-          "after": false
-        }
-      }
-    },
-    {
-      "id": 29788,
-      "name": "Refactor",
-      "slug": "refactor",
-      "batch": "Summer 2024",
-      "url": "https://www.ycombinator.com/companies/refactor",
-      "changed_fields": [
-        "isHiring"
-      ],
-      "changes": {
-        "isHiring": {
-          "before": true,
-          "after": false
-        }
-      }
-    },
-    {
-      "id": 29851,
-      "name": "Diode Computers, Inc.",
-      "slug": "diode-computers-inc",
-      "batch": "Summer 2024",
-      "url": "https://www.ycombinator.com/companies/diode-computers-inc",
-      "changed_fields": [
-        "stage"
-      ],
-      "changes": {
-        "stage": {
-          "before": "Early",
-          "after": "Growth"
-        }
-      }
-    },
-    {
-      "id": 30055,
-      "name": "RiskCube",
-      "slug": "riskcube",
-      "batch": "Fall 2024",
-      "url": "https://www.ycombinator.com/companies/riskcube",
+      "url": "https://www.ycombinator.com/companies/posh",
       "changed_fields": [
         "long_description",
         "one_liner"
       ],
       "changes": {
         "long_description": {
-          "before": "Mission: Building insurance products & services focused on lowering the protection gap for the innovation economy on a national and global scale. \r\n\r\nToday, we operate an insurance brokerage focused on startups in AI, robotics, space, and defense. Through the brokerage, we see firsthand where traditional insurance products fail, from AI liability and autonomous systems to defense technology and new space risks.\r\n\r\nWe are now building proprietary risk models that can price risks even when little historical claims data exists. Our approach uses stochastic simulation, then applies traditional, explainable models to make the output transparent to underwriters and regulators.\r\n\r\nThis allows us to create new insurance and reinsurance products for emerging industries much faster than traditional carriers.\r\n\r\nThe U.S. insurance market still relies heavily on foreign reinsurance capacity.\r\nOur goal is to build new reinsurance capacity on American soil for the industries defining the next generation of the U.S. economy, while reducing America's dependence on foreign reinsurance capacity.\r\n",
-          "after": "Mission: Building insurance products & services focused on lowering the protection gap for the innovation economy on a national and global scale. \r\n\r\nToday, we operate an insurance brokerage focused on startups. Through the brokerage, we see firsthand where traditional insurance products fail, from AI liability and autonomous systems to defense technology and new space risks.\r\n\r\nWe are now building proprietary risk models that can price risks even when little historical claims data exists. Our approach uses stochastic simulation, then applies traditional, explainable models to make the output transparent to underwriters and regulators.\r\n\r\nThis allows us to create new insurance and reinsurance products for emerging industries much faster than traditional carriers.\r\n\r\nThe U.S. insurance market still relies heavily on foreign reinsurance capacity.\r\nOur goal is to build new reinsurance capacity on American soil for the industries defining the next generation of the U.S. economy, while reducing America's dependence on foreign reinsurance capacity.\r\n"
+          "before": "We are working on rapidly deployable energy storage and power generation solutions for C&I customers, especially in the AI data center space.",
+          "after": "Posh develops AI-ready modular data centers at existing, qualified power sites, turning pockets of available power into GPU compute. Gigawatt campuses take too long to build, held back by supply chains, power constraints, labor shortages, and community pushback. We find power-ready industrial, mining, and legacy data center sites, then drop in standard liquid-cooled modules with N+1 power and cooling, aiming for 6 months to ready-for-service. Customers bring the GPUs; we deliver the rest.\n\nWe have 20 sites in pipeline and over 100 MW of LOIs signed with AI cloud operators. The team are repeat founders and energy veterans with 100+ energy projects delivered across the U.S."
         },
         "one_liner": {
-          "before": "New American insurance company. ",
-          "after": "New American insurance company for hard tech, defense & AI."
+          "before": "Rapidly deployable energy solutions for modern commercial and…",
+          "after": "Turning power into AI compute at speed with modular data centers at…"
         }
       }
     },
     {
-      "id": 30234,
-      "name": "Adam",
-      "slug": "adam",
-      "batch": "Winter 2025",
-      "url": "https://www.ycombinator.com/companies/adam",
+      "id": 26877,
+      "name": "Peoplebox.ai",
+      "slug": "peoplebox",
+      "batch": "Summer 2022",
+      "url": "https://www.ycombinator.com/companies/peoplebox",
       "changed_fields": [
-        "long_description"
+        "long_description",
+        "team_size"
       ],
       "changes": {
         "long_description": {
-          "before": "Applied AI lab building end-to-end agents for mechanical design.",
-          "after": "Applied AI lab building end-to-end agents for mechanical engineers."
-        }
-      }
-    },
-    {
-      "id": 30255,
-      "name": "Olive",
-      "slug": "olive",
-      "batch": "Winter 2025",
-      "url": "https://www.ycombinator.com/companies/olive",
-      "changed_fields": [
-        "stage",
-        "status"
-      ],
-      "changes": {
-        "stage": {
-          "before": "Growth",
-          "after": "Early"
+          "before": "Peoplebox.ai is an AI-native talent platform used by 500+ companies to hire, manage, and grow their people.\r\n\r\nAt the center is Nova, the world’s most human-like AI teammate, for all talent conversations. Nova runs two-way voice/video pre-screen calls, first-round interviews (with coding round and advance proctoring), check-ins, and assessments,  all with your company’s context built in.\r\n\r\nThe talent management platform brings together OKRs/goals, performance reviews, career growth, calibration, and compensation into one unified system, helping companies align, assess, and develop talent faster.",
+          "after": "Peoplebox.ai is an AI-native talent platform used by 500+ companies to hire, manage, and grow their people.\r\n\r\nAt the center is Nova, the world’s most human-like AI Recruiter. Nova screens candidates over chat, text, call, or video, before they even apply, then seamlessly screens resumes, takes pre-screening calls, and runs first-round interviews with live assessments and advanced proctoring.\r\n\r\nThe talent management platform brings together OKRs/goals, performance reviews, career growth, 360 feedback, calibration, and compensation into one unified system, helping companies align, assess, and develop talent faster."
         },
-        "status": {
-          "before": "Active",
-          "after": "Inactive"
+        "team_size": {
+          "before": 35,
+          "after": 75
         }
       }
     },
     {
-      "id": 30338,
-      "name": "CopyCat AI",
-      "slug": "copycat-ai",
-      "batch": "Winter 2025",
-      "url": "https://www.ycombinator.com/companies/copycat-ai",
-      "changed_fields": [
-        "isHiring"
-      ],
-      "changes": {
-        "isHiring": {
-          "before": true,
-          "after": false
-        }
-      }
-    },
-    {
-      "id": 30738,
-      "name": "Altur",
-      "slug": "altur",
-      "batch": "Summer 2025",
-      "url": "https://www.ycombinator.com/companies/altur",
-      "changed_fields": [
-        "isHiring"
-      ],
-      "changes": {
-        "isHiring": {
-          "before": false,
-          "after": true
-        }
-      }
-    },
-    {
-      "id": 30886,
-      "name": "Clerked",
-      "slug": "clerked",
-      "batch": "Fall 2025",
-      "url": "https://www.ycombinator.com/companies/clerked",
+      "id": 28841,
+      "name": "Baud",
+      "slug": "baud",
+      "batch": "Summer 2026",
+      "url": "https://www.ycombinator.com/companies/baud",
       "changed_fields": [
         "team_size"
       ],
@@ -545,165 +218,273 @@
       }
     },
     {
-      "id": 31164,
-      "name": "Compresr",
-      "slug": "compresr",
-      "batch": "Winter 2026",
-      "url": "https://www.ycombinator.com/companies/compresr",
-      "changed_fields": [
-        "small_logo_thumb_url"
-      ],
-      "changes": {
-        "small_logo_thumb_url": {
-          "before": "https://bookface-images.s3.amazonaws.com/small_logos/7768e73d87dc6915fd2a78cbdff56013e194c8de.png",
-          "after": "https://bookface-images.s3.amazonaws.com/small_logos/9a3f6ebbbbeecfb666ee2d21e63085d3fc18670e.png"
-        }
-      }
-    },
-    {
-      "id": 31262,
-      "name": "Talking Computers",
-      "slug": "talking-computers",
-      "batch": "Winter 2026",
-      "url": "https://www.ycombinator.com/companies/talking-computers",
-      "changed_fields": [
-        "all_locations",
-        "regions"
-      ],
-      "changes": {
-        "all_locations": {
-          "before": "Toronto, ON, Canada",
-          "after": "San Francisco, CA, USA"
-        },
-        "regions": {
-          "before": [
-            "Canada",
-            "America / Canada"
-          ],
-          "after": [
-            "United States of America",
-            "America / Canada"
-          ]
-        }
-      }
-    },
-    {
-      "id": 31268,
-      "name": "Cova",
-      "slug": "cova",
-      "batch": "Summer 2026",
-      "url": "https://www.ycombinator.com/companies/cova",
+      "id": 30055,
+      "name": "RiskCube",
+      "slug": "riskcube",
+      "batch": "Fall 2024",
+      "url": "https://www.ycombinator.com/companies/riskcube",
       "changed_fields": [
         "long_description"
       ],
       "changes": {
         "long_description": {
-          "before": "Cova is an AI-native home care agency, licensed in Michigan. We serve Medicaid, LTCI, and private-pay patients; we pay caregivers the highest base rate in the state; and we help unpaid family caregivers get paid through programs they didn't know they qualified for. Our entire operation runs on AI agents, which means less overhead and more value passed directly to the people doing the real work.",
-          "after": "Millions of Americans already care for someone they love. We're building a world where they can get paid for it, with the technology to make the process simple, the support to help them provide better care, and a model that gives more back to those doing the real work."
+          "before": "Mission: Building insurance products & services focused on lowering the protection gap for the innovation economy on a national and global scale. \r\n\r\nToday, we operate an insurance brokerage focused on startups. Through the brokerage, we see firsthand where traditional insurance products fail, from AI liability and autonomous systems to defense technology and new space risks.\r\n\r\nWe are now building proprietary risk models that can price risks even when little historical claims data exists. Our approach uses stochastic simulation, then applies traditional, explainable models to make the output transparent to underwriters and regulators.\r\n\r\nThis allows us to create new insurance and reinsurance products for emerging industries much faster than traditional carriers.\r\n\r\nThe U.S. insurance market still relies heavily on foreign reinsurance capacity.\r\nOur goal is to build new reinsurance capacity on American soil for the industries defining the next generation of the U.S. economy, while reducing America's dependence on foreign reinsurance capacity.\r\n",
+          "after": "Mission: Building insurance products & services focused on lowering the protection gap for the innovation economy on a national and global scale. \r\n\r\nToday, we operate an insurance brokerage focused on startups. Through the brokerage, we see firsthand where traditional insurance products fail, from AI liability and autonomous systems to defense technology and new space risks.\r\n\r\nWe are now building proprietary risk models that can price risks even when little historical claims data exists. Our approach uses stochastic simulation, then applies traditional, explainable models to make the output transparent to underwriters and regulators.\r\n\r\nThis allows us to create new insurance and reinsurance products for emerging industries much faster than traditional carriers.\r\n"
         }
       }
     },
     {
-      "id": 31306,
-      "name": "Martini",
-      "slug": "martini",
-      "batch": "Winter 2026",
-      "url": "https://www.ycombinator.com/companies/martini",
+      "id": 30090,
+      "name": "Origami",
+      "slug": "origami-2",
+      "batch": "Fall 2024",
+      "url": "https://www.ycombinator.com/companies/origami-2",
+      "changed_fields": [
+        "long_description"
+      ],
+      "changes": {
+        "long_description": {
+          "before": "Origami is the first AI that automatically gets customers for you. Enter your domain, and let it start working.\r\n\r\nUsed daily by 10,000+ businesses, Origami gets smarter everyday - learning from your campaigns to find better buyers and drive more revenue for you. On average, customers get 3-6x more positive replies than traditional outbound.\r\n\r\nOrigami combines Outbound, Lead Generation, Website Visitors Identification, Viral Content & more, starting at $29/month.",
+          "after": "Origami is the first AI that automatically gets customers for you. Enter your domain, and let it start working.\r\n\r\nUsed daily by 10,000+ businesses, Origami gets smarter everyday - learning from your campaigns to find better buyers and drive more revenue for you. On average, customers get 3-6x more positive replies than traditional outbound.\r\n\r\nOrigami combines Outbound, Lead Generation, Website Visitors Identification, Viral Content & more, starting at $99/month. Every paid plan includes built-in email and LinkedIn sequencing. New organizations can try Starter for 7 days with $66 of usage; a card is required, and the trial renews at $99/month unless canceled before it ends. Current plans: https://origami.chat/pricing."
+        }
+      }
+    },
+    {
+      "id": 30255,
+      "name": "Olive",
+      "slug": "olive",
+      "batch": "Winter 2025",
+      "url": "https://www.ycombinator.com/companies/olive",
+      "changed_fields": [
+        "stage"
+      ],
+      "changes": {
+        "stage": {
+          "before": "Early",
+          "after": "Growth"
+        }
+      }
+    },
+    {
+      "id": 30511,
+      "name": "Vassar Robotics",
+      "slug": "vassar-robotics",
+      "batch": "Spring 2025",
+      "url": "https://www.ycombinator.com/companies/vassar-robotics",
+      "changed_fields": [
+        "long_description",
+        "one_liner",
+        "team_size"
+      ],
+      "changes": {
+        "long_description": {
+          "before": "We build home humanoids the practical way—an open, mass-produced developer kit powering a real-home teleop data flywheel to autonomy, giving families back 20 hours/week.",
+          "after": "Vassar Robotics is building gearless robot joints and arms using high-torque transverse-flux motors. Eliminating gearboxes makes robots more precise, reliable, affordable, and easier to simulate. We’re starting with AI research labs and robot developers, helping them collect better training data and transfer learned skills from simulation to the real world."
+        },
+        "one_liner": {
+          "before": "Open-source semi-humanoid dev kit → home data → autonomy → 20h/wk",
+          "after": "Gearless robot joints for better embodied AI."
+        },
+        "team_size": {
+          "before": 3,
+          "after": 2
+        }
+      }
+    },
+    {
+      "id": 30880,
+      "name": "Nessie",
+      "slug": "nessie",
+      "batch": "Fall 2025",
+      "url": "https://www.ycombinator.com/companies/nessie",
+      "changed_fields": [
+        "one_liner"
+      ],
+      "changes": {
+        "one_liner": {
+          "before": "The shared context layer for recursive companies - your work, your…",
+          "after": "The shared context layer for recursive companies."
+        }
+      }
+    },
+    {
+      "id": 30924,
+      "name": "Casey",
+      "slug": "casey",
+      "batch": "Fall 2025",
+      "url": "https://www.ycombinator.com/companies/casey",
+      "changed_fields": [
+        "isHiring"
+      ],
+      "changes": {
+        "isHiring": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "id": 31414,
+      "name": "Dreach",
+      "slug": "dreach",
+      "batch": "Spring 2026",
+      "url": "https://www.ycombinator.com/companies/dreach",
+      "changed_fields": [
+        "one_liner"
+      ],
+      "changes": {
+        "one_liner": {
+          "before": "staffing firms with dreach grow revenue faster.",
+          "after": "staffing firms with dreach know before they hire."
+        }
+      }
+    },
+    {
+      "id": 31440,
+      "name": "AGI Deploy Co",
+      "slug": "agi-deploy-co",
+      "batch": "Spring 2026",
+      "url": "https://www.ycombinator.com/companies/agi-deploy-co",
+      "changed_fields": [
+        "api",
+        "former_names",
+        "industries",
+        "industry",
+        "long_description",
+        "name",
+        "one_liner",
+        "slug",
+        "small_logo_thumb_url",
+        "subindustry",
+        "tags",
+        "url",
+        "website"
+      ],
+      "changes": {
+        "api": {
+          "before": "https://yc-oss.github.io/api/batches/spring-2026/mount.json",
+          "after": "https://yc-oss.github.io/api/batches/spring-2026/agi-deploy-co.json"
+        },
+        "former_names": {
+          "before": [
+            "Cybe"
+          ],
+          "after": [
+            "Cybe",
+            "Mount"
+          ]
+        },
+        "industries": {
+          "before": [
+            "Fintech",
+            "Insurance"
+          ],
+          "after": [
+            "B2B",
+            "Operations"
+          ]
+        },
+        "industry": {
+          "before": "Fintech",
+          "after": "B2B"
+        },
+        "long_description": {
+          "before": "TLDR: Mount is building the AI insurance carrier, starting with liability coverage for deployed AI agents. As everyone moves AI Agents into production and gives them more responsibility, we help businesses insure and secure them.\r\n\r\nWhenever responsibility shifts from human operators to autonomous systems, so too does the liability that accompanies it. The systems also introduce new risks: agentic software failures, prompt injection attacks, autonomous workflow errors, data leaks, and more.\r\n\r\nLegacy insurance was not built for this. Existing policies are often silent, ambiguous, or exclude autonomous software, and traditional insurers lack the data and technical capability to assess deployed AI Systems.\r\n\r\nOur first product, the Mount AI Liability Policy, is built for mid-market and enterprise companies deploying autonomous AI agents in real business processes. We scan and red-team AI deployments, quantify operational risk, help fix vulnerabilities, and insure the residual risk with purpose-built AI liability coverage.\r\n\r\nMount is best thought of as a highly automated version of today's commercial insurance carriers, which run on manual workflows, layers of intermediaries, and tens of thousands of employees. AI enables automation of underwriting, pricing, policy issuance, claims, fraud detection, customer support, and distribution. We believe that the best way to use this opportunity is to rebuild those processes from the ground up. ",
+          "after": "We rebuild the companies that are most critical to our economy and hardest to displace around general intelligence."
+        },
+        "name": {
+          "before": "Mount",
+          "after": "AGI Deploy Co"
+        },
+        "one_liner": {
+          "before": "The AI Agent Insurance Carrier",
+          "after": "Diffusing AI into critical industries"
+        },
+        "slug": {
+          "before": "mount",
+          "after": "agi-deploy-co"
+        },
+        "small_logo_thumb_url": {
+          "before": "https://bookface-images.s3.amazonaws.com/small_logos/fa5208859312a795f7e72dfb9eb2a5149785a216.png",
+          "after": "https://bookface-images.s3.amazonaws.com/small_logos/f2b58875705e5d8f04a9d448eaeb56170a6b9785.png"
+        },
+        "subindustry": {
+          "before": "Fintech -> Insurance",
+          "after": "B2B -> Operations"
+        },
+        "tags": {
+          "before": [],
+          "after": [
+            "Health Tech",
+            "Healthcare",
+            "Health & Wellness",
+            "AI"
+          ]
+        },
+        "url": {
+          "before": "https://www.ycombinator.com/companies/mount",
+          "after": "https://www.ycombinator.com/companies/agi-deploy-co"
+        },
+        "website": {
+          "before": "https://mount.insure",
+          "after": "https://agideploy.co"
+        }
+      }
+    },
+    {
+      "id": 31455,
+      "name": "tday.com",
+      "slug": "tdaycom",
+      "batch": "Spring 2026",
+      "url": "https://www.ycombinator.com/companies/tdaycom",
       "changed_fields": [
         "small_logo_thumb_url"
       ],
       "changes": {
         "small_logo_thumb_url": {
-          "before": "https://bookface-images.s3.amazonaws.com/small_logos/6c61a438eef6d3a1fe29d67dd180ddaaac257b9d.png",
-          "after": "https://bookface-images.s3.amazonaws.com/small_logos/db10d91f7f05057c62a3c61e66da7a84cd7591fb.png"
+          "before": "https://bookface-images.s3.amazonaws.com/small_logos/3757196228dee380b044009d7e4a7d8ebc8d7894.png",
+          "after": "https://bookface-images.s3.amazonaws.com/small_logos/c8df062c9a1b77cc6ec53fabfaa7f2f047434c52.png"
         }
       }
     },
     {
-      "id": 31327,
-      "name": "Korso",
-      "slug": "korso",
+      "id": 31477,
+      "name": "BioStack Platforms",
+      "slug": "biostack-platforms",
       "batch": "Spring 2026",
-      "url": "https://www.ycombinator.com/companies/korso",
+      "url": "https://www.ycombinator.com/companies/biostack-platforms",
       "changed_fields": [
-        "industries",
-        "industry",
-        "long_description",
-        "one_liner",
-        "subindustry",
-        "tags"
+        "team_size"
       ],
       "changes": {
-        "industries": {
-          "before": [
-            "Consumer"
-          ],
-          "after": [
-            "B2B",
-            "Infrastructure"
-          ]
-        },
-        "industry": {
-          "before": "Consumer",
-          "after": "B2B"
-        },
-        "long_description": {
-          "before": "Korso is an intuitive AI assistant that can work alongside you on your computer. It can operate apps, conduct research, and guide you when you are stuck, all by voice",
-          "after": "reach out to find out more: https://cal.com/korso-founders/15min"
-        },
-        "one_liner": {
-          "before": "Your Capable Desktop AI Companion",
-          "after": "In Development"
-        },
-        "subindustry": {
-          "before": "Consumer",
-          "after": "B2B -> Infrastructure"
-        },
-        "tags": {
-          "before": [
-            "SaaS",
-            "AI Assistant"
-          ],
-          "after": [
-            "Developer Tools",
-            "SaaS",
-            "AI"
-          ]
+        "team_size": {
+          "before": 10,
+          "after": 11
         }
       }
     },
     {
-      "id": 31335,
-      "name": "Memoir",
-      "slug": "memoir",
-      "batch": "Spring 2026",
-      "url": "https://www.ycombinator.com/companies/memoir",
+      "id": 31575,
+      "name": "Fire Wallet",
+      "slug": "fire-wallet",
+      "batch": "Fall 2026",
+      "url": "https://www.ycombinator.com/companies/fire-wallet",
       "changed_fields": [
-        "long_description",
-        "one_liner",
-        "website"
+        "long_description"
       ],
       "changes": {
         "long_description": {
-          "before": "Memoir is building a persistent and proactive AI teammate that helps an entire company keep up with its own progress. Think Instinct but for enterprise. We’re starting with product changes. When engineering ships something, Memoir understands who it affects and creates what each audience needs: a walkthrough for a customer, launch materials for a product marketer, or a technical explanation for another engineering team. It chooses the format and timing, then delivers the approved material in Slack. Nobody has to ask it to start.\r\n\r\nWe’re beginning with hands-on deployments, learning how each company works and where people depend on one another. That understanding will let Memoir expand beyond product releases to customer commitments, business decisions, and changes across departments. The idea grew from conversations with product marketers struggling to keep up with engineering, and the possibility of extending a proactive personal AI teammate to an entire business. \r\n\r\nOur ambition is a company where every important change sets the right communication in motion: the people affected receive something made for them, when they need it, without someone having to coordinate every handoff. As AI makes individual teams faster, Memoir helps that speed carry through the whole company.",
-          "after": "Memoir is a video call with a proactive AI teammate built in. While people talk, it picks up the work hiding in the conversation and starts on it, in real time. Say \"let me pull up the pricing deck\" and it appears on your screen. Say \"let's sketch the architecture\" and a diagram draws itself for everyone. Ask \"Memoir, what did we decide on pricing?\" and it answers out loud from the call itself, with context gathered beforehand.\r\n\r\nWhen the call ends, the follow-ups are already written: the email to the customer, the calendar hold, the reminder, each one click to send. The work that usually waits hours after a meeting, or never happens, is ready before you hang up.\r\n\r\nAgents already work in our inboxes, browsers and code editors. Calls are where teams make decisions, and agents still aren't in the room. We're starting with technical founders on the sales and design calls they host, where a slow follow-up costs a deal, and building toward calls where people and agents work side by side."
-        },
-        "one_liner": {
-          "before": "Everything your team ships, explained to everyone it affects.",
-          "after": "The Zoom alternative where agents build what you discuss in real time"
-        },
-        "website": {
-          "before": "https://www.trymemoir.ai/",
-          "after": "https://www.memoirmeet.com/"
+          "before": "🔥FIRE WALLET 🔥\r\n\r\nhttps://www.youtube.com/watch?v=JeXDDegwhgA\r\n\r\nTL;DR: Fire Wallet is a fast, end-to-end encrypted, non-custodial stablecoin wallet with built-in payment processing and fiat on/off ramps, built by the team that created MobileCoin, the cryptocurrency inside Signal.\r\n\r\nHey Bookface! We're Josh, Michael, and Manny and we're building Fire Wallet!\r\n\r\n🔥Why we built this\r\n\r\nMost wallets and payment processors don’t work FOR you. They're slow, route your payments in the way that earns them the most, and they leak your financial life to anyone asking. Worse: every single one hold the keys to your money.\r\n\r\nWe believe your financial tools should act in your interest and, frankly, that your money should be yours.\r\n\r\n 🔥What Fire does\r\n\r\nMulti-chain, non-custodial, end-to-end encrypted wallet. \r\nYour keys, your money, your assets: you are in full control of your funds at all times. \r\nLeast Cost Routing. Every swap and payment takes the cheapest path, not the one that pays a middleman the most.\r\nSelf-sovereign payment processing. Send an invoice straight from the wallet. Get paid from your web checkout. No middleman.\r\nEasy fiat on/off ramps. Move stablecoins to USD and back without the pain.\r\nBuilt for agentic commerce. Manage per-agent sub-wallets for agentic workflows.\r\nEncrypted by default. Protecting you from bad actors and surveillance capitalism.\r\n\r\n🔥Early traction\r\n\r\nSigned our first major LOI with @Trustboop (founded by Justice Laub of Drone Racing League and Rob Rhinehart of Soylent).\r\n\r\nOnboarding our first enterprise customer in ecommerce packaging and marketing, doing about $1.5M/month in volume. They've connected us to 10 more companies in the same vertical at similar volume, roughly a $100M/yr GMV opportunity.\r\n\r\n🔥Why us\r\n\r\nJosh and Manuel led the creation of MobileCoin, the cryptocurrency in Signal Messenger: $100M+ raised, $1.16B peak valuation, $4B+ peak coin market cap, acquired in 2026.\r\n\r\nMichael runs product and design. He's an internationally exhibited artist with two published art books, and he builds sick products.\r\n\r\nManuel runs operations and orchestrates systems that actually work at scale.\r\n\r\n🔥Asks\r\n\r\nIntros to businesses moving $1M+/month in payments, especially cross-border, ecommerce, and DTC, who want lower fees and more control over their funds.\r\n\r\nStrategic partners in fintech and payments interested in integrating our infrastructure.\r\nTell us what's broken. Reply here or email founders@fire.co.\r\n\r\nWe're looking for our first 100 customers. If that's you or someone you know, we'd love to talk.",
+          "after": "🔥FIRE WALLET 🔥\r\n\r\nhttps://www.youtube.com/watch?v=JeXDDegwhgA\r\n\r\nTL;DR: Fire Wallet is a fast, end-to-end encrypted, non-custodial stablecoin wallet with built-in payment processing and fiat on/off ramps, built by the team that created MobileCoin, the cryptocurrency inside Signal.\r\n\r\nHey Bookface! We're Josh, Michael, and Manny and we're building Fire Wallet!\r\n\r\n🔥Why we built this\r\n\r\nMost wallets and payment processors don’t work FOR you. They're slow, route your payments in the way that earns them the most, and they leak your financial life to anyone asking. Worse: every single one hold the keys to your money.\r\n\r\nWe believe your financial tools should act in your interest and, frankly, that your money should be yours.\r\n\r\n 🔥What Fire does\r\n\r\nMulti-chain, non-custodial, end-to-end encrypted wallet. \r\nYour keys, your money, your assets: you are in full control of your funds at all times. \r\nLeast Cost Routing. Every swap and payment takes the cheapest path, not the one that pays a middleman the most.\r\nSelf-sovereign payment processing. Send an invoice straight from the wallet. Get paid from your web checkout. No middleman.\r\nEasy fiat on/off ramps. Move stablecoins to USD and back without the pain.\r\nBuilt for agentic commerce. Manage per-agent sub-wallets for agentic workflows.\r\nEncrypted by default. Protecting you from bad actors and surveillance capitalism.\r\n\r\n🔥Early traction\r\n\r\nSigned our first major LOI with @Trustboop (founded by Justice Laub of Drone Racing League and Rob Rhinehart of Soylent).\r\n\r\nOnboarding our first enterprise customer in ecommerce packaging and marketing, doing about $1.5M/month in volume. They've connected us to 10 more companies in the same vertical at similar volume, roughly a $100M/yr GMV opportunity.\r\n\r\n🔥Why us\r\n\r\nJosh and Manuel led the creation of MobileCoin, the cryptocurrency in Signal Messenger: $100M+ raised, $1.16B peak valuation, $4B+ peak coin market cap, acquired in 2026. They understand what it takes to build a cryptographic business.\r\n\r\nMichael runs product and design. He's an internationally exhibited artist with two published art books, and he builds beautiful products.\r\n\r\nManuel runs operations and orchestrates systems that actually work at scale.\r\n\r\n🔥Asks\r\n\r\nIntros to businesses moving $1M+/month in payments, especially cross-border, ecommerce, and DTC, who want lower fees and more control over their funds.\r\n\r\nStrategic partners in fintech and payments interested in integrating our infrastructure.\r\nTell us what's broken. Reply here or email founders@fire.co.\r\n\r\nWe're looking for our first 100 customers. If that's you or someone you know, we'd love to talk."
         }
       }
     },
     {
-      "id": 31369,
-      "name": "InLoop Robotics",
-      "slug": "inloop-robotics",
-      "batch": "Spring 2026",
-      "url": "https://www.ycombinator.com/companies/inloop-robotics",
+      "id": 32222,
+      "name": "Audun",
+      "slug": "audun",
+      "batch": "Summer 2026",
+      "url": "https://www.ycombinator.com/companies/audun",
       "changed_fields": [
         "isHiring"
       ],
@@ -715,140 +496,71 @@
       }
     },
     {
-      "id": 31529,
-      "name": "Mochatrade",
-      "slug": "mochatrade",
-      "batch": "Spring 2026",
-      "url": "https://www.ycombinator.com/companies/mochatrade",
+      "id": 35262,
+      "name": "Bryel",
+      "slug": "bryel",
+      "batch": "Fall 2026",
+      "url": "https://www.ycombinator.com/companies/bryel",
+      "changed_fields": [
+        "one_liner"
+      ],
+      "changes": {
+        "one_liner": {
+          "before": "Perceptual reasoning models that are easily customizable",
+          "after": "Building the next generation of visual perceptual intelligence"
+        }
+      }
+    },
+    {
+      "id": 36180,
+      "name": "Vexo",
+      "slug": "vexo",
+      "batch": "Fall 2026",
+      "url": "https://www.ycombinator.com/companies/vexo",
       "changed_fields": [
         "long_description",
-        "one_liner",
         "small_logo_thumb_url"
       ],
       "changes": {
         "long_description": {
-          "before": "Mochatrade lets global traders trade top US stocks using perpetual futures. Access all US stocks including TSLA, NVDA, and AAPL, plus pre-IPO companies and commodities, no US brokerage account needed. Money in and out in local currency (UPI in India), with professional-grade execution on the world's most liquid equities. Starting with India (140M+ demat account holders), expanding across other markets. Backed by Coinfund, Coinbase, and Y Combinator.\r\n\r\n",
-          "after": "Mochatrade lets Indians trade US markets from India, in Rupees. Go long or short on your favorite US stock tokens with leverage. Fund with UPI. Trade 24/7."
-        },
-        "one_liner": {
-          "before": "US stock trading, unlocked for the globe",
-          "after": "Trade US markets from India, in Rupees"
+          "before": "Every AI today waits for a prompt. Vexo already has the context: the restaurant a friend mentioned, the intro you promised, the idea you had on a walk. It turns what it hears into private memories and acts on them, booking the table, sending the follow-up, and ordering the groceries through the apps you already use.\r\n\r\nIt's a woven bracelet with a microphone and health sensors. No screen, and nothing to open.\r\n\r\nVexo never keeps your audio. Only you can see your memories, and you can delete them anytime.",
+          "after": "Vexo is an Always listening AI bracelet. that remembers everything you say and hooks up to your existing AI agents that you can control from your wrist."
         },
         "small_logo_thumb_url": {
-          "before": "https://bookface-images.s3.amazonaws.com/small_logos/b53aed7c2d61caf968cbcb61a42f6cd0f7f65ef9.png",
-          "after": "https://bookface-images.s3.amazonaws.com/small_logos/41f6bb0885038cff5deb3b8cceebac0e314d969c.png"
+          "before": "https://bookface-images.s3.amazonaws.com/small_logos/16f5a22fcf5a6680c6393b3e9a8d4a4c477c2f10.png",
+          "after": "https://bookface-images.s3.amazonaws.com/small_logos/4ccc1a7fb19ab15125c649c10eac42aa5856ed4e.png"
         }
       }
     },
     {
-      "id": 32155,
-      "name": "Rex",
-      "slug": "rex-inc",
-      "batch": "Summer 2026",
-      "url": "https://www.ycombinator.com/companies/rex-inc",
-      "changed_fields": [
-        "long_description",
-        "one_liner"
-      ],
-      "changes": {
-        "long_description": {
-          "before": "Rex is an AI-native service for order to cash. Rex replaces manual operations with AI agents that continuously manage invoices, customers and exceptions.\r\n\r\nOrder to cash is a $60B outsourced function because the work is too messy for traditional automation. Every customer has different context, exceptions do not follow clean rules, and the next step is often buried in emails, portals, handoffs, or someone’s memory. Rex agents run continuously in the background and resolve work to SLA standards so cash keeps moving. We're live with pre-IPO tech companies, managing  >$500m in receivables from F100 companies, cutting manual follow-up cycles from weeks to hours.\r\n\r\nWe founded Rex after spending four years building Sequence, an a16z-backed finance ops platform, from zero to Series A — where we saw firsthand that at-scale, O2C still runs on manual labour.\r\n\r\nRex is the #1 winner of the Vercel AI Accelerator out of 2,500 teams, selected by Guillermo Rauch and leaders from OpenAI, Anthropic, Browserbase and more.",
-          "after": "Rex is a managed AI service for AR and order-to-cash. AI agents and finance experts run the work that delays payment, from collections, portals, disputes and remittances to the shared AR inbox, so cash keeps moving.\r\n\r\nOrder to cash is a $60B outsourced function because the work is too messy for traditional automation. Every customer has different context, exceptions do not follow clean rules, and the next step is often buried in emails, portals, handoffs, or someone’s memory. Rex agents run continuously in the background and resolve work to SLA standards so cash keeps moving. We're live with pre-IPO tech companies, managing  >$500m in receivables from F100 companies, cutting manual follow-up cycles from weeks to hours.\r\n\r\nWe founded Rex after spending four years building Sequence, an a16z-backed finance ops platform, from zero to Series A — where we saw firsthand that at-scale, O2C still runs on manual labour.\r\n\r\nRex is the #1 winner of the Vercel AI Accelerator out of 2,500 teams, selected by Guillermo Rauch and leaders from OpenAI, Anthropic, Browserbase and more."
-        },
-        "one_liner": {
-          "before": "AI-native BPO for enterprise order-to-cash",
-          "after": "AI operations partner for enterprise order-to-cash "
-        }
-      }
-    },
-    {
-      "id": 34895,
-      "name": "OpenScaffold",
-      "slug": "openscaffold",
+      "id": 36972,
+      "name": "Composal",
+      "slug": "composal",
       "batch": "Fall 2026",
-      "url": "https://www.ycombinator.com/companies/openscaffold",
+      "url": "https://www.ycombinator.com/companies/composal",
       "changed_fields": [
-        "api",
-        "former_names",
-        "long_description",
-        "name",
-        "one_liner",
-        "slug",
-        "small_logo_thumb_url",
-        "url"
+        "website"
       ],
       "changes": {
-        "api": {
-          "before": "https://yc-oss.github.io/api/batches/fall-2026/sigma-2.json",
-          "after": "https://yc-oss.github.io/api/batches/fall-2026/openscaffold.json"
-        },
-        "former_names": {
-          "before": [],
-          "after": [
-            "Sigma"
-          ]
-        },
-        "long_description": {
-          "before": "",
-          "after": "OpenScaffold is building AGI for every deployment team.\r\n\r\nThe result is a custom scaffold that is autonomously harnessed for each deployment, drawn from customer discovery, business objectives, past deployments, and more."
-        },
-        "name": {
-          "before": "Sigma",
-          "after": "OpenScaffold"
-        },
-        "one_liner": {
-          "before": "Lakehouse-as-a-Service (LaaS)",
-          "after": "Superagent for Deployment Teams"
-        },
-        "slug": {
-          "before": "sigma-2",
-          "after": "openscaffold"
-        },
+        "website": {
+          "before": "https://composal.ai",
+          "after": "https://composal.com"
+        }
+      }
+    },
+    {
+      "id": 37238,
+      "name": "Terse",
+      "slug": "useterse",
+      "batch": "Fall 2026",
+      "url": "https://www.ycombinator.com/companies/useterse",
+      "changed_fields": [
+        "small_logo_thumb_url"
+      ],
+      "changes": {
         "small_logo_thumb_url": {
-          "before": "https://bookface-images.s3.amazonaws.com/small_logos/0281f5236edcd7fb1960cb57da29592acd65e490.png",
-          "after": "https://bookface-images.s3.amazonaws.com/small_logos/f7d38b3eee0095a6968f8c9f98029c1e58d352d1.png"
-        },
-        "url": {
-          "before": "https://www.ycombinator.com/companies/sigma-2",
-          "after": "https://www.ycombinator.com/companies/openscaffold"
-        }
-      }
-    },
-    {
-      "id": 34959,
-      "name": "Applied Kinetics",
-      "slug": "applied-kinetics",
-      "batch": "Fall 2026",
-      "url": "https://www.ycombinator.com/companies/applied-kinetics",
-      "changed_fields": [
-        "one_liner"
-      ],
-      "changes": {
-        "one_liner": {
-          "before": "End-to-end manufacturing for data center and energy projects",
-          "after": "AI-native manufacturing for data center and energy projects"
-        }
-      }
-    },
-    {
-      "id": 37272,
-      "name": "The Subvocal Company",
-      "slug": "the-subvocal-company",
-      "batch": "Fall 2026",
-      "url": "https://www.ycombinator.com/companies/the-subvocal-company",
-      "changed_fields": [
-        "tags"
-      ],
-      "changes": {
-        "tags": {
-          "before": [
-            "Hard Tech"
-          ],
-          "after": [
-            "Hard Tech",
-            "Hardware",
-            "Consumer"
-          ]
+          "before": "https://bookface-images.s3.amazonaws.com/small_logos/21712c0189bc22ccc5e9bfeb15e67a527077b8f7.png",
+          "after": "https://bookface-images.s3.amazonaws.com/small_logos/cd6be2cf6a34817d94716dd43cba7de917787b78.png"
         }
       }
     }

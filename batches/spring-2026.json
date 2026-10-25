@@ -3178,7 +3178,7 @@
     "website": "https://dreach.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "dreach finds employers about to hire and people about to move, names the hiring manager, and your way in. your recruiters keep recruiting.",
-    "one_liner": "staffing firms with dreach grow revenue faster.",
+    "one_liner": "staffing firms with dreach know before they hire.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -4043,21 +4043,27 @@
   },
   {
     "id": 31440,
-    "name": "Mount",
-    "slug": "mount",
+    "name": "AGI Deploy Co",
+    "slug": "agi-deploy-co",
     "former_names": [
-      "Cybe"
+      "Cybe",
+      "Mount"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa5208859312a795f7e72dfb9eb2a5149785a216.png",
-    "website": "https://mount.insure",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f2b58875705e5d8f04a9d448eaeb56170a6b9785.png",
+    "website": "https://agideploy.co",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "TLDR: Mount is building the AI insurance carrier, starting with liability coverage for deployed AI agents. As everyone moves AI Agents into production and gives them more responsibility, we help businesses insure and secure them.\r\n\r\nWhenever responsibility shifts from human operators to autonomous systems, so too does the liability that accompanies it. The systems also introduce new risks: agentic software failures, prompt injection attacks, autonomous workflow errors, data leaks, and more.\r\n\r\nLegacy insurance was not built for this. Existing policies are often silent, ambiguous, or exclude autonomous software, and traditional insurers lack the data and technical capability to assess deployed AI Systems.\r\n\r\nOur first product, the Mount AI Liability Policy, is built for mid-market and enterprise companies deploying autonomous AI agents in real business processes. We scan and red-team AI deployments, quantify operational risk, help fix vulnerabilities, and insure the residual risk with purpose-built AI liability coverage.\r\n\r\nMount is best thought of as a highly automated version of today's commercial insurance carriers, which run on manual workflows, layers of intermediaries, and tens of thousands of employees. AI enables automation of underwriting, pricing, policy issuance, claims, fraud detection, customer support, and distribution. We believe that the best way to use this opportunity is to rebuild those processes from the ground up. ",
-    "one_liner": "The AI Agent Insurance Carrier",
+    "long_description": "We rebuild the companies that are most critical to our economy and hardest to displace around general intelligence.",
+    "one_liner": "Diffusing AI into critical industries",
     "team_size": 2,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Insurance",
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
     "launched_at": 1775605248,
-    "tags": [],
+    "tags": [
+      "Health Tech",
+      "Healthcare",
+      "Health & Wellness",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -4065,8 +4071,8 @@
     "batch": "Spring 2026",
     "status": "Active",
     "industries": [
-      "Fintech",
-      "Insurance"
+      "B2B",
+      "Operations"
     ],
     "regions": [
       "United States of America",
@@ -4077,8 +4083,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mount",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/mount.json"
+    "url": "https://www.ycombinator.com/companies/agi-deploy-co",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/agi-deploy-co.json"
   },
   {
     "id": 31441,
@@ -4532,7 +4538,7 @@
       "markup.one",
       "tday"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3757196228dee380b044009d7e4a7d8ebc8d7894.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c8df062c9a1b77cc6ec53fabfaa7f2f047434c52.png",
     "website": "https://tday.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "tday automatically turns a software company's product into on-brand marketing creative. Connect your product and git repo, and tday generates polished launch videos, social graphics, and ads, the content a team would normally spend hours making in a design tool or pay a freelancer for. tday then publishes the creative and measures how it performs across your social and ad channels, closing the loop from what you ship to what you post.",
@@ -5124,7 +5130,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "BioStack is building the data engine for healthcare and drug discovery AI. The bottleneck is not models. It is access to high-quality biological data. Clinical and experimental data is fragmented, unstructured, and locked inside hospitals, labs, and CROs, while generating new data is slow and expensive. BioStack fixes this with proprietary clinical and preclinical data pipelines that turn real biomedical workflows into ML-ready training environments.\r\n\r\nWe structure longitudinal multimodal data across imaging, EHR, and experimental assays, then package it for post-training and reinforcement learning so models can learn how research and care actually happen. Instead of static datasets, BioStack gives AI labs workflow-aligned data and environments that improve reasoning, decision-making, and real-world performance in biology and medicine.",
     "one_liner": "Real world training envs for healthcare AI models",
-    "team_size": 10,
+    "team_size": 11,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1774518776,

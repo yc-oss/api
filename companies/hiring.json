@@ -24588,8 +24588,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ca6f3906b5aba33dcfb179d47661f5c03647f14.png",
     "website": "https://www.poshenergy.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We are working on rapidly deployable energy storage and power generation solutions for C&I customers, especially in the AI data center space.",
-    "one_liner": "Rapidly deployable energy solutions for modern commercial and…",
+    "long_description": "Posh develops AI-ready modular data centers at existing, qualified power sites, turning pockets of available power into GPU compute. Gigawatt campuses take too long to build, held back by supply chains, power constraints, labor shortages, and community pushback. We find power-ready industrial, mining, and legacy data center sites, then drop in standard liquid-cooled modules with N+1 power and cooling, aiming for 6 months to ready-for-service. Customers bring the GPUs; we deliver the rest.\n\nWe have 20 sites in pipeline and over 100 MW of LOIs signed with AI cloud operators. The team are repeat founders and energy veterans with 100+ energy projects delivered across the U.S.",
+    "one_liner": "Turning power into AI compute at speed with modular data centers at…",
     "team_size": 10,
     "industry": "Industrials",
     "subindustry": "Industrials -> Climate",
@@ -55382,7 +55382,7 @@
     "website": "https://nessielabs.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Knowledge work is being restructured by AI. Strategy happens in Claude. Research happens in ChatGPT. Building happens in Claude Code and Codex. Meetings get recorded, notes get written, agents run for hours and leave behind traces nobody reads. The people defining the next decade of work are already thinking with AI every day. But none of that thinking compounds. Every session starts from zero. The reasoning behind decisions, the context behind strategies, the evolution of ideas across hundreds of conversations - all of it evaporates.\r\n\r\nNessie is the infrastructure that makes it permanent. We auto-sync AI conversations and agent traces across every major provider - ChatGPT, Claude, Gemini, Perplexity, Claude Code, Codex, Cursor, OpenClaw, Hermes, and more - alongside meetings, notes, and email from tools like Granola, Read AI, Plaud, and Obsidian. Everything a team produces with AI flows into one place and compounds over time.\r\n\r\nNessie turns that raw, heterogeneous data into an ontology: the live state of a company. Not a static schema but a continuously updated record of what the company knows, what it has decided, who owns what, and how its thinking has evolved, kept current as new work flows in. It is queryable from any agent through our CLI, MCP connector, and plugins, shareable across a team with real permissions, and deployable on-prem for organizations that need it.\r\n\r\nThen the loop closes. Once a company’s state is legible to its agents, every agent run becomes training signal: which skills worked, which failed, which workflows keep repeating. Nessie feeds that signal back as reviewable improvements to the skills, prompts, and processes the team runs on. This is what makes a company recursive: its agents get better from its own history, the people working with them get better too, and the compounding never stops.\r\n\r\nWhere we are going: the AI-native organization runs thousands of agents that are powerful but amnesiac. Nessie is the layer that gives them, and the humans steering them, a shared memory. Science has journals, law has case law, software has git; AI-native knowledge work has had nothing. We are building it.\r\n\r\nFounded by two Yale CS grads and former Amazon engineers, now a team of three in San Francisco. Backed by BoxGroup, Pioneer Fund, Y Combinator, Precursor, and more.\r\n\r\nhttps://nessielabs.com",
-    "one_liner": "The shared context layer for recursive companies - your work, your…",
+    "one_liner": "The shared context layer for recursive companies.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -55828,45 +55828,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/complydo",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/complydo.json"
-  },
-  {
-    "id": 30924,
-    "name": "Casey",
-    "slug": "casey",
-    "former_names": [
-      "Clausee"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa8267b34eb44ac708090ff04ca6eeef01fa75d3.png",
-    "website": "https://caseyinsure.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Casey is an AI-native commercial insurance brokerage. Our insurance brokers focus on client relationships and closing business, whilst our AI handles all the operational work behind the scenes.\r\n\r\n",
-    "one_liner": "Casey is an AI-native commercial insurance brokerage",
-    "team_size": 5,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Insurance",
-    "launched_at": 1759942019,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Insurance"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/casey",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/casey.json"
   },
   {
     "id": 30927,
@@ -61035,7 +60996,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "BioStack is building the data engine for healthcare and drug discovery AI. The bottleneck is not models. It is access to high-quality biological data. Clinical and experimental data is fragmented, unstructured, and locked inside hospitals, labs, and CROs, while generating new data is slow and expensive. BioStack fixes this with proprietary clinical and preclinical data pipelines that turn real biomedical workflows into ML-ready training environments.\r\n\r\nWe structure longitudinal multimodal data across imaging, EHR, and experimental assays, then package it for post-training and reinforcement learning so models can learn how research and care actually happen. Instead of static datasets, BioStack gives AI labs workflow-aligned data and environments that improve reasoning, decision-making, and real-world performance in biology and medicine.",
     "one_liner": "Real world training envs for healthcare AI models",
-    "team_size": 10,
+    "team_size": 11,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1774518776,
@@ -62343,6 +62304,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ai-coach",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/ai-coach.json"
+  },
+  {
+    "id": 32222,
+    "name": "Audun",
+    "slug": "audun",
+    "former_names": [
+      "Solvva"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e7da249d05c3b78e6493d6546cc70a78c450280f.png",
+    "website": "https://audun.co",
+    "all_locations": "Oslo, Oslo, Norway",
+    "long_description": "Audun automates debt collection.",
+    "one_liner": "AI-native debt collection company",
+    "team_size": 5,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1786093910,
+    "tags": [
+      "Fintech",
+      "Finance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "Norway",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/audun",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/audun.json"
   },
   {
     "id": 32223,
