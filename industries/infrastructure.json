@@ -11041,8 +11041,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c42840d914de4ea4ec78f647bf0db2e93434ca5d.png",
     "website": "https://www.amika.dev/",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Amika is infra to build your software factory.\r\n\r\nWe give your team sandboxed AI coding agents in the cloud: the same infrastructure Ramp, Coinbase, and Stripe built in-house. Kick off work from a web UI, CLI, Slack, or API. Use your preferred coding agent (Claude Code, Codex, etc.). Each agent understands your codebase, runs autonomously, and ships real PRs with live previews of the apps it changed. Use it as your daily driver or plug it into your own code-gen pipeline via API.",
-    "one_liner": "Infra to build your own software factory",
+    "long_description": "Amika slices computers you already own (a spare Mac Mini, a desktop, EC2 in your VPC) into isolated agent devboxes or CI runners, and puts them all on one private network you can reach from anywhere.\r\n\r\nUse Amika to give your agents always-on computers, to offload CI and build to your own machines, or for anything else where you want to run software and agents on your own devices.",
+    "one_liner": "Turn any spare computer into agent devboxes or CI runners",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -13719,7 +13719,7 @@
     "website": "https://www.agent37.com/cloud",
     "all_locations": "New York City, NY, USA",
     "long_description": "* Ready to Use Instantly: Skip the complex server setup. It comes pre loaded with top AI Agents (like Claude Code and Hermes) so your agents can start working immediately.\r\n\r\n* Keep Your Work Safe: Unlike other systems that delete everything when they finish a task, these sandboxes remember your files, code, and settings forever until you delete them.\r\n\r\n* Pay Only for What You Use: Stop paying for idle servers. You pay a tiny fee to store your files, but you only pay for compute power during the exact minutes your AI is actively running.\r\n\r\n* Zero Infrastructure Headaches: You don’t need to be a senior DevOps engineer or manage complex cloud networks. One simple command handles the entire backend for you.\r\n\r\n* Connect to Any App: Allow your AI agents to securely log into and interact with everyday tools like Slack, Gmail, and GitHub in just a few clicks.",
-    "one_liner": "Persistent sandboxes for agents like hermes, openclaw, claude code",
+    "one_liner": "Cloud Sandbox for Agents",
     "team_size": 0,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -14430,5 +14430,43 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/wondersearch",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/wondersearch.json"
+  },
+  {
+    "id": 40140,
+    "name": "Tesser",
+    "slug": "tesser",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/44cedc147f95098824e26f980f27c0f8d621d93b.png",
+    "website": "https://tesser.sh/",
+    "all_locations": "",
+    "long_description": "Tesser is a cloud development runtime that lets developers run multiple dev environments in parallel without overloading their laptops.\r\n\r\nOur CLI moves workloads like servers, builds, tests, and typechecking to isolated cloud machines while developers continue using their existing editors and coding agents. Tesser handles provisioning, networking, and port forwarding. Teams can access each other's environments through our gateway, share live previews, and run Tesser on our infrastructure or their own cloud (BYOC).\r\n",
+    "one_liner": "The modern development runtime",
+    "team_size": 0,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1792979810,
+    "tags": [
+      "Developer Tools"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2027",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tesser",
+    "api": "https://yc-oss.github.io/api/batches/winter-2027/tesser.json"
   }
 ]

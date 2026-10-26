@@ -1,0 +1,569 @@
+{
+  "generated_at": "2026-10-26T02:23:39.664Z",
+  "summary": {
+    "previous_total": 6336,
+    "current_total": 6337,
+    "added": 1,
+    "removed": 0,
+    "updated": 24
+  },
+  "added": [
+    {
+      "id": 40140,
+      "name": "Tesser",
+      "slug": "tesser",
+      "former_names": [],
+      "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/44cedc147f95098824e26f980f27c0f8d621d93b.png",
+      "website": "https://tesser.sh/",
+      "all_locations": "",
+      "long_description": "Tesser is a cloud development runtime that lets developers run multiple dev environments in parallel without overloading their laptops.\r\n\r\nOur CLI moves workloads like servers, builds, tests, and typechecking to isolated cloud machines while developers continue using their existing editors and coding agents. Tesser handles provisioning, networking, and port forwarding. Teams can access each other's environments through our gateway, share live previews, and run Tesser on our infrastructure or their own cloud (BYOC).\r\n",
+      "one_liner": "The modern development runtime",
+      "team_size": 0,
+      "industry": "B2B",
+      "subindustry": "B2B -> Infrastructure",
+      "launched_at": 1792979810,
+      "tags": [
+        "Developer Tools"
+      ],
+      "tags_highlighted": [],
+      "top_company": false,
+      "isHiring": false,
+      "nonprofit": false,
+      "batch": "Winter 2027",
+      "status": "Active",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "regions": [
+        "Unspecified"
+      ],
+      "stage": "Early",
+      "app_video_public": false,
+      "demo_day_video_public": false,
+      "app_answers": null,
+      "question_answers": false,
+      "url": "https://www.ycombinator.com/companies/tesser",
+      "api": "https://yc-oss.github.io/api/batches/winter-2027/tesser.json"
+    }
+  ],
+  "removed": [],
+  "updated": [
+    {
+      "id": 864,
+      "name": "teaBOT",
+      "slug": "teabot",
+      "batch": "Summer 2015",
+      "url": "https://www.ycombinator.com/companies/teabot",
+      "changed_fields": [
+        "regions"
+      ],
+      "changes": {
+        "regions": {
+          "before": [
+            "Canada",
+            "United States of America",
+            "America / Canada",
+            "America / Canada",
+            "Remote",
+            "Partly Remote"
+          ],
+          "after": [
+            "Canada",
+            "United States of America",
+            "America / Canada",
+            "Remote",
+            "Partly Remote"
+          ]
+        }
+      }
+    },
+    {
+      "id": 999,
+      "name": "Focal Systems",
+      "slug": "focal-systems",
+      "batch": "Winter 2016",
+      "url": "https://www.ycombinator.com/companies/focal-systems",
+      "changed_fields": [
+        "regions"
+      ],
+      "changes": {
+        "regions": {
+          "before": [
+            "United States of America",
+            "Canada",
+            "United Kingdom",
+            "America / Canada",
+            "America / Canada",
+            "Europe",
+            "Remote",
+            "Partly Remote"
+          ],
+          "after": [
+            "United States of America",
+            "Canada",
+            "United Kingdom",
+            "America / Canada",
+            "Europe",
+            "Remote",
+            "Partly Remote"
+          ]
+        }
+      }
+    },
+    {
+      "id": 12093,
+      "name": "Dagger",
+      "slug": "dagger",
+      "batch": "Winter 2019",
+      "url": "https://www.ycombinator.com/companies/dagger",
+      "changed_fields": [
+        "stage"
+      ],
+      "changes": {
+        "stage": {
+          "before": "Early",
+          "after": "Growth"
+        }
+      }
+    },
+    {
+      "id": 21914,
+      "name": "Bits",
+      "slug": "bits",
+      "batch": "Summer 2020",
+      "url": "https://www.ycombinator.com/companies/bits",
+      "changed_fields": [
+        "stage",
+        "team_size"
+      ],
+      "changes": {
+        "stage": {
+          "before": "Growth",
+          "after": "Early"
+        },
+        "team_size": {
+          "before": 15,
+          "after": 25
+        }
+      }
+    },
+    {
+      "id": 23957,
+      "name": "Stipop",
+      "slug": "stipop",
+      "batch": "Summer 2021",
+      "url": "https://www.ycombinator.com/companies/stipop",
+      "changed_fields": [
+        "all_locations",
+        "regions"
+      ],
+      "changes": {
+        "all_locations": {
+          "before": "Los Angeles, CA, USA; Santa Monica, CA, USA",
+          "after": "Seoul, Seoul, South Korea; Santa Monica, CA, USA"
+        },
+        "regions": {
+          "before": [
+            "United States of America",
+            "America / Canada"
+          ],
+          "after": [
+            "South Korea",
+            "United States of America",
+            "East Asia",
+            "America / Canada"
+          ]
+        }
+      }
+    },
+    {
+      "id": 25152,
+      "name": "Mederva",
+      "slug": "mederva",
+      "batch": "Winter 2022",
+      "url": "https://www.ycombinator.com/companies/mederva",
+      "changed_fields": [
+        "isHiring"
+      ],
+      "changes": {
+        "isHiring": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "id": 25314,
+      "name": "Trellus",
+      "slug": "trellus",
+      "batch": "Winter 2022",
+      "url": "https://www.ycombinator.com/companies/trellus",
+      "changed_fields": [
+        "long_description",
+        "one_liner",
+        "tags",
+        "team_size"
+      ],
+      "changes": {
+        "long_description": {
+          "before": "Trellus delivers simple coaching prompts to your salespeople in real time as they speak to prospects. Prompts are delivered in response to what is happening in a conversation. The goal of these prompts is to get more reps achieving quota and to reduce the time it takes to start attaining quota.\r\n\r\nPrompts are action-oriented steps toward empathetic listening and effective discovery. Examples include 'pause' (when talking too much), 'set next steps' (when wrapping up a call without them), and 'ask current state' (when encountering objections).\r\n\r\nTrellus is backed by Y Combinator and founded by former MIT researchers.",
+          "after": "Trellus is a Chrome extension that power dials or parallel dials up to five lines inside the CRM or sales engagement platform a sales team already uses, and saves each call's outcome, notes and callback back to the record the rep called from. Reps rehearse objections with AI practice calls, and teams on the Business plan add real-time AI coaching, team analytics and a virtual sales floor. Plans start at $99.99 per seat per month."
+        },
+        "one_liner": {
+          "before": "Real-time sales coach for SDRs ",
+          "after": "Power and parallel dialing with AI coaching, inside your CRM"
+        },
+        "tags": {
+          "before": [
+            "AI-Enhanced Learning",
+            "SaaS",
+            "B2B",
+            "Sales",
+            "AI"
+          ],
+          "after": [
+            "SaaS",
+            "B2B",
+            "Sales",
+            "Sales Enablement",
+            "AI"
+          ]
+        },
+        "team_size": {
+          "before": 3,
+          "after": 8
+        }
+      }
+    },
+    {
+      "id": 26724,
+      "name": "Coupl",
+      "slug": "coupl",
+      "batch": "Summer 2022",
+      "url": "https://www.ycombinator.com/companies/coupl",
+      "changed_fields": [
+        "all_locations"
+      ],
+      "changes": {
+        "all_locations": {
+          "before": "Bengaluru, KA, India",
+          "after": "Mumbai, MH, India"
+        }
+      }
+    },
+    {
+      "id": 29365,
+      "name": "Ellipsis",
+      "slug": "ellipsis",
+      "batch": "Winter 2024",
+      "url": "https://www.ycombinator.com/companies/ellipsis",
+      "changed_fields": [
+        "long_description",
+        "one_liner"
+      ],
+      "changes": {
+        "long_description": {
+          "before": "Ellipsis is a cloud platform that allows engineering teams to deploy fleets of coding agents. Each agent gets an isolated sandbox, scoped permissions, and hard budget caps. Full observability included. Get started with a $100 credit at www.ellipsis.dev.\r\n\r\nYou can deploy agents for feature development, code review, and workflow automation. Creating an agent is simple: simply commit a YAML file to Github. Spawn agents from Github/Linear/Slack/etc., or via a REST API or our CLI. \r\n\r\nOrganizations get full observability and governance of their cloud coding agents.  Agent session logs are downloadable so companies own their own data.\r\n\r\nFull documentation: https://www.ellipsis.dev/docs",
+          "after": "Ellipsis is a Managed Agent Platform for Developers. Spawn, manage, and govern cloud agents for Software Factories, custom Code Review, and Background Tasks. You choose the model, harness, prompts, and tools. We'll handle the infrastructure.\r\n\r\nDocumentation: https://www.ellipsis.dev/docs"
+        },
+        "one_liner": {
+          "before": "Cloud platform for coding agents",
+          "after": "Managed Agent platform "
+        }
+      }
+    },
+    {
+      "id": 29376,
+      "name": "Carma",
+      "slug": "carma",
+      "batch": "Winter 2024",
+      "url": "https://www.ycombinator.com/companies/carma",
+      "changed_fields": [
+        "long_description",
+        "one_liner",
+        "tags"
+      ],
+      "changes": {
+        "long_description": {
+          "before": "Carma is building an AI-native platform that transforms fleet operations from tedious, manual work into effortless, automated workflows.\r\n\r\nWe’re the fastest-growing company in fleet management software. Carma already powers some of the largest fleets in the U.S., saving operations teams thousands of hours by eliminating busywork and keeping vehicles on the road.\r\n\r\nBacked by Soma Capital, Y Combinator, founders of Superhuman, and Tier-1 investors, we are sprinting toward a Series A in 2026.\r\n\r\nWe’re hiring the top 0.1% of engineers who want real ownership and impact—starting Day 1, you’ll build and ship fast to production for enterprise clients. Fleet operations run in real time, so your work is immediately used in the field and gets real customer feedback in hours, not months.",
+          "after": "Carma is the agentic workspace that runs construction operations for profit.\r\n\r\nOur customers are the $100M+ contractors building America’s data centers.\r\n\r\nThe AGI race is a construction race. More than 40% of America’s 2026 data centers are late, and every month of delay is a gift to the CCP. They’re late because contractors still coordinate every jobsite by phone and spreadsheet.\r\n\r\nContractors sell their work at fixed prices, so every hour a crew waits comes out of their margin. One broken machine stops every crew behind it, and the repair invoice shows only a fraction of the cost. The rest lands in idle crews and higher bids on the next job.\r\n\r\nAdam, our AI operator, runs equipment operations for the whole company’s profit. He prices every idle hour, picks the repair with the lowest total cost, audits every bill before it’s paid, reallocates idle machines to the jobs that need them, and tells the company which machines to buy, repair, or sell. Managers approve every cost and Adam handles the coordination in between.\r\n\r\nIn three months, Adam increased operating profit by $4.21M a year for a $500M electrical contracting customer: a 12% increase. Across customers, the time people spend coordinating each repair fell 93%, and equipment downtime fell 30%.\r\n\r\nWe crossed $2M ARR three months after our first invoice, with five enterprise customers and a five-person team. Customers pay annually upfront, so we’re cash-flow positive. Carma sells no parts, rentals, or machines, so Adam’s only incentive is our customer’s profit.\r\n\r\nWhoever builds faster wins. We will make sure it’s America."
+        },
+        "one_liner": {
+          "before": "The AI Operating System For Modern Fleets.",
+          "after": "The agentic workspace that runs construction operations for profit"
+        },
+        "tags": {
+          "before": [
+            "B2B",
+            "Workflow Automation",
+            "Compliance",
+            "AI",
+            "Automotive"
+          ],
+          "after": [
+            "Construction",
+            "Enterprise",
+            "AI"
+          ]
+        }
+      }
+    },
+    {
+      "id": 29477,
+      "name": "Piramidal",
+      "slug": "piramidal",
+      "batch": "Winter 2024",
+      "url": "https://www.ycombinator.com/companies/piramidal",
+      "changed_fields": [
+        "long_description",
+        "one_liner",
+        "small_logo_thumb_url"
+      ],
+      "changes": {
+        "long_description": {
+          "before": "Understand & control neural syntax.",
+          "after": "An API into your mind."
+        },
+        "one_liner": {
+          "before": "Foundation Model for the Brain",
+          "after": "Foundation Models for the Brain"
+        },
+        "small_logo_thumb_url": {
+          "before": "https://bookface-images.s3.amazonaws.com/small_logos/498bf9290381446bf87d93fc0ef2a631960e646a.png",
+          "after": "https://bookface-images.s3.amazonaws.com/small_logos/31f1fadb4293e57afe421f93282f2132834e1777.png"
+        }
+      }
+    },
+    {
+      "id": 30055,
+      "name": "RiskCube",
+      "slug": "riskcube",
+      "batch": "Fall 2024",
+      "url": "https://www.ycombinator.com/companies/riskcube",
+      "changed_fields": [
+        "one_liner"
+      ],
+      "changes": {
+        "one_liner": {
+          "before": "New American insurance company for hard tech, defense & AI.",
+          "after": "Commercial insurance brokerage for startups. "
+        }
+      }
+    },
+    {
+      "id": 30653,
+      "name": "Async",
+      "slug": "withasync",
+      "batch": "Summer 2026",
+      "url": "https://www.ycombinator.com/companies/withasync",
+      "changed_fields": [
+        "long_description",
+        "one_liner"
+      ],
+      "changes": {
+        "long_description": {
+          "before": "Async builds AI agents that run small businesses. Law firms, healthcare clinics and real estate companies hire our AI agents to automate complex work that's never been economical to staff with humans, letting us capture labor spend that didn't previously exist.",
+          "after": "Async builds AI agents that run businesses."
+        },
+        "one_liner": {
+          "before": "AI agents that run small businesses",
+          "after": "AI agents that run businesses"
+        }
+      }
+    },
+    {
+      "id": 30877,
+      "name": "Trelium",
+      "slug": "trelium",
+      "batch": "Fall 2025",
+      "url": "https://www.ycombinator.com/companies/trelium",
+      "changed_fields": [
+        "isHiring"
+      ],
+      "changes": {
+        "isHiring": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "id": 31010,
+      "name": "Amika",
+      "slug": "amika",
+      "batch": "Fall 2025",
+      "url": "https://www.ycombinator.com/companies/amika",
+      "changed_fields": [
+        "long_description",
+        "one_liner"
+      ],
+      "changes": {
+        "long_description": {
+          "before": "Amika is infra to build your software factory.\r\n\r\nWe give your team sandboxed AI coding agents in the cloud: the same infrastructure Ramp, Coinbase, and Stripe built in-house. Kick off work from a web UI, CLI, Slack, or API. Use your preferred coding agent (Claude Code, Codex, etc.). Each agent understands your codebase, runs autonomously, and ships real PRs with live previews of the apps it changed. Use it as your daily driver or plug it into your own code-gen pipeline via API.",
+          "after": "Amika slices computers you already own (a spare Mac Mini, a desktop, EC2 in your VPC) into isolated agent devboxes or CI runners, and puts them all on one private network you can reach from anywhere.\r\n\r\nUse Amika to give your agents always-on computers, to offload CI and build to your own machines, or for anything else where you want to run software and agents on your own devices."
+        },
+        "one_liner": {
+          "before": "Infra to build your own software factory",
+          "after": "Turn any spare computer into agent devboxes or CI runners"
+        }
+      }
+    },
+    {
+      "id": 32782,
+      "name": "Denta",
+      "slug": "denta",
+      "batch": "Summer 2026",
+      "url": "https://www.ycombinator.com/companies/denta",
+      "changed_fields": [
+        "long_description",
+        "one_liner"
+      ],
+      "changes": {
+        "long_description": {
+          "before": "Starting with dental benefits, we are relentlessly simplifying the process for patients to receive better coverage at a lower cost by putting the buying power back into the hand of the individual.",
+          "after": "We are helping patients receive better care at a lower cost by giving buying power to the individual."
+        },
+        "one_liner": {
+          "before": "Fortune 500 Dental Benefits for Startups",
+          "after": "Fortune 500 Dental Benefits"
+        }
+      }
+    },
+    {
+      "id": 34893,
+      "name": "Agent 37",
+      "slug": "agent-37",
+      "batch": "Fall 2026",
+      "url": "https://www.ycombinator.com/companies/agent-37",
+      "changed_fields": [
+        "one_liner"
+      ],
+      "changes": {
+        "one_liner": {
+          "before": "Persistent sandboxes for agents like hermes, openclaw, claude code",
+          "after": "Cloud Sandbox for Agents"
+        }
+      }
+    },
+    {
+      "id": 35025,
+      "name": "Inflection Space Systems",
+      "slug": "inflection-space-systems",
+      "batch": "Fall 2026",
+      "url": "https://www.ycombinator.com/companies/inflection-space-systems",
+      "changed_fields": [
+        "isHiring"
+      ],
+      "changes": {
+        "isHiring": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "id": 35094,
+      "name": "Forward",
+      "slug": "useforward",
+      "batch": "Fall 2026",
+      "url": "https://www.ycombinator.com/companies/useforward",
+      "changed_fields": [
+        "small_logo_thumb_url"
+      ],
+      "changes": {
+        "small_logo_thumb_url": {
+          "before": "https://bookface-images.s3.amazonaws.com/small_logos/717ea600e14829731cf877a194aca957195d9b27.png",
+          "after": "https://bookface-images.s3.amazonaws.com/small_logos/6ed6f18a3f6a1aa7d3729a667c4da28221cda1f6.png"
+        }
+      }
+    },
+    {
+      "id": 35157,
+      "name": "Nitroduck",
+      "slug": "nitroduck",
+      "batch": "Fall 2026",
+      "url": "https://www.ycombinator.com/companies/nitroduck",
+      "changed_fields": [
+        "launched_at"
+      ],
+      "changes": {
+        "launched_at": {
+          "before": 1785947487,
+          "after": 1792787501
+        }
+      }
+    },
+    {
+      "id": 36411,
+      "name": "Vyra",
+      "slug": "vyra",
+      "batch": "Fall 2026",
+      "url": "https://www.ycombinator.com/companies/vyra",
+      "changed_fields": [
+        "one_liner"
+      ],
+      "changes": {
+        "one_liner": {
+          "before": "Autonomous video editing for non-editors.",
+          "after": "Personal video editing agent for shortform content"
+        }
+      }
+    },
+    {
+      "id": 36644,
+      "name": "Vouch",
+      "slug": "vouchwealth",
+      "batch": "Fall 2026",
+      "url": "https://www.ycombinator.com/companies/vouchwealth",
+      "changed_fields": [
+        "tags"
+      ],
+      "changes": {
+        "tags": {
+          "before": [
+            "Fintech",
+            "Consumer Finance"
+          ],
+          "after": [
+            "Fintech",
+            "Consumer",
+            "Consumer Finance"
+          ]
+        }
+      }
+    },
+    {
+      "id": 37272,
+      "name": "The Subvocal Company",
+      "slug": "the-subvocal-company",
+      "batch": "Fall 2026",
+      "url": "https://www.ycombinator.com/companies/the-subvocal-company",
+      "changed_fields": [
+        "small_logo_thumb_url"
+      ],
+      "changes": {
+        "small_logo_thumb_url": {
+          "before": "https://bookface-images.s3.amazonaws.com/small_logos/cacc4ab40596ece6b5c77c3f350ee25ddf5cb079.png",
+          "after": "https://bookface-images.s3.amazonaws.com/small_logos/932b2d47f36f3bce67a23cc2ce77599b9f364edd.png"
+        }
+      }
+    },
+    {
+      "id": 37468,
+      "name": "Ageospatial",
+      "slug": "ageospatial",
+      "batch": "Fall 2026",
+      "url": "https://www.ycombinator.com/companies/ageospatial",
+      "changed_fields": [
+        "small_logo_thumb_url"
+      ],
+      "changes": {
+        "small_logo_thumb_url": {
+          "before": "https://bookface-images.s3.amazonaws.com/small_logos/74f6c9e933a7a4a3c86d3c81c6964ca26989ba26.png",
+          "after": "https://bookface-images.s3.amazonaws.com/small_logos/83235957278f55744117e59eee39de71b5266a09.png"
+        }
+      }
+    }
+  ]
+}

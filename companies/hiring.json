@@ -22879,6 +22879,51 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2022/spot-health.json"
   },
   {
+    "id": 25152,
+    "name": "Mederva",
+    "slug": "mederva",
+    "former_names": [
+      "Mederva Health"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1beab1ed6c93966e61bb46b319be09173e8b5be0.png",
+    "website": "https://medervahealth.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Mederva is bringing AI-enabled healthspan care to primary care. We partner with clinics to turn lifestyle and behavior change into continuous, reimbursed care, extending healthy years of life between visits.",
+    "one_liner": "Longevity for the 99%.",
+    "team_size": 13,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1647802207,
+    "tags": [
+      "Consumer Health Services",
+      "Telehealth",
+      "Digital Health",
+      "Healthcare"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mederva",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/mederva.json"
+  },
+  {
     "id": 25174,
     "name": "GrowthBook",
     "slug": "growthbook",
@@ -38368,8 +38413,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1fa4719de38384c762164e3dcd13cfaa014c5ba3.png",
     "website": "https://ellipsis.dev",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Ellipsis is a cloud platform that allows engineering teams to deploy fleets of coding agents. Each agent gets an isolated sandbox, scoped permissions, and hard budget caps. Full observability included. Get started with a $100 credit at www.ellipsis.dev.\r\n\r\nYou can deploy agents for feature development, code review, and workflow automation. Creating an agent is simple: simply commit a YAML file to Github. Spawn agents from Github/Linear/Slack/etc., or via a REST API or our CLI. \r\n\r\nOrganizations get full observability and governance of their cloud coding agents.  Agent session logs are downloadable so companies own their own data.\r\n\r\nFull documentation: https://www.ellipsis.dev/docs",
-    "one_liner": "Cloud platform for coding agents",
+    "long_description": "Ellipsis is a Managed Agent Platform for Developers. Spawn, manage, and govern cloud agents for Software Factories, custom Code Review, and Background Tasks. You choose the model, harness, prompts, and tools. We'll handle the infrastructure.\r\n\r\nDocumentation: https://www.ellipsis.dev/docs",
+    "one_liner": "Managed Agent platform ",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -38487,18 +38532,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/995749b249373d88528eca173b29dc4d2d8e77da.png",
     "website": "https://www.joincarma.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Carma is building an AI-native platform that transforms fleet operations from tedious, manual work into effortless, automated workflows.\r\n\r\nWe’re the fastest-growing company in fleet management software. Carma already powers some of the largest fleets in the U.S., saving operations teams thousands of hours by eliminating busywork and keeping vehicles on the road.\r\n\r\nBacked by Soma Capital, Y Combinator, founders of Superhuman, and Tier-1 investors, we are sprinting toward a Series A in 2026.\r\n\r\nWe’re hiring the top 0.1% of engineers who want real ownership and impact—starting Day 1, you’ll build and ship fast to production for enterprise clients. Fleet operations run in real time, so your work is immediately used in the field and gets real customer feedback in hours, not months.",
-    "one_liner": "The AI Operating System For Modern Fleets.",
+    "long_description": "Carma is the agentic workspace that runs construction operations for profit.\r\n\r\nOur customers are the $100M+ contractors building America’s data centers.\r\n\r\nThe AGI race is a construction race. More than 40% of America’s 2026 data centers are late, and every month of delay is a gift to the CCP. They’re late because contractors still coordinate every jobsite by phone and spreadsheet.\r\n\r\nContractors sell their work at fixed prices, so every hour a crew waits comes out of their margin. One broken machine stops every crew behind it, and the repair invoice shows only a fraction of the cost. The rest lands in idle crews and higher bids on the next job.\r\n\r\nAdam, our AI operator, runs equipment operations for the whole company’s profit. He prices every idle hour, picks the repair with the lowest total cost, audits every bill before it’s paid, reallocates idle machines to the jobs that need them, and tells the company which machines to buy, repair, or sell. Managers approve every cost and Adam handles the coordination in between.\r\n\r\nIn three months, Adam increased operating profit by $4.21M a year for a $500M electrical contracting customer: a 12% increase. Across customers, the time people spend coordinating each repair fell 93%, and equipment downtime fell 30%.\r\n\r\nWe crossed $2M ARR three months after our first invoice, with five enterprise customers and a five-person team. Customers pay annually upfront, so we’re cash-flow positive. Carma sells no parts, rentals, or machines, so Adam’s only incentive is our customer’s profit.\r\n\r\nWhoever builds faster wins. We will make sure it’s America.",
+    "one_liner": "The agentic workspace that runs construction operations for profit",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1701065445,
     "tags": [
-      "B2B",
-      "Workflow Automation",
-      "Compliance",
-      "AI",
-      "Automotive"
+      "Construction",
+      "Enterprise",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -39815,11 +39858,11 @@
     "former_names": [
       "piramidal.ai"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/498bf9290381446bf87d93fc0ef2a631960e646a.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/31f1fadb4293e57afe421f93282f2132834e1777.png",
     "website": "https://piramidal.ai",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Understand & control neural syntax.",
-    "one_liner": "Foundation Model for the Brain",
+    "long_description": "An API into your mind.",
+    "one_liner": "Foundation Models for the Brain",
     "team_size": 10,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
@@ -55293,51 +55336,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/koyal.json"
   },
   {
-    "id": 30877,
-    "name": "Trelium",
-    "slug": "trelium",
-    "former_names": [
-      "Questom"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4cf7ff003fba8201e539d2872cb8344bd10cf9b4.png",
-    "website": "https://www.trelium.com",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Trelium lets enterprise teams build AI agents in simple English to automate back-office work. We serve companies handling custom and bulk operations, including distributors, suppliers, and decorators across the print, merch, and apparel industries, automating workflows like order entry, purchase order creation, PO-invoice matching, order-status follow-ups, and many more.",
-    "one_liner": "AI Agents for Enterprise Wide Operations",
-    "team_size": 11,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1759277752,
-    "tags": [
-      "B2B",
-      "Workflow Automation",
-      "Enterprise Software",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/trelium",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/trelium.json"
-  },
-  {
     "id": 30879,
     "name": "Hypercubic",
     "slug": "hypercubic",
@@ -62903,8 +62901,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8126dcec05004e9a335df14d0116cf4774a61b06.png",
     "website": "https://denta.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Starting with dental benefits, we are relentlessly simplifying the process for patients to receive better coverage at a lower cost by putting the buying power back into the hand of the individual.",
-    "one_liner": "Fortune 500 Dental Benefits for Startups",
+    "long_description": "We are helping patients receive better care at a lower cost by giving buying power to the individual.",
+    "one_liner": "Fortune 500 Dental Benefits",
     "team_size": 1,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
@@ -63618,6 +63616,49 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/runtimesi.json"
   },
   {
+    "id": 35025,
+    "name": "Inflection Space Systems",
+    "slug": "inflection-space-systems",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9391545f5f098175eca1fe35fba695db3a2e0766.png",
+    "website": "https://inflection-space.com/",
+    "all_locations": "Los Angeles, CA, USA",
+    "long_description": "Inflection is building the industrial capacity to manufacture tens of thousands of spacecraft per year for next generation commercial and government space applications. Imagine a factory that looks like an Amazon fulfillment center instead of a NASA clean room.",
+    "one_liner": "Hyperscaling space manufacturing",
+    "team_size": null,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Aviation and Space",
+    "launched_at": 1789683191,
+    "tags": [
+      "Satellites",
+      "Manufacturing",
+      "Defense"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Aviation and Space"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/inflection-space-systems",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/inflection-space-systems.json"
+  },
+  {
     "id": 35127,
     "name": "Rhem Labs",
     "slug": "rhem-labs",
@@ -63841,7 +63882,7 @@
     "website": "https://usevyra.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Instead of making users learn a timeline, we let them upload footage, describe what they want, and get back a polished edit in minutes.",
-    "one_liner": "Autonomous video editing for non-editors.",
+    "one_liner": "Personal video editing agent for shortform content",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer -> Content",
@@ -63963,7 +64004,7 @@
     "name": "The Subvocal Company",
     "slug": "the-subvocal-company",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cacc4ab40596ece6b5c77c3f350ee25ddf5cb079.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/932b2d47f36f3bce67a23cc2ce77599b9f364edd.png",
     "website": "https://subvocal.company",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We're building a silent speech wearable that lets you talk to your computer at the speed of voice, but silently and completely imperceptibly to everyone around you.",

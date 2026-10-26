@@ -1,117 +1,123 @@
-# YC company changes for 2026-10-25
+# YC company changes for 2026-10-26
 
-- Previous total: 6335
-- Current total: 6336
-- Added: 2
-- Removed: 1
-- Updated: 20
+- Previous total: 6336
+- Current total: 6337
+- Added: 1
+- Removed: 0
+- Updated: 24
 
 ## Added companies
 
-- [Vouch](https://www.ycombinator.com/companies/vouchwealth) (Fall 2026 — The AI wealth manager for every Indian)
-- [Canos](https://www.ycombinator.com/companies/canos) (Fall 2026 — AI-powered blood test to detect cancer in dogs (and cats soon).)
-
-## Removed companies
-
-- [PokerClubHub](https://www.ycombinator.com/companies/pokerclubhub) (Summer 2026 — Host a Poker Club and Make Money)
+- [Tesser](https://www.ycombinator.com/companies/tesser) (Winter 2027 — The modern development runtime)
 
 ## Updated companies
 
-### [Algen Biotechnologies](https://www.ycombinator.com/companies/algen-biotechnologies)
+### [teaBOT](https://www.ycombinator.com/companies/teabot)
 
-- `long_description`: Algen is using CRISPR to uncover disease-driving RNA messages to find treatments for cancer, inflammation and diseases with high unmet needs. We are harnessi... → Algen is using CRISPR to uncover disease-driving RNA messages to find treatments for cancer, inflammation and diseases with high unmet needs. We are harnessi...
-- `team_size`: 15 → 17
+- `regions`: ["Canada","United States of America","America / Canada","America / Canada","Remote","Partly Remote"] → ["Canada","United States of America","America / Canada","Remote","Partly Remote"]
 
-### [Posh](https://www.ycombinator.com/companies/posh)
+### [Focal Systems](https://www.ycombinator.com/companies/focal-systems)
 
-- `long_description`: We are working on rapidly deployable energy storage and power generation solutions for C&I customers, especially in the AI data center space. → Posh develops AI-ready modular data centers at existing, qualified power sites, turning pockets of available power into GPU compute. Gigawatt campuses take t...
-- `one_liner`: Rapidly deployable energy solutions for modern commercial and… → Turning power into AI compute at speed with modular data centers at…
+- `regions`: ["United States of America","Canada","United Kingdom","America / Canada","America / Canada","Europe","Remote","Partly Remote"] → ["United States of America","Canada","United Kingdom","America / Canada","Europe","Remote","Partly Remote"]
 
-### [Peoplebox.ai](https://www.ycombinator.com/companies/peoplebox)
-
-- `long_description`: Peoplebox.ai is an AI-native talent platform used by 500+ companies to hire, manage, and grow their people. At the center is Nova, the world’s most human-lik... → Peoplebox.ai is an AI-native talent platform used by 500+ companies to hire, manage, and grow their people. At the center is Nova, the world’s most human-lik...
-- `team_size`: 35 → 75
-
-### [Baud](https://www.ycombinator.com/companies/baud)
-
-- `team_size`: 3 → 4
-
-### [RiskCube](https://www.ycombinator.com/companies/riskcube)
-
-- `long_description`: Mission: Building insurance products & services focused on lowering the protection gap for the innovation economy on a national and global scale. Today, we o... → Mission: Building insurance products & services focused on lowering the protection gap for the innovation economy on a national and global scale. Today, we o...
-
-### [Origami](https://www.ycombinator.com/companies/origami-2)
-
-- `long_description`: Origami is the first AI that automatically gets customers for you. Enter your domain, and let it start working. Used daily by 10,000+ businesses, Origami get... → Origami is the first AI that automatically gets customers for you. Enter your domain, and let it start working. Used daily by 10,000+ businesses, Origami get...
-
-### [Olive](https://www.ycombinator.com/companies/olive)
+### [Dagger](https://www.ycombinator.com/companies/dagger)
 
 - `stage`: Early → Growth
 
-### [Vassar Robotics](https://www.ycombinator.com/companies/vassar-robotics)
+### [Bits](https://www.ycombinator.com/companies/bits)
 
-- `long_description`: We build home humanoids the practical way—an open, mass-produced developer kit powering a real-home teleop data flywheel to autonomy, giving families back 20... → Vassar Robotics is building gearless robot joints and arms using high-torque transverse-flux motors. Eliminating gearboxes makes robots more precise, reliabl...
-- `one_liner`: Open-source semi-humanoid dev kit → home data → autonomy → 20h/wk → Gearless robot joints for better embodied AI.
-- `team_size`: 3 → 2
+- `stage`: Growth → Early
+- `team_size`: 15 → 25
 
-### [Nessie](https://www.ycombinator.com/companies/nessie)
+### [Stipop](https://www.ycombinator.com/companies/stipop)
 
-- `one_liner`: The shared context layer for recursive companies - your work, your… → The shared context layer for recursive companies.
+- `all_locations`: Los Angeles, CA, USA; Santa Monica, CA, USA → Seoul, Seoul, South Korea; Santa Monica, CA, USA
+- `regions`: ["United States of America","America / Canada"] → ["South Korea","United States of America","East Asia","America / Canada"]
 
-### [Casey](https://www.ycombinator.com/companies/casey)
-
-- `isHiring`: true → false
-
-### [Dreach](https://www.ycombinator.com/companies/dreach)
-
-- `one_liner`: staffing firms with dreach grow revenue faster. → staffing firms with dreach know before they hire.
-
-### [AGI Deploy Co](https://www.ycombinator.com/companies/agi-deploy-co)
-
-- `api`: https://yc-oss.github.io/api/batches/spring-2026/mount.json → https://yc-oss.github.io/api/batches/spring-2026/agi-deploy-co.json
-- `former_names`: ["Cybe"] → ["Cybe","Mount"]
-- `industries`: ["Fintech","Insurance"] → ["B2B","Operations"]
-- `industry`: Fintech → B2B
-- `long_description`: TLDR: Mount is building the AI insurance carrier, starting with liability coverage for deployed AI agents. As everyone moves AI Agents into production and gi... → We rebuild the companies that are most critical to our economy and hardest to displace around general intelligence.
-- `name`: Mount → AGI Deploy Co
-- `one_liner`: The AI Agent Insurance Carrier → Diffusing AI into critical industries
-- `slug`: mount → agi-deploy-co
-- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/fa5208859312a795f7e72dfb9eb2a5149785a216.png → https://bookface-images.s3.amazonaws.com/small_logos/f2b58875705e5d8f04a9d448eaeb56170a6b9785.png
-- `subindustry`: Fintech -> Insurance → B2B -> Operations
-- `tags`: [] → ["Health Tech","Healthcare","Health & Wellness","AI"]
-- `url`: https://www.ycombinator.com/companies/mount → https://www.ycombinator.com/companies/agi-deploy-co
-- `website`: https://mount.insure → https://agideploy.co
-
-### [tday.com](https://www.ycombinator.com/companies/tdaycom)
-
-- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/3757196228dee380b044009d7e4a7d8ebc8d7894.png → https://bookface-images.s3.amazonaws.com/small_logos/c8df062c9a1b77cc6ec53fabfaa7f2f047434c52.png
-
-### [BioStack Platforms](https://www.ycombinator.com/companies/biostack-platforms)
-
-- `team_size`: 10 → 11
-
-### [Fire Wallet](https://www.ycombinator.com/companies/fire-wallet)
-
-- `long_description`: 🔥FIRE WALLET 🔥 https://www.youtube.com/watch?v=JeXDDegwhgA TL;DR: Fire Wallet is a fast, end-to-end encrypted, non-custodial stablecoin wallet with built-i... → 🔥FIRE WALLET 🔥 https://www.youtube.com/watch?v=JeXDDegwhgA TL;DR: Fire Wallet is a fast, end-to-end encrypted, non-custodial stablecoin wallet with built-i...
-
-### [Audun](https://www.ycombinator.com/companies/audun)
+### [Mederva](https://www.ycombinator.com/companies/mederva)
 
 - `isHiring`: false → true
 
-### [Bryel](https://www.ycombinator.com/companies/bryel)
+### [Trellus](https://www.ycombinator.com/companies/trellus)
 
-- `one_liner`: Perceptual reasoning models that are easily customizable → Building the next generation of visual perceptual intelligence
+- `long_description`: Trellus delivers simple coaching prompts to your salespeople in real time as they speak to prospects. Prompts are delivered in response to what is happening ... → Trellus is a Chrome extension that power dials or parallel dials up to five lines inside the CRM or sales engagement platform a sales team already uses, and ...
+- `one_liner`: Real-time sales coach for SDRs → Power and parallel dialing with AI coaching, inside your CRM
+- `tags`: ["AI-Enhanced Learning","SaaS","B2B","Sales","AI"] → ["SaaS","B2B","Sales","Sales Enablement","AI"]
+- `team_size`: 3 → 8
 
-### [Vexo](https://www.ycombinator.com/companies/vexo)
+### [Coupl](https://www.ycombinator.com/companies/coupl)
 
-- `long_description`: Every AI today waits for a prompt. Vexo already has the context: the restaurant a friend mentioned, the intro you promised, the idea you had on a walk. It tu... → Vexo is an Always listening AI bracelet. that remembers everything you say and hooks up to your existing AI agents that you can control from your wrist.
-- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/16f5a22fcf5a6680c6393b3e9a8d4a4c477c2f10.png → https://bookface-images.s3.amazonaws.com/small_logos/4ccc1a7fb19ab15125c649c10eac42aa5856ed4e.png
+- `all_locations`: Bengaluru, KA, India → Mumbai, MH, India
 
-### [Composal](https://www.ycombinator.com/companies/composal)
+### [Ellipsis](https://www.ycombinator.com/companies/ellipsis)
 
-- `website`: https://composal.ai → https://composal.com
+- `long_description`: Ellipsis is a cloud platform that allows engineering teams to deploy fleets of coding agents. Each agent gets an isolated sandbox, scoped permissions, and ha... → Ellipsis is a Managed Agent Platform for Developers. Spawn, manage, and govern cloud agents for Software Factories, custom Code Review, and Background Tasks....
+- `one_liner`: Cloud platform for coding agents → Managed Agent platform
 
-### [Terse](https://www.ycombinator.com/companies/useterse)
+### [Carma](https://www.ycombinator.com/companies/carma)
 
-- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/21712c0189bc22ccc5e9bfeb15e67a527077b8f7.png → https://bookface-images.s3.amazonaws.com/small_logos/cd6be2cf6a34817d94716dd43cba7de917787b78.png
+- `long_description`: Carma is building an AI-native platform that transforms fleet operations from tedious, manual work into effortless, automated workflows. We’re the fastest-gr... → Carma is the agentic workspace that runs construction operations for profit. Our customers are the $100M+ contractors building America’s data centers. The AG...
+- `one_liner`: The AI Operating System For Modern Fleets. → The agentic workspace that runs construction operations for profit
+- `tags`: ["B2B","Workflow Automation","Compliance","AI","Automotive"] → ["Construction","Enterprise","AI"]
+
+### [Piramidal](https://www.ycombinator.com/companies/piramidal)
+
+- `long_description`: Understand & control neural syntax. → An API into your mind.
+- `one_liner`: Foundation Model for the Brain → Foundation Models for the Brain
+- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/498bf9290381446bf87d93fc0ef2a631960e646a.png → https://bookface-images.s3.amazonaws.com/small_logos/31f1fadb4293e57afe421f93282f2132834e1777.png
+
+### [RiskCube](https://www.ycombinator.com/companies/riskcube)
+
+- `one_liner`: New American insurance company for hard tech, defense & AI. → Commercial insurance brokerage for startups.
+
+### [Async](https://www.ycombinator.com/companies/withasync)
+
+- `long_description`: Async builds AI agents that run small businesses. Law firms, healthcare clinics and real estate companies hire our AI agents to automate complex work that's ... → Async builds AI agents that run businesses.
+- `one_liner`: AI agents that run small businesses → AI agents that run businesses
+
+### [Trelium](https://www.ycombinator.com/companies/trelium)
+
+- `isHiring`: true → false
+
+### [Amika](https://www.ycombinator.com/companies/amika)
+
+- `long_description`: Amika is infra to build your software factory. We give your team sandboxed AI coding agents in the cloud: the same infrastructure Ramp, Coinbase, and Stripe ... → Amika slices computers you already own (a spare Mac Mini, a desktop, EC2 in your VPC) into isolated agent devboxes or CI runners, and puts them all on one pr...
+- `one_liner`: Infra to build your own software factory → Turn any spare computer into agent devboxes or CI runners
+
+### [Denta](https://www.ycombinator.com/companies/denta)
+
+- `long_description`: Starting with dental benefits, we are relentlessly simplifying the process for patients to receive better coverage at a lower cost by putting the buying powe... → We are helping patients receive better care at a lower cost by giving buying power to the individual.
+- `one_liner`: Fortune 500 Dental Benefits for Startups → Fortune 500 Dental Benefits
+
+### [Agent 37](https://www.ycombinator.com/companies/agent-37)
+
+- `one_liner`: Persistent sandboxes for agents like hermes, openclaw, claude code → Cloud Sandbox for Agents
+
+### [Inflection Space Systems](https://www.ycombinator.com/companies/inflection-space-systems)
+
+- `isHiring`: false → true
+
+### [Forward](https://www.ycombinator.com/companies/useforward)
+
+- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/717ea600e14829731cf877a194aca957195d9b27.png → https://bookface-images.s3.amazonaws.com/small_logos/6ed6f18a3f6a1aa7d3729a667c4da28221cda1f6.png
+
+### [Nitroduck](https://www.ycombinator.com/companies/nitroduck)
+
+- `launched_at`: 1785947487 → 1792787501
+
+### [Vyra](https://www.ycombinator.com/companies/vyra)
+
+- `one_liner`: Autonomous video editing for non-editors. → Personal video editing agent for shortform content
+
+### [Vouch](https://www.ycombinator.com/companies/vouchwealth)
+
+- `tags`: ["Fintech","Consumer Finance"] → ["Fintech","Consumer","Consumer Finance"]
+
+### [The Subvocal Company](https://www.ycombinator.com/companies/the-subvocal-company)
+
+- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/cacc4ab40596ece6b5c77c3f350ee25ddf5cb079.png → https://bookface-images.s3.amazonaws.com/small_logos/932b2d47f36f3bce67a23cc2ce77599b9f364edd.png
+
+### [Ageospatial](https://www.ycombinator.com/companies/ageospatial)
+
+- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/74f6c9e933a7a4a3c86d3c81c6964ca26989ba26.png → https://bookface-images.s3.amazonaws.com/small_logos/83235957278f55744117e59eee39de71b5266a09.png
 
