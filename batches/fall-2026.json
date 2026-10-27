@@ -43,6 +43,50 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/tire-swing.json"
   },
   {
+    "id": 31198,
+    "name": "Wingman Law",
+    "slug": "wingman-law",
+    "former_names": [
+      "Haven Law",
+      "Helios Law"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2127606306fa68c80f746873e01b87bbfb011128.png",
+    "website": "https://www.wingmanlaw.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Wingman Law is an AI-native personal injury law firm. Attorneys lead a team of AI agents to recover compensation for people injured in accidents. We are solving the human bottle neck in personal injury. \r\n\r\n",
+    "one_liner": "AI-native personal injury law firm",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1764179577,
+    "tags": [
+      "Generative AI",
+      "Legal",
+      "LegalTech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/wingman-law",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/wingman-law.json"
+  },
+  {
     "id": 31318,
     "name": "Databuddy",
     "slug": "databuddy",
@@ -172,11 +216,11 @@
     "name": "ClaimKit",
     "slug": "claimkit",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3fc859869ec0d44cca04573f4fc8c9c6680e3a6c.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b90bb870bed1955c5ae08362040a4b0a5beed802.png",
     "website": "https://claimkit.co/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "AI-native professional services agency ",
+    "one_liner": "AI-native tax firm",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -640,6 +684,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lyon",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/lyon.json"
+  },
+  {
+    "id": 32197,
+    "name": "Evident Machines",
+    "slug": "evident-machines",
+    "former_names": [
+      "Buildbox"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/295be512801662b8dbfc7a0247cb6e74b367b70c.png",
+    "website": "https://evidentmachines.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Evident Machines builds benchmarks for frontier AI in electrical engineering. We turn real research and engineering projects into evaluations grounded in computation, simulation, and physical experimentation. Our work helps frontier labs understand how models exercise scientific judgment and develop the capabilities needed to carry out research in the physical world.",
+    "one_liner": "Real-world benchmarks for electrical engineering",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1785235599,
+    "tags": [
+      "Hardware",
+      "Machine Learning",
+      "Robotics",
+      "Electronics",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/evident-machines",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/evident-machines.json"
   },
   {
     "id": 32286,
@@ -1707,7 +1795,6 @@
     "subindustry": "Industrials",
     "launched_at": 1789851118,
     "tags": [
-      "Robotics",
       "B2B",
       "Manufacturing",
       "Enterprise Software",
@@ -2623,21 +2710,23 @@
   },
   {
     "id": 35260,
-    "name": "OnePatch",
-    "slug": "onepatch",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7832df887d718a7dbfbcec376ef2b160c31b16da.png",
-    "website": "https://onepatch.dev",
+    "name": "OpenCrawl",
+    "slug": "opencrawl",
+    "former_names": [
+      "OnePatch"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9596390d36aa4aa0fc71e53dba1dc5db18a89293.png",
+    "website": "https://getopencrawl.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "OnePatch is a forward-deployed AI SRE. It instruments your services, watches how they actually behave in prod, catches incidents, and drives each one to resolution. Think Datadog, except it doesn't stop at telling you something broke: it keeps going until the fix is shipped.",
-    "one_liner": "Automate on-call at agent-scale.",
+    "long_description": "OpenCrawl lets agents search over hard-to-find multimodal data.\r\nAgents describe the data they need; OpenCrawl finds the sources, then builds and hosts custom crawlers, processing and search indexes. Each index is tuned to be the fastest, most accurate search over that data. Developers wire it into their products through MCP, CLI or API. Teams use it to find answers across their own files, tools and legacy systems.",
+    "one_liner": "Search infrastructure, built for your agents.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1788469833,
     "tags": [
-      "DevOps",
-      "Automation",
+      "Data Engineering",
+      "Search",
       "AI"
     ],
     "tags_highlighted": [],
@@ -2659,8 +2748,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/onepatch",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/onepatch.json"
+    "url": "https://www.ycombinator.com/companies/opencrawl",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/opencrawl.json"
   },
   {
     "id": 35261,
@@ -3743,6 +3832,55 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/orca-aerospace.json"
   },
   {
+    "id": 35553,
+    "name": "0.security",
+    "slug": "0security",
+    "former_names": [
+      "0sec Labs",
+      "0sec",
+      "0sec Labs",
+      "0sec",
+      "0security"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4a356af2535effc85a23e22046de196453243ce.png",
+    "website": "https://0.security",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "0.security is an applied AI research lab helping developers, AI-native startups, growing teams, and enterprises to continuously find & fix security risks 24/7.\r\n\r\nOur autonomous cybersecurity team has found & fixed previously unknown vulnerabilities in operating systems, government code and software powering more than 3 billion devices.\r\n\r\nWe work with EY, big pharma, financial services, AI-native startups and defense organisations to secure systems at the pace & depth needed to defend against AI-powered attackers.",
+    "one_liner": "The autonomous cybersecurity team",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1793060379,
+    "tags": [
+      "B2B",
+      "Open Source",
+      "Cybersecurity",
+      "Enterprise",
+      "Defense"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/0security",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/0security.json"
+  },
+  {
     "id": 35587,
     "name": "Ploid",
     "slug": "ploid",
@@ -4334,24 +4472,25 @@
   },
   {
     "id": 36088,
-    "name": "OpenSEO",
-    "slug": "openseo",
+    "name": "EveryApp",
+    "slug": "everyapp",
     "former_names": [
-      "Every App"
+      "Every App",
+      "OpenSEO"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4748ea4cce3f5b77e3f8a5d77e2720edaffb5983.png",
-    "website": "https://openseo.so/",
-    "all_locations": "Boston, MA, USA",
-    "long_description": "Connect to your AI Agent in 2 minutes.\r\n\r\nGet expert level advice tailored to your business backed by real data like keyword search traffic, backlinks, and technical audits of your site.\r\n\r\nHere are some good skills to start with:\r\n\r\n/seo-audit What 1-2 changes to your website will drive more traffic?\r\n/keyword-research Find topics worth writing about?\r\n/competitor-analysis Understand your competitors’ SEO strategy.",
-    "one_liner": "Open source alternative to Semrush and Ahrefs",
+    "website": "https://everyapp.com",
+    "all_locations": "",
+    "long_description": "EveryApp is building open source alternatives to every SaaS. It’s a platform to host these open source apps and personal software. Everything runs behind one secure sign-in in your own Cloudflare account.",
+    "one_liner": "Make every app open source",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
+    "subindustry": "B2B",
     "launched_at": 1790725906,
     "tags": [
+      "Developer Tools",
       "Open Source",
-      "Marketing",
-      "SEO"
+      "Marketing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4360,12 +4499,9 @@
     "batch": "Fall 2026",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Marketing"
+      "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -4374,8 +4510,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/openseo",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/openseo.json"
+    "url": "https://www.ycombinator.com/companies/everyapp",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/everyapp.json"
   },
   {
     "id": 36114,
@@ -5829,6 +5965,46 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/clean.json"
   },
   {
+    "id": 37170,
+    "name": "Blinka",
+    "slug": "blinka",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b085876c74a1777f6976de94c51ed667db1b832.png",
+    "website": "https://blinka.co",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Blinka is banking for US companies operating globally.\r\n\r\nOur customers incorporate in the US but run their operations, teams, and vendors from other countries. They use Blinka as their primary operating account.\r\n\r\nWith Blinka, companies can:\r\n\r\n- Open a USD business account without being in the US.\r\n- Send money abroad without the usual 4–5% FX fees.\r\n- Earn yield on treasuries.\r\n- Issue global corporate cards with 1.5% cash back and 0 international fees.\r\n- Manage their financial operations with our AI tools.",
+    "one_liner": "Banking for US companies operating globally",
+    "team_size": 0,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Banking and Exchange",
+    "launched_at": 1793035530,
+    "tags": [
+      "Fintech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Banking and Exchange"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/blinka",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/blinka.json"
+  },
+  {
     "id": 37203,
     "name": "Volaren Inc.",
     "slug": "volaren-inc",
@@ -7002,7 +7178,7 @@
     "website": "https://www.spm.fun",
     "all_locations": "Pittsburgh, PA, USA",
     "long_description": "We started off building the highest performance, 470 volt electric off-road vehicles but we realized our ultra power dense battery packs are useful for mobile and stationary energy storage and power export, for military and consumer use cases. We develop battery packs, power electronics, and traction powertrain systems for vehicles.\r\n\r\nFor the majority of 2026 we were marketing our electric off-road vehicles, but we pivoted to selling our high performance battery packs and power export capabilities in the month of September. We went from having $769,000 in consumer pre-orders (possibly low conversion rate to sales) to $421,815 in realized revenue in 1 month, with a $792,000 qualified pipeline. \r\n\r\nOur tech is so compelling because the safety and layout of high voltage battery packs has only been mastered by large, well funded OEM companies who have brought it in-house. That means all other companies without the in-house expertise rely on battery companies to develop packs, and power electronics companies to develop power export capabilities. SPM has both of those capabilities in-house so we can ensure a fast turnaround and much more reliable product. \r\n\r\nOne of the biggest priorities of the department of war is energy dominance. We're seeing it constantly in new solicitations. Our strategy is superior - become a prime, but simultaneously service primes because most of then don't actually have the battery and power electronics expertise we have.\r\n\r\nFounded by Jon Powers - Ex-Tesla Sr. Mechanical Integration Engineer leading Cybertruck vehicle integration. ",
-    "one_liner": "Modular battery packs for mobility/vehicles",
+    "one_liner": "The highest performance modular battery packs for mobility/vehicles",
     "team_size": 4,
     "industry": "Industrials",
     "subindustry": "Industrials -> Defense",

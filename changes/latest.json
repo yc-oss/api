@@ -1,122 +1,215 @@
 {
-  "generated_at": "2026-10-26T02:23:39.664Z",
+  "generated_at": "2026-10-27T02:58:49.530Z",
   "summary": {
-    "previous_total": 6336,
-    "current_total": 6337,
-    "added": 1,
+    "previous_total": 6337,
+    "current_total": 6341,
+    "added": 4,
     "removed": 0,
-    "updated": 24
+    "updated": 38
   },
   "added": [
     {
-      "id": 40140,
-      "name": "Tesser",
-      "slug": "tesser",
-      "former_names": [],
-      "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/44cedc147f95098824e26f980f27c0f8d621d93b.png",
-      "website": "https://tesser.sh/",
-      "all_locations": "",
-      "long_description": "Tesser is a cloud development runtime that lets developers run multiple dev environments in parallel without overloading their laptops.\r\n\r\nOur CLI moves workloads like servers, builds, tests, and typechecking to isolated cloud machines while developers continue using their existing editors and coding agents. Tesser handles provisioning, networking, and port forwarding. Teams can access each other's environments through our gateway, share live previews, and run Tesser on our infrastructure or their own cloud (BYOC).\r\n",
-      "one_liner": "The modern development runtime",
-      "team_size": 0,
+      "id": 31198,
+      "name": "Wingman Law",
+      "slug": "wingman-law",
+      "former_names": [
+        "Haven Law",
+        "Helios Law"
+      ],
+      "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2127606306fa68c80f746873e01b87bbfb011128.png",
+      "website": "https://www.wingmanlaw.com",
+      "all_locations": "San Francisco, CA, USA",
+      "long_description": "Wingman Law is an AI-native personal injury law firm. Attorneys lead a team of AI agents to recover compensation for people injured in accidents. We are solving the human bottle neck in personal injury. \r\n\r\n",
+      "one_liner": "AI-native personal injury law firm",
+      "team_size": 2,
       "industry": "B2B",
-      "subindustry": "B2B -> Infrastructure",
-      "launched_at": 1792979810,
+      "subindustry": "B2B -> Legal",
+      "launched_at": 1764179577,
       "tags": [
-        "Developer Tools"
+        "Generative AI",
+        "Legal",
+        "LegalTech"
       ],
       "tags_highlighted": [],
       "top_company": false,
       "isHiring": false,
       "nonprofit": false,
-      "batch": "Winter 2027",
+      "batch": "Fall 2026",
       "status": "Active",
       "industries": [
         "B2B",
-        "Infrastructure"
+        "Legal"
       ],
       "regions": [
-        "Unspecified"
+        "United States of America",
+        "America / Canada"
       ],
       "stage": "Early",
       "app_video_public": false,
       "demo_day_video_public": false,
       "app_answers": null,
       "question_answers": false,
-      "url": "https://www.ycombinator.com/companies/tesser",
-      "api": "https://yc-oss.github.io/api/batches/winter-2027/tesser.json"
+      "url": "https://www.ycombinator.com/companies/wingman-law",
+      "api": "https://yc-oss.github.io/api/batches/fall-2026/wingman-law.json"
+    },
+    {
+      "id": 32197,
+      "name": "Evident Machines",
+      "slug": "evident-machines",
+      "former_names": [
+        "Buildbox"
+      ],
+      "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/295be512801662b8dbfc7a0247cb6e74b367b70c.png",
+      "website": "https://evidentmachines.com/",
+      "all_locations": "San Francisco, CA, USA",
+      "long_description": "Evident Machines builds benchmarks for frontier AI in electrical engineering. We turn real research and engineering projects into evaluations grounded in computation, simulation, and physical experimentation. Our work helps frontier labs understand how models exercise scientific judgment and develop the capabilities needed to carry out research in the physical world.",
+      "one_liner": "Real-world benchmarks for electrical engineering",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B",
+      "launched_at": 1785235599,
+      "tags": [
+        "Hardware",
+        "Machine Learning",
+        "Robotics",
+        "Electronics",
+        "AI"
+      ],
+      "tags_highlighted": [],
+      "top_company": false,
+      "isHiring": false,
+      "nonprofit": false,
+      "batch": "Fall 2026",
+      "status": "Active",
+      "industries": [
+        "B2B"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "stage": "Early",
+      "app_video_public": false,
+      "demo_day_video_public": false,
+      "app_answers": null,
+      "question_answers": false,
+      "url": "https://www.ycombinator.com/companies/evident-machines",
+      "api": "https://yc-oss.github.io/api/batches/fall-2026/evident-machines.json"
+    },
+    {
+      "id": 35553,
+      "name": "0.security",
+      "slug": "0security",
+      "former_names": [
+        "0sec Labs",
+        "0sec",
+        "0sec Labs",
+        "0sec",
+        "0security"
+      ],
+      "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4a356af2535effc85a23e22046de196453243ce.png",
+      "website": "https://0.security",
+      "all_locations": "San Francisco, CA, USA",
+      "long_description": "0.security is an applied AI research lab helping developers, AI-native startups, growing teams, and enterprises to continuously find & fix security risks 24/7.\r\n\r\nOur autonomous cybersecurity team has found & fixed previously unknown vulnerabilities in operating systems, government code and software powering more than 3 billion devices.\r\n\r\nWe work with EY, big pharma, financial services, AI-native startups and defense organisations to secure systems at the pace & depth needed to defend against AI-powered attackers.",
+      "one_liner": "The autonomous cybersecurity team",
+      "team_size": 2,
+      "industry": "B2B",
+      "subindustry": "B2B -> Security",
+      "launched_at": 1793060379,
+      "tags": [
+        "B2B",
+        "Open Source",
+        "Cybersecurity",
+        "Enterprise",
+        "Defense"
+      ],
+      "tags_highlighted": [],
+      "top_company": false,
+      "isHiring": false,
+      "nonprofit": false,
+      "batch": "Fall 2026",
+      "status": "Active",
+      "industries": [
+        "B2B",
+        "Security"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "stage": "Early",
+      "app_video_public": false,
+      "demo_day_video_public": false,
+      "app_answers": null,
+      "question_answers": false,
+      "url": "https://www.ycombinator.com/companies/0security",
+      "api": "https://yc-oss.github.io/api/batches/fall-2026/0security.json"
+    },
+    {
+      "id": 37170,
+      "name": "Blinka",
+      "slug": "blinka",
+      "former_names": [],
+      "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b085876c74a1777f6976de94c51ed667db1b832.png",
+      "website": "https://blinka.co",
+      "all_locations": "San Francisco, CA, USA",
+      "long_description": "Blinka is banking for US companies operating globally.\r\n\r\nOur customers incorporate in the US but run their operations, teams, and vendors from other countries. They use Blinka as their primary operating account.\r\n\r\nWith Blinka, companies can:\r\n\r\n- Open a USD business account without being in the US.\r\n- Send money abroad without the usual 4–5% FX fees.\r\n- Earn yield on treasuries.\r\n- Issue global corporate cards with 1.5% cash back and 0 international fees.\r\n- Manage their financial operations with our AI tools.",
+      "one_liner": "Banking for US companies operating globally",
+      "team_size": 0,
+      "industry": "Fintech",
+      "subindustry": "Fintech -> Banking and Exchange",
+      "launched_at": 1793035530,
+      "tags": [
+        "Fintech",
+        "AI"
+      ],
+      "tags_highlighted": [],
+      "top_company": false,
+      "isHiring": false,
+      "nonprofit": false,
+      "batch": "Fall 2026",
+      "status": "Active",
+      "industries": [
+        "Fintech",
+        "Banking and Exchange"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "stage": "Early",
+      "app_video_public": false,
+      "demo_day_video_public": false,
+      "app_answers": null,
+      "question_answers": false,
+      "url": "https://www.ycombinator.com/companies/blinka",
+      "api": "https://yc-oss.github.io/api/batches/fall-2026/blinka.json"
     }
   ],
   "removed": [],
   "updated": [
     {
-      "id": 864,
-      "name": "teaBOT",
-      "slug": "teabot",
-      "batch": "Summer 2015",
-      "url": "https://www.ycombinator.com/companies/teabot",
-      "changed_fields": [
-        "regions"
-      ],
-      "changes": {
-        "regions": {
-          "before": [
-            "Canada",
-            "United States of America",
-            "America / Canada",
-            "America / Canada",
-            "Remote",
-            "Partly Remote"
-          ],
-          "after": [
-            "Canada",
-            "United States of America",
-            "America / Canada",
-            "Remote",
-            "Partly Remote"
-          ]
-        }
-      }
-    },
-    {
-      "id": 999,
-      "name": "Focal Systems",
-      "slug": "focal-systems",
-      "batch": "Winter 2016",
-      "url": "https://www.ycombinator.com/companies/focal-systems",
-      "changed_fields": [
-        "regions"
-      ],
-      "changes": {
-        "regions": {
-          "before": [
-            "United States of America",
-            "Canada",
-            "United Kingdom",
-            "America / Canada",
-            "America / Canada",
-            "Europe",
-            "Remote",
-            "Partly Remote"
-          ],
-          "after": [
-            "United States of America",
-            "Canada",
-            "United Kingdom",
-            "America / Canada",
-            "Europe",
-            "Remote",
-            "Partly Remote"
-          ]
-        }
-      }
-    },
-    {
-      "id": 12093,
-      "name": "Dagger",
-      "slug": "dagger",
+      "id": 12278,
+      "name": "Verto",
+      "slug": "verto",
       "batch": "Winter 2019",
-      "url": "https://www.ycombinator.com/companies/dagger",
+      "url": "https://www.ycombinator.com/companies/verto",
+      "changed_fields": [
+        "isHiring"
+      ],
+      "changes": {
+        "isHiring": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "id": 21914,
+      "name": "Bits",
+      "slug": "bits",
+      "batch": "Summer 2020",
+      "url": "https://www.ycombinator.com/companies/bits",
       "changed_fields": [
         "stage"
       ],
@@ -128,61 +221,11 @@
       }
     },
     {
-      "id": 21914,
-      "name": "Bits",
-      "slug": "bits",
+      "id": 22077,
+      "name": "Akiflow",
+      "slug": "akiflow",
       "batch": "Summer 2020",
-      "url": "https://www.ycombinator.com/companies/bits",
-      "changed_fields": [
-        "stage",
-        "team_size"
-      ],
-      "changes": {
-        "stage": {
-          "before": "Growth",
-          "after": "Early"
-        },
-        "team_size": {
-          "before": 15,
-          "after": 25
-        }
-      }
-    },
-    {
-      "id": 23957,
-      "name": "Stipop",
-      "slug": "stipop",
-      "batch": "Summer 2021",
-      "url": "https://www.ycombinator.com/companies/stipop",
-      "changed_fields": [
-        "all_locations",
-        "regions"
-      ],
-      "changes": {
-        "all_locations": {
-          "before": "Los Angeles, CA, USA; Santa Monica, CA, USA",
-          "after": "Seoul, Seoul, South Korea; Santa Monica, CA, USA"
-        },
-        "regions": {
-          "before": [
-            "United States of America",
-            "America / Canada"
-          ],
-          "after": [
-            "South Korea",
-            "United States of America",
-            "East Asia",
-            "America / Canada"
-          ]
-        }
-      }
-    },
-    {
-      "id": 25152,
-      "name": "Mederva",
-      "slug": "mederva",
-      "batch": "Winter 2022",
-      "url": "https://www.ycombinator.com/companies/mederva",
+      "url": "https://www.ycombinator.com/companies/akiflow",
       "changed_fields": [
         "isHiring"
       ],
@@ -194,11 +237,278 @@
       }
     },
     {
-      "id": 25314,
-      "name": "Trellus",
-      "slug": "trellus",
-      "batch": "Winter 2022",
-      "url": "https://www.ycombinator.com/companies/trellus",
+      "id": 23048,
+      "name": "Stoke Space",
+      "slug": "stoke-space",
+      "batch": "Winter 2021",
+      "url": "https://www.ycombinator.com/companies/stoke-space",
+      "changed_fields": [
+        "stage"
+      ],
+      "changes": {
+        "stage": {
+          "before": "Growth",
+          "after": "Early"
+        }
+      }
+    },
+    {
+      "id": 24258,
+      "name": "Enerjazz",
+      "slug": "enerjazz",
+      "batch": "Summer 2021",
+      "url": "https://www.ycombinator.com/companies/enerjazz",
+      "changed_fields": [
+        "all_locations",
+        "regions"
+      ],
+      "changes": {
+        "all_locations": {
+          "before": "Berlin, Berlin, Germany; Delhi, DL, India",
+          "after": "San Francisco, CA, USA; Delhi, DL, India"
+        },
+        "regions": {
+          "before": [
+            "Germany",
+            "India",
+            "Europe",
+            "South Asia"
+          ],
+          "after": [
+            "United States of America",
+            "India",
+            "America / Canada",
+            "South Asia"
+          ]
+        }
+      }
+    },
+    {
+      "id": 26810,
+      "name": "Terraferma",
+      "slug": "terraferma",
+      "batch": "Summer 2022",
+      "url": "https://www.ycombinator.com/companies/terraferma",
+      "changed_fields": [
+        "api",
+        "former_names",
+        "industries",
+        "industry",
+        "long_description",
+        "name",
+        "one_liner",
+        "slug",
+        "small_logo_thumb_url",
+        "subindustry",
+        "tags",
+        "url",
+        "website"
+      ],
+      "changes": {
+        "api": {
+          "before": "https://yc-oss.github.io/api/batches/summer-2022/ten-lives.json",
+          "after": "https://yc-oss.github.io/api/batches/summer-2022/terraferma.json"
+        },
+        "former_names": {
+          "before": [
+            "Terraferma Foods"
+          ],
+          "after": [
+            "Terraferma Foods",
+            "Ten Lives"
+          ]
+        },
+        "industries": {
+          "before": [
+            "Consumer",
+            "Food and Beverage"
+          ],
+          "after": [
+            "Industrials",
+            "Manufacturing and Robotics"
+          ]
+        },
+        "industry": {
+          "before": "Consumer",
+          "after": "Industrials"
+        },
+        "long_description": {
+          "before": "We optimize microbial factories to produce proteins at the lowest possible cost and environmental impact. Our mission is to make sustainable protein sources a cost-viable alternative, for all members of the family.",
+          "after": "Terraferma's high-titer platform bridges the gap between computational protein design and commercial production, combining AI/ML-guided strain engineering with ultra-high-throughput genetic screens to make more proteins faster, at lower economic and environmental cost."
+        },
+        "name": {
+          "before": "Ten Lives",
+          "after": "Terraferma"
+        },
+        "one_liner": {
+          "before": "Manufacturing more proteins with AI.",
+          "after": "The world's best protein manufacturing platform."
+        },
+        "slug": {
+          "before": "ten-lives",
+          "after": "terraferma"
+        },
+        "small_logo_thumb_url": {
+          "before": "https://bookface-images.s3.amazonaws.com/small_logos/e831961d555ac79ac4d50f463f10bdbd3cfc71ad.png",
+          "after": "https://bookface-images.s3.amazonaws.com/small_logos/a42a54af1e4135c740b51a74240219ed4392b644.png"
+        },
+        "subindustry": {
+          "before": "Consumer -> Food and Beverage",
+          "after": "Industrials -> Manufacturing and Robotics"
+        },
+        "tags": {
+          "before": [],
+          "after": [
+            "Machine Learning",
+            "Synthetic Biology",
+            "Manufacturing",
+            "Automation",
+            "Biotechnology"
+          ]
+        },
+        "url": {
+          "before": "https://www.ycombinator.com/companies/ten-lives",
+          "after": "https://www.ycombinator.com/companies/terraferma"
+        },
+        "website": {
+          "before": "https://tenlives.com",
+          "after": "https://terraferma.ai"
+        }
+      }
+    },
+    {
+      "id": 26890,
+      "name": "OpenScale",
+      "slug": "openscale",
+      "batch": "Summer 2022",
+      "url": "https://www.ycombinator.com/companies/openscale",
+      "changed_fields": [
+        "api",
+        "former_names",
+        "industries",
+        "industry",
+        "name",
+        "one_liner",
+        "slug",
+        "small_logo_thumb_url",
+        "subindustry",
+        "tags",
+        "team_size",
+        "url",
+        "website"
+      ],
+      "changes": {
+        "api": {
+          "before": "https://yc-oss.github.io/api/batches/summer-2022/latent-space.json",
+          "after": "https://yc-oss.github.io/api/batches/summer-2022/openscale.json"
+        },
+        "former_names": {
+          "before": [
+            "wagmi",
+            "Payable"
+          ],
+          "after": [
+            "wagmi",
+            "Payable",
+            "Latent Space"
+          ]
+        },
+        "industries": {
+          "before": [
+            "Consumer"
+          ],
+          "after": [
+            "B2B",
+            "Infrastructure"
+          ]
+        },
+        "industry": {
+          "before": "Consumer",
+          "after": "B2B"
+        },
+        "name": {
+          "before": "Latent Space",
+          "after": "OpenScale"
+        },
+        "one_liner": {
+          "before": "Applied AI for The Emerging Economies",
+          "after": "The cheapest, fastest way to run open models and agent sandboxes"
+        },
+        "slug": {
+          "before": "latent-space",
+          "after": "openscale"
+        },
+        "small_logo_thumb_url": {
+          "before": "https://bookface-images.s3.amazonaws.com/small_logos/6c0b56165e84e87a8ef9fc8ec4eddc18beadea9d.png",
+          "after": "https://bookface-images.s3.amazonaws.com/small_logos/ac8dea3a9e37379ddfaa9b0b53f21208acf79b25.png"
+        },
+        "subindustry": {
+          "before": "Consumer",
+          "after": "B2B -> Infrastructure"
+        },
+        "tags": {
+          "before": [
+            "SaaS",
+            "Workflow Automation",
+            "AI"
+          ],
+          "after": [
+            "Developer Tools",
+            "API",
+            "Cloud Computing",
+            "Infrastructure",
+            "AI"
+          ]
+        },
+        "team_size": {
+          "before": 100,
+          "after": 50
+        },
+        "url": {
+          "before": "https://www.ycombinator.com/companies/latent-space",
+          "after": "https://www.ycombinator.com/companies/openscale"
+        },
+        "website": {
+          "before": "https://latentspace.sh/",
+          "after": "https://openscale.so/"
+        }
+      }
+    },
+    {
+      "id": 27092,
+      "name": "Lamin",
+      "slug": "lamin",
+      "batch": "Summer 2022",
+      "url": "https://www.ycombinator.com/companies/lamin",
+      "changed_fields": [
+        "all_locations",
+        "regions"
+      ],
+      "changes": {
+        "all_locations": {
+          "before": "",
+          "after": "BY, Germany"
+        },
+        "regions": {
+          "before": [
+            "Remote",
+            "Partly Remote"
+          ],
+          "after": [
+            "Germany",
+            "Europe",
+            "Remote",
+            "Partly Remote"
+          ]
+        }
+      }
+    },
+    {
+      "id": 28087,
+      "name": "Rivet",
+      "slug": "rivet",
+      "batch": "Winter 2023",
+      "url": "https://www.ycombinator.com/companies/rivet",
       "changed_fields": [
         "long_description",
         "one_liner",
@@ -207,131 +517,156 @@
       ],
       "changes": {
         "long_description": {
-          "before": "Trellus delivers simple coaching prompts to your salespeople in real time as they speak to prospects. Prompts are delivered in response to what is happening in a conversation. The goal of these prompts is to get more reps achieving quota and to reduce the time it takes to start attaining quota.\r\n\r\nPrompts are action-oriented steps toward empathetic listening and effective discovery. Examples include 'pause' (when talking too much), 'set next steps' (when wrapping up a call without them), and 'ask current state' (when encountering objections).\r\n\r\nTrellus is backed by Y Combinator and founded by former MIT researchers.",
-          "after": "Trellus is a Chrome extension that power dials or parallel dials up to five lines inside the CRM or sales engagement platform a sales team already uses, and saves each call's outcome, notes and callback back to the record the rep called from. Reps rehearse objections with AI practice calls, and teams on the Business plan add real-time AI coaching, team analytics and a virtual sales floor. Plans start at $99.99 per seat per month."
+          "before": "Rivet Actors are the primitive for stateful workloads.\r\n\r\nBuilt for AI agents, collaborative apps, and durable execution.\r\n\r\nOpen-source.",
+          "after": "A fast, high-density and scalable orchestrator for every workload an agent needs.\r\nOpen-source and self-hostable.\r\n\r\nOpen source and self-hostable alternative to Durable Objects"
         },
         "one_liner": {
-          "before": "Real-time sales coach for SDRs ",
-          "after": "Power and parallel dialing with AI coaching, inside your CRM"
+          "before": "Rivet Actors are the primitive for stateful workloads",
+          "after": "The orchestrator for agentic workloads."
         },
         "tags": {
           "before": [
-            "AI-Enhanced Learning",
-            "SaaS",
             "B2B",
-            "Sales",
-            "AI"
+            "Open Source",
+            "Infrastructure"
           ],
           "after": [
-            "SaaS",
             "B2B",
-            "Sales",
-            "Sales Enablement",
+            "Open Source",
+            "Infrastructure",
             "AI"
           ]
         },
         "team_size": {
-          "before": 3,
-          "after": 8
+          "before": 5,
+          "after": 7
         }
       }
     },
     {
-      "id": 26724,
-      "name": "Coupl",
-      "slug": "coupl",
-      "batch": "Summer 2022",
-      "url": "https://www.ycombinator.com/companies/coupl",
+      "id": 28837,
+      "name": "Subsets",
+      "slug": "subsets",
+      "batch": "Summer 2023",
+      "url": "https://www.ycombinator.com/companies/subsets",
       "changed_fields": [
-        "all_locations"
+        "isHiring"
       ],
       "changes": {
-        "all_locations": {
-          "before": "Bengaluru, KA, India",
-          "after": "Mumbai, MH, India"
+        "isHiring": {
+          "before": true,
+          "after": false
         }
       }
     },
     {
-      "id": 29365,
-      "name": "Ellipsis",
-      "slug": "ellipsis",
+      "id": 29087,
+      "name": "ParadeDB",
+      "slug": "paradedb",
+      "batch": "Summer 2023",
+      "url": "https://www.ycombinator.com/companies/paradedb",
+      "changed_fields": [
+        "long_description"
+      ],
+      "changes": {
+        "long_description": {
+          "before": "One Postgres for your application data, full-text search, vector retrieval, and aggregations.",
+          "after": "When Postgres queries get too slow, developers usually reach for systems like Elasticsearch. ParadeDB makes text and vector search, filters, facets, and joins fast in Postgres, so you can keep scaling with it."
+        }
+      }
+    },
+    {
+      "id": 29323,
+      "name": "Zaymo",
+      "slug": "zaymo",
       "batch": "Winter 2024",
-      "url": "https://www.ycombinator.com/companies/ellipsis",
+      "url": "https://www.ycombinator.com/companies/zaymo",
+      "changed_fields": [
+        "long_description",
+        "one_liner",
+        "team_size"
+      ],
+      "changes": {
+        "long_description": {
+          "before": "Zaymo is a full-stack retention marketing agency for the largest brands on Shopify. We bring all your data in house, remove the guess work, and automate the busy work. Agents find opportunities, build content, and iterate autonomously while expert retention marketers help you set strategy and oversee outputs.",
+          "after": "Zaymo builds the tools AI agents use to do marketing, for the largest ecommerce brands in the world. ~500 brands, including Grüns, Harry's, AG1 and Liquid I.V. (Unilever), run on Zaymo.\n\nOur wedge is interactive email. We made emails work like websites: shoppers buy, swap or skip a subscription without leaving the inbox. It closes 75%+ of the brands we pitch and put us inside the email programs of hundreds of the best brands in ecommerce.\n\nNow we're building the agents that run those programs. Brands pay agencies ~$70k a year to run email, and the good ones run one or two tests a month. Our agents audit the program, write and design on-brand campaigns, QA them, and run hundreds of experiments optimized for profit, not just revenue, with an expert human owning the outcome. We build for the agent a marketer already uses (Claude, via MCP), not yet another chatbot.\n\n$5M ARR, 5x'ing this year, consistently cash-flow positive."
+        },
+        "one_liner": {
+          "before": "Zaymo is building an AI marketing agency",
+          "after": "Tools for AI agents to run marketing for the world's biggest…"
+        },
+        "team_size": {
+          "before": 18,
+          "after": 19
+        }
+      }
+    },
+    {
+      "id": 29509,
+      "name": "Blacksmith",
+      "slug": "blacksmith",
+      "batch": "Winter 2024",
+      "url": "https://www.ycombinator.com/companies/blacksmith",
+      "changed_fields": [
+        "stage"
+      ],
+      "changes": {
+        "stage": {
+          "before": "Growth",
+          "after": "Early"
+        }
+      }
+    },
+    {
+      "id": 29751,
+      "name": "Opslane",
+      "slug": "opslane",
+      "batch": "Summer 2024",
+      "url": "https://www.ycombinator.com/companies/opslane",
       "changed_fields": [
         "long_description",
         "one_liner"
       ],
       "changes": {
         "long_description": {
-          "before": "Ellipsis is a cloud platform that allows engineering teams to deploy fleets of coding agents. Each agent gets an isolated sandbox, scoped permissions, and hard budget caps. Full observability included. Get started with a $100 credit at www.ellipsis.dev.\r\n\r\nYou can deploy agents for feature development, code review, and workflow automation. Creating an agent is simple: simply commit a YAML file to Github. Spawn agents from Github/Linear/Slack/etc., or via a REST API or our CLI. \r\n\r\nOrganizations get full observability and governance of their cloud coding agents.  Agent session logs are downloadable so companies own their own data.\r\n\r\nFull documentation: https://www.ellipsis.dev/docs",
-          "after": "Ellipsis is a Managed Agent Platform for Developers. Spawn, manage, and govern cloud agents for Software Factories, custom Code Review, and Background Tasks. You choose the model, harness, prompts, and tools. We'll handle the infrastructure.\r\n\r\nDocumentation: https://www.ellipsis.dev/docs"
+          "before": "Opslane catches the bugs code review misses. On every PR, it runs your app against test versions of the services it calls, from Stripe to the LLM. Then it tries what breaks in production: a service failing, two requests at once, a restart mid-job.",
+          "after": "Opslane catches the bugs code review misses. On every PR, it runs your app against realistic copies of the services it depends(from Stripe to Slack). Then it tries what breaks in production: a service failing, two requests at once, a restart mid-job."
         },
         "one_liner": {
-          "before": "Cloud platform for coding agents",
-          "after": "Managed Agent platform "
+          "before": "Catch bugs that code review tools miss",
+          "after": "AI Code Review tool that runs your app"
         }
       }
     },
     {
-      "id": 29376,
-      "name": "Carma",
-      "slug": "carma",
-      "batch": "Winter 2024",
-      "url": "https://www.ycombinator.com/companies/carma",
+      "id": 29950,
+      "name": "Pipeshift",
+      "slug": "pipeshift",
+      "batch": "Summer 2024",
+      "url": "https://www.ycombinator.com/companies/pipeshift",
       "changed_fields": [
-        "long_description",
-        "one_liner",
-        "tags"
+        "one_liner"
       ],
       "changes": {
-        "long_description": {
-          "before": "Carma is building an AI-native platform that transforms fleet operations from tedious, manual work into effortless, automated workflows.\r\n\r\nWe’re the fastest-growing company in fleet management software. Carma already powers some of the largest fleets in the U.S., saving operations teams thousands of hours by eliminating busywork and keeping vehicles on the road.\r\n\r\nBacked by Soma Capital, Y Combinator, founders of Superhuman, and Tier-1 investors, we are sprinting toward a Series A in 2026.\r\n\r\nWe’re hiring the top 0.1% of engineers who want real ownership and impact—starting Day 1, you’ll build and ship fast to production for enterprise clients. Fleet operations run in real time, so your work is immediately used in the field and gets real customer feedback in hours, not months.",
-          "after": "Carma is the agentic workspace that runs construction operations for profit.\r\n\r\nOur customers are the $100M+ contractors building America’s data centers.\r\n\r\nThe AGI race is a construction race. More than 40% of America’s 2026 data centers are late, and every month of delay is a gift to the CCP. They’re late because contractors still coordinate every jobsite by phone and spreadsheet.\r\n\r\nContractors sell their work at fixed prices, so every hour a crew waits comes out of their margin. One broken machine stops every crew behind it, and the repair invoice shows only a fraction of the cost. The rest lands in idle crews and higher bids on the next job.\r\n\r\nAdam, our AI operator, runs equipment operations for the whole company’s profit. He prices every idle hour, picks the repair with the lowest total cost, audits every bill before it’s paid, reallocates idle machines to the jobs that need them, and tells the company which machines to buy, repair, or sell. Managers approve every cost and Adam handles the coordination in between.\r\n\r\nIn three months, Adam increased operating profit by $4.21M a year for a $500M electrical contracting customer: a 12% increase. Across customers, the time people spend coordinating each repair fell 93%, and equipment downtime fell 30%.\r\n\r\nWe crossed $2M ARR three months after our first invoice, with five enterprise customers and a five-person team. Customers pay annually upfront, so we’re cash-flow positive. Carma sells no parts, rentals, or machines, so Adam’s only incentive is our customer’s profit.\r\n\r\nWhoever builds faster wins. We will make sure it’s America."
-        },
         "one_liner": {
-          "before": "The AI Operating System For Modern Fleets.",
-          "after": "The agentic workspace that runs construction operations for profit"
-        },
-        "tags": {
-          "before": [
-            "B2B",
-            "Workflow Automation",
-            "Compliance",
-            "AI",
-            "Automotive"
-          ],
-          "after": [
-            "Construction",
-            "Enterprise",
-            "AI"
-          ]
+          "before": "Inference for real-time voice and chat",
+          "after": "Inference for real-time agents"
         }
       }
     },
     {
-      "id": 29477,
-      "name": "Piramidal",
-      "slug": "piramidal",
-      "batch": "Winter 2024",
-      "url": "https://www.ycombinator.com/companies/piramidal",
+      "id": 30036,
+      "name": "Rulebase",
+      "slug": "rulebase",
+      "batch": "Fall 2024",
+      "url": "https://www.ycombinator.com/companies/rulebase",
       "changed_fields": [
-        "long_description",
-        "one_liner",
-        "small_logo_thumb_url"
+        "isHiring"
       ],
       "changes": {
-        "long_description": {
-          "before": "Understand & control neural syntax.",
-          "after": "An API into your mind."
-        },
-        "one_liner": {
-          "before": "Foundation Model for the Brain",
-          "after": "Foundation Models for the Brain"
-        },
-        "small_logo_thumb_url": {
-          "before": "https://bookface-images.s3.amazonaws.com/small_logos/498bf9290381446bf87d93fc0ef2a631960e646a.png",
-          "after": "https://bookface-images.s3.amazonaws.com/small_logos/31f1fadb4293e57afe421f93282f2132834e1777.png"
+        "isHiring": {
+          "before": true,
+          "after": false
         }
       }
     },
@@ -346,112 +681,102 @@
       ],
       "changes": {
         "one_liner": {
-          "before": "New American insurance company for hard tech, defense & AI.",
-          "after": "Commercial insurance brokerage for startups. "
+          "before": "Commercial insurance brokerage for startups. ",
+          "after": "AI commercial insurance brokerage for startups. "
         }
       }
     },
     {
-      "id": 30653,
-      "name": "Async",
-      "slug": "withasync",
-      "batch": "Summer 2026",
-      "url": "https://www.ycombinator.com/companies/withasync",
+      "id": 30109,
+      "name": "FutureClinic",
+      "slug": "futureclinic",
+      "batch": "Fall 2024",
+      "url": "https://www.ycombinator.com/companies/futureclinic",
+      "changed_fields": [
+        "long_description"
+      ],
+      "changes": {
+        "long_description": {
+          "before": "FutureClinic is a platform that makes it easy for any doctor to open their own digital clinic. Our AI assistant takes a comprehensive medical history using an empathic chat or voice-based interface, uses sophisticated medical reasoning to narrow down likely diagnoses, and produces evidence-based treatment suggestions for each patient. Licensed doctors then review the text-based summaries of the cases our AI provides, and choose how to manage the patients. In this fashion, we're able to deliver end-to-end healthcare in a way that makes personalized, expert healthcare scalable to 8 billion people around the world. ",
+          "after": "FutureClinic is the world's largest agent-native medical clinic: over 300 doctors (generalists and specialists, covering over 63 specialty types) you can reach directly from Claude, ChatGPT or whichever AI agent you already use. \r\n\r\nHundreds of millions of people use AI models to better understand their own health. But when it comes time to take that information and turn it into medical care, they're left going back to the broken healthcare system, waiting months for a rushed appointment, and feeling frustrated that their doctor doesn't have the time to digest the research they've done with their AI. \r\n\r\nNow, you can ask your AI to bring in a real doctor into that same conversation. A physician reads your whole case and answers you personally, typically within a few hours, and sends a live recorded video called a Human Signature with their response so you know you're getting real care from an expert every time.\r\n\r\nThey can diagnose, prescribe to the pharmacy you choose, order lab tests and even imaging when needed. A visit is $40, with no insurance, appointment or subscription needed, in 33 states and Washington, D.C. You can also start at futureclinic.com. \r\n\r\nFor doctors, FutureClinic is the way to become a personal doctor to patients directly. Build your own AI-native clinic for free in under 3 minutes, get found by the AI agents patients already turn to for help, and set your own prices and hours. Malpractice coverage is included. It’s care on your terms, where you're in control, with no private equity owner or hospital system standing between you and your patients."
+        }
+      }
+    },
+    {
+      "id": 30262,
+      "name": "Pickle",
+      "slug": "pickle-2",
+      "batch": "Winter 2025",
+      "url": "https://www.ycombinator.com/companies/pickle-2",
       "changed_fields": [
         "long_description",
         "one_liner"
       ],
       "changes": {
         "long_description": {
-          "before": "Async builds AI agents that run small businesses. Law firms, healthcare clinics and real estate companies hire our AI agents to automate complex work that's never been economical to staff with humans, letting us capture labor spend that didn't previously exist.",
-          "after": "Async builds AI agents that run businesses."
+          "before": "Pickle is a personal AI agent that gets things done for you. Every user has their own Pickle, which they talk to by voice or chat. It works in its own cloud browser, signs in to the services you already use, and finishes everyday tasks end to end: ordering food, booking rides, flights and restaurant tables, shopping, sending money, and handling paperwork. It places phone calls on your behalf in 81 countries, sends a morning briefing, and runs scheduled tasks. Pickles also talk to each other, so you can send yours to a friend’s Pickle to settle a dinner plan or split a bill.\r\n\r\nEvery Pickle earns trust in steps, from small errands to the accounts, cards, and identity it needs to act for you. Credentials stay in a hardware-isolated enclave that neither the model nor our servers can read, every action goes to a log you can see in the app, and nothing is used to train models.\r\n\r\nPickle is live on the App Store in the US and launches in Korea next, as the first personal agent built for Korea’s identity checks, payment rails, and everyday services, with the aim of becoming the country’s national app.",
+          "after": "Pickle is the personal AI agent network for Asia. Instead of building another chatbot or an overcrowded super-app, Pickle replaces daily life administration with an \"invisible super-app\" powered by autonomous background tool execution—handling restaurant bookings, store phone calls, delivery tracking, administrative paperwork, and local payments without user micromanagement. Because every user gets a dedicated agent with persistent memory and local context, Pickles naturally connect with one another: coordinating schedules between friends, exchanging local recommendations, and delegating shared errands. Driven by 70%+ D1 retention and strong organic viral loops (K-factor > 1.2), this creates an unprecedented Agent-to-Agent (A2A) network effect. Starting with Korea and Japan, Pickle integrates deeply with local messaging (Kakao, LINE), local identity, and payment rails to become the default consumer execution layer across 670M people in Asia."
         },
         "one_liner": {
-          "before": "AI agents that run small businesses",
-          "after": "AI agents that run businesses"
+          "before": "The personal AI agent for Korea.",
+          "after": "The personal AI agent network for Asia"
         }
       }
     },
     {
-      "id": 30877,
-      "name": "Trelium",
-      "slug": "trelium",
-      "batch": "Fall 2025",
-      "url": "https://www.ycombinator.com/companies/trelium",
+      "id": 30520,
+      "name": "Synthetic Society",
+      "slug": "synthetic-society",
+      "batch": "Summer 2025",
+      "url": "https://www.ycombinator.com/companies/synthetic-society",
       "changed_fields": [
-        "isHiring"
+        "industries",
+        "one_liner",
+        "subindustry"
       ],
       "changes": {
-        "isHiring": {
-          "before": true,
-          "after": false
-        }
-      }
-    },
-    {
-      "id": 31010,
-      "name": "Amika",
-      "slug": "amika",
-      "batch": "Fall 2025",
-      "url": "https://www.ycombinator.com/companies/amika",
-      "changed_fields": [
-        "long_description",
-        "one_liner"
-      ],
-      "changes": {
-        "long_description": {
-          "before": "Amika is infra to build your software factory.\r\n\r\nWe give your team sandboxed AI coding agents in the cloud: the same infrastructure Ramp, Coinbase, and Stripe built in-house. Kick off work from a web UI, CLI, Slack, or API. Use your preferred coding agent (Claude Code, Codex, etc.). Each agent understands your codebase, runs autonomously, and ships real PRs with live previews of the apps it changed. Use it as your daily driver or plug it into your own code-gen pipeline via API.",
-          "after": "Amika slices computers you already own (a spare Mac Mini, a desktop, EC2 in your VPC) into isolated agent devboxes or CI runners, and puts them all on one private network you can reach from anywhere.\r\n\r\nUse Amika to give your agents always-on computers, to offload CI and build to your own machines, or for anything else where you want to run software and agents on your own devices."
+        "industries": {
+          "before": [
+            "B2B",
+            "Engineering, Product and Design"
+          ],
+          "after": [
+            "B2B",
+            "Marketing"
+          ]
         },
         "one_liner": {
-          "before": "Infra to build your own software factory",
-          "after": "Turn any spare computer into agent devboxes or CI runners"
-        }
-      }
-    },
-    {
-      "id": 32782,
-      "name": "Denta",
-      "slug": "denta",
-      "batch": "Summer 2026",
-      "url": "https://www.ycombinator.com/companies/denta",
-      "changed_fields": [
-        "long_description",
-        "one_liner"
-      ],
-      "changes": {
-        "long_description": {
-          "before": "Starting with dental benefits, we are relentlessly simplifying the process for patients to receive better coverage at a lower cost by putting the buying power back into the hand of the individual.",
-          "after": "We are helping patients receive better care at a lower cost by giving buying power to the individual."
+          "before": "Synthetic Videos to Simulate Real Users",
+          "after": "Synthetic Videos to Power Marketing"
         },
-        "one_liner": {
-          "before": "Fortune 500 Dental Benefits for Startups",
-          "after": "Fortune 500 Dental Benefits"
+        "subindustry": {
+          "before": "B2B -> Engineering, Product and Design",
+          "after": "B2B -> Marketing"
         }
       }
     },
     {
-      "id": 34893,
-      "name": "Agent 37",
-      "slug": "agent-37",
-      "batch": "Fall 2026",
-      "url": "https://www.ycombinator.com/companies/agent-37",
+      "id": 30624,
+      "name": "Verne Robotics",
+      "slug": "verne-robotics",
+      "batch": "Summer 2025",
+      "url": "https://www.ycombinator.com/companies/verne-robotics",
       "changed_fields": [
-        "one_liner"
+        "team_size"
       ],
       "changes": {
-        "one_liner": {
-          "before": "Persistent sandboxes for agents like hermes, openclaw, claude code",
-          "after": "Cloud Sandbox for Agents"
+        "team_size": {
+          "before": 7,
+          "after": 8
         }
       }
     },
     {
-      "id": 35025,
-      "name": "Inflection Space Systems",
-      "slug": "inflection-space-systems",
-      "batch": "Fall 2026",
-      "url": "https://www.ycombinator.com/companies/inflection-space-systems",
+      "id": 30696,
+      "name": "GhostEye",
+      "slug": "ghosteye",
+      "batch": "Summer 2025",
+      "url": "https://www.ycombinator.com/companies/ghosteye",
       "changed_fields": [
         "isHiring"
       ],
@@ -463,105 +788,506 @@
       }
     },
     {
-      "id": 35094,
-      "name": "Forward",
-      "slug": "useforward",
-      "batch": "Fall 2026",
-      "url": "https://www.ycombinator.com/companies/useforward",
+      "id": 30710,
+      "name": "Manufact",
+      "slug": "manufact",
+      "batch": "Summer 2025",
+      "url": "https://www.ycombinator.com/companies/manufact",
+      "changed_fields": [
+        "all_locations",
+        "regions"
+      ],
+      "changes": {
+        "all_locations": {
+          "before": "ZH, Switzerland",
+          "after": "San Francisco, CA, USA"
+        },
+        "regions": {
+          "before": [
+            "Switzerland",
+            "Europe"
+          ],
+          "after": [
+            "United States of America",
+            "America / Canada"
+          ]
+        }
+      }
+    },
+    {
+      "id": 30943,
+      "name": "Aside",
+      "slug": "aside",
+      "batch": "Fall 2025",
+      "url": "https://www.ycombinator.com/companies/aside",
       "changed_fields": [
         "small_logo_thumb_url"
       ],
       "changes": {
         "small_logo_thumb_url": {
-          "before": "https://bookface-images.s3.amazonaws.com/small_logos/717ea600e14829731cf877a194aca957195d9b27.png",
-          "after": "https://bookface-images.s3.amazonaws.com/small_logos/6ed6f18a3f6a1aa7d3729a667c4da28221cda1f6.png"
+          "before": "https://bookface-images.s3.amazonaws.com/small_logos/2e9196c93cd4fc802b51eabcb6432760d1efd3fb.png",
+          "after": "https://bookface-images.s3.amazonaws.com/small_logos/433466322b82d033544acff5354641108752eb11.png"
         }
       }
     },
     {
-      "id": 35157,
-      "name": "Nitroduck",
-      "slug": "nitroduck",
-      "batch": "Fall 2026",
-      "url": "https://www.ycombinator.com/companies/nitroduck",
+      "id": 31222,
+      "name": "Paradev (formerly Superset)",
+      "slug": "paradev",
+      "batch": "Spring 2026",
+      "url": "https://www.ycombinator.com/companies/paradev",
       "changed_fields": [
-        "launched_at"
+        "api",
+        "former_names",
+        "long_description",
+        "name",
+        "slug",
+        "url",
+        "website"
       ],
       "changes": {
-        "launched_at": {
-          "before": 1785947487,
-          "after": 1792787501
+        "api": {
+          "before": "https://yc-oss.github.io/api/batches/spring-2026/superset.json",
+          "after": "https://yc-oss.github.io/api/batches/spring-2026/paradev.json"
+        },
+        "former_names": {
+          "before": [],
+          "after": [
+            "Superset"
+          ]
+        },
+        "long_description": {
+          "before": "Superset is an open-source IDE that helps engineers run 100s of coding agents in parallel.\r\n\r\nOur desktop app is loved by tens of thousands of engineers, and we're scaling out our effort to build a collaborative, cross-platform tool to allow users to code anywhere.",
+          "after": "Paradev (formerly Superset) is an open-source IDE that helps engineers run 100s of coding agents in parallel.\r\n\r\nOur desktop app is loved by tens of thousands of engineers, and we're scaling out our effort to build a collaborative, cross-platform tool to allow users to code anywhere."
+        },
+        "name": {
+          "before": "Superset",
+          "after": "Paradev (formerly Superset)"
+        },
+        "slug": {
+          "before": "superset",
+          "after": "paradev"
+        },
+        "url": {
+          "before": "https://www.ycombinator.com/companies/superset",
+          "after": "https://www.ycombinator.com/companies/paradev"
+        },
+        "website": {
+          "before": "https://www.superset.sh/",
+          "after": "https://paradev.com/"
         }
       }
     },
     {
-      "id": 36411,
-      "name": "Vyra",
-      "slug": "vyra",
+      "id": 31375,
+      "name": "Hub",
+      "slug": "hub",
+      "batch": "Spring 2026",
+      "url": "https://www.ycombinator.com/companies/hub",
+      "changed_fields": [
+        "team_size"
+      ],
+      "changes": {
+        "team_size": {
+          "before": 40,
+          "after": 60
+        }
+      }
+    },
+    {
+      "id": 31385,
+      "name": "Zolvo",
+      "slug": "zolvo",
+      "batch": "Spring 2026",
+      "url": "https://www.ycombinator.com/companies/zolvo",
+      "changed_fields": [
+        "long_description",
+        "one_liner",
+        "small_logo_thumb_url",
+        "team_size"
+      ],
+      "changes": {
+        "long_description": {
+          "before": "Commercial lenders manage billions in assets on legacy software and manual workflows, their systems live on people’s heads like its the 90s. Zolvo replaces the entire back office with AI: automated data ingestion, invoice reconciliation, collections outreach, and funder monitoring. Our clients go live in weeks and eliminate hours of daily manual work per operator, allowing teams to only handle exceptions. We're building the future of commercial lending.",
+          "after": "Zolvo automates repetitive work for commercial lenders, from document review and invoice verification to collections, payment matching, and reporting. It works as a loan management system or alongside your existing one."
+        },
+        "one_liner": {
+          "before": "AI Back-Office Automation for Commercial Lenders",
+          "after": "AI for Commercial Lending"
+        },
+        "small_logo_thumb_url": {
+          "before": "https://bookface-images.s3.amazonaws.com/small_logos/13449379aadac83de276a47cb8ee88b50b55c4f8.png",
+          "after": "https://bookface-images.s3.amazonaws.com/small_logos/b666a649770aa03e873bbfd549d566bd445e8766.png"
+        },
+        "team_size": {
+          "before": 3,
+          "after": 4
+        }
+      }
+    },
+    {
+      "id": 31412,
+      "name": "ClaimKit",
+      "slug": "claimkit",
       "batch": "Fall 2026",
-      "url": "https://www.ycombinator.com/companies/vyra",
+      "url": "https://www.ycombinator.com/companies/claimkit",
+      "changed_fields": [
+        "one_liner",
+        "small_logo_thumb_url"
+      ],
+      "changes": {
+        "one_liner": {
+          "before": "AI-native professional services agency ",
+          "after": "AI-native tax firm"
+        },
+        "small_logo_thumb_url": {
+          "before": "https://bookface-images.s3.amazonaws.com/small_logos/3fc859869ec0d44cca04573f4fc8c9c6680e3a6c.png",
+          "after": "https://bookface-images.s3.amazonaws.com/small_logos/b90bb870bed1955c5ae08362040a4b0a5beed802.png"
+        }
+      }
+    },
+    {
+      "id": 31458,
+      "name": "Reason Machines",
+      "slug": "reason-machines",
+      "batch": "Spring 2026",
+      "url": "https://www.ycombinator.com/companies/reason-machines",
+      "changed_fields": [
+        "long_description",
+        "one_liner"
+      ],
+      "changes": {
+        "long_description": {
+          "before": "Reason Machines builds Reason Agent, the autonomous software engineer for engineering teams. Reason connects to GitHub, reproduces bugs, writes code, passes tests, and ships review-ready pull requests with recordings and logs across cloud environments.",
+          "after": "Reason is an AI teammate for work and code that runs autonomous cloud agents with a frontier harness on cost per task.\r\n\r\nIt delivers the same performance with 22% lower costs than Codex. By operating with a harness outside the sandbox, it acts seamlessly across cloud computers and local devices.\r\n\r\nReason runs work from start to finish: from an issue to a finished pull request, on a schedule, or from a Slack alert. It is available as a Mac app, on the web, from the CLI, in Slack, and through a REST API, with about 100 integrations and shareable skills. Bring your own keys and subscriptions, and work rolls over to the next one when limits are hit."
+        },
+        "one_liner": {
+          "before": "Reason Machines builds Reason Agent, the autonomous software engineer…",
+          "after": "Reason is the AI teammate for work and code."
+        }
+      }
+    },
+    {
+      "id": 31531,
+      "name": "Manicule",
+      "slug": "manicule",
+      "batch": "Spring 2026",
+      "url": "https://www.ycombinator.com/companies/manicule",
+      "changed_fields": [
+        "long_description"
+      ],
+      "changes": {
+        "long_description": {
+          "before": "Manicule does AgentRel. We get companies discovered and used by AI agents. Think DevRel, rebuilt for a world where agents make all the decisions. We own developer documentation and technical content across social channels, end-to-end. We've grown 100% MoM over the last three months to $53K in monthly revenue, with customers like Supermemory, Greptile, Reducto, and Mastra.\r\n  \r\nGetting discovered and used by agents is its own job now, and the market for it is broken. The SEO/GEO SaaS tools just show you data like where you rank in AI answers. The agencies are slow and lack know-how with agents. The one person who could own all of it end-to-end, a DevRel, is nearly impossible to hire: our customers have had roles open for months at $300K+ and still can't find anyone good. \r\n\r\nWe solve all these gaps. Naman has been doing fractional DevRel since he was 13, working with companies like PromptLayer, Brightdata, and Courier.com. Shreyans has been building since 14 — he built an AI app that hit App Store Productivity Trending within a month, and\r\nwas the founding engineer at Supermemory. We met in high school and have built multiple startups together since.",
+          "after": "Manicule does AgentRel. We get companies discovered and used by AI agents. Think DevRel, rebuilt for a world where agents make all the decisions. \r\n\r\nOur software tracks how often AI recommends your product; our team handles the strategy, documentation, technical content, and distribution that help developers and coding agents use it. Customers include Agentmail, Greptile, Reducto, and Mastra.\r\n\r\nNaman has been doing fractional DevRel since 13. Shreyans started building at 14 and was Supermemory’s founding engineer. We met in high school and have built multiple startups together since."
+        }
+      }
+    },
+    {
+      "id": 31564,
+      "name": "Huscarl",
+      "slug": "huscarl",
+      "batch": "Spring 2026",
+      "url": "https://www.ycombinator.com/companies/huscarl",
+      "changed_fields": [
+        "all_locations",
+        "long_description",
+        "one_liner",
+        "regions",
+        "team_size"
+      ],
+      "changes": {
+        "all_locations": {
+          "before": "San Francisco, CA, USA; Remote",
+          "after": "San Francisco, CA, USA"
+        },
+        "long_description": {
+          "before": "Huscarl is building an autonomous AI actuary to enable self-insurance for corporations.\r\n\r\nLarge companies use insurance subsidiaries (\"captives\") to self-insure their risks. Some of these captives are larger than regional insurers. We provide them the actuarial and modeling layer to operate and grow.\r\n\r\nWe're building a future where self-insurance is the default, and commercial insurance the exception. This is the best way to solve the inefficiencies of the $1T corporate insurance market.",
+          "after": "Huscarl is building an autonomous AI actuary to solve the inefficiencies of the $1T USD corporate insurance market"
+        },
+        "one_liner": {
+          "before": "AI-native actuary enabling self-insurance for corporations",
+          "after": "Autonomous AI actuary for corporate insurance"
+        },
+        "regions": {
+          "before": [
+            "United States of America",
+            "America / Canada",
+            "Remote",
+            "Fully Remote"
+          ],
+          "after": [
+            "United States of America",
+            "America / Canada"
+          ]
+        },
+        "team_size": {
+          "before": 2,
+          "after": 3
+        }
+      }
+    },
+    {
+      "id": 32130,
+      "name": "Olam Labs",
+      "slug": "olam-labs",
+      "batch": "Summer 2026",
+      "url": "https://www.ycombinator.com/companies/olam-labs",
+      "changed_fields": [
+        "long_description"
+      ],
+      "changes": {
+        "long_description": {
+          "before": "We push the complexity of simulations in order to provide labs with better model training and evaluations for their capability and safety needs. We achieve this through methods like multi-agent interaction and swarm RL.\r\n\r\nWe also run olamarena.com where humans come play multi-agent social games against models and inform our public evaluations on human <> agent interaction.",
+          "after": "We push the complexity of simulated environments in order to provide labs with better model training and evaluations for their capability and safety needs.\r\n\r\nWe also run olamarena.com where humans come play multi-agent social games against models and inform our public evaluations on human <> agent interaction."
+        }
+      }
+    },
+    {
+      "id": 32752,
+      "name": "Moving Atoms",
+      "slug": "moving-atoms",
+      "batch": "Summer 2026",
+      "url": "https://www.ycombinator.com/companies/moving-atoms",
       "changed_fields": [
         "one_liner"
       ],
       "changes": {
         "one_liner": {
-          "before": "Autonomous video editing for non-editors.",
-          "after": "Personal video editing agent for shortform content"
+          "before": "Virtual Reality for Training Robots",
+          "after": "Scan to 3D Model"
         }
       }
     },
     {
-      "id": 36644,
-      "name": "Vouch",
-      "slug": "vouchwealth",
+      "id": 34896,
+      "name": "Faraday",
+      "slug": "faraday",
       "batch": "Fall 2026",
-      "url": "https://www.ycombinator.com/companies/vouchwealth",
+      "url": "https://www.ycombinator.com/companies/faraday",
       "changed_fields": [
         "tags"
       ],
       "changes": {
         "tags": {
           "before": [
-            "Fintech",
-            "Consumer Finance"
+            "Robotics",
+            "B2B",
+            "Manufacturing",
+            "Enterprise Software",
+            "AI"
           ],
           "after": [
-            "Fintech",
-            "Consumer",
-            "Consumer Finance"
+            "B2B",
+            "Manufacturing",
+            "Enterprise Software",
+            "AI"
           ]
         }
       }
     },
     {
-      "id": 37272,
-      "name": "The Subvocal Company",
-      "slug": "the-subvocal-company",
+      "id": 35260,
+      "name": "OpenCrawl",
+      "slug": "opencrawl",
       "batch": "Fall 2026",
-      "url": "https://www.ycombinator.com/companies/the-subvocal-company",
+      "url": "https://www.ycombinator.com/companies/opencrawl",
       "changed_fields": [
-        "small_logo_thumb_url"
+        "api",
+        "former_names",
+        "long_description",
+        "name",
+        "one_liner",
+        "slug",
+        "small_logo_thumb_url",
+        "tags",
+        "url",
+        "website"
       ],
       "changes": {
+        "api": {
+          "before": "https://yc-oss.github.io/api/batches/fall-2026/onepatch.json",
+          "after": "https://yc-oss.github.io/api/batches/fall-2026/opencrawl.json"
+        },
+        "former_names": {
+          "before": [],
+          "after": [
+            "OnePatch"
+          ]
+        },
+        "long_description": {
+          "before": "OnePatch is a forward-deployed AI SRE. It instruments your services, watches how they actually behave in prod, catches incidents, and drives each one to resolution. Think Datadog, except it doesn't stop at telling you something broke: it keeps going until the fix is shipped.",
+          "after": "OpenCrawl lets agents search over hard-to-find multimodal data.\r\nAgents describe the data they need; OpenCrawl finds the sources, then builds and hosts custom crawlers, processing and search indexes. Each index is tuned to be the fastest, most accurate search over that data. Developers wire it into their products through MCP, CLI or API. Teams use it to find answers across their own files, tools and legacy systems."
+        },
+        "name": {
+          "before": "OnePatch",
+          "after": "OpenCrawl"
+        },
+        "one_liner": {
+          "before": "Automate on-call at agent-scale.",
+          "after": "Search infrastructure, built for your agents."
+        },
+        "slug": {
+          "before": "onepatch",
+          "after": "opencrawl"
+        },
         "small_logo_thumb_url": {
-          "before": "https://bookface-images.s3.amazonaws.com/small_logos/cacc4ab40596ece6b5c77c3f350ee25ddf5cb079.png",
-          "after": "https://bookface-images.s3.amazonaws.com/small_logos/932b2d47f36f3bce67a23cc2ce77599b9f364edd.png"
+          "before": "https://bookface-images.s3.amazonaws.com/small_logos/7832df887d718a7dbfbcec376ef2b160c31b16da.png",
+          "after": "https://bookface-images.s3.amazonaws.com/small_logos/9596390d36aa4aa0fc71e53dba1dc5db18a89293.png"
+        },
+        "tags": {
+          "before": [
+            "DevOps",
+            "Automation",
+            "AI"
+          ],
+          "after": [
+            "Data Engineering",
+            "Search",
+            "AI"
+          ]
+        },
+        "url": {
+          "before": "https://www.ycombinator.com/companies/onepatch",
+          "after": "https://www.ycombinator.com/companies/opencrawl"
+        },
+        "website": {
+          "before": "https://onepatch.dev",
+          "after": "https://getopencrawl.com"
         }
       }
     },
     {
-      "id": 37468,
-      "name": "Ageospatial",
-      "slug": "ageospatial",
+      "id": 36088,
+      "name": "EveryApp",
+      "slug": "everyapp",
       "batch": "Fall 2026",
-      "url": "https://www.ycombinator.com/companies/ageospatial",
+      "url": "https://www.ycombinator.com/companies/everyapp",
       "changed_fields": [
-        "small_logo_thumb_url"
+        "all_locations",
+        "api",
+        "former_names",
+        "industries",
+        "long_description",
+        "name",
+        "one_liner",
+        "regions",
+        "slug",
+        "subindustry",
+        "tags",
+        "url",
+        "website"
       ],
       "changes": {
-        "small_logo_thumb_url": {
-          "before": "https://bookface-images.s3.amazonaws.com/small_logos/74f6c9e933a7a4a3c86d3c81c6964ca26989ba26.png",
-          "after": "https://bookface-images.s3.amazonaws.com/small_logos/83235957278f55744117e59eee39de71b5266a09.png"
+        "all_locations": {
+          "before": "Boston, MA, USA",
+          "after": ""
+        },
+        "api": {
+          "before": "https://yc-oss.github.io/api/batches/fall-2026/openseo.json",
+          "after": "https://yc-oss.github.io/api/batches/fall-2026/everyapp.json"
+        },
+        "former_names": {
+          "before": [
+            "Every App"
+          ],
+          "after": [
+            "Every App",
+            "OpenSEO"
+          ]
+        },
+        "industries": {
+          "before": [
+            "B2B",
+            "Marketing"
+          ],
+          "after": [
+            "B2B"
+          ]
+        },
+        "long_description": {
+          "before": "Connect to your AI Agent in 2 minutes.\r\n\r\nGet expert level advice tailored to your business backed by real data like keyword search traffic, backlinks, and technical audits of your site.\r\n\r\nHere are some good skills to start with:\r\n\r\n/seo-audit What 1-2 changes to your website will drive more traffic?\r\n/keyword-research Find topics worth writing about?\r\n/competitor-analysis Understand your competitors’ SEO strategy.",
+          "after": "EveryApp is building open source alternatives to every SaaS. It’s a platform to host these open source apps and personal software. Everything runs behind one secure sign-in in your own Cloudflare account."
+        },
+        "name": {
+          "before": "OpenSEO",
+          "after": "EveryApp"
+        },
+        "one_liner": {
+          "before": "Open source alternative to Semrush and Ahrefs",
+          "after": "Make every app open source"
+        },
+        "regions": {
+          "before": [
+            "United States of America",
+            "America / Canada",
+            "Remote",
+            "Partly Remote"
+          ],
+          "after": [
+            "Remote",
+            "Partly Remote"
+          ]
+        },
+        "slug": {
+          "before": "openseo",
+          "after": "everyapp"
+        },
+        "subindustry": {
+          "before": "B2B -> Marketing",
+          "after": "B2B"
+        },
+        "tags": {
+          "before": [
+            "Open Source",
+            "Marketing",
+            "SEO"
+          ],
+          "after": [
+            "Developer Tools",
+            "Open Source",
+            "Marketing"
+          ]
+        },
+        "url": {
+          "before": "https://www.ycombinator.com/companies/openseo",
+          "after": "https://www.ycombinator.com/companies/everyapp"
+        },
+        "website": {
+          "before": "https://openseo.so/",
+          "after": "https://everyapp.com"
+        }
+      }
+    },
+    {
+      "id": 38094,
+      "name": "Super Powers Mobility (SPM)",
+      "slug": "super-powers-mobility-spm",
+      "batch": "Fall 2026",
+      "url": "https://www.ycombinator.com/companies/super-powers-mobility-spm",
+      "changed_fields": [
+        "one_liner"
+      ],
+      "changes": {
+        "one_liner": {
+          "before": "Modular battery packs for mobility/vehicles",
+          "after": "The highest performance modular battery packs for mobility/vehicles"
+        }
+      }
+    },
+    {
+      "id": 40140,
+      "name": "Tesser",
+      "slug": "tesser",
+      "batch": "Winter 2027",
+      "url": "https://www.ycombinator.com/companies/tesser",
+      "changed_fields": [
+        "one_liner"
+      ],
+      "changes": {
+        "one_liner": {
+          "before": "The modern development runtime",
+          "after": "Seamless cloud dev environments"
         }
       }
     }

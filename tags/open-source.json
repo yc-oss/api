@@ -3891,7 +3891,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/65bf3f581eea5d1a5b7640c508e3fc0e7c8930f9.png",
     "website": "https://lamin.ai",
-    "all_locations": "",
+    "all_locations": "BY, Germany",
     "long_description": "We make it easy to query, trace, and govern R&D data in the age of AI, serving big pharma enterprises, biotech, and academia.\r\n\r\nOur core product is an open-source, lineage-native, format-agnostic lakehouse for agents and teams.",
     "one_liner": "Open data platform for traceable, multimodal AI",
     "team_size": 12,
@@ -3916,6 +3916,8 @@
       "Infrastructure"
     ],
     "regions": [
+      "Germany",
+      "Europe",
       "Remote",
       "Partly Remote"
     ],
@@ -4570,16 +4572,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/78acdf0f2271926c4c6856385a0b7846a8135bd7.png",
     "website": "https://rivet.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Rivet Actors are the primitive for stateful workloads.\r\n\r\nBuilt for AI agents, collaborative apps, and durable execution.\r\n\r\nOpen-source.",
-    "one_liner": "Rivet Actors are the primitive for stateful workloads",
-    "team_size": 5,
+    "long_description": "A fast, high-density and scalable orchestrator for every workload an agent needs.\r\nOpen-source and self-hostable.\r\n\r\nOpen source and self-hostable alternative to Durable Objects",
+    "one_liner": "The orchestrator for agentic workloads.",
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1675129787,
     "tags": [
       "B2B",
       "Open Source",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5387,7 +5390,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6668d68dbb65664dcc7f40eff60e4ee586f09132.png",
     "website": "https://paradedb.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations.",
+    "long_description": "When Postgres queries get too slow, developers usually reach for systems like Elasticsearch. ParadeDB makes text and vector search, filters, facets, and joins fast in Postgres, so you can keep scaling with it.",
     "one_liner": "You should just use Postgres.",
     "team_size": 11,
     "industry": "B2B",
@@ -6237,8 +6240,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f632f905565346c94d60925b5fcc1728cf28368.png",
     "website": "https://opslane.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Opslane catches the bugs code review misses. On every PR, it runs your app against test versions of the services it calls, from Stripe to the LLM. Then it tries what breaks in production: a service failing, two requests at once, a restart mid-job.",
-    "one_liner": "Catch bugs that code review tools miss",
+    "long_description": "Opslane catches the bugs code review misses. On every PR, it runs your app against realistic copies of the services it depends(from Stripe to Slack). Then it tries what breaks in production: a service failing, two requests at once, a restart mid-job.",
+    "one_liner": "AI Code Review tool that runs your app",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -7118,7 +7121,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3838f80b214ed1fcda53a2778860e8be11cfdb0d.png",
     "website": "https://manufact.com",
-    "all_locations": "ZH, Switzerland",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Manufact is the MCP cloud platform to get your product ready for Claude Connectors marketplace, ChatGPT / Codex plugins store and any AI agent that supports MCP.\r\nWe're the team behind mcp-use SDK, the open-source framework for building MCP Apps with 10k github stars and 10M+ downloads across python and typescript.\r\n\r\nIt's the fastest and most complete solution for production-ready MCP servers.",
     "one_liner": "Cloud infrastructure for MCP servers and Claude / ChatGPT plugins.",
     "team_size": 5,
@@ -7143,8 +7146,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "Switzerland",
-      "Europe"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -7854,25 +7857,31 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2027/lucebox.json"
   },
   {
-    "id": 36088,
-    "name": "OpenSEO",
-    "slug": "openseo",
+    "id": 35553,
+    "name": "0.security",
+    "slug": "0security",
     "former_names": [
-      "Every App"
+      "0sec Labs",
+      "0sec",
+      "0sec Labs",
+      "0sec",
+      "0security"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4748ea4cce3f5b77e3f8a5d77e2720edaffb5983.png",
-    "website": "https://openseo.so/",
-    "all_locations": "Boston, MA, USA",
-    "long_description": "Connect to your AI Agent in 2 minutes.\r\n\r\nGet expert level advice tailored to your business backed by real data like keyword search traffic, backlinks, and technical audits of your site.\r\n\r\nHere are some good skills to start with:\r\n\r\n/seo-audit What 1-2 changes to your website will drive more traffic?\r\n/keyword-research Find topics worth writing about?\r\n/competitor-analysis Understand your competitors’ SEO strategy.",
-    "one_liner": "Open source alternative to Semrush and Ahrefs",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4a356af2535effc85a23e22046de196453243ce.png",
+    "website": "https://0.security",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "0.security is an applied AI research lab helping developers, AI-native startups, growing teams, and enterprises to continuously find & fix security risks 24/7.\r\n\r\nOur autonomous cybersecurity team has found & fixed previously unknown vulnerabilities in operating systems, government code and software powering more than 3 billion devices.\r\n\r\nWe work with EY, big pharma, financial services, AI-native startups and defense organisations to secure systems at the pace & depth needed to defend against AI-powered attackers.",
+    "one_liner": "The autonomous cybersecurity team",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1790725906,
+    "subindustry": "B2B -> Security",
+    "launched_at": 1793060379,
     "tags": [
+      "B2B",
       "Open Source",
-      "Marketing",
-      "SEO"
+      "Cybersecurity",
+      "Enterprise",
+      "Defense"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7882,11 +7891,52 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Marketing"
+      "Security"
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/0security",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/0security.json"
+  },
+  {
+    "id": 36088,
+    "name": "EveryApp",
+    "slug": "everyapp",
+    "former_names": [
+      "Every App",
+      "OpenSEO"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4748ea4cce3f5b77e3f8a5d77e2720edaffb5983.png",
+    "website": "https://everyapp.com",
+    "all_locations": "",
+    "long_description": "EveryApp is building open source alternatives to every SaaS. It’s a platform to host these open source apps and personal software. Everything runs behind one secure sign-in in your own Cloudflare account.",
+    "one_liner": "Make every app open source",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1790725906,
+    "tags": [
+      "Developer Tools",
+      "Open Source",
+      "Marketing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
       "Remote",
       "Partly Remote"
     ],
@@ -7895,8 +7945,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/openseo",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/openseo.json"
+    "url": "https://www.ycombinator.com/companies/everyapp",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/everyapp.json"
   },
   {
     "id": 37038,

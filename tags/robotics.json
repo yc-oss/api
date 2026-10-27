@@ -5063,7 +5063,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Hub is a multimodal lab providing real world data to frontier labs and robotic companies.",
     "one_liner": "Real-world training data for frontier AI labs and robotics.",
-    "team_size": 40,
+    "team_size": 60,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1773429014,
@@ -5485,6 +5485,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/synapse-semiconductor.json"
   },
   {
+    "id": 32197,
+    "name": "Evident Machines",
+    "slug": "evident-machines",
+    "former_names": [
+      "Buildbox"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/295be512801662b8dbfc7a0247cb6e74b367b70c.png",
+    "website": "https://evidentmachines.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Evident Machines builds benchmarks for frontier AI in electrical engineering. We turn real research and engineering projects into evaluations grounded in computation, simulation, and physical experimentation. Our work helps frontier labs understand how models exercise scientific judgment and develop the capabilities needed to carry out research in the physical world.",
+    "one_liner": "Real-world benchmarks for electrical engineering",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1785235599,
+    "tags": [
+      "Hardware",
+      "Machine Learning",
+      "Robotics",
+      "Electronics",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/evident-machines",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/evident-machines.json"
+  },
+  {
     "id": 32206,
     "name": "DeepReach Inc.",
     "slug": "deepreach-inc",
@@ -5879,7 +5923,7 @@
     "website": "https://movingatoms.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Our first model, Atom 1, pre-trained on the internets video, and fine tuned for physics. \r\nIt has been action conditioned, so you can simulate robot actions within it.\r\nThis lets Robot Labs train their robots using GPUs instead of relying on human collected manual data that is slow and expensive.\r\nIn unseen and hard to replicate environments, this is the only path to getting ANY training data.",
-    "one_liner": "Virtual Reality for Training Robots",
+    "one_liner": "Scan to 3D Model",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -6214,52 +6258,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/runtimesi",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/runtimesi.json"
-  },
-  {
-    "id": 34896,
-    "name": "Faraday",
-    "slug": "faraday",
-    "former_names": [
-      "Faraday Cage",
-      "Faraday",
-      "Faraday Cage"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fbde4bac30252064b1c0af408469172eea1d9b55.png",
-    "website": "https://faradaycompute.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Faraday builds industrial AI that learns how enterprises operate and executes long-horizon, multi-step tasks from the back office to the shop floor.\r\n\r\nWe sit on top of fragmented systems of record, coordinating work across existing software and teams. We combine operating procedures, enterprise data, and expert feedback to capture the rules and judgment behind complex processes. In customer-specific RL environments, we optimize the agent harness around each company’s systems, constraints, approvals, and exceptions.\r\n\r\nWe’re connecting to industrial hardware to bring live production data into the same feedback loop. Human corrections, machine data, and operating results help improve how agents plan and execute future work.\r\n",
-    "one_liner": "Agents running manufacturers from the back office to the shop floor",
-    "team_size": 2,
-    "industry": "Industrials",
-    "subindustry": "Industrials",
-    "launched_at": 1789851118,
-    "tags": [
-      "Robotics",
-      "B2B",
-      "Manufacturing",
-      "Enterprise Software",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2026",
-    "status": "Active",
-    "industries": [
-      "Industrials"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/faraday",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/faraday.json"
   },
   {
     "id": 35127,

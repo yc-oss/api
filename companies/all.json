@@ -76980,7 +76980,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2019",
     "status": "Active",
@@ -99383,7 +99383,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -101825,7 +101825,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2020",
     "status": "Active",
@@ -113040,7 +113040,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -126761,7 +126761,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/01c24744d6258fd6efd2c9b5f35465ca85adc1e0.png",
     "website": "https://www.enerjazz.tech/",
-    "all_locations": "Berlin, Berlin, Germany; Delhi, DL, India",
+    "all_locations": "San Francisco, CA, USA; Delhi, DL, India",
     "long_description": "Enerjazz is building a battery swapping network (like gasoline stations) for 2M+ commercial electric vehicles in India. We make batteries affordable for EV owners and enable them to earn 80% more. ",
     "one_liner": "Making electric vehicle batteries affordable ",
     "team_size": 9,
@@ -126782,9 +126782,9 @@
       "Climate"
     ],
     "regions": [
-      "Germany",
+      "United States of America",
       "India",
-      "Europe",
+      "America / Canada",
       "South Asia"
     ],
     "stage": "Early",
@@ -158956,21 +158956,28 @@
   },
   {
     "id": 26810,
-    "name": "Ten Lives",
-    "slug": "ten-lives",
+    "name": "Terraferma",
+    "slug": "terraferma",
     "former_names": [
-      "Terraferma Foods"
+      "Terraferma Foods",
+      "Ten Lives"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e831961d555ac79ac4d50f463f10bdbd3cfc71ad.png",
-    "website": "https://tenlives.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a42a54af1e4135c740b51a74240219ed4392b644.png",
+    "website": "https://terraferma.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We optimize microbial factories to produce proteins at the lowest possible cost and environmental impact. Our mission is to make sustainable protein sources a cost-viable alternative, for all members of the family.",
-    "one_liner": "Manufacturing more proteins with AI.",
+    "long_description": "Terraferma's high-titer platform bridges the gap between computational protein design and commercial production, combining AI/ML-guided strain engineering with ultra-high-throughput genetic screens to make more proteins faster, at lower economic and environmental cost.",
+    "one_liner": "The world's best protein manufacturing platform.",
     "team_size": 6,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Food and Beverage",
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1658109207,
-    "tags": [],
+    "tags": [
+      "Machine Learning",
+      "Synthetic Biology",
+      "Manufacturing",
+      "Automation",
+      "Biotechnology"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -158978,8 +158985,8 @@
     "batch": "Summer 2022",
     "status": "Active",
     "industries": [
-      "Consumer",
-      "Food and Beverage"
+      "Industrials",
+      "Manufacturing and Robotics"
     ],
     "regions": [
       "United States of America",
@@ -158990,8 +158997,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ten-lives",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/ten-lives.json"
+    "url": "https://www.ycombinator.com/companies/terraferma",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/terraferma.json"
   },
   {
     "id": 26811,
@@ -160285,24 +160292,27 @@
   },
   {
     "id": 26890,
-    "name": "Latent Space",
-    "slug": "latent-space",
+    "name": "OpenScale",
+    "slug": "openscale",
     "former_names": [
       "wagmi",
-      "Payable"
+      "Payable",
+      "Latent Space"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c0b56165e84e87a8ef9fc8ec4eddc18beadea9d.png",
-    "website": "https://latentspace.sh/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac8dea3a9e37379ddfaa9b0b53f21208acf79b25.png",
+    "website": "https://openscale.so/",
     "all_locations": "Jakarta, Jakarta, Indonesia",
     "long_description": "Latent Space develops AI applications specifically designed to address the unique challenges and opportunities in emerging economies. Our products are Halo AI (an AI universal concierge for SEA enterprises), GoVisa (an AI-enabled online visa and permit application), and Supa (a hyperlocal knowledge AI for 280M+ Indonesians).",
-    "one_liner": "Applied AI for The Emerging Economies",
-    "team_size": 100,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
+    "one_liner": "The cheapest, fastest way to run open models and agent sandboxes",
+    "team_size": 50,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
     "launched_at": 1657560214,
     "tags": [
-      "SaaS",
-      "Workflow Automation",
+      "Developer Tools",
+      "API",
+      "Cloud Computing",
+      "Infrastructure",
       "AI"
     ],
     "tags_highlighted": [],
@@ -160312,7 +160322,8 @@
     "batch": "Summer 2022",
     "status": "Active",
     "industries": [
-      "Consumer"
+      "B2B",
+      "Infrastructure"
     ],
     "regions": [
       "Indonesia",
@@ -160325,8 +160336,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/latent-space",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/latent-space.json"
+    "url": "https://www.ycombinator.com/companies/openscale",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/openscale.json"
   },
   {
     "id": 26897,
@@ -161729,7 +161740,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/65bf3f581eea5d1a5b7640c508e3fc0e7c8930f9.png",
     "website": "https://lamin.ai",
-    "all_locations": "",
+    "all_locations": "BY, Germany",
     "long_description": "We make it easy to query, trace, and govern R&D data in the age of AI, serving big pharma enterprises, biotech, and academia.\r\n\r\nOur core product is an open-source, lineage-native, format-agnostic lakehouse for agents and teams.",
     "one_liner": "Open data platform for traceable, multimodal AI",
     "team_size": 12,
@@ -161754,6 +161765,8 @@
       "Infrastructure"
     ],
     "regions": [
+      "Germany",
+      "Europe",
       "Remote",
       "Partly Remote"
     ],
@@ -173866,16 +173879,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/78acdf0f2271926c4c6856385a0b7846a8135bd7.png",
     "website": "https://rivet.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Rivet Actors are the primitive for stateful workloads.\r\n\r\nBuilt for AI agents, collaborative apps, and durable execution.\r\n\r\nOpen-source.",
-    "one_liner": "Rivet Actors are the primitive for stateful workloads",
-    "team_size": 5,
+    "long_description": "A fast, high-density and scalable orchestrator for every workload an agent needs.\r\nOpen-source and self-hostable.\r\n\r\nOpen source and self-hostable alternative to Durable Objects",
+    "one_liner": "The orchestrator for agentic workloads.",
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1675129787,
     "tags": [
       "B2B",
       "Open Source",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -179196,7 +179210,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -184546,7 +184560,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6668d68dbb65664dcc7f40eff60e4ee586f09132.png",
     "website": "https://paradedb.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations.",
+    "long_description": "When Postgres queries get too slow, developers usually reach for systems like Elasticsearch. ParadeDB makes text and vector search, filters, facets, and joins fast in Postgres, so you can keep scaling with it.",
     "one_liner": "You should just use Postgres.",
     "team_size": 11,
     "industry": "B2B",
@@ -190414,9 +190428,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b5f257204d98f9d544a5265e0aac1efeeae4f1f3.png",
     "website": "https://zaymo.com",
     "all_locations": "Lehi, UT, USA",
-    "long_description": "Zaymo is a full-stack retention marketing agency for the largest brands on Shopify. We bring all your data in house, remove the guess work, and automate the busy work. Agents find opportunities, build content, and iterate autonomously while expert retention marketers help you set strategy and oversee outputs.",
-    "one_liner": "Zaymo is building an AI marketing agency",
-    "team_size": 18,
+    "long_description": "Zaymo builds the tools AI agents use to do marketing, for the largest ecommerce brands in the world. ~500 brands, including Grüns, Harry's, AG1 and Liquid I.V. (Unilever), run on Zaymo.\n\nOur wedge is interactive email. We made emails work like websites: shoppers buy, swap or skip a subscription without leaving the inbox. It closes 75%+ of the brands we pitch and put us inside the email programs of hundreds of the best brands in ecommerce.\n\nNow we're building the agents that run those programs. Brands pay agencies ~$70k a year to run email, and the good ones run one or two tests a month. Our agents audit the program, write and design on-brand campaigns, QA them, and run hundreds of experiments optimized for profit, not just revenue, with an expert human owning the outcome. We build for the agent a marketer already uses (Claude, via MCP), not yet another chatbot.\n\n$5M ARR, 5x'ing this year, consistently cash-flow positive.",
+    "one_liner": "Tools for AI agents to run marketing for the world's biggest…",
+    "team_size": 19,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1701370559,
@@ -197095,7 +197109,7 @@
     "regions": [
       "Unspecified"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -203190,8 +203204,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f632f905565346c94d60925b5fcc1728cf28368.png",
     "website": "https://opslane.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Opslane catches the bugs code review misses. On every PR, it runs your app against test versions of the services it calls, from Stripe to the LLM. Then it tries what breaks in production: a service failing, two requests at once, a restart mid-job.",
-    "one_liner": "Catch bugs that code review tools miss",
+    "long_description": "Opslane catches the bugs code review misses. On every PR, it runs your app against realistic copies of the services it depends(from Stripe to Slack). Then it tries what breaks in production: a service failing, two requests at once, a restart mid-job.",
+    "one_liner": "AI Code Review tool that runs your app",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -207070,7 +207084,7 @@
     "website": "https://pipeshift.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Pipeshift offers ultra-low latency infrastructure for engineering teams to run real-time inference in production. We offer latency-optimized runtimes for voice, chat, and physical AI, paired with distributed orchestration that routes and auto-scales across clusters and regions — typically 3 to 5X lower time-to-first-audio, so teams serve 2x the users on the same hardware.",
-    "one_liner": "Inference for real-time voice and chat",
+    "one_liner": "Inference for real-time agents",
     "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -209213,7 +209227,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2024",
     "status": "Active",
@@ -210027,7 +210041,7 @@
     "website": "https://riskcube.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Mission: Building insurance products & services focused on lowering the protection gap for the innovation economy on a national and global scale. \r\n\r\nToday, we operate an insurance brokerage focused on startups. Through the brokerage, we see firsthand where traditional insurance products fail, from AI liability and autonomous systems to defense technology and new space risks.\r\n\r\nWe are now building proprietary risk models that can price risks even when little historical claims data exists. Our approach uses stochastic simulation, then applies traditional, explainable models to make the output transparent to underwriters and regulators.\r\n\r\nThis allows us to create new insurance and reinsurance products for emerging industries much faster than traditional carriers.\r\n",
-    "one_liner": "Commercial insurance brokerage for startups. ",
+    "one_liner": "AI commercial insurance brokerage for startups. ",
     "team_size": 3,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
@@ -211713,7 +211727,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a8759a02d8be9a9d533e889c8828572da197bc1b.png",
     "website": "https://www.futureclinic.com",
     "all_locations": "New York City, NY, USA",
-    "long_description": "FutureClinic is a platform that makes it easy for any doctor to open their own digital clinic. Our AI assistant takes a comprehensive medical history using an empathic chat or voice-based interface, uses sophisticated medical reasoning to narrow down likely diagnoses, and produces evidence-based treatment suggestions for each patient. Licensed doctors then review the text-based summaries of the cases our AI provides, and choose how to manage the patients. In this fashion, we're able to deliver end-to-end healthcare in a way that makes personalized, expert healthcare scalable to 8 billion people around the world. ",
+    "long_description": "FutureClinic is the world's largest agent-native medical clinic: over 300 doctors (generalists and specialists, covering over 63 specialty types) you can reach directly from Claude, ChatGPT or whichever AI agent you already use. \r\n\r\nHundreds of millions of people use AI models to better understand their own health. But when it comes time to take that information and turn it into medical care, they're left going back to the broken healthcare system, waiting months for a rushed appointment, and feeling frustrated that their doctor doesn't have the time to digest the research they've done with their AI. \r\n\r\nNow, you can ask your AI to bring in a real doctor into that same conversation. A physician reads your whole case and answers you personally, typically within a few hours, and sends a live recorded video called a Human Signature with their response so you know you're getting real care from an expert every time.\r\n\r\nThey can diagnose, prescribe to the pharmacy you choose, order lab tests and even imaging when needed. A visit is $40, with no insurance, appointment or subscription needed, in 33 states and Washington, D.C. You can also start at futureclinic.com. \r\n\r\nFor doctors, FutureClinic is the way to become a personal doctor to patients directly. Build your own AI-native clinic for free in under 3 minutes, get found by the AI agents patients already turn to for help, and set your own prices and hours. Malpractice coverage is included. It’s care on your terms, where you're in control, with no private equity owner or hospital system standing between you and your patients.",
     "one_liner": "Personal doctors through chat",
     "team_size": 4,
     "industry": "Healthcare",
@@ -215850,8 +215864,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ad757e8400d1148cc83fb94eb774347a9fe0f4ad.png",
     "website": "https://www.pickle.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pickle is a personal AI agent that gets things done for you. Every user has their own Pickle, which they talk to by voice or chat. It works in its own cloud browser, signs in to the services you already use, and finishes everyday tasks end to end: ordering food, booking rides, flights and restaurant tables, shopping, sending money, and handling paperwork. It places phone calls on your behalf in 81 countries, sends a morning briefing, and runs scheduled tasks. Pickles also talk to each other, so you can send yours to a friend’s Pickle to settle a dinner plan or split a bill.\r\n\r\nEvery Pickle earns trust in steps, from small errands to the accounts, cards, and identity it needs to act for you. Credentials stay in a hardware-isolated enclave that neither the model nor our servers can read, every action goes to a log you can see in the app, and nothing is used to train models.\r\n\r\nPickle is live on the App Store in the US and launches in Korea next, as the first personal agent built for Korea’s identity checks, payment rails, and everyday services, with the aim of becoming the country’s national app.",
-    "one_liner": "The personal AI agent for Korea.",
+    "long_description": "Pickle is the personal AI agent network for Asia. Instead of building another chatbot or an overcrowded super-app, Pickle replaces daily life administration with an \"invisible super-app\" powered by autonomous background tool execution—handling restaurant bookings, store phone calls, delivery tracking, administrative paperwork, and local payments without user micromanagement. Because every user gets a dedicated agent with persistent memory and local context, Pickles naturally connect with one another: coordinating schedules between friends, exchanging local recommendations, and delegating shared errands. Driven by 70%+ D1 retention and strong organic viral loops (K-factor > 1.2), this creates an unprecedented Agent-to-Agent (A2A) network effect. Starting with Korea and Japan, Pickle integrates deeply with local messaging (Kakao, LINE), local identity, and payment rails to become the default consumer execution layer across 670M people in Asia.",
+    "one_liner": "The personal AI agent network for Asia",
     "team_size": 6,
     "industry": "Consumer",
     "subindustry": "Consumer -> Consumer Electronics",
@@ -223779,10 +223793,10 @@
     "website": "https://syntheticsociety.ai/",
     "all_locations": "New York City, NY, USA",
     "long_description": "",
-    "one_liner": "Synthetic Videos to Simulate Real Users",
+    "one_liner": "Synthetic Videos to Power Marketing",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "subindustry": "B2B -> Marketing",
     "launched_at": 1752639112,
     "tags": [],
     "tags_highlighted": [],
@@ -223793,7 +223807,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Engineering, Product and Design"
+      "Marketing"
     ],
     "regions": [
       "United States of America",
@@ -226491,7 +226505,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Verne builds general‑purpose physical AI. We deploy robots to expand the productive capacity of the physical world.",
     "one_liner": "AI models that teach robots new skills in hours",
-    "team_size": 7,
+    "team_size": 8,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1753480338,
@@ -229043,7 +229057,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -229561,7 +229575,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3838f80b214ed1fcda53a2778860e8be11cfdb0d.png",
     "website": "https://manufact.com",
-    "all_locations": "ZH, Switzerland",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Manufact is the MCP cloud platform to get your product ready for Claude Connectors marketplace, ChatGPT / Codex plugins store and any AI agent that supports MCP.\r\nWe're the team behind mcp-use SDK, the open-source framework for building MCP Apps with 10k github stars and 10M+ downloads across python and typescript.\r\n\r\nIt's the fastest and most complete solution for production-ready MCP servers.",
     "one_liner": "Cloud infrastructure for MCP servers and Claude / ChatGPT plugins.",
     "team_size": 5,
@@ -229586,8 +229600,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "Switzerland",
-      "Europe"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -236698,7 +236712,7 @@
     "name": "Aside",
     "slug": "aside",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e9196c93cd4fc802b51eabcb6432760d1efd3fb.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/433466322b82d033544acff5354641108752eb11.png",
     "website": "https://aside.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Aside is an AI browser that completes real work across the websites you already use. It can sign in through your browser, work inside email, dashboards, internal tools, docs, and spreadsheets, and keep going when a task takes minutes or hours.\r\n\r\nUnlike agents that depend on integrations, Aside uses the web the way you do. Browsing history becomes local memory, so it knows which tools and context matter. Its password manager lets agents autofill credentials without exposing secrets to the AI. Sensitive actions like payments, posts, and messages wait for your approval.\r\n\r\nWe achieved state-of-the-art on agentic browsing benchmarks, surpassing OpenAI and Anthropic's result- Aside ranked #1 across Mind2Web, Odyssey, bu-bench-v1.",
@@ -244062,6 +244076,50 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/inventoryquant.json"
   },
   {
+    "id": 31198,
+    "name": "Wingman Law",
+    "slug": "wingman-law",
+    "former_names": [
+      "Haven Law",
+      "Helios Law"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2127606306fa68c80f746873e01b87bbfb011128.png",
+    "website": "https://www.wingmanlaw.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Wingman Law is an AI-native personal injury law firm. Attorneys lead a team of AI agents to recover compensation for people injured in accidents. We are solving the human bottle neck in personal injury. \r\n\r\n",
+    "one_liner": "AI-native personal injury law firm",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1764179577,
+    "tags": [
+      "Generative AI",
+      "Legal",
+      "LegalTech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/wingman-law",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/wingman-law.json"
+  },
+  {
     "id": 31199,
     "name": "Emdash",
     "slug": "emdash",
@@ -244839,13 +244897,15 @@
   },
   {
     "id": 31222,
-    "name": "Superset",
-    "slug": "superset",
-    "former_names": [],
+    "name": "Paradev (formerly Superset)",
+    "slug": "paradev",
+    "former_names": [
+      "Superset"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9c4aa01fc589ba1d208558f7b720c6081f672b08.png",
-    "website": "https://www.superset.sh/",
+    "website": "https://paradev.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Superset is an open-source IDE that helps engineers run 100s of coding agents in parallel.\r\n\r\nOur desktop app is loved by tens of thousands of engineers, and we're scaling out our effort to build a collaborative, cross-platform tool to allow users to code anywhere.",
+    "long_description": "Paradev (formerly Superset) is an open-source IDE that helps engineers run 100s of coding agents in parallel.\r\n\r\nOur desktop app is loved by tens of thousands of engineers, and we're scaling out our effort to build a collaborative, cross-platform tool to allow users to code anywhere.",
     "one_liner": "Building self-improving software",
     "team_size": 4,
     "industry": "B2B",
@@ -244877,8 +244937,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/superset",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/superset.json"
+    "url": "https://www.ycombinator.com/companies/paradev",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/paradev.json"
   },
   {
     "id": 31223,
@@ -249012,7 +249072,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Hub is a multimodal lab providing real world data to frontier labs and robotic companies.",
     "one_liner": "Real-world training data for frontier AI labs and robotics.",
-    "team_size": 40,
+    "team_size": 60,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1773429014,
@@ -249344,12 +249404,12 @@
     "name": "Zolvo",
     "slug": "zolvo",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/13449379aadac83de276a47cb8ee88b50b55c4f8.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b666a649770aa03e873bbfd549d566bd445e8766.png",
     "website": "https://zolvo.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Commercial lenders manage billions in assets on legacy software and manual workflows, their systems live on people’s heads like its the 90s. Zolvo replaces the entire back office with AI: automated data ingestion, invoice reconciliation, collections outreach, and funder monitoring. Our clients go live in weeks and eliminate hours of daily manual work per operator, allowing teams to only handle exceptions. We're building the future of commercial lending.",
-    "one_liner": "AI Back-Office Automation for Commercial Lenders",
-    "team_size": 3,
+    "long_description": "Zolvo automates repetitive work for commercial lenders, from document review and invoice verification to collections, payment matching, and reporting. It works as a loan management system or alongside your existing one.",
+    "one_liner": "AI for Commercial Lending",
+    "team_size": 4,
     "industry": "Fintech",
     "subindustry": "Fintech -> Credit and Lending",
     "launched_at": 1773364062,
@@ -250084,11 +250144,11 @@
     "name": "ClaimKit",
     "slug": "claimkit",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3fc859869ec0d44cca04573f4fc8c9c6680e3a6c.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b90bb870bed1955c5ae08362040a4b0a5beed802.png",
     "website": "https://claimkit.co/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "AI-native professional services agency ",
+    "one_liner": "AI-native tax firm",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -251781,8 +251841,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac8d1fbd9622030ddfab1cc9a6fac1907350004f.png",
     "website": "https://reasonmachines.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Reason Machines builds Reason Agent, the autonomous software engineer for engineering teams. Reason connects to GitHub, reproduces bugs, writes code, passes tests, and ships review-ready pull requests with recordings and logs across cloud environments.",
-    "one_liner": "Reason Machines builds Reason Agent, the autonomous software engineer…",
+    "long_description": "Reason is an AI teammate for work and code that runs autonomous cloud agents with a frontier harness on cost per task.\r\n\r\nIt delivers the same performance with 22% lower costs than Codex. By operating with a harness outside the sandbox, it acts seamlessly across cloud computers and local devices.\r\n\r\nReason runs work from start to finish: from an issue to a finished pull request, on a schedule, or from a Slack alert. It is available as a Mac app, on the web, from the CLI, in Slack, and through a REST API, with about 100 integrations and shareable skills. Bring your own keys and subscriptions, and work rolls over to the next one when limits are hit.",
+    "one_liner": "Reason is the AI teammate for work and code.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -253943,7 +254003,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cd583af5fd7e25beb6cf6bd63167daa1273db6c5.png",
     "website": "https://manicule.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Manicule does AgentRel. We get companies discovered and used by AI agents. Think DevRel, rebuilt for a world where agents make all the decisions. We own developer documentation and technical content across social channels, end-to-end. We've grown 100% MoM over the last three months to $53K in monthly revenue, with customers like Supermemory, Greptile, Reducto, and Mastra.\r\n  \r\nGetting discovered and used by agents is its own job now, and the market for it is broken. The SEO/GEO SaaS tools just show you data like where you rank in AI answers. The agencies are slow and lack know-how with agents. The one person who could own all of it end-to-end, a DevRel, is nearly impossible to hire: our customers have had roles open for months at $300K+ and still can't find anyone good. \r\n\r\nWe solve all these gaps. Naman has been doing fractional DevRel since he was 13, working with companies like PromptLayer, Brightdata, and Courier.com. Shreyans has been building since 14 — he built an AI app that hit App Store Productivity Trending within a month, and\r\nwas the founding engineer at Supermemory. We met in high school and have built multiple startups together since.",
+    "long_description": "Manicule does AgentRel. We get companies discovered and used by AI agents. Think DevRel, rebuilt for a world where agents make all the decisions. \r\n\r\nOur software tracks how often AI recommends your product; our team handles the strategy, documentation, technical content, and distribution that help developers and coding agents use it. Customers include Agentmail, Greptile, Reducto, and Mastra.\r\n\r\nNaman has been doing fractional DevRel since 13. Shreyans started building at 14 and was Supermemory’s founding engineer. We met in high school and have built multiple startups together since.",
     "one_liner": "AgentRel — Devrel For Agents",
     "team_size": 8,
     "industry": "B2B",
@@ -254976,10 +255036,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f24300b3eb986e7f19356d2f4af0a1aefc7a5841.png",
     "website": "https://www.huscarl.io/",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Huscarl is building an autonomous AI actuary to enable self-insurance for corporations.\r\n\r\nLarge companies use insurance subsidiaries (\"captives\") to self-insure their risks. Some of these captives are larger than regional insurers. We provide them the actuarial and modeling layer to operate and grow.\r\n\r\nWe're building a future where self-insurance is the default, and commercial insurance the exception. This is the best way to solve the inefficiencies of the $1T corporate insurance market.",
-    "one_liner": "AI-native actuary enabling self-insurance for corporations",
-    "team_size": 2,
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Huscarl is building an autonomous AI actuary to solve the inefficiencies of the $1T USD corporate insurance market",
+    "one_liner": "Autonomous AI actuary for corporate insurance",
+    "team_size": 3,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1776797773,
@@ -254996,9 +255056,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -256053,7 +256111,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/493b89aecabc7b6fc643db9bad0535c31df8681d.png",
     "website": "https://olamlabs.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We push the complexity of simulations in order to provide labs with better model training and evaluations for their capability and safety needs. We achieve this through methods like multi-agent interaction and swarm RL.\r\n\r\nWe also run olamarena.com where humans come play multi-agent social games against models and inform our public evaluations on human <> agent interaction.",
+    "long_description": "We push the complexity of simulated environments in order to provide labs with better model training and evaluations for their capability and safety needs.\r\n\r\nWe also run olamarena.com where humans come play multi-agent social games against models and inform our public evaluations on human <> agent interaction.",
     "one_liner": "Crafting simulations for frontier lab model training",
     "team_size": 2,
     "industry": "B2B",
@@ -257395,6 +257453,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/realpact",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/realpact.json"
+  },
+  {
+    "id": 32197,
+    "name": "Evident Machines",
+    "slug": "evident-machines",
+    "former_names": [
+      "Buildbox"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/295be512801662b8dbfc7a0247cb6e74b367b70c.png",
+    "website": "https://evidentmachines.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Evident Machines builds benchmarks for frontier AI in electrical engineering. We turn real research and engineering projects into evaluations grounded in computation, simulation, and physical experimentation. Our work helps frontier labs understand how models exercise scientific judgment and develop the capabilities needed to carry out research in the physical world.",
+    "one_liner": "Real-world benchmarks for electrical engineering",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1785235599,
+    "tags": [
+      "Hardware",
+      "Machine Learning",
+      "Robotics",
+      "Electronics",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/evident-machines",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/evident-machines.json"
   },
   {
     "id": 32198,
@@ -260301,7 +260403,7 @@
     "website": "https://movingatoms.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Our first model, Atom 1, pre-trained on the internets video, and fine tuned for physics. \r\nIt has been action conditioned, so you can simulate robot actions within it.\r\nThis lets Robot Labs train their robots using GPUs instead of relying on human collected manual data that is slow and expensive.\r\nIn unseen and hard to replicate environments, this is the only path to getting ANY training data.",
-    "one_liner": "Virtual Reality for Training Robots",
+    "one_liner": "Scan to 3D Model",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -264600,7 +264702,6 @@
     "subindustry": "Industrials",
     "launched_at": 1789851118,
     "tags": [
-      "Robotics",
       "B2B",
       "Manufacturing",
       "Enterprise Software",
@@ -265516,21 +265617,23 @@
   },
   {
     "id": 35260,
-    "name": "OnePatch",
-    "slug": "onepatch",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7832df887d718a7dbfbcec376ef2b160c31b16da.png",
-    "website": "https://onepatch.dev",
+    "name": "OpenCrawl",
+    "slug": "opencrawl",
+    "former_names": [
+      "OnePatch"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9596390d36aa4aa0fc71e53dba1dc5db18a89293.png",
+    "website": "https://getopencrawl.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "OnePatch is a forward-deployed AI SRE. It instruments your services, watches how they actually behave in prod, catches incidents, and drives each one to resolution. Think Datadog, except it doesn't stop at telling you something broke: it keeps going until the fix is shipped.",
-    "one_liner": "Automate on-call at agent-scale.",
+    "long_description": "OpenCrawl lets agents search over hard-to-find multimodal data.\r\nAgents describe the data they need; OpenCrawl finds the sources, then builds and hosts custom crawlers, processing and search indexes. Each index is tuned to be the fastest, most accurate search over that data. Developers wire it into their products through MCP, CLI or API. Teams use it to find answers across their own files, tools and legacy systems.",
+    "one_liner": "Search infrastructure, built for your agents.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1788469833,
     "tags": [
-      "DevOps",
-      "Automation",
+      "Data Engineering",
+      "Search",
       "AI"
     ],
     "tags_highlighted": [],
@@ -265552,8 +265655,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/onepatch",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/onepatch.json"
+    "url": "https://www.ycombinator.com/companies/opencrawl",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/opencrawl.json"
   },
   {
     "id": 35261,
@@ -266676,6 +266779,55 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/orca-aerospace.json"
   },
   {
+    "id": 35553,
+    "name": "0.security",
+    "slug": "0security",
+    "former_names": [
+      "0sec Labs",
+      "0sec",
+      "0sec Labs",
+      "0sec",
+      "0security"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4a356af2535effc85a23e22046de196453243ce.png",
+    "website": "https://0.security",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "0.security is an applied AI research lab helping developers, AI-native startups, growing teams, and enterprises to continuously find & fix security risks 24/7.\r\n\r\nOur autonomous cybersecurity team has found & fixed previously unknown vulnerabilities in operating systems, government code and software powering more than 3 billion devices.\r\n\r\nWe work with EY, big pharma, financial services, AI-native startups and defense organisations to secure systems at the pace & depth needed to defend against AI-powered attackers.",
+    "one_liner": "The autonomous cybersecurity team",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1793060379,
+    "tags": [
+      "B2B",
+      "Open Source",
+      "Cybersecurity",
+      "Enterprise",
+      "Defense"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/0security",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/0security.json"
+  },
+  {
     "id": 35587,
     "name": "Ploid",
     "slug": "ploid",
@@ -267267,24 +267419,25 @@
   },
   {
     "id": 36088,
-    "name": "OpenSEO",
-    "slug": "openseo",
+    "name": "EveryApp",
+    "slug": "everyapp",
     "former_names": [
-      "Every App"
+      "Every App",
+      "OpenSEO"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4748ea4cce3f5b77e3f8a5d77e2720edaffb5983.png",
-    "website": "https://openseo.so/",
-    "all_locations": "Boston, MA, USA",
-    "long_description": "Connect to your AI Agent in 2 minutes.\r\n\r\nGet expert level advice tailored to your business backed by real data like keyword search traffic, backlinks, and technical audits of your site.\r\n\r\nHere are some good skills to start with:\r\n\r\n/seo-audit What 1-2 changes to your website will drive more traffic?\r\n/keyword-research Find topics worth writing about?\r\n/competitor-analysis Understand your competitors’ SEO strategy.",
-    "one_liner": "Open source alternative to Semrush and Ahrefs",
+    "website": "https://everyapp.com",
+    "all_locations": "",
+    "long_description": "EveryApp is building open source alternatives to every SaaS. It’s a platform to host these open source apps and personal software. Everything runs behind one secure sign-in in your own Cloudflare account.",
+    "one_liner": "Make every app open source",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
+    "subindustry": "B2B",
     "launched_at": 1790725906,
     "tags": [
+      "Developer Tools",
       "Open Source",
-      "Marketing",
-      "SEO"
+      "Marketing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -267293,12 +267446,9 @@
     "batch": "Fall 2026",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Marketing"
+      "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -267307,8 +267457,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/openseo",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/openseo.json"
+    "url": "https://www.ycombinator.com/companies/everyapp",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/everyapp.json"
   },
   {
     "id": 36114,
@@ -268804,6 +268954,46 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/clean.json"
   },
   {
+    "id": 37170,
+    "name": "Blinka",
+    "slug": "blinka",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b085876c74a1777f6976de94c51ed667db1b832.png",
+    "website": "https://blinka.co",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Blinka is banking for US companies operating globally.\r\n\r\nOur customers incorporate in the US but run their operations, teams, and vendors from other countries. They use Blinka as their primary operating account.\r\n\r\nWith Blinka, companies can:\r\n\r\n- Open a USD business account without being in the US.\r\n- Send money abroad without the usual 4–5% FX fees.\r\n- Earn yield on treasuries.\r\n- Issue global corporate cards with 1.5% cash back and 0 international fees.\r\n- Manage their financial operations with our AI tools.",
+    "one_liner": "Banking for US companies operating globally",
+    "team_size": 0,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Banking and Exchange",
+    "launched_at": 1793035530,
+    "tags": [
+      "Fintech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Banking and Exchange"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/blinka",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/blinka.json"
+  },
+  {
     "id": 37203,
     "name": "Volaren Inc.",
     "slug": "volaren-inc",
@@ -269977,7 +270167,7 @@
     "website": "https://www.spm.fun",
     "all_locations": "Pittsburgh, PA, USA",
     "long_description": "We started off building the highest performance, 470 volt electric off-road vehicles but we realized our ultra power dense battery packs are useful for mobile and stationary energy storage and power export, for military and consumer use cases. We develop battery packs, power electronics, and traction powertrain systems for vehicles.\r\n\r\nFor the majority of 2026 we were marketing our electric off-road vehicles, but we pivoted to selling our high performance battery packs and power export capabilities in the month of September. We went from having $769,000 in consumer pre-orders (possibly low conversion rate to sales) to $421,815 in realized revenue in 1 month, with a $792,000 qualified pipeline. \r\n\r\nOur tech is so compelling because the safety and layout of high voltage battery packs has only been mastered by large, well funded OEM companies who have brought it in-house. That means all other companies without the in-house expertise rely on battery companies to develop packs, and power electronics companies to develop power export capabilities. SPM has both of those capabilities in-house so we can ensure a fast turnaround and much more reliable product. \r\n\r\nOne of the biggest priorities of the department of war is energy dominance. We're seeing it constantly in new solicitations. Our strategy is superior - become a prime, but simultaneously service primes because most of then don't actually have the battery and power electronics expertise we have.\r\n\r\nFounded by Jon Powers - Ex-Tesla Sr. Mechanical Integration Engineer leading Cybertruck vehicle integration. ",
-    "one_liner": "Modular battery packs for mobility/vehicles",
+    "one_liner": "The highest performance modular battery packs for mobility/vehicles",
     "team_size": 4,
     "industry": "Industrials",
     "subindustry": "Industrials -> Defense",
@@ -270403,7 +270593,7 @@
     "website": "https://tesser.sh/",
     "all_locations": "",
     "long_description": "Tesser is a cloud development runtime that lets developers run multiple dev environments in parallel without overloading their laptops.\r\n\r\nOur CLI moves workloads like servers, builds, tests, and typechecking to isolated cloud machines while developers continue using their existing editors and coding agents. Tesser handles provisioning, networking, and port forwarding. Teams can access each other's environments through our gateway, share live previews, and run Tesser on our infrastructure or their own cloud (BYOC).\r\n",
-    "one_liner": "The modern development runtime",
+    "one_liner": "Seamless cloud dev environments",
     "team_size": 0,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",

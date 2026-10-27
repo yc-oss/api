@@ -6041,7 +6041,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2019",
     "status": "Active",
@@ -31654,16 +31654,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/78acdf0f2271926c4c6856385a0b7846a8135bd7.png",
     "website": "https://rivet.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Rivet Actors are the primitive for stateful workloads.\r\n\r\nBuilt for AI agents, collaborative apps, and durable execution.\r\n\r\nOpen-source.",
-    "one_liner": "Rivet Actors are the primitive for stateful workloads",
-    "team_size": 5,
+    "long_description": "A fast, high-density and scalable orchestrator for every workload an agent needs.\r\nOpen-source and self-hostable.\r\n\r\nOpen source and self-hostable alternative to Durable Objects",
+    "one_liner": "The orchestrator for agentic workloads.",
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1675129787,
     "tags": [
       "B2B",
       "Open Source",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -33076,7 +33077,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -44468,7 +44469,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -44583,7 +44584,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3838f80b214ed1fcda53a2778860e8be11cfdb0d.png",
     "website": "https://manufact.com",
-    "all_locations": "ZH, Switzerland",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Manufact is the MCP cloud platform to get your product ready for Claude Connectors marketplace, ChatGPT / Codex plugins store and any AI agent that supports MCP.\r\nWe're the team behind mcp-use SDK, the open-source framework for building MCP Apps with 10k github stars and 10M+ downloads across python and typescript.\r\n\r\nIt's the fastest and most complete solution for production-ready MCP servers.",
     "one_liner": "Cloud infrastructure for MCP servers and Claude / ChatGPT plugins.",
     "team_size": 5,
@@ -44608,8 +44609,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "Switzerland",
-      "Europe"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -46907,13 +46908,15 @@
   },
   {
     "id": 31222,
-    "name": "Superset",
-    "slug": "superset",
-    "former_names": [],
+    "name": "Paradev (formerly Superset)",
+    "slug": "paradev",
+    "former_names": [
+      "Superset"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9c4aa01fc589ba1d208558f7b720c6081f672b08.png",
-    "website": "https://www.superset.sh/",
+    "website": "https://paradev.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Superset is an open-source IDE that helps engineers run 100s of coding agents in parallel.\r\n\r\nOur desktop app is loved by tens of thousands of engineers, and we're scaling out our effort to build a collaborative, cross-platform tool to allow users to code anywhere.",
+    "long_description": "Paradev (formerly Superset) is an open-source IDE that helps engineers run 100s of coding agents in parallel.\r\n\r\nOur desktop app is loved by tens of thousands of engineers, and we're scaling out our effort to build a collaborative, cross-platform tool to allow users to code anywhere.",
     "one_liner": "Building self-improving software",
     "team_size": 4,
     "industry": "B2B",
@@ -46945,8 +46948,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/superset",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/superset.json"
+    "url": "https://www.ycombinator.com/companies/paradev",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/paradev.json"
   },
   {
     "id": 31230,
@@ -47438,11 +47441,11 @@
     "name": "ClaimKit",
     "slug": "claimkit",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3fc859869ec0d44cca04573f4fc8c9c6680e3a6c.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b90bb870bed1955c5ae08362040a4b0a5beed802.png",
     "website": "https://claimkit.co/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "AI-native professional services agency ",
+    "one_liner": "AI-native tax firm",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -50170,7 +50173,6 @@
     "subindustry": "Industrials",
     "launched_at": 1789851118,
     "tags": [
-      "Robotics",
       "B2B",
       "Manufacturing",
       "Enterprise Software",
@@ -50406,6 +50408,55 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/workers-io",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/workers-io.json"
+  },
+  {
+    "id": 35553,
+    "name": "0.security",
+    "slug": "0security",
+    "former_names": [
+      "0sec Labs",
+      "0sec",
+      "0sec Labs",
+      "0sec",
+      "0security"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4a356af2535effc85a23e22046de196453243ce.png",
+    "website": "https://0.security",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "0.security is an applied AI research lab helping developers, AI-native startups, growing teams, and enterprises to continuously find & fix security risks 24/7.\r\n\r\nOur autonomous cybersecurity team has found & fixed previously unknown vulnerabilities in operating systems, government code and software powering more than 3 billion devices.\r\n\r\nWe work with EY, big pharma, financial services, AI-native startups and defense organisations to secure systems at the pace & depth needed to defend against AI-powered attackers.",
+    "one_liner": "The autonomous cybersecurity team",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1793060379,
+    "tags": [
+      "B2B",
+      "Open Source",
+      "Cybersecurity",
+      "Enterprise",
+      "Defense"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/0security",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/0security.json"
   },
   {
     "id": 35685,

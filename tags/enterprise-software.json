@@ -2531,7 +2531,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -5008,13 +5008,15 @@
   },
   {
     "id": 31222,
-    "name": "Superset",
-    "slug": "superset",
-    "former_names": [],
+    "name": "Paradev (formerly Superset)",
+    "slug": "paradev",
+    "former_names": [
+      "Superset"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9c4aa01fc589ba1d208558f7b720c6081f672b08.png",
-    "website": "https://www.superset.sh/",
+    "website": "https://paradev.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Superset is an open-source IDE that helps engineers run 100s of coding agents in parallel.\r\n\r\nOur desktop app is loved by tens of thousands of engineers, and we're scaling out our effort to build a collaborative, cross-platform tool to allow users to code anywhere.",
+    "long_description": "Paradev (formerly Superset) is an open-source IDE that helps engineers run 100s of coding agents in parallel.\r\n\r\nOur desktop app is loved by tens of thousands of engineers, and we're scaling out our effort to build a collaborative, cross-platform tool to allow users to code anywhere.",
     "one_liner": "Building self-improving software",
     "team_size": 4,
     "industry": "B2B",
@@ -5046,8 +5048,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/superset",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/superset.json"
+    "url": "https://www.ycombinator.com/companies/paradev",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/paradev.json"
   },
   {
     "id": 31241,
@@ -5246,8 +5248,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac8d1fbd9622030ddfab1cc9a6fac1907350004f.png",
     "website": "https://reasonmachines.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Reason Machines builds Reason Agent, the autonomous software engineer for engineering teams. Reason connects to GitHub, reproduces bugs, writes code, passes tests, and ships review-ready pull requests with recordings and logs across cloud environments.",
-    "one_liner": "Reason Machines builds Reason Agent, the autonomous software engineer…",
+    "long_description": "Reason is an AI teammate for work and code that runs autonomous cloud agents with a frontier harness on cost per task.\r\n\r\nIt delivers the same performance with 22% lower costs than Codex. By operating with a harness outside the sandbox, it acts seamlessly across cloud computers and local devices.\r\n\r\nReason runs work from start to finish: from an issue to a finished pull request, on a schedule, or from a Slack alert. It is available as a Mac app, on the web, from the CLI, in Slack, and through a REST API, with about 100 integrations and shareable skills. Bring your own keys and subscriptions, and work rolls over to the next one when limits are hit.",
+    "one_liner": "Reason is the AI teammate for work and code.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -5952,7 +5954,6 @@
     "subindustry": "Industrials",
     "launched_at": 1789851118,
     "tags": [
-      "Robotics",
       "B2B",
       "Manufacturing",
       "Enterprise Software",

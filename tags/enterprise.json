@@ -4082,8 +4082,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f632f905565346c94d60925b5fcc1728cf28368.png",
     "website": "https://opslane.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Opslane catches the bugs code review misses. On every PR, it runs your app against test versions of the services it calls, from Stripe to the LLM. Then it tries what breaks in production: a service failing, two requests at once, a restart mid-job.",
-    "one_liner": "Catch bugs that code review tools miss",
+    "long_description": "Opslane catches the bugs code review misses. On every PR, it runs your app against realistic copies of the services it depends(from Stripe to Slack). Then it tries what breaks in production: a service failing, two requests at once, a restart mid-job.",
+    "one_liner": "AI Code Review tool that runs your app",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -5234,6 +5234,55 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/plek",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/plek.json"
+  },
+  {
+    "id": 35553,
+    "name": "0.security",
+    "slug": "0security",
+    "former_names": [
+      "0sec Labs",
+      "0sec",
+      "0sec Labs",
+      "0sec",
+      "0security"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4a356af2535effc85a23e22046de196453243ce.png",
+    "website": "https://0.security",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "0.security is an applied AI research lab helping developers, AI-native startups, growing teams, and enterprises to continuously find & fix security risks 24/7.\r\n\r\nOur autonomous cybersecurity team has found & fixed previously unknown vulnerabilities in operating systems, government code and software powering more than 3 billion devices.\r\n\r\nWe work with EY, big pharma, financial services, AI-native startups and defense organisations to secure systems at the pace & depth needed to defend against AI-powered attackers.",
+    "one_liner": "The autonomous cybersecurity team",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1793060379,
+    "tags": [
+      "B2B",
+      "Open Source",
+      "Cybersecurity",
+      "Enterprise",
+      "Defense"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/0security",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/0security.json"
   },
   {
     "id": 38358,

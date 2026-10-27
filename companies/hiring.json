@@ -10024,54 +10024,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2019/inito.json"
   },
   {
-    "id": 12278,
-    "name": "Verto",
-    "slug": "verto",
-    "former_names": [
-      "Verto FX",
-      "VertoFX"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/576b45f257548345c964f5d5d6621c981f205710.png",
-    "website": "http://www.vertofx.com",
-    "all_locations": "London, England, United Kingdom",
-    "long_description": "Verto is a cross-border payment platform for businesses; our mission is to simplify cross-border payments in emerging markets, particularly Africa.\r\n\r\nWe do this by providing businesses with superb infrastructure that they can use to convert, hold, receive and make payments across 49 currencies.\r\n\r\nBy connecting Businesses, Liquidity providers, FX Brokers, and Payment Institutions, and banks through our marketplace, companies can choose their foreign exchange rates at the time that suits them, therefore, providing a constant liquidity flow cheaply. ",
-    "one_liner": "Cross-Border Payments and FX Simplified",
-    "team_size": 170,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Payments",
-    "launched_at": 1544068971,
-    "tags": [
-      "Banking as a Service",
-      "Fintech",
-      "Payments",
-      "B2B",
-      "API"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2019",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Payments"
-    ],
-    "regions": [
-      "United Kingdom",
-      "Europe",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/verto",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/verto.json"
-  },
-  {
     "id": 12279,
     "name": "FIRST",
     "slug": "first",
@@ -14600,6 +14552,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2020/dataland.json"
   },
   {
+    "id": 22077,
+    "name": "Akiflow",
+    "slug": "akiflow",
+    "former_names": [
+      "Akido"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/711701aab43e1cf32d5d6f30ef959de45cbc80c1.png",
+    "website": "https://akiflow.com",
+    "all_locations": "CT, Spain; Remote",
+    "long_description": "Akiflow is an AI-powered productivity app, integrating tasks + calendars and an AI executive assistant",
+    "one_liner": "All your tasks and calendars into an AI-powered productivity app",
+    "team_size": 18,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1597668620,
+    "tags": [
+      "Productivity"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2020",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "Spain",
+      "Europe",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/akiflow",
+    "api": "https://yc-oss.github.io/api/batches/summer-2020/akiflow.json"
+  },
+  {
     "id": 22082,
     "name": "Laylo",
     "slug": "laylo",
@@ -17590,7 +17585,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -20460,7 +20455,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/01c24744d6258fd6efd2c9b5f35465ca85adc1e0.png",
     "website": "https://www.enerjazz.tech/",
-    "all_locations": "Berlin, Berlin, Germany; Delhi, DL, India",
+    "all_locations": "San Francisco, CA, USA; Delhi, DL, India",
     "long_description": "Enerjazz is building a battery swapping network (like gasoline stations) for 2M+ commercial electric vehicles in India. We make batteries affordable for EV owners and enable them to earn 80% more. ",
     "one_liner": "Making electric vehicle batteries affordable ",
     "team_size": 9,
@@ -20481,9 +20476,9 @@
       "Climate"
     ],
     "regions": [
-      "Germany",
+      "United States of America",
       "India",
-      "Europe",
+      "America / Canada",
       "South Asia"
     ],
     "stage": "Early",
@@ -31781,16 +31776,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/78acdf0f2271926c4c6856385a0b7846a8135bd7.png",
     "website": "https://rivet.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Rivet Actors are the primitive for stateful workloads.\r\n\r\nBuilt for AI agents, collaborative apps, and durable execution.\r\n\r\nOpen-source.",
-    "one_liner": "Rivet Actors are the primitive for stateful workloads",
-    "team_size": 5,
+    "long_description": "A fast, high-density and scalable orchestrator for every workload an agent needs.\r\nOpen-source and self-hostable.\r\n\r\nOpen source and self-hostable alternative to Durable Objects",
+    "one_liner": "The orchestrator for agentic workloads.",
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1675129787,
     "tags": [
       "B2B",
       "Open Source",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -33710,47 +33706,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/revamp",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/revamp.json"
-  },
-  {
-    "id": 28837,
-    "name": "Subsets",
-    "slug": "subsets",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ef940e88fb60e59b177570256531952d8e4b1322.png",
-    "website": "https://www.subsets.com",
-    "all_locations": "Copenhagen, Denmark",
-    "long_description": "Subsets is the leading lifecycle growth platform for consumer subscription teams.\r\n\r\nWe are building the AI decisioning layer that unifies and powers the existing growth stack, enabling teams to automate and scale lifecycle experimentation, orchestrate personalized user journeys, and measure impact across retention, engagement, and LTV without engineering support.\r\n\r\nTrusted by consumer subscription businesses like The Atlantic, NBCUniversal, Daily Mail, Matas Group, and Hearst.\r\n\r\nSubsets has raised $6.1m and launched out of Y Combinator’s Summer 2023 batch in San Francisco, and is now based in Copenhagen.",
-    "one_liner": "AI-driven Retention Automation for subscription media businesses.",
-    "team_size": 7,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1689562154,
-    "tags": [
-      "Machine Learning",
-      "B2B",
-      "Enterprise Software",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Denmark",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/subsets",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/subsets.json"
   },
   {
     "id": 28842,
@@ -35736,7 +35691,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6668d68dbb65664dcc7f40eff60e4ee586f09132.png",
     "website": "https://paradedb.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations.",
+    "long_description": "When Postgres queries get too slow, developers usually reach for systems like Elasticsearch. ParadeDB makes text and vector search, filters, facets, and joins fast in Postgres, so you can keep scaling with it.",
     "one_liner": "You should just use Postgres.",
     "team_size": 11,
     "industry": "B2B",
@@ -37839,9 +37794,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b5f257204d98f9d544a5265e0aac1efeeae4f1f3.png",
     "website": "https://zaymo.com",
     "all_locations": "Lehi, UT, USA",
-    "long_description": "Zaymo is a full-stack retention marketing agency for the largest brands on Shopify. We bring all your data in house, remove the guess work, and automate the busy work. Agents find opportunities, build content, and iterate autonomously while expert retention marketers help you set strategy and oversee outputs.",
-    "one_liner": "Zaymo is building an AI marketing agency",
-    "team_size": 18,
+    "long_description": "Zaymo builds the tools AI agents use to do marketing, for the largest ecommerce brands in the world. ~500 brands, including Grüns, Harry's, AG1 and Liquid I.V. (Unilever), run on Zaymo.\n\nOur wedge is interactive email. We made emails work like websites: shoppers buy, swap or skip a subscription without leaving the inbox. It closes 75%+ of the brands we pitch and put us inside the email programs of hundreds of the best brands in ecommerce.\n\nNow we're building the agents that run those programs. Brands pay agencies ~$70k a year to run email, and the good ones run one or two tests a month. Our agents audit the program, write and design on-brand campaigns, QA them, and run hundreds of experiments optimized for profit, not just revenue, with an expert human owning the outcome. We build for the agent a marketer already uses (Claude, via MCP), not yet another chatbot.\n\n$5M ARR, 5x'ing this year, consistently cash-flow positive.",
+    "one_liner": "Tools for AI agents to run marketing for the world's biggest…",
+    "team_size": 19,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1701370559,
@@ -40165,7 +40120,7 @@
     "regions": [
       "Unspecified"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -45145,47 +45100,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/openbenchmarks",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/openbenchmarks.json"
-  },
-  {
-    "id": 30036,
-    "name": "Rulebase",
-    "slug": "rulebase",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7bd0ab199d3e881821eeccd658d4f0847f9d9345.png",
-    "website": "https://rulebase.co",
-    "all_locations": "New York City, NY, USA",
-    "long_description": "We run customer operations for regulated industries with AI. Our QA layer reviews every interaction, human and AI, cutting manual QA by 99%. On top of it sit specialist agents for onboarding, remediation, reactivation, and retention that own accounts from approved to transacting, chasing customers over WhatsApp, email, and SMS",
-    "one_liner": "AI customer operations for regulated industries.",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1728494886,
-    "tags": [
-      "Customer Success",
-      "Customer Service",
-      "Customer Support"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/rulebase",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/rulebase.json"
   },
   {
     "id": 30039,
@@ -51176,10 +51090,10 @@
     "website": "https://syntheticsociety.ai/",
     "all_locations": "New York City, NY, USA",
     "long_description": "",
-    "one_liner": "Synthetic Videos to Simulate Real Users",
+    "one_liner": "Synthetic Videos to Power Marketing",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "subindustry": "B2B -> Marketing",
     "launched_at": 1752639112,
     "tags": [],
     "tags_highlighted": [],
@@ -51190,7 +51104,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Engineering, Product and Design"
+      "Marketing"
     ],
     "regions": [
       "United States of America",
@@ -52449,7 +52363,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Verne builds general‑purpose physical AI. We deploy robots to expand the productive capacity of the physical world.",
     "one_liner": "AI models that teach robots new skills in hours",
-    "team_size": 7,
+    "team_size": 8,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1753480338,
@@ -53372,6 +53286,47 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/channel3.json"
   },
   {
+    "id": 30696,
+    "name": "GhostEye",
+    "slug": "ghosteye",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e189bef77c95ad81a23c2a379e641dd9f19e141.png",
+    "website": "https://ghosteye.ai",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "We emulate the attacks real adversaries run today: help-desk vishing, deepfaked executives, MFA fatigue, and the payloads that follow. We run them against your people and the controls around them to reveal what is actually exploitable, not what looks compliant. Then we close the gap, retest until the fix holds, and give your leadership the evidence that risk actually went down. From initial access to remediation.",
+    "one_liner": "Your always-on red team.",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1753230986,
+    "tags": [
+      "B2B",
+      "Cybersecurity",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ghosteye",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/ghosteye.json"
+  },
+  {
     "id": 30698,
     "name": "Comena",
     "slug": "comena",
@@ -53571,7 +53526,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3838f80b214ed1fcda53a2778860e8be11cfdb0d.png",
     "website": "https://manufact.com",
-    "all_locations": "ZH, Switzerland",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Manufact is the MCP cloud platform to get your product ready for Claude Connectors marketplace, ChatGPT / Codex plugins store and any AI agent that supports MCP.\r\nWe're the team behind mcp-use SDK, the open-source framework for building MCP Apps with 10k github stars and 10M+ downloads across python and typescript.\r\n\r\nIt's the fastest and most complete solution for production-ready MCP servers.",
     "one_liner": "Cloud infrastructure for MCP servers and Claude / ChatGPT plugins.",
     "team_size": 5,
@@ -53596,8 +53551,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "Switzerland",
-      "Europe"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -55997,7 +55952,7 @@
     "name": "Aside",
     "slug": "aside",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e9196c93cd4fc802b51eabcb6432760d1efd3fb.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/433466322b82d033544acff5354641108752eb11.png",
     "website": "https://aside.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Aside is an AI browser that completes real work across the websites you already use. It can sign in through your browser, work inside email, dashboards, internal tools, docs, and spreadsheets, and keep going when a task takes minutes or hours.\r\n\r\nUnlike agents that depend on integrations, Aside uses the web the way you do. Browsing history becomes local memory, so it knows which tools and context matter. Its password manager lets agents autofill credentials without exposing secrets to the AI. Sensitive actions like payments, posts, and messages wait for your approval.\r\n\r\nWe achieved state-of-the-art on agentic browsing benchmarks, surpassing OpenAI and Anthropic's result- Aside ranked #1 across Mind2Web, Odyssey, bu-bench-v1.",
@@ -58839,13 +58794,15 @@
   },
   {
     "id": 31222,
-    "name": "Superset",
-    "slug": "superset",
-    "former_names": [],
+    "name": "Paradev (formerly Superset)",
+    "slug": "paradev",
+    "former_names": [
+      "Superset"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9c4aa01fc589ba1d208558f7b720c6081f672b08.png",
-    "website": "https://www.superset.sh/",
+    "website": "https://paradev.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Superset is an open-source IDE that helps engineers run 100s of coding agents in parallel.\r\n\r\nOur desktop app is loved by tens of thousands of engineers, and we're scaling out our effort to build a collaborative, cross-platform tool to allow users to code anywhere.",
+    "long_description": "Paradev (formerly Superset) is an open-source IDE that helps engineers run 100s of coding agents in parallel.\r\n\r\nOur desktop app is loved by tens of thousands of engineers, and we're scaling out our effort to build a collaborative, cross-platform tool to allow users to code anywhere.",
     "one_liner": "Building self-improving software",
     "team_size": 4,
     "industry": "B2B",
@@ -58877,8 +58834,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/superset",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/superset.json"
+    "url": "https://www.ycombinator.com/companies/paradev",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/paradev.json"
   },
   {
     "id": 31224,
@@ -60086,7 +60043,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Hub is a multimodal lab providing real world data to frontier labs and robotic companies.",
     "one_liner": "Real-world training data for frontier AI labs and robotics.",
-    "team_size": 40,
+    "team_size": 60,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1773429014,
@@ -60762,8 +60719,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac8d1fbd9622030ddfab1cc9a6fac1907350004f.png",
     "website": "https://reasonmachines.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Reason Machines builds Reason Agent, the autonomous software engineer for engineering teams. Reason connects to GitHub, reproduces bugs, writes code, passes tests, and ships review-ready pull requests with recordings and logs across cloud environments.",
-    "one_liner": "Reason Machines builds Reason Agent, the autonomous software engineer…",
+    "long_description": "Reason is an AI teammate for work and code that runs autonomous cloud agents with a frontier harness on cost per task.\r\n\r\nIt delivers the same performance with 22% lower costs than Codex. By operating with a harness outside the sandbox, it acts seamlessly across cloud computers and local devices.\r\n\r\nReason runs work from start to finish: from an issue to a finished pull request, on a schedule, or from a Slack alert. It is available as a Mac app, on the web, from the CLI, in Slack, and through a REST API, with about 100 integrations and shareable skills. Bring your own keys and subscriptions, and work rolls over to the next one when limits are hit.",
+    "one_liner": "Reason is the AI teammate for work and code.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -61453,7 +61410,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cd583af5fd7e25beb6cf6bd63167daa1273db6c5.png",
     "website": "https://manicule.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Manicule does AgentRel. We get companies discovered and used by AI agents. Think DevRel, rebuilt for a world where agents make all the decisions. We own developer documentation and technical content across social channels, end-to-end. We've grown 100% MoM over the last three months to $53K in monthly revenue, with customers like Supermemory, Greptile, Reducto, and Mastra.\r\n  \r\nGetting discovered and used by agents is its own job now, and the market for it is broken. The SEO/GEO SaaS tools just show you data like where you rank in AI answers. The agencies are slow and lack know-how with agents. The one person who could own all of it end-to-end, a DevRel, is nearly impossible to hire: our customers have had roles open for months at $300K+ and still can't find anyone good. \r\n\r\nWe solve all these gaps. Naman has been doing fractional DevRel since he was 13, working with companies like PromptLayer, Brightdata, and Courier.com. Shreyans has been building since 14 — he built an AI app that hit App Store Productivity Trending within a month, and\r\nwas the founding engineer at Supermemory. We met in high school and have built multiple startups together since.",
+    "long_description": "Manicule does AgentRel. We get companies discovered and used by AI agents. Think DevRel, rebuilt for a world where agents make all the decisions. \r\n\r\nOur software tracks how often AI recommends your product; our team handles the strategy, documentation, technical content, and distribution that help developers and coding agents use it. Customers include Agentmail, Greptile, Reducto, and Mastra.\r\n\r\nNaman has been doing fractional DevRel since 13. Shreyans started building at 14 and was Supermemory’s founding engineer. We met in high school and have built multiple startups together since.",
     "one_liner": "AgentRel — Devrel For Agents",
     "team_size": 8,
     "industry": "B2B",
@@ -61722,10 +61679,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f24300b3eb986e7f19356d2f4af0a1aefc7a5841.png",
     "website": "https://www.huscarl.io/",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Huscarl is building an autonomous AI actuary to enable self-insurance for corporations.\r\n\r\nLarge companies use insurance subsidiaries (\"captives\") to self-insure their risks. Some of these captives are larger than regional insurers. We provide them the actuarial and modeling layer to operate and grow.\r\n\r\nWe're building a future where self-insurance is the default, and commercial insurance the exception. This is the best way to solve the inefficiencies of the $1T corporate insurance market.",
-    "one_liner": "AI-native actuary enabling self-insurance for corporations",
-    "team_size": 2,
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Huscarl is building an autonomous AI actuary to solve the inefficiencies of the $1T USD corporate insurance market",
+    "one_liner": "Autonomous AI actuary for corporate insurance",
+    "team_size": 3,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1776797773,
@@ -61742,9 +61699,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

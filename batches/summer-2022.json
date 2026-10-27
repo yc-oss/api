@@ -4680,21 +4680,28 @@
   },
   {
     "id": 26810,
-    "name": "Ten Lives",
-    "slug": "ten-lives",
+    "name": "Terraferma",
+    "slug": "terraferma",
     "former_names": [
-      "Terraferma Foods"
+      "Terraferma Foods",
+      "Ten Lives"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e831961d555ac79ac4d50f463f10bdbd3cfc71ad.png",
-    "website": "https://tenlives.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a42a54af1e4135c740b51a74240219ed4392b644.png",
+    "website": "https://terraferma.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We optimize microbial factories to produce proteins at the lowest possible cost and environmental impact. Our mission is to make sustainable protein sources a cost-viable alternative, for all members of the family.",
-    "one_liner": "Manufacturing more proteins with AI.",
+    "long_description": "Terraferma's high-titer platform bridges the gap between computational protein design and commercial production, combining AI/ML-guided strain engineering with ultra-high-throughput genetic screens to make more proteins faster, at lower economic and environmental cost.",
+    "one_liner": "The world's best protein manufacturing platform.",
     "team_size": 6,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Food and Beverage",
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1658109207,
-    "tags": [],
+    "tags": [
+      "Machine Learning",
+      "Synthetic Biology",
+      "Manufacturing",
+      "Automation",
+      "Biotechnology"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -4702,8 +4709,8 @@
     "batch": "Summer 2022",
     "status": "Active",
     "industries": [
-      "Consumer",
-      "Food and Beverage"
+      "Industrials",
+      "Manufacturing and Robotics"
     ],
     "regions": [
       "United States of America",
@@ -4714,8 +4721,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ten-lives",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/ten-lives.json"
+    "url": "https://www.ycombinator.com/companies/terraferma",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/terraferma.json"
   },
   {
     "id": 26811,
@@ -5913,24 +5920,27 @@
   },
   {
     "id": 26890,
-    "name": "Latent Space",
-    "slug": "latent-space",
+    "name": "OpenScale",
+    "slug": "openscale",
     "former_names": [
       "wagmi",
-      "Payable"
+      "Payable",
+      "Latent Space"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c0b56165e84e87a8ef9fc8ec4eddc18beadea9d.png",
-    "website": "https://latentspace.sh/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac8dea3a9e37379ddfaa9b0b53f21208acf79b25.png",
+    "website": "https://openscale.so/",
     "all_locations": "Jakarta, Jakarta, Indonesia",
     "long_description": "Latent Space develops AI applications specifically designed to address the unique challenges and opportunities in emerging economies. Our products are Halo AI (an AI universal concierge for SEA enterprises), GoVisa (an AI-enabled online visa and permit application), and Supa (a hyperlocal knowledge AI for 280M+ Indonesians).",
-    "one_liner": "Applied AI for The Emerging Economies",
-    "team_size": 100,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
+    "one_liner": "The cheapest, fastest way to run open models and agent sandboxes",
+    "team_size": 50,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
     "launched_at": 1657560214,
     "tags": [
-      "SaaS",
-      "Workflow Automation",
+      "Developer Tools",
+      "API",
+      "Cloud Computing",
+      "Infrastructure",
       "AI"
     ],
     "tags_highlighted": [],
@@ -5940,7 +5950,8 @@
     "batch": "Summer 2022",
     "status": "Active",
     "industries": [
-      "Consumer"
+      "B2B",
+      "Infrastructure"
     ],
     "regions": [
       "Indonesia",
@@ -5953,8 +5964,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/latent-space",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/latent-space.json"
+    "url": "https://www.ycombinator.com/companies/openscale",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/openscale.json"
   },
   {
     "id": 26897,
@@ -7357,7 +7368,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/65bf3f581eea5d1a5b7640c508e3fc0e7c8930f9.png",
     "website": "https://lamin.ai",
-    "all_locations": "",
+    "all_locations": "BY, Germany",
     "long_description": "We make it easy to query, trace, and govern R&D data in the age of AI, serving big pharma enterprises, biotech, and academia.\r\n\r\nOur core product is an open-source, lineage-native, format-agnostic lakehouse for agents and teams.",
     "one_liner": "Open data platform for traceable, multimodal AI",
     "team_size": 12,
@@ -7382,6 +7393,8 @@
       "Infrastructure"
     ],
     "regions": [
+      "Germany",
+      "Europe",
       "Remote",
       "Partly Remote"
     ],
