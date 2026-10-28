@@ -2369,7 +2369,7 @@
     "one_liner": "Swarms of agents acting like users to find bugs before release",
     "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1791500162,
     "tags": [
       "Developer Tools",
@@ -2384,7 +2384,8 @@
     "batch": "Fall 2026",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Engineering, Product and Design"
     ],
     "regions": [
       "United Kingdom",
@@ -2397,6 +2398,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/composal",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/composal.json"
+  },
+  {
+    "id": 37602,
+    "name": "Superserve",
+    "slug": "superserve",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/30c23ee4b16858a917c5254b034633777d99a5f2.png",
+    "website": "https://superserve.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Traditional cloud infrastructure was built to run a single app for many users. Agents work differently. Each one needs its own isolated machine to write software on the fly, run tools and act on its own for hours or weeks. And everything it produces has to persist between sessions.\r\n\r\nSuperserve gives every agent and RL rollout its own virtual machine that starts in under 50ms. Machines start from templates with your repo and dependencies already loaded, pause with memory and files intact at zero compute cost, and resume or fork from that exact state. You can run docker, databases, browsers or any services on these VMs. \r\n\r\nAPI keys stay outside the machine and egress rules control what agents can reach.\r\n\r\nFor teams building coding agents, autonomous workers, or eval and training environments, that means elastic infrastructure with no servers or warm pools to manage, and control over what every agent can reach and which credentials it can see. \r\n\r\nWe run over 100K machines (as of Oct 2026) every week for world-class teams, including Lindy, and Y Combinator itself.",
+    "one_liner": "Virtual machines for autonomous agents",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1793143459,
+    "tags": [
+      "Cloud Computing",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/superserve",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/superserve.json"
   },
   {
     "id": 38061,
@@ -2438,5 +2482,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/maritime",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/maritime.json"
+  },
+  {
+    "id": 38754,
+    "name": "Aikido Technologies",
+    "slug": "aikido-technologies",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ffb13551195295abd4b5ab3d0ecce6ac89addccd.png",
+    "website": "https://www.aikidotechnologies.com",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "We're building GW-scale datacenters in the ocean where there are no limits to the speed and scale of deployment.  Our proprietary offshore platform structure supports a 15MW+ wind turbine, hours of battery storage, backup diesel power generation and 10+ MW of data halls inside their structure, which can be cooled freely by the ocean.",
+    "one_liner": "Clean marine AI datacenters",
+    "team_size": 5,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Energy",
+    "launched_at": 1793103088,
+    "tags": [
+      "Energy",
+      "Renewable Energy",
+      "Cloud Computing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Energy"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": true,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/aikido-technologies",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/aikido-technologies.json"
   }
 ]

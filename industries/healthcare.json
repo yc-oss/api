@@ -6907,16 +6907,20 @@
     "former_names": [
       "JetLenses"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2aff3fe26c747fac4d0b2d1e8d6b67a0b034d6e6.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5edc6f39318198baa65774d95ec3874e786a52ec.png",
     "website": "http://versemedical.com/",
     "all_locations": "New York City, NY, USA",
-    "long_description": "As healthcare costs have increased, the patient's home has become incredibly important as a site of care. Yet, patients recovering at home are highly underserved.\r\n\r\nPatients can only get better at home if they receive the high-quality care that they need reliably. The existing in-home care process involves patchwork of different vendors, all connected through faxes by nurses. We're building modern, robust software that solves this challenge and brings this market online.",
+    "long_description": "It costs nearly $12,000 for a patient to spend a single night at a hospital. Delivering care at home is often far less expensive and much more convenient for patients.\r\n\r\nBut robust infrastructure to enable this transition from the hospital to the home is missing. Instead, it’s a patchwork of different vendors, tied together by faxes, phone calls and hours of time by nurses. Durable medical equipment (DME) delivery is a part of healthcare that’s forgotten until it goes wrong.\r\n\r\nVerse’s AI-enabled ordering platform solves these problems, ensuring patients and clinicians have a seamless experience every time.\r\n\r\nWe’re a well-funded Series C company backed by General Catalyst, SignalFire, and Sapphire Ventures, and we’re growing fast. If you want to help move healthcare from the hospital to the home, we’d love to meet you.",
     "one_liner": "AI-enabled ordering for medical equipment & supplies",
-    "team_size": 200,
+    "team_size": 250,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1524625564,
-    "tags": [],
+    "tags": [
+      "Health Tech",
+      "Healthcare",
+      "Healthcare IT"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -6933,7 +6937,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -25471,19 +25475,18 @@
     "former_names": [
       "EI Therapeutics"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/61d9c34b51f9b98cbfdb92bc0014e3569c29b36c.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/635299b51df3aa2c7acb4b5c679a9b0b74fdaf5b.png",
     "website": "https://www.exintherapeutics.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We use AI and high-throughput mouse studies to discover therapeutics that modify neural activity in the brain. The initial focus is on epilepsies associated with autism and Parkinson’s disease with the potential to expand to any neurological disorder underlined by a dysfunction in neural activity. Our R&D is guided by AI models trained on high-density multimodal mouse data generated in-house.\r\n\r\nWe are 3 Oxford-trained neuroscientists supported by an experienced SAB from Harvard, Science Corp (ex-Neuralink), EPFL, Meta, and UCL.\r\n\r\nIn 1.5 months since landing in SF, we went from nothing to (1) opening and operating an animal lab in South SF, (2) obtaining a proof-of-concept in mice, (3) building a multimodal AI model that directs our screening approach and (4) submitting two provisional patents; all while utilizing less than 50% of our YC funding. \r\n",
-    "one_liner": "AI drug discovery platform for neurotherapeutics",
+    "long_description": "We are developing therapies for disorders driven by dysfunctional neural circuits. To develop these therapies, we are building an agentic discovery platform that learns from experiments in our own in vivo lab.\r\n\r\nOur agents use CircuitATLAS to connect disease phenotypes with the neural circuits, cell types and molecular mechanisms, identify therapeutic targets and design experiments to test them. Our cross-species models learn from large-scale neural activity data to identify conserved circuit states and help predict how an intervention’s effects may translate from preclinical models to humans.\r\n\r\nAt our Data Foundry in Manila, our team of RAs test these hypotheses in vitro and in vivo. The results refine our models and guide the next set of experiments. This lab-in-the-loop approach allows our agents to develop and test ideas against experimental evidence throughout discovery.\r\n\r\nWe are starting with epilepsy, with the goal of developing first-in-class therapies across a full spectrum of disorders driven by dysfunctional brain activity.\r\n\r\nPublications:\r\n\r\n- CircuitATLAS (https://arxiv.org/abs/2610.09643). Target discovery platform which combines mechanistic reasoning with an in vivo lab-in-the-loop. AI agents identify therapeutic targets and design experiments that our research teams execute in the lab. The resulting biological data feeds back into the discovery process to iteratively refine hypotheses and validate new interventions.\r\n\r\n- Cross species representation learning (https://arxiv.org/abs/2610.11222). Aligning mouse and human neural activity to predict clinical drug efficacy from preclinical data.",
+    "one_liner": "Agentic platform for predictive neuro drug discovery + data foundry.",
     "team_size": 9,
     "industry": "Healthcare",
-    "subindustry": "Healthcare -> Therapeutics",
+    "subindustry": "Healthcare -> Drug Discovery and Delivery",
     "launched_at": 1736839155,
     "tags": [
-      "Neurotechnology",
-      "Biotech",
-      "Therapeutics"
+      "AI-powered Drug Discovery",
+      "Neurotechnology"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -25493,7 +25496,7 @@
     "status": "Active",
     "industries": [
       "Healthcare",
-      "Therapeutics"
+      "Drug Discovery and Delivery"
     ],
     "regions": [
       "United States of America",
@@ -25750,7 +25753,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2024",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "Healthcare"
     ],
@@ -30032,6 +30035,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rhem-labs",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/rhem-labs.json"
+  },
+  {
+    "id": 35322,
+    "name": "Helios Intelligence",
+    "slug": "helios-intelligence",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dc9a239cf834c9434b809e9cda6ac12630153db.png",
+    "website": "https://www.heliosinc.ai/",
+    "all_locations": "Boston, MA, USA",
+    "long_description": "Helios is building a molecular body test from a single drop of blood. Our at-home test measures more than 1,000 biomarkers and turns them into a living model of the body—designed to show what is happening now, surface risk earlier, and become more useful with every test.\n\nBy combining longitudinal molecular data with labs, wearables, health records, and outcomes, we are building toward a world model of human biology. Our goal is to simulate all of human health and use that intelligence to help people perform, recover, and live longer.",
+    "one_liner": "At-home molecular body test: 1,000+ biomarkers from a drop of blood",
+    "team_size": 5,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Consumer Health and Wellness",
+    "launched_at": 1793143659,
+    "tags": [
+      "Health Tech",
+      "Consumer",
+      "Diagnostics",
+      "Health & Wellness",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Consumer Health and Wellness"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/helios-intelligence",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/helios-intelligence.json"
   },
   {
     "id": 35883,

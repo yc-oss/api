@@ -178,19 +178,18 @@
     "former_names": [
       "EI Therapeutics"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/61d9c34b51f9b98cbfdb92bc0014e3569c29b36c.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/635299b51df3aa2c7acb4b5c679a9b0b74fdaf5b.png",
     "website": "https://www.exintherapeutics.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We use AI and high-throughput mouse studies to discover therapeutics that modify neural activity in the brain. The initial focus is on epilepsies associated with autism and Parkinson’s disease with the potential to expand to any neurological disorder underlined by a dysfunction in neural activity. Our R&D is guided by AI models trained on high-density multimodal mouse data generated in-house.\r\n\r\nWe are 3 Oxford-trained neuroscientists supported by an experienced SAB from Harvard, Science Corp (ex-Neuralink), EPFL, Meta, and UCL.\r\n\r\nIn 1.5 months since landing in SF, we went from nothing to (1) opening and operating an animal lab in South SF, (2) obtaining a proof-of-concept in mice, (3) building a multimodal AI model that directs our screening approach and (4) submitting two provisional patents; all while utilizing less than 50% of our YC funding. \r\n",
-    "one_liner": "AI drug discovery platform for neurotherapeutics",
+    "long_description": "We are developing therapies for disorders driven by dysfunctional neural circuits. To develop these therapies, we are building an agentic discovery platform that learns from experiments in our own in vivo lab.\r\n\r\nOur agents use CircuitATLAS to connect disease phenotypes with the neural circuits, cell types and molecular mechanisms, identify therapeutic targets and design experiments to test them. Our cross-species models learn from large-scale neural activity data to identify conserved circuit states and help predict how an intervention’s effects may translate from preclinical models to humans.\r\n\r\nAt our Data Foundry in Manila, our team of RAs test these hypotheses in vitro and in vivo. The results refine our models and guide the next set of experiments. This lab-in-the-loop approach allows our agents to develop and test ideas against experimental evidence throughout discovery.\r\n\r\nWe are starting with epilepsy, with the goal of developing first-in-class therapies across a full spectrum of disorders driven by dysfunctional brain activity.\r\n\r\nPublications:\r\n\r\n- CircuitATLAS (https://arxiv.org/abs/2610.09643). Target discovery platform which combines mechanistic reasoning with an in vivo lab-in-the-loop. AI agents identify therapeutic targets and design experiments that our research teams execute in the lab. The resulting biological data feeds back into the discovery process to iteratively refine hypotheses and validate new interventions.\r\n\r\n- Cross species representation learning (https://arxiv.org/abs/2610.11222). Aligning mouse and human neural activity to predict clinical drug efficacy from preclinical data.",
+    "one_liner": "Agentic platform for predictive neuro drug discovery + data foundry.",
     "team_size": 9,
     "industry": "Healthcare",
-    "subindustry": "Healthcare -> Therapeutics",
+    "subindustry": "Healthcare -> Drug Discovery and Delivery",
     "launched_at": 1736839155,
     "tags": [
-      "Neurotechnology",
-      "Biotech",
-      "Therapeutics"
+      "AI-powered Drug Discovery",
+      "Neurotechnology"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -200,7 +199,7 @@
     "status": "Active",
     "industries": [
       "Healthcare",
-      "Therapeutics"
+      "Drug Discovery and Delivery"
     ],
     "regions": [
       "United States of America",
@@ -1630,15 +1629,13 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d8702327beeb6c4e9700c883d54481531ce4f3b.png",
     "website": "https://superglue.ai/",
     "all_locations": "BY, Germany",
-    "long_description": "superglue learns how your systems work from your company's knowledge and performs the implementation that normally requires human coordination and engineering work.\r\n\r\nImplement NetSuite, Sage Intacct, SAP, Business Central or Acumatica in days. Agents map and migrate legacy data, configure the system, and keep data in sync post go-live.\r\nConnect ERP, CRM, databases, and internal systems to AI platforms like Claude. Create governed data access for AI agents and track data usage across your org.\r\nConnect customer systems, import historical data and get new integrations live in hours. Let agents manage the entire implementation process end-to-end.\r\n",
-    "one_liner": "connect, migrate and implement enterprise systems",
+    "long_description": "superglue is a platform for ERP implementation teams at VARs, advisory firms and systems integrators. Each client implementation is a project in superglue, and its AI agents do the hands-on work across the whole project: the project plan from the kickoff, data assessment, fit-gap, configuration, data mapping and migration, testing, cutover and the integrations that run after go-live.\r\n\r\nThe agents execute the work in the client's systems, they don't just list what needs doing. Consultants review every change and sign off before anything reaches production. Approved migration scripts run the same way every time, with no AI at run time, and every run is logged.\r\n\r\nsuperglue works with NetSuite, Sage Intacct, Microsoft Dynamics 365 Business Central, Acumatica, SAP and about 140 other systems, and reads legacy sources such as QuickBooks Desktop, Sage 50 and 100, Dynamics GP, databases and files.\r\n\r\nA Sage value-added reseller running 40 Sage Intacct implementations cut migration and configuration hours per project by 80%. superglue is SOC 2 Type II, offers EU data residency, and can be self-hosted.",
+    "one_liner": "AI agents that run ERP implementations for consultants",
     "team_size": 6,
     "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1737761136,
     "tags": [
-      "Open Source",
-      "API",
       "Enterprise",
       "Enterprise Software",
       "AI"
@@ -1651,7 +1648,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Engineering, Product and Design"
+      "Finance and Accounting"
     ],
     "regions": [
       "Germany",
@@ -6139,7 +6136,7 @@
     "all_locations": "Seattle, WA, USA",
     "long_description": "CopyCat builds AI for commercial, personal & benefits insurance brokers. It turns carrier quotes and policy documents into branded proposals, quote comparisons, and coverage reviews, and helps teams check policies and review insurance contracts, flagging discrepancies and documenting findings with source references. ",
     "one_liner": "AI for Commercial Insurance Agencies",
-    "team_size": 2,
+    "team_size": 4,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1734580429,

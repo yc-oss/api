@@ -6976,7 +6976,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -16733,7 +16733,7 @@
     "website": "https://baymachines.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "BayMachines deploys on-prem, air-gapped GPU systems for defense teams to run and fine-tune AI locally. We support defense technology companies serving the DoW and special operations, with deployments built to support CMMC and NIST 800-171 requirements.",
-    "one_liner": "AI compute for defense contractors",
+    "one_liner": "Deployable compute for defense contractors",
     "team_size": 7,
     "industry": "Industrials",
     "subindustry": "Industrials -> Defense",
@@ -20496,6 +20496,51 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/dreamscale-labs.json"
   },
   {
+    "id": 36048,
+    "name": "Archgen Labs",
+    "slug": "archgen-labs",
+    "former_names": [
+      "Archgen AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/859bb4acfd797a8066a3332a29dbfc4ee42fcb0e.png",
+    "website": "https://www.archgen.tech/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Archgen Labs builds AI-powered chip design tools for the next generation of 3D semiconductors.\r\n\r\nStacking compute vertically shortens connections and reduces the energy and delay of moving data. But it also makes heat harder to remove. Our tools help engineers optimize placement, timing, and temperature together so they can build faster, more power-efficient 3D chips.\r\n\r\nOur GPU-accelerated placement engine ranked first in the Hudson River Trading macro-placement challenge. LayerTherm, our thermal analysis tool, predicts chip temperatures roughly 5,000× faster than conventional simulation in our benchmarks, helping engineers explore more designs and identify hotspots earlier. Newton, our AI chip design engineer, automates work across placement, routing, design-rule fixes, and timing closure.\r\n\r\nWe’re working with GlobalFoundries on 3D chip development, targeting our first tapeout in 2027.",
+    "one_liner": "AI-powered EDA tools for faster, cooler 3D chips",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1793077746,
+    "tags": [
+      "Hardware",
+      "Semiconductors",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/archgen-labs",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/archgen-labs.json"
+  },
+  {
     "id": 36081,
     "name": "Polemos Industries",
     "slug": "polemos-industries",
@@ -20790,6 +20835,49 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/uxduck.json"
   },
   {
+    "id": 36840,
+    "name": "Axonnic",
+    "slug": "axonnic",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f269fdfc703083f216ecc708a1d72e1eec821657.png",
+    "website": "https://www.axonnic.com",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Axonnic is building the missing data layer for dexterous robotics. Our wearable EMG technology captures human intent, effort and force directly from muscle activity as people demonstrate physical tasks. By revealing the physical signals that video cannot capture, Axonnic gives AI models the data they need to learn more precise and dexterous behaviour. Beyond robotics, this creates a foundation for new forms of human–computer interaction in which technology can understand and respond directly to human movement and intent.",
+    "one_liner": "Bringing human dexterity to every robot",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1793084250,
+    "tags": [
+      "Neurotechnology",
+      "Robotics",
+      "Data Labeling"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/axonnic",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/axonnic.json"
+  },
+  {
     "id": 37401,
     "name": "Theseus Robotics",
     "slug": "theseus-robotics",
@@ -21079,5 +21167,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/keres",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/keres.json"
+  },
+  {
+    "id": 38754,
+    "name": "Aikido Technologies",
+    "slug": "aikido-technologies",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ffb13551195295abd4b5ab3d0ecce6ac89addccd.png",
+    "website": "https://www.aikidotechnologies.com",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "We're building GW-scale datacenters in the ocean where there are no limits to the speed and scale of deployment.  Our proprietary offshore platform structure supports a 15MW+ wind turbine, hours of battery storage, backup diesel power generation and 10+ MW of data halls inside their structure, which can be cooled freely by the ocean.",
+    "one_liner": "Clean marine AI datacenters",
+    "team_size": 5,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Energy",
+    "launched_at": 1793103088,
+    "tags": [
+      "Energy",
+      "Renewable Energy",
+      "Cloud Computing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Energy"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": true,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/aikido-technologies",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/aikido-technologies.json"
   }
 ]
