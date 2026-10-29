@@ -58,7 +58,7 @@
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
-    "launched_at": 1764179577,
+    "launched_at": 1793035947,
     "tags": [
       "Generative AI",
       "Legal",
@@ -219,13 +219,14 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b90bb870bed1955c5ae08362040a4b0a5beed802.png",
     "website": "https://claimkit.co/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
+    "long_description": "AI-native tax firm, starting with R&D tax credits in the US, UK, and Australia",
     "one_liner": "AI-native tax firm",
     "team_size": 4,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1792536160,
     "tags": [
+      "Finance",
       "B2B",
       "AI"
     ],
@@ -236,7 +237,8 @@
     "batch": "Fall 2026",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Finance and Accounting"
     ],
     "regions": [
       "United States of America",
@@ -259,7 +261,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9b4aa40c1f823de9d3ec9a6c4b04e1e382dc5a85.png",
     "website": "https://degla.ai",
-    "all_locations": "Boston, MA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "We turn natural Language into Multi-Drone Mission execution. Degla is built around a simple idea: once you’ve expressed your intent, the system owns the problem.You don’t babysit drones. You don’t micromanage failures. You don’t rewrite plans. You state the goal, Degla figures out how.",
     "one_liner": "The fully autonomous intelligence layer in the sky.",
     "team_size": 2,
@@ -1026,6 +1028,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/isoquant.json"
   },
   {
+    "id": 33318,
+    "name": "HillStar",
+    "slug": "hillstar",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b2a3199ea6bce97161125f2d12ceedf9cc1ecd2.png",
+    "website": "https://hillstar.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Agents to help utilities make better buying decisions.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1793224703,
+    "tags": [
+      "GovTech",
+      "Big Data",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hillstar",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/hillstar.json"
+  },
+  {
     "id": 33672,
     "name": "Grep AI",
     "slug": "grep-ai",
@@ -1665,7 +1709,7 @@
     "website": "https://www.toposlab.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Topos is a neolab founded by two Harvard math dropouts, building agent swarms to bring the rigor and verifiability of mathematics to other fields. Starting in biology, we’re optimizing how agents communicate, formalize problems, and verify each other’s reasoning.",
-    "one_liner": "Agent swarms for formal verification",
+    "one_liner": "Agent swarms",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials",
@@ -1906,6 +1950,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/anyalpha",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/anyalpha.json"
+  },
+  {
+    "id": 34899,
+    "name": "The Letter Company",
+    "slug": "the-letter-company",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/52ab0840253398a6b68d120c27e1324adecaa262.png",
+    "website": "https://letter.dev",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "The Letter Company creates engineering tools and models purpose-built for growth. ",
+    "one_liner": "The world's first coding agent, harness, & IDE for growth engineering.",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1785817189,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "Web Development"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/the-letter-company",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/the-letter-company.json"
   },
   {
     "id": 34904,
@@ -2157,6 +2244,56 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/capveon",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/capveon.json"
+  },
+  {
+    "id": 35092,
+    "name": "Cardinal Square",
+    "slug": "cardinal-square",
+    "former_names": [
+      "Neolithic",
+      "Biomes",
+      "Biomes Academy",
+      "Biomes",
+      "Biomes Academy",
+      "Biomes",
+      "Cardinal Square Academy",
+      "Cardinal Square",
+      "Cardinal Square Academy"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/87a9ad77df8ff03bf6998f4f2007f263b31dbba5.png",
+    "website": "https://cardinalsquare.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Cardinal Square Academy is an AI-native school that brings personalized education to every student by pairing AI with real educators. We’re starting off as an online supplemental school (think an AI-native Kumon or Mathnasium) before building full, accredited schools.",
+    "one_liner": "AI-native schools",
+    "team_size": 2,
+    "industry": "Education",
+    "subindustry": "Education",
+    "launched_at": 1785893820,
+    "tags": [
+      "Education",
+      "Consumer",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Education"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cardinal-square",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/cardinal-square.json"
   },
   {
     "id": 35093,
@@ -3169,7 +3306,7 @@
     "slug": "helios-intelligence",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dc9a239cf834c9434b809e9cda6ac12630153db.png",
-    "website": "https://www.heliosinc.ai/",
+    "website": "https://www.myhelios.com/",
     "all_locations": "Boston, MA, USA",
     "long_description": "Helios is building a molecular body test from a single drop of blood. Our at-home test measures more than 1,000 biomarkers and turns them into a living model of the body—designed to show what is happening now, surface risk earlier, and become more useful with every test.\n\nBy combining longitudinal molecular data with labs, wearables, health records, and outcomes, we are building toward a world model of human biology. Our goal is to simulate all of human health and use that intelligence to help people perform, recover, and live longer.",
     "one_liner": "At-home molecular body test: 1,000+ biomarkers from a drop of blood",
@@ -3214,8 +3351,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2332aa776f979c1ef83d3026fd24932b6576eea.png",
     "website": "https://www.invertix.ai",
     "all_locations": "Munich, BY, Germany",
-    "long_description": "The next constraint is not intelligence, it is the energy and operational cost of running it.\r\nWe deploy custom AI models inside critical infrastructure companies that ingest SCADA data, work orders, human interventions,  operational data no public model has seen, grounded in physics-informed neural networks and differentiable simulators. \r\nThis creates a flywheel: more operator data → better process understanding → more efficient operations → cheaper energy → cheaper AI → more deployment → more data. \r\n\r\nhttps://www.youtube.com/watch?v=0uDH6pMn5OE\r\n\r\nAI compute doubles every 2.2 years. Data center demand grows from 415 to 945 TWh by 2030. Without near-zero energy cost, AI remains limited by human infrastructure. We are the layer that runs AI at zero energy cost.\r\nEnergy is a $10 trillion market. The infrastructure layer doesn't exist yet. \r\nWe are building it.",
-    "one_liner": "Energy Superintelligence, AI that operates critical infrastructure",
+    "long_description": "Invertix builds AI that helps energy companies run Power Plants Autonomously.\r\nWe believe critical infrastructure will be autonomously developed and operated, from Power Plants to Data centers. We are building that AI layer.\r\nhttps://www.youtube.com/watch?v=0uDH6pMn5OE\r\n\r\nEnergy is a $10 trillion market. The infrastructure layer doesn't exist yet. \r\nWe are building it.",
+    "one_liner": "AI that operates power plants",
     "team_size": 8,
     "industry": "Industrials",
     "subindustry": "Industrials -> Energy",
@@ -3933,7 +4070,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4a356af2535effc85a23e22046de196453243ce.png",
     "website": "https://0.security",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "0.security is an applied AI research lab helping developers, AI-native startups, and enterprises to continuously find & fix security risks 24/7.\r\n\r\nOur autonomous cybersecurity team has found & fixed previously unknown vulnerabilities in operating systems, government code and software powering more than 3 billion devices.\r\n\r\nWe work with EY, big pharma, financial services, AI-native startups and defense organisations to secure systems at the pace & depth needed to defend against AI-powered attackers.",
+    "long_description": "0.security builds an autonomous offensive security team that finds and fixes vulnerabilities as fast as AI writes code and attackers exploit it.\r\n\r\nWe've found and fixed dozens of previously unknown vulnerabilities (0-days) in government software across multiple countries and in software powering more than 3 billion devices. Today we work with EY (Ernst & Young), leading tech companies and defense organizations.\r\n\r\nOur AI agents hack into any software, verify every vulnerability they find, and ship the fix autonomously. They run 24/7 across the full stack, from web apps and dependencies down to operating systems and the Linux kernel.\r\n\r\nWe offer two products: 0cloud, where developer teams connect their repos and get security handled 24/7, and our open-source harness, which we deploy for enterprises and critical infrastructure providers.",
     "one_liner": "The autonomous cybersecurity team",
     "team_size": 2,
     "industry": "B2B",
@@ -4312,13 +4449,14 @@
     "website": "https://telamont.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Telamont catches contractual, technical and code-compliance risks in construction documents and gives teams the system to act on them before they become costly rework or disputes.\r\n\r\nConstruction projects lose money in the gap between what the documents say and what gets built. One missed discrepancy between the specs, drawings, geotechnical study and code can become a seven-figure claim eighteen months later.\r\n\r\nTelamont connects to where your documents live and pulls in every file and revision as it lands, continuously building a complete picture of the project. Every page is checked against the rest of the project, so risks are flagged as soon as they appear. Instead of reviewing documents, teams act on flagged risks, tracking each from detection to resolution while managing exposure and pursuing recovery opportunities across every project.",
-    "one_liner": "Sentry for risks in construction documents",
+    "one_liner": "Sentry for errors in construction documents",
     "team_size": 6,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction -> Construction",
     "launched_at": 1792689742,
     "tags": [
       "Documents",
+      "Real Estate",
       "Construction",
       "AI"
     ],
@@ -5804,6 +5942,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/melty-gg",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/melty-gg.json"
+  },
+  {
+    "id": 36908,
+    "name": "RouterPlus",
+    "slug": "routerplus",
+    "former_names": [
+      "Evo",
+      "EVO"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6bb3c1b091b775faf5b88bf2fdc28cd10b50bb08.png",
+    "website": "https://routerplus.com",
+    "all_locations": "Bengaluru, KA, India",
+    "long_description": "RouterPlus is a marketplace for AI inference. We find the right AI model for a team's product, then get it served at the team's scale, at the best price.\r\n\r\nMost teams that run AI in production pay for a top model on every task, when a cheaper model can do most of the work. The same model can also cost twice as much depending on which provider runs it, and many providers fail at peak traffic.\r\n\r\nRouterPlus tests models on a team's own traffic and recommends one. Providers then compete for the workload. We check that the chosen provider can hold the team's real peak, and we keep a second provider ready as a backup. Teams call the model through one API.\r\n\r\nOur largest customer runs 3 million agent conversations a day on RouterPlus.",
+    "one_liner": "Marketplace for AI inference: the right model at the best price",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1793169017,
+    "tags": [
+      "Developer Tools",
+      "Marketplace",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "India",
+      "South Asia"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/routerplus",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/routerplus.json"
   },
   {
     "id": 36940,

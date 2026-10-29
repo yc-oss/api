@@ -552,6 +552,7 @@
     "regions": [
       "United States of America",
       "Canada",
+      "America / Canada",
       "America / Canada"
     ],
     "stage": "Growth",
@@ -5793,7 +5794,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c27234ed03e90c2a18c23ce1e2d6616a17be34b.png",
     "website": "https://prelim.com/",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "At Prelim, we are on a mission to revolutionize the way financial institutions onboard new customers. We believe that the customer onboarding process should be fast, efficient, and user-friendly. As a member of our team, you will have the opportunity to work with cutting-edge technology and make a real impact on the financial industry.\r\n\r\nOur platform allows banks and financial institutions to digitize their services, streamline account opening processes, and improve customer experience. By joining our team, you will be a part of a fast-paced, innovative, and dynamic work environment where you can learn and grow your skills.\r\n\r\nOur team is made up of a diverse group of individuals with a wide range of experience and expertise. We value collaboration, creativity, and a passion for problem-solving. As a member of our team, you will have the opportunity to work with experts in the field, and be challenged to think outside the box.\r\n\r\nIn addition, we offer a comprehensive benefits package, flexible working hours, and a great work-life balance. We are constantly evolving and growing, and we are looking for talented individuals who share our vision and are excited to be a part of our journey. If you're passionate about fintech and want to be a part of a team that is making a real impact in the industry, then Prelim is the place for you.",
     "one_liner": "Build better banking",
     "team_size": 49,
@@ -5817,7 +5818,7 @@
       "United States of America",
       "America / Canada",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "stage": "Growth",
     "app_video_public": false,
@@ -7441,7 +7442,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -25741,49 +25742,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2022/blink-new.json"
   },
   {
-    "id": 26012,
-    "name": "Postal",
-    "slug": "postal",
-    "former_names": [
-      "Plover Parametrics"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/911ebad4ffeccf83b0c6f626fa7f16fe4bb95679.png",
-    "website": "https://usepostal.com",
-    "all_locations": "New York City, NY, USA",
-    "long_description": "Postal offers a modern virtual mailbox for businesses. Postal provides an official address for government, IRS, and vendor communications so companies don't have to use an apartment / shared office address.\r\n\r\nPostal's AI summarizes mail and recommends compliance actions, and its marketplace of service providers are ready to perform the mundane compliance work that otherwise falls through the cracks. \r\n\r\nCompanies get 6 months free (a $300 value), plus three free hours of compliance services (a $600 value). ",
-    "one_liner": "An AI native virtual address & mailroom for businesses.",
-    "team_size": 4,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Insurance",
-    "launched_at": 1646246347,
-    "tags": [
-      "Compliance",
-      "Operations",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Insurance"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/postal",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/postal.json"
-  },
-  {
     "id": 26016,
     "name": "Finku",
     "slug": "finku",
@@ -29451,12 +29409,12 @@
     "former_names": [
       "Pynecone"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/677513c7f80f22199de3136c5024581799a126f2.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/05461488212f581f60c216b82f80d776deb1a034.png",
     "website": "https://reflex.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Reflex is the operating system for building mission-critical enterprise applications.\r\n\r\nToday’s enterprise stack is fragmented. Shipping an app requires stitching together multiple tools and coordinating across multiple roles. Reflex replaces that complexity with a single, unified platform to build, deploy, and manage production applications end-to-end.\r\n\r\nWe empower teams to own the entire lifecycle of their apps — from idea to production — without needing specialized infrastructure, DevOps, or platform teams. We do this by providing solid, reusable abstractions at both the framework and infrastructure layers. Because we own the underlying open-source framework and the platform it runs on, we can manage the full lifecycle of the application seamlessly.\r\n\r\nWith Reflex, teams securely connect to company data, use AI to build standardized applications on top of our open-source framework, and deploy with a single click to share across their organization.\r\n\r\nWe’re replacing the fragmented enterprise stack — and the organizational bottlenecks that come with it.\r\n\r\nFounded by Alek Petuskey and Nikhil Rao, Reflex has powered over 1 million applications, earned 28,000+ GitHub stars, and is used by 30% of Fortune 500 companies for internal tools and data-driven applications.",
-    "one_liner": "The operating system for building mission-critical enterprise apps.",
-    "team_size": 10,
+    "long_description": "For decades, businesses have adapted to software that wasn’t built for them. Teams pay for features they don’t need, go without the ones they do, and fill the gaps with spreadsheets, emails, and manual work. AI flips the equation. Now, software can be built around your business.\r\n\r\nReflex brings AI and engineering expertise to your business without requiring you to become a software company. We work alongside your team to identify where better software can make the biggest difference, build on or replace your existing systems, and help you put it to work.\r\n\r\nOur platform gives every app a shared foundation, making your software easier to connect, maintain, and improve. As your business evolves, your software can evolve with it.\r\n\r\nThat foundation is Reflex, our open-source framework for building full-stack web apps entirely in Python. With 1M+ apps built, approximately 29,000 GitHub stars, and usage by 30% of the Fortune 500, Reflex gives developers a shared foundation for building and extending applications, with source code they can inspect, customize, and run themselves.",
+    "one_liner": "Build the software you wish existed.",
+    "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1674447011,
@@ -29545,8 +29503,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/102836faf8c777a7201bce15ad9d99bab17c4a16.png",
     "website": "https://www.magicpatterns.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Magic Patterns is an AI design tool used by 2,500+ product teams at companies like Vanta, Doordash, and Freedom Mortgage to iterate on product ideas, get user feedback, and deploy to a website.",
-    "one_liner": "Go from idea to production with AI.",
+    "long_description": "Magic Patterns is a design tool used by more than 3,000 product teams at companies like Toast, Ramp, and Headway to brainstorm on product ideas, get user feedback, and ship to production.",
+    "one_liner": "The AI-native workspace to design your product.",
     "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -35564,7 +35522,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Strada automates insurance operations with AI agents. We deploy agents that handle policy servicing and claims operations end-to-end for some of the largest insurance carriers and brokers in the US. With native integrations into core policy, claims and agency management systems, we automate complex workflows with the domain expertise and compliance guardrails the industry demands.",
     "one_liner": "AI agents that run insurance operations",
-    "team_size": 21,
+    "team_size": 16,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1690570692,
@@ -35912,7 +35870,7 @@
     "all_locations": "",
     "long_description": "Teams struggling with GPU availability use our platform to unlock capacity immediately for their growing AI workloads. Shadeform has a unified, easy-to-use API and platform to access and provision GPUs and deploy models for inference to any provider. With our aggregated availability and pricing data, we can help ensure your on-demand inference and training jobs will run on time at optimal cost.",
     "one_liner": "The GPU Cloud Marketplace",
-    "team_size": 11,
+    "team_size": 22,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1689812081,
@@ -37701,6 +37659,42 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/atopile",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/atopile.json"
+  },
+  {
+    "id": 29317,
+    "name": "CloudCruise",
+    "slug": "cloudcruise",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/71e4ab89282d96cbbe0eb42a1883f2331e1c77c3.png",
+    "website": "https://cloudcruise.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Build healthcare browser automations faster. Run self-healing payer portal and EHR workflows on a fully managed infrastructure.",
+    "one_liner": "The developer platform for fast and reliable browser agents",
+    "team_size": 7,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1708630326,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cloudcruise",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/cloudcruise.json"
   },
   {
     "id": 29319,
@@ -41330,6 +41324,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/stardrift.json"
   },
   {
+    "id": 29655,
+    "name": "Decisional AI",
+    "slug": "decisional-ai",
+    "former_names": [
+      "Decisional AI, Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41aabc8daca51e7697f6edfa19e6601f54841485.png",
+    "website": "https://www.decisional.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Decisional builds custom AI Agents for commercial contractors.\r\nWe are the fastest and most reliable way to build automations across every app you use.",
+    "one_liner": "AI Agents for the Trades",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1723533013,
+    "tags": [
+      "B2B",
+      "Workflow Automation",
+      "Automation",
+      "Operations",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": true,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/decisional-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/decisional-ai.json"
+  },
+  {
     "id": 29656,
     "name": "Leeroo",
     "slug": "leeroo",
@@ -44493,7 +44531,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -51091,8 +51129,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7d56dd73799b9dbf8fdb9e3dd627ec70680c4c8.png",
     "website": "https://mesmer.co",
     "all_locations": "Berlin, Berlin, Germany",
-    "long_description": "Mesmer is the operating system for agentic engineering teams.\r\n\r\nA few engineering teams are accelerating at breakneck speed, while most are stuck with incremental gains. Mesmer exists so that gap doesn't come down to who gets lucky with their AI experiments.\r\n\r\nWe help founders and CTOs turn agents into real leverage across their organization: faster delivery, better quality, less bureaucracy, and a clear view of where the bottlenecks are and what to do next.\r\n\r\nHundreds of engineering teams have used Mesmer to >2x their productivity in the first quarter using our platform.\r\n\r\nWe are a team of repeat founders and CTOs with 15+ years of experience, including leading engineering together at Origin Financial ($400M), the AI financial advisor founded by Mesmer's CEO.",
-    "one_liner": "The operating system for the 100x Engineering Team",
+    "long_description": "Mesmer builds software factories for engineering teams. Keeping a team at the state of the art with agents has become a full-time job, and the target keeps moving. We do that job for our customers: we're always finding the biggest bottleneck in how their team ships and fixing it in their factory.\n\nWe're repeat founders and CTOs in Berlin, backed by YC, GFC and 468 Capital.",
+    "one_liner": "We build software factories for engineering teams",
     "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -57014,6 +57052,52 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/waddle-labs.json"
   },
   {
+    "id": 31051,
+    "name": "Corvera",
+    "slug": "corvera",
+    "former_names": [
+      "Sarah.AI",
+      "Sarah AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ba3bd8042a63e5e4cc8707533d8561d2aa5bf74.png",
+    "website": "https://corvera.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Corvera (YC W26) is the AI sales agent for CPG brands. We turn the data a brand already has into the actions its sales team takes today.\r\n\r\nA CPG brand sells into tens of thousands of independent US stores through dozens of distributors, and works that base with a handful of people. CLEAN Cause, a $20M yerba mate brand, covers 21,000 stores through 46 distributors with a four-person sales team. The accounts worth a call are not capped by headcount. The team is.\r\n\r\nCLEAN Cause now runs its daily sales decisions on Corvera: 5,000 queries in 40 days across 12 users, $250K of opportunities surfaced within days, and a 7x return on the analysts they would otherwise hire.\r\n\r\nWith Corvera in place, every sales rep starts the morning with:\r\n- The stores to act on today, ranked and priced, with the reason on the row,\r\n- The outreach already drafted to the right contact at the right distributor, and\r\n- The follow-up booked, logged, and measured against the goal it was set to move.\r\n\r\nAll from the distributor feeds, retailer portals, and ERP data they already have, resolved into one context layer - without a data team, and without handing their sales to a broker.\r\n\r\nWe’re founded by Chris (2x Founder; ex-CEO at Better Nature; Forbes 30U30), Dirk (ex-Google Data & AI Lead), and Matthew (ex-Head of Product at Rosemark; Princeton MEng in CS).\r\n\r\nTo date, we’ve raised $6.2M and are backed by YC, firstminute capital, 6 Degrees Capital, 20VC, Rebel Fund, Duke Capital Partners, and more. Our ICP is US CPG brands doing $20M+ in retail revenue through UNFI, KeHE and DSD distributors. We sell to VPs of Sales and CEOs.\r\n\r\nThe incumbents prove the scale. Brokers take 5-12% of a $350B US independent grocery market, and Advantage Solutions, a publicly traded company, does $3.5B in annual revenue.\r\n\r\nOur mission is bold: to enable the next generation of unicorn CPG brands to be run by teams of less than 10 people.\r\n\r\nOur vision is even bolder: to give every CPG brand the coverage of a full sales team at a fraction of the headcount, and displace the broker network that covers the US independent channel today.\r\n\r\nVisit www.corvera.ai to learn more!",
+    "one_liner": "The AI sales agent for CPG brands",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1763141207,
+    "tags": [
+      "SaaS",
+      "Consumer",
+      "B2B",
+      "Data Engineering",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/corvera",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/corvera.json"
+  },
+  {
     "id": 31063,
     "name": "Clara",
     "slug": "clara-2",
@@ -57648,6 +57732,43 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/autositu",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/autositu.json"
+  },
+  {
+    "id": 31131,
+    "name": "Zatanna",
+    "slug": "zatanna",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d44e6f61cb5ed4a97d1177fa88df6f8b04c87366.png",
+    "website": "https://www.zatanna.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Zatanna is building the infrastructure for AI to interact with software. AI agents are increasingly capable of performing work that was previously done by humans, but they're still constrained by software interfaces designed for people. Today, agents rely heavily on clicking buttons, navigating pages, and interacting with UIs to get things done. At Zatanna, we're changing that by reverse engineering applications to turn their underlying workflows and actions into reliable, read-and-write APIs, regardless of whether those applications offer APIs themselves. ",
+    "one_liner": "Building the infrastructure for AI to interact with software",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1770919305,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zatanna",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/zatanna.json"
   },
   {
     "id": 31138,
@@ -60160,6 +60281,43 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/juno-chat.json"
   },
   {
+    "id": 31385,
+    "name": "Zolvo",
+    "slug": "zolvo",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b666a649770aa03e873bbfd549d566bd445e8766.png",
+    "website": "https://zolvo.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Zolvo automates repetitive work for commercial lenders, from document review and invoice verification to collections, payment matching, and reporting. It works as a loan management system or alongside your existing one.",
+    "one_liner": "AI for Commercial Lending",
+    "team_size": 4,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Credit and Lending",
+    "launched_at": 1773364062,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Credit and Lending"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zolvo",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/zolvo.json"
+  },
+  {
     "id": 31386,
     "name": "Interfaze",
     "slug": "interfaze",
@@ -60513,45 +60671,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/adialante",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/adialante.json"
-  },
-  {
-    "id": 31435,
-    "name": "Lumius",
-    "slug": "lumius",
-    "former_names": [
-      "Lumius Imaging"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/19ff35f4e54afb89b7ab4ec1ed26198fc61066ae.png",
-    "website": "https://www.lumius-imaging.com",
-    "all_locations": "Durham, NC, USA",
-    "long_description": "Ultrasound today is still mostly 2D. Clinicians have to imagine the 3D anatomy in their head while also moving the probe at the same time. This makes procedures like vascular access hard to learn and perform consistently, especially for beginners. ~50% fail on their first attempt. Hospitals also spend millions each year on 2D ultrasound training. Meanwhile, existing 3D ultrasound devices can cost >10× as much.\r\n\r\nLumius is building fast, smart, and accessible 3D ultrasound systems to eliminate this 2D guesswork. Our technology shows a clear, real-time 3D view of what’s inside the body. It works over a large volume, not just a thin slice. The device is also affordable, compact, and portable.\r\n\r\nWe are starting with vascular access, especially central line. Future use cases include blood clot detection, tumor diagnosis, and biopsy guidance. Our long-term vision is a universal 3D ultrasound platform that brings easy-to-use, real-time imaging to a wide range of clinical and eventually consumer applications.\r\n",
-    "one_liner": "Fast, smart, accessible 3D ultrasound that anyone can use",
-    "team_size": 4,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Medical Devices",
-    "launched_at": 1775165077,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Medical Devices"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lumius",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/lumius.json"
   },
   {
     "id": 31443,
@@ -63238,6 +63357,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/locke.json"
   },
   {
+    "id": 33318,
+    "name": "HillStar",
+    "slug": "hillstar",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b2a3199ea6bce97161125f2d12ceedf9cc1ecd2.png",
+    "website": "https://hillstar.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Agents to help utilities make better buying decisions.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1793224703,
+    "tags": [
+      "GovTech",
+      "Big Data",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hillstar",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/hillstar.json"
+  },
+  {
     "id": 33319,
     "name": "Vernius Systems, Inc.",
     "slug": "vernius-systems-inc",
@@ -63587,7 +63748,7 @@
     "slug": "helios-intelligence",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dc9a239cf834c9434b809e9cda6ac12630153db.png",
-    "website": "https://www.heliosinc.ai/",
+    "website": "https://www.myhelios.com/",
     "all_locations": "Boston, MA, USA",
     "long_description": "Helios is building a molecular body test from a single drop of blood. Our at-home test measures more than 1,000 biomarkers and turns them into a living model of the body—designed to show what is happening now, surface risk earlier, and become more useful with every test.\n\nBy combining longitudinal molecular data with labs, wearables, health records, and outcomes, we are building toward a world model of human biology. Our goal is to simulate all of human health and use that intelligence to help people perform, recover, and live longer.",
     "one_liner": "At-home molecular body test: 1,000+ biomarkers from a drop of blood",

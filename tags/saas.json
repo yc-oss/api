@@ -14127,7 +14127,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/36f3d929390edbb2302940824ff50512f48f5516.png",
     "website": "https://jetadmin.io",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Frankfurt, HE, Germany; San Francisco, CA, USA",
     "long_description": "Jet Admin - an app builder designed specifically for creating internal tools, admin panels, external portals, inventory apps, and other business applications really fast and without coding. \r\n\r\nIn Jet Admin, you can assemble multi-page apps with complex user flows, connected to multiple data sources. Setting up custom layouts, adding custom actions and workflows, binding and transforming dynamic values, using conditional rules and validations - all is done through a drag & drop and point & click visual builder.\r\n\r\nWe’ve also added a variety of developer tools, so whenever necessary, you can create custom SQL and HTTP queries, write JavaScript, create multiple environments, code, and embed custom UI components.",
     "one_liner": "No-code business app builder",
     "team_size": 8,
@@ -14150,7 +14150,9 @@
       "Engineering, Product and Design"
     ],
     "regions": [
+      "Germany",
       "United States of America",
+      "Europe",
       "America / Canada"
     ],
     "stage": "Early",
@@ -25763,6 +25765,7 @@
       "United States of America",
       "Canada",
       "America / Canada",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -32125,7 +32128,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9319d5ef3419cc17f12a1fb2910035be736adcb4.png",
     "website": "https://www.blitznocode.com/",
-    "all_locations": "Porto, Porto District, Portugal; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Blitz is a no-code platform to build internal applications and automate manual tasks. Quickly build a database, integrate your logic, and scale your operations. \r\n\r\nAlternative to Google Sheet and Airtable, Blitz is not limited by a number of lines of records or by an API rate. \r\n\r\nCreate your data model and set up data validation rules. Use our interface builder to create dynamic forms, and quickly onboard customer and partners. Leverage our granular permissions to share data to external users (publicly or privately). Add advanced business logic to your forms and portals, without writing any line of code. The experience is similar to creating spreadsheets, but without their limitations in terms of scalability and security. \r\n\r\nYou can use Blitz to build an onboarding flow, an order management system or some validation workflows for compliance purposes. \r\n\r\nStop using developer resources or rigid SaaS software. Start building your own tools, adapted to your needs, with Blitz. ",
     "one_liner": "Lovable for non-tech users: Build no-code internal and customer apps",
     "team_size": 4,
@@ -32150,8 +32153,8 @@
       "Operations"
     ],
     "regions": [
-      "Portugal",
-      "Europe",
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -39705,7 +39708,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Strada automates insurance operations with AI agents. We deploy agents that handle policy servicing and claims operations end-to-end for some of the largest insurance carriers and brokers in the US. With native integrations into core policy, claims and agency management systems, we automate complex workflows with the domain expertise and compliance guardrails the industry demands.",
     "one_liner": "AI agents that run insurance operations",
-    "team_size": 21,
+    "team_size": 16,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1690570692,
@@ -45398,8 +45401,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7d56dd73799b9dbf8fdb9e3dd627ec70680c4c8.png",
     "website": "https://mesmer.co",
     "all_locations": "Berlin, Berlin, Germany",
-    "long_description": "Mesmer is the operating system for agentic engineering teams.\r\n\r\nA few engineering teams are accelerating at breakneck speed, while most are stuck with incremental gains. Mesmer exists so that gap doesn't come down to who gets lucky with their AI experiments.\r\n\r\nWe help founders and CTOs turn agents into real leverage across their organization: faster delivery, better quality, less bureaucracy, and a clear view of where the bottlenecks are and what to do next.\r\n\r\nHundreds of engineering teams have used Mesmer to >2x their productivity in the first quarter using our platform.\r\n\r\nWe are a team of repeat founders and CTOs with 15+ years of experience, including leading engineering together at Origin Financial ($400M), the AI financial advisor founded by Mesmer's CEO.",
-    "one_liner": "The operating system for the 100x Engineering Team",
+    "long_description": "Mesmer builds software factories for engineering teams. Keeping a team at the state of the art with agents has become a full-time job, and the target keeps moving. We do that job for our customers: we're always finding the biggest bottleneck in how their team ships and fixing it in their factory.\n\nWe're repeat founders and CTOs in Berlin, backed by YC, GFC and 468 Capital.",
+    "one_liner": "We build software factories for engineering teams",
     "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -46926,7 +46929,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2026",
     "status": "Active",
@@ -48584,6 +48587,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/agent-37",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/agent-37.json"
+  },
+  {
+    "id": 34899,
+    "name": "The Letter Company",
+    "slug": "the-letter-company",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/52ab0840253398a6b68d120c27e1324adecaa262.png",
+    "website": "https://letter.dev",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "The Letter Company creates engineering tools and models purpose-built for growth. ",
+    "one_liner": "The world's first coding agent, harness, & IDE for growth engineering.",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1785817189,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "Web Development"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/the-letter-company",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/the-letter-company.json"
   },
   {
     "id": 35258,
