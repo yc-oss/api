@@ -2914,8 +2914,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37312e12dc6f12e2470a531052ec0e30ee697a75.png",
     "website": "https://almond.bot/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We build robots for physical AI. Meet Axol - A dual-arm robot designed for real-world tasks using AI.",
-    "one_liner": "A dual-arm robot built for physical AI.",
+    "long_description": "We build robots for physical AI. Axol, is a wheeled-humanoid robot designed for real-world tasks using AI.",
+    "one_liner": "America's robot factory",
     "team_size": 6,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -3979,7 +3979,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2026",
     "status": "Active",
@@ -4416,51 +4416,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/spaceflow-technologies-inc.json"
   },
   {
-    "id": 34896,
-    "name": "Faraday",
-    "slug": "faraday",
-    "former_names": [
-      "Faraday Cage",
-      "Faraday",
-      "Faraday Cage"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fbde4bac30252064b1c0af408469172eea1d9b55.png",
-    "website": "https://faradaycompute.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Faraday builds industrial AI that learns how enterprises operate and executes long-horizon, multi-step tasks from the back office to the shop floor.\r\n\r\nWe sit on top of fragmented systems of record, coordinating work across existing software and teams. We combine operating procedures, enterprise data, and expert feedback to capture the rules and judgment behind complex processes. In customer-specific RL environments, we optimize the agent harness around each company’s systems, constraints, approvals, and exceptions.\r\n\r\nWe’re connecting to industrial hardware to bring live production data into the same feedback loop. Human corrections, machine data, and operating results help improve how agents plan and execute future work.\r\n",
-    "one_liner": "Agents running manufacturers from the back office to the shop floor",
-    "team_size": 2,
-    "industry": "Industrials",
-    "subindustry": "Industrials",
-    "launched_at": 1789851118,
-    "tags": [
-      "B2B",
-      "Manufacturing",
-      "Enterprise Software",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2026",
-    "status": "Active",
-    "industries": [
-      "Industrials"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/faraday",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/faraday.json"
-  },
-  {
     "id": 34959,
     "name": "Applied Kinetics",
     "slug": "applied-kinetics",
@@ -4841,6 +4796,51 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/odin-robotics.json"
   },
   {
+    "id": 36512,
+    "name": "Lux Foods",
+    "slug": "lux-foods",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2472fad71829e7d871161e07c00b9d90d3b65af1.png",
+    "website": "https://www.luxfoods.xyz",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Lux Foods engineers ultra-compact plants that produce mostly fruit, then grows them on sugar with 90% less light. We design the biology and hardware together to make robotic farming easier. Starting with cherry tomatoes, we’re building year-round production of flavorful, nutritious, pesticide-free fruit near the people who eat it. Our tomatoes have been grown on the International Space Station, and now we're taking this technology to Earth.",
+    "one_liner": "Crops engineered for premium fruit, grown without sunlight.",
+    "team_size": 4,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1792686891,
+    "tags": [
+      "Cellular Agriculture",
+      "Robotics",
+      "Manufacturing",
+      "Agriculture",
+      "Biotechnology"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lux-foods",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/lux-foods.json"
+  },
+  {
     "id": 36577,
     "name": "OpEra",
     "slug": "opera",
@@ -4949,7 +4949,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2026",
     "status": "Active",

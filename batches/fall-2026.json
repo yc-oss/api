@@ -66,7 +66,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2026",
     "status": "Active",
@@ -1159,6 +1159,50 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/ufoai.json"
   },
   {
+    "id": 33705,
+    "name": "ernd",
+    "slug": "ernd",
+    "former_names": [
+      "Lattice",
+      "Provenance Research Inc.",
+      "Provenance",
+      "Stitch Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0abccc9bf2a6589b531983e558b31a32246f63fb.png",
+    "website": "https://ernd.io/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "ernd is the card for companies that pay for AI, offering up to 6% back on AI spend and 2% on everything else. We pool startups’ purchasing power to negotiate discounts, higher usage limits and priority support from AI providers. In our first 48hrs, we onboarded 10 startups and landed 5 vendor partnerships. \r\n\r\nWe combine experience in quant finance at Bridgewater and IMC, payments at Ripple, financial AI at Farsight, and founding an investment fund focused on distressed industrial acquisitions.",
+    "one_liner": "The credit card for companies that pay for AI",
+    "team_size": 3,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1793313451,
+    "tags": [
+      "Fintech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ernd",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/ernd.json"
+  },
+  {
     "id": 33804,
     "name": "Neomatter",
     "slug": "neomatter",
@@ -1544,15 +1588,17 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c3f8543148c3a53ebe369d21ece622228018917.png",
     "website": "https://chempilot.ai/",
-    "all_locations": "Haifa, Haifa District, Israel",
-    "long_description": "We use AI and quantum-based simulations to discover and develop new materials for defense and dual-use applications, from energetics and propellants to carbon fibers, polymers, coatings and composites. Developing a new material today takes 10+ years of trial-and-error lab work. We compress that to months, using physics-based simulation, machine learning and AI agents that only send labs candidates that can actually be made.\r\n\r\nSam, Ofir and Maor have spent the past two years researching the discovery of these exact materials together at the Technion lab of our CSO, Prof. Alon Grinberg Dana (former MIT postdoc), working directly with defense primes and government R&D agencies. Together we bring deep expertise in chemical engineering, computational chemistry and AI, and the production systems to put them to work. ChemPilot spun out of that work.\r\n\r\nThe defense and dual-use industrial base runs on materials with fragile, sole-source and often adversarial supply chains, from energetics and propellants to carbon fibers, high-temperature composites and specialty polymers. Demand for new capabilities is surging, and materials take decades to develop. The West needs new materials it can make securely, fast and cheap - ChemPilot will help find and develop them.",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "ChemPilot accelerates the discovery and development of next generation defense materials using AI and data from our automated wet lab. Developing a new material today takes 10+ years of trial and error. We compress that to months by screening for what can actually be made, then closing the loop: every lab result feeds back into the models so the next round is faster and smarter.\r\n\r\nSam, Ofir and Maor spent two years researching these materials at the Technion lab of our CSO, Prof. Alon Grinberg Dana (former MIT postdoc), working directly with defense primes and government R&D agencies. Together we bring chemical engineering, computational chemistry and AI, plus the production systems to put them to work. ChemPilot spun out of that research.\r\n\r\nThe West’s defense and dual-use industrial base runs on materials with fragile, sole-source and often adversarial supply chains. Demand for new capability is surging, and materials still take decades to develop. We’re building a new kind of chemical prime: one that can discover, develop and ultimately manufacture the materials the West needs, securely, fast and at cost.",
     "one_liner": "Discover novel defense related materials/molecules.",
     "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials -> Defense",
     "launched_at": 1791753586,
     "tags": [
-      "Machine Learning",
+      "Robotics",
+      "Workflow Automation",
+      "Aerospace",
       "Advanced Materials",
       "Defense"
     ],
@@ -1567,8 +1613,8 @@
       "Defense"
     ],
     "regions": [
-      "Israel",
-      "Middle East and North Africa"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1866,51 +1912,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/openscaffold.json"
   },
   {
-    "id": 34896,
-    "name": "Faraday",
-    "slug": "faraday",
-    "former_names": [
-      "Faraday Cage",
-      "Faraday",
-      "Faraday Cage"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fbde4bac30252064b1c0af408469172eea1d9b55.png",
-    "website": "https://faradaycompute.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Faraday builds industrial AI that learns how enterprises operate and executes long-horizon, multi-step tasks from the back office to the shop floor.\r\n\r\nWe sit on top of fragmented systems of record, coordinating work across existing software and teams. We combine operating procedures, enterprise data, and expert feedback to capture the rules and judgment behind complex processes. In customer-specific RL environments, we optimize the agent harness around each company’s systems, constraints, approvals, and exceptions.\r\n\r\nWe’re connecting to industrial hardware to bring live production data into the same feedback loop. Human corrections, machine data, and operating results help improve how agents plan and execute future work.\r\n",
-    "one_liner": "Agents running manufacturers from the back office to the shop floor",
-    "team_size": 2,
-    "industry": "Industrials",
-    "subindustry": "Industrials",
-    "launched_at": 1789851118,
-    "tags": [
-      "B2B",
-      "Manufacturing",
-      "Enterprise Software",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2026",
-    "status": "Active",
-    "industries": [
-      "Industrials"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/faraday",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/faraday.json"
-  },
-  {
     "id": 34897,
     "name": "AnyAlpha",
     "slug": "anyalpha",
@@ -1964,7 +1965,7 @@
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1785817189,
+    "launched_at": 1793168942,
     "tags": [
       "Developer Tools",
       "SaaS",
@@ -2856,7 +2857,7 @@
     "website": "https://www.mirrors.dev",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Production agents handle many different customer workflows. Currently, when one handles a situation badly, an engineer reads the trace and patches the prompt. The next situation needs another exception. Soon, improving the agent becomes a recurring engineering job, and the prompt keeps growing.\r\n\r\nMirrors finds patterns in past runs. Engineers review guidance for a specific situation and preview where it would apply. Mirrors then delivers that guidance while the agent works, inside the team’s existing setup. The team can check whether the change improved the outcome.\r\n\r\nWe’re building Mirrors for engineering teams running customer-facing agents across varied workflows, so they can improve behavior without hardcoding every lesson in the global prompt.",
-    "one_liner": "Give AI agents the right context at the right moment",
+    "one_liner": "Fix recurring agent mistakes with real-time guidance",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -2864,8 +2865,8 @@
     "tags": [
       "AIOps",
       "Developer Tools",
-      "SaaS",
       "B2B",
+      "Infrastructure",
       "AI"
     ],
     "tags_highlighted": [],
@@ -2897,11 +2898,11 @@
     "former_names": [
       "OnePatch"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9596390d36aa4aa0fc71e53dba1dc5db18a89293.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4fa8d15d930712db8c5f88de73e777865076822.png",
     "website": "https://getopencrawl.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "OpenCrawl lets agents search over hard-to-find multimodal data.\r\nAgents describe the data they need; OpenCrawl finds the sources, then builds and hosts custom crawlers, processing and search indexes. Each index is tuned to be the fastest, most accurate search over that data. Developers wire it into their products through MCP, CLI or API. Teams use it to find answers across their own files, tools and legacy systems.",
-    "one_liner": "Search infrastructure, built for your agents.",
+    "long_description": "OpenCrawl Builds high-performance search indexes over hyper-personalized hard-to-find multimodal data.\r\n\r\nAgents describe the data they need; OpenCrawl finds the sources, then builds and hosts custom crawlers, processing and search indexes. Each index is tuned to be the fastest, most accurate search over that data. Developers wire it into their products through MCP, CLI or API.",
+    "one_liner": "High-performant hyper-personalized search indexes.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -2975,16 +2976,17 @@
   },
   {
     "id": 35262,
-    "name": "Bryel",
-    "slug": "bryel",
+    "name": "Perceptual Labs",
+    "slug": "perceptual-labs",
     "former_names": [
-      "Bryel Labs"
+      "Bryel Labs",
+      "Bryel"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e4fc1c46193139a87be8a9d372f3ac8ccd413c42.png",
     "website": "https://www.bryel.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "Building the next generation of visual perceptual intelligence",
+    "one_liner": "Building the next generation of visual intelligence",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -3012,8 +3014,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/bryel",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/bryel.json"
+    "url": "https://www.ycombinator.com/companies/perceptual-labs",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/perceptual-labs.json"
   },
   {
     "id": 35263,
@@ -3386,21 +3388,22 @@
   },
   {
     "id": 35356,
-    "name": "sintem",
-    "slug": "sintem",
+    "name": "Raven",
+    "slug": "ravenphone",
     "former_names": [
       "Sintem",
       "sintem",
-      "sintem inc."
+      "sintem inc.",
+      "sintem"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/754de4c0d947ee0ffec143a04381c7d7cdcc0667.png",
-    "website": "https://sintem.co",
+    "website": "https://ravenphone.com",
     "all_locations": "BY, Germany",
     "long_description": "Most phones are built to keep you on them. We make an agentic phone that puts an army of agents to work for you. Tell it what you need done, and they handle it across the tools and apps you already use. You get more work done with less time on your screen.",
     "one_liner": "An agentic phone that does your busywork",
     "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Consumer Electronics",
     "launched_at": 1791832761,
     "tags": [
       "Telecommunications",
@@ -3413,8 +3416,8 @@
     "batch": "Fall 2026",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Infrastructure"
+      "Consumer",
+      "Consumer Electronics"
     ],
     "regions": [
       "Germany",
@@ -3425,8 +3428,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sintem",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/sintem.json"
+    "url": "https://www.ycombinator.com/companies/ravenphone",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/ravenphone.json"
   },
   {
     "id": 35389,
@@ -3490,8 +3493,8 @@
     "tags": [
       "Hardware",
       "Neurotechnology",
+      "Neuroinformatics",
       "Consumer",
-      "Big Data",
       "AI"
     ],
     "tags_highlighted": [],
@@ -4057,6 +4060,47 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/orca-aerospace.json"
   },
   {
+    "id": 35527,
+    "name": "Fleety",
+    "slug": "fleety",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/db07ec09ef8192bbc52f5bc207031df3e5646dac.png",
+    "website": "https://usefleety.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "A typical customer handles 100+ jobs a day, with their best technician generating $500,000 more revenue than the average. Fleety listens to every call and automatically routes each job to the technician most likely to generate the most revenue.",
+    "one_liner": "Fleety is an AI dispatcher for plumbing and HVAC companies.",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1793314840,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Home Services",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/fleety",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/fleety.json"
+  },
+  {
     "id": 35553,
     "name": "0.security",
     "slug": "0security",
@@ -4441,6 +4485,49 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/resin-technologies.json"
   },
   {
+    "id": 35982,
+    "name": "Routant",
+    "slug": "routant",
+    "former_names": [
+      "AlphaDI Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/447dd9475c7b300e10d5e9da6bfeb6b3c50ed0d3.png",
+    "website": "https://routant.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "AI agents won’t stay inside the companies that build them. The most valuable agents will work across company boundaries, inside customers’ private systems. In those environments, intelligence is no longer the barrier to deployment. Trust and access are. Routant is the zero-trust access layer for this new agentic world. Vendors integrate once, while customers retain governance over every deployment, deciding what agents can access and which actions need human review, with a complete audit trail of every action.",
+    "one_liner": "Last mile deployment and connectivity for Agents as a Service",
+    "team_size": 0,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1786494509,
+    "tags": [
+      "AIOps",
+      "Cybersecurity",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/routant",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/routant.json"
+  },
+  {
     "id": 35983,
     "name": "Telamont",
     "slug": "telamont",
@@ -4623,10 +4710,10 @@
       "Lokberg Industries"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/52d6be23c1a08e2020010a26b5bd336554572d38.png",
-    "website": "https://lokberg.com/",
+    "website": "https://polemosindustries.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Precision strike is rationed. Forces see more targets than they can afford to hit.\r\n\r\nPolemos builds AI-guided ballistic missiles and the compact launchers that fire them, designed for mass manufacturing. Our launchers form a strike network wired into the recon drones already in the sky: a drone geolocates a target, the nearest launcher fires, and a guided round lands in seconds.\r\n\r\nShort range, no wasted kilometers, no modified trucks. Built on production lines that already exist, so output scales when it matters most.",
-    "one_liner": "AI-guided ballistic missiles, cheap enough to field in numbers that…",
+    "one_liner": "AI-guided ballistic missiles, built for mass manufacturing",
     "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials -> Defense",
@@ -5374,8 +5461,8 @@
     "tags": [
       "Cellular Agriculture",
       "Robotics",
+      "Manufacturing",
       "Agriculture",
-      "AI",
       "Biotechnology"
     ],
     "tags_highlighted": [],
@@ -5739,7 +5826,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a3d66de7c8d8809683c96657196dfeabd35eb9bc.png",
     "website": "https://www.asim-group.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
+    "long_description": "Asim is building standardized benchmarks for physical intelligence, helping robotics companies understand their robots’ capabilities and safety limits before deployment.\r\nWe test real robots under changing physical conditions, varying shape, weight, friction and material, to identify where performance breaks down and give engineers actionable feedback.\r\n\r\nOur four founders include three PhD researchers, two specializing in robotics, with backgrounds at Sony and NASA JPL and two RoboCup@Home championship wins.\r\n\r\nOur ambition is to become the standard robotics teams use to measure progress and assess readiness for deployment.",
     "one_liner": "Enable robots to operate safely in the real world.",
     "team_size": 4,
     "industry": "Industrials",
@@ -6365,14 +6452,16 @@
   },
   {
     "id": 37203,
-    "name": "Volaren Inc.",
-    "slug": "volaren-inc",
-    "former_names": [],
+    "name": "Volaren",
+    "slug": "volaren",
+    "former_names": [
+      "Volaren Inc."
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be43cf0580fc71ee690f3408420f4280b5e3665f.png",
     "website": "https://www.volaren.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Volaren is an agent for your portfolio that explains each move, suggests your next idea, and trades it for you. \r\n\r\nConnect your bank accounts & brokerage and Volaren tells you what changed and why, answers any question about your money, and turns any idea into a trade. You can copy the moves of famous investors, politicians, proven strategies and themed baskets in a tap, or set up your own AI agents to watch the market and act within the limits you choose. \r\n\r\nEverything works from the app, the web or a simple text, so managing your money feels like texting a portfolio manager who never sleeps.",
-    "one_liner": "The investing agent that comes to you",
+    "long_description": "Volaren is the personal investing agent that comes to you. It knows why your portfolio moved, suggests your next idea, and trades it for you. \r\n\r\nConnect your bank accounts & brokerage and Volaren tells you what changed and why, answers any question about your money, and turns any idea into a trade. You can copy the moves of famous investors, politicians, proven strategies and themed baskets in a tap, or set up your own AI agents to watch the market and act within the limits you choose. \r\n\r\nEverything works from the app, the web or a simple text, so managing your money feels like texting a portfolio manager who never sleeps.",
+    "one_liner": "The personal investing agent that comes to you",
     "team_size": 4,
     "industry": "Fintech",
     "subindustry": "Fintech -> Asset Management",
@@ -6402,8 +6491,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/volaren-inc",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/volaren-inc.json"
+    "url": "https://www.ycombinator.com/companies/volaren",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/volaren.json"
   },
   {
     "id": 37236,
@@ -7594,7 +7683,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2026",
     "status": "Active",
@@ -7740,6 +7829,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/boxesdev",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/boxesdev.json"
+  },
+  {
+    "id": 38490,
+    "name": "Jinko",
+    "slug": "jinko",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/94899e15d10f620110f9390e865fcdb324fbce08.png",
+    "website": "https://gojinko.com",
+    "all_locations": "Paris, Île-de-France, France",
+    "long_description": "",
+    "one_liner": "Travel Search & Booking Infrastructure for AI agents",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1793315232,
+    "tags": [
+      "Travel",
+      "APIs"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "France",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/jinko",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/jinko.json"
   },
   {
     "id": 38492,

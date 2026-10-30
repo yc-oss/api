@@ -7,7 +7,7 @@
   "website": "https://www.mirrors.dev",
   "all_locations": "San Francisco, CA, USA",
   "long_description": "Production agents handle many different customer workflows. Currently, when one handles a situation badly, an engineer reads the trace and patches the prompt. The next situation needs another exception. Soon, improving the agent becomes a recurring engineering job, and the prompt keeps growing.\r\n\r\nMirrors finds patterns in past runs. Engineers review guidance for a specific situation and preview where it would apply. Mirrors then delivers that guidance while the agent works, inside the team’s existing setup. The team can check whether the change improved the outcome.\r\n\r\nWe’re building Mirrors for engineering teams running customer-facing agents across varied workflows, so they can improve behavior without hardcoding every lesson in the global prompt.",
-  "one_liner": "Give AI agents the right context at the right moment",
+  "one_liner": "Fix recurring agent mistakes with real-time guidance",
   "team_size": 2,
   "industry": "B2B",
   "subindustry": "B2B -> Engineering, Product and Design",
@@ -15,8 +15,8 @@
   "tags": [
     "AIOps",
     "Developer Tools",
-    "SaaS",
     "B2B",
+    "Infrastructure",
     "AI"
   ],
   "tags_highlighted": [],

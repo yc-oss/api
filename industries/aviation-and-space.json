@@ -1960,7 +1960,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9c9b9996bb500ee171134f1e1a0a83f5d48bec3.png",
     "website": "https://www.starcloud.com/",
     "all_locations": "Seattle, WA, USA",
-    "long_description": "Starcloud is building data centers in space, initially to provide GPU compute to other satellites, and later to address the rapidly growing demand for energy caused by the deployment of AI. Falling launch costs give Starcloud access to abundant energy, radiative cooling, and the ability to rapidly scale in space.\r\n\r\nIn November 2025, just 21 months after founding, Starcloud launched its first satellite, Starcloud-1 to space. This has an Nvidia H100, which is 100x more powerful GPU than has ever been operated in space before. With this, they became the first entity to train an LLM in space and the first to run a version of Gemini in space. Starcloud will soon also run high-powered inference on Capella SAR data on orbit for the first time. \r\n\r\nStarcloud is launching its second satellite in October 2026, which will have 100x the power generation of the first and generate more cash than it costs to build and launch. Starcloud expects that within 10 years, most new data centers will be being built in space for the energy.\r\n\r\nIn March 2026, Starcloud raised a $170M Series A led by Benchmark, becoming the fastest unicorn in YC history, just 17 months after demo day.",
+    "long_description": "Starcloud is building data centers in space, initially to provide GPU compute to other satellites, and later to address the rapidly growing demand for energy caused by the deployment of AI. Falling launch costs give Starcloud access to abundant energy, radiative cooling, and the ability to rapidly scale in space.\r\n\r\nIn November 2025, just 21 months after founding, Starcloud launched its first satellite, Starcloud-1 to space. This has an Nvidia H100, which is 100x more powerful GPU than has ever been operated in space before. With this, they became the first entity to train an LLM in space and the first to run a version of Gemini in space. Starcloud will soon also run high-powered inference on Capella SAR data on orbit for the first time. \r\n\r\nStarcloud is launching its second satellite in Q1 2027, which will have 100x the power generation of the first and generate more cash than it costs to build and launch. Starcloud expects that within 10 years, most new data centers will be being built in space for the energy.\r\n\r\nIn March 2026, Starcloud raised a $170M Series A led by Benchmark, becoming the fastest unicorn in YC history, just 17 months after demo day. In August Starcloud raised an additional $250M at a $2.3bn valuation with participation from Nvidia and Cisco.",
     "one_liner": "Data centers in space",
     "team_size": 12,
     "industry": "Industrials",
@@ -1989,8 +1989,8 @@
     ],
     "stage": "Early",
     "app_video_public": true,
-    "demo_day_video_public": false,
-    "app_answers": null,
+    "demo_day_video_public": true,
+    "app_answers": true,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/starcloud",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/starcloud.json"
@@ -2017,7 +2017,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2024",
     "status": "Active",
@@ -2567,21 +2567,27 @@
   },
   {
     "id": 31501,
-    "name": "General Aviation",
-    "slug": "general-aviation",
+    "name": "General Aviation Company",
+    "slug": "general-aviation-company",
     "former_names": [
-      "Fastsky"
+      "Fastsky",
+      "General Aviation"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0ea954602807b3490b23ce9d1c2e1a7490777284.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/db3595db32bc50ed7ead65d6f662bea977b6c455.png",
     "website": "https://generalaviation.com",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Building the elements of a new ATC system.",
+    "long_description": "Remote ATC towers to solve the controller shortage and unblock the capacity constraints on our airspace",
     "one_liner": "Fixing air traffic control with remote towers",
     "team_size": 0,
     "industry": "Industrials",
     "subindustry": "Industrials -> Aviation and Space",
     "launched_at": 1778742722,
-    "tags": [],
+    "tags": [
+      "Hard Tech",
+      "Hardware",
+      "Robotics",
+      "Aerospace"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -2601,8 +2607,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/general-aviation",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/general-aviation.json"
+    "url": "https://www.ycombinator.com/companies/general-aviation-company",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/general-aviation-company.json"
   },
   {
     "id": 32233,

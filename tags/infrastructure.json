@@ -3170,8 +3170,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e16adbb8c4442e6124b56566c82ed680beaba21a.png",
     "website": "https://dotwave.ai/",
     "all_locations": "Paris, Île-de-France, France",
-    "long_description": ".Wave builds a continuous inference engine for streaming AI models, including full-duplex voice and streaming speech recognition.   \r\n\r\nCustomers bring their models; we integrate and run them, managing execution, session state, and scheduling to reduce end-to-end latency and serving cost per live session.  \r\n\r\nWe use cadenced inference to support more concurrent sessions per GPU while keeping latency low and consistent.",
-    "one_liner": "Continuous inference for streaming AI models",
+    "long_description": ".Wave provides dedicated inference capacity for real-time workloads, alongside serverless streaming models for speech and conversation.\r\n\r\nOur Dedicated Lanes give you the guarantees of a dedicated endpoint (latency, capacity, locked-in price) without paying for idle GPUs. Capacity is matched to your traffic on an agreed schedule: more during peak hours, less during quieter periods, or none when you don’t need service. You only pay for the capacity and time windows you reserve.\r\n\r\nOur .wave Live API, powered by our WPK inference engine, provides streaming speech recognition and full-duplex voice.",
+    "one_liner": "Inference for real-time AI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -4952,51 +4952,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/overshoot.json"
   },
   {
-    "id": 31192,
-    "name": "SideKit",
-    "slug": "sidekit",
-    "former_names": [
-      "Sidekit",
-      "SideKit",
-      "Approxima"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f92328a175964c6444951d5ecf374ac25667dab.png",
-    "website": "https://appsidekit.com",
-    "all_locations": "Toronto, ON, Canada",
-    "long_description": "SideKit is a consumer app studio that makes Island, a different kind of screen time app.",
-    "one_liner": "Consumer app studio.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1767593677,
-    "tags": [
-      "Enterprise Software",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "Canada",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sidekit",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/sidekit.json"
-  },
-  {
     "id": 31216,
     "name": "Archal",
     "slug": "archal",
@@ -5744,7 +5699,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1ed30d715c1d9c492a56975e2eb6c95ba888810e.png",
     "website": "https://www.useclick.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Click runs serverless agents with any model and your tools. Submit inputs over an API and stream results to your app or receive a webhook when work completes.\r\n\r\nAsk your coding agent about useclick.ai/reference!",
+    "long_description": "Click provides managed agents you can use with any model, without provisioning any infrastructure. Simply connect your tools and submit inputs - Click runs the agent and streams back results. \r\n\r\nClick handle all of the infrastructure, like harness, sandbox, browser, and web search. You can scale agentic workloads effortlessly without provisioning anything.\r\n\r\nAsk your coding agent about useclick.ai/reference!",
     "one_liner": "Managed Agents API",
     "team_size": 1,
     "industry": "B2B",
@@ -6380,6 +6335,49 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/munito-ai",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/munito-ai.json"
+  },
+  {
+    "id": 35258,
+    "name": "Mirrors",
+    "slug": "mirrors",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e98a564b21ba044528e16126406d35b7464044b7.png",
+    "website": "https://www.mirrors.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Production agents handle many different customer workflows. Currently, when one handles a situation badly, an engineer reads the trace and patches the prompt. The next situation needs another exception. Soon, improving the agent becomes a recurring engineering job, and the prompt keeps growing.\r\n\r\nMirrors finds patterns in past runs. Engineers review guidance for a specific situation and preview where it would apply. Mirrors then delivers that guidance while the agent works, inside the team’s existing setup. The team can check whether the change improved the outcome.\r\n\r\nWe’re building Mirrors for engineering teams running customer-facing agents across varied workflows, so they can improve behavior without hardcoding every lesson in the global prompt.",
+    "one_liner": "Fix recurring agent mistakes with real-time guidance",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1789011304,
+    "tags": [
+      "AIOps",
+      "Developer Tools",
+      "B2B",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mirrors",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/mirrors.json"
   },
   {
     "id": 35265,
