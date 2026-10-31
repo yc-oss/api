@@ -314,7 +314,7 @@
       "Stride API"
     ],
     "small_logo_thumb_url": "/company/thumb/missing.png",
-    "website": "http://www.pipelinedb.com",
+    "website": null,
     "all_locations": "Los Angeles, CA, USA",
     "long_description": "PipelineDB is an open-source PostgreSQL extension that enables realtime reporting use cases by continuously aggregating large streams of time series data down into summary data. It shines the most at larger scales, where storing lots of raw time-series data and aggregating it over and over again becomes inefficient. The amount of value that PipelineDB adds is directly proportional to the amount of continuous aggregation that an analytics use case can benefit from. PipelineDB should be used for analytics use cases that only require summary data, like realtime reporting dashboards. PipelineDB is not a good fit for exploratory analytics on siloed datasets.\r\n",
     "one_liner": "Open-source time-series data analytics extension for PostgreSQL",
@@ -1032,7 +1032,7 @@
     "slug": "data-mechanics",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/041cd41aaf413fd601a958566433246e70084357.png",
-    "website": "https://www.datamechanics.co",
+    "website": null,
     "all_locations": "Paris, Île-de-France, France",
     "long_description": "Data Mechanics was acquired by NetApp in 2021 and integrated in the Spot.io product portfolio. Our managed Spark-on-Kubernetes platform is live and running under the name Ocean for Apache Spark: https://spot.io/products/ocean-apache-spark/",
     "one_liner": "Spark-on-Kubernetes Data Engineering Platform",
@@ -1167,7 +1167,7 @@
     "slug": "tensil",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3aefe6d1c4f47d9ef26a3296e1724c3efe9bd5ac.png",
-    "website": "https://www.tensil.ai",
+    "website": null,
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Tensil automates machine learning hardware accelerator design. Our goal is to enable ML in every device. We've developed an algorithm that can design the best hardware accelerator for your machine learning model, unlocking 10x better performance per watt-dollar than GPUs and other hardware accelerators. Our technology enables our customers to create unbeatable products with Tensil custom hardware at the core.",
     "one_liner": "We turn machine learning models into custom hardware.",
@@ -2509,7 +2509,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -3768,7 +3768,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -7600,6 +7600,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/graphify-labs.json"
   },
   {
+    "id": 33243,
+    "name": "Limnion",
+    "slug": "limnion",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/717af69f91680aebaf844c3d21687d8e728c80c2.png",
+    "website": "https://limnion.ai",
+    "all_locations": "Seattle, WA, USA; Remote",
+    "long_description": "Limnion is building an open-standards telemetry storage platform for observability at scale, including agentic workflows. Siglake is the open-source project that sits at the heart of it, designed around OTel, Parquet, and Iceberg. No proprietary storage, no vendor lock-in.",
+    "one_liner": "Telemetry storage for the agentic era.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1793384261,
+    "tags": [
+      "Open Source",
+      "Infrastructure",
+      "Databases"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/limnion",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/limnion.json"
+  },
+  {
     "id": 33316,
     "name": "Tracer",
     "slug": "tracer",
@@ -7824,7 +7867,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4a356af2535effc85a23e22046de196453243ce.png",
     "website": "https://0.security",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "0.security builds an autonomous offensive security team that finds and fixes vulnerabilities as fast as AI writes code and attackers exploit it.\r\n\r\nWe've found and fixed dozens of previously unknown vulnerabilities (0-days) in government software across multiple countries and in software powering more than 3 billion devices. Today we work with EY (Ernst & Young), leading tech companies and defense organizations.\r\n\r\nOur AI agents hack into any software, verify every vulnerability they find, and ship the fix autonomously. They run 24/7 across the full stack, from web apps and dependencies down to operating systems and the Linux kernel.\r\n\r\nWe offer two products: 0cloud, where developer teams connect their repos and get security handled 24/7, and our open-source harness, which we deploy for enterprises and critical infrastructure providers.",
+    "long_description": "0.security builds an autonomous offensive security team that finds and fixes vulnerabilities as fast as AI writes code and before attackers exploit them.\r\n\r\nWe've found and fixed dozens of previously unknown vulnerabilities (0-days) in government software across multiple countries and in software running on 3+ billion devices. Today we work with EY (Ernst & Young), leading tech companies and defense organizations.\r\n\r\nOur AI agents hack into any software, verify every vulnerability they find, and ship the fix. They run 24/7 across the full stack, from web apps and dependencies down to operating systems and the Linux kernel.\r\n\r\nWe offer two products: 0cloud, where developer teams connect their repos and get security handled 24/7 at the speed of their coding agents, and our open-source harness, which we deploy & run for tech companies, enterprises and critical infrastructure providers.",
     "one_liner": "The autonomous cybersecurity team",
     "team_size": 2,
     "industry": "B2B",

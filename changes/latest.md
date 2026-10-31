@@ -1,266 +1,1163 @@
-# YC company changes for 2026-10-30
+# YC company changes for 2026-10-31
 
-- Previous total: 6350
-- Current total: 6354
-- Added: 5
-- Removed: 1
-- Updated: 48
+- Previous total: 6354
+- Current total: 6358
+- Added: 4
+- Removed: 0
+- Updated: 274
 
 ## Added companies
 
-- [ernd](https://www.ycombinator.com/companies/ernd) (Fall 2026 — The credit card for companies that pay for AI)
-- [Fleety](https://www.ycombinator.com/companies/fleety) (Fall 2026 — Fleety is an AI dispatcher for plumbing and HVAC companies.)
-- [Routant](https://www.ycombinator.com/companies/routant) (Fall 2026 — Last mile deployment and connectivity for Agents as a Service)
-- [Jinko](https://www.ycombinator.com/companies/jinko) (Fall 2026 — Travel Search & Booking Infrastructure for AI agents)
-- [Nuum Robotics](https://www.ycombinator.com/companies/nuum-robotics) (Winter 2027 — Snake-like robots for maintenance inside machinery.)
-
-## Removed companies
-
-- [Faraday](https://www.ycombinator.com/companies/faraday) (Fall 2026 — Agents running manufacturers from the back office to the shop floor)
+- [Limnion](https://www.ycombinator.com/companies/limnion) (Fall 2026 — Telemetry storage for the agentic era.)
+- [Bayworks](https://www.ycombinator.com/companies/bayworks) (Fall 2026 — Intelligence that runs Automotive Operations )
+- [Faraday](https://www.ycombinator.com/companies/faraday) (Fall 2026 — Industrial AI coordinating humans, agents, and machines )
+- [Proto](https://www.ycombinator.com/companies/proto) (Fall 2026 — A design tool with the accuracy of Cursor & creative freedom of Figma)
 
 ## Updated companies
 
-### [Stable](https://www.ycombinator.com/companies/stable)
+### [Couple](https://www.ycombinator.com/companies/couple)
+
+- `website`: http://couple.me → null
+
+### [LendUp](https://www.ycombinator.com/companies/lendup)
 
 - `stage`: Growth → Early
+- `website`: http://lendup.com → null
 
-### [Quicknode](https://www.ycombinator.com/companies/quicknode)
+### [Tilt](https://www.ycombinator.com/companies/tilt)
 
-- `long_description`: Quicknode is an enterprise-grade blockchain development platform that helps teams build and scale high-performance onchain applications. Developers get fast ... → Quicknode is an enterprise-grade blockchain development platform that helps teams build and scale high-performance onchain applications. Developers get fast ...
-- `one_liner`: Tools & infra to build and scale high-quality blockchain applications. → Infrastructure and tools to build and scale blockchain applications.
+- `website`: http://tilt.com → null
+
+### [LVL6](https://www.ycombinator.com/companies/lvl6)
+
+- `website`: http://lvl6.com → null
+
+### [Loom](https://www.ycombinator.com/companies/loom)
+
+- `website`: http://loom.com → null
+
+### [Clutch](https://www.ycombinator.com/companies/clutch)
+
+- `website`: http://clutch.io → null
+
+### [Debteye](https://www.ycombinator.com/companies/debteye)
+
+- `website`: http://debteye.com → null
+
+### [Kicksend](https://www.ycombinator.com/companies/kicksend)
+
+- `website`: http://kicksend.com → null
+
+### [Ridejoy](https://www.ycombinator.com/companies/ridejoy)
+
+- `website`: http://ridejoy.com → null
+
+### [TapEngage](https://www.ycombinator.com/companies/tapengage)
+
+- `website`: http://tapengage.com → null
+
+### [Automatic](https://www.ycombinator.com/companies/automatic)
+
+- `stage`: Growth → Early
+- `website`: http://automatic.com → null
+
+### [Tutorspree](https://www.ycombinator.com/companies/tutorspree)
+
+- `website`: http://tutorspree.com → null
+
+### [SimplyListed](https://www.ycombinator.com/companies/simplylisted)
+
+- `website`: http://simplylisted.com → null
+
+### [Habit Labs](https://www.ycombinator.com/companies/habit-labs)
+
+- `website`: http://habitlabs.com → null
+
+### [Gantto](https://www.ycombinator.com/companies/gantto)
+
+- `website`: http://gantto.com → null
+
+### [Homejoy](https://www.ycombinator.com/companies/homejoy)
+
+- `stage`: Growth → Early
+- `website`: http://homejoy.com → null
+
+### [Leftronic](https://www.ycombinator.com/companies/leftronic)
+
+- `website`: http://leftronic.com → null
+
+### [Post.fm](https://www.ycombinator.com/companies/post-fm)
+
+- `website`: http://post.fm → null
+
+### [Tapzilla](https://www.ycombinator.com/companies/tapzilla)
+
+- `website`: http://tapzilla.com → null
+
+### [AdGrok](https://www.ycombinator.com/companies/adgrok)
+
+- `website`: http://adgrok.com → null
+
+### [Mertado](https://www.ycombinator.com/companies/mertado)
+
+- `website`: http://mertado.com → null
+
+### [Bitplay](https://www.ycombinator.com/companies/bitplay)
+
+- `website`: http://meetings.io → null
+
+### [LaunchHear](https://www.ycombinator.com/companies/launchhear)
+
+- `website`: http://alexkrupp.com → null
+
+### [Gamador](https://www.ycombinator.com/companies/gamador)
+
+- `website`: http://gamador.com → null
+
+### [Movity](https://www.ycombinator.com/companies/movity)
+
+- `website`: http://movity.com → null
+
+### [Etacts](https://www.ycombinator.com/companies/etacts)
+
+- `website`: http://etacts.com → null
+
+### [Data Marketplace](https://www.ycombinator.com/companies/data-marketplace)
+
+- `website`: http://datamarketplace.com → null
+
+### [Newcope](https://www.ycombinator.com/companies/newcope)
+
+- `website`: http://newcope.com → null
+
+### [HighlightCam](https://www.ycombinator.com/companies/highlightcam)
+
+- `website`: http://highlightcam.com → null
+
+### [GraffitiGeo](https://www.ycombinator.com/companies/graffitigeo)
+
+- `website`: http://graffitigeo.com → null
+
+### [Recurious](https://www.ycombinator.com/companies/recurious)
+
+- `website`: http://thesixtyone.com → null
+
+### [Foodoro](https://www.ycombinator.com/companies/foodoro)
+
+- `website`: http://foodoro.com → null
+
+### [Snipd](https://www.ycombinator.com/companies/snipd)
+
+- `website`: http://snipd.com → null
+
+### [People & Pages](https://www.ycombinator.com/companies/people-and-pages)
+
+- `website`: http://peopleandpages.com → null
+
+### [280 North](https://www.ycombinator.com/companies/280-north)
+
+- `website`: http://280north.com → null
+
+### [Wundrbar](https://www.ycombinator.com/companies/wundrbar)
+
+- `website`: http://wundrbar.com → null
+
+### [Snaptalent](https://www.ycombinator.com/companies/snaptalent)
+
+- `website`: http://snaptalent.com → null
+
+### [iJigg/Top440](https://www.ycombinator.com/companies/ijigg-top440)
+
+- `website`: http://ijigg.com → null
+
+### [ZumoDrive](https://www.ycombinator.com/companies/zumodrive)
+
+- `website`: http://zumodrive.com → null
+
+### [View3](https://www.ycombinator.com/companies/view3)
+
+- `website`: http://view3.com → null
+
+### [Heysan](https://www.ycombinator.com/companies/heysan)
+
+- `website`: http://heysan.com → null
+
+### [Likebetter](https://www.ycombinator.com/companies/likebetter)
+
+- `website`: http://likebetter.com → null
+
+### [Clickfacts](https://www.ycombinator.com/companies/clickfacts)
+
+- `website`: http://clickfacts.com → null
+
+### [Kiko](https://www.ycombinator.com/companies/kiko)
+
+- `website`: http://kiko.com → null
+
+### [Parakey](https://www.ycombinator.com/companies/parakey)
+
+- `website`: http://parakey.com → null
+
+### [TomoGuides](https://www.ycombinator.com/companies/tomoguides)
+
+- `website`: http://tomoguides.com → null
+
+### [Kamcord](https://www.ycombinator.com/companies/kamcord)
+
+- `website`: http://kamcord.com → null
+
+### [Statwing](https://www.ycombinator.com/companies/statwing)
+
+- `website`: http://statwing.com → null
+
+### [Imgfave](https://www.ycombinator.com/companies/imgfave)
+
+- `website`: http://imgfave.com → null
+
+### [Streem](https://www.ycombinator.com/companies/streem)
+
+- `website`: https://streem.com → null
+
+### [Vayable](https://www.ycombinator.com/companies/vayable)
+
+- `website`: http://vayable.com → null
+
+### [Collections](https://www.ycombinator.com/companies/collections)
+
+- `website`: http://collections.me → null
+
+### [Credictive](https://www.ycombinator.com/companies/credictive)
+
+- `website`: http://credictive.com → null
+
+### [GetGoing](https://www.ycombinator.com/companies/getgoing)
+
+- `website`: http://getgoing.com → null
+
+### [StyleUp](https://www.ycombinator.com/companies/styleup)
+
+- `website`: http://thestyleup.com → null
+
+### [Appcubator](https://www.ycombinator.com/companies/appcubator)
+
+- `website`: http://appcubator.com → null
+
+### [Swish](https://www.ycombinator.com/companies/swish)
+
+- `website`: http://swish.com → null
+
+### [PayTango](https://www.ycombinator.com/companies/paytango)
+
+- `website`: http://paytango.com → null
+
+### [Meldium](https://www.ycombinator.com/companies/meldium)
+
+- `website`: http://meldium.com → null
+
+### [FlightCar](https://www.ycombinator.com/companies/flightcar)
+
+- `website`: http://flightcar.com → null
+
+### [CrowdMed](https://www.ycombinator.com/companies/crowdmed)
+
+- `website`: http://www.crowdmed.com → null
+
+### [Coin](https://www.ycombinator.com/companies/coin)
+
+- `stage`: Growth → Early
+- `website`: http://onlycoin.com → null
+
+### [Standard Treasury](https://www.ycombinator.com/companies/standard-treasury)
+
+- `website`: http://standardtreasury.com → null
+
+### [Floobits](https://www.ycombinator.com/companies/floobits)
+
+- `website`: http://floobits.com → null
+
+### [Graft Concepts](https://www.ycombinator.com/companies/graft-concepts)
+
+- `website`: http://graftconcepts.com → null
+
+### [Hum](https://www.ycombinator.com/companies/hum)
+
+- `website`: http://letshum.com → null
+
+### [Audobox](https://www.ycombinator.com/companies/audobox)
+
+- `website`: http://audobox.com → null
+
+### [Butter Systems](https://www.ycombinator.com/companies/butter-systems)
+
+- `website`: http://buttersystems.com → null
+
+### [Lumoid](https://www.ycombinator.com/companies/lumoid)
+
+- `website`: http://lumoid.com → null
+
+### [SoundFocus](https://www.ycombinator.com/companies/soundfocus)
+
+- `website`: http://soundfocus.com → null
+
+### [WebCake](https://www.ycombinator.com/companies/webcake)
+
+- `website`: http://designly.com → null
+
+### [PipelineDB](https://www.ycombinator.com/companies/pipelinedb)
+
+- `website`: http://www.pipelinedb.com → null
+
+### [Style Lend](https://www.ycombinator.com/companies/style-lend)
+
+- `website`: http://StyleLend.com → null
+
+### [Unicornly](https://www.ycombinator.com/companies/unicornly)
+
+- `website`: https://unicorn.ly → null
+
+### [Zesty](https://www.ycombinator.com/companies/zesty)
+
+- `stage`: Growth → Early
+- `website`: http://zesty.com → null
+
+### [Whirlscape](https://www.ycombinator.com/companies/whirlscape)
+
+- `website`: http://getdango.com → null
+
+### [Carlypso](https://www.ycombinator.com/companies/carlypso)
+
+- `website`: http://carlypso.com → null
+
+### [Owners Circle](https://www.ycombinator.com/companies/owners-circle)
+
+- `website`: https://www.ownerscircle.com → null
+
+### [Fixed](https://www.ycombinator.com/companies/fixed)
+
+- `website`: http://getfixed.me → null
+
+### [TAXA Biotechnologies](https://www.ycombinator.com/companies/taxa-biotechnologies)
+
+- `website`: http://www.taxa.com → null
+
+### [Hublo](https://www.ycombinator.com/companies/hublo)
+
+- `website`: http://hublo.com → null
+
+### [VizeraLabs](https://www.ycombinator.com/companies/vizeralabs)
+
+- `website`: http://vizeralabs.com → null
+
+### [Impraise](https://www.ycombinator.com/companies/impraise)
+
+- `stage`: Growth → Early
+- `website`: http://impraise.com → null
+
+### [Neptune.io](https://www.ycombinator.com/companies/neptune-io)
+
+- `website`: http://neptune.io → null
+
+### [Nightingale](https://www.ycombinator.com/companies/nightingale)
+
+- `website`: http://nightingaleapp.com → null
+
+### [In Your Corner](https://www.ycombinator.com/companies/in-your-corner)
+
+- `website`: http://inyourcorneronline.com → null
+
+### [Apto Payments](https://www.ycombinator.com/companies/apto-payments)
+
+- `stage`: Growth → Early
+- `website`: https://www.aptopayments.com/ → null
+
+### [Zoomer](https://www.ycombinator.com/companies/zoomer)
+
+- `website`: http://www.zoomerdelivery.com → null
+
+### [Instavest](https://www.ycombinator.com/companies/instavest)
+
+- `website`: http://goinstavest.com → null
+
+### [Shift Messenger](https://www.ycombinator.com/companies/shift-messenger)
+
+- `website`: http://shiftmessenger.com → null
+
+### [Glassjar](https://www.ycombinator.com/companies/glassjar)
+
+- `website`: http://glassjar.co → null
+
+### [Priime](https://www.ycombinator.com/companies/priime)
+
+- `website`: https://priime.com → null
+
+### [Spoil](https://www.ycombinator.com/companies/spoil)
+
+- `website`: https://www.spoil.co/ → null
+
+### [Lully](https://www.ycombinator.com/companies/lully)
+
+- `website`: https://www.lullysleep.com/ → null
+
+### [Chariot](https://www.ycombinator.com/companies/chariot)
+
+- `website`: http://chariot.com → null
+
+### [Roomblocker](https://www.ycombinator.com/companies/roomblocker)
+
+- `website`: http://roomblocker.com → null
+
+### [Apollo Health](https://www.ycombinator.com/companies/apollo-health)
+
+- `website`: http://apollo.com → null
+
+### [Sphere Secure Workspace](https://www.ycombinator.com/companies/sphere-secure-workspace)
+
+- `website`: http://sphere.works → null
+
+### [Paribus](https://www.ycombinator.com/companies/paribus)
+
+- `website`: https://ramp.com/ → null
+
+### [Interviewed](https://www.ycombinator.com/companies/interviewed)
+
+- `website`: http://interviewed.com → null
+
+### [Saida](https://www.ycombinator.com/companies/saida)
+
+- `website`: http://getsaida.com → null
+
+### [Klarismo](https://www.ycombinator.com/companies/klarismo)
+
+- `website`: http://klarismo.com → null
+
+### [StyleBee](https://www.ycombinator.com/companies/stylebee)
+
+- `website`: http://stylebee.com → null
+
+### [Loop Genomics](https://www.ycombinator.com/companies/loop-genomics)
+
+- `stage`: Growth → Early
+- `website`: http://www.loopgenomics.com/ → null
+
+### [UpLabs](https://www.ycombinator.com/companies/uplabs)
+
+- `stage`: Growth → Early
+- `website`: https://www.uplabs.com → null
+
+### [WorldCover](https://www.ycombinator.com/companies/worldcover)
+
+- `stage`: Growth → Early
+- `website`: https://www.worldcovr.com → null
+
+### [Enflux](https://www.ycombinator.com/companies/enflux)
+
+- `website`: http://getenflux.com → null
+
+### [Castle](https://www.ycombinator.com/companies/castle)
+
+- `website`: http://entercastle.com → null
+
+### [Elucify](https://www.ycombinator.com/companies/elucify)
+
+- `website`: https://getelucify.com → null
+
+### [Index](https://www.ycombinator.com/companies/index-2)
+
+- `website`: http://www.index.io → null
+
+### [Modal](https://www.ycombinator.com/companies/modal)
+
+- `website`: http://modalup.com/ → null
+
+### [Sixa](https://www.ycombinator.com/companies/sixa)
+
+- `website`: https://sixa.io → null
+
+### [PatientBank](https://www.ycombinator.com/companies/patientbank)
+
+- `website`: https://www.patientbank.us → null
+
+### [Whyd](https://www.ycombinator.com/companies/whyd)
+
+- `website`: https://whyd.com → null
+
+### [Airo Health](https://www.ycombinator.com/companies/airo-health)
+
+- `website`: http://www.airohealth.com → null
+
+### [Starsky Robotics](https://www.ycombinator.com/companies/starsky-robotics)
+
+- `stage`: Growth → Early
+- `website`: https://www.starsky.io/ → null
+
+### [GTRACK Technologies](https://www.ycombinator.com/companies/gtrack-technologies)
+
+- `website`: http://www.gtracktechnologies.com → null
+
+### [Proxy](https://www.ycombinator.com/companies/proxy)
+
+- `stage`: Growth → Early
+- `website`: https://proxy.com → null
+
+### [Riley](https://www.ycombinator.com/companies/riley)
+
+- `website`: https://getrileynow.com → null
+
+### [Pulse](https://www.ycombinator.com/companies/pulse)
+
+- `stage`: Growth → Early
+- `website`: http://www.getpulse.care/ → null
+
+### [Sudden Coffee](https://www.ycombinator.com/companies/sudden-coffee)
+
+- `website`: https://www.suddencoffee.com/ → null
+
+### [Entry](https://www.ycombinator.com/companies/entry)
+
+- `website`: http://getentry.com → null
+
+### [Supr Daily](https://www.ycombinator.com/companies/supr-daily)
+
+- `website`: http://www.suprdaily.com/ → null
+
+### [Tetra](https://www.ycombinator.com/companies/tetra)
+
+- `website`: https://asktetra.com → null
+
+### [Marketfox](https://www.ycombinator.com/companies/marketfox)
+
+- `website`: https://marketfox.io → null
+
+### [Bicycle AI](https://www.ycombinator.com/companies/bicycle-ai)
+
+- `website`: http://bicycleai.com → null
+
+### [Elucd](https://www.ycombinator.com/companies/elucd)
+
+- `website`: http://www.elucd.com → null
+
+### [Passerine Aircraft](https://www.ycombinator.com/companies/passerine-aircraft)
+
+- `website`: http://www.passerineaircraft.com/ → null
+
+### [Sunfolding](https://www.ycombinator.com/companies/sunfolding)
+
+- `stage`: Growth → Early
+- `website`: http://www.sunfolding.com → null
+
+### [Gameday](https://www.ycombinator.com/companies/gameday)
+
+- `website`: http://playgameday.com → null
+
+### [Escher Reality](https://www.ycombinator.com/companies/escher-reality)
+
+- `website`: http://www.escherreality.com/ → null
+
+### [Semantix](https://www.ycombinator.com/companies/semantix)
+
+- `stage`: Growth → Early
+- `website`: https://www.semantix.ai → null
+
+### [Storyboard](https://www.ycombinator.com/companies/storyboard)
+
+- `website`: https://www.storyboard.com → null
+
+### [PreDxion Bio](https://www.ycombinator.com/companies/predxion-bio)
+
+- `website`: http://www.predxionbio.com → null
+
+### [Opearlo](https://www.ycombinator.com/companies/opearlo)
+
+- `website`: https://www.opearlo.com → null
+
+### [Gamelynx](https://www.ycombinator.com/companies/gamelynx)
+
+- `website`: https://gamelynx.gg → null
+
+### [Social Construct](https://www.ycombinator.com/companies/social-construct)
+
+- `stage`: Growth → Early
+- `website`: http://socialconstructco.com → null
+
+### [CoderWall](https://www.ycombinator.com/companies/coderwall)
+
+- `website`: http://assemblymade.com → null
+
+### [Rhythmm](https://www.ycombinator.com/companies/rhythmm)
+
+- `website`: https://getrhythmm.com → null
+
+### [Sepsis Scout](https://www.ycombinator.com/companies/sepsis-scout)
+
+- `website`: https://sepsisscout.com → null
+
+### [Plexus](https://www.ycombinator.com/companies/plexus)
+
+- `website`: http://plexus.im → null
+
+### [Viaopt](https://www.ycombinator.com/companies/viaopt)
+
+- `website`: http://www.viaopt.com → null
+
+### [Nutrigene](https://www.ycombinator.com/companies/nutrigene)
+
+- `website`: https://www.mynutrigene.com/ → null
+
+### [Station](https://www.ycombinator.com/companies/station)
+
+- `website`: https://stationhq.com/ → null
+
+### [Secured](https://www.ycombinator.com/companies/bump-2)
+
+- `stage`: Growth → Early
+- `website`: https://secured.community → null
+
+### [User Hero](https://www.ycombinator.com/companies/user-hero)
+
+- `website`: https://www.userhero.io → null
+
+### [ExceptionALLY](https://www.ycombinator.com/companies/exceptionally)
+
+- `website`: https://growexceptionally.com/ → null
+
+### [Passenger AI](https://www.ycombinator.com/companies/passenger-ai)
+
+- `website`: http://www.passenger.ai → null
+
+### [Demeanor.co](https://www.ycombinator.com/companies/demeanor-co)
+
+- `website`: https://www.demeanor.co → null
+
+### [Medinas Health](https://www.ycombinator.com/companies/medinas-health)
+
+- `website`: https://www.medinas.com/ → null
+
+### [Spero Foods](https://www.ycombinator.com/companies/spero-foods)
+
+- `stage`: Growth → Early
+- `website`: https://www.sperofoods.co/ → null
+
+### [LabelFlow](https://www.ycombinator.com/companies/labelflow)
+
+- `website`: https://labelflow.ai/ → null
+
+### [Scanwell Health](https://www.ycombinator.com/companies/scanwell-health)
+
+- `stage`: Growth → Early
+- `website`: https://www.scanwellhealth.com → null
+
+### [Berbix](https://www.ycombinator.com/companies/berbix)
+
+- `stage`: Growth → Early
+- `website`: https://www.berbix.com → null
+
+### [The Buttermilk Company](https://www.ycombinator.com/companies/the-buttermilk-company)
+
+- `website`: http://www.thebuttermilkco.com → null
+
+### [Gerostate Alpha](https://www.ycombinator.com/companies/gerostate-alpha)
+
+- `website`: http://www.gerostatealpha.com → null
+
+### [Allo](https://www.ycombinator.com/companies/allo)
+
+- `website`: https://www.allocommunity.com/ → null
+
+### [Pippin / Rent the Backyard](https://www.ycombinator.com/companies/pippin-rent-the-backyard)
+
+- `website`: http://rentthebackyard.com → null
+
+### [Basilica](https://www.ycombinator.com/companies/basilica)
+
+- `website`: https://www.basilica.ai → null
+
+### [WeatherCheck](https://www.ycombinator.com/companies/weathercheck)
+
+- `website`: https://www.weathercheck.co/ → null
+
+### [Simmer](https://www.ycombinator.com/companies/simmer)
+
+- `website`: https://www.usesimmer.com → null
+
+### [Evo.Do](https://www.ycombinator.com/companies/evo-do)
+
+- `website`: http://www.evo.do/ → null
+
+### [Docbot](https://www.ycombinator.com/companies/docbot)
+
+- `stage`: Growth → Early
+- `website`: https://www.docbot.co → null
+
+### [Docucharm](https://www.ycombinator.com/companies/docucharm)
+
+- `website`: http://www.docucharm.com → null
+
+### [Cocoon](https://www.ycombinator.com/companies/cocoon)
+
+- `website`: http://cocoon.com → null
+
+### [Valo](https://www.ycombinator.com/companies/valo)
+
+- `website`: https://boundarylayer.tech → null
+
+### [Datamode](https://www.ycombinator.com/companies/datamode)
+
+- `website`: http://www.datamode.com → null
+
+### [Allure Systems](https://www.ycombinator.com/companies/allure-systems)
+
+- `website`: http://www.alluresystems.com/ → null
+
+### [Mage](https://www.ycombinator.com/companies/mage)
+
+- `website`: https://magemarket.com → null
+
+### [Spiral Genetics](https://www.ycombinator.com/companies/spiral-genetics)
+
+- `website`: http://www.spiralgenetics.com → null
+
+### [BuildStream](https://www.ycombinator.com/companies/buildstream)
+
+- `website`: https://buildstream.co → null
+
+### [Mighty Health](https://www.ycombinator.com/companies/mighty-health)
+
+- `website`: http://www.mightyhealth.com → null
+
+### [Prompt](https://www.ycombinator.com/companies/prompt)
+
+- `website`: https://www.getprompt.app/ → null
+
+### [Encepheal Therapeutics](https://www.ycombinator.com/companies/encepheal-therapeutics)
+
+- `website`: http://www.encepheal.com → null
+
+### [Narrator](https://www.ycombinator.com/companies/narrator)
+
+- `stage`: Growth → Early
+- `website`: https://www.narratordata.com/ → null
+
+### [TaxProper](https://www.ycombinator.com/companies/taxproper)
+
+- `website`: https://taxproper.com/ → null
+
+### [FeaturePeek](https://www.ycombinator.com/companies/featurepeek)
+
+- `website`: https://featurepeek.com → null
+
+### [Fynn](https://www.ycombinator.com/companies/fynn)
+
+- `website`: https://www.fynncredit.com → null
+
+### [Brave Care](https://www.ycombinator.com/companies/brave-care)
+
+- `stage`: Growth → Early
+- `website`: http://www.bravecare.com → null
+
+### [Lightwell](https://www.ycombinator.com/companies/lightwell)
+
+- `website`: https://lightwell.pro/ → null
+
+### [Data Mechanics](https://www.ycombinator.com/companies/data-mechanics)
+
+- `website`: https://www.datamechanics.co → null
+
+### [Boost Biomes](https://www.ycombinator.com/companies/boost-biomes)
+
+- `stage`: Growth → Early
+- `website`: http://boostbiomes.com → null
+
+### [Tensil](https://www.ycombinator.com/companies/tensil)
+
+- `website`: https://www.tensil.ai → null
+
+### [Khabri](https://www.ycombinator.com/companies/khabri)
+
+- `website`: https://khabri.app/ → null
+
+### [Aspect](https://www.ycombinator.com/companies/aspect)
+
+- `website`: https://aspect.app → null
+
+### [Covela](https://www.ycombinator.com/companies/covela)
+
+- `website`: https://covela.mx/ → null
+
+### [Hoss](https://www.ycombinator.com/companies/hoss)
+
+- `website`: https://hoss.com → null
+
+### [Orbiter](https://www.ycombinator.com/companies/orbiter)
+
+- `website`: http://www.getorbiter.com → null
+
+### [Jamiphy](https://www.ycombinator.com/companies/jamiphy)
+
+- `website`: https://jamiphy.com → null
+
+### [Protobase](https://www.ycombinator.com/companies/protobase)
+
+- `website`: https://www.protobase.io → null
+
+### [The Mercer Club](https://www.ycombinator.com/companies/the-mercer-club)
+
+- `website`: https://www.themercerclubnyc.com → null
+
+### [Multiverse](https://www.ycombinator.com/companies/multiverse)
+
+- `stage`: Growth → Early
+- `website`: http://www.playmultiverse.com → null
+
+### [Nimbus](https://www.ycombinator.com/companies/nimbus)
+
+- `website`: http://www.nimbus.green → null
+
+### [Stable](https://www.ycombinator.com/companies/stable)
+
+- `stage`: Early → Growth
+
+### [CARUPI](https://www.ycombinator.com/companies/carupi)
+
+- `website`: https://www.carupi.com/ → null
+
+### [Jemi](https://www.ycombinator.com/companies/jemi)
+
+- `website`: https://jemi.so → null
+
+### [TANGObuilder](https://www.ycombinator.com/companies/tangobuilder)
+
+- `website`: https://www.tangobuilder.com → null
+
+### [In Stock](https://www.ycombinator.com/companies/in-stock)
+
+- `website`: https://instock.org → null
+
+### [OneKey](https://www.ycombinator.com/companies/onekey)
+
+- `website`: https://getonekey.io → null
+
+### [Pardes Biosciences](https://www.ycombinator.com/companies/pardes-bio)
+
+- `website`: http://www.pardesbio.com → null
+
+### [Rally](https://www.ycombinator.com/companies/rally)
+
+- `website`: https://rally.video → null
+
+### [Quell](https://www.ycombinator.com/companies/quell)
+
+- `website`: https://playquell.com → null
+
+### [Brevy](https://www.ycombinator.com/companies/brevy)
+
+- `website`: https://brevy.com/ → null
+
+### [SlashAuth](https://www.ycombinator.com/companies/slashauth)
+
+- `website`: https://www.slashauth.com → null
+
+### [Queenly](https://www.ycombinator.com/companies/queenly)
+
+- `website`: https://queenly.com/ → null
+
+### [GoBuild (fka Brick)](https://www.ycombinator.com/companies/gobuild-fka-brick)
+
+- `website`: https://go.build → null
+
+### [BeWell Digital](https://www.ycombinator.com/companies/bewell-digital)
+
+- `website`: http://www.bewelldigital.com → null
+
+### [Finantier](https://www.ycombinator.com/companies/finantier)
+
+- `website`: https://finantier.co → null
+
+### [unSurvey](https://www.ycombinator.com/companies/unsurvey)
+
+- `website`: http://www.unsurvey.ai → null
+
+### [Codeball](https://www.ycombinator.com/companies/codeball)
+
+- `website`: https://codeball.ai → null
+
+### [Galaxy](https://www.ycombinator.com/companies/galaxy)
+
+- `website`: https://launchpointhq.com → null
 
 ### [Ollama](https://www.ycombinator.com/companies/ollama)
 
-- `stage`: Growth → Early
+- `stage`: Early → Growth
 
-### [Selia](https://www.ycombinator.com/companies/selia)
+### [TAG](https://www.ycombinator.com/companies/tag)
 
-- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/75bea23e506870f2ee3b99b49411973c2d69914b.png → https://bookface-images.s3.amazonaws.com/small_logos/0bf48f1a543251dca694dfed07e03b9fc49d3474.png
+- `website`: https://tagme.pk/ → null
 
-### [Unlayer](https://www.ycombinator.com/companies/unlayer)
+### [Gobillion](https://www.ycombinator.com/companies/gobillion)
 
-- `all_locations`: Dubai, Dubai, United Arab Emirates → San Francisco, CA, USA
-- `regions`: ["United Arab Emirates","Middle East and North Africa","Remote","Partly Remote"] → ["United States of America","America / Canada","Remote","Partly Remote"]
+- `website`: https://gobillion.co → null
 
-### [Cercli](https://www.ycombinator.com/companies/cercli)
+### [Mable](https://www.ycombinator.com/companies/mable)
+
+- `website`: https://www.trymable.com/ → null
+
+### [Phykos](https://www.ycombinator.com/companies/phykos)
+
+- `website`: https://phykos.co → null
+
+### [Protego](https://www.ycombinator.com/companies/protego)
+
+- `website`: https://www.protegosolutions.io/ → null
+
+### [Cherry Recommends](https://www.ycombinator.com/companies/cherry-recommends)
+
+- `website`: https://cherry.ai/ → null
+
+### [HomeRoom](https://www.ycombinator.com/companies/homeroom)
+
+- `website`: https://livehomeroom.com/ → null
+
+### [Suggestr](https://www.ycombinator.com/companies/suggestr)
+
+- `website`: https://suggestr.co → null
+
+### [Stairs Financial](https://www.ycombinator.com/companies/stairs-financial)
+
+- `website`: https://stairsfinancial.com → null
+
+### [Joe](https://www.ycombinator.com/companies/joe)
+
+- `website`: http://www.joe-app.com/en → null
+
+### [Bracket](https://www.ycombinator.com/companies/bracket)
+
+- `website`: https://www.usebracket.com/ → null
+
+### [TAI](https://www.ycombinator.com/companies/tai)
+
+- `website`: https://www.withtai.com → null
+
+### [Airtrain AI](https://www.ycombinator.com/companies/airtrain-ai)
+
+- `website`: https://airtrain.ai → null
+
+### [ilumadata](https://www.ycombinator.com/companies/ilumadata)
+
+- `website`: https://www.ilumadata.io/ → null
+
+### [BricksAI](https://www.ycombinator.com/companies/bricksai)
+
+- `website`: https://www.trybricks.ai/ → null
+
+### [Lyra](https://www.ycombinator.com/companies/lyra)
+
+- `website`: https://paywithlyra.com/ → null
+
+### [Notebook Labs](https://www.ycombinator.com/companies/notebook-labs)
+
+- `website`: http://www.notebooklabs.xyz → null
+
+### [Slauth.io](https://www.ycombinator.com/companies/slauth-io)
+
+- `website`: https://slauth.io/ → null
+
+### [Mistle](https://www.ycombinator.com/companies/mistle)
+
+- `status`: Active → Inactive
+
+### [Payfura](https://www.ycombinator.com/companies/payfura)
+
+- `website`: https://www.payfura.com → null
+
+### [Jasmine Energy](https://www.ycombinator.com/companies/jasmine-energy)
+
+- `website`: http://www.jasmine.energy → null
+
+### [rift](https://www.ycombinator.com/companies/rift)
+
+- `website`: https://rift.com → null
+
+### [Viddy](https://www.ycombinator.com/companies/viddy)
+
+- `website`: https://www.viddyapp.io/ → null
+
+### [Indexical](https://www.ycombinator.com/companies/indexical)
+
+- `website`: https://indexical.dev/ → null
+
+### [Cakework](https://www.ycombinator.com/companies/cakework)
+
+- `website`: https://www.cakework.com → null
+
+### [SensorSurf](https://www.ycombinator.com/companies/sensorsurf)
+
+- `website`: https://www.technician.dev → null
+
+### [Interlock](https://www.ycombinator.com/companies/interlock)
+
+- `website`: https://www.tryinterlock.com/ → null
+
+### [GreenTally](https://www.ycombinator.com/companies/greentally)
+
+- `website`: https://www.greentally.ai → null
+
+### [Cardinal Gray](https://www.ycombinator.com/companies/cardinal-gray)
+
+- `long_description`: When a lender gives out a car loan, they need to file a lien with their borrower’s DMV. This is difficult because the process varies by state and county. We’... → When a lender gives out a car loan, they need to file a lien with their borrower’s DMV. This is difficult because the process varies dramatically by state an...
+- `one_liner`: Automating lenders' interactions with the DMV → Streamlined DMV lien filing for auto lenders
+- `team_size`: 6 → 4
+
+### [Sidenote](https://www.ycombinator.com/companies/sidenote)
+
+- `website`: https://www.sidenote.ai → null
+
+### [Mango Health](https://www.ycombinator.com/companies/mango-health)
+
+- `website`: https://themangohealth.com → null
+
+### [Celest](https://www.ycombinator.com/companies/celest)
+
+- `website`: https://celest.dev → null
+
+### [Abel](https://www.ycombinator.com/companies/abel)
+
+- `website`: https://www.tryabel.com → null
+
+### [Fileforge](https://www.ycombinator.com/companies/fileforge)
+
+- `website`: https://www.fileforge.com/ → null
+
+### [CommodityAI](https://www.ycombinator.com/companies/commodityai)
 
 - `isHiring`: false → true
-- `tags`: ["SaaS","HR Tech","Payroll"] → ["SaaS","HR Tech"]
 
-### [Artie](https://www.ycombinator.com/companies/artie)
-
-- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/973d2f0c6c4d07505113e974a08d18864eb95d54.png → https://bookface-images.s3.amazonaws.com/small_logos/32f4c1a0575242b68e48c83cbace5d113c929c1c.png
-
-### [Bolto](https://www.ycombinator.com/companies/bolto)
-
-- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/bd164a122dacc9defa9cfe1e3478f126b401b963.png → https://bookface-images.s3.amazonaws.com/small_logos/2548670025f1af86eae748821647afe6ca71f1e9.png
-
-### [SuretyNow](https://www.ycombinator.com/companies/suretynow)
-
-- `one_liner`: The Modern Surety Bond Platform → AI-enabled Surety Bond Broker
-- `team_size`: 4 → 20
-
-### [Latted](https://www.ycombinator.com/companies/latted)
-
-- `isHiring`: false → true
-- `one_liner`: A Unified Editor For AI Video → Automated Content Engine
-- `regions`: ["United States of America","America / Canada"] → ["United States of America","America / Canada","Remote","Partly Remote"]
-
-### [Codes Health](https://www.ycombinator.com/companies/codes-health)
-
-- `long_description`: Codes automates medical record retrieval. Today, documents are scattered across EHRs, providers, and faxes; we use AI to retrieve & analyze docs for law firm... → Codes Health is building an AI-native platform to retrieve medical records nationwide. We reverse-engineer the back offices of healthcare providers to handle...
-- `one_liner`: Medical Record Retrieval with Zero Human Error → AI-native medical record retrieval
-- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/ae2e103cef868d10d11f8eda1c9371448e8a4640.png → https://bookface-images.s3.amazonaws.com/small_logos/ecaa2ad1fa8b8a90a0535cc7f454d156973ef158.png
-- `team_size`: 35 → 45
-
-### [Starcloud](https://www.ycombinator.com/companies/starcloud)
-
-- `app_answers`: null → true
-- `demo_day_video_public`: false → true
-- `long_description`: Starcloud is building data centers in space, initially to provide GPU compute to other satellites, and later to address the rapidly growing demand for energy... → Starcloud is building data centers in space, initially to provide GPU compute to other satellites, and later to address the rapidly growing demand for energy...
-
-### [SureBright](https://www.ycombinator.com/companies/surebright)
+### [Anara](https://www.ycombinator.com/companies/anara)
 
 - `isHiring`: true → false
 
-### [Syntra](https://www.ycombinator.com/companies/syntra)
+### [Asteroid](https://www.ycombinator.com/companies/asteroid)
 
-- `team_size`: 10 → 8
+- `isHiring`: true → false
 
-### [Consus](https://www.ycombinator.com/companies/consus)
+### [Design Arena](https://www.ycombinator.com/companies/design-arena)
 
-- `isHiring`: false → true
+- `stage`: Early → Growth
 
-### [.Wave](https://www.ycombinator.com/companies/dotwave)
+### [Knowlify](https://www.ycombinator.com/companies/knowlify)
 
-- `long_description`: .Wave builds a continuous inference engine for streaming AI models, including full-duplex voice and streaming speech recognition. Customers bring their model... → .Wave provides dedicated inference capacity for real-time workloads, alongside serverless streaming models for speech and conversation. Our Dedicated Lanes g...
-- `one_liner`: Continuous inference for streaming AI models → Inference for real-time AI
+- `one_liner`: Done-for-you AI video ads and Meta campaign management → Done-for-you AI video paid ads and Meta campaign management
 
-### [Bystreet](https://www.ycombinator.com/companies/bystreet)
+### [Darwin](https://www.ycombinator.com/companies/darwin)
 
-- `one_liner`: Connect with hotel owners around the world. → Connect with hoteliers around the world.
+- `long_description`: Darwin Robotics creates general-purpose robots to build and maintain the machines civilization runs on. We're starting with AI infrastructure, where skilled ... → Darwin Robotics creates general-purpose robot technicians that assemble and maintain the machines civilization runs on. We're starting with AI infrastructure...
+- `one_liner`: Robots to build civilization → Robots technicians for AI infrastructure
 
-### [Mercura](https://www.ycombinator.com/companies/mercura)
+### [Kalpa Labs](https://www.ycombinator.com/companies/kalpa-labs)
 
-- `long_description`: Mercura automates quotes and orders for distributors & manufacturers in the construction supply chain. Our software lets sales teams process requests in minu... → Mercura is the AI platform for quote and order processing for technical distributors and manufacturers: it reads incoming requests, matches every line item t...
-- `one_liner`: AI Quote and Order Automation for Distributors & Manufacturers → AI quote & order processing for technical distributors & manufacturers
-- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/84ad3ef04aef30c103f98a1ef15865998e62738e.png → https://bookface-images.s3.amazonaws.com/small_logos/412bc91c6f03fdb96750f7c26fe6f8736584703b.png
+- `long_description`: We're building the next frontier of speech models. Generalist speech models that unlock in-context learning & strong instruction following for speech models ... → We are an audio research lab building steerable voice models. Our conversational models are among the most human-like voice models, ranking ahead of ElevenLa...
 
-### [Almond](https://www.ycombinator.com/companies/almond-2)
+### [Specific Labs](https://www.ycombinator.com/companies/specific-labs)
 
-- `long_description`: We build robots for physical AI. Meet Axol - A dual-arm robot designed for real-world tasks using AI. → We build robots for physical AI. Axol, is a wheeled-humanoid robot designed for real-world tasks using AI.
-- `one_liner`: A dual-arm robot built for physical AI. → America's robot factory
-
-### [Induction Labs](https://www.ycombinator.com/companies/induction-labs)
-
-- `team_size`: 2 → null
-
-### [IronLedger.ai](https://www.ycombinator.com/companies/ironledger-ai)
-
-- `long_description`: IronLedger automates property accounting for property managers, developers and contractors, starting with accounts payable. We eliminate more than $70K of ac... → IronLedger automates property accounting for property managers, developers and contractors, starting with accounts payable. We streamline busywork and audit ...
-
-### [Embedder](https://www.ycombinator.com/companies/embedder)
-
-- `long_description`: Building AI agents for autonomous embedded software development. → Embedder is building an autonomous firmware engineer. It reads your datasheets, flashes and tests on your own boards, and won't stop until the firmware passe...
-- `one_liner`: Hardware-Aware AI for Embedded Software → Autonomous Firmware Engineer
-
-### [Hera](https://www.ycombinator.com/companies/hera-video)
-
-- `one_liner`: AI Motion Designer → The AI-native creative canvas
-
-### [Imagine AI](https://www.ycombinator.com/companies/imagine-ai)
-
-- `website`: https://imagineai.me → https://useimagine.ai
-
-### [Mirabelle](https://www.ycombinator.com/companies/mirabelle)
-
-- `long_description`: We build the personal robot chef. Mirabelle chops, cooks, and serves fresh meals on demand, so you can eat well every day without spending hours in the kitchen. → We build the personal robot chef. Mirabelle cooks fresh meals on demand, so you can eat well every day without spending hours in the kitchen.
-
-### [SideKit](https://www.ycombinator.com/companies/sidekit)
-
-- `tags`: ["Enterprise Software","Infrastructure","AI"] → ["Consumer","AI"]
-
-### [Wingman Law](https://www.ycombinator.com/companies/wingman-law)
-
-- `isHiring`: false → true
-
-### [Sazabi](https://www.ycombinator.com/companies/sazabi)
-
-- `long_description`: The AI-native observability platform for fast-moving engineering teams. Backed by tastemakers from the world's top AI companies: Vercel, Graphite, Daytona, B... → The AI-native observability and security platform for fast-moving engineering teams. Backed by tastemakers from the world's top AI companies: Vercel, Graphit...
-- `one_liner`: The AI-native observability platform for fast-moving engineering teams → AI-native observability and security platform
+- `team_size`: 6 → 7
 
 ### [Turnstone](https://www.ycombinator.com/companies/turnstone)
 
-- `long_description`: Turnstone is the AI workspace where your agents already know you. Connect your apps (e.g. email, calendar, Slack, Drive) and your local folders. Turnstone tu... → **Turnstone is the best model-agnostic Grokbot alternative. Run persistent Agents on your Mac with the AI subscriptions or API keys you already have.** On Tu...
-- `one_liner`: Work with agents that already know you → The best model-agnostic Grokbot alternative
-- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/83da57a5a7cd9d76b06d6dda92bb99843ca0edf1.png → https://bookface-images.s3.amazonaws.com/small_logos/de14bff48baddc020902509267a2e1597b7250ab.png
+- `long_description`: **Turnstone is the best model-agnostic Grokbot alternative. Run persistent Agents on your Mac with the AI subscriptions or API keys you already have.** On Tu... → Turnstone is the best model-agnostic Grokbot alternative. Run persistent Agents on your Mac with the AI subscriptions or API keys you already have On Turnsto...
 
-### [Twolabs](https://www.ycombinator.com/companies/twolabs)
+### [VOYGR](https://www.ycombinator.com/companies/voygr)
 
-- `long_description`: We build verifiable reinforcement-learning environments, evaluations, and proprietary training datasets to improve frontier AI models and robot policies. We ... → We build verifiable reinforcement-learning environments, evaluations, and proprietary training datasets to improve frontier AI models and robot policies. We ...
+- `one_liner`: Real-world place intelligence for AI apps and agents → The real-world intelligence and action layer
+
+### [Paper Star](https://www.ycombinator.com/companies/paper-star)
+
+- `long_description`: more coming soon... → For companies that want to 10x, Echo agents learn the work, do it end to end, and scale it
+- `one_liner`: Building the next generation of agents → Long-horizon agents for teams
+- `website`: https://paperstar.cc → https://echoecho.ai/
 
 ### [tday.com](https://www.ycombinator.com/companies/tdaycom)
 
-- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/c8df062c9a1b77cc6ec53fabfaa7f2f047434c52.png → https://bookface-images.s3.amazonaws.com/small_logos/4a7b817f20e0bd6a303cd048f6bf9a5bbe395773.png
+- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/4a7b817f20e0bd6a303cd048f6bf9a5bbe395773.png → https://bookface-images.s3.amazonaws.com/small_logos/1123d387e4b516167a9cfd6ca07f65801c739a56.png
 
 ### [General Aviation Company](https://www.ycombinator.com/companies/general-aviation-company)
 
-- `api`: https://yc-oss.github.io/api/batches/spring-2026/general-aviation.json → https://yc-oss.github.io/api/batches/spring-2026/general-aviation-company.json
-- `former_names`: ["Fastsky"] → ["Fastsky","General Aviation"]
-- `long_description`: Building the elements of a new ATC system. → Remote ATC towers to solve the controller shortage and unblock the capacity constraints on our airspace
-- `name`: General Aviation → General Aviation Company
-- `slug`: general-aviation → general-aviation-company
-- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/0ea954602807b3490b23ce9d1c2e1a7490777284.png → https://bookface-images.s3.amazonaws.com/small_logos/db3595db32bc50ed7ead65d6f662bea977b6c455.png
-- `tags`: [] → ["Hard Tech","Hardware","Robotics","Aerospace"]
-- `url`: https://www.ycombinator.com/companies/general-aviation → https://www.ycombinator.com/companies/general-aviation-company
+- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/db3595db32bc50ed7ead65d6f662bea977b6c455.png → https://bookface-images.s3.amazonaws.com/small_logos/84c88c61540eb4bc3abfbdc41b8995a7dc890140.png
+- `team_size`: 0 → 5
 
-### [Speko](https://www.ycombinator.com/companies/speko)
+### [InstaBox](https://www.ycombinator.com/companies/instabox)
+
+- `api`: https://yc-oss.github.io/api/batches/spring-2026/insforge-instacloud.json → https://yc-oss.github.io/api/batches/spring-2026/instabox.json
+- `former_names`: ["InsForge"] → ["InsForge","InsForge (InstaCloud)"]
+- `long_description`: InstaCloud is the agent-native serverless cloud: deploy any code or service instantly, with automatic scaling and zero DevOps required. → Full Linux VMs for long-running agents.
+- `name`: InsForge (InstaCloud) → InstaBox
+- `one_liner`: The agent-native serverless cloud → Cloud computers for AI agents
+- `regions`: ["United States of America","America / Canada"] → ["United States of America","America / Canada","Remote","Partly Remote"]
+- `slug`: insforge-instacloud → instabox
+- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/de52713fe1552551dbe8aa2a5e60202c09bfc0d7.png → https://bookface-images.s3.amazonaws.com/small_logos/365d05cde45dc153baba3f6edad1e12fd88febf4.png
+- `url`: https://www.ycombinator.com/companies/insforge-instacloud → https://www.ycombinator.com/companies/instabox
+- `website`: https://insforge.dev/ → https://instabox.sh/
+
+### [Kara](https://www.ycombinator.com/companies/kara)
+
+- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/1db7948d6861e68f3fa79c81509a04c4aea01614.png → https://bookface-images.s3.amazonaws.com/small_logos/164dc834616a28cf5df07c4ef025f55efa9a28d4.png
+
+### [EdotEnv](https://www.ycombinator.com/companies/edotenv)
+
+- `long_description`: A Quant Neolab building toward RSI by leveraging markets as self-improving research environments. They work with frontier AI labs and academic groups buildin... → We are a B2B quant finance data and environment provider.
+- `one_liner`: Quant Neolab building self-improving agents from quant data → Building quant finance environments and services
+- `tags`: ["Reinforcement Learning","Time Series"] → ["Fintech"]
+
+### [Risklytics](https://www.ycombinator.com/companies/risklytics)
+
+- `api`: https://yc-oss.github.io/api/batches/summer-2026/risklytics.json → https://yc-oss.github.io/api/batches/fall-2026/risklytics.json
+- `batch`: Summer 2026 → Fall 2026
+
+### [LATO](https://www.ycombinator.com/companies/lato)
 
 - `isHiring`: false → true
+- `long_description`: The best investments come from conviction, and conviction comes from understanding a market deeply: its customers, its competitors, and where it's heading. T... → LATO is the agent-native research and simulation system that lets investors and companies test any thesis. Funds managing $400bn+ use LATO, including General...
 
-### [GUILD](https://www.ycombinator.com/companies/guild)
+### [ernd](https://www.ycombinator.com/companies/ernd)
 
-- `isHiring`: false → true
+- `long_description`: ernd is the card for companies that pay for AI, offering up to 6% back on AI spend and 2% on everything else. We pool startups’ purchasing power to negotiate... → ernd is the card for companies that pay for AI, with 4% back on AI spend and 2% on everything else planned for launch. We pool startups’ purchasing power to ...
 
-### [Click](https://www.ycombinator.com/companies/click)
+### [Cardinal Square](https://www.ycombinator.com/companies/cardinal-square)
 
-- `long_description`: Click runs serverless agents with any model and your tools. Submit inputs over an API and stream results to your app or receive a webhook when work completes... → Click provides managed agents you can use with any model, without provisioning any infrastructure. Simply connect your tools and submit inputs - Click runs t...
-
-### [ChemPilot.ai](https://www.ycombinator.com/companies/chempilotai)
-
-- `all_locations`: Haifa, Haifa District, Israel → San Francisco, CA, USA
-- `long_description`: We use AI and quantum-based simulations to discover and develop new materials for defense and dual-use applications, from energetics and propellants to carbo... → ChemPilot accelerates the discovery and development of next generation defense materials using AI and data from our automated wet lab. Developing a new mater...
-- `regions`: ["Israel","Middle East and North Africa"] → ["United States of America","America / Canada"]
-- `tags`: ["Machine Learning","Advanced Materials","Defense"] → ["Robotics","Workflow Automation","Aerospace","Advanced Materials","Defense"]
-
-### [The Letter Company](https://www.ycombinator.com/companies/the-letter-company)
-
-- `launched_at`: 1785817189 → 1793168942
+- `launched_at`: 1785893820 → 1793227316
+- `long_description`: Cardinal Square Academy is an AI-native school that brings personalized education to every student by pairing AI with real educators. We’re starting off as a... → Cardinal Square is building AI-native schools, starting unaccredited with an after-school writing class before building full, accredited schools. We think ed...
 
 ### [Mirrors](https://www.ycombinator.com/companies/mirrors)
 
-- `one_liner`: Give AI agents the right context at the right moment → Fix recurring agent mistakes with real-time guidance
-- `tags`: ["AIOps","Developer Tools","SaaS","B2B","AI"] → ["AIOps","Developer Tools","B2B","Infrastructure","AI"]
-
-### [OpenCrawl](https://www.ycombinator.com/companies/opencrawl)
-
-- `long_description`: OpenCrawl lets agents search over hard-to-find multimodal data. Agents describe the data they need; OpenCrawl finds the sources, then builds and hosts custom... → OpenCrawl Builds high-performance search indexes over hyper-personalized hard-to-find multimodal data. Agents describe the data they need; OpenCrawl finds th...
-- `one_liner`: Search infrastructure, built for your agents. → High-performant hyper-personalized search indexes.
-- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/9596390d36aa4aa0fc71e53dba1dc5db18a89293.png → https://bookface-images.s3.amazonaws.com/small_logos/a4fa8d15d930712db8c5f88de73e777865076822.png
+- `long_description`: Production agents handle many different customer workflows. Currently, when one handles a situation badly, an engineer reads the trace and patches the prompt... → Production AI agents keep making the same mistakes. The usual fix is another line in the system prompt. Over time, the agent carries instructions for dozens ...
+- `one_liner`: Fix recurring agent mistakes with real-time guidance → Fix recurring AI agent mistakes with real-time guidance
 
 ### [Perceptual Labs](https://www.ycombinator.com/companies/perceptual-labs)
 
-- `api`: https://yc-oss.github.io/api/batches/fall-2026/bryel.json → https://yc-oss.github.io/api/batches/fall-2026/perceptual-labs.json
-- `former_names`: ["Bryel Labs"] → ["Bryel Labs","Bryel"]
-- `name`: Bryel → Perceptual Labs
-- `one_liner`: Building the next generation of visual perceptual intelligence → Building the next generation of visual intelligence
-- `slug`: bryel → perceptual-labs
-- `url`: https://www.ycombinator.com/companies/bryel → https://www.ycombinator.com/companies/perceptual-labs
+- `website`: https://www.bryel.ai/ → https://www.perceptuallabs.com/
 
-### [Raven](https://www.ycombinator.com/companies/ravenphone)
+### [0.security](https://www.ycombinator.com/companies/0security)
 
-- `api`: https://yc-oss.github.io/api/batches/fall-2026/sintem.json → https://yc-oss.github.io/api/batches/fall-2026/ravenphone.json
-- `former_names`: ["Sintem","sintem","sintem inc."] → ["Sintem","sintem","sintem inc.","sintem"]
-- `industries`: ["B2B","Infrastructure"] → ["Consumer","Consumer Electronics"]
-- `industry`: B2B → Consumer
-- `name`: sintem → Raven
-- `slug`: sintem → ravenphone
-- `subindustry`: B2B -> Infrastructure → Consumer -> Consumer Electronics
-- `url`: https://www.ycombinator.com/companies/sintem → https://www.ycombinator.com/companies/ravenphone
-- `website`: https://sintem.co → https://ravenphone.com
+- `long_description`: 0.security builds an autonomous offensive security team that finds and fixes vulnerabilities as fast as AI writes code and attackers exploit it. We've found ... → 0.security builds an autonomous offensive security team that finds and fixes vulnerabilities as fast as AI writes code and before attackers exploit them. We'...
 
-### [Dydema](https://www.ycombinator.com/companies/dydema)
+### [Graphide](https://www.ycombinator.com/companies/graphide)
 
-- `tags`: ["Hardware","Neurotechnology","Consumer","Big Data","AI"] → ["Hardware","Neurotechnology","Neuroinformatics","Consumer","AI"]
+- `long_description`: Graphide (YC F26) is a code editor that maps your codebase into a graph so you can see what your agents are building. Agents now write code faster than anyon... → Coding agents now write more code than teams can check, making verification pipelines the new bottleneck. Graphide builds that verification, starting with CI...
+- `one_liner`: A graph based IDE for when agents program faster than you can read → CI 10–20× faster than GitHub runners, for teams who ship with agents.
 
-### [Lucebox](https://www.ycombinator.com/companies/lucebox)
+### [Sutrix](https://www.ycombinator.com/companies/sutrix)
 
-- `isHiring`: false → true
+- `long_description`: Sutrix turns messy data from EHRs, clinical notes, wearables, and surveys into clean, study-ready datasets allowing hospital research teams' to deliver tailo... → Sutrix turns messy data from EHRs, clinical notes, wearables, and surveys into clean, study-ready datasets allowing healthcare research teams to deliver tail...
 
-### [Polemos Industries](https://www.ycombinator.com/companies/polemos-industries)
+### [Superserve](https://www.ycombinator.com/companies/superserve)
 
-- `one_liner`: AI-guided ballistic missiles, cheap enough to field in numbers that… → AI-guided ballistic missiles, built for mass manufacturing
-- `website`: https://lokberg.com/ → https://polemosindustries.com/
+- `long_description`: Traditional cloud infrastructure was built to run a single app for many users. Agents work differently. Each one needs its own isolated machine to write soft... → Superserve gives every AI agent its own computer in the cloud. Each one is an isolated VM that starts in under 50ms, sleeps between turns, and picks up exact...
+- `one_liner`: Virtual machines for autonomous agents → Virtual machines for long-running agents
 
-### [Lux Foods](https://www.ycombinator.com/companies/lux-foods)
+### [Hundred](https://www.ycombinator.com/companies/hundred)
 
-- `tags`: ["Cellular Agriculture","Robotics","Agriculture","AI","Biotechnology"] → ["Cellular Agriculture","Robotics","Manufacturing","Agriculture","Biotechnology"]
-
-### [Asim](https://www.ycombinator.com/companies/asim-group)
-
-- `long_description`:  → Asim is building standardized benchmarks for physical intelligence, helping robotics companies understand their robots’ capabilities and safety limits before...
-
-### [Volaren](https://www.ycombinator.com/companies/volaren)
-
-- `api`: https://yc-oss.github.io/api/batches/fall-2026/volaren-inc.json → https://yc-oss.github.io/api/batches/fall-2026/volaren.json
-- `former_names`: [] → ["Volaren Inc."]
-- `long_description`: Volaren is an agent for your portfolio that explains each move, suggests your next idea, and trades it for you. Connect your bank accounts & brokerage and Vo... → Volaren is the personal investing agent that comes to you. It knows why your portfolio moved, suggests your next idea, and trades it for you. Connect your ba...
-- `name`: Volaren Inc. → Volaren
-- `one_liner`: The investing agent that comes to you → The personal investing agent that comes to you
-- `slug`: volaren-inc → volaren
-- `url`: https://www.ycombinator.com/companies/volaren-inc → https://www.ycombinator.com/companies/volaren
+- `long_description`: Hundred is an automated inspection system for the components that make up consumer devices like phones, smartwatches, and laptops. Hundred helps factories cu... → Hundred is an automated inspection system for the components that make up devices like phones, smartwatches, and laptops. Hundred helps factories cut waste a...
+- `one_liner`: 100% automated inspection for consumer electronics parts → 100% automated inspection for precision hardware parts
+- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/f9f26995d92445a7e77c0839448bb04ca0c89f08.png → https://bookface-images.s3.amazonaws.com/small_logos/cb93bf36f8b635434211fe78f5b4192e14187067.png
 
 ### [Super Powers Mobility (SPM)](https://www.ycombinator.com/companies/super-powers-mobility-spm)
 
-- `isHiring`: false → true
+- `website`: https://www.spm.fun → https://www.spm.us
 

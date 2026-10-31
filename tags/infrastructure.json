@@ -1395,7 +1395,7 @@
       "Sahale"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c4dbd8d6bcbc396c907943226c3f01d2cbcd5809.png",
-    "website": "https://www.cakework.com",
+    "website": null,
     "all_locations": "Seattle, WA, USA",
     "long_description": "We make it possible to build a serverless cloud platform that hosts custom user code with just APIs and no infrastructure team. For example, an open source framework can build a cloud offering that deploys their users code from Github or local dev environments in days instead of months. ",
     "one_liner": "API that adds cloud hosting to any developer platform",
@@ -2195,7 +2195,7 @@
       "Teo"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/708de5f70d1c62cfdbd2dc173bb1fb905166fb19.png",
-    "website": "https://celest.dev",
+    "website": null,
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Celest is a backend-as-a-service for Flutter and Dart developers. It empowers Flutter developers with the tools and capabilities they need to become full-stack developers. We are introducing \"Cloud Widgets\", a set of primitives which enable you to declaratively define every piece of your backend and infrastructure in Dart.\r\n\r\nAs the role of the front-end developer evolves towards full-stack proficiency, we recognize that existing tools have fallen short for those specializing in Flutter. Using the programming language and patterns Flutter developers already know from building their frontend, Celest enables developers to build and connect their apps to their backend with no additional tooling.\r\n\r\nWe enable Flutter developers to concentrate on building features and delivering value to their customers rather than learning additional domains and fragmenting themselves across disparate toolchains.",
     "one_liner": "The Vercel of Flutter",
@@ -5352,16 +5352,17 @@
   },
   {
     "id": 31547,
-    "name": "InsForge (InstaCloud)",
-    "slug": "insforge-instacloud",
+    "name": "InstaBox",
+    "slug": "instabox",
     "former_names": [
-      "InsForge"
+      "InsForge",
+      "InsForge (InstaCloud)"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/de52713fe1552551dbe8aa2a5e60202c09bfc0d7.png",
-    "website": "https://insforge.dev/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/365d05cde45dc153baba3f6edad1e12fd88febf4.png",
+    "website": "https://instabox.sh/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "InstaCloud is the agent-native serverless cloud: deploy any code or service instantly, with automatic scaling and zero DevOps required.",
-    "one_liner": "The agent-native serverless cloud",
+    "long_description": "Full Linux VMs for long-running agents.",
+    "one_liner": "Cloud computers for AI agents",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -5384,15 +5385,17 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/insforge-instacloud",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/insforge-instacloud.json"
+    "url": "https://www.ycombinator.com/companies/instabox",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/instabox.json"
   },
   {
     "id": 31570,
@@ -5900,6 +5903,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/decawork.json"
   },
   {
+    "id": 33243,
+    "name": "Limnion",
+    "slug": "limnion",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/717af69f91680aebaf844c3d21687d8e728c80c2.png",
+    "website": "https://limnion.ai",
+    "all_locations": "Seattle, WA, USA; Remote",
+    "long_description": "Limnion is building an open-standards telemetry storage platform for observability at scale, including agentic workflows. Siglake is the open-source project that sits at the heart of it, designed around OTel, Parquet, and Iceberg. No proprietary storage, no vendor lock-in.",
+    "one_liner": "Telemetry storage for the agentic era.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1793384261,
+    "tags": [
+      "Open Source",
+      "Infrastructure",
+      "Databases"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/limnion",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/limnion.json"
+  },
+  {
     "id": 33313,
     "name": "SubVysion",
     "slug": "subvysion",
@@ -6344,8 +6390,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e98a564b21ba044528e16126406d35b7464044b7.png",
     "website": "https://www.mirrors.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Production agents handle many different customer workflows. Currently, when one handles a situation badly, an engineer reads the trace and patches the prompt. The next situation needs another exception. Soon, improving the agent becomes a recurring engineering job, and the prompt keeps growing.\r\n\r\nMirrors finds patterns in past runs. Engineers review guidance for a specific situation and preview where it would apply. Mirrors then delivers that guidance while the agent works, inside the team’s existing setup. The team can check whether the change improved the outcome.\r\n\r\nWe’re building Mirrors for engineering teams running customer-facing agents across varied workflows, so they can improve behavior without hardcoding every lesson in the global prompt.",
-    "one_liner": "Fix recurring agent mistakes with real-time guidance",
+    "long_description": "Production AI agents keep making the same mistakes. The usual fix is another line in the system prompt. Over time, the agent carries instructions for dozens of situations, even when it's doing something simple, and every correction becomes another thing to maintain.\r\n\r\nMirrors helps developers maintain production agents by turning recurring mistakes into targeted corrections. Mirrors surfaces recurring mistakes across your production runs. You write a correction, choose the situations where it applies, and preview which past conversations it would have reached. Once activated, Mirrors adds it to your agent only in those situations. You can then compare outcomes with and without the correction to see whether it helped. Unlike skills, the agent doesn't decide what to load. The scope you set does.\r\n\r\nCorrections live in one place, scoped to the right accounts and workflows. Mirrors connects through an SDK and works with any agent framework, and your application keeps control of its model calls and tools.\r\n\r\nWe're building Mirrors for engineering teams running customer-facing agents.",
+    "one_liner": "Fix recurring AI agent mistakes with real-time guidance",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -6800,8 +6846,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/30c23ee4b16858a917c5254b034633777d99a5f2.png",
     "website": "https://superserve.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Traditional cloud infrastructure was built to run a single app for many users. Agents work differently. Each one needs its own isolated machine to write software on the fly, run tools and act on its own for hours or weeks. And everything it produces has to persist between sessions.\r\n\r\nSuperserve gives every agent and RL rollout its own virtual machine that starts in under 50ms. Machines start from templates with your repo and dependencies already loaded, pause with memory and files intact at zero compute cost, and resume or fork from that exact state. You can run docker, databases, browsers or any services on these VMs. \r\n\r\nAPI keys stay outside the machine and egress rules control what agents can reach.\r\n\r\nFor teams building coding agents, autonomous workers, or eval and training environments, that means elastic infrastructure with no servers or warm pools to manage, and control over what every agent can reach and which credentials it can see. \r\n\r\nWe run over 100K machines (as of Oct 2026) every week for world-class teams, including Lindy, and Y Combinator itself.",
-    "one_liner": "Virtual machines for autonomous agents",
+    "long_description": "Superserve gives every AI agent its own computer in the cloud. Each one is an isolated VM that starts in under 50ms, sleeps between turns, and picks up exactly where it left off, for hours, weeks or indefinitely.\r\n\r\nTraditional cloud infrastructure was built to run one app for many users. Agents flip that. Each agent needs its own isolated machine where it can write and run code, use tools and work on its own for long stretches. Everything it produces has to persist the whole time, the way your laptop keeps your work.\r\n\r\nThat means agent computers have to be stateful, secure and cheap to run. For agents that talk to customers, they also have to start, sleep and wake almost instantly.\r\n\r\nFast - Machines start in under 50ms, either cold or from a template with your repo and dependencies already loaded. You don't need to keep a pool of servers running and waiting.\r\n\r\nPersistent - Paused machines keep their full memory and disk state at zero compute cost. They can resume or fork from that exact state. Pausing and resuming is fast enough that a machine can sleep between inference calls and wake on the next turn. Agents can run Docker, databases, browsers or any other service inside.\r\n\r\nSecure - Every machine is a microVM with its own kernel. You can program the rules for what traffic can come in and go out, and they're enforced at the network boundary where the agent can't reach them. API secrets are handled at the network layer too, so they never enter the machine. Every action is logged for audits.\r\n\r\nTeams building coding agents, autonomous workers, and eval or RL training environments use Superserve to give every agent session or rollout its own machine, with no infrastructure to manage.\r\n\r\nWe run 100K+ machines every week for teams including Lindy and Y Combinator.",
+    "one_liner": "Virtual machines for long-running agents",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",

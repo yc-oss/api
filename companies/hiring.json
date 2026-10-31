@@ -12841,7 +12841,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -14999,7 +14999,7 @@
     "slug": "rally",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/89e5e6679598ff7832c0db2c4089f74206b902c8.png",
-    "website": "https://rally.video",
+    "website": null,
     "all_locations": "Toronto, ON, Canada; Remote",
     "long_description": "Rally is what Zoom breakouts should have been. Users can hop between groups easily, while seeing and hearing the other groups around them, as if they were in a shared space.   \r\nRally is perfect for happy hours, networking, and other social gatherings. We are being used by institutions like Amazon, Harvard and a multitude of startups across North America. \r\n",
     "one_liner": "Rally is Zoom for social events",
@@ -34100,9 +34100,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd23108e8186366e29a1827c228ceddd75097d20.png",
     "website": "https://www.cardinalgray.com/",
     "all_locations": "New York City, NY, USA",
-    "long_description": "When a lender gives out a car loan, they need to file a lien with their borrower’s DMV. This is difficult because the process varies by state and county. We’ve leveraged LLMs to help lenders automate lien filings for over $1B of loans.",
-    "one_liner": "Automating lenders' interactions with the DMV",
-    "team_size": 6,
+    "long_description": "When a lender gives out a car loan, they need to file a lien with their borrower’s DMV. This is difficult because the process varies dramatically by state and county. We've handled over $10B in filings and are helping lenders like Capital One and OneMain file liens on around 30k cars each month.",
+    "one_liner": "Streamlined DMV lien filing for auto lenders",
+    "team_size": 4,
     "industry": "Fintech",
     "subindustry": "Fintech -> Credit and Lending",
     "launched_at": 1687970738,
@@ -39677,6 +39677,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/xpay.json"
   },
   {
+    "id": 29455,
+    "name": "CommodityAI",
+    "slug": "commodityai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/933c7f548a28cf3c29ce287133e7a5c8f9b0ca0c.png",
+    "website": "https://commodityai.io/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "CommodityAI builds intelligent automation agents for some of the most operationally complex businesses in the world: physical commodity traders.\r\n\r\nIn trading operations, critical data is often buried in spreadsheets, emails, PDFs, and legacy systems — making workflows slow, error-prone, and overly manual. CommodityAI acts as a digital operator, continuously reading, interpreting, and updating information across the trade lifecycle to keep records accurate and systems in sync.\r\n\r\nOur agents extract and validate key details from trade confirmations, contracts, vessel updates, and more — turning scattered, unstructured data into clean, structured records that flow directly into CTRMs, ERPs, and other core platforms. No manual entry required.\r\n\r\nBy automating what others still do by hand, we help trading teams move faster, reduce risk, and focus on the decisions that matter most.",
+    "one_liner": "The AI operating system for commodity operations",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1710175582,
+    "tags": [
+      "B2B",
+      "Workflow Automation",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/commodityai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/commodityai.json"
+  },
+  {
     "id": 29467,
     "name": "Powder",
     "slug": "powder",
@@ -42638,51 +42680,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hestus-inc",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/hestus-inc.json"
-  },
-  {
-    "id": 29738,
-    "name": "Anara",
-    "slug": "anara",
-    "former_names": [
-      "Unriddle"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c200677edb53d6070e302f09d7f34173e19a46f2.png",
-    "website": "https://anara.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Anara is AI for scientific advancement. We help researchers find, understand and write scientific documents, together.\r\n\r\nWe started working on Anara two years ago. In that time:\r\n- we’ve grown to 3M users spanning hundreds of major colleges and research-led companies,\r\n- we are fast approaching $10M in yearly revenue,\r\n- 600M+ people have seen our content across Instagram, TikTok and YouTube,\r\n- and we raised $3M from YC and the founders of Github and Reddit.\r\n\r\nWe're a small, tight-knit team with huge ambitions. As a founding member, you'll be instrumental in helping us scale revenue from $10M to $100M and then $100M to $1B+.\r\n\r\nIf you’re excited by the idea of being a part of that, definitely reach out.",
-    "one_liner": "AI for researchers",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1715615655,
-    "tags": [
-      "Consumer",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/anara",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/anara.json"
   },
   {
     "id": 29741,
@@ -47730,50 +47727,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/gale",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/gale.json"
-  },
-  {
-    "id": 30259,
-    "name": "Asteroid",
-    "slug": "asteroid",
-    "former_names": [
-      "Entropy Labs"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4598dd293d773fa0a9a1c72940f2f2e3153dda35.png",
-    "website": "https://asteroid.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Asteroid is the AI-powered integration layer for healthcare. One connector for EHRs, payer portals, and legacy desktop systems, with 100+ pre-built integrations that go live in days, not months. Built for developers and operations teams, with integrations that maintain themselves.",
-    "one_liner": "The integration layer for healthcare: EHRs, payer portals & more ",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1734639467,
-    "tags": [
-      "Robotic Process Automation",
-      "Health Tech",
-      "B2B",
-      "Automation",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/asteroid",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/asteroid.json"
   },
   {
     "id": 30260,
@@ -55919,8 +55872,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/834b16b30c5de79bf9dbcd0a4819289bfa937936.png",
     "website": "https://darwinrobotics.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Darwin Robotics creates general-purpose robots to build and maintain the machines civilization runs on.\r\n\r\nWe're starting with AI infrastructure, where skilled technicians perform a long tail of physical work across assembly, installation, commissioning, and maintenance. Our robots learn new tasks from demonstrations rather than being explicitly programmed for each workflow.\r\n\r\nFirst deployments are planned for early 2027.",
-    "one_liner": "Robots to build civilization",
+    "long_description": "Darwin Robotics creates general-purpose robot technicians that assemble and maintain the machines civilization runs on.\r\n\r\nWe're starting with AI infrastructure, automating physical work across data center assembly, commissioning, and maintenance. Our robots learn new tasks from human demonstrations and improve through real-world deployment.\r\n\r\nInitial deployments targeted for early 2027.",
+    "one_liner": "Robots technicians for AI infrastructure",
     "team_size": 4,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -56169,7 +56122,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1716cc43aa0fee3a4f60b9708b803805a0a152b1.png",
     "website": "https://kalpalabs.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're building the next frontier of speech models. Generalist speech models that unlock in-context learning & strong instruction following for speech models alongside unifying existing speech capabilities like speech to text, text to speech, voice cloning, etc.",
+    "long_description": "We are an audio research lab building steerable voice models. Our conversational models are among the most human-like voice models, ranking ahead of ElevenLabs and Cartesia on Design Arena's AudioRealismBench, and have access to the whole conversation history to deliver the most natural experience over long conversations.",
     "one_liner": "Scaling Generalist Speech models",
     "team_size": 3,
     "industry": "B2B",
@@ -59413,7 +59366,7 @@
     "website": "https://voygr.tech",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "VOYGR is a better maps API every agent and AI app will need. Google says '4.2 stars, open till 10 – VOYGR knows the chef left, wait times doubled, and locals moved on. Our intelligent local search combines accurate place data with fresh web context – news, articles, and events. We expand beyond 10-15 map attributes into infinite, queryable place profiles, enabling agents to reason and act in the real world.\r\n\r\nMaps are no longer browsed – LLMs/agents use them to reason and act. 20M+ apps/websites, up to 40% of search queries, and 20% of LLM prompts need local context. \r\n10-15 attributes per place are not enough for AI. Places change constantly - restaurants close, hours change, businesses move. LLMs struggle with semantic queries “Specialty coffee shops in SF with Wi-Fi, popular with YC founders”. Agents cannot reliably “parse half the internet” - they need real-world ontology\r\n\r\nWe’re experienced builders in maps, search, and ML to solve this. Vlad knows this space inside and out – he worked on the Google Maps APIs GTM, plus firsthand customer experience from building in ridesharing and travel. Yarik has spent over a decade leading ML/search teams at Apple, Google, and Meta. \r\n\r\nGoogle Places alone is a $XXB/Yr monopoly. Agents turn it into a transactional layer opportunity for local commerce and ads.",
-    "one_liner": "Real-world place intelligence for AI apps and agents",
+    "one_liner": "The real-world intelligence and action layer",
     "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -63067,6 +63020,47 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/tenor.json"
   },
   {
+    "id": 32682,
+    "name": "LATO",
+    "slug": "lato",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/78429e3a8867e93ea2df52fc422fdbd447685774.png",
+    "website": "https://www.latolabs.io/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "LATO is the agent-native research and simulation system that lets investors and companies test any thesis. Funds managing $400bn+ use LATO, including General Atlantic, Hg, Generation, NEA and Verdane, along with their portfolio companies.\r\n\r\nWe’re backed by leading funds including Y Combinator, Air Street Capital and Axiom Partners. Our angels include Paul Graham and co-founders of Vercel, ElevenLabs, Snowflake and Rogo. LATO was founded by a former private equity investor and an AI/ML engineer. ",
+    "one_liner": "Predict how market participants behave",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1782190140,
+    "tags": [
+      "B2B",
+      "Investing",
+      "Market Research",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lato",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/lato.json"
+  },
+  {
     "id": 32716,
     "name": "Neuromorphic",
     "slug": "neuromorphic",
@@ -64389,7 +64383,7 @@
     "slug": "super-powers-mobility-spm",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a5c35648a3ac00d7da1ce27b5b0a62372c6a5f2e.png",
-    "website": "https://www.spm.fun",
+    "website": "https://www.spm.us",
     "all_locations": "Pittsburgh, PA, USA",
     "long_description": "We started off building the highest performance, 470 volt electric off-road vehicles but we realized our ultra power dense battery packs are useful for mobile and stationary energy storage and power export, for military and consumer use cases. We develop battery packs, power electronics, and traction powertrain systems for vehicles.\r\n\r\nFor the majority of 2026 we were marketing our electric off-road vehicles, but we pivoted to selling our high performance battery packs and power export capabilities in the month of September. We went from having $769,000 in consumer pre-orders (possibly low conversion rate to sales) to $421,815 in realized revenue in 1 month, with a $792,000 qualified pipeline. \r\n\r\nOur tech is so compelling because the safety and layout of high voltage battery packs has only been mastered by large, well funded OEM companies who have brought it in-house. That means all other companies without the in-house expertise rely on battery companies to develop packs, and power electronics companies to develop power export capabilities. SPM has both of those capabilities in-house so we can ensure a fast turnaround and much more reliable product. \r\n\r\nOne of the biggest priorities of the department of war is energy dominance. We're seeing it constantly in new solicitations. Our strategy is superior - become a prime, but simultaneously service primes because most of then don't actually have the battery and power electronics expertise we have.\r\n\r\nFounded by Jon Powers - Ex-Tesla Sr. Mechanical Integration Engineer leading Cybertruck vehicle integration. ",
     "one_liner": "The highest performance modular battery packs for mobility/vehicles",

@@ -1134,7 +1134,7 @@
     "slug": "slauth-io",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/004f2f17d69c6a7d9b09c060c1c5711e24251d97.png",
-    "website": "https://slauth.io/",
+    "website": null,
     "all_locations": "Tel Aviv-Yafo, Tel Aviv District, Israel",
     "long_description": "Slauth.io generates and rightsizes IAM policies in order to save engineering time and secure the organization. We use PR's to suggest what good functional and secure IAM policies should look like and integrate with IaC (Terraform)  to have a seamless end-to-end IAM policy creation and deployment. Save hundreds of DevOps engineering time each year and increase your security to scale faster. \r\n",
     "one_liner": "The IAM Policy Copilot",
@@ -1486,16 +1486,17 @@
   },
   {
     "id": 31547,
-    "name": "InsForge (InstaCloud)",
-    "slug": "insforge-instacloud",
+    "name": "InstaBox",
+    "slug": "instabox",
     "former_names": [
-      "InsForge"
+      "InsForge",
+      "InsForge (InstaCloud)"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/de52713fe1552551dbe8aa2a5e60202c09bfc0d7.png",
-    "website": "https://insforge.dev/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/365d05cde45dc153baba3f6edad1e12fd88febf4.png",
+    "website": "https://instabox.sh/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "InstaCloud is the agent-native serverless cloud: deploy any code or service instantly, with automatic scaling and zero DevOps required.",
-    "one_liner": "The agent-native serverless cloud",
+    "long_description": "Full Linux VMs for long-running agents.",
+    "one_liner": "Cloud computers for AI agents",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -1518,15 +1519,17 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/insforge-instacloud",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/insforge-instacloud.json"
+    "url": "https://www.ycombinator.com/companies/instabox",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/instabox.json"
   },
   {
     "id": 35096,
