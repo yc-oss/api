@@ -74,7 +74,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -1390,7 +1390,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -2590,7 +2590,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -13252,7 +13252,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/40f593ffbf87115d864ecfbdee92baad6860322a.png",
     "website": "http://www.gethomebase.com/",
-    "all_locations": "Ho Chi Minh City, Ho Chi Minh City, Vietnam; Ho Chi Minh City, Vietnam",
+    "all_locations": "Singapore, Singapore; Ho Chi Minh City, Vietnam",
     "long_description": "Homebase provides Rent-To-Own real estate financing for buyers in Southeast Asia - the only alternative to inflexible/high-interest rate (12%+) mortgages in the region. We strive to provide more innovative, compelling, and empathetic solutions for those who aspire to own a home.\r\n\r\nHomebase was founded in 2019 in Singapore and is backed by Y Combinator, VinaCapital Ventures, Class 5 Global, Pegasus Technology Ventures, 1982 Ventures, Iterative VC and Antler, as well as the founders and executives at disruptive real estate financing companies including Opendoor, Zerodown, 99.co and Divvy Homes.",
     "one_liner": "Personalized rent-to-own real estate financing using technology in SEA",
     "team_size": 20,
@@ -13274,6 +13274,7 @@
       "Housing and Real Estate"
     ],
     "regions": [
+      "Singapore",
       "Vietnam",
       "Southeast Asia"
     ],
@@ -27223,11 +27224,11 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7af3ebc3d01b55f1bcbe3d6c0c7f7edbaae31b20.png",
     "website": "https://prosights.co/",
     "all_locations": "New York City, NY, USA",
-    "long_description": "",
-    "one_liner": "ProSights is a data / AI transformation partner to PE-backed portcos.",
+    "long_description": "ProSights is a data services firm for finance and operations at PE-backed companies. It reconciles the data across a company's ERP, CRM and operating systems, then builds the reporting, migrations and finance workflows that run on it. Typical engagements are job-level profitability across a roll-up's acquired businesses, consolidating acquired CRMs and ERPs after a deal, contract terms reconciled into Salesforce and ARR, and AP and bank reconciliation across subsidiaries. Clients include Thoma Bravo, Vista and Blackstone portfolio companies. The New York team combines private equity and consulting experience with senior engineers, and works inside the client's own systems, with every number traced to the record it came from.",
+    "one_liner": "Data services for finance and operations at PE-backed companies.",
     "team_size": 14,
     "industry": "B2B",
-    "subindustry": "B2B -> Operations",
+    "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1711348390,
     "tags": [
       "Fintech",
@@ -27244,7 +27245,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Operations"
+      "Finance and Accounting"
     ],
     "regions": [
       "United States of America",
@@ -27588,17 +27589,18 @@
   },
   {
     "id": 29646,
-    "name": "Corgi Insurance",
-    "slug": "corgi-insurance",
+    "name": "Corgi",
+    "slug": "corgi",
     "former_names": [
       "Corgi",
       "Corgi Insurance",
-      "Corgi"
+      "Corgi",
+      "Corgi Insurance"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8f66899a62764756d799d5abc511dc4b46f8c151.png",
     "website": "https://corgi.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Corgi is a full-stack insurance carrier building better, faster insurance products for startups. We’re not a broker, so we underwrite and issue policies directly, with fewer handoffs and less friction. Cutting out intermediaries lets us tailor coverage to how your company actually operates and price risk more efficiently.\r\n\r\n",
+    "long_description": "Corgi is using AI to make financial products faster, better, and lower fee. Our goal is to save every business and person a lot of time, and to be there to provide protection if something bad happens to them.",
     "one_liner": "Corgi is building an AI financial infrastructure company",
     "team_size": 250,
     "industry": "Fintech",
@@ -27623,13 +27625,13 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/corgi-insurance",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/corgi-insurance.json"
+    "url": "https://www.ycombinator.com/companies/corgi",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/corgi.json"
   },
   {
     "id": 29678,
@@ -30632,7 +30634,7 @@
     "website": "https://pacific.space",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We mass-produce modular data centers that deploy on stalled infrastructure projects losing billions per week.\r\n\r\nDelayed infrastructure projects hemorrhage $1B a week in the US alone - Pacific mass-produces modular data centers that deploy on those sites in days and turn their unused power into revenue.\r\n\r\nData centers are stuck for years waiting for power, while delayed construction sites across the world sit on unused interconnects, losing billions of dollars per week in interest on trillions of dollars of debt. Our pods deploy on those sites and generate revenue for them in days. They use diamond wafers in the cooling system so pods run anywhere on earth, even a desert. \r\n\r\nWe'll use the same mechanisms we're building today to deploy compute across the galaxy.\r\n",
-    "one_liner": "Mass-producing and financing micro data center incredibly quickly.",
+    "one_liner": "Robotic factories to mass produce data centers",
     "team_size": 6,
     "industry": "Industrials",
     "subindustry": "Industrials",
@@ -31014,8 +31016,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0abccc9bf2a6589b531983e558b31a32246f63fb.png",
     "website": "https://ernd.io/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "ernd is the card for companies that pay for AI, with 4% back on AI spend and 2% on everything else planned for launch. We pool startups’ purchasing power to negotiate discounts, higher usage limits and priority support from AI providers. In our first 48hrs, we onboarded 10 startups and landed 5 vendor partnerships. \r\n\r\nWe combine experience in quant finance at Bridgewater and IMC, payments at Ripple, financial AI at Farsight, and founding an investment fund focused on distressed industrial acquisitions.",
-    "one_liner": "The credit card for companies that pay for AI",
+    "long_description": "ernd is the card for companies that pay for AI, with 4% back on AI spend and 2% on everything else planned for launch. We pool startups’ purchasing power to negotiate discounts, higher usage limits and priority support from AI providers. In our first 48hrs, we onboarded 10 startups and landed 5 vendor partnerships. \r\n\r\nWe combine experience in quant finance at Bridgewater and IMC, payments at Ripple, financial AI at Farsight, and founding an investment fund focused on distressed industrial acquisitions. We're also credit card nerds, with at least five cards each that we rotate to maximize points!",
+    "one_liner": "The Credit Card for the AI stack ",
     "team_size": 3,
     "industry": "Fintech",
     "subindustry": "Fintech",
