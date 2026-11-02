@@ -1,71 +1,35 @@
 {
-  "generated_at": "2026-11-01T03:22:10.181Z",
+  "generated_at": "2026-11-02T03:31:15.941Z",
   "summary": {
-    "previous_total": 6358,
-    "current_total": 6361,
+    "previous_total": 6361,
+    "current_total": 6362,
     "added": 3,
-    "removed": 0,
-    "updated": 47
+    "removed": 2,
+    "updated": 25
   },
   "added": [
     {
-      "id": 30172,
-      "name": "Enhanced Radar",
-      "slug": "enhanced-radar",
-      "former_names": [],
-      "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e10734051ac91f13f36d26eb75fc983d06a0c0f6.png",
-      "website": "https://www.enhancedradar.com/",
+      "id": 31389,
+      "name": "Ryhla",
+      "slug": "ryhla",
+      "former_names": [
+        "Harbor"
+      ],
+      "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/958ce266d784412860aea37d9654c70b9d6bae3b.png",
+      "website": "https://ryhla.ai",
       "all_locations": "San Francisco, CA, USA",
-      "long_description": "Enhanced Radar is building systems to deliver safety and efficiency to aviation organizations",
-      "one_liner": "AI systems for aviation",
-      "team_size": 12,
+      "long_description": "Ryhla develops proprietary models that replicate the distribution power grid and learn what gets a project connected. We work with solar/battery, EV charging and small data center developers.",
+      "one_liner": "Faster power grid connection for your projects",
+      "team_size": 2,
       "industry": "Industrials",
-      "subindustry": "Industrials -> Aviation and Space",
-      "launched_at": 1740622657,
+      "subindustry": "Industrials -> Energy",
+      "launched_at": 1793566971,
       "tags": [
-        "Hardware",
-        "Travel",
-        "Aerospace",
-        "AI"
-      ],
-      "tags_highlighted": [],
-      "top_company": false,
-      "isHiring": false,
-      "nonprofit": false,
-      "batch": "Winter 2025",
-      "status": "Active",
-      "industries": [
-        "Industrials",
-        "Aviation and Space"
-      ],
-      "regions": [
-        "United States of America",
-        "America / Canada"
-      ],
-      "stage": "Early",
-      "app_video_public": false,
-      "demo_day_video_public": false,
-      "app_answers": null,
-      "question_answers": false,
-      "url": "https://www.ycombinator.com/companies/enhanced-radar",
-      "api": "https://yc-oss.github.io/api/batches/winter-2025/enhanced-radar.json"
-    },
-    {
-      "id": 35095,
-      "name": "Taan.ai",
-      "slug": "taanai",
-      "former_names": [],
-      "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e81be68dcd0ecbbf3a0f1bdcbf4488f4e6bdcc21.png",
-      "website": "https://taan.ai/",
-      "all_locations": "San Francisco, CA, USA",
-      "long_description": "Taan builds foundation music models that do what you tell them to, when you tell them to. We're starting with music for video. Give Taan a video and it watches it, then composes an original score that follows the emotion and timing of every cut. If the scene is tense for 10 seconds and then turns happy, the music changes at that exact moment. You get back a fully mixed .mp4. Agents and apps call Taan through our API, so any video tool can add scored, synced music with one call. \r\n\r\nToday's music models can make catchy tracks, but you can't steer them. Ask for \"violin at exactly the 11th second\" and they usually skip it. We trained Taan from the ground up for control. \r\n\r\nWe measured Taan on prompt adherence and instruction success. And against every leading model we tested, Taan was at least 4x better.  \r\n\r\nWe work with teams building video agents, ad and creative tools, micro-dramas and games. We're musicians and ML researchers. Adithya (CEO) comes from eight generations of Indian classical musicians, tours as a metal guitarist, has done music ML research since 2023, and has filed two patents on music generation architectures. Devansh (CTO) did signal-processing research at IIT Kanpur and was previously an ML engineer at American Express.",
-      "one_liner": "the most precise & controllable foundation music models ",
-      "team_size": 0,
-      "industry": "B2B",
-      "subindustry": "B2B",
-      "launched_at": 1793427352,
-      "tags": [
-        "Generative AI"
+        "Solar Power",
+        "Climate",
+        "Energy",
+        "Renewable Energy",
+        "Infrastructure"
       ],
       "tags_highlighted": [],
       "top_company": false,
@@ -74,7 +38,8 @@
       "batch": "Fall 2026",
       "status": "Active",
       "industries": [
-        "B2B"
+        "Industrials",
+        "Energy"
       ],
       "regions": [
         "United States of America",
@@ -85,39 +50,42 @@
       "demo_day_video_public": false,
       "app_answers": null,
       "question_answers": false,
-      "url": "https://www.ycombinator.com/companies/taanai",
-      "api": "https://yc-oss.github.io/api/batches/fall-2026/taanai.json"
+      "url": "https://www.ycombinator.com/companies/ryhla",
+      "api": "https://yc-oss.github.io/api/batches/fall-2026/ryhla.json"
     },
     {
-      "id": 41229,
-      "name": "Colony",
-      "slug": "colony",
+      "id": 35458,
+      "name": "Caladh",
+      "slug": "caladh",
       "former_names": [],
-      "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ded786fce75de846319a49e7392267fcd494b3e0.png",
-      "website": "https://colony.tech",
-      "all_locations": "Waterloo, ON, Canada",
-      "long_description": "",
-      "one_liner": "Long-range drone network for world data collection ",
-      "team_size": 3,
+      "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/40892c64e13b8e9e78a67c5002788bc45d17ba1b.png",
+      "website": "https://caladh.com",
+      "all_locations": "Boston, MA, USA",
+      "long_description": "Caladh protects critical maritime infrastructure from drone attacks above and below the waterline.  Our systems detect, track, and defeat unmanned systems so they can't get near the assets they want to disrupt. ",
+      "one_liner": "Anti-drone defense for the maritime domain ",
+      "team_size": null,
       "industry": "Industrials",
-      "subindustry": "Industrials -> Drones",
-      "launched_at": 1793406922,
+      "subindustry": "Industrials -> Defense",
+      "launched_at": 1786125348,
       "tags": [
+        "Hard Tech",
+        "Hardware",
         "Drones",
-        "Aerospace"
+        "Maritime",
+        "Defense"
       ],
       "tags_highlighted": [],
       "top_company": false,
       "isHiring": false,
       "nonprofit": false,
-      "batch": "Winter 2027",
+      "batch": "Fall 2026",
       "status": "Active",
       "industries": [
         "Industrials",
-        "Drones"
+        "Defense"
       ],
       "regions": [
-        "Canada",
+        "United States of America",
         "America / Canada"
       ],
       "stage": "Early",
@@ -125,453 +93,328 @@
       "demo_day_video_public": false,
       "app_answers": null,
       "question_answers": false,
-      "url": "https://www.ycombinator.com/companies/colony",
-      "api": "https://yc-oss.github.io/api/batches/winter-2027/colony.json"
+      "url": "https://www.ycombinator.com/companies/caladh",
+      "api": "https://yc-oss.github.io/api/batches/fall-2026/caladh.json"
+    },
+    {
+      "id": 36514,
+      "name": "Kanopy",
+      "slug": "kanopy",
+      "former_names": [
+        "KanopyAI"
+      ],
+      "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8db59405c47dfd1fbe3cb7db6cb17937d104692a.png",
+      "website": "https://www.kanopy-ai.com/",
+      "all_locations": "New York City, NY, USA",
+      "long_description": "Video to automatically identify risks and condition on power lines, pipelines, rail, and other types of infrastructure over hundreds of miles at once. ",
+      "one_liner": "Computer vision operating layer for physical infrastructure",
+      "team_size": 2,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Energy",
+      "launched_at": 1786757881,
+      "tags": [
+        "Energy",
+        "Industrial"
+      ],
+      "tags_highlighted": [],
+      "top_company": false,
+      "isHiring": false,
+      "nonprofit": false,
+      "batch": "Fall 2026",
+      "status": "Active",
+      "industries": [
+        "Industrials",
+        "Energy"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "stage": "Early",
+      "app_video_public": false,
+      "demo_day_video_public": false,
+      "app_answers": null,
+      "question_answers": false,
+      "url": "https://www.ycombinator.com/companies/kanopy",
+      "api": "https://yc-oss.github.io/api/batches/fall-2026/kanopy.json"
     }
   ],
-  "removed": [],
+  "removed": [
+    {
+      "id": 4787,
+      "name": "Monzo Bank",
+      "slug": "monzo-bank",
+      "former_names": [],
+      "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b1262acc9e79773337df0be8c8de0cd79a0a813f.png",
+      "website": "http://www.monzo.com",
+      "all_locations": "London, England, United Kingdom",
+      "long_description": "YC has written a good overview of our business on their blog: https://blog.ycombinator.com/monzo-makes-money-work-for-everyone/\r\n\r\nOur mission is to make money work for everyone. We are the UK's leading digital bank for individuals and businesses, reinventing the traditional banking industry one customer at a time. We're relentlessly mission driven and always put our customers first - from what products we chose to launch next to our transparency and use of simple language. With a Net Promoter Score of 70+, it shows. \r\n\r\nFrom our founding in 2015, we now have over 7 million customers in the UK (13% of UK adults) and are building out our team in the US. We've seen incredible organic growth, acquiring 150,000 customers / month in 2022, with 80% of this coming from word of mouth. Our weekly active user rate is ~60% and ~40% of our active users use us as their Main Bank account, showing that we are a product that is embedded in our users' daily lives. We've grown to ~2,450 staff (~400 of which make up the product/tech team), and are backed by YC, Stripe, Tencent, Mike Moritz, and others.\r\n\r\nInternally, we encourage an open, collaborative, and inclusive working environment - we were voted the #1 startup where people in the UK want to work for the second year running in 2022. We contribute to open source software, and we continually engage with our wonderful community. We're hiring talented, creative problem-solvers to help us build the bank of the future. Join us!",
+      "one_liner": "A bank as smart as your phone.",
+      "team_size": 2450,
+      "industry": "Fintech",
+      "subindustry": "Fintech -> Consumer Finance",
+      "launched_at": 1532804200,
+      "tags": [],
+      "tags_highlighted": [],
+      "top_company": false,
+      "isHiring": false,
+      "nonprofit": false,
+      "batch": "other",
+      "status": "Not YC",
+      "industries": [
+        "Fintech",
+        "Consumer Finance"
+      ],
+      "regions": [
+        "United Kingdom",
+        "Europe",
+        "Remote",
+        "Partly Remote"
+      ],
+      "stage": "Early",
+      "app_video_public": false,
+      "demo_day_video_public": false,
+      "app_answers": null,
+      "question_answers": false,
+      "url": "https://www.ycombinator.com/companies/monzo-bank",
+      "api": "https://yc-oss.github.io/api/batches/other/monzo-bank.json"
+    },
+    {
+      "id": 11874,
+      "name": "Convoy",
+      "slug": "convoy",
+      "former_names": [],
+      "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/627387718c7fc43469f89a36ed26d7378497cb09.png",
+      "website": "https://convoy.com/",
+      "all_locations": "Seattle, WA, USA",
+      "long_description": "Convoy is the nation's leading digital freight network. We move millions of truckloads around the country through our connected network of carriers, saving money for shippers, increasing earnings for drivers, and eliminating carbon waste for our planet. \r\n\r\nInterested in working on an $800B problem? \r\nCheck out our jobs page here: http://jobs.convoy.com/",
+      "one_liner": "The world's most efficient digital freight network.",
+      "team_size": 1200,
+      "industry": "B2B",
+      "subindustry": "B2B -> Supply Chain and Logistics",
+      "launched_at": 1536787678,
+      "tags": [],
+      "tags_highlighted": [],
+      "top_company": false,
+      "isHiring": false,
+      "nonprofit": false,
+      "batch": "other",
+      "status": "Not YC",
+      "industries": [
+        "B2B",
+        "Supply Chain and Logistics"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "stage": "Early",
+      "app_video_public": false,
+      "demo_day_video_public": false,
+      "app_answers": null,
+      "question_answers": false,
+      "url": "https://www.ycombinator.com/companies/convoy",
+      "api": "https://yc-oss.github.io/api/batches/other/convoy.json"
+    }
+  ],
   "updated": [
     {
-      "id": 41,
-      "name": "LendUp",
-      "slug": "lendup",
-      "batch": "Winter 2012",
-      "url": "https://www.ycombinator.com/companies/lendup",
+      "id": 164,
+      "name": "Mino Games",
+      "slug": "mino-games",
+      "batch": "Winter 2011",
+      "url": "https://www.ycombinator.com/companies/mino-games",
       "changed_fields": [
-        "stage"
+        "regions"
       ],
       "changes": {
-        "stage": {
-          "before": "Early",
-          "after": "Growth"
+        "regions": {
+          "before": [
+            "United States of America",
+            "Canada",
+            "America / Canada",
+            "America / Canada"
+          ],
+          "after": [
+            "United States of America",
+            "Canada",
+            "America / Canada"
+          ]
         }
       }
     },
     {
-      "id": 130,
-      "name": "Automatic",
-      "slug": "automatic",
-      "batch": "Summer 2011",
-      "url": "https://www.ycombinator.com/companies/automatic",
+      "id": 864,
+      "name": "teaBOT",
+      "slug": "teabot",
+      "batch": "Summer 2015",
+      "url": "https://www.ycombinator.com/companies/teabot",
       "changed_fields": [
-        "stage"
+        "regions"
       ],
       "changes": {
-        "stage": {
-          "before": "Early",
-          "after": "Growth"
+        "regions": {
+          "before": [
+            "Canada",
+            "United States of America",
+            "America / Canada",
+            "America / Canada",
+            "Remote",
+            "Partly Remote"
+          ],
+          "after": [
+            "Canada",
+            "United States of America",
+            "America / Canada",
+            "Remote",
+            "Partly Remote"
+          ]
         }
       }
     },
     {
-      "id": 191,
-      "name": "Homejoy",
-      "slug": "homejoy",
-      "batch": "Summer 2010",
-      "url": "https://www.ycombinator.com/companies/homejoy",
-      "changed_fields": [
-        "stage"
-      ],
-      "changes": {
-        "stage": {
-          "before": "Early",
-          "after": "Growth"
-        }
-      }
-    },
-    {
-      "id": 504,
-      "name": "Coin",
-      "slug": "coin",
-      "batch": "Winter 2013",
-      "url": "https://www.ycombinator.com/companies/coin",
-      "changed_fields": [
-        "stage"
-      ],
-      "changes": {
-        "stage": {
-          "before": "Early",
-          "after": "Growth"
-        }
-      }
-    },
-    {
-      "id": 632,
-      "name": "Zesty",
-      "slug": "zesty",
-      "batch": "Winter 2014",
-      "url": "https://www.ycombinator.com/companies/zesty",
-      "changed_fields": [
-        "stage"
-      ],
-      "changes": {
-        "stage": {
-          "before": "Early",
-          "after": "Growth"
-        }
-      }
-    },
-    {
-      "id": 680,
-      "name": "Impraise",
-      "slug": "impraise",
-      "batch": "Summer 2014",
-      "url": "https://www.ycombinator.com/companies/impraise",
-      "changed_fields": [
-        "stage"
-      ],
-      "changes": {
-        "stage": {
-          "before": "Early",
-          "after": "Growth"
-        }
-      }
-    },
-    {
-      "id": 704,
-      "name": "Apto Payments",
-      "slug": "apto-payments",
-      "batch": "Summer 2014",
-      "url": "https://www.ycombinator.com/companies/apto-payments",
-      "changed_fields": [
-        "stage"
-      ],
-      "changes": {
-        "stage": {
-          "before": "Early",
-          "after": "Growth"
-        }
-      }
-    },
-    {
-      "id": 1000,
-      "name": "Loop Genomics",
-      "slug": "loop-genomics",
-      "batch": "Winter 2016",
-      "url": "https://www.ycombinator.com/companies/loop-genomics",
-      "changed_fields": [
-        "stage"
-      ],
-      "changes": {
-        "stage": {
-          "before": "Early",
-          "after": "Growth"
-        }
-      }
-    },
-    {
-      "id": 1002,
-      "name": "UpLabs",
-      "slug": "uplabs",
-      "batch": "Winter 2016",
-      "url": "https://www.ycombinator.com/companies/uplabs",
-      "changed_fields": [
-        "stage"
-      ],
-      "changes": {
-        "stage": {
-          "before": "Early",
-          "after": "Growth"
-        }
-      }
-    },
-    {
-      "id": 1003,
-      "name": "WorldCover",
-      "slug": "worldcover",
-      "batch": "Winter 2016",
-      "url": "https://www.ycombinator.com/companies/worldcover",
-      "changed_fields": [
-        "stage"
-      ],
-      "changes": {
-        "stage": {
-          "before": "Early",
-          "after": "Growth"
-        }
-      }
-    },
-    {
-      "id": 1273,
-      "name": "Starsky Robotics",
-      "slug": "starsky-robotics",
-      "batch": "Summer 2016",
-      "url": "https://www.ycombinator.com/companies/starsky-robotics",
-      "changed_fields": [
-        "stage"
-      ],
-      "changes": {
-        "stage": {
-          "before": "Early",
-          "after": "Growth"
-        }
-      }
-    },
-    {
-      "id": 1352,
-      "name": "Proxy",
-      "slug": "proxy",
-      "batch": "Summer 2016",
-      "url": "https://www.ycombinator.com/companies/proxy",
-      "changed_fields": [
-        "stage"
-      ],
-      "changes": {
-        "stage": {
-          "before": "Early",
-          "after": "Growth"
-        }
-      }
-    },
-    {
-      "id": 1465,
-      "name": "Pulse",
-      "slug": "pulse",
-      "batch": "Winter 2017",
-      "url": "https://www.ycombinator.com/companies/pulse",
-      "changed_fields": [
-        "stage"
-      ],
-      "changes": {
-        "stage": {
-          "before": "Early",
-          "after": "Growth"
-        }
-      }
-    },
-    {
-      "id": 1585,
-      "name": "Sunfolding",
-      "slug": "sunfolding",
-      "batch": "Summer 2017",
-      "url": "https://www.ycombinator.com/companies/sunfolding",
-      "changed_fields": [
-        "stage"
-      ],
-      "changes": {
-        "stage": {
-          "before": "Early",
-          "after": "Growth"
-        }
-      }
-    },
-    {
-      "id": 1627,
-      "name": "Semantix",
-      "slug": "semantix",
-      "batch": "Summer 2017",
-      "url": "https://www.ycombinator.com/companies/semantix",
-      "changed_fields": [
-        "stage"
-      ],
-      "changes": {
-        "stage": {
-          "before": "Early",
-          "after": "Growth"
-        }
-      }
-    },
-    {
-      "id": 1698,
-      "name": "Social Construct",
-      "slug": "social-construct",
-      "batch": "Summer 2017",
-      "url": "https://www.ycombinator.com/companies/social-construct",
-      "changed_fields": [
-        "stage"
-      ],
-      "changes": {
-        "stage": {
-          "before": "Early",
-          "after": "Growth"
-        }
-      }
-    },
-    {
-      "id": 1854,
-      "name": "Secured",
-      "slug": "bump-2",
-      "batch": "Winter 2018",
-      "url": "https://www.ycombinator.com/companies/bump-2",
-      "changed_fields": [
-        "stage"
-      ],
-      "changes": {
-        "stage": {
-          "before": "Early",
-          "after": "Growth"
-        }
-      }
-    },
-    {
-      "id": 1928,
-      "name": "Spero Foods",
-      "slug": "spero-foods",
-      "batch": "Summer 2018",
-      "url": "https://www.ycombinator.com/companies/spero-foods",
-      "changed_fields": [
-        "stage"
-      ],
-      "changes": {
-        "stage": {
-          "before": "Early",
-          "after": "Growth"
-        }
-      }
-    },
-    {
-      "id": 1949,
-      "name": "Scanwell Health",
-      "slug": "scanwell-health",
-      "batch": "Summer 2018",
-      "url": "https://www.ycombinator.com/companies/scanwell-health",
-      "changed_fields": [
-        "stage"
-      ],
-      "changes": {
-        "stage": {
-          "before": "Early",
-          "after": "Growth"
-        }
-      }
-    },
-    {
-      "id": 1951,
-      "name": "Berbix",
-      "slug": "berbix",
-      "batch": "Summer 2018",
-      "url": "https://www.ycombinator.com/companies/berbix",
-      "changed_fields": [
-        "stage"
-      ],
-      "changes": {
-        "stage": {
-          "before": "Early",
-          "after": "Growth"
-        }
-      }
-    },
-    {
-      "id": 12014,
-      "name": "Docbot",
-      "slug": "docbot",
-      "batch": "Winter 2019",
-      "url": "https://www.ycombinator.com/companies/docbot",
-      "changed_fields": [
-        "stage"
-      ],
-      "changes": {
-        "stage": {
-          "before": "Early",
-          "after": "Growth"
-        }
-      }
-    },
-    {
-      "id": 12598,
-      "name": "Narrator",
-      "slug": "narrator",
-      "batch": "Summer 2019",
-      "url": "https://www.ycombinator.com/companies/narrator",
-      "changed_fields": [
-        "stage"
-      ],
-      "changes": {
-        "stage": {
-          "before": "Early",
-          "after": "Growth"
-        }
-      }
-    },
-    {
-      "id": 12645,
-      "name": "Brave Care",
-      "slug": "brave-care",
-      "batch": "Summer 2019",
-      "url": "https://www.ycombinator.com/companies/brave-care",
-      "changed_fields": [
-        "stage"
-      ],
-      "changes": {
-        "stage": {
-          "before": "Early",
-          "after": "Growth"
-        }
-      }
-    },
-    {
-      "id": 12736,
-      "name": "Boost Biomes",
-      "slug": "boost-biomes",
-      "batch": "Summer 2019",
-      "url": "https://www.ycombinator.com/companies/boost-biomes",
-      "changed_fields": [
-        "stage"
-      ],
-      "changes": {
-        "stage": {
-          "before": "Early",
-          "after": "Growth"
-        }
-      }
-    },
-    {
-      "id": 13223,
-      "name": "Multiverse",
-      "slug": "multiverse",
-      "batch": "Winter 2020",
-      "url": "https://www.ycombinator.com/companies/multiverse",
-      "changed_fields": [
-        "stage"
-      ],
-      "changes": {
-        "stage": {
-          "before": "Early",
-          "after": "Growth"
-        }
-      }
-    },
-    {
-      "id": 22983,
-      "name": "Homebase",
-      "slug": "homebase",
+      "id": 22681,
+      "name": "Pibit.ai",
+      "slug": "pibit-ai",
       "batch": "Winter 2021",
-      "url": "https://www.ycombinator.com/companies/homebase",
+      "url": "https://www.ycombinator.com/companies/pibit-ai",
+      "changed_fields": [
+        "long_description",
+        "one_liner",
+        "stage",
+        "team_size"
+      ],
+      "changes": {
+        "long_description": {
+          "before": "Pibit.ai is an SF–based insurtech company reconstructing the art (and science) of commercial underwriting for carriers and MGAs. At the heart is the CURE™ platform, the industry’s only centralized underwriting risk environment fueled by agentic underwriting services that delivers decision-ready outcomes. It converts submissions into decisions by automating intake, triage, and data enrichment from documents and external sources while surfacing risk insights so you can win the right accounts faster, scale throughput, and reduce loss ratios. Backed by Y-Combinator, the proprietary platform serves dozens of clients across the US, enabling 85% faster underwriting, 32% increase in GWP per underwriter, and up to 700 basis points improvement in loss ratios. For details, visit pibit.ai.\r\n",
+          "after": "Pibit is the AI Underwriting OS for Commercial, Specialty & E&S insurance. Its AI agents run underwriting from submission to quote: they check submissions for completeness and chase brokers for what's missing, clear appetite, ingest documents and third-party data, analyze against guidelines, and give underwriters a risk summary with risk signals, pricing scenarios and benchmarks. Underwriters spend their time only on decisions and broker relationships.\r\n\r\n50+ carriers and MGAs across 10+ lines run on Pibit. We guarantee 99.9% workflow accuracy in the contract from day one, go live one module at a time in weeks, and have never had a failed implementation. Pricing is per submission processed, with no license or implementation fee. Based in the Bay Area, with R&D in Bangalore."
+        },
+        "one_liner": {
+          "before": "The fastest path from submission to better decisions.",
+          "after": "The AI Underwriting OS for Commercial, Specialty & E&S insurance"
+        },
+        "stage": {
+          "before": "Growth",
+          "after": "Early"
+        },
+        "team_size": {
+          "before": 116,
+          "after": 200
+        }
+      }
+    },
+    {
+      "id": 23948,
+      "name": "Superwall",
+      "slug": "staffbar",
+      "batch": "Summer 2021",
+      "url": "https://www.ycombinator.com/companies/staffbar",
+      "changed_fields": [
+        "isHiring"
+      ],
+      "changes": {
+        "isHiring": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "id": 24094,
+      "name": "AlgoUniversity",
+      "slug": "algouniversity",
+      "batch": "Summer 2021",
+      "url": "https://www.ycombinator.com/companies/algouniversity",
+      "changed_fields": [
+        "all_locations"
+      ],
+      "changes": {
+        "all_locations": {
+          "before": "Hyderabad, Telangana, India",
+          "after": "Bengaluru, KA, India"
+        }
+      }
+    },
+    {
+      "id": 24271,
+      "name": "Tiriel AI",
+      "slug": "tiriel-ai",
+      "batch": "Summer 2021",
+      "url": "https://www.ycombinator.com/companies/tiriel-ai",
       "changed_fields": [
         "all_locations",
         "regions"
       ],
       "changes": {
         "all_locations": {
-          "before": "Ho Chi Minh City, Ho Chi Minh City, Vietnam; Ho Chi Minh City, Vietnam",
-          "after": "Singapore, Singapore; Ho Chi Minh City, Vietnam"
+          "before": "San Francisco, CA, USA",
+          "after": "Monterrey, N.L., Mexico"
         },
         "regions": {
           "before": [
-            "Vietnam",
-            "Southeast Asia"
+            "United States of America",
+            "America / Canada",
+            "Remote",
+            "Partly Remote"
           ],
           "after": [
-            "Singapore",
-            "Vietnam",
-            "Southeast Asia"
+            "Mexico",
+            "Latin America",
+            "Remote",
+            "Partly Remote"
           ]
         }
       }
     },
     {
-      "id": 24822,
-      "name": "Luminate",
-      "slug": "luminate-medical",
+      "id": 24344,
+      "name": "WarpBuild",
+      "slug": "warpbuild",
       "batch": "Summer 2021",
-      "url": "https://www.ycombinator.com/companies/luminate-medical",
+      "url": "https://www.ycombinator.com/companies/warpbuild",
       "changed_fields": [
-        "app_video_public"
+        "isHiring",
+        "team_size"
       ],
       "changes": {
-        "app_video_public": {
-          "before": false,
-          "after": true
+        "isHiring": {
+          "before": true,
+          "after": false
+        },
+        "team_size": {
+          "before": 8,
+          "after": 14
+        }
+      }
+    },
+    {
+      "id": 24787,
+      "name": "Squire.ai",
+      "slug": "squire-ai",
+      "batch": "Summer 2021",
+      "url": "https://www.ycombinator.com/companies/squire-ai",
+      "changed_fields": [
+        "regions"
+      ],
+      "changes": {
+        "regions": {
+          "before": [
+            "United States of America",
+            "Canada",
+            "America / Canada",
+            "America / Canada",
+            "Remote",
+            "Partly Remote"
+          ],
+          "after": [
+            "United States of America",
+            "Canada",
+            "America / Canada",
+            "Remote",
+            "Partly Remote"
+          ]
         }
       }
     },
@@ -582,113 +425,134 @@
       "batch": "Winter 2022",
       "url": "https://www.ycombinator.com/companies/wereno",
       "changed_fields": [
-        "api",
-        "former_names",
-        "long_description",
-        "name",
-        "one_liner",
-        "slug",
-        "small_logo_thumb_url",
-        "url",
-        "website"
+        "long_description"
       ],
       "changes": {
-        "api": {
-          "before": "https://yc-oss.github.io/api/batches/winter-2022/handymanai.json",
-          "after": "https://yc-oss.github.io/api/batches/winter-2022/wereno.json"
-        },
-        "former_names": {
-          "before": [
-            "WeReno",
-            "Inc.",
-            "VIDCALL",
-            "Inc",
-            "WeReno",
-            "WeReno (Vidcall",
-            "Inc.)",
-            "WeReno",
-            "Scope3D (fka WeReno)",
-            "Scope3D",
-            "Built OS",
-            "BuiltOS",
-            "WeReno",
-            "Handyman.ai by WeReno"
-          ],
-          "after": [
-            "WeReno",
-            "Inc.",
-            "VIDCALL",
-            "Inc",
-            "WeReno",
-            "WeReno (Vidcall",
-            "Inc.)",
-            "WeReno",
-            "Scope3D (fka WeReno)",
-            "Scope3D",
-            "Built OS",
-            "BuiltOS",
-            "WeReno",
-            "Handyman.ai by WeReno",
-            "Handyman.ai"
-          ]
-        },
         "long_description": {
-          "before": "While building WeReno.com, we managed over $1B in renovations and noticed something: property owners kept coming back long after projects ended. We realized buildings have no memory, and every repair, maintenance issue, and service request starts from scratch.\r\n\r\nSo we built Handyman.ai, an AI agent that remembers your property, anticipates problems, and handles everything from maintenance to repairs.\r\n\r\nIn our first few months, we facilitated over $10M in GMV, validating the opportunity to build an AI agent for every property.",
-          "after": "WeReno helps property owners plan and execute renovations and capital projects. We combine technology with hands-on project management, contractor sourcing, and owner's representation to deliver complex projects more efficiently.\r\n\r\nFounded in 2022 and backed by Y Combinator (W22), we've facilitated over $1B in renovations and capital projects across residential, commercial, and hospitality properties.\r\n\r\nOur platform simplifies the entire renovation lifecycle, from initial planning and budgeting to contractor selection, procurement, project oversight, and delivery.\r\n\r\nWe're building a more transparent, efficient, and technology-driven way to improve the built world."
-        },
-        "name": {
-          "before": "Handyman.ai",
-          "after": "WeReno"
-        },
-        "one_liner": {
-          "before": "Handyman.ai by WeReno | The AI Agent That Knows and Runs Your Property",
-          "after": "AI-powered renovation and capital-project management"
-        },
-        "slug": {
-          "before": "handymanai",
-          "after": "wereno"
-        },
-        "small_logo_thumb_url": {
-          "before": "https://bookface-images.s3.amazonaws.com/small_logos/5b2cd4bcd46eaa5a921d4398a930a8db159d40bd.png",
-          "after": "https://bookface-images.s3.amazonaws.com/small_logos/1a5783f7465c728ac490615e277946dd2250f5f0.png"
-        },
-        "url": {
-          "before": "https://www.ycombinator.com/companies/handymanai",
-          "after": "https://www.ycombinator.com/companies/wereno"
-        },
-        "website": {
-          "before": "https://handyman.ai",
-          "after": "https://wereno.com"
+          "before": "WeReno helps property owners plan and execute renovations and capital projects. We combine technology with hands-on project management, contractor sourcing, and owner's representation to deliver complex projects more efficiently.\r\n\r\nFounded in 2022 and backed by Y Combinator (W22), we've facilitated over $1B in renovations and capital projects across residential, commercial, and hospitality properties.\r\n\r\nOur platform simplifies the entire renovation lifecycle, from initial planning and budgeting to contractor selection, procurement, project oversight, and delivery.\r\n\r\nWe're building a more transparent, efficient, and technology-driven way to improve the built world.",
+          "after": "WeReno is a technology-driven capital project management and owner's representation company specializing in hospitality, commercial real estate, and large-scale property improvements.\r\n\r\nWith over $1B in renovations and capital projects facilitated, our experience spans major hospitality brands, including Hilton and Marriott, as well as commercial properties and multi-asset portfolios.\r\n\r\nWe help hotel owners, operators, and real estate groups execute everything from property improvement plans (PIPs) and hotel renovations to major capital upgrades and portfolio-wide modernization programs.\r\n\r\nOur approach combines technology, strategic procurement, contractor management, and hands-on project oversight to streamline execution, control costs, minimize operational disruption, and maximize long-term asset value."
         }
       }
     },
     {
-      "id": 25519,
-      "name": "Fieldproxy",
-      "slug": "fieldproxy",
-      "batch": "Winter 2022",
-      "url": "https://www.ycombinator.com/companies/fieldproxy",
+      "id": 27892,
+      "name": "ShortLoop",
+      "slug": "shortloop",
+      "batch": "Winter 2023",
+      "url": "https://www.ycombinator.com/companies/shortloop",
+      "changed_fields": [
+        "all_locations",
+        "regions"
+      ],
+      "changes": {
+        "all_locations": {
+          "before": "San Francisco, CA, USA",
+          "after": "Bengaluru, KA, India"
+        },
+        "regions": {
+          "before": [
+            "United States of America",
+            "America / Canada",
+            "Remote",
+            "Partly Remote"
+          ],
+          "after": [
+            "India",
+            "South Asia",
+            "Remote",
+            "Partly Remote"
+          ]
+        }
+      }
+    },
+    {
+      "id": 28205,
+      "name": "Modulari-T",
+      "slug": "modulari-t",
+      "batch": "Winter 2023",
+      "url": "https://www.ycombinator.com/companies/modulari-t",
+      "changed_fields": [
+        "regions"
+      ],
+      "changes": {
+        "regions": {
+          "before": [
+            "Canada",
+            "United States of America",
+            "America / Canada",
+            "America / Canada"
+          ],
+          "after": [
+            "Canada",
+            "United States of America",
+            "America / Canada"
+          ]
+        }
+      }
+    },
+    {
+      "id": 28776,
+      "name": "Ora AI",
+      "slug": "ora-ai",
+      "batch": "Summer 2023",
+      "url": "https://www.ycombinator.com/companies/ora-ai",
       "changed_fields": [
         "long_description",
         "one_liner"
       ],
       "changes": {
         "long_description": {
-          "before": "Fieldproxy is Retool for Field Teams. Our no-code SaaS application allows organizations to build internal mobile applications to manage field teams of any size.\r\n\r\nFieldproxy's vision is to be the Operating System for Field teams.",
-          "after": "Fieldproxy is AI-native field service management software that is set up around how each business already works. It covers jobs, scheduling and dispatch, an offline technician app, quotes, invoices and checklists, with AI agents that answer calls and texts, read photos and documents, and flag problems. Fieldproxy's team builds each customer's fields, stages and forms, so a rollout takes days, and it connects to Claude and ChatGPT through an official MCP server."
+          "before": "Ora is an AI-native healthcare education platform that students and faculty love. We're starting with medical school, training students from matriculation to MD. Soon, we'll serve every corner of the $830B higher education market.",
+          "after": "Ora is an AI-native precision education platform for healthcare. We increase pass rates, decrease attrition, and identify students who need faculty support. We started with medical school, training students from matriculation to MD. Now, we serve every corner of the $830B healthcare education market: Medicine, Nursing, Pharmacy, Physician Assistant, Rehabilitation, Allied Health, Dental, Veterinary, Behavioral Health, and more."
         },
         "one_liner": {
-          "before": "Building AI agents for complex operations",
-          "after": "AI-native field service software built around how you work"
+          "before": "The AI Platform for Medical Education",
+          "after": "The AI Platform for Healthcare Education"
         }
       }
     },
     {
-      "id": 25673,
-      "name": "Enlightra",
-      "slug": "enlightra",
-      "batch": "Winter 2022",
-      "url": "https://www.ycombinator.com/companies/enlightra",
+      "id": 29582,
+      "name": "Cheers",
+      "slug": "cheers",
+      "batch": "Summer 2024",
+      "url": "https://www.ycombinator.com/companies/cheers",
+      "changed_fields": [
+        "long_description",
+        "tags",
+        "team_size"
+      ],
+      "changes": {
+        "long_description": {
+          "before": "AI assistants are replacing search for local businesses. When someone asks ChatGPT for a plumber or hotel recommendations, reviews are the primary training signal, especially in local markets where other data is sparse. This is GEO (Generative Engine Optimization).\r\n\r\nCheers is the full-stack GEO platform for local service businesses. We audit AI visibility, build optimization plans (schema markup, citation fixes, review strategy), and give frontline teams NFC tools to generate reviews with employee-level attribution.\r\n\r\nVivint generated 70,000+ five-star reviews in 5 months. They now rank #1 on ChatGPT and Google Search across their markets.",
+          "after": "Cheers is the done-for-you local visibility partner for established home-service companies and PE-backed portfolios. Our team manages your Google Business Profiles, website, reviews, directory listings, local pages and AI search visibility, so you get found on Google and Maps and recommended by AI. Y Combinator S24, based in San Francisco."
+        },
+        "tags": {
+          "before": [
+            "Analytics",
+            "Feedback",
+            "AI",
+            "Reviews"
+          ],
+          "after": [
+            "Marketing",
+            "Home Services",
+            "AI",
+            "Reviews"
+          ]
+        },
+        "team_size": {
+          "before": 5,
+          "after": 6
+        }
+      }
+    },
+    {
+      "id": 29646,
+      "name": "Corgi",
+      "slug": "corgi",
+      "batch": "Summer 2024",
+      "url": "https://www.ycombinator.com/companies/corgi",
       "changed_fields": [
         "stage"
       ],
@@ -700,403 +564,198 @@
       }
     },
     {
-      "id": 27892,
-      "name": "ShortLoop",
-      "slug": "shortloop",
-      "batch": "Winter 2023",
-      "url": "https://www.ycombinator.com/companies/shortloop",
+      "id": 30615,
+      "name": "Lanesurf",
+      "slug": "lanesurf",
+      "batch": "Summer 2025",
+      "url": "https://www.ycombinator.com/companies/lanesurf",
+      "changed_fields": [
+        "team_size"
+      ],
+      "changes": {
+        "team_size": {
+          "before": 11,
+          "after": 14
+        }
+      }
+    },
+    {
+      "id": 31101,
+      "name": "LegalOS",
+      "slug": "legalos",
+      "batch": "Winter 2026",
+      "url": "https://www.ycombinator.com/companies/legalos",
       "changed_fields": [
         "isHiring"
       ],
       "changes": {
         "isHiring": {
-          "before": true,
-          "after": false
+          "before": false,
+          "after": true
         }
       }
     },
     {
-      "id": 29398,
-      "name": "ProSights",
-      "slug": "prosights",
-      "batch": "Winter 2024",
-      "url": "https://www.ycombinator.com/companies/prosights",
-      "changed_fields": [
-        "industries",
-        "long_description",
-        "one_liner",
-        "subindustry"
-      ],
-      "changes": {
-        "industries": {
-          "before": [
-            "B2B",
-            "Operations"
-          ],
-          "after": [
-            "B2B",
-            "Finance and Accounting"
-          ]
-        },
-        "long_description": {
-          "before": "",
-          "after": "ProSights is a data services firm for finance and operations at PE-backed companies. It reconciles the data across a company's ERP, CRM and operating systems, then builds the reporting, migrations and finance workflows that run on it. Typical engagements are job-level profitability across a roll-up's acquired businesses, consolidating acquired CRMs and ERPs after a deal, contract terms reconciled into Salesforce and ARR, and AP and bank reconciliation across subsidiaries. Clients include Thoma Bravo, Vista and Blackstone portfolio companies. The New York team combines private equity and consulting experience with senior engineers, and works inside the client's own systems, with every number traced to the record it came from."
-        },
-        "one_liner": {
-          "before": "ProSights is a data / AI transformation partner to PE-backed portcos.",
-          "after": "Data services for finance and operations at PE-backed companies."
-        },
-        "subindustry": {
-          "before": "B2B -> Operations",
-          "after": "B2B -> Finance and Accounting"
-        }
-      }
-    },
-    {
-      "id": 29646,
-      "name": "Corgi",
-      "slug": "corgi",
-      "batch": "Summer 2024",
-      "url": "https://www.ycombinator.com/companies/corgi",
-      "changed_fields": [
-        "api",
-        "former_names",
-        "long_description",
-        "name",
-        "slug",
-        "stage",
-        "url"
-      ],
-      "changes": {
-        "api": {
-          "before": "https://yc-oss.github.io/api/batches/summer-2024/corgi-insurance.json",
-          "after": "https://yc-oss.github.io/api/batches/summer-2024/corgi.json"
-        },
-        "former_names": {
-          "before": [
-            "Corgi",
-            "Corgi Insurance",
-            "Corgi"
-          ],
-          "after": [
-            "Corgi",
-            "Corgi Insurance",
-            "Corgi",
-            "Corgi Insurance"
-          ]
-        },
-        "long_description": {
-          "before": "Corgi is a full-stack insurance carrier building better, faster insurance products for startups. We’re not a broker, so we underwrite and issue policies directly, with fewer handoffs and less friction. Cutting out intermediaries lets us tailor coverage to how your company actually operates and price risk more efficiently.\r\n\r\n",
-          "after": "Corgi is using AI to make financial products faster, better, and lower fee. Our goal is to save every business and person a lot of time, and to be there to provide protection if something bad happens to them."
-        },
-        "name": {
-          "before": "Corgi Insurance",
-          "after": "Corgi"
-        },
-        "slug": {
-          "before": "corgi-insurance",
-          "after": "corgi"
-        },
-        "stage": {
-          "before": "Growth",
-          "after": "Early"
-        },
-        "url": {
-          "before": "https://www.ycombinator.com/companies/corgi-insurance",
-          "after": "https://www.ycombinator.com/companies/corgi"
-        }
-      }
-    },
-    {
-      "id": 29667,
-      "name": "Rewbi",
-      "slug": "rewbi",
-      "batch": "Summer 2024",
-      "url": "https://www.ycombinator.com/companies/rewbi",
-      "changed_fields": [
-        "long_description",
-        "one_liner",
-        "team_size"
-      ],
-      "changes": {
-        "long_description": {
-          "before": "A stealth mode startup.",
-          "after": "Rewbi deploys 1-10MW distributed data centers in existing industrial buildings with surplus power, which is 10+ times faster than standard data center deployment."
-        },
-        "one_liner": {
-          "before": "A stealth mode startup.",
-          "after": "We build data centers 10x faster"
-        },
-        "team_size": {
-          "before": 3,
-          "after": 4
-        }
-      }
-    },
-    {
-      "id": 30352,
-      "name": "Monte",
-      "slug": "monte",
-      "batch": "Summer 2025",
-      "url": "https://www.ycombinator.com/companies/monte",
-      "changed_fields": [
-        "team_size"
-      ],
-      "changes": {
-        "team_size": {
-          "before": 3,
-          "after": 2
-        }
-      }
-    },
-    {
-      "id": 30928,
-      "name": "Darwin",
-      "slug": "darwin",
-      "batch": "Fall 2025",
-      "url": "https://www.ycombinator.com/companies/darwin",
-      "changed_fields": [
-        "long_description",
-        "one_liner"
-      ],
-      "changes": {
-        "long_description": {
-          "before": "Darwin Robotics creates general-purpose robot technicians that assemble and maintain the machines civilization runs on.\r\n\r\nWe're starting with AI infrastructure, automating physical work across data center assembly, commissioning, and maintenance. Our robots learn new tasks from human demonstrations and improve through real-world deployment.\r\n\r\nInitial deployments targeted for early 2027.",
-          "after": "Darwin Robotics is building general-purpose robot technicians that assemble and maintain the machines civilization runs on.\r\n\r\nWe're starting with AI infrastructure, automating physical work across data center assembly, commissioning, and maintenance. Our robots learn complex tasks from human demonstrations and improve through real-world deployment.\r\n\r\nInitial deployments targeted for early 2027."
-        },
-        "one_liner": {
-          "before": "Robots technicians for AI infrastructure",
-          "after": "Robot technicians for AI infrastructure"
-        }
-      }
-    },
-    {
-      "id": 31173,
-      "name": "Laurence",
-      "slug": "laurence",
-      "batch": "Winter 2026",
-      "url": "https://www.ycombinator.com/companies/laurence",
-      "changed_fields": [
-        "small_logo_thumb_url"
-      ],
-      "changes": {
-        "small_logo_thumb_url": {
-          "before": "https://bookface-images.s3.amazonaws.com/small_logos/68ac6b4c3dd34328cb86f2f81c4d868040f3557d.png",
-          "after": "https://bookface-images.s3.amazonaws.com/small_logos/db6da4cd27c16fd721b2bc69aab6f5c1f7055637.png"
-        }
-      }
-    },
-    {
-      "id": 31395,
-      "name": "Deep Interactions",
-      "slug": "deep-interactions",
+      "id": 31414,
+      "name": "Dreach",
+      "slug": "dreach",
       "batch": "Spring 2026",
-      "url": "https://www.ycombinator.com/companies/deep-interactions",
+      "url": "https://www.ycombinator.com/companies/dreach",
       "changed_fields": [
-        "one_liner"
+        "long_description"
       ],
       "changes": {
-        "one_liner": {
-          "before": "Collaborative AI app builder for teams",
-          "after": "Multiplayer AI app builder"
+        "long_description": {
+          "before": "dreach finds employers about to hire and people about to move, names the hiring manager, and your way in. your recruiters keep recruiting.",
+          "after": "dreach finds companies about to hire, restructuring, or switching MSP or VMS vendors, then gives you the decision maker's cell to call. your recruiters keep recruiting."
         }
       }
     },
     {
-      "id": 32227,
-      "name": "Context.dev",
-      "slug": "contextdev",
-      "batch": "Summer 2026",
-      "url": "https://www.ycombinator.com/companies/contextdev",
+      "id": 31507,
+      "name": "ProjectX",
+      "slug": "projectx",
+      "batch": "Spring 2026",
+      "url": "https://www.ycombinator.com/companies/projectx",
       "changed_fields": [
-        "long_description",
-        "one_liner"
+        "all_locations",
+        "regions"
       ],
       "changes": {
-        "long_description": {
-          "before": "Context.dev gives AI agents structured data from any website through a single API.\r\n\r\nWe help developers build smarter agents & products that depend on accurate, fresh web data.\r\n\r\nIf you need structured data from the internet, you need Context.dev\r\n\r\nProud to power agentic products at Mintlify, Super, Vizzy, Klarna, and 600+ other companies. ",
-          "after": "Context.dev gives AI agents structured data from any website through a single API.\r\n\r\nWe help developers build smarter agents & products that depend on accurate, fresh web data.\r\n\r\nIf you need structured data from the internet, you need Context.dev\r\n\r\nProud to power agentic products at Mintlify, Super, Vizzy, Klarna, and 800+ other companies. "
+        "all_locations": {
+          "before": "San Francisco, CA, USA",
+          "after": "Kolkata, WB, India"
         },
-        "one_liner": {
-          "before": "We give AI agents realtime web context via API",
-          "after": "Web data API for agents"
-        }
-      }
-    },
-    {
-      "id": 32618,
-      "name": "Click",
-      "slug": "click",
-      "batch": "Summer 2026",
-      "url": "https://www.ycombinator.com/companies/click",
-      "changed_fields": [
-        "long_description",
-        "tags"
-      ],
-      "changes": {
-        "long_description": {
-          "before": "Click provides managed agents you can use with any model, without provisioning any infrastructure. Simply connect your tools and submit inputs - Click runs the agent and streams back results. \r\n\r\nClick handle all of the infrastructure, like harness, sandbox, browser, and web search. You can scale agentic workloads effortlessly without provisioning anything.\r\n\r\nAsk your coding agent about useclick.ai/reference!",
-          "after": "Click is the Managed Agents API you can use with any model. Send a task with an API call, and Click runs the agent and streams back results. \r\n\r\nClick gives you the entire agent stack over an API, with no infrastructure to manage. Sessions are created with everything the agent needs - a sandbox, browser, and web search. Agents run on a harness with the latest innovations, like deferred tool discovery to support 1000s of tools, and Code Mode to use tools with scripts.\r\n\r\nAsk your coding agent about useclick.ai/reference!"
-        },
-        "tags": {
+        "regions": {
           "before": [
-            "API",
-            "Infrastructure",
-            "AI"
+            "United States of America",
+            "America / Canada",
+            "Remote",
+            "Partly Remote"
           ],
           "after": [
-            "API",
-            "Cloud Computing",
-            "Infrastructure",
-            "AI"
+            "India",
+            "South Asia",
+            "Remote",
+            "Partly Remote"
           ]
         }
       }
     },
     {
-      "id": 32913,
-      "name": "Pacific",
-      "slug": "pacific",
+      "id": 32523,
+      "name": "Elite",
+      "slug": "elite",
       "batch": "Summer 2026",
-      "url": "https://www.ycombinator.com/companies/pacific",
+      "url": "https://www.ycombinator.com/companies/elite",
       "changed_fields": [
-        "one_liner"
+        "all_locations"
       ],
       "changes": {
-        "one_liner": {
-          "before": "Mass-producing and financing micro data center incredibly quickly.",
-          "after": "Robotic factories to mass produce data centers"
+        "all_locations": {
+          "before": "New York City, NY, USA",
+          "after": "San Francisco, CA, USA"
         }
       }
     },
     {
-      "id": 33705,
-      "name": "ernd",
-      "slug": "ernd",
+      "id": 33055,
+      "name": "Capto",
+      "slug": "capto",
+      "batch": "Summer 2026",
+      "url": "https://www.ycombinator.com/companies/capto",
+      "changed_fields": [
+        "long_description"
+      ],
+      "changes": {
+        "long_description": {
+          "before": "The intelligent operating system for government contracting. Built by AI engineers and former government officials.",
+          "after": "Your government sales team, powered by AI.\r\n\r\nWe pair AI-native software with hands-on expertise to help you build relationships, pursue the right opportunities, and deliver stronger proposals. Choose our managed services or put our SaaS platform to work with your own team."
+        }
+      }
+    },
+    {
+      "id": 34365,
+      "name": "Runtime.si",
+      "slug": "runtimesi",
       "batch": "Fall 2026",
-      "url": "https://www.ycombinator.com/companies/ernd",
+      "url": "https://www.ycombinator.com/companies/runtimesi",
       "changed_fields": [
         "long_description",
         "one_liner"
       ],
       "changes": {
         "long_description": {
-          "before": "ernd is the card for companies that pay for AI, with 4% back on AI spend and 2% on everything else planned for launch. We pool startups’ purchasing power to negotiate discounts, higher usage limits and priority support from AI providers. In our first 48hrs, we onboarded 10 startups and landed 5 vendor partnerships. \r\n\r\nWe combine experience in quant finance at Bridgewater and IMC, payments at Ripple, financial AI at Farsight, and founding an investment fund focused on distressed industrial acquisitions.",
-          "after": "ernd is the card for companies that pay for AI, with 4% back on AI spend and 2% on everything else planned for launch. We pool startups’ purchasing power to negotiate discounts, higher usage limits and priority support from AI providers. In our first 48hrs, we onboarded 10 startups and landed 5 vendor partnerships. \r\n\r\nWe combine experience in quant finance at Bridgewater and IMC, payments at Ripple, financial AI at Farsight, and founding an investment fund focused on distressed industrial acquisitions. We're also credit card nerds, with at least five cards each that we rotate to maximize points!"
+          "before": "Runtime is building the evaluation layer for physical intelligence. We push robot policies to their limits across thousands of simulated worlds, before they face the real one.",
+          "after": "Runtime is building real-time simulation infrastructure for robots. We give robots a live simulation of their surroundings to guide every action."
         },
         "one_liner": {
-          "before": "The credit card for companies that pay for AI",
-          "after": "The Credit Card for the AI stack "
+          "before": "Evaluation Infrastructure for Robotics (YC F26)",
+          "after": "Real-time simulation infrastructure for robots"
         }
       }
     },
     {
-      "id": 35224,
-      "name": "Micora",
-      "slug": "micora",
+      "id": 34596,
+      "name": "Bayworks",
+      "slug": "bayworks",
       "batch": "Fall 2026",
-      "url": "https://www.ycombinator.com/companies/micora",
+      "url": "https://www.ycombinator.com/companies/bayworks",
       "changed_fields": [
-        "long_description",
-        "one_liner",
-        "small_logo_thumb_url",
+        "long_description"
+      ],
+      "changes": {
+        "long_description": {
+          "before": "Bayworks is building the intelligence that runs automotive operations.\r\n\r\nOver 1 million cars drive in for service every day in the US, but the industry is short 250,000 technicians who can fix them. \r\n\r\nBayworks starts in the service bay, helps technicians repair vehicles faster, and turns every repair captured into intelligence to run operations autonomously.",
+          "after": "Bayworks is building the intelligence that runs automotive operations.\r\n\r\nSelf-driving manufacturers recorded every mile a car drove. Nobody recorded how those cars got fixed.\r\n\r\nBayworks captures how expert technicians fix cars at the source. In 110 days, we've gone from 0 to 80+ dealerships doing 4,000 car repairs a day, including a top 50 US dealer group with $3Bn+ revenue.\r\n"
+        }
+      }
+    },
+    {
+      "id": 35982,
+      "name": "Routant",
+      "slug": "routant",
+      "batch": "Fall 2026",
+      "url": "https://www.ycombinator.com/companies/routant",
+      "changed_fields": [
+        "launched_at"
+      ],
+      "changes": {
+        "launched_at": {
+          "before": 1786494509,
+          "after": 1793325617
+        }
+      }
+    },
+    {
+      "id": 36086,
+      "name": "Hesper AI",
+      "slug": "hesper-ai",
+      "batch": "Fall 2026",
+      "url": "https://www.ycombinator.com/companies/hesper-ai",
+      "changed_fields": [
         "team_size"
       ],
       "changes": {
-        "long_description": {
-          "before": "Micora builds a solar-farm-in-a-box that can be shipped anywhere and built without specialized labor. We have designed a new type of solar farm micorgrid that is palletized, lightweight, and deployable. Our system autonomously builds 100kWp of capacity per day and is easily scalable to MWs of capacity which is a size currently only serviced by slow moving and at capacity EPCs. \r\n\r\nAs demand from data centers, advanced manufacturing, and electrification strains existing power infrastructure, the ability to deploy substantial generation quickly is becoming increasingly valuable and unavailable. We are the only company that services utility-scale power needs in weeks. ",
-          "after": "Micora re-designed the process of building solar farms to optimize speed to power generation and portability. The product suite combines a palletized solar block, a containerized energy storage system, and low-cost autonomous robots that deploy a solar farm on-site in days to weeks – and pack it back up when needed. \r\n"
-        },
-        "one_liner": {
-          "before": "Microgrids in a box built anywhere in days",
-          "after": "Micro-grids in a box deploying industrial power autonomously in weeks"
-        },
-        "small_logo_thumb_url": {
-          "before": "https://bookface-images.s3.amazonaws.com/small_logos/7fc1316658ceceb944d2c372912cac6b6db9e5ec.png",
-          "after": "https://bookface-images.s3.amazonaws.com/small_logos/a0a97fca2be3106359f418115639c47c692f9199.png"
-        },
         "team_size": {
-          "before": 4,
+          "before": 2,
           "after": 3
         }
       }
     },
     {
-      "id": 36378,
-      "name": "Synara",
-      "slug": "synara",
+      "id": 38029,
+      "name": "Proto",
+      "slug": "proto",
       "batch": "Fall 2026",
-      "url": "https://www.ycombinator.com/companies/synara",
+      "url": "https://www.ycombinator.com/companies/proto",
       "changed_fields": [
-        "one_liner"
+        "launched_at"
       ],
       "changes": {
-        "one_liner": {
-          "before": "We are the last monitoring station, run by AI",
-          "after": "Building the next generation of AI enabled monitoring "
-        }
-      }
-    },
-    {
-      "id": 36513,
-      "name": "Graphide",
-      "slug": "graphide",
-      "batch": "Fall 2026",
-      "url": "https://www.ycombinator.com/companies/graphide",
-      "changed_fields": [
-        "long_description",
-        "one_liner",
-        "team_size"
-      ],
-      "changes": {
-        "long_description": {
-          "before": "Coding agents now write more code than teams can check, making verification pipelines the new bottleneck. Graphide builds that verification, starting with CI.\r\n\r\nGraphide CI runs faster and cheaper because we own both the hardware and the optimizations and configs that run on it, which lets us do what owning only one could not. A graph of the codebase runs only the tests each change can reach, and always-on agents tune machines, caches and test splits together, around the clock. Optionally, we also patch the tests themselves with our own libraries so they run faster. We have seen most of our customers cut CI time 80-90% compared to their existing setups.\r\n\r\nOur PR review agent then runs the old and new code in a live environment, finding bugs and proving them by writing tests, as well as analyzing synthetic and production data through the PR before it merges. The first 150 reviews are free.\r\n\r\nGraphide verifies the code agents write.",
-          "after": "Coding agents now write more code than teams can check, making verification pipelines the new bottleneck. Graphide builds that verification, starting with CI.\r\n\r\nGraphide CI runs faster and cheaper because we own both the hardware and the optimizations and configs that run on it, which lets us do what owning only one could not. A graph of the codebase runs only the tests each change can reach, and always-on agents tune machines, caches and test splits together, around the clock. Optionally, we also patch the tests themselves with our own libraries so they run faster. We have seen most of our customers cut CI time 80-95% compared to their existing setups.\r\n\r\nOur PR review agent then runs the old and new code in our live environments, finding bugs and proving them by writing tests, as well as analyzing synthetic and production data through the PR before it merges.\r\n\r\nFinally, our visualizer allows you to see these data flows and graph based diffs to both easily analyze the found bugs, run custom data flows, and see / understand a PR in seconds.\r\n\r\nGraphide's focus is on verifying the code agents write."
-        },
-        "one_liner": {
-          "before": "CI 10–20× faster than GitHub runners, for teams who ship with agents.",
-          "after": "CI 10-20× faster than GitHub runners, with a 24/7 agent optimizing it."
-        },
-        "team_size": {
-          "before": 0,
-          "after": 2
-        }
-      }
-    },
-    {
-      "id": 37137,
-      "name": "Clean",
-      "slug": "clean",
-      "batch": "Fall 2026",
-      "url": "https://www.ycombinator.com/companies/clean",
-      "changed_fields": [
-        "long_description",
-        "one_liner"
-      ],
-      "changes": {
-        "long_description": {
-          "before": "Clean watches your market and finds your buyers from what companies actually do: customs shipments, permits, loans and supplier switches. Not just ads or web clicks.",
-          "after": "Every B2B sale comes down to timing. Clean reads thousands of signals across 1,000+ live sources, puts them in order, and predicts the moment a company is ready to buy, plus who to reach and what to say. Our customers have generated over $1M in revenue with Clean. Next, we're building the timing layer every AI sales agent will run on."
-        },
-        "one_liner": {
-          "before": "We tell sellers exactly when a company is ready to buy.",
-          "after": "We predict when a company is about to buy."
-        }
-      }
-    },
-    {
-      "id": 39117,
-      "name": "Godpack",
-      "slug": "godpack",
-      "batch": "Winter 2027",
-      "url": "https://www.ycombinator.com/companies/godpack",
-      "changed_fields": [
-        "one_liner"
-      ],
-      "changes": {
-        "one_liner": {
-          "before": "100% fair packs for collectors",
-          "after": "The marketplace for internet culture."
+        "launched_at": {
+          "before": 1788020466,
+          "after": 1793411473
         }
       }
     }

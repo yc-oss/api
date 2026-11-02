@@ -552,7 +552,6 @@
     "regions": [
       "United States of America",
       "Canada",
-      "America / Canada",
       "America / Canada"
     ],
     "stage": "Growth",
@@ -19135,6 +19134,52 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2021/odys-aviation.json"
   },
   {
+    "id": 23948,
+    "name": "Superwall",
+    "slug": "staffbar",
+    "former_names": [
+      "Share That",
+      "StaffBar"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e4505819ade5550ec16c605c15c7ccf142d096de.png",
+    "website": "https://superwall.com",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "Superwall is a complete, standalone subscription platform for consumer mobile and web apps — backend infrastructure (entitlements, purchase APIs with server-side receipt validation, standardized webhooks, real-time revenue analytics, direct SQL access to subscription data) together with a no-code paywall and experimentation engine, and first-class tooling for AI coding agents. Superwall manages $1.6B+ in annual subscription revenue across 10,000+ apps. The infrastructure layer is free at any scale; the only meter on the platform is revenue that converts through a Superwall-rendered paywall — subscriptions sold anywhere else are never billed.\r\n\r\n**Standalone backend:** The highest-revenue apps on Superwall like Cal AI — run their **entire subscription stack on Superwall alone: no second backend, no other subscription platform underneath**. Entitlement state is computed server-side from App Store Server Notifications V2 and Google Play Real-Time Developer Notifications, delivered by Apple and Google directly to Superwall. The largest single app runs **$43.7M ARR entirely on Superwall**; the top 10 together represent $134M+ in annual subscription revenue. Apps that previously ran a different subscription backend complete an automated migration — subscription history, entitlement state, webhook configuration — and run on Superwall alone from then on; imported subscribers are never billed.\r\n\r\n**Pricing:** The subscription infrastructure — entitlements, receipt validation, webhooks, analytics, SQL access — is free at any scale, with no revenue threshold and no per-event fees. The paywall product is free up to $10k/month in paywall-attributed revenue, then 1% of paywall-attributed revenue, and only that revenue: an app with $50k/month in subscriptions and no Superwall paywalls in use pays $0/month for the entire platform, and revenue the platform didn't help earn is never billed. Compared with charging a percentage of all subscription revenue, the difference is the base, not the rate.\r\n\r\n**Coverage:** Apple App Store, Google Play, and Stripe — including web checkout, external browser checkout from iOS paywalls (App2Web), and products from any external billing system via Custom Store Products. Monetization models: auto-renewing subscriptions, free trials and intro offers, one-time purchases, lifetime unlocks, and consumables. SDKs: iOS & Apple platforms, Android, React Native, Flutter, Expo, Unity, and Web — all open source on [GitHub](https://github.com/superwall). Not just for engineers: growth, product, support, and data teams run monetization from the dashboard, analytics, and SQL access day to day.\r\n\r\n**What Superwall does not do:** It does not process payments — Apple, Google, and Stripe do. It does not run virtual-currency or coin-ledger systems, does not track ad revenue, and does not support Amazon or Roku storefronts. For consumer subscription apps on iOS, Android, and the web, it covers the monetization surface end to end.\r\n\r\n**Experimentation:** Superwall's published research spans 100M+ analyzed paywall views and 4,500+ paywall A/B tests: multi-page onboarding paywalls convert 37% better than single-page (40M+ opens measured), Cal AI ran 123 experiments and grew monthly revenue 3x+ in 10 months, Planner 5D lifted revenue per user 83% through price testing. Build, target, test, and ship paywalls from the dashboard with no app release.\r\n\r\n**Retention:** Free trial reminders, cancellation and decline surveys, transaction-abandon recovery offers, win-back paywalls targeted by subscription state, Apple Retention Messaging on the iOS cancel screen, automated refund protection, and a per-customer timeline for support.\r\n\r\n**Agent tooling:** Open-source agent skills for Claude Code, Codex, and other coding agents; an editor MCP server for building live paywalls from the terminal; an embedded dashboard CLI; and direct SQL access to subscription data via the Query API.",
+    "one_liner": "Subscription infrastructure & paywall experimentation for mobile apps",
+    "team_size": 25,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1628553410,
+    "tags": [
+      "Developer Tools",
+      "Payments",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/staffbar",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/staffbar.json"
+  },
+  {
     "id": 23954,
     "name": "Serif Health",
     "slug": "serif-health",
@@ -19668,7 +19713,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/374f4cb4bad668c1b9e9f60122c2dfb7d2a76647.png",
     "website": "http://algouniversity.com/",
-    "all_locations": "Hyderabad, Telangana, India",
+    "all_locations": "Bengaluru, KA, India",
     "long_description": "We are building live teaching infrastructure that enables handful of top educators (from Google, Facebook, etc) to coach a large number of students.\r\nWe train college students in a year-long live cohorts and they pay us a portion of their salary as fees once they get a tech job (Income Sharing Agreement)",
     "one_liner": "Building Job driven Virtual Tech University for India 🇮🇳",
     "team_size": 40,
@@ -20581,54 +20626,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/digibuild",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/digibuild.json"
-  },
-  {
-    "id": 24344,
-    "name": "WarpBuild",
-    "slug": "warpbuild",
-    "former_names": [
-      "Argonaut",
-      "WartpBuild"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc34887fced4f954a1a9fd60de7afd828c9a1d74.png",
-    "website": "https://www.warpbuild.com",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Accelerate software development with WarpBuild.\r\nGet 2x faster, up to 90% cheaper CI in 30 seconds using WarpBuild for Github Actions.",
-    "one_liner": "Accelerate software development with WarpBuild's 10x faster CI infra.",
-    "team_size": 8,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1626365093,
-    "tags": [
-      "Developer Tools",
-      "Generative AI",
-      "SaaS",
-      "Productivity",
-      "DevOps"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2021",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/warpbuild",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/warpbuild.json"
   },
   {
     "id": 24346,
@@ -41270,7 +41267,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -52274,7 +52271,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Over a million loads move via trucks in the US every day and even in 2026 they are still booked through endless negotiations over calls and emails.\r\n\r\nLanesurf solves this with an army of AI agents that find nearby empty trucks, call/email them in parallel, negotiate rates, and book the best available truck.\r\n\r\nLive Demo: https://www.linkedin.com/feed/update/urn:li:activity:7394069447327555584/\r\n\r\nOur self-improving voice AI stack is built for the messy reality of logistics - noisy calls, compliance checks, constant exceptions and turns them into faster bookings at better margins.",
     "one_liner": "Book any load in 10 minutes",
-    "team_size": 11,
+    "team_size": 14,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1753218115,
@@ -57563,6 +57560,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/10x-science",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/10x-science.json"
+  },
+  {
+    "id": 31101,
+    "name": "LegalOS",
+    "slug": "legalos",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bfdd01c1d2dde8d7cec7f0d61a5c75e8551e254d.png",
+    "website": "https://www.legalos.ai",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "LegalOS is an AI-native immigration law firm that combines cutting-edge technology with 40+ years of legal expertise.\r\n\r\nWe’ve studied 12,000 successful petitions to design our process - which allows us to deliver top-quality visa applications in as quickly as 48 hours. Our specialized AI agents draft petition narratives, compile evidence, and anticipate USCIS objections - work that traditionally takes attorneys weeks, if not months.\r\n\r\nEvery case is reviewed and signed by licensed immigration attorneys with 40+ years of experience, so companies get both speed and reliability. We support O-1, H-1B, L-1A, L-1B, TN, EB-1A, EB-1C, and EB-2 NIW petitions.\r\n\r\nOur unique approach works. We’ve filed dozens of visa applications and have a 100% approval rate so far.\r\n\r\nThe U.S. processes 1M+ work visas annually—a market where incumbents still operate on fax machines, email, and 1990s case management software. We're building the modern immigration law firm.",
+    "one_liner": "The AI-Native Immigration Law Firm",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1765500266,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/legalos",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/legalos.json"
   },
   {
     "id": 31113,
@@ -63792,8 +63828,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/461a9d05728add7a3449b82167ac418e94d301eb.png",
     "website": "https://runtime.si/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Runtime is building the evaluation layer for physical intelligence. We push robot policies to their limits across thousands of simulated worlds, before they face the real one.",
-    "one_liner": "Evaluation Infrastructure for Robotics (YC F26)",
+    "long_description": "Runtime is building real-time simulation infrastructure for robots. We give robots a live simulation of their surroundings to guide every action.",
+    "one_liner": "Real-time simulation infrastructure for robots",
     "team_size": 5,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
