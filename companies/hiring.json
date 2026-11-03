@@ -552,6 +552,7 @@
     "regions": [
       "United States of America",
       "Canada",
+      "America / Canada",
       "America / Canada"
     ],
     "stage": "Growth",
@@ -6353,6 +6354,54 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2018/assembly-com.json"
   },
   {
+    "id": 1744,
+    "name": "Fondo",
+    "slug": "fondo",
+    "former_names": [
+      "BloomJoy",
+      "Fondo",
+      "Fondo (was BloomJoy)"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f0b5fe4e91dafcccff1f484b17acd3b14006850.png",
+    "website": "https://fondo.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Fondo is the easy way for startups to get their bookkeeping done, taxes filed, and cash back from the IRS (average startup gets $21k). We’ll optimize and file your taxes, and you’ll get cash back — up to $500k per year. Need more help? We’ll also do your bookkeeping, so you don’t have to worry about a thing.",
+    "one_liner": "Bookkeeping, tax, & tax credits on autopilot for 2,000+ startups",
+    "team_size": 80,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1580421990,
+    "tags": [
+      "Fintech",
+      "SaaS",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2018",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/fondo",
+    "api": "https://yc-oss.github.io/api/batches/winter-2018/fondo.json"
+  },
+  {
     "id": 1749,
     "name": "CoinTracker",
     "slug": "cointracker",
@@ -8607,6 +8656,47 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2019/overview.json"
   },
   {
+    "id": 11922,
+    "name": "Trexo Robotics",
+    "slug": "trexo-robotics",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6edf024636f99502167ab7cb24e80e37d32ca758.png",
+    "website": "http://trexorobotics.com",
+    "all_locations": "Toronto, ON, Canada",
+    "long_description": "Trexo Robotics is building exoskeletons to help people walk, starting with children. Our product allows children with disabilities like Cerebral Palsy, to walk, in many cases for the first time in their lives. Trexo was started when Manmeet found that his nephew was born with Cerebral Palsy and would never be able to walk. Trexo is selling commercially, with a vision is to replace the wheelchair, for children, adults, and the elderly. ",
+    "one_liner": "Exoskeletons to help people walk, starting with children",
+    "team_size": 30,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Medical Devices",
+    "launched_at": 1540953087,
+    "tags": [
+      "Medical Robotics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2019",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Medical Devices"
+    ],
+    "regions": [
+      "Canada",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/trexo-robotics",
+    "api": "https://yc-oss.github.io/api/batches/winter-2019/trexo-robotics.json"
+  },
+  {
     "id": 11924,
     "name": "Flockjay",
     "slug": "flockjay",
@@ -8917,8 +9007,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/feb213c736f108f91e8194abd3b972fee0e217c3.png",
     "website": "https://postscript.io",
     "all_locations": "Remote",
-    "long_description": "We are building the #1 revenue channel for ecommerce. Top customers include Ruggable, Dr. Squatch, Thrive Cosmetics, and 20,000 more.\r\n\r\nPostscript generates more than $2B/yr in e-commerce revenue for our merchants, growing ~2x per year. Our goal is to generate $1T+ per year in e-commerce revenue.\r\n\r\nInteresting challenges:\r\n- Massive Scale\r\n- Real-time conversations across 100M phones\r\n",
-    "one_liner": "The SMS revenue platform for e-commerce merchants",
+    "long_description": "Agentic retention marketing across SMS, RCS, Email, and more. We maximize the LTV of every shopper.\r\n\r\nTop customers include Ruggable, Dr. Squatch, Thrive Cosmetics, and 20,000 more.\r\n\r\n\r\nPostscript generates more than $2B/yr in e-commerce revenue for our merchants, growing ~2x per year. Our goal is to generate $1T+ per year in e-commerce revenue.\r\n\r\nInteresting challenges:\r\n- Massive Scale\r\n- Real-time conversations across 200M phones\r\n",
+    "one_liner": "The AI Retention Platform for Brands & Retailers",
     "team_size": 180,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
@@ -23600,6 +23690,50 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2022/teamout.json"
   },
   {
+    "id": 25394,
+    "name": "InferEdge",
+    "slug": "inferedge",
+    "former_names": [
+      "Harmoney"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ca294ba99345dad1e7a7357621f3373230c00cf.png",
+    "website": "https://www.inferedge.com",
+    "all_locations": "MH, India",
+    "long_description": "InferEdge builds agentic AI for the buy-side - systems that run autonomously across research, portfolio management, and risk, for equity and fixed income. The point isn't generating a generic note - anyone can do that now. For example, when earnings season hits, our agents produce the quarter's coverage in your analysts' own tone and format, matching how your desk already writes, so it doesn't need a rewrite before it's usable. We build on top of LLMs, turning raw model capability into consistent and auditable workflows, not another stalled prototype.",
+    "one_liner": "Agentic AI for buy-side firms",
+    "team_size": 20,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1645537602,
+    "tags": [
+      "Fintech",
+      "B2B",
+      "Enterprise Software",
+      "Investments",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "India",
+      "South Asia"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/inferedge",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/inferedge.json"
+  },
+  {
     "id": 25398,
     "name": "Dynamo AI",
     "slug": "dynamo-ai",
@@ -26837,7 +26971,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -29446,6 +29580,53 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/reflex.json"
   },
   {
+    "id": 27685,
+    "name": "Syncly",
+    "slug": "syncly",
+    "former_names": [
+      "Deep BlueDot"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a79c1285a2d784965cac2f7d6a820ded7c6499f2.png",
+    "website": "https://syncly.app/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Syncly co-founders (former founders of Sualab, a video AI startup, $200M exit) are building agentic AI to automate video marketing for the world’s largest CPG brands (Tiffany, Clorox), a market where brands spend hundreds of billions on agencies today. At $2.1M ARR, grown 2x in 6 months, 4x in 12 months, and 142% NDR. Backed by YC, SoftBank, and John Kim (Sendbird CEO).",
+    "one_liner": "Social listening for the video era",
+    "team_size": 15,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1670314629,
+    "tags": [
+      "Generative AI",
+      "SaaS",
+      "B2B",
+      "Social Media",
+      "Marketing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/syncly",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/syncly.json"
+  },
+  {
     "id": 27690,
     "name": "Credal.ai",
     "slug": "credal-ai",
@@ -29853,7 +30034,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f8a08dbc0e0067d1983b3b85b2e3893f29d7f41f.png",
     "website": "https://www.pairai.com/",
-    "all_locations": "New York City, NY, USA",
+    "all_locations": "",
     "long_description": "Pair AI is Shopify for knowledge products. We empower creators, educators, and experts to launch addicting mobile-first video courses and provide AI-assisted coaching services at scale. Our platform is a one-stop shop to seamlessly monetize what you know! We make learning as fun and engaging as watching a TikTok.",
     "one_liner": "Reimagining education with short form video and AI",
     "team_size": 2,
@@ -29877,8 +30058,7 @@
       "Consumer"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -30505,17 +30685,18 @@
   },
   {
     "id": 27854,
-    "name": "Suger",
-    "slug": "suger",
+    "name": "Fours",
+    "slug": "fours",
     "former_names": [
-      "Suger Inc"
+      "Suger Inc",
+      "Suger"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cb9d2b3f8db8157f79ade98fcbf86f4de21dd0a0.png",
-    "website": "https://www.suger.io/",
+    "website": "https://fours.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "The cloud marketplaces on AWS, Azure, and GCP have become the App Store for B2B software products. It’s growing close to 100% year-over-year since it gives software sellers access to cloud budgets and makes procurement 40% faster. The core problem is the cloud marketplace is hard to navigate and requires an upfront technical investment without knowing the expected ROI. Suger eliminates the need to reinvent the wheel with your own engineering resource or spend a fortune on consulting-based solutions. ",
-    "one_liner": "Salesforce for Cloud marketplaces on AWS, Azure, GCP",
-    "team_size": 50,
+    "long_description": "Fours is the indirect revenue platform for cloud marketplaces, co-selling, and partnership relationship management (PRM). 300+ customers rely on us to manage the entire deal flow from the first partner signal to recognized revenue.\r\n\r\nWe make it easy for software companies to list, transact, bill and co-sell through any cloud marketplaces and with any partners through our suite of products.\r\n\r\nFours automates the manual, cross-functional work behind Cloud and Partner GTM from private offers and CRM syncing to entitlement fulfillment and co-sell execution so your sales, ops, and finance teams can focus on closing deals, not chasing workflows.",
+    "one_liner": "Infrastructure for indirect revenue channels",
+    "team_size": 76,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1671144584,
@@ -30546,8 +30727,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/suger",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/suger.json"
+    "url": "https://www.ycombinator.com/companies/fours",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/fours.json"
   },
   {
     "id": 27855,
@@ -32685,8 +32866,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a0a46950ff7350dee9729b6aa2da1c83cce56306.png",
     "website": "https://kino.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Kino is a web-native video editor where your footage, your team, and your AI agents work together — video editing never had its Figma moment, and it certainly never had its Cursor moment. We proved our platform on Hollywood's biggest shows, and soon it's free for everyone.",
-    "one_liner": "Kino is an AI media manager and video editor for humans and agents.",
+    "long_description": "Kino lets you make videos with your teammates and your agents. Your footage, your edit, and your review notes live in one project, so Claude Code or Codex works on the same timeline as your team. Companies use Kino to keep all their footage in one searchable place, have agents cut new videos every day, and send review links to get feedback. ",
+    "one_liner": "A video editor your team and coding agents work in together",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -36895,9 +37076,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c3db3e4b14d4a36988633e929d3562b45dfa8d41.png",
     "website": "https://www.pokalabs.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Poka Labs builds an AI platform to help sales reps at chemical manufacturers respond to requests from customers and win more business.  Our agents understand each companies product catalog, customer purchase behaviors, and tribal knowledge in order to price, quote, and win the business.\r\n\r\nMalay and Andrew met while pursuing at Harvard Business School and now are building for companies ranging from a few million in sales per year to billions. ",
-    "one_liner": "Helping industrial manufacturers win deals fast, at the right price.",
-    "team_size": 5,
+    "long_description": "Poka Labs builds AI agents for pricing and sales at industrial manufacturers. Manufacturers sell thousands of products, and most customer requests are still priced by hand: reps search the catalog, check past prices and chase approvals while the customer keeps shopping.\n\nPoka's costing, pricing, quoting and follow-up agents share one view of each manufacturer's products, customers and deal history from their ERP, CRM and email. Sales teams answer requests faster and price consistently across every customer.\n\nMalay and Andrew met during their MBAs at Harvard Business School. Poka works with manufacturers ranging from a few million to billions of dollars in annual sales.",
+    "one_liner": "Helping industrial manufacturers win more business at the best price.",
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1721318249,
@@ -38166,53 +38347,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/firebender",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/firebender.json"
-  },
-  {
-    "id": 29356,
-    "name": "Centralize",
-    "slug": "centralize",
-    "former_names": [
-      "Sage",
-      "Collate"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8bc7c40a368d66db588fec716bdb4cfc3dba48d1.png",
-    "website": "https://www.usecentralize.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Centralize is the relationship intelligence platform for enterprise revenue. We show reps who they know inside every deal, who they're missing, and the fastest path to the decision-makers who close it. We're building the graph of who trusts who in B2B.",
-    "one_liner": "The relationship intelligence platform for enterprise revenue",
-    "team_size": 9,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1699493825,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Sales",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/centralize",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/centralize.json"
   },
   {
     "id": 29360,
@@ -42132,44 +42266,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lighthouz-ai",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/lighthouz-ai.json"
-  },
-  {
-    "id": 29709,
-    "name": "Substrate",
-    "slug": "substrate",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/393d53ff8accd94443d46e0fdfdbb6f561ff709d.png",
-    "website": "https://www.substrate.cc/",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Substrate's AI agents automate the click-work & data entry in revenue cycle management. Our agents perform repetitive and time-consuming tasks on behalf of medical billers, significantly increasing efficiency and reducing errors.",
-    "one_liner": "Artificial Intelligence for your medical billing team",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1726819851,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/substrate",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/substrate.json"
   },
   {
     "id": 29710,
@@ -49485,47 +49581,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/aravolta.json"
   },
   {
-    "id": 30405,
-    "name": "nao Labs",
-    "slug": "nao-labs",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9572a4af92fd7a09438369c8555334bcd54574f8.png",
-    "website": "https://getnao.io/",
-    "all_locations": "Paris, Île-de-France, France",
-    "long_description": "nao is an open source framework to build and deploy analytics agent.\r\nCreate the context of your analytics agent with nao-core cli: data, metadata, modeling, rules, etc. Deploy a UI for anyone to chat with your agent and run analytics on your data.",
-    "one_liner": "Open Source Analytics Agent",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1744958361,
-    "tags": [
-      "Analytics",
-      "Open Source",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "France",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/nao-labs",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/nao-labs.json"
-  },
-  {
     "id": 30408,
     "name": "Autostep",
     "slug": "autostep",
@@ -51209,8 +51264,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67f8fa73a583138ab0060e99d6a10e8341a0d040.png",
     "website": "https://mindfort.ai/?utm_source=ycombinator&utm_medium=referral&utm_campaign=yc",
     "all_locations": "Los Angeles, CA, USA",
-    "long_description": "MindFort is building fully autonomous AI agents powered by their in-house models that can find, exploit, and patch complex vulnerabilities in web applications at massive scale. MindFort agents use the same principles as human penetration testers to understand their target and figure out the best ways to work together to exploit it. We can do fully autonomous AI web pentesting and bring offensive security to teams out numbered. \r\n\r\nWhile security teams were already behind with legacy tools and processes, AI coding is make the problem worse. AI generates code far faster than human teams can secure it; MindFort can match that speed and scale. Our agents will become critical as organizations scale up development with AI.\r\n",
-    "one_liner": "Autonomous Security Agents",
+    "long_description": "MindFort is a security swarm platform that makes it easy for teams to run continuous security testing across all their applications and services. Our fully autonomous agents powered by our in-house models that can find, exploit, and patch complex vulnerabilities in web applications at massive scale. \r\n\r\nMindFort swarms use the same principles as human penetration testers to understand their target and figure out the best ways to work together to exploit it.\r\n\r\nWhile security teams were already behind with legacy tools and processes, AI coding is make the problem worse. AI generates code far faster than human teams can secure it; MindFort can match that speed and scale. Our agents will become critical as organizations scale up development with AI.\r\n",
+    "one_liner": "Autonomous Security Swarms",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
@@ -54655,6 +54710,50 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/uplift-ai",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/uplift-ai.json"
+  },
+  {
+    "id": 30813,
+    "name": "Blue",
+    "slug": "blue",
+    "former_names": [
+      "L5 Assistant"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/90acd1189896151e269eca2dc0a6b15c7042d091.png",
+    "website": "https://heyblue.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "AI changed coding when it got its own environment instead of a chat window. Developers stopped typing every line and started handing off whole tasks. The phone is next, and it needs the same rebuild.\r\n\r\nBlue is that rebuild: a phone that’s also your chief of staff. It reads every notification, text, and email for you. Then it either handles each one and leaves you an FYI, or drafts a reply and waits for your OK. Anything else is one button away: say what needs doing, and Blue gets it done in the background, using the right apps.\r\n\r\nIt knows you from day one. Switch from your iPhone and Blue brings over your apps, messages, photos, and passwords, so it already knows who matters to you, how you write, and which card to use. No logins to hand over, no context to explain.\r\n\r\nAn app can’t do this; it takes owning the phone. Blue runs our own OS on Google Pixel today, with our own hardware in development. We sold out our first batch at YC’s Alumni Demo Day in September.\r\n\r\nThe team brings complementary experience at scale: Omar Abdelaziz led Google Assistant’s transition to LLMs and holds one of the earliest patents in LLM-based computer control; Peter Krogh spent decades designing voice-first dialog systems and before Blue was a design lead at Google DeepMind building actions for Gemini Live; Muhammad Farhan Hossain helped ship Apple Vision Pro, is named on dozens of hardware and systems patents, and has led products from prototype to mass production.\r\n\r\nWe’ve built systems used by billions. Now we’re building the phone that comes next.",
+    "one_liner": "AI rebuilt coding. We’re rebuilding the phone",
+    "team_size": 7,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1753836546,
+    "tags": [
+      "Hardware",
+      "Productivity",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/blue",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/blue.json"
   },
   {
     "id": 30816,
@@ -58396,8 +58495,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/385d871905e0fe30881f8b844b47edcc1f3c894b.png",
     "website": "https://cardboard.ai",
     "all_locations": "Bengaluru, KA, India",
-    "long_description": "Cardboard is an agentic video editor for growth/marketing teams and serious creators who need to ship videos consistently. Instead of agencies, long timelines, and infinite review cycles, teams give cardboard a footage + a goal (“3 variants”, “30s hook”, “testimonials”) to get a strong first cut in minutes on which they can iterate quickly.\r\n\r\nMultimodal LLMs can finally reason over footage, and WebGPU/WebCodecs make a real NLE possible in the browser. For the first time, an “AI director” inside a professional editor can be a reality.\r\n\r\nWe have to build two hard things at once: a high-performance editor in the browser and an agentic editor that is reliable for production use cases. Most startups do one; incumbents can’t rebuild their stack without breaking everything.\r\n\r\nSaksham and Ishan met in school and have known each other since 15 years. Saksham was Co-founder/CTO of Iterate AI (backed by EF) and posts content on social media; Ishan has spent ~5yr building memory-heavy, performance-critical browser apps at HackerRank (S11) and deeply understands browsers. He has built Hotspoter (5M+ downloads) when he was 14.\r\n\r\nTogether, we’re unusually suited to build the editor core others avoid.\r\n\r\nVideo is becoming the default distribution channel, and the team that iterates fastest compounds attention. Cardboard becomes the default workspace for video production, the way Canva/Figma became the workspace for design - because it’s collaborative, fast, and does the tedious parts for you.",
-    "one_liner": "Agentic video editor",
+    "long_description": "Cardboard (cardboard.ai) is an AI video editor that turns raw footage into finished videos, from social clips and highlight reels to product demos, launch videos and event recaps. Describe the video you want, and Cardboard turns your clips, photos, recordings or a link into an edit you can watch, change and export, in the browser, in the Mac app, or right inside ChatGPT and Claude. It pulls out the best moments, removes pauses and filler words, adds captions, titles, music and B-roll, and reframes for Reels, Shorts and TikTok. It’s built for marketing teams, founders and creators who need video every week without learning a timeline.\r\n\r\nSay what you need, like “three 30-second ad variants” or “a customer testimonial from these interviews”, and Cardboard’s AI agent, Director, builds a first cut in minutes. You refine it by chatting or on a full timeline, with your team. Cardboard edits the footage you already have. Unlike AI video generators such as Runway or Sora, it doesn’t create new video from a text prompt.\r\n\r\n- Recreate the style of a reference video with your own footage.\r\n- Make motion graphics from a prompt, from animated titles to 3D scenes like a spinning product shot.\r\n- Cut to the beat, with match cuts, transitions and effects synced to the music.\r\n- 80+ ready-made recipes (templates) for videos like launch videos, product showcases, podcast clips, webinar highlights, and testimonials.\r\n- Export the finished video, or hand the timeline off to Premiere Pro or DaVinci Resolve.\r\n\r\nWhy now: AI models can finally understand video, and WebGPU makes a professional editor possible in a browser tab. Most AI video tools are either an old editor with AI bolted on, or an agent with no real editor behind it. Cardboard is built to be both.\r\n\r\nTeam: Saksham Aggarwal (CEO) and Ishan Sharma (CTO) have been friends for 15 years, since school. Saksham studied computer science at BITS Pilani, was co-founder and CTO of Iterate AI (backed by Entrepreneur First), and worked in growth at Sequoia-backed Flint. Ishan spent nearly five years building performance-critical browser apps at HackerRank (YC S11), and at 14 built Hotspoter, a Windows app with over 5 million downloads.\r\n\r\nTogether, they are unusually suited to build the editor core others avoid.\r\n\r\nVideo is becoming the default distribution channel, and the team that iterates fastest compounds attention. Cardboard becomes the default workspace for video production, the way Canva/Figma became the workspace for design - because it’s collaborative, fast, and does the tedious parts for you.\r\n\r\n(formerly usecardboard.com or cardboard.sh)",
+    "one_liner": "AI video editor (raw footage into finished videos)",
     "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -60044,7 +60143,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We use AI to discover new materials for the semiconductor industry - specifically datacenters and fabs. Finding novel materials today takes 10+ years of lab work. We aim to compress that timeline to months, using a swarm of AI agents.\r\n\r\nAkash completed his PhD at Stanford on material discovery for semiconductors. The materials he discovered for nanoscale interconnects have been adopted into the roadmaps of Intel and TSMC. Advaith was the founding applied scientist at Persona AI (acquired by Luma Labs), where he built long horizon autonomous agents for major telecom and crypto companies.\r\n\r\nPower consumption and heat release from AI chips is doubling every year. The semiconductor industry needs new materials to keep this exponential going -  Discovered Materials will help find them. ",
     "one_liner": "AI scientists to discover materials for the semiconductor industry.",
-    "team_size": 2,
+    "team_size": 4,
     "industry": "Industrials",
     "subindustry": "Industrials",
     "launched_at": 1773874719,
@@ -61918,12 +62017,12 @@
     "name": "Torus",
     "slug": "torus",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/79a2f7b5a083998db3fcc9309c0435a2ccb05016.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ffc220a3adf43fb693f44c6ce6b833979f79939a.png",
     "website": "https://www.usetorus.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Torus lets engineering firms and project owners build infrastructure 10x faster to reindustrialize America and the West. \r\n\r\nWe're working with multiple Fortune 500 companies to build critical infrastructure including data centers and critical energy installations. ",
-    "one_liner": "Legora for physical engineering firms",
-    "team_size": 6,
+    "one_liner": "Superintelligence for Infrastructure",
+    "team_size": 8,
     "industry": "Industrials",
     "subindustry": "Industrials",
     "launched_at": 1783552199,
@@ -62259,7 +62358,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7df3a5c9dfd6e7d9865e24f95f172c997a7183b.png",
     "website": "https://www.impact-drones.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Los Angeles, CA, USA",
     "long_description": "IMPACT builds autonomous interceptor drones that ship in sealed containers. The box sits at the site it protects, data centers, power grids, airports, bases, with no crew on the pad. When sensors cue a hostile drone, an interceptor pierces its own frangible lid, launches, and rams the target, guided by onboard vision that keeps working when GPS is jammed. Legacy effectors cost $1M+ per shot against $30k threats; ours cost less than the threat and scale with the swarm, the same class of interceptor already downing Shahed drones over Ukraine. Sites subscribe to protection instead of buying missiles, hardware, reloads and monitoring included: Air Defense as a Service. 180M+ USD in signed letters of intent.",
     "one_liner": "Air Defense as a Service for Civilian Infrastructure.",
     "team_size": 2,
@@ -63828,8 +63927,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/461a9d05728add7a3449b82167ac418e94d301eb.png",
     "website": "https://runtime.si/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Runtime is building real-time simulation infrastructure for robots. We give robots a live simulation of their surroundings to guide every action.",
-    "one_liner": "Real-time simulation infrastructure for robots",
+    "long_description": "",
+    "one_liner": "Eval infrastructure for robots",
     "team_size": 5,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",

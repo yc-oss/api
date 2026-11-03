@@ -9669,8 +9669,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7fbfc5106c32c35b1a0242652667b0ea1ceb47b8.png",
     "website": "https://abstra.io",
     "all_locations": "São Paulo, SP, Brazil; Remote",
-    "long_description": "Abstra is a platform that allows finance teams to build, run, and automate their workflows using Python and AI.\r\n\r\nInstead of relying on spreadsheets, ERPs, and manual processes, teams can create programmable workflows for tasks like reporting, reconciliations, approvals, and integrations with systems like SAP.\r\n\r\nWe provide a developer-friendly environment where finance and technical teams can turn business processes into code, connect to their existing tools, and run everything in a controlled, auditable way.\r\n\r\nOur goal is to become the operating system for finance operations, where workflows are not static or manual, but versioned, automated, and continuously improved.",
-    "one_liner": "Automate finance operations with Python and AI",
+    "long_description": "Abstra is a platform that allows finance teams to build, run, and automate their workflows using AI.\r\n\r\nInstead of relying on spreadsheets, ERPs, and manual processes, teams can create programmable workflows for tasks like reporting, reconciliations, approvals, and integrations with systems like SAP.\r\n\r\nWe provide a developer-friendly environment where finance and technical teams can turn business processes into code, connect to their existing tools, and run everything in a controlled, auditable way.\r\n\r\nOur goal is to become the operating system for finance operations, where workflows are not static or manual, but versioned, automated, and continuously improved.",
+    "one_liner": "Automate finance operations with AI",
     "team_size": 18,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -17261,7 +17261,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2af699b82335feb5991d34bb94bb5e75f4fb1bbf.png",
     "website": "https://www.usesolari.ai/",
-    "all_locations": "New York City, NY, USA",
+    "all_locations": "Mumbai, MH, India",
     "long_description": "Solari gives non-technical team members access to agents that work right out of the box. ",
     "one_liner": "Gives non-technical team members agents that work right out of the box",
     "team_size": 1,
@@ -17286,8 +17286,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "India",
+      "South Asia"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -22942,7 +22942,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -23083,7 +23083,7 @@
       "Sidekick",
       "Sagekit"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9292b62c58dc81055b437ce647dc7c3ea10ffc5c.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d75c6fc87f7aedd2c005292797d52930e29e7759.png",
     "website": "https://magnitude.dev",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Magnitude is an open source inference engine that tunes its kernels on your hardware to find the fastest way to run each model. It's over 2x faster than Ollama and works on Apple Silicon, NVIDIA, AMD, or just a CPU. One click connects it to the agent you already use (Pi, OpenCode, Hermes, Codex, and more)",
@@ -24294,17 +24294,18 @@
   },
   {
     "id": 30967,
-    "name": "Perseus",
-    "slug": "perseus",
+    "name": "Efficient Computation Inc.",
+    "slug": "efficient-computation-inc",
     "former_names": [
       "Starling",
-      "Mantle"
+      "Mantle",
+      "Perseus"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9765cfac6d122dea71443fd13f227ed6e9c5257b.png",
-    "website": "https://perseus.computer",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/678706eb08ce2f058506e0505078e08ff0be69a0.png",
+    "website": "https://ecomp.so/",
     "all_locations": "Bengaluru, KA, India",
-    "long_description": "Perseus takes an iterative branching approach to search in high dimensional spaces.\r\n\r\nOur first product helps coding agents find the right codebase context before they write. It searches files, symbols, and dependencies in parallel, so models can make better changes with less trial and error. Perseus Search gives Mythos-level programming ability to Opus-level coding agents.",
-    "one_liner": "Applied Lab focused on Search in Latent Spaces.",
+    "long_description": "We believe understanding how capabilities form during pretraining and building principled reinforcement learning environments are the path to solving science with AI.\r\n",
+    "one_liner": "building principled reinforcement learning environments",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -24334,8 +24335,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/perseus",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/perseus.json"
+    "url": "https://www.ycombinator.com/companies/efficient-computation-inc",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/efficient-computation-inc.json"
   },
   {
     "id": 30969,
@@ -26751,7 +26752,7 @@
     "website": "https://getopencrawl.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "OpenCrawl Builds high-performance search indexes over hyper-personalized hard-to-find multimodal data.\r\n\r\nAgents describe the data they need; OpenCrawl finds the sources, then builds and hosts custom crawlers, processing and search indexes. Each index is tuned to be the fastest, most accurate search over that data. Developers wire it into their products through MCP, CLI or API.",
-    "one_liner": "High-performant hyper-personalized search indexes.",
+    "one_liner": "High-performance hyper-personalized search indexes.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -26994,47 +26995,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rystic",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/rystic.json"
-  },
-  {
-    "id": 35784,
-    "name": "Vorelios",
-    "slug": "vorelios",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/511019d13a19f348d6a7c3fc8a084d6b838d2243.png",
-    "website": "https://vorelios.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're building AI that understands the physical world well enough to do autonomous end-to-end engineering. ",
-    "one_liner": "Solving engineering, then using it to solve everything else",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1786417769,
-    "tags": [
-      "Hard Tech",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/vorelios",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/vorelios.json"
   },
   {
     "id": 35950,

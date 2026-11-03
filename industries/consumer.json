@@ -1834,6 +1834,7 @@
     "regions": [
       "United States of America",
       "Canada",
+      "America / Canada",
       "America / Canada"
     ],
     "stage": "Growth",
@@ -4826,7 +4827,7 @@
     "slug": "splashup",
     "former_names": [],
     "small_logo_thumb_url": "/company/thumb/missing.png",
-    "website": "http://splashup.com",
+    "website": null,
     "all_locations": "",
     "long_description": "Splashup, formerly known as fauxto, is an online image editing service that provides some advanced tools and is unique for its incorporation of image editing layer effects. The site is still in beta, and so does not offer full editing capabilities yet.",
     "one_liner": "",
@@ -13097,7 +13098,7 @@
       "Revlo"
     ],
     "small_logo_thumb_url": "/company/thumb/missing.png",
-    "website": "http://www.revlo.co",
+    "website": null,
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Revlo helps eSports streamers better connect, engage, and monetize their fan base. \r\n\r\nToday, thousands of gamers are becoming online celebrities as they stream their video games to over 100 million fans all over the world. Yet, the only method for popular streamers to interact with their fans while streaming is in a cluttered IRC chat room. Revlo allows streamers to reward their loyal fans with recognition, merchandise, and interaction opportunities. Naturally, fans engage more, driving up repeat viewership and conversion into paid subscription on a streamer's channel.",
     "one_liner": "Revlo helps broadcasters on Twitch engage and monetize their fan…",
@@ -24767,7 +24768,7 @@
       "Maindrop"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e56a52d50196a3fadf19519ee785a84f12b589b3.png",
-    "website": "http://launchcaster.xyz",
+    "website": null,
     "all_locations": "Austin, TX, USA; Remote",
     "long_description": "Launcher Labs made consumer crypto apps, including Launchcaster (acq by Orange DAO), a leading community for launching and discovering crypto projects; Frameboard, a visual curation app and protocol; Launcher Actions, a smart contract mini-app platform; and Maindrop, a Venmo for NFTs.",
     "one_liner": "Maker of consumer crypto apps: Launchcaster, Frameboard, Maindrop",
@@ -26454,6 +26455,56 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/onestopkitchen",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/onestopkitchen.json"
+  },
+  {
+    "id": 24395,
+    "name": "Alrighty",
+    "slug": "alrighty",
+    "former_names": [
+      "Goodseed",
+      "Invezo",
+      "Multibase",
+      "Update",
+      "Pod",
+      "Pod AI",
+      "Paperbook",
+      "Miniloop"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b4dd92fd129337a5cc1b3409b9d8bd4faa271160.png",
+    "website": "https://alrighty.me",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "Alrighty is a Mac mail app that fixes email. Anyone with your address can reach you, so most inboxes fill up with cold outreach, sales pitches, newsletters nobody reads and privacy-policy updates, and the few emails that matter get buried. Alrighty gets that mail out of your way and lets the AI you already use keep track of the conversations that matter. It works with the Gmail, iCloud and Outlook accounts you already have, and every AI feature is one you choose to turn on.",
+    "one_liner": "Email that only shows you what matters.",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1625260950,
+    "tags": [
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/alrighty",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/alrighty.json"
   },
   {
     "id": 24408,
@@ -29999,7 +30050,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f8a08dbc0e0067d1983b3b85b2e3893f29d7f41f.png",
     "website": "https://www.pairai.com/",
-    "all_locations": "New York City, NY, USA",
+    "all_locations": "",
     "long_description": "Pair AI is Shopify for knowledge products. We empower creators, educators, and experts to launch addicting mobile-first video courses and provide AI-assisted coaching services at scale. Our platform is a one-stop shop to seamlessly monetize what you know! We make learning as fun and engaging as watching a TikTok.",
     "one_liner": "Reimagining education with short form video and AI",
     "team_size": 2,
@@ -30023,8 +30074,7 @@
       "Consumer"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -34507,7 +34557,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7a2c085f8445d928a1f0f379cb3bc64ffb604707.png",
     "website": "https://www.kestroll.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "An AI video editing agent that one-shots tedious post-production tasks like turning raw recordings into publishable podcasts and clipping viral shorts for socials.\r\n\r\nThink Cursor for video editing.",
+    "long_description": "AI video editor with taste.",
     "one_liner": "AI video editor",
     "team_size": 2,
     "industry": "Consumer",
@@ -34892,7 +34942,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",

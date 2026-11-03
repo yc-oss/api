@@ -8312,7 +8312,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2019",
     "status": "Active",
@@ -13842,7 +13842,7 @@
     "slug": "coverified",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aa57d9479d14ca9be7a46437156c87dd5abe1001.png",
-    "website": "https://www.coverified.us/",
+    "website": null,
     "all_locations": "Boston, MA, USA; Cambridge, MA, USA; Remote",
     "long_description": "CoVerified builds integrated software that uses COVID-19 test results, vaccine records and symptom data to verify real-time compliance and help organizations re-open safely.",
     "one_liner": "Using infection data to keep organizations safe",
@@ -13867,7 +13867,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -22728,6 +22728,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/careoasis.json"
   },
   {
+    "id": 28974,
+    "name": "Gleam",
+    "slug": "gleam",
+    "former_names": [
+      "gleam"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cd818311eead953bafedec5b0c136092492541ea.png",
+    "website": "https://joingleam.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Clinical trials need more skilled people than the industry has. Gleam fills that gap.",
+    "one_liner": "Running clinical trials with AI",
+    "team_size": 4,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1690443767,
+    "tags": [
+      "Biotech",
+      "Healthcare",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/gleam",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/gleam.json"
+  },
+  {
     "id": 29008,
     "name": "Andromeda Surgical",
     "slug": "andromeda-surgical",
@@ -29868,7 +29912,7 @@
     "name": "Saccade",
     "slug": "saccade",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/751432518cccc3177c9fa321a442fcfaf7e00fdd.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e30db37d0cbb762632d614afb3918a8e0b4131cb.png",
     "website": "https://saccade.health",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Alzheimer's testing today is bottlenecked around the onset of symptoms, when the damage is already done. Current treatments, including the FDA-approved drugs released in 2024, don't reverse the disease; they only slow it down. Earlier detection means earlier intervention.\r\n\r\nEye movement changes linked to Alzheimer's surface sooner than any other biomarker, up to 15 years before symptoms appear.\r\n\r\nWe deliver a 15-minute VR assessment delivered to patients in longevity clinics:\r\n• Tasks: patients perform visual tasks designed by neurologists to trigger a distinct oculomotor response in people with Alzheimer's or on its path\r\n• Hardware: our patent-pending attachment connects to any VR headset on the market and captures these eye movement patterns.\r\n• Analysis: the patterns are compared against our ML model to produce a risk analysis.\r\n\r\nOnce classified, patients can access new interventions, such as the FDA-approved drugs. They're also referred to longevity practices, neurology practices or both, depending on their stage of decline.\r\n\r\nTesting for the earliest biomarkers allows the earliest possible intervention. In some cases, that slows the disease enough that patients outlive the onset of symptoms and never face memory loss in their lifetime.",
@@ -30164,8 +30208,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9df54ccfcc3e9d39a078433b991341cfb364eb78.png",
     "website": "https://www.ascenix.co/",
     "all_locations": "Toronto, ON, Canada",
-    "long_description": "Ascenix is the all-in-one incident platform that turns unstructured EHR data into automated reporting, reimbursement recovery, compliance flagging, and clinical insight. We’re already live in 50 homes and scaling across North America. We connect to systems like PointClickCare and analyze the notes nurses already write, adapting to any note structure and any compliance or reporting requirement.\r\n\r\nWe help teams identify documentation gaps, uncover missed revenue opportunities and spot emerging resident risks, while reducing time spent reviewing charts and building spreadsheets. Our goal is to improve residents’ quality of life by helping care homes reach their full clinical, financial and operational potential.",
-    "one_liner": "Clinical intelligence layer for skilled nursing facilities.",
+    "long_description": "Ascenix is building custom software for running senior homes. We combine reusable building blocks into workflows tailored to each home's existing processes, from incident reporting to reimbursement. Homes get custom software without hiring an engineering team.\r\n\r\nLiving in a retirement home convinced us that the best way to improve residents' lives is to improve the systems staff rely on. As the older population grows, care teams need more time and resources. Repetitive reporting, missed reimbursement, and compliance problems take those away, while disconnected tools add costs and leave staff moving information between systems.\r\n\r\nOur building blocks gather information from EHRs like PointClickCare and other sources, process it, apply rules, and produce reports, tasks, or emails. Incident reporting and reimbursement reviews usually come from two separate vendors. Ascenix builds both from the same blocks, in one interface, so data isn't stuck in silos. Homes start with their biggest bottleneck and add workflows as priorities change.",
+    "one_liner": "One interface for senior care facilities.",
     "team_size": 7,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
