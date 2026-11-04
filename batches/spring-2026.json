@@ -1258,14 +1258,16 @@
   },
   {
     "id": 31332,
-    "name": "Stage",
-    "slug": "stage",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac5a6cce941f973ff80cb4496e195f4010e5c21b.png",
-    "website": "https://www.tryluke.dev/",
+    "name": "Vespin",
+    "slug": "vespin",
+    "former_names": [
+      "Stage"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/488e0bf1da9ca12d399f04d8cafa2b336585587d.png",
+    "website": "https://www.vespin.dev/",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Stage is a new code review platform designed to help engineers better understand and review AI generated code.\r\n\r\nEngineering teams are shipping faster than ever with agents, but now they’re drowning in an endless backlog of PRs to review. Stage reorganizes the code review process around how engineers naturally think, enabling you to review (and merge!) PRs 5x faster. \r\n\r\nUsed by top engineers at Legora, n8n, Branch, and more. ",
-    "one_liner": "Code review platform for humans and agents",
+    "long_description": "",
+    "one_liner": "An inbox for your coding agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -1290,8 +1292,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/stage",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/stage.json"
+    "url": "https://www.ycombinator.com/companies/vespin",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/vespin.json"
   },
   {
     "id": 31333,
@@ -3110,10 +3112,15 @@
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1777434223,
-    "tags": [],
+    "tags": [
+      "Consumer",
+      "B2B",
+      "LegalTech",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2026",
     "status": "Active",
@@ -3181,7 +3188,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "dreach finds companies about to hire, restructuring, or switching MSP or VMS vendors, then gives you the decision maker's cell to call. your recruiters keep recruiting.",
     "one_liner": "staffing firms with dreach know before they hire.",
-    "team_size": 2,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1777049103,
@@ -4540,7 +4547,7 @@
       "markup.one",
       "tday"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1123d387e4b516167a9cfd6ca07f65801c739a56.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0bf4800e0ecc3bb9489a098b655e95d398a9ad10.png",
     "website": "https://tday.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "tday automatically turns a software company's product into on-brand marketing creative. Connect your product and git repo, and tday generates polished launch videos, social graphics, and ads, the content a team would normally spend hours making in a design tool or pay a freelancer for. tday then publishes the creative and measures how it performs across your social and ad channels, closing the loop from what you ship to what you post.",
@@ -5546,17 +5553,18 @@
   },
   {
     "id": 31491,
-    "name": "TesterArmy",
-    "slug": "testerarmy",
+    "name": "e2e",
+    "slug": "e2e",
     "former_names": [
-      "Tester Army"
+      "Tester Army",
+      "TesterArmy"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2383517bbad408b44b80d2d5f5912ef81073ff0.png",
-    "website": "https://tester.army",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67b593bc15edf4c74365d55d734a00481f57bcfd.png",
+    "website": "https://e2e.com",
     "all_locations": "Warsaw, Masovian Voivodeship, Poland; Remote",
-    "long_description": "TesterArmy is an AI agent that tests websites and mobile apps. It monitors production on a schedule and runs automatically on every GitHub Pull Request, delivering screenshots, recordings, and actionable bug reports.\r\n\r\nDescribe tests in plain English. The agent handles login flows, OAuth, and OTPs, no scripts to write or maintain. We catch the regressions and UX issues that code review misses.",
-    "one_liner": "Test your app with AI, catch bugs before users do",
-    "team_size": 6,
+    "long_description": "",
+    "one_liner": "the software verification layer for the agentic coding era",
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1773767171,
@@ -5582,8 +5590,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/testerarmy",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/testerarmy.json"
+    "url": "https://www.ycombinator.com/companies/e2e",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/e2e.json"
   },
   {
     "id": 31493,

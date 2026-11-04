@@ -1,179 +1,124 @@
 {
-  "generated_at": "2026-11-03T04:39:41.843Z",
+  "generated_at": "2026-11-04T03:59:13.120Z",
   "summary": {
     "previous_total": 6362,
-    "current_total": 6362,
-    "added": 0,
+    "current_total": 6364,
+    "added": 2,
     "removed": 0,
-    "updated": 51
+    "updated": 37
   },
-  "added": [],
+  "added": [
+    {
+      "id": 35520,
+      "name": "Evardi",
+      "slug": "evardi",
+      "former_names": [
+        "Evardi Inc."
+      ],
+      "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ec3978c8515651f30596e84a039e6ab0d5cacd6d.png",
+      "website": "https://evardi.ai/",
+      "all_locations": "San Francisco, CA, USA",
+      "long_description": "At least 94% of US outage minutes start on the distribution grid, and most utilities are blind between the substation and the meter. Evardi builds a live model of a utility’s network from data it already has, matching every meter to its transformer and using virtual meters to show load and solar on every transformer. On top of that model, our AI agents do the engineering work utilities need at the grid edge: checking switching orders, finding outages after extreme weather and planning for new load from DERs and data centers. Because the model sees every transformer, it will also help utilities decide when new wires are really needed, and how distribution load can free up transmission for new data centers. We’re working with utilities across the globe that together serve over 10 million customers.",
+      "one_liner": "Agents that engineer the grid edge",
+      "team_size": 4,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Energy",
+      "launched_at": 1786152067,
+      "tags": [
+        "Smart Grid",
+        "Energy",
+        "AI"
+      ],
+      "tags_highlighted": [],
+      "top_company": false,
+      "isHiring": false,
+      "nonprofit": false,
+      "batch": "Fall 2026",
+      "status": "Active",
+      "industries": [
+        "Industrials",
+        "Energy"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "stage": "Early",
+      "app_video_public": false,
+      "demo_day_video_public": false,
+      "app_answers": null,
+      "question_answers": false,
+      "url": "https://www.ycombinator.com/companies/evardi",
+      "api": "https://yc-oss.github.io/api/batches/fall-2026/evardi.json"
+    },
+    {
+      "id": 36246,
+      "name": "Ailit",
+      "slug": "ailit",
+      "former_names": [],
+      "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e2e2aafce9f971d9306b1ed0550568f290599866.png",
+      "website": "https://ailitrail.com/",
+      "all_locations": "San Francisco, CA, USA",
+      "long_description": "Ailit is building the electric energy system for North American freight rail. Our first product, Superwagon, is a battery wagon designed to power existing diesel-electric locomotives, allowing railroads to electrify the fleets they already own.\r\n\r\nSuperwagon carries swappable battery packs that supply electricity to the locomotive’s existing electric motors. Discharged packs are exchanged for charged ones along the route and recharged off-board, providing operators with limitless range.\r\n\r\nWe deliver energy as a service, owning and operating the batteries and swapping sites. Railroads pay for energy with no upfront equipment purchase, with pricing set at 20% below today’s diesel cost.\r\n\r\nFounded in Stockholm by Christian Lind and Emil Tagesson, our team is now based in San Francisco. We’re building our first full-scale prototype and targeting first deployment in summer 2027.",
+      "one_liner": "Electrifying North American freight rail with swappable batteries.",
+      "team_size": 6,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Energy",
+      "launched_at": 1793750387,
+      "tags": [
+        "Hardware",
+        "Transportation",
+        "Energy",
+        "Electric Vehicles",
+        "AI"
+      ],
+      "tags_highlighted": [],
+      "top_company": false,
+      "isHiring": false,
+      "nonprofit": false,
+      "batch": "Fall 2026",
+      "status": "Active",
+      "industries": [
+        "Industrials",
+        "Energy"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "stage": "Early",
+      "app_video_public": false,
+      "demo_day_video_public": false,
+      "app_answers": true,
+      "question_answers": true,
+      "url": "https://www.ycombinator.com/companies/ailit",
+      "api": "https://yc-oss.github.io/api/batches/fall-2026/ailit.json"
+    }
+  ],
   "removed": [],
   "updated": [
     {
-      "id": 164,
-      "name": "Mino Games",
-      "slug": "mino-games",
-      "batch": "Winter 2011",
-      "url": "https://www.ycombinator.com/companies/mino-games",
-      "changed_fields": [
-        "regions"
-      ],
-      "changes": {
-        "regions": {
-          "before": [
-            "United States of America",
-            "Canada",
-            "America / Canada"
-          ],
-          "after": [
-            "United States of America",
-            "Canada",
-            "America / Canada",
-            "America / Canada"
-          ]
-        }
-      }
-    },
-    {
-      "id": 331,
-      "name": "Splashup",
-      "slug": "splashup",
-      "batch": "Summer 2007",
-      "url": "https://www.ycombinator.com/companies/splashup",
-      "changed_fields": [
-        "website"
-      ],
-      "changes": {
-        "website": {
-          "before": "http://splashup.com",
-          "after": null
-        }
-      }
-    },
-    {
-      "id": 647,
-      "name": "Immunity Project",
-      "slug": "immunity-project",
-      "batch": "Winter 2014",
-      "url": "https://www.ycombinator.com/companies/immunity-project",
-      "changed_fields": [
-        "website"
-      ],
-      "changes": {
-        "website": {
-          "before": "http://immunityproject.org",
-          "after": null
-        }
-      }
-    },
-    {
-      "id": 1220,
-      "name": "Sway Finance",
-      "slug": "sway-finance",
-      "batch": "Summer 2016",
-      "url": "https://www.ycombinator.com/companies/sway-finance",
-      "changed_fields": [
-        "website"
-      ],
-      "changes": {
-        "website": {
-          "before": "https://www.swayfinance.com",
-          "after": null
-        }
-      }
-    },
-    {
-      "id": 1241,
-      "name": "Pursuit",
-      "slug": "pursuit",
-      "batch": "Summer 2016",
-      "url": "https://www.ycombinator.com/companies/pursuit",
-      "changed_fields": [
-        "website"
-      ],
-      "changes": {
-        "website": {
-          "before": "http://www.revlo.co",
-          "after": null
-        }
-      }
-    },
-    {
-      "id": 1744,
-      "name": "Fondo",
-      "slug": "fondo",
+      "id": 1827,
+      "name": "SharpestMinds",
+      "slug": "sharpestminds",
       "batch": "Winter 2018",
-      "url": "https://www.ycombinator.com/companies/fondo",
+      "url": "https://www.ycombinator.com/companies/sharpestminds",
       "changed_fields": [
-        "isHiring"
+        "status"
       ],
       "changes": {
-        "isHiring": {
-          "before": false,
-          "after": true
+        "status": {
+          "before": "Acquired",
+          "after": "Inactive"
         }
       }
     },
     {
-      "id": 2008,
-      "name": "Goodly",
-      "slug": "goodly",
-      "batch": "Summer 2018",
-      "url": "https://www.ycombinator.com/companies/goodly",
-      "changed_fields": [
-        "website"
-      ],
-      "changes": {
-        "website": {
-          "before": "https://www.goodlyapp.com/",
-          "after": null
-        }
-      }
-    },
-    {
-      "id": 11922,
-      "name": "Trexo Robotics",
-      "slug": "trexo-robotics",
-      "batch": "Winter 2019",
-      "url": "https://www.ycombinator.com/companies/trexo-robotics",
-      "changed_fields": [
-        "isHiring"
-      ],
-      "changes": {
-        "isHiring": {
-          "before": false,
-          "after": true
-        }
-      }
-    },
-    {
-      "id": 11969,
-      "name": "Postscript",
-      "slug": "postscript",
-      "batch": "Winter 2019",
-      "url": "https://www.ycombinator.com/companies/postscript",
-      "changed_fields": [
-        "long_description",
-        "one_liner"
-      ],
-      "changes": {
-        "long_description": {
-          "before": "We are building the #1 revenue channel for ecommerce. Top customers include Ruggable, Dr. Squatch, Thrive Cosmetics, and 20,000 more.\r\n\r\nPostscript generates more than $2B/yr in e-commerce revenue for our merchants, growing ~2x per year. Our goal is to generate $1T+ per year in e-commerce revenue.\r\n\r\nInteresting challenges:\r\n- Massive Scale\r\n- Real-time conversations across 100M phones\r\n",
-          "after": "Agentic retention marketing across SMS, RCS, Email, and more. We maximize the LTV of every shopper.\r\n\r\nTop customers include Ruggable, Dr. Squatch, Thrive Cosmetics, and 20,000 more.\r\n\r\n\r\nPostscript generates more than $2B/yr in e-commerce revenue for our merchants, growing ~2x per year. Our goal is to generate $1T+ per year in e-commerce revenue.\r\n\r\nInteresting challenges:\r\n- Massive Scale\r\n- Real-time conversations across 200M phones\r\n"
-        },
-        "one_liner": {
-          "before": "The SMS revenue platform for e-commerce merchants",
-          "after": "The AI Retention Platform for Brands & Retailers"
-        }
-      }
-    },
-    {
-      "id": 22681,
-      "name": "Pibit.ai",
-      "slug": "pibit-ai",
+      "id": 22710,
+      "name": "CoVerified",
+      "slug": "coverified",
       "batch": "Winter 2021",
-      "url": "https://www.ycombinator.com/companies/pibit-ai",
+      "url": "https://www.ycombinator.com/companies/coverified",
       "changed_fields": [
         "stage"
       ],
@@ -185,161 +130,27 @@
       }
     },
     {
-      "id": 22710,
-      "name": "CoVerified",
-      "slug": "coverified",
+      "id": 23017,
+      "name": "Tractian",
+      "slug": "tractian",
       "batch": "Winter 2021",
-      "url": "https://www.ycombinator.com/companies/coverified",
+      "url": "https://www.ycombinator.com/companies/tractian",
       "changed_fields": [
-        "stage",
-        "website"
+        "stage"
       ],
       "changes": {
         "stage": {
           "before": "Growth",
           "after": "Early"
-        },
-        "website": {
-          "before": "https://www.coverified.us/",
-          "after": null
         }
       }
     },
     {
-      "id": 23085,
-      "name": "Launcher Labs",
-      "slug": "launcher-labs",
-      "batch": "Winter 2021",
-      "url": "https://www.ycombinator.com/companies/launcher-labs",
-      "changed_fields": [
-        "website"
-      ],
-      "changes": {
-        "website": {
-          "before": "http://launchcaster.xyz",
-          "after": null
-        }
-      }
-    },
-    {
-      "id": 23958,
-      "name": "Abstra",
-      "slug": "abstra",
-      "batch": "Summer 2021",
-      "url": "https://www.ycombinator.com/companies/abstra",
-      "changed_fields": [
-        "long_description",
-        "one_liner"
-      ],
-      "changes": {
-        "long_description": {
-          "before": "Abstra is a platform that allows finance teams to build, run, and automate their workflows using Python and AI.\r\n\r\nInstead of relying on spreadsheets, ERPs, and manual processes, teams can create programmable workflows for tasks like reporting, reconciliations, approvals, and integrations with systems like SAP.\r\n\r\nWe provide a developer-friendly environment where finance and technical teams can turn business processes into code, connect to their existing tools, and run everything in a controlled, auditable way.\r\n\r\nOur goal is to become the operating system for finance operations, where workflows are not static or manual, but versioned, automated, and continuously improved.",
-          "after": "Abstra is a platform that allows finance teams to build, run, and automate their workflows using AI.\r\n\r\nInstead of relying on spreadsheets, ERPs, and manual processes, teams can create programmable workflows for tasks like reporting, reconciliations, approvals, and integrations with systems like SAP.\r\n\r\nWe provide a developer-friendly environment where finance and technical teams can turn business processes into code, connect to their existing tools, and run everything in a controlled, auditable way.\r\n\r\nOur goal is to become the operating system for finance operations, where workflows are not static or manual, but versioned, automated, and continuously improved."
-        },
-        "one_liner": {
-          "before": "Automate finance operations with Python and AI",
-          "after": "Automate finance operations with AI"
-        }
-      }
-    },
-    {
-      "id": 24395,
-      "name": "Alrighty",
-      "slug": "alrighty",
-      "batch": "Summer 2021",
-      "url": "https://www.ycombinator.com/companies/alrighty",
-      "changed_fields": [
-        "api",
-        "former_names",
-        "industries",
-        "industry",
-        "long_description",
-        "name",
-        "one_liner",
-        "slug",
-        "small_logo_thumb_url",
-        "subindustry",
-        "url",
-        "website"
-      ],
-      "changes": {
-        "api": {
-          "before": "https://yc-oss.github.io/api/batches/summer-2021/miniloop.json",
-          "after": "https://yc-oss.github.io/api/batches/summer-2021/alrighty.json"
-        },
-        "former_names": {
-          "before": [
-            "Goodseed",
-            "Invezo",
-            "Multibase",
-            "Update",
-            "Pod",
-            "Pod AI",
-            "Paperbook"
-          ],
-          "after": [
-            "Goodseed",
-            "Invezo",
-            "Multibase",
-            "Update",
-            "Pod",
-            "Pod AI",
-            "Paperbook",
-            "Miniloop"
-          ]
-        },
-        "industries": {
-          "before": [
-            "B2B"
-          ],
-          "after": [
-            "Consumer"
-          ]
-        },
-        "industry": {
-          "before": "B2B",
-          "after": "Consumer"
-        },
-        "long_description": {
-          "before": "Miniloop is a workflow engine for building reliable AI systems. It turns one-off prompts into structured, reusable workflows with enforced context, typed outputs, and safe re-runs, making AI dependable in production environments.",
-          "after": "Alrighty is a Mac mail app that fixes email. Anyone with your address can reach you, so most inboxes fill up with cold outreach, sales pitches, newsletters nobody reads and privacy-policy updates, and the few emails that matter get buried. Alrighty gets that mail out of your way and lets the AI you already use keep track of the conversations that matter. It works with the Gmail, iCloud and Outlook accounts you already have, and every AI feature is one you choose to turn on."
-        },
-        "name": {
-          "before": "Miniloop",
-          "after": "Alrighty"
-        },
-        "one_liner": {
-          "before": "AI workflow engine for reliable systems",
-          "after": "Email that only shows you what matters."
-        },
-        "slug": {
-          "before": "miniloop",
-          "after": "alrighty"
-        },
-        "small_logo_thumb_url": {
-          "before": "https://bookface-images.s3.amazonaws.com/small_logos/aeed5cd44236d1a01c6e9a140c5fea1bd7489cac.png",
-          "after": "https://bookface-images.s3.amazonaws.com/small_logos/b4dd92fd129337a5cc1b3409b9d8bd4faa271160.png"
-        },
-        "subindustry": {
-          "before": "B2B",
-          "after": "Consumer"
-        },
-        "url": {
-          "before": "https://www.ycombinator.com/companies/miniloop",
-          "after": "https://www.ycombinator.com/companies/alrighty"
-        },
-        "website": {
-          "before": "https://miniloop.ai",
-          "after": "https://alrighty.me"
-        }
-      }
-    },
-    {
-      "id": 25394,
-      "name": "InferEdge",
-      "slug": "inferedge",
+      "id": 25986,
+      "name": "Unravel Carbon",
+      "slug": "unravel-carbon",
       "batch": "Winter 2022",
-      "url": "https://www.ycombinator.com/companies/inferedge",
+      "url": "https://www.ycombinator.com/companies/unravel-carbon",
       "changed_fields": [
         "isHiring"
       ],
@@ -361,17 +172,17 @@
       ],
       "changes": {
         "stage": {
-          "before": "Growth",
-          "after": "Early"
+          "before": "Early",
+          "after": "Growth"
         }
       }
     },
     {
-      "id": 27685,
-      "name": "Syncly",
-      "slug": "syncly",
-      "batch": "Winter 2023",
-      "url": "https://www.ycombinator.com/companies/syncly",
+      "id": 26716,
+      "name": "erad",
+      "slug": "erad",
+      "batch": "Summer 2022",
+      "url": "https://www.ycombinator.com/companies/erad",
       "changed_fields": [
         "isHiring"
       ],
@@ -383,159 +194,101 @@
       }
     },
     {
-      "id": 27754,
-      "name": "Pair AI",
-      "slug": "pair-ai",
-      "batch": "Winter 2023",
-      "url": "https://www.ycombinator.com/companies/pair-ai",
+      "id": 27051,
+      "name": "Unthread",
+      "slug": "unthread",
+      "batch": "Summer 2022",
+      "url": "https://www.ycombinator.com/companies/unthread",
       "changed_fields": [
-        "all_locations",
-        "regions"
-      ],
-      "changes": {
-        "all_locations": {
-          "before": "New York City, NY, USA",
-          "after": ""
-        },
-        "regions": {
-          "before": [
-            "United States of America",
-            "America / Canada"
-          ],
-          "after": [
-            "Unspecified"
-          ]
-        }
-      }
-    },
-    {
-      "id": 27854,
-      "name": "Fours",
-      "slug": "fours",
-      "batch": "Winter 2023",
-      "url": "https://www.ycombinator.com/companies/fours",
-      "changed_fields": [
-        "api",
-        "former_names",
-        "long_description",
-        "name",
         "one_liner",
-        "slug",
-        "team_size",
-        "url",
-        "website"
+        "status"
       ],
       "changes": {
-        "api": {
-          "before": "https://yc-oss.github.io/api/batches/winter-2023/suger.json",
-          "after": "https://yc-oss.github.io/api/batches/winter-2023/fours.json"
-        },
-        "former_names": {
-          "before": [
-            "Suger Inc"
-          ],
-          "after": [
-            "Suger Inc",
-            "Suger"
-          ]
-        },
-        "long_description": {
-          "before": "The cloud marketplaces on AWS, Azure, and GCP have become the App Store for B2B software products. It’s growing close to 100% year-over-year since it gives software sellers access to cloud budgets and makes procurement 40% faster. The core problem is the cloud marketplace is hard to navigate and requires an upfront technical investment without knowing the expected ROI. Suger eliminates the need to reinvent the wheel with your own engineering resource or spend a fortune on consulting-based solutions. ",
-          "after": "Fours is the indirect revenue platform for cloud marketplaces, co-selling, and partnership relationship management (PRM). 300+ customers rely on us to manage the entire deal flow from the first partner signal to recognized revenue.\r\n\r\nWe make it easy for software companies to list, transact, bill and co-sell through any cloud marketplaces and with any partners through our suite of products.\r\n\r\nFours automates the manual, cross-functional work behind Cloud and Partner GTM from private offers and CRM syncing to entitlement fulfillment and co-sell execution so your sales, ops, and finance teams can focus on closing deals, not chasing workflows."
-        },
-        "name": {
-          "before": "Suger",
-          "after": "Fours"
-        },
         "one_liner": {
-          "before": "Salesforce for Cloud marketplaces on AWS, Azure, GCP",
-          "after": "Infrastructure for indirect revenue channels"
+          "before": "Automate support ops natively in Slack",
+          "after": "AI helpdesk built for Slack & Teams"
         },
-        "slug": {
-          "before": "suger",
-          "after": "fours"
-        },
-        "team_size": {
-          "before": 50,
-          "after": 76
-        },
-        "url": {
-          "before": "https://www.ycombinator.com/companies/suger",
-          "after": "https://www.ycombinator.com/companies/fours"
-        },
-        "website": {
-          "before": "https://www.suger.io/",
-          "after": "https://fours.com"
+        "status": {
+          "before": "Active",
+          "after": "Acquired"
         }
       }
     },
     {
-      "id": 28707,
-      "name": "Kino AI",
-      "slug": "kino-ai",
-      "batch": "Summer 2023",
-      "url": "https://www.ycombinator.com/companies/kino-ai",
+      "id": 27892,
+      "name": "ShortLoop",
+      "slug": "shortloop",
+      "batch": "Winter 2023",
+      "url": "https://www.ycombinator.com/companies/shortloop",
+      "changed_fields": [
+        "isHiring"
+      ],
+      "changes": {
+        "isHiring": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "id": 29258,
+      "name": "Saga AI",
+      "slug": "saga-ai",
+      "batch": "Winter 2024",
+      "url": "https://www.ycombinator.com/companies/saga-ai",
       "changed_fields": [
         "long_description",
         "one_liner"
       ],
       "changes": {
         "long_description": {
-          "before": "Kino is a web-native video editor where your footage, your team, and your AI agents work together — video editing never had its Figma moment, and it certainly never had its Cursor moment. We proved our platform on Hollywood's biggest shows, and soon it's free for everyone.",
-          "after": "Kino lets you make videos with your teammates and your agents. Your footage, your edit, and your review notes live in one project, so Claude Code or Codex works on the same timeline as your team. Companies use Kino to keep all their footage in one searchable place, have agents cut new videos every day, and send review links to get feedback. "
+          "before": "Saga AI deploys voice agents for healthcare practices, ACOs, and health systems to handle scheduling, patient intake, and care gap outreach. Agents connect directly to your EHR in real time.",
+          "after": "Saga deploys AI agents onto the back office of patient access for medical practices, physician groups, and health systems. The agents read every inbound referral, fax, and form, then complete the work inside the practice's EHR: they enter intake data, verify insurance eligibility with real-time X12 270/271 checks, submit and track prior authorizations through payer portals, and request missing records. Saga works in Epic, Oracle Health (Cerner), athenahealth, eClinicalWorks, MedENT, and other EHRs, with staff approval on sensitive actions. HIPAA-compliant, BAA included."
         },
         "one_liner": {
-          "before": "Kino is an AI media manager and video editor for humans and agents.",
-          "after": "A video editor your team and coding agents work in together"
+          "before": "Voice Agents for Healthcare Operations",
+          "after": "AI agents for patient access: referral intake, eligibility, and prior…"
         }
       }
     },
     {
-      "id": 28974,
-      "name": "Gleam",
-      "slug": "gleam",
-      "batch": "Summer 2023",
-      "url": "https://www.ycombinator.com/companies/gleam",
+      "id": 29350,
+      "name": "Feldy",
+      "slug": "feldy",
+      "batch": "Winter 2024",
+      "url": "https://www.ycombinator.com/companies/feldy",
       "changed_fields": [
-        "industries",
-        "industry",
-        "long_description",
-        "one_liner",
-        "subindustry"
+        "team_size"
       ],
       "changes": {
-        "industries": {
-          "before": [
-            "B2B"
-          ],
-          "after": [
-            "Healthcare"
-          ]
-        },
-        "industry": {
-          "before": "B2B",
-          "after": "Healthcare"
-        },
-        "long_description": {
-          "before": "Gleam automates data entry for clinical research sites.",
-          "after": "Clinical trials need more skilled people than the industry has. Gleam fills that gap."
-        },
-        "one_liner": {
-          "before": "Automating Data Entry for Clinical Trials",
-          "after": "Running clinical trials with AI"
-        },
-        "subindustry": {
-          "before": "B2B",
-          "after": "Healthcare"
+        "team_size": {
+          "before": 4,
+          "after": 10
         }
       }
     },
     {
-      "id": 29251,
-      "name": "Poka Labs",
-      "slug": "poka-labs",
+      "id": 29393,
+      "name": "Voicepanel",
+      "slug": "voicepanel",
+      "batch": "Winter 2024",
+      "url": "https://www.ycombinator.com/companies/voicepanel",
+      "changed_fields": [
+        "isHiring"
+      ],
+      "changes": {
+        "isHiring": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "id": 29858,
+      "name": "Vera Health",
+      "slug": "vera-health",
       "batch": "Summer 2024",
-      "url": "https://www.ycombinator.com/companies/poka-labs",
+      "url": "https://www.ycombinator.com/companies/vera-health",
       "changed_fields": [
         "long_description",
         "one_liner",
@@ -543,112 +296,16 @@
       ],
       "changes": {
         "long_description": {
-          "before": "Poka Labs builds an AI platform to help sales reps at chemical manufacturers respond to requests from customers and win more business.  Our agents understand each companies product catalog, customer purchase behaviors, and tribal knowledge in order to price, quote, and win the business.\r\n\r\nMalay and Andrew met while pursuing at Harvard Business School and now are building for companies ranging from a few million in sales per year to billions. ",
-          "after": "Poka Labs builds AI agents for pricing and sales at industrial manufacturers. Manufacturers sell thousands of products, and most customer requests are still priced by hand: reps search the catalog, check past prices and chase approvals while the customer keeps shopping.\n\nPoka's costing, pricing, quoting and follow-up agents share one view of each manufacturer's products, customers and deal history from their ERP, CRM and email. Sales teams answer requests faster and price consistently across every customer.\n\nMalay and Andrew met during their MBAs at Harvard Business School. Poka works with manufacturers ranging from a few million to billions of dollars in annual sales."
+          "before": "We empower healthcare providers, starting with emergency physicians, with instant access to up-to-date evidence-based answers. Our platform cuts through the noise to deliver trustworthy medical information 10x faster, revolutionizing clinical decision-support.",
+          "after": "Vera Health is a medical search engine built to reason like a clinician. It finds the evidence first, grades it with a framework built alongside the physicians who write practice guidelines, and shows the source, strength and limits behind every answer, in seconds. Designed exclusively for healthcare professionals, Vera is used by more than 800,000 clinicians, including more than one in four doctors in Italy and Spain."
         },
         "one_liner": {
-          "before": "Helping industrial manufacturers win deals fast, at the right price.",
-          "after": "Helping industrial manufacturers win more business at the best price."
+          "before": "AI-powered clinical decision support for healthcare providers",
+          "after": "Medical search engine built to reason like a clinician."
         },
         "team_size": {
-          "before": 5,
-          "after": 6
-        }
-      }
-    },
-    {
-      "id": 29356,
-      "name": "Centralize",
-      "slug": "centralize",
-      "batch": "Winter 2024",
-      "url": "https://www.ycombinator.com/companies/centralize",
-      "changed_fields": [
-        "isHiring"
-      ],
-      "changes": {
-        "isHiring": {
-          "before": true,
-          "after": false
-        }
-      }
-    },
-    {
-      "id": 29363,
-      "name": "Solari AI",
-      "slug": "solari-ai",
-      "batch": "Winter 2024",
-      "url": "https://www.ycombinator.com/companies/solari-ai",
-      "changed_fields": [
-        "all_locations",
-        "regions"
-      ],
-      "changes": {
-        "all_locations": {
-          "before": "New York City, NY, USA",
-          "after": "Mumbai, MH, India"
-        },
-        "regions": {
-          "before": [
-            "United States of America",
-            "America / Canada"
-          ],
-          "after": [
-            "India",
-            "South Asia"
-          ]
-        }
-      }
-    },
-    {
-      "id": 29709,
-      "name": "Substrate",
-      "slug": "substrate",
-      "batch": "Summer 2024",
-      "url": "https://www.ycombinator.com/companies/substrate",
-      "changed_fields": [
-        "isHiring"
-      ],
-      "changes": {
-        "isHiring": {
-          "before": true,
-          "after": false
-        }
-      }
-    },
-    {
-      "id": 30405,
-      "name": "nao Labs",
-      "slug": "nao-labs",
-      "batch": "Spring 2025",
-      "url": "https://www.ycombinator.com/companies/nao-labs",
-      "changed_fields": [
-        "isHiring"
-      ],
-      "changes": {
-        "isHiring": {
-          "before": true,
-          "after": false
-        }
-      }
-    },
-    {
-      "id": 30527,
-      "name": "MindFort",
-      "slug": "mindfort",
-      "batch": "Spring 2025",
-      "url": "https://www.ycombinator.com/companies/mindfort",
-      "changed_fields": [
-        "long_description",
-        "one_liner"
-      ],
-      "changes": {
-        "long_description": {
-          "before": "MindFort is building fully autonomous AI agents powered by their in-house models that can find, exploit, and patch complex vulnerabilities in web applications at massive scale. MindFort agents use the same principles as human penetration testers to understand their target and figure out the best ways to work together to exploit it. We can do fully autonomous AI web pentesting and bring offensive security to teams out numbered. \r\n\r\nWhile security teams were already behind with legacy tools and processes, AI coding is make the problem worse. AI generates code far faster than human teams can secure it; MindFort can match that speed and scale. Our agents will become critical as organizations scale up development with AI.\r\n",
-          "after": "MindFort is a security swarm platform that makes it easy for teams to run continuous security testing across all their applications and services. Our fully autonomous agents powered by our in-house models that can find, exploit, and patch complex vulnerabilities in web applications at massive scale. \r\n\r\nMindFort swarms use the same principles as human penetration testers to understand their target and figure out the best ways to work together to exploit it.\r\n\r\nWhile security teams were already behind with legacy tools and processes, AI coding is make the problem worse. AI generates code far faster than human teams can secure it; MindFort can match that speed and scale. Our agents will become critical as organizations scale up development with AI.\r\n"
-        },
-        "one_liner": {
-          "before": "Autonomous Security Agents",
-          "after": "Autonomous Security Swarms"
+          "before": 6,
+          "after": 12
         }
       }
     },
@@ -663,75 +320,17 @@
       ],
       "changes": {
         "stage": {
-          "before": "Growth",
-          "after": "Early"
+          "before": "Early",
+          "after": "Growth"
         }
       }
     },
     {
-      "id": 30660,
-      "name": "Magnitude",
-      "slug": "magnitude",
-      "batch": "Summer 2025",
-      "url": "https://www.ycombinator.com/companies/magnitude",
-      "changed_fields": [
-        "small_logo_thumb_url"
-      ],
-      "changes": {
-        "small_logo_thumb_url": {
-          "before": "https://bookface-images.s3.amazonaws.com/small_logos/9292b62c58dc81055b437ce647dc7c3ea10ffc5c.png",
-          "after": "https://bookface-images.s3.amazonaws.com/small_logos/d75c6fc87f7aedd2c005292797d52930e29e7759.png"
-        }
-      }
-    },
-    {
-      "id": 30664,
-      "name": "Kestroll",
-      "slug": "kestroll",
-      "batch": "Summer 2025",
-      "url": "https://www.ycombinator.com/companies/kestroll",
-      "changed_fields": [
-        "long_description"
-      ],
-      "changes": {
-        "long_description": {
-          "before": "An AI video editing agent that one-shots tedious post-production tasks like turning raw recordings into publishable podcasts and clipping viral shorts for socials.\r\n\r\nThink Cursor for video editing.",
-          "after": "AI video editor with taste."
-        }
-      }
-    },
-    {
-      "id": 30699,
-      "name": "VibeFlow",
-      "slug": "vibeflow",
-      "batch": "Summer 2025",
-      "url": "https://www.ycombinator.com/companies/vibeflow",
-      "changed_fields": [
-        "tags"
-      ],
-      "changes": {
-        "tags": {
-          "before": [
-            "Developer Tools",
-            "Consumer",
-            "B2B",
-            "AI"
-          ],
-          "after": [
-            "B2B",
-            "Social Media",
-            "Marketing",
-            "AI"
-          ]
-        }
-      }
-    },
-    {
-      "id": 30813,
-      "name": "Blue",
-      "slug": "blue",
-      "batch": "Summer 2025",
-      "url": "https://www.ycombinator.com/companies/blue",
+      "id": 30933,
+      "name": "Nucleo",
+      "slug": "nucleo",
+      "batch": "Fall 2025",
+      "url": "https://www.ycombinator.com/companies/nucleo",
       "changed_fields": [
         "isHiring"
       ],
@@ -743,11 +342,48 @@
       }
     },
     {
-      "id": 30967,
-      "name": "Efficient Computation Inc.",
-      "slug": "efficient-computation-inc",
-      "batch": "Fall 2025",
-      "url": "https://www.ycombinator.com/companies/efficient-computation-inc",
+      "id": 31074,
+      "name": "OneTriangle",
+      "slug": "onetriangle",
+      "batch": "Summer 2026",
+      "url": "https://www.ycombinator.com/companies/onetriangle",
+      "changed_fields": [
+        "long_description",
+        "one_liner"
+      ],
+      "changes": {
+        "long_description": {
+          "before": "Inference has surpassed training as AI’s largest compute cost, accelerated by increasing demand for AI and agents. By using proprietary KV cache transfer tech, OneTriangle has cut inference costs by 20% and time by 40% compared to present standards.",
+          "after": "OneTriangle optimizes prefill, speeding up TTFT 10x utilizing KV cache transfer tech\r\n\r\nWe integrate with your dedicated endpoints, or GPUs to speed up inference. "
+        },
+        "one_liner": {
+          "before": "The cheapest, fastest inference cloud",
+          "after": "Prefill optimizations for the fastest inference"
+        }
+      }
+    },
+    {
+      "id": 31152,
+      "name": "Fern",
+      "slug": "fern-bot",
+      "batch": "Winter 2026",
+      "url": "https://www.ycombinator.com/companies/fern-bot",
+      "changed_fields": [
+        "long_description"
+      ],
+      "changes": {
+        "long_description": {
+          "before": "Fern provides RL environments for robotics companies powered by a foundational world model. Companies can plug and play their robot policies completely in software with varying starting scenes of their production environment, and we'll produce RL heads on top of your existing policies to improve speed and success rate. Our customers get a continual learning flywheel where their production robots improve every week.",
+          "after": "Fern build high fidelity simulations for robotics, specifically focused on manipulation tasks. Customers have run over 900k simulation rollouts for RL and evaluations, and have verified that the simulation fidelity is high enough such that the real to sim and sim to real gap is very small."
+        }
+      }
+    },
+    {
+      "id": 31332,
+      "name": "Vespin",
+      "slug": "vespin",
+      "batch": "Spring 2026",
+      "url": "https://www.ycombinator.com/companies/vespin",
       "changed_fields": [
         "api",
         "former_names",
@@ -761,381 +397,405 @@
       ],
       "changes": {
         "api": {
-          "before": "https://yc-oss.github.io/api/batches/fall-2025/perseus.json",
-          "after": "https://yc-oss.github.io/api/batches/fall-2025/efficient-computation-inc.json"
+          "before": "https://yc-oss.github.io/api/batches/spring-2026/stage.json",
+          "after": "https://yc-oss.github.io/api/batches/spring-2026/vespin.json"
         },
         "former_names": {
-          "before": [
-            "Starling",
-            "Mantle"
-          ],
+          "before": [],
           "after": [
-            "Starling",
-            "Mantle",
-            "Perseus"
+            "Stage"
           ]
         },
         "long_description": {
-          "before": "Perseus takes an iterative branching approach to search in high dimensional spaces.\r\n\r\nOur first product helps coding agents find the right codebase context before they write. It searches files, symbols, and dependencies in parallel, so models can make better changes with less trial and error. Perseus Search gives Mythos-level programming ability to Opus-level coding agents.",
-          "after": "We believe understanding how capabilities form during pretraining and building principled reinforcement learning environments are the path to solving science with AI.\r\n"
+          "before": "Stage is a new code review platform designed to help engineers better understand and review AI generated code.\r\n\r\nEngineering teams are shipping faster than ever with agents, but now they’re drowning in an endless backlog of PRs to review. Stage reorganizes the code review process around how engineers naturally think, enabling you to review (and merge!) PRs 5x faster. \r\n\r\nUsed by top engineers at Legora, n8n, Branch, and more. ",
+          "after": ""
         },
         "name": {
-          "before": "Perseus",
-          "after": "Efficient Computation Inc."
+          "before": "Stage",
+          "after": "Vespin"
         },
         "one_liner": {
-          "before": "Applied Lab focused on Search in Latent Spaces.",
-          "after": "building principled reinforcement learning environments"
+          "before": "Code review platform for humans and agents",
+          "after": "An inbox for your coding agents"
         },
         "slug": {
-          "before": "perseus",
-          "after": "efficient-computation-inc"
+          "before": "stage",
+          "after": "vespin"
         },
         "small_logo_thumb_url": {
-          "before": "https://bookface-images.s3.amazonaws.com/small_logos/9765cfac6d122dea71443fd13f227ed6e9c5257b.png",
-          "after": "https://bookface-images.s3.amazonaws.com/small_logos/678706eb08ce2f058506e0505078e08ff0be69a0.png"
+          "before": "https://bookface-images.s3.amazonaws.com/small_logos/ac5a6cce941f973ff80cb4496e195f4010e5c21b.png",
+          "after": "https://bookface-images.s3.amazonaws.com/small_logos/488e0bf1da9ca12d399f04d8cafa2b336585587d.png"
         },
         "url": {
-          "before": "https://www.ycombinator.com/companies/perseus",
-          "after": "https://www.ycombinator.com/companies/efficient-computation-inc"
+          "before": "https://www.ycombinator.com/companies/stage",
+          "after": "https://www.ycombinator.com/companies/vespin"
         },
         "website": {
-          "before": "https://perseus.computer",
-          "after": "https://ecomp.so/"
+          "before": "https://www.tryluke.dev/",
+          "after": "https://www.vespin.dev/"
         }
       }
     },
     {
-      "id": 31178,
-      "name": "Cardboard",
-      "slug": "cardboard",
-      "batch": "Winter 2026",
-      "url": "https://www.ycombinator.com/companies/cardboard",
-      "changed_fields": [
-        "long_description",
-        "one_liner"
-      ],
-      "changes": {
-        "long_description": {
-          "before": "Cardboard is an agentic video editor for growth/marketing teams and serious creators who need to ship videos consistently. Instead of agencies, long timelines, and infinite review cycles, teams give cardboard a footage + a goal (“3 variants”, “30s hook”, “testimonials”) to get a strong first cut in minutes on which they can iterate quickly.\r\n\r\nMultimodal LLMs can finally reason over footage, and WebGPU/WebCodecs make a real NLE possible in the browser. For the first time, an “AI director” inside a professional editor can be a reality.\r\n\r\nWe have to build two hard things at once: a high-performance editor in the browser and an agentic editor that is reliable for production use cases. Most startups do one; incumbents can’t rebuild their stack without breaking everything.\r\n\r\nSaksham and Ishan met in school and have known each other since 15 years. Saksham was Co-founder/CTO of Iterate AI (backed by EF) and posts content on social media; Ishan has spent ~5yr building memory-heavy, performance-critical browser apps at HackerRank (S11) and deeply understands browsers. He has built Hotspoter (5M+ downloads) when he was 14.\r\n\r\nTogether, we’re unusually suited to build the editor core others avoid.\r\n\r\nVideo is becoming the default distribution channel, and the team that iterates fastest compounds attention. Cardboard becomes the default workspace for video production, the way Canva/Figma became the workspace for design - because it’s collaborative, fast, and does the tedious parts for you.",
-          "after": "Cardboard (cardboard.ai) is an AI video editor that turns raw footage into finished videos, from social clips and highlight reels to product demos, launch videos and event recaps. Describe the video you want, and Cardboard turns your clips, photos, recordings or a link into an edit you can watch, change and export, in the browser, in the Mac app, or right inside ChatGPT and Claude. It pulls out the best moments, removes pauses and filler words, adds captions, titles, music and B-roll, and reframes for Reels, Shorts and TikTok. It’s built for marketing teams, founders and creators who need video every week without learning a timeline.\r\n\r\nSay what you need, like “three 30-second ad variants” or “a customer testimonial from these interviews”, and Cardboard’s AI agent, Director, builds a first cut in minutes. You refine it by chatting or on a full timeline, with your team. Cardboard edits the footage you already have. Unlike AI video generators such as Runway or Sora, it doesn’t create new video from a text prompt.\r\n\r\n- Recreate the style of a reference video with your own footage.\r\n- Make motion graphics from a prompt, from animated titles to 3D scenes like a spinning product shot.\r\n- Cut to the beat, with match cuts, transitions and effects synced to the music.\r\n- 80+ ready-made recipes (templates) for videos like launch videos, product showcases, podcast clips, webinar highlights, and testimonials.\r\n- Export the finished video, or hand the timeline off to Premiere Pro or DaVinci Resolve.\r\n\r\nWhy now: AI models can finally understand video, and WebGPU makes a professional editor possible in a browser tab. Most AI video tools are either an old editor with AI bolted on, or an agent with no real editor behind it. Cardboard is built to be both.\r\n\r\nTeam: Saksham Aggarwal (CEO) and Ishan Sharma (CTO) have been friends for 15 years, since school. Saksham studied computer science at BITS Pilani, was co-founder and CTO of Iterate AI (backed by Entrepreneur First), and worked in growth at Sequoia-backed Flint. Ishan spent nearly five years building performance-critical browser apps at HackerRank (YC S11), and at 14 built Hotspoter, a Windows app with over 5 million downloads.\r\n\r\nTogether, they are unusually suited to build the editor core others avoid.\r\n\r\nVideo is becoming the default distribution channel, and the team that iterates fastest compounds attention. Cardboard becomes the default workspace for video production, the way Canva/Figma became the workspace for design - because it’s collaborative, fast, and does the tedious parts for you.\r\n\r\n(formerly usecardboard.com or cardboard.sh)"
-        },
-        "one_liner": {
-          "before": "Agentic video editor",
-          "after": "AI video editor (raw footage into finished videos)"
-        }
-      }
-    },
-    {
-      "id": 31244,
-      "name": "Turnstone",
-      "slug": "turnstone",
-      "batch": "Winter 2026",
-      "url": "https://www.ycombinator.com/companies/turnstone",
-      "changed_fields": [
-        "small_logo_thumb_url"
-      ],
-      "changes": {
-        "small_logo_thumb_url": {
-          "before": "https://bookface-images.s3.amazonaws.com/small_logos/de14bff48baddc020902509267a2e1597b7250ab.png",
-          "after": "https://bookface-images.s3.amazonaws.com/small_logos/8528dc5356d34874754177b62c6cd98db803cc06.png"
-        }
-      }
-    },
-    {
-      "id": 31254,
-      "name": "Sila",
-      "slug": "sila",
-      "batch": "Winter 2026",
-      "url": "https://www.ycombinator.com/companies/sila",
-      "changed_fields": [
-        "long_description"
-      ],
-      "changes": {
-        "long_description": {
-          "before": "Sila is an agentic messenger built for teams and agents to get work done in the same conversations. Simple, instant, global AI messaging and calling. Our mission is to bring super intelligence to everyone worldwide. ",
-          "after": "Sila Intelligence deploys custom AI for your company in an agentic messenger where your team and AI get work done in the same conversations. Our mission is to bring superintelligence to all businesses around the world."
-        }
-      }
-    },
-    {
-      "id": 31335,
-      "name": "Memoir",
-      "slug": "memoir",
+      "id": 31411,
+      "name": "Andco",
+      "slug": "andco",
       "batch": "Spring 2026",
-      "url": "https://www.ycombinator.com/companies/memoir",
+      "url": "https://www.ycombinator.com/companies/andco",
       "changed_fields": [
-        "long_description",
-        "one_liner"
+        "isHiring",
+        "tags"
       ],
       "changes": {
-        "long_description": {
-          "before": "Memoir is a video call with a proactive AI teammate built in. While people talk, it picks up the work hiding in the conversation and starts on it, in real time. Say \"let me pull up the pricing deck\" and it appears on your screen. Say \"let's sketch the architecture\" and a diagram draws itself for everyone. Ask \"Memoir, what did we decide on pricing?\" and it answers out loud from the call itself, with context gathered beforehand.\r\n\r\nWhen the call ends, the follow-ups are already written: the email to the customer, the calendar hold, the reminder, each one click to send. The work that usually waits hours after a meeting, or never happens, is ready before you hang up.\r\n\r\nAgents already work in our inboxes, browsers and code editors. Calls are where teams make decisions, and agents still aren't in the room. We're starting with technical founders on the sales and design calls they host, where a slow follow-up costs a deal, and building toward calls where people and agents work side by side.",
-          "after": "Memoir is an AI teammate that joins your video calls, listens like everyone else, and only talks when you talk to it.\n\nA founder is on a sales call. The customer asks what a pilot would look like. Instead of promising to send something over, the founder says, \"Memoir, draft this up.\" A few seconds later there's a page in the chat with the plan they just talked through. Everyone opens it, and they go through it together before anyone hangs up. Afterward, Memoir can help the founder follow up on what they promised, with one click.\n\nMost calls end with a list of things people said they'd do, and it takes days to do them. Agents already do real work in our email, our browsers and our code. They've become extensions of us. But on calls, most of them still just take notes.\n\nWe're starting with technical founders on the sales and design calls they run in Google Meet. But we want every call to work like that one. Eventually everyone will bring their own agents to a call, and those agents will work together the way the people do."
+        "isHiring": {
+          "before": true,
+          "after": false
         },
-        "one_liner": {
-          "before": "The Zoom alternative where agents build what you discuss in real time",
-          "after": "An AI teammate that answers and builds live on your calls"
+        "tags": {
+          "before": [],
+          "after": [
+            "Consumer",
+            "B2B",
+            "LegalTech",
+            "AI"
+          ]
         }
       }
     },
     {
-      "id": 31362,
-      "name": "Discovered Materials",
-      "slug": "discovered-materials",
+      "id": 31414,
+      "name": "Dreach",
+      "slug": "dreach",
       "batch": "Spring 2026",
-      "url": "https://www.ycombinator.com/companies/discovered-materials",
+      "url": "https://www.ycombinator.com/companies/dreach",
       "changed_fields": [
         "team_size"
       ],
       "changes": {
         "team_size": {
           "before": 2,
-          "after": 4
+          "after": 5
         }
       }
     },
     {
-      "id": 31461,
-      "name": "Collar",
-      "slug": "collar",
-      "batch": "Fall 2026",
-      "url": "https://www.ycombinator.com/companies/collar",
-      "changed_fields": [
-        "long_description"
-      ],
-      "changes": {
-        "long_description": {
-          "before": "We are a team of ex-intelligence, ex-finance, and most importantly, ex-founders who have known each other for over 5 years.\r\n\r\nCollar is redefining investor relations. \r\n\r\nRight now, investor relations is an under-appreciated yet sweeping function. \r\nThey have a bird’s eye view of what external stakeholders want, and also work with internal business units to create a grand vision of a company’s future.\r\n\r\nBut they’re doing it with their hands tied behind their back.\r\n\r\nFinance AI tools today are built for investors not investor relations, leaving teams using ad-hoc unreliable workarounds, and CFOs are stuck always reporting rather than acting on insights to optimize operational workstreams.\r\n\r\nBefore earning calls, Collar prepares CFOs through proactive earnings calls prep, investor targeting and fully citation-backed live teleprompters, saving them hours of work.\r\n\r\nAfter earning calls, CFOs use Collar’s trusted agentic AI systems to optimize identified underperforming workstreams with little manual modification needed. \r\n\r\nRedefining investor relations from a tedious cost centre headache, into a whole-of-company profit maximising function.\r\n",
-          "after": "We are a team of ex-intelligence, ex-finance, and ex-founders who have known each other for over 5 years.\r\n\r\nCollar is redefining investor relations. \r\n\r\nRight now, investor relations is an under-appreciated yet sweeping function. \r\nThey have a bird’s eye view of what external stakeholders want, and also work with internal business units to create a grand vision of a company’s future.\r\n\r\nBut they’re doing it with their hands tied behind their back.\r\n\r\nFinance AI tools today are built for investors not investor relations, leaving teams using ad-hoc unreliable workarounds, and CFOs are stuck always reporting rather than acting on insights to optimize operational workstreams.\r\n\r\nBefore earning calls, Collar prepares CFOs through proactive earnings calls prep, investor targeting and fully citation-backed live teleprompters, saving them hours of work.\r\n\r\nAfter earning calls, CFOs use Collar’s trusted agentic AI systems to optimize identified underperforming workstreams with little manual modification needed. \r\n\r\nRedefining investor relations from a tedious cost centre headache, into a whole-of-company profit maximising function.\r\n"
-        }
-      }
-    },
-    {
-      "id": 31858,
-      "name": "Torus",
-      "slug": "torus",
-      "batch": "Summer 2026",
-      "url": "https://www.ycombinator.com/companies/torus",
-      "changed_fields": [
-        "one_liner",
-        "small_logo_thumb_url",
-        "team_size"
-      ],
-      "changes": {
-        "one_liner": {
-          "before": "Legora for physical engineering firms",
-          "after": "Superintelligence for Infrastructure"
-        },
-        "small_logo_thumb_url": {
-          "before": "https://bookface-images.s3.amazonaws.com/small_logos/79a2f7b5a083998db3fcc9309c0435a2ccb05016.png",
-          "after": "https://bookface-images.s3.amazonaws.com/small_logos/ffc220a3adf43fb693f44c6ce6b833979f79939a.png"
-        },
-        "team_size": {
-          "before": 6,
-          "after": 8
-        }
-      }
-    },
-    {
-      "id": 32188,
-      "name": "IMPACT Drones",
-      "slug": "impact-drones",
-      "batch": "Summer 2026",
-      "url": "https://www.ycombinator.com/companies/impact-drones",
-      "changed_fields": [
-        "all_locations"
-      ],
-      "changes": {
-        "all_locations": {
-          "before": "San Francisco, CA, USA",
-          "after": "Los Angeles, CA, USA"
-        }
-      }
-    },
-    {
-      "id": 32847,
-      "name": "Liquid Energy",
-      "slug": "liquid-energy",
-      "batch": "Fall 2026",
-      "url": "https://www.ycombinator.com/companies/liquid-energy",
-      "changed_fields": [
-        "long_description"
-      ],
-      "changes": {
-        "long_description": {
-          "before": "Liquid Energy delivers the most scalable and cost effective inference. Our compute is hosted in our proprietary data center modules that we call NanoDC - the Nano Data Center. \r\n\r\nNanoDC is engineered to be rapidly deployable and scalable without traditional bottlenecks like power, permitting, and supply chains. Using NanoDC, Liquid Energy is able to provide the most efficient and sustainable way to scale compute to meet global AI demand.",
-          "after": "Liquid Energy delivers the most scalable and cost effective inference. Our compute is hosted in our proprietary data center modules that we call NanoDC - the Nano Data Center. \r\n\r\nNanoDC is engineered to be rapidly deployable and scalable without traditional bottlenecks like power, permitting, and supply chains. Using NanoDC, Liquid Energy is able to provide the most efficient and sustainable way to scale compute to meet global AI demand.\r\n\r\nWe have 20 units and have spent the last year in building the supply chain and manufacturing, because of that we have an ability to manufacture 2 MW/month. Over the next year we will scale that up to 20MW per month. "
-        }
-      }
-    },
-    {
-      "id": 34365,
-      "name": "Runtime.si",
-      "slug": "runtimesi",
-      "batch": "Fall 2026",
-      "url": "https://www.ycombinator.com/companies/runtimesi",
-      "changed_fields": [
-        "long_description",
-        "one_liner"
-      ],
-      "changes": {
-        "long_description": {
-          "before": "Runtime is building real-time simulation infrastructure for robots. We give robots a live simulation of their surroundings to guide every action.",
-          "after": ""
-        },
-        "one_liner": {
-          "before": "Real-time simulation infrastructure for robots",
-          "after": "Eval infrastructure for robots"
-        }
-      }
-    },
-    {
-      "id": 34862,
-      "name": "Saccade",
-      "slug": "saccade",
-      "batch": "Fall 2026",
-      "url": "https://www.ycombinator.com/companies/saccade",
+      "id": 31455,
+      "name": "tday.com",
+      "slug": "tdaycom",
+      "batch": "Spring 2026",
+      "url": "https://www.ycombinator.com/companies/tdaycom",
       "changed_fields": [
         "small_logo_thumb_url"
       ],
       "changes": {
         "small_logo_thumb_url": {
-          "before": "https://bookface-images.s3.amazonaws.com/small_logos/751432518cccc3177c9fa321a442fcfaf7e00fdd.png",
-          "after": "https://bookface-images.s3.amazonaws.com/small_logos/e30db37d0cbb762632d614afb3918a8e0b4131cb.png"
+          "before": "https://bookface-images.s3.amazonaws.com/small_logos/1123d387e4b516167a9cfd6ca07f65801c739a56.png",
+          "after": "https://bookface-images.s3.amazonaws.com/small_logos/0bf4800e0ecc3bb9489a098b655e95d398a9ad10.png"
         }
       }
     },
     {
-      "id": 35260,
-      "name": "OpenCrawl",
-      "slug": "opencrawl",
+      "id": 31490,
+      "name": "Nxtcure Labs",
+      "slug": "nxtcure-labs",
       "batch": "Fall 2026",
-      "url": "https://www.ycombinator.com/companies/opencrawl",
+      "url": "https://www.ycombinator.com/companies/nxtcure-labs",
       "changed_fields": [
-        "one_liner"
+        "long_description"
       ],
       "changes": {
-        "one_liner": {
-          "before": "High-performant hyper-personalized search indexes.",
-          "after": "High-performance hyper-personalized search indexes."
+        "long_description": {
+          "before": "Reinventing medicine from lab to drug discovery.\r\nNxtCure CRO- an AI-native, full-stack CRO built to take therapeutics from discovery to market faster.\r\nNxtCure Cancer- the all-in-one mobile platform guiding patients through the cancer journey.\r\nWe’re building the operating system for the future of medicine.",
+          "after": "Reinventing medicine from lab to drug discovery.\r\nNxtCure CRO- an AI-native, full-stack CRO built to take therapeutics from discovery to market faster.\r\n\r\nAbout 2 million Americans are diagnosed with cancer every year. Science has never moved faster, new immunotherapies, targeted drugs and cancer vaccines arrive every year. But roughly 90% of cancer drugs fail in clinical trials, and about 80% of trials run late. The breakthroughs exist. The way we test them is stuck in the last century.\r\n\r\nNxtCure is building autonomous clinical trials. Before a single patient enrolls, we run the trial thousands of times on digital twins. Each virtual patient is a system of coupled differential equations that track how a drug moves through plasma, tumor and heart, and how the tumor grows, shrinks or fights back. The parameters are fit to real trial data, so every twin behaves like real biology. Across thousands of simulations we can calculate the odds that a dose will hit its endpoints, and fix the protocol before it costs anyone time, money or hope.\r\n\r\nThen 13 AI agents run the trial. Each one owns a stage: drafting the protocol, ranking sites, pre-screening patients, forecasting drug supply, watching for adverse events, predicting dropout, cleaning data and writing the final report. As real data comes in, the twins update and flag problems weeks before a human would see them.\r\n\r\nIn 2025, the FDA laid out how computer simulation can take its place. Soon a cancer drug will run through thousands of simulated trials before it ever touches a lab, and reach patients years faster. We’re building that future."
         }
       }
     },
     {
-      "id": 35265,
-      "name": "Hopper",
-      "slug": "hopper",
+      "id": 31491,
+      "name": "e2e",
+      "slug": "e2e",
+      "batch": "Spring 2026",
+      "url": "https://www.ycombinator.com/companies/e2e",
+      "changed_fields": [
+        "api",
+        "former_names",
+        "long_description",
+        "name",
+        "one_liner",
+        "slug",
+        "small_logo_thumb_url",
+        "team_size",
+        "url",
+        "website"
+      ],
+      "changes": {
+        "api": {
+          "before": "https://yc-oss.github.io/api/batches/spring-2026/testerarmy.json",
+          "after": "https://yc-oss.github.io/api/batches/spring-2026/e2e.json"
+        },
+        "former_names": {
+          "before": [
+            "Tester Army"
+          ],
+          "after": [
+            "Tester Army",
+            "TesterArmy"
+          ]
+        },
+        "long_description": {
+          "before": "TesterArmy is an AI agent that tests websites and mobile apps. It monitors production on a schedule and runs automatically on every GitHub Pull Request, delivering screenshots, recordings, and actionable bug reports.\r\n\r\nDescribe tests in plain English. The agent handles login flows, OAuth, and OTPs, no scripts to write or maintain. We catch the regressions and UX issues that code review misses.",
+          "after": ""
+        },
+        "name": {
+          "before": "TesterArmy",
+          "after": "e2e"
+        },
+        "one_liner": {
+          "before": "Test your app with AI, catch bugs before users do",
+          "after": "the software verification layer for the agentic coding era"
+        },
+        "slug": {
+          "before": "testerarmy",
+          "after": "e2e"
+        },
+        "small_logo_thumb_url": {
+          "before": "https://bookface-images.s3.amazonaws.com/small_logos/c2383517bbad408b44b80d2d5f5912ef81073ff0.png",
+          "after": "https://bookface-images.s3.amazonaws.com/small_logos/67b593bc15edf4c74365d55d734a00481f57bcfd.png"
+        },
+        "team_size": {
+          "before": 6,
+          "after": 8
+        },
+        "url": {
+          "before": "https://www.ycombinator.com/companies/testerarmy",
+          "after": "https://www.ycombinator.com/companies/e2e"
+        },
+        "website": {
+          "before": "https://tester.army",
+          "after": "https://e2e.com"
+        }
+      }
+    },
+    {
+      "id": 31582,
+      "name": "Edgerun",
+      "slug": "edgerun",
+      "batch": "Summer 2026",
+      "url": "https://www.ycombinator.com/companies/edgerun",
+      "changed_fields": [
+        "long_description",
+        "team_size"
+      ],
+      "changes": {
+        "long_description": {
+          "before": "Edgerun builds military exoskeletons. The first product is a 10-pound hip system that fits over existing kit and doubles a soldier’s range. Since April 2026, Edgerun built over a dozen iterations of their product through continuous field tests with Ukrainian fighters and secured $150M+ in LOIs. Founder David Venegas previously co-founded Durin (autonomous mining robotics) and worked at Stoke Space (at 19) and Hadrian. He is a high-school dropout, state-championship runner, adventure athlete, and pilot. Edgerun is a Y Combinator company backed by General H.R. McMaster, Cyan Banister, Joshua Steinman and Jason Miller. edgerun.com",
+          "after": "Edgerun builds military exoskeletons. Read the mission at edgerun.com/mission "
+        },
+        "team_size": {
+          "before": 5,
+          "after": 12
+        }
+      }
+    },
+    {
+      "id": 31584,
+      "name": "CONUS",
+      "slug": "conus",
       "batch": "Fall 2026",
-      "url": "https://www.ycombinator.com/companies/hopper",
+      "url": "https://www.ycombinator.com/companies/conus",
+      "changed_fields": [
+        "long_description"
+      ],
+      "changes": {
+        "long_description": {
+          "before": "CONUS structures fragmented medical device information for surgeons. We combine manufacturer documentation, hospital protocols and medical research in one place, giving surgeons and MedTech teams reliable answers across products and procedures.\r\n\r\nWe already work with leading manufacturers including Johnson & Johnson, Stryker and Zimmer Biomet, and since launching six months ago we’ve gone live in 20 hospitals.\r\n\r\nLong term, hospitals will use CONUS to select and order implants across manufacturers.",
+          "after": "CONUS structures fragmented medical device information for surgeons. We combine manufacturer documentation, hospital protocols and medical research in one place, giving surgeons and MedTech teams reliable answers across products and procedures.\r\n\r\nWe already work with leading manufacturers including Johnson & Johnson, Stryker and Zimmer Biomet, and since launching six months ago we’ve gone live in 22 hospitals.\r\n\r\nLong term, hospitals will use CONUS to select and order implants across manufacturers."
+        }
+      }
+    },
+    {
+      "id": 32164,
+      "name": "Prized",
+      "slug": "prized",
+      "batch": "Summer 2026",
+      "url": "https://www.ycombinator.com/companies/prized",
+      "changed_fields": [
+        "team_size"
+      ],
+      "changes": {
+        "team_size": {
+          "before": 2,
+          "after": 3
+        }
+      }
+    },
+    {
+      "id": 32192,
+      "name": "Rise Reforming",
+      "slug": "rise-reforming",
+      "batch": "Summer 2026",
+      "url": "https://www.ycombinator.com/companies/rise-reforming",
+      "changed_fields": [
+        "team_size"
+      ],
+      "changes": {
+        "team_size": {
+          "before": 4,
+          "after": 5
+        }
+      }
+    },
+    {
+      "id": 32716,
+      "name": "Neuromorphic",
+      "slug": "neuromorphic",
+      "batch": "Summer 2026",
+      "url": "https://www.ycombinator.com/companies/neuromorphic",
+      "changed_fields": [
+        "isHiring"
+      ],
+      "changes": {
+        "isHiring": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "id": 32985,
+      "name": "Lumeria",
+      "slug": "lumeria",
+      "batch": "Summer 2026",
+      "url": "https://www.ycombinator.com/companies/lumeria",
       "changed_fields": [
         "website"
       ],
       "changes": {
         "website": {
-          "before": "https://withhopper.com",
-          "after": "https://withhopper.com/code"
+          "before": "https://lumeria.skin",
+          "after": "https://lumeria.com"
         }
       }
     },
     {
-      "id": 35458,
-      "name": "Caladh",
-      "slug": "caladh",
-      "batch": "Fall 2026",
-      "url": "https://www.ycombinator.com/companies/caladh",
+      "id": 33540,
+      "name": "Osseus",
+      "slug": "osseus",
+      "batch": "Summer 2026",
+      "url": "https://www.ycombinator.com/companies/osseus",
       "changed_fields": [
-        "launched_at"
+        "long_description"
       ],
       "changes": {
-        "launched_at": {
-          "before": 1786125348,
-          "after": 1793587844
-        }
-      }
-    },
-    {
-      "id": 35784,
-      "name": "Vorelios",
-      "slug": "vorelios",
-      "batch": "Fall 2026",
-      "url": "https://www.ycombinator.com/companies/vorelios",
-      "changed_fields": [
-        "industries",
-        "industry",
-        "long_description",
-        "one_liner",
-        "subindustry",
-        "tags"
-      ],
-      "changes": {
-        "industries": {
-          "before": [
-            "B2B",
-            "Engineering, Product and Design"
-          ],
-          "after": [
-            "Industrials"
-          ]
-        },
-        "industry": {
-          "before": "B2B",
-          "after": "Industrials"
-        },
         "long_description": {
-          "before": "We're building AI that understands the physical world well enough to do autonomous end-to-end engineering. ",
-          "after": "Vorelios is a research lab developing AI that understands physics and engineers autonomously, from an objective to the system that achieves it. We want to turn humanity's greatest ambitions into tractable engineering problems, accelerate the technologies that transform civilization, and discover the ones no one has imagined yet."
+          "before": "In an era of cheap intelligence, the most important application of AI will be to improving human health, globally. Osseus is building the frontier biomedical AI research lab, starting with the clinical datasets, evaluations, and reinforcement learning environments that help AI labs train more capable, aligned, and safe models.",
+          "after": "In an era of cheap intelligence, the most important application of AI will be to improving human health, globally. Osseus is building the frontier biomedical AI research lab, starting with the evaluations, reinforcement learning environments, and datasets that help AI labs train more capable, aligned, and safe models. We post-train models for medical and biological tasks, and deploy these in biotech, pharma and healthcare systems to ultimately improve patient outcomes."
+        }
+      }
+    },
+    {
+      "id": 33705,
+      "name": "ernd",
+      "slug": "ernd",
+      "batch": "Fall 2026",
+      "url": "https://www.ycombinator.com/companies/ernd",
+      "changed_fields": [
+        "website"
+      ],
+      "changes": {
+        "website": {
+          "before": "https://ernd.io/",
+          "after": "https://ernd.ai/"
+        }
+      }
+    },
+    {
+      "id": 34895,
+      "name": "OpenScaffold",
+      "slug": "openscaffold",
+      "batch": "Fall 2026",
+      "url": "https://www.ycombinator.com/companies/openscaffold",
+      "changed_fields": [
+        "website"
+      ],
+      "changes": {
+        "website": {
+          "before": "",
+          "after": "https://openscaffold.ai"
+        }
+      }
+    },
+    {
+      "id": 35521,
+      "name": "ORO AI",
+      "slug": "oro-ai",
+      "batch": "Fall 2026",
+      "url": "https://www.ycombinator.com/companies/oro-ai",
+      "changed_fields": [
+        "long_description",
+        "one_liner"
+      ],
+      "changes": {
+        "long_description": {
+          "before": "We're building the open benchmark for commerce.\r\n\r\nBuilders submit shopping agents. Independent validators run them against problems that change daily. The best agent earns the rewards, and every run becomes training data.",
+          "after": "We focus on gaps, safety and alignment research in order to make sure AI can run autonomous businesses."
         },
         "one_liner": {
-          "before": "Solving engineering, then using it to solve everything else",
-          "after": "AI that can engineer anything"
-        },
-        "subindustry": {
-          "before": "B2B -> Engineering, Product and Design",
-          "after": "Industrials"
-        },
-        "tags": {
-          "before": [
-            "Hard Tech",
-            "B2B",
-            "AI"
-          ],
-          "after": [
-            "Hard Tech",
-            "AI"
-          ]
+          "before": "Continuously improving evals for agentic commerce",
+          "after": "RL environments that teach AI to run businesses autonomously"
         }
       }
     },
     {
-      "id": 36512,
-      "name": "Lux Foods",
-      "slug": "lux-foods",
+      "id": 36513,
+      "name": "Graphide",
+      "slug": "graphide",
       "batch": "Fall 2026",
-      "url": "https://www.ycombinator.com/companies/lux-foods",
+      "url": "https://www.ycombinator.com/companies/graphide",
       "changed_fields": [
-        "small_logo_thumb_url"
+        "website"
       ],
       "changes": {
-        "small_logo_thumb_url": {
-          "before": "https://bookface-images.s3.amazonaws.com/small_logos/2472fad71829e7d871161e07c00b9d90d3b65af1.png",
-          "after": "https://bookface-images.s3.amazonaws.com/small_logos/70e9b745ac33a56539f3038ba0c3e2c84a81500d.png"
+        "website": {
+          "before": "https://Graphide.com",
+          "after": "https://graphide.com"
         }
       }
     },
     {
-      "id": 36514,
-      "name": "Kanopy",
-      "slug": "kanopy",
+      "id": 36741,
+      "name": "Perit.AI",
+      "slug": "peritai",
       "batch": "Fall 2026",
-      "url": "https://www.ycombinator.com/companies/kanopy",
+      "url": "https://www.ycombinator.com/companies/peritai",
       "changed_fields": [
-        "launched_at"
+        "long_description",
+        "one_liner"
       ],
       "changes": {
-        "launched_at": {
-          "before": 1786757881,
-          "after": 1793577956
+        "long_description": {
+          "before": "",
+          "after": "Perit is a training-data company for frontier AI labs. Everything we deliver is recorded, transcribed, labelled and graded by people who actually do the job: ex-contact-centre QA leads, claims handlers, ward clerks and shopkeepers, recruited for the sector and locale each program needs.\r\n\r\nWhat we deliver:\r\n\r\n- Voice and speech data: 4,000+ hours of audio delivered across 9 locales, transcribed verbatim and word-aligned, with 95%+ QA-sample accuracy.\r\n- RL environments and benchmarks: speech-to-speech RL environments plus coding and RL task sets, currently 100 RL tasks per week and scalable to 2,000.\r\n- Embodied data for robotics: egocentric video, depth, teleoperation and handheld-gripper demonstrations recorded in real homes, shops and workplaces.\r\n- Data collection and annotation: video, image and text collected to spec, and annotation of any data type on our own Foundry workspace.\r\n\r\nEvery batch ships with a quality report, consent references and a reviewer chain. We work with almost all frontier labs and have quickly gotten past $9M in revenue.\r\n\r\nFounded by 2x YC founders Kshitij Dixit (Zeo, YC W20) and Poorva Dixit (ex-Google Cloud AI, Uber, Atlassian), with a deep IIT network of researchers at top labs."
+        },
+        "one_liner": {
+          "before": "Expert-led data and RL platform for AI labs",
+          "after": "Expert-collected voice, egocentric and RL training data for frontier…"
+        }
+      }
+    },
+    {
+      "id": 37005,
+      "name": "Verdun",
+      "slug": "verdun",
+      "batch": "Fall 2026",
+      "url": "https://www.ycombinator.com/companies/verdun",
+      "changed_fields": [
+        "all_locations"
+      ],
+      "changes": {
+        "all_locations": {
+          "before": "Los Angeles, CA, USA",
+          "after": "San Francisco, CA, USA"
         }
       }
     },
@@ -1151,12 +811,33 @@
       ],
       "changes": {
         "long_description": {
-          "before": "Ascenix is the all-in-one incident platform that turns unstructured EHR data into automated reporting, reimbursement recovery, compliance flagging, and clinical insight. We’re already live in 50 homes and scaling across North America. We connect to systems like PointClickCare and analyze the notes nurses already write, adapting to any note structure and any compliance or reporting requirement.\r\n\r\nWe help teams identify documentation gaps, uncover missed revenue opportunities and spot emerging resident risks, while reducing time spent reviewing charts and building spreadsheets. Our goal is to improve residents’ quality of life by helping care homes reach their full clinical, financial and operational potential.",
-          "after": "Ascenix is building custom software for running senior homes. We combine reusable building blocks into workflows tailored to each home's existing processes, from incident reporting to reimbursement. Homes get custom software without hiring an engineering team.\r\n\r\nLiving in a retirement home convinced us that the best way to improve residents' lives is to improve the systems staff rely on. As the older population grows, care teams need more time and resources. Repetitive reporting, missed reimbursement, and compliance problems take those away, while disconnected tools add costs and leave staff moving information between systems.\r\n\r\nOur building blocks gather information from EHRs like PointClickCare and other sources, process it, apply rules, and produce reports, tasks, or emails. Incident reporting and reimbursement reviews usually come from two separate vendors. Ascenix builds both from the same blocks, in one interface, so data isn't stuck in silos. Homes start with their biggest bottleneck and add workflows as priorities change."
+          "before": "Ascenix is building custom software for running senior homes. We combine reusable building blocks into workflows tailored to each home's existing processes, from incident reporting to reimbursement. Homes get custom software without hiring an engineering team.\r\n\r\nLiving in a retirement home convinced us that the best way to improve residents' lives is to improve the systems staff rely on. As the older population grows, care teams need more time and resources. Repetitive reporting, missed reimbursement, and compliance problems take those away, while disconnected tools add costs and leave staff moving information between systems.\r\n\r\nOur building blocks gather information from EHRs like PointClickCare and other sources, process it, apply rules, and produce reports, tasks, or emails. Incident reporting and reimbursement reviews usually come from two separate vendors. Ascenix builds both from the same blocks, in one interface, so data isn't stuck in silos. Homes start with their biggest bottleneck and add workflows as priorities change.",
+          "after": "Ascenix is building one custom interface for running senior homes. We combine reusable building blocks into workflows tailored to each home's existing processes, from incident reporting to reimbursement. Homes get custom software without hiring an engineering team.\r\n\r\nLiving in a retirement home convinced us that the best way to improve residents' lives is to improve the systems staff rely on. As the older population grows, care teams need more time and resources. Repetitive reporting, missed reimbursement, and compliance problems take those away. Disconnected products that solve each of these individually add costs and leave staff moving information between systems.\r\n\r\nOur building blocks gather information from EHRs like PointClickCare and other sources, process it, apply rules, and produce reports, tasks, or emails. Incident reporting and reimbursement reviews usually come from two separate vendors. Ascenix builds both from the same blocks, in one interface, so data isn't stuck in silos. Homes start with their biggest bottleneck and add workflows as priorities change."
         },
         "one_liner": {
-          "before": "Clinical intelligence layer for skilled nursing facilities.",
-          "after": "One interface for senior care facilities."
+          "before": "One interface for senior care facilities.",
+          "after": "Custom software for senior care facilities."
+        }
+      }
+    },
+    {
+      "id": 39117,
+      "name": "Godpack",
+      "slug": "godpack",
+      "batch": "Winter 2027",
+      "url": "https://www.ycombinator.com/companies/godpack",
+      "changed_fields": [
+        "all_locations",
+        "small_logo_thumb_url"
+      ],
+      "changes": {
+        "all_locations": {
+          "before": "San Francisco, CA, USA",
+          "after": "New York City, NY, USA"
+        },
+        "small_logo_thumb_url": {
+          "before": "https://bookface-images.s3.amazonaws.com/small_logos/5cf26da4e502d22859bba31a1834d27e69baf813.png",
+          "after": "https://bookface-images.s3.amazonaws.com/small_logos/efed4a76a2a7ec64512d28d0184feb711e11215b.png"
         }
       }
     }

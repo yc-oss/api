@@ -1,0 +1,845 @@
+{
+  "generated_at": "2026-11-04T03:59:13.120Z",
+  "summary": {
+    "previous_total": 6362,
+    "current_total": 6364,
+    "added": 2,
+    "removed": 0,
+    "updated": 37
+  },
+  "added": [
+    {
+      "id": 35520,
+      "name": "Evardi",
+      "slug": "evardi",
+      "former_names": [
+        "Evardi Inc."
+      ],
+      "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ec3978c8515651f30596e84a039e6ab0d5cacd6d.png",
+      "website": "https://evardi.ai/",
+      "all_locations": "San Francisco, CA, USA",
+      "long_description": "At least 94% of US outage minutes start on the distribution grid, and most utilities are blind between the substation and the meter. Evardi builds a live model of a utility’s network from data it already has, matching every meter to its transformer and using virtual meters to show load and solar on every transformer. On top of that model, our AI agents do the engineering work utilities need at the grid edge: checking switching orders, finding outages after extreme weather and planning for new load from DERs and data centers. Because the model sees every transformer, it will also help utilities decide when new wires are really needed, and how distribution load can free up transmission for new data centers. We’re working with utilities across the globe that together serve over 10 million customers.",
+      "one_liner": "Agents that engineer the grid edge",
+      "team_size": 4,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Energy",
+      "launched_at": 1786152067,
+      "tags": [
+        "Smart Grid",
+        "Energy",
+        "AI"
+      ],
+      "tags_highlighted": [],
+      "top_company": false,
+      "isHiring": false,
+      "nonprofit": false,
+      "batch": "Fall 2026",
+      "status": "Active",
+      "industries": [
+        "Industrials",
+        "Energy"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "stage": "Early",
+      "app_video_public": false,
+      "demo_day_video_public": false,
+      "app_answers": null,
+      "question_answers": false,
+      "url": "https://www.ycombinator.com/companies/evardi",
+      "api": "https://yc-oss.github.io/api/batches/fall-2026/evardi.json"
+    },
+    {
+      "id": 36246,
+      "name": "Ailit",
+      "slug": "ailit",
+      "former_names": [],
+      "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e2e2aafce9f971d9306b1ed0550568f290599866.png",
+      "website": "https://ailitrail.com/",
+      "all_locations": "San Francisco, CA, USA",
+      "long_description": "Ailit is building the electric energy system for North American freight rail. Our first product, Superwagon, is a battery wagon designed to power existing diesel-electric locomotives, allowing railroads to electrify the fleets they already own.\r\n\r\nSuperwagon carries swappable battery packs that supply electricity to the locomotive’s existing electric motors. Discharged packs are exchanged for charged ones along the route and recharged off-board, providing operators with limitless range.\r\n\r\nWe deliver energy as a service, owning and operating the batteries and swapping sites. Railroads pay for energy with no upfront equipment purchase, with pricing set at 20% below today’s diesel cost.\r\n\r\nFounded in Stockholm by Christian Lind and Emil Tagesson, our team is now based in San Francisco. We’re building our first full-scale prototype and targeting first deployment in summer 2027.",
+      "one_liner": "Electrifying North American freight rail with swappable batteries.",
+      "team_size": 6,
+      "industry": "Industrials",
+      "subindustry": "Industrials -> Energy",
+      "launched_at": 1793750387,
+      "tags": [
+        "Hardware",
+        "Transportation",
+        "Energy",
+        "Electric Vehicles",
+        "AI"
+      ],
+      "tags_highlighted": [],
+      "top_company": false,
+      "isHiring": false,
+      "nonprofit": false,
+      "batch": "Fall 2026",
+      "status": "Active",
+      "industries": [
+        "Industrials",
+        "Energy"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ],
+      "stage": "Early",
+      "app_video_public": false,
+      "demo_day_video_public": false,
+      "app_answers": true,
+      "question_answers": true,
+      "url": "https://www.ycombinator.com/companies/ailit",
+      "api": "https://yc-oss.github.io/api/batches/fall-2026/ailit.json"
+    }
+  ],
+  "removed": [],
+  "updated": [
+    {
+      "id": 1827,
+      "name": "SharpestMinds",
+      "slug": "sharpestminds",
+      "batch": "Winter 2018",
+      "url": "https://www.ycombinator.com/companies/sharpestminds",
+      "changed_fields": [
+        "status"
+      ],
+      "changes": {
+        "status": {
+          "before": "Acquired",
+          "after": "Inactive"
+        }
+      }
+    },
+    {
+      "id": 22710,
+      "name": "CoVerified",
+      "slug": "coverified",
+      "batch": "Winter 2021",
+      "url": "https://www.ycombinator.com/companies/coverified",
+      "changed_fields": [
+        "stage"
+      ],
+      "changes": {
+        "stage": {
+          "before": "Early",
+          "after": "Growth"
+        }
+      }
+    },
+    {
+      "id": 23017,
+      "name": "Tractian",
+      "slug": "tractian",
+      "batch": "Winter 2021",
+      "url": "https://www.ycombinator.com/companies/tractian",
+      "changed_fields": [
+        "stage"
+      ],
+      "changes": {
+        "stage": {
+          "before": "Growth",
+          "after": "Early"
+        }
+      }
+    },
+    {
+      "id": 25986,
+      "name": "Unravel Carbon",
+      "slug": "unravel-carbon",
+      "batch": "Winter 2022",
+      "url": "https://www.ycombinator.com/companies/unravel-carbon",
+      "changed_fields": [
+        "isHiring"
+      ],
+      "changes": {
+        "isHiring": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "id": 26707,
+      "name": "Chariot",
+      "slug": "chariot-2",
+      "batch": "Summer 2022",
+      "url": "https://www.ycombinator.com/companies/chariot-2",
+      "changed_fields": [
+        "stage"
+      ],
+      "changes": {
+        "stage": {
+          "before": "Early",
+          "after": "Growth"
+        }
+      }
+    },
+    {
+      "id": 26716,
+      "name": "erad",
+      "slug": "erad",
+      "batch": "Summer 2022",
+      "url": "https://www.ycombinator.com/companies/erad",
+      "changed_fields": [
+        "isHiring"
+      ],
+      "changes": {
+        "isHiring": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "id": 27051,
+      "name": "Unthread",
+      "slug": "unthread",
+      "batch": "Summer 2022",
+      "url": "https://www.ycombinator.com/companies/unthread",
+      "changed_fields": [
+        "one_liner",
+        "status"
+      ],
+      "changes": {
+        "one_liner": {
+          "before": "Automate support ops natively in Slack",
+          "after": "AI helpdesk built for Slack & Teams"
+        },
+        "status": {
+          "before": "Active",
+          "after": "Acquired"
+        }
+      }
+    },
+    {
+      "id": 27892,
+      "name": "ShortLoop",
+      "slug": "shortloop",
+      "batch": "Winter 2023",
+      "url": "https://www.ycombinator.com/companies/shortloop",
+      "changed_fields": [
+        "isHiring"
+      ],
+      "changes": {
+        "isHiring": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "id": 29258,
+      "name": "Saga AI",
+      "slug": "saga-ai",
+      "batch": "Winter 2024",
+      "url": "https://www.ycombinator.com/companies/saga-ai",
+      "changed_fields": [
+        "long_description",
+        "one_liner"
+      ],
+      "changes": {
+        "long_description": {
+          "before": "Saga AI deploys voice agents for healthcare practices, ACOs, and health systems to handle scheduling, patient intake, and care gap outreach. Agents connect directly to your EHR in real time.",
+          "after": "Saga deploys AI agents onto the back office of patient access for medical practices, physician groups, and health systems. The agents read every inbound referral, fax, and form, then complete the work inside the practice's EHR: they enter intake data, verify insurance eligibility with real-time X12 270/271 checks, submit and track prior authorizations through payer portals, and request missing records. Saga works in Epic, Oracle Health (Cerner), athenahealth, eClinicalWorks, MedENT, and other EHRs, with staff approval on sensitive actions. HIPAA-compliant, BAA included."
+        },
+        "one_liner": {
+          "before": "Voice Agents for Healthcare Operations",
+          "after": "AI agents for patient access: referral intake, eligibility, and prior…"
+        }
+      }
+    },
+    {
+      "id": 29350,
+      "name": "Feldy",
+      "slug": "feldy",
+      "batch": "Winter 2024",
+      "url": "https://www.ycombinator.com/companies/feldy",
+      "changed_fields": [
+        "team_size"
+      ],
+      "changes": {
+        "team_size": {
+          "before": 4,
+          "after": 10
+        }
+      }
+    },
+    {
+      "id": 29393,
+      "name": "Voicepanel",
+      "slug": "voicepanel",
+      "batch": "Winter 2024",
+      "url": "https://www.ycombinator.com/companies/voicepanel",
+      "changed_fields": [
+        "isHiring"
+      ],
+      "changes": {
+        "isHiring": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "id": 29858,
+      "name": "Vera Health",
+      "slug": "vera-health",
+      "batch": "Summer 2024",
+      "url": "https://www.ycombinator.com/companies/vera-health",
+      "changed_fields": [
+        "long_description",
+        "one_liner",
+        "team_size"
+      ],
+      "changes": {
+        "long_description": {
+          "before": "We empower healthcare providers, starting with emergency physicians, with instant access to up-to-date evidence-based answers. Our platform cuts through the noise to deliver trustworthy medical information 10x faster, revolutionizing clinical decision-support.",
+          "after": "Vera Health is a medical search engine built to reason like a clinician. It finds the evidence first, grades it with a framework built alongside the physicians who write practice guidelines, and shows the source, strength and limits behind every answer, in seconds. Designed exclusively for healthcare professionals, Vera is used by more than 800,000 clinicians, including more than one in four doctors in Italy and Spain."
+        },
+        "one_liner": {
+          "before": "AI-powered clinical decision support for healthcare providers",
+          "after": "Medical search engine built to reason like a clinician."
+        },
+        "team_size": {
+          "before": 6,
+          "after": 12
+        }
+      }
+    },
+    {
+      "id": 30644,
+      "name": "Wafer",
+      "slug": "wafer",
+      "batch": "Summer 2025",
+      "url": "https://www.ycombinator.com/companies/wafer",
+      "changed_fields": [
+        "stage"
+      ],
+      "changes": {
+        "stage": {
+          "before": "Early",
+          "after": "Growth"
+        }
+      }
+    },
+    {
+      "id": 30933,
+      "name": "Nucleo",
+      "slug": "nucleo",
+      "batch": "Fall 2025",
+      "url": "https://www.ycombinator.com/companies/nucleo",
+      "changed_fields": [
+        "isHiring"
+      ],
+      "changes": {
+        "isHiring": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "id": 31074,
+      "name": "OneTriangle",
+      "slug": "onetriangle",
+      "batch": "Summer 2026",
+      "url": "https://www.ycombinator.com/companies/onetriangle",
+      "changed_fields": [
+        "long_description",
+        "one_liner"
+      ],
+      "changes": {
+        "long_description": {
+          "before": "Inference has surpassed training as AI’s largest compute cost, accelerated by increasing demand for AI and agents. By using proprietary KV cache transfer tech, OneTriangle has cut inference costs by 20% and time by 40% compared to present standards.",
+          "after": "OneTriangle optimizes prefill, speeding up TTFT 10x utilizing KV cache transfer tech\r\n\r\nWe integrate with your dedicated endpoints, or GPUs to speed up inference. "
+        },
+        "one_liner": {
+          "before": "The cheapest, fastest inference cloud",
+          "after": "Prefill optimizations for the fastest inference"
+        }
+      }
+    },
+    {
+      "id": 31152,
+      "name": "Fern",
+      "slug": "fern-bot",
+      "batch": "Winter 2026",
+      "url": "https://www.ycombinator.com/companies/fern-bot",
+      "changed_fields": [
+        "long_description"
+      ],
+      "changes": {
+        "long_description": {
+          "before": "Fern provides RL environments for robotics companies powered by a foundational world model. Companies can plug and play their robot policies completely in software with varying starting scenes of their production environment, and we'll produce RL heads on top of your existing policies to improve speed and success rate. Our customers get a continual learning flywheel where their production robots improve every week.",
+          "after": "Fern build high fidelity simulations for robotics, specifically focused on manipulation tasks. Customers have run over 900k simulation rollouts for RL and evaluations, and have verified that the simulation fidelity is high enough such that the real to sim and sim to real gap is very small."
+        }
+      }
+    },
+    {
+      "id": 31332,
+      "name": "Vespin",
+      "slug": "vespin",
+      "batch": "Spring 2026",
+      "url": "https://www.ycombinator.com/companies/vespin",
+      "changed_fields": [
+        "api",
+        "former_names",
+        "long_description",
+        "name",
+        "one_liner",
+        "slug",
+        "small_logo_thumb_url",
+        "url",
+        "website"
+      ],
+      "changes": {
+        "api": {
+          "before": "https://yc-oss.github.io/api/batches/spring-2026/stage.json",
+          "after": "https://yc-oss.github.io/api/batches/spring-2026/vespin.json"
+        },
+        "former_names": {
+          "before": [],
+          "after": [
+            "Stage"
+          ]
+        },
+        "long_description": {
+          "before": "Stage is a new code review platform designed to help engineers better understand and review AI generated code.\r\n\r\nEngineering teams are shipping faster than ever with agents, but now they’re drowning in an endless backlog of PRs to review. Stage reorganizes the code review process around how engineers naturally think, enabling you to review (and merge!) PRs 5x faster. \r\n\r\nUsed by top engineers at Legora, n8n, Branch, and more. ",
+          "after": ""
+        },
+        "name": {
+          "before": "Stage",
+          "after": "Vespin"
+        },
+        "one_liner": {
+          "before": "Code review platform for humans and agents",
+          "after": "An inbox for your coding agents"
+        },
+        "slug": {
+          "before": "stage",
+          "after": "vespin"
+        },
+        "small_logo_thumb_url": {
+          "before": "https://bookface-images.s3.amazonaws.com/small_logos/ac5a6cce941f973ff80cb4496e195f4010e5c21b.png",
+          "after": "https://bookface-images.s3.amazonaws.com/small_logos/488e0bf1da9ca12d399f04d8cafa2b336585587d.png"
+        },
+        "url": {
+          "before": "https://www.ycombinator.com/companies/stage",
+          "after": "https://www.ycombinator.com/companies/vespin"
+        },
+        "website": {
+          "before": "https://www.tryluke.dev/",
+          "after": "https://www.vespin.dev/"
+        }
+      }
+    },
+    {
+      "id": 31411,
+      "name": "Andco",
+      "slug": "andco",
+      "batch": "Spring 2026",
+      "url": "https://www.ycombinator.com/companies/andco",
+      "changed_fields": [
+        "isHiring",
+        "tags"
+      ],
+      "changes": {
+        "isHiring": {
+          "before": true,
+          "after": false
+        },
+        "tags": {
+          "before": [],
+          "after": [
+            "Consumer",
+            "B2B",
+            "LegalTech",
+            "AI"
+          ]
+        }
+      }
+    },
+    {
+      "id": 31414,
+      "name": "Dreach",
+      "slug": "dreach",
+      "batch": "Spring 2026",
+      "url": "https://www.ycombinator.com/companies/dreach",
+      "changed_fields": [
+        "team_size"
+      ],
+      "changes": {
+        "team_size": {
+          "before": 2,
+          "after": 5
+        }
+      }
+    },
+    {
+      "id": 31455,
+      "name": "tday.com",
+      "slug": "tdaycom",
+      "batch": "Spring 2026",
+      "url": "https://www.ycombinator.com/companies/tdaycom",
+      "changed_fields": [
+        "small_logo_thumb_url"
+      ],
+      "changes": {
+        "small_logo_thumb_url": {
+          "before": "https://bookface-images.s3.amazonaws.com/small_logos/1123d387e4b516167a9cfd6ca07f65801c739a56.png",
+          "after": "https://bookface-images.s3.amazonaws.com/small_logos/0bf4800e0ecc3bb9489a098b655e95d398a9ad10.png"
+        }
+      }
+    },
+    {
+      "id": 31490,
+      "name": "Nxtcure Labs",
+      "slug": "nxtcure-labs",
+      "batch": "Fall 2026",
+      "url": "https://www.ycombinator.com/companies/nxtcure-labs",
+      "changed_fields": [
+        "long_description"
+      ],
+      "changes": {
+        "long_description": {
+          "before": "Reinventing medicine from lab to drug discovery.\r\nNxtCure CRO- an AI-native, full-stack CRO built to take therapeutics from discovery to market faster.\r\nNxtCure Cancer- the all-in-one mobile platform guiding patients through the cancer journey.\r\nWe’re building the operating system for the future of medicine.",
+          "after": "Reinventing medicine from lab to drug discovery.\r\nNxtCure CRO- an AI-native, full-stack CRO built to take therapeutics from discovery to market faster.\r\n\r\nAbout 2 million Americans are diagnosed with cancer every year. Science has never moved faster, new immunotherapies, targeted drugs and cancer vaccines arrive every year. But roughly 90% of cancer drugs fail in clinical trials, and about 80% of trials run late. The breakthroughs exist. The way we test them is stuck in the last century.\r\n\r\nNxtCure is building autonomous clinical trials. Before a single patient enrolls, we run the trial thousands of times on digital twins. Each virtual patient is a system of coupled differential equations that track how a drug moves through plasma, tumor and heart, and how the tumor grows, shrinks or fights back. The parameters are fit to real trial data, so every twin behaves like real biology. Across thousands of simulations we can calculate the odds that a dose will hit its endpoints, and fix the protocol before it costs anyone time, money or hope.\r\n\r\nThen 13 AI agents run the trial. Each one owns a stage: drafting the protocol, ranking sites, pre-screening patients, forecasting drug supply, watching for adverse events, predicting dropout, cleaning data and writing the final report. As real data comes in, the twins update and flag problems weeks before a human would see them.\r\n\r\nIn 2025, the FDA laid out how computer simulation can take its place. Soon a cancer drug will run through thousands of simulated trials before it ever touches a lab, and reach patients years faster. We’re building that future."
+        }
+      }
+    },
+    {
+      "id": 31491,
+      "name": "e2e",
+      "slug": "e2e",
+      "batch": "Spring 2026",
+      "url": "https://www.ycombinator.com/companies/e2e",
+      "changed_fields": [
+        "api",
+        "former_names",
+        "long_description",
+        "name",
+        "one_liner",
+        "slug",
+        "small_logo_thumb_url",
+        "team_size",
+        "url",
+        "website"
+      ],
+      "changes": {
+        "api": {
+          "before": "https://yc-oss.github.io/api/batches/spring-2026/testerarmy.json",
+          "after": "https://yc-oss.github.io/api/batches/spring-2026/e2e.json"
+        },
+        "former_names": {
+          "before": [
+            "Tester Army"
+          ],
+          "after": [
+            "Tester Army",
+            "TesterArmy"
+          ]
+        },
+        "long_description": {
+          "before": "TesterArmy is an AI agent that tests websites and mobile apps. It monitors production on a schedule and runs automatically on every GitHub Pull Request, delivering screenshots, recordings, and actionable bug reports.\r\n\r\nDescribe tests in plain English. The agent handles login flows, OAuth, and OTPs, no scripts to write or maintain. We catch the regressions and UX issues that code review misses.",
+          "after": ""
+        },
+        "name": {
+          "before": "TesterArmy",
+          "after": "e2e"
+        },
+        "one_liner": {
+          "before": "Test your app with AI, catch bugs before users do",
+          "after": "the software verification layer for the agentic coding era"
+        },
+        "slug": {
+          "before": "testerarmy",
+          "after": "e2e"
+        },
+        "small_logo_thumb_url": {
+          "before": "https://bookface-images.s3.amazonaws.com/small_logos/c2383517bbad408b44b80d2d5f5912ef81073ff0.png",
+          "after": "https://bookface-images.s3.amazonaws.com/small_logos/67b593bc15edf4c74365d55d734a00481f57bcfd.png"
+        },
+        "team_size": {
+          "before": 6,
+          "after": 8
+        },
+        "url": {
+          "before": "https://www.ycombinator.com/companies/testerarmy",
+          "after": "https://www.ycombinator.com/companies/e2e"
+        },
+        "website": {
+          "before": "https://tester.army",
+          "after": "https://e2e.com"
+        }
+      }
+    },
+    {
+      "id": 31582,
+      "name": "Edgerun",
+      "slug": "edgerun",
+      "batch": "Summer 2026",
+      "url": "https://www.ycombinator.com/companies/edgerun",
+      "changed_fields": [
+        "long_description",
+        "team_size"
+      ],
+      "changes": {
+        "long_description": {
+          "before": "Edgerun builds military exoskeletons. The first product is a 10-pound hip system that fits over existing kit and doubles a soldier’s range. Since April 2026, Edgerun built over a dozen iterations of their product through continuous field tests with Ukrainian fighters and secured $150M+ in LOIs. Founder David Venegas previously co-founded Durin (autonomous mining robotics) and worked at Stoke Space (at 19) and Hadrian. He is a high-school dropout, state-championship runner, adventure athlete, and pilot. Edgerun is a Y Combinator company backed by General H.R. McMaster, Cyan Banister, Joshua Steinman and Jason Miller. edgerun.com",
+          "after": "Edgerun builds military exoskeletons. Read the mission at edgerun.com/mission "
+        },
+        "team_size": {
+          "before": 5,
+          "after": 12
+        }
+      }
+    },
+    {
+      "id": 31584,
+      "name": "CONUS",
+      "slug": "conus",
+      "batch": "Fall 2026",
+      "url": "https://www.ycombinator.com/companies/conus",
+      "changed_fields": [
+        "long_description"
+      ],
+      "changes": {
+        "long_description": {
+          "before": "CONUS structures fragmented medical device information for surgeons. We combine manufacturer documentation, hospital protocols and medical research in one place, giving surgeons and MedTech teams reliable answers across products and procedures.\r\n\r\nWe already work with leading manufacturers including Johnson & Johnson, Stryker and Zimmer Biomet, and since launching six months ago we’ve gone live in 20 hospitals.\r\n\r\nLong term, hospitals will use CONUS to select and order implants across manufacturers.",
+          "after": "CONUS structures fragmented medical device information for surgeons. We combine manufacturer documentation, hospital protocols and medical research in one place, giving surgeons and MedTech teams reliable answers across products and procedures.\r\n\r\nWe already work with leading manufacturers including Johnson & Johnson, Stryker and Zimmer Biomet, and since launching six months ago we’ve gone live in 22 hospitals.\r\n\r\nLong term, hospitals will use CONUS to select and order implants across manufacturers."
+        }
+      }
+    },
+    {
+      "id": 32164,
+      "name": "Prized",
+      "slug": "prized",
+      "batch": "Summer 2026",
+      "url": "https://www.ycombinator.com/companies/prized",
+      "changed_fields": [
+        "team_size"
+      ],
+      "changes": {
+        "team_size": {
+          "before": 2,
+          "after": 3
+        }
+      }
+    },
+    {
+      "id": 32192,
+      "name": "Rise Reforming",
+      "slug": "rise-reforming",
+      "batch": "Summer 2026",
+      "url": "https://www.ycombinator.com/companies/rise-reforming",
+      "changed_fields": [
+        "team_size"
+      ],
+      "changes": {
+        "team_size": {
+          "before": 4,
+          "after": 5
+        }
+      }
+    },
+    {
+      "id": 32716,
+      "name": "Neuromorphic",
+      "slug": "neuromorphic",
+      "batch": "Summer 2026",
+      "url": "https://www.ycombinator.com/companies/neuromorphic",
+      "changed_fields": [
+        "isHiring"
+      ],
+      "changes": {
+        "isHiring": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "id": 32985,
+      "name": "Lumeria",
+      "slug": "lumeria",
+      "batch": "Summer 2026",
+      "url": "https://www.ycombinator.com/companies/lumeria",
+      "changed_fields": [
+        "website"
+      ],
+      "changes": {
+        "website": {
+          "before": "https://lumeria.skin",
+          "after": "https://lumeria.com"
+        }
+      }
+    },
+    {
+      "id": 33540,
+      "name": "Osseus",
+      "slug": "osseus",
+      "batch": "Summer 2026",
+      "url": "https://www.ycombinator.com/companies/osseus",
+      "changed_fields": [
+        "long_description"
+      ],
+      "changes": {
+        "long_description": {
+          "before": "In an era of cheap intelligence, the most important application of AI will be to improving human health, globally. Osseus is building the frontier biomedical AI research lab, starting with the clinical datasets, evaluations, and reinforcement learning environments that help AI labs train more capable, aligned, and safe models.",
+          "after": "In an era of cheap intelligence, the most important application of AI will be to improving human health, globally. Osseus is building the frontier biomedical AI research lab, starting with the evaluations, reinforcement learning environments, and datasets that help AI labs train more capable, aligned, and safe models. We post-train models for medical and biological tasks, and deploy these in biotech, pharma and healthcare systems to ultimately improve patient outcomes."
+        }
+      }
+    },
+    {
+      "id": 33705,
+      "name": "ernd",
+      "slug": "ernd",
+      "batch": "Fall 2026",
+      "url": "https://www.ycombinator.com/companies/ernd",
+      "changed_fields": [
+        "website"
+      ],
+      "changes": {
+        "website": {
+          "before": "https://ernd.io/",
+          "after": "https://ernd.ai/"
+        }
+      }
+    },
+    {
+      "id": 34895,
+      "name": "OpenScaffold",
+      "slug": "openscaffold",
+      "batch": "Fall 2026",
+      "url": "https://www.ycombinator.com/companies/openscaffold",
+      "changed_fields": [
+        "website"
+      ],
+      "changes": {
+        "website": {
+          "before": "",
+          "after": "https://openscaffold.ai"
+        }
+      }
+    },
+    {
+      "id": 35521,
+      "name": "ORO AI",
+      "slug": "oro-ai",
+      "batch": "Fall 2026",
+      "url": "https://www.ycombinator.com/companies/oro-ai",
+      "changed_fields": [
+        "long_description",
+        "one_liner"
+      ],
+      "changes": {
+        "long_description": {
+          "before": "We're building the open benchmark for commerce.\r\n\r\nBuilders submit shopping agents. Independent validators run them against problems that change daily. The best agent earns the rewards, and every run becomes training data.",
+          "after": "We focus on gaps, safety and alignment research in order to make sure AI can run autonomous businesses."
+        },
+        "one_liner": {
+          "before": "Continuously improving evals for agentic commerce",
+          "after": "RL environments that teach AI to run businesses autonomously"
+        }
+      }
+    },
+    {
+      "id": 36513,
+      "name": "Graphide",
+      "slug": "graphide",
+      "batch": "Fall 2026",
+      "url": "https://www.ycombinator.com/companies/graphide",
+      "changed_fields": [
+        "website"
+      ],
+      "changes": {
+        "website": {
+          "before": "https://Graphide.com",
+          "after": "https://graphide.com"
+        }
+      }
+    },
+    {
+      "id": 36741,
+      "name": "Perit.AI",
+      "slug": "peritai",
+      "batch": "Fall 2026",
+      "url": "https://www.ycombinator.com/companies/peritai",
+      "changed_fields": [
+        "long_description",
+        "one_liner"
+      ],
+      "changes": {
+        "long_description": {
+          "before": "",
+          "after": "Perit is a training-data company for frontier AI labs. Everything we deliver is recorded, transcribed, labelled and graded by people who actually do the job: ex-contact-centre QA leads, claims handlers, ward clerks and shopkeepers, recruited for the sector and locale each program needs.\r\n\r\nWhat we deliver:\r\n\r\n- Voice and speech data: 4,000+ hours of audio delivered across 9 locales, transcribed verbatim and word-aligned, with 95%+ QA-sample accuracy.\r\n- RL environments and benchmarks: speech-to-speech RL environments plus coding and RL task sets, currently 100 RL tasks per week and scalable to 2,000.\r\n- Embodied data for robotics: egocentric video, depth, teleoperation and handheld-gripper demonstrations recorded in real homes, shops and workplaces.\r\n- Data collection and annotation: video, image and text collected to spec, and annotation of any data type on our own Foundry workspace.\r\n\r\nEvery batch ships with a quality report, consent references and a reviewer chain. We work with almost all frontier labs and have quickly gotten past $9M in revenue.\r\n\r\nFounded by 2x YC founders Kshitij Dixit (Zeo, YC W20) and Poorva Dixit (ex-Google Cloud AI, Uber, Atlassian), with a deep IIT network of researchers at top labs."
+        },
+        "one_liner": {
+          "before": "Expert-led data and RL platform for AI labs",
+          "after": "Expert-collected voice, egocentric and RL training data for frontier…"
+        }
+      }
+    },
+    {
+      "id": 37005,
+      "name": "Verdun",
+      "slug": "verdun",
+      "batch": "Fall 2026",
+      "url": "https://www.ycombinator.com/companies/verdun",
+      "changed_fields": [
+        "all_locations"
+      ],
+      "changes": {
+        "all_locations": {
+          "before": "Los Angeles, CA, USA",
+          "after": "San Francisco, CA, USA"
+        }
+      }
+    },
+    {
+      "id": 37434,
+      "name": "Ascenix",
+      "slug": "ascenix",
+      "batch": "Fall 2026",
+      "url": "https://www.ycombinator.com/companies/ascenix",
+      "changed_fields": [
+        "long_description",
+        "one_liner"
+      ],
+      "changes": {
+        "long_description": {
+          "before": "Ascenix is building custom software for running senior homes. We combine reusable building blocks into workflows tailored to each home's existing processes, from incident reporting to reimbursement. Homes get custom software without hiring an engineering team.\r\n\r\nLiving in a retirement home convinced us that the best way to improve residents' lives is to improve the systems staff rely on. As the older population grows, care teams need more time and resources. Repetitive reporting, missed reimbursement, and compliance problems take those away, while disconnected tools add costs and leave staff moving information between systems.\r\n\r\nOur building blocks gather information from EHRs like PointClickCare and other sources, process it, apply rules, and produce reports, tasks, or emails. Incident reporting and reimbursement reviews usually come from two separate vendors. Ascenix builds both from the same blocks, in one interface, so data isn't stuck in silos. Homes start with their biggest bottleneck and add workflows as priorities change.",
+          "after": "Ascenix is building one custom interface for running senior homes. We combine reusable building blocks into workflows tailored to each home's existing processes, from incident reporting to reimbursement. Homes get custom software without hiring an engineering team.\r\n\r\nLiving in a retirement home convinced us that the best way to improve residents' lives is to improve the systems staff rely on. As the older population grows, care teams need more time and resources. Repetitive reporting, missed reimbursement, and compliance problems take those away. Disconnected products that solve each of these individually add costs and leave staff moving information between systems.\r\n\r\nOur building blocks gather information from EHRs like PointClickCare and other sources, process it, apply rules, and produce reports, tasks, or emails. Incident reporting and reimbursement reviews usually come from two separate vendors. Ascenix builds both from the same blocks, in one interface, so data isn't stuck in silos. Homes start with their biggest bottleneck and add workflows as priorities change."
+        },
+        "one_liner": {
+          "before": "One interface for senior care facilities.",
+          "after": "Custom software for senior care facilities."
+        }
+      }
+    },
+    {
+      "id": 39117,
+      "name": "Godpack",
+      "slug": "godpack",
+      "batch": "Winter 2027",
+      "url": "https://www.ycombinator.com/companies/godpack",
+      "changed_fields": [
+        "all_locations",
+        "small_logo_thumb_url"
+      ],
+      "changes": {
+        "all_locations": {
+          "before": "San Francisco, CA, USA",
+          "after": "New York City, NY, USA"
+        },
+        "small_logo_thumb_url": {
+          "before": "https://bookface-images.s3.amazonaws.com/small_logos/5cf26da4e502d22859bba31a1834d27e69baf813.png",
+          "after": "https://bookface-images.s3.amazonaws.com/small_logos/efed4a76a2a7ec64512d28d0184feb711e11215b.png"
+        }
+      }
+    }
+  ]
+}
