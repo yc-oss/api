@@ -6852,8 +6852,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d97c7b6a062bbf024d979f3e67fe169d6f103b8b.png",
     "website": "http://tilt.io",
     "all_locations": "Toronto, ON, Canada; Remote",
-    "long_description": "Tilt is building the audited methodology layer agents call before touching portfolios. As agents begin managing real portfolios, they need a neutral trusted source of verified investment logic before they can act.\r\n\r\nWe operate across two connected surfaces: InvestOS, an open standard that lets any brokerage or platform plug verified methodology into its own AI experience; and Tilt, the reference implementation of InvestOS. Tilt is an agentic harness where investors, portfolio managers, and creators can author, remix, and publish strategies. \r\n\r\nIf you're thinking about working here, our mission is to price the world's information.",
-    "one_liner": "GitHub for Investment Methodology",
+    "long_description": "Everything is (becoming) investable, so why not invest in ideas before they become ETFs.\r\n\r\nTilt is building the audited methodology layer agents call before touching portfolios. As agents begin managing real portfolios, they need a neutral trusted source of verified investment logic before they can act.\r\n\r\nWe operate across two connected surfaces: InvestOS, an open standard that lets any brokerage or platform plug verified methodology into its own AI experience; and Tilt, the reference implementation of InvestOS. Tilt is an agentic harness where investors, portfolio managers, and creators can author, remix, and publish strategies. \r\n\r\nIf you're thinking about working here, our mission is to price the world's information.",
+    "one_liner": "",
     "team_size": 25,
     "industry": "Fintech",
     "subindustry": "Fintech -> Consumer Finance",
@@ -10162,49 +10162,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/first",
     "api": "https://yc-oss.github.io/api/batches/winter-2019/first.json"
-  },
-  {
-    "id": 12297,
-    "name": "Numero",
-    "slug": "numero",
-    "former_names": [
-      "Level Systems"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8663319687cca8664b93c3aa543baf1423129ed5.png",
-    "website": "https://www.numero.ai",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "At Numero, we build software for political campaigns and nonprofits. We were founded in 2019 (after our founders met while working together on a Congressional race) with the goal of building a modern fundraising software suite from the ground up – one that users actually want to use. In that time, we’ve scaled our platform to serve thousands of clients ranging from city council seats to US Senate races, and have helped them collectively manage over $10B in contributions.\r\n\r\nOur platform is an all-in-one system comprised of a donor CRM, a broadcast email/text tool, and payment processing pages that our clients rely on for their work every day. We’re small, tight-knit team that has deep experience in this space and are backed by world class investors including 776, Y Combinator, and Initialized Capital.",
-    "one_liner": "Modern fundraising software for political campaigns and nonprofits.",
-    "team_size": 15,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
-    "launched_at": 1633478434,
-    "tags": [
-      "Fintech",
-      "SaaS"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2019",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/numero",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/numero.json"
   },
   {
     "id": 12300,
@@ -17545,7 +17502,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -19222,52 +19179,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/odys-aviation",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/odys-aviation.json"
-  },
-  {
-    "id": 23948,
-    "name": "Superwall",
-    "slug": "staffbar",
-    "former_names": [
-      "Share That",
-      "StaffBar"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e4505819ade5550ec16c605c15c7ccf142d096de.png",
-    "website": "https://superwall.com",
-    "all_locations": "New York City, NY, USA",
-    "long_description": "Superwall is a complete, standalone subscription platform for consumer mobile and web apps — backend infrastructure (entitlements, purchase APIs with server-side receipt validation, standardized webhooks, real-time revenue analytics, direct SQL access to subscription data) together with a no-code paywall and experimentation engine, and first-class tooling for AI coding agents. Superwall manages $1.6B+ in annual subscription revenue across 10,000+ apps. The infrastructure layer is free at any scale; the only meter on the platform is revenue that converts through a Superwall-rendered paywall — subscriptions sold anywhere else are never billed.\r\n\r\n**Standalone backend:** The highest-revenue apps on Superwall like Cal AI — run their **entire subscription stack on Superwall alone: no second backend, no other subscription platform underneath**. Entitlement state is computed server-side from App Store Server Notifications V2 and Google Play Real-Time Developer Notifications, delivered by Apple and Google directly to Superwall. The largest single app runs **$43.7M ARR entirely on Superwall**; the top 10 together represent $134M+ in annual subscription revenue. Apps that previously ran a different subscription backend complete an automated migration — subscription history, entitlement state, webhook configuration — and run on Superwall alone from then on; imported subscribers are never billed.\r\n\r\n**Pricing:** The subscription infrastructure — entitlements, receipt validation, webhooks, analytics, SQL access — is free at any scale, with no revenue threshold and no per-event fees. The paywall product is free up to $10k/month in paywall-attributed revenue, then 1% of paywall-attributed revenue, and only that revenue: an app with $50k/month in subscriptions and no Superwall paywalls in use pays $0/month for the entire platform, and revenue the platform didn't help earn is never billed. Compared with charging a percentage of all subscription revenue, the difference is the base, not the rate.\r\n\r\n**Coverage:** Apple App Store, Google Play, and Stripe — including web checkout, external browser checkout from iOS paywalls (App2Web), and products from any external billing system via Custom Store Products. Monetization models: auto-renewing subscriptions, free trials and intro offers, one-time purchases, lifetime unlocks, and consumables. SDKs: iOS & Apple platforms, Android, React Native, Flutter, Expo, Unity, and Web — all open source on [GitHub](https://github.com/superwall). Not just for engineers: growth, product, support, and data teams run monetization from the dashboard, analytics, and SQL access day to day.\r\n\r\n**What Superwall does not do:** It does not process payments — Apple, Google, and Stripe do. It does not run virtual-currency or coin-ledger systems, does not track ad revenue, and does not support Amazon or Roku storefronts. For consumer subscription apps on iOS, Android, and the web, it covers the monetization surface end to end.\r\n\r\n**Experimentation:** Superwall's published research spans 100M+ analyzed paywall views and 4,500+ paywall A/B tests: multi-page onboarding paywalls convert 37% better than single-page (40M+ opens measured), Cal AI ran 123 experiments and grew monthly revenue 3x+ in 10 months, Planner 5D lifted revenue per user 83% through price testing. Build, target, test, and ship paywalls from the dashboard with no app release.\r\n\r\n**Retention:** Free trial reminders, cancellation and decline surveys, transaction-abandon recovery offers, win-back paywalls targeted by subscription state, Apple Retention Messaging on the iOS cancel screen, automated refund protection, and a per-customer timeline for support.\r\n\r\n**Agent tooling:** Open-source agent skills for Claude Code, Codex, and other coding agents; an editor MCP server for building live paywalls from the terminal; an embedded dashboard CLI; and direct SQL access to subscription data via the Query API.",
-    "one_liner": "Subscription infrastructure & paywall experimentation for mobile apps",
-    "team_size": 25,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1628553410,
-    "tags": [
-      "Developer Tools",
-      "Payments",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2021",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/staffbar",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/staffbar.json"
   },
   {
     "id": 23954,
@@ -31826,21 +31737,21 @@
     "name": "Clad",
     "slug": "clad",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5ab0e3d7b0de12617818a986b541a5e524c146ae.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/90c830f0ffefa33c0437d5ac4e919e2d5b606b3b.png",
     "website": "https://withclad.com/",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Clad is project management and billing software for infrastructure.\r\n\r\nThe world is rebuilding its internet and power networks. The utilities, internet companies, and contractors tasked with this work face immense pressure to deliver.\r\n\r\nBut their tools haven’t caught up. Contractors struggle to grow, constrained by cashflow. Operators fly blind, lacking real time visibility into issues. \r\n\r\nClad unifies project operations and finance to automate project tracking, payments, and permitting.\r\n\r\nWith Clad, contractors grow faster and improve their margins. Operators execute smoothly. And everyone can focus on what’s most important - building.",
-    "one_liner": "Project management software for building infrastructure.",
+    "long_description": "Clad is billing and project management software for utility construction.\r\n\r\nThe world is rebuilding its internet and power networks. The utilities, internet companies, and contractors tasked with this work face immense pressure to deliver.\r\n\r\nBut their tools haven’t caught up. Contractors struggle to grow, constrained by cashflow. Operators fly blind, lacking real time visibility into issues. \r\n\r\nClad unifies project operations and finance to automate project tracking, payments, and permitting.\r\n\r\nWith Clad, contractors grow faster and improve their margins. Operators execute smoothly. And everyone can focus on what’s most important - building.",
+    "one_liner": "Billing and project management for utility construction",
     "team_size": 7,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction -> Construction",
     "launched_at": 1672801770,
     "tags": [
-      "Marketplace",
       "SaaS",
       "Construction",
       "B2B",
-      "Collaboration"
+      "Collaboration",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -33818,7 +33729,7 @@
     "all_locations": "London, England, United Kingdom",
     "long_description": "Solve Intelligence is the AI platform for helping legal professionals with every part of the patent process.\r\n\r\nWith $55M backing from Y Combinator, Microsoft, Thomson Reuters, 20VC, Operator Collective, Visionaries, and others, they have assembled a world-leading team of patent attorneys, AI PhDs, and software developers to build products for patent application drafting, office action responses, invention harvesting, claim charting, infringement analysis, FTO, validity challenges, patent litigation, and more.\r\n\r\nThey are now selling their 100% secure and confidential software to 700+ IP firms and in-house teams across the US, Europe, and Asia (e.g. DLA Piper, Siemens, Perkins Coie, Amgen - see customers https://www.solveintelligence.com/#customers).\r\n\r\nSolve customers are reporting 60-90% efficiency and quality improvements (see testimonials https://www.solveintelligence.com/#testimonials).\r\n\r\nSee a demo today: https://www.solveintelligence.com/contact-us",
     "one_liner": "AI patent drafting, prosecution, litigation and more for legal teams.",
-    "team_size": 50,
+    "team_size": 70,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1686701574,
@@ -33837,7 +33748,7 @@
       "United Kingdom",
       "Europe"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -34629,11 +34540,11 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d1c735d9ba6a64fce2c94cba6690c524ea7f778.png",
     "website": "https://withsurface.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Surface Labs helps B2B companies capture, qualify, and convert inbound leads through intelligent contact forms. We replace tools like HubSpot Forms, Zapier, and Chili Piper with a single platform that embeds on any site with one line of code.\r\n\r\nOur AI agents handle lead capture, enrichment, routing, follow-up, and CRO testing — automating what used to require full marketing ops teams. Customers see a 30% lift in conversions in under 2 weeks, and our partial response capture feature collects 50% more emails from form drop-offs.",
-    "one_liner": "Building the AI-powered marketing ops platform that turns website…",
-    "team_size": 6,
+    "long_description": "Surface Labs is an applied AI lab that enables autonomous companies. \r\n\r\nWe help enterprises hand critical operations to agent teams instead of adding another tool or another headcount. \r\n\r\nOur agent teams run real work on the systems a company already uses, from inbound, pricing and FP&A to supply chain, KYC reviews and AML alerts.",
+    "one_liner": "We deploy agent teams that run critical business operations on your…",
+    "team_size": 10,
     "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
+    "subindustry": "B2B",
     "launched_at": 1693007377,
     "tags": [
       "Sales",
@@ -34649,8 +34560,7 @@
     "batch": "Summer 2023",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Marketing"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -42138,9 +42048,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/931b010912edad6092eb6dc209a64e86f18872c9.png",
     "website": "https://www.dodo.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Dodo turns client communication into booked appointments, completed workflows, and predictive analytics, powering millions of client interactions annually for hundreds of clinics.\r\n\r\nOur multi-agent system autonomously runs scheduling, refills, intake, and follow-ups across calls and texts — integrating directly with clinic systems to cut communication overhead ~70% and act like a trained CSR 24/7.",
+    "long_description": "Dodo turns client communication into booked appointments, completed workflows, and predictive analytics, powering millions of client interactions annually for thousands of clinics.\r\n\r\nOur multi-agent system autonomously runs scheduling, refills, intake, and follow-ups across calls and texts — integrating directly with clinic systems to cut communication overhead ~70% and act like a trained CSR 24/7.",
     "one_liner": "AI agents that handle communications for clinics",
-    "team_size": 6,
+    "team_size": 10,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1723044153,
@@ -44617,51 +44527,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/vera-health.json"
   },
   {
-    "id": 29957,
-    "name": "Anglera",
-    "slug": "anglera",
-    "former_names": [
-      "Angler"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a2dfb2adf611e11737fa14a1b9b4be581858cfc3.png",
-    "website": "https://www.anglera.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "At Anglera, we're developing a suite of AI agents to help e-commerce companies run their operations more efficiently. Our flagship agent helps our customers onboard, enrich, and manage their product data, reducing time per product from 15 mins down to 5 seconds.\r\n\r\nWe previously developed ML to automatically enrich millions of products at Uber Eats, and we're now on a mission to automate the most common manual workflows for every e-commerce business.",
-    "one_liner": "AI-Powered Product Data Enrichment",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B -> Retail",
-    "launched_at": 1719875304,
-    "tags": [
-      "Machine Learning",
-      "SaaS",
-      "B2B",
-      "E-commerce",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Retail"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/anglera",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/anglera.json"
-  },
-  {
     "id": 29963,
     "name": "Capitol AI",
     "slug": "capitol-ai",
@@ -44931,50 +44796,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/syntra",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/syntra.json"
-  },
-  {
-    "id": 29989,
-    "name": "Conductor",
-    "slug": "conductor",
-    "former_names": [
-      "BookMe",
-      "Melty",
-      "Chorus"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2cd38e31ad4112f27dcddd9c52ef2f8fc0e2fbab.png",
-    "website": "https://conductor.build",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Run parallel agents in isolated workspaces. See at a glance what they’re working on, then review and merge their changes. ",
-    "one_liner": "Run a team of coding agents on your Mac",
-    "team_size": 8,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1725301012,
-    "tags": [
-      "Developer Tools",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/conductor",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/conductor.json"
   },
   {
     "id": 29992,
@@ -47266,49 +47087,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/closure.json"
   },
   {
-    "id": 30215,
-    "name": "Contrario",
-    "slug": "contrario",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d87aacd192132e2914478f159180c7f82caa8ec.png",
-    "website": "https://contrario.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Contrario is an AI recruiting and hiring platform on a mission to help companies build generational teams.\r\n\r\nIn the age of AI, the best teams are still built by the best people. Recruiting has become a zero-sum game where speed and quality decide who wins.\r\n\r\nContrario is a network of expert recruiters supercharged by vertical AI agents purpose-built for hiring. Teams at Wispr Flow, Listen Labs, Slash, and 200+ of the fastest-growing companies use Contrario to power their hiring.\r\n\r\nIn under six months, Contrario has crossed $6M in annualized revenue, paid out $1M+ to recruiters, and placed 150+ candidates — making it one of the fastest-growing AI recruiting platforms on the market.\r\n\r\nBacked by Y Combinator, Nexus Venture Partners, Goodwater Capital, and Inventum Ventures, alongside angels including David Chen (ex-HRT), Abhijeet Dwivedi (OpenAI), Hank Couture (DoorDash), and Jerry Cain (Stanford CS). Built by Stanford dropouts. Headquartered in San Francisco.",
-    "one_liner": "AI hiring platform powered by expert recruiters",
-    "team_size": 20,
-    "industry": "B2B",
-    "subindustry": "B2B -> Recruiting and Talent",
-    "launched_at": 1740035301,
-    "tags": [
-      "SaaS",
-      "Recruiting",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Recruiting and Talent"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/contrario",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/contrario.json"
-  },
-  {
     "id": 30218,
     "name": "Toothy AI",
     "slug": "toothy-ai",
@@ -47519,7 +47297,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -55094,21 +54872,27 @@
   },
   {
     "id": 30837,
-    "name": "AirCaps",
-    "slug": "aircaps",
+    "name": "AirCaps AI",
+    "slug": "aircaps-ai",
     "former_names": [
-      "Vued"
+      "Vued",
+      "AirCaps"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/839111803eb4ccce6e6e411847617a96d8d7d880.png",
-    "website": "https://aircaps.com",
+    "website": "https://aircaps.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "AirCaps is bringing AI assistance to in-person conversations. \r\n\r\nOur AI-copilot provides live captions, translations, AI meeting notes and insights for in-person conversations in real-time. It's deployed as an app for lightweight AR glasses so you can see visual information overlaid onto your field of vision.\r\n\r\nYou can think of it like a Zoom AI meeting assistant or Granola, but for in-person conversations, and with the ability to proactively help you in real-time, not just after the conversation.\r\n\r\nWe’re building the capture and intelligence layer for the 216 billion daily conversations that happen face-to-face.\r\n\r\nWe’ve already processed 16,500 hours of real-world conversations and counting. Today, AirCaps assists with 11% of our users’ in-person conversations.\r\n\r\nWe did $93K in revenue in October and grew 6.5x from September while spending <$3K on marketing (and hit $70K in revenue in the first 2 weeks of November). Our power users average 6h+ daily usage and our day-30 retention is 91%.\r\n\r\nWe previously went viral (75M+ views on TikTok, 150K+ followers) and have been featured by The New Yorker, WIRED, and Forbes.\r\n\r\nMadhav (CEO, Yale CS) has been building in audio and AR since age 13, starting with Google Glass apps and voice assistants for Raspberry Pis. He researched audio AI at the MIT Media Lab. Nirbhay (CTO, Cornell CS) built voice AI on smart glasses in high school and built conversational AI products as the first engineer at 2 YC startups.",
-    "one_liner": "The AI copilot for in-person conversations.",
+    "long_description": "AirCaps builds voice AI that hears what other models miss. Our speech-to-text, diarization and speaker ID models stay accurate despite noise, overlapping speech, and degraded distant audio.",
+    "one_liner": "Voice AI that hears what other models miss.",
     "team_size": 5,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
     "launched_at": 1760571679,
-    "tags": [],
+    "tags": [
+      "Developer Tools",
+      "Speech Recognition",
+      "API",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -55116,7 +54900,8 @@
     "batch": "Fall 2025",
     "status": "Active",
     "industries": [
-      "Consumer"
+      "B2B",
+      "Infrastructure"
     ],
     "regions": [
       "United States of America",
@@ -55127,8 +54912,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/aircaps",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/aircaps.json"
+    "url": "https://www.ycombinator.com/companies/aircaps-ai",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/aircaps-ai.json"
   },
   {
     "id": 30844,
@@ -60432,7 +60217,11 @@
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1774801488,
-    "tags": [],
+    "tags": [
+      "Robotics",
+      "Logistics",
+      "Manufacturing"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -61017,6 +60806,49 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/adialante.json"
   },
   {
+    "id": 31441,
+    "name": "Infera",
+    "slug": "infera",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e31e68f847b8067b4a5a541fed968e4b0739a6c4.png",
+    "website": "https://www.infera.bio",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Describe an experiment in plain English, and Infera turns it into a validated, instrument-ready run across the equipment your lab already uses. Infera handles the protocol logic, vendor-specific scripts, data, inventory, and institutional knowledge in one system. An AI-native compiler for the lab: one system from intent to execution.",
+    "one_liner": "Control lab instruments with natural language.",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Industrial Bio",
+    "launched_at": 1779916747,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Biotech",
+      "Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Industrial Bio"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/infera",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/infera.json"
+  },
+  {
     "id": 31443,
     "name": "Complir",
     "slug": "complir",
@@ -61139,6 +60971,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/reason-machines",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/reason-machines.json"
+  },
+  {
+    "id": 31463,
+    "name": "Armature",
+    "slug": "armature",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cafd940f7349e6c612893fad752013b10458ce39.png",
+    "website": "https://armature.tech",
+    "all_locations": "Paris, Île-de-France, France",
+    "long_description": "Coding agents like Claude Code, Codex and Cursor now decide which tools get installed in a codebase. Armature runs the real agents inside a panel of realistic repositories, measures whether they pick you, and works with your team on the docs, SDK and content that make them choose you.\r\n\r\nWe call this Agent-Led Growth (~coding agents GEO for dev tools).\r\n\r\nAnd once agents use your product, Armature shows you what users do with it through AI, with self-serve MCP analytics and evals that catch regressions before your users see them.",
+    "one_liner": "We get your product picked by coding agents.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1778126369,
+    "tags": [
+      "Marketing",
+      "SEO",
+      "AI",
+      "APIs"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "France",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/armature",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/armature.json"
   },
   {
     "id": 31464,
@@ -64052,8 +63926,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/461a9d05728add7a3449b82167ac418e94d301eb.png",
     "website": "https://runtime.si/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "Eval infrastructure for robots",
+    "long_description": "Runtime is building a simulation-based robot policy that needs no fine-tuning or teleoperation.",
+    "one_liner": "Robots that think in simulation",
     "team_size": 5,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -64084,6 +63958,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/runtimesi",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/runtimesi.json"
+  },
+  {
+    "id": 34596,
+    "name": "Bayworks",
+    "slug": "bayworks",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/55429f385c4236607558b3361f53a3e2676a6d8b.png",
+    "website": "https://bayworks.app",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Self-driving companies record every mile a car drives. Nobody records how it gets fixed.\r\n\r\nBayworks captures voice and video data as technicians repair cars, verifies the work, and turns this ground truth into a system that runs the dealership's operations and standardizes every repair.\r\n\r\nIn 110 days, we've gone from 0 to 80+ dealerships covering 4,000 repairs a day, including a top-50 US dealer group ($3B+ annual revenue).",
+    "one_liner": "Intelligence that keeps America’s vehicles running",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Automotive",
+    "launched_at": 1793399025,
+    "tags": [
+      "B2B",
+      "AI",
+      "Automotive"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Automotive"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bayworks",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/bayworks.json"
   },
   {
     "id": 35025,
@@ -64177,7 +64092,7 @@
     "slug": "helios-intelligence",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dc9a239cf834c9434b809e9cda6ac12630153db.png",
-    "website": "https://www.myhelios.com/",
+    "website": "https://www.heliosinc.ai/",
     "all_locations": "Boston, MA, USA",
     "long_description": "Helios is building a molecular body test from a single drop of blood. Our at-home test measures more than 1,000 biomarkers and turns them into a living model of the body—designed to show what is happening now, surface risk earlier, and become more useful with every test.\n\nBy combining longitudinal molecular data with labs, wearables, health records, and outcomes, we are building toward a world model of human biology. Our goal is to simulate all of human health and use that intelligence to help people perform, recover, and live longer.",
     "one_liner": "At-home molecular body test: 1,000+ biomarkers from a drop of blood",

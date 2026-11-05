@@ -10159,7 +10159,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2019",
     "status": "Active",
@@ -17447,7 +17447,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -19680,7 +19680,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -23296,7 +23296,7 @@
     "all_locations": "Toronto, ON, Canada",
     "long_description": "We believe that finding the right data shouldn’t require a technical background or hours of digging. That’s why Secoda applies AI to transform messy, siloed analytics into a searchable, intuitive knowledge layer—so every question gets a fast, useful answer.\r\n\r\nOur vision is to become the AI search engine for your company’s analytics, making data discovery as seamless as finding a website on Google. To do that, Secoda gets data AI-ready by unifying governance, cataloging, observability, and lineage into one trusted, easy-to-use platform—empowering every team to move faster, stay compliant, and make smarter decisions.",
     "one_liner": "Secoda is the AI layer for your Analytics",
-    "team_size": 27,
+    "team_size": 45,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1626792128,
@@ -23323,7 +23323,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -25764,6 +25764,7 @@
     "regions": [
       "United States of America",
       "Canada",
+      "America / Canada",
       "America / Canada",
       "Remote",
       "Partly Remote"
@@ -37017,21 +37018,21 @@
     "name": "Clad",
     "slug": "clad",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5ab0e3d7b0de12617818a986b541a5e524c146ae.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/90c830f0ffefa33c0437d5ac4e919e2d5b606b3b.png",
     "website": "https://withclad.com/",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Clad is project management and billing software for infrastructure.\r\n\r\nThe world is rebuilding its internet and power networks. The utilities, internet companies, and contractors tasked with this work face immense pressure to deliver.\r\n\r\nBut their tools haven’t caught up. Contractors struggle to grow, constrained by cashflow. Operators fly blind, lacking real time visibility into issues. \r\n\r\nClad unifies project operations and finance to automate project tracking, payments, and permitting.\r\n\r\nWith Clad, contractors grow faster and improve their margins. Operators execute smoothly. And everyone can focus on what’s most important - building.",
-    "one_liner": "Project management software for building infrastructure.",
+    "long_description": "Clad is billing and project management software for utility construction.\r\n\r\nThe world is rebuilding its internet and power networks. The utilities, internet companies, and contractors tasked with this work face immense pressure to deliver.\r\n\r\nBut their tools haven’t caught up. Contractors struggle to grow, constrained by cashflow. Operators fly blind, lacking real time visibility into issues. \r\n\r\nClad unifies project operations and finance to automate project tracking, payments, and permitting.\r\n\r\nWith Clad, contractors grow faster and improve their margins. Operators execute smoothly. And everyone can focus on what’s most important - building.",
+    "one_liner": "Billing and project management for utility construction",
     "team_size": 7,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction -> Construction",
     "launched_at": 1672801770,
     "tags": [
-      "Marketplace",
       "SaaS",
       "Construction",
       "B2B",
-      "Collaboration"
+      "Collaboration",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -43203,10 +43204,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Retail"
@@ -44423,7 +44424,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -44522,7 +44523,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -47531,7 +47532,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2026",
     "status": "Active",
@@ -48631,6 +48632,47 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/the-letter-company.json"
   },
   {
+    "id": 35223,
+    "name": "OpenLake Technologies",
+    "slug": "openlake-technologies",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b1d7d1c63b80a9929499e7b55e2263eaf7cb1a4f.png",
+    "website": "https://openlakehq.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Own your Intelligence. OpenLake is a real time inference platform which improves your model quality in real time. Plug in your datasets, RL environments and conversations. Get the intelligence your company deserves without needing an AI research lab. \r\n\r\nPick an open model like Kimi K3 or GLM 5.3 and deploy it in one click. OpenLake keeps your model upto date with real time data sources, so the model you run tomorrow is more accurate than the last. ",
+    "one_liner": "OpenLake deploys, trains, and serves models that update in real time.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1793817363,
+    "tags": [
+      "Generative AI",
+      "SaaS",
+      "Big Data",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/openlake-technologies",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/openlake-technologies.json"
+  },
+  {
     "id": 35261,
     "name": "Asakana",
     "slug": "asakana",
@@ -48836,6 +48878,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/reconero",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/reconero.json"
+  },
+  {
+    "id": 37104,
+    "name": "Axiomat",
+    "slug": "axiomat",
+    "former_names": [
+      "Signiture",
+      "Signiture Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/73e5297e01ab55a8cd3d54127a27671c6d5e6934.png",
+    "website": "https://www.axiomat.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Axiomat makes it impossible for AI agents to make mistakes when querying a company’s data. It formally verifies that the agents’ queries are correct before employees or customers rely on the answers. \r\n\r\nIt is becoming increasingly important for companies to rely on AI without the need for humans to manually check the answers. This has created a need for systems which can guarantee correctness without limiting the agent’s capabilities. Axiomat provides the infrastructure to prove that answers are correct, starting with data queries and analysis. It brings mathematical guarantees to the agents working with your data.\r\n\r\nThe team brings direct experience solving AI hallucinations through Ethan’s work as an Applied Scientist at AWS, where he worked on formally verifying AI responses. They also bring research experience in AI, LLMs, and formal methods from EPFL, the University of Toronto, and Georgia Tech. ",
+    "one_liner": "We make AI that never hallucinates.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1793825871,
+    "tags": [
+      "SaaS",
+      "Big Data",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/axiomat",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/axiomat.json"
   },
   {
     "id": 37137,

@@ -2375,16 +2375,17 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d17a0ed990c48104bc90127a4fb06f01edc52a17.png",
     "website": "https://draftbit.com",
-    "all_locations": "Carmel, IN, USA; Chicago, IL, USA; Remote",
-    "long_description": "We're building Draftbit to make it easier for everyone to build, launch, and iterate on mobile apps. And do it without writing code, unless you want to. Over time, we hope to make building great looking, high quality apps as easy as (or easier than?!) launching a website is now. And by doing so, we hope to democratize software development, allowing anyone to turn their idea into reality, and build it into something great. ",
-    "one_liner": "Build mobile apps visually. Source-code included. ",
+    "all_locations": "Chicago, IL, USA; Remote",
+    "long_description": "Draftbit is where founders and business owners build real mobile apps, web apps, games, or websites with AI. Describe what you want, and AI agents (Claude Code and OpenAI Codex) build it in minutes using the Claude or ChatGPT plan you already pay for, so you don't have to buy credits to get going.\r\n\r\nOne project can hold your mobile app, a web app, a website, and the backend they share, and you can build games too. When you'd rather make a precise change yourself, the visual editor works on the real code, and you can export that code or push it to GitHub. Publishing to the web, the App Store, or Google Play takes one click.\r\n\r\nIf you get stuck, or you'd rather hand the build to someone else, our team of Draftbit Experts can help. We build and manage hundreds of apps on the App Store. \r\n\r\nStart free at draftbit.com.",
+    "one_liner": "Build mobile apps, web apps, and games with AI. Start for free. ",
     "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1509681882,
     "tags": [
       "Developer Tools",
-      "Design Tools"
+      "Design Tools",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -8172,7 +8173,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -9305,6 +9306,7 @@
     "regions": [
       "United States of America",
       "Canada",
+      "America / Canada",
       "America / Canada",
       "Remote",
       "Partly Remote"
@@ -13158,7 +13160,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9942f88e0ad31a3c3da6a0f408886f28f73dabbd.png",
     "website": "https://aqueduct.sh",
     "all_locations": "Pittsburgh, PA, USA",
-    "long_description": "Aqueduct is a browser-based procedural material engine and editor.\r\n\r\nThink Substance Designer, with live-sync to Unreal, agents that can read and edit material graphs, and shareable links to those graphs.",
+    "long_description": "Aqueduct is a procedural material engine, editor, and CLI.\r\n\r\nTechnical artists and environment artists use Aqueduct to create PBR materials and VFX textures from composable GPU shader nodes.\r\n\r\nAqueduct's MCP server is optimized for frontier models to create high quality, legible, adjustable procedural materials.\r\n\r\nBecause Aqueduct runs in the browser, it is easy to share links to procedural material graphs. For instance, see: https://aqueduct.sh/examples/g/marble-003.",
     "one_liner": "Create, edit, and share procedural material graphs.",
     "team_size": 1,
     "industry": "B2B",
@@ -18633,7 +18635,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -21965,6 +21967,51 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/luminal.json"
   },
   {
+    "id": 30837,
+    "name": "AirCaps AI",
+    "slug": "aircaps-ai",
+    "former_names": [
+      "Vued",
+      "AirCaps"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/839111803eb4ccce6e6e411847617a96d8d7d880.png",
+    "website": "https://aircaps.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "AirCaps builds voice AI that hears what other models miss. Our speech-to-text, diarization and speaker ID models stay accurate despite noise, overlapping speech, and degraded distant audio.",
+    "one_liner": "Voice AI that hears what other models miss.",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1760571679,
+    "tags": [
+      "Developer Tools",
+      "Speech Recognition",
+      "API",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/aircaps-ai",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/aircaps-ai.json"
+  },
+  {
     "id": 30846,
     "name": "Parse",
     "slug": "parse-bot",
@@ -23096,8 +23143,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aca00ac880b2d3d17acae2b1679332dc8000c5f7.png",
     "website": "https://inth.com",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "Inth monitors your pull requests, codebase and website to catch privacy issues and turns them into fixes and evidence.\r\n\r\nEvery product change you make exposes you to privacy risk. Customers lose trust. Fines and lawsuits are given. Fundraising and customer deals are broken. New market launches halt.\r\n\r\nThe growth you thought you would have slows because privacy compliance is overwhelming and changes with every product update.\r\n\r\nInth is fixing this to help you automate privacy compliance to ship and grow faster.\r\n\r\nInth scans your PRs, website and codebase to catch any privacy risk. It then fixes and evidences them against your product, policies and global privacy laws to automate privacy compliance in every region your customers are in.\r\n\r\nStart a free privacy scan at: inth.com",
-    "one_liner": "Monitor and fix product privacy issues before they block growth",
+    "long_description": "Inth brings together consent management, continuous privacy monitoring and AI-assisted investigation. It follows changes from code to production so engineering, marketing and legal teams can see what their sites and codebases are doing, verify their controls and get problems fixed.\r\n\r\nWe're the team behind c15t, our open-source (Apache-2.0) consent framework with millions of downloads, rebuilt in v3 to run on any framework and on the server. We also maintain an open library of privacy enforcement cases, and we've completed our SOC 2 Type 2 audit.\r\n\r\nBacked by Y Combinator and Vercel. Start at inth.com",
+    "one_liner": "Privacy and consent infrastructure that ships with your code",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
