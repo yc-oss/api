@@ -1162,6 +1162,52 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/cortex-ai.json"
   },
   {
+    "id": 31009,
+    "name": "Specific Labs",
+    "slug": "specific-labs",
+    "former_names": [
+      "Bear AI",
+      "Bear",
+      "Specific"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f65a9129ea781a8d18fe1dc455b98be2430643a6.png",
+    "website": "https://withspecific.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Specific builds enterprise environments and datasets representative of work inside real-world businesses. The next frontier of AGI is bottlenecked by data that is hard to access, and we make that easier.",
+    "one_liner": "Real World Environments and Data for AI",
+    "team_size": 7,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1757825190,
+    "tags": [
+      "Generative AI",
+      "Reinforcement Learning",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "Pete",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/specific-labs",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/specific-labs.json"
+  },
+  {
     "id": 31139,
     "name": "Ashr",
     "slug": "ashr",
@@ -2034,6 +2080,92 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/experiential-labs",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/experiential-labs.json"
+  },
+  {
+    "id": 34860,
+    "name": "Reific",
+    "slug": "reific",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/15150d0dab29e0b9d4c44b12fc87e17632fb4819.png",
+    "website": "https://www.reific.co/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Reific builds RL environments for superhuman reasoning over time, for the frontier labs that train agents. Each comes from real, de-identified records (health data, industrial sensors, compute-cluster logs), in three families: personal agents, industry, and science and compute. The world keeps moving while the agent works, so the agent must keep learning: data arrive on a clock, and every answer is checked against what actually happened. In each family, the best frontier model averages below half, and models that train on our environments improve.\r\n\r\nWe specialise in time series because almost everything that matters is recorded that way: a heartbeat, a power grid, a factory line, a GPU cluster, an experiment. No person can turn thousands of moving signals at once into the state of a system and what happens next. AI can pass the bar exam, but it still can’t watch a system for weeks and act at the right moment. It learned from what people wrote down, in environments that freeze the world and abstract it to our understanding.\r\n\r\nTime series let us ride the exponential. The world records new data every second and time keeps grading, so each generation of models gets harder, fresher tasks. We believe humans always strive to explore. Our mission is to build the infrastructure for that exploration: the layer of the AI stack where models keep improving, out into what no one understands yet.",
+    "one_liner": "RL environments for superhuman reasoning over time",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1793965137,
+    "tags": [
+      "Generative AI",
+      "Machine Learning",
+      "Reinforcement Learning",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "Harj",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/reific",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/reific.json"
+  },
+  {
+    "id": 35521,
+    "name": "ORO AI",
+    "slug": "oro-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b66a9717c54294ba9f6e296bb8c04f9c3da74d27.png",
+    "website": "https://www.oroagents.com",
+    "all_locations": "Vancouver, BC, Canada",
+    "long_description": "We focus on capability gaps and safety benchmarks so that AI agents can be trusted to run businesses autonomously.",
+    "one_liner": "RL environments & simulations for autonomous businesses.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1788891308,
+    "tags": [
+      "Deep Learning",
+      "Reinforcement Learning",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Canada",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "Christopher",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/oro-ai",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/oro-ai.json"
   },
   {
     "id": 36974,

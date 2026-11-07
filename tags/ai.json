@@ -12369,7 +12369,7 @@
       "United Kingdom",
       "Europe"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "partners": "Nicolas",
     "app_video_public": false,
     "demo_day_video_public": false,
@@ -20865,7 +20865,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Marketing"
@@ -21281,7 +21281,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "partners": "Gustaf",
     "app_video_public": false,
     "demo_day_video_public": false,
@@ -24694,7 +24694,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4e6df1d33e5151e6b36a83a91e94b8bb2550c930.png",
     "website": "https://newscatcherapi.com/",
     "all_locations": "Kyiv, Ukraine; Remote",
-    "long_description": "CatchAll by NewsCatcher is a recall-first web search API built for queries where the results are spread across hundreds or thousands of pages on the web. Instead of returning the top ranked links like traditional search engines, CatchAll retrieves a large candidate set from the web, validates which pages actually match the query, and extracts structured records of real-world events.\r\n\r\nDevelopers and data teams use CatchAll to answer “long-list” questions such as tracking regulatory actions, funding rounds, product launches, corporate expansions, or cybersecurity incidents. The output is not just links but clean, deduplicated datasets that can power AI agents, monitoring systems, analytics pipelines, and market intelligence workflows.\r\n\r\nCatchAll runs on the data infrastructure developed by NewsCatcher, which continuously indexes millions of articles and public web pages across a global network of sources.",
+    "long_description": "NewsCatcher turns global news and web coverage into structured, ready-to-use data. We index 140,000+ sources in 50+ languages, so teams can monitor any company, market, topic or real-world event continuously, and act on it before it reaches them elsewhere.\r\n\r\nTwo ways in, on one key. The News API returns ranked articles in any language, grouped into stories so repeated coverage of one event arrives as one event, plus boolean search across the last 12 months when you need every match rather than the best ones. The Agent handles the questions no single page answers like every funding round, regulatory action, product launch or cybersecurity incident in a window, or the news about every company on a list. It retrieves a large candidate set from the web, validates which pages actually match, and returns a table with a source on every row.",
     "one_liner": "Turning the web into a structured database of real world events.",
     "team_size": 22,
     "industry": "B2B",
@@ -30457,16 +30457,17 @@
   },
   {
     "id": 28072,
-    "name": "Helios",
-    "slug": "helios",
+    "name": "Hyperdesk",
+    "slug": "hyperdesk",
     "former_names": [
-      "Holacasa"
+      "Holacasa",
+      "Helios"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a19c2e4abf0702ea3bce9c8e6b7cffbae37f7d2.png",
-    "website": "https://www.usehelios.ai/",
-    "all_locations": "Mexico City, CDMX, Mexico",
-    "long_description": "Helios builds AI-powered digital workers that automate B2B operations for companies.",
-    "one_liner": "Create your AI workforce",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ba744fd34833ae425b2e5eead3763e6d10c264fc.png",
+    "website": "https://www.hyperdesk.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Reduce your CAC running purpose-built performance marketing agents for your brand.",
+    "one_liner": "Improve performance marketing with your agents.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -30474,6 +30475,7 @@
     "tags": [
       "SaaS",
       "B2B",
+      "Marketing",
       "AI"
     ],
     "tags_highlighted": [],
@@ -30486,8 +30488,8 @@
       "B2B"
     ],
     "regions": [
-      "Mexico",
-      "Latin America"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "partners": "Gustaf",
@@ -30495,8 +30497,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/helios",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/helios.json"
+    "url": "https://www.ycombinator.com/companies/hyperdesk",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/hyperdesk.json"
   },
   {
     "id": 28077,
@@ -32606,7 +32608,7 @@
     "slug": "contour",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f5695ba4c0d9dd82ed980d0e36154b1b915be329.png",
-    "website": "",
+    "website": "https://trycontour.com",
     "all_locations": "New York City, NY, USA",
     "long_description": "Contour is the enterprise voice AI platform for healthcare logistics. Provider networks, telemedicine companies, labs, and multi-site clinics use Contour to automate high volume, repetitive phone workflows that traditionally require dedicated back office staff. Built for regulated environments, Contour integrates directly with core clinical systems to handle every call with full auditability and HIPAA compliance.",
     "one_liner": "AI voice agents for healthcare operational calls",
@@ -44332,7 +44334,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "An AI agent that catches issues in construction drawings before they become costly rework and project delays",
     "one_liner": "AI agent for construction drawings review",
-    "team_size": 2,
+    "team_size": 6,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction -> Construction",
     "launched_at": 1705128056,
@@ -55107,7 +55109,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "SalesPatriot deploys supply chain superintelligence into distribution, original equipment manufacturing, and procurement. By embedding AI in the teams that run quote to cash workflows, we turn email chains, ERPs, websites, spreadsheets, and portals into a unified transactional layer, so critical parts reach the production line faster.\r\n\r\nThe West’s advantage depends on supply chains that work. We build and deploy the software that makes them work.",
     "one_liner": "Supply chain superintelligence for distribution and procurement",
-    "team_size": 15,
+    "team_size": 30,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1741557589,
@@ -55132,7 +55134,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "partners": "Jared",
     "app_video_public": false,
     "demo_day_video_public": false,
@@ -57471,7 +57473,7 @@
       "emojis.com",
       "Tee Time Tommy"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/36fd79daacb53819fc86fd68b564556a5bd51a64.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/681aa94a92bcc7782953966da553da33659dae28.png",
     "website": "https://www.codevisor.dev",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Codevisor is an open-source native macOS app for agentic engineering. Run Claude Code, Codex, Pi, and any ACP-compatible coding agent on your own machines in one place.\r\n\r\nCodevisor brings agent chats, projects, and an integrated terminal into a single workspace. Connect remote Macs or Linux servers to run agents where your code lives and keep working across machines.",
@@ -60984,10 +60986,10 @@
     "slug": "starsling",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fae29a98d132c4b435b336dbb5d6cf4a1aaf5de7.png",
-    "website": "https://starsling.dev/",
+    "website": "https://starsling.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Drop-in Ubuntu runners plus AI agents that open optimization PRs for your workflows. StarSling Runners continuously improve your CI to make it up to 6x faster and 13x cheaper.",
-    "one_liner": "Self-Driving CI: fast AI-native GitHub Actions runners",
+    "long_description": "Drop-in Ubuntu runners plus AI agents that open optimization PRs for your workflows. StarSling Runners continuously improve your CI to make it up to 10x faster and 13x cheaper.",
+    "one_liner": "Agent-native GitHub Actions runners",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -63798,47 +63800,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/char",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/char.json"
-  },
-  {
-    "id": 30712,
-    "name": "Relling",
-    "slug": "relling",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e003594279b3a4474845b643ff2ee16c26f34a1a.png",
-    "website": "https://relling.co",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "deploying the first billion robots for manufacturing",
-    "team_size": null,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1756070413,
-    "tags": [
-      "Robotics",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "partners": "Brad",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/relling",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/relling.json"
   },
   {
     "id": 30713,
@@ -68865,6 +68826,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/moss",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/moss.json"
+  },
+  {
+    "id": 31009,
+    "name": "Specific Labs",
+    "slug": "specific-labs",
+    "former_names": [
+      "Bear AI",
+      "Bear",
+      "Specific"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f65a9129ea781a8d18fe1dc455b98be2430643a6.png",
+    "website": "https://withspecific.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Specific builds enterprise environments and datasets representative of work inside real-world businesses. The next frontier of AGI is bottlenecked by data that is hard to access, and we make that easier.",
+    "one_liner": "Real World Environments and Data for AI",
+    "team_size": 7,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1757825190,
+    "tags": [
+      "Generative AI",
+      "Reinforcement Learning",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "Pete",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/specific-labs",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/specific-labs.json"
   },
   {
     "id": 31010,
@@ -74749,11 +74756,11 @@
     "name": "LemonLime",
     "slug": "lemonlime",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8ffbde2e695962be35fad4bb6260c320a8d18271.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e3deefc6c501d46d5744f36f55494c2a5909f8d4.png",
     "website": "https://www.lemonlime.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "LemonLime runs fully automated sales and marketing for small businesses.\r\n\r\nEvery morning, LemonLime finds you new leads and drafts personalized outreach, prepares branded content, and identifies untapped sales & marketing opportunities.\r\n\r\nAll you have to do is click send.",
-    "one_liner": "Fully automated GTM for small business",
+    "one_liner": "Fully automated growth for small business",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -75996,9 +76003,11 @@
     "name": "Alkera AI",
     "slug": "alkera-ai",
     "former_names": [
-      "Alkera AI, Inc.",
       "Alkera AI",
-      "Alkera AI, Inc."
+      "Inc.",
+      "Alkera AI",
+      "Alkera AI",
+      "Inc."
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eecc1a49c35b3a26973c35ce53d1c3f862a058cb.png",
     "website": "https://alkera.ai",
@@ -76020,7 +76029,7 @@
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
-    "batch": "Summer 2026",
+    "batch": "Fall 2026",
     "status": "Active",
     "industries": [
       "B2B",
@@ -76037,7 +76046,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/alkera-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/alkera-ai.json"
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/alkera-ai.json"
   },
   {
     "id": 32286,
@@ -79141,7 +79150,7 @@
     "website": "https://osseus.ai/",
     "all_locations": "London, England, United Kingdom",
     "long_description": "Osseus is building the frontier biomedical AI research lab, starting with the evaluations, reinforcement learning environments, and datasets that help AI labs train more capable, aligned, and safe models. We post-train models for medical and biological tasks, and deploy these in biotech, pharma and healthcare systems to ultimately improve patient outcomes.",
-    "one_liner": "The frontier data platform for aligned health and biological AI",
+    "one_liner": "Data research lab for aligned health and biological AI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -80094,6 +80103,50 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/petrichor.json"
   },
   {
+    "id": 34860,
+    "name": "Reific",
+    "slug": "reific",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/15150d0dab29e0b9d4c44b12fc87e17632fb4819.png",
+    "website": "https://www.reific.co/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Reific builds RL environments for superhuman reasoning over time, for the frontier labs that train agents. Each comes from real, de-identified records (health data, industrial sensors, compute-cluster logs), in three families: personal agents, industry, and science and compute. The world keeps moving while the agent works, so the agent must keep learning: data arrive on a clock, and every answer is checked against what actually happened. In each family, the best frontier model averages below half, and models that train on our environments improve.\r\n\r\nWe specialise in time series because almost everything that matters is recorded that way: a heartbeat, a power grid, a factory line, a GPU cluster, an experiment. No person can turn thousands of moving signals at once into the state of a system and what happens next. AI can pass the bar exam, but it still can’t watch a system for weeks and act at the right moment. It learned from what people wrote down, in environments that freeze the world and abstract it to our understanding.\r\n\r\nTime series let us ride the exponential. The world records new data every second and time keeps grading, so each generation of models gets harder, fresher tasks. We believe humans always strive to explore. Our mission is to build the infrastructure for that exploration: the layer of the AI stack where models keep improving, out into what no one understands yet.",
+    "one_liner": "RL environments for superhuman reasoning over time",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1793965137,
+    "tags": [
+      "Generative AI",
+      "Machine Learning",
+      "Reinforcement Learning",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "Harj",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/reific",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/reific.json"
+  },
+  {
     "id": 34861,
     "name": "Topos",
     "slug": "topos",
@@ -80411,7 +80464,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/87a9ad77df8ff03bf6998f4f2007f263b31dbba5.png",
     "website": "https://cardinalsquare.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cardinal Square is building AI-native schools, starting unaccredited with an after-school writing class before building full, accredited schools. We think education is going to look very different in a few years; not a world without teachers, but one where great educators and AI work side by side to deliver personalized education to every student.\r\n",
+    "long_description": "First, we build AI teachers that read every step of a kid’s work, remember how that kid learns, and adapt to them every day. Our goal is an AI that teaches as well as the best human tutor.\r\n\r\nThen we take the programs families already pay hundreds a month for (tutoring centers, writing schools, daily practice programs) and rebuild them around our AI teacher, so every family gets personalized education for a fraction of the price. It’s the same ritual families trust from Kumon or a writing school, with the AI teacher doing the teaching.",
     "one_liner": "AI-native schools",
     "team_size": 2,
     "industry": "Education",
@@ -80769,8 +80822,8 @@
     "tags": [
       "AIOps",
       "Developer Tools",
+      "SaaS",
       "B2B",
-      "Infrastructure",
       "AI"
     ],
     "tags_highlighted": [],
@@ -80806,8 +80859,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4fa8d15d930712db8c5f88de73e777865076822.png",
     "website": "https://getopencrawl.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "OpenCrawl Builds high-performance search indexes over hyper-personalized hard-to-find multimodal data.\r\n\r\nAgents describe the data they need; OpenCrawl finds the sources, then builds and hosts custom crawlers, processing and search indexes. Each index is tuned to be the fastest, most accurate search over that data. Developers wire it into their products through MCP, CLI or API.",
-    "one_liner": "High-performance hyper-personalized search indexes.",
+    "long_description": "OpenCrawl proactively steers your agents so they meet their goals in fewer turns.\r\n\r\nWe ingest context from your other agents, your teammates and your tools already have.",
+    "one_liner": "Shared context for your agents.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -81499,13 +81552,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1788891308,
     "tags": [
-      "Crypto / Web3",
-      "Consumer Products",
+      "Deep Learning",
+      "Reinforcement Learning",
       "AI"
     ],
-    "tags_highlighted": [
-      "Crypto / Web3"
-    ],
+    "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
@@ -82708,7 +82759,7 @@
       "Merge",
       "Oversine"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e05e06df74feac459085063f7f1530f7706b17bf.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d050f0a413a5ab639b307ecb868a328a76d67965.png",
     "website": "https://versine.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Versine lets your agents send and receive money. We’re Venmo for agents.\r\n\r\nConnect it to ChatGPT, Claude, Muse or your own agent through our MCP. Then send your agent a dinner receipt and it splits the bill. Tell it “if I don’t run 10k tomorrow, pay Jake $10” and it checks Strava and pays out if you miss. It can also pay invoices that land in your inbox, or split rent and utilities with your roommates every month. \r\n\r\nRecipients don’t need an account: they get a link to cash out to their bank.\r\n\r\nBanking and payout services are provided by licensed partners.",
@@ -83095,6 +83146,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/blinka",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/blinka.json"
+  },
+  {
+    "id": 37171,
+    "name": "Rezora IO",
+    "slug": "rezora-io",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/28f85e2fbd991f8396599925f9f3bdcdddde5aaf.png",
+    "website": "https://rezora.io/",
+    "all_locations": "New York City, NY, USA; Remote",
+    "long_description": "Rezora IO is an AI voice platform for real estate and home services that answers, qualifies, and schedules every lead, automatically filling your calendar while you focus on closing.",
+    "one_liner": "AI voice agents for home services and real estate",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1794009938,
+    "tags": [
+      "SaaS",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "partners": "Kulveer",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rezora-io",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/rezora-io.json"
   },
   {
     "id": 37203,
@@ -84148,9 +84242,9 @@
       "ChampionEffect"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2386602bfda42032649bbf371ee6b886ac1fd56d.png",
-    "website": "https://championeffect.com/home",
+    "website": "https://championeffect.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "ChampionEffect is an AI Coach that teaches AI to every employee at a company, in Slack and Teams.\r\n\r\nCoach helps with a new AI concept, a new workflow or any tool. It jumps on a call and walks you through the work, just like a coworker would. It points to the top use cases in your industry and tailors everything to your company’s needs and tools. Every time someone does a walkthrough with Coach, it learns from it and suggests a better way to the next coworker.\r\n\r\nBefore this, we ran a YC company (Cambly) that taught English to millions of professionals and generated $100M+ in revenue. Now we’re using what we learned to teach millions about AI.",
+    "long_description": "ChampionEffect is an AI Coach that teaches AI to every employee at a company, in Slack and Teams.\r\n\r\nThe Coach helps with a new AI concept, a new workflow, or any tool. It jumps on a call and walks you through the work, just like a coworker would. It points to the top use cases in your industry and tailors everything to your company’s needs and tools. Every time someone does a walkthrough with the Coach, it learns how real work gets done at the company and uses that knowledge with other coworkers.\r\n\r\nBefore this, we ran a YC company (Cambly) that taught English to millions of professionals and generated $100M+ in revenue. Now we’re using what we learned to teach millions about AI.",
     "one_liner": "An AI coach for every employee!",
     "team_size": 2,
     "industry": "B2B",

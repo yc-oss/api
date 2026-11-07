@@ -4084,7 +4084,7 @@
       "United Kingdom",
       "Europe"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "partners": "Nicolas",
     "app_video_public": false,
     "demo_day_video_public": false,
@@ -8037,11 +8037,11 @@
       "CatX"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b0af944f6ad96c6f8c2095e8c485de560a528833.png",
-    "website": "https://www.trycatamaran.com",
+    "website": "https://www.catxre.com",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "Catamaran uses AI to help people make clearer, faster decisions about risk. Our platform brings all internal and external risk data into one easy-to-understand workspace. By automating data gathering, checking, and scenario testing, we help insurers, reinsurers, brokers, and investors quickly understand and manage their risks. Catamaran also provides a regulated marketplace to easily buy, sell, and manage insurance coverage.",
-    "one_liner": "The AI-powered risk decision platform ",
-    "team_size": 5,
+    "long_description": "CatX is a Bermuda regulated digital marketplace for insurance risk. With more than $500m of opportunities listed, it gives hedge funds and other sophisticated investors a direct way to access, analyse and transact insurance risk. Insurance risk is an uncorrelated alternative asset class with a broad range of return profiles. CatX's Catamaran platform helps institutional investors, insurers and risk managers quantify the impact of a risk and decide whether to hedge it or invest in it.",
+    "one_liner": "A regulated marketplace and analytics platform where investors buy…",
+    "team_size": 11,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1687023200,
@@ -8654,7 +8654,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "partners": "Jon",
     "app_video_public": false,
     "demo_day_video_public": false,
@@ -10283,7 +10283,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2026",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B"
     ],
@@ -10448,7 +10448,7 @@
       "Belvedir",
       "Fractal Machine Research"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f1794d17c880df4210c90a741d54b5d0320d8dba.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e95629da52ae523f5bc187a7d2c603bc773cc2e8.png",
     "website": "https://belvedir.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
@@ -10969,6 +10969,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/coarena",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/coarena.json"
+  },
+  {
+    "id": 34860,
+    "name": "Reific",
+    "slug": "reific",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/15150d0dab29e0b9d4c44b12fc87e17632fb4819.png",
+    "website": "https://www.reific.co/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Reific builds RL environments for superhuman reasoning over time, for the frontier labs that train agents. Each comes from real, de-identified records (health data, industrial sensors, compute-cluster logs), in three families: personal agents, industry, and science and compute. The world keeps moving while the agent works, so the agent must keep learning: data arrive on a clock, and every answer is checked against what actually happened. In each family, the best frontier model averages below half, and models that train on our environments improve.\r\n\r\nWe specialise in time series because almost everything that matters is recorded that way: a heartbeat, a power grid, a factory line, a GPU cluster, an experiment. No person can turn thousands of moving signals at once into the state of a system and what happens next. AI can pass the bar exam, but it still can’t watch a system for weeks and act at the right moment. It learned from what people wrote down, in environments that freeze the world and abstract it to our understanding.\r\n\r\nTime series let us ride the exponential. The world records new data every second and time keeps grading, so each generation of models gets harder, fresher tasks. We believe humans always strive to explore. Our mission is to build the infrastructure for that exploration: the layer of the AI stack where models keep improving, out into what no one understands yet.",
+    "one_liner": "RL environments for superhuman reasoning over time",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1793965137,
+    "tags": [
+      "Generative AI",
+      "Machine Learning",
+      "Reinforcement Learning",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "Harj",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/reific",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/reific.json"
   },
   {
     "id": 34862,

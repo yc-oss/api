@@ -886,6 +886,56 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/confetti.json"
   },
   {
+    "id": 32262,
+    "name": "Alkera AI",
+    "slug": "alkera-ai",
+    "former_names": [
+      "Alkera AI",
+      "Inc.",
+      "Alkera AI",
+      "Alkera AI",
+      "Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eecc1a49c35b3a26973c35ce53d1c3f862a058cb.png",
+    "website": "https://alkera.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Alkera is a data engineering/analysis/science agent that works in your IDE or CLI. If you’re tired of agents that produce false, or even dangerous, reports about your data, then Alkera is for you. Our agent is equipped with your data’s history and lineage, your team’s knowledge, and tailored plugins for data apps such as Snowflake and dbt. Simply install and connect your services to begin doing trusted agentic data work. We also offer VPC & on-prem deployment options for when data can't leave your boundary.",
+    "one_liner": "Reliable and safe data engineering and data science agents",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1783697969,
+    "tags": [
+      "Developer Tools",
+      "Data Science",
+      "Data Engineering",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "Ankit",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/alkera-ai",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/alkera-ai.json"
+  },
+  {
     "id": 32286,
     "name": "Definite",
     "slug": "definite",
@@ -2096,6 +2146,50 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/kailash-labs.json"
   },
   {
+    "id": 34860,
+    "name": "Reific",
+    "slug": "reific",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/15150d0dab29e0b9d4c44b12fc87e17632fb4819.png",
+    "website": "https://www.reific.co/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Reific builds RL environments for superhuman reasoning over time, for the frontier labs that train agents. Each comes from real, de-identified records (health data, industrial sensors, compute-cluster logs), in three families: personal agents, industry, and science and compute. The world keeps moving while the agent works, so the agent must keep learning: data arrive on a clock, and every answer is checked against what actually happened. In each family, the best frontier model averages below half, and models that train on our environments improve.\r\n\r\nWe specialise in time series because almost everything that matters is recorded that way: a heartbeat, a power grid, a factory line, a GPU cluster, an experiment. No person can turn thousands of moving signals at once into the state of a system and what happens next. AI can pass the bar exam, but it still can’t watch a system for weeks and act at the right moment. It learned from what people wrote down, in environments that freeze the world and abstract it to our understanding.\r\n\r\nTime series let us ride the exponential. The world records new data every second and time keeps grading, so each generation of models gets harder, fresher tasks. We believe humans always strive to explore. Our mission is to build the infrastructure for that exploration: the layer of the AI stack where models keep improving, out into what no one understands yet.",
+    "one_liner": "RL environments for superhuman reasoning over time",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1793965137,
+    "tags": [
+      "Generative AI",
+      "Machine Learning",
+      "Reinforcement Learning",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "Harj",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/reific",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/reific.json"
+  },
+  {
     "id": 34861,
     "name": "Topos",
     "slug": "topos",
@@ -2672,7 +2766,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/87a9ad77df8ff03bf6998f4f2007f263b31dbba5.png",
     "website": "https://cardinalsquare.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cardinal Square is building AI-native schools, starting unaccredited with an after-school writing class before building full, accredited schools. We think education is going to look very different in a few years; not a world without teachers, but one where great educators and AI work side by side to deliver personalized education to every student.\r\n",
+    "long_description": "First, we build AI teachers that read every step of a kid’s work, remember how that kid learns, and adapt to them every day. Our goal is an AI that teaches as well as the best human tutor.\r\n\r\nThen we take the programs families already pay hundreds a month for (tutoring centers, writing schools, daily practice programs) and rebuild them around our AI teacher, so every family gets personalized education for a fraction of the price. It’s the same ritual families trust from Kumon or a writing school, with the AI teacher doing the teaching.",
     "one_liner": "AI-native schools",
     "team_size": 2,
     "industry": "Education",
@@ -3369,8 +3463,8 @@
     "tags": [
       "AIOps",
       "Developer Tools",
+      "SaaS",
       "B2B",
-      "Infrastructure",
       "AI"
     ],
     "tags_highlighted": [],
@@ -3406,8 +3500,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4fa8d15d930712db8c5f88de73e777865076822.png",
     "website": "https://getopencrawl.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "OpenCrawl Builds high-performance search indexes over hyper-personalized hard-to-find multimodal data.\r\n\r\nAgents describe the data they need; OpenCrawl finds the sources, then builds and hosts custom crawlers, processing and search indexes. Each index is tuned to be the fastest, most accurate search over that data. Developers wire it into their products through MCP, CLI or API.",
-    "one_liner": "High-performance hyper-personalized search indexes.",
+    "long_description": "OpenCrawl proactively steers your agents so they meet their goals in fewer turns.\r\n\r\nWe ingest context from your other agents, your teammates and your tools already have.",
+    "one_liner": "Shared context for your agents.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -4523,13 +4617,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1788891308,
     "tags": [
-      "Crypto / Web3",
-      "Consumer Products",
+      "Deep Learning",
+      "Reinforcement Learning",
       "AI"
     ],
-    "tags_highlighted": [
-      "Crypto / Web3"
-    ],
+    "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
@@ -6152,7 +6244,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3df37a1fb66526c47cc75fbebe1f480c83847131.png",
     "website": "https://odin-robotics.com",
-    "all_locations": "ZH, Switzerland",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Odin Robotics deploys robot arms in small and mid-sized factories to do repetitive manual work, like machine tending and packing. They work alongside existing machines and people, so factories don't have to redesign their lines. With deterministic controls and learned skills, they're both reliable and flexible.",
     "one_liner": "Robot arms that do repetitive manual work in existing factories.",
     "team_size": 2,
@@ -6175,8 +6267,8 @@
       "Manufacturing and Robotics"
     ],
     "regions": [
-      "Switzerland",
-      "Europe"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "partners": "Andrew",
@@ -6837,7 +6929,7 @@
       "Merge",
       "Oversine"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e05e06df74feac459085063f7f1530f7706b17bf.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d050f0a413a5ab639b307ecb868a328a76d67965.png",
     "website": "https://versine.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Versine lets your agents send and receive money. We’re Venmo for agents.\r\n\r\nConnect it to ChatGPT, Claude, Muse or your own agent through our MCP. Then send your agent a dinner receipt and it splits the bill. Tell it “if I don’t run 10k tomorrow, pay Jake $10” and it checks Strava and pays out if you miss. It can also pay invoices that land in your inbox, or split rent and utilities with your roommates every month. \r\n\r\nRecipients don’t need an account: they get a link to cash out to their bank.\r\n\r\nBanking and payout services are provided by licensed partners.",
@@ -7393,6 +7485,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/blinka",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/blinka.json"
+  },
+  {
+    "id": 37171,
+    "name": "Rezora IO",
+    "slug": "rezora-io",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/28f85e2fbd991f8396599925f9f3bdcdddde5aaf.png",
+    "website": "https://rezora.io/",
+    "all_locations": "New York City, NY, USA; Remote",
+    "long_description": "Rezora IO is an AI voice platform for real estate and home services that answers, qualifies, and schedules every lead, automatically filling your calendar while you focus on closing.",
+    "one_liner": "AI voice agents for home services and real estate",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1794009938,
+    "tags": [
+      "SaaS",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "partners": "Kulveer",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rezora-io",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/rezora-io.json"
   },
   {
     "id": 37203,
@@ -9162,9 +9297,9 @@
       "ChampionEffect"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2386602bfda42032649bbf371ee6b886ac1fd56d.png",
-    "website": "https://championeffect.com/home",
+    "website": "https://championeffect.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "ChampionEffect is an AI Coach that teaches AI to every employee at a company, in Slack and Teams.\r\n\r\nCoach helps with a new AI concept, a new workflow or any tool. It jumps on a call and walks you through the work, just like a coworker would. It points to the top use cases in your industry and tailors everything to your company’s needs and tools. Every time someone does a walkthrough with Coach, it learns from it and suggests a better way to the next coworker.\r\n\r\nBefore this, we ran a YC company (Cambly) that taught English to millions of professionals and generated $100M+ in revenue. Now we’re using what we learned to teach millions about AI.",
+    "long_description": "ChampionEffect is an AI Coach that teaches AI to every employee at a company, in Slack and Teams.\r\n\r\nThe Coach helps with a new AI concept, a new workflow, or any tool. It jumps on a call and walks you through the work, just like a coworker would. It points to the top use cases in your industry and tailors everything to your company’s needs and tools. Every time someone does a walkthrough with the Coach, it learns how real work gets done at the company and uses that knowledge with other coworkers.\r\n\r\nBefore this, we ran a YC company (Cambly) that taught English to millions of professionals and generated $100M+ in revenue. Now we’re using what we learned to teach millions about AI.",
     "one_liner": "An AI coach for every employee!",
     "team_size": 2,
     "industry": "B2B",

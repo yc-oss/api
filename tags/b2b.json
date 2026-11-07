@@ -21665,18 +21665,19 @@
   },
   {
     "id": 25605,
-    "name": "Ranla",
-    "slug": "ranla",
+    "name": "Groundmail",
+    "slug": "groundmail",
     "former_names": [
       "EXO Freight",
       "Super Send",
-      "SuperSend"
+      "SuperSend",
+      "Ranla"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e77030a95d7d1d6848dce062a119a876a2676952.png",
-    "website": "https://ranla.ai/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f4ae559ddcb48e28bda7b41bd34e91608c107c.png",
+    "website": "https://groundmail.dev/",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Ranla is an AI growth marketer for PLG SaaS teams. You instrument product events once; Ranla segments users, plans lifecycle campaigns, writes the email, sends it on infrastructure you control, and reports back in dollars — trials converted, upgrades, churn risk — not just opens and clicks.\r\n\r\nMost founders ship the product but never hire a lifecycle marketer. Ranla owns that loop: weekly plans, occasion-based sends, A/B tests, and approval flows so nothing goes out without you when you want a gate. Transactional and lifecycle email live on the same stack, so password resets and onboarding drips aren't split across Resend plus a separate ESP.\r\n\r\nWe're built for teams with signups and revenue data but no one running email full time — the gap between \"we have users\" and \"we have a growth motion.\"\r\n\r\n\r\n",
-    "one_liner": "The AI growth marketer that turns SaaS signups into revenue",
+    "long_description": "Groundmail is email for apps and the agents that build and run them. Send sign-in codes, password resets and receipts from IPs kept separate from marketing mail. Give an agent a real mailbox it can read and reply from. Your coding agent can set it all up through our API, SDKs, CLI or MCP server.",
+    "one_liner": "Email for your app and your agents",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
@@ -21709,8 +21710,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ranla",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/ranla.json"
+    "url": "https://www.ycombinator.com/companies/groundmail",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/groundmail.json"
   },
   {
     "id": 25607,
@@ -22687,7 +22688,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Marketing"
@@ -25325,7 +25326,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "partners": "Aaron",
     "app_video_public": false,
     "demo_day_video_public": false,
@@ -32172,16 +32173,17 @@
   },
   {
     "id": 28072,
-    "name": "Helios",
-    "slug": "helios",
+    "name": "Hyperdesk",
+    "slug": "hyperdesk",
     "former_names": [
-      "Holacasa"
+      "Holacasa",
+      "Helios"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a19c2e4abf0702ea3bce9c8e6b7cffbae37f7d2.png",
-    "website": "https://www.usehelios.ai/",
-    "all_locations": "Mexico City, CDMX, Mexico",
-    "long_description": "Helios builds AI-powered digital workers that automate B2B operations for companies.",
-    "one_liner": "Create your AI workforce",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ba744fd34833ae425b2e5eead3763e6d10c264fc.png",
+    "website": "https://www.hyperdesk.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Reduce your CAC running purpose-built performance marketing agents for your brand.",
+    "one_liner": "Improve performance marketing with your agents.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -32189,6 +32191,7 @@
     "tags": [
       "SaaS",
       "B2B",
+      "Marketing",
       "AI"
     ],
     "tags_highlighted": [],
@@ -32201,8 +32204,8 @@
       "B2B"
     ],
     "regions": [
-      "Mexico",
-      "Latin America"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "partners": "Gustaf",
@@ -32210,8 +32213,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/helios",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/helios.json"
+    "url": "https://www.ycombinator.com/companies/hyperdesk",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/hyperdesk.json"
   },
   {
     "id": 28074,
@@ -33667,7 +33670,7 @@
     "slug": "contour",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f5695ba4c0d9dd82ed980d0e36154b1b915be329.png",
-    "website": "",
+    "website": "https://trycontour.com",
     "all_locations": "New York City, NY, USA",
     "long_description": "Contour is the enterprise voice AI platform for healthcare logistics. Provider networks, telemedicine companies, labs, and multi-site clinics use Contour to automate high volume, repetitive phone workflows that traditionally require dedicated back office staff. Built for regulated environments, Contour integrates directly with core clinical systems to handle every call with full auditability and HIPAA compliance.",
     "one_liner": "AI voice agents for healthcare operational calls",
@@ -38195,7 +38198,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "An AI agent that catches issues in construction drawings before they become costly rework and project delays",
     "one_liner": "AI agent for construction drawings review",
-    "team_size": 2,
+    "team_size": 6,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction -> Construction",
     "launched_at": 1705128056,
@@ -42426,7 +42429,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "SalesPatriot deploys supply chain superintelligence into distribution, original equipment manufacturing, and procurement. By embedding AI in the teams that run quote to cash workflows, we turn email chains, ERPs, websites, spreadsheets, and portals into a unified transactional layer, so critical parts reach the production line faster.\r\n\r\nThe West’s advantage depends on supply chains that work. We build and deploy the software that makes them work.",
     "one_liner": "Supply chain superintelligence for distribution and procurement",
-    "team_size": 15,
+    "team_size": 30,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1741557589,
@@ -42451,7 +42454,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "partners": "Jared",
     "app_video_public": false,
     "demo_day_video_public": false,
@@ -44533,10 +44536,10 @@
     "slug": "starsling",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fae29a98d132c4b435b336dbb5d6cf4a1aaf5de7.png",
-    "website": "https://starsling.dev/",
+    "website": "https://starsling.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Drop-in Ubuntu runners plus AI agents that open optimization PRs for your workflows. StarSling Runners continuously improve your CI to make it up to 6x faster and 13x cheaper.",
-    "one_liner": "Self-Driving CI: fast AI-native GitHub Actions runners",
+    "long_description": "Drop-in Ubuntu runners plus AI agents that open optimization PRs for your workflows. StarSling Runners continuously improve your CI to make it up to 10x faster and 13x cheaper.",
+    "one_liner": "Agent-native GitHub Actions runners",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -47496,8 +47499,9 @@
     "launched_at": 1757825190,
     "tags": [
       "Generative AI",
-      "SaaS",
-      "B2B"
+      "Reinforcement Learning",
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -50901,7 +50905,7 @@
     "website": "https://osseus.ai/",
     "all_locations": "London, England, United Kingdom",
     "long_description": "Osseus is building the frontier biomedical AI research lab, starting with the evaluations, reinforcement learning environments, and datasets that help AI labs train more capable, aligned, and safe models. We post-train models for medical and biological tasks, and deploy these in biotech, pharma and healthcare systems to ultimately improve patient outcomes.",
-    "one_liner": "The frontier data platform for aligned health and biological AI",
+    "one_liner": "Data research lab for aligned health and biological AI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -51523,8 +51527,8 @@
     "tags": [
       "AIOps",
       "Developer Tools",
+      "SaaS",
       "B2B",
-      "Infrastructure",
       "AI"
     ],
     "tags_highlighted": [],

@@ -11003,8 +11003,9 @@
     "launched_at": 1757825190,
     "tags": [
       "Generative AI",
-      "SaaS",
-      "B2B"
+      "Reinforcement Learning",
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11689,6 +11690,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/shiraz-ai.json"
   },
   {
+    "id": 34860,
+    "name": "Reific",
+    "slug": "reific",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/15150d0dab29e0b9d4c44b12fc87e17632fb4819.png",
+    "website": "https://www.reific.co/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Reific builds RL environments for superhuman reasoning over time, for the frontier labs that train agents. Each comes from real, de-identified records (health data, industrial sensors, compute-cluster logs), in three families: personal agents, industry, and science and compute. The world keeps moving while the agent works, so the agent must keep learning: data arrive on a clock, and every answer is checked against what actually happened. In each family, the best frontier model averages below half, and models that train on our environments improve.\r\n\r\nWe specialise in time series because almost everything that matters is recorded that way: a heartbeat, a power grid, a factory line, a GPU cluster, an experiment. No person can turn thousands of moving signals at once into the state of a system and what happens next. AI can pass the bar exam, but it still can’t watch a system for weeks and act at the right moment. It learned from what people wrote down, in environments that freeze the world and abstract it to our understanding.\r\n\r\nTime series let us ride the exponential. The world records new data every second and time keeps grading, so each generation of models gets harder, fresher tasks. We believe humans always strive to explore. Our mission is to build the infrastructure for that exploration: the layer of the AI stack where models keep improving, out into what no one understands yet.",
+    "one_liner": "RL environments for superhuman reasoning over time",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1793965137,
+    "tags": [
+      "Generative AI",
+      "Machine Learning",
+      "Reinforcement Learning",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "Harj",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/reific",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/reific.json"
+  },
+  {
     "id": 35095,
     "name": "Taan.ai",
     "slug": "taanai",
@@ -11905,9 +11950,9 @@
       "ChampionEffect"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2386602bfda42032649bbf371ee6b886ac1fd56d.png",
-    "website": "https://championeffect.com/home",
+    "website": "https://championeffect.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "ChampionEffect is an AI Coach that teaches AI to every employee at a company, in Slack and Teams.\r\n\r\nCoach helps with a new AI concept, a new workflow or any tool. It jumps on a call and walks you through the work, just like a coworker would. It points to the top use cases in your industry and tailors everything to your company’s needs and tools. Every time someone does a walkthrough with Coach, it learns from it and suggests a better way to the next coworker.\r\n\r\nBefore this, we ran a YC company (Cambly) that taught English to millions of professionals and generated $100M+ in revenue. Now we’re using what we learned to teach millions about AI.",
+    "long_description": "ChampionEffect is an AI Coach that teaches AI to every employee at a company, in Slack and Teams.\r\n\r\nThe Coach helps with a new AI concept, a new workflow, or any tool. It jumps on a call and walks you through the work, just like a coworker would. It points to the top use cases in your industry and tailors everything to your company’s needs and tools. Every time someone does a walkthrough with the Coach, it learns how real work gets done at the company and uses that knowledge with other coworkers.\r\n\r\nBefore this, we ran a YC company (Cambly) that taught English to millions of professionals and generated $100M+ in revenue. Now we’re using what we learned to teach millions about AI.",
     "one_liner": "An AI coach for every employee!",
     "team_size": 2,
     "industry": "B2B",

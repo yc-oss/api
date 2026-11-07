@@ -949,7 +949,7 @@
       "United Kingdom",
       "Europe"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "partners": "Nicolas",
     "app_video_public": false,
     "demo_day_video_public": false,
@@ -1890,7 +1890,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4e6df1d33e5151e6b36a83a91e94b8bb2550c930.png",
     "website": "https://newscatcherapi.com/",
     "all_locations": "Kyiv, Ukraine; Remote",
-    "long_description": "CatchAll by NewsCatcher is a recall-first web search API built for queries where the results are spread across hundreds or thousands of pages on the web. Instead of returning the top ranked links like traditional search engines, CatchAll retrieves a large candidate set from the web, validates which pages actually match the query, and extracts structured records of real-world events.\r\n\r\nDevelopers and data teams use CatchAll to answer “long-list” questions such as tracking regulatory actions, funding rounds, product launches, corporate expansions, or cybersecurity incidents. The output is not just links but clean, deduplicated datasets that can power AI agents, monitoring systems, analytics pipelines, and market intelligence workflows.\r\n\r\nCatchAll runs on the data infrastructure developed by NewsCatcher, which continuously indexes millions of articles and public web pages across a global network of sources.",
+    "long_description": "NewsCatcher turns global news and web coverage into structured, ready-to-use data. We index 140,000+ sources in 50+ languages, so teams can monitor any company, market, topic or real-world event continuously, and act on it before it reaches them elsewhere.\r\n\r\nTwo ways in, on one key. The News API returns ranked articles in any language, grouped into stories so repeated coverage of one event arrives as one event, plus boolean search across the last 12 months when you need every match rather than the best ones. The Agent handles the questions no single page answers like every funding round, regulatory action, product launch or cybersecurity incident in a window, or the news about every company on a list. It retrieves a large candidate set from the web, validates which pages actually match, and returns a table with a source on every row.",
     "one_liner": "Turning the web into a structured database of real world events.",
     "team_size": 22,
     "industry": "B2B",
@@ -2528,7 +2528,7 @@
     "slug": "contour",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f5695ba4c0d9dd82ed980d0e36154b1b915be329.png",
-    "website": "",
+    "website": "https://trycontour.com",
     "all_locations": "New York City, NY, USA",
     "long_description": "Contour is the enterprise voice AI platform for healthcare logistics. Provider networks, telemedicine companies, labs, and multi-site clinics use Contour to automate high volume, repetitive phone workflows that traditionally require dedicated back office staff. Built for regulated environments, Contour integrates directly with core clinical systems to handle every call with full auditability and HIPAA compliance.",
     "one_liner": "AI voice agents for healthcare operational calls",
@@ -5667,9 +5667,11 @@
     "name": "Alkera AI",
     "slug": "alkera-ai",
     "former_names": [
-      "Alkera AI, Inc.",
       "Alkera AI",
-      "Alkera AI, Inc."
+      "Inc.",
+      "Alkera AI",
+      "Alkera AI",
+      "Inc."
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eecc1a49c35b3a26973c35ce53d1c3f862a058cb.png",
     "website": "https://alkera.ai",
@@ -5691,7 +5693,7 @@
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
-    "batch": "Summer 2026",
+    "batch": "Fall 2026",
     "status": "Active",
     "industries": [
       "B2B",
@@ -5708,7 +5710,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/alkera-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/alkera-ai.json"
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/alkera-ai.json"
   },
   {
     "id": 32621,

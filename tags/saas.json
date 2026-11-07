@@ -29976,7 +29976,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Marketing"
@@ -32742,7 +32742,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "partners": "Aaron",
     "app_video_public": false,
     "demo_day_video_public": false,
@@ -33538,7 +33538,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4e6df1d33e5151e6b36a83a91e94b8bb2550c930.png",
     "website": "https://newscatcherapi.com/",
     "all_locations": "Kyiv, Ukraine; Remote",
-    "long_description": "CatchAll by NewsCatcher is a recall-first web search API built for queries where the results are spread across hundreds or thousands of pages on the web. Instead of returning the top ranked links like traditional search engines, CatchAll retrieves a large candidate set from the web, validates which pages actually match the query, and extracts structured records of real-world events.\r\n\r\nDevelopers and data teams use CatchAll to answer “long-list” questions such as tracking regulatory actions, funding rounds, product launches, corporate expansions, or cybersecurity incidents. The output is not just links but clean, deduplicated datasets that can power AI agents, monitoring systems, analytics pipelines, and market intelligence workflows.\r\n\r\nCatchAll runs on the data infrastructure developed by NewsCatcher, which continuously indexes millions of articles and public web pages across a global network of sources.",
+    "long_description": "NewsCatcher turns global news and web coverage into structured, ready-to-use data. We index 140,000+ sources in 50+ languages, so teams can monitor any company, market, topic or real-world event continuously, and act on it before it reaches them elsewhere.\r\n\r\nTwo ways in, on one key. The News API returns ranked articles in any language, grouped into stories so repeated coverage of one event arrives as one event, plus boolean search across the last 12 months when you need every match rather than the best ones. The Agent handles the questions no single page answers like every funding round, regulatory action, product launch or cybersecurity incident in a window, or the news about every company on a list. It retrieves a large candidate set from the web, validates which pages actually match, and returns a table with a source on every row.",
     "one_liner": "Turning the web into a structured database of real world events.",
     "team_size": 22,
     "industry": "B2B",
@@ -37890,16 +37890,17 @@
   },
   {
     "id": 28072,
-    "name": "Helios",
-    "slug": "helios",
+    "name": "Hyperdesk",
+    "slug": "hyperdesk",
     "former_names": [
-      "Holacasa"
+      "Holacasa",
+      "Helios"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a19c2e4abf0702ea3bce9c8e6b7cffbae37f7d2.png",
-    "website": "https://www.usehelios.ai/",
-    "all_locations": "Mexico City, CDMX, Mexico",
-    "long_description": "Helios builds AI-powered digital workers that automate B2B operations for companies.",
-    "one_liner": "Create your AI workforce",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ba744fd34833ae425b2e5eead3763e6d10c264fc.png",
+    "website": "https://www.hyperdesk.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Reduce your CAC running purpose-built performance marketing agents for your brand.",
+    "one_liner": "Improve performance marketing with your agents.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -37907,6 +37908,7 @@
     "tags": [
       "SaaS",
       "B2B",
+      "Marketing",
       "AI"
     ],
     "tags_highlighted": [],
@@ -37919,8 +37921,8 @@
       "B2B"
     ],
     "regions": [
-      "Mexico",
-      "Latin America"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "partners": "Gustaf",
@@ -37928,8 +37930,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/helios",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/helios.json"
+    "url": "https://www.ycombinator.com/companies/hyperdesk",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/hyperdesk.json"
   },
   {
     "id": 28074,
@@ -45497,7 +45499,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "SalesPatriot deploys supply chain superintelligence into distribution, original equipment manufacturing, and procurement. By embedding AI in the teams that run quote to cash workflows, we turn email chains, ERPs, websites, spreadsheets, and portals into a unified transactional layer, so critical parts reach the production line faster.\r\n\r\nThe West’s advantage depends on supply chains that work. We build and deploy the software that makes them work.",
     "one_liner": "Supply chain superintelligence for distribution and procurement",
-    "team_size": 15,
+    "team_size": 30,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1741557589,
@@ -45522,7 +45524,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "partners": "Jared",
     "app_video_public": false,
     "demo_day_video_public": false,
@@ -47914,51 +47916,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/moss.json"
   },
   {
-    "id": 31009,
-    "name": "Specific Labs",
-    "slug": "specific-labs",
-    "former_names": [
-      "Bear AI",
-      "Bear",
-      "Specific"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f65a9129ea781a8d18fe1dc455b98be2430643a6.png",
-    "website": "https://withspecific.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Specific builds enterprise environments and datasets representative of work inside real-world businesses. The next frontier of AGI is bottlenecked by data that is hard to access, and we make that easier.",
-    "one_liner": "Real World Environments and Data for AI",
-    "team_size": 7,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1757825190,
-    "tags": [
-      "Generative AI",
-      "SaaS",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "partners": "Pete",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/specific-labs",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/specific-labs.json"
-  },
-  {
     "id": 31051,
     "name": "Corvera",
     "slug": "corvera",
@@ -48890,11 +48847,11 @@
     "name": "LemonLime",
     "slug": "lemonlime",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8ffbde2e695962be35fad4bb6260c320a8d18271.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e3deefc6c501d46d5744f36f55494c2a5909f8d4.png",
     "website": "https://www.lemonlime.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "LemonLime runs fully automated sales and marketing for small businesses.\r\n\r\nEvery morning, LemonLime finds you new leads and drafts personalized outreach, prepares branded content, and identifies untapped sales & marketing opportunities.\r\n\r\nAll you have to do is click send.",
-    "one_liner": "Fully automated GTM for small business",
+    "one_liner": "Fully automated growth for small business",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -49769,6 +49726,50 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/openlake-technologies.json"
   },
   {
+    "id": 35258,
+    "name": "Mirrors",
+    "slug": "mirrors",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e98a564b21ba044528e16126406d35b7464044b7.png",
+    "website": "https://www.mirrors.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Production AI agents keep making the same mistakes. The usual fix is another line in the system prompt. Over time, the agent carries instructions for dozens of situations, even when it's doing something simple, and every correction becomes another thing to maintain.\r\n\r\nMirrors helps developers maintain production agents by turning recurring mistakes into targeted corrections. Mirrors surfaces recurring mistakes across your production runs. You write a correction, choose the situations where it applies, and preview which past conversations it would have reached. Once activated, Mirrors adds it to your agent only in those situations. You can then compare outcomes with and without the correction to see whether it helped. Unlike skills, the agent doesn't decide what to load. The scope you set does.\r\n\r\nCorrections live in one place, scoped to the right accounts and workflows. Mirrors connects through an SDK and works with any agent framework, and your application keeps control of its model calls and tools.\r\n\r\nWe're building Mirrors for engineering teams running customer-facing agents.",
+    "one_liner": "Fix recurring AI agent mistakes with real-time guidance",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1789011304,
+    "tags": [
+      "AIOps",
+      "Developer Tools",
+      "SaaS",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "Andrew",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mirrors",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/mirrors.json"
+  },
+  {
     "id": 35261,
     "name": "Asakana",
     "slug": "asakana",
@@ -50065,6 +50066,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/clean",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/clean.json"
+  },
+  {
+    "id": 37171,
+    "name": "Rezora IO",
+    "slug": "rezora-io",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/28f85e2fbd991f8396599925f9f3bdcdddde5aaf.png",
+    "website": "https://rezora.io/",
+    "all_locations": "New York City, NY, USA; Remote",
+    "long_description": "Rezora IO is an AI voice platform for real estate and home services that answers, qualifies, and schedules every lead, automatically filling your calendar while you focus on closing.",
+    "one_liner": "AI voice agents for home services and real estate",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1794009938,
+    "tags": [
+      "SaaS",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "partners": "Kulveer",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rezora-io",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/rezora-io.json"
   },
   {
     "id": 37831,

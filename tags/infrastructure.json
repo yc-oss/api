@@ -356,7 +356,7 @@
       "United Kingdom",
       "Europe"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "partners": "Nicolas",
     "app_video_public": false,
     "demo_day_video_public": false,
@@ -6438,6 +6438,50 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/simulithic.json"
   },
   {
+    "id": 34860,
+    "name": "Reific",
+    "slug": "reific",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/15150d0dab29e0b9d4c44b12fc87e17632fb4819.png",
+    "website": "https://www.reific.co/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Reific builds RL environments for superhuman reasoning over time, for the frontier labs that train agents. Each comes from real, de-identified records (health data, industrial sensors, compute-cluster logs), in three families: personal agents, industry, and science and compute. The world keeps moving while the agent works, so the agent must keep learning: data arrive on a clock, and every answer is checked against what actually happened. In each family, the best frontier model averages below half, and models that train on our environments improve.\r\n\r\nWe specialise in time series because almost everything that matters is recorded that way: a heartbeat, a power grid, a factory line, a GPU cluster, an experiment. No person can turn thousands of moving signals at once into the state of a system and what happens next. AI can pass the bar exam, but it still can’t watch a system for weeks and act at the right moment. It learned from what people wrote down, in environments that freeze the world and abstract it to our understanding.\r\n\r\nTime series let us ride the exponential. The world records new data every second and time keeps grading, so each generation of models gets harder, fresher tasks. We believe humans always strive to explore. Our mission is to build the infrastructure for that exploration: the layer of the AI stack where models keep improving, out into what no one understands yet.",
+    "one_liner": "RL environments for superhuman reasoning over time",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1793965137,
+    "tags": [
+      "Generative AI",
+      "Machine Learning",
+      "Reinforcement Learning",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "Harj",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/reific",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/reific.json"
+  },
+  {
     "id": 35093,
     "name": "Aviern",
     "slug": "aviern",
@@ -6614,50 +6658,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/openlake-technologies",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/openlake-technologies.json"
-  },
-  {
-    "id": 35258,
-    "name": "Mirrors",
-    "slug": "mirrors",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e98a564b21ba044528e16126406d35b7464044b7.png",
-    "website": "https://www.mirrors.dev",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Production AI agents keep making the same mistakes. The usual fix is another line in the system prompt. Over time, the agent carries instructions for dozens of situations, even when it's doing something simple, and every correction becomes another thing to maintain.\r\n\r\nMirrors helps developers maintain production agents by turning recurring mistakes into targeted corrections. Mirrors surfaces recurring mistakes across your production runs. You write a correction, choose the situations where it applies, and preview which past conversations it would have reached. Once activated, Mirrors adds it to your agent only in those situations. You can then compare outcomes with and without the correction to see whether it helped. Unlike skills, the agent doesn't decide what to load. The scope you set does.\r\n\r\nCorrections live in one place, scoped to the right accounts and workflows. Mirrors connects through an SDK and works with any agent framework, and your application keeps control of its model calls and tools.\r\n\r\nWe're building Mirrors for engineering teams running customer-facing agents.",
-    "one_liner": "Fix recurring AI agent mistakes with real-time guidance",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1789011304,
-    "tags": [
-      "AIOps",
-      "Developer Tools",
-      "B2B",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "partners": "Andrew",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mirrors",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/mirrors.json"
   },
   {
     "id": 35265,
