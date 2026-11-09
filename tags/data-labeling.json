@@ -1009,8 +1009,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41a4a41e5482735389d2089a01ff2b862f56e307.png",
     "website": "https://www.markovstudios.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Markov builds expert computer-use datasets for frontier AI labs. Our datasets include screen recordings + mouse/keyboard actions of professionals using CAD, design and enterprise software.\r\n\r\nWe work with the top AI labs and we’ve gotten more than 350k downloads on HuggingFace. Our long-term goal is to be the full stack platform for computer-use AI, starting with data and then the infrastructure to train and deploy computer-use models.\r\n\r\nDev and Harish are technical co-founders. Dev studied aerospace engineering at IIT Madras and was the youngest team member at Sarvam - India’s top AI lab. Harish is an Emergent Ventures grantee and his prior robotics work was featured in top national publications.",
-    "one_liner": "Expert computer-use data for frontier AI labs",
+    "long_description": "Markov is the data lab for engineering and computer-use AI. We capture real work from domain experts and craft high-fidelity datasets and RL environments.\r\n\r\nWe built the most complex tasks and RL environments sourced through manufacturing experts proficient in AutoCAD, SOLIDWORKS, CATIA, Revit, Siemens NX and more. Our computer-use datasets are action-labelled, narrated and sourced from domain experts in design and enterprise software.\r\n\r\nWe work with frontier AI labs and we've built over 10,000 CAD environments and collected over 500,000 hours of computer-use data. Our open-source datasets have 800,000+ downloads on Hugging Face.",
+    "one_liner": "The data lab for engineering and computer-use AI.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -1042,6 +1042,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/markov",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/markov.json"
+  },
+  {
+    "id": 33674,
+    "name": "Metalcraft",
+    "slug": "metalcraft",
+    "former_names": [
+      "Metalcraft",
+      "ufo.ai",
+      "UFO.ai"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f7933f1917a47bf844572cf253da02eeececc9f.png",
+    "website": "https://metalcraft.ai",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Metalcraft develops tasks that test how models analyze data, design experiments, and use evidence. ",
+    "one_liner": "Advancing biological models",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1790567216,
+    "tags": [
+      "Reinforcement Learning",
+      "Data Labeling",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "partners": "Garry",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/metalcraft",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/metalcraft.json"
   },
   {
     "id": 33738,
@@ -1195,7 +1242,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2026",
     "status": "Active",

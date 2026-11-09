@@ -6667,8 +6667,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6640b732eb4efe17f2fb11ff75f6f6bc14184872.png",
     "website": "https://withhopper.com/code",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Hopper trains open-weight models on your production traces, then serves and improves them against your live traffic.",
-    "one_liner": "Inference and post-training for realtime agents",
+    "long_description": "We are building the inference layer for voice. Voice agents are latency-sensitive and differentiated enough to warrant a focused inference player, similar to Fal (inference for video) or Sail Research (inference for long horizon agents).\r\n\r\nBefore this our team wrote megakernels at Meta Reality Labs and ran inference at Salient (a16z-backed voice startup)",
+    "one_liner": "Fast, open-source inference for voice",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -7125,6 +7125,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/superserve",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/superserve.json"
+  },
+  {
+    "id": 37830,
+    "name": "Tilo",
+    "slug": "tilo",
+    "former_names": [
+      "Podesta AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5ee5f7b68452b3800941d6ce5bfbfacd28c318f2.png",
+    "website": "https://tilo.so",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Tilo gives AI agents one shared computer. Today every agent gets its own virtual machine and works by screenshots and clicks, which is slow, expensive and brittle. Agents that work together have to describe what they did to each other in messages.\n\nTilo is a Linux-based operating system built for agents as users. Every app exports typed actions that agents call over MCP while people use the same actions as buttons, on the same live state. Many agents work in one workspace at once and read each other's work instead of messaging about it. Every change is attributed and can be undone, and irreversible actions need permission. Because state and interface are separate, agents can generate an app's entire UI on demand.\n\nOn the same multi-app task with the same model, agents on Tilo were about 29× cheaper and 90× faster than computer use, which failed. A small model on Tilo did it for about 1/10,000 of the frontier model's cost. In our scale test, 50 agents worked in one shared workspace on a single laptop, at about 60 MB of memory per agent. Tilo runs headless, in our cloud, or as a desktop, and you can open any workspace from the browser.",
+    "one_liner": "The Microsoft of the AI era: the operating system for AI agents.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1792039962,
+    "tags": [
+      "Developer Tools",
+      "Open Source",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "partners": "Grey",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tilo",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/tilo.json"
   },
   {
     "id": 38061,

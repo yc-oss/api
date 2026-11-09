@@ -42088,7 +42088,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -48698,7 +48698,7 @@
     "all_locations": "Bengaluru, KA, India",
     "long_description": "Enterprise software implementation is broken,  and it has been for decades. \r\nEvery rollout, whether it's a traditional ERP or a new AI system, requires months of manual integration, configuration, and tuning done by armies of system integrators and forward-deployed engineers. \r\nLab0 builds agentic systems that automate this layer, compressing months-long implementations into weeks.",
     "one_liner": "AI FDEs to make your B2B SaaS Go Live in Days, not Months",
-    "team_size": 7,
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1775188246,
@@ -49263,8 +49263,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/caa902826145e78311e27007937976e8663a9265.png",
     "website": "https://www.manufacturingintelligence.org",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "At Hera, we build tools that help heavy engineering teams bring products to market up to 20× faster. Today, we work with manufacturers of data center ancillary equipment, renewable energy systems, robotics, heat exchangers, power plants and pressure vessels.\r\n",
-    "one_liner": "We make sure every factory in the world builds without mistakes.",
+    "long_description": "At Hera, we build physical AI tools that help heavy engineering teams bring products to market up to 20× faster. Today, we work with manufacturers of data center ancillary equipment, renewable energy systems, robotics, heat exchangers, power plants and pressure vessels.\r\n",
+    "one_liner": "Agents for Industrials",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials",
@@ -50984,53 +50984,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/billow-ai-labs.json"
   },
   {
-    "id": 33674,
-    "name": "UFO.ai",
-    "slug": "ufoai",
-    "former_names": [
-      "Metalcraft",
-      "ufo.ai"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f7933f1917a47bf844572cf253da02eeececc9f.png",
-    "website": "https://ufo.ai",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "UFO is the operating platform for your business built by the creators of Github Copilot and Perplexity Computer. \r\n\r\nUFO learns your company, goals, tools, and workflows. UFO builds what your team needs to keep work moving.",
-    "one_liner": "Next-generation agent operating system",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1790567216,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Automation",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "partners": "Garry",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ufoai",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/ufoai.json"
-  },
-  {
     "id": 33804,
     "name": "Neomatter",
     "slug": "neomatter",
@@ -51390,7 +51343,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fbde4bac30252064b1c0af408469172eea1d9b55.png",
     "website": "https://faradaycompute.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Industrial and legacy enterprises still rely on people to coordinate disconnected layers of software and machines.\r\n\r\nFaraday builds self-improving systems that take on this operational work. We connect to existing software and machines and build training and evaluation environments around each company’s workflows and data.\r\n\r\nContinuous learning turns each company’s expertise into a compounding asset. Completed work, corrections, and employee feedback improve the agents, and those improvements carry into future jobs. The business preserves its knowledge while becoming more capable over time.\r\n\r\nAs these agents take on more workflows, Faraday will be the shared runtime coordinating work between humans, agents, and robots across the business.",
+    "long_description": "Industrial and legacy enterprises still rely on people to coordinate disconnected layers of software and machines. Automating this work has required an FDE services approach in the past, because so much of it is bespoke and company specific.\r\n\r\nFaraday is a self-improving platform that take on this operational work. It connects to their existing software and machines and automatically builds training environments around each company’s workflows and data. Each job the agents do is checked against those environments, and the results are used to train them. The agents get better on their own with no additional work.\r\n\r\nContinuous learning turns each company’s expertise into a compounding asset. Completed work, corrections, and employee feedback improve the agents, and those improvements carry into future jobs. The business preserves its knowledge while becoming more capable over time.\r\n\r\nAs these agents take on more workflows, Faraday will be the shared runtime coordinating work between humans, agents, and robots across the business.",
     "one_liner": "Industrial aOS coordinating humans, agents, and machines ",
     "team_size": 2,
     "industry": "Industrials",
@@ -51933,7 +51886,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2026",
     "status": "Active",
@@ -52151,7 +52104,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2026",
     "status": "Active",
@@ -52211,6 +52164,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tilion",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/tilion.json"
+  },
+  {
+    "id": 37237,
+    "name": "Elithia",
+    "slug": "elithia",
+    "former_names": [
+      "Minerva Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/20436ab063ed4eb9cfc3c31dc2982dbc3d245463.png",
+    "website": "https://elithia.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "US workers' compensation paid out $64.1 billion in 2023. Personal injury, malpractice, and other insurance claims add billions more. Behind every one of these claims sit thousands of pages of medical records, and a clinician spends hours or days reading them to reconstruct what happened to the patient.\n\nElithia is building agents to do this work.\n\nOur agents reconstruct patient histories, reason across conflicting evidence, and produce defensible analyses, with every finding cited to the original record.\n\nWe've sold to physician expert witnesses and medical-legal firms, turning thousands of pages into court-ready chronologies an expert can verify in minutes. Next: TPAs and insurers, where the same review sits behind every injury claim.",
+    "one_liner": "Agents for the medical review behind every claim",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1794174834,
+    "tags": [
+      "Health Tech",
+      "B2B",
+      "LegalTech",
+      "Insurance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "David",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/elithia",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/elithia.json"
   },
   {
     "id": 37274,

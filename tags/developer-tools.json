@@ -25395,12 +25395,15 @@
     "id": 35126,
     "name": "Armorer Labs",
     "slug": "armorer-labs",
-    "former_names": [],
+    "former_names": [
+      "Armorer Labs",
+      "Odin Robotics"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fd9c58c48b1017644c81d6d495140aab28b5782.png",
     "website": "https://armorerlabs.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Armorer helps companies in regulated industries ship their own AI agents faster and keep them secure in production.\n\nMost security tools flag an issue and file a ticket. Armorer assesses your agent and simulates attacks to find the real issues. Then it creates a verified fix that stops the attack without breaking the business, ready for your approval in about 4 hours.\n\nIn production, Armorer checks every agent action in milliseconds, with no GPU needed. It detects malicious behavior such as prompt injection, goal hijacking and data leaks, then allows, holds or denies the action.\n\nArmorer's detection models beat every other detector we tested on six public benchmarks. Armorer is 22% more accurate than JEV while being 88x faster, so users won't feel the delay.\n\nWe spent years building and evaluating AI security systems together at AWS, including its first customer-facing AI security agent, which scaled to 100k+ customers. Armorer is backed by Paul Vixie, an internet pioneer inducted into the Internet Hall of Fame in 2014.",
-    "one_liner": "Continuous security verification for AI agents in regulated industries",
+    "long_description": "Armorer helps companies in regulated industries ship their own AI systems faster and keep them secure in production.\r\n\r\nMost security tools flag an issue and file a ticket. Armorer assesses your agent and simulates attacks to find the real issues. Then it creates a verified fix that stops the attack without breaking the business, ready for your approval in about 4 hours.\r\n\r\nIn production, Armorer checks every agent action in milliseconds, with no GPU needed. It detects malicious behavior such as prompt injection, goal hijacking and data leaks, then allows, holds or denies the action.\r\n\r\nArmorer's detection models beat every other detector we tested on six public benchmarks. Armorer is 22% more accurate than JEV while being 88x faster, so users won't feel the delay.\r\n\r\nWe spent years building and evaluating AI security systems together at AWS, including its first customer-facing AI security agent, which scaled to 100k+ customers. Armorer is backed by Paul Vixie, an internet pioneer inducted into the Internet Hall of Fame in 2014.",
+    "one_liner": "Continuous security verification for AI systems in regulated…",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
@@ -25753,7 +25756,7 @@
     "website": "https://everyapp.com",
     "all_locations": "",
     "long_description": "EveryApp is building open source alternatives to every SaaS. It’s a platform to host these open source apps and personal software. Everything runs behind one secure sign-in in your own Cloudflare account.",
-    "one_liner": "Make every app open source",
+    "one_liner": "Making every SaaS open source",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -26049,6 +26052,53 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/caveman.json"
   },
   {
+    "id": 37830,
+    "name": "Tilo",
+    "slug": "tilo",
+    "former_names": [
+      "Podesta AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5ee5f7b68452b3800941d6ce5bfbfacd28c318f2.png",
+    "website": "https://tilo.so",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Tilo gives AI agents one shared computer. Today every agent gets its own virtual machine and works by screenshots and clicks, which is slow, expensive and brittle. Agents that work together have to describe what they did to each other in messages.\n\nTilo is a Linux-based operating system built for agents as users. Every app exports typed actions that agents call over MCP while people use the same actions as buttons, on the same live state. Many agents work in one workspace at once and read each other's work instead of messaging about it. Every change is attributed and can be undone, and irreversible actions need permission. Because state and interface are separate, agents can generate an app's entire UI on demand.\n\nOn the same multi-app task with the same model, agents on Tilo were about 29× cheaper and 90× faster than computer use, which failed. A small model on Tilo did it for about 1/10,000 of the frontier model's cost. In our scale test, 50 agents worked in one shared workspace on a single laptop, at about 60 MB of memory per agent. Tilo runs headless, in our cloud, or as a desktop, and you can open any workspace from the browser.",
+    "one_liner": "The Microsoft of the AI era: the operating system for AI agents.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1792039962,
+    "tags": [
+      "Developer Tools",
+      "Open Source",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "partners": "Grey",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tilo",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/tilo.json"
+  },
+  {
     "id": 37896,
     "name": "Aucert",
     "slug": "aucert",
@@ -26305,5 +26355,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tesser",
     "api": "https://yc-oss.github.io/api/batches/winter-2027/tesser.json"
+  },
+  {
+    "id": 41660,
+    "name": "Xulux",
+    "slug": "xulux",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a2bcfe6701a07343c8f73809ddf413dc66bfbf31.png",
+    "website": "https://xulux.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Xulux helps Devtool companies increase their user conversion. \r\n\r\nProblem: Companies lose customers to failed agent implementations\r\n\r\nSolution: We proactively create evals and benchmarks to find out why agents drop your tools and fixe them automatically.\r\nOur evals keeps up with the changes and generate evolving tests forever. And we run these evals across models and harnesses.",
+    "one_liner": "Prepare your devtool for agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1794184378,
+    "tags": [
+      "Developer Tools",
+      "Reinforcement Learning",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2027",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "Brad",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/xulux",
+    "api": "https://yc-oss.github.io/api/batches/winter-2027/xulux.json"
   }
 ]
