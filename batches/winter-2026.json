@@ -1032,7 +1032,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Corvera (YC W26) is the AI sales agent for CPG brands. We turn the data a brand already has into the actions its sales team takes today.\r\n\r\nA CPG brand sells into tens of thousands of independent US stores through dozens of distributors, and works that base with a handful of people. CLEAN Cause, a $20M yerba mate brand, covers 21,000 stores through 46 distributors with a four-person sales team. The accounts worth a call are not capped by headcount. The team is.\r\n\r\nCLEAN Cause now runs its daily sales decisions on Corvera: 5,000 queries in 40 days across 12 users, $250K of opportunities surfaced within days, and a 7x return on the analysts they would otherwise hire.\r\n\r\nWith Corvera in place, every sales rep starts the morning with:\r\n- The stores to act on today, ranked and priced, with the reason on the row,\r\n- The outreach already drafted to the right contact at the right distributor, and\r\n- The follow-up booked, logged, and measured against the goal it was set to move.\r\n\r\nAll from the distributor feeds, retailer portals, and ERP data they already have, resolved into one context layer - without a data team, and without handing their sales to a broker.\r\n\r\nWe’re founded by Chris (2x Founder; ex-CEO at Better Nature; Forbes 30U30), Dirk (ex-Google Data & AI Lead), and Matthew (ex-Head of Product at Rosemark; Princeton MEng in CS).\r\n\r\nTo date, we’ve raised $6.2M and are backed by YC, firstminute capital, 6 Degrees Capital, 20VC, Rebel Fund, Duke Capital Partners, and more. Our ICP is US CPG brands doing $20M+ in retail revenue through UNFI, KeHE and DSD distributors. We sell to VPs of Sales and CEOs.\r\n\r\nThe incumbents prove the scale. Brokers take 5-12% of a $350B US independent grocery market, and Advantage Solutions, a publicly traded company, does $3.5B in annual revenue.\r\n\r\nOur mission is bold: to enable the next generation of unicorn CPG brands to be run by teams of less than 10 people.\r\n\r\nOur vision is even bolder: to give every CPG brand the coverage of a full sales team at a fraction of the headcount, and displace the broker network that covers the US independent channel today.\r\n\r\nVisit www.corvera.ai to learn more!",
     "one_liner": "The AI sales agent for CPG brands",
-    "team_size": 4,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1763141207,
@@ -2424,7 +2424,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b6c411bb6889813a0a977496d80f091ebb000aac.png",
     "website": "http://openspec.dev",
-    "all_locations": "Sydney, NSW, Australia",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "OpenSpec is an open-source, spec-driven framework. We help developers plan complex features by creating lightweight spec documents that serve as durable context for their coding agents.\r\n\r\nWith 20k+ GitHub stars, we’re one of the leading spec-driven frameworks, used by thousands of developers and teams to plan and ship with the coding agent of their choice.\r\n\r\nOur philosophy is simple: keep planning lightweight and iterative, and match how software actually gets built, messy, evolving, and real, without dragging teams into rigid, bureaucratic workflows.",
     "one_liner": "Plan mode for complex features",
     "team_size": null,
@@ -2442,8 +2442,8 @@
       "B2B"
     ],
     "regions": [
-      "Australia",
-      "Oceania"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "partners": "Jared",
@@ -2613,6 +2613,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/avoice",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/avoice.json"
+  },
+  {
+    "id": 31122,
+    "name": "Mendelia",
+    "slug": "mendelia",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5c9bb5a39d8a674e0ac664c819a4a26edd528488.png",
+    "website": "https://mendelia.com/",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "",
+    "one_liner": "AI-powered back office employees for surgical practices",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1794246450,
+    "tags": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "Diana",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mendelia",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/mendelia.json"
   },
   {
     "id": 31123,
@@ -4324,7 +4364,7 @@
     "website": "https://laurence.com",
     "all_locations": "New York City, NY, USA",
     "long_description": "Advertising today is like trading in the 1980s pits: archaic, manual, and iterative guesswork. Humans update bids and keywords with noisy, delayed data using simple if-else rules that both break at scale and ignore stochasticity.\r\n\r\nLaurence advertises like modern hedge funds trade markets, driving a 15-40% improvement in net profit for Amazon brands within a month of onboarding.",
-    "one_liner": "Quantitative research for autonomous e-commerce growth",
+    "one_liner": "Agents that run your Amazon ads",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
@@ -5470,7 +5510,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2026",
     "status": "Active",
@@ -6477,7 +6517,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2026",
     "status": "Active",

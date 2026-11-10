@@ -910,7 +910,7 @@
     "slug": "bagaveev-corporation",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/14f8db89f9d048abddf9030226e5fdf23183c1c4.png",
-    "website": "http://bagaveev.com",
+    "website": null,
     "all_locations": "San Francisco, CA, USA; San Mateo, CA, USA",
     "long_description": "Bagaveev Corporation is a startup backed by Adam Draper's Boost accelerator (boost.vc)\r\n\r\nand advised by Tim Draper (dfj.com) is designing, building and testing\r\n\r\n3D printed aerospike rocket engines that will power both lower and upper stages\r\n\r\nof a 3-ton, 35 foot rocket, designed to deliver 10-12 kg nanosatellites\r\n\r\nto low Earth orbit and Sun-synchronous orbit.",
     "one_liner": "Launch small satellites",
@@ -8366,7 +8366,7 @@
       "Mecho Autotech Ltd"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3354e34489d56a59c364c92cbf7d65cfee364055.png",
-    "website": "https://mechoautotech.com/",
+    "website": null,
     "all_locations": "Atlanta, GA, USA; LA, Nigeria",
     "long_description": "It is cumbersome to maintain/repair vehicles in Africa. Vehicle owners currently have 2 options to choose from; very expensive and geographically limited branded mechanic garages (less than 1% of the supply pool) or unvetted roadside mechanics (about 99% of the supply pool). \r\n\r\nAbout 95% of vehicle owners cannot afford branded garages where quality and reliable service delivery can be guaranteed and thus rely on roadside mechanics. However, low quality and transparency are typical issues associated with roadside mechanics. \r\n\r\nWe created a network of vetted mechanics, spare part vendors and an app that enables easy booking, payment and mechanic matching process. Via the mecho app, a customer or business can make a request for any automobile service (repairs or regular servicing) or part. \r\n\r\n\r\n\r\n",
     "one_liner": "On-demand  auto maintenance & repairs",
@@ -15050,13 +15050,14 @@
   },
   {
     "id": 30928,
-    "name": "Darwin",
-    "slug": "darwin",
+    "name": "Darwin Robotics",
+    "slug": "darwin-robotics",
     "former_names": [
       "Thesis Labs",
       "Thesis",
       "Darwin",
-      "Thesis"
+      "Thesis",
+      "Darwin"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/834b16b30c5de79bf9dbcd0a4819289bfa937936.png",
     "website": "https://darwinrobotics.ai",
@@ -15093,8 +15094,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/darwin",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/darwin.json"
+    "url": "https://www.ycombinator.com/companies/darwin-robotics",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/darwin-robotics.json"
   },
   {
     "id": 30930,
@@ -17496,7 +17497,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9b4aa40c1f823de9d3ec9a6c4b04e1e382dc5a85.png",
     "website": "https://degla.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We turn natural Language into Multi-Drone Mission execution. Degla is built around a simple idea: once you’ve expressed your intent, the system owns the problem.You don’t babysit drones. You don’t micromanage failures. You don’t rewrite plans. You state the goal, Degla figures out how.",
+    "long_description": "Degla AI builds autonomy software that enables drones to understand spoken instructions, reason onboard, and adapt as the mission unfolds. Once you’ve expressed your intent, the system owns the problem.\r\n\r\nAn operator can say, “Find the missing hiker wearing a red sweater.” The drone plans the mission, interprets what it sees, and adjusts its flight as new information emerges. The operator sets the objective and the aircraft handles the execution.\r\n\r\nAt the core is an onboard vision-language model that interprets what the drone sees, understands the operator’s intent, and guides mission planning, execution, and adaptation. Running locally on NVIDIA Jetson, it makes mission decisions without relying on cloud inference.\r\n",
     "one_liner": "The fully autonomous intelligence layer in the sky.",
     "team_size": 2,
     "industry": "Industrials",

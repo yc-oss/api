@@ -8682,7 +8682,7 @@
     "slug": "phonic",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/accc040e6e05d59906b58dd5cbcb069fe6d2cfc0.png",
-    "website": "https://phonic.ai",
+    "website": null,
     "all_locations": "San Francisco, CA, USA; Foster City, CA, USA",
     "long_description": "",
     "one_liner": "The best way to collect and analyze voice and video feedback",
@@ -10464,7 +10464,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Roboflow enables developers to make the world programmable.\r\n\r\nUse our tools to build better datasets (collect image, video / annotate), models (foundation and fine tuned small models), and deployments (self hosted, edge, APIs, SDKs) for computer vision. Over 250k developers, including those from over half the Fortune 100, build with our open source and hosted tools.\r\n\r\nBuild with us: https://app.roboflow.com\r\nHack with us: https://roboflow.slab.com/public/posts/roboflow-hackathons-external-u478m1iz\r\nWork with us: roboflow.com/careers\r\n",
     "one_liner": "🖼️ Give your software the sense of sight.",
-    "team_size": 100,
+    "team_size": 150,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1598130074,
@@ -15952,7 +15952,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Analytics"
@@ -15963,7 +15963,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "partners": "Nicolas",
     "app_video_public": false,
     "demo_day_video_public": false,
@@ -27283,8 +27283,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67584a441ac14e21e59b84f0e3760e5308aaf4dc.png",
     "website": "https://credal.ai",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Build, govern, and deploy enterprise AI agents and MCP servers \r\nPowered by your data, subject to enterprise controls",
-    "one_liner": "The Control Plane for Enterprise Agents",
+    "long_description": "The enterprise platform where teams build and govern MCP servers, with curated context, tools, and cost-to-accuracy evals per workflow",
+    "one_liner": "Context in, Accurate, cost-efficient agents out",
     "team_size": 14,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -31673,7 +31673,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -39991,7 +39991,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Respan is an open-source AI gateway that helps companies run reliable AI applications at scale. Written in Rust and designed to be extended, it gives developers control over how their applications connect to models and providers. Respan combines the gateway with observability and evaluations so teams can understand agent behavior, resolve issues and improve quality in production. The platform processes over 10T tokens each month and supports more than 6.5M end users.",
     "one_liner": "Open-source, extensible AI gateway with observability and evals",
-    "team_size": 20,
+    "team_size": 17,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1711136962,
@@ -40022,7 +40022,7 @@
     "partners": "Harj",
     "app_video_public": true,
     "demo_day_video_public": false,
-    "app_answers": null,
+    "app_answers": true,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/respan",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/respan.json"
@@ -46331,7 +46331,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -62332,7 +62332,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "partners": "Jared",
     "app_video_public": false,
     "demo_day_video_public": false,
@@ -63804,6 +63804,47 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/char.json"
   },
   {
+    "id": 30712,
+    "name": "Relling",
+    "slug": "relling",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e003594279b3a4474845b643ff2ee16c26f34a1a.png",
+    "website": "https://relling.co",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "deploying the first billion robots for manufacturing",
+    "team_size": null,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1756070413,
+    "tags": [
+      "Robotics",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "Brad",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/relling",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/relling.json"
+  },
+  {
     "id": 30713,
     "name": "Motives",
     "slug": "motives",
@@ -63959,7 +64000,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -65838,8 +65879,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c070e5b38f25a46eb16f93b2a21cfccf8ec446a.png",
     "website": "https://zavo.ai",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "Zavo is a data company building proprietary, real-world data infrastructure for frontier AI. We partner with hospitals, businesses, operators and expert networks globally to access hard-to-reach data that cannot be found on the public internet.\r\n\r\nWe source, structure, annotate and license this data for model training, post-training and evaluation, and use it to build specialised benchmarks and reinforcement learning environments grounded in real-world workflows, expert decisions and outcomes.\r\n\r\nOur focus spans healthcare and robotics, where high-quality proprietary data, realistic environments and reliable evaluations are critical to building increasingly capable AI systems.",
-    "one_liner": "Unlocking the world’s most valuable data for frontier AI.",
+    "long_description": "Zavo is a research lab focused on data across complex domains. We develop specialized datasets, reinforcement learning environments, and evaluations in partnership with frontier AI labs to advance AI capabilities in high-value, real-world settings.\r\n\r\npartnerships@zavo.ai",
+    "one_liner": "Data research lab for frontier AI.",
     "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -67454,13 +67495,14 @@
   },
   {
     "id": 30928,
-    "name": "Darwin",
-    "slug": "darwin",
+    "name": "Darwin Robotics",
+    "slug": "darwin-robotics",
     "former_names": [
       "Thesis Labs",
       "Thesis",
       "Darwin",
-      "Thesis"
+      "Thesis",
+      "Darwin"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/834b16b30c5de79bf9dbcd0a4819289bfa937936.png",
     "website": "https://darwinrobotics.ai",
@@ -67497,8 +67539,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/darwin",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/darwin.json"
+    "url": "https://www.ycombinator.com/companies/darwin-robotics",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/darwin-robotics.json"
   },
   {
     "id": 30929,
@@ -69197,7 +69239,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Corvera (YC W26) is the AI sales agent for CPG brands. We turn the data a brand already has into the actions its sales team takes today.\r\n\r\nA CPG brand sells into tens of thousands of independent US stores through dozens of distributors, and works that base with a handful of people. CLEAN Cause, a $20M yerba mate brand, covers 21,000 stores through 46 distributors with a four-person sales team. The accounts worth a call are not capped by headcount. The team is.\r\n\r\nCLEAN Cause now runs its daily sales decisions on Corvera: 5,000 queries in 40 days across 12 users, $250K of opportunities surfaced within days, and a 7x return on the analysts they would otherwise hire.\r\n\r\nWith Corvera in place, every sales rep starts the morning with:\r\n- The stores to act on today, ranked and priced, with the reason on the row,\r\n- The outreach already drafted to the right contact at the right distributor, and\r\n- The follow-up booked, logged, and measured against the goal it was set to move.\r\n\r\nAll from the distributor feeds, retailer portals, and ERP data they already have, resolved into one context layer - without a data team, and without handing their sales to a broker.\r\n\r\nWe’re founded by Chris (2x Founder; ex-CEO at Better Nature; Forbes 30U30), Dirk (ex-Google Data & AI Lead), and Matthew (ex-Head of Product at Rosemark; Princeton MEng in CS).\r\n\r\nTo date, we’ve raised $6.2M and are backed by YC, firstminute capital, 6 Degrees Capital, 20VC, Rebel Fund, Duke Capital Partners, and more. Our ICP is US CPG brands doing $20M+ in retail revenue through UNFI, KeHE and DSD distributors. We sell to VPs of Sales and CEOs.\r\n\r\nThe incumbents prove the scale. Brokers take 5-12% of a $350B US independent grocery market, and Advantage Solutions, a publicly traded company, does $3.5B in annual revenue.\r\n\r\nOur mission is bold: to enable the next generation of unicorn CPG brands to be run by teams of less than 10 people.\r\n\r\nOur vision is even bolder: to give every CPG brand the coverage of a full sales team at a fraction of the headcount, and displace the broker network that covers the US independent channel today.\r\n\r\nVisit www.corvera.ai to learn more!",
     "one_liner": "The AI sales agent for CPG brands",
-    "team_size": 4,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1763141207,
@@ -70835,7 +70877,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2026",
     "status": "Active",
@@ -72336,6 +72378,48 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/userlens.json"
   },
   {
+    "id": 31407,
+    "name": "Sherpa",
+    "slug": "sherpa",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/24b3833352a8b36953c5bec1a4cb93f9ac0f2259.png",
+    "website": "https://www.withsherpa.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sherpa lets marketing teams run their website from Claude, ChatGPT or any AI agent, with the guardrails of a CMS. We give your agent 200+ tools to build, publish and test, move your site off Webflow, Framer or WordPress into custom code you own, then it improves itself every week with analytics, A/B testing, SEO and more.",
+    "one_liner": "Make websites improve themselves.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1774901696,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Marketing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "Andrew",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/sherpa",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/sherpa.json"
+  },
+  {
     "id": 31408,
     "name": "Antinuous",
     "slug": "antinuous",
@@ -72866,7 +72950,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9b4aa40c1f823de9d3ec9a6c4b04e1e382dc5a85.png",
     "website": "https://degla.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We turn natural Language into Multi-Drone Mission execution. Degla is built around a simple idea: once you’ve expressed your intent, the system owns the problem.You don’t babysit drones. You don’t micromanage failures. You don’t rewrite plans. You state the goal, Degla figures out how.",
+    "long_description": "Degla AI builds autonomy software that enables drones to understand spoken instructions, reason onboard, and adapt as the mission unfolds. Once you’ve expressed your intent, the system owns the problem.\r\n\r\nAn operator can say, “Find the missing hiker wearing a red sweater.” The drone plans the mission, interprets what it sees, and adjusts its flight as new information emerges. The operator sets the objective and the aircraft handles the execution.\r\n\r\nAt the core is an onboard vision-language model that interprets what the drone sees, understands the operator’s intent, and guides mission planning, execution, and adaptation. Running locally on NVIDIA Jetson, it makes mission decisions without relying on cloud inference.\r\n",
     "one_liner": "The fully autonomous intelligence layer in the sky.",
     "team_size": 2,
     "industry": "Industrials",
@@ -78718,8 +78802,8 @@
     "website": "https://locke.inc",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Locke is the first AI-native government affairs firm.\r\n\r\nWe pair elite lobbyists and political talent with our own AI systems, helping companies lobby policymakers and win government contracts.\r\n\r\nLocke's team comes from The White House, Congress, and the Pentagon.",
-    "one_liner": "The first AI government affairs firm.",
-    "team_size": 3,
+    "one_liner": "The First AI Government Affairs Firm.",
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1783293519,
@@ -79233,6 +79317,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hardware-intelligence",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/hardware-intelligence.json"
+  },
+  {
+    "id": 33574,
+    "name": "Vorflux",
+    "slug": "vorflux",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/376bda82fa73bd6edadb1859b1ee16cb3d4d1558.png",
+    "website": "https://vorflux.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Vorflux is a cloud-based AI coding agent for teams that takes work from an idea, ticket, or message through planning, implementation, review, testing, and a pull request.\r\n\r\nIts harness coordinates parallel agents, uses different models for planning and adversarial review, and retains codebase knowledge across sessions. Each team's repository and full stack run on dedicated compute, where QA agents test the application in a real browser and record video evidence.\r\n\r\nVorflux connects to tools such as GitHub, GitLab, Linear, Slack, Figma, and Jira, as well as cloud infrastructure and observability tools. Teams can bring their own models, with tasks routed to the best-value model. Vorflux also helps teams set up the harness and work through their first backlog.",
+    "one_liner": "A cloud-based AI coding agent for teams",
+    "team_size": null,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1794214000,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "Garry",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/vorflux",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/vorflux.json"
   },
   {
     "id": 33606,
@@ -79809,6 +79936,47 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/herdr.json"
   },
   {
+    "id": 34497,
+    "name": "Summer Engine",
+    "slug": "summer-engine",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a8b58f70a8432dea519529b674c139984fb84cc2.png",
+    "website": "https://www.summerengine.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Summer is where people and agents make, play and sell games. It's like Roblox and Unreal Engine, but made to let agents handle the busy work so you can focus on all the fun.",
+    "one_liner": "The AI game engine.",
+    "team_size": 3,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Gaming",
+    "launched_at": 1794254056,
+    "tags": [
+      "Gaming",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Gaming"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "Garry",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/summer-engine",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/summer-engine.json"
+  },
+  {
     "id": 34530,
     "name": "Theo",
     "slug": "theo",
@@ -80319,6 +80487,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/faraday",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/faraday.json"
+  },
+  {
+    "id": 34898,
+    "name": "SE3 Labs",
+    "slug": "se3-labs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a66a484e10ea17972fe78ce644666d531e75814.png",
+    "website": "https://se3labs.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We build real-world RL environments for robots. Starting with tasks from industry partners, we test policies on real robots and identify where they fail. We use those failures to decide what data to collect and curate for the next policy update.\r\n\r\nNext, we're setting up physical sandboxes at partner sites, so policies can train on the exact tasks and conditions they'll face in deployment.",
+    "one_liner": "Real-World RL Environments for Physical AI",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1794245405,
+    "tags": [
+      "Robotic Process Automation",
+      "Enterprise",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "David",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/se3-labs",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/se3-labs.json"
   },
   {
     "id": 34904,
@@ -81413,6 +81622,51 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/quivly-ai.json"
   },
   {
+    "id": 35421,
+    "name": "Ordo Labs",
+    "slug": "ordo-labs",
+    "former_names": [
+      "Ordo Labs Sweden AB"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5db3ba9e7d7bb9c75e6f53fd5737442d244c4f85.png",
+    "website": "https://ordolabs.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Ordo Labs is bringing AI into regulated labs. In paid pilots with labs in the US and Europe, Ordo cut post-analysis work by 90%+.\r\n\r\nCROs and CDMOs are a $314.8B industry, but they can't rely on generic AI tools, because every result must be traceable, every system validated, and every change QA-approved. Ordo is the AI-native OS for regulated labs: each lab gets its own deployment built to be validated, every output links back to its source data, and scientists and QA sign off on every result. Every workflow on Ordo inherits these controls.\r\n\r\nLive today: data analysis, quality review and reporting. We're advised by laboratory executives and have interviewed 100+ scientists. Our goal is to make regulated labs AI-native, so science can move at the speed of AI.\r\n\r\nRun a CRO or CDMO? Email us at founders@ordolabs.ai.",
+    "one_liner": "The AI-native OS for regulated labs",
+    "team_size": 4,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Drug Discovery and Delivery",
+    "launched_at": 1786113457,
+    "tags": [
+      "Biotech",
+      "Compliance",
+      "Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Drug Discovery and Delivery"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "Nicolas",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ordo-labs",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/ordo-labs.json"
+  },
+  {
     "id": 35422,
     "name": "Praxis",
     "slug": "praxis",
@@ -81627,6 +81881,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/twentyfour26",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/twentyfour26.json"
+  },
+  {
+    "id": 35524,
+    "name": "HyperBench",
+    "slug": "hyperbench",
+    "former_names": [
+      "Metryxa Studio"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4577a9f33ff1caa656255245607b5054740ac2ab.png",
+    "website": "https://hyperbench.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "An agentic engineering platform for hardware and software co-development, with specialized AI agents that understand your system, work across repositories, and verify their changes on real hardware.",
+    "one_liner": "AI agents for hardware/software co-development",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1794203510,
+    "tags": [
+      "Hardware",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "David",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hyperbench",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/hyperbench.json"
   },
   {
     "id": 35527,
@@ -82563,7 +82861,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2026",
     "status": "Active",
@@ -82582,6 +82880,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/preload",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/preload.json"
+  },
+  {
+    "id": 36511,
+    "name": "Constor",
+    "slug": "constor",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bbcd76441dee2bdb14c3fd289a0e0506402935ad.png",
+    "website": "https://constor.ai",
+    "all_locations": "",
+    "long_description": "",
+    "one_liner": "AI native OS for the construction industry",
+    "team_size": 3,
+    "industry": "Real Estate and Construction",
+    "subindustry": "Real Estate and Construction -> Construction",
+    "launched_at": 1794102902,
+    "tags": [
+      "Computer Vision",
+      "Construction",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Real Estate and Construction",
+      "Construction"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "partners": "Christopher",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/constor",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/constor.json"
   },
   {
     "id": 36513,
@@ -82636,7 +82975,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "OpEra Technologies is the AI decision engine for factories, warehouses and fleets. Companies with physical operations make thousands of decisions every day, and we help their teams make the best one at every step from production to delivery: (1) Planning: how much to make, buy and stock. (2) Scheduling: what runs when, and who works on what. (3) Allocation: which warehouse or store gets each order. (4) Routing: boat, plane or truck, and which route each one takes. Founded out of MIT's Operations Research Center.",
     "one_liner": "The AI decision engine for factories, warehouses and fleets",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1790381980,
@@ -84382,7 +84721,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a2bcfe6701a07343c8f73809ddf413dc66bfbf31.png",
     "website": "https://xulux.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Xulux helps Devtool companies increase their user conversion. \r\n\r\nProblem: Companies lose customers to failed agent implementations\r\n\r\nSolution: We proactively create evals and benchmarks to find out why agents drop your tools and fixe them automatically.\r\nOur evals keeps up with the changes and generate evolving tests forever. And we run these evals across models and harnesses.",
+    "long_description": "Xulux helps Devtool companies increase their user conversion. \r\n\r\nProblem: Companies lose customers to failed agent implementations\r\n\r\nSolution: We proactively create evals and benchmarks to find out why agents drop your tools and fix them automatically.\r\nOur evals keeps up with the changes and generate evolving tests forever. And we run these evals across models and harnesses.",
     "one_liner": "Prepare your devtool for agents",
     "team_size": 2,
     "industry": "B2B",

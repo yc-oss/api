@@ -3812,12 +3812,12 @@
     "name": "Optifye.ai",
     "slug": "optifye-ai",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d86ffdce2296389239f29bc23023bc7867815208.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ca159b5ffbe4e6827837bc3d6df03b067bce6cb2.png",
     "website": "https://www.optifye.ai",
     "all_locations": "New Delhi, DL, India",
-    "long_description": "Optifye.ai does AI performance monitoring for factory workers\r\n\r\nWe place cameras in factories and use vision AI to tell supervisors who's working and who's not in real time. \r\n\r\nThe shop floor has historically been a black box. With Optifye, manufacturing companies can now accurately measure worker output and boost efficiency!",
-    "one_liner": "AI performance monitoring for factory workers",
-    "team_size": 8,
+    "long_description": "Optifye deploys AI cameras in factories to monitor operator productivity & SOP adherence in real-time.\r\n\r\nWe work with 5 out of the 10 largest autocomponent manufacturers in India! ",
+    "one_liner": "AI cameras for workforce monitoring ",
+    "team_size": 12,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1739567184,
@@ -4383,13 +4383,14 @@
   },
   {
     "id": 30928,
-    "name": "Darwin",
-    "slug": "darwin",
+    "name": "Darwin Robotics",
+    "slug": "darwin-robotics",
     "former_names": [
       "Thesis Labs",
       "Thesis",
       "Darwin",
-      "Thesis"
+      "Thesis",
+      "Darwin"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/834b16b30c5de79bf9dbcd0a4819289bfa937936.png",
     "website": "https://darwinrobotics.ai",
@@ -4426,8 +4427,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/darwin",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/darwin.json"
+    "url": "https://www.ycombinator.com/companies/darwin-robotics",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/darwin-robotics.json"
   },
   {
     "id": 30987,
@@ -4911,7 +4912,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9b4aa40c1f823de9d3ec9a6c4b04e1e382dc5a85.png",
     "website": "https://degla.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We turn natural Language into Multi-Drone Mission execution. Degla is built around a simple idea: once you’ve expressed your intent, the system owns the problem.You don’t babysit drones. You don’t micromanage failures. You don’t rewrite plans. You state the goal, Degla figures out how.",
+    "long_description": "Degla AI builds autonomy software that enables drones to understand spoken instructions, reason onboard, and adapt as the mission unfolds. Once you’ve expressed your intent, the system owns the problem.\r\n\r\nAn operator can say, “Find the missing hiker wearing a red sweater.” The drone plans the mission, interprets what it sees, and adjusts its flight as new information emerges. The operator sets the objective and the aircraft handles the execution.\r\n\r\nAt the core is an onboard vision-language model that interprets what the drone sees, understands the operator’s intent, and guides mission planning, execution, and adaptation. Running locally on NVIDIA Jetson, it makes mission decisions without relying on cloud inference.\r\n",
     "one_liner": "The fully autonomous intelligence layer in the sky.",
     "team_size": 2,
     "industry": "Industrials",

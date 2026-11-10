@@ -3348,7 +3348,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2021",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "Healthcare",
       "Consumer Health and Wellness"
@@ -8006,7 +8006,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -9096,6 +9096,46 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/claimglide.json"
   },
   {
+    "id": 31122,
+    "name": "Mendelia",
+    "slug": "mendelia",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5c9bb5a39d8a674e0ac664c819a4a26edd528488.png",
+    "website": "https://mendelia.com/",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "",
+    "one_liner": "AI-powered back office employees for surgical practices",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1794246450,
+    "tags": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "Diana",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mendelia",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/mendelia.json"
+  },
+  {
     "id": 31268,
     "name": "Cova",
     "slug": "cova",
@@ -9193,7 +9233,7 @@
       "Nxtcure Labs",
       "NxtCure"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/96ae92a8adbb85f9a1045d9323611d53252e2d64.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b4d6319538171495ccc1876c381fe69a4f658969.png",
     "website": "https://nxtcure.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "NxtCure Labs is an AI-native, full-stack CRO built to take therapeutics from discovery to market faster. We are reinventing medicine from lab to drug discovery.\r\n\r\nAbout 2 million Americans are diagnosed with cancer every year. Science has never moved faster, new immunotherapies, targeted drugs and cancer vaccines arrive every year. But roughly 90% of cancer drugs fail in clinical trials, and about 80% of trials run late. The breakthroughs exist. The way we test them is stuck in the last century.\r\n\r\nNxtCure is building autonomous clinical trials. Before a single patient enrolls, we run the trial thousands of times on digital twins. Each virtual patient is a system of coupled differential equations that track how a drug moves through plasma, tumor and heart, and how the tumor grows, shrinks or fights back. The parameters are fit to real trial data, so every twin behaves like real biology. Across thousands of simulations we can calculate the odds that a dose will hit its endpoints, and fix the protocol before it costs anyone time, money or hope.\r\n\r\nThen 13 AI agents run the trial. Each one owns a stage: drafting the protocol, ranking sites, pre-screening patients, forecasting drug supply, watching for adverse events, predicting dropout, cleaning data and writing the final report. As real data comes in, the twins update and flag problems weeks before a human would see them.\r\n\r\nIn 2025, the FDA laid out how computer simulation can take its place. Soon a cancer drug will run through thousands of simulated trials before it ever touches a lab, and reach patients years faster. We’re building that future.",

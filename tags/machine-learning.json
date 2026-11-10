@@ -1355,7 +1355,7 @@
     ],
     "tags_highlighted": [],
     "top_company": true,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2017",
     "status": "Active",
@@ -3500,7 +3500,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Roboflow enables developers to make the world programmable.\r\n\r\nUse our tools to build better datasets (collect image, video / annotate), models (foundation and fine tuned small models), and deployments (self hosted, edge, APIs, SDKs) for computer vision. Over 250k developers, including those from over half the Fortune 100, build with our open source and hosted tools.\r\n\r\nBuild with us: https://app.roboflow.com\r\nHack with us: https://roboflow.slab.com/public/posts/roboflow-hackathons-external-u478m1iz\r\nWork with us: roboflow.com/careers\r\n",
     "one_liner": "🖼️ Give your software the sense of sight.",
-    "team_size": 100,
+    "team_size": 150,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1598130074,
@@ -8508,7 +8508,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -9986,13 +9986,14 @@
   },
   {
     "id": 30928,
-    "name": "Darwin",
-    "slug": "darwin",
+    "name": "Darwin Robotics",
+    "slug": "darwin-robotics",
     "former_names": [
       "Thesis Labs",
       "Thesis",
       "Darwin",
-      "Thesis"
+      "Thesis",
+      "Darwin"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/834b16b30c5de79bf9dbcd0a4819289bfa937936.png",
     "website": "https://darwinrobotics.ai",
@@ -10029,8 +10030,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/darwin",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/darwin.json"
+    "url": "https://www.ycombinator.com/companies/darwin-robotics",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/darwin-robotics.json"
   },
   {
     "id": 31010,
@@ -10579,8 +10580,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/27ce3fff3af03da64bc8cfefeb3efef7b6d080b7.png",
     "website": "https://lyon.so",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lyon builds private foundation models for banks, insurance companies, and fintechs. Each model learns from the company’s proprietary transactions, payments, clicks, and customer interactions to predict credit, fraud, collections, income, churn, and lifetime value; and runs inside the company’s cloud, so its data and intelligence remain under its control. Lyon is already working with a major insurer and trained a model on 28B transactions for a fintech serving tens of millions of active users, identifying premium-card converters 4x more precisely than its existing rules; the model is now being deployed for credit.",
-    "one_liner": "Foundation models on enterprise transaction data.",
+    "long_description": "Lyon builds private foundation models for banks, fintechs, funds, brokers and payments companies, turning their own data into better predictions.\r\n\r\nThese models apply the transformer technology behind large language models to transaction histories, loan records and customer activity. They learn relationships across events and over time that manually engineered features can miss, producing richer signals for existing models and new applications.\r\n\r\nThe same model can support fraud detection, credit default prediction, loss given default estimation and product recommendations. Lyon develops and deploys each institution’s model, with software to keep it current and integrate its predictions into existing systems.\r\n\r\nAt a consumer fintech with tens of millions of users, a Lyon model trained on tens of billions of transactions delivered a 112% relative improvement in default prediction PR-AUC over the fintech’s existing tree-based model.",
+    "one_liner": "Foundation models on enterprise event data.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
@@ -11318,5 +11319,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hundred",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/hundred.json"
+  },
+  {
+    "id": 42087,
+    "name": "DataNode",
+    "slug": "datanode",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/92a9fbb5f568a74e91b6062e29764cec118e28b3.png",
+    "website": "https://datanodelabs.com",
+    "all_locations": "",
+    "long_description": "DataNode is building the structuring data layer for event risk. Our engine combines prediction markets with traditional derivatives to quantify and risk assess any event exposure and build a priced, tailored hedge, even before a market for it exists.",
+    "one_liner": "Structured products on prediction markets",
+    "team_size": 3,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1794268053,
+    "tags": [
+      "Machine Learning",
+      "Analytics",
+      "Investments"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2027",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "partners": "Brad",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/datanode",
+    "api": "https://yc-oss.github.io/api/batches/winter-2027/datanode.json"
   }
 ]
