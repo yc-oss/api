@@ -1334,7 +1334,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7613d4b5db392ae5fc21774c6519b239f932651.png",
     "website": "",
-    "all_locations": "Blountville, TN, USA",
+    "all_locations": "",
     "long_description": "Flirtey is the leading drone delivery service. We are reinventing the on-demand economy with our network of flying robots for last mile delivery. Our mission is to save lives and change lifestyles by making delivery instant.\r\n\r\nFlirtey’s drone delivery service is faster, more efficient and the ultimate customer experience. We’re rapidly growing our team and achieving a record number of historic firsts in the drone delivery industry, advancing autonomy, safety systems and advanced delivery technology.\r\n\r\nIf you are interested in having your goods delivered via Flirtey, or joining the team that is transforming the delivery industry, visit www.flirtey.com \r\n\r\nRecent Company Milestones:\r\n- October 2017 – Announced a partnership to launch the first automated external defibrillator (AED) drone delivery service in the U.S.\r\n- January 2017 – Raised $16 million in Series A funding from top Silicon Valley investors.\r\n- August 2016 – Launched the world’s first commercial pizza-by-drone delivery model in partnership with Domino’s.\r\n- July 2016 – Conducted the first fully autonomous, FAA-approved drone delivery from a store to a home in partnership with 7-Eleven. \r\n- June 2016 – Completed the first fully autonomous, FAA-approved ship-to-shore drone delivery in collaboration with Johns Hopkins. \r\n- April 2016 – The Flirtey drone used to make the first FAA-approved delivery in the U.S. accepted into the Smithsonian’s National Air and Space Museum, alongside the Space Shuttle Discovery and the Wright Flyer. \r\n- March 2016 – Conducted the first fully autonomous, FAA-approved urban drone delivery in the U.S. \r\n- July 2015 – Completed the first FAA-approved drone delivery on U.S. soil in collaboration with NASA Langley Research Center.\r\n- Summer 2015 – Graduated Y Combinator.\r\n- 2013 – Founded the first drone delivery service in the world.",
     "one_liner": "Flirtey is the world’s first commercial drone delivery service and…",
     "team_size": 11,
@@ -1356,10 +1356,9 @@
       "Drones"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "partners": "Unspecified",
     "app_video_public": false,
     "demo_day_video_public": false,
@@ -6049,7 +6048,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2020",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "Industrials"
     ],
@@ -6059,7 +6058,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "partners": "Unspecified",
     "app_video_public": false,
     "demo_day_video_public": false,
@@ -12980,44 +12979,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/pave-robotics.json"
   },
   {
-    "id": 30263,
-    "name": "Bindwell",
-    "slug": "bindwell",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/27909408e945386b5dab99b0a68f5cede01bee40.png",
-    "website": "https://www.bindwell.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're developing better, safer pesticides in-house using custom AI models. ",
-    "one_liner": "Discovering new pesticides with AI",
-    "team_size": 24,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Agriculture",
-    "launched_at": 1740392812,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Agriculture"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "partners": "Aaron",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/bindwell",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/bindwell.json"
-  },
-  {
     "id": 30276,
     "name": "General Trajectory",
     "slug": "general-trajectory",
@@ -17166,6 +17127,56 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/tenet-industries.json"
   },
   {
+    "id": 31375,
+    "name": "Hub Labs",
+    "slug": "hub-labs",
+    "former_names": [
+      "Hub",
+      "Hub.xyz",
+      "Hub"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4807c17f08dbbfbdd8f51297746a838ba6db58c1.png",
+    "website": "https://hublabs.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Hub deploys hardware and embodied machines to collect data for robotics labs, to produce labor output for real world businesses.",
+    "one_liner": "Deployment and data infrastructure for Embodied AI.",
+    "team_size": 50,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1773429014,
+    "tags": [
+      "Robotics",
+      "Big Data",
+      "Infrastructure",
+      "AI",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "partners": "Harj",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hub-labs",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/hub-labs.json"
+  },
+  {
     "id": 31389,
     "name": "Ryhla",
     "slug": "ryhla",
@@ -19663,7 +19674,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2026",
     "status": "Active",
@@ -21254,6 +21265,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dreamscale-labs",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/dreamscale-labs.json"
+  },
+  {
+    "id": 35949,
+    "name": "Verno",
+    "slug": "verno",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/74ef12c285d4addcc60a88f490fbbb178260035f.png",
+    "website": "https://verno-ai.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Every refinery, chip fab and power plant is built from thousands of engineering documents that are supposed to agree, and engineers still keep them in sync by hand. Verno is AI for how the physical world gets built. An engineer describes a change, and Verno edits the P&ID in the native CAD file, carries the change through line lists and other downstream documents, and checks every one against engineering rules before the engineer approves it. On drawings already issued for construction, it has caught errors like one tank with three different design pressures across three documents. We're starting with process EPCs in oil and gas, chemicals, semiconductors, pharma, and food and beverage, then expanding into water and power.",
+    "one_liner": "AI engineering industrials like chip fabs, refineries and power plants",
+    "team_size": 4,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1793725102,
+    "tags": [
+      "Manufacturing",
+      "Energy",
+      "AI",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "partners": "Christopher",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/verno",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/verno.json"
   },
   {
     "id": 36048,

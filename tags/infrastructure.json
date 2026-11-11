@@ -121,7 +121,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "partners": "Unspecified",
     "app_video_public": false,
     "demo_day_video_public": false,
@@ -3505,7 +3505,7 @@
     "name": "Exla",
     "slug": "exla",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/94cd00784e37842fc455ee2fd7b22d487b0693cf.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/74b03d66013c57fb583f1bf25c91cf444cd932c2.png",
     "website": "https://exla.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Exla is your 24/7 AI SRE agent. It reads your production logs, traces, and deploys, and holds full context on your codebase. It establishes a live baseline of normal behavior, so when something silently regresses, it catches the deviation immediately, pins it to the exact commit that caused it, and opens a fix PR. No paging a human at 3am, no digging through dashboards to find what changed.\r\n\r\nhttps://cal.com/exla-ai/schedule",
@@ -5244,27 +5244,28 @@
   },
   {
     "id": 31375,
-    "name": "Hub",
-    "slug": "hub",
+    "name": "Hub Labs",
+    "slug": "hub-labs",
     "former_names": [
       "Hub",
-      "Hub.xyz"
+      "Hub.xyz",
+      "Hub"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4807c17f08dbbfbdd8f51297746a838ba6db58c1.png",
-    "website": "https://hub.xyz",
+    "website": "https://hublabs.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Hub is a multimodal lab providing real world data to frontier labs and robotic companies.",
-    "one_liner": "Real-world training data for frontier AI labs and robotics.",
-    "team_size": 60,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
+    "long_description": "Hub deploys hardware and embodied machines to collect data for robotics labs, to produce labor output for real world businesses.",
+    "one_liner": "Deployment and data infrastructure for Embodied AI.",
+    "team_size": 50,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1773429014,
     "tags": [
       "Robotics",
-      "Crowdsourcing",
       "Big Data",
       "Infrastructure",
-      "AI"
+      "AI",
+      "Industrial"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5273,8 +5274,8 @@
     "batch": "Spring 2026",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Infrastructure"
+      "Industrials",
+      "Manufacturing and Robotics"
     ],
     "regions": [
       "United States of America",
@@ -5288,8 +5289,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/hub",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/hub.json"
+    "url": "https://www.ycombinator.com/companies/hub-labs",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/hub-labs.json"
   },
   {
     "id": 31389,
@@ -6005,8 +6006,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/59d6214df81a05c739db52287017ae33c8c45f0d.png",
     "website": "https://inkbox.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "For your AI agents to behave like teammates, we give them persistent identities with their own email, phone, and iMessage. We also provide them an agent-to-agent channel, so they can communicate for task delegation.",
-    "one_liner": "The identity and communication layer for AI agents",
+    "long_description": "Give your agents a computer to run on, with their own email, phone, iMessage, and WhatsApp. Each agent runs next to its communication channels, so it never misses a reply, and sleeps when idle, so customers don’t pay for downtime.",
+    "one_liner": "Give agents a computer with their own email, phone, iMsg, and WhatsApp",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -6445,7 +6446,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/15150d0dab29e0b9d4c44b12fc87e17632fb4819.png",
     "website": "https://www.reific.co/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Reific builds RL environments for superhuman reasoning over time, for the frontier labs that train agents. Each comes from real, de-identified records (health data, industrial sensors, compute-cluster logs), in three families: personal agents, industry, and science and compute. The world keeps moving while the agent works, so the agent must keep learning: data arrive on a clock, and every answer is checked against what actually happened. In each family, the best frontier model averages below half, and models that train on our environments improve.\r\n\r\nWe specialise in time series because almost everything that matters is recorded that way: a heartbeat, a power grid, a factory line, a GPU cluster, an experiment. No person can turn thousands of moving signals at once into the state of a system and what happens next. AI can pass the bar exam, but it still can’t watch a system for weeks and act at the right moment. It learned from what people wrote down, in environments that freeze the world and abstract it to our understanding.\r\n\r\nTime series let us ride the exponential. The world records new data every second and time keeps grading, so each generation of models gets harder, fresher tasks. We believe humans always strive to explore. Our mission is to build the infrastructure for that exploration: the layer of the AI stack where models keep improving, out into what no one understands yet.",
+    "long_description": "Reific builds RL environments for superhuman reasoning over time, for the frontier labs that train agents. AI has learned to reason over text and code. But most of what matters in the real world shows up as numbers that change every second: a heartbeat, a gearbox, a GPU cluster. No human can track thousands of signals at once, but AI should be able to.\r\n\r\nIn our environments, data streams in on a clock while the agent works, and every action is graded by what actually happened. Most AI training today teaches models to match human experts. We treat human performance as the floor. Each environment comes from real, de-identified records, in three task families: personal agents, industry, and science & compute.\r\n\r\nToday, even the best frontier model averages under 50% on each family. Training an open model on our environments raised its full-solve rate on unseen tasks by 54% (from 25.6% to 39.5%), with no loss on general benchmarks. Our mission is to build the infrastructure that keeps AI climbing the frontier, long past human level in the real world.",
     "one_liner": "RL environments for superhuman reasoning over time",
     "team_size": 1,
     "industry": "B2B",
@@ -6480,6 +6481,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/reific",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/reific.json"
+  },
+  {
+    "id": 35091,
+    "name": "Ample Computer",
+    "slug": "ample-computer",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/20a58a6cb709fda329d24b263a54b787cd53d4bc.png",
+    "website": "https://ample.computer/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Cloud hosting and infrastructure platform that has everything your agent needs to ship web applications. We set up compute, frontend, database, storage, CDN, email and (soon) text, analytics, and payments. We then monitor, patch and scale your app so you never migrate anything again.\r\n\r\nWe're doing for the internet software economy what Shopify did for e-commerce - remove the technical barriers to anyone can launch anything.",
+    "one_liner": "Everything your agent needs to ship a web app",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1794340768,
+    "tags": [
+      "B2B",
+      "Cloud Computing",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "Christopher",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ample-computer",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/ample-computer.json"
   },
   {
     "id": 35093,
@@ -6537,7 +6581,7 @@
     "website": "https://stacktrace.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Agents will do most of the work in the future, but only if teams can trust them unsupervised.\r\nStacktrace is the control layer for every agent: it sees every action, detects risky behavior, enforces the bounds your team sets, and steps in when an agent drifts from intent.",
-    "one_liner": "See and control what your agents actually do",
+    "one_liner": "Give agents autonomy without losing control",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -6668,7 +6712,7 @@
     "website": "https://withhopper.com/code",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We are building the inference layer for voice. Voice agents are latency-sensitive and differentiated enough to warrant a focused inference player, similar to Fal (inference for video) or Sail Research (inference for long horizon agents).\r\n\r\nBefore this our team wrote megakernels at Meta Reality Labs and ran inference at Salient (a16z-backed voice startup)",
-    "one_liner": "Fast, open-source inference for voice",
+    "one_liner": "The Inference cloud for voice ",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",

@@ -2156,27 +2156,28 @@
   },
   {
     "id": 31375,
-    "name": "Hub",
-    "slug": "hub",
+    "name": "Hub Labs",
+    "slug": "hub-labs",
     "former_names": [
       "Hub",
-      "Hub.xyz"
+      "Hub.xyz",
+      "Hub"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4807c17f08dbbfbdd8f51297746a838ba6db58c1.png",
-    "website": "https://hub.xyz",
+    "website": "https://hublabs.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Hub is a multimodal lab providing real world data to frontier labs and robotic companies.",
-    "one_liner": "Real-world training data for frontier AI labs and robotics.",
-    "team_size": 60,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
+    "long_description": "Hub deploys hardware and embodied machines to collect data for robotics labs, to produce labor output for real world businesses.",
+    "one_liner": "Deployment and data infrastructure for Embodied AI.",
+    "team_size": 50,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1773429014,
     "tags": [
       "Robotics",
-      "Crowdsourcing",
       "Big Data",
       "Infrastructure",
-      "AI"
+      "AI",
+      "Industrial"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2185,8 +2186,8 @@
     "batch": "Spring 2026",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Infrastructure"
+      "Industrials",
+      "Manufacturing and Robotics"
     ],
     "regions": [
       "United States of America",
@@ -2200,8 +2201,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/hub",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/hub.json"
+    "url": "https://www.ycombinator.com/companies/hub-labs",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/hub-labs.json"
   },
   {
     "id": 31376,
@@ -4670,7 +4671,7 @@
       "markup.one",
       "tday"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cd01de76c710a2c4f0f17b3f1279bf99762055c3.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/189d7dfda58ad5b8ba218fc5332926319e00c2d5.png",
     "website": "https://tday.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "tday automatically turns a software company's product into on-brand marketing creative. Connect your product and git repo, and tday generates polished launch videos, social graphics, and ads, the content a team would normally spend hours making in a design tool or pay a freelancer for. tday then publishes the creative and measures how it performs across your social and ad channels, closing the loop from what you ship to what you post.",
@@ -7479,19 +7480,23 @@
   },
   {
     "id": 31554,
-    "name": "Clawvisor",
-    "slug": "clawvisor",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7b7343f0662dc74045154f30ca2872d79b80c650.png",
-    "website": "https://clawvisor.com",
+    "name": "Wakeshift",
+    "slug": "wakeshift",
+    "former_names": [
+      "Clawvisor"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2a5226c21889607f955fa818e06531d04bc44b82.png",
+    "website": "https://wakeshift.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Clawvisor lets AI agents use apps like Gmail, Slack, and Google Drive without going rogue or ever seeing your credentials. You approve tasks once. Clawvisor enforces them on every request.",
-    "one_liner": "The Authorization Layer for AI Agents",
-    "team_size": 1,
+    "long_description": "Wakeshift gives MCP servers real-time events that wake up agents in Claude Code, Codex, Cursor, and more, without polling or harness-specific code. You add the SDK once. Wakeshift handles every harness.",
+    "one_liner": "The Wake-up Call for AI Agents",
+    "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B -> Security",
+    "subindustry": "B2B -> Productivity",
     "launched_at": 1778081648,
-    "tags": [],
+    "tags": [
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -7500,7 +7505,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Security"
+      "Productivity"
     ],
     "regions": [
       "United States of America",
@@ -7512,8 +7517,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/clawvisor",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/clawvisor.json"
+    "url": "https://www.ycombinator.com/companies/wakeshift",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/wakeshift.json"
   },
   {
     "id": 31560,

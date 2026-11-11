@@ -12568,51 +12568,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/impractical.json"
   },
   {
-    "id": 26750,
-    "name": "NuMind",
-    "slug": "numind",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a271d83ee825be78f44453963c65aea56395a341.png",
-    "website": "https://www.numind.ai",
-    "all_locations": "Boston, MA, USA; Cambridge, MA, USA",
-    "long_description": "NuMind is a tool for data scientists, data analysts, but also software engineers to create custom NLP models. For example, a recruiting company uses NuMind to find which job offers best match a given resume. Etienne (CEO) was head of Machine Learning at Wolfram Research, and Samuel (CTO) co-founded Make.org (8M users). NuMind originated from our own frustration when developing NLP models. Leveraging large language models similar to GPT-3, NuMind allows to complete NLP projects at least 10x faster than before. We launched a private beta August 2 and had 9 paying customers one month later.",
-    "one_liner": "Create custom NLP models",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1656275044,
-    "tags": [
-      "AIOps",
-      "Machine Learning",
-      "NLP",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "partners": "Nicolas",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/numind",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/numind.json"
-  },
-  {
     "id": 26756,
     "name": "Midplane",
     "slug": "midplane",
@@ -13835,7 +13790,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -21819,50 +21774,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/mastra.json"
   },
   {
-    "id": 30318,
-    "name": "Wildcard",
-    "slug": "wildcard",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6dd000652c5e77966ee483897c0ffed9dac2d80.png",
-    "website": "https://wild-card.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Wildcard is the full-stack AEO & GEO platform for ecommerce and retail brands. We audit and action on how you show up across across AI search and AI shopping platforms like ChatGPT, Google AI Overviews, Gemini, Amazon Rufus/Alexa, and Walmart Sparky. We build the roadmap to close the gaps, and create the content that gets you recommended.\r\n\r\nMost tools stop at a visibility score. We do the work, and are built for ecommerce brands and retailers, not SaaS. Brands using Wildcard now show up first in AI answers where they used to be invisible.\r\n\r\nWildcard is building the command center for agentic commerce, everything brands need to serve a new type of shopper: AI agents; including support for emerging standards like the Agentic Commerce Protocol (ACP) and Universal Commerce Protocol (UCP).",
-    "one_liner": "AEO/GEO for E-Commerce and Retail",
-    "team_size": 0,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1738308751,
-    "tags": [
-      "Generative AI",
-      "E-commerce",
-      "Marketing",
-      "Retail Tech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "partners": "Gustaf",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/wildcard",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/wildcard.json"
-  },
-  {
     "id": 30319,
     "name": "Corsair",
     "slug": "corsair",
@@ -23475,7 +23386,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "partners": "Jared",
     "app_video_public": false,
     "demo_day_video_public": false,
@@ -25179,7 +25090,7 @@
     "website": "https://valgo.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Insurers struggle to price autonomous systems because the historical data simply doesn't exist. Your car insurance draws from over 30 billion claims records, but autonomous trucks and robots have nearly zero. Valgo is the risk quantification platform that closes that gap. We are building probabilistic models of routes, tasks, and environments from the bottom up. We output a simulated loss estimate that insurers need to price coverage. Valgo is the foundational layer that gives insurance providers confidence to properly price autonomy risk.\r\n\r\nOur team combines expertise in risk estimation for autonomy with deep experience in the insurance industry. Sydney and Robert are Stanford PhDs with leading expertise in safety of physical AI systems. Sydney wrote the textbook on validating safety-critical systems and teaches the course at Stanford. Robert spent 7 years at MIT Lincoln Laboratory on the core team that designed and validated an FAA-certified aircraft collision avoidance system, now a worldwide standard. Jon is a Sloan Fellow from the Stanford GSB and an actuary who spent over 12 years in insurance leadership and led over $5 billion in M&A as head of corporate development for one of the largest insurers in Asia-Pacific.",
-    "one_liner": "Insurance risk layer for physical AI",
+    "one_liner": "Insurance risk layer for autonomy",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -27279,14 +27190,16 @@
   },
   {
     "id": 34899,
-    "name": "The Letter Company",
-    "slug": "the-letter-company",
-    "former_names": [],
+    "name": "Letter",
+    "slug": "letter-dev",
+    "former_names": [
+      "The Letter Company"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/52ab0840253398a6b68d120c27e1324adecaa262.png",
     "website": "https://letter.dev",
     "all_locations": "New York City, NY, USA",
-    "long_description": "The Letter Company creates engineering tools and models purpose-built for growth. ",
-    "one_liner": "The world's first coding agent, harness, & IDE for growth engineering.",
+    "long_description": "The Letter Company issues autonomous pull requests to scale websites, agent experiences, and so much more. Today, we solve modern issues like agentic conviction, inbound conversion, SEO, GEO, etc. However, we believe as agents become more truth-seeking, spammy marketing strategies will fall apart in favor of benchmark and evidence-based messaging. These are engineering problems that only a purpose-built coding agent can solve. ",
+    "one_liner": "The world's first coding agent, IDE & infra for growth engineering.",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -27318,8 +27231,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/the-letter-company",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/the-letter-company.json"
+    "url": "https://www.ycombinator.com/companies/letter-dev",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/letter-dev.json"
   },
   {
     "id": 35191,
@@ -27471,6 +27384,7 @@
     "launched_at": 1788984366,
     "tags": [
       "Developer Tools",
+      "Open Source",
       "Enterprise Software",
       "AI"
     ],

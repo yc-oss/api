@@ -39,7 +39,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "partners": "Jared",
     "app_video_public": false,
     "demo_day_video_public": false,
@@ -327,12 +327,12 @@
     "name": "Garage",
     "slug": "garage-2",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b097e3ed808fe533aff49062b2a59a6f1f2805fd.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7fdddf8ec5888d8687aed85602772057188b1cd.png",
     "website": "https://www.shopgarage.com/",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Garage is modernizing how America buys and sells the vehicles and equipment that keep communities safe. Our AI-powered marketplace automates every part of the transaction—appraisals, payments, paperwork, freight, warranty, and financing—reducing what once took months down to minutes.\r\n\r\nBy replacing broken, manual processes with modern software, Garage helps critical equipment reach communities faster—saving taxpayer dollars and supporting the industries that keep America running.\r\n\r\nWe've raised $18M to date, and are backed by Y Combinator, Initialized Capital, Infinity Ventures, FJ Labs, and other leading investors.\r\n",
-    "one_liner": "Marketplace for America's most essential assets",
-    "team_size": 35,
+    "long_description": "Trusted by local governments and essential services businesses across America, Garage is the AI-powered marketplace transforming how America's mission-critical assets are bought and sold. By automating everything from appraisals to freight, Garage saves time and money for communities of all sizes.\r\n\r\nWe've raised $60M to date, and are backed by Y Combinator, Initialized Capital, Infinity Ventures, Invus Opportunities, FJ Labs, and other leading investors.",
+    "one_liner": "America's marketplace for mission-critical assets.",
+    "team_size": 45,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1709146834,
@@ -356,7 +356,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "partners": "Jared",
     "app_video_public": false,
     "demo_day_video_public": false,
@@ -1441,6 +1441,56 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/tenet-industries.json"
   },
   {
+    "id": 31375,
+    "name": "Hub Labs",
+    "slug": "hub-labs",
+    "former_names": [
+      "Hub",
+      "Hub.xyz",
+      "Hub"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4807c17f08dbbfbdd8f51297746a838ba6db58c1.png",
+    "website": "https://hublabs.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Hub deploys hardware and embodied machines to collect data for robotics labs, to produce labor output for real world businesses.",
+    "one_liner": "Deployment and data infrastructure for Embodied AI.",
+    "team_size": 50,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1773429014,
+    "tags": [
+      "Robotics",
+      "Big Data",
+      "Infrastructure",
+      "AI",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "partners": "Harj",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hub-labs",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/hub-labs.json"
+  },
+  {
     "id": 31437,
     "name": "Sidekick",
     "slug": "textsidekick",
@@ -1881,6 +1931,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/twentyfour26",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/twentyfour26.json"
+  },
+  {
+    "id": 35949,
+    "name": "Verno",
+    "slug": "verno",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/74ef12c285d4addcc60a88f490fbbb178260035f.png",
+    "website": "https://verno-ai.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Every refinery, chip fab and power plant is built from thousands of engineering documents that are supposed to agree, and engineers still keep them in sync by hand. Verno is AI for how the physical world gets built. An engineer describes a change, and Verno edits the P&ID in the native CAD file, carries the change through line lists and other downstream documents, and checks every one against engineering rules before the engineer approves it. On drawings already issued for construction, it has caught errors like one tank with three different design pressures across three documents. We're starting with process EPCs in oil and gas, chemicals, semiconductors, pharma, and food and beverage, then expanding into water and power.",
+    "one_liner": "AI engineering industrials like chip fabs, refineries and power plants",
+    "team_size": 4,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1793725102,
+    "tags": [
+      "Manufacturing",
+      "Energy",
+      "AI",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "partners": "Christopher",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/verno",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/verno.json"
   },
   {
     "id": 36444,

@@ -2011,7 +2011,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "partners": "Unspecified",
     "app_video_public": false,
     "demo_day_video_public": false,
@@ -3414,7 +3414,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "partners": "Unspecified",
     "app_video_public": false,
     "demo_day_video_public": false,
@@ -9708,7 +9708,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "partners": "Nicolas",
     "app_video_public": false,
     "demo_day_video_public": false,
@@ -23988,8 +23988,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac8d1fbd9622030ddfab1cc9a6fac1907350004f.png",
     "website": "https://reasonmachines.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Reason is an AI teammate for work and code that runs autonomous cloud agents with a frontier harness on cost per task.\r\n\r\nIt delivers the same performance with 22% lower costs than Codex. By operating with a harness outside the sandbox, it acts seamlessly across cloud computers and local devices.\r\n\r\nReason runs work from start to finish: from an issue to a finished pull request, on a schedule, or from a Slack alert. It is available as a Mac app, on the web, from the CLI, in Slack, and through a REST API, with about 100 integrations and shareable skills. Bring your own keys and subscriptions, and work rolls over to the next one when limits are hit.",
-    "one_liner": "Reason is most world's effective agent on cost per task",
+    "long_description": "Reason runs autonomous cloud agents with a frontier harness on cost per task.\r\n\r\nIt delivers the same performance with 22% lower costs than Codex. By operating with a harness outside the sandbox, it acts seamlessly across cloud computers and local devices.\r\n\r\nReason runs work from start to finish: from an issue to a finished pull request, on a schedule, or from a Slack alert. It is available as a Mac app, on the web, from the CLI, in Slack, and through a REST API, with about 100 integrations and shareable skills. Bring your own keys and subscriptions, and work rolls over to the next one when limits are hit.",
+    "one_liner": "Reason is world's most effective agent on cost per task",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -24737,8 +24737,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/59d6214df81a05c739db52287017ae33c8c45f0d.png",
     "website": "https://inkbox.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "For your AI agents to behave like teammates, we give them persistent identities with their own email, phone, and iMessage. We also provide them an agent-to-agent channel, so they can communicate for task delegation.",
-    "one_liner": "The identity and communication layer for AI agents",
+    "long_description": "Give your agents a computer to run on, with their own email, phone, iMessage, and WhatsApp. Each agent runs next to its communication channels, so it never misses a reply, and sleeps when idle, so customers don’t pay for downtime.",
+    "one_liner": "Give agents a computer with their own email, phone, iMsg, and WhatsApp",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -25304,14 +25304,16 @@
   },
   {
     "id": 34899,
-    "name": "The Letter Company",
-    "slug": "the-letter-company",
-    "former_names": [],
+    "name": "Letter",
+    "slug": "letter-dev",
+    "former_names": [
+      "The Letter Company"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/52ab0840253398a6b68d120c27e1324adecaa262.png",
     "website": "https://letter.dev",
     "all_locations": "New York City, NY, USA",
-    "long_description": "The Letter Company creates engineering tools and models purpose-built for growth. ",
-    "one_liner": "The world's first coding agent, harness, & IDE for growth engineering.",
+    "long_description": "The Letter Company issues autonomous pull requests to scale websites, agent experiences, and so much more. Today, we solve modern issues like agentic conviction, inbound conversion, SEO, GEO, etc. However, we believe as agents become more truth-seeking, spammy marketing strategies will fall apart in favor of benchmark and evidence-based messaging. These are engineering problems that only a purpose-built coding agent can solve. ",
+    "one_liner": "The world's first coding agent, IDE & infra for growth engineering.",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -25343,8 +25345,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/the-letter-company",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/the-letter-company.json"
+    "url": "https://www.ycombinator.com/companies/letter-dev",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/letter-dev.json"
   },
   {
     "id": 34926,
@@ -25540,6 +25542,7 @@
     "launched_at": 1788984366,
     "tags": [
       "Developer Tools",
+      "Open Source",
       "Enterprise Software",
       "AI"
     ],
