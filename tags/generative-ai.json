@@ -7245,7 +7245,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -7371,7 +7371,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/364d4894b0a1316d1031d75709cb12f94ced7b77.png",
     "website": "https://www.aren.com/",
-    "all_locations": "",
+    "all_locations": "New York City, NY, USA",
     "long_description": "Empowering nurses to execute successful shifts, while illuminating their critical role in health system financial performance.",
     "one_liner": "Powering Successful Nursing Shifts",
     "team_size": null,
@@ -7394,7 +7394,8 @@
       "Healthcare"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "partners": "Unspecified",
@@ -7932,7 +7933,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -11220,8 +11221,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c4b357efedd6b75b24594234b97cea3bade805e0.png",
     "website": "https://palettelabs.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Palette is a self-improving AI-native media platform built by MIT computer scientists and multimodal researchers that unifies the creative workflow into a single generation engine. We’re building a fully autonomous production engine that generates, distributes, and optimizes interactive media for every brand and audience.",
-    "one_liner": "The Media Engine of the AI Era",
+    "long_description": "Palette builds and deploys state-of-the-art generative models for marketing, film, and physical design. Founded by MIT computer scientists and multimodal AI researchers, we're advancing how generative models create, understand, and transform media and the physical world.",
+    "one_liner": "Generative models for the creative and physical worlds",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -11229,6 +11230,7 @@
     "tags": [
       "Generative AI",
       "Video",
+      "Manufacturing",
       "AI"
     ],
     "tags_highlighted": [],
@@ -11366,9 +11368,9 @@
     "launched_at": 1777111023,
     "tags": [
       "Generative AI",
-      "Finance",
+      "SaaS",
+      "B2B",
       "Enterprise",
-      "Operations",
       "AI"
     ],
     "tags_highlighted": [],
@@ -11851,52 +11853,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/graphide",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/graphide.json"
-  },
-  {
-    "id": 36675,
-    "name": "InfraOptimal",
-    "slug": "infraoptimal",
-    "former_names": [
-      "Velobyte",
-      "Inferoptimal",
-      "Infer Optimal",
-      "InferOptimal"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/003b5c5d89d4f8298ea282b6da72cc45a233eae6.png",
-    "website": "https://infraoptimal.com",
-    "all_locations": "Boston, MA, USA",
-    "long_description": "We need more computers faster than we can manufacture chips, while the average GPU workload sits below 50% utilization. \r\n\r\nThe answer is not more, it is better use of what we already have. Infraoptimal runs open models as self optimizing inference endpoints: launch any model on your own cloud or ours, and each endpoint is tuned to its model, its workload and the hardware it runs on. Behind it, our agent-driven compiler expands the search space beyond a small set of deterministically discoverable optimizations to functionally equivalent ones, proposing novel methods from state of the art literature and validating them formally, leaving reusable transformations that get better with every program they optimize. We increase speed and throughput while decreasing cost and compute.",
-    "one_liner": "Self optimizing dedicated inference endpoints",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1794104313,
-    "tags": [
-      "Edge Computing Semiconductors",
-      "Generative AI",
-      "SaaS"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "partners": "Christopher",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/infraoptimal",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/infraoptimal.json"
   },
   {
     "id": 38953,

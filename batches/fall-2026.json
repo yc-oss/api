@@ -89,6 +89,50 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/wingman-law.json"
   },
   {
+    "id": 31226,
+    "name": "Libra Robotics",
+    "slug": "libra-robotics",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e588f98ac537da3d55ea3c2b43b0bd505524c7f8.png",
+    "website": "https://www.librabots.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Infrastructure faces rapid expansion and labor shortages. Today, robots struggle to scale to meet customers’ high-mix work needs. Libra builds AI that engineers robots for new tasks across embodiments. We go from each new infra task to field-deployable robots 10x faster. Today, our robots are working on solar farms and piloting in data centers. Contractors pay for completed work as a service, not robots.",
+    "one_liner": "The robot workforce for infrastructure of the AI era",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1783647531,
+    "tags": [
+      "Hard Tech",
+      "Robotics",
+      "Construction",
+      "Energy",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "Tyler",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/libra-robotics",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/libra-robotics.json"
+  },
+  {
     "id": 31318,
     "name": "Databuddy",
     "slug": "databuddy",
@@ -360,7 +404,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac8d1fbd9622030ddfab1cc9a6fac1907350004f.png",
     "website": "https://reasonmachines.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Reason runs autonomous cloud agents with a frontier harness on cost per task.\r\n\r\nIt delivers the same performance with 22% lower costs than Codex. By operating with a harness outside the sandbox, it acts seamlessly across cloud computers and local devices.\r\n\r\nReason runs work from start to finish: from an issue to a finished pull request, on a schedule, or from a Slack alert. It is available as a Mac app, on the web, from the CLI, in Slack, and through a REST API, with about 100 integrations and shareable skills. Bring your own keys and subscriptions, and work rolls over to the next one when limits are hit.",
+    "long_description": "Reason runs autonomous cloud agents with a frontier harness on cost per task.\r\n\r\nIt delivers the same performance with 30-50% lower costs than other harnesses. By operating with a harness outside the sandbox, it acts seamlessly across cloud computers and local devices.\r\n\r\nReason runs work from start to finish: from an issue to a finished pull request, on a schedule, or from a Slack alert. It is available as a Mac app, on the web, from the CLI, in Slack, and through a REST API, with about 100 integrations and shareable skills. Bring your own keys and subscriptions, and work rolls over to the next one when limits are hit.",
     "one_liner": "Reason is world's most effective agent on cost per task",
     "team_size": 2,
     "industry": "B2B",
@@ -412,9 +456,9 @@
     "launched_at": 1777111023,
     "tags": [
       "Generative AI",
-      "Finance",
+      "SaaS",
+      "B2B",
       "Enterprise",
-      "Operations",
       "AI"
     ],
     "tags_highlighted": [],
@@ -495,7 +539,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed94f83ed341c4f879d7c08c2570c04ba145e07c.png",
     "website": "https://www.rodeorobotics.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Rodeo builds a robotic technician that automates maintenance so fleets can get vehicles back on the road sooner. Initial deployments focus on oil changes at centralized depots, where routine maintenance competes for scarce technician time.\r\n\r\nCofounders Michael Hazard and Colby Duke met at Applied Intuition, where they worked with OEMs like Toyota and General Motors to bring software and autonomy to vehicles. They saw firsthand how much manual work it takes to keep vehicle fleets running, and learned how to make autonomy reliable through structured testing, real-world data, and human intervention.\r\n\r\nThey’re now applying their experience to the roughly $600B annual US vehicle maintenance market. The average US vehicle is older than ever, driving up maintenance demand at a time when shops already struggle to hire and retain technicians. That gap leaves fleets facing costly downtime and preventable breakdowns.\r\n\r\nDespite this need, vehicle maintenance has resisted traditional automation. Service information is fragmented and unreliable, and vehicle hardware varies significantly between makes and models. Rodeo builds on advances in robotic foundation models to learn maintenance skills that transfer across vehicles.\r\n\r\nRodeo pairs robots with human technicians who ensure each job is completed correctly, handling work the robots can’t yet perform autonomously. These deployments generate training data for Rodeo’s models through both teleoperation and hand tools augmented to record how technicians work. This lets Rodeo earn revenue while collecting the data needed to automate more of each job and improve margins.",
+    "long_description": "Rodeo Robotics (YC F26) automates vehicle maintenance so shops can get vehicles back to work at lower cost.\r\n\r\nCo-founders Michael Hazard and Colby Duke met at Applied Intuition, where they helped OEMs like Toyota and General Motors deploy autonomy in the real world and saw firsthand how much hands-on work it takes to keep fleets running.\r\n\r\nThey’re now applying their experience to the $600B US maintenance market. The average vehicle is getting older and needs more maintenance, but shops struggle to recruit new technicians to replace experienced workers as they retire. This leaves shops turning away work and customers waiting longer for service.\r\n\r\nRodeo builds robots that inspect vehicles, diagnose problems, and perform services, starting with routine maintenance like oil and tire changes. Their robots use AI models specialized for multi-step vehicle maintenance tasks and operate autonomously for 96% of execution time on their initial tasks.",
     "one_liner": "Robots for vehicle maintenance.",
     "team_size": 2,
     "industry": "Industrials",
@@ -2928,7 +2972,7 @@
     "all_locations": "Los Angeles, CA, USA",
     "long_description": "Aviern makes unmanned cargo airplanes for commercial operations and defense logistics. In 2 months we built our own scaled aircraft that taxis, takes off, flies and lands fully autonomously and are working on a larger 50lb aircraft.",
     "one_liner": "Unmanned cargo airplanes",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "Industrials",
     "subindustry": "Industrials -> Drones",
     "launched_at": 1789408162,
@@ -2950,9 +2994,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "partners": "Aaron",
@@ -3317,7 +3359,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b98395722e26f62e5f8c6de59c2dd27361270ec7.png",
     "website": "https://lantern.md",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lantern is the agentic recruiting platform for enterprise.\r\n\r\nLantern runs on: \r\n(1) World People Model, a live talent graph of a billion professionals that knows who’s exceptional, reachable, and about to move\r\n(2) Company Hiring Model, which learns your taste from every hiring decision you’ve ever made\r\n\r\nTogether, our agents plug into your existing systems and run the whole workflow: sourcing, application review, AI interviews, meeting intelligence, and analytics, under universal context. \r\n\r\nLantern also launched OpenRouter for People (people.lantern.md), an agent-native infrastructure to empower agents to find, research, outreach to anyone in the world. ",
+    "long_description": "Lantern is the agentic recruiting platform for enterprise.\r\nTraction: $1M ARR, 30% MoM growth, 230% NDR. Clients include Hyatt, Baker McKenzie, Crypto.com, etc. \r\n\r\nLantern runs on: \r\n(1) World People Model, a live talent graph of a billion professionals that knows who’s exceptional, reachable, and about to move\r\n(2) Company Hiring Model, which learns your taste from every hiring decision you’ve ever made\r\n\r\nTogether, our agents plug into your existing systems and run the whole workflow: sourcing, application review, AI interviews, meeting intelligence, and analytics, under universal context. \r\n\r\nLantern also launched OpenRouter for People (people.lantern.md), an agent-native infrastructure to empower agents to find, research, outreach to anyone in the world (3000 sign-up & $80k Annualized Run Rate in 25 days). ",
     "one_liner": "Turn Your Taste Into Hires",
     "team_size": 4,
     "industry": "B2B",
@@ -3540,7 +3582,7 @@
     "website": "https://www.nodus-compute.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "GPU capacity is sold like real estate: locked up, prepaid and idle half the time. Nodus makes it liquid, runs any AI workload on it through one execution layer, and puts research agents on every run to make the next one cheaper. More workloads mean better research, and better research means cheaper compute, a loop no single-product cloud can match.",
-    "one_liner": "More AI from your GPUs",
+    "one_liner": "Maximize the AI you get from your Infrastructure",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -3576,7 +3618,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e98a564b21ba044528e16126406d35b7464044b7.png",
     "website": "https://www.mirrors.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Production AI agents keep making the same mistakes. The usual fix is another line in the system prompt. Over time, the agent carries instructions for dozens of situations, even when it's doing something simple, and every correction becomes another thing to maintain.\r\n\r\nMirrors helps developers maintain production agents by turning recurring mistakes into targeted corrections. Mirrors surfaces recurring mistakes across your production runs. You write a correction, choose the situations where it applies, and preview which past conversations it would have reached. Once activated, Mirrors adds it to your agent only in those situations. You can then compare outcomes with and without the correction to see whether it helped. Unlike skills, the agent doesn't decide what to load. The scope you set does.\r\n\r\nCorrections live in one place, scoped to the right accounts and workflows. Mirrors connects through an SDK and works with any agent framework, and your application keeps control of its model calls and tools.\r\n\r\nWe're building Mirrors for engineering teams running customer-facing agents.",
+    "long_description": "Production AI agents keep making the same mistakes. The usual fix is another line in the system prompt. Over time, the agent carries instructions for dozens of situations, even when it’s doing something simple, and every correction becomes another thing to maintain.\r\n\r\nMirrors lets developers maintain production agents by turning recurring mistakes into targeted corrections. It surfaces recurring mistakes across production runs. Developers write a correction, choose the situations where it applies, and preview its scope against past conversations. Once activated, Mirrors adds the correction to the agent only in those situations. Developers can then compare outcomes with and without the correction to see whether it helps. Unlike skills, the agent doesn’t decide what to load. The scope developers set does.\r\n\r\nCorrections live in one place, scoped to the right accounts and workflows. Mirrors connects through an SDK and works with any agent framework. The application keeps control of its model calls and tools.",
     "one_liner": "Fix recurring AI agent mistakes with real-time guidance",
     "team_size": 2,
     "industry": "B2B",
@@ -3855,7 +3897,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "partners": "Andrew",
@@ -4693,7 +4737,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/989b85da2420d6592fdbd561cfe2e0802ebf6933.png",
     "website": "https://streamlinesystems.ltd/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Streamline Systems is building the replacement for GPS. \r\n\r\nSatellite positioning has become the single point of failure for almost every modern system, both military and civil. We've built the replacement. A drop-in module that integrates with existing Ardupilot, INAV and PX4 flight controllers, with demonstrated satellite-independent autonomous flight and GPS handoff. We're currently working with commercial and military end users to deploy the capability.",
+    "long_description": "Streamline Systems is building the replacement for GPS. \r\n\r\nSatellite positioning has become the single point of failure for almost every modern system, both military and civil. We've built the replacement. A drop-in module that integrates with existing Ardupilot, INAV and PX4 flight controllers, with demonstrated satellite-independent autonomous flight and GPS handoff. \r\n\r\nWe have secured over $80k in contracted revenue to supply our navigation modules for the Pentagon's $1.1bn Drone Dominance Program. ",
     "one_liner": "Precision navigation for UAVs operating without GPS. ",
     "team_size": 2,
     "industry": "Industrials",
@@ -4950,11 +4994,11 @@
       "Otter Aerospace Inc.",
       "Orca Aerospace Inc."
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/afa6ce6fe3345bb9e7b6296e9877371ada8e2155.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7ebe05e649f753cd83be5287773c4dfc7942622.png",
     "website": "https://orcaaerospace.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "At Orca, we are focused on creating the future of spacecraft operations by moving control onto the vehicle. By allowing AI models to control the satellite using deterministic tooling, we are able to achieve the same holistic, high-quality decisions on \"what\" to do to carry out a mission while maintaining the safety of systems that decide \"how\" to execute it. ",
-    "one_liner": "AI spacecraft operators that lives onboard the vehicle",
+    "one_liner": "AI spacecraft operators that live onboard the vehicle",
     "team_size": 5,
     "industry": "Industrials",
     "subindustry": "Industrials -> Aviation and Space",
@@ -5823,11 +5867,11 @@
     "name": "Covera",
     "slug": "covera",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e711e58f600a9ea3c53a45d934c825989e9b5b57.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa6a735c63f6b5c136048e850ba92d1f3182c2bd.png",
     "website": "https://www.covera-agents.com/?utm_source=ycombinator&utm_medium=company_profile&utm_campaign=yc_f26",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Covera is the AI-native operating system for independent P&C insurance agencies. It lives inside the agency's AMS and inbox and runs agentic AI workflows across the whole client journey, from the first email to the next renewal. Producers quote first and win more business; CSRs and account managers stop retyping data.\r\n\r\nSubmissions, for producers: every new request becomes a ready file, one click keys every carrier portal for a first quote during the call, quotes come back side by side, and binding updates the AMS with no double entry.\r\n\r\nServicing, for CSRs and account managers: answers about any account with their source, COIs and follow-ups drafted, renewal reminders 90, 60 and 30 days out with remarketing when premiums jump, and coverage gaps across the book turned into cross-sell leads.\r\n\r\nAgencies using Covera go from lead to quote in 5 minutes, save 10 hours a week per user and win 20% more deals against competitors. Every action is reviewed by the agency team and logged for E&O. Works with Applied Epic, AMS360, QQCatalyst, HawkSoft, EZLynx, Momentum, Gmail and Outlook.\r\n\r\nBuilt by the founders of Simio (conversational AI, acquired in 2024).",
-    "one_liner": "AI-native OS for insurance brokers",
+    "long_description": "Insurance is one of the last big industries still running on manual work.\r\n\r\nTrillions in premium flow through brokers who still have to key the same data into their agency management system (AMS), chase clients for documents, and fill one carrier portal after another.\r\n\r\nEvery hour spent on manual quoting is an hour not spent selling. Across tens of thousands of brokers, that's billions in revenue left on the table.\r\n\r\nSoftware never fixed it, because the work sits between systems and raters are outdated.\r\n\r\nCovera runs it end to end, with AI workflows connected to the AMS, the inbox and 100+ carrier portals. It fits the way brokers already work, so their teams can focus on advising clients and closing business.\r\n\r\nIn 3 months, Covera went live with 90+ brokers in the US and Europe. Brokers now go from a client's email to a quote in 3 minutes, instead of hours.\r\n\r\nCovera is founded by repeat founders Tiphaine Venet and Thibaut Regerat, who previously built and sold Simio, a conversational AI company.",
+    "one_liner": "Covera gets insurance brokers to quote first and win more business.",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
@@ -6208,7 +6252,7 @@
     "website": "https://native.no/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Native is building an autonomous marketing platform where business can do all of their marketing within one platform using our artificial intuition model called Norn, that predicts what people will respond to, researched and built in house.",
-    "one_liner": "Artificial Intuition for marketing",
+    "one_liner": "Instinct for marketing",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
@@ -6334,8 +6378,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/21bc57f59a4d430a3377808350ec1df0915386dd.png",
     "website": "http://runlatent.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Latent catches wrong or unsupported LLM answers before they reach your users. Instead of running a second model to check every output, it reads the model's own internal state as it generates, so every request is verified with no added latency, no extra inference cost, and nothing leaving your deployment. Teams running LLMs in production, in finance, legal, healthcare and customer support, get a review queue of the answers most likely to be wrong, calibrated to their own model and traffic, with a plain explanation of why each one was flagged.",
-    "one_liner": "Catch wrong LLM answers before your customers do",
+    "long_description": "Latent is a control layer for AI, built on interpretability. It reads signals inside a model as it works and checks every answer and agent action in milliseconds. Then it lets the output through, holds it, re-asks a stronger model, or sends it to review with the reason attached.\r\n\r\nReading the model is far cheaper than running a second LLM, so it can check every step. Latent stops 99% of rule-breaking agents before they act, against 69% for a frontier LLM judge.\r\n\r\nIt works with self-hosted and API models like GPT, Claude, and Gemini, runs hosted or in your own cloud, and calibrates to your traffic with every review.",
+    "one_liner": "Stop AI agent mistakes by reading the model’s mind",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
@@ -6924,52 +6968,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/vouchwealth.json"
   },
   {
-    "id": 36675,
-    "name": "InfraOptimal",
-    "slug": "infraoptimal",
-    "former_names": [
-      "Velobyte",
-      "Inferoptimal",
-      "Infer Optimal",
-      "InferOptimal"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/003b5c5d89d4f8298ea282b6da72cc45a233eae6.png",
-    "website": "https://infraoptimal.com",
-    "all_locations": "Boston, MA, USA",
-    "long_description": "We need more computers faster than we can manufacture chips, while the average GPU workload sits below 50% utilization. \r\n\r\nThe answer is not more, it is better use of what we already have. Infraoptimal runs open models as self optimizing inference endpoints: launch any model on your own cloud or ours, and each endpoint is tuned to its model, its workload and the hardware it runs on. Behind it, our agent-driven compiler expands the search space beyond a small set of deterministically discoverable optimizations to functionally equivalent ones, proposing novel methods from state of the art literature and validating them formally, leaving reusable transformations that get better with every program they optimize. We increase speed and throughput while decreasing cost and compute.",
-    "one_liner": "Self optimizing dedicated inference endpoints",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1794104313,
-    "tags": [
-      "Edge Computing Semiconductors",
-      "Generative AI",
-      "SaaS"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "partners": "Christopher",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/infraoptimal",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/infraoptimal.json"
-  },
-  {
     "id": 36708,
     "name": "Sinter",
     "slug": "sinter-systems",
@@ -7222,6 +7220,49 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/sona8",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/sona8.json"
+  },
+  {
+    "id": 36807,
+    "name": "Index Law",
+    "slug": "index-law",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/99054101faacf0b3423d66ef387cb3cbb6f0339e.png",
+    "website": "https://indexlaw.com",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Index Law is building Mike-1, a superhuman AI lawyer*! Mike is an AI legal agent that gives every business the capabilities of a world-class legal team. \r\n\r\nUnlike traditional legal AI tools that help lawyers work faster, Mike gets legal work done directly for your business. It understands your business, reviews and negotiates contracts, handles corporate matters, and brings in vetted human lawyers when specialist expertise is needed.\r\n\r\nYour documents, agreements, signatures, and legal history live in one workspace. Mike remembers your business and becomes more useful with every matter.\r\n\r\nWe're starting with contracts and corporate work for startups and growing businesses. Early customers have turned around contracts in under an hour and received quotes up to 80% below traditional law firm alternatives.\r\n\r\nOur ambition is to make legal services work like software: instantly accessible, deeply personalized, and capable of handling increasingly complex work.\r\n\r\nTry Mike: https://usemike.com\r\n\r\n*Note: Mike-1 is an AI legal agent, not a licensed or practicing lawyer. Qualified human lawyers provide legal advice and representation where required.",
+    "one_liner": "Your company's AI lawyer",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1794454827,
+    "tags": [
+      "Legal",
+      "LegalTech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "partners": "David",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/index-law",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/index-law.json"
   },
   {
     "id": 36840,
@@ -8781,6 +8822,47 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/hundred.json"
   },
   {
+    "id": 37733,
+    "name": "Nines",
+    "slug": "nines",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/658b6cc2519f771f07c3a2cd54b6805628ebadc8.png",
+    "website": "https://ninesrobotics.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Nines builds autonomous robots, and the models that run them, for data centers.\r\n\r\nThe AI buildout is the biggest construction project of our lifetime, and the physical work inside it is still done by hand. Every GPU rack needs thousands of fiber connections matched, inserted, and verified before a hall goes live. After that, every building needs people on site around the clock to swap drives, transceivers, and fans.\r\n\r\nWith our robots operators bring capacity online faster, with fewer errors and less downtime.",
+    "one_liner": "Robot pit crew for AI data centers",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1794452505,
+    "tags": [
+      "Robotics",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "Pete",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/nines",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/nines.json"
+  },
+  {
     "id": 37797,
     "name": "STASIS",
     "slug": "stasis",
@@ -9041,15 +9123,54 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/aucert.json"
   },
   {
+    "id": 37962,
+    "name": "Mnemonic Labs",
+    "slug": "mnemonic-labs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e5f7a89d552157aad112afb87b14467de9e747dd.png",
+    "website": "https://mnemoniclabs.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Mnemonic Labs (YC F26) is a neolab founded by two brothers who are Olympiad finalists and MIT graduates; Kalki made $20M in annual PnL at 22 at Tower and Videh was the youngest quant at Citadel at 19. Just as LLMs and scaling laws quickly dominated all other NLP approaches, we're building world models that will dominate both human and machine traders.",
+    "one_liner": "DeepMind for Financial Markets",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1794432815,
+    "tags": [
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "Max",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mnemonic-labs",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/mnemonic-labs.json"
+  },
+  {
     "id": 37995,
     "name": "Sintropix",
     "slug": "sintropix",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e0565abd52682e4249720fb4eb646f17fbbdd65.png",
     "website": "https://sintropix.com/",
-    "all_locations": "Santiago, Santiago Metropolitan Region, Chile",
-    "long_description": "Autonomous accounting platform for global companies. We close your books and give you financial clarity while you run your business. ",
-    "one_liner": "Autonomous accounting platform for global companies",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sintropix is a financial system of record that closes your books every day and files your taxes in every country you operate in.\r\n\r\nWe connect to your banks, invoicing and payroll, and handle the accounting end-to-end. Founders get one place to do their finance work: track KPIs, see consolidated P&L and ARR reports, and forecast runway.",
+    "one_liner": "AI-native ERP that closes your books and files your taxes",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
@@ -9070,8 +9191,8 @@
       "Finance and Accounting"
     ],
     "regions": [
-      "Chile",
-      "Latin America"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "partners": "Kulveer",
@@ -9768,5 +9889,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/championeffect-inc",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/championeffect-inc.json"
+  },
+  {
+    "id": 39579,
+    "name": "GatherHQ",
+    "slug": "gatherhq",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/30c4641b207da292d7e6a244ffaa483dba73fa7f.png",
+    "website": "https://www.gatherhq.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Gather's AI interviews real buyers and turns what it learns into content that drives pipeline and simulations that predict customer behavior.\r\n\r\nMore than 65 enterprise marketing teams, including Envoy, Eclypsium, Cover Genius, Fortinet, CoStar, Bagel Brands, and Family Express, use Gather to continually fight AI slop and create original on-brand, third-party validated thought leadership, reports, ebooks, and campaign content.\r\n\r\nThe value of that research compounds. Every interview adds to a foundation of quantitative, qualitative, and voice data from over 300,000 real interviews across customers, with thousands added monthly. Our models use that understanding to predict how buyers will respond to messaging, pricing, and market shifts. Each answer includes supporting evidence and a confidence level. When confidence is low, Gather automatically runs new research.\r\n\r\nGather starts by replacing research firms and content agencies, and we aspire to build the real-time customer understanding layer that enterprises will use to drive decisions.\r\n\r\nBuilt by the team that created Cooliris (acquired by Yahoo) and Pulse (acquired by Gartner), and ran Gartner Peer Insights.",
+    "one_liner": "An API for how buyers think",
+    "team_size": 9,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1794439276,
+    "tags": [
+      "B2B",
+      "Marketing",
+      "Market Research",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "partners": "Christopher",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/gatherhq",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/gatherhq.json"
   }
 ]

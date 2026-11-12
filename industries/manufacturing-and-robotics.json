@@ -1222,9 +1222,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ef3c01732ca1adf6e17c2105c507271f7b86744.png",
     "website": "https://lucidbots.com/",
     "all_locations": "Charlotte, NC, USA",
-    "long_description": "At Lucid, we are a B2B robotics provider for dull, dirty, and dangerous jobs, starting with the cleaning industry, which has a 200% annual turnover rate. \r\n\r\nOur primary product is a drone that can clean anything from windows to roofs to stadium domes to industrial tanks. Our drones can clean up to 8x faster. Due to customer demand, we also launched a ground-based pressure-washing robot to complement our cleaning drone.\r\n\r\nWe support customers around the country who use our robots every day to clean properties with great safety and efficiency. We engineer, manufacture, and support our technology from a 20,000 sqft headquarters in Charlotte, NC.",
-    "one_liner": "We build robots for dull, dirty, and dangerous jobs.",
-    "team_size": 26,
+    "long_description": "At Lucid, we are a B2B robotics company for dull, dirty, and dangerous jobs, starting with exterior cleaning and painting, an industry with a 200% annual turnover rate. Our primary product is a drone that cleans windows, roofs, stadiums, and industrial tanks for cleaning companies, facilities teams, and industrial customers around the country. More than 600 of our drones are in the field today. We engineer, manufacture, and support the technology from a 23,000 square foot headquarters in Charlotte, NC, and are moving into a 45,000 square foot facility in early 2027.",
+    "one_liner": "Drones that clean and paint up to 8x faster",
+    "team_size": 77,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1556215532,
@@ -1249,7 +1249,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "partners": "Unspecified",
     "app_video_public": false,
     "demo_day_video_public": false,
@@ -4833,7 +4833,7 @@
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
-    "batch": "Summer 2026",
+    "batch": "Fall 2026",
     "status": "Active",
     "industries": [
       "Industrials",
@@ -4850,7 +4850,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/libra-robotics",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/libra-robotics.json"
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/libra-robotics.json"
   },
   {
     "id": 31232,
@@ -5453,7 +5453,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed94f83ed341c4f879d7c08c2570c04ba145e07c.png",
     "website": "https://www.rodeorobotics.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Rodeo builds a robotic technician that automates maintenance so fleets can get vehicles back on the road sooner. Initial deployments focus on oil changes at centralized depots, where routine maintenance competes for scarce technician time.\r\n\r\nCofounders Michael Hazard and Colby Duke met at Applied Intuition, where they worked with OEMs like Toyota and General Motors to bring software and autonomy to vehicles. They saw firsthand how much manual work it takes to keep vehicle fleets running, and learned how to make autonomy reliable through structured testing, real-world data, and human intervention.\r\n\r\nThey’re now applying their experience to the roughly $600B annual US vehicle maintenance market. The average US vehicle is older than ever, driving up maintenance demand at a time when shops already struggle to hire and retain technicians. That gap leaves fleets facing costly downtime and preventable breakdowns.\r\n\r\nDespite this need, vehicle maintenance has resisted traditional automation. Service information is fragmented and unreliable, and vehicle hardware varies significantly between makes and models. Rodeo builds on advances in robotic foundation models to learn maintenance skills that transfer across vehicles.\r\n\r\nRodeo pairs robots with human technicians who ensure each job is completed correctly, handling work the robots can’t yet perform autonomously. These deployments generate training data for Rodeo’s models through both teleoperation and hand tools augmented to record how technicians work. This lets Rodeo earn revenue while collecting the data needed to automate more of each job and improve margins.",
+    "long_description": "Rodeo Robotics (YC F26) automates vehicle maintenance so shops can get vehicles back to work at lower cost.\r\n\r\nCo-founders Michael Hazard and Colby Duke met at Applied Intuition, where they helped OEMs like Toyota and General Motors deploy autonomy in the real world and saw firsthand how much hands-on work it takes to keep fleets running.\r\n\r\nThey’re now applying their experience to the $600B US maintenance market. The average vehicle is getting older and needs more maintenance, but shops struggle to recruit new technicians to replace experienced workers as they retire. This leaves shops turning away work and customers waiting longer for service.\r\n\r\nRodeo builds robots that inspect vehicles, diagnose problems, and perform services, starting with routine maintenance like oil and tire changes. Their robots use AI models specialized for multi-step vehicle maintenance tasks and operate autonomously for 96% of execution time on their initial tasks.",
     "one_liner": "Robots for vehicle maintenance.",
     "team_size": 2,
     "industry": "Industrials",
@@ -7264,6 +7264,47 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/hundred.json"
   },
   {
+    "id": 37733,
+    "name": "Nines",
+    "slug": "nines",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/658b6cc2519f771f07c3a2cd54b6805628ebadc8.png",
+    "website": "https://ninesrobotics.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Nines builds autonomous robots, and the models that run them, for data centers.\r\n\r\nThe AI buildout is the biggest construction project of our lifetime, and the physical work inside it is still done by hand. Every GPU rack needs thousands of fiber connections matched, inserted, and verified before a hall goes live. After that, every building needs people on site around the clock to swap drives, transceivers, and fans.\r\n\r\nWith our robots operators bring capacity online faster, with fewer errors and less downtime.",
+    "one_liner": "Robot pit crew for AI data centers",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1794452505,
+    "tags": [
+      "Robotics",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "Pete",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/nines",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/nines.json"
+  },
+  {
     "id": 38492,
     "name": "Mantle",
     "slug": "mantle-2",
@@ -7350,5 +7391,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/nuum-robotics",
     "api": "https://yc-oss.github.io/api/batches/winter-2027/nuum-robotics.json"
+  },
+  {
+    "id": 42459,
+    "name": "Vibe Robotics",
+    "slug": "vibe-robotics",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/20d8a5ce151363c695030b892a2be777baa1d339.png",
+    "website": "https://viberobotics.co",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Vibe Robotics builds robots for the work nobody should have to repeat.\r\n\r\nEvery day in every hotel, towels go up to rooms, linens move between floors, and stacks of laundry need to be folded before the next guests arrive. It’s hard, physical, and hotels can’t hire enough people to do it.\r\n\r\nVibe 01 is built for exactly that. It carries, delivers and folds. Two arms, a lift column, and a camera head on a base that drives itself through back-of-house hallways and service elevators. It learns by watching people do the job, then does it on its own. Vibe 01 can already fold a towel fully autonomously in 23.8 seconds, a skill it learned from just a few hundred human demonstrations.\r\n\r\nWe’re Archer, Daniel, Katherine and Pranav. We’re starting in hotels and building toward everywhere people work.",
+    "one_liner": "Robotics workforce for hotels",
+    "team_size": 4,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1794438346,
+    "tags": [
+      "Hard Tech",
+      "Robotics",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2027",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "Harshita",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/vibe-robotics",
+    "api": "https://yc-oss.github.io/api/batches/winter-2027/vibe-robotics.json"
   }
 ]

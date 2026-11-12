@@ -5817,7 +5817,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "partners": "Unspecified",
     "app_video_public": false,
     "demo_day_video_public": false,
@@ -10671,7 +10671,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1ebdc405c3ca51343a4618334a44bd440fb598ca.png",
     "website": "https://bik.ai/",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "New York City, NY, USA; Remote",
     "long_description": "A place where you can spin off commerce agents or build your automation across the funnel of acquisition, retention & support. \r\n\r\nThe single place where you can handle everything you need for your ecommerce / retail business when it comes to marketing & support.",
     "one_liner": "Agentic AI CRM for ecommerce",
     "team_size": 55,
@@ -20787,17 +20787,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ca294ba99345dad1e7a7357621f3373230c00cf.png",
     "website": "https://www.inferedge.com",
     "all_locations": "MH, India",
-    "long_description": "InferEdge builds agentic AI for the buy-side - systems that run autonomously across research, portfolio management, and risk, for equity and fixed income. The point isn't generating a generic note - anyone can do that now. For example, when earnings season hits, our agents produce the quarter's coverage in your analysts' own tone and format, matching how your desk already writes, so it doesn't need a rewrite before it's usable. We build on top of LLMs, turning raw model capability into consistent and auditable workflows, not another stalled prototype.",
-    "one_liner": "Agentic AI for buy-side firms",
+    "long_description": "InferEdge provides agentic AI solutions to buy-side firms under an outcome-based, forward-deployed model. We build systems that fit customer workflows for research, portfolio analysis, risk and client servicing. Everything can be hosted inside a private cloud, and the system comes with citations, traceability and guardrails.\r\n\r\nOur team has deep quantitative finance and technology experience, enabling us to deliver outcomes effectively.",
+    "one_liner": "AI solutions for investment firms under a forward deployed model",
     "team_size": 20,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1645537602,
     "tags": [
       "Fintech",
+      "Finance",
       "B2B",
       "Enterprise Software",
-      "Investments",
       "AI"
     ],
     "tags_highlighted": [],
@@ -21343,7 +21343,7 @@
     "website": "https://www.firezone.dev",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Firezone connects your workforce to the computing resources they need, wherever they are, securely. Unlike traditional VPNs, Firezone uses a least-privileged approach to access control known as Zero Trust Access.\r\n\r\nConnect your identity provider and define granular policies in minutes, then rejoice in the IT support requests you won't receive due to our lightweight, WireGuard-powered clients which work great on all platforms.",
-    "one_liner": "Easiest way to set up Zero Trust Access for your team",
+    "one_liner": "Reach any device, network, or SaaS app without opening firewall ports",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
@@ -25925,7 +25925,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -42297,13 +42297,13 @@
       "Tejas AI"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/54e4f055bff9db8e9f1d9ba01a05699d60abbf1b.png",
-    "website": "https://www.tryelip.ai/",
+    "website": "https://tryelip.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Your agent can book the table, the meeting, the flight. It can't tell you who is worth sitting with. Elip can.\r\n\r\nPeople answer people they share something with: a college, a city, a company, a craft. Elip maps that overlap and turns it into doors, to roles, to companies, and to the person who can refer you.\r\n\r\nFor talent: tell Elip what you want next. It finds the roles that fit, says why in your own history, and shows who inside each company already shares something with you. When a role is right, tailor your résumé and apply.\r\n\r\nFor companies: meet people who fit and have already said yes. Elip is free for job seekers; companies pay only when they hire.\r\n\r\nStart from what you share.",
-    "one_liner": "Your agent books the table. Elip finds the people worth sitting with.",
+    "long_description": "Elip is an AI agent for careers and for hiring.\n\nCandidates send their resume once and say what they want next, and what they'd never take. Each morning Elip reads every new role and sends a few that fit, each with the reason it fits and what's missing. The rest is set aside. When a role is right, Elip tailors the resume for it and the candidate approves every change. Elip is free for candidates, and they can hide their profile from any employer they choose.\n\nCompanies book a call and tell Elip the role. Within minutes of the call they get a shortlist of people who fit, each with the reason. They pay 10% of first-year base salary, only when they hire, with a full refund if the hire resigns or is let go for performance or conduct within three months. No fee for someone they were already talking to.\n\nElip is based in San Francisco.\n\nWhere Elip is going: soon your agent will look for your next job, and a company's agent will look for its next hire. Elip is where the agents meet.",
+    "one_liner": "AI agent for careers and hiring: the few that fit, with the reason.",
     "team_size": 4,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1740851644,
     "tags": [
       "B2B",
@@ -42317,7 +42317,8 @@
     "batch": "Winter 2025",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Recruiting and Talent"
     ],
     "regions": [
       "United States of America",
@@ -48944,6 +48945,51 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/alchemize.json"
   },
   {
+    "id": 31461,
+    "name": "Collar",
+    "slug": "collar",
+    "former_names": [
+      "Collar AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/35110e6bdfbfbf5706627685cbb370e170ff4a03.png",
+    "website": "https://usecollarai.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Collar helps public companies take back control of the stock market.\r\n\r\nAll public companies interface with the markets through investor relations. \r\nWith good investor relations, any stock can soar. The power dynamics shift. \r\nBut most management teams are small, and most IR officers are non-strategic.\r\n\r\nCollar automates 64% of the investor relations work. It helps management run end to end IR conversations, access unique intelligence, brings up citation-backed talking points for their confidential investor Q&A. \r\n\r\nWe replace the $15K/month IR agencies, and help existing IR teams fundraise at the speed of AI. \r\nCurrently at 67% week over week growth in client engagements.\r\n\r\nWe are a team of ex-intelligence, ex-finance, and repeat founders who have known each other for over 5 years, serving enterprises across the US, Asia and LATAM.",
+    "one_liner": "AI-Native Investor Relations For Public Companies",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1777111023,
+    "tags": [
+      "Generative AI",
+      "SaaS",
+      "B2B",
+      "Enterprise",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "Grey",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/collar",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/collar.json"
+  },
+  {
     "id": 31515,
     "name": "Probe",
     "slug": "probe",
@@ -49699,7 +49745,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/813e1a8e770c08e788937c21e5a62c42be5e08d9.png",
     "website": "https://tryrote.com/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Ithaca, NY, USA",
     "long_description": "Rote handles the entire negotiation lifecycle between shops and insurance companies to help them recover thousands of dollars in denied claims. Shops today lose millions per year because they lack the resources to negotiate with insurance companies that undervalue repair costs. Rote's agents recover denied revenue by taking shop estimates and referencing technical repair data to autonomously file and defend shop claims.",
     "one_liner": "AI-native insurance department for auto body shops",
     "team_size": 0,
@@ -51160,7 +51206,7 @@
     "name": "Conifer",
     "slug": "conifer",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1cd2adb8270db80170ab62b4140817892372538a.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e1683f4d302e40ce6dad6719b268139065b19753.png",
     "website": "https://www.conifer.build",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "AI now runs on a market of hundreds of models and providers that changes constantly, each with its own price, strengths and failure modes. Agents also act faster, and on more information, than people can meaningfully review. Conifer builds the decision layer between agents and the people in charge. Our gateway puts 240+ models from 28 providers behind one key, with 99.99% uptime. Our router picks a model for each request by weighing the task against its cost, and Parallax reviews the code agents write. ",
@@ -51600,7 +51646,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e98a564b21ba044528e16126406d35b7464044b7.png",
     "website": "https://www.mirrors.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Production AI agents keep making the same mistakes. The usual fix is another line in the system prompt. Over time, the agent carries instructions for dozens of situations, even when it's doing something simple, and every correction becomes another thing to maintain.\r\n\r\nMirrors helps developers maintain production agents by turning recurring mistakes into targeted corrections. Mirrors surfaces recurring mistakes across your production runs. You write a correction, choose the situations where it applies, and preview which past conversations it would have reached. Once activated, Mirrors adds it to your agent only in those situations. You can then compare outcomes with and without the correction to see whether it helped. Unlike skills, the agent doesn't decide what to load. The scope you set does.\r\n\r\nCorrections live in one place, scoped to the right accounts and workflows. Mirrors connects through an SDK and works with any agent framework, and your application keeps control of its model calls and tools.\r\n\r\nWe're building Mirrors for engineering teams running customer-facing agents.",
+    "long_description": "Production AI agents keep making the same mistakes. The usual fix is another line in the system prompt. Over time, the agent carries instructions for dozens of situations, even when it’s doing something simple, and every correction becomes another thing to maintain.\r\n\r\nMirrors lets developers maintain production agents by turning recurring mistakes into targeted corrections. It surfaces recurring mistakes across production runs. Developers write a correction, choose the situations where it applies, and preview its scope against past conversations. Once activated, Mirrors adds the correction to the agent only in those situations. Developers can then compare outcomes with and without the correction to see whether it helps. Unlike skills, the agent doesn’t decide what to load. The scope developers set does.\r\n\r\nCorrections live in one place, scoped to the right accounts and workflows. Mirrors connects through an SDK and works with any agent framework. The application keeps control of its model calls and tools.",
     "one_liner": "Fix recurring AI agent mistakes with real-time guidance",
     "team_size": 2,
     "industry": "B2B",
@@ -51996,11 +52042,11 @@
     "name": "Covera",
     "slug": "covera",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e711e58f600a9ea3c53a45d934c825989e9b5b57.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa6a735c63f6b5c136048e850ba92d1f3182c2bd.png",
     "website": "https://www.covera-agents.com/?utm_source=ycombinator&utm_medium=company_profile&utm_campaign=yc_f26",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Covera is the AI-native operating system for independent P&C insurance agencies. It lives inside the agency's AMS and inbox and runs agentic AI workflows across the whole client journey, from the first email to the next renewal. Producers quote first and win more business; CSRs and account managers stop retyping data.\r\n\r\nSubmissions, for producers: every new request becomes a ready file, one click keys every carrier portal for a first quote during the call, quotes come back side by side, and binding updates the AMS with no double entry.\r\n\r\nServicing, for CSRs and account managers: answers about any account with their source, COIs and follow-ups drafted, renewal reminders 90, 60 and 30 days out with remarketing when premiums jump, and coverage gaps across the book turned into cross-sell leads.\r\n\r\nAgencies using Covera go from lead to quote in 5 minutes, save 10 hours a week per user and win 20% more deals against competitors. Every action is reviewed by the agency team and logged for E&O. Works with Applied Epic, AMS360, QQCatalyst, HawkSoft, EZLynx, Momentum, Gmail and Outlook.\r\n\r\nBuilt by the founders of Simio (conversational AI, acquired in 2024).",
-    "one_liner": "AI-native OS for insurance brokers",
+    "long_description": "Insurance is one of the last big industries still running on manual work.\r\n\r\nTrillions in premium flow through brokers who still have to key the same data into their agency management system (AMS), chase clients for documents, and fill one carrier portal after another.\r\n\r\nEvery hour spent on manual quoting is an hour not spent selling. Across tens of thousands of brokers, that's billions in revenue left on the table.\r\n\r\nSoftware never fixed it, because the work sits between systems and raters are outdated.\r\n\r\nCovera runs it end to end, with AI workflows connected to the AMS, the inbox and 100+ carrier portals. It fits the way brokers already work, so their teams can focus on advising clients and closing business.\r\n\r\nIn 3 months, Covera went live with 90+ brokers in the US and Europe. Brokers now go from a client's email to a quote in 3 minutes, instead of hours.\r\n\r\nCovera is founded by repeat founders Tiphaine Venet and Thibaut Regerat, who previously built and sold Simio, a conversational AI company.",
+    "one_liner": "Covera gets insurance brokers to quote first and win more business.",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
@@ -52477,9 +52523,9 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e0565abd52682e4249720fb4eb646f17fbbdd65.png",
     "website": "https://sintropix.com/",
-    "all_locations": "Santiago, Santiago Metropolitan Region, Chile",
-    "long_description": "Autonomous accounting platform for global companies. We close your books and give you financial clarity while you run your business. ",
-    "one_liner": "Autonomous accounting platform for global companies",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sintropix is a financial system of record that closes your books every day and files your taxes in every country you operate in.\r\n\r\nWe connect to your banks, invoicing and payroll, and handle the accounting end-to-end. Founders get one place to do their finance work: track KPIs, see consolidated P&L and ARR reports, and forecast runway.",
+    "one_liner": "AI-native ERP that closes your books and files your taxes",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
@@ -52500,8 +52546,8 @@
       "Finance and Accounting"
     ],
     "regions": [
-      "Chile",
-      "Latin America"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "partners": "Kulveer",
@@ -52642,5 +52688,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/boxesdev",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/boxesdev.json"
+  },
+  {
+    "id": 39579,
+    "name": "GatherHQ",
+    "slug": "gatherhq",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/30c4641b207da292d7e6a244ffaa483dba73fa7f.png",
+    "website": "https://www.gatherhq.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Gather's AI interviews real buyers and turns what it learns into content that drives pipeline and simulations that predict customer behavior.\r\n\r\nMore than 65 enterprise marketing teams, including Envoy, Eclypsium, Cover Genius, Fortinet, CoStar, Bagel Brands, and Family Express, use Gather to continually fight AI slop and create original on-brand, third-party validated thought leadership, reports, ebooks, and campaign content.\r\n\r\nThe value of that research compounds. Every interview adds to a foundation of quantitative, qualitative, and voice data from over 300,000 real interviews across customers, with thousands added monthly. Our models use that understanding to predict how buyers will respond to messaging, pricing, and market shifts. Each answer includes supporting evidence and a confidence level. When confidence is low, Gather automatically runs new research.\r\n\r\nGather starts by replacing research firms and content agencies, and we aspire to build the real-time customer understanding layer that enterprises will use to drive decisions.\r\n\r\nBuilt by the team that created Cooliris (acquired by Yahoo) and Pulse (acquired by Gartner), and ran Gartner Peer Insights.",
+    "one_liner": "An API for how buyers think",
+    "team_size": 9,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1794439276,
+    "tags": [
+      "B2B",
+      "Marketing",
+      "Market Research",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "partners": "Christopher",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/gatherhq",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/gatherhq.json"
   }
 ]
