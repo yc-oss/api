@@ -1997,8 +1997,8 @@
   },
   {
     "id": 25318,
-    "name": "WeReno",
-    "slug": "wereno",
+    "name": "Clickpad",
+    "slug": "clickpad",
     "former_names": [
       "WeReno",
       "Inc.",
@@ -2014,13 +2014,15 @@
       "BuiltOS",
       "WeReno",
       "Handyman.ai by WeReno",
-      "Handyman.ai"
+      "Handyman.ai",
+      "WeReno",
+      "Clickpad (fka WeReno)"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a5783f7465c728ac490615e277946dd2250f5f0.png",
-    "website": "https://wereno.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6db093f318226e38eaba4f40dc8ed8affc2c1f3e.png",
+    "website": "https://clickpad.com",
     "all_locations": "Toronto, ON, Canada",
-    "long_description": "WeReno is a technology-driven capital project management and owner's representation company specializing in hospitality, commercial real estate, and large-scale property improvements.\r\n\r\nWith over $1B in renovations and capital projects facilitated, our experience spans major hospitality brands, including Hilton and Marriott, as well as commercial properties and multi-asset portfolios.\r\n\r\nWe help hotel owners, operators, and real estate groups execute everything from property improvement plans (PIPs) and hotel renovations to major capital upgrades and portfolio-wide modernization programs.\r\n\r\nOur approach combines technology, strategic procurement, contractor management, and hands-on project oversight to streamline execution, control costs, minimize operational disruption, and maximize long-term asset value.",
-    "one_liner": "AI-powered renovation and capital-project management",
+    "long_description": "ClickPad.com (fka WeReno) is an AI-powered back office that helps contractors take on more projects without hiring administrative staff or learning complicated software.\r\n\r\nAfter 10+ years in construction and facilitating over $1B in renovations through WeReno, we've packaged everything we've learned about running a successful contracting business into an AI employee that fits in the palm of your hand.\r\n\r\nContractors simply text, call, or WhatsApp Click in any of 13 supported languages. Click handles leads, estimates, contracts, invoices, payments, scheduling, change orders, and client communication. We also generate AI-powered contractor websites with 24/7 lead capture.\r\n\r\nWe discovered that 95% of our trade partners had no website or CRM. Rather than build another dashboard, we built an AI agent that actually runs their back office through simple conversations.\r\n\r\nOur mission is simple: give millions of contractors the tools and expertise of a fully staffed back office, right in the palm of their hand, so they can run bigger businesses without bigger teams.",
+    "one_liner": "The AI employee for contractors. No software to learn. Just text.",
     "team_size": 12,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction -> Construction",
@@ -2053,8 +2055,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/wereno",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/wereno.json"
+    "url": "https://www.ycombinator.com/companies/clickpad",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/clickpad.json"
   },
   {
     "id": 25319,
@@ -10426,24 +10428,26 @@
   },
   {
     "id": 25721,
-    "name": "Tendo",
-    "slug": "tendo",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b82dfe518f1d7e3fc76d3783bf673d3db4ffa36f.png",
-    "website": "https://tendo.app/",
-    "all_locations": "Accra, Greater Accra Region, Ghana",
-    "long_description": "Tendo enables anyone in Africa to sell online with zero upfront inventory - our mobile app connects dropshippers to local wholesalers. The sellers on the platform are able to source products through Tendo and resell items using social commerce tools, such as WhatsApp, arrange delivery, and get paid, all through the Tendo mobile app.\r\n\r\nAt the moment, people who want to sell online need to save money, visit hundreds of suppliers to find a trusted one, and risk losing their capital by stocking up inventory. Beyond this, they need to incur costs for logistics and warehousing. We eliminate all that.\r\n",
-    "one_liner": "Enabling Africans to sell online with zero capital",
+    "name": "Dukesell",
+    "slug": "dukesell",
+    "former_names": [
+      "Tendo"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/08fa581a5bb46ee9db1b99c742bf5f56fb26a7a4.png",
+    "website": "https://dukesell.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Duke equips ecommerce merchants with the tools they need to participate in agentic commerce, regardless of platform or geography.\r\n\r\nMerchants can deploy voice agents that understand customers, recommend products and help process orders in 50+ languages. Duke connects deeply to the merchant’s catalog, inventory, customer history, orders and fulfillment, giving agents the context they need to personalize and complete transactions.\r\n\r\nDuke also provides the agent-ready infrastructure that makes merchant products and purchasing flows accessible to external commerce agents, allowing consumers to discover and buy from merchants through the AI tools they already use.\r\n\r\nMerchants can connect an existing Shopify store or use Duke directly. Our goal is to make every merchant discoverable, understandable and transactable by agents.",
+    "one_liner": "Duke makes every ecommerce merchant agent-ready",
     "team_size": 15,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Social",
+    "industry": "B2B",
+    "subindustry": "B2B -> Retail",
     "launched_at": 1642657370,
     "tags": [
-      "Fintech",
       "Marketplace",
-      "Logistics",
       "Social",
-      "E-commerce"
+      "E-commerce",
+      "AI",
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -10452,12 +10456,12 @@
     "batch": "Winter 2022",
     "status": "Active",
     "industries": [
-      "Consumer",
-      "Social"
+      "B2B",
+      "Retail"
     ],
     "regions": [
-      "Ghana",
-      "Africa"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "partners": "Unspecified",
@@ -10465,8 +10469,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tendo",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/tendo.json"
+    "url": "https://www.ycombinator.com/companies/dukesell",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/dukesell.json"
   },
   {
     "id": 25722,

@@ -1,0 +1,50 @@
+{
+  "id": 32126,
+  "name": "Orikata Bio PBC",
+  "slug": "orikata-bio-pbc",
+  "former_names": [
+    "Orikata Bio",
+    "Meguri Labs",
+    "Meguru Labs",
+    "Megure Labs"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9bb8600184285ab1a6b407bed29e46c143375796.png",
+  "website": "https://orikata.ai",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "A new agent, tool, or generative model alone doesn’t solve the whole problem for most research questions. Someone still has to assemble the data, work out which methods to use and get the tools and datasets working together. We’re building Noto, a multiplayer discovery workbench for human and agentic scientists, to bring everyone's favorite frontier models, agents, tools, and scientific models into one shared workspace, so that you can focus on making your next discovery, rather than wrestling with your Python environment or finding GPUs.\r\n\r\nPlan an experiment, work with its generated data, run an analysis or model, maybe even train a new model, and keep the results in the notebook. We designed Noto so that the inputs, code, methods and results stay connected across local and hosted compute. Both people and agents need to see how a result was produced and build on it. Biology is where we’re starting, with the workbench being built for more general research across many scientific disciplines.\r\n\r\nAvailable now: our first biological analysis tools, hosted model inference, and an initial agent interface. Free usage is available within limits, alongside paid model runs and individual and team plans. Researchers can run sequence and structure analyses and hosted scientific models without provisioning GPUs or maintaining each model’s dependencies.\r\n\r\nIn development: the full multiplayer notebook and wider agent workflows and integrations.\r\n\r\nOrikata Bio Public Benefit Corporation, or Orikata Bio PBC, is the company. We work under two brands: Orikata Bio for biological discovery and Megure Labs for scientific software.\r\n\r\nBiological discovery with Orikata Bio\r\n\r\nWe’re developing Ibuki, a world-model family for biology, to learn how evolution, sequence, structure and function relate and use those relationships to understand and engineer living systems. We’re pretraining our own protein language models, and developing coordinate and multimodal models for prediction, inverse folding, alignment and generative design. Proteins are our starting point; DNA, RNA, small molecules, and other biological modalities are part of the longer-term direction.\r\n\r\nAlong the way, we assembled Umi, with over 100 billion unique protein sequences, and Sora, with nearly two billion protein structure records. Having that much data only helps if we can organize it, compare it and find the biology relevant to a particular question. We’re building the full-corpus embedding, indexing and customer access that will bring more of those collections into research workflows.\r\n\r\nOur key insight was that the fixed substitution tables used to compare biological sequences are the simplest example of a neural network. Replacing them with contextual substitution operators lets us learn how positions correspond, from reference alignments and directly from molecular geometry. Hikoboshi (open source) turns those learned relationships into tools for sequence and structure alignment, search, clustering and many other evolutionary analysis pipelines.\r\nGitHub: https://github.com/orikata-bio/hikoboshi\r\n\r\nScientific software with Megure Labs\r\n\r\nLearning those relationships meant making the alignment calculation itself trainable. Orihime (open source), our differentiable-alignment and structured-attention library, lets neural networks learn through scientific algorithms on CPUs and GPUs. It supplies the training machinery behind our learned alignment methods.\r\nGitHub: https://github.com/megure-labs/orihime\r\n\r\nRunning the models efficiently is its own problem. Hataya (private evaluation), our inference engine and compiler for scientific models, turns trained models and their dependencies into standalone CPU and GPU programs, carrying the exact weights, identity and verification evidence with them. We’re building it to make both our models and public scientific models cheaper to run, including through Noto’s hosted service.\r\n\r\nKaname coordinates long-running agent work across every model provider: tasks, compute, permissions, retries and the record of what happened. We’re bringing that coordination and provenance into Noto’s research workflows so work can continue across people, agents and machines.\r\n\r\nResearchers can start with a single analysis or hosted model run today. Noto is where we’re bringing them together so an analysis or model run can become part of a continuing research project, with the data, methods and results kept alongside it.\r\n\r\nTry Noto’s live tools: https://megure.ai/noto/workspace/\r\nBiological tools: https://orikata.ai/tools/\r\nScientific software: https://megure.ai/\r\nBiological discovery: https://orikata.ai/\r\nOpen source: https://github.com/megure-labs and https://github.com/orikata-bio\r\nFor research use, questions about the data or private evaluations: casey@orikata.ai",
+  "one_liner": "A multiplayer discovery workspace for human and agentic scientists",
+  "team_size": 1,
+  "industry": "B2B",
+  "subindustry": "B2B -> Infrastructure",
+  "launched_at": 1794512950,
+  "tags": [
+    "Machine Learning",
+    "SaaS",
+    "Enterprise Software",
+    "AI"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Summer 2026",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Infrastructure"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada",
+    "Remote",
+    "Partly Remote"
+  ],
+  "stage": "Early",
+  "partners": "Tyler",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/orikata-bio-pbc",
+  "api": "https://yc-oss.github.io/api/batches/summer-2026/orikata-bio-pbc.json"
+}

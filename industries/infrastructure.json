@@ -8106,10 +8106,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dedc5ca68422aae62a4f58f3a0823d0903b71997.png",
     "website": "https://morphllm.com",
-    "all_locations": "Columbus, OH, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Specialized inference, built for agent workloads\r\n\r\nFast Open-Source models: Kimi k3, Deepseek v4 flash, qwen 397b, at 200+ tps\r\nSpecialized models for applying edits, code search, compaction, and model routing",
     "one_liner": "Fast Models Optimized for Coding Agents",
-    "team_size": 3,
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1686706939,
@@ -8131,9 +8131,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "partners": "Tom",
@@ -11686,6 +11684,49 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/pirislabs.json"
   },
   {
+    "id": 31119,
+    "name": "ZeroSettle",
+    "slug": "zerosettle",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3edf2f636807274706fc2fd91f437e7a27d781b7.png",
+    "website": "https://zerosettle.io",
+    "all_locations": "San Diego, CA, USA",
+    "long_description": "ZeroSettle is an iMessage API. Each customer gets a dedicated phone number that sends and receives real iMessages from their own code or AI agent. Plans start at $49/month.\r\n\r\nDevelopers send and receive messages through a REST API and webhooks. AI agents connect through our MCP server, which works with Claude, ChatGPT, Grok and Cursor. Each number supports photos, videos, voice memos, typing indicators, inline replies, polls, group chats and FaceTime Audio calls. For teams that don’t want to write code, a built-in AI agent can answer texts for them, and conversations sync to Close, GoHighLevel, and HubSpot.\r\n\r\nCompanies use ZeroSettle for customer support, sales follow-up, appointment reminders, retention offers, Sign in with iMessage, and AI assistants that live in iMessage. iMessage needs no 10DLC registration, and each number handles up to 10,000 messages a day on Apple hardware we operate in a server facility.",
+    "one_liner": "iMessage API for businesses and AI agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1770252325,
+    "tags": [
+      "Messaging",
+      "Infrastructure",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "Brad",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zerosettle",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/zerosettle.json"
+  },
+  {
     "id": 31128,
     "name": "Cumulus Labs",
     "slug": "cumulus-labs",
@@ -13172,6 +13213,56 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/gitcafe.json"
   },
   {
+    "id": 32126,
+    "name": "Orikata Bio PBC",
+    "slug": "orikata-bio-pbc",
+    "former_names": [
+      "Orikata Bio",
+      "Meguri Labs",
+      "Meguru Labs",
+      "Megure Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9bb8600184285ab1a6b407bed29e46c143375796.png",
+    "website": "https://orikata.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "A new agent, tool, or generative model alone doesn’t solve the whole problem for most research questions. Someone still has to assemble the data, work out which methods to use and get the tools and datasets working together. We’re building Noto, a multiplayer discovery workbench for human and agentic scientists, to bring everyone's favorite frontier models, agents, tools, and scientific models into one shared workspace, so that you can focus on making your next discovery, rather than wrestling with your Python environment or finding GPUs.\r\n\r\nPlan an experiment, work with its generated data, run an analysis or model, maybe even train a new model, and keep the results in the notebook. We designed Noto so that the inputs, code, methods and results stay connected across local and hosted compute. Both people and agents need to see how a result was produced and build on it. Biology is where we’re starting, with the workbench being built for more general research across many scientific disciplines.\r\n\r\nAvailable now: our first biological analysis tools, hosted model inference, and an initial agent interface. Free usage is available within limits, alongside paid model runs and individual and team plans. Researchers can run sequence and structure analyses and hosted scientific models without provisioning GPUs or maintaining each model’s dependencies.\r\n\r\nIn development: the full multiplayer notebook and wider agent workflows and integrations.\r\n\r\nOrikata Bio Public Benefit Corporation, or Orikata Bio PBC, is the company. We work under two brands: Orikata Bio for biological discovery and Megure Labs for scientific software.\r\n\r\nBiological discovery with Orikata Bio\r\n\r\nWe’re developing Ibuki, a world-model family for biology, to learn how evolution, sequence, structure and function relate and use those relationships to understand and engineer living systems. We’re pretraining our own protein language models, and developing coordinate and multimodal models for prediction, inverse folding, alignment and generative design. Proteins are our starting point; DNA, RNA, small molecules, and other biological modalities are part of the longer-term direction.\r\n\r\nAlong the way, we assembled Umi, with over 100 billion unique protein sequences, and Sora, with nearly two billion protein structure records. Having that much data only helps if we can organize it, compare it and find the biology relevant to a particular question. We’re building the full-corpus embedding, indexing and customer access that will bring more of those collections into research workflows.\r\n\r\nOur key insight was that the fixed substitution tables used to compare biological sequences are the simplest example of a neural network. Replacing them with contextual substitution operators lets us learn how positions correspond, from reference alignments and directly from molecular geometry. Hikoboshi (open source) turns those learned relationships into tools for sequence and structure alignment, search, clustering and many other evolutionary analysis pipelines.\r\nGitHub: https://github.com/orikata-bio/hikoboshi\r\n\r\nScientific software with Megure Labs\r\n\r\nLearning those relationships meant making the alignment calculation itself trainable. Orihime (open source), our differentiable-alignment and structured-attention library, lets neural networks learn through scientific algorithms on CPUs and GPUs. It supplies the training machinery behind our learned alignment methods.\r\nGitHub: https://github.com/megure-labs/orihime\r\n\r\nRunning the models efficiently is its own problem. Hataya (private evaluation), our inference engine and compiler for scientific models, turns trained models and their dependencies into standalone CPU and GPU programs, carrying the exact weights, identity and verification evidence with them. We’re building it to make both our models and public scientific models cheaper to run, including through Noto’s hosted service.\r\n\r\nKaname coordinates long-running agent work across every model provider: tasks, compute, permissions, retries and the record of what happened. We’re bringing that coordination and provenance into Noto’s research workflows so work can continue across people, agents and machines.\r\n\r\nResearchers can start with a single analysis or hosted model run today. Noto is where we’re bringing them together so an analysis or model run can become part of a continuing research project, with the data, methods and results kept alongside it.\r\n\r\nTry Noto’s live tools: https://megure.ai/noto/workspace/\r\nBiological tools: https://orikata.ai/tools/\r\nScientific software: https://megure.ai/\r\nBiological discovery: https://orikata.ai/\r\nOpen source: https://github.com/megure-labs and https://github.com/orikata-bio\r\nFor research use, questions about the data or private evaluations: casey@orikata.ai",
+    "one_liner": "A multiplayer discovery workspace for human and agentic scientists",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1794512950,
+    "tags": [
+      "Machine Learning",
+      "SaaS",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "partners": "Tyler",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/orikata-bio-pbc",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/orikata-bio-pbc.json"
+  },
+  {
     "id": 32134,
     "name": "Parasma",
     "slug": "parasma",
@@ -14612,15 +14703,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e0ab38690d05797c7ccebecaf6f40e8c72b69516.png",
     "website": "https://acyclic.dev",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "Acyclic builds the infrastructure for agent swarms: open-source primitives for running agents in parallel, and a managed agents platform that runs swarms for you. Complex, long-running tasks are split across many agents, each working in its own instant fork of the workspace, and finish in a fraction of the time.\n\nWe built Acyclic because we believe there are huge gains to be had in how agents are run, beyond the models themselves. Agents can already do real work, but they still do it one step at a time, so complex tasks take hours or days. Running them as swarms is an infrastructure problem: isolating each agent, dividing the work, and merging the results without conflicts. Today, teams use Acyclic to run heavy document-processing pipelines in minutes instead of hours.\n\nAt Cambridge, we researched ML and auto-parallelising compilers, and then we built multi-agent systems in production: Ram as a Palantir FDE for pharma clients, shipping systems for clinical trial design, and Varun leading agent architecture at Tracelight for Big 4 accounting firms. We kept asking the same question: the agents were good enough, so why couldn't we run thousands of them at once to make everything faster and cheaper? Acyclic is our answer.",
-    "one_liner": "Agent swarms that make long-running tasks exponentially faster",
+    "long_description": "We’re building the foundations of agent swarms that can materially accelerate all work: benchmarks to measure model capabilities, models trained to coordinate thousands of agents, RL environments to improve them, and infrastructure that can put a datacenter’s worth of compute behind a single conversation within seconds.\r\n\r\nBoth founders graduated top 10% from Cambridge. Ram is a published ML researcher and Varun worked at the frontier of parallel programming languages and shipped enterprise multi-agent systems at Palantir and Tracelight. We realised that agents were good enough to solve most use cases. So why couldn’t we run thousands of them at once and finish hours of work in minutes?",
+    "one_liner": "Benchmarks, RL envs and infra for scaling agent swarms",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1791261091,
     "tags": [
       "Swarm AI",
-      "Open Source"
+      "Open Source",
+      "Data Engineering",
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

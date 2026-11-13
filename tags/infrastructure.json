@@ -4934,6 +4934,49 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/pirislabs.json"
   },
   {
+    "id": 31119,
+    "name": "ZeroSettle",
+    "slug": "zerosettle",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3edf2f636807274706fc2fd91f437e7a27d781b7.png",
+    "website": "https://zerosettle.io",
+    "all_locations": "San Diego, CA, USA",
+    "long_description": "ZeroSettle is an iMessage API. Each customer gets a dedicated phone number that sends and receives real iMessages from their own code or AI agent. Plans start at $49/month.\r\n\r\nDevelopers send and receive messages through a REST API and webhooks. AI agents connect through our MCP server, which works with Claude, ChatGPT, Grok and Cursor. Each number supports photos, videos, voice memos, typing indicators, inline replies, polls, group chats and FaceTime Audio calls. For teams that don’t want to write code, a built-in AI agent can answer texts for them, and conversations sync to Close, GoHighLevel, and HubSpot.\r\n\r\nCompanies use ZeroSettle for customer support, sales follow-up, appointment reminders, retention offers, Sign in with iMessage, and AI assistants that live in iMessage. iMessage needs no 10DLC registration, and each number handles up to 10,000 messages a day on Apple hardware we operate in a server facility.",
+    "one_liner": "iMessage API for businesses and AI agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1770252325,
+    "tags": [
+      "Messaging",
+      "Infrastructure",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "Brad",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zerosettle",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/zerosettle.json"
+  },
+  {
     "id": 31147,
     "name": "Salus",
     "slug": "salus",
@@ -5495,7 +5538,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2026",
     "status": "Active",
@@ -6666,8 +6709,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b1d7d1c63b80a9929499e7b55e2263eaf7cb1a4f.png",
     "website": "https://openlakehq.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "OpenLake is a real time inference platform which improves your model quality in real time. Plug in your datasets, RL environments and conversations. Get the intelligence your company deserves without needing an AI research lab. \r\n\r\nPick an open model like Kimi K3 or GLM 5.3 and deploy it in one click. OpenLake keeps your model upto date with real time data sources, so the model you run tomorrow is more accurate than the last. ",
-    "one_liner": "Models which improve the more you use them",
+    "long_description": "OpenLake is a real time inference platform which improves your model quality in real time. Plug in your datasets, RL environments and conversations. Get the intelligence your company deserves without needing an AI research lab. \r\n\r\nPick an open model like Kimi K3 or GLM 5.3 and deploy it in one click. OpenLake keeps your model upto date with real time data sources, so the model you run tomorrow is more accurate than the last. OpenLake serves 100B+ tokens a day. ",
+    "one_liner": "OpenLake lets companies deploy models that improve in real time",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -6748,9 +6791,9 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2332aa776f979c1ef83d3026fd24932b6576eea.png",
     "website": "https://www.invertix.ai",
-    "all_locations": "Munich, BY, Germany",
-    "long_description": "Invertix builds AI that helps energy companies run Power Plants Autonomously.\r\nWe believe critical infrastructure will be autonomously developed and operated, from Power Plants to Data centers. We are building that AI layer.\r\nhttps://www.youtube.com/watch?v=0uDH6pMn5OE\r\n\r\nEnergy is a $10 trillion market. The infrastructure layer doesn't exist yet. \r\nWe are building it.",
-    "one_liner": "AI that operates power plants",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Invertix builds AI that helps energy companies run Power Plants Autonomously.\r\nWe believe Power Plants and Datacenters will be autonomously developed and operated.\r\nWe are building that AI layer.\r\nhttps://www.youtube.com/watch?v=0uDH6pMn5OE\r\n\r\nCritical Infrastructure is a $10 trillion market.",
+    "one_liner": "AI agents that operate energy plants and datacenters",
     "team_size": 8,
     "industry": "Industrials",
     "subindustry": "Industrials -> Energy",
@@ -6771,8 +6814,8 @@
       "Energy"
     ],
     "regions": [
-      "Germany",
-      "Europe"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "partners": "David",
@@ -6995,6 +7038,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/caveman",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/caveman.json"
+  },
+  {
+    "id": 37071,
+    "name": "Acyclic Labs",
+    "slug": "acyclic",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e0ab38690d05797c7ccebecaf6f40e8c72b69516.png",
+    "website": "https://acyclic.dev",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "We’re building the foundations of agent swarms that can materially accelerate all work: benchmarks to measure model capabilities, models trained to coordinate thousands of agents, RL environments to improve them, and infrastructure that can put a datacenter’s worth of compute behind a single conversation within seconds.\r\n\r\nBoth founders graduated top 10% from Cambridge. Ram is a published ML researcher and Varun worked at the frontier of parallel programming languages and shipped enterprise multi-agent systems at Palantir and Tracelight. We realised that agents were good enough to solve most use cases. So why couldn’t we run thousands of them at once and finish hours of work in minutes?",
+    "one_liner": "Benchmarks, RL envs and infra for scaling agent swarms",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1791261091,
+    "tags": [
+      "Swarm AI",
+      "Open Source",
+      "Data Engineering",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "stage": "Early",
+    "partners": "Aaron",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/acyclic",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/acyclic.json"
   },
   {
     "id": 37105,
