@@ -1,248 +1,283 @@
-# YC company changes for 2026-11-13
+# YC company changes for 2026-11-14
 
-- Previous total: 6391
-- Current total: 6394
+- Previous total: 6394
+- Current total: 6397
 - Added: 3
 - Removed: 0
-- Updated: 42
+- Updated: 52
 
 ## Added companies
 
-- [Orikata Bio PBC](https://www.ycombinator.com/companies/orikata-bio-pbc) (Summer 2026 — A multiplayer discovery workspace for human and agentic scientists)
-- [Outworld Labs](https://www.ycombinator.com/companies/outworld-labs) (Fall 2026 — Robotics simulation indistinguishable from reality)
-- [Render](https://www.ycombinator.com/companies/render) (Winter 2027 — AI CMO that puts marketing on autopilot)
+- [Osmaura](https://www.ycombinator.com/companies/osmaura) (Summer 2026 — AI-native client acquisition & care for corporate law firms)
+- [Repovive](https://www.ycombinator.com/companies/repovive) (Fall 2026 — Scaling AI formal verification for chips and critical software)
+- [Dualizer](https://www.ycombinator.com/companies/dualizer) (Fall 2026 — AI-powered physical simulation to design/optimize chemical processes)
 
 ## Updated companies
 
-### [Focal Systems](https://www.ycombinator.com/companies/focal-systems)
+### [Groww](https://www.ycombinator.com/companies/groww)
 
 - `stage`: Early → Growth
 
-### [Mednet](https://www.ycombinator.com/companies/mednet)
+### [Akiflow](https://www.ycombinator.com/companies/akiflow)
 
 - `isHiring`: true → false
 
-### [Groww](https://www.ycombinator.com/companies/groww)
+### [arnata](https://www.ycombinator.com/companies/arnata)
+
+- `isHiring`: true → false
+
+### [Care Weather](https://www.ycombinator.com/companies/care-weather)
+
+- `tags`: ["Hard Tech","Space Exploration","Satellites","Weather","Agriculture"] → ["Hard Tech","Space Exploration","Satellites","Weather","Manufacturing"]
+
+### [OlaClick](https://www.ycombinator.com/companies/olaclick)
+
+- `tags`: ["SaaS","B2B","Food Tech"] → ["SaaS","B2B","Food Tech","AI"]
+
+### [AlgoViral](https://www.ycombinator.com/companies/algoviral)
+
+- `team_size`: 5 → 4
+
+### [Turion Space](https://www.ycombinator.com/companies/turion-space)
 
 - `stage`: Growth → Early
 
-### [Lucid Bots](https://www.ycombinator.com/companies/lucid-bots)
+### [Firezone](https://www.ycombinator.com/companies/firezone)
 
-- `stage`: Early → Growth
+- `team_size`: 3 → null
 
-### [Seal](https://www.ycombinator.com/companies/seal-2)
+### [Alphawatch AI](https://www.ycombinator.com/companies/alphawatch-ai)
 
-- `team_size`: 22 → 40
+- `long_description`: Rolo is a new product by Alphawatch AI allows deal teams to track and develop banker, GP, and target relationships. → Enrich leads, automate sourcing, monitor competitors, and power your product with structured data from sources across the web.
+- `one_liner`: Relationship Coverage for Deal Teams → Data Layer for Modern Builders
+- `team_size`: 8 → 3
 
-### [SalaryBox](https://www.ycombinator.com/companies/salarybox)
+### [Latent](https://www.ycombinator.com/companies/latent)
 
-- `isHiring`: true → false
+- `long_description`: At Latent, we're building medical language models to tackle the trillions of operational overhead weighing down healthcare. Our flagship product streamlines ... → In the U.S., the path between experiencing a health problem and completing treatment is much more complicated than it should be. Many people have conditions ...
+- `one_liner`: Medical language models to automate healthcare operations → Clinical AI that gets life-changing medicine to the people who need it
+- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/d464e72e759603ce78169d56b1ef679252bf2dae.png → https://bookface-images.s3.amazonaws.com/small_logos/a01f0ee674f9fb3edf3d5425d7db87cea3bf5bd0.png
+- `team_size`: 50 → 140
 
-### [Coinrule](https://www.ycombinator.com/companies/coinrule)
+### [Berry](https://www.ycombinator.com/companies/berry)
 
-- `long_description`: Coinrule Catches the Next Market Opportunity on Your Behalf by Automating Your Investments: Crypto, Stocks, ETFs. Docufilm: https://youtu.be/YitEyKmx8fg Prev... → Catch the next market opportunity with Multi assets AI agentic investments levelling the playing field between institutional and retail investors in Stock, E...
-- `one_liner`: Coinrule Automates Your Crypto and Stock Investments → Multi-Asset Agentic AI Investing
-
-### [Clickpad](https://www.ycombinator.com/companies/clickpad)
-
-- `api`: https://yc-oss.github.io/api/batches/winter-2022/wereno.json → https://yc-oss.github.io/api/batches/winter-2022/clickpad.json
-- `former_names`: ["WeReno","Inc.","VIDCALL","Inc","WeReno","WeReno (Vidcall","Inc.)","WeReno","Scope3D (fka WeReno)","Scope3D","Built OS","BuiltOS","WeReno","Handyman.ai by W... → ["WeReno","Inc.","VIDCALL","Inc","WeReno","WeReno (Vidcall","Inc.)","WeReno","Scope3D (fka WeReno)","Scope3D","Built OS","BuiltOS","WeReno","Handyman.ai by W...
-- `long_description`: WeReno is a technology-driven capital project management and owner's representation company specializing in hospitality, commercial real estate, and large-sc... → ClickPad.com (fka WeReno) is an AI-powered back office that helps contractors take on more projects without hiring administrative staff or learning complicat...
-- `name`: WeReno → Clickpad
-- `one_liner`: AI-powered renovation and capital-project management → The AI employee for contractors. No software to learn. Just text.
-- `slug`: wereno → clickpad
-- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/1a5783f7465c728ac490615e277946dd2250f5f0.png → https://bookface-images.s3.amazonaws.com/small_logos/6db093f318226e38eaba4f40dc8ed8affc2c1f3e.png
-- `url`: https://www.ycombinator.com/companies/wereno → https://www.ycombinator.com/companies/clickpad
-- `website`: https://wereno.com → https://clickpad.com
-
-### [Dukesell](https://www.ycombinator.com/companies/dukesell)
-
-- `all_locations`: Accra, Greater Accra Region, Ghana → San Francisco, CA, USA
-- `api`: https://yc-oss.github.io/api/batches/winter-2022/tendo.json → https://yc-oss.github.io/api/batches/winter-2022/dukesell.json
-- `former_names`: [] → ["Tendo"]
-- `industries`: ["Consumer","Social"] → ["B2B","Retail"]
-- `industry`: Consumer → B2B
-- `long_description`: Tendo enables anyone in Africa to sell online with zero upfront inventory - our mobile app connects dropshippers to local wholesalers. The sellers on the pla... → Duke equips ecommerce merchants with the tools they need to participate in agentic commerce, regardless of platform or geography. Merchants can deploy voice ...
-- `name`: Tendo → Dukesell
-- `one_liner`: Enabling Africans to sell online with zero capital → Duke makes every ecommerce merchant agent-ready
-- `regions`: ["Ghana","Africa"] → ["United States of America","America / Canada"]
-- `slug`: tendo → dukesell
-- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/b82dfe518f1d7e3fc76d3783bf673d3db4ffa36f.png → https://bookface-images.s3.amazonaws.com/small_logos/08fa581a5bb46ee9db1b99c742bf5f56fb26a7a4.png
-- `subindustry`: Consumer -> Social → B2B -> Retail
-- `tags`: ["Fintech","Marketplace","Logistics","Social","E-commerce"] → ["Marketplace","Social","E-commerce","AI","AI Assistant"]
-- `url`: https://www.ycombinator.com/companies/tendo → https://www.ycombinator.com/companies/dukesell
-- `website`: https://tendo.app/ → https://dukesell.com
-
-### [Resend](https://www.ycombinator.com/companies/resend)
-
-- `stage`: Early → Growth
-
-### [Twine](https://www.ycombinator.com/companies/twine)
-
-- `long_description`: Twine helps service businesses turn more leads into booked revenue. We capture every call, text, form, chat, Google, Yelp, and ad lead in one place, then use... → Twine helps service businesses turn more leads into revenue by bringing their entire sales process into one workspace. We connect calls, texts, website inqui...
-- `one_liner`: ai revenue engine for service businesses → The AI sales workspace for service businesses.
-
-### [Morph](https://www.ycombinator.com/companies/morph)
-
-- `all_locations`: Columbus, OH, USA → San Francisco, CA, USA
-- `regions`: ["United States of America","America / Canada","Remote","Partly Remote"] → ["United States of America","America / Canada"]
-- `team_size`: 3 → 2
+- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/59005c33d3a0d40259f58fdc4a12bc21a5d29d73.png → https://bookface-images.s3.amazonaws.com/small_logos/f230e383bd7e7babd0cfa290f743073b9bf2f69a.png
 
 ### [Toma](https://www.ycombinator.com/companies/toma)
 
-- `stage`: Growth → Early
-- `website`: http://www.toma.com/ → http://www.toma.so/
+- `stage`: Early → Growth
 
-### [Overheard](https://www.ycombinator.com/companies/overheard)
+### [Aviro](https://www.ycombinator.com/companies/aviro)
 
-- `long_description`: Tell Overheard what you're deciding, like how to fix churn or which feature to build next. It writes the interview, talks to your customers by voice, and com... → Overheard supercharges your team’s capacity for high-quality customer research. Tell it what you’re deciding, like why customers churn or which launch to bac...
-- `one_liner`: Know what your customers want, because they told you. → AI-run customer research at scale
+- `one_liner`: Environments for Long Horizon Work → RL Environments for Long Horizon Work
 
-### [Tandem](https://www.ycombinator.com/companies/tandem-2)
+### [Elip AI](https://www.ycombinator.com/companies/elip-ai)
 
-- `long_description`: Tandem is an AI-native office leasing platform. We’re using technology to unlock an easier leasing process. Our AI co-pilot provides a white-glove-quality B2... → Tandem is an AI-native office leasing platform. We’re using technology to unlock an easier leasing process. Our AI co-pilot provides a white-glove-quality B2...
+- `long_description`: Elip is an AI agent for careers and for hiring. Candidates send their resume once and say what they want next, and what they'd never take. Each morning Elip ... → Elip sends you the jobs a friend would send you, and gives a company the shortlist a friend would write. For people: add your resume and say what you want an...
+- `one_liner`: AI agent for careers and hiring: the few that fit, with the reason. → Jobs a friend would send you, and a shortlist a friend would write.
 
-### [AutoComputer](https://www.ycombinator.com/companies/autocomputer)
+### [Cifrato](https://www.ycombinator.com/companies/cifrato)
 
-- `long_description`: We provide data research and post-training research services to help companies turn their traces into environments for evaluation and post-training. → We provide data and post-training research infrastructure and services. Data companies, research labs, and AI product companies use our services and BYOC inf...
-- `one_liner`: Forward Deployed Research Services → Forward Deployed Research
-- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/5a60f5ba14460a149ec6587f93611a37f06bcb11.png → https://bookface-images.s3.amazonaws.com/small_logos/22437c4b2babed8d2f89a2761165b5fa935cd154.png
+- `isHiring`: true → false
 
-### [Contrario](https://www.ycombinator.com/companies/contrario)
+### [Harbera](https://www.ycombinator.com/companies/harbera)
 
-- `isHiring`: false → true
+- `isHiring`: true → false
 
-### [Paratus Health](https://www.ycombinator.com/companies/paratus-health)
+### [PgDog](https://www.ycombinator.com/companies/pgdog)
 
-- `all_locations`: New York City, NY, USA → San Francisco, CA, USA
+- `all_locations`: San Francisco, CA, USA; Remote → San Francisco, CA, USA
+- `regions`: ["United States of America","America / Canada","Remote","Fully Remote"] → ["United States of America","America / Canada","Remote","Partly Remote"]
+- `team_size`: 3 → 4
 
-### [QFEX](https://www.ycombinator.com/companies/qfex)
+### [OneStop](https://www.ycombinator.com/companies/onestop)
 
-- `all_locations`: London, England, United Kingdom → New York City, NY, USA
-- `regions`: ["United Kingdom","Europe"] → ["United States of America","America / Canada"]
+- `industries`: ["Consumer"] → ["Consumer","Social"]
+- `long_description`: OneStop is a local classifieds network for New York City. Find and post local listings. → onestop is the local social network: what's going on a few blocks from you, posted by the people who are there. Invite-only on iOS and Android, starting in N...
+- `one_liner`: The local internet for NYC. → The local social network: what's going on a few blocks from you.
+- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/f9e554a3ff6dc01974ba5721cbfdc8ce21a2a2da.png → https://bookface-images.s3.amazonaws.com/small_logos/61442a42543f111e02cb1ffebe442a2885b633ab.png
+- `subindustry`: Consumer → Consumer -> Social
+- `tags`: ["AI"] → []
+- `website`: https://www.askonestop.com → https://www.onestop.so
 
-### [Cactus](https://www.ycombinator.com/companies/oncactus)
+### [Nox Metals](https://www.ycombinator.com/companies/nox-metals)
 
-- `team_size`: 2 → 10
+- `team_size`: 52 → 64
+- `website`: https://noxmetals.co/ → https://noxmetals.com
 
-### [Conviction](https://www.ycombinator.com/companies/conviction)
+### [Clicks Health](https://www.ycombinator.com/companies/clicks-health)
 
-- `long_description`: Conviction lets you create and discover trading ideas, then monitors the market and acts on them for you. Start with any idea you have - or discover one from... → Trading is now as easy as speaking English. Share your market belief or describe your exact trading strategy. Conviction builds it, backtests it, and deploys...
-- `one_liner`: Anyone Can Trade → Agentic Trading Desk in Your Pocket
+- `all_locations`: ZH, Switzerland → San Francisco, CA, USA
+- `regions`: ["Switzerland","Europe"] → ["United States of America","America / Canada"]
+- `team_size`: 8 → 11
+- `website`: https://www.goclicks.ai/ → https://clickshealth.com/
 
 ### [Haladir](https://www.ycombinator.com/companies/haladir)
 
-- `long_description`: Haladir builds advanced AI systems for logistics. We sit on top of your WMS, TMS and ERP, turning their data into decisions across supply chain planning and ... → Haladir builds advanced AI decision intelligence systems for logistics. Our systems run inside warehousing, fulfillment and transportation operations, decidi...
-- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/6b1a47bf16f93d71a3d1f3af6d10a6c736e170b2.png → https://bookface-images.s3.amazonaws.com/small_logos/fbdfd8ca109134ec5c439489df0066a7a6b87573.png
+- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/fbdfd8ca109134ec5c439489df0066a7a6b87573.png → https://bookface-images.s3.amazonaws.com/small_logos/8fd9b0c5942ea44ee3ac2c2d8bb900901501cd22.png
 
-### [Eos AI](https://www.ycombinator.com/companies/eos-ai)
+### [Corvera](https://www.ycombinator.com/companies/corvera)
 
-- `team_size`: 2 → 3
+- `isHiring`: true → false
 
-### [ZeroSettle](https://www.ycombinator.com/companies/zerosettle)
+### [RunAnywhere](https://www.ycombinator.com/companies/runanywhere)
 
-- `industries`: ["Fintech","Payments"] → ["B2B","Infrastructure"]
-- `industry`: Fintech → B2B
-- `long_description`: ZeroSettle is a mobile SDK that switches customers from App Store billing to direct billing. It takes 15 minutes to set up and immediately unlocks zero App S... → ZeroSettle is an iMessage API. Each customer gets a dedicated phone number that sends and receives real iMessages from their own code or AI agent. Plans star...
-- `one_liner`: Drop-in Direct Billing SDK for In-App Purchases → iMessage API for businesses and AI agents
-- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/452371c9b837fb899ab50db5096bb04a576b19fb.png → https://bookface-images.s3.amazonaws.com/small_logos/3edf2f636807274706fc2fd91f437e7a27d781b7.png
-- `subindustry`: Fintech -> Payments → B2B -> Infrastructure
-- `tags`: [] → ["Messaging","Infrastructure","AI","AI Assistant"]
+- `long_description`: RunAnywhere runs open-weight models at full speed wherever a company needs them. Wally is our inference stack for open models: serverless inference, BYOC, or... → Inference research at the frontier. Our agents build the kernels for each chip, and Wally ships the tokens. We're RunAnywhere (YC W26), a research-led infere...
+- `one_liner`: Fastest inference anywhere: open models on-prem, hosted or on-device → Inference research at the frontier. Frontier open models on Wally.
 
-### [GodHands](https://www.ycombinator.com/companies/godhands)
+### [Traverse](https://www.ycombinator.com/companies/traverse)
 
-- `long_description`: GodHands learns how your teams actually work from the apps they already use, capturing the steps, decisions and exceptions that never get written down. It tu... → GodHands learns how your teams actually work from the apps they already use, capturing the steps, decisions and exceptions that never get written down. It tu...
+- `long_description`:  → Humans control the future because we are the most intelligent species on Earth. We believe AI will soon change that, and that our control is at risk. As a re...
+- `one_liner`: Custom models and inference, built and run for enterprises → On a mission to keep the future in human hands.
 
-### [Tago Health (formerly BentoLabs AI)](https://www.ycombinator.com/companies/tago-health)
+### [Andustry](https://www.ycombinator.com/companies/andustry)
 
-- `all_locations`: Bengaluru, KA, India → San Francisco, CA, USA
-- `api`: https://yc-oss.github.io/api/batches/spring-2026/bentolabs-ai.json → https://yc-oss.github.io/api/batches/spring-2026/tago-health.json
-- `former_names`: [] → ["BentoLabs AI","Tago Health","Tago Health (previously Bento Labs)","Tago Health (previously BentoLabs AI)","Tago Health (YC P26) (previously BentoLabs AI)"]
-- `long_description`: BentoLabs is the monitoring and learning layer for long-running agents. We detect when agents silently fail or drift from the user's goal, system prompt, or ... → Tago Health builds AI agents for the billing back office of US healthcare providers. The agents work denials and A/R as teammates for your billing team. When...
-- `name`: BentoLabs AI → Tago Health (formerly BentoLabs AI)
-- `one_liner`: Monitoring and learning layer for long-running agents → AI agents for healthcare denials and accounts receivable
-- `question_answers`: false → true
-- `regions`: ["India","South Asia"] → ["United States of America","America / Canada"]
-- `slug`: bentolabs-ai → tago-health
-- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/7ff7747818f703617e1cd9444a5600eef3511337.png → https://bookface-images.s3.amazonaws.com/small_logos/080d3dec14037a85e9d4ff519be17f4e254a3aba.png
-- `tags`: [] → ["Healthcare IT","AI"]
-- `team_size`: 5 → 3
-- `url`: https://www.ycombinator.com/companies/bentolabs-ai → https://www.ycombinator.com/companies/tago-health
-- `website`: https://bentolabs.ai/ → https://tagohealth.com
-
-### [tday.com](https://www.ycombinator.com/companies/tdaycom)
-
-- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/e529b62be0f05fefb8d967abe1c768c14f7b964e.png → https://bookface-images.s3.amazonaws.com/small_logos/11806ffd959de6c988f1bc27082910cba4d0c602.png
+- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/9cad618041deb29b222958392d35d6e8a7e0d845.png → https://bookface-images.s3.amazonaws.com/small_logos/9778771a5d790c8f95eaa5d5c9133478794b49da.png
+- `tags`: ["Trading"] → []
 
 ### [Collar](https://www.ycombinator.com/companies/collar)
 
-- `long_description`: Collar helps public companies take back control of the stock market. All public companies interface with the markets through investor relations. With good in... → Collar is YC’s first investor relations startup, building AI-native investor relations for public companies. Traction: $1.4M deals pending compliance in 2 mo...
+- `long_description`: Collar is YC’s first investor relations startup, building AI-native investor relations for public companies. Traction: $1.4M deals pending compliance in 2 mo... → Collar is helping enterprises fundraise faster. Traction: $1.4M deals pending compliance in 2 months, half is Fortune 1000. 30 partners including Fortune 500...
+- `one_liner`: AI-Native Investor Relations For Public Companies → Helping Enterprises Fundraise Faster
+- `team_size`: 4 → 3
 
-### [Uno Wallet](https://www.ycombinator.com/companies/uno-wallet)
+### [Current](https://www.ycombinator.com/companies/current)
 
-- `isHiring`: true → false
+- `api`: https://yc-oss.github.io/api/batches/spring-2026/pops.json → https://yc-oss.github.io/api/batches/spring-2026/current.json
+- `former_names`: [] → ["Pops"]
+- `industries`: ["Consumer","Gaming"] → ["B2B","Engineering, Product and Design"]
+- `industry`: Consumer → B2B
+- `long_description`: Pops lets people play, remix, and share AI games with friends. Discover an infinite feed of games, challenges, quizzes, and other fun interactive experiences... → Current is an opinionated way to work with your coding agents. It lets you run hundreds of agents while staying in control. The problem with running agents i...
+- `name`: Pops → Current
+- `one_liner`: Create & play AI games with friends → Run hundreds of coding agents and stay in control
+- `slug`: pops → current
+- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/ff1807225bc4aea4a50ef4d5315e963925c04afd.png → https://bookface-images.s3.amazonaws.com/small_logos/a81a3029d5d0e8401db806e65117e6a53ebe8c70.png
+- `subindustry`: Consumer -> Gaming → B2B -> Engineering, Product and Design
+- `tags`: ["Consumer","Gaming","Social","AI"] → ["Developer Tools","Productivity","Collaboration","AI"]
+- `url`: https://www.ycombinator.com/companies/pops → https://www.ycombinator.com/companies/current
+- `website`: https://pops.fyi → https://joincurrent.io
+
+### [Arden](https://www.ycombinator.com/companies/arden)
+
+- `industries`: ["B2B","Finance and Accounting"] → ["B2B","Supply Chain and Logistics"]
+- `long_description`: Arden is the AI-native platform for internal audit and SOX teams. We build AI agents that automatically pull evidence from your stack, test controls end-to-e... → Arden is building AI that runs factories. We connect every machine, sensor, operator and piece of software in a plant into a live model of how the factory ac...
+- `one_liner`: AI-native internal audit firm → AI operating system for factories
+- `subindustry`: B2B -> Finance and Accounting → B2B -> Supply Chain and Logistics
+- `team_size`: 2 → 3
 
 ### [CONUS](https://www.ycombinator.com/companies/conus)
 
 - `long_description`: CONUS structures fragmented medical device information for surgeons. We combine manufacturer documentation, hospital protocols and medical research in one pl... → CONUS structures fragmented medical device information for surgeons. We combine manufacturer documentation, hospital protocols and medical research in one pl...
-- `one_liner`: The AI knowledge layer for medical devices → Medical Device Platform for Hospitals
 
-### [hardware intelligence](https://www.ycombinator.com/companies/hardware-intelligence)
+### [Duet Machines](https://www.ycombinator.com/companies/duet-machines)
 
-- `long_description`: Hardware Intelligence makes chip design tools that cut simulation and debugging time by an order of magnitude. When a chip test fails, engineers need a recor... → Hardware Intelligence makes chip design tools to cut development by months. When a chip test fails, engineers need a recording of every internal signal calle...
-- `one_liner`: AI tools for the chips your AI runs on → make sense of silicon
-- `team_size`: 2 → 3
+- `api`: https://yc-oss.github.io/api/batches/summer-2026/dialogus.json → https://yc-oss.github.io/api/batches/summer-2026/duet-machines.json
+- `former_names`: ["Zyra","Dialogus","Dialogus Labs"] → ["Zyra","Dialogus","Dialogus Labs","Dialogus"]
+- `long_description`:  → We post-train small open models on your AI agent's production traffic, prove them against your experts' graders, and roll them out gate by gate to replace fr...
+- `name`: Dialogus → Duet Machines
+- `one_liner`: voice AI agents that learn how your company actually works → Specialized models that replace your frontier API
+- `slug`: dialogus → duet-machines
+- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/c7df204d91879e8e730b8993b754b3d35b87106e.png → https://bookface-images.s3.amazonaws.com/small_logos/a49fc44e43023960f464a3781081400ac6041082.png
+- `tags`: ["B2B","Customer Support"] → ["Machine Learning","Reinforcement Learning","B2B","Infrastructure","AI"]
+- `url`: https://www.ycombinator.com/companies/dialogus → https://www.ycombinator.com/companies/duet-machines
+- `website`: https://www.dialoguslabs.com/ → https://duetmachines.com
 
-### [OpenLake Technologies](https://www.ycombinator.com/companies/openlake-technologies)
+### [Neomatter](https://www.ycombinator.com/companies/neomatter)
 
-- `long_description`: OpenLake is a real time inference platform which improves your model quality in real time. Plug in your datasets, RL environments and conversations. Get the ... → OpenLake is a real time inference platform which improves your model quality in real time. Plug in your datasets, RL environments and conversations. Get the ...
-- `one_liner`: Models which improve the more you use them → OpenLake lets companies deploy models that improve in real time
+- `long_description`: Neomatter connects to a company’s email, chat, and business systems and does the legal work before it reaches the legal team. It gathers context, applies com... → Neomatter is a harness for in-house legal teams that integrates into communication channels like email and slack so it can complete the legal work before rea...
+- `one_liner`: AI that works for in-house legal teams → AI harness that does all corporate legal work
 
-### [Invertix](https://www.ycombinator.com/companies/invertix)
+### [Bayworks](https://www.ycombinator.com/companies/bayworks)
 
-- `all_locations`: Munich, BY, Germany → San Francisco, CA, USA
-- `long_description`: Invertix builds AI that helps energy companies run Power Plants Autonomously. We believe critical infrastructure will be autonomously developed and operated,... → Invertix builds AI that helps energy companies run Power Plants Autonomously. We believe Power Plants and Datacenters will be autonomously developed and oper...
-- `one_liner`: AI that operates power plants → AI agents that operate energy plants and datacenters
-- `regions`: ["Germany","Europe"] → ["United States of America","America / Canada"]
+- `long_description`: Self-driving companies record every mile a car drives. Nobody records how it gets fixed. Bayworks captures voice and video data as technicians repair cars, v... → Self-driving companies record every mile a car drives. Nobody records how it gets fixed. We capture how technicians fix cars and use it to run the dealership...
 
-### [Yam](https://www.ycombinator.com/companies/yam)
+### [AnyAlpha](https://www.ycombinator.com/companies/anyalpha)
 
-- `one_liner`: AI-powered dating sims for women → AI-powered romance sims for women
+- `long_description`: AnyAlpha is the agentic trading platform. It turns your trading idea into an agent that trades it for you, 24/7. Start with an idea. AnyAlpha builds the agen... → AnyAlpha is the agentic trading platform. It turns your trading idea into an agent that trades it for you, 24/7. Start with an idea. AnyAlpha builds the agen...
 
-### [Ailit](https://www.ycombinator.com/companies/ailit)
+### [Aviern](https://www.ycombinator.com/companies/aviern)
 
-- `long_description`: Ailit is building the electric energy system for North American freight rail. Our first product, Superwagon, is a battery wagon designed to power existing di... → Ailit is building the electric energy system for North American freight rail. Our first product, Superwagon, is a battery wagon designed to power existing di...
+- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/906b7c01faee6d9632f1f941bfe737812ec7d0b9.png → https://bookface-images.s3.amazonaws.com/small_logos/302621a8b92887e1cdfce4c15b8a8d39e2dcdddf.png
+
+### [Armorer Labs](https://www.ycombinator.com/companies/armorer-labs)
+
+- `one_liner`: Continuous security verification for AI systems in regulated… → Continuous security verification for AI in regulated industries
+
+### [Lantern AI](https://www.ycombinator.com/companies/lantern-ai)
+
+- `one_liner`: Turn Your Taste Into Hires → Agentic Recruiting Platform for Enterprise
+
+### [OpenCrawl](https://www.ycombinator.com/companies/opencrawl)
+
+- `long_description`: OpenCrawl proactively steers your agents so they meet their goals in fewer turns. We ingest context from your other agents, your teammates and your tools alr... → OpenCrawl is an open-source platform that lets AI coding agents work as a team. Engineering teams now run many agents at once, across Claude Code, Codex, lap...
+- `one_liner`: Shared context for your agents. → Multiplayer for your coding agents.
+
+### [Perceptual Labs](https://www.ycombinator.com/companies/perceptual-labs)
+
+- `one_liner`: Building the next generation of visual intelligence → Building intelligence that can understand and rewrite itself
+
+### [TrueMile](https://www.ycombinator.com/companies/truemile)
+
+- `one_liner`: AI-native trucking company → The AI-native trucking company
+
+### [Ordo Labs](https://www.ycombinator.com/companies/ordo-labs)
+
+- `long_description`: Ordo Labs is bringing AI into regulated labs. In paid pilots with labs in the US and Europe, Ordo cut post-analysis work by 90%+. CROs and CDMOs are a $314.8... → Ordo lets regulated labs delegate analysis, quality checks and report drafting to AI agents. We turn each lab’s checking rules into workflows, with source-li...
+- `one_liner`: The AI-native OS for regulated labs → Regulated lab software, rebuilt around AI agents
+
+### [ORO AI](https://www.ycombinator.com/companies/oro-ai)
+
+- `long_description`: We focus on capability gaps and safety benchmarks so that AI agents can be trusted to run businesses autonomously. → ORO AI is an applied AI research lab. We build high-fidelity simulation environments grounded in real data to teach AI the tacit knowledge required to run sa...
+
+### [Halmos Labs](https://www.ycombinator.com/companies/halmos-labs)
+
+- `long_description`: Halmos Labs rebuilds the drug development infrastructure around agents. To prove the future, we are aiming to have our AI be the first to bring a drug to mar... → The drug development pipeline is built around humans. Other AI biotech companies build automation around the established infrastructure. Halmos Labs rebuilds...
+- `one_liner`: Rebuilding the drug discovery pipeline around agents → Rebuilding drug development for automation
+- `tags`: ["AI-powered Drug Discovery","Swarm AI","Biotech"] → ["AI-powered Drug Discovery","Auto Commerce","Swarm AI","Biotech","Automation"]
+
+### [Latent](https://www.ycombinator.com/companies/trylatent)
+
+- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/21bc57f59a4d430a3377808350ec1df0915386dd.png → https://bookface-images.s3.amazonaws.com/small_logos/29af59683c6352485b064baa197eec3355186fcd.png
+
+### [antimattr](https://www.ycombinator.com/companies/antimattr)
+
+- `website`: https://www.antimattr.one/project-mnemosyne?utm_source=bookface&utm_medium=social&utm_campaign=bookface_antimattr_profile → https://www.antimattr.one/project-mnemosyne
 
 ### [Graphide](https://www.ycombinator.com/companies/graphide)
 
-- `long_description`: Coding agents now write more code than teams can check, making verification pipelines the new bottleneck. Graphide builds that verification, starting with CI... → Graphide CI runs your CI 10-20× faster than GitHub runners, and our 24/7 agents optimize the CI itself, not just the machines. For teams with big CI bills th...
-- `one_liner`: CI 10-20× faster than GitHub runners, with a 24/7 agent optimizing it. → 10-20× faster CI runners + 24/7 agent cutting bloated CI bills 70%+
+- `long_description`: Graphide CI runs your CI 10-20× faster than GitHub runners, and our 24/7 agents optimize the CI itself, not just the machines. For teams with big CI bills th... → Graphide CI runs your CI 10-20× faster than GitHub runners on enterprise deployments, and our 24/7 agents optimize the CI itself, not just the machines. For ...
+- `one_liner`: 10-20× faster CI runners + 24/7 agent cutting bloated CI bills 70%+ → 10-20× faster CI runners + 24/7 agent cutting bloated CI bills 70+%
 
-### [Vouch](https://www.ycombinator.com/companies/vouchwealth)
+### [Asim](https://www.ycombinator.com/companies/asim-group)
 
-- `long_description`: Vouch is an AI-native wealth manager for India’s booming middle class. It makes investing and building wealth extremely simple for everyone: connect what you... → Vouch is an AI-native wealth manager for India’s booming middle class. It makes investing and building wealth extremely simple for everyone: connect what you...
-- `one_liner`: The AI wealth manager for every Indian → Personal wealth manager for 100M+ Indian professionals
+- `tags`: ["Deep Learning","Robotic Process Automation","Robotics"] → ["Deep Learning","Hard Tech","Hardware","Robotic Process Automation","Robotics"]
 
-### [Axonnic](https://www.ycombinator.com/companies/axonnic)
+### [Composal](https://www.ycombinator.com/companies/composal)
 
-- `one_liner`: Bringing human dexterity to every robot → Creating human skill at robot scale
+- `long_description`: Check features, not code. Composal sends a swarm of agents to use your product like your users do. They test real flows and edge cases to show you what works... → Composal gives engineers always-on agents that work in the cloud, each with its own computer, Slack handle and memory. An engineer gives one a standing order...
+- `one_liner`: Swarms of agents acting like users to find bugs before release → Always-on agents that keep working after engineers log off
 
-### [Acyclic Labs](https://www.ycombinator.com/companies/acyclic)
+### [Clean](https://www.ycombinator.com/companies/clean)
 
-- `long_description`: Acyclic builds the infrastructure for agent swarms: open-source primitives for running agents in parallel, and a managed agents platform that runs swarms for... → We’re building the foundations of agent swarms that can materially accelerate all work: benchmarks to measure model capabilities, models trained to coordinat...
-- `one_liner`: Agent swarms that make long-running tasks exponentially faster → Benchmarks, RL envs and infra for scaling agent swarms
-- `tags`: ["Swarm AI","Open Source"] → ["Swarm AI","Open Source","Data Engineering","Infrastructure","AI"]
+- `long_description`: Every B2B sale comes down to timing. Clean reads thousands of signals across 1,000+ live sources, puts them in order, and predicts the moment a company is re... → Agents can run outreach on their own now. In manufacturing, insurance, defense and banking, buying runs on a clock. Every deal has a transaction window almos...
+- `one_liner`: We predict when a company is about to buy. → Revenue intelligence for agents and sales teams.
+- `tags`: ["Deep Learning","SaaS"] → ["SaaS"]
+- `website`: http://www.tryclean.ai → https://www.tryclean.ai/
 
-### [Rezora IO](https://www.ycombinator.com/companies/rezora-io)
+### [The Agentic Data Co.](https://www.ycombinator.com/companies/the-agentic-data-co)
 
-- `one_liner`: AI voice agents for home services and real estate → Shopify for AI voice agents: home services live in 10 minutes
+- `one_liner`: Training Data For Speech Models. → Training data for speech models
 
-### [Cyclon](https://www.ycombinator.com/companies/cyclon)
+### [Mnemonic Labs](https://www.ycombinator.com/companies/mnemonic-labs)
 
-- `tags`: ["Hardware","Consumer","AI"] → ["Hardware","Consumer","Telecommunications","AI","AI Assistant"]
+- `one_liner`: DeepMind for Financial Markets → OpenAI for Financial Markets
+
+### [Proto](https://www.ycombinator.com/companies/proto)
+
+- `long_description`:  → Designers are no longer drawers, but builders. Yet their canvas based design tools are still built for drawing, and the coding agents they’re using are built...
+- `one_liner`: A design tool with the accuracy of Cursor & creative freedom of Figma → The product designer's coding agent
 
 ### [GatherHQ](https://www.ycombinator.com/companies/gatherhq)
 
-- `long_description`: Gather's AI interviews real buyers and turns what it learns into content that drives pipeline and simulations that predict customer behavior. More than 65 en... → Gather's long horizon agent serves enterprise GTM teams by continually interviewing real buyers and turning what it learned into content that drives pipeline...
-- `one_liner`: An API for how buyers think → Applied AI for Enterprise GTM
+- `one_liner`: Applied AI for Enterprise GTM → Applied AI for Enterprise GTM (3X founders, 10X growth, backed by ANT)
 

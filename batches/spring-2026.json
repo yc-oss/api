@@ -1910,7 +1910,7 @@
       "Andustry",
       "Standard Gaussian"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9cad618041deb29b222958392d35d6e8a7e0d845.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9778771a5d790c8f95eaa5d5c9133478794b49da.png",
     "website": "http://andustry.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
@@ -1919,9 +1919,7 @@
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1773916364,
-    "tags": [
-      "Trading"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -5306,22 +5304,24 @@
   },
   {
     "id": 31480,
-    "name": "Pops",
-    "slug": "pops",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ff1807225bc4aea4a50ef4d5315e963925c04afd.png",
-    "website": "https://pops.fyi",
+    "name": "Current",
+    "slug": "current",
+    "former_names": [
+      "Pops"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a81a3029d5d0e8401db806e65117e6a53ebe8c70.png",
+    "website": "https://joincurrent.io",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Pops lets people play, remix, and share AI games with friends.\r\n\r\nDiscover an infinite feed of games, challenges, quizzes, and other fun interactive experiences made by others. Every play instantly becomes a funny gameplay/reaction video you can send to friends, post online, or use to challenge someone to beat your score.\r\n\r\nFor creators, Pops makes it easier than ever to bring ideas to life and get them played. Instead of learning complex game engines, writing code, or fighting for distribution, anyone can create or remix a playable game in seconds. Bring your ideas, and Pops brings the audience.",
-    "one_liner": "Create & play AI games with friends",
+    "long_description": "Current is an opinionated way to work with your coding agents. It lets you run hundreds of agents while staying in control.\r\n\r\nThe problem with running agents in parallel isn't their intelligence. It's your attention. You end up scrolling walls of text and tool calls, looking for answers you'd already been given.\r\n\r\nSo Current drops the chat entirely and focuses on your agents' outputs, not their inputs. Everything is an issue, from a quick fix to a big project with sub-issues. You write it, and your agents pick it up and deliver.\r\n\r\nWhen they're done, they notify you and show you what they made: a report, a chart, a before and after video, or an interactive app that shows their work. You review the work, not how they got there. Comment and the agent goes back to work. Approve and it merges.\r\n\r\nCurrent is built with Current. It's free on Mac, Windows, Linux and iPhone, and works with Claude Code, Codex, Cursor, OpenCode and many more agents.",
+    "one_liner": "Run hundreds of coding agents and stay in control",
     "team_size": 1,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Gaming",
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1778022680,
     "tags": [
-      "Consumer",
-      "Gaming",
-      "Social",
+      "Developer Tools",
+      "Productivity",
+      "Collaboration",
       "AI"
     ],
     "tags_highlighted": [],
@@ -5331,8 +5331,8 @@
     "batch": "Spring 2026",
     "status": "Active",
     "industries": [
-      "Consumer",
-      "Gaming"
+      "B2B",
+      "Engineering, Product and Design"
     ],
     "regions": [
       "United States of America",
@@ -5344,8 +5344,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pops",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/pops.json"
+    "url": "https://www.ycombinator.com/companies/current",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/current.json"
   },
   {
     "id": 31481,
@@ -6559,11 +6559,11 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/66c948c30bb6ef7a235b3bf6ee7bcb0964990077.png",
     "website": "https://ardentech.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Arden is the AI-native platform for internal audit and SOX teams.\r\n\r\nWe build AI agents that automatically pull evidence from your stack, test controls end-to-end, and produce audit-ready workpapers in minutes instead of weeks.\r\n\r\nInternal audit is a massive but underserved market. Every public company in the US is required to do SOX testing, yet teams still run it through spreadsheets and screenshots. Arden is the engine that does this work.",
-    "one_liner": "AI-native internal audit firm",
-    "team_size": 2,
+    "long_description": "Arden is building AI that runs factories. We connect every machine, sensor, operator and piece of software in a plant into a live model of how the factory actually works. From there, our agents schedule production, monitor machines in real time, model capacity and cost, and handle quoting and purchasing.\r\n\r\nOur mission is to arm American factories with frontier intelligence and make them the most productive in the world.",
+    "one_liner": "AI operating system for factories",
+    "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
+    "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1778059206,
     "tags": [],
     "tags_highlighted": [],
@@ -6574,7 +6574,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Finance and Accounting"
+      "Supply Chain and Logistics"
     ],
     "regions": [
       "United States of America",

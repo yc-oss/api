@@ -23263,8 +23263,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/361f4cc73d27e788a8d1f92355ba04c3d71218ee.png",
     "website": "https://www.runanywhere.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "RunAnywhere runs open-weight models at full speed wherever a company needs them. Wally is our inference stack for open models: serverless inference, BYOC, or on-prem, so code and data never leave their network. One command puts a Wally-served model inside Claude Code, DeepSeek Harness, OpenCode, Hermes, OpenClaw, etc. When a model fits on the device, the same tooling runs it locally through our open-source SDKs for iOS, Android, macOS, Windows, Linux, and web, built on kernels written by our agentic harness for Apple and Qualcomm silicon (10K+ GitHub stars).",
-    "one_liner": "Fastest inference anywhere: open models on-prem, hosted or on-device",
+    "long_description": "Inference research at the frontier. Our agents build the kernels for each chip, and Wally ships the tokens.\r\n\r\nWe're RunAnywhere (YC W26), a research-led inference company, and you can use frontier open models like GLM-5.3-Flash, DeepSeek V4.1 Flash, Kimi K3 and MiniMax M3 on Wally today. Wally has an OpenAI-compatible API and the wally CLI, with zero data retention by default, and it works with OpenCode, Claude Code, Codex, Hermes and Cline. Tell your agent: set up https://runanywhere.ai/SKILL.md\r\n\r\nFor AWS Trainium, trnRT is our open-source (Apache-2.0) LLM inference engine. Aman Swar and Sanchit Monga's post covers serving GLM-5.3-Flash on one Trainium2 box: https://runanywhere.ai/blog/glm-5-3-flash-trainium2-nki-megakernels\r\n\r\nFor on-device AI, the open-source RunAnywhere SDKs share a C++ core across Swift, Kotlin, React Native, Flutter, TypeScript and C++.\r\n\r\nWe publish how we measured each result, so you can judge whether it applies to your workload. Happy to help any YC founder running coding agents, long-context workloads or on-device models.",
+    "one_liner": "Inference research at the frontier. Frontier open models on Wally.",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -24021,6 +24021,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/reason-machines",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/reason-machines.json"
+  },
+  {
+    "id": 31480,
+    "name": "Current",
+    "slug": "current",
+    "former_names": [
+      "Pops"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a81a3029d5d0e8401db806e65117e6a53ebe8c70.png",
+    "website": "https://joincurrent.io",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "Current is an opinionated way to work with your coding agents. It lets you run hundreds of agents while staying in control.\r\n\r\nThe problem with running agents in parallel isn't their intelligence. It's your attention. You end up scrolling walls of text and tool calls, looking for answers you'd already been given.\r\n\r\nSo Current drops the chat entirely and focuses on your agents' outputs, not their inputs. Everything is an issue, from a quick fix to a big project with sub-issues. You write it, and your agents pick it up and deliver.\r\n\r\nWhen they're done, they notify you and show you what they made: a report, a chart, a before and after video, or an interactive app that shows their work. You review the work, not how they got there. Comment and the agent goes back to work. Approve and it merges.\r\n\r\nCurrent is built with Current. It's free on Mac, Windows, Linux and iPhone, and works with Claude Code, Codex, Cursor, OpenCode and many more agents.",
+    "one_liner": "Run hundreds of coding agents and stay in control",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1778022680,
+    "tags": [
+      "Developer Tools",
+      "Productivity",
+      "Collaboration",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "Garry",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/current",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/current.json"
   },
   {
     "id": 31495,
@@ -25448,7 +25493,7 @@
     "website": "https://armorerlabs.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Armorer helps companies in regulated industries ship their own AI systems faster and keep them secure in production.\r\n\r\nMost security tools flag an issue and file a ticket. Armorer assesses your agent and simulates attacks to find the real issues. Then it creates a verified fix that stops the attack without breaking the business, ready for your approval in about 4 hours.\r\n\r\nIn production, Armorer checks every agent action in milliseconds, with no GPU needed. It detects malicious behavior such as prompt injection, goal hijacking and data leaks, then allows, holds or denies the action.\r\n\r\nArmorer's detection models beat every other detector we tested on six public benchmarks. Armorer is 22% more accurate than JEV while being 88x faster, so users won't feel the delay.\r\n\r\nWe spent years building and evaluating AI security systems together at AWS, including its first customer-facing AI security agent, which scaled to 100k+ customers. Armorer is backed by Paul Vixie, an internet pioneer inducted into the Internet Hall of Fame in 2014.",
-    "one_liner": "Continuous security verification for AI systems in regulated…",
+    "one_liner": "Continuous security verification for AI in regulated industries",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
@@ -26020,8 +26065,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e1f6f0a97f11c72c78bdc6875df0e065a154770.png",
     "website": "https://composal.com",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "Check features, not code. Composal sends a swarm of agents to use your product like your users do. They test real flows and edge cases to show you what works, what breaks, and if it’s ready to ship.",
-    "one_liner": "Swarms of agents acting like users to find bugs before release",
+    "long_description": "Composal gives engineers always-on agents that work in the cloud, each with its own computer, Slack handle and memory. An engineer gives one a standing order, like “watch Sentry, fix new errors, get the fix reviewed and ship it,” and it keeps going after the laptop closes. Our QA agents test every pull request by using the app like a real user, and have found over 1,500 bugs in customers’ apps since mid-October.",
+    "one_liner": "Always-on agents that keep working after engineers log off",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",

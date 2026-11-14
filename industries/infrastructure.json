@@ -10001,10 +10001,10 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e611bab66e36c7b14163abfaf0665e260a2ac3e2.png",
     "website": "https://pgdog.dev",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "PgDog is an application for sharding PostgreSQL. It understands SQL and can distribute queries automatically between databases. It's built for managed databases, like AWS RDS, and doesn't require any changes to application code or schema.\r\n\r\nIn addition to sharding, PgDog is a load balancer and pooler, so it can act as a replacement for PgBouncer, RDS Proxy, and other Postgres scaling products. It brings the simplicity and performance of HTTP load balancing to the database.\r\n\r\nBuilt from the experience of sharding Postgres at Instacart during peak growth in 2020, PgDog is the answer to the old question: does Postgres scale? It does now.",
     "one_liner": "Scaling engine for PostgreSQL",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1745009582,
@@ -10025,7 +10025,7 @@
       "United States of America",
       "America / Canada",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "stage": "Early",
     "partners": "Garry",
@@ -11602,8 +11602,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/361f4cc73d27e788a8d1f92355ba04c3d71218ee.png",
     "website": "https://www.runanywhere.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "RunAnywhere runs open-weight models at full speed wherever a company needs them. Wally is our inference stack for open models: serverless inference, BYOC, or on-prem, so code and data never leave their network. One command puts a Wally-served model inside Claude Code, DeepSeek Harness, OpenCode, Hermes, OpenClaw, etc. When a model fits on the device, the same tooling runs it locally through our open-source SDKs for iOS, Android, macOS, Windows, Linux, and web, built on kernels written by our agentic harness for Apple and Qualcomm silicon (10K+ GitHub stars).",
-    "one_liner": "Fastest inference anywhere: open models on-prem, hosted or on-device",
+    "long_description": "Inference research at the frontier. Our agents build the kernels for each chip, and Wally ships the tokens.\r\n\r\nWe're RunAnywhere (YC W26), a research-led inference company, and you can use frontier open models like GLM-5.3-Flash, DeepSeek V4.1 Flash, Kimi K3 and MiniMax M3 on Wally today. Wally has an OpenAI-compatible API and the wally CLI, with zero data retention by default, and it works with OpenCode, Claude Code, Codex, Hermes and Cline. Tell your agent: set up https://runanywhere.ai/SKILL.md\r\n\r\nFor AWS Trainium, trnRT is our open-source (Apache-2.0) LLM inference engine. Aman Swar and Sanchit Monga's post covers serving GLM-5.3-Flash on one Trainium2 box: https://runanywhere.ai/blog/glm-5-3-flash-trainium2-nki-megakernels\r\n\r\nFor on-device AI, the open-source RunAnywhere SDKs share a C++ core across Swift, Kotlin, React Native, Flutter, TypeScript and C++.\r\n\r\nWe publish how we measured each result, so you can judge whether it applies to your workload. Happy to help any YC founder running coding agents, long-context workloads or on-device models.",
+    "one_liner": "Inference research at the frontier. Frontier open models on Wally.",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -13439,25 +13439,29 @@
   },
   {
     "id": 32202,
-    "name": "Dialogus",
-    "slug": "dialogus",
+    "name": "Duet Machines",
+    "slug": "duet-machines",
     "former_names": [
       "Zyra",
       "Dialogus",
-      "Dialogus Labs"
+      "Dialogus Labs",
+      "Dialogus"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7df204d91879e8e730b8993b754b3d35b87106e.png",
-    "website": "https://www.dialoguslabs.com/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a49fc44e43023960f464a3781081400ac6041082.png",
+    "website": "https://duetmachines.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "voice AI agents that learn how your company actually works",
+    "long_description": "We post-train small open models on your AI agent's production traffic, prove them against your experts' graders, and roll them out gate by gate to replace frontier APIs at a fraction of the cost.",
+    "one_liner": "Specialized models that replace your frontier API",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1782528923,
     "tags": [
+      "Machine Learning",
+      "Reinforcement Learning",
       "B2B",
-      "Customer Support"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -13479,8 +13483,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dialogus",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/dialogus.json"
+    "url": "https://www.ycombinator.com/companies/duet-machines",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/duet-machines.json"
   },
   {
     "id": 32227,
@@ -14445,7 +14449,7 @@
     "website": "https://www.perceptuallabs.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "Building the next generation of visual intelligence",
+    "one_liner": "Building intelligence that can understand and rewrite itself",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",

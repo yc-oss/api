@@ -17950,7 +17950,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "partners": "Tom",
     "app_video_public": false,
     "demo_day_video_public": false,
@@ -26219,6 +26219,51 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/armature.json"
   },
   {
+    "id": 31480,
+    "name": "Current",
+    "slug": "current",
+    "former_names": [
+      "Pops"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a81a3029d5d0e8401db806e65117e6a53ebe8c70.png",
+    "website": "https://joincurrent.io",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "Current is an opinionated way to work with your coding agents. It lets you run hundreds of agents while staying in control.\r\n\r\nThe problem with running agents in parallel isn't their intelligence. It's your attention. You end up scrolling walls of text and tool calls, looking for answers you'd already been given.\r\n\r\nSo Current drops the chat entirely and focuses on your agents' outputs, not their inputs. Everything is an issue, from a quick fix to a big project with sub-issues. You write it, and your agents pick it up and deliver.\r\n\r\nWhen they're done, they notify you and show you what they made: a report, a chart, a before and after video, or an interactive app that shows their work. You review the work, not how they got there. Comment and the agent goes back to work. Approve and it merges.\r\n\r\nCurrent is built with Current. It's free on Mac, Windows, Linux and iPhone, and works with Claude Code, Codex, Cursor, OpenCode and many more agents.",
+    "one_liner": "Run hundreds of coding agents and stay in control",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1778022680,
+    "tags": [
+      "Developer Tools",
+      "Productivity",
+      "Collaboration",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "Garry",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/current",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/current.json"
+  },
+  {
     "id": 31491,
     "name": "e2e",
     "slug": "e2e",
@@ -27334,8 +27379,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4fa8d15d930712db8c5f88de73e777865076822.png",
     "website": "https://getopencrawl.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "OpenCrawl proactively steers your agents so they meet their goals in fewer turns.\r\n\r\nWe ingest context from your other agents, your teammates and your tools already have.",
-    "one_liner": "Shared context for your agents.",
+    "long_description": "OpenCrawl is an open-source platform that lets AI coding agents work as a team.\r\n\r\nEngineering teams now run many agents at once, across Claude Code, Codex, laptops, and cloud environments. Each one works alone, so engineers spend their time moving context between agents and cleaning up duplicated work and conflicting changes.\r\n\r\nOpenCrawl gives every agent your team runs a shared memory and a way to talk to each other. Agents can search what other agents have already done and decided, and coordinate their work as it happens. It works with any agent, any model, and any machine you control, and you can host it yourself.",
+    "one_liner": "Multiplayer for your coding agents.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -27505,7 +27550,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b66a9717c54294ba9f6e296bb8c04f9c3da74d27.png",
     "website": "https://www.oroagents.com",
     "all_locations": "Vancouver, BC, Canada",
-    "long_description": "We focus on capability gaps and safety benchmarks so that AI agents can be trusted to run businesses autonomously.",
+    "long_description": "ORO AI is an applied AI research lab. We build high-fidelity simulation environments grounded in real data to teach AI the tacit knowledge required to run safe and profitable autonomous businesses.\r\n\r\nOur first public benchmark, SMB Bench, puts a frontier model in charge of a produce wholesaler's buying desk for a simulated 90-day quarter, where shortages and supplier failures have delayed effects. The report, leaderboard and every run are available: https://oroagents.com/benchmarks/smb-bench\r\n\r\nSMB Bench is a step toward our longer-term goal of having AI as an independent economic actor that can safely run profitable businesses.",
     "one_liner": "RL environments & simulations for autonomous businesses.",
     "team_size": 2,
     "industry": "B2B",
@@ -27715,6 +27760,52 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/resin-technologies.json"
   },
   {
+    "id": 36543,
+    "name": "Dualizer",
+    "slug": "dualizer",
+    "former_names": [
+      "EntroPINN"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5dfc06f5151a1bc751d8af0c4298d0e845be5e5d.png",
+    "website": "https://dualizer.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Dualizer builds AI-powered, physics-based process simulation and digital twins to design and scale chemical processes and optimize existing plants. We help engineering teams identify bottlenecks, increase yield and throughput, and reduce energy and production costs—improving plant efficiency and profitability.\r\n\r\nThe platform combines AI reasoning, our proprietary deterministic simulation and optimization engine, and physics-informed machine learning. Engineers can build, calibrate, and refine models through conversation, starting from a diagram, available data, or an engineering objective. Calculations account for thermodynamics, material and energy balances, equipment behavior, and operating constraints, enabling teams to optimize interconnected equipment and operating conditions across a plant.\r\n\r\nEquipment sizing and costing, 3D layout planning, and techno-economic analysis connect process improvements to plant-level decisions. Teams can accelerate new process scale-up, debottleneck operating plants, and continually refine operating strategies as production targets and plant conditions change. Dualizer makes rigorous simulation and optimization an ongoing capability for improving industrial productivity and profitability throughout a plant’s life.",
+    "one_liner": "AI-powered physical simulation to design/optimize chemical processes",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1794569993,
+    "tags": [
+      "Hard Tech",
+      "Machine Learning",
+      "SaaS",
+      "Manufacturing",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "Christopher",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/dualizer",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/dualizer.json"
+  },
+  {
     "id": 36972,
     "name": "Composal",
     "slug": "composal",
@@ -27725,8 +27816,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e1f6f0a97f11c72c78bdc6875df0e065a154770.png",
     "website": "https://composal.com",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "Check features, not code. Composal sends a swarm of agents to use your product like your users do. They test real flows and edge cases to show you what works, what breaks, and if it’s ready to ship.",
-    "one_liner": "Swarms of agents acting like users to find bugs before release",
+    "long_description": "Composal gives engineers always-on agents that work in the cloud, each with its own computer, Slack handle and memory. An engineer gives one a standing order, like “watch Sentry, fix new errors, get the fix reviewed and ship it,” and it keeps going after the laptop closes. Our QA agents test every pull request by using the app like a real user, and have found over 1,500 bugs in customers’ apps since mid-October.",
+    "one_liner": "Always-on agents that keep working after engineers log off",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -27855,8 +27946,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/866ee3646a792a9ad235a6201c3aae8380279ba8.png",
     "website": "https://www.prototypes.fun/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "A design tool with the accuracy of Cursor & creative freedom of Figma",
+    "long_description": "Designers are no longer drawers, but builders. Yet their canvas based design tools are still built for drawing, and the coding agents they’re using are built for engineers. Proto is a coding agent with all the capabilities of Claude Code, but rebuilt from scratch for designers, with features like Midjourney’s rapid idea exploration, and Figma’s first class sharing.",
+    "one_liner": "The product designer's coding agent",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
