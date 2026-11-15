@@ -22569,7 +22569,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "partners": "Aaron",
     "app_video_public": false,
     "demo_day_video_public": false,
@@ -27002,49 +27002,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/julius.json"
   },
   {
-    "id": 26671,
-    "name": "Ciro",
-    "slug": "ciro",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/466edf3d5433822ec078c82bac288ce34e17b342.png",
-    "website": "https://www.ciro.io/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ciro is an AI agent that finds prospects, researches their buying signals, and drafts personalized outreach, all from Slack.\r\n\r\nTell it who you sell to. It finds the right people, figures out why now is the right time to reach out, and writes outreach that sounds like your best rep did 30 minutes of research.\r\n\r\nWelcome to the future of selling.",
-    "one_liner": "GTM AI that books you 5-8 meetings/week",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1656551400,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Sales",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "partners": "Brad",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ciro",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/ciro.json"
-  },
-  {
     "id": 26704,
     "name": "Two Dots",
     "slug": "two-dots",
@@ -27989,50 +27946,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/newscatcher",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/newscatcher.json"
-  },
-  {
-    "id": 26863,
-    "name": "Provision",
-    "slug": "provision",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/385a0231f7ab5d980e79ffdfbfa16bc2183b283d.png",
-    "website": "https://provision.com",
-    "all_locations": "Toronto, ON, Canada",
-    "long_description": "Provision is building the AI Estimator for construction. We identify risks and obligations in contracts, specs, and drawings so contractors can reduce time spent reviewing documents and focus on winning and delivering projects profitably. Backed by Y Combinator (S22).",
-    "one_liner": "Ironclad for construction",
-    "team_size": 15,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1653315975,
-    "tags": [
-      "Documents",
-      "Machine Learning",
-      "Construction",
-      "Productivity",
-      "NLP"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "Canada",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "partners": "Gustaf",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/provision",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/provision.json"
   },
   {
     "id": 26870,
@@ -57633,8 +57546,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/361f4cc73d27e788a8d1f92355ba04c3d71218ee.png",
     "website": "https://www.runanywhere.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Inference research at the frontier. Our agents build the kernels for each chip, and Wally ships the tokens.\r\n\r\nWe're RunAnywhere (YC W26), a research-led inference company, and you can use frontier open models like GLM-5.3-Flash, DeepSeek V4.1 Flash, Kimi K3 and MiniMax M3 on Wally today. Wally has an OpenAI-compatible API and the wally CLI, with zero data retention by default, and it works with OpenCode, Claude Code, Codex, Hermes and Cline. Tell your agent: set up https://runanywhere.ai/SKILL.md\r\n\r\nFor AWS Trainium, trnRT is our open-source (Apache-2.0) LLM inference engine. Aman Swar and Sanchit Monga's post covers serving GLM-5.3-Flash on one Trainium2 box: https://runanywhere.ai/blog/glm-5-3-flash-trainium2-nki-megakernels\r\n\r\nFor on-device AI, the open-source RunAnywhere SDKs share a C++ core across Swift, Kotlin, React Native, Flutter, TypeScript and C++.\r\n\r\nWe publish how we measured each result, so you can judge whether it applies to your workload. Happy to help any YC founder running coding agents, long-context workloads or on-device models.",
-    "one_liner": "Inference research at the frontier. Frontier open models on Wally.",
+    "long_description": "Inference research at the frontier. We make frontier open models faster and cheaper on Wally.\r\n\r\nWe're RunAnywhere (YC W26). You can use frontier open models like GLM-5.3-Flash, DeepSeek V4.1 Flash, Kimi K3 and MiniMax M3 on Wally today. Wally has an OpenAI-compatible API and the wally CLI, with zero data retention by default, and it works with OpenCode, Claude Code, Codex, Hermes and Cline. Tell your agent: set up https://runanywhere.ai/SKILL.md\r\n\r\nOur engineers and AI agents build the kernels and the serving stack for each chip. For AWS Trainium, trnRT is our open-source (Apache-2.0) LLM inference engine; Aman Swar and Sanchit Monga's post covers serving GLM-5.3-Flash on one Trainium2 box: https://runanywhere.ai/blog/glm-5-3-flash-trainium2-nki-megakernels\r\n\r\nFor on-device AI, the open-source RunAnywhere SDKs share a C++ core across Swift, Kotlin, React Native, Flutter, TypeScript and C++.\r\n\r\nWe publish how we measured each result. Happy to help any YC founder running coding agents, long-context workloads or on-device models.",
+    "one_liner": "Inference research at the frontier. Faster, cheaper frontier models…",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -58604,11 +58517,16 @@
     "all_locations": "New York City, NY, USA",
     "long_description": "Advertising today is like trading in the 1980s pits: archaic, manual, and iterative guesswork. Humans update bids and keywords with noisy, delayed data using simple if-else rules that both break at scale and ignore stochasticity.\r\n\r\nLaurence advertises like modern hedge funds trade markets, driving a 15-40% improvement in net profit for Amazon brands within a month of onboarding.",
     "one_liner": "Agents that run your Amazon ads",
-    "team_size": 2,
+    "team_size": 12,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1767919574,
-    "tags": [],
+    "tags": [
+      "E-commerce",
+      "Marketing",
+      "Advertising",
+      "Market Research"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -60065,6 +59983,53 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/wayco.json"
   },
   {
+    "id": 31304,
+    "name": "Litmus",
+    "slug": "litmus-hiring",
+    "former_names": [
+      "Avert",
+      "Litmus",
+      "Avert"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4a9f14022a002a449869ff376c950e1a9966d580.png",
+    "website": "https://litmushiring.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "At Litmus, we’re building evals for humans and redefining how talent is evaluated. Teams like Mercor, Wispr, Composio, Neo Scholars, Astranis, and more are already using Litmus to build their technical teams.\r\n\r\nEvery company in the world will soon be powered by neo-humans (agent assisted people). But building evals to measure neo-human performance is unexplored and difficult. It requires systematically benchmarking neo-human capabilities and failure modes across all sectors of knowledge work, developing reproducible environments that test neo-human performance on complex tasks, and designing causal attribution frameworks over execution trajectories to identify and validate reproducible action sequences and decision patterns that lead to successful outcomes.\r\n\r\nAt Litmus, we’re solving this problem. We deliver hiring insights to companies by capturing how candidates use tools, reason, and make decisions in their interviews, giving agentic graders the evidence to evaluate candidate skillset and predict job performance.",
+    "one_liner": "Evals for humans",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1783537104,
+    "tags": [
+      "Recruiting",
+      "Data Engineering",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "partners": "Jared",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/litmus-hiring",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/litmus-hiring.json"
+  },
+  {
     "id": 31311,
     "name": "Cardinal",
     "slug": "trycardinal-ai",
@@ -60615,8 +60580,8 @@
       "Hub.xyz",
       "Hub"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4807c17f08dbbfbdd8f51297746a838ba6db58c1.png",
-    "website": "https://hublabs.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5920a6de1493f3a7f90eb7e7b496a7d5c6e307f4.png",
+    "website": "https://hub.xyz",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Hub deploys hardware and embodied machines to collect data for robotics labs, to produce labor output for real world businesses.",
     "one_liner": "Deployment and data infrastructure for Embodied AI.",
@@ -64330,7 +64295,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/55429f385c4236607558b3361f53a3e2676a6d8b.png",
     "website": "https://bayworks.app",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Self-driving companies record every mile a car drives. Nobody records how it gets fixed.\r\n\r\nWe capture how technicians fix cars and use it to run the dealership’s operations, making every repair faster and more consistent.\r\n\r\nIn four months, we have gone from 0 to $843K in cARR across six dealership groups, including a top-50 US group ($3Bn annual revenue), and have powered over 50,000 repairs.",
+    "long_description": "Bayworks captures how expert technicians fix cars and uses that knowledge to guide every technician through diagnosis and repair in real time, and to automate the admin work that follows.\r\n\r\nThis knowledge grows with every repair captured, across every car model and technician. Next, it will guide robots through the same repairs.\r\n\r\nIn four months, we have gone from zero to nearly seven figures in cARR, across 6 dealership groups including a top-50 US dealer ($3Bn annual revenue), and have powered over 50,000 repairs.\r\n",
     "one_liner": "Intelligence that keeps America’s vehicles running",
     "team_size": 2,
     "industry": "Industrials",
@@ -64765,7 +64730,7 @@
     "website": "https://preload.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Designing and iterating a multimodal hardware stack (currently ego + tactile gloves + EMG) to collect rich and scalable datasets for physical AI. Also interested in how we can use this technology to advance surgery.\r\n\r\nBuilt by PhD founders (Johns Hopkins, Caltech) with world-class expertise in brain-computer interfaces (Neuralink, Meta, Paradromics)",
-    "one_liner": "Sensorimotor context for physical AI",
+    "one_liner": "Multisensory systems (EMG+tactile+video) for training physical AI",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -64798,6 +64763,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/preload",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/preload.json"
+  },
+  {
+    "id": 36543,
+    "name": "Dualizer",
+    "slug": "dualizer",
+    "former_names": [
+      "EntroPINN"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5dfc06f5151a1bc751d8af0c4298d0e845be5e5d.png",
+    "website": "https://dualizer.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Dualizer builds AI-powered, physics-based process simulation and digital twins to design and scale chemical processes and optimize existing plants. We help engineering teams identify bottlenecks, increase yield and throughput, and reduce energy and production costs—improving plant efficiency and profitability.\r\n\r\nThe platform combines AI reasoning, our proprietary deterministic simulation and optimization engine, and physics-informed machine learning. Engineers can build, calibrate, and refine models through conversation, starting from a diagram, available data, or an engineering objective. Calculations account for thermodynamics, material and energy balances, equipment behavior, and operating constraints, enabling teams to optimize interconnected equipment and operating conditions across a plant.\r\n\r\nEquipment sizing and costing, 3D layout planning, and techno-economic analysis connect process improvements to plant-level decisions. Teams can accelerate new process scale-up, debottleneck operating plants, and continually refine operating strategies as production targets and plant conditions change. Dualizer makes rigorous simulation and optimization an ongoing capability for improving industrial productivity and profitability throughout a plant’s life.",
+    "one_liner": "AI-powered physical simulation to design/optimize chemical processes",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1794569993,
+    "tags": [
+      "Hard Tech",
+      "Machine Learning",
+      "SaaS",
+      "Manufacturing",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "Christopher",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/dualizer",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/dualizer.json"
   },
   {
     "id": 36974,
