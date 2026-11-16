@@ -2550,6 +2550,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/hyperprobe.json"
   },
   {
+    "id": 33250,
+    "name": "isoquant",
+    "slug": "isoquant",
+    "former_names": [
+      "Agent FM",
+      "Isoquant"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2393ff6f2bb8fa724b4d08301f7b560ba116be78.png",
+    "website": "https://isoquant.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Speed is the moat. Our auto-research agents continuously optimize and iterate on the inference stack to push the limits of speed and cost efficiency, tuned for our customer workloads and hardware. We serve 4x faster open models than other providers in prod crossing 1200 tokens/sec and sub-500ms latency. \r\n\r\nWant ultra fast inference API or 4x more performance out of your existing hardware? Reach out to founders@isoquant.ai or book a time https://isoquant.ai/contact\r\n",
+    "one_liner": "Self-optimizing inference cloud for 4x faster open models",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1785890886,
+    "tags": [
+      "AIOps",
+      "Cloud Computing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "Brad",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/isoquant",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/isoquant.json"
+  },
+  {
     "id": 33320,
     "name": "OneCLI",
     "slug": "onecli",
@@ -2743,7 +2787,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1ff98253605935aaa53bb31e8330be6a74309c6d.png",
     "website": "https://veeza.ai",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Billions of people need tourist visas to travel the world. We use AI agents to prepare applications, verify documents, secure appointments, and handle the visa process end to end.\r\n",
     "one_liner": "AI tourist visa agent for people with weak passports.",
     "team_size": 2,
@@ -2766,7 +2810,8 @@
       "Travel, Leisure and Tourism"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "partners": "Grey",
@@ -2776,50 +2821,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/veeza-ai",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/veeza-ai.json"
-  },
-  {
-    "id": 35258,
-    "name": "Mirrors",
-    "slug": "mirrors",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e98a564b21ba044528e16126406d35b7464044b7.png",
-    "website": "https://www.mirrors.dev",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Production AI agents keep making the same mistakes. The usual fix is another line in the system prompt. Over time, the agent carries instructions for dozens of situations, even when it’s doing something simple, and every correction becomes another thing to maintain.\r\n\r\nMirrors lets developers maintain production agents by turning recurring mistakes into targeted corrections. It surfaces recurring mistakes across production runs. Developers write a correction, choose the situations where it applies, and preview its scope against past conversations. Once activated, Mirrors adds the correction to the agent only in those situations. Developers can then compare outcomes with and without the correction to see whether it helps. Unlike skills, the agent doesn’t decide what to load. The scope developers set does.\r\n\r\nCorrections live in one place, scoped to the right accounts and workflows. Mirrors connects through an SDK and works with any agent framework. The application keeps control of its model calls and tools.",
-    "one_liner": "Fix recurring AI agent mistakes with real-time guidance",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1789011304,
-    "tags": [
-      "AIOps",
-      "Developer Tools",
-      "SaaS",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "partners": "Andrew",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mirrors",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/mirrors.json"
   },
   {
     "id": 35266,
@@ -2998,6 +2999,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/covera",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/covera.json"
+  },
+  {
+    "id": 36513,
+    "name": "Graphide",
+    "slug": "graphide",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a8a1620a1957b907f1e344c44b332ea9f5af430.png",
+    "website": "https://graphide.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Graphide CI runs your CI 10-20× faster than GitHub runners on enterprise deployments, and our 24/7 agents optimize the CI itself, not just the machines. For teams with big CI bills that haven't been optimized, we cut costs 70%+ and take over the ongoing work of optimizing CI, so you can focus on your product.\r\n\r\nWe're faster and cheaper because we own both the hardware and the optimizations and configs that run on it, which lets us do what owning only one could not. A graph of the codebase runs only the tests each change can reach, and we run your tests in parallel, so your CI is limited only by the length of your longest test. Our agents then tune machines, caches and test splits as you add more tests and code over time. We also patch the tests themselves, fixing flakes and adding our own libraries so they run faster and more reliably.\r\n\r\nCoding agents now write more code than teams can check, making verification the new bottleneck. CI is where we start, but we also cover the rest of the verification stack. Our PR review agent runs the old and new code in live environments, finding bugs and proving them by writing tests (50% more bugs found than Greptile on our benchmarks, with 35% fewer false positives). Our visualizer shows data flows and graph-based diffs so you can understand a PR in seconds.\r\n",
+    "one_liner": "10-20× faster CI runners + 24/7 agent cutting bloated CI bills 70+%",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1792011169,
+    "tags": [
+      "AIOps",
+      "Developer Tools",
+      "B2B",
+      "DevOps",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "Christopher",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/graphide",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/graphide.json"
   },
   {
     "id": 36643,

@@ -15154,7 +15154,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/641db1cdc907f274cb944fd6796edc486aa6d653.png",
     "website": "https://www.icarus.one/",
     "all_locations": "Los Angeles, CA, USA",
-    "long_description": "Icarus is building the modern-day U-2 spy plane. Our autonomous solar aircraft fly at 60,000 feet for weeks at a time, eventually months and years, above weather and below satellites. They deliver persistent intelligence and connectivity for the military at a fraction of the cost of existing systems. The stratosphere is the forgotten frontier.",
+    "long_description": "Icarus is building the modern-day U2 spy plane: autonomous, solar-powered, low-cost. Flying at 60,000 ft, our birds deliver persistent intelligence and communications for the military at a fraction of the cost of existing systems. The stratosphere is the forgotten frontier.",
     "one_liner": "Stratospheric birds for defense",
     "team_size": 50,
     "industry": "Industrials",
@@ -16174,8 +16174,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ce063ef00a3ec0da3649fb79a819c0e6c1e88ebf.png",
     "website": "https://www.humanarchive.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Human Archive (YC W26) is building the data and deployments infrastructure for physical AI.\r\n\r\nWe design hardware, deploy cameras and sensors globally, and train models that help AI better understand how humans interact with the physical world.\r\n\r\nLeading frontier AI labs trust us for their video, sensor, robot deployment, image, and audio datasets.\r\n\r\nWe have offices in SF, China, and India and are researchers from NYU GRAIL, UPenn GRASP, UC Berkeley, Stanford, Johns Hopkins Robotics, and national robotics champions.\r\n\r\nTo get data, please reach out to raj@humanarchive.ai",
-    "one_liner": "Physical AI data lab",
+    "long_description": "Human Archive is a full-stack global infrastructure company for training, evaluating, and deploying Physical AI.",
+    "one_liner": "Infrastructure for Training, Evaluating, and Deploying Physical AI",
     "team_size": 100,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -20372,6 +20372,8 @@
     "subindustry": "Industrials -> Aviation and Space",
     "launched_at": 1789683191,
     "tags": [
+      "Hard Tech",
+      "Hardware",
       "Satellites",
       "Manufacturing",
       "Defense"
@@ -20400,6 +20402,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/inflection-space-systems",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/inflection-space-systems.json"
+  },
+  {
+    "id": 35059,
+    "name": "Central Blue",
+    "slug": "central-blue",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3677cc5165f14459d957f9c303ce436693b0f18.png",
+    "website": "https://www.centralblue.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Spacecraft today have to generate all their own power, which caps what can be built and operated in orbit. Central Blue is building the power grid for space: satellites that collect sunlight and beam power by laser to receiver panels on other spacecraft.\r\n\r\nOur first power-beaming prototype is nearly complete in Seattle, with a laser-powered propulsion demonstration planned with Wave Motion Launch Technologies. Our CORE software will let the power satellites detect faults and recover on their own, keeping the grid running around the clock.",
+    "one_liner": "The power grid for space: we build power-beaming satellites.",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Aviation and Space",
+    "launched_at": 1794778898,
+    "tags": [
+      "Space Exploration",
+      "Aerospace",
+      "Defense"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Aviation and Space"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "Max",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/central-blue",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/central-blue.json"
   },
   {
     "id": 35093,
@@ -21021,7 +21065,8 @@
     "launched_at": 1786491305,
     "tags": [
       "Hard Tech",
-      "Hardware"
+      "Hardware",
+      "Robotics"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21872,6 +21917,49 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/lark-2.json"
   },
   {
+    "id": 37665,
+    "name": "Contour",
+    "slug": "contourholdings",
+    "former_names": [
+      "Bricks"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae0831175e2bfda4e79ecd1dfe31db6e94502492.png",
+    "website": "https://contourholdings.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Contour acquires environmental consulting firms and runs them on Cortex, our AI platform. Its agents produce the reports, studies and permit applications. Customers get work turned around faster and our firms scale capacity without adding headcount.\r\n",
+    "one_liner": "AI-native permitting and compliance for America’s buildout",
+    "team_size": 4,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Energy",
+    "launched_at": 1794785642,
+    "tags": [
+      "Energy",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Energy"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "David",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/contourholdings",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/contourholdings.json"
+  },
+  {
     "id": 37732,
     "name": "Hundred",
     "slug": "hundred",
@@ -22264,7 +22352,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/20d8a5ce151363c695030b892a2be777baa1d339.png",
     "website": "https://viberobotics.co",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Vibe Robotics builds robots for the work nobody should have to repeat.\r\n\r\nEvery day in every hotel, towels go up to rooms, linens move between floors, and stacks of laundry need to be folded before the next guests arrive. It’s hard, physical, and hotels can’t hire enough people to do it.\r\n\r\nVibe 01 is built for exactly that. It carries, delivers and folds. Two arms, a lift column, and a camera head on a base that drives itself through back-of-house hallways and service elevators. It learns by watching people do the job, then does it on its own. Vibe 01 can already fold a towel fully autonomously in 23.8 seconds, a skill it learned from just a few hundred human demonstrations.\r\n\r\nWe’re Archer, Daniel, Katherine and Pranav. We’re starting in hotels and building toward everywhere people work.",
+    "long_description": "Vibe Robotics builds robots for the work nobody should have to repeat.\r\n\r\nWe’re starting in hotels. Every day, housekeeping teams move linens between floors, restock carts, and fold stacks of laundry before the next guests arrive. It’s physical work that has to get done every shift.\r\n\r\nOur first robot, Vibe 01, folds a hand towel fully autonomously in 23.8 seconds. It learned from just a few hundred human demonstrations. We’re piloting Vibe 01 at a Hilton property and working with hotels under the Marriott, Hilton, and IHG brands to bring it to more locations.\r\n\r\nFolding is the first job. Next are restocking housekeeping carts and moving linens between floors. We’re Archer, Daniel, Katherine, and Pranav, and we’re building robots that can learn to do routine physical work across industries.",
     "one_liner": "Robotics workforce for hotels",
     "team_size": 4,
     "industry": "Industrials",

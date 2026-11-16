@@ -1726,49 +1726,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/ashr.json"
   },
   {
-    "id": 31516,
-    "name": "Expanse",
-    "slug": "expanse",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/af6cfe1f95da6fb2bfc1789fb605ed70b77da3b4.png",
-    "website": "https://expanse.sh",
-    "all_locations": "London, England, United Kingdom",
-    "long_description": "Expanse unlocks wasted GPU capacity. We recover idle compute through three capabilities: resource prediction (right-sizing job submissions before they reach the scheduler), optimisation suggestions (code and config changes researchers can apply themselves), and failure prediction (catching jobs that will fail before they consume hours of GPU time).\r\n\r\nWe’re four engineers. We ran HPC and GPU training workloads at the largest quant funds and national supercomputing centres. We faced this problem first hand and the only fix was to over-provision and burn millions. Ismaeel built the first multimodal HPC resource predictor as research at EPCC (Edinburgh’s Parallel Computing Centre), which beat every published baseline. This is the tool we wish we had.",
-    "one_liner": "Unlock wasted GPU capacity.",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1777849866,
-    "tags": [
-      "Deep Learning",
-      "B2B",
-      "Infrastructure",
-      "ML"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United Kingdom",
-      "Europe"
-    ],
-    "stage": "Early",
-    "partners": "David",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/expanse",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/expanse.json"
-  },
-  {
     "id": 31555,
     "name": "rekursiv.ai",
     "slug": "rekursivai",
@@ -2034,8 +1991,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b66a9717c54294ba9f6e296bb8c04f9c3da74d27.png",
     "website": "https://www.oroagents.com",
     "all_locations": "Vancouver, BC, Canada",
-    "long_description": "ORO AI is an applied AI research lab. We build high-fidelity simulation environments grounded in real data to teach AI the tacit knowledge required to run safe and profitable autonomous businesses.\r\n\r\nOur first public benchmark, SMB Bench, puts a frontier model in charge of a produce wholesaler's buying desk for a simulated 90-day quarter, where shortages and supplier failures have delayed effects. The report, leaderboard and every run are available: https://oroagents.com/benchmarks/smb-bench\r\n\r\nSMB Bench is a step toward our longer-term goal of having AI as an independent economic actor that can safely run profitable businesses.",
-    "one_liner": "RL environments & simulations for autonomous businesses.",
+    "long_description": "ORO AI is an applied AI research lab building high-fidelity simulation environments to teach AI to run autonomous businesses. We ground these simulation in real data to teach AI the tacit knowledge required to run safe and profitable businesses.\r\n\r\nOur first public benchmark, SMB Bench, puts a frontier model in charge of a produce wholesaler's buying desk for a simulated 90-day quarter, where shortages and supplier failures have delayed effects. The report, leaderboard and every run are available: https://oroagents.com/benchmarks/smb-bench\r\n\r\nSMB Bench is a step toward our longer-term goal of having AI as an independent economic actor.",
+    "one_liner": "RL environments & simulations to run autonomous businesses.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
