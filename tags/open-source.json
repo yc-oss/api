@@ -3564,10 +3564,10 @@
       "Crypto / Web3"
     ],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -7645,7 +7645,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/96347d910b359b8008029da5fa69b30000efd6d0.png",
     "website": "https://superlog.sh/",
     "all_locations": "Paris, Île-de-France, France",
-    "long_description": "Sentry and Datadog dump a stream of alerts. Most are duplicates, most lack context, and you still have to solve the issue yourself.\r\n\r\nSuperlog is AI-native observability that's meant not to be opened. A wizard scans your repo and installs proper OpenTelemetry instrumentation, then runs daily to keep up as you ship new code. When something breaks, Superlog groups the errors into a single incident, investigates with full context (logs, traces, recent deploys, past Slack threads), and posts one mergeable PR in Slack. You merge it, ignore it, or open it as a Claude Code session and modify it.\r\n\r\nTelemetry is vendor-neutral, so you keep every log, trace, and metric we install, even if you leave.",
+    "long_description": "Datadog, Sentry and Grafana only alert on what you told them to watch. So customers still find your bugs first.\r\n\r\nSuperlog works on top of your monitoring. It reads every log line, groups them into patterns, and investigates the ones that are new or unusual, 24/7, including errors no alert covers. When it finds a real problem, it posts one finding to Slack, with the impact, the root cause, the evidence and a suggested fix. It reads your code to find the cause, and it skips problems already tracked in Linear, GitHub, Slack or your alerts.\r\n\r\nKeep your current tools, or let Superlog store your logs, traces and metrics. 200+ startups use it, and they merge 87% of the fixes it suggests.",
     "one_liner": "Make software self-healing",
     "team_size": 2,
     "industry": "B2B",
@@ -7945,6 +7945,51 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/robocurve.json"
   },
   {
+    "id": 35260,
+    "name": "OpenCrawl",
+    "slug": "opencrawl",
+    "former_names": [
+      "OnePatch"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4fa8d15d930712db8c5f88de73e777865076822.png",
+    "website": "https://getopencrawl.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "OpenCrawl lets your coding agents search each other’s histories and talk to each other, across laptops and cloud coding environments. It’s open source and self-hostable. YC companies get 200M tokens of session data ingested free per month, no credit card required.",
+    "one_liner": "Multiplayer for your coding agents.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1788469833,
+    "tags": [
+      "Developer Tools",
+      "Collaboration",
+      "Open Source",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "Andrew",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/opencrawl",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/opencrawl.json"
+  },
+  {
     "id": 35289,
     "name": "ByteAsk",
     "slug": "byteask",
@@ -8085,8 +8130,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4a356af2535effc85a23e22046de196453243ce.png",
     "website": "https://0.security",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "0.security builds an autonomous offensive security team that finds and fixes vulnerabilities as fast as AI writes code and before attackers exploit them.\r\n\r\nWe've found and fixed dozens of previously unknown vulnerabilities (0-days) in government software across multiple countries and in software running on 3+ billion devices. Today we work with EY (Ernst & Young), leading tech companies and defense organizations.\r\n\r\nOur AI agents hack into any software, verify every vulnerability they find, and ship the fix. They run 24/7 across the full stack, from web apps and dependencies down to operating systems and the Linux kernel.\r\n\r\nWe offer two products: 0cloud, where developer teams connect their repos and get security handled 24/7 at the speed of their coding agents, and our open-source harness, which we deploy & run for tech companies, enterprises and critical infrastructure providers.",
-    "one_liner": "The autonomous cybersecurity team",
+    "long_description": "0.security helps software companies, large enterprises and critical infrastructure providers to find & fix security risks. With our open-source software infrastructure, enterprises can build & deploy AI security agents in their own environments with full control over their data and operations.\r\n\r\nWe just passed 1.4k GitHub stars, including engineers at Spotify, Palo Alto Networks, Microsoft, Google, Wiz, Red Hat, Mistral AI, and Trail of Bits. Our agents have found & fixed 30+ previously unknown vulnerabilities (0-days) in the Linux kernel, which runs on 3B+ devices, and 500+ CVEs including in government code from multiple countries. We work with critical infrastructure providers, large enterprise and are partnered with EY and defense organizations\r\n\r\nMost AI security tools are cloud-based black boxes that enterprises can’t safely deploy across sensitive infrastructure. We solve this with open-source, self-hosted agents. Engineers adopt us for free, and enterprises pay to deploy and manage agents across their environments.\r\n\r\nEnterprises spend over $200B a year on security, most of it on people and consultants doing work our agents automate. We start with critical infrastructure, where control is mandatory, and expand to every enterprise that wants AI security it controls.\r\n\r\nBoth founders have built companies, won startup awards, and competed at the highest national level in sports. Doruk led Cyber & Autonomous Systems for the Swiss Mars Rover Team and co-founded Soothe Studios. Fabian co-founded the institutional quant fund Mellivora Capital and helped grow Crypto Finance (acq. by Deutsche Börse Group) from 10 to 100+ employees. Doruk is a former Swiss table tennis champion & trainer; Fabian is a former Swiss trampoline gymnastics champion.",
+    "one_liner": "Open-source AI security agents for enterprise",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Security",

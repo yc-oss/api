@@ -3331,7 +3331,7 @@
       "Leafpress"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8b397defdcecf4c281122216507cb5239f88b392.png",
-    "website": "https://www.trycardinal.ai/",
+    "website": null,
     "all_locations": "",
     "long_description": "AI-Native Utility Management",
     "one_liner": "AI Energy Management",
@@ -4917,7 +4917,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/35110e6bdfbfbf5706627685cbb370e170ff4a03.png",
     "website": "https://usecollarai.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Collar is helping enterprises fundraise faster.\r\n\r\nTraction: \r\n$1.4M deals pending compliance in 2 months, half is Fortune 1000.\r\n30 partners including Fortune 500, NYSE and NASDAQ-listed companies.\r\n4X month over month revenue growth\r\n\r\nBig public companies spend ⅔ of their fundraising time on compiling accurate numbers across the whole business and investor meeting prep. Those who don’t do this themselves outsource to consultants that cost $15K/month\r\n\r\nCollar’s proprietary AI harness solves this by using agents to automatically target investors, reconcile data, and provide a live citation-backed teleprompter for meetings.\r\n\r\nFounders: Kazel and Jamie are both repeat founders with buy-side finance experience. \r\nKazel invented a new method of hacking with Softbank research funding at 17 and previously built a deep tech health startup adopted by the national hospitals in Singapore.\r\nJamie was Chief of Staff at Openspace, a billion-dollar multi-asset manager, and is also a repeat founder.\r\n\r\nThey previously worked together as the youngest Singapore defence contractors.",
+    "long_description": "Collar is helping enterprises fundraise faster.\r\n\r\nTraction: \r\n$1.4M deals pending compliance in 2 months, half is Fortune 1000.\r\n30 partners including Fortune 500, NYSE and NASDAQ-listed companies.\r\n4X month over month revenue growth\r\n\r\nBig public companies spend 2/3 of their fundraising time on compiling accurate numbers across the whole business and investor meeting prep. \r\nThose who don’t do this themselves outsource to investor relations consultants that cost $15K/month\r\n\r\nCollar’s proprietary AI harness solves this by using agents to automatically target investors, reconcile data, and provide a live citation-backed teleprompter for meetings.\r\n\r\nFounders: Kazel and Jamie are both repeat founders with buy-side finance experience. \r\nKazel invented a new method of hacking with Softbank research funding at 17 and previously built a deep tech health startup adopted by the national hospitals in Singapore.\r\nJamie was Chief of Staff at Openspace, a billion-dollar multi-asset manager, and is also a repeat founder.\r\n\r\nThey previously worked together as the youngest Singapore AI defence contractors.",
     "one_liner": "Helping Enterprises Fundraise Faster",
     "team_size": 3,
     "industry": "B2B",
@@ -5318,14 +5318,16 @@
     "website": "https://www.elimentary.com",
     "all_locations": "New York City, NY, USA",
     "long_description": "Elimentary’s is building AI agents that can run middle/back-office operations for private capital managers, starting with structured credit. Most private capital managers focus primarily on sourcing and capital deployment. Meanwhile post-investment operations receive step-child treatment. While AUMs have increased exponentially over the last decade, operations continue to be painfully supported by humans using spreadsheets and emails. Things have started to break leading to investment write-offs, fines, penalties, and sometimes lost LP relationships. \r\n\r\nOur agents can run these operations (borrowing base calcs, cracking loan tapes, NAV calculations, etc.) end to end autonomously. For one of our customers, our agents cut a 20-hour ops process to 30 minutes. It saved 90% of the manual hours, translating to $150k in annual savings.",
-    "one_liner": "Agents that run middle/back-office operations for Private Capital",
+    "one_liner": "AI Agents that run back-office operations for private credit funds",
     "team_size": 5,
     "industry": "Fintech",
-    "subindustry": "Fintech -> Asset Management",
+    "subindustry": "Fintech",
     "launched_at": 1790147820,
     "tags": [
-      "FinOps",
-      "Enterprise"
+      "Fintech",
+      "B2B",
+      "Enterprise",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5334,8 +5336,7 @@
     "batch": "Fall 2026",
     "status": "Active",
     "industries": [
-      "Fintech",
-      "Asset Management"
+      "Fintech"
     ],
     "regions": [
       "United States of America",
@@ -5407,8 +5408,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4a356af2535effc85a23e22046de196453243ce.png",
     "website": "https://0.security",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "0.security builds an autonomous offensive security team that finds and fixes vulnerabilities as fast as AI writes code and before attackers exploit them.\r\n\r\nWe've found and fixed dozens of previously unknown vulnerabilities (0-days) in government software across multiple countries and in software running on 3+ billion devices. Today we work with EY (Ernst & Young), leading tech companies and defense organizations.\r\n\r\nOur AI agents hack into any software, verify every vulnerability they find, and ship the fix. They run 24/7 across the full stack, from web apps and dependencies down to operating systems and the Linux kernel.\r\n\r\nWe offer two products: 0cloud, where developer teams connect their repos and get security handled 24/7 at the speed of their coding agents, and our open-source harness, which we deploy & run for tech companies, enterprises and critical infrastructure providers.",
-    "one_liner": "The autonomous cybersecurity team",
+    "long_description": "0.security helps software companies, large enterprises and critical infrastructure providers to find & fix security risks. With our open-source software infrastructure, enterprises can build & deploy AI security agents in their own environments with full control over their data and operations.\r\n\r\nWe just passed 1.4k GitHub stars, including engineers at Spotify, Palo Alto Networks, Microsoft, Google, Wiz, Red Hat, Mistral AI, and Trail of Bits. Our agents have found & fixed 30+ previously unknown vulnerabilities (0-days) in the Linux kernel, which runs on 3B+ devices, and 500+ CVEs including in government code from multiple countries. We work with critical infrastructure providers, large enterprise and are partnered with EY and defense organizations\r\n\r\nMost AI security tools are cloud-based black boxes that enterprises can’t safely deploy across sensitive infrastructure. We solve this with open-source, self-hosted agents. Engineers adopt us for free, and enterprises pay to deploy and manage agents across their environments.\r\n\r\nEnterprises spend over $200B a year on security, most of it on people and consultants doing work our agents automate. We start with critical infrastructure, where control is mandatory, and expand to every enterprise that wants AI security it controls.\r\n\r\nBoth founders have built companies, won startup awards, and competed at the highest national level in sports. Doruk led Cyber & Autonomous Systems for the Swiss Mars Rover Team and co-founded Soothe Studios. Fabian co-founded the institutional quant fund Mellivora Capital and helped grow Crypto Finance (acq. by Deutsche Börse Group) from 10 to 100+ employees. Doruk is a former Swiss table tennis champion & trainer; Fabian is a former Swiss trampoline gymnastics champion.",
+    "one_liner": "Open-source AI security agents for enterprise",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
@@ -5497,7 +5498,7 @@
       "Plyxl",
       "PLYXL"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f11b86229c223b308077ff5287d39738a4aad756.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d468d354f426da820fcb703f4377d877510140e.png",
     "website": "https://plyxl.com/",
     "all_locations": "",
     "long_description": "Plyxl is the workspace that molds to your business. It builds apps, creates automations, and works across your entire company.",

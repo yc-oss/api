@@ -2533,7 +2533,7 @@
       "Leafpress"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8b397defdcecf4c281122216507cb5239f88b392.png",
-    "website": "https://www.trycardinal.ai/",
+    "website": null,
     "all_locations": "",
     "long_description": "AI-Native Utility Management",
     "one_liner": "AI Energy Management",
@@ -5273,7 +5273,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/96347d910b359b8008029da5fa69b30000efd6d0.png",
     "website": "https://superlog.sh/",
     "all_locations": "Paris, Île-de-France, France",
-    "long_description": "Sentry and Datadog dump a stream of alerts. Most are duplicates, most lack context, and you still have to solve the issue yourself.\r\n\r\nSuperlog is AI-native observability that's meant not to be opened. A wizard scans your repo and installs proper OpenTelemetry instrumentation, then runs daily to keep up as you ship new code. When something breaks, Superlog groups the errors into a single incident, investigates with full context (logs, traces, recent deploys, past Slack threads), and posts one mergeable PR in Slack. You merge it, ignore it, or open it as a Claude Code session and modify it.\r\n\r\nTelemetry is vendor-neutral, so you keep every log, trace, and metric we install, even if you leave.",
+    "long_description": "Datadog, Sentry and Grafana only alert on what you told them to watch. So customers still find your bugs first.\r\n\r\nSuperlog works on top of your monitoring. It reads every log line, groups them into patterns, and investigates the ones that are new or unusual, 24/7, including errors no alert covers. When it finds a real problem, it posts one finding to Slack, with the impact, the root cause, the evidence and a suggested fix. It reads your code to find the cause, and it skips problems already tracked in Linear, GitHub, Slack or your alerts.\r\n\r\nKeep your current tools, or let Superlog store your logs, traces and metrics. 200+ startups use it, and they merge 87% of the fixes it suggests.",
     "one_liner": "Make software self-healing",
     "team_size": 2,
     "industry": "B2B",
@@ -5560,7 +5560,7 @@
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
-    "batch": "Summer 2026",
+    "batch": "Fall 2026",
     "status": "Active",
     "industries": [
       "B2B",
@@ -5579,7 +5579,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/orikata-bio-pbc",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/orikata-bio-pbc.json"
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/orikata-bio-pbc.json"
   },
   {
     "id": 32155,
@@ -6392,7 +6392,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bfa5e505d77a3f64c4f5ed8941cc14f8318a3a34.png",
     "website": "https://rystic.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Staging environments and test sandboxes don't scale for development with AI.\r\n\r\nRystic is building the verification layer for software written by AI. We give every change a deterministic simulated environment, populated with local, stateful simulators of APIs like Slack, Stripe, GitHub, and PostHog. Control everything about your dependencies, from the clock to injected faults, and use our harness for integration tests or agent evals.\r\n\r\nWith simulation testing, every change is evaluated quickly in its own private world, where you can measure its impact on other systems. We're building the next step forward in software testing, one that scales with your agents instead of holds them back.",
+    "long_description": "Staging environments and test sandboxes don't scale for development with AI.\r\n\r\nInstead we give every change a deterministic simulated environment populated with local, stateful simulators of APIs like Slack, Stripe, GitHub, and PostHog. Control everything about your dependencies, from the clock to injected faults, and use our harness for integration tests or agent evals.\r\n\r\nWith simulation testing, every change is evaluated quickly in its own private world where you can measure its impact on other systems. We're building the next step forward in software testing, one that scales with your agents instead of holding them back.",
     "one_liner": "Test agents and code changes in high-fidelity simulated environments",
     "team_size": 2,
     "industry": "B2B",

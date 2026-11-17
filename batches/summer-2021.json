@@ -4255,27 +4255,29 @@
   },
   {
     "id": 24130,
-    "name": "RGI Labs",
-    "slug": "rgi-labs",
+    "name": "PlusIdentity",
+    "slug": "plusidentity",
     "former_names": [
       "Superpass",
       "PlusIdentity",
       "Vansec",
       "Aldermate",
       "VitalStrata",
-      "Robust General Intelligence"
+      "Robust General Intelligence",
+      "RGI Labs"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/470c089d5fdf6f7b0bfaf2a2daa45b2ad5a4af33.png",
-    "website": "https://www.rgilabs.com",
-    "all_locations": "New York City, NY, USA; Remote",
-    "long_description": "RGI's mission is to build the world's first robust & recursively self-improving general intelligence. We're building the environment for intelligent systems to be able to develop in such a way where they can: \r\n- Recursively self-improve across all modifiable planes including architecture, parameters, scaffolding, etc. \r\n- Continually learn from online experiences and update its parameters while maintaining robustness against catastrophic failures. \r\n- Use its robust general intelligence of the world to acquire new skills in few or zero shots. \r\n- Use its world model to predict future states and plan via multi-step rollout. \r\n- Operate on a learned latent space that is compressed and feature-rich, including a robust latent space for reasoning.",
-    "one_liner": "Robust & recursively self-improving general intelligence",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a41d70cadc12821da00066e996901d285eb5ab36.png",
+    "website": "https://www.plusidentity.com",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "Password manager for startups",
+    "one_liner": "Password manager for startups",
     "team_size": 1,
     "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "subindustry": "B2B -> Security",
     "launched_at": 1628792922,
     "tags": [
-      "AI"
+      "Security",
+      "Cybersecurity"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4285,13 +4287,11 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Engineering, Product and Design"
+      "Security"
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "partners": "Unspecified",
@@ -4299,8 +4299,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/rgi-labs",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/rgi-labs.json"
+    "url": "https://www.ycombinator.com/companies/plusidentity",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/plusidentity.json"
   },
   {
     "id": 24131,
@@ -12389,7 +12389,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -17120,7 +17120,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "partners": "Nicolas",
     "app_video_public": false,
     "demo_day_video_public": false,
