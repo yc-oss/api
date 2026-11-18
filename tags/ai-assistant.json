@@ -1097,6 +1097,55 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2021/waydev.json"
   },
   {
+    "id": 24040,
+    "name": "Affogato AI",
+    "slug": "affogato-ai",
+    "former_names": [
+      "Walrus",
+      "Defy",
+      "roverX",
+      "RoverX",
+      "RenderNet"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be16f533fa3c585f372247f4f8cbf40d31f24c27.png",
+    "website": "https://affogato.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Affogato is an AI creative studio for brands, agencies, eCommerce sellers and creators. One account and one credit wallet give you 120+ of the best image, video and voice models, plus studios built for the jobs people actually need done. Swap the cast of any video, turn a script into a talking-head episode, design a custom voice, lip-sync a character to a voiceover, make studio headshots, and upscale to true 8K, all without editing skills. Type an idea and get campaign-ready TikToks, Reels, Shorts and ads in minutes.\r\n\r\nEverything in the app is also available to developers and AI agents. A REST API and an MCP server let Claude, ChatGPT, Cursor and your own code run the same models and studios from the same wallet. ",
+    "one_liner": "AI studio for videos, ads and avatars, in your browser or your agent",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1626192507,
+    "tags": [
+      "Generative AI",
+      "AI",
+      "Conversational AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "Aaron",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/affogato-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/affogato-ai.json"
+  },
+  {
     "id": 24080,
     "name": "zaz⚡️os",
     "slug": "zazos",
@@ -6111,7 +6160,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -6131,52 +6180,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/alkali",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/alkali.json"
-  },
-  {
-    "id": 30518,
-    "name": "Orchid",
-    "slug": "orchid-ai",
-    "former_names": [
-      "Mail0",
-      "Zero"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4a9494b7b3b62fcb0adb7a5568c37003e022974d.png",
-    "website": "https://orchid.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Orchid is an executive assistant that lives in iMessage. It texts you your day each morning, drafts your replies, and books your meetings. You approve, it handles the rest.\r\n\r\nIf you've ever wished for a world-class EA, come talk to us.",
-    "one_liner": "A personal EA in your iMessage",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1746733443,
-    "tags": [
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "partners": "Pete",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/orchid-ai",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/orchid-ai.json"
   },
   {
     "id": 30554,
@@ -6741,7 +6744,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -7260,11 +7263,11 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0acebf173c06922baca9b12940df90492d951704.png",
     "website": "https://roma.app",
     "all_locations": "",
-    "long_description": "Roma is the to-do list that does itself. Two of our three founders have been through YC before: Jan built Loom (W12, acquired by Dropbox) and Tobi built Senic (S13, acquired by Gira).\r\n\r\nMost of the work we do starts and ends with a task. So we're rebuilding something everyone already uses: the to-do list that becomes your everyday assistant, the one place that already knows everything you need done.",
-    "one_liner": "Roma is the to-do list that does itself",
+    "long_description": "Roma is the task list for your team of AI agents. Roma is the task list for your team of AI agents. People now run several agents at once, and Roma is the one place to hand them work and see what got done. Two of our three founders have been through YC before: Jan built Loom (W12, acquired by Dropbox) and Tobi built Senic (S13, acquired by Gira).",
+    "one_liner": "The task list for your team of AI agents",
     "team_size": 3,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
     "launched_at": 1789406521,
     "tags": [
       "Consumer",
@@ -7278,7 +7281,8 @@
     "batch": "Fall 2026",
     "status": "Active",
     "industries": [
-      "Consumer"
+      "B2B",
+      "Productivity"
     ],
     "regions": [
       "Unspecified"
@@ -7653,13 +7657,14 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/22b8fb8db1fec9cd1b1b6da222946a31fcfe5373.png",
     "website": "https://rezora.io/",
     "all_locations": "New York City, NY, USA; Remote",
-    "long_description": "Rezora IO is an AI voice platform for real estate and home services that answers, qualifies, and schedules every lead, automatically filling your calendar while you focus on closing.",
+    "long_description": "Rezora is the first AI voice platform that gives HVAC, plumbing, roofing and other home service companies self improving AI receptionists with setup and launch taking only 10 minutes. They answer the customer's questions, qualify the job, and book it on your calendar. ",
     "one_liner": "Shopify for AI voice agents: home services live in 10 minutes",
     "team_size": 5,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Operations",
     "launched_at": 1794009938,
     "tags": [
+      "Customer Service",
       "Home Services",
       "AI",
       "Conversational AI",
@@ -7672,7 +7677,8 @@
     "batch": "Fall 2026",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Operations"
     ],
     "regions": [
       "United States of America",

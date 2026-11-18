@@ -1843,7 +1843,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -3009,11 +3009,11 @@
     "name": "Revyl",
     "slug": "revyl",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1eca61dd3b32e7b0f7174161cd567ec823504e49.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/458ba81a61b61cbeb935df37692dec157089e786.png",
     "website": "https://www.revyl.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Revyl is the mobile development platform for agents, developers, product, and design. It brings development, build infrastructure, verification, and application intelligence together in one platform, giving teams and agents a shared source of truth for every mobile application.\r\n\r\nTeams can build and run mobile applications in the cloud, understand how their applications work, collaborate across functions, and verify changes against the running app. AI agents gain the context and runtime they need to move beyond simply generating code and understand whether their work actually works.\r\n\r\nBy connecting the people and agents building software to the application itself, Revyl helps teams move faster, collaborate more effectively, and build mobile with confidence.",
-    "one_liner": "The Mobile Development Platform",
+    "long_description": "Agents build, run and verify every change on Revyl’s cloud infrastructure. We are fully vertically integrated and offer macOS VMs, cloud simulators, emulators, build runners and more. ",
+    "one_liner": "Verification infrastructure for cloud agents",
     "team_size": 16,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -3947,6 +3947,53 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/boost-robotics.json"
   },
   {
+    "id": 30518,
+    "name": "Keiki",
+    "slug": "keiki",
+    "former_names": [
+      "Mail0",
+      "Zero",
+      "Orchid"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac2da0254df2d98106d26c8e994c4ace21f7cbc8.png",
+    "website": "https://onkeiki.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Keiki takes the product you already have and puts it in your users’ messages. They can use it on iMessage, WhatsApp, SMS or Slack, right next to their friends and coworkers. There’s no new app to download and no login.\r\n\r\nYou keep your product as it is and Keiki adds the messaging channel. It handles the phone numbers, delivery and the back-and-forth, so your users can reach you by texting.",
+    "one_liner": "Put your products on iMessage",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1746733443,
+    "tags": [
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "partners": "Pete",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/keiki",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/keiki.json"
+  },
+  {
     "id": 30522,
     "name": "Naïve",
     "slug": "naive",
@@ -4708,6 +4755,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/s2-dev",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/s2-dev.json"
+  },
+  {
+    "id": 30960,
+    "name": "Metorial",
+    "slug": "metorial",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7d6cf9656ff81c358bc8acc1f8b0221e2f963a06.png",
+    "website": "https://metorial.com",
+    "all_locations": "Vienna, Vienna, Austria; Remote",
+    "long_description": "Metorial is the open-source MCP gateway and AI control plane for AI enablement. Your team logs in once with SSO and gets the MCP servers and Skills their role allows, in whatever AI client they use. Every tool call is logged.\r\n\r\nCompanies use it to roll out Claude or Cursor across the whole company, share Skills between engineers and non-technical teams, give internal agents scoped access, find and block shadow AI, and pass customer security reviews. Teams building agents into their own product use the same 1,000+ integrations with per-user OAuth through one SDK, as an open-source alternative to Composio.\r\n\r\n~4,000 GitHub stars across our repos. SOC 2, GDPR, BAAs and on-prem available. Trusted by companies such as Tractive (at Bending Spoons), Super.com, Moonfire and Crunched.",
+    "one_liner": "Open-source MCP gateway for AI enablement: MCP servers and Skills for…",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1759440132,
+    "tags": [
+      "B2B",
+      "API",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Austria",
+      "Europe",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "partners": "Andrew",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/metorial",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/metorial.json"
   },
   {
     "id": 30969,
@@ -6003,47 +6094,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/luca-iq.json"
   },
   {
-    "id": 33013,
-    "name": "Operon",
-    "slug": "operon",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aaeb7f2ff7aa5b0b7e64888230be2a7e46342f66.png",
-    "website": "https://operonsolutions.com/en",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Operon is the data intelligence layer for heavy industry. We ingest the messy documents a plant runs on (P&IDs, schematics, datasheets, scans) and turn them into one structured, queryable model of the facility.\r\n\r\nOn top of it, engineers query their plant in natural language and build agentic workflows for safety, compliance, and design. \r\n\r\n",
-    "one_liner": "Agentic data layer for manufacturing & process industries. ",
-    "team_size": 0,
-    "industry": "Industrials",
-    "subindustry": "Industrials",
-    "launched_at": 1782593141,
-    "tags": [
-      "Computer Vision",
-      "Manufacturing",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "Industrials"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "partners": "Jon",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/operon",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/operon.json"
-  },
-  {
     "id": 33014,
     "name": "Inkbox",
     "slug": "inkbox",
@@ -7012,8 +7062,8 @@
     "website": "https://sona8.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Sona8 uses AI voice agents to interview employees about how work gets done. Consulting, transformation and corporate development teams use it to hear from more people and follow up after changes.\r\n\r\nEmployees open a link and speak in their own language. The agent asks follow-up questions, and teams compare problems across sites and departments. We’ve completed 10,000+ employee interviews and signed one of the world’s top three consulting firms.\r\n\r\nWe’re building the context layer and operating system for strategy teams: combining employee knowledge with company data to understand operations, improve processes and put decisions into action. The same context will guide AI agents as they take over work, so the company keeps what it learns.",
-    "one_liner": "Voice agents survey employees to map, improve & automate workflows",
-    "team_size": 5,
+    "one_liner": "AI context layer: interviews employees to map and automate workflows",
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1788994017,
@@ -7097,9 +7147,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/255bbf73f87bb02fde740dd7da4814d8d2b5f4e1.png",
     "website": "https://caveman.so",
     "all_locations": "Amsterdam, NH, Netherlands",
-    "long_description": "Caveman is the optimization stack for AI agents. It observes real agent workloads, finds cost and performance inefficiencies, tests improvements, and safely deploys the ones that work.",
-    "one_liner": "Caveman cuts what AI agents cost without making them dumber.",
-    "team_size": 1,
+    "long_description": "Caveman is the cheapest place to build and run AI agents. It observes real agent workloads, finds cost and performance inefficiencies, tests improvements, and safely deploys the ones that work.",
+    "one_liner": "Infrastructure for efficient AI ",
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1791916413,
@@ -7437,25 +7487,28 @@
   },
   {
     "id": 38226,
-    "name": "Wondersearch",
-    "slug": "wondersearch",
+    "name": "FlashDrive",
+    "slug": "flashdrive",
     "former_names": [
       "Polygres",
-      "Evokoa / Polygres"
+      "Evokoa / Polygres",
+      "Wondersearch"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1dfdffe31c74cb7df1b408193b1e4360c19f0815.png",
-    "website": "https://wondersearch.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e4b1526f0ce9816796dbacd939133d13844d1067.png",
+    "website": "https://flashdrive.space",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Our mission is to give every AI agent the right context, from any amount of data.\r\n\r\nWonderSearch is search built for AI agents. We let developers make all of their data searchable by meaning, without embeddings, servers or ingestion, so agents can pull the right context and cite where it came from. Unlike vector databases and RAG stacks, there's no pipeline to build or maintain: connect your files and data, and they're searchable right away. It runs on our own search model, and you pay only per query, whatever the size of your data.\r\n\r\nTeams use WonderSearch across their own documents and knowledge, and build it into their products, help centres and AI features, connecting through MCP, our API, the CLI or the Python SDK.\r\n\r\n(Evokoa, Inc. is the company behind WonderSearch.)",
-    "one_liner": "Instant semantic search over your data without embeddings.",
+    "long_description": "Our mission is to rebuild the file system, the oldest idea in computing, for its newest users: AI agents.\r\n\r\nFlashDrive is a shared drive for teams and their AI agents. You can use it via MCP or mount it like a normal folder on macOS and Linux, so your laptop, your teammates' and every sandbox work in the same live files at once. Agents hand off work through files: one writes, the next one reads.\r\n\r\nThat makes AI multiplayer across a whole company. Everyone keeps the agent they already like, whether that's Claude Code, Codex, Cursor or something custom, and there's no new app to learn. Your agents and your teammates' agents work in the same files and pick up where each other left off.\r\n\r\nShared drives were built for people. Agents work differently: many of them edit the same files at once. Unlike Dropbox or Google Drive, FlashDrive merges edits made at the same time, or keeps both, instead of creating a conflicted copy. Cloud sandboxes connect with no setup, huge files stream instead of filling the disk, and every file can be searched with keywords and grep.\r\n\r\n(FlashDrive is by Evokoa, Inc.)",
+    "one_liner": "A shared drive for your team and all your AI agents.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1792520464,
     "tags": [
       "Developer Tools",
+      "Cloud Computing",
       "Infrastructure",
-      "AI"
+      "AI",
+      "Databases"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7477,7 +7530,7 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/wondersearch",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/wondersearch.json"
+    "url": "https://www.ycombinator.com/companies/flashdrive",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/flashdrive.json"
   }
 ]

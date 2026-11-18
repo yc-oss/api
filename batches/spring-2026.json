@@ -1861,6 +1861,46 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/chert.json"
   },
   {
+    "id": 31365,
+    "name": "Incandor",
+    "slug": "incandor",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/897d4bcd4f8d8953ac74712b5cc1711e4eb40c78.png",
+    "website": "https://www.incandor.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "As AI agents become increasingly autonomous, they're gaining access to the most sensitive systems inside the enterprise. Yet today's security tools were built to control who has access, not understand what they're actually doing with it.\r\n\r\nFounded by Stanford engineers, Incandor has raised an $8 million seed round led by Andreessen Horowitz (a16z), with backing from security leaders at Datadog and Plaid, the co-founder of Okta, and three Oscar winners.",
+    "one_liner": "Incandor is building the next generation of security for a world run…",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1778822795,
+    "tags": [
+      "Security",
+      "Cybersecurity"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "David",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/incandor",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/incandor.json"
+  },
+  {
     "id": 31366,
     "name": "Nine Fives",
     "slug": "nine-fives",
@@ -2619,10 +2659,10 @@
       "KELAI"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/173bcf6c0b9d00045db94da34f174baaafeb2255.png",
-    "website": "https://kelaitech.com/",
+    "website": "https://kelai.ai",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Founded by former WorldQuant portfolio manager & head of event driven systematic strategies Jeremie Cohen, KelAI is building the autonomous alpha engine for hedge funds, traders and institutional investors. \r\n\r\nInvestment teams now have more data, tools and compute than ever, but research still runs across siloed systems and inefficient workflows. KelAI turns that fragmented process into a compounding AI-native engine that continuously finds, tests and validates trading signals at a pace no human team can match.",
-    "one_liner": "The AI Quant: Autonomous Alpha Engine for Funds and Traders.",
+    "long_description": "Founded by former WorldQuant portfolio manager & head of event driven systematic strategies Jeremie Cohen, KelAI is a quant finance AI research lab bringing together specialized research agents and expert-led evaluations to close the trust gap in AI modeling for financial markets.",
+    "one_liner": "AI For Quantitative Finance",
     "team_size": 3,
     "industry": "Fintech",
     "subindustry": "Fintech -> Asset Management",
@@ -4358,7 +4398,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2026",
     "status": "Active",
@@ -4640,7 +4680,7 @@
       "markup.one",
       "tday"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7d87b84072242716429212624073df4a51fa2aae.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e991737a0da388ef9f57789b22ba8b64f04be312.png",
     "website": "https://tday.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "tday automatically turns a software company's product into on-brand marketing creative. Connect your product and git repo, and tday generates polished launch videos, social graphics, and ads, the content a team would normally spend hours making in a design tool or pay a freelancer for. tday then publishes the creative and measures how it performs across your social and ad channels, closing the loop from what you ship to what you post.",
@@ -6849,7 +6889,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Astraea automates clinical trial biometrics from raw study inputs to FDA-ready outputs. The platform handles data normalization, CDISC mapping, SDTM, ADaM, TFLs, QC, and revision workflows in one auditable system, helping Phase II/III sponsors reduce months of manual programming and data management into automated, reviewable execution.",
     "one_liner": "AI Operating System for Clinical Development",
-    "team_size": 6,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1778617120,
@@ -7081,20 +7121,25 @@
   },
   {
     "id": 31543,
-    "name": "CentralComs",
-    "slug": "centralcoms",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f6099883faaacd376e6491fdd0920b4de8a2c3c.png",
-    "website": "https://centralcoms.com",
+    "name": "Eightsend (formerly CentralComs)",
+    "slug": "eightsend",
+    "former_names": [
+      "CentralComs",
+      "Eightsend (formerly Centralcoms)"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c6439e752c1132b8bfce3df362f07120240a3fad.png",
+    "website": "https://eightsend.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Home services companies lose money on missed calls and idle techs. When the phone rings during a job and nobody picks up, that lead goes to a competitor and the trucks already on the road sit half-booked because dispatch can't keep the schedule tight.\r\n\r\nCentralComs fixes this with AI agents that answer every call, route each job to the right technician, and keep the calendar full. They handle intake, dispatch, and customer updates end to end working inside ServiceTitan, Housecall Pro, and Jobber so no lead slips through and no truck runs empty.\r\n\r\nCapture every call. Book every tech. Never miss a job.",
-    "one_liner": "AI agent platform for home services companies.",
+    "long_description": "Eightsend is an AI marketing team for DTC brands. \r\n\r\nConnect your store, ad accounts and analytics, and it finds who actually buys from you, builds a campaign plan, makes new ads every week, launches them on Meta, Google and TikTok, and moves budget to what's selling. \r\n\r\nEvery test feeds next week's ads and budget, so results keep improving. It replaces the separate creative, ads and analytics agencies a brand would otherwise hire",
+    "one_liner": "AI marketers that run paid ads for DTC brands so you can sell more…",
     "team_size": 2,
-    "industry": "Real Estate and Construction",
-    "subindustry": "Real Estate and Construction -> Construction",
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
     "launched_at": 1779989306,
     "tags": [
-      "Home Services"
+      "E-commerce",
+      "Marketing",
+      "Advertising"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7103,8 +7148,8 @@
     "batch": "Spring 2026",
     "status": "Active",
     "industries": [
-      "Real Estate and Construction",
-      "Construction"
+      "B2B",
+      "Marketing"
     ],
     "regions": [
       "United States of America",
@@ -7116,8 +7161,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/centralcoms",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/centralcoms.json"
+    "url": "https://www.ycombinator.com/companies/eightsend",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/eightsend.json"
   },
   {
     "id": 31544,

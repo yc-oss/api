@@ -649,7 +649,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -668,46 +668,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/bravi",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/bravi.json"
-  },
-  {
-    "id": 31543,
-    "name": "CentralComs",
-    "slug": "centralcoms",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f6099883faaacd376e6491fdd0920b4de8a2c3c.png",
-    "website": "https://centralcoms.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Home services companies lose money on missed calls and idle techs. When the phone rings during a job and nobody picks up, that lead goes to a competitor and the trucks already on the road sit half-booked because dispatch can't keep the schedule tight.\r\n\r\nCentralComs fixes this with AI agents that answer every call, route each job to the right technician, and keep the calendar full. They handle intake, dispatch, and customer updates end to end working inside ServiceTitan, Housecall Pro, and Jobber so no lead slips through and no truck runs empty.\r\n\r\nCapture every call. Book every tech. Never miss a job.",
-    "one_liner": "AI agent platform for home services companies.",
-    "team_size": 2,
-    "industry": "Real Estate and Construction",
-    "subindustry": "Real Estate and Construction -> Construction",
-    "launched_at": 1779989306,
-    "tags": [
-      "Home Services"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Real Estate and Construction",
-      "Construction"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "partners": "Aaron",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/centralcoms",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/centralcoms.json"
   },
   {
     "id": 31825,
@@ -888,13 +848,14 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/22b8fb8db1fec9cd1b1b6da222946a31fcfe5373.png",
     "website": "https://rezora.io/",
     "all_locations": "New York City, NY, USA; Remote",
-    "long_description": "Rezora IO is an AI voice platform for real estate and home services that answers, qualifies, and schedules every lead, automatically filling your calendar while you focus on closing.",
+    "long_description": "Rezora is the first AI voice platform that gives HVAC, plumbing, roofing and other home service companies self improving AI receptionists with setup and launch taking only 10 minutes. They answer the customer's questions, qualify the job, and book it on your calendar. ",
     "one_liner": "Shopify for AI voice agents: home services live in 10 minutes",
     "team_size": 5,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Operations",
     "launched_at": 1794009938,
     "tags": [
+      "Customer Service",
       "Home Services",
       "AI",
       "Conversational AI",
@@ -907,7 +868,8 @@
     "batch": "Fall 2026",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Operations"
     ],
     "regions": [
       "United States of America",

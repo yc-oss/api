@@ -3614,7 +3614,7 @@
       "Canada",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "partners": "Unspecified",
     "app_video_public": false,
     "demo_day_video_public": false,
@@ -19361,47 +19361,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/cosmic-robotics.json"
   },
   {
-    "id": 33013,
-    "name": "Operon",
-    "slug": "operon",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aaeb7f2ff7aa5b0b7e64888230be2a7e46342f66.png",
-    "website": "https://operonsolutions.com/en",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Operon is the data intelligence layer for heavy industry. We ingest the messy documents a plant runs on (P&IDs, schematics, datasheets, scans) and turn them into one structured, queryable model of the facility.\r\n\r\nOn top of it, engineers query their plant in natural language and build agentic workflows for safety, compliance, and design. \r\n\r\n",
-    "one_liner": "Agentic data layer for manufacturing & process industries. ",
-    "team_size": 0,
-    "industry": "Industrials",
-    "subindustry": "Industrials",
-    "launched_at": 1782593141,
-    "tags": [
-      "Computer Vision",
-      "Manufacturing",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "Industrials"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "partners": "Jon",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/operon",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/operon.json"
-  },
-  {
     "id": 33017,
     "name": "ProvenMetal",
     "slug": "provenmetal",
@@ -21147,7 +21106,7 @@
     "website": "https://orcaaerospace.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "At Orca, we are focused on creating the future of spacecraft operations by moving control onto the vehicle. By allowing AI models to control the satellite using deterministic tooling, we are able to achieve the same holistic, high-quality decisions on \"what\" to do to carry out a mission while maintaining the safety of systems that decide \"how\" to execute it. ",
-    "one_liner": "AI spacecraft operators that live onboard the vehicle",
+    "one_liner": "AI satellite operators that live onboard the vehicle",
     "team_size": 5,
     "industry": "Industrials",
     "subindustry": "Industrials -> Aviation and Space",
@@ -21536,7 +21495,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3df37a1fb66526c47cc75fbebe1f480c83847131.png",
     "website": "https://odin-robotics.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Odin Robotics deploys robot arms in small and mid-sized factories to do repetitive manual work, like machine tending and packing. They work alongside existing machines and people, so factories don't have to redesign their lines. With deterministic controls and learned skills, they're both reliable and flexible.",
+    "long_description": "Odin Robotics deploys robot arms in factories to do repetitive manual work, like machine tending and packing. They work alongside existing machines and people, so factories don't have to redesign their lines. With deterministic controls and learned skills, they're both reliable and flexible.",
     "one_liner": "Robot arms that do repetitive manual work in existing factories.",
     "team_size": 2,
     "industry": "Industrials",
@@ -21544,7 +21503,9 @@
     "launched_at": 1792472507,
     "tags": [
       "Robotics",
+      "B2B",
       "Manufacturing",
+      "Automation",
       "Industrial"
     ],
     "tags_highlighted": [],
@@ -21883,13 +21844,14 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/658417946c5809d1681eb90f9636442c2526cc5c.png",
     "website": "https://larkagents.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lark deploys AI agents for distributors to automate purchasing, demand forecasting, inventory monitoring, sales operations, and data analysis.\r\n\r\nOur agents connect to the ERP, CRM, email, spreadsheets, and other software your team already uses. They forecast demand, prepare purchase orders, flag inventory issues, update sales records, and answer questions using your business data. Together, these agents can run a distributor’s entire operation.\r\n\r\nWe handle setup and tailor each agent to your workflows, business rules, and approval limits, so your team can automate recurring work while staying in control.",
+    "long_description": "Lark deploys AI agents for distributors to automate purchasing, demand forecasting, inventory monitoring, sales operations, and data analysis. We launched 8 weeks ago and went from $0 to $20.9K MRR growing 104% MoM. \r\n\r\nOur agents connect to the ERP, CRM, email, spreadsheets, and other software your team already uses. They forecast demand, prepare purchase orders, flag inventory issues, update sales records, and answer questions using your business data. Together, these agents can run a distributor’s entire operation.\r\n\r\nWe handle setup and tailor each agent to your workflows, business rules, and approval limits, so your team can automate recurring work while staying in control.",
     "one_liner": "AI agents that automate workflows for distributors",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials",
     "launched_at": 1789595493,
     "tags": [
+      "Warehouse Management Tech",
       "B2B",
       "Supply Chain",
       "AI"
@@ -21926,8 +21888,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae0831175e2bfda4e79ecd1dfe31db6e94502492.png",
     "website": "https://contourholdings.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Contour acquires environmental consulting firms and runs them on Cortex, our AI platform. Its agents produce the reports, studies and permit applications. Customers get work turned around faster and our firms scale capacity without adding headcount.\r\n",
-    "one_liner": "AI-native environmental permitting & compliance for America’s buildout",
+    "long_description": "Contour acquires permitting firms and runs them on Cortex, our AI platform. Its agents produce the reports, studies and permit applications. Customers get work turned around faster and our firms scale capacity without adding headcount.\r\n",
+    "one_liner": "AI-native permitting for Americas buildout",
     "team_size": 4,
     "industry": "Industrials",
     "subindustry": "Industrials -> Energy",
