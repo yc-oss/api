@@ -17509,10 +17509,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2021",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -33554,7 +33554,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -38634,10 +38634,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c4df2dc3a8591521492f4797ca92971742623b68.png",
     "website": "https://skyhook.io",
-    "all_locations": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-    "long_description": "We make running services on Kubernetes as easy as Heroku, but on your cloud and with all the flexibility and power of Kubernetes. Companies use Skyhook so that they don't have to hire dedicated infrastructure engineers.\r\n\r\nAlthough 50-70% of organizations have already adopted Kubernetes, most developers agree that it is too complex and difficult to manage. It is intended to be extremely flexible in order to solve pretty much everyone’s needs, but it can take a ton of work and many auxiliary tools to get there.\r\n\r\nAs companies grow, they spend a lot on DevOps or Platform Engineers that try to reduce the burden on developers by gluing together all the 3p tools via custom internal tools.\r\n\r\nWe are building an “internal developer platform” out of the box, with best practices and golden paths for building and operating services on Kubernetes.\r\n\r\nWe do the research on the latest and greatest tools in the extremely vibrant ecosystem, and automatically integrate for you the tools you want to use.\r\n\r\nWe operate on our customers code and in your Cloud environment, so they never locked in and never restricted, as is common with classic PaaS offerings.\r\n\r\nIf you prefer a fully hosted environment like Heroku, Fly or Vercel, we’ll host a cluster for you and offer you a one-click migration to your own cluster when you want.",
-    "one_liner": "PaaS-like experience with the power of Kubernetes, on your cloud",
-    "team_size": 7,
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Radar is the missing open-source Kubernetes interface for humans and agents.\r\n\r\nKubernetes is easy to query, but hard to understand. Radar shows what's failing in a cluster, why, and what changed: issues and root cause, topology, an event and change timeline, Helm, GitOps (Argo CD and Flux), traffic, image internals, audits, upgrade impact and CVEs. Engineers get a UI. AI agents get a built-in MCP server with structured cluster context instead of raw YAML, and Radar can run AI investigations through the agent CLI you already use (Claude Code, Codex, Cursor or OpenCode).\r\n\r\nRadar is and always will be open source: a single Apache 2.0 binary that runs on your laptop against your kubeconfig, or in-cluster via Helm, with no agents or CRDs to install. 4.2k+ GitHub stars.\r\n\r\nRadar Cloud keeps watching when you close the laptop: grouped alerts to Slack, AI investigations with evidence on alerts or on demand, fleet-wide issues, search and diffs across every cluster behind one MCP endpoint, 30 days of history, and shared views scoped by Kubernetes RBAC. SOC 2 on every plan; SSO, SCIM and self-managed on Enterprise.\r\n\r\nRadar is built by Skyhook. Get started at https://radarhq.io or https://github.com/skyhook-io/radar",
+    "one_liner": "Radar: the missing Kubernetes interface for humans and agents",
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1677416596,
@@ -38659,8 +38659,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Israel",
-      "Middle East and North Africa",
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -48593,10 +48593,10 @@
     "subindustry": "B2B",
     "launched_at": 1777111023,
     "tags": [
+      "Fintech",
       "Generative AI",
       "SaaS",
       "B2B",
-      "Enterprise",
       "AI"
     ],
     "tags_highlighted": [],
@@ -48831,7 +48831,7 @@
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
-    "batch": "Fall 2026",
+    "batch": "Summer 2026",
     "status": "Active",
     "industries": [
       "B2B",
@@ -48850,7 +48850,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/orikata-bio-pbc",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/orikata-bio-pbc.json"
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/orikata-bio-pbc.json"
   },
   {
     "id": 32135,
@@ -50038,8 +50038,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5dfc06f5151a1bc751d8af0c4298d0e845be5e5d.png",
     "website": "https://dualizer.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Dualizer builds AI-powered, physics-based process simulation and digital twins to design and scale chemical processes and optimize existing plants. We help engineering teams identify bottlenecks, increase yield and throughput, and reduce energy and production costs—improving plant efficiency and profitability.\r\n\r\nThe platform combines AI reasoning, our proprietary deterministic simulation and optimization engine, and physics-informed machine learning. Engineers can build, calibrate, and refine models through conversation, starting from a diagram, available data, or an engineering objective. Calculations account for thermodynamics, material and energy balances, equipment behavior, and operating constraints, enabling teams to optimize interconnected equipment and operating conditions across a plant.\r\n\r\nEquipment sizing and costing, 3D layout planning, and techno-economic analysis connect process improvements to plant-level decisions. Teams can accelerate new process scale-up, debottleneck operating plants, and continually refine operating strategies as production targets and plant conditions change. Dualizer makes rigorous simulation and optimization an ongoing capability for improving industrial productivity and profitability throughout a plant’s life.",
-    "one_liner": "AI-powered physical simulation to design/optimize chemical processes",
+    "long_description": "Dualizer (YC F26) builds agentic physics simulation to debottleneck manufacturing—from everyday essentials like food, beverages, and medicine to the fuels and advanced materials powering aviation and modern computing.\r\n\r\nHigh manufacturing costs and production bottlenecks can raise prices and cause shortages of essential goods. Inefficient production can waste resources and pollute the environment for decades. Design or operating failures can cause deadly incidents. Yet the engineering needed to design better processes and improve existing plants remains slow, manual, and highly specialized.\r\n\r\nDualizer’s software platform lets engineers build physics-based digital twins, design safer processes, and optimize plant performance—boosting throughput while reducing energy use and production costs.\r\n\r\nIts ambition is to become the engineering foundation for the world’s process industries—helping startups and global manufacturers alike commercialize breakthroughs faster and make essential goods cheaper and more abundant.\r\n\r\nSame school. Same year. Same major. David Kim, Chris Donahue, and Nathan Liu met at UC Berkeley, Class of ‘27, Chemical Engineering. Their research and industry experience in process modeling, physics-based simulation, and AI/ML gave them the foundation for a shared ambition: transforming how industrial plants are designed and operated. All three were headed toward PhDs. They chose to build Dualizer.",
+    "one_liner": "Agentic physics simulation that debottleneck manufacturing",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",

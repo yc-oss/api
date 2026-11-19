@@ -2899,7 +2899,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "partners": "David",
     "app_video_public": false,
     "demo_day_video_public": false,
@@ -6707,8 +6707,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9593981f6acf78f7e8d4417ca9346aed3d279da4.png",
     "website": "https://hemlock.inc",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "At Hemlock, we equip workers around the globe with EMG wearables to generate force/contact-annotated egocentric video data to give physical AI models a sense of touch from human data. Force + contact dynamics, collected at scale.",
-    "one_liner": "Force + contact dynamics collected at scale for training physical AI.",
+    "long_description": "The first pre-training scale tactile dataset for robotic AI, utilizing proprietary EMG technology.",
+    "one_liner": "Force data collected at scale for training physical AI.",
     "team_size": 1,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -6797,7 +6797,7 @@
     "website": "https://primordiant.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Every instance of intelligence occurring in nature is embodied. Scientific intelligence is no different. We are building general-purpose robotic experimentalists: systems that unite scientific reasoning and physical action to iterate toward discovery by observing, hypothesizing and experimenting.",
-    "one_liner": "Embodied Scientific Intelligence",
+    "one_liner": "Autonomous labs run by AI and robot scientists, available as an API.",
     "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -7438,5 +7438,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/vibe-robotics",
     "api": "https://yc-oss.github.io/api/batches/winter-2027/vibe-robotics.json"
+  },
+  {
+    "id": 43506,
+    "name": "HIRO Industries",
+    "slug": "hiro-industries",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e0c2c89eb8bcf5a06953ea5523edc986f1b286a.png",
+    "website": "https://hiroindustries.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "HIRO Industries builds affordable, easy-to-use robots for real work. Our first robot, Origin, is a two-armed robot designed for tasks like sorting, packing, kitting, and assembly. We combine teleoperation with AI to help robots perform useful work today while collecting data to improve their autonomy over time. Our longer-term goal is to build an American robotics platform that makes capable robots accessible to more businesses and developers.",
+    "one_liner": "We’re building an American robotics platform, starting with Origin,…",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1795035043,
+    "tags": [
+      "Hardware",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2027",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "Gustaf",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hiro-industries",
+    "api": "https://yc-oss.github.io/api/batches/winter-2027/hiro-industries.json"
   }
 ]
