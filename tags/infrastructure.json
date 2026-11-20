@@ -4086,10 +4086,12 @@
   },
   {
     "id": 30610,
-    "name": "TraceRoot.AI",
-    "slug": "traceroot-ai",
+    "name": "traceroot",
+    "slug": "traceroot",
     "former_names": [
-      "TraceRoot.ai"
+      "TraceRoot.ai",
+      "TraceRoot.AI",
+      "traceroot.ai"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2b960cd1912da7a2d242a9f8b16360d7fac3bed4.png",
     "website": "https://traceroot.ai",
@@ -4128,8 +4130,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/traceroot-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/traceroot-ai.json"
+    "url": "https://www.ycombinator.com/companies/traceroot",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/traceroot.json"
   },
   {
     "id": 30620,
@@ -6094,6 +6096,47 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/luca-iq.json"
   },
   {
+    "id": 33013,
+    "name": "Operon",
+    "slug": "operon",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aaeb7f2ff7aa5b0b7e64888230be2a7e46342f66.png",
+    "website": "https://operonsolutions.com/en",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Operon is the data intelligence layer for heavy industry. We ingest the messy documents a plant runs on (P&IDs, schematics, datasheets, scans) and turn them into one structured, queryable model of the facility.\r\n\r\nOn top of it, engineers query their plant in natural language and build agentic workflows for safety, compliance, and design. \r\n\r\n",
+    "one_liner": "Agentic data layer for manufacturing & process industries. ",
+    "team_size": 0,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1782593141,
+    "tags": [
+      "Computer Vision",
+      "Manufacturing",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2027",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "Jon",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/operon",
+    "api": "https://yc-oss.github.io/api/batches/winter-2027/operon.json"
+  },
+  {
     "id": 33014,
     "name": "Inkbox",
     "slug": "inkbox",
@@ -7018,8 +7061,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a8a1620a1957b907f1e344c44b332ea9f5af430.png",
     "website": "https://graphide.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Graphide CI runs your CI 10-20× faster than GitHub runners on enterprise deployments, and our 24/7 agents optimize the CI itself, not just the machines. For teams with big CI bills that haven't been optimized, we cut costs 70%+ and take over the ongoing work of optimizing CI, so you can focus on your product.\r\n\r\nWe're faster and cheaper because we own both the hardware and the optimizations and configs that run on it, which lets us do what owning only one could not. A graph of the codebase runs only the tests each change can reach, and we run your tests in parallel, so your CI is limited only by the length of your longest test. Our agents then tune machines, caches and test splits as you add more tests and code over time. We also patch the tests themselves, fixing flakes and adding our own libraries so they run faster and more reliably.\r\n\r\nCoding agents now write more code than teams can check, making verification the new bottleneck. CI is where we start, but we also cover the rest of the verification stack. Our PR review agent runs the old and new code in live environments, finding bugs and proving them by writing tests (50% more bugs found than Greptile on our benchmarks, with 35% fewer false positives). Our visualizer shows data flows and graph-based diffs so you can understand a PR in seconds.\r\n",
-    "one_liner": "10-20× faster CI runners + 24/7 agent cutting bloated CI bills 70+%",
+    "long_description": "Graphide CI runs your CI 10× faster than GitHub runners on enterprise deployments, and our 24/7 agents optimize the CI itself, not just the machines. We cut costs 70%+ for GH (50%+ for most other runners) and take over the ongoing work of optimizing CI, so you can focus on your product.\r\n\r\nWe're faster and cheaper because we own both the hardware and the optimizations and configs that run on it, which lets us do what owning only one could not. A graph of the codebase runs only the tests each change can reach, and we run your tests in parallel, so your CI is limited only by the length of your longest test. Our agents then tune machines, caches and test splits as you add more tests and code over time. We also patch the tests themselves, fixing flakes and adding our own libraries so they run faster and more reliably.\r\n\r\nCoding agents now write more code than teams can check, making verification the new bottleneck. CI is where we start, but we also cover the rest of the verification stack. Our PR review agent runs the old and new code in live environments, finding bugs and proving them by writing tests (50% more bugs found than Greptile on our benchmarks, with 35% fewer false positives). Our visualizer shows data flows and graph-based diffs so you can understand a PR in seconds.\r\n",
+    "one_liner": "CI runner with agents that manage your tests. 10x faster and 70%…",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",

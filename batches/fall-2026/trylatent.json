@@ -8,11 +8,11 @@
   "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/29af59683c6352485b064baa197eec3355186fcd.png",
   "website": "http://runlatent.ai/",
   "all_locations": "San Francisco, CA, USA",
-  "long_description": "Latent is a control layer for AI, built on interpretability. It reads signals inside a model as it works and checks every answer and agent action in milliseconds. Then it lets the output through, holds it, re-asks a stronger model, or sends it to review with the reason attached.\r\n\r\nReading the model is far cheaper than running a second LLM, so it can check every step. Latent stops 99% of rule-breaking agents before they act, against 69% for a frontier LLM judge.\r\n\r\nIt works with self-hosted and API models like GPT, Claude, and Gemini, runs hosted or in your own cloud, and calibrates to your traffic with every review.",
-  "one_liner": "Stop AI agent mistakes by reading the model’s mind",
-  "team_size": 1,
+  "long_description": "Latent automates post-training for LLMs. It reads signals inside a model as it works and labels every answer and agent step in milliseconds, so teams improve their models on their own production traffic instead of paying for human labeling.\r\n\r\nThe same signal works in real time. Latent lets an output through, holds it, re-asks a stronger model, or sends it to review with the reason attached. Reading the model is over 660x cheaper than running an LLM judge, so it can check everything. One voice AI company using Latent finds 98% of its agent’s failures by reviewing only the riskiest 43% of answers, and in testing Latent stopped 99% of rule-breaking agents before they acted, against 69% for a frontier LLM judge.\r\n\r\nIt works with self-hosted and API models like GPT, Claude, and Gemini, runs hosted or fully in your own cloud, and installs with one line of code.",
+  "one_liner": "Automated post-training for LLMs",
+  "team_size": 2,
   "industry": "B2B",
-  "subindustry": "B2B -> Security",
+  "subindustry": "B2B",
   "launched_at": 1791243197,
   "tags": [
     "AI"
@@ -24,8 +24,7 @@
   "batch": "Fall 2026",
   "status": "Active",
   "industries": [
-    "B2B",
-    "Security"
+    "B2B"
   ],
   "regions": [
     "United States of America",
