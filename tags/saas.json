@@ -1089,7 +1089,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "partners": "Unspecified",
     "app_video_public": false,
     "demo_day_video_public": false,
@@ -24391,54 +24391,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2021/sigmaos.json"
   },
   {
-    "id": 24291,
-    "name": "DigiBuild",
-    "slug": "digibuild",
-    "former_names": [
-      "DigiBuild Software Inc.",
-      "DigiBuild Software"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/619bfcc11ede71a157f8463466ae0bd8ddd6cc7e.png",
-    "website": "https://digibuild.com",
-    "all_locations": "Miami, FL, USA",
-    "long_description": "Our platform fixes construction's broken supply chain. 70% of construction projects finish late or over budget; procuring and managing building materials is the number 1 reason why. \r\n\r\nWe use LLMs to buy and manage building materials for large construction companies.\r\nWith DigiBuild, construction contractors can find, order, track and manage their materials from the supplier to the job site. We help customers save money, staff time, and improve construction project schedules.\r\n\r\nWe work with the top real estate developers, general contractors, and subcontractors in the US. We manage billions in building material volume annually in the 2nd largest market in the world.",
-    "one_liner": "We buy & track building materials for construction companies.",
-    "team_size": 15,
-    "industry": "Real Estate and Construction",
-    "subindustry": "Real Estate and Construction -> Construction",
-    "launched_at": 1626214444,
-    "tags": [
-      "SaaS",
-      "Supply Chain",
-      "AI",
-      "ML"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2021",
-    "status": "Active",
-    "industries": [
-      "Real Estate and Construction",
-      "Construction"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "partners": "Unspecified",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/digibuild",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/digibuild.json"
-  },
-  {
     "id": 24304,
     "name": "Scratch Data",
     "slug": "scratch-data",
@@ -41684,7 +41636,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/201884765e11baf051338d72f6f2e7ead2bb1fa1.png",
     "website": "https://www.tamarind.bio",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tamarind Bio is a website and API which allows scientists to use computational biology tools at scale using a simple interface. On Tamarind, scientists can use ML models like AlphaFold to design and simulate molecules by simply selecting inputs instead of or setting up a high performance computing environment or dealing with DevOps.\r\n\r\n\r\nTamarind is used by tens of thousands researchers in large pharma companies, top biotechs, and academic institutions.",
+    "long_description": "Tamarind Bio is a website and API which allows scientists to use computational biology tools at scale using a simple interface. On Tamarind, scientists can use ML models like AlphaFold to design and simulate molecules by simply selecting inputs instead of or setting up a high performance computing environment or dealing with DevOps.\r\n\r\n\r\nTamarind is used by tens of thousands researchers in the majority of the top 20 pharma including Eli Lilly, top biotechs, and academic institutions.",
     "one_liner": "AI Inference Platform for Drug Discovery",
     "team_size": 20,
     "industry": "B2B",
@@ -42096,8 +42048,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/55b9b557f3faec62dfe5b2755730337e32975f4b.png",
     "website": "https://brainbaselabs.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Brainbase Labs is an applied AI research lab enabling AI in the workforce by building high-fidelity agent environments and tooling.\r\n\r\n",
-    "one_liner": "The AI Labor Company",
+    "long_description": "Brainbase is one platform with every primitive you need to deploy internal agents, managed by us or on-premise, across any model or harness.",
+    "one_liner": "Internal agent infrastructure for enterprise",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -47511,6 +47463,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/hyperspell.json"
   },
   {
+    "id": 30880,
+    "name": "Nessie",
+    "slug": "nessie",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/400e4be5acfaa12735760bedcf4f0ad136f82137.png",
+    "website": "https://nessielabs.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Nessie is shared context for all of your AI tools. It automatically syncs your conversations and agent sessions from ChatGPT, Claude, Claude Code, Codex, Cursor, Gemini, Perplexity and 20+ other tools into one place, so you, your team and your agents can search and build on everything you've worked through with AI.\r\n\r\nIf you use more than one AI tool, you know the problem. Claude doesn't know what you decided in ChatGPT. Codex doesn't know what Claude Code already tried. Every new session starts from zero. With Nessie, you can ask any agent what you decided about a project, what you already tried for a bug, or what a teammate concluded last week, and it answers from your actual history.\r\n\r\nInstall the app on Mac, Windows or Linux and connect your AI tools, plus meeting and note apps like Granola, Read AI, Plaud and Obsidian. Nessie keeps syncing in the background, and agents reach it through our MCP server, CLI and plugins.\r\n\r\nFor teams, Nessie turns everyone's AI work into shared knowledge. Share sessions with a teammate or the whole team, and every agent starts from what the team already knows: what was decided, what was tried, and why. Nessie is SOC 2 certified and runs as SaaS, on-prem or BYOC.\r\n\r\nFor leaders, Nessie is observability across every AI tool your team uses, not one vendor's dashboard. See which skills and workflows actually succeed, what each one costs, and who is getting results, then double down on what works. That's ROI measured on outcomes, not just tokens.\r\n\r\nWhere we're going: AI-native companies will run thousands of agents that are powerful but forget everything. Science has journals, law has case law, software has git; AI-native knowledge work has had nothing. Nessie is that shared memory, and it gets better as your company's own history grows.\r\n\r\nFounded by two Yale CS grads and former Amazon engineers in San Francisco. Backed by BoxGroup, Pioneer Fund, Y Combinator, Precursor, and more.",
+    "one_liner": "Shared context across ChatGPT, Claude, Codex, Cursor and more",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1762383705,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "Garry",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/nessie",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/nessie.json"
+  },
+  {
     "id": 30885,
     "name": "Semble",
     "slug": "semble",
@@ -47880,7 +47874,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ba3bd8042a63e5e4cc8707533d8561d2aa5bf74.png",
     "website": "https://corvera.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Corvera (YC W26) is the AI sales agent for CPG brands. We turn the data a brand already has into the actions its sales team takes today.\r\n\r\nA CPG brand sells into tens of thousands of independent US stores through dozens of distributors, and works that base with a handful of people. CLEAN Cause, a $20M yerba mate brand, covers 21,000 stores through 46 distributors with a four-person sales team. The accounts worth a call are not capped by headcount. The team is.\r\n\r\nCLEAN Cause now runs its daily sales decisions on Corvera: 5,000 queries in 40 days across 12 users, $250K of opportunities surfaced within days, and a 7x return on the analysts they would otherwise hire.\r\n\r\nWith Corvera in place, every sales rep starts the morning with:\r\n- The stores to act on today, ranked and priced, with the reason on the row,\r\n- The outreach already drafted to the right contact at the right distributor, and\r\n- The follow-up booked, logged, and measured against the goal it was set to move.\r\n\r\nAll from the distributor feeds, retailer portals, and ERP data they already have, resolved into one context layer - without a data team, and without handing their sales to a broker.\r\n\r\nWe’re founded by Chris (2x Founder; ex-CEO at Better Nature; Forbes 30U30), Dirk (ex-Google Data & AI Lead), and Matthew (ex-Head of Product at Rosemark; Princeton MEng in CS).\r\n\r\nTo date, we’ve raised $6.2M and are backed by YC, firstminute capital, 6 Degrees Capital, 20VC, Rebel Fund, Duke Capital Partners, and more. Our ICP is US CPG brands doing $20M+ in retail revenue through UNFI, KeHE and DSD distributors. We sell to VPs of Sales and CEOs.\r\n\r\nThe incumbents prove the scale. Brokers take 5-12% of a $350B US independent grocery market, and Advantage Solutions, a publicly traded company, does $3.5B in annual revenue.\r\n\r\nOur mission is bold: to enable the next generation of unicorn CPG brands to be run by teams of less than 10 people.\r\n\r\nOur vision is even bolder: to give every CPG brand the coverage of a full sales team at a fraction of the headcount, and displace the broker network that covers the US independent channel today.\r\n\r\nVisit www.corvera.ai to learn more!",
+    "long_description": "Corvera (YC W26) is the AI sales agent for CPG brands. We turn the data a brand already has into the actions its sales team takes today.\r\n\r\nA CPG brand sells into tens of thousands of independent US stores through dozens of distributors, and works that base with a handful of people. CLEAN Cause, a $20M yerba mate brand, covers 21,000 stores through 46 distributors with a four-person sales team. The accounts worth a call are not capped by headcount. The team is.\r\n\r\nCLEAN Cause now runs its daily sales decisions on Corvera: 5,000 queries in 40 days across 12 users, $250K of opportunities surfaced within days, and a 7x return on the analysts they would otherwise hire.\r\n\r\nWith Corvera in place, every sales rep starts the morning with:\r\n- The stores to act on today, ranked and priced, with the reason on the row,\r\n- The outreach already drafted to the right contact at the right distributor, and\r\n- The follow-up booked, logged, and measured against the goal it was set to move.\r\n\r\nAll from the distributor feeds, retailer portals, and ERP data they already have, resolved into one context layer - without a data team, and without handing their sales to a broker.\r\n\r\nWe’re founded by Chris (2x Founder; ex-CEO at Better Nature; Forbes 30U30) and Dirk (ex-Google Data & AI Lead).\r\n\r\nTo date, we’ve raised $6.2M and are backed by YC, firstminute capital, 6 Degrees Capital, 20VC, Rebel Fund, Duke Capital Partners, and more. Our ICP is US CPG brands doing $20M+ in retail revenue through UNFI, KeHE and DSD distributors. We sell to VPs of Sales and CEOs.\r\n\r\nThe incumbents prove the scale. Brokers take 5-12% of a $350B US independent grocery market, and Advantage Solutions, a publicly traded company, does $3.5B in annual revenue.\r\n\r\nOur mission is bold: to enable the next generation of unicorn CPG brands to be run by teams of less than 10 people.\r\n\r\nOur vision is even bolder: to give every CPG brand the coverage of a full sales team at a fraction of the headcount, and displace the broker network that covers the US independent channel today.\r\n\r\nVisit www.corvera.ai to learn more!",
     "one_liner": "The AI sales agent for CPG brands",
     "team_size": 3,
     "industry": "B2B",
@@ -48582,7 +48576,7 @@
     "former_names": [
       "Collar AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/35110e6bdfbfbf5706627685cbb370e170ff4a03.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e0d7cba39c34a79507cb7c89d4524ddfa9de7ccf.png",
     "website": "https://usecollarai.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Collar is helping enterprises fundraise faster.\r\n\r\nTraction in just 2 months: \r\n$1.4M deals pending compliance, half are Fortune 1000\r\n>30 clients including Fortune 500, NYSE and NASDAQ-listed companies.\r\n4X month over month revenue growth across multiple five-figure monthly enterprise contracts\r\n\r\nBig public companies spend 2/3 of their fundraising time on compiling accurate numbers across the whole business and investor meeting prep. \r\nThose who don’t do this themselves outsource to investor relations consultants that cost $15K/month\r\n\r\nCollar’s proprietary AI harness solves this by using agents to automatically target investors, reconcile data, and provide a live citation-backed teleprompter for meetings.\r\n\r\nFounders: Kazel and Jamie are both repeat founders with buy-side finance experience. \r\nKazel invented a new method of hacking with Softbank research funding at 17 and previously built a deep tech health startup adopted by the national hospitals in Singapore.\r\nJamie was Chief of Staff at Openspace, a billion-dollar multi-asset manager, and is also a repeat founder.\r\n\r\nThey previously worked together as the youngest Singapore AI defence contractors.",
@@ -49606,7 +49600,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a30dd6a7d86e342da32a42b330195358721c4571.png",
     "website": "https://neomatter.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Neomatter is a harness for in-house legal teams that integrates into communication channels like email and slack so it can complete the legal work before reaching the lawyer.",
+    "long_description": "Neomatter is an operating system that completes all of a companies legal work end to end\r\n",
     "one_liner": "AI harness that does all corporate legal work",
     "team_size": 2,
     "industry": "B2B",
