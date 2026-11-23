@@ -1,191 +1,171 @@
-# YC company changes for 2026-11-22
+# YC company changes for 2026-11-23
 
-- Previous total: 6406
+- Previous total: 6407
 - Current total: 6407
-- Added: 1
+- Added: 0
 - Removed: 0
-- Updated: 37
-
-## Added companies
-
-- [Opsis](https://www.ycombinator.com/companies/opsis) (Winter 2027 — Autocomplete everywhere that knows your work)
+- Updated: 33
 
 ## Updated companies
 
-### [Gusto](https://www.ycombinator.com/companies/gusto)
+### [Mino Games](https://www.ycombinator.com/companies/mino-games)
+
+- `regions`: ["United States of America","Canada","America / Canada","America / Canada"] → ["United States of America","Canada","America / Canada"]
+
+### [Aspire](https://www.ycombinator.com/companies/aspire)
+
+- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/753f62b42ec2f778dd6395d3ae91802c52ab6b5a.png → https://bookface-images.s3.amazonaws.com/small_logos/3ce307331846e9d196d15be91dfb2cbdf06e17c4.png
+
+### [Dripos](https://www.ycombinator.com/companies/dripos)
+
+- `isHiring`: false → true
+
+### [Quindar](https://www.ycombinator.com/companies/quindar)
+
+- `one_liner`: Datadog for Space → Infrastructure for Space
+- `stage`: Growth → Early
+- `tags`: ["SaaS","Space Exploration","Satellites","Aerospace"] → ["SaaS","Space Exploration","Satellites","Aerospace","Defense"]
+- `team_size`: 57 → 91
+
+### [Diffuse Bio](https://www.ycombinator.com/companies/diffuse-bio)
 
 - `stage`: Early → Growth
 
-### [Stripe](https://www.ycombinator.com/companies/stripe)
+### [Ora AI](https://www.ycombinator.com/companies/ora-ai)
 
-- `stage`: Early → Growth
+- `one_liner`: The AI Platform for Healthcare Education → Precision Education for Healthcare
 
-### [Atomic Industries](https://www.ycombinator.com/companies/atomic-industries)
+### [Andon Labs](https://www.ycombinator.com/companies/andon-labs)
 
-- `stage`: Early → Growth
-
-### [Chatwoot](https://www.ycombinator.com/companies/chatwoot)
-
-- `team_size`: 12 → 14
-
-### [DigiBuild Resilience](https://www.ycombinator.com/companies/digibuild-resilience)
-
-- `api`: https://yc-oss.github.io/api/batches/summer-2021/digibuild.json → https://yc-oss.github.io/api/batches/summer-2021/digibuild-resilience.json
-- `former_names`: ["DigiBuild Software Inc.","DigiBuild Software"] → ["DigiBuild Software Inc.","DigiBuild Software","DigiBuild"]
-- `long_description`: Our platform fixes construction's broken supply chain. 70% of construction projects finish late or over budget; procuring and managing building materials is ... → Advanced materials and disaster intelligence for buildings and critical infrastructure. Every building represents years of work. A home holds a family’s savi...
-- `name`: DigiBuild → DigiBuild Resilience
-- `one_liner`: We buy & track building materials for construction companies. → Physical AI solutions that Protect What We Build.
-- `slug`: digibuild → digibuild-resilience
-- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/619bfcc11ede71a157f8463466ae0bd8ddd6cc7e.png → https://bookface-images.s3.amazonaws.com/small_logos/fd340226433c62b25161ca1850caaa89e15335a0.png
-- `tags`: ["SaaS","Supply Chain","AI","ML"] → ["Supply Chain","Data Science","Advanced Materials","AI","Industrial"]
-- `team_size`: 15 → 4
-- `url`: https://www.ycombinator.com/companies/digibuild → https://www.ycombinator.com/companies/digibuild-resilience
-
-### [jo](https://www.ycombinator.com/companies/jo)
-
-- `one_liner`: The personal AI agent that keeps up with your work and life. → A personal agent for daily life
-- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/c9c7f687c3a57d8f3b931f1e760657237991cb95.png → https://bookface-images.s3.amazonaws.com/small_logos/fa9a04078a39902132c5bb6ab92fe04db3ba57ec.png
-- `team_size`: 2 → 1
-
-### [Tamarind Bio](https://www.ycombinator.com/companies/tamarind-bio)
-
-- `long_description`: Tamarind Bio is a website and API which allows scientists to use computational biology tools at scale using a simple interface. On Tamarind, scientists can u... → Tamarind Bio is a website and API which allows scientists to use computational biology tools at scale using a simple interface. On Tamarind, scientists can u...
+- `isHiring`: false → true
 
 ### [Brainbase Labs](https://www.ycombinator.com/companies/brainbase-labs)
 
-- `long_description`: Brainbase Labs is an applied AI research lab enabling AI in the workforce by building high-fidelity agent environments and tooling. → Brainbase is one platform with every primitive you need to deploy internal agents, managed by us or on-premise, across any model or harness.
-- `one_liner`: The AI Labor Company → Internal agent infrastructure for enterprise
+- `regions`: ["United States of America","America / Canada"] → ["United States of America","America / Canada","Remote","Partly Remote"]
+- `team_size`: 4 → 6
 
-### [Spark](https://www.ycombinator.com/companies/spark)
+### [Healia](https://www.ycombinator.com/companies/healia)
 
-- `tags`: ["Energy Storage","Solar Power","Climate","Energy","AI"] → ["Energy Storage","B2B","Climate","Energy","AI"]
+- `regions`: ["United States of America","America / Canada","Remote","Partly Remote"] → ["United States of America","America / Canada"]
+- `team_size`: 15 → 50
 
 ### [Corgi](https://www.ycombinator.com/companies/corgi)
 
-- `stage`: Growth → Early
-- `team_size`: 250 → 450
+- `stage`: Early → Growth
 
-### [Pipeshift](https://www.ycombinator.com/companies/pipeshift)
+### [RiskCube](https://www.ycombinator.com/companies/riskcube)
 
-- `one_liner`: Inference for real-time agents → Inference for Interactive Agents
+- `long_description`: RiskCube enables startups to close enterprise deals with top-rated insurance. Mission: Building insurance products & services focused on lowering the protect... → RiskCube enables startups to close enterprise deals with top-rated insurance. We offer everything startups need on their insurance journey—from D&O, cyber li...
 
-### [Innate](https://www.ycombinator.com/companies/innate)
+### [Struct](https://www.ycombinator.com/companies/struct-ai)
 
-- `long_description`: We make personal AI robots - general-purpose physical machines that anyone can teach with code, language and demonstrations. We believe building open platfor... → We make personal AI robots. We believe building open platforms like the first PCs this is the only way to bring the robotics future that we all want, where e...
+- `long_description`: Struct automatically sets up, manages, and triages alerts based on how your app is supposed to work in prod. Connect your coding agent to it to enable your s... → Struct is Datadog for agentic teams. Your agents need to manage telemetry without a human slowing them down. Struct makes it possible to add logs without dep...
 
-### [Elip AI](https://www.ycombinator.com/companies/elip-ai)
+### [10x Dental](https://www.ycombinator.com/companies/10x-dental)
 
-- `isHiring`: false → true
-- `long_description`: Elip sends you the jobs a friend would send you, and gives a company the shortlist a friend would write. For people: add your resume and say what you want an... → Good matches have reasons. A title leaves things out. "More responsibility" can mean leading a team, or owning the work without managing anyone. Your resume ...
-- `one_liner`: Jobs a friend would send you, and a shortlist a friend would write. → Good matches have reasons.
+- `api`: https://yc-oss.github.io/api/batches/winter-2025/10x.json → https://yc-oss.github.io/api/batches/winter-2025/10x-dental.json
+- `former_names`: ["GradeWIz","Gradewiz","GradeWiz","GradeWIz","GradeWiz"] → ["GradeWIz","Gradewiz","GradeWiz","GradeWIz","GradeWiz","10x"]
+- `name`: 10x → 10x Dental
+- `slug`: 10x → 10x-dental
+- `url`: https://www.ycombinator.com/companies/10x → https://www.ycombinator.com/companies/10x-dental
 
-### [Nessie](https://www.ycombinator.com/companies/nessie)
+### [Standard Physics](https://www.ycombinator.com/companies/standard-physics)
 
-- `long_description`: Knowledge work is being restructured by AI. Strategy happens in Claude. Research happens in ChatGPT. Building happens in Claude Code and Codex. Meetings get ... → Nessie is shared context for all of your AI tools. It automatically syncs your conversations and agent sessions from ChatGPT, Claude, Claude Code, Codex, Cur...
-- `one_liner`: The shared context layer for recursive companies. → Shared context across ChatGPT, Claude, Codex, Cursor and more
-- `tags`: [] → ["Developer Tools","SaaS","Enterprise Software","AI"]
+- `tags`: [] → ["Reinforcement Learning","Manufacturing"]
 
-### [Corvera](https://www.ycombinator.com/companies/corvera)
+### [Corelayer](https://www.ycombinator.com/companies/corelayer)
 
-- `long_description`: Corvera (YC W26) is the AI sales agent for CPG brands. We turn the data a brand already has into the actions its sales team takes today. A CPG brand sells in... → Corvera (YC W26) is the AI sales agent for CPG brands. We turn the data a brand already has into the actions its sales team takes today. A CPG brand sells in...
-
-### [shortkit](https://www.ycombinator.com/companies/shortkit)
-
-- `all_locations`:  → Remote
-- `regions`: ["Unspecified"] → ["Remote","Fully Remote"]
-- `team_size`: 2 → 3
-
-### [9 Mothers](https://www.ycombinator.com/companies/9-mothers-corporation)
-
-- `long_description`: We have sold $1.6m of systems to the DoW. Multiple systems delivered to the DoW. Our first product - EDDA - is a counter drone system - small, low power, low... → Pre demo day, June 2026: We have sold $1.6m of systems to the DoW. Multiple systems delivered to the DoW. Our first product - EDDA - is a counter drone syste...
-- `tags`: [] → ["Robotics","Drones","GovTech","Defense","AI"]
-- `team_size`: 19 → 35
-
-### [GodHands](https://www.ycombinator.com/companies/godhands)
-
-- `long_description`: GodHands learns how your teams actually work from the apps they already use, capturing the steps, decisions and exceptions that never get written down. It tu... → Analysts keep working real cases in the tools they already use. GodHands learns each decision and the reason behind it, then builds agents that work the next...
-- `one_liner`: Turn how your team works into playbooks and agents. → Fraud, risk and compliance agents that learn by watching analysts
-- `tags`: ["B2B","Enterprise","Automation","Operations","AI"] → ["B2B","Enterprise","Automation","Fraud Detection","Operations"]
+- `long_description`: Corelayer is the AI-native platform for production software support, built for regulated industries like finance and healthcare. It continuously monitors ale... → Corelayer builds AI systems that run production support, operations, site reliability engineering, and on-call for the world's largest companies, including t...
 
 ### [tday.com](https://www.ycombinator.com/companies/tdaycom)
 
-- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/ac6fc73f21af31774380b7d239f6d1a6a2aff66f.png → https://bookface-images.s3.amazonaws.com/small_logos/85798362f9c91ba42628f6a28d4011b747a9c69d.png
+- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/85798362f9c91ba42628f6a28d4011b747a9c69d.png → https://bookface-images.s3.amazonaws.com/small_logos/cf0ab54011ff6085db65df6f056d30faef43fd5f.png
 
 ### [Collar](https://www.ycombinator.com/companies/collar)
 
-- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/35110e6bdfbfbf5706627685cbb370e170ff4a03.png → https://bookface-images.s3.amazonaws.com/small_logos/e0d7cba39c34a79507cb7c89d4524ddfa9de7ccf.png
+- `long_description`: Collar is helping enterprises fundraise faster. Traction in just 2 months: $1.4M deals pending compliance, half are Fortune 1000 >30 clients including Fortun... → Collar is helping enterprises fundraise faster. Traction in just 2 months: $1.4M deals pending compliance, half are Fortune 1000 >30 clients including Fortun...
+- `one_liner`: Helping Enterprises Fundraise Faster → AI-Native Investor Relations
+- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/e0d7cba39c34a79507cb7c89d4524ddfa9de7ccf.png → https://bookface-images.s3.amazonaws.com/small_logos/bcc2083dd748d9e5e2bb9f15d6cfe10a5fbe93b3.png
 
-### [Nxtcure Labs](https://www.ycombinator.com/companies/nxtcure-labs)
+### [Graphify Labs](https://www.ycombinator.com/companies/graphify-labs)
 
-- `one_liner`: Engineering the future of Cancer Drug Discovery → AI CRO with Digital Twins
+- `long_description`: Graphify is a Knowledge Graph control plane for enterprise software. The open-source tool has 116K+ GitHub stars and 6.5M+ downloads, and is used in producti... → Graphify is a Knowledge Graph control plane for enterprise software. The open-source tool has 152K+ GitHub stars and 11.5M+ downloads, and is used in product...
+- `one_liner`: Shared Understanding of Codebase for Agents and Developers → Shared Context of Codebase for Agents and Developers
+- `website`: https://www.graphify.com/ → https://graphify.com/
 
-### [CONUS](https://www.ycombinator.com/companies/conus)
+### [HillStar](https://www.ycombinator.com/companies/hillstar)
 
-- `long_description`: CONUS structures fragmented medical device information for surgeons. We combine manufacturer documentation, hospital protocols and medical research in one pl... → CONUS structures fragmented medical device information for surgeons. We combine manufacturer documentation, hospital protocols and medical research in one pl...
+- `industries`: ["B2B"] → ["Industrials","Energy"]
+- `industry`: B2B → Industrials
+- `long_description`:  → HillStar helps utilities buy power. Electricity demand is surging, and regulated utilities are still mostly responsible for meeting it. Each power solicitati...
+- `one_liner`: AI that helps utilities buy power. → HillStar helps utilities buy power.
+- `subindustry`: B2B → Industrials -> Energy
 
-### [Kara](https://www.ycombinator.com/companies/kara)
+### [Simantic](https://www.ycombinator.com/companies/simantic)
 
-- `long_description`: Kara is building diamond semiconductors. We begin with growing ultra-high purity diamond wafers for advanced hardware. Used in data centers, spacecrafts, RF ... → Kara is building diamond semiconductors. We begin with ultra-high purity diamond wafers for advanced hardware. Used in data centers, spacecrafts, RF systems,...
-- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/164dc834616a28cf5df07c4ef025f55efa9a28d4.png → https://bookface-images.s3.amazonaws.com/small_logos/9e736405eb263e8da9d3fec9ce06520617ab2317.png
+- `all_locations`: Waterloo, ON, Canada → San Francisco, CA, USA
+- `regions`: ["Canada","America / Canada"] → ["United States of America","America / Canada"]
 
-### [TryNearby](https://www.ycombinator.com/companies/trynearby)
+### [Runtime](https://www.ycombinator.com/companies/runtime-si)
 
-- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/043d0df2ce658d03b7ad1d70bb0deaa3f2282ea5.png → https://bookface-images.s3.amazonaws.com/small_logos/cc68193d31189843096714388c0df38b8effd893.png
+- `api`: https://yc-oss.github.io/api/batches/fall-2026/runtimesi.json → https://yc-oss.github.io/api/batches/fall-2026/runtime-si.json
+- `former_names`: ["Lambda Robotics","Runtime"] → ["Lambda Robotics","Runtime","Runtime.si"]
+- `long_description`: Runtime is building a simulation-based robot policy that needs no fine-tuning or teleoperation. → Runtime is building fast, reliable agentic robotics to help robots learn new tasks without fine-tuning.
+- `name`: Runtime.si → Runtime
+- `one_liner`: Robots that think in simulation → Fast, Reliable Agentic Robotics
+- `slug`: runtimesi → runtime-si
+- `url`: https://www.ycombinator.com/companies/runtimesi → https://www.ycombinator.com/companies/runtime-si
 
-### [Florin](https://www.ycombinator.com/companies/florin)
+### [Topos](https://www.ycombinator.com/companies/topos)
 
-- `long_description`: Florin is a full-stack insurance carrier where a model does the underwriting. When a submission comes in, Florin reads the ACORD forms, then investigates the... → Florin is building a full-stack insurance carrier where a model does the underwriting. When a submission comes in, Florin reads the ACORD forms, then investi...
+- `industries`: ["Industrials"] → ["B2B"]
+- `industry`: Industrials → B2B
+- `subindustry`: Industrials → B2B
 
-### [Neomatter](https://www.ycombinator.com/companies/neomatter)
+### [TrueMile](https://www.ycombinator.com/companies/truemile)
 
-- `long_description`: Neomatter is a harness for in-house legal teams that integrates into communication channels like email and slack so it can complete the legal work before rea... → Neomatter is an operating system that completes all of a companies legal work end to end
+- `long_description`: TrueMile is a trucking company run by AI agents. Drivers who own their trucks join our company and earn 30% more profit, while agents run our back office so ... → Drivers who own their trucks join our company and earn 30% more profit, while agents run our back office so one person can now manage 9x the amount of trucks...
+- `one_liner`: The trucking company run by AI agents. → AI-native trucking company
 
-### [Petrichor](https://www.ycombinator.com/companies/petrichor)
+### [Agent Relay](https://www.ycombinator.com/companies/agent-relay)
 
-- `team_size`: 3 → 2
+- `long_description`: Agent Relay lets software teams' AI coding agents message each other directly, so people stop copy/pasting between Claude Code, Codex, Cursor, and their team... → Agent Relay lets software teams' AI coding agents message each other directly, so people stop copy/pasting between Claude Code, Codex, Cursor, and their team...
 
-### [Nitroduck](https://www.ycombinator.com/companies/nitroduck)
+### [Halmos Labs](https://www.ycombinator.com/companies/halmos-labs)
 
-- `long_description`: We make gene editing easy for all crops. To make pesticides obsolete across vegetables and fruits, enabling coffee to withstand heat waves, making almonds in... → Nitroduck designs new colors, flavors and disease resistance into fruits and veggies by bringing gene editing into breeding.
-- `one_liner`: Monsanto for yummy crops, but without pesticides → Nitroduck designs new colors, flavors and disease resistance into…
+- `long_description`: The drug development pipeline is built around humans. Other AI biotech companies build automation around the established infrastructure. Halmos Labs rebuilds... → AI can create new drugs and design experiments. They are limited by physical validation. physicalvalidation.com by Halmos Labs offers an API to execute any e...
 
-### [Munito AI](https://www.ycombinator.com/companies/munito-ai)
+### [Telamont](https://www.ycombinator.com/companies/telamont)
 
-- `long_description`: Munito is an open-model inference provider for Europe, private by default. Its API lets users choose their models and keep inference and storage in the EU. F... → Munito AI is the open-model AI cloud for Europe, private by default. Its API lets users choose their models and keep inference and storage in the EU. We star...
-- `one_liner`: Open-model inference provider for Europe, private by default. → Open-model AI cloud for Europe, private by default.
+- `long_description`: Telamont catches contractual, technical and code-compliance risks in construction documents and gives teams the system to act on them before they become cost... → Construction projects lose money in the gap between what the documents say and what gets built. One missed discrepancy between the specs, drawings, geotechni...
+- `one_liner`: Sentry for errors in construction documents → AI that catches errors in construction documents
 
-### [Helios Intelligence](https://www.ycombinator.com/companies/helios-intelligence)
+### [Shire Intelligence](https://www.ycombinator.com/companies/shire-intelligence)
 
-- `long_description`: Helios is building a molecular body test from a single drop of blood. Our at-home test measures more than 1,000 biomarkers and turns them into a living model... → Helios is building a molecular body test from a single drop of blood. Our at-home test measures more than 1,000 biomarkers and turns them into a living model...
-- `website`: https://www.heliosinc.ai/ → https://www.myhelios.com/
+- `long_description`: Shire is an AI floor manager for full-service restaurants, running on the cameras they already have. It sees what a great manager sees: a guest ready to orde... → Shire is building the operating system for self-driving restaurants. Shire connects to restaurants' existing cameras to understand what's happening in real t...
 
-### [Ordo Labs](https://www.ycombinator.com/companies/ordo-labs)
+### [Elithia](https://www.ycombinator.com/companies/elithia)
 
-- `long_description`: Ordo is rebuilding lab software for the AI era. The next generation of lab software will be a workforce scientists direct. We’re building it for regulated la... → Ordo is rebuilding lab software for the AI era. The next generation of lab software will be a workforce scientists direct. We’re building it for regulated la...
+- `long_description`: US workers' compensation paid out $64.1 billion in 2023. Personal injury, malpractice, and other insurance claims add billions more. Behind every one of thes... → US workers' compensation paid out $64.1 billion in 2023. Personal injury, malpractice, and other insurance claims add billions more. Behind every one of thes...
+- `one_liner`: Agents for the medical review behind every claim → AI-native medical opinions
 
-### [Kairox Systems](https://www.ycombinator.com/companies/kairox-systems)
+### [Ageospatial](https://www.ycombinator.com/companies/ageospatial)
 
-- `long_description`: Kairox Systems combines the speed of aerial drones and the stealth of underwater drones into one vehicle. We can look for mines in a strait, fly out of the w... → Kairox Systems combines the speed of aerial drones and the stealth of underwater drones into one vehicle. We can look for mines in a strait, fly out of the w...
+- `long_description`: Ageospatial helps organizations value the risk on their physical assets (properties, land, infrastructure) remotely using satellite imagery. 97% of commercia... → Ageospatial helps organizations value the risk on their physical assets (properties, land, infrastructure) remotely using geospatial AI. Some of the largest ...
 
-### [Streamline Systems](https://www.ycombinator.com/companies/streamline-systems)
+### [BioDelivera](https://www.ycombinator.com/companies/biodelivera)
 
-- `long_description`: Streamline Systems is building the replacement for GPS. Satellite positioning has become the single point of failure for almost every modern system, both mil... → Streamline Systems is building the replacement for GPS. Satellite positioning has become the single point of failure for almost every modern system, both mil...
+- `website`: https://biodelivera.com/ → https://biodelivera.ai/
 
-### [Odin Robotics](https://www.ycombinator.com/companies/odin-robotics)
+### [Redoubt Insurance](https://www.ycombinator.com/companies/redoubt-insurance)
 
-- `one_liner`: Robot arms that do repetitive manual work in existing factories. → We deploy robots that adapt to high-mix factories.
+- `all_locations`: Salt Lake City, UT, USA → San Francisco, CA, USA
 
-### [Composal](https://www.ycombinator.com/companies/composal)
+### [Lark](https://www.ycombinator.com/companies/lark-2)
 
-- `all_locations`: London, England, United Kingdom → San Francisco, CA, USA
-- `one_liner`: Always-on agents that keep working after engineers log off → Always-on agents that don't need to be prompted
-- `regions`: ["United Kingdom","Europe"] → ["United States of America","America / Canada"]
+- `one_liner`: AI agents that automate workflows for distributors → AI native operating system for distributors
 
-### [FlashDrive](https://www.ycombinator.com/companies/flashdrive)
+### [Godpack](https://www.ycombinator.com/companies/godpack)
 
-- `website`: https://flashdrive.space → https://flashdrive.ai
-
-### [Tesser](https://www.ycombinator.com/companies/tesser)
-
-- `one_liner`: Seamless cloud dev environments → Disposable cloud VMs for development workloads
+- `team_size`: 5 → 3
 

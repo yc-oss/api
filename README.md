@@ -15,7 +15,7 @@ review what YC changed without digging through the full repository diff.
 
 API endpoint: https://yc-oss.github.io/api/meta.json
 
-- Last updated: November 22, 2026 at 4:09 AM
+- Last updated: November 23, 2026 at 4:50 AM
 - Companies: 6407
 - Batches: 51
 - Industries: 59
@@ -133,7 +133,7 @@ API endpoint: https://yc-oss.github.io/api/meta.json
 | Drones                          | 25    | https://yc-oss.github.io/api/industries/drones.json                         |
 | Drug Discovery and Delivery     | 62    | https://yc-oss.github.io/api/industries/drug-discovery-and-delivery.json    |
 | Education                       | 125   | https://yc-oss.github.io/api/industries/education.json                      |
-| Energy                          | 61    | https://yc-oss.github.io/api/industries/energy.json                         |
+| Energy                          | 62    | https://yc-oss.github.io/api/industries/energy.json                         |
 | Engineering, Product and Design | 635   | https://yc-oss.github.io/api/industries/engineering-product-and-design.json |
 | Finance and Accounting          | 141   | https://yc-oss.github.io/api/industries/finance-and-accounting.json         |
 | Fintech                         | 672   | https://yc-oss.github.io/api/industries/fintech.json                        |
@@ -285,7 +285,7 @@ API endpoint: https://yc-oss.github.io/api/meta.json
 | Dating                                                 | 6     | https://yc-oss.github.io/api/tags/dating.json                                                |
 | Deep Learning                                          | 48    | https://yc-oss.github.io/api/tags/deep-learning.json                                         |
 | Deepfake Detection                                     | 1     | https://yc-oss.github.io/api/tags/deepfake-detection.json                                    |
-| Defense                                                | 42    | https://yc-oss.github.io/api/tags/defense.json                                               |
+| Defense                                                | 43    | https://yc-oss.github.io/api/tags/defense.json                                               |
 | DeFi                                                   | 12    | https://yc-oss.github.io/api/tags/defi.json                                                  |
 | Delivery                                               | 54    | https://yc-oss.github.io/api/tags/delivery.json                                              |
 | Dental                                                 | 5     | https://yc-oss.github.io/api/tags/dental.json                                                |
@@ -387,7 +387,7 @@ API endpoint: https://yc-oss.github.io/api/meta.json
 | Location-based                                         | 3     | https://yc-oss.github.io/api/tags/location-based.json                                        |
 | Logistics                                              | 137   | https://yc-oss.github.io/api/tags/logistics.json                                             |
 | Machine Learning                                       | 254   | https://yc-oss.github.io/api/tags/machine-learning.json                                      |
-| Manufacturing                                          | 122   | https://yc-oss.github.io/api/tags/manufacturing.json                                         |
+| Manufacturing                                          | 123   | https://yc-oss.github.io/api/tags/manufacturing.json                                         |
 | Maritime                                               | 5     | https://yc-oss.github.io/api/tags/maritime.json                                              |
 | Market Research                                        | 20    | https://yc-oss.github.io/api/tags/market-research.json                                       |
 | Marketing                                              | 124   | https://yc-oss.github.io/api/tags/marketing.json                                             |
@@ -443,7 +443,7 @@ API endpoint: https://yc-oss.github.io/api/meta.json
 | Recruiting                                             | 69    | https://yc-oss.github.io/api/tags/recruiting.json                                            |
 | Referrals                                              | 2     | https://yc-oss.github.io/api/tags/referrals.json                                             |
 | Regtech                                                | 19    | https://yc-oss.github.io/api/tags/regtech.json                                               |
-| Reinforcement Learning                                 | 53    | https://yc-oss.github.io/api/tags/reinforcement-learning.json                                |
+| Reinforcement Learning                                 | 54    | https://yc-oss.github.io/api/tags/reinforcement-learning.json                                |
 | Remittances                                            | 6     | https://yc-oss.github.io/api/tags/remittances.json                                           |
 | Remote                                                 | 6     | https://yc-oss.github.io/api/tags/remote.json                                                |
 | Remote Work                                            | 15    | https://yc-oss.github.io/api/tags/remote-work.json                                           |

@@ -564,7 +564,6 @@
     "regions": [
       "United States of America",
       "Canada",
-      "America / Canada",
       "America / Canada"
     ],
     "stage": "Growth",
@@ -6919,7 +6918,7 @@
     "name": "Aspire",
     "slug": "aspire",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/753f62b42ec2f778dd6395d3ae91802c52ab6b5a.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ce307331846e9d196d15be91dfb2cbdf06e17c4.png",
     "website": "https://aspireapp.com",
     "all_locations": "Singapore, Singapore",
     "long_description": "Aspire is the all-in-one finance operating system for businesses.\r\n\r\nWe help companies pay, manage, and earn smarter - by doing more than a bank, bookkeeper, or rewards program could ever do alone.\r\n\r\nOur mission is to empower the next generation of entrepreneurs with the financial tools they need to realise their company’s full potential.\r\n\r\nWe believe that if we can empower business owners to be successful, they will go on to make a meaningful impact to the communities we are all part of.",
@@ -13619,6 +13618,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/blue-onion",
     "api": "https://yc-oss.github.io/api/batches/summer-2020/blue-onion.json"
+  },
+  {
+    "id": 21790,
+    "name": "Dripos",
+    "slug": "dripos",
+    "former_names": [
+      "Drip"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f0fd578735825717b2afbf0834e1df6184ba35be.png",
+    "website": "https://dripos.com",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "Dripos is the only piece of software a coffee shop needs to run their business. We offer point of sale, employee scheduling, mobile ordering, and more to the 100,000 cafes in the United States.",
+    "one_liner": "The only piece of software a coffee shop needs to operate.",
+    "team_size": 35,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Payments",
+    "launched_at": 1596049185,
+    "tags": [
+      "Fintech",
+      "SaaS"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2020",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Payments"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "partners": "Unspecified",
+    "app_video_public": false,
+    "demo_day_video_public": true,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dripos",
+    "api": "https://yc-oss.github.io/api/batches/summer-2020/dripos.json"
   },
   {
     "id": 21791,
@@ -27835,8 +27879,8 @@
     "website": "https://www.quindar.space",
     "all_locations": "Denver, CO, USA",
     "long_description": "Quindar is a web app used by satellite owners to analyze, test and operate their constellation. For example, Airbus could use Quindar to operate their satellite fleet with minimal human intervention.\r\n  \r\nWe’re six former OneWeb engineers who helped build the software platform that currently operates the second largest satellite constellation in the world.\r\n \r\nThe space industry is shifting from companies launching a handful of satellites over a decade, to launching hundreds of satellites EACH in just a few years. Our SaaS platform automates mission management and for a single engineer to operate hundreds of satellites instead of the traditional model of many engineers operating a single satellite.",
-    "one_liner": "Datadog for Space",
-    "team_size": 57,
+    "one_liner": "Infrastructure for Space",
+    "team_size": 91,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1657040679,
@@ -27844,7 +27888,8 @@
       "SaaS",
       "Space Exploration",
       "Satellites",
-      "Aerospace"
+      "Aerospace",
+      "Defense"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -27861,7 +27906,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "partners": "Harj",
     "app_video_public": false,
     "demo_day_video_public": false,
@@ -31157,7 +31202,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "partners": "Unspecified",
     "app_video_public": false,
     "demo_day_video_public": false,
@@ -36671,6 +36716,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/poka-labs.json"
   },
   {
+    "id": 29253,
+    "name": "Andon Labs",
+    "slug": "andon-labs",
+    "former_names": [
+      "Vectorview"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7330cbaf802a2b7ccf2d046a09809940eb0d1050.png",
+    "website": "https://andonlabs.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Safety from humans in the loop is a mirage. We evaluate, research, and apply AI control in our own real-world deployments of autonomous organizations.\r\n\r\nWe are building the Safe Autonomous Organization. We iteratively launch and scale autonomous organizations, while bridging AI control research with real-world testing.",
+    "one_liner": "Autonomous organizations without humans in the loop",
+    "team_size": 11,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1699380174,
+    "tags": [
+      "Machine Learning",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "Diana",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/andon-labs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/andon-labs.json"
+  },
+  {
     "id": 29254,
     "name": "Reducto",
     "slug": "reducto",
@@ -38868,7 +38956,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Brainbase is one platform with every primitive you need to deploy internal agents, managed by us or on-premise, across any model or harness.",
     "one_liner": "Internal agent infrastructure for enterprise",
-    "team_size": 4,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1707350817,
@@ -38890,7 +38978,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "partners": "Harj",
@@ -39645,7 +39735,7 @@
     "all_locations": "Columbus, OH, USA",
     "long_description": "Healia is reinventing health insurance for dual income families. Our product enables companies to pay for the out of pocket costs of any employee that enrolls in their spouse's health insurance plan. This saves customers $10k per enrollee while providing an incredible employee perk: 100% coverage of a family's health costs.\r\n\r\nWe’re now up to 50+ customers coast-to-coast with over 40k employees using our product!",
     "one_liner": "Modern health insurance for dual income families",
-    "team_size": 15,
+    "team_size": 50,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1707967345,
@@ -39662,9 +39752,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "partners": "Unspecified",
@@ -40966,7 +41054,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "partners": "Jared",
     "app_video_public": false,
     "demo_day_video_public": false,
@@ -47007,14 +47095,15 @@
   },
   {
     "id": 30250,
-    "name": "10x",
-    "slug": "10x",
+    "name": "10x Dental",
+    "slug": "10x-dental",
     "former_names": [
       "GradeWIz",
       "Gradewiz",
       "GradeWiz",
       "GradeWIz",
-      "GradeWiz"
+      "GradeWiz",
+      "10x"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ba966c23157e18273203c5a895b88637e3e4b8e0.png",
     "website": "https://www.10xdental.com/",
@@ -47045,8 +47134,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/10x",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/10x.json"
+    "url": "https://www.ycombinator.com/companies/10x-dental",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/10x-dental.json"
   },
   {
     "id": 30254,
@@ -63409,11 +63498,11 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/86638f711e7120765749c6eed494d61cbab74bfc.png",
     "website": "https://hillstar.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "AI that helps utilities buy power.",
+    "long_description": "HillStar helps utilities buy power. Electricity demand is surging, and regulated utilities are still mostly responsible for meeting it. Each power solicitation is a multi-decade, billion-dollar decision that takes years, involves 50+ people, and forces hard trade-offs across regulation, permitting, engineering, and economics. HillStar runs that process. In January, we're launching a 2 GW solicitation for a top-five U.S. utility, open to hundreds of power developers.",
+    "one_liner": "HillStar helps utilities buy power.",
     "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Energy",
     "launched_at": 1793224703,
     "tags": [
       "Energy",
@@ -63426,7 +63515,8 @@
     "batch": "Fall 2026",
     "status": "Active",
     "industries": [
-      "B2B"
+      "Industrials",
+      "Energy"
     ],
     "regions": [
       "United States of America",
@@ -63580,7 +63670,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12eef74104b6e57636a6f0d2305e3a2d18d5c2e5.png",
     "website": "https://simantic.com",
-    "all_locations": "Waterloo, ON, Canada",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Simantic is modernizing the embedded firmware industry with hardware simulation developed for the adoption of AI in hardware engineering. Simantic gives both humans and AI the visibility into hardware previously limited by the physical world.",
     "one_liner": "Firmware simulation for AI agents",
     "team_size": 4,
@@ -63605,7 +63695,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Canada",
+      "United States of America",
       "America / Canada"
     ],
     "stage": "Early",
@@ -63664,17 +63754,18 @@
   },
   {
     "id": 34365,
-    "name": "Runtime.si",
-    "slug": "runtimesi",
+    "name": "Runtime",
+    "slug": "runtime-si",
     "former_names": [
       "Lambda Robotics",
-      "Runtime"
+      "Runtime",
+      "Runtime.si"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/461a9d05728add7a3449b82167ac418e94d301eb.png",
     "website": "https://runtime.si/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Runtime is building a simulation-based robot policy that needs no fine-tuning or teleoperation.",
-    "one_liner": "Robots that think in simulation",
+    "long_description": "Runtime is building fast, reliable agentic robotics to help robots learn new tasks without fine-tuning.",
+    "one_liner": "Fast, Reliable Agentic Robotics",
     "team_size": 5,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -63704,8 +63795,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/runtimesi",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/runtimesi.json"
+    "url": "https://www.ycombinator.com/companies/runtime-si",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/runtime-si.json"
   },
   {
     "id": 34596,

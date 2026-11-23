@@ -15500,7 +15500,10 @@
     "industry": "Industrials",
     "subindustry": "Industrials",
     "launched_at": 1769244149,
-    "tags": [],
+    "tags": [
+      "Reinforcement Learning",
+      "Manufacturing"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -19839,6 +19842,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/ethos-space-resources.json"
   },
   {
+    "id": 33318,
+    "name": "HillStar",
+    "slug": "hillstar",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/86638f711e7120765749c6eed494d61cbab74bfc.png",
+    "website": "https://hillstar.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "HillStar helps utilities buy power. Electricity demand is surging, and regulated utilities are still mostly responsible for meeting it. Each power solicitation is a multi-decade, billion-dollar decision that takes years, involves 50+ people, and forces hard trade-offs across regulation, permitting, engineering, and economics. HillStar runs that process. In January, we're launching a 2 GW solicitation for a top-five U.S. utility, open to hundreds of power developers.",
+    "one_liner": "HillStar helps utilities buy power.",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Energy",
+    "launched_at": 1793224703,
+    "tags": [
+      "Energy",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Energy"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "partners": "Garry",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hillstar",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/hillstar.json"
+  },
+  {
     "id": 33319,
     "name": "Vernius Systems, Inc.",
     "slug": "vernius-systems-inc",
@@ -20060,17 +20106,18 @@
   },
   {
     "id": 34365,
-    "name": "Runtime.si",
-    "slug": "runtimesi",
+    "name": "Runtime",
+    "slug": "runtime-si",
     "former_names": [
       "Lambda Robotics",
-      "Runtime"
+      "Runtime",
+      "Runtime.si"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/461a9d05728add7a3449b82167ac418e94d301eb.png",
     "website": "https://runtime.si/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Runtime is building a simulation-based robot policy that needs no fine-tuning or teleoperation.",
-    "one_liner": "Robots that think in simulation",
+    "long_description": "Runtime is building fast, reliable agentic robotics to help robots learn new tasks without fine-tuning.",
+    "one_liner": "Fast, Reliable Agentic Robotics",
     "team_size": 5,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -20100,8 +20147,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/runtimesi",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/runtimesi.json"
+    "url": "https://www.ycombinator.com/companies/runtime-si",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/runtime-si.json"
   },
   {
     "id": 34596,
@@ -20188,46 +20235,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/chempilotai",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/chempilotai.json"
-  },
-  {
-    "id": 34861,
-    "name": "Topos",
-    "slug": "topos",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/07dc8cbe943d3786ff88a0ef85951aa9f324ee98.png",
-    "website": "https://www.toposlab.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Topos is an applied AI lab founded by two Harvard math dropouts, building agent swarms to achieve the next frontier of intelligence. ",
-    "one_liner": "Agent swarms",
-    "team_size": 2,
-    "industry": "Industrials",
-    "subindustry": "Industrials",
-    "launched_at": 1792768801,
-    "tags": [
-      "Swarm AI",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2026",
-    "status": "Active",
-    "industries": [
-      "Industrials"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "partners": "Charlie",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/topos",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/topos.json"
   },
   {
     "id": 34896,
@@ -21934,7 +21941,7 @@
     "website": "https://larkagents.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Lark deploys AI agents for distributors to automate purchasing, demand forecasting, inventory monitoring, sales operations, and data analysis. We launched 8 weeks ago and went from $0 to $20.9K MRR growing 104% MoM. \r\n\r\nOur agents connect to the ERP, CRM, email, spreadsheets, and other software your team already uses. They forecast demand, prepare purchase orders, flag inventory issues, update sales records, and answer questions using your business data. Together, these agents can run a distributor’s entire operation.\r\n\r\nWe handle setup and tailor each agent to your workflows, business rules, and approval limits, so your team can automate recurring work while staying in control.",
-    "one_liner": "AI agents that automate workflows for distributors",
+    "one_liner": "AI native operating system for distributors ",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials",
