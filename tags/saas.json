@@ -34164,7 +34164,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "partners": "Harj",
     "app_video_public": false,
     "demo_day_video_public": false,
@@ -44716,7 +44716,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2024",
     "status": "Active",
@@ -45678,7 +45678,7 @@
       "Highintent",
       "Gowatch"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9723a0c8fde3142adacaa4d7586341acafc34422.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/54f6f3bf2eb19881e5f68429e7b1bace34f5e7f0.png",
     "website": "http://www.bystreet.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Find your next deal with our global hotel data and contact information for property owners and decision-makers. Trusted by some of the world's leading hospitality firms: Marriott International, Choice Hotels, Wyndham Hotels & Resorts, Hotel Equities, and more. ",
@@ -47754,7 +47754,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -48663,52 +48663,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/probe",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/probe.json"
-  },
-  {
-    "id": 31549,
-    "name": "Enjamb Labs",
-    "slug": "enjamb-labs",
-    "former_names": [
-      "Enjamb Labs Inc",
-      "Enjamb"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b1348d79301216902dfdfa731a133bfa809b1447.png",
-    "website": "https://www.enjamb.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We've worked with 130 life science companies, preclinical through phase 3, to deploy AI securely inside the systems they already work in.\r\n\r\nPharma runs on decades of closed software like Benchling, Veeva, Medidata, and SAS. None of it has an AI layer or speaks MCP, so agents cannot reach the systems where the work lives.\r\n\r\nEnjamb is that layer. Our agents run on top of existing systems and data, with no migration, and they reach the lab systems and internal tools no other AI touches. They learn how a team works, then do the work in Slack, in Teams, and in the systems themselves, across preclinical research, clinical evidence, trial design, statistical programming, and regulatory submissions.\r\n\r\nThis is AI tailored for how medicine gets made.",
-    "one_liner": "The AI Workforce for Biopharma",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1779929226,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Biotech",
-      "Automation",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "partners": "Nicolas",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/enjamb-labs",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/enjamb-labs.json"
   },
   {
     "id": 31570,
@@ -49778,7 +49732,7 @@
     "website": "https://www.mirrors.dev",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Mirrors gives developers the infrastructure to control what production AI agents are told, and when. Today that lives in long prompts and skills the agent may never open, so agents keep breaking rules they've already been given. With Mirrors, a developer writes a rule once and defines where it applies, and Mirrors delivers it at the exactly where the agent needs to see it and measures whether it helped. It works with any agent framework and any model.",
-    "one_liner": "Give AI agents situation-specific context",
+    "one_liner": "Real-time steering for production AI agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -49821,8 +49775,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b17bfb784fbfd8ce18bf9fc551a8a6c2a2c68f02.png",
     "website": "https://www.asakana.co/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Restaurants send orders to food distributors by email, text, and photo. Someone at the distributor retypes every one of them into the ERP. Asakana does that entry instead: orders land in the ERP already entered, and anything unclear goes to a person before it goes in. Live at US seafood distributors today, returning 40%+ of order-desk time to selling. Founded by a seafood distributor and a Gemini builder.",
-    "one_liner": "Automating away manual admin for food distributors: texts to ERP",
+    "long_description": "Founded by an ex-seafood distributor and ex-McKinsey, and an 8-year Google AI engineer who built Gemini's web agents.\r\nRestaurants send orders to food distributors by email, text, and WeChat. Someone at the distributor retypes them into the ERP. Asakana does that entry instead. Live at our first customer, saving 95% of order entry time per order. Its $4B parent group is now rolling Asakana out across its companies. cMRR growing 41% WoW",
+    "one_liner": "Back-office automation for food distributors, no behavior change",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",

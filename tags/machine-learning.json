@@ -4905,7 +4905,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Analytics"
@@ -8101,7 +8101,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -10396,6 +10396,52 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/probe.json"
   },
   {
+    "id": 31549,
+    "name": "Enjamb Labs",
+    "slug": "enjamb-labs",
+    "former_names": [
+      "Enjamb Labs Inc",
+      "Enjamb"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eb32d60ea4c36f3aa1c2bcee107868ffa450011b.png",
+    "website": "https://www.enjamb.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "General models know a lot. Experts know when something is wrong before they can say why, and they earned that over years of getting it wrong. Outside of code, the record of how they got good sits locked inside the companies where they did the work, on old servers, in formats nobody reads anymore, sometimes on paper.\r\n\r\nEnjamb builds Earned Intelligence. We recover that expert work and use it to give foundation models the intuition they can't learn from the open web. For companies, we train custom models on their own history and deploy agents that work alongside their teams.\r\n\r\nWe work with 13 AI and robotics labs, building the data, environments and evals that give their models intuition for the physical world.",
+    "one_liner": "Earned Intelligence. Data, RL environments and custom models",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1779929226,
+    "tags": [
+      "Machine Learning",
+      "Reinforcement Learning",
+      "Robotics",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "Nicolas",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/enjamb-labs",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/enjamb-labs.json"
+  },
+  {
     "id": 31555,
     "name": "rekursiv.ai",
     "slug": "rekursivai",
@@ -10685,7 +10731,7 @@
     "tags": [
       "Hardware",
       "Machine Learning",
-      "Robotics",
+      "Reinforcement Learning",
       "Electronics",
       "AI"
     ],

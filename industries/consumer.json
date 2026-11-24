@@ -5029,7 +5029,7 @@
     "slug": "anywhere-fm",
     "former_names": [],
     "small_logo_thumb_url": "/company/thumb/missing.png",
-    "website": "http://anywhere.fm",
+    "website": null,
     "all_locations": "",
     "long_description": "Anywhere.fm lets you upload your music collection onto their site and then play your music anywhere from the web. They offer their own iTunes look-alike music player through which you can play your songs. The site also incorporates social networking aspects, allowing you to create your own profile and discover new music through Friend Radio.",
     "one_liner": "",
@@ -17298,7 +17298,7 @@
       "Statecraft"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a375bb2b5825f333532f9af82e4748e3712a25c8.png",
-    "website": "https://openland.com",
+    "website": null,
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Openland is a messenger for communities. It is focused on fundamental human needs: making new friends, safe self-expression, and learning from others. Openland is a home for some of the most active and supportive chat communities on the Internet. Anyone can start and grow their own community on Openland, for free. Openland was founded in 2017 and is based in San Francisco. The company is backed by 30 prominent venture investors, including Y Combinator, Gagarin Capital, Sinai Ventures, Soma Capital, Liquid 2 Ventures, and Rainfall Ventures.",
     "one_liner": "Messenger for communities",
@@ -29368,10 +29368,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "Consumer"
     ],
@@ -34647,6 +34647,45 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/freestyle-ai.json"
   },
   {
+    "id": 30196,
+    "name": "AgentJam",
+    "slug": "agentjam",
+    "former_names": [
+      "Stamp"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eb123db0025f08e8253b49c51c1be59ebe00bbec.png",
+    "website": "https://agentjam.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "AgentJam is a network that enables any agent to discover, collaborate with, and pay other agents.\r\n\r\nAgentJam allows every agent to opt into swarm intelligence, allowing your agent to delegate tasks involving capabilities it does not possess to production grade agents on the network, rather than having to configure the right services, MCP servers, APIs, skills, and evals yourself from scratch.",
+    "one_liner": "The Internet of AI Agents",
+    "team_size": 1,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1739302465,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "Jared",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/agentjam",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/agentjam.json"
+  },
+  {
     "id": 30242,
     "name": "Oki",
     "slug": "oki",
@@ -35805,7 +35844,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a100705513555f60b674edacd7874b01e7bef2df.png",
     "website": "https://www.digipals.app/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "www.charcoalengine.com",
+    "long_description": "www.digipals.app\r\n\r\nwww.charcoalengine.com",
     "one_liner": "AI to enhance human creativity",
     "team_size": 3,
     "industry": "Consumer",
@@ -36247,7 +36286,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -36480,6 +36519,49 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/mirabelle.json"
   },
   {
+    "id": 31133,
+    "name": "Skillsync",
+    "slug": "skillsync",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/74db8ee9ac823e859d8f4544a01d6e33b5507273.png",
+    "website": "https://skillsync.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Skillsync is skills as a service. Your agent skills live in one place and go straight into Claude and ChatGPT, for you and for anyone you share them with. Update a skill and everyone gets the new version. Share them for free, or charge the people and agents that use them.",
+    "one_liner": "Substack for agent skills",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Content",
+    "launched_at": 1765356952,
+    "tags": [
+      "AIOps",
+      "Developer Tools",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Content"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "Tyler",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/skillsync",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/skillsync.json"
+  },
+  {
     "id": 31140,
     "name": "CodeWisp",
     "slug": "codewisp",
@@ -36691,7 +36773,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2026",
     "status": "Active",
@@ -37133,51 +37215,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/moonshot-computer",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/moonshot-computer.json"
-  },
-  {
-    "id": 32129,
-    "name": "Egoist Machines",
-    "slug": "egoist-machines",
-    "former_names": [
-      "studysesh"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cfd986a9205506ed6e96b2903d048ce2aa98626d.png",
-    "website": "https://ego.ist/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Egoist Machines is building infrastructure for a world where your personal context belongs to you, rather than to the apps and AI companies you use. Today, every assistant and consumer app builds its own version of you. We think that architecture is backwards. Your context should live with you, persist across products, and be available to any model, app or agent you choose.\r\n\r\nAI Passport is the first layer of that infrastructure. It brings the context you generate across AI assistants and everyday apps into one portable profile you control. Tell ChatGPT something and Claude can already know it, for example. Switch to a new product and it can understand you from the first interaction, without the new company needing to own the underlying data.\r\n\r\nApps integrate through Sign in with AI Passport, requesting only the context they need for a specific purpose and duration. Users can see what is being accessed and revoke that access later. Underneath, we have built our own memory infrastructure for fast, compact per-user retrieval and permissioned access.\r\n\r\nWe are distributing AI Passport directly to consumers through first-party products, while integrating it into consumer applications with existing distribution. Every new product that uses Passport gives users another reason to maintain their context there, and every additional Passport holder makes the context layer more useful to developers.\r\n\r\nThe next step is to build a true Egoist Machine: an intelligent system whose memory, incentives and actions are governed by the individual it represents. We call it Digital Domovoy, the hardware extension of AI Passport. Instead of your most personal context ultimately living on somebody else's servers, it lives and is processed locally on hardware you control. AI Passport becomes the permission layer between that private local context and the cloud models and internet services you choose to use.\r\n\r\nOur North Star is the Egoist Machine: an intelligent system whose memory, incentives and actions are governed by the individual it represents.",
-    "one_liner": "Your personal context, securely portable across every AI app.",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1784701469,
-    "tags": [
-      "Hardware",
-      "Personalization",
-      "Privacy",
-      "Consumer Products",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2026",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "partners": "Harshita",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/egoist-machines",
-    "api": "https://yc-oss.github.io/api/batches/summer-2026/egoist-machines.json"
   },
   {
     "id": 32172,
@@ -38183,7 +38220,7 @@
     "slug": "godpack",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/efed4a76a2a7ec64512d28d0184feb711e11215b.png",
-    "website": "http://godpack.com/",
+    "website": "http://godpack.com",
     "all_locations": "New York City, NY, USA",
     "long_description": "",
     "one_liner": "The marketplace for internet culture.",

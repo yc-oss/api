@@ -9281,7 +9281,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Analytics"
@@ -23393,11 +23393,11 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/74db8ee9ac823e859d8f4544a01d6e33b5507273.png",
     "website": "https://skillsync.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Skillsync makes your agent session history searchable. Both for you and your coding agents. It searches all your sessions before each prompt and hands your agent what you already figured out. It gives you one place for everything your agents have ever done. Move a full session between Claude Code, Cursor, Codex, and any other agent with nothing lost, including the entire conversation, the model's reasoning, and every tool call, not just a summary, so the next agent picks up like it was there the whole time. Skillsync is local-first and yours, and its core engine, txcript, is open source, a portable session format that no single provider owns.",
-    "one_liner": "Search your agent session history",
+    "long_description": "Skillsync is skills as a service. Your agent skills live in one place and go straight into Claude and ChatGPT, for you and for anyone you share them with. Update a skill and everyone gets the new version. Share them for free, or charge the people and agents that use them.",
+    "one_liner": "Substack for agent skills",
     "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Content",
     "launched_at": 1765356952,
     "tags": [
       "AIOps",
@@ -23412,8 +23412,8 @@
     "batch": "Winter 2026",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Engineering, Product and Design"
+      "Consumer",
+      "Content"
     ],
     "regions": [
       "United States of America",
@@ -25446,8 +25446,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd00ca6a15fbe23bc8d3447bda9de39006326892.png",
     "website": "https://boat.dev",
     "all_locations": "Paris, Île-de-France, France; Remote",
-    "long_description": "**Problem**\r\n\r\nHumans used to need laptops to do their work. Now they prompt agents instead, and those agents need computers too: always-on, in large quantities, and with unlimited capabilities. \r\n\r\nBuilding and maintaining that yourself is far from trivial.\r\n\r\n**Solution**\r\n\r\nBoat provides powerful, simple, permissive Ubuntu VMs in the cloud. In a sandbox, an agent can work for long periods on code or on knowledge work like legal, research, reporting, and auditing.\r\n\r\n**Why Boat and not any other cloud VM?**\r\n\r\n1. It is ready out of the box: every sandbox ships with a desktop, chrome, languages, docker, snapshots, and templates, plus a CLI, SDK, API, and control pane for your fleet.\r\n2. It is permissive and paradigm agnostic: any number of agents can use any number of sandboxes. Agents can run inside or use sandboxes as an external tool.\r\n3. It is expertly crafted: we manage everything from the individual CPU to the orchestration software, which makes sandboxes stable, persistent, scalable, and secure.\r\n4. It is the best performance and price in town: our CPUs rank first on HPC benchmarks, and sandboxes are typically 9x to 18x cheaper than other leading sandboxes.\r\n\r\n**Further notes**\r\n\r\nSandboxes are hosted in Europe, which keeps prices low, and more regions are coming. Unless compliance requires it, agents don't notice the region they run in.",
-    "one_liner": "The best cloud VMs for billions of agents",
+    "long_description": "boat gives AI agents powerful, affordable cloud computers. Spawn full Ubuntu VMs with a browser, desktop, persistent files, Docker and the tools to do real work, without managing the entire infrastructure yourself.\r\n\r\nAs agents tackle harder problems in engineering, math and science, they need more than inference: they need computers to run experiments, execute code and verify their work. We believe access to enough powerful, permissive, inexpensive computers will be the next AI bottleneck.\r\n\r\nWe first built boat for ourselves while working on cloud coding agents, then opened it up to other builders. Our approach is product-first: make it easy for agents to experiment, build and scale.\r\n\r\nRun agents inside a VM or prompt, observe and wrap them from outside through the CLI, API or SDKs. Run Docker, systemd, databases and cron; open web apps, games, 3D scenes and IDEs; stop, resume and fork VMs.\r\n\r\nhttps://boat.dev\r\nhttps://docs.boat.dev",
+    "one_liner": "Most powerful & affordable cloud VMs for agents",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -25536,7 +25536,7 @@
     "website": "https://www.mirrors.dev",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Mirrors gives developers the infrastructure to control what production AI agents are told, and when. Today that lives in long prompts and skills the agent may never open, so agents keep breaking rules they've already been given. With Mirrors, a developer writes a rule once and defines where it applies, and Mirrors delivers it at the exactly where the agent needs to see it and measures whether it helped. It works with any agent framework and any model.",
-    "one_liner": "Give AI agents situation-specific context",
+    "one_liner": "Real-time steering for production AI agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -25624,8 +25624,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6bcbfe2855ffcd587858880c19e9ea0940b81943.png",
     "website": "https://byteask.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "ByteAsk is an AI coding agent built for low level languages like C, C++ and CUDA, the code that runs trading systems, cars, chips, and inference. It does not stop at a diff that looks right. ByteAsk builds, debugs, and tests every change with the real toolchain until the change holds. If the compiler, the debugger, or the tests can catch it, then ByteAsk catches it too. It runs from the terminal or inside VS Code, Neovim, and Emacs, and is available fully on-prem. As agents run most software, the bottleneck becomes how fast and compute-efficient that software is. Our bet is that in that world software is written in assembly, and ByteAsk agents will write it.",
-    "one_liner": "The AI coding agent for C, C++ and CUDA",
+    "long_description": "ByteAsk is a software factory for low level languages like C, C++ and CUDA, the code that runs trading systems, cars, chips, and inference. It does not stop at a diff that looks right. ByteAsk builds, debugs, and tests every change with the real toolchain until the change holds. If the compiler, the debugger, or the tests can catch it, then ByteAsk catches it too. \r\n\r\nWe SOTA on benchmarks and work with large customers. As agents run most software, the bottleneck becomes how fast and compute-efficient that software is. Our bet is that in that world software is written in assembly, and ByteAsk will write it.",
+    "one_liner": "Software factory for C, C++ and CUDA",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -25891,8 +25891,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4748ea4cce3f5b77e3f8a5d77e2720edaffb5983.png",
     "website": "https://everyapp.com",
     "all_locations": "",
-    "long_description": "EveryApp is building open source alternatives to every SaaS. It’s a platform to host these open source apps and personal software. Everything runs behind one secure sign-in in your own Cloudflare account.",
-    "one_liner": "Making every SaaS open source",
+    "long_description": "EveryApp is building open source alternatives to every SaaS. OpenSEO is their first breakout product. Entrepreneurs will use the EveryApp Cloud with their favorite AI agent to run their business. Our first product, OpenSEO has 28k Github Stars and thousands of customers.",
+    "one_liner": "Every app you need to run a business. 100% open source.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -26153,8 +26153,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e1f6f0a97f11c72c78bdc6875df0e065a154770.png",
     "website": "https://composal.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Composal gives engineers always-on agents that work in the cloud, each with its own computer, Slack handle and memory. \r\n\r\nAn engineer gives one a standing order, like “watch production, fix new errors, get the fix reviewed by @reviewbot and ship it” and it keeps going after the laptop closes. \r\n\r\nOur QA agents test every pull request by using the app like a real user, and have found over 1,500 bugs in customers’ apps since mid-October.",
-    "one_liner": "Always-on agents that don't need to be prompted",
+    "long_description": "Composal gives engineering teams always-on agents that work in the cloud, each with its own computer, Slack handle and memory. \r\n\r\nAn engineer gives one a standing order, like “watch production, fix new errors, get the fix reviewed by @reviewbot and ship it” and it keeps going after the laptop closes. \r\n\r\nOur QA agents test every pull request by using the app like a real user, and have found over 1,500 bugs in customers’ apps since mid-October.",
+    "one_liner": "Always-on agents that don't wait to be prompted",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -26581,5 +26581,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/xulux",
     "api": "https://yc-oss.github.io/api/batches/winter-2027/xulux.json"
+  },
+  {
+    "id": 41892,
+    "name": "SPITA Labs",
+    "slug": "spita-labs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e1fb21e94af0645c32fa04bbb172e92cb6da03f.png",
+    "website": "https://www.spitalabs.com",
+    "all_locations": "",
+    "long_description": "",
+    "one_liner": "Reconfigurable electronics for robotics teams",
+    "team_size": 0,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1794710459,
+    "tags": [
+      "Developer Tools",
+      "Hardware",
+      "Robotics",
+      "Aerospace"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2027",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "partners": "Vivian",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/spita-labs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2027/spita-labs.json"
   }
 ]
