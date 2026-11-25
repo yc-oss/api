@@ -533,6 +533,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2011/mixrank.json"
   },
   {
+    "id": 138,
+    "name": "Talkable",
+    "slug": "talkable",
+    "former_names": [
+      "Curebit"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/32c3e67d3146d4db5470d6b6731cf422c4c9a2c0.png",
+    "website": "http://talkable.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Talkable (formerly Curebit) helps online stores increase revenue through referrals by turning existing customers into marketers.\r\n\r\nWhen customers check out from a Talkable-enabled store, they are presented personalized deals that they can gift to their friends by posting to Facebook or forwarding a link. The deals give both the the original customer and their referred friends a rebate on their purchase at this store.",
+    "one_liner": "Online store referrals.",
+    "team_size": 76,
+    "industry": "B2B",
+    "subindustry": "B2B -> Retail",
+    "launched_at": 1326789710,
+    "tags": [
+      "E-Commerce",
+      "Referrals"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2011",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Retail"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Growth",
+    "partners": "Unspecified",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/talkable",
+    "api": "https://yc-oss.github.io/api/batches/winter-2011/talkable.json"
+  },
+  {
     "id": 164,
     "name": "Mino Games",
     "slug": "mino-games",
@@ -9360,9 +9403,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/65528c51b9eccc4012b7ad09d502f4452f49c03f.png",
     "website": "https://okteto.com",
     "all_locations": "San Francisco, CA, USA; Denver, CO, USA; Madrid, Community of Madrid, Spain; Buenos Aires, CABA, Argentina; Remote",
-    "long_description": "At Okteto, we are working hard at creating the next-generation development experience for teams of all sizes. Have you ever seen how long it takes a developer to set up everything they need before working on a feature? We are fixing that.  We want developers to focus on building value for their teams instead of wasting time setting up local environments or trying to debug \"production only\" issues.",
-    "one_liner": "Cloud Development Environments with one click",
-    "team_size": 30,
+    "long_description": "Okteto gives every developer, coding agent and pull request an on-demand application environment on your own Kubernetes infrastructure.\r\n\r\nDefine your environment once, reusing your existing Helm, Compose or Kubernetes manifests, and use the same versioned definition across development, CI, previews and AI coding agents. Less configuration drift, less duplicated setup, and centrally managed access to clusters, registries and cloud resources.\r\n\r\nRun coding agents on your cluster, batteries included. Launch them with Okteto's built-in orchestrator or bring your own, including agents running locally like Claude Code or Cursor, while Okteto manages the environments they build, deploy and test against. The agent stays small; the application runs in a real environment.\r\n\r\nYour code meets Kubernetes earlier in the cycle. Every change gets automated tests against running services and a live preview URL that developers, QA and product managers can open without any local setup.\r\n\r\nBuilt for platform teams that run environments at scale: Divert deploys only the services that change against a shared base, while automatic sleep, garbage collection, quotas and Smart Builds keep resource usage under control.\r\n\r\nSelf-hosted on your Kubernetes, including air-gapped clusters. SOC 2 Type 2 compliant.",
+    "one_liner": "Ephemeral environments on Kubernetes",
+    "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1541559692,
@@ -9393,7 +9436,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "partners": "Unspecified",
     "app_video_public": false,
     "demo_day_video_public": false,
@@ -10089,7 +10132,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e227664daa8b8943b9d87641ef2bf7c2b5c1b42.png",
     "website": "https://www.inito.com/",
-    "all_locations": "Bengaluru, KA, India",
+    "all_locations": "Dubai, Dubai, United Arab Emirates; Bengaluru, KA, India",
     "long_description": "",
     "one_liner": "Enabling better self care with at-home hormone tracking.",
     "team_size": 100,
@@ -10113,7 +10156,9 @@
       "Consumer Health and Wellness"
     ],
     "regions": [
+      "United Arab Emirates",
       "India",
+      "Middle East and North Africa",
       "South Asia",
       "Remote",
       "Partly Remote"
@@ -15244,7 +15289,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "partners": "Brad",
     "app_video_public": false,
     "demo_day_video_public": false,
@@ -26782,7 +26827,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "partners": "Aaron",
     "app_video_public": false,
     "demo_day_video_public": false,
@@ -37814,17 +37859,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bf27e2b5fff1afcb51538ca47d0ce384847305c2.png",
     "website": "https://gloglo.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Our mission: eradicate type 1 diabetes.\r\nGloGlo is building an AI-native therapeutics company focused on accelerating the discovery of treatments that can prevent, stop, and ultimately cure type 1 diabetes.\r\nWe are developing AI research agents that continuously analyze scientific literature and biological datasets, generate and challenge hypotheses, design experiments, and run them in a wet lab to learn from experimental results.\r\nWe are building a tight \"in silico <> in vitro/vivo\" feedback loop that helps us identify better targets, run experiments more efficiently, and move faster toward therapies for type 1 diabetes.\r\n",
-    "one_liner": "Curing and preventing type 1 diabetes",
+    "long_description": "GloGlo is developing therapeutics that intercept autoimmune disease before the immune attack takes place.\r\n\r\nMichael has lived with T1D for 17 years, conducted mathematics PhD research at Cambridge, and built a 70-person ML team acquired by Sonos. Anil Bhushan is a leading autoimmune disease researcher, tenured UCSF professor and founder of Deciduous Therapeutics. Marie is a repeat founder who sold Workwell to Mitsui Fudosan.\r\n\r\nTheir AI platform has identified de novo protein designs now undergoing wet lab validation, with mouse studies planned for early 2027. Initial indications are T1D and lupus, followed by multiple sclerosis and rheumatoid arthritis.",
+    "one_liner": "Solving autoimmune diseases with AI, starting with type 1 diabetes.",
     "team_size": 3,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Therapeutics",
     "launched_at": 1700867535,
     "tags": [
       "AI-powered Drug Discovery",
-      "Consumer Health Services",
       "Biotech",
-      "E-commerce",
+      "Therapeutics",
       "AI"
     ],
     "tags_highlighted": [],
@@ -37834,7 +37878,8 @@
     "batch": "Winter 2024",
     "status": "Active",
     "industries": [
-      "Consumer"
+      "Healthcare",
+      "Therapeutics"
     ],
     "regions": [
       "United States of America",
@@ -40031,7 +40076,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Coval is a simulation & evaluation platform for autonomous AI agents, helping engineers launch dependable assistants across chat, voice, and other modalities. \r\nWe simulate thousands of scenarios engineers don't have to manually test their agents. Our CI/CD evaluations automatically simulate and detect regressions.",
     "one_liner": "Simulation & Evaluation that scales voice and chat AI agents",
-    "team_size": 10,
+    "team_size": 25,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1725341816,
@@ -43982,7 +44027,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "partners": "Diana",
     "app_video_public": false,
     "demo_day_video_public": false,
@@ -44449,7 +44494,7 @@
     "all_locations": "Berlin, Berlin, Germany",
     "long_description": "telli is build AI to run customer-facing operations",
     "one_liner": "intelligent interactions",
-    "team_size": 25,
+    "team_size": 45,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1733082630,
@@ -46963,44 +47008,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/osmosis",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/osmosis.json"
-  },
-  {
-    "id": 30249,
-    "name": "HealthKey",
-    "slug": "healthkey",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c1861589f70a31b85bd0f644259f89e147516204.png",
-    "website": "https://gethealthkey.com/",
-    "all_locations": "Austin, TX, USA",
-    "long_description": "HealthKey helps doctors offices generate more revenue by finding eligible patients for their clinical trials. We match at-risk patients with cutting-edge treatments, ultimately getting patients access to potentially life-changing treatments faster.\r\n\r\nBig Pharma pays a lot of money to clinics for each patient they enroll, but finding patients who qualify is an entirely manual process today. We use AI to prescreen doctors’ existing patients against Clinical Trials’ eligibility criteria, making enrollment fast and easy.",
-    "one_liner": "AI-powered Patient Identification for Clinical Trials",
-    "team_size": 10,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1737252261,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "partners": "Tom",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/healthkey",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/healthkey.json"
   },
   {
     "id": 30250,
@@ -54979,7 +54986,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "AI teams spend 6+ months building document workflows, yet fewer than 10% ever reach production. Generic LLM parsers and OCR collapse on multimodal documents with text, tables, images, and charts. Poor parsing and suboptimal chunking cripple RAG pipelines and downstream automation. Unsiloed AI has built state-of-the-art vision models which serves as the infrastructure layer for turning unstructured data into structured, queryable, and LLM-ready assets.\r\n\r\nOur APIs are already parsing hundreds of thousands of documents for startups and NASDAQ-listed enterprises, powering vertical AI solutions across industries. On public benchmarks, Unsiloed AI consistently outperforms solutions from LlamaIndex, Gemini, Mistral, and Unstructured.io among others.",
     "one_liner": "API for parsing multimodal unstructured data",
-    "team_size": 2,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1759119503,
@@ -55242,7 +55249,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Bring us risk. We’ll find the market. Institutional liquidity for event-driven exposure across prediction markets.\r\n",
     "one_liner": "Institutional liquidity across prediction markets",
-    "team_size": 2,
+    "team_size": 1,
     "industry": "Fintech",
     "subindustry": "Fintech -> Consumer Finance",
     "launched_at": 1759770880,
@@ -57023,7 +57030,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/80a81e39e735a3e350222fa5fd72596c97653b0a.png",
     "website": "https://10xscience.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "10x Science develops frontier AI models with deep memory to redefine how scientists understand and engineer biology across the life sciences, starting with drug development.\r\n\r\nAI-powered drug discovery is flooding the pipeline with new candidates faster than ever. But before any of them can advance to the clinic, scientists must deeply characterize the protein therapeutic to understand whether it will work. Today, that process takes months of manual, error-prone analysis that cannot keep pace with discovery. Our AI-native platform automates it, giving drug developers the confidence to advance the right candidates and stop the wrong ones early.\r\n\r\nWe have strong commercial traction with enterprise pharma customers. Our founding team built the field of next-generation protein characterization out of Carolyn Bertozzi's Nobel laureate lab at Stanford. Collectively, we have 18+ years of collective domain expertise, 47+ scientific publications, and a 2x YC Founder. We move at the highest velocity and are positioned to lead the next generation of modern AI development in the life sciences. ",
+    "long_description": "10x Science develops frontier AI models with deep memory to redefine how scientists understand and engineer biology across the life sciences, starting with drug development.\r\n\r\nAI-powered drug discovery is flooding the pipeline with new candidates faster than ever. But before any of them can advance to the clinic, scientists must deeply characterize the protein therapeutic to understand whether it will work. Today, that process takes months of manual, error-prone analysis that cannot keep pace with discovery. Our AI-native platform automates it, giving drug developers the confidence to advance the right candidates and stop the wrong ones early.\r\n\r\nWe have strong commercial traction with enterprise pharma customers. Our founding team built the field of next-generation protein characterization out of Carolyn Bertozzi's Nobel laureate lab at Stanford. Collectively, we have 18+ years of collective domain expertise, 47+ scientific publications, and a 2x YC Founder. We move at the highest velocity and are positioned to lead the next generation of modern AI development in the life sciences.",
     "one_liner": "The AI-native platform for next-generation protein characterization.",
     "team_size": 5,
     "industry": "B2B",
@@ -57033,6 +57040,7 @@
       "SaaS",
       "B2B",
       "Biotech",
+      "Healthcare",
       "AI"
     ],
     "tags_highlighted": [],
@@ -58296,52 +58304,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/robby",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/robby.json"
-  },
-  {
-    "id": 31203,
-    "name": "Sitefire",
-    "slug": "sitefire",
-    "former_names": [
-      "pulse",
-      "sitefire",
-      "itefire"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea31f29e253c2635c1eccbc268b7d4d685f8caf6.png",
-    "website": "https://sitefire.ai",
-    "all_locations": "BY, Germany",
-    "long_description": "Sitefire (YC W26) helps brands market their products to agents. They create content and tools that get their products discovered and used by AI agents (ChatGPT, OpenClaw). Sitefire identifies which content drives AI visibility, and automatically creates it. The teams using Sitefire execute on-page and off-page actions to deliver measurable top-line growth.",
-    "one_liner": "Marketing suite for the agentic web",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1770178936,
-    "tags": [
-      "Analytics",
-      "Marketing",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "Germany",
-      "Europe"
-    ],
-    "stage": "Early",
-    "partners": "Jon",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sitefire",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/sitefire.json"
   },
   {
     "id": 31205,
@@ -60407,6 +60369,48 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/standout.json"
   },
   {
+    "id": 31407,
+    "name": "Sherpa",
+    "slug": "sherpa",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/24b3833352a8b36953c5bec1a4cb93f9ac0f2259.png",
+    "website": "https://www.withsherpa.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sherpa lets marketing teams run their website from Claude, ChatGPT or any AI agent, with the guardrails of a CMS. We give your agent 200+ tools to build, publish and test, move your site off Webflow, Framer or WordPress into custom code you own, then it improves itself every week with analytics, A/B testing, SEO and more.",
+    "one_liner": "Make websites improve themselves.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1774901696,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Marketing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "Andrew",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/sherpa",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/sherpa.json"
+  },
+  {
     "id": 31418,
     "name": "Taiga",
     "slug": "taiga",
@@ -61691,14 +61695,16 @@
   },
   {
     "id": 31540,
-    "name": "KugelAudio",
-    "slug": "kugelaudio",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/44c1f17a88c6716d09288318cb5f9de77b9bdbbb.png",
-    "website": "https://kugelaudio.com/en",
+    "name": "elbic (formerly KugelAudio)",
+    "slug": "elbic",
+    "former_names": [
+      "KugelAudio"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e95119db487e10dcb6ed64e8458581394c46d9a.png",
+    "website": "https://elbic.com/",
     "all_locations": "Berlin, Berlin, Germany",
-    "long_description": "Kugel is an enterprise-ready TTS model, available on-prem, with a focus on 30+ languages and low latency. ",
-    "one_liner": "Kugel is an on-prem Voice AI model supporting 30+ languages ",
+    "long_description": "elbic is an enterprise-ready TTS model, available on-prem, with a focus on 30+ languages and low latency. ",
+    "one_liner": "elbic is an on-prem Voice AI model supporting 30+ languages ",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -61724,8 +61730,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/kugelaudio",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/kugelaudio.json"
+    "url": "https://www.ycombinator.com/companies/elbic",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/elbic.json"
   },
   {
     "id": 31560,
@@ -61859,7 +61865,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8edd99606159933b27bd8c7f3992e7ad9e5b4dea.png",
     "website": "https://www.conus-med.com",
     "all_locations": "Cologne, NRW, Germany",
-    "long_description": "CONUS structures fragmented medical device information for surgeons. We combine manufacturer documentation, hospital protocols and medical research in one place, giving surgeons and MedTech teams reliable answers across products and procedures through search and source-backed AI.\r\n\r\nWe already work with 25 leading manufacturers including Johnson & Johnson, Stryker and Zimmer Biomet, and since launching six months ago we’re already being used in 83 hospitals, with 32 fully ramped.\r\n\r\nLong term, hospitals will use CONUS to source and order surgical devices across manufacturers.",
+    "long_description": "CONUS structures fragmented medical device information for surgeons. We combine manufacturer documentation, hospital protocols and medical research in one place, giving surgeons and MedTech teams reliable answers across products and procedures through search and source-backed AI.\r\n\r\nWe already work with 25 leading manufacturers including Johnson & Johnson, Stryker and Zimmer Biomet, and since launching six months ago we’re already being used in 86 hospitals, with 34 fully ramped.\r\n\r\nLong term, hospitals will use CONUS to source and order surgical devices across manufacturers.",
     "one_liner": "Medical Device Platform for Hospitals",
     "team_size": 3,
     "industry": "Healthcare",
@@ -62237,6 +62243,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/impact-drones",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/impact-drones.json"
+  },
+  {
+    "id": 32189,
+    "name": "Verdant",
+    "slug": "verdant",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4de79d62c0767417bcc285f4339875d51c92131b.png",
+    "website": "https://www.verdantapp.com/",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "Verdant sells AI agents to local government to make them more efficient. We're starting with permitting, the highest-volume workflow in local government that requires judgment. \r\n\r\nMany startups fail to sell to government, but not us - we've processed 200+ applications and gone from 0 to 4 paid deployments across 4 states with an average close time of 4 weeks.",
+    "one_liner": "AI Agents to Make Local Gov Efficient",
+    "team_size": 2,
+    "industry": "Government",
+    "subindustry": "Government",
+    "launched_at": 1782774541,
+    "tags": [
+      "GovTech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "Government"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "Jared",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/verdant",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/verdant.json"
   },
   {
     "id": 32194,
@@ -64459,7 +64505,7 @@
     "website": "https://www.spm.us",
     "all_locations": "Pittsburgh, PA, USA",
     "long_description": "We started off building the highest performance, 470 volt electric off-road vehicles but we realized our ultra power dense battery packs are useful for mobile and stationary energy storage and power export, for military and consumer use cases. We develop battery packs, power electronics, and traction powertrain systems for vehicles.\r\n\r\nFor the majority of 2026 we were marketing our electric off-road vehicles, but we pivoted to selling our high performance battery packs and power export capabilities to prime contractors in August. We went from having $769,000 in consumer pre-orders (possibly low conversion rate to sales) to $525,000 in contracted revenue from Primes in 2026, and an $8.7M pipeline in 2027. \r\n\r\nOur tech is so compelling because the safety and layout of high voltage battery packs has only been mastered by large, well funded OEM companies who have brought it in-house. That means all other companies without the in-house expertise rely on battery companies to develop packs, and power electronics companies to develop power export capabilities. SPM has both of those capabilities in-house so we can ensure a fast turnaround and much more reliable product. \r\n\r\nOne of the biggest priorities of the department of war is energy dominance. We're seeing it constantly in new solicitations. Our strategy is superior - become a prime, but simultaneously service primes because most of then don't actually have the battery and power electronics expertise we have.\r\n\r\nFounded by Jon Powers - Ex-Tesla Sr. Mechanical Integration Engineer leading Cybertruck vehicle integration. ",
-    "one_liner": "Defense compliant modular battery packs power systems and vehicles",
+    "one_liner": "Defense compliant modular battery packs and power systems",
     "team_size": 4,
     "industry": "Industrials",
     "subindustry": "Industrials -> Defense",
