@@ -392,6 +392,50 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/claimkit.json"
   },
   {
+    "id": 31431,
+    "name": "Ergodex AI",
+    "slug": "ergodex-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3c3fc64440954c1c05cd9050d0d1cfd66dcf6bb.png",
+    "website": "https://ergodex.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Ergodex is a full-stack AI-native chip design company. We build environments that turn chip design tasks with measurable objectives into an implement → verify → score → optimize loop. Unlike traditional EDA, Ergodex can optimize not just the chip and the flow scripts, but also EDA algorithms used to design it. Our environments ship with FrontierEDA tools built for fast AI-driven iteration. We can achieve 100x faster Design Verification, and 50% faster convergence on PPA optimization. ",
+    "one_liner": "Full-stack AI-native Agentic chip design ",
+    "team_size": 12,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1795620669,
+    "tags": [
+      "Edge Computing Semiconductors",
+      "Hardware",
+      "Semiconductors"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "partners": "Andrew",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ergodex-ai",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/ergodex-ai.json"
+  },
+  {
     "id": 31452,
     "name": "Degla Inc",
     "slug": "degla-inc",
@@ -1021,52 +1065,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/alkera-ai.json"
   },
   {
-    "id": 32286,
-    "name": "Definite",
-    "slug": "definite",
-    "former_names": [
-      "Ledgix",
-      "Bylaw"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea163685b0ad74eaec6a19637a061cdb5e63acae.png",
-    "website": "https://www.usedefinite.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Definite connects operational data with finance so businesses that make, move, build or operate things can see what each production run, load and job actually cost.\r\n\r\nThese businesses already record a lot: production runs, shipments, job sites, equipment hours, work orders. Finance records the same business in a different shape. Operating systems track activity by site, line, or day. The ledger tracks it by entity, account, and month. Both sets of records exist, but the link between an operating decision and its financial effect usually lives in spreadsheets and in a few people's heads.\r\n\r\nSo questions that should be routine take days. What happens to cash if one plant adds a shift? How does a change in throughput or staffing flow into the forecast? Which operating changes actually moved the numbers last quarter?\r\n\r\nDefinite connects to existing operational and financial systems read-only. Models propose how operational records map to financial ones and explain what they find. Deterministic rules perform the calculations and checks, so results trace back to the source records they came from. \r\n\r\nDefinite started in a plant office an hour from campus, watching a controller rebuild the same spreadsheet she rebuilds every month to tie her production system to her ledger. The three of us met at the University of Waterloo and had each spent our careers on a version of that join. Gurshabd built wallet policy and approval controls at BitGo, where proving customer assets matched the ledger was still done by hand. Farhan built recommendation systems for Instagram Reels at Meta, joining billions of raw events to the numbers the business reported. Mazin built trading systems at Optiver, then agents for financial analysts at Boosted.ai, where analysts would not act on a number they could not trace. In finance that work is at least funded. In companies that make and move things, nobody had built it at all.",
-    "one_liner": "Connect operational data with finance to see what drives the numbers.",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1782681224,
-    "tags": [
-      "Fintech",
-      "SaaS",
-      "Finance",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "partners": "Ankit",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/definite",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/definite.json"
-  },
-  {
     "id": 32550,
     "name": "Audora",
     "slug": "audora",
@@ -1075,7 +1073,7 @@
     "website": "https://audora.art",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Audora turns your book or story into an audiobook where every character has their own voice.\r\n\r\nThe best adaptation of a book is the one in your head. You can see the characters in front of you and hear them talking to each other. We want an audiobook to do those characters justice: a voice that fits each of them, so a conversation actually sounds like a conversation.\r\n\r\nPaste a story link or upload a file. Audora works out who’s speaking and gives each character a distinct voice alongside the narrator. You can start listening while the rest of the book is still being made.\r\n\r\nOur roots are in fanfiction. We’re building for readers who already know these characters by heart, with a focus on voices that capture their personalities and stay consistent throughout the story.\r\n\r\nTry Audora: https://audora.art\r\nWatch the demo: https://youtu.be/R6Pt2O0fD4c",
-    "one_liner": "Audiobooks where every character has their own voice.",
+    "one_liner": "Audora is Audible 2.0, where stories are immersive & fun to listen to",
     "team_size": 1,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -1373,7 +1371,7 @@
     "name": "HillStar",
     "slug": "hillstar",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/86638f711e7120765749c6eed494d61cbab74bfc.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc161aff0343dabb814fdae973487ff3050d64e6.png",
     "website": "https://hillstar.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "HillStar helps utilities buy power. Electricity demand is surging, and regulated utilities are still mostly responsible for meeting it. Each power solicitation is a multi-decade, billion-dollar decision that takes years, involves 50+ people, and forces hard trade-offs across regulation, permitting, engineering, and economics. HillStar runs that process. In January, we're launching a 2 GW solicitation for a top-five U.S. utility, open to hundreds of power developers.",
@@ -2889,7 +2887,7 @@
     "website": "https://inflection-space.com/",
     "all_locations": "Los Angeles, CA, USA",
     "long_description": "Inflection is building the industrial capacity to manufacture tens of thousands of spacecraft per year for next generation commercial and government space applications. Imagine a factory that looks like an Amazon fulfillment center instead of a NASA clean room.",
-    "one_liner": "Hyperscaling space manufacturing",
+    "one_liner": "Mass Manufacturing Satellites",
     "team_size": null,
     "industry": "Industrials",
     "subindustry": "Industrials -> Aviation and Space",
@@ -3846,7 +3844,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b17bfb784fbfd8ce18bf9fc551a8a6c2a2c68f02.png",
     "website": "https://www.asakana.co/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Founded by an ex-seafood distributor and ex-McKinsey, and an 8-year Google AI engineer who built Gemini's web agents.\r\nRestaurants send orders to food distributors by email, text, and WeChat. Someone at the distributor retypes them into the ERP. Asakana does that entry instead. Live at our first customer, saving 95% of order entry time per order. Its $4B parent group is now rolling Asakana out across its companies. cMRR growing 41% WoW",
+    "long_description": "Founded by an ex-seafood distributor and ex-McKinsey, and an 8-year Google AI engineer who built Gemini's web agents.\r\nRestaurants send orders to food distributors by email, text, and WeChat. Someone at the distributor retypes them into the ERP. Asakana does that entry instead. Live at our first customer, saving 95% of order entry time per order. Its $4B parent group is now rolling Asakana out across its companies. cMRR growing 41% WoW.",
     "one_liner": "Back-office automation for food distributors, no behavior change",
     "team_size": 4,
     "industry": "B2B",
@@ -5616,7 +5614,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/093fdc6d2122e7140cab391f450941fd3922b145.png",
     "website": "https://halmoslabs.com/",
     "all_locations": "Lund, Skåne County, Sweden",
-    "long_description": "AI can create new drugs and design experiments. They are limited by physical validation. \r\n\r\nphysicalvalidation.com by Halmos Labs offers an API to execute any experiment. PhysicalValidation uses compounding knowledge and an experimental design AI to coordinate experiments through contracted labs faster and cheaper. \r\n\r\nConnecting physicalvalidation.com, Codex has designed and tested a new antibiotic without human intervention.",
+    "long_description": "AI can create new drugs and design experiments. They are limited by physical validation. \r\n\r\nphysicalvalidation.com by Halmos Labs offers an API to execute any experiment. PhysicalValidation uses compounding knowledge and an experimental design AI to route experiments through contracted labs faster and cheaper. \r\n\r\nConnecting physicalvalidation.com, Codex has designed and tested a new antibiotic without human intervention. It is now possible to close the loop on drug discovery with only a laptop and an idea.",
     "one_liner": "One API to any physical experiment",
     "team_size": 3,
     "industry": "Healthcare",
@@ -5625,7 +5623,6 @@
     "tags": [
       "AI-powered Drug Discovery",
       "Auto Commerce",
-      "Swarm AI",
       "Biotech",
       "Automation"
     ],
@@ -7002,7 +6999,7 @@
     "all_locations": "New York City, NY, USA",
     "long_description": "Video to automatically identify risks and condition on power lines, pipelines, rail, and other types of infrastructure over hundreds of miles at once. ",
     "one_liner": "Computer vision operating layer for physical infrastructure",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials -> Energy",
     "launched_at": 1793577956,

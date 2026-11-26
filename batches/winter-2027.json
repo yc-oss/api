@@ -84,6 +84,52 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2027/linklane.json"
   },
   {
+    "id": 32286,
+    "name": "Definite",
+    "slug": "definite",
+    "former_names": [
+      "Ledgix",
+      "Bylaw"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea163685b0ad74eaec6a19637a061cdb5e63acae.png",
+    "website": "https://www.usedefinite.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Definite connects operational data with finance so businesses that make, move, build or operate things can see what each production run, load and job actually cost.\r\n\r\nThese businesses already record a lot: production runs, shipments, job sites, equipment hours, work orders. Finance records the same business in a different shape. Operating systems track activity by site, line, or day. The ledger tracks it by entity, account, and month. Both sets of records exist, but the link between an operating decision and its financial effect usually lives in spreadsheets and in a few people's heads.\r\n\r\nSo questions that should be routine take days. What happens to cash if one plant adds a shift? How does a change in throughput or staffing flow into the forecast? Which operating changes actually moved the numbers last quarter?\r\n\r\nDefinite connects to existing operational and financial systems read-only. Models propose how operational records map to financial ones and explain what they find. Deterministic rules perform the calculations and checks, so results trace back to the source records they came from. \r\n\r\nDefinite started in a plant office an hour from campus, watching a controller rebuild the same spreadsheet she rebuilds every month to tie her production system to her ledger. The three of us met at the University of Waterloo and had each spent our careers on a version of that join. Gurshabd built wallet policy and approval controls at BitGo, where proving customer assets matched the ledger was still done by hand. Farhan built recommendation systems for Instagram Reels at Meta, joining billions of raw events to the numbers the business reported. Mazin built trading systems at Optiver, then agents for financial analysts at Boosted.ai, where analysts would not act on a number they could not trace. In finance that work is at least funded. In companies that make and move things, nobody had built it at all.",
+    "one_liner": "Connect operational data with finance to see what drives the numbers.",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1782681224,
+    "tags": [
+      "Fintech",
+      "SaaS",
+      "Finance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2027",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "Ankit",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/definite",
+    "api": "https://yc-oss.github.io/api/batches/winter-2027/definite.json"
+  },
+  {
     "id": 33013,
     "name": "Operon",
     "slug": "operon",
@@ -679,13 +725,14 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8bb5c8006bb267072326386987df5ec025fd190a.png",
     "website": "https://asterlinetrading.com",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Asterline is a proprietary quantitative trading firm building automated systems to exploit pricing inefficiencies in prediction markets.",
+    "long_description": "Asterline is building automated systems to trade and provide liquidity on new markets.",
     "one_liner": "Quantitative trading of prediction markets",
-    "team_size": 1,
+    "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Asset Management",
     "launched_at": 1794771497,
     "tags": [
+      "Fintech",
       "Finance",
       "Trading"
     ],

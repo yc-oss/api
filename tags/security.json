@@ -4238,6 +4238,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/verdict-machine.json"
   },
   {
+    "id": 33320,
+    "name": "OneCLI",
+    "slug": "onecli",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e27780d9b15ce1d3fa816c41252545bb371d4ede.png",
+    "website": "https://onecli.sh",
+    "all_locations": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+    "long_description": "OneCLI is the vault for AI agents. Sandboxed agents get the access their job needs, and never see a secret.\r\n\r\nAgents like OpenClaw, Hermes and NanoClaw run in sandboxes such as E2B, Daytona and Docker, but they still need to reach GitHub, Jira, Slack and production APIs. Handing them raw keys is the risk. With OneCLI, keys stay in the vault and are added at the gateway on the way out, so a leaked sandbox leaks nothing.\r\n\r\nSet a policy per agent, connect 100+ tools without handing out a token, and log every call. \r\nOpen source and SOC 2 Type II: self-host in one container or use the cloud.\r\n\r\nhttps://onecli.sh\r\nhttps://onecli.sh/docs",
+    "one_liner": "The vault for AI agents.",
+    "team_size": 0,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1783888956,
+    "tags": [
+      "B2B",
+      "Security",
+      "Open Source",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "Israel",
+      "Middle East and North Africa"
+    ],
+    "stage": "Early",
+    "partners": "Brad",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/onecli",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/onecli.json"
+  },
+  {
     "id": 33936,
     "name": "Conifer",
     "slug": "conifer",

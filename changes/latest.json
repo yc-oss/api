@@ -1,31 +1,60 @@
 {
-  "generated_at": "2026-11-25T06:09:57.998Z",
+  "generated_at": "2026-11-26T06:01:00.688Z",
   "summary": {
     "previous_total": 6408,
-    "current_total": 6408,
-    "added": 0,
+    "current_total": 6409,
+    "added": 1,
     "removed": 0,
-    "updated": 42
+    "updated": 56
   },
-  "added": [],
+  "added": [
+    {
+      "id": 31431,
+      "name": "Ergodex AI",
+      "slug": "ergodex-ai",
+      "former_names": [],
+      "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3c3fc64440954c1c05cd9050d0d1cfd66dcf6bb.png",
+      "website": "https://ergodex.ai",
+      "all_locations": "San Francisco, CA, USA",
+      "long_description": "Ergodex is a full-stack AI-native chip design company. We build environments that turn chip design tasks with measurable objectives into an implement → verify → score → optimize loop. Unlike traditional EDA, Ergodex can optimize not just the chip and the flow scripts, but also EDA algorithms used to design it. Our environments ship with FrontierEDA tools built for fast AI-driven iteration. We can achieve 100x faster Design Verification, and 50% faster convergence on PPA optimization. ",
+      "one_liner": "Full-stack AI-native Agentic chip design ",
+      "team_size": 12,
+      "industry": "B2B",
+      "subindustry": "B2B -> Engineering, Product and Design",
+      "launched_at": 1795620669,
+      "tags": [
+        "Edge Computing Semiconductors",
+        "Hardware",
+        "Semiconductors"
+      ],
+      "tags_highlighted": [],
+      "top_company": false,
+      "isHiring": false,
+      "nonprofit": false,
+      "batch": "Fall 2026",
+      "status": "Active",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ],
+      "stage": "Early",
+      "partners": "Andrew",
+      "app_video_public": false,
+      "demo_day_video_public": false,
+      "app_answers": null,
+      "question_answers": false,
+      "url": "https://www.ycombinator.com/companies/ergodex-ai",
+      "api": "https://yc-oss.github.io/api/batches/fall-2026/ergodex-ai.json"
+    }
+  ],
   "removed": [],
   "updated": [
-    {
-      "id": 138,
-      "name": "Talkable",
-      "slug": "talkable",
-      "batch": "Winter 2011",
-      "url": "https://www.ycombinator.com/companies/talkable",
-      "changed_fields": [
-        "isHiring"
-      ],
-      "changes": {
-        "isHiring": {
-          "before": false,
-          "after": true
-        }
-      }
-    },
     {
       "id": 840,
       "name": "X-Zell",
@@ -33,43 +62,37 @@
       "batch": "Winter 2015",
       "url": "https://www.ycombinator.com/companies/x-zell",
       "changed_fields": [
+        "all_locations",
         "long_description",
-        "one_liner",
-        "team_size",
-        "website"
+        "regions"
       ],
       "changes": {
+        "all_locations": {
+          "before": "Bangkok, Thailand; Düsseldorf, NRW, Germany",
+          "after": "Singapore, Singapore; Bangkok, Thailand; Düsseldorf, NRW, Germany"
+        },
         "long_description": {
-          "before": "X-ZELL™ is a global start-up specialising in rare cell detection technology. \r\n\r\nBacked by Y Combinator and various high-profile angel investors from around the globe – among them Gmail creator Paul Buchheit – X-ZELL™ has developed a world-first platform technology capable of isolating and visualizing rare and abnormal cells such as Circulating Endothelial Cells (CEC).\r\n\r\nX-ZELL™’s platform technology is based on four core modules covering the entire spectrum from blood processing through to cell analysis and reporting – with every step performed in-house using patented and proprietary technology.\r\n\r\nBy combining the wisdom of 4,000 years of pathologic research with X-ZELL™’s own, cutting-edge technology, \r\nX-ZELL™ ensures robust results and maximum clinical utility across a broad range of medical applications – from research through to medication management, companions diagnostics, relapse control and diagnostic decision-making.\r\n\r\nMore information on www.x-zell.com and @XZELLInc",
-          "after": "Most cancer cases are not difficult to diagnose, only slow. A cytology sample such as pleural fluid or a fine-needle aspirate usually needs a panel of immunostains, which today means a cell block and up to two days of serial staining.\r\n\r\nX-ZELL replaces that with Cryoimmunostaining™: direct-to-slide fixation and seven markers on one slide, read on a digital microscope, from sample to screen in under four hours. The platform (Cryofixator™, Cryostainer™, Hybrid Microscope and Cryophore™ panels) is CE-marked under the EU IVDR and in routine use at pathology laboratories in Germany.\r\n\r\nX-ZELL is headquartered in Singapore. Its reagents are developed and manufactured in Bangkok, Thailand, under ISO 13485, next to an ISO 15189-accredited laboratory. The company was founded in 2014 by Dr Sebastian Bhakdi.\r\n\r\nX-ZELL started with the detection of rare cells in blood. Bringing the same multiplex staining to routine cytology proved the faster route to patients, and that is where the company now focuses."
+          "before": "Most cancer cases are not difficult to diagnose, only slow. A cytology sample such as pleural fluid or a fine-needle aspirate usually needs a panel of immunostains, which today means a cell block and up to two days of serial staining.\r\n\r\nX-ZELL replaces that with Cryoimmunostaining™: direct-to-slide fixation and seven markers on one slide, read on a digital microscope, from sample to screen in under four hours. The platform (Cryofixator™, Cryostainer™, Hybrid Microscope and Cryophore™ panels) is CE-marked under the EU IVDR and in routine use at pathology laboratories in Germany.\r\n\r\nX-ZELL is headquartered in Singapore. Its reagents are developed and manufactured in Bangkok, Thailand, under ISO 13485, next to an ISO 15189-accredited laboratory. The company was founded in 2014 by Dr Sebastian Bhakdi.\r\n\r\nX-ZELL started with the detection of rare cells in blood. Bringing the same multiplex staining to routine cytology proved the faster route to patients, and that is where the company now focuses.",
+          "after": "The majority of cancer cases are not difficult to diagnose, only slow. Delivering the diagnosis on the same day unclogs health systems around the globe. X-ZELL's patented, CE-marked multiplex cytology platform stains seven cancer markers and a nuclear counterstain on one slide in under four hours, replacing several days of serial staining. The platform is in routine use at pathology laboratories in Germany. X-ZELL is headquartered in Singapore and its manufacturing and R&D hub is in Bangkok, Thailand. The company holds ISO 13485 medical device certification and ISO 15189 clinical laboratory accreditation.\r\n\r\nX-ZELL started with the liquid biopsy: finding rare cells in blood and identifying them by multiplex staining. Because a liquid biopsy is cell-based, it is cytology. So the company brought the same staining into routine cytology first, where it helps patients today, and is building the liquid biopsy on that same platform."
         },
-        "one_liner": {
-          "before": "Early, pain-free cancer detection. ",
-          "after": "Same-day cancer diagnosis from minimally invasive samples"
-        },
-        "team_size": {
-          "before": 19,
-          "after": 11
-        },
-        "website": {
-          "before": "http://www.x-zell.com",
-          "after": "https://x-zell.com"
-        }
-      }
-    },
-    {
-      "id": 1576,
-      "name": "Jerry",
-      "slug": "jerry-inc",
-      "batch": "Summer 2017",
-      "url": "https://www.ycombinator.com/companies/jerry-inc",
-      "changed_fields": [
-        "long_description"
-      ],
-      "changes": {
-        "long_description": {
-          "before": "Your car and your home are your most expensive assets. And for most people, these aren't just purchases, they're the physical embodiment of the life you've worked hard to build. Yet the experience of owning them is stuck in the 90s. Every step of the journey — buying, insuring, maintaining, repairing, selling — is fragmented, complicated, and expensive.\r\n\r\nImagine having a trusted friend in your pocket who takes care of everything: they find you the right car or home at the right price, lock in the best insurance rate without you lifting a finger, remind you before that service appointment turns into an expensive repair or, worse, an accident, and help you sell at the best price when the time is right. That friend is Jerry.\r\n\r\nJerry is building the first AI agent to manage all your physical assets. We started with car insurance in 2019, became one of the top 3 brokers in the U.S., then added driving insights, diagnostics, and a repair marketplace. We've reached 5M+ customers, raised $240M+, and have been profitable since 2024. We're now expanding into home, motorcycle, RV, and beyond.\r\n\r\nWe’re fully remote with offices in Palo Alto, New York, Chicago, and Toronto.",
-          "after": "Your car and your home are your most expensive assets. And for most people, these aren't just purchases, they're the physical embodiment of the life you've worked hard to build. Yet the experience of owning them is stuck in the 90s. Every step of the journey — buying, insuring, maintaining, repairing, selling — is fragmented, complicated, and expensive.\r\n\r\nImagine having a trusted friend in your pocket who helps you compare insurance, keep your policies organized, stay ahead of maintenance and catch recalls before they become bigger headaches. That friend is Jerry. Our vision is to be there for the whole ownership journey, from finding the right vehicle or home to helping you sell when the time is right.\r\n\r\nJerry is building the first AI agent to manage all your physical assets. We started with car insurance in 2019, became one of the top 3 brokers in the U.S., then added driving insights, diagnostics, and a repair marketplace. \r\n\r\nToday, we work with 100+ insurers and help customers compare, buy and bundle car, home, renters, motorcycle, boat and RV insurance. We also help with maintenance, repairs, recalls, driver safety, roadside assistance and property tax appeals. More than 5 million users have downloaded the Jerry app. We've raised $240M+ and have been profitable since 2024.\r\n\r\nWe’re fully remote with offices in Palo Alto, New York, Chicago, and Toronto."
+        "regions": {
+          "before": [
+            "Thailand",
+            "Germany",
+            "Southeast Asia",
+            "Europe",
+            "Remote",
+            "Partly Remote"
+          ],
+          "after": [
+            "Singapore",
+            "Thailand",
+            "Germany",
+            "Southeast Asia",
+            "Europe",
+            "Remote",
+            "Partly Remote"
+          ]
         }
       }
     },
@@ -80,59 +103,132 @@
       "batch": "Winter 2019",
       "url": "https://www.ycombinator.com/companies/okteto",
       "changed_fields": [
-        "long_description",
-        "one_liner",
-        "stage",
-        "team_size"
+        "stage"
       ],
       "changes": {
-        "long_description": {
-          "before": "At Okteto, we are working hard at creating the next-generation development experience for teams of all sizes. Have you ever seen how long it takes a developer to set up everything they need before working on a feature? We are fixing that.  We want developers to focus on building value for their teams instead of wasting time setting up local environments or trying to debug \"production only\" issues.",
-          "after": "Okteto gives every developer, coding agent and pull request an on-demand application environment on your own Kubernetes infrastructure.\r\n\r\nDefine your environment once, reusing your existing Helm, Compose or Kubernetes manifests, and use the same versioned definition across development, CI, previews and AI coding agents. Less configuration drift, less duplicated setup, and centrally managed access to clusters, registries and cloud resources.\r\n\r\nRun coding agents on your cluster, batteries included. Launch them with Okteto's built-in orchestrator or bring your own, including agents running locally like Claude Code or Cursor, while Okteto manages the environments they build, deploy and test against. The agent stays small; the application runs in a real environment.\r\n\r\nYour code meets Kubernetes earlier in the cycle. Every change gets automated tests against running services and a live preview URL that developers, QA and product managers can open without any local setup.\r\n\r\nBuilt for platform teams that run environments at scale: Divert deploys only the services that change against a shared base, while automatic sleep, garbage collection, quotas and Smart Builds keep resource usage under control.\r\n\r\nSelf-hosted on your Kubernetes, including air-gapped clusters. SOC 2 Type 2 compliant."
-        },
-        "one_liner": {
-          "before": "Cloud Development Environments with one click",
-          "after": "Ephemeral environments on Kubernetes"
-        },
         "stage": {
-          "before": "Growth",
-          "after": "Early"
-        },
-        "team_size": {
-          "before": 30,
-          "after": null
+          "before": "Early",
+          "after": "Growth"
         }
       }
     },
     {
-      "id": 12274,
-      "name": "Inito",
-      "slug": "inito",
+      "id": 12236,
+      "name": "NALA",
+      "slug": "nala",
       "batch": "Winter 2019",
-      "url": "https://www.ycombinator.com/companies/inito",
+      "url": "https://www.ycombinator.com/companies/nala",
       "changed_fields": [
         "all_locations",
         "regions"
       ],
       "changes": {
         "all_locations": {
-          "before": "Bengaluru, KA, India",
-          "after": "Dubai, Dubai, United Arab Emirates; Bengaluru, KA, India"
+          "before": "New York City, NY, USA",
+          "after": "London, England, United Kingdom"
         },
         "regions": {
           "before": [
-            "India",
-            "South Asia",
+            "United States of America",
+            "America / Canada",
             "Remote",
             "Partly Remote"
           ],
           "after": [
-            "United Arab Emirates",
-            "India",
-            "Middle East and North Africa",
-            "South Asia",
+            "United Kingdom",
+            "Europe",
             "Remote",
             "Partly Remote"
+          ]
+        }
+      }
+    },
+    {
+      "id": 12867,
+      "name": "Vorticity",
+      "slug": "vorticity",
+      "batch": "Summer 2019",
+      "url": "https://www.ycombinator.com/companies/vorticity",
+      "changed_fields": [
+        "isHiring"
+      ],
+      "changes": {
+        "isHiring": {
+          "before": true,
+          "after": false
+        }
+      }
+    },
+    {
+      "id": 13104,
+      "name": "Letterdrop",
+      "slug": "letterdrop",
+      "batch": "Winter 2020",
+      "url": "https://www.ycombinator.com/companies/letterdrop",
+      "changed_fields": [
+        "all_locations"
+      ],
+      "changes": {
+        "all_locations": {
+          "before": "San Francisco, CA, USA",
+          "after": "New York City, NY, USA"
+        }
+      }
+    },
+    {
+      "id": 22124,
+      "name": "Taktile",
+      "slug": "taktile",
+      "batch": "Summer 2020",
+      "url": "https://www.ycombinator.com/companies/taktile",
+      "changed_fields": [
+        "long_description",
+        "one_liner"
+      ],
+      "changes": {
+        "long_description": {
+          "before": "Taktile empowers financial institutions to quickly unlock AI-driven efficiencies across the customer lifecycle, reducing manual work while optimizing decisions and enabling seamless end-user experiences.\r\n\r\nBuilt for highly regulated environments, our agentic decision platform combines the speed of AI automation with the oversight of human judgement—so you can safely approve customers, catch more fraud, and stay compliant.\r\n\r\nWe power AI transformation from offices in NYC, London, Berlin, and Iasi, and have raised $80M in capital from top investors including Index Ventures, Tiger Global, Balderton Capital and Y Combinator.\r\n\r\nJoin over 200 leading financial institutions who rely on Taktile to enable faster, more intelligent decisions from onboarding to credit, AML, compliance, and fraud.",
+          "after": "Taktile is the Agentic Decision Platform for banking and insurance. Our platform combines data, rules, AI agents, and human expertise to enable banks and insurers to constantly improve business and consumer underwriting, customer onboarding, and claims management. Over 200 banks and insurers use Taktile to onboard more qualified customers, lend to the right businesses, and settle claims faster. Our team of forward-deployed engineers enables risk, operations, and technical teams to implement, test, and refine every decision while staying in control.\r\n\r\nTaktile is backed by leading investors including Goldman Sachs, Index Ventures, Tiger Global, Balderton Capital, and Y Combinator."
+        },
+        "one_liner": {
+          "before": "Transform your decision-making with reliable AI agents in weeks, not…",
+          "after": "Taktile is the Agentic Decision Platform for banking and insurance."
+        }
+      }
+    },
+    {
+      "id": 22196,
+      "name": "MedPiper Technologies, Inc",
+      "slug": "medpiper-technologies-inc",
+      "batch": "Summer 2020",
+      "url": "https://www.ycombinator.com/companies/medpiper-technologies-inc",
+      "changed_fields": [
+        "long_description",
+        "one_liner",
+        "tags"
+      ],
+      "changes": {
+        "long_description": {
+          "before": "OrbitCover (by MedPiper Technologies, YC S20) is parametric travel insurance infrastructure. We power flight delay coverage that auto-settles payouts in under 5 minutes; with zero claims filing.",
+          "after": "MedPiper is building technology-driven commercial insurance and risk infrastructure.\r\n\r\nWe help businesses protect receivables, manage commercial risks and improve access to working capital. Our initial focus is trade credit insurance, embedded into lending, supply chain and B2B commerce workflows.\r\n\r\nWe combine insurance distribution, data-driven risk assessment, underwriting technology and automated servicing, with the long-term ambition of becoming a global commercial risk carrier.\r\n\r\nHeadquartered in the US, with operations in India. Since 2020, we've built insurance distribution, risk assessment and automated settlement infrastructure in partnership with leading insurers, enabling over $30M+ in insurance premiums.\r\n\r\nOur longer-term ambition is to build a technology-native global commercial insurer covering trade, supply chains, cyber, specialty and emerging technology risks.\r\n\r\nWe're particularly interested in connecting with YC companies building in:\r\n- AI infrastructure, data centers and hardware\r\n- Manufacturing, robotics and industrial technology\r\n- B2B commerce and global supply chains\r\n- Lending, embedded finance and payments\r\n- Commercial insurance and risk infrastructure\r\n\r\nWe'd love to speak with founders experiencing gaps in commercial insurance, receivables protection or access to financing as they scale."
+        },
+        "one_liner": {
+          "before": "Instant cash payouts for delayed flights",
+          "after": "Insurance and risk infrastructure for businesses"
+        },
+        "tags": {
+          "before": [
+            "Fintech",
+            "Travel",
+            "Insurance",
+            "Consumer Finance"
+          ],
+          "after": [
+            "Fintech",
+            "B2B",
+            "Insurance",
+            "Infrastructure",
+            "AI"
           ]
         }
       }
@@ -148,8 +244,134 @@
       ],
       "changes": {
         "stage": {
-          "before": "Growth",
-          "after": "Early"
+          "before": "Early",
+          "after": "Growth"
+        }
+      }
+    },
+    {
+      "id": 23317,
+      "name": "Rejoy Health",
+      "slug": "rejoy-health",
+      "batch": "Winter 2021",
+      "url": "https://www.ycombinator.com/companies/rejoy-health",
+      "changed_fields": [
+        "all_locations",
+        "regions"
+      ],
+      "changes": {
+        "all_locations": {
+          "before": "San Francisco, CA, USA; Remote",
+          "after": "London, England, United Kingdom; Remote"
+        },
+        "regions": {
+          "before": [
+            "United States of America",
+            "America / Canada",
+            "Remote",
+            "Fully Remote"
+          ],
+          "after": [
+            "United Kingdom",
+            "Europe",
+            "Remote",
+            "Fully Remote"
+          ]
+        }
+      }
+    },
+    {
+      "id": 23460,
+      "name": "hoop.dev",
+      "slug": "hoop-dev",
+      "batch": "Winter 2021",
+      "url": "https://www.ycombinator.com/companies/hoop-dev",
+      "changed_fields": [
+        "all_locations"
+      ],
+      "changes": {
+        "all_locations": {
+          "before": "São Paulo, SP, Brazil; Remote",
+          "after": "Rio de Janeiro, RJ, Brazil; Remote"
+        }
+      }
+    },
+    {
+      "id": 24344,
+      "name": "WarpBuild",
+      "slug": "warpbuild",
+      "batch": "Summer 2021",
+      "url": "https://www.ycombinator.com/companies/warpbuild",
+      "changed_fields": [
+        "isHiring"
+      ],
+      "changes": {
+        "isHiring": {
+          "before": false,
+          "after": true
+        }
+      }
+    },
+    {
+      "id": 24590,
+      "name": "Waterplan",
+      "slug": "waterplan",
+      "batch": "Summer 2021",
+      "url": "https://www.ycombinator.com/companies/waterplan",
+      "changed_fields": [
+        "stage"
+      ],
+      "changes": {
+        "stage": {
+          "before": "Early",
+          "after": "Growth"
+        }
+      }
+    },
+    {
+      "id": 25603,
+      "name": "Reforged Labs",
+      "slug": "reforged-labs",
+      "batch": "Winter 2022",
+      "url": "https://www.ycombinator.com/companies/reforged-labs",
+      "changed_fields": [
+        "all_locations",
+        "regions"
+      ],
+      "changes": {
+        "all_locations": {
+          "before": "Ho Chi Minh City, Vietnam",
+          "after": "Boston, MA, USA"
+        },
+        "regions": {
+          "before": [
+            "Vietnam",
+            "Southeast Asia",
+            "Remote",
+            "Partly Remote"
+          ],
+          "after": [
+            "United States of America",
+            "America / Canada",
+            "Remote",
+            "Partly Remote"
+          ]
+        }
+      }
+    },
+    {
+      "id": 25974,
+      "name": "Float Health",
+      "slug": "float-health",
+      "batch": "Winter 2022",
+      "url": "https://www.ycombinator.com/companies/float-health",
+      "changed_fields": [
+        "all_locations"
+      ],
+      "changes": {
+        "all_locations": {
+          "before": "Carlsbad, CA, USA",
+          "after": "San Diego, CA, USA"
         }
       }
     },
@@ -164,8 +386,24 @@
       ],
       "changes": {
         "stage": {
-          "before": "Growth",
-          "after": "Early"
+          "before": "Early",
+          "after": "Growth"
+        }
+      }
+    },
+    {
+      "id": 26880,
+      "name": "Airhart Aeronautics",
+      "slug": "airhart-aeronautics",
+      "batch": "Summer 2022",
+      "url": "https://www.ycombinator.com/companies/airhart-aeronautics",
+      "changed_fields": [
+        "stage"
+      ],
+      "changes": {
+        "stage": {
+          "before": "Early",
+          "after": "Growth"
         }
       }
     },
@@ -180,8 +418,8 @@
       ],
       "changes": {
         "stage": {
-          "before": "Growth",
-          "after": "Early"
+          "before": "Early",
+          "after": "Growth"
         }
       }
     },
@@ -196,138 +434,88 @@
       ],
       "changes": {
         "stage": {
-          "before": "Growth",
-          "after": "Early"
+          "before": "Early",
+          "after": "Growth"
         }
       }
     },
     {
-      "id": 29134,
-      "name": "Cognitio Labs",
-      "slug": "cognitio-labs",
-      "batch": "Summer 2023",
-      "url": "https://www.ycombinator.com/companies/cognitio-labs",
+      "id": 29334,
+      "name": "Decipher AI",
+      "slug": "decipher-ai",
+      "batch": "Winter 2024",
+      "url": "https://www.ycombinator.com/companies/decipher-ai",
       "changed_fields": [
+        "status"
+      ],
+      "changes": {
+        "status": {
+          "before": "Active",
+          "after": "Inactive"
+        }
+      }
+    },
+    {
+      "id": 29377,
+      "name": "Toma",
+      "slug": "toma",
+      "batch": "Winter 2024",
+      "url": "https://www.ycombinator.com/companies/toma",
+      "changed_fields": [
+        "one_liner",
+        "small_logo_thumb_url",
+        "stage",
+        "tags",
         "team_size"
       ],
       "changes": {
-        "team_size": {
-          "before": 3,
-          "after": 5
-        }
-      }
-    },
-    {
-      "id": 29341,
-      "name": "GloGlo",
-      "slug": "gloglo",
-      "batch": "Winter 2024",
-      "url": "https://www.ycombinator.com/companies/gloglo",
-      "changed_fields": [
-        "industries",
-        "industry",
-        "long_description",
-        "one_liner",
-        "subindustry",
-        "tags"
-      ],
-      "changes": {
-        "industries": {
-          "before": [
-            "Consumer"
-          ],
-          "after": [
-            "Healthcare",
-            "Therapeutics"
-          ]
-        },
-        "industry": {
-          "before": "Consumer",
-          "after": "Healthcare"
-        },
-        "long_description": {
-          "before": "Our mission: eradicate type 1 diabetes.\r\nGloGlo is building an AI-native therapeutics company focused on accelerating the discovery of treatments that can prevent, stop, and ultimately cure type 1 diabetes.\r\nWe are developing AI research agents that continuously analyze scientific literature and biological datasets, generate and challenge hypotheses, design experiments, and run them in a wet lab to learn from experimental results.\r\nWe are building a tight \"in silico <> in vitro/vivo\" feedback loop that helps us identify better targets, run experiments more efficiently, and move faster toward therapies for type 1 diabetes.\r\n",
-          "after": "GloGlo is developing therapeutics that intercept autoimmune disease before the immune attack takes place.\r\n\r\nMichael has lived with T1D for 17 years, conducted mathematics PhD research at Cambridge, and built a 70-person ML team acquired by Sonos. Anil Bhushan is a leading autoimmune disease researcher, tenured UCSF professor and founder of Deciduous Therapeutics. Marie is a repeat founder who sold Workwell to Mitsui Fudosan.\r\n\r\nTheir AI platform has identified de novo protein designs now undergoing wet lab validation, with mouse studies planned for early 2027. Initial indications are T1D and lupus, followed by multiple sclerosis and rheumatoid arthritis."
-        },
         "one_liner": {
-          "before": "Curing and preventing type 1 diabetes",
-          "after": "Solving autoimmune diseases with AI, starting with type 1 diabetes."
+          "before": "AI Applied Research",
+          "after": "AI for Automotive"
         },
-        "subindustry": {
-          "before": "Consumer",
-          "after": "Healthcare -> Therapeutics"
+        "small_logo_thumb_url": {
+          "before": "https://bookface-images.s3.amazonaws.com/small_logos/487d262a82be5ca0a686f315a9b5fa293f2006b9.png",
+          "after": "https://bookface-images.s3.amazonaws.com/small_logos/ba6be36f089e2ddcf98b71661bd4f770addb9d56.png"
+        },
+        "stage": {
+          "before": "Growth",
+          "after": "Early"
         },
         "tags": {
           "before": [
-            "AI-powered Drug Discovery",
-            "Consumer Health Services",
-            "Biotech",
-            "E-commerce",
+            "Marketplace",
+            "B2B",
+            "Productivity",
+            "HR Tech",
             "AI"
           ],
           "after": [
-            "AI-powered Drug Discovery",
-            "Biotech",
-            "Therapeutics",
-            "AI"
+            "B2B",
+            "Customer Support",
+            "AI",
+            "Automotive",
+            "Conversational AI"
           ]
-        }
-      }
-    },
-    {
-      "id": 29524,
-      "name": "Coval",
-      "slug": "coval",
-      "batch": "Summer 2024",
-      "url": "https://www.ycombinator.com/companies/coval",
-      "changed_fields": [
-        "team_size"
-      ],
-      "changes": {
+        },
         "team_size": {
-          "before": 10,
+          "before": 20,
           "after": 25
         }
       }
     },
     {
-      "id": 29789,
-      "name": "Paasa",
-      "slug": "paasa",
-      "batch": "Summer 2024",
-      "url": "https://www.ycombinator.com/companies/paasa",
+      "id": 29430,
+      "name": "BiteSight",
+      "slug": "bitesight",
+      "batch": "Winter 2024",
+      "url": "https://www.ycombinator.com/companies/bitesight",
       "changed_fields": [
-        "industries",
-        "long_description",
-        "one_liner",
-        "subindustry",
-        "team_size"
+        "status"
       ],
       "changes": {
-        "industries": {
-          "before": [
-            "Fintech",
-            "Asset Management"
-          ],
-          "after": [
-            "Fintech"
-          ]
-        },
-        "long_description": {
-          "before": "Paasa helps wealthy Indians invest in global equities - without middlemen, hidden fees, or paperwork.\r\n\r\nWhile high-net-worths in India often have international expenses from children's education to healthcare, most still save in INR, a currency that depreciates ~2–5% per year against the USD. Why?\r\n\r\n- Broken outward remittance process\r\n- Fear of making mistakes in tax or compliance\r\n- Paper-heavy onboarding processes of international brokers\r\n- Lack of trustworthy guidance\r\n\r\nPaasa offers a mobile app that enables Indians to trade worldwide, invest via advisory, and automate every cross-border tax filing.",
-          "after": "Paasa helps Indians invest in global markets - without middlemen, hidden fees, or paperwork.\r\n\r\nWhile high-net-worths in India often have international expenses from children's education to healthcare, most still save in INR, a currency that depreciates ~2–5% per year against the USD. Why?\r\n\r\n- Broken outward remittance process\r\n- Fear of making mistakes in tax or compliance\r\n- Paper-heavy onboarding processes of international brokers\r\n- Lack of trustworthy guidance\r\n\r\nPaasa offers a mobile app that enables Indians to trade any stock in any stock market, invest via managed strategies, and automate every cross-border tax filing.\r\n\r\nAs of December 2026, Paasa has 25,000+ users with $100M+ in client deposits."
-        },
-        "one_liner": {
-          "before": "Invest in Global Equities from India",
-          "after": "Invest in Global Stocks, ETFs, and Strategies from India"
-        },
-        "subindustry": {
-          "before": "Fintech -> Asset Management",
-          "after": "Fintech"
-        },
-        "team_size": {
-          "before": 9,
-          "after": 14
+        "status": {
+          "before": "Active",
+          "after": "Inactive"
         }
       }
     },
@@ -342,24 +530,56 @@
       ],
       "changes": {
         "stage": {
-          "before": "Growth",
-          "after": "Early"
+          "before": "Early",
+          "after": "Growth"
         }
       }
     },
     {
-      "id": 30021,
-      "name": "telli",
-      "slug": "telli",
+      "id": 30055,
+      "name": "RiskCube",
+      "slug": "riskcube",
       "batch": "Fall 2024",
-      "url": "https://www.ycombinator.com/companies/telli",
+      "url": "https://www.ycombinator.com/companies/riskcube",
       "changed_fields": [
-        "team_size"
+        "long_description"
       ],
       "changes": {
-        "team_size": {
-          "before": 25,
-          "after": 45
+        "long_description": {
+          "before": "RiskCube enables startups to close enterprise deals with top-rated insurance. We offer everything startups need on their insurance journey—from D&O, cyber liability, E&O, and general liability to health, benefits, and life insurance.\r\n\r\nMission: Building insurance products & services focused on lowering the protection gap for the innovation economy on a national and global scale. \r\n\r\nToday, we operate an insurance brokerage focused on startups. Through the brokerage, we see firsthand where traditional insurance products fail, from AI liability and autonomous systems to defense technology and new space risks.\r\n\r\nWe are now building proprietary risk models that can price risks even when little historical claims data exists. Our approach uses stochastic simulation, then applies traditional, explainable models to make the output transparent to underwriters and regulators.\r\n\r\nThis allows us to create new insurance and reinsurance products for emerging industries much faster than traditional carriers.\r\n",
+          "after": "RiskCube enables venture-backed startups to close enterprise deals with top-rated insurance. We offer everything startups need on their insurance journey—from D&O, cyber liability, E&O, and general liability to health, benefits, and life insurance.\r\n\r\nMission: Building insurance products & services focused on lowering the protection gap for the innovation economy on a national and global scale. \r\n\r\nOne example is the emerging AI data supply chain. Data vendors sourcing, processing, and licensing data to leading AI labs face complex liability exposures, including wrongful collection of personal data, intellectual property infringement, and unauthorized disclosure. Traditional insurance policies often exclude or inadequately address these risks, creating protection gaps for both data vendors and their enterprise customers.\r\n\r\n"
+        }
+      }
+    },
+    {
+      "id": 30097,
+      "name": "Innate",
+      "slug": "innate",
+      "batch": "Fall 2024",
+      "url": "https://www.ycombinator.com/companies/innate",
+      "changed_fields": [
+        "long_description"
+      ],
+      "changes": {
+        "long_description": {
+          "before": "We make personal AI robots.\r\n\r\nWe believe building open platforms like the first PCs this is the only way to bring the robotics future that we all want, where everyone can participate in the robotics revolution, and reap its rewards.",
+          "after": "A new robot coming soon\r\n\r\nWe make personal AI robots.\r\n\r\nWe believe building open platforms like the first PCs this is the only way to bring the robotics future that we all want, where everyone can participate in the robotics revolution, and reap its rewards."
+        }
+      }
+    },
+    {
+      "id": 30248,
+      "name": "Operand",
+      "slug": "operand",
+      "batch": "Winter 2025",
+      "url": "https://www.ycombinator.com/companies/operand",
+      "changed_fields": [
+        "all_locations"
+      ],
+      "changes": {
+        "all_locations": {
+          "before": "San Francisco, CA, USA",
+          "after": "New York City, NY, USA"
         }
       }
     },
@@ -374,24 +594,56 @@
       ],
       "changes": {
         "isHiring": {
-          "before": true,
-          "after": false
+          "before": false,
+          "after": true
         }
       }
     },
     {
-      "id": 30404,
-      "name": "Vybe",
-      "slug": "vybe",
-      "batch": "Spring 2025",
-      "url": "https://www.ycombinator.com/companies/vybe",
+      "id": 30251,
+      "name": "Mecha Health",
+      "slug": "mecha-health",
+      "batch": "Winter 2025",
+      "url": "https://www.ycombinator.com/companies/mecha-health",
       "changed_fields": [
-        "team_size"
+        "all_locations"
       ],
       "changes": {
-        "team_size": {
-          "before": 8,
-          "after": 10
+        "all_locations": {
+          "before": "San Francisco, CA, USA",
+          "after": "Dallas, TX, USA"
+        }
+      }
+    },
+    {
+      "id": 30445,
+      "name": "Mbodi AI",
+      "slug": "mbodi-ai",
+      "batch": "Spring 2025",
+      "url": "https://www.ycombinator.com/companies/mbodi-ai",
+      "changed_fields": [
+        "long_description"
+      ],
+      "changes": {
+        "long_description": {
+          "before": "Teach robots new skills through natural language and run reliably in production in minutes.\r\n\r\nMbodi combines generative AI and agent orchestration, turning everyday language and quick demos into precise, reliable robot actions for industrial automation.",
+          "after": "Mbodi is building an agentic intelligence system that enables robots to reason, adapt, and acquire new capabilities in the physical world. \r\n\r\nWe deploy robots that autonomously generate and compose skills to handle changing industrial and logistics tasks."
+        }
+      }
+    },
+    {
+      "id": 30561,
+      "name": "Sureform",
+      "slug": "sureform",
+      "batch": "Spring 2025",
+      "url": "https://www.ycombinator.com/companies/sureform",
+      "changed_fields": [
+        "all_locations"
+      ],
+      "changes": {
+        "all_locations": {
+          "before": "San Francisco, CA, USA",
+          "after": "New York City, NY, USA"
         }
       }
     },
@@ -406,40 +658,109 @@
       ],
       "changes": {
         "stage": {
-          "before": "Growth",
-          "after": "Early"
+          "before": "Early",
+          "after": "Growth"
         }
       }
     },
     {
-      "id": 30894,
-      "name": "Unsiloed AI",
-      "slug": "unsiloed-ai",
-      "batch": "Fall 2025",
-      "url": "https://www.ycombinator.com/companies/unsiloed-ai",
+      "id": 30719,
+      "name": "ProcIndex",
+      "slug": "procindex",
+      "batch": "Summer 2025",
+      "url": "https://www.ycombinator.com/companies/procindex",
       "changed_fields": [
-        "team_size"
+        "long_description",
+        "one_liner"
       ],
       "changes": {
-        "team_size": {
-          "before": 2,
-          "after": 7
+        "long_description": {
+          "before": "ProcIndex uses AI to automate accounting operations for the construction and manufacturing sectors.\r\n\r\nIt connects to your existing ERP and operates in the background while giving you full visibility into its actions. By automating accounts payable, accounts receivable, reconciliation, and vendor management, ProcIndex helps accounting teams improve efficiency by 33%.",
+          "after": "ProcIndex gives construction and manufacturing finance teams an AI accounting team that works inside the ERP they already run, including CMiC, Sage 100 Contractor, Sage 300 CRE, Trimble Viewpoint Vista, Sage Intacct, NetSuite, QuickBooks, SAP, Oracle and Microsoft Dynamics. No migration, nothing new to learn.\n\nAgents run accounts payable, accounts receivable, vendor management, reconciliation and month-end close end to end: invoices captured from any inbox, portal or job-site photo, coded to jobs and cost codes, lien-waiver checked and posted; collections and same-day cash application; instant payment-status answers for suppliers; books reconciled all month so close is calm.\n\n98.1% of invoices are processed without human intervention, with a full audit trail on every action. SOC 2 Type II. Backed by Y Combinator."
+        },
+        "one_liner": {
+          "before": "AI-powered accounting automation for construction and manufacturing",
+          "after": "AI accounting team for construction and manufacturing, in any ERP"
         }
       }
     },
     {
-      "id": 30922,
-      "name": "Selfin",
-      "slug": "selfin",
-      "batch": "Fall 2025",
-      "url": "https://www.ycombinator.com/companies/selfin",
+      "id": 30771,
+      "name": "Flywheel AI",
+      "slug": "flywheel-ai",
+      "batch": "Summer 2025",
+      "url": "https://www.ycombinator.com/companies/flywheel-ai",
       "changed_fields": [
-        "team_size"
+        "all_locations",
+        "regions"
       ],
       "changes": {
-        "team_size": {
-          "before": 2,
-          "after": 1
+        "all_locations": {
+          "before": "San Francisco, CA, USA",
+          "after": "Singapore, Singapore"
+        },
+        "regions": {
+          "before": [
+            "United States of America",
+            "America / Canada"
+          ],
+          "after": [
+            "Singapore",
+            "Southeast Asia"
+          ]
+        }
+      }
+    },
+    {
+      "id": 30772,
+      "name": "stagewise",
+      "slug": "stagewise",
+      "batch": "Summer 2025",
+      "url": "https://www.ycombinator.com/companies/stagewise",
+      "changed_fields": [
+        "all_locations",
+        "regions"
+      ],
+      "changes": {
+        "all_locations": {
+          "before": "",
+          "after": "Bielefeld, NRW, Germany"
+        },
+        "regions": {
+          "before": [
+            "Unspecified"
+          ],
+          "after": [
+            "Germany",
+            "Europe"
+          ]
+        }
+      }
+    },
+    {
+      "id": 31001,
+      "name": "Fastshot",
+      "slug": "fastshot",
+      "batch": "Fall 2025",
+      "url": "https://www.ycombinator.com/companies/fastshot",
+      "changed_fields": [
+        "all_locations",
+        "regions"
+      ],
+      "changes": {
+        "all_locations": {
+          "before": "Thessaloniki, Greece",
+          "after": "San Francisco, CA, USA"
+        },
+        "regions": {
+          "before": [
+            "Greece",
+            "Europe"
+          ],
+          "after": [
+            "United States of America",
+            "America / Canada"
+          ]
         }
       }
     },
@@ -450,60 +771,76 @@
       "batch": "Winter 2026",
       "url": "https://www.ycombinator.com/companies/didit",
       "changed_fields": [
-        "small_logo_thumb_url"
-      ],
-      "changes": {
-        "small_logo_thumb_url": {
-          "before": "https://bookface-images.s3.amazonaws.com/small_logos/202e6cd94d0ec2c8de835c56ce6b880f99f033d5.png",
-          "after": "https://bookface-images.s3.amazonaws.com/small_logos/c3f50a228cdf3568c8631e4feca3095106e0e9cc.png"
-        }
-      }
-    },
-    {
-      "id": 31098,
-      "name": "10x Science",
-      "slug": "10x-science",
-      "batch": "Winter 2026",
-      "url": "https://www.ycombinator.com/companies/10x-science",
-      "changed_fields": [
         "long_description",
+        "one_liner",
         "tags"
       ],
       "changes": {
         "long_description": {
-          "before": "10x Science develops frontier AI models with deep memory to redefine how scientists understand and engineer biology across the life sciences, starting with drug development.\r\n\r\nAI-powered drug discovery is flooding the pipeline with new candidates faster than ever. But before any of them can advance to the clinic, scientists must deeply characterize the protein therapeutic to understand whether it will work. Today, that process takes months of manual, error-prone analysis that cannot keep pace with discovery. Our AI-native platform automates it, giving drug developers the confidence to advance the right candidates and stop the wrong ones early.\r\n\r\nWe have strong commercial traction with enterprise pharma customers. Our founding team built the field of next-generation protein characterization out of Carolyn Bertozzi's Nobel laureate lab at Stanford. Collectively, we have 18+ years of collective domain expertise, 47+ scientific publications, and a 2x YC Founder. We move at the highest velocity and are positioned to lead the next generation of modern AI development in the life sciences. ",
-          "after": "10x Science develops frontier AI models with deep memory to redefine how scientists understand and engineer biology across the life sciences, starting with drug development.\r\n\r\nAI-powered drug discovery is flooding the pipeline with new candidates faster than ever. But before any of them can advance to the clinic, scientists must deeply characterize the protein therapeutic to understand whether it will work. Today, that process takes months of manual, error-prone analysis that cannot keep pace with discovery. Our AI-native platform automates it, giving drug developers the confidence to advance the right candidates and stop the wrong ones early.\r\n\r\nWe have strong commercial traction with enterprise pharma customers. Our founding team built the field of next-generation protein characterization out of Carolyn Bertozzi's Nobel laureate lab at Stanford. Collectively, we have 18+ years of collective domain expertise, 47+ scientific publications, and a 2x YC Founder. We move at the highest velocity and are positioned to lead the next generation of modern AI development in the life sciences."
+          "before": "One API for KYC, KYB, AML, authentication, biometrics, and fraud — powered by 1,000+ data sources, 200+ signals, and in-house AI models. Global coverage. Integrate in minutes, pay as you go. Start free at business.didit.me.",
+          "after": "Didit is infrastructure for identity and fraud. \r\n\r\nCompanies use one API, or our MCP server, to find out who is really behind each account: identity verification (KYC), Business verification (KYB), AML screening, authentication & user management, and fraud monitoring. \r\n\r\nDidit connects to the government databases and company registries and runs the document, liveness and fraud checks behind it, so teams replace a stack of vendors with one integration. \r\n\r\nPrices are public and every account starts free. Global coverage. Integrate in minutes, pay as you go. Start free at business.didit.me and join +4000 customers using Didit."
+        },
+        "one_liner": {
+          "before": "Infrastructure for identity and fraud.",
+          "after": "We verify who is behind every account and stop fraud, through one API."
         },
         "tags": {
-          "before": [
-            "SaaS",
-            "B2B",
-            "Biotech",
-            "AI"
-          ],
+          "before": [],
           "after": [
             "SaaS",
-            "B2B",
-            "Biotech",
-            "Healthcare",
+            "Identity",
+            "Cybersecurity",
+            "Fraud Prevention",
             "AI"
           ]
         }
       }
     },
     {
-      "id": 31203,
-      "name": "Sitefire",
-      "slug": "sitefire",
+      "id": 31102,
+      "name": "Fuchsia",
+      "slug": "fuchsia",
+      "batch": "Spring 2026",
+      "url": "https://www.ycombinator.com/companies/fuchsia",
+      "changed_fields": [
+        "all_locations"
+      ],
+      "changes": {
+        "all_locations": {
+          "before": "San Francisco, CA, USA",
+          "after": "New Haven, CT, USA"
+        }
+      }
+    },
+    {
+      "id": 31184,
+      "name": "Assemble",
+      "slug": "assemble",
+      "batch": "Summer 2026",
+      "url": "https://www.ycombinator.com/companies/assemble",
+      "changed_fields": [
+        "one_liner"
+      ],
+      "changes": {
+        "one_liner": {
+          "before": "Autonomous IT Delivery",
+          "after": "Self-Improving Business Systems"
+        }
+      }
+    },
+    {
+      "id": 31241,
+      "name": "Corelayer",
+      "slug": "corelayer",
       "batch": "Winter 2026",
-      "url": "https://www.ycombinator.com/companies/sitefire",
+      "url": "https://www.ycombinator.com/companies/corelayer",
       "changed_fields": [
         "isHiring"
       ],
       "changes": {
         "isHiring": {
-          "before": true,
-          "after": false
+          "before": false,
+          "after": true
         }
       }
     },
@@ -518,61 +855,116 @@
       ],
       "changes": {
         "long_description": {
-          "before": "Sila is an agent messenger where your team and agents work together to grow your company. Our mission is to bring superintelligence to all companies around the world. ",
-          "after": "Sila is an agent messenger where your team creates and messages AI Contacts that work 24/7 towards your goals. They build intelligent apps and automations, becoming the AI infrastructure your company grows on. No coding required. Our mission is to bring superintelligence to every company in the world."
+          "before": "Sila is an agent messenger where your team creates and messages AI Contacts that work 24/7 towards your goals. They build intelligent apps and automations, becoming the AI infrastructure your company grows on. No coding required. Our mission is to bring superintelligence to every company in the world.",
+          "after": "Sila is an agent messenger where your team creates and messages AI Contacts that work 24/7 across your company achieving real business outcomes and becoming the AI infrastructure your company grows on. No coding required. Our mission is to bring superintelligence to every company in the world.\r\n\r\n"
         }
       }
     },
     {
-      "id": 31365,
-      "name": "Incandor",
-      "slug": "incandor",
-      "batch": "Spring 2026",
-      "url": "https://www.ycombinator.com/companies/incandor",
+      "id": 31274,
+      "name": "Khotan (formerly Pollinate)",
+      "slug": "khotan",
+      "batch": "Winter 2026",
+      "url": "https://www.ycombinator.com/companies/khotan",
       "changed_fields": [
-        "long_description"
+        "all_locations",
+        "regions"
       ],
       "changes": {
-        "long_description": {
-          "before": "As AI agents become increasingly autonomous, they're gaining access to the most sensitive systems inside the enterprise. Yet today's security tools were built to control who has access, not understand what they're actually doing with it.\r\n\r\nFounded by Stanford engineers, Incandor has raised an $8 million seed round led by Andreessen Horowitz (a16z), with backing from security leaders at Datadog and Plaid, the co-founder of Okta, and three Oscar winners.",
-          "after": "As AI agents become increasingly autonomous, they're gaining access to the most sensitive systems inside the enterprise. Yet today's security tools were built to control who has access, not understand what they're actually doing with it."
+        "all_locations": {
+          "before": "Brisbane, QLD, Australia",
+          "after": "San Francisco, CA, USA"
+        },
+        "regions": {
+          "before": [
+            "Australia",
+            "Oceania"
+          ],
+          "after": [
+            "United States of America",
+            "America / Canada"
+          ]
         }
       }
     },
     {
-      "id": 31407,
-      "name": "Sherpa",
-      "slug": "sherpa",
+      "id": 31325,
+      "name": "Surtr Defense Systems",
+      "slug": "surtr-defense-systems",
       "batch": "Spring 2026",
-      "url": "https://www.ycombinator.com/companies/sherpa",
+      "url": "https://www.ycombinator.com/companies/surtr-defense-systems",
       "changed_fields": [
-        "isHiring"
+        "all_locations"
       ],
       "changes": {
-        "isHiring": {
-          "before": false,
-          "after": true
+        "all_locations": {
+          "before": "San Francisco, CA, USA",
+          "after": "Los Angeles, CA, USA"
         }
       }
     },
     {
-      "id": 31415,
-      "name": "Synphony",
-      "slug": "synphony",
+      "id": 31359,
+      "name": "Twolabs",
+      "slug": "twolabs",
       "batch": "Spring 2026",
-      "url": "https://www.ycombinator.com/companies/synphony",
+      "url": "https://www.ycombinator.com/companies/twolabs",
+      "changed_fields": [
+        "one_liner",
+        "tags"
+      ],
+      "changes": {
+        "one_liner": {
+          "before": "RL environments for industrial domains.",
+          "after": "RL environments for physical engineering work."
+        },
+        "tags": {
+          "before": [
+            "Robotics",
+            "AI"
+          ],
+          "after": [
+            "Robotics",
+            "AI",
+            "Industrial"
+          ]
+        }
+      }
+    },
+    {
+      "id": 31388,
+      "name": "Elyra",
+      "slug": "elyra",
+      "batch": "Spring 2026",
+      "url": "https://www.ycombinator.com/companies/elyra",
+      "changed_fields": [
+        "team_size"
+      ],
+      "changes": {
+        "team_size": {
+          "before": 5,
+          "after": 8
+        }
+      }
+    },
+    {
+      "id": 31428,
+      "name": "Ontora",
+      "slug": "ontora",
+      "batch": "Spring 2026",
+      "url": "https://www.ycombinator.com/companies/ontora",
       "changed_fields": [
         "long_description",
         "one_liner"
       ],
       "changes": {
         "long_description": {
-          "before": "Strawberry farming is a $3B industry in California alone with 60% labor cost using 40-year old software. Synphony provides strawberry picking robots and software services including: bed-level analytics, data pipeline integration, and agentic solutions.\r\n\r\nSynphony's \"side hustle\" is selling data, evals, and viral demos to robot foundation labs while building capacity for general robot deployments. We've started with strawberry farming for great margins and outdoor data moat, but also received requests for robots in semi-conductors and autonomous space labs. \r\n\r\nSynphony's team has won over 15 hackathons together (taking home 4 Jensen-signed GPUs!). Sean did ML research at NVIDIA and led AI products used by IRS and Citibank. Lucas' research spanned robotics, IoT devices, and neuromorphic computing.",
-          "after": "Synphony Robotics trains and deploys robots for factories, processors, and other industrial facilities. Our product, Forte, works across robot hardware. We commit to 12 weeks from signing to deployment.\r\n\r\nOur robots are working in real facilities right now.\r\n\r\nCEO: Neil S Gawande"
+          "before": "Ontora is an AI Agent that interviews every employee to map how work actually gets done and identify bottlenecks. Consultants spend months doing this manually; Ontora does it in hours.\r\n\r\n",
+          "after": "Ontora is an AI Agent that speaks to every employee in a company to map how work actually gets done and identify bottlenecks. Consultants spend months doing this manually; Ontora does it in hours."
         },
         "one_liner": {
-          "before": "robots & software for physical industries.",
-          "after": "Train and deploy robots for any task in any embodiment, quickly."
+          "before": "AI agents that interviews every employee to hand context to AI tools. ",
+          "after": "AI agents that speak to every employee to hand undocumented knowledge…"
         }
       }
     },
@@ -583,137 +975,89 @@
       "batch": "Spring 2026",
       "url": "https://www.ycombinator.com/companies/tdaycom",
       "changed_fields": [
-        "long_description",
-        "one_liner",
         "small_logo_thumb_url"
       ],
       "changes": {
-        "long_description": {
-          "before": "tday automatically turns a software company's product into on-brand marketing creative. Connect your product and git repo, and tday generates polished launch videos, social graphics, and ads, the content a team would normally spend hours making in a design tool or pay a freelancer for. tday then publishes the creative and measures how it performs across your social and ad channels, closing the loop from what you ship to what you post.",
-          "after": "Most features ship without a demo video. A good one takes hours to script, record, retake, voice and edit. Ask for a demo in one line from Claude Code, Cursor or Codex. Your coding agent records your real app on your machine, localhost included, and tday adds the voice, cursor, zooms, captions and your brand. Edit any narration line, then use it in your launch, docs or changelog. Web, desktop, terminal, iPhone and Android apps. Your code never leaves your machine. Free for 5 saved demos."
-        },
-        "one_liner": {
-          "before": "AI that turns your product into on-brand marketing content",
-          "after": "AI-recorded Screen Studio style editable demos"
-        },
         "small_logo_thumb_url": {
-          "before": "https://bookface-images.s3.amazonaws.com/small_logos/28748aad0c8ba0aed432ef309d8dd322adb412a3.png",
-          "after": "https://bookface-images.s3.amazonaws.com/small_logos/5794019006cfb6578d95d075fcb79d63cf1aee8e.png"
+          "before": "https://bookface-images.s3.amazonaws.com/small_logos/5794019006cfb6578d95d075fcb79d63cf1aee8e.png",
+          "after": "https://bookface-images.s3.amazonaws.com/small_logos/85a92c541f01d7059df3fe28c61f328474eafa10.png"
         }
       }
     },
     {
-      "id": 31484,
-      "name": "AbInitio Bio",
-      "slug": "abinitio-bio",
-      "batch": "Spring 2026",
-      "url": "https://www.ycombinator.com/companies/abinitio-bio",
+      "id": 31989,
+      "name": "Pango",
+      "slug": "pango",
+      "batch": "Summer 2026",
+      "url": "https://www.ycombinator.com/companies/pango",
       "changed_fields": [
-        "team_size"
+        "all_locations",
+        "regions"
       ],
       "changes": {
-        "team_size": {
-          "before": 2,
-          "after": 3
+        "all_locations": {
+          "before": "New York City, NY, USA",
+          "after": "Stockholm, Stockholm County, Sweden"
+        },
+        "regions": {
+          "before": [
+            "United States of America",
+            "America / Canada",
+            "Remote",
+            "Partly Remote"
+          ],
+          "after": [
+            "Sweden",
+            "Europe",
+            "Remote",
+            "Partly Remote"
+          ]
         }
       }
     },
     {
-      "id": 31526,
-      "name": "Uno Wallet",
-      "slug": "uno-wallet",
-      "batch": "Spring 2026",
-      "url": "https://www.ycombinator.com/companies/uno-wallet",
-      "changed_fields": [
-        "long_description"
-      ],
-      "changes": {
-        "long_description": {
-          "before": "We are changing the way that people pay...\r\nFounded by:\r\nSaket Joshi: www.linkedin.com/in/saket-dattatray-joshi/\r\nMordi Shadpour: www.linkedin.com/in/mordi-shadpour/",
-          "after": "We are changing the way that people pay...\r\nFounded by Mordi Shadpour: www.linkedin.com/in/mordi-shadpour/"
-        }
-      }
-    },
-    {
-      "id": 31540,
-      "name": "elbic (formerly KugelAudio)",
-      "slug": "elbic",
-      "batch": "Spring 2026",
-      "url": "https://www.ycombinator.com/companies/elbic",
+      "id": 32286,
+      "name": "Definite",
+      "slug": "definite",
+      "batch": "Winter 2027",
+      "url": "https://www.ycombinator.com/companies/definite",
       "changed_fields": [
         "api",
-        "former_names",
-        "long_description",
-        "name",
-        "one_liner",
-        "slug",
-        "small_logo_thumb_url",
-        "url",
-        "website"
+        "batch"
       ],
       "changes": {
         "api": {
-          "before": "https://yc-oss.github.io/api/batches/spring-2026/kugelaudio.json",
-          "after": "https://yc-oss.github.io/api/batches/spring-2026/elbic.json"
+          "before": "https://yc-oss.github.io/api/batches/fall-2026/definite.json",
+          "after": "https://yc-oss.github.io/api/batches/winter-2027/definite.json"
         },
-        "former_names": {
-          "before": [],
-          "after": [
-            "KugelAudio"
-          ]
-        },
-        "long_description": {
-          "before": "Kugel is an enterprise-ready TTS model, available on-prem, with a focus on 30+ languages and low latency. ",
-          "after": "elbic is an enterprise-ready TTS model, available on-prem, with a focus on 30+ languages and low latency. "
-        },
-        "name": {
-          "before": "KugelAudio",
-          "after": "elbic (formerly KugelAudio)"
-        },
-        "one_liner": {
-          "before": "Kugel is an on-prem Voice AI model supporting 30+ languages ",
-          "after": "elbic is an on-prem Voice AI model supporting 30+ languages "
-        },
-        "slug": {
-          "before": "kugelaudio",
-          "after": "elbic"
-        },
-        "small_logo_thumb_url": {
-          "before": "https://bookface-images.s3.amazonaws.com/small_logos/44c1f17a88c6716d09288318cb5f9de77b9bdbbb.png",
-          "after": "https://bookface-images.s3.amazonaws.com/small_logos/8e95119db487e10dcb6ed64e8458581394c46d9a.png"
-        },
-        "url": {
-          "before": "https://www.ycombinator.com/companies/kugelaudio",
-          "after": "https://www.ycombinator.com/companies/elbic"
-        },
-        "website": {
-          "before": "https://kugelaudio.com/en",
-          "after": "https://elbic.com/"
+        "batch": {
+          "before": "Fall 2026",
+          "after": "Winter 2027"
         }
       }
     },
     {
-      "id": 31584,
-      "name": "CONUS",
-      "slug": "conus",
+      "id": 32550,
+      "name": "Audora",
+      "slug": "audora",
       "batch": "Fall 2026",
-      "url": "https://www.ycombinator.com/companies/conus",
+      "url": "https://www.ycombinator.com/companies/audora",
       "changed_fields": [
-        "long_description"
+        "one_liner"
       ],
       "changes": {
-        "long_description": {
-          "before": "CONUS structures fragmented medical device information for surgeons. We combine manufacturer documentation, hospital protocols and medical research in one place, giving surgeons and MedTech teams reliable answers across products and procedures through search and source-backed AI.\r\n\r\nWe already work with 25 leading manufacturers including Johnson & Johnson, Stryker and Zimmer Biomet, and since launching six months ago we’re already being used in 83 hospitals, with 32 fully ramped.\r\n\r\nLong term, hospitals will use CONUS to source and order surgical devices across manufacturers.",
-          "after": "CONUS structures fragmented medical device information for surgeons. We combine manufacturer documentation, hospital protocols and medical research in one place, giving surgeons and MedTech teams reliable answers across products and procedures through search and source-backed AI.\r\n\r\nWe already work with 25 leading manufacturers including Johnson & Johnson, Stryker and Zimmer Biomet, and since launching six months ago we’re already being used in 86 hospitals, with 34 fully ramped.\r\n\r\nLong term, hospitals will use CONUS to source and order surgical devices across manufacturers."
+        "one_liner": {
+          "before": "Audiobooks where every character has their own voice.",
+          "after": "Audora is Audible 2.0, where stories are immersive & fun to listen to"
         }
       }
     },
     {
-      "id": 32189,
-      "name": "Verdant",
-      "slug": "verdant",
+      "id": 33019,
+      "name": "Agnost AI",
+      "slug": "agnost-ai",
       "batch": "Summer 2026",
-      "url": "https://www.ycombinator.com/companies/verdant",
+      "url": "https://www.ycombinator.com/companies/agnost-ai",
       "changed_fields": [
         "isHiring"
       ],
@@ -725,106 +1069,150 @@
       }
     },
     {
-      "id": 32286,
-      "name": "Definite",
-      "slug": "definite",
+      "id": 33318,
+      "name": "HillStar",
+      "slug": "hillstar",
       "batch": "Fall 2026",
-      "url": "https://www.ycombinator.com/companies/definite",
+      "url": "https://www.ycombinator.com/companies/hillstar",
       "changed_fields": [
-        "team_size"
+        "small_logo_thumb_url"
       ],
       "changes": {
-        "team_size": {
-          "before": 3,
-          "after": 4
+        "small_logo_thumb_url": {
+          "before": "https://bookface-images.s3.amazonaws.com/small_logos/86638f711e7120765749c6eed494d61cbab74bfc.png",
+          "after": "https://bookface-images.s3.amazonaws.com/small_logos/fc161aff0343dabb814fdae973487ff3050d64e6.png"
         }
       }
     },
     {
-      "id": 35356,
-      "name": "Raven",
-      "slug": "ravenphone",
-      "batch": "Fall 2026",
-      "url": "https://www.ycombinator.com/companies/ravenphone",
+      "id": 33320,
+      "name": "OneCLI",
+      "slug": "onecli",
+      "batch": "Summer 2026",
+      "url": "https://www.ycombinator.com/companies/onecli",
       "changed_fields": [
+        "industries",
         "long_description",
-        "one_liner"
-      ],
-      "changes": {
-        "long_description": {
-          "before": "Phones were made to run apps. Raven is made for the world of agents. It is where you send your agents from, and where they report back.\r\n\r\nPre-order at ravenphone.com",
-          "after": "Phones were made to run apps. Raven is made for the world of agents. It is where you send your agents from, and where they report back.\r\n\r\nLearn more at ravenphone.com"
-        },
-        "one_liner": {
-          "before": "A new phone rebuilt around agents: more done, less time on screen.",
-          "after": "AI phone rebuilt around agents"
-        }
-      }
-    },
-    {
-      "id": 35950,
-      "name": "Resin Technologies",
-      "slug": "resin-technologies",
-      "batch": "Fall 2026",
-      "url": "https://www.ycombinator.com/companies/resin-technologies",
-      "changed_fields": [
+        "one_liner",
+        "small_logo_thumb_url",
+        "subindustry",
         "tags"
       ],
       "changes": {
+        "industries": {
+          "before": [
+            "B2B",
+            "Productivity"
+          ],
+          "after": [
+            "B2B",
+            "Infrastructure"
+          ]
+        },
+        "long_description": {
+          "before": "OneCLI (YC S26) is an open-source platform for delegating business-critical work to AI agents, from Salesforce updates to data analysis and engineering investigations.\r\n\r\nAgents work across your company’s apps, prepare changes, and pause for approval when your rules require it. Your team controls what they can access and change, while credentials stay out of the agents’ reach and every call is logged.\r\n\r\nhttps://www.onecli.sh",
+          "after": "OneCLI is the vault for AI agents. Sandboxed agents get the access their job needs, and never see a secret.\r\n\r\nAgents like OpenClaw, Hermes and NanoClaw run in sandboxes such as E2B, Daytona and Docker, but they still need to reach GitHub, Jira, Slack and production APIs. Handing them raw keys is the risk. With OneCLI, keys stay in the vault and are added at the gateway on the way out, so a leaked sandbox leaks nothing.\r\n\r\nSet a policy per agent, connect 100+ tools without handing out a token, and log every call. \r\nOpen source and SOC 2 Type II: self-host in one container or use the cloud.\r\n\r\nhttps://onecli.sh\r\nhttps://onecli.sh/docs"
+        },
+        "one_liner": {
+          "before": "AI teammates for your business-critical work.",
+          "after": "The vault for AI agents."
+        },
+        "small_logo_thumb_url": {
+          "before": "https://bookface-images.s3.amazonaws.com/small_logos/0405005492b7122ac5f4784e260fc64d7bd99053.png",
+          "after": "https://bookface-images.s3.amazonaws.com/small_logos/e27780d9b15ce1d3fa816c41252545bb371d4ede.png"
+        },
+        "subindustry": {
+          "before": "B2B -> Productivity",
+          "after": "B2B -> Infrastructure"
+        },
         "tags": {
           "before": [
-            "Hardware",
-            "Electronics",
+            "AIOps",
+            "B2B",
+            "Workflow Automation",
+            "Open Source",
             "AI"
           ],
           "after": [
-            "Hard Tech",
-            "Hardware",
             "B2B",
-            "Electronics",
+            "Security",
+            "Open Source",
+            "Infrastructure",
             "AI"
           ]
         }
       }
     },
     {
-      "id": 36576,
-      "name": "Sutrix",
-      "slug": "sutrix",
+      "id": 35025,
+      "name": "Inflection Space Systems",
+      "slug": "inflection-space-systems",
       "batch": "Fall 2026",
-      "url": "https://www.ycombinator.com/companies/sutrix",
+      "url": "https://www.ycombinator.com/companies/inflection-space-systems",
+      "changed_fields": [
+        "one_liner"
+      ],
+      "changes": {
+        "one_liner": {
+          "before": "Hyperscaling space manufacturing",
+          "after": "Mass Manufacturing Satellites"
+        }
+      }
+    },
+    {
+      "id": 35261,
+      "name": "Asakana",
+      "slug": "asakana",
+      "batch": "Fall 2026",
+      "url": "https://www.ycombinator.com/companies/asakana",
       "changed_fields": [
         "long_description"
       ],
       "changes": {
         "long_description": {
-          "before": "Sutrix is the data infrastructure helping healthcare providers prepare and license clinical data to pharma companies and AI labs. We’ve reached $20k MRR within 2 months helping research teams continuously prepare patient data for their studies. Now, we are extending that software to help providers turn their own records into longitudinal datasets capturing patient journeys, treatment decisions, and outcomes. We’re brothers from Georgia Tech who built HSS’s injury surveillance system (700+ teams), with experience in clinical research at Emory and engineering at Amazon.",
-          "after": "Sutrix is the data infrastructure helping healthcare providers prepare and license clinical data to pharma companies and AI labs. We’ve reached $20k MRR within 2 months helping research teams continuously prepare patient data for their studies. Now, we are extending that software to help providers turn their own records into longitudinal datasets capturing patient journeys, treatment decisions, and outcomes so they can monetize them. We’re brothers from Georgia Tech who built HSS’s injury surveillance system (700+ teams), with experience in clinical research at Emory and engineering at Amazon."
+          "before": "Founded by an ex-seafood distributor and ex-McKinsey, and an 8-year Google AI engineer who built Gemini's web agents.\r\nRestaurants send orders to food distributors by email, text, and WeChat. Someone at the distributor retypes them into the ERP. Asakana does that entry instead. Live at our first customer, saving 95% of order entry time per order. Its $4B parent group is now rolling Asakana out across its companies. cMRR growing 41% WoW",
+          "after": "Founded by an ex-seafood distributor and ex-McKinsey, and an 8-year Google AI engineer who built Gemini's web agents.\r\nRestaurants send orders to food distributors by email, text, and WeChat. Someone at the distributor retypes them into the ERP. Asakana does that entry instead. Live at our first customer, saving 95% of order entry time per order. Its $4B parent group is now rolling Asakana out across its companies. cMRR growing 41% WoW."
         }
       }
     },
     {
-      "id": 37831,
-      "name": "Kairos Health",
-      "slug": "kairos-health",
+      "id": 35883,
+      "name": "Halmos Labs",
+      "slug": "halmos-labs",
       "batch": "Fall 2026",
-      "url": "https://www.ycombinator.com/companies/kairos-health",
+      "url": "https://www.ycombinator.com/companies/halmos-labs",
       "changed_fields": [
-        "long_description"
+        "long_description",
+        "tags"
       ],
       "changes": {
         "long_description": {
-          "before": "Kairos Health automates patient engagement for dentists by handling phones and insurance.\r\n\r\nKairos plugs into a dental practice's software, calls patients who are overdue for care, and books them directly into the schedule. It also answers every inbound call 24/7 and verifies insurance.\r\n\r\nOur mission is to put practice operations on autopilot and keep every chair filled.",
-          "after": "Kairos Health automates patient engagement for dentists by handling phones and insurance.\r\n\r\nKairos plugs into a dental practice's software, calls patients who are overdue for care, and books them directly into the schedule. It also answers every inbound call 24/7 and verifies insurance.\r\n\r\nTraction: $224K in signed ARR, with 54 signed locations and 29 live.\r\n\r\nOur mission is to put practice operations on autopilot and keep every chair filled."
+          "before": "AI can create new drugs and design experiments. They are limited by physical validation. \r\n\r\nphysicalvalidation.com by Halmos Labs offers an API to execute any experiment. PhysicalValidation uses compounding knowledge and an experimental design AI to coordinate experiments through contracted labs faster and cheaper. \r\n\r\nConnecting physicalvalidation.com, Codex has designed and tested a new antibiotic without human intervention.",
+          "after": "AI can create new drugs and design experiments. They are limited by physical validation. \r\n\r\nphysicalvalidation.com by Halmos Labs offers an API to execute any experiment. PhysicalValidation uses compounding knowledge and an experimental design AI to route experiments through contracted labs faster and cheaper. \r\n\r\nConnecting physicalvalidation.com, Codex has designed and tested a new antibiotic without human intervention. It is now possible to close the loop on drug discovery with only a laptop and an idea."
+        },
+        "tags": {
+          "before": [
+            "AI-powered Drug Discovery",
+            "Auto Commerce",
+            "Swarm AI",
+            "Biotech",
+            "Automation"
+          ],
+          "after": [
+            "AI-powered Drug Discovery",
+            "Auto Commerce",
+            "Biotech",
+            "Automation"
+          ]
         }
       }
     },
     {
-      "id": 38029,
-      "name": "Proto",
-      "slug": "proto",
+      "id": 36514,
+      "name": "Kanopy",
+      "slug": "kanopy",
       "batch": "Fall 2026",
-      "url": "https://www.ycombinator.com/companies/proto",
+      "url": "https://www.ycombinator.com/companies/kanopy",
       "changed_fields": [
         "team_size"
       ],
@@ -836,55 +1224,35 @@
       }
     },
     {
-      "id": 38094,
-      "name": "Super Powers Mobility (SPM)",
-      "slug": "super-powers-mobility-spm",
-      "batch": "Fall 2026",
-      "url": "https://www.ycombinator.com/companies/super-powers-mobility-spm",
-      "changed_fields": [
-        "one_liner"
-      ],
-      "changes": {
-        "one_liner": {
-          "before": "Defense compliant modular battery packs power systems and vehicles",
-          "after": "Defense compliant modular battery packs and power systems"
-        }
-      }
-    },
-    {
-      "id": 41892,
-      "name": "SPITA Labs",
-      "slug": "spita-labs",
-      "batch": "Winter 2027",
-      "url": "https://www.ycombinator.com/companies/spita-labs",
-      "changed_fields": [
-        "long_description",
-        "one_liner"
-      ],
-      "changes": {
-        "long_description": {
-          "before": "",
-          "after": "Robots and servers need more power and data every year, and both still get it through tangles of cables and custom PCBs. A typical robot is a pile of boards wired together by hand, and every design change means waiting on a new board. SPITA is building networking for power. SPARC is a backplane with plug-in cards: drop in a chip or module, and software sets whether each pin carries power or data. Nothing needs rewiring or a new PCB. Once the design works, we export the schematic for production. We're starting with robotics teams, who can test new designs without spinning a board. Next is the server rack, where the same approach replaces today's cable-heavy backplanes."
-        },
-        "one_liner": {
-          "before": "Reconfigurable electronics for robotics teams",
-          "after": "Networking for power and data in robots and servers"
-        }
-      }
-    },
-    {
       "id": 42980,
       "name": "Asterline",
       "slug": "asterline",
       "batch": "Winter 2027",
       "url": "https://www.ycombinator.com/companies/asterline",
       "changed_fields": [
-        "long_description"
+        "long_description",
+        "tags",
+        "team_size"
       ],
       "changes": {
         "long_description": {
-          "before": "Asterline is a quantitative trading firm that builds automated systems to exploit pricing inefficiencies in prediction markets. We built proprietary backtesting infrastructure to rapidly discover, validate, and deploy new strategies at scale.",
-          "after": "Asterline is a proprietary quantitative trading firm building automated systems to exploit pricing inefficiencies in prediction markets."
+          "before": "Asterline is a proprietary quantitative trading firm building automated systems to exploit pricing inefficiencies in prediction markets.",
+          "after": "Asterline is building automated systems to trade and provide liquidity on new markets."
+        },
+        "tags": {
+          "before": [
+            "Finance",
+            "Trading"
+          ],
+          "after": [
+            "Fintech",
+            "Finance",
+            "Trading"
+          ]
+        },
+        "team_size": {
+          "before": 1,
+          "after": 2
         }
       }
     }

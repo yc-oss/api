@@ -545,7 +545,7 @@
     "website": "https://www.assemble.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Assemble accelerates IT teams by performing development work inside core enterprise systems like ERP, CRM, and HRIS. Our agents help IT teams scope dependencies, build logic, and validate changes across your systems.",
-    "one_liner": "Autonomous IT Delivery",
+    "one_liner": "Self-Improving Business Systems",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -2049,7 +2049,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6fb7711e26bf57516e7dcfa35cfadeb5d98b5b2.png",
     "website": "https://pango.ai/",
-    "all_locations": "New York City, NY, USA",
+    "all_locations": "Stockholm, Stockholm County, Sweden",
     "long_description": "Pango is a platform for e-commerce companies to use natural language to build agents and automate their logistics operations like delivery and returns.",
     "one_liner": "Agentic OS for e-commerce operations",
     "team_size": 5,
@@ -2073,8 +2073,8 @@
       "Retail"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "Sweden",
+      "Europe",
       "Remote",
       "Partly Remote"
     ],
@@ -7396,7 +7396,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2026",
     "status": "Active",
@@ -9033,20 +9033,20 @@
     "name": "OneCLI",
     "slug": "onecli",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0405005492b7122ac5f4784e260fc64d7bd99053.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e27780d9b15ce1d3fa816c41252545bb371d4ede.png",
     "website": "https://onecli.sh",
     "all_locations": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-    "long_description": "OneCLI (YC S26) is an open-source platform for delegating business-critical work to AI agents, from Salesforce updates to data analysis and engineering investigations.\r\n\r\nAgents work across your company’s apps, prepare changes, and pause for approval when your rules require it. Your team controls what they can access and change, while credentials stay out of the agents’ reach and every call is logged.\r\n\r\nhttps://www.onecli.sh",
-    "one_liner": "AI teammates for your business-critical work.",
+    "long_description": "OneCLI is the vault for AI agents. Sandboxed agents get the access their job needs, and never see a secret.\r\n\r\nAgents like OpenClaw, Hermes and NanoClaw run in sandboxes such as E2B, Daytona and Docker, but they still need to reach GitHub, Jira, Slack and production APIs. Handing them raw keys is the risk. With OneCLI, keys stay in the vault and are added at the gateway on the way out, so a leaked sandbox leaks nothing.\r\n\r\nSet a policy per agent, connect 100+ tools without handing out a token, and log every call. \r\nOpen source and SOC 2 Type II: self-host in one container or use the cloud.\r\n\r\nhttps://onecli.sh\r\nhttps://onecli.sh/docs",
+    "one_liner": "The vault for AI agents.",
     "team_size": 0,
     "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
+    "subindustry": "B2B -> Infrastructure",
     "launched_at": 1783888956,
     "tags": [
-      "AIOps",
       "B2B",
-      "Workflow Automation",
+      "Security",
       "Open Source",
+      "Infrastructure",
       "AI"
     ],
     "tags_highlighted": [],
@@ -9057,7 +9057,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Productivity"
+      "Infrastructure"
     ],
     "regions": [
       "Israel",

@@ -9436,7 +9436,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "partners": "Unspecified",
     "app_video_public": false,
     "demo_day_video_public": false,
@@ -11341,49 +11341,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/taskade",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/taskade.json"
-  },
-  {
-    "id": 12867,
-    "name": "Vorticity",
-    "slug": "vorticity",
-    "former_names": [
-      "Nabla Computing",
-      "Nabla Inc"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bf45a738c52014231eb5cc7bfba5ca712ef23c50.png",
-    "website": "http://vorticity.xyz/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Many pressing problems facing humanity can be solved with faster scientific compute. Currently, it takes billions of dollars to design and develop a new fusion reactor, a hyper-sonic airplane or a new cancer treatment. This is because scientists and engineers have to build very expensive things before they even know if their ideas work. But what if we can simulate the workings of these ideas (and more) on computers first and have high confidence that it works before we build really expensive things?\r\n\r\nThe work of humanity's greatest scientists over the years has given us the physics and math to do this. The problem is that we simply do not have the computing power to solve these big problems.\r\n\r\nTo address this, the Vorticity Inc is re-imagining scientific computing all the way down to processor architecture and system design. Our proven technology is already helping the energy, life sciences and aerospace industries.",
-    "one_liner": "The Fastest Scientific Computing Platform on the Planet",
-    "team_size": 10,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1559271873,
-    "tags": [
-      "Cloud Computing"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2019",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Growth",
-    "partners": "Unspecified",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/vorticity",
-    "api": "https://yc-oss.github.io/api/batches/summer-2019/vorticity.json"
   },
   {
     "id": 12871,
@@ -14950,8 +14907,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fda6209e5ce1deac3dd962c779d7c375cd750a5a.png",
     "website": "http://www.taktile.com",
     "all_locations": "Berlin, Berlin, Germany",
-    "long_description": "Taktile empowers financial institutions to quickly unlock AI-driven efficiencies across the customer lifecycle, reducing manual work while optimizing decisions and enabling seamless end-user experiences.\r\n\r\nBuilt for highly regulated environments, our agentic decision platform combines the speed of AI automation with the oversight of human judgement—so you can safely approve customers, catch more fraud, and stay compliant.\r\n\r\nWe power AI transformation from offices in NYC, London, Berlin, and Iasi, and have raised $80M in capital from top investors including Index Ventures, Tiger Global, Balderton Capital and Y Combinator.\r\n\r\nJoin over 200 leading financial institutions who rely on Taktile to enable faster, more intelligent decisions from onboarding to credit, AML, compliance, and fraud.",
-    "one_liner": "Transform your decision-making with reliable AI agents in weeks, not…",
+    "long_description": "Taktile is the Agentic Decision Platform for banking and insurance. Our platform combines data, rules, AI agents, and human expertise to enable banks and insurers to constantly improve business and consumer underwriting, customer onboarding, and claims management. Over 200 banks and insurers use Taktile to onboard more qualified customers, lend to the right businesses, and settle claims faster. Our team of forward-deployed engineers enables risk, operations, and technical teams to implement, test, and refine every decision while staying in control.\r\n\r\nTaktile is backed by leading investors including Goldman Sachs, Index Ventures, Tiger Global, Balderton Capital, and Y Combinator.",
+    "one_liner": "Taktile is the Agentic Decision Platform for banking and insurance.",
     "team_size": 150,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -15289,7 +15246,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "partners": "Brad",
     "app_video_public": false,
     "demo_day_video_public": false,
@@ -20664,6 +20621,55 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2021/digibuild-resilience.json"
   },
   {
+    "id": 24344,
+    "name": "WarpBuild",
+    "slug": "warpbuild",
+    "former_names": [
+      "Argonaut",
+      "WartpBuild"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc34887fced4f954a1a9fd60de7afd828c9a1d74.png",
+    "website": "https://www.warpbuild.com",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Accelerate software development with WarpBuild.\r\nGet 2x faster, up to 90% cheaper CI in 30 seconds using WarpBuild for Github Actions.",
+    "one_liner": "Accelerate software development with WarpBuild's 10x faster CI infra.",
+    "team_size": 14,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1626365093,
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "SaaS",
+      "Productivity",
+      "DevOps"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "partners": "Unspecified",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/warpbuild",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/warpbuild.json"
+  },
+  {
     "id": 24346,
     "name": "MindFi",
     "slug": "mindfi",
@@ -24090,7 +24096,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d777f64a6f8aa21e8a0f44f260c8cb87a5ac203.png",
     "website": "https://reforgedlabs.com/",
-    "all_locations": "Ho Chi Minh City, Vietnam",
+    "all_locations": "Boston, MA, USA",
     "long_description": "Reforged Labs Boa is the AI creative intelligence agent that answers all your questions about what ads are performing, why they work, and what to create next.",
     "one_liner": "Turn intuition into insights, in minutes",
     "team_size": 19,
@@ -24115,8 +24121,8 @@
       "Marketing"
     ],
     "regions": [
-      "Vietnam",
-      "Southeast Asia",
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -26827,7 +26833,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "partners": "Aaron",
     "app_video_public": false,
     "demo_day_video_public": false,
@@ -27636,7 +27642,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "partners": "Gustaf",
     "app_video_public": false,
     "demo_day_video_public": false,
@@ -44027,7 +44033,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "partners": "Diana",
     "app_video_public": false,
     "demo_day_video_public": false,
@@ -45516,7 +45522,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/374e6b2cd282f5fe31c64fcc82aaebb3105153c9.png",
     "website": "https://innate.bot",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We make personal AI robots.\r\n\r\nWe believe building open platforms like the first PCs this is the only way to bring the robotics future that we all want, where everyone can participate in the robotics revolution, and reap its rewards.",
+    "long_description": "A new robot coming soon\r\n\r\nWe make personal AI robots.\r\n\r\nWe believe building open platforms like the first PCs this is the only way to bring the robotics future that we all want, where everyone can participate in the robotics revolution, and reap its rewards.",
     "one_liner": "Personal AI Robots",
     "team_size": 7,
     "industry": "Consumer",
@@ -47008,6 +47014,44 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/osmosis",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/osmosis.json"
+  },
+  {
+    "id": 30249,
+    "name": "HealthKey",
+    "slug": "healthkey",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c1861589f70a31b85bd0f644259f89e147516204.png",
+    "website": "https://gethealthkey.com/",
+    "all_locations": "Austin, TX, USA",
+    "long_description": "HealthKey helps doctors offices generate more revenue by finding eligible patients for their clinical trials. We match at-risk patients with cutting-edge treatments, ultimately getting patients access to potentially life-changing treatments faster.\r\n\r\nBig Pharma pays a lot of money to clinics for each patient they enroll, but finding patients who qualify is an entirely manual process today. We use AI to prescreen doctors’ existing patients against Clinical Trials’ eligibility criteria, making enrollment fast and easy.",
+    "one_liner": "AI-powered Patient Identification for Clinical Trials",
+    "team_size": 10,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1737252261,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "Tom",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/healthkey",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/healthkey.json"
   },
   {
     "id": 30250,
@@ -49327,7 +49371,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ff64e6d141801dbac20dba751384bbd49f916a4a.png",
     "website": "https://www.mbodi.ai/",
     "all_locations": "New York City, NY, USA",
-    "long_description": "Teach robots new skills through natural language and run reliably in production in minutes.\r\n\r\nMbodi combines generative AI and agent orchestration, turning everyday language and quick demos into precise, reliable robot actions for industrial automation.",
+    "long_description": "Mbodi is building an agentic intelligence system that enables robots to reason, adapt, and acquire new capabilities in the physical world. \r\n\r\nWe deploy robots that autonomously generate and compose skills to handle changing industrial and logistics tasks.",
     "one_liner": "Industrial Robots that Learn and Operate Like Humans",
     "team_size": 6,
     "industry": "Industrials",
@@ -52997,8 +53041,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/55b886e3f926718d32add5ccfdea06761c40b243.png",
     "website": "https://procindex.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "ProcIndex uses AI to automate accounting operations for the construction and manufacturing sectors.\r\n\r\nIt connects to your existing ERP and operates in the background while giving you full visibility into its actions. By automating accounts payable, accounts receivable, reconciliation, and vendor management, ProcIndex helps accounting teams improve efficiency by 33%.",
-    "one_liner": "AI-powered accounting automation for construction and manufacturing",
+    "long_description": "ProcIndex gives construction and manufacturing finance teams an AI accounting team that works inside the ERP they already run, including CMiC, Sage 100 Contractor, Sage 300 CRE, Trimble Viewpoint Vista, Sage Intacct, NetSuite, QuickBooks, SAP, Oracle and Microsoft Dynamics. No migration, nothing new to learn.\n\nAgents run accounts payable, accounts receivable, vendor management, reconciliation and month-end close end to end: invoices captured from any inbox, portal or job-site photo, coded to jobs and cost codes, lien-waiver checked and posted; collections and same-day cash application; instant payment-status answers for suppliers; books reconciled all month so close is calm.\n\n98.1% of invoices are processed without human intervention, with a full audit trail on every action. SOC 2 Type II. Backed by Y Combinator.",
+    "one_liner": "AI accounting team for construction and manufacturing, in any ERP",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
@@ -58670,6 +58714,51 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/getbalance.json"
   },
   {
+    "id": 31241,
+    "name": "Corelayer",
+    "slug": "corelayer",
+    "former_names": [
+      "Sevvy"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7fc77bd9760310dfdeb4b8ba962b09280b614937.png",
+    "website": "https://www.corelayer.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Corelayer builds AI systems that run production support, operations, site reliability engineering, and on-call for the world's largest companies, including top 10 US banks, S&P 500 fintechs, and global IT services firms.",
+    "one_liner": "AI production engineer for regulated industries",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1767713346,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "Diana",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/corelayer",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/corelayer.json"
+  },
+  {
     "id": 31242,
     "name": "Booko",
     "slug": "booko",
@@ -60258,7 +60347,7 @@
     "all_locations": "Stockholm, Stockholm County, Sweden",
     "long_description": "Elyra is an AI reservation system for restaurants. Instead of missing 40% of incoming phone calls and taking days to reply to emails, leaving over $100,000 in bookings on the table every year, restaurants get AI agents that answer every call and email instantly, 24/7, connected to a reservation system that optimizes table placements in real time so empty seats get filled with the right guests.\r\n\r\nFelix and Alan met in primary school in Stockholm and have been building things together ever since.\r\n\r\nWe launched with a single restaurant and within weeks they hit record occupancy, bookings they used to miss were suddenly being captured automatically, and empty Tuesday nights started filling up. Today we power top restaurants groups. \r\n\r\nThere are over 1 million restaurants in the US and Europe alone. The average restaurant loses $100K+ a year to missed calls and slow email replies. At our current pricing, that's a $10B+ market opportunity, and we're the only system that handles the call, the email, and the table allocation in one place.",
     "one_liner": "AI Reservation System for Restaurants ",
-    "team_size": 5,
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1776156708,
@@ -61947,7 +62036,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6fb7711e26bf57516e7dcfa35cfadeb5d98b5b2.png",
     "website": "https://pango.ai/",
-    "all_locations": "New York City, NY, USA",
+    "all_locations": "Stockholm, Stockholm County, Sweden",
     "long_description": "Pango is a platform for e-commerce companies to use natural language to build agents and automate their logistics operations like delivery and returns.",
     "one_liner": "Agentic OS for e-commerce operations",
     "team_size": 5,
@@ -61971,8 +62060,8 @@
       "Retail"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "Sweden",
+      "Europe",
       "Remote",
       "Partly Remote"
     ],
@@ -63149,6 +63238,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/provenmetal.json"
   },
   {
+    "id": 33019,
+    "name": "Agnost AI",
+    "slug": "agnost-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e1595f92ea75b1f367addedb5703852b1c7efded.png",
+    "website": "https://agnost.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Agnost AI monitors AI agents in production: chat agents, voice agents, copilots and MCP servers.\r\n\r\nIt reads every conversation and OpenTelemetry trace, groups them by user and session, and catches what dashboards miss: wrong answers that look like success, frustrated users, broken tool calls.\r\n\r\nTeams write evals/checks in plain language; Agnost judges every production conversation and alerts in Slack. When something fails, Auto Improve opens a pull request with a fix tested against past runs. Works with all agents framework.\r\n\r\nFor high-volume workflows, we also fine-tune specialized models on a customer's own traces.",
+    "one_liner": "We find where AI agents fail, then train better models to run them",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1783481375,
+    "tags": [
+      "Developer Tools",
+      "Machine Learning",
+      "Analytics",
+      "Monitoring",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "Tyler",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/agnost-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/agnost-ai.json"
+  },
+  {
     "id": 33048,
     "name": "Pennant",
     "slug": "pennant",
@@ -63409,7 +63542,7 @@
     "name": "HillStar",
     "slug": "hillstar",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/86638f711e7120765749c6eed494d61cbab74bfc.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc161aff0343dabb814fdae973487ff3050d64e6.png",
     "website": "https://hillstar.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "HillStar helps utilities buy power. Electricity demand is surging, and regulated utilities are still mostly responsible for meeting it. Each power solicitation is a multi-decade, billion-dollar decision that takes years, involves 50+ people, and forces hard trade-offs across regulation, permitting, engineering, and economics. HillStar runs that process. In January, we're launching a 2 GW solicitation for a top-five U.S. utility, open to hundreds of power developers.",
@@ -63808,7 +63941,7 @@
     "website": "https://inflection-space.com/",
     "all_locations": "Los Angeles, CA, USA",
     "long_description": "Inflection is building the industrial capacity to manufacture tens of thousands of spacecraft per year for next generation commercial and government space applications. Imagine a factory that looks like an Amazon fulfillment center instead of a NASA clean room.",
-    "one_liner": "Hyperscaling space manufacturing",
+    "one_liner": "Mass Manufacturing Satellites",
     "team_size": null,
     "industry": "Industrials",
     "subindustry": "Industrials -> Aviation and Space",
