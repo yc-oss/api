@@ -1634,7 +1634,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/361f4cc73d27e788a8d1f92355ba04c3d71218ee.png",
     "website": "https://www.runanywhere.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Inference research at the frontier. We make frontier open models faster and cheaper on Wally.\r\n\r\nWe're RunAnywhere (YC W26). You can use frontier open models like GLM-5.3-Flash, DeepSeek V4.1 Flash, Kimi K3 and MiniMax M3 on Wally today. Wally has an OpenAI-compatible API and the wally CLI, with zero data retention by default, and it works with OpenCode, Claude Code, Codex, Hermes and Cline. Tell your agent: set up https://runanywhere.ai/SKILL.md\r\n\r\nOur engineers and AI agents build the kernels and the serving stack for each chip. For AWS Trainium, trnRT is our open-source (Apache-2.0) LLM inference engine; Aman Swar and Sanchit Monga's post covers serving GLM-5.3-Flash on one Trainium2 box: https://runanywhere.ai/blog/glm-5-3-flash-trainium2-nki-megakernels\r\n\r\nFor on-device AI, the open-source RunAnywhere SDKs share a C++ core across Swift, Kotlin, React Native, Flutter, TypeScript and C++.\r\n\r\nWe publish how we measured each result. Happy to help any YC founder running coding agents, long-context workloads or on-device models.",
+    "long_description": "Inference research at the frontier. We make frontier open models faster and cheaper on Wally.\r\n\r\nWe're RunAnywhere. You can use frontier open models like GLM-5.3-Flash, DeepSeek V4.1 Flash, Kimi K3 and MiniMax M3 on Wally today. Wally has an OpenAI-compatible API and the wally CLI, with zero data retention by default, and it works with OpenCode, Claude Code, Codex, Hermes and Cline. Tell your agent: set up https://runanywhere.ai/SKILL.md\r\n\r\nOur engineers and AI agents build the kernels and the serving stack for each chip. For AWS Trainium, trnRT is our open-source (Apache-2.0) LLM inference engine; Aman Swar and Sanchit Monga's post covers serving GLM-5.3-Flash on one Trainium2 box: https://runanywhere.ai/blog/glm-5-3-flash-trainium2-nki-megakernels\r\n\r\nFor on-device AI, the open-source RunAnywhere SDKs share a C++ core across Swift, Kotlin, React Native, Flutter, TypeScript and C++.\r\n\r\nWe publish how we measured each result. Happy to help any YC founder running coding agents, long-context workloads or on-device models.",
     "one_liner": "Inference research at the frontier. Faster, cheaper frontier models…",
     "team_size": 5,
     "industry": "B2B",
@@ -2684,13 +2684,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/74c9b33dec39ae88db50c30496502959820c2018.png",
     "website": "https://21st.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "21st.dev is the largest React component registry for AI applications, used by 2M developers \r\nWe provide the building blocks to create agent-powered apps: UI components, agent templates.",
-    "one_liner": "UI building blocks for the agentic internet",
-    "team_size": 3,
+    "long_description": "21st.dev is the largest React component registry for AI applications, used by 5M developers \r\nWe provide the building blocks to create agent-powered apps: UI components",
+    "one_liner": "Inspiration layer for software.",
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1765422527,
-    "tags": [],
+    "tags": [
+      "Design Tools",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -2703,9 +2706,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "partners": "Ankit",
@@ -7199,18 +7200,19 @@
   },
   {
     "id": 31274,
-    "name": "Khotan (formerly Pollinate)",
+    "name": "Khotan",
     "slug": "khotan",
     "former_names": [
       "Polinate",
       "Pollinate",
-      "Khotan"
+      "Khotan",
+      "Khotan (formerly Pollinate)"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b23ce152528185e61986e56941165e5686edcb24.png",
     "website": "https://www.khotan.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Khotan is the platform for forward-deployed engineers to rebuild operations as software and maintain them. It combines your context with the infrastructure harnesses need to deploy, share, and maintain each application.\r\n\r\nAcross procurement, supply chain, finance, and operations, we’ve rebuilt the systems businesses cannot afford to get wrong.\r\n\r\nLearn more at khotan.com",
-    "one_liner": "FDE as a platform for rebuilding critical operations in software.",
+    "one_liner": "System integration as a platform",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",

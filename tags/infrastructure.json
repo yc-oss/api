@@ -1236,7 +1236,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b96fdc50d7076ac83595fe19f86409c50f7819d.png",
     "website": "https://unify.ai",
     "all_locations": "London, England, United Kingdom; Remote",
-    "long_description": "Building the next frontier of models that continually learn from a stream of experience.",
+    "long_description": "Continual learning for AI teams. Every user interaction trains the model driving your agent: quality keeps climbing, latency and cost keep falling, and you own the flywheel.",
     "one_liner": "Models that keep learning",
     "team_size": 3,
     "industry": "B2B",
@@ -4993,7 +4993,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/361f4cc73d27e788a8d1f92355ba04c3d71218ee.png",
     "website": "https://www.runanywhere.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Inference research at the frontier. We make frontier open models faster and cheaper on Wally.\r\n\r\nWe're RunAnywhere (YC W26). You can use frontier open models like GLM-5.3-Flash, DeepSeek V4.1 Flash, Kimi K3 and MiniMax M3 on Wally today. Wally has an OpenAI-compatible API and the wally CLI, with zero data retention by default, and it works with OpenCode, Claude Code, Codex, Hermes and Cline. Tell your agent: set up https://runanywhere.ai/SKILL.md\r\n\r\nOur engineers and AI agents build the kernels and the serving stack for each chip. For AWS Trainium, trnRT is our open-source (Apache-2.0) LLM inference engine; Aman Swar and Sanchit Monga's post covers serving GLM-5.3-Flash on one Trainium2 box: https://runanywhere.ai/blog/glm-5-3-flash-trainium2-nki-megakernels\r\n\r\nFor on-device AI, the open-source RunAnywhere SDKs share a C++ core across Swift, Kotlin, React Native, Flutter, TypeScript and C++.\r\n\r\nWe publish how we measured each result. Happy to help any YC founder running coding agents, long-context workloads or on-device models.",
+    "long_description": "Inference research at the frontier. We make frontier open models faster and cheaper on Wally.\r\n\r\nWe're RunAnywhere. You can use frontier open models like GLM-5.3-Flash, DeepSeek V4.1 Flash, Kimi K3 and MiniMax M3 on Wally today. Wally has an OpenAI-compatible API and the wally CLI, with zero data retention by default, and it works with OpenCode, Claude Code, Codex, Hermes and Cline. Tell your agent: set up https://runanywhere.ai/SKILL.md\r\n\r\nOur engineers and AI agents build the kernels and the serving stack for each chip. For AWS Trainium, trnRT is our open-source (Apache-2.0) LLM inference engine; Aman Swar and Sanchit Monga's post covers serving GLM-5.3-Flash on one Trainium2 box: https://runanywhere.ai/blog/glm-5-3-flash-trainium2-nki-megakernels\r\n\r\nFor on-device AI, the open-source RunAnywhere SDKs share a C++ core across Swift, Kotlin, React Native, Flutter, TypeScript and C++.\r\n\r\nWe publish how we measured each result. Happy to help any YC founder running coding agents, long-context workloads or on-device models.",
     "one_liner": "Inference research at the frontier. Faster, cheaper frontier models…",
     "team_size": 5,
     "industry": "B2B",
@@ -6812,7 +6812,7 @@
     "website": "https://stacktrace.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Agents will do most of the work in the future, but only if teams can trust them unsupervised.\r\nStacktrace is the control layer for every agent: it sees every action, detects risky behavior, enforces the bounds your team sets, and steps in when an agent drifts from intent.",
-    "one_liner": "Give agents autonomy without losing control",
+    "one_liner": "Control layer for AI agents",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -7114,7 +7114,7 @@
     "website": "https://dreamscalelabs.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Dreamscale Labs is building the fastest cloud inference platform for robotics. As complex physical AI models become difficult to fit on expensive on-robot GPUs, we let users offload inference to the cloud and serve them with real-time latency. So far, we've hit 40-50% lower latency than existing neoclouds.\r\n",
-    "one_liner": "Cloud inference and training infrastructure for robotics.",
+    "one_liner": "Cloud inference for robotics",
     "team_size": 4,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -7146,6 +7146,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dreamscale-labs",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/dreamscale-labs.json"
+  },
+  {
+    "id": 36347,
+    "name": "Latent",
+    "slug": "trylatent",
+    "former_names": [
+      "latent"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/29af59683c6352485b064baa197eec3355186fcd.png",
+    "website": "http://runlatent.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Latent automates post-training for LLMs. It reads signals inside a model as it works and labels every answer and agent step in milliseconds, so teams improve their models on their own production traffic instead of paying for human labeling.\r\n\r\nThe same signal works in real time. Latent lets an output through, holds it, re-asks a stronger model, or sends it to review with the reason attached. Reading the model is over 660x cheaper than running an LLM judge, so it can check everything. One voice AI company using Latent finds 98% of its agent’s failures by reviewing only the riskiest 43% of answers, and in testing Latent stopped 99% of rule-breaking agents before they acted, against 69% for a frontier LLM judge.\r\n\r\nIt works with self-hosted and API models like GPT, Claude, and Gemini, runs hosted or fully in your own cloud, and installs with one line of code.",
+    "one_liner": "Automated post-training for LLMs",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1791243197,
+    "tags": [
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "Harj",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/trylatent",
+    "api": "https://yc-oss.github.io/api/batches/fall-2026/trylatent.json"
   },
   {
     "id": 36513,
