@@ -14231,7 +14231,7 @@
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "With our API any company that holds consumer deposits (e.g. savings apps) can easily embed professionally managed investment accounts into their services.",
     "one_liner": "API that lets companies embed investment accounts into their services",
-    "team_size": 25,
+    "team_size": 70,
     "industry": "B2B",
     "subindustry": "B2B -> Retail",
     "launched_at": 1597788333,
@@ -27560,6 +27560,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/flair-labs",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/flair-labs.json"
+  },
+  {
+    "id": 26863,
+    "name": "Provision",
+    "slug": "provision",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/385a0231f7ab5d980e79ffdfbfa16bc2183b283d.png",
+    "website": "https://provision.com",
+    "all_locations": "Toronto, ON, Canada",
+    "long_description": "Provision is building the AI Estimator for construction. We identify risks and obligations in contracts, specs, and drawings so contractors can reduce time spent reviewing documents and focus on winning and delivering projects profitably. Backed by Y Combinator (S22).",
+    "one_liner": "Ironclad for construction",
+    "team_size": 19,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1653315975,
+    "tags": [
+      "Documents",
+      "Machine Learning",
+      "Construction",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "Canada",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "Gustaf",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/provision",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/provision.json"
   },
   {
     "id": 26870,
@@ -43372,17 +43416,18 @@
     "name": "Dataleap",
     "slug": "dataleap",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/faee29cbea32c379ce896ec9fb7d1788061afc21.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dfab21abb5c1401c71d98a78052c17a7d96fad05.png",
     "website": "https://dataleap.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "At Dataleap we have one single focus - make knowledge work at your computer fun! Give all the other roles in sales, ops, hr the same super powers that engineers get with Cursor and Claude Code. \r\n\r\nDataleap is the agentic operating system for the Enterprise. We enable business teams to automate they work without any help from engineering. No visual workflow builder, no hour long setup or steep learning curve in n8n. Build your AI coworkers in minutes with a fully agent first interface. \r\n",
-    "one_liner": "AI Employees for the Enterprise",
-    "team_size": 6,
+    "long_description": "In a few years, agents will do most of the work in a company, and software will fade into the database underneath. Every employee becomes an agent manager: setting the goal, making the decisions that matter, and steering systems that run around the clock.\n\nDataleap is the open platform where companies build those agentic systems. Instead of waiting on engineering or stitching together chat windows, teams in sales, operations, finance and HR build systems that run whole processes from start to finish: agents doing the work, a custom app as the cockpit where humans step in, and shared data underneath. Any model, any tool. IT governs all of it from one place with budgets, granular permissions, and a full record of every tool call.\n\nWe're a small team in San Francisco and Munich, and our deployment strategists work on site with customers until their teams build without us. Starting from our German roots, leading European scale-ups like EGYM, sennder and CarOnSale already run core parts of their business on Dataleap.",
+    "one_liner": "Build agentic systems that run your business",
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1722218933,
     "tags": [
       "Generative AI",
+      "Workflow Automation",
       "Enterprise Software",
       "AI"
     ],
@@ -55947,7 +55992,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
     "one_liner": "The autonomous business platform",
-    "team_size": 3,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1762394891,
@@ -56823,49 +56868,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/prescience-inc",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/prescience-inc.json"
-  },
-  {
-    "id": 31088,
-    "name": "RunAnywhere",
-    "slug": "runanywhere",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/361f4cc73d27e788a8d1f92355ba04c3d71218ee.png",
-    "website": "https://www.runanywhere.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Inference research at the frontier. We make frontier open models faster and cheaper on Wally.\r\n\r\nWe're RunAnywhere. You can use frontier open models like GLM-5.3-Flash, DeepSeek V4.1 Flash, Kimi K3 and MiniMax M3 on Wally today. Wally has an OpenAI-compatible API and the wally CLI, with zero data retention by default, and it works with OpenCode, Claude Code, Codex, Hermes and Cline. Tell your agent: set up https://runanywhere.ai/SKILL.md\r\n\r\nOur engineers and AI agents build the kernels and the serving stack for each chip. For AWS Trainium, trnRT is our open-source (Apache-2.0) LLM inference engine; Aman Swar and Sanchit Monga's post covers serving GLM-5.3-Flash on one Trainium2 box: https://runanywhere.ai/blog/glm-5-3-flash-trainium2-nki-megakernels\r\n\r\nFor on-device AI, the open-source RunAnywhere SDKs share a C++ core across Swift, Kotlin, React Native, Flutter, TypeScript and C++.\r\n\r\nWe publish how we measured each result. Happy to help any YC founder running coding agents, long-context workloads or on-device models.",
-    "one_liner": "Inference research at the frontier. Faster, cheaper frontier models…",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1767296079,
-    "tags": [
-      "Developer Tools",
-      "Open Source",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "partners": "Diana",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/runanywhere",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/runanywhere.json"
   },
   {
     "id": 31089,
@@ -61902,46 +61904,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/edgerun.json"
   },
   {
-    "id": 31584,
-    "name": "CONUS",
-    "slug": "conus",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8edd99606159933b27bd8c7f3992e7ad9e5b4dea.png",
-    "website": "https://www.conus-med.com",
-    "all_locations": "Cologne, NRW, Germany",
-    "long_description": "CONUS structures fragmented medical device information for surgeons. We combine manufacturer documentation, hospital protocols and medical research in one place, giving surgeons and MedTech teams reliable answers across products and procedures through search and source-backed AI.\r\n\r\nWe already work with 25 leading manufacturers including Johnson & Johnson, Stryker and Zimmer Biomet, and since launching six months ago we’re already being used in 86 hospitals, with 34 fully ramped.\r\n\r\nLong term, hospitals will use CONUS to source and order surgical devices across manufacturers.",
-    "one_liner": "Medical Device Platform for Hospitals",
-    "team_size": 3,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1790675017,
-    "tags": [
-      "Healthcare",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2026",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "Germany",
-      "Europe"
-    ],
-    "stage": "Early",
-    "partners": "Grey",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/conus",
-    "api": "https://yc-oss.github.io/api/batches/fall-2026/conus.json"
-  },
-  {
     "id": 31858,
     "name": "Torus",
     "slug": "torus",
@@ -64720,7 +64682,7 @@
     "website": "https://www.gatherhq.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Gather's AI agent for enterprise GTM continually interviews real buyers and turns those conversations into content that drives pipeline and simulations that predict customer behavior.\r\n\r\nMore than 65 enterprise marketing teams, including Envoy, Eclypsium, Cover Genius, Fortinet, CoStar, Bagel Brands, and Family Express, use Gather to create original, on-brand, third-party validated thought leadership, reports, ebooks, and campaign content.\r\n\r\nThat customer understanding compounds with every interview. Our models draw on quantitative, qualitative, and voice data from over 300,000 real interviews across customers, with thousands added monthly. Teams can simulate how buyers will respond to messaging, pricing, and market shifts, with supporting evidence and a confidence level behind every answer. When confidence is low, Gather automatically runs new research.\r\n\r\nWe’re starting by replacing research firms and content agencies. We’re building the intelligence enterprises and their agents need to understand and serve customers, whether human or AI.\r\n\r\nBuilt by the team that created Cooliris (acquired by Yahoo) and Pulse (acquired by Gartner), and ran Gartner Peer Insights.",
-    "one_liner": "Applied AI for Enterprise GTM (3x founders, 10x growth, backed by ANT)",
+    "one_liner": "Applied AI for Enterprise GTM (3x founders, 3x exits)",
     "team_size": 9,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
@@ -64755,5 +64717,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/gatherhq",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/gatherhq.json"
+  },
+  {
+    "id": 42985,
+    "name": "Render",
+    "slug": "render",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4e40c637b8c74ad618e6ab8eb9ef3c1123cc0395.png",
+    "website": "https://tryrender.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Render is an AI CMO that runs a company's entire marketing. Owners set a budget, and Render does the rest.\r\n\r\nWe're at $1.7M ARR, growing 100% month over month, with 1,000+ paying businesses.\r\n\r\nOwners tell Render what they sell and set a budget. Render decides where to advertise, makes the ads, and keeps moving the money to whatever brings in customers, across Meta, Google, YouTube ads, direct mail, TV, etc. Most businesses can't afford a marketing team, and agencies charge thousands a month to run just one or two channels. Render runs all of them for a fraction of the price.",
+    "one_liner": "AI CMO that puts marketing on autopilot",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1794516928,
+    "tags": [
+      "B2B",
+      "Marketing",
+      "Advertising",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2027",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "partners": "Ankit",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/render",
+    "api": "https://yc-oss.github.io/api/batches/winter-2027/render.json"
   }
 ]

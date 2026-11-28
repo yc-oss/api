@@ -1,144 +1,132 @@
-# YC company changes for 2026-11-27
+# YC company changes for 2026-11-28
 
 - Previous total: 6409
-- Current total: 6409
+- Current total: 6408
 - Added: 0
-- Removed: 0
-- Updated: 30
+- Removed: 1
+- Updated: 25
+
+## Removed companies
+
+- [Incandor](https://www.ycombinator.com/companies/incandor) (Spring 2026 — Incandor is building the next generation of security for a world run…)
 
 ## Updated companies
 
-### [Embrace](https://www.ycombinator.com/companies/embrace)
+### [SkydropX](https://www.ycombinator.com/companies/skydropx)
 
-- `long_description`: *S19 and YCG F21* Engineering teams shouldn’t be in the dark when it comes to the performance of their web and mobile apps and user experiences. With our ind... → *S19 and YCG F21* **Acquired by Palo Alto Networks** Engineering teams shouldn’t be in the dark when it comes to the performance of their web and mobile apps...
+- `partners`: Unspecified → Brad
 - `stage`: Growth → Early
 
-### [Lume](https://www.ycombinator.com/companies/lume)
-
-- `long_description`: Lume was a banking app for nurses with earned wage access, student loan refinancing, and travel nurse jobs. Acquired by Vivian Health (an NYSE: IAC company) ... → Lume is the banking platform purpose-built for healthcare professionals. We offer earned wage access, student loan refinancing, and a career marketplace to h...
-- `one_liner`:  → Banking platform purpose-built for healthcare professionals.
-- `tags`: ["Healthcare"] → ["Fintech","Healthcare"]
-
-### [Unify](https://www.ycombinator.com/companies/unify)
-
-- `long_description`: Building the next frontier of models that continually learn from a stream of experience. → Continual learning for AI teams. Every user interaction trains the model driving your agent: quality keeps climbing, latency and cost keep falling, and you o...
-
-### [Dill](https://www.ycombinator.com/companies/dill)
-
-- `long_description`: Dill helps construction suppliers automate accounts receivable, online payments, and credit applications. → Dill is the leading credit-to-cash platform purpose-built for construction suppliers, including plumbing, HVAC, electrical, industrial, and building material...
-- `one_liner`: Dill helps construction suppliers automate accounts receivable,… → Dill is the leading credit-to-cash platform for construction…
-
-### [Cognitio Labs](https://www.ycombinator.com/companies/cognitio-labs)
-
-- `long_description`: CoAsync by Cognitio Labs is the AI back office for product quality compliance teams. We help mission-critical food manufacturers automate repetitive, documen... → CoAsync by Cognitio Labs is the AI back office for product quality compliance teams. We help mission-critical food manufacturers automate repetitive, documen...
-
-### [Toma](https://www.ycombinator.com/companies/toma)
+### [Embrace](https://www.ycombinator.com/companies/embrace)
 
 - `stage`: Early → Growth
 
-### [ProhostAI](https://www.ycombinator.com/companies/prohostai)
+### [Atomic](https://www.ycombinator.com/companies/atomic)
 
-- `isHiring`: true → false
+- `team_size`: 25 → 70
 
-### [Loombotic](https://www.ycombinator.com/companies/loombotic)
+### [Provision](https://www.ycombinator.com/companies/provision)
 
-- `all_locations`: Toronto, ON, Canada → Austin, TX, USA
-- `regions`: ["Canada","America / Canada"] → ["United States of America","America / Canada"]
+- `isHiring`: false → true
 
-### [ProcIndex](https://www.ycombinator.com/companies/procindex)
+### [Dataleap](https://www.ycombinator.com/companies/dataleap)
 
-- `long_description`: ProcIndex gives construction and manufacturing finance teams an AI accounting team that works inside the ERP they already run, including CMiC, Sage 100 Contr... → ProcIndex gives construction and manufacturing finance teams an AI accounting team that works inside the ERP they already run, including CMiC, Sage 100 Contr...
+- `long_description`: At Dataleap we have one single focus - make knowledge work at your computer fun! Give all the other roles in sales, ops, hr the same super powers that engine... → In a few years, agents will do most of the work in a company, and software will fade into the database underneath. Every employee becomes an agent manager: s...
+- `one_liner`: AI Employees for the Enterprise → Build agentic systems that run your business
+- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/faee29cbea32c379ce896ec9fb7d1788061afc21.png → https://bookface-images.s3.amazonaws.com/small_logos/dfab21abb5c1401c71d98a78052c17a7d96fad05.png
+- `tags`: ["Generative AI","Enterprise Software","AI"] → ["Generative AI","Workflow Automation","Enterprise Software","AI"]
+- `team_size`: 6 → 7
 
-### [Nox Metals](https://www.ycombinator.com/companies/nox-metals)
+### [Cuckoo Labs](https://www.ycombinator.com/companies/cuckoo-labs)
 
-- `team_size`: 64 → 73
+- `long_description`: Cuckoo is a real-time AI translator for global sales, marketing, and support. Companies like Snowflake and PagerDuty use Cuckoo in Zoom and in-person meeting... → Cuckoo is a real-time AI translator for global sales and marketing. Companies like Snowflake, Cognition, and PagerDuty use Cuckoo in Zoom and in-person meeti...
 
-### [Compyle](https://www.ycombinator.com/companies/compyle)
+### [MadeThis](https://www.ycombinator.com/companies/madethis)
 
-- `team_size`: 2 → 3
+- `team_size`: 3 → 6
+
+### [The Hog](https://www.ycombinator.com/companies/the-hog)
+
+- `long_description`: One API to search, enrich, and monitor the web. An agent is only as good as the data it runs on. Most agents and GTM tools today are stuck pulling stale, fra... → HonestBot (honestbot.com) is an evaluation engine and trust layer for AI agents and the people who use them. It is run by TheHog, Inc., which started as The ...
 
 ### [RunAnywhere](https://www.ycombinator.com/companies/runanywhere)
 
-- `long_description`: Inference research at the frontier. We make frontier open models faster and cheaper on Wally. We're RunAnywhere (YC W26). You can use frontier open models li... → Inference research at the frontier. We make frontier open models faster and cheaper on Wally. We're RunAnywhere. You can use frontier open models like GLM-5....
+- `isHiring`: true → false
+- `long_description`: Inference research at the frontier. We make frontier open models faster and cheaper on Wally. We're RunAnywhere. You can use frontier open models like GLM-5.... → RunAnywhere does inference research at the frontier. We make frontier open models faster and cheaper to run, and serve them through Wally. We write the kerne...
 
-### [21st](https://www.ycombinator.com/companies/21st)
+### [Carrot Labs](https://www.ycombinator.com/companies/carrot-labs)
 
-- `long_description`: 21st.dev is the largest React component registry for AI applications, used by 2M developers We provide the building blocks to create agent-powered apps: UI c... → 21st.dev is the largest React component registry for AI applications, used by 5M developers We provide the building blocks to create agent-powered apps: UI c...
-- `one_liner`: UI building blocks for the agentic internet → Inspiration layer for software.
-- `regions`: ["United States of America","America / Canada","Remote","Partly Remote"] → ["United States of America","America / Canada"]
-- `tags`: [] → ["Design Tools","AI"]
-- `team_size`: 3 → 4
+- `long_description`: The problem: AI has quietly become one of the largest and fastest-growing line items for companies. Spend is scattered across a dozen provider consoles that ... → Your product runs the same AI workflows over and over, such as a support answer or a coding agent session. Each run makes several model calls, and some of th...
+- `one_liner`: AI Cost Management: Track and attribute AI spend across every provider → Cost optimization for AI products and coding agents
 
-### [Khotan](https://www.ycombinator.com/companies/khotan)
+### [GodHands](https://www.ycombinator.com/companies/godhands)
 
-- `former_names`: ["Polinate","Pollinate","Khotan"] → ["Polinate","Pollinate","Khotan","Khotan (formerly Pollinate)"]
-- `name`: Khotan (formerly Pollinate) → Khotan
-- `one_liner`: FDE as a platform for rebuilding critical operations in software. → System integration as a platform
+- `long_description`: Analysts keep working real cases in the tools they already use. GodHands learns each decision and the reason behind it, then builds agents that work the next... → Analysts keep working real cases in the tools they already use. GodHands learns each decision and the reason behind it, then builds agents that work the next...
+- `one_liner`: Fraud, risk and compliance agents that learn by watching analysts → Agents that automate operations by watching employees
 
 ### [tday.com](https://www.ycombinator.com/companies/tdaycom)
 
-- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/85a92c541f01d7059df3fe28c61f328474eafa10.png → https://bookface-images.s3.amazonaws.com/small_logos/793984033ae859bfae87f28aee6b98684bc0ce39.png
+- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/793984033ae859bfae87f28aee6b98684bc0ce39.png → https://bookface-images.s3.amazonaws.com/small_logos/33e0000312a01c1b5744e49712c9463c89932ac4.png
 
-### [Glen](https://www.ycombinator.com/companies/glen)
+### [Collar](https://www.ycombinator.com/companies/collar)
 
-- `team_size`: 1 → 4
+- `long_description`: Collar is helping enterprises fundraise faster. Traction in just 2 months: $1.4M deals pending compliance, half are Fortune 1000 >30 clients including Fortun... → Traction in just 2 months: $372K anualized revenue >30 clients including Fortune 500, NYSE and NASDAQ-listed companies. 6X month over month revenue growth ac...
 
-### [Agentcard](https://www.ycombinator.com/companies/agentcard)
+### [CONUS](https://www.ycombinator.com/companies/conus)
 
-- `isHiring`: false → true
+- `isHiring`: true → false
+- `long_description`: CONUS structures fragmented medical device information for surgeons. We combine manufacturer documentation, hospital protocols and medical research in one pl... → CONUS structures fragmented medical device information for surgeons. We combine manufacturer documentation, hospital protocols and medical research in one pl...
 
-### [Axelrod](https://www.ycombinator.com/companies/axelrod)
+### [isoquant](https://www.ycombinator.com/companies/isoquant)
 
-- `team_size`: 2 → 3
+- `one_liner`: Recursively self-improving inference cloud for 4x faster AI models → Recursive self-improvement for 100x more efficient AI inference
+- `tags`: ["AIOps","Cloud Computing","AI"] → ["AIOps","Developer Tools","Cloud Computing","AI"]
 
-### [Stacktrace](https://www.ycombinator.com/companies/stacktrace)
+### [Viraj Aero](https://www.ycombinator.com/companies/viraj-aero)
 
-- `one_liner`: Give agents autonomy without losing control → Control layer for AI agents
+- `one_liner`: Next generation gas turbines for data centers & aviation → Gas turbines for data-centers
 
-### [Rhem Labs](https://www.ycombinator.com/companies/rhem-labs)
+### [Quivly AI](https://www.ycombinator.com/companies/quivly-ai)
 
-- `long_description`: Rhem Labs builds smart home care devices that help older adults and people with complex care needs live independently. → Rhem Labs builds care robots that help older adults and people with complex care needs live independently.
-- `one_liner`:  → Robots that care for humans
+- `long_description`: Quivly is the agentic workspace for everything after the sale. Our agents turn kickoff calls into launch plans, chase blockers, catch risk and expansion sign... → Quivly agents speed up implementation, drive product adoption and expansions from customers after you close the deal. Our agents turn kickoff calls into laun...
+- `one_liner`: AI agents that run onboarding, adoption, and renewals → AI agents that grow revenue from existing customers
 
-### [Talos](https://www.ycombinator.com/companies/talos-us)
+### [Avout](https://www.ycombinator.com/companies/avout)
 
-- `long_description`: At Talos, we are building better, more modern predictive maintenance for the power industry with a focus on large transformers. Our devices continuously moni... → Talos builds an early-warning system for power grid and utility infrastructure by putting retrofittable sensors on critical equipment to detect catastrophic ...
-- `one_liner`: Predictive maintenance for power infrastructure. → Predictive maintenance for critical grid infrastructure.
+- `all_locations`: San Francisco, CA, USA → New York City, NY, USA
+- `industries`: ["Fintech","Credit and Lending"] → ["Fintech"]
+- `long_description`: Avout finances equipment for physical AI companies, starting with robot fleets, then data centers and data receivables. Hardware startups pay for machines wi... → Avout finances equipment for physical AI companies, starting with robot fleets, data centers, and data receivables. Hardware startups pay for machines with v...
+- `one_liner`: Financing for robots and the physical AI buildout → Financing the physical buildout of the American frontier
+- `subindustry`: Fintech -> Credit and Lending → Fintech
+- `tags`: ["Fintech","Finance","Lending","Neobank"] → ["Fintech","Hard Tech","Hardware","Data Science","Lending"]
 
-### [Oasive](https://www.ycombinator.com/companies/oasive)
+### [Covera](https://www.ycombinator.com/companies/covera)
 
-- `long_description`: Oasive is an AI research platform that helps municipal bond investors decide which bonds to buy. Before a fund buys a bond from a city, school district, hosp... → Oasive is an AI research platform that helps municipal bond investors decide which bonds to buy. Before a fund buys a bond from a city, school district, hosp...
-- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/bc57ec29fb0414ace78c3d3c1e5d7acfef9c0c5c.png → https://bookface-images.s3.amazonaws.com/small_logos/ac114979edbb200c6b7991471252c4bce1a9194c.png
+- `long_description`: Insurance is one of the last big industries still running on manual work. Trillions in premium flow through brokers who still have to key the same data into ... → Covera is the AI quoting system for insurance brokers. We started 4 months ago and have already reached $641K ARR, growing 30% week over week. We work with 9...
 
-### [Deploy](https://www.ycombinator.com/companies/deploy)
+### [Axonnic](https://www.ycombinator.com/companies/axonnic)
 
-- `tags`: ["Robotics"] → ["Robotic Process Automation","Robotics","B2B","AI","Industrial"]
+- `long_description`: Axonnic is building the missing data layer for dexterous robotics. Our wearable EMG technology captures human intent, effort and force directly from muscle a... → Axonnic captures human intent, effort and force directly from muscle activity as people demonstrate physical tasks. By revealing the physical signals that vi...
+- `one_liner`: Creating human skill at robot scale → Human-AI symbiosis
 
-### [Hemlock](https://www.ycombinator.com/companies/hemlock)
+### [Theseus Robotics](https://www.ycombinator.com/companies/theseus-robotics)
 
-- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/9593981f6acf78f7e8d4417ca9346aed3d279da4.png → https://bookface-images.s3.amazonaws.com/small_logos/99e342259dedba4c5ce9914f48ea662dd73b32f1.png
+- `all_locations`: ZH, Switzerland → San Francisco, CA, USA
+- `regions`: ["Switzerland","Europe"] → ["United States of America","America / Canada"]
 
-### [Dreamscale Labs](https://www.ycombinator.com/companies/dreamscale-labs)
+### [Ascenix](https://www.ycombinator.com/companies/ascenix)
 
-- `one_liner`: Cloud inference and training infrastructure for robotics. → Cloud inference for robotics
+- `one_liner`: Custom software for senior care facilities. → Agents to autonomously run senior homes
 
-### [Latent](https://www.ycombinator.com/companies/trylatent)
+### [Contour](https://www.ycombinator.com/companies/contourholdings)
 
-- `tags`: ["AI"] → ["Infrastructure","AI"]
+- `one_liner`: AI-native permitting for Data Centers → AI-native permitting for America's Infrastructure
 
-### [Verdun](https://www.ycombinator.com/companies/verdun)
+### [GatherHQ](https://www.ycombinator.com/companies/gatherhq)
 
-- `isHiring`: false → true
-
-### [Axiomat](https://www.ycombinator.com/companies/axiomat)
-
-- `small_logo_thumb_url`: https://bookface-images.s3.amazonaws.com/small_logos/73e5297e01ab55a8cd3d54127a27671c6d5e6934.png → https://bookface-images.s3.amazonaws.com/small_logos/055d5eb77fe15a90ba20297eccc4c483c285165a.png
-
-### [Decent](https://www.ycombinator.com/companies/decent-com)
-
-- `long_description`: Decent is a health insurance brokerage for small businesses. We compare every way to cover your team, show what each one costs, and then keep improving your ... → Decent is a health insurance brokerage for small businesses. We compare every way to cover your team, show what each one costs, and then keep improving your ...
+- `one_liner`: Applied AI for Enterprise GTM (3x founders, 10x growth, backed by ANT) → Applied AI for Enterprise GTM (3x founders, 3x exits)
 
 ### [Render](https://www.ycombinator.com/companies/render)
 
-- `team_size`: 1 → 3
+- `isHiring`: false → true
 
